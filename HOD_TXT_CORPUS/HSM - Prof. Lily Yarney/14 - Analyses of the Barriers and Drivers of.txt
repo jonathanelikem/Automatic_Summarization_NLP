@@ -1,0 +1,2655 @@
+Literature Review
+
+Analyses of the Barriers and Drivers of
+Ghana’s COVID-19 Vaccination Program
+Using the 5A Taxonomy: A Scoping
+Review
+Herman Nuake Kofi Agboh1
+
+SAGE Open
+January-March 2025: 1–21
+Ó The Author(s) 2025
+DOI: 10.1177/21582440251323075
+journals.sagepub.com/home/sgo
+
+and Lily Yarney1
+
+Abstract
+The review explored topical vaccination themes in literature to describe the barriers and drivers of effective COVID-19 vaccination in Ghana. We searched Scopus, Medline, Cinahl, and Google Scholar, covering papers published exclusively in Ghana
+between December 2019 and January 2023. Using predefined inclusion and exclusion criteria, 27 papers were included in the
+review. We adopted the 5As taxonomy to organize the papers into five dimensions, namely, Access, Affordability, Awareness,
+Acceptance, and Activation. Our analysis shows that Acceptance was the most frequently research theme (n = 23, 85.1%), followed by Awareness (n = 19, 70.4%), Activation (n = 14, 52%), Access (n = 7, 25.7%), and Affordability (n = 6, 22.2%). Further,
+we found awareness campaign messages to be largely concentrated in Accra, Kumasi and other hotspots. Further studies on
+vaccine financing, access and inclusion of individuals and families in information dissemination campaigns is highly
+recommended.
+
+Plain language summary
+Assessing the challenges and achievements of Ghana’s COVID-19 vaccination exercise and drawing
+insights for effective public health policies in Ghana.
+According to the World Health Organization, vaccination is the safest way to curb the spread of COVID-19. Yet, weak
+governance and health system infrastructures in low and middle-income countries, coupled with burdening
+socioeconomic effects of the pandemic, had crippled vaccine programs in LMICs. Accordingly, this national-level scoping
+review sets to understand the topical COVID-19 vaccination themes explored in literature, to identify the barriers and
+drivers of vaccination in Ghana. We searched Scopus, Medline, Cinahl, and Google Scholar, covering papers published
+exclusively in Ghana between December 2019 and January 2023. Using predefined inclusion and exclusion criteria, 27
+papers were included in the review. We adopted the 5As taxonomy to organize the papers into 5 dimensions: Access,
+Affordability, Awareness, Acceptance and Activation. Our analysis shows that Acceptance was the most frequently
+research theme (n = 23, 85.1%), followed by Awareness (n = 19, 70.4%), Activation (n = 14, 52%), Access (n = 7,
+25.7%), and Affordability (n = 6, 22.2%). Aside from the limited publications identified on cost and access, we found that
+albeit awareness campaign was widespread, the campaign messages were largely concentrated in Accra, Kumasi and
+other hotspots. Additionally, approaches required to engender peer-to-peer education toward vaccine uptake among
+Ghanaians was absent. Consequently, further studies on vaccine financing, vaccine access, and awareness creation
+through community leadership is highly recommended. The high concentration of records on Acceptance, Awareness
+
+1
+
+Department of Public Administration and Health Services Management, University of Ghana Business School, Accra, Ghana
+
+Corresponding Author:
+Herman Nuake Kofi Agboh, Department of Public Administration and Health Services Management, University of Ghana Business School, P. O. Box LG 78,
+Legon, Accra, Ghana.
+Email: hagboh@gmail.com
+
+Creative Commons CC BY: This article is distributed under the terms of the Creative Commons Attribution 4.0 License
+(https://creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of
+the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages
+(https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+2
+
+SAGE Open
+and Activation in this study indicates the need for government to pay attention to these areas to ensure effectiveness
+and efficiency in future vaccination exercises.
+
+Keywords
+COVID-19, vaccination, barriers, drivers, scoping
+
+Introduction
+By January 31, 2023, the world recorded 754,367,807
+COVID-19 infections, with over 6,825,461 deaths and
+millions of businesses lost (World Health Organization
+[WHO], 2023). The high fatality and hospitalization rates
+prompted the rapid development of vaccines to contain
+the virus (Dinleyici et al., 2021; WHO, 2021a).
+During the last quarter of 2020, various vaccines, such
+as Pfizer-BioNTech, Moderna, AstraZeneca, Sinovac,
+COVAX, and Johnson and Johnson, among others, were
+developed (WHO, 2021b). However, cost limited access to
+the vaccines, and countries’ vaccine procurement aligned
+with their financial capacity (Green and Loualiche, 2021).
+As of December 1, 2020, a jab of mRNA-1273 (Moderna)
+was selling for $37, Coronavac (Sinovac) for $30,
+BNT162b2 (Pfizer & BioNTech) for $20, Gam-COVIDVac Sputnik V at $10, JNJ-78436735 (Johnson & Johnson)
+for $10, and ChAdOx1 nCoV-2019 (AstraZeneca) for $4,
+among others (Statista, 2020, December 1). Estimates from
+December 2020 indicate that while direct purchase agreements allowed high-income countries to order close to$4
+billion worth COVID-19 vaccines, Low and MiddleIncome Countries (LMICs) could buy confirmed doses
+worth only$2.7 billion (Burgess et al., 2021). For instance,
+before their development, the United States had already
+ordered Pfizer vaccines worth $1.95 billion totaling 500 million doses, and an additional 300 million doses of Moderna
+COVID-19 vaccines (Ofori et al., 2023; U.S. Department
+of Health and Human Services, Public Health Emergency,
+2020).On the contrary, due to their limited financial capacity, LMICs relied heavily on the COVAX ACT
+Accelerator agreement which covered only 20% of their
+total vaccination needs (Burgess et al., 2021). Economic
+recessions during the pandemic and unprepared health systems in LMICs hindered the acquisition of vaccines resulting in low vaccination coverage in these countries (AfrifaAnane et al., 2022). For instance, while the United Arab
+Emirates and Portugal achieved over 90% COVID-19 vaccination coverage in 2022, Yemen, Haiti, and the
+Democratic Republic of Congo recorded below 2% (Lupu
+and Tiganasu, 2023).
+Ghana’s COVID-19 vaccination experience mirrored that of other LMICs (Yawson et al., 2017). The
+country has historically relied on donations to fulfill its
+vaccination needs. Between 2014 and 2019, for
+
+instance, Ghana received a total of USD $18,059,296
+from the GAVI Alliance (2019) in support of its immunization programs. Following a declining domestic
+health expenditure of 1.38% as a share of its Gross
+Domestic Product (GDP) in 2019, vaccine financing
+remained a significant drawback to Ghana’s COVID19 immunization efforts (Statista, 2023). The National
+Budgetary Statement on March 12, 2021, revealed a
+government revenue deficit of GH¢13.6 billion (USD
+$2,361,111,111), with unplanned expenditures around
+GH¢11.7 billion (USD $2,031,250,000) (where US$1.00
+= GH¢5.76) (Ministry of Finance [MoF], 2021).
+Furthermore, the Ministry of Finance’s March 2, 2021
+budget statement indicated a 4.9% shrink in the country’s economy since 2020 when the first COVID-19
+infection was recorded in the country (Bukari et al.,
+2021; MoF, 2021). Consequently, like many LMICs,
+Ghana pinned her hopes on donations for its COVID19 vaccination needs, and in 2021 became the first
+African country to receive COVAX vaccines (The
+United Nations Children’s Fund [UNICEF], 2021;
+WHO, 2021c). On February 24th, 2021, the President
+received 600,000 COVAX vaccines, aiming to eventually vaccinate 20 million Ghanaians (GAVI Alliance,
+2021; WHO, 2021c). However, facing insufficient supplies from GAVI due to the overwhelming impact of
+the Indian Delta Plus variant, the government of
+Ghana shifted attention to bilateral and multilateral
+donor support from Russia, China, European Union,
+African Union and the United States, among others, to
+meet its vaccination needs. By January 30, 2023,
+Ghana administered 23,226,767 vaccine doses to 40.8%
+of the country’s 31 million people, with around
+3,580,565 individuals receiving at least one booster
+dose (Ghana Health Service, 2023).
+Although many applauded the 40.8% vaccine coverage
+as an improvement over Africa’s continental average of
+15% (World Health Organization, 2022), it remained considerably low compared to richer countries like Palau
+(115.29%), Malta (108.40%), and Brunei (108.04%),
+among others, which recorded vaccination rates above the
+global average (John Hopkins University, 2023). Critics
+of Ghana’s vaccination coverage attributed the country’
+performance to many factors. According to Botwe et al.
+(2022), misconceptions of the adverse effects of vaccines
+on reproductive health, coupled with the unprepared
+
+Agboh and Yarney
+emergency response system of Ghana’s health system,
+were responsible for the low vaccine coverage (Lamptey
+et al., 2021). In addition, Forkuo et al. (2022), attributed
+Ghana’s ineffective vaccination efforts to misinformation
+(54.8%) about the vaccine’s efficacy. Out of 382 respondents investigated, about 47.98% believed that vaccines
+are dangerous (Forkuo et al., 2022), and another 23.98%
+thought it could worsen allergic reactions. Similarly,
+Awuni et al. (2022) observed that mistrust for vaccines
+had negatively influenced intentions to receive COVID-19
+vaccines in Ghana. Aside from misconception and mistrust, Afrifa-Anane et al. (2022) noted managerial lapses
+such as long queues at vaccination centers, misconception,
+and vaccines shortages undermining what could have been
+a smoother COVID-19 vaccination campaign in Ghana.
+To strengthen Ghana’s public health response system to
+effectively address potential disease outbreaks in the future,
+a critical analysis of the barriers and drivers of her COVID19 vaccination exercise using the 5A Taxonomy is timely.
+
+Thomson’s 5A Taxonomy
+The 5A model is a framework for diagnosing the determinants of vaccination coverage and implications for health
+policy in specific contexts (Thomson et al., 2016). The
+framework examines complex bio-psychosocial, organizational, and structural determinants of vaccine coverage
+under five dimensions: Access, Affordability, Awareness,
+Acceptability, and Activation. Access removes barriers to
+vaccination, enabling individuals to reach or be reached
+by vaccines. Affordability connotes the time and money
+expended by individuals to receive vaccines. Awareness
+measures people’s knowledge of vaccine benefits and
+risks. Acceptance assesses the willingness to receive vaccines. Finally, Activation explains the structural preparedness of health systems, and the regularity of reminders
+to individuals, families, and communities to vaccinate.
+The 5A taxonomy is widely adopted in literature. In
+Crawshaw et al. (2022), the model was used to describe
+vaccine uptake and hesitancy among migrant populations in Europe. Reviewing 67 records from 16 countries,
+the paper highlighted access and acceptance as key determinants of COVID-19 vaccine coverage. Similarly,
+Newman et al. (2022) used the 5A and 5C models to
+evaluate COVID-19 vaccine hesitancy among marginalized populations in the USA and Canada and observed
+that 5A has advantages in explaining structural hinderances to vaccine access, including location, time, cost,
+trust, individual attitude, health beliefs and contact with
+health systems, among others (Newman et al., 2022).
+In Africa, however, the adoption of 5A taxonomy in
+literature is scarce. A preliminary literature search on
+Google Scholar database over the past 10 years generated a total of three (3) papers (Kalu et al., 2022; Nyasa
+
+3
+et al., 2023; Thomson et al., 2016). Kalu et al. (2022)
+used 5A taxonomy to conduct a mapping review on
+COVID-19 vaccine uptake among adults in 33 countries
+in African countries. The finding of the review of 68
+papers found Acceptance to be a principal determinant
+of vaccination coverage, with minimal influence from
+Activation. They recommended further studies on the
+impact of activation. A few limitations were noted in the
+paper. Most notable was that the review was completed
+using articles published between 2020 and 2021, and at a
+time when COVID-19 vaccines were newly developed
+and deployed. In other words, since the greater part of
+COVID-19 vaccination occurred between late 2021 and
+2023, this constraint affected the number of empirical
+studies the review could generate on COVID-19 vaccination, and the comprehensiveness of the investigations. In
+Nyasa et al. (2023), the authors adopted the model to
+explain health workers’ reaction to hepatitis B vaccines
+in Zambia and found that although the vaccines were
+Affordable and Accessible to most of the research participants, Awareness of the vaccines was low. They saw
+the absence r late dissemination of regular notifications
+(Awareness) for vaccine update to be a major hinderance
+to Activation. Finally, in a narrative review on the determinants of vaccine uptake using the 5A taxonomy,
+Thomson et al. (2016) found all the five (5) dimensions
+to have a notable effect on vaccine uptake. However,
+they highlighted the significance of the location of vaccination centers, knowledge, perceived safety, past behavior, and the regularity of reminders as imperatives for
+vaccine uptake. Moreover, majority of African literature
+adopting the 5A taxonomy targeted multiple countries.
+This makes it difficult to estimate the actual immunization gaps in individual countries.
+In view of these, the review of empirical records on
+COVID-19 vaccination in specific African countries to
+inform public health policies is vital.
+
+Methods
+Levac et al. (2010) six steps framework for scoping
+review was employed for this review. These include identifying research questions and linking them to the
+research purpose; generating literature by comparing the
+study’s feasibility against its breadth and comprehensiveness; using iterative team approaches to screen selections
+and extract data; chart data to show the numerical summary and themes generated; collate, summarize and
+report the result; and as an optional step, consult to confirm the findings.
+
+Eligibility Criteria
+We searched for empirical records on COVID-19 vaccination in Ghana. Only studies conducted originally in the
+
+4
+
+Period (2021–2023)
+Concepts
+Keywords and phrases
+
+SAGE Open
+
+Population
+
+Intervention
+
+Comparator
+
+Outcome
+
+Ghana
+Service provider
+Service user
+Ghana health system
+Policy maker
+
+Vaccination
+All brands of COVID-19 vaccines
+All COVID-19 vaccination centers in Ghana
+
+Treatment as usual
+Treatment as usual
+
+5A Taxonomy
+Access
+Affordability
+Awareness
+Acceptability
+Activation
+
+Source. Authors’ conception.
+
+English language and published in peer-reviewed journals
+were selected. Again, quantitative, qualitative, and mixedmethod studies were considered. However, to meet the
+inclusion criteria, they must be empirical papers conducted
+between December 1st 2019 and 3rd January 2023.
+
+Search Strategy
+We followed the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (PRISMA)
+extension for Scoping Reviews (Tricco et al., 2018). As
+outlined in the standard Joanna Briggs Institute (JBI)
+systematic review method, we used the following step to
+search for papers. First, we performed a limited search
+in the Medline database. The articles we generated were
+analyzed in Microsoft ExcelÒ (version 2016) to identify
+keywords and index terms in the titles and abstracts. We
+then had a discussion on what to include in the final
+search terms. The outcome of this discussion was further
+discussed with a public health expert to validate the decision and advise us. Forward, we conducted a full search
+on the selected databases and used Mendeley Reference
+Manager (Version 1.19.8) and Microsoft ExcelÒ (2016)
+sheets to manage the articles generated. Consistent with
+Webster et al. (2017), we did not consider grey literature
+for this critical scoping review.
+After the review of preliminary literature and consultation with the public health expert, Scopus, Medline,
+Google Scholar, and Cinahl, databases were searched for
+relevant articles.
+
+PICO Framework
+The study adopted Thomson et al. (2016) definition of
+the dimensions of 5A taxonomy. Accordingly, Access
+indicates the removal of barriers to vaccination to ensure
+that every individual could reach or be reached by
+COVID-19 vaccines. Affordability denotes the time and
+money required by households and individuals to take
+up vaccines. We defined Awareness as the level of knowledge individuals have on the benefits and risks of vaccination. Activation is the readiness of health systems, and
+strategies adopted to engage individuals, families, and
+
+communities to vaccinate. Finally, Acceptance examines
+the willingness to receive vaccines.
+
+Search String
+- Scopus: (TITLE-ABS-KEY (ghana AND covid-19
+AND strategy) OR TITLE-ABS-KEY (covid-19
+AND vaccination AND ghana) AND TITLEABS-KEY (ghana))
+- Medline: (ghana covid-19 policy and strategy)
+AND covid-19 vaccination AND (ghana or
+ghanaian)
+- Cinahl: (ghana covid-19 policy and strategy ) AND
+covid-19 vaccination AND (ghana or ghanaian)
+- Google Scholar: (ghana covid-19 policy and strategy) AND covid-19 vaccin* AND (ghana or
+ghanaian)
+
+Study Selection and Data Extraction
+We designed a standardized extraction form based on
+PRISMA guidelines for the review. Search and screening
+was carried out by LY and AHNK with guidance from
+GAA. The search results were imported into Mendeley
+Reference Manager (version 1.19.8) and screened at three
+levels. First, we screened the titles, language, and dates
+of publication. To be included in the review, the title
+must contain the terms ‘‘SARS-Cov-2 or COVID-19 or
+vaccination or vaccine.’’ Further, only articles originally
+published in English language between December 2019
+and January 2023 were selected. Next, we screened the
+abstracts to establish their relevance by types of research
+papers, geolocation and the research methodology used.
+We selected only empirical studies conducted in Ghana.
+Finally, a full text review was conducted to determine
+completeness, and eligibility to be included in the final
+list. In addition to extracting records based on relevant
+themes, the extracted materials were also scrutinized
+against the quality of information presented. At any
+point where the two authors could not agree on the decisions to exclude or include a paper, the views of GAA, a
+Health Service Administrator and Public Health expert,
+were sought.
+
+5
+
+Screening
+
+Idenﬁcaon
+
+Agboh and Yarney
+
+1,844 papers generated
+from databases
+134 duplicates removed before
+screening
+1,710 Titles, type of
+publicaon and language
+screened
+1,060 unrelated papers deleted
+
+Included
+
+Eligibility
+
+650 Abstract screened
+511 records deleted
+139 full texts screened
+
+27 records reviewed
+
+Figure 1. Summary of literature search.
+
+Data Summary
+
+Collating Results
+
+Our combined search from the selected databases generated 1,844 papers. Using authors’ names and titles of
+papers, 134 duplicates were detected and deleted.
+Together with the title screening, language screening and
+screening for completeness, an additional 1,060 irrelevant records were deleted. Abstract screening was conducted to determine: (i) the appropriateness of the
+research population, (ii) method used, and (iii) ensure
+that the studies were conducted empirically. This led to
+the deletion of an extra 511 papers. Finally, a full-text
+screening of 139 records was conducted. From this, we
+found 27 papers to be eligible for inclusion in the final
+analyses (Figure 1). The University of Ghana Library
+System granted access to the databases.
+
+We adopted Thomson et al. (2016) 5A taxonomy to
+synthesize the articles under five themes. These include
+Access, Affordability, Awareness, Acceptance, and
+Activation (Thomson et al., 2016, p. 1019) (Table 3).
+
+Quality Appraisal and Ethical Considerations
+Given that a scoping review is primarily focused on comprehensiveness rather than the quality of the individual
+papers, the included records were only assessed for their
+relevance (Brien et al., 2010; Pham et al., 2014).
+To avoid publication bias, a well-defined eligibility
+criteria was used to identify the records, and justifications for the inclusion of records presented and approved
+before the records were included. In addition, to ensure
+research integrity, the authors engaged a public health
+expert to advise them during disagreements.
+
+Analysis
+LY and HNKA undertook analysis of records. Mendeley
+reference manager and Microsoft Excel (2016) were used
+to prepare a literature summary table under relevant
+themes, namely, authors, year of publication, scope of
+the study, sector, study objectives, method, research
+design, sample size (Table 1), title, results, drivers of vaccination and barriers of vaccination (Table 2). The
+papers were compared against their contents and thematized in line with the 5A model and the research objective. We used narrative review for this paper.
+
+Results
+Each of the 27 research papers included in this review
+was carried out exclusively in Ghana (Table 1). On the
+research methodology adopted, we found that majority
+of the records 23 (85.2%) used quantitative research
+methodology, 2 (7.4%) employed qualitative methodology, and 2 (7.4%) used mixed-research methodology
+(Figure 2). On the research designs used, majority
+
+6
+2021
+2021
+2022
+2021
+2022
+2021
+2021
+2022
+2022
+
+1) Acheampong et al.
+2) Addo et al.
+
+3) Adjaottor et al.
+
+4) Adomako et al.
+
+Afrifa-Anane et al.
+Agyekum et al.
+Alhassan et al.
+Alhassan et al.
+Amo-Adjei et al.
+
+Amponsa-Achiano et al.
+Aram et al.
+Asumah et al.
+Awuni et al.
+Boi-Dsane et al.
+Botwe et al.
+Dubik
+
+5)
+6)
+7)
+8)
+9)
+
+10)
+11)
+12)
+13)
+14)
+15)
+16)
+2022
+2022
+2021
+2022
+2022
+2023
+2022
+2021
+2021
+2021
+2022
+
+17) Forkuo et al.
+
+18) Kyei-Arthur et al.
+19) Lamptey et al.
+
+20) Lohiniva et al.
+
+21) Nonvignon et al.
+
+22) Ofori et al.
+23) Okai & Abekah-Nkrumah
+24) Serwaa et al.
+
+25) Twum et al.
+26) Yeboah et al.
+
+27) Zhou et al.
+
+2022
+2021
+2022
+2022
+2023
+2022
+2022
+
+Year
+
+Author
+
+National
+
+National
+Regional
+
+National
+National
+National
+
+National
+
+National
+
+National
+National
+
+Facility based
+
+National
+National
+Regional
+National
+National
+National
+Regional
+
+Regional
+National
+National
+National
+National
+
+National
+
+National
+
+National
+National
+
+Scope
+
+Com.
+
+Soc. Mkt.
+PH
+
+HSP
+PH
+HHR
+
+HF
+
+Media
+
+PH
+HSP
+
+PH
+
+HSP
+PH
+CC
+PH
+CC
+Radio.
+PH
+
+PH
+HHR
+PH
+HF
+HSP
+
+PH
+
+PH
+
+PH
+PH
+
+Sector
+
+Quantitative
+
+Quantitative
+Quantitative
+
+Quantitative
+Quantitative
+Quantitative
+
+Quantitative
+
+Qualitative
+
+Quantitative
+Quantitative
+
+Quantitative
+
+Quantitative
+Quantitative
+Quantitative
+Quantitative
+Quantitative
+Mixed method
+Quantitative
+
+Qualitative
+Quantitative
+Quantitative
+Quantitative
+Mixed Method
+
+Quantitative
+
+Quantitative
+
+Quantitative
+Quantitative
+
+Method
+
+Table 1. Authors, year of publication, scope, sector, type of study, method, and design.
+
+Cross-sectional
+
+Cross-sectional
+Cross-sectional
+
+Qualitative infodemic
+management system
+COVID-19 Vaccine Introduction
+and deployment Costing
+(CVIC) tool
+Age stratified model
+Cross-sectional
+Cross-sectional
+
+An analytical cross-sectional
+study
+Cross-sectional
+Cross-sectional
+
+Cross-sectional
+Cross-sectional
+Cross-sectional
+Cross-sectional
+Sequential mixed-method
+investigation
+Descriptive
+Cross-sectional
+Cross-sectional
+Cross-sectional
+Cross-sectional
+Cross-sectional
+Cross-sectional
+
+Cross-sectional
+
+Cross-sectional
+
+Cross-sectional
+Cross-sectional
+
+Design
+
+3,079
+
+478
+1,560
+
+1,000,000
+362
+654
+
+17,459,408
+
+31,732,126
+
+415
+1,000
+
+382
+
+142,4008
+62
+215
+223
+240
+108
+420
+
+30
+234
+1,556
+697
+415
+
+613
+
+817
+
+2,345
+1,768
+
+Sample size
+
+Emerging Infectious Diseases
+PLoS ONE
+Human Vaccines &
+Immunotherapeutics
+Journal of Social Marketing
+International Journal of
+Environmental Research and
+Public Health
+PLoS ONE
+
+Vaccine
+
+PLoS ONE
+Clincal and Experimental
+Vaccine Research
+JMIR Infodemiology
+
+Emerging Infectious Diseases
+Research Square
+Ghana Medical Journal
+PLoS ONE
+Health Science Reports
+Radiography
+Risk Management and
+Healthcare Policy
+Ghana Medical Journal
+
+Vaccine
+Human Vaccines &
+Immunotherapeutics
+International Journal of
+Environmental Research and
+Public Health
+Ghana College of Pharmacists
+Journal
+PLoS ONE
+Advances in Public Health
+Tropical Medicine and Health
+BMC Public Health
+Archives of Public Health
+
+Journal
+
+7
+
+Guarding against COVID-19
+vaccine hesitance in Ghana:
+analytic view of personal
+health engagement and
+vaccine related attitude
+Prince
+Predictors of COVID-19
+stress and COVID-19
+vaccination acceptance
+among adolescents in
+Ghana
+
+COVID-19 vaccine
+acceptance among the
+Ghanaian population
+
+Facilitators and barriers to
+COVID-19 vaccine uptake
+among women in two
+regions of Ghana: A
+qualitative study.
+Acceptability of COVID-19
+vaccination among health
+care workers in Ghana
+
+2) Addo et al.
+
+4) Adomako
+et al.
+
+5) Afrifa-Anane
+et al.
+
+6) Agyekum
+et al.
+
+3) Adjaottor
+et al.
+
+Examining vaccine hesitancy
+in Sub-Saharan Africa: A
+survey of the knowledge
+and attitudes among adults
+to receive COVID-19
+vaccines in Ghana
+
+Title
+
+1) Acheampong
+et al.
+
+Author
+
+Out of 30 participants, 17 vaccinated.
+Most participants who did not vaccinate were
+professionals (n = 7).
+The participants who vaccinated were service
+and sales workers (n = 7).
+39.3% of healthcare workers intended to
+receive the COVID-19 vaccines.
+58.1% trusted media information.
+Majority of healthcare workers (39.8%) do
+not trust the appropriateness of economic
+measures taken with COVID-19.
+60.7% indicated non-acceptance.
+Female healthcare workers less likely to
+accept vaccines.
+Medical doctors more likely to accept than
+nurses and midwives.
+
+51% vaccine acceptance among urban adults
+above 15 year.
+21% were unlikely to take the vaccine, while
+another 28% were undecided.
+Males (56%) are more likely than females
+(46%) to accept it.
+Adults above 55 years are more likely to take
+the vaccine (66%). The least likely are the
+15–25 age group (40%).
+Direct positive relationship between personal
+health engagement and vaccine attitude and
+vaccination willingness.
+COVID-19 susceptivity fear have a
+significantly positive association with
+vaccine attitude and vaccination willingness.
+Females have significantly higher scores on
+vaccine acceptance.
+A negative relationship between COVID-19
+vaccination acceptance and fear of COVID19.
+A significant negative relationship between
+COVID-19 vaccination acceptance and
+traumatic stress.
+At least 74.7% (n = 458) were willing to take
+vaccines if available.
+
+Findings
+
+Table 2. Factors associated with Ghana’s COVID-19 vaccination exercise.
+
+Media campaigns by government
+agencies such as the National
+Commission on Civic Education
+(NCCE) on popular media outlets
+corrected the misconceptions people
+had.
+The desire to protect oneself and
+family against COVID-19.
+Education on vaccines.
+Seeing others receive vaccines.
+Cost-free vaccine.
+52.2% of those who had contact with a
+COVID-19 patient indicated
+acceptance.
+42.3% trusted the authorities.
+58.1% trusted information provided by
+the media.
+48.7% trusted healthcare system and
+hospitals.
+45.7% trusted COVID-19 measures
+implemented.
+
+Personal health engagement reduces
+hesitancy.
+The fear of COVID-19, COVID-19
+susceptivity, and personal health
+engagement produced 56% of the
+variance in vaccination attitude.
+Trust in COVID-19 information.
+Danger of contamination.
+Fear and traumatic stress.
+(Accounted for 6.1% of all possible
+predictive factors).
+
+Need to protect family, friends, and
+other people in the community
+(69%);
+Prevent COVID-19 infection (67%);
+As a public health responsibility to help
+fight the pandemic.
+
+Driver
+
+(continued)
+
+66.2% of those with no contact with
+COVID-19 patients (n = 94, 66.2%)
+indicated no acceptance.
+Concerns about safety of vaccines (n = 93,
+65.5%).
+Adverse side effects (n = 23, 14.8%).
+Those with no relatives diagnosed with
+COVID-19 were not likely to vaccinate.
+
+Fear of side effects (61, 39.35%).
+Apathy (34, 21.94%).
+Claim that vaccine were not tried and
+tested (28, 18.06%).
+Quality of vaccines brought to Africa (22,
+14.2%).
+Long queues at vaccination centers.
+Fear of side effects.
+Misconceptions about vaccines.
+Shortage of vaccines.
+
+Fear, misinformation, lack of trust in
+authorities.
+
+Lack of education on the spread and
+fatalities of COVID-19.
+
+Not sure of clinical safety of the vaccines
+(61%);
+Not well informed about the possible
+effects (53%);
+Not sure if the vaccine is effective (35%).
+
+Barriers
+
+8
+
+COVID-19 vaccine hesitancy
+among the adult population
+in Ghana: evidence from a
+pre-vaccination rollout
+survey
+
+Financing COVID-19
+vaccination in sub-Saharan
+Africa: lessons from a
+nation-wide willingness to
+pay (WTP) survey in Ghana
+
+Trust and willingness toward
+COVID-19 vaccine uptake:
+a mixed-method study in
+Ghana, 2021
+
+Leveraging lessons learned
+from yellow fever and polio
+immunization campaigns
+during COVID-19
+pandemic, Ghana, 2021
+Kwame
+
+Effects of vaccine health and
+safety perceptions on
+COVID-19 vaccine
+Uptake in Ghana:
+Implications for
+implementing rollout
+programs
+
+8) Alhassan
+et al.
+
+9) Amo-Adjei
+et al.
+
+10) AmponsaAchiano
+et al.
+
+11) Aram et al.
+
+Title
+
+7) Alhassan
+et al.
+
+Author
+
+Table 2. (continued)
+
+78.55% indicated willingness for mandatory
+COVID-19 vaccine uptake.
+71.45% indicated willingness for voluntary
+COVID-19 vaccine uptake.
+The belief that vaccine is healthy and having
+confidence in vaccine safety is statistically
+significant with mandatory shot.
+
+Capitalizing on existing micro-planning
+strategies helped reduce the time for
+vaccine deployment for COVID-19 by 50%
+and ensured equity in vaccine distribution
+to rural, urban, and hard-to-reach
+communities.
+The cold chain in Ghana was revamped with
+the support of GAVI.
+The strategy of using celebrities, media
+houses, and social media influencers for
+social mobilization was effective.
+
+69% and 98% of respondents who
+moderately and very much trusted the
+vaccine were willing to vaccinate.
+Those who do not trust the vaccine; 73% will
+not accept it.
+Health workers (45%) were more inclined to
+trust vaccines (45%).
+
+697 (44.8%) will receive the COVID-19
+vaccine.
+55% of respondents expressed willingness to
+pay for the vaccine.
+386 (55%) were willing to pay an average
+amount of GH¢ 38.00.
+
+Approximately 60% said they would not
+participate in a COVID-19 vaccine trial.
+65% will take vaccines
+69% will recommend it to others.
+58% not willing to pay for COVID-19 vaccine.
+
+Findings
+
+Early planning and resource
+identification.
+Deployment of human resources and
+logistics for vaccination campaigns.
+Deploying surge officers, expanding
+vaccine coverage, conducting active
+case searches and social mobilization,
+and strengthening partnerships with
+key stakeholders.
+Using celebrities, media houses, and
+social media influencers for social
+mobilization.
+Collaboration between FDA and EPI
+ensures a plan for monitoring
+adverse events after immunization.
+The cold chain in Ghana was revamped
+with support from GAVI
+80.32% believed vaccines are healthy.
+73.06% had confidence in COVID-19
+vaccine safety.
+
+More males and persons who have
+tertiary education indicated
+willingness to pay for vaccination.
+Persons willing to participate in
+COVID-19 vaccine trial or accept the
+vaccine and recommend it to others
+were more willing to pay for it.
+Trust in the effectiveness and safety of
+the vaccine.
+The professional influence of people in
+one’s social networks.
+Past triumphs of vaccination programs.
+
+Residents of urbanized regions
+Persons with formal education
+
+Driver
+
+(continued)
+
+81.19% of the respondents were
+concerned about the source of
+vaccines.
+Religion had statistically significant
+association with taking mandatory
+COVID-19 vaccine shot.
+
+Mistrust in political actors—both local
+and foreign.
+Belief in superior protection of God.
+Misunderstanding of vaccine development
+processes.
+A comparatively higher proportion of
+those working in the informal sector
+(28%) did not trust vaccines.
+Lack of capacity and resources to conduct
+clinical trials.
+Ultra-cold chain capacity not
+decentralized. Capacity was only at the
+central and regional level and few
+selected facilities.
+Need for additional resources to
+transport vaccines to other parts of the
+country while maintaining the cold
+chain.
+
+Fear
+Safety concerns.
+Mistrust in state institutions.
+Uncertainty
+Political connotations.
+Spiritual and religious beliefs.
+Females, the uneducated, and those living
+outside Greater Accra region were
+unwilling to pay for vaccines.
+
+Barriers
+
+9
+
+Prevalence of common
+adverse events experienced
+following COVID-19
+vaccination and its
+associated factors in
+Ghana: Cross-sectional
+study design.
+COVID-19 vaccine hesitancy
+concerns: Findings from a
+Ghana clinical radiography
+workforce survey
+
+14) Boi-Dsane
+et al.
+
+16) Dubik
+
+Understanding the
+facilitators and barriers to
+COVID-19 vaccine uptake
+among teachers in the
+Sagnarigu Municipality of
+Northern Ghana: A crosssectional study
+
+Covid-19 vaccination
+intensions among literate
+Ghanaians: Still the need to
+dissipate fear and build
+trust on vaccine efficacy?
+
+13) Awuni et al.
+
+15) Botwe et al.
+
+Determinants of COVID-19
+vaccine acceptance and
+hesitancy among healthcare
+professionals in the
+Kintampo North
+Municipality, Bono East
+Region, Ghana
+
+Title
+
+12) Asumah
+et al.
+
+Author
+
+Table 2. (continued)
+
+Intention to receive COVID-19 before its
+rollout in Ghana was 49%.
+Intention to accept after rollout was 63%.
+52% have completed the COVID-19
+vaccination.
+
+64 (59.3%) were willing to have the vaccine,
+but 44 (40.7%) were not.
+
+52.28% of males and 68.57% of females were
+either indifferent or not willing to
+vaccinate.
+More males (48.68%) than females (37.68%)
+knew about the effectiveness of COVID-19
+vaccines.
+At least 96.08% females and 100% males
+indicated they heard about the COVID-19
+vaccines.
+About 30.04% believed the vaccines were
+safe.
+Country of vaccination, country of origin of
+AstraZeneca vaccine and age are associated
+with adverse events of vaccination.
+Experience of adverse effects was 16 times
+higher among those who took vaccines in
+Ghana.
+
+The overall vaccine acceptance was 78.6%
+among HCPs, while 21.4% were hesitant to
+receive COVID-19 vaccines.
+Majority (57.7%) of HCPs believed that
+COVID-19 vaccines were safe.
+
+Findings
+
+Prevention of COVID-19 (84%).
+To protect families, friends, and
+community (75%).
+Protect students or pupils (52%).
+
+Experience of adverse events was 94%
+less among those who took
+AstraZeneca compared to
+AstraZeneca (Oxford) and 86% less
+among 40–49 years compared with
+those who are less than 30 years
+old.
+Belief in vaccine’s ability to reduce
+spread of infection and mortality
+(54.7%).
+
+Those who knew someone who has
+taken the vaccine are 14.9 times
+more likely to vaccinate.
+The belief that vaccines are safe and
+effective in controlling COVID-19
+transmission.
+Those who have never refused
+vaccines in the past indicated
+acceptance.
+Segregating by gender shows 35.29% of
+males and 18.57% of females agreed
+that the vaccines were safe.
+Relatively high level of knowledge
+about the safety and efficacy of the
+COVID-19 vaccines.
+Trust in vaccine safety.
+
+Driver
+
+(continued)
+
+88.2% had experienced at least one
+adverse event.
+The most common adverse event after
+the first dose was pain at injection site
+(65.8%), headache (57.5%), tiredness
+(55.8%), fever (51.7%), chills (39.6%), and
+muscle pains (38.3%).
+Doubts about vaccines’ efficacy and side
+effects (56.8%).
+Conspiracy theory about vaccines’ effects
+on the Ghanaian race (9.1%).
+Fertility concerns (4.5%).
+Only 12% are highly knowledgeable about
+the efficacy of vaccines.
+Unavailability of the COVID-19 vaccine
+(52%).
+Concern about side effects (45%).
+Inadequate knowledge about COVID-19
+vaccines (20%).
+Only 27% were completely confident in
+the effectiveness of COVID-19 vaccines.
+
+53.0% needed a medical officer’s advice
+before they take the vaccine.
+47.4% believed that vaccine convenience
+(thus, place of vaccination, distance to
+the vaccine site, cost of the vaccine,
+etc.) would influence the decision to
+acceptance.
+63.3% concerned about the origin of the
+vaccine.
+47.98% of respondents believed it was
+dangerous to vaccinate.
+23.98% thought that taking the vaccines
+could increase allergic reactions.
+54.8% did not know about the
+effectiveness of the vaccines.
+Mistrust of COVID-19 vaccine was found
+to have a negative influence on
+willingness to take vaccines.
+
+Barriers
+
+10
+
+COVID-19 vaccine
+acceptance and its
+determinants in the Bono
+Region of Ghana
+
+Parents’ and guardians’
+acceptability of COVID-19
+vaccination for children in
+Ghana: An online survey
+
+A nationwide survey of the
+potential acceptance and
+determinants of covid-19
+vaccines in Ghana
+
+18) Kyei-Arthur
+et al.
+
+19) Lamptey
+et al.
+
+Title
+
+16) Forkuo
+et al.
+
+Author
+
+Table 2. (continued)
+
+541 (54.1%) respondents would accept
+vaccines.
+Trust in the government is strongly
+associated with vaccine acceptance.
+
+73.3% of parents/guardians would allow their
+children to be vaccinated.
+61% disagreed with the statement ‘‘once the
+vaccine is available and approved, it would
+be safe.’’
+
+82.6% (242/293) indicated acceptance of the
+vaccine.
+
+Findings
+
+78.7% of parents and guardians felt
+COVID-19 could be cured.
+53.5% disagreed that ‘‘COVID-19
+vaccine is the most likely way to
+stop the pandemic.’’
+48.2% disagreed with the statement,
+‘‘The best way to avoid the
+complications of COVID-19 is
+vaccination.’’
+About 67% of the respondents
+disagreed with the statement ‘‘I
+believe the vaccine program may be
+likened to the new world order.’’
+Higher odds of accepting vaccines
+among participants 18–25 years of
+age, males, married participants,
+government workers, and those who
+did not disclose their income.
+907 (90.7%) trust in healthcare system.
+
+Protection against COVID-19 (96.7%,
+n = 234).
+Fear of COVID-19’ (1.2%, n = 3).
+It compulsory to get vaccinated (2.1%,
+n = 5)
+
+Driver
+
+(continued)
+
+Vaccine acceptance by communities
+threatened by anti-vaccination
+movements, conspiracy theories,
+miscommunication, religious dogma, and
+rumors.
+Lower odds of accepting the vaccine
+among participants 36–45 years of age,
+females, unmarried, bachelors holders,
+and moderate income earners (2–8 USD
+or and 8–32 USD per day).
+388 (38.8%) had high-risk perception of
+acquiring COVID-19.
+
+Reasons for refusal include fear of side
+effects (70.6%, 36/51).
+Fear that vaccines were made by the
+Western world to infect them with
+COVID-19 (56.9%, 29/51).
+Not susceptible to getting COVID-19
+(35.3%, 18/51).
+COVID-19 is not real, (25.5%, 13/51).
+Vaccine may be expensive (2.0%, 1/51).
+Fear of future effects (3.9%, 2/51) and no
+reason at all (2.0%, 1/51).
+Inadequate data about the safety of the
+vaccine (34.3%).
+Concern about adverse effects of vaccines
+(18.0%).
+Prior adverse reaction to any vaccine
+(6.3%)
+Parents and guardians perceiving their
+children not to be at any considerable
+risk of developing complications if
+infected with COVID-19 (6.3%).
+
+Barriers
+
+11
+
+Infodemic management using
+digital information and
+knowledge cocreation to
+address COVID-19 vaccine
+hesitancy: Case study from
+Ghana
+
+Estimating the cost of
+COVID-19 vaccine
+deployment and
+introduction in Ghana using
+the CVIC tool
+Justice
+
+Age-stratified model to
+assess health outcomes of
+COVID-19 vaccination
+strategies, Ghana
+
+21) Nonvignon
+et al.
+
+22) Ofori et al.
+
+Title
+
+20) Lohiniva
+et al.
+
+Author
+
+Table 2. (continued)
+
+The estimated total cost of COVID-19
+vaccination ranges between $348.7 and
+$436.1 million for the target population of
+17.5 million.
+These translate into per person completed
+primary schedule cost of $20.9–$26.2 and
+per dose (including vaccine cost) of $10.5–
+$13.1.
+The main cost driver is vaccine procurement
+cost, including shipping (78%) to 83% of
+the total cost.
+Human resources for health including
+vaccinator training, deployment, and
+compensation, which ranged between 8%
+and 10% of the total cost.
+Other minor contributors to cost are cold
+chain (4%–6%) and data management and
+monitoring, pharmacovigilance, and
+oversight (2%–3%).
+Vaccinating the elderly ( ø 65 years of age)
+could avert .7,000 deaths if 1 million
+people were vaccinated over 3 months.
+The number of deaths prevented was the
+lowest when persons \25 years of age
+were prioritized in both vaccination time
+frames (2,317 in 3 months).
+
+A multi-sectoral National Misinformation
+Task Force was established to implement
+and oversee the process developed by the
+Ghana Health Service (GHS).
+
+Findings
+
+Prioritizing the elderly ( ø 65 years of
+age) resulted in the highest
+percentage of symptomatic persons
+(7.19%) at the peak.
+Vaccinating 1 million persons
+\25 years of age in 3 months was
+associated with the lowest
+percentage (6.75%) of symptomatic
+persons in the population.
+
+The least cost drivers were domestic
+logistics and transport, excluding
+cold chain, security, and stand-alone
+technical assistance.
+
+Establishment of Task force made of
+Risk Communication and Social
+Mobilization experts.
+Involvement public health experts,
+media, development partners, factcheckers, UNICEF, and other critical
+partners.
+
+Driver
+
+(continued)
+
+Focusing vaccination initiatives on persons
+25–64 years of age was associated with
+the lowest percentage of symptomatic
+infections (6.96%)
+
+Through Talkwalker, analysts identified
+two posts:
+A local premier league football team
+coach in which he claimed that the
+team had lost a game because of their
+weak physical status after they received
+the COVID-19 vaccine. And this spread
+rapidly on social media platforms
+(Twitter).
+It came from a national web-based news
+outlet with a local celebrity, and because
+football is a popular sport in Ghana and
+many fans may be influenced by the post.
+Using Talkwalker, the analysts identified a
+retweet about a post that claimed to be
+published by an award-winning doctor
+who warned that those who take the
+COVID-19 vaccine will die within
+2 years.
+The main cost driver was vaccine doses,
+including shipping, which accounts for
+between 78% and 83% of total cost.
+An estimated 8,437–10,247 vaccinators
+(non-FTEs) was required during 2021–
+2022 to vaccinate using a mix of
+delivery strategies, accounting for 8%–
+10% of total cost.
+
+Barriers
+
+12
+
+The level and determinants
+of COVID-19 vaccine
+acceptance in Ghana
+
+Non-life-threatening adverse
+reactions from COVID-19
+vaccine; a cross-sectional
+study with self-reported
+symptoms among Ghanaian
+healthcare workers
+
+Intention to vaccinate against
+COVID-19: a social
+marketing perspective using
+the Theory of Planned
+Behaviour and Health Belief
+Model
+
+To establish a possible link
+between the knowledge of
+the disease and compliance
+with preventive measures,
+including vaccination
+
+Media attention and vaccine
+hesitancy: Examining the
+mediating effects of fear of
+COVID-19 and the
+moderating role of trust in
+leadership
+
+24) Serwaa
+et al.
+
+25) Twum et al.
+
+26) Yeboah
+et al.
+
+27) Zhou et al.
+
+Title
+
+23) Okai &
+AbekahNkrumah
+
+Author
+
+Table 2. (continued)
+
+The relationship between media attention
+and COVID-19 vaccine hesitancy was
+significantly positive.
+A significant positive relationship between
+media attention and fear of COVID-19.
+
+397(83%) indicated they would receive
+vaccines.
+81 (17%) indicated they would not receive
+vaccines.
+54.1% Christians and 28.9% Muslims had
+shown willingness.
+Social norm as a predictor of behavioral
+intention to receive COVID-19 vaccination.
+Two thirds (31%) were unwilling to follow
+basic preventive measures.
+35.3% were willing to be vaccinated.
+Neither knowledge of COVID-19 nor the
+socio- demographic characteristics had any
+meaningful influence on preventive
+measures.
+
+528 (80.7%) participants experienced adverse
+reactions, which lasted between 0 and
+2 days.
+The most reported adverse reactions were
+general body weakness 434 (32.0%),
+headache 371 (27.3%), and fever 257
+(19.1%).
+Health workers aged 35–39 and 40–44 years
+had lower odds of adverse reactions
+compared with those aged 25–29 years.
+
+62.7% indicated acceptance of vaccines if
+provided.
+37.3% will not vaccinate.
+Decision to accept the vaccine was influenced
+by occupation, perceived susceptibility,
+perceived benefits and attitudes toward
+vaccines.
+
+Findings
+
+Trust in leadership.
+Exposure to positive news about
+COVID-19 in the media.
+
+An adequate level of knowledge of
+COVID-19 (69.9%) was reported.
+Education and occupation also
+increased the explained difference in
+knowledge of COVID-19 from 65.4%
+to 70.3%.
+
+If Healthcare workers are more
+educated, have gained more
+knowledge and understand the
+relevance and practice of a healthy
+lifestyle on human health and
+consequently less likely to suffer
+from chronic illness.
+Taking pain medications like
+paracetamol, before the vaccine
+administration to avoid unwanted
+adverse reactions.
+Perceived susceptibility and cues to
+action encouraged behavioral
+intention to vaccinate.
+Attitude toward vaccination formed
+through affective and cognitive
+feelings influenced behavioral
+intention to receive vaccinations.
+
+Perceived benefit was found to
+positively influence covid-19 vaccine
+acceptance.
+Having a positive attitude toward
+vaccines increase the likelihood that
+the individual will accept it.
+
+Driver
+
+Adequate knowledge does not translate
+into a general compliance with the
+personal preventive public health
+measures.
+Misinformation about vaccines and their
+benefits is common, especially on social
+media.
+Widespread recommendation by friends
+guided the choices of 93.6% of
+respondents in Ghana on preferences
+of herbal medicines to used.
+A positive relationship between fear of
+COVID-19 and vaccine hesitancy is
+weakened by people’s trust in
+leadership.
+Exposure to misleading information on
+vaccination through media platforms
+could increase COVID-19 vaccine
+hesitancy among the rural population.
+
+Perceived barriers have a negative effect
+on behavioral intention.
+These include perceived severity,
+perceived benefits and perceived
+barriers.
+
+63.7% were not confident in safety of the
+vaccines.
+23.7% wanted to wait for a while until it
+seems safe.
+Perception about vaccines causing sterility
+(3.7%).
+Belief that COVID-19 does not exist (3%).
+Lack of belief in vaccination (5.9%).
+High prevalence of adverse reactions
+among healthcare workers.
+The most reported systemic adverse
+reactions were general body weakness,
+headache, and fever.
+The probability of female health care
+workers receiving the COVID-19
+vaccines if available was less compared
+with males.
+
+Barriers
+
+Agboh and Yarney
+
+13
+
+Table 3. Thomson’s 5As Model.
+Dimensions
+Access
+
+Number observed
+(5), (7), (8), (10), (12), (21), (22)
+
+Barriers
+-
+
+Affordability
+
+(5), (7), (8), (9), (17), (21)
+
+-
+
+Awareness
+
+(1), (2), (3), (4), (5), (6), (10),
+(11), (13), (15), (16), (17), (18),
+(19), (20), (23), (25), (26), (27)
+
+-
+
+Acceptance
+
+(1), (2), (3), (4), (5), (6), (7), (9),
+(11), (12), (13), (14), (15), (16),
+(17), (18), (19), (22), (23), (24),
+(25), (26), (27)
+
+-
+
+Activation
+
+(1), (2), (4), (6), (10), (11), (12),
+(17), (19), (20), (21), (22), (24),
+(25)
+
+-
+
+Long waiting time
+Vaccine shortages
+Long distance from vaccination
+centers
+Limited number of vaccination
+centers due to inadequate human
+resources and logistics
+High cost of vaccines
+High cost of transporting vaccines
+to centers
+The Poor are not willing to pay
+Uneducated unwilling to pay
+Residents outside Accra unwilling
+to pay
+Unemployed
+Limited or centralized awareness/
+education campaign
+Fear of side effects
+Misconceptions about the vaccines
+Fear of vaccine contamination
+Misinformation (cultural and social
+media)
+Conspiracy theory (COVID-19 is
+not real/ COVID-19 can be cured)
+Ignorance (public figures)
+Safety/fear/uncertainty
+Side effects
+Vaccine effectiveness/perceived
+benefits
+Trust in vaccines
+Lack of trust in authorities
+Lack of trust in vaccine source
+Religious beliefs
+Vaccine politics
+Working in the informal sector
+Females
+Mistrust of vaccines
+Apathy
+No contact with COVID-19
+patients
+Lack of capacity and resources to
+conduct clinical trials
+Ultra-cold chain capacity
+centralized
+Mandatory vaccination
+Absence of medical officers’ to
+advice
+Fear of allergic reactions
+Well-resourced task force for risk
+communication and social
+mobilization
+Mistrust in political leadership
+
+Drivers
+-
+
+Total
+
+Residents near vaccine
+centers
+Using mixed strategies to
+bring vaccines close to
+underserved populations
+Triaging
+
+7
+
+Persons with tertiary
+education qualifications
+willing to pay for vaccines
+Persons who participated in
+vaccine trials willing to pay
+for vaccines
+
+6
+
+-
+
+Media campaigns
+NCCE awareness programs
+Trust in vaccination
+information
+
+19
+
+-
+
+To protect oneself and family
+Traumatic stress of infection
+Seeing others receive the
+vaccine
+Trust in authorities
+Persons with no formal
+education
+Persons who had never
+refused vaccines in the past
+Good attitude toward
+vaccine
+Males, aged
+Personal health engagements
+Trust in the health system
+Trust in COVID-19
+protocols
+Influence of professionals in
+one’s social network
+Early planning and
+deployment of human
+resources and logistics
+Conducting active case
+search
+Social mobilization and using
+celebrities and media houses
+Collaborations with other
+state agencies
+Good data monitoring
+Compensation for frontline
+workers
+Healthcare professionals
+
+23
+
+-
+
+-
+
+14
+
+14
+
+SAGE Open
+(52%) Activation (Table 3; Figure 7). We presented the
+summary report for records included in this review in
+Table 2.
+8%
+
+7%
+
+Discussion
+
+85%
+Quantave
+
+Qualitave
+
+Mixed
+
+Figure 2. Method.
+
+(n = 22, 81.5%) employed cross-sectional design. The
+rest include 1 Sequential mixed method design, 1
+Descriptive study, 1 QIMS study, 1 Age-stratified model,
+and 1 CVIC design (Figure 3). In addition, majority of
+the articles were published in 2022 (n = 15), followed by
+those published in 2021 (n = 10) and the publications in
+2023 (n = 2) (Figure 4). We found most of the articles
+(n = 14) to be focused on Public Health issues (Figure
+5). The remaining 15 were focused on Health communication (n = 3), Radiography (n = 1), Clinical Care
+(n = 2), Health Financing (n = 2), Health Human
+Resource (n = 2), and Health Systems Policy (n = 3)
+(Figure 4). On the scope of the studies, 4% were facility
+based, 15% were focused on the administrative regions
+of Ghana, and 81% on the entire country (Figure 6).
+When mapped against the 5A model, we found only one
+paper exclusively on Acceptance. Thus each of the
+remaining 26, (96.3%) articles was focused on multiple
+dimensions of the model. Specifically, seven articles
+(25.7%) were related to Access, 6 (22.2%) Affordability,
+19 (70.4%) Awareness, 23 (85.1%) Acceptance, and 14
+
+CVIC tool
+
+1
+
+sequenal mixed䯉method invesgaon
+
+1
+
+Descripve
+
+1
+
+Qualitave infodemic management system
+
+1
+
+Age straﬁed model
+
+1
+
+The 5A taxonomy is a widely accepted framework for
+analyzing vaccination coverage (Nyasa et al., 2023;
+Thomson et al., 2016). In this review, Thomson et al.
+(2016) 5A taxonomy was adopted to examine empirical
+literature on COVID-19 vaccination in Ghana. The articles were mapped against five dimensions of the framework to determine gaps in the country’s vaccination
+coverage. The dimensions include Access, Affordability,
+Awareness, Acceptance, and Activation. From the mapping, we observed that majority of the dimensions overlapped. For instance, articles mapped against Acceptance
+also assessed Awareness. Similarly, articles assessing
+Access also measured Affordability.
+
+Acceptance
+We found that Acceptance is significantly associated
+with vaccination coverage in Ghana. Aligned with the
+narrative review by Thomson et al. (2016), Acceptance
+emerged the most significant factor influencing vaccination coverage in Ghana. From the records, 23 (85.2%)
+articles were centered on COVID-19 vaccine Acceptance
+in Ghana. Aside from their areas of concentration, we
+analyzed the findings presented in each article and found
+that the majority reported high vaccine acceptance rates
+in Ghana. On Table 2, the records show that between
+39.3% and 82.6% of study participants were willing to
+accept COVID-19 vaccines in Ghana. However, the
+degree of acceptance is influenced by several factors.
+Some of these include the present health conditions,
+prior exposure to COVID-19 virus, and societal influencers, among others (Acheampong et al., 2021; Addo
+et al., 2021; Agyekum et al., 2021; Amo-Adjei et al.,
+
+22
+
+Cross-Seconal
+0
+
+Figure 3. Research design.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Agboh and Yarney
+
+15
+
+20
+
+Again, although high acceptance rates were observed
+among particular populations, including healthcare
+workers and teachers, the national data shows a low coverage rates in comparison with advanced countries.
+COVID-19 vaccination uptake in high-income countries
+generally showcased higher rates of vaccine acceptance,
+often exceeding the global average in some regions (John
+Hopkins University, 2023). This is largely because
+advanced nations implemented robust and extensive vaccination programs, leading to increased awareness and
+confidence in the vaccines offered (Awuni et al., 2022).
+Countries such as the USA and UK had invested substantially into education and awareness creation,
+expanded access to healthcare, and built trust in government policies and healthcare institutions (Deb et al.,
+2023). In contrast, our review revealed the lack of structural and policy preparedness in Ghana to respond to
+the pandemic (Kyei-Arthur et al., 2022; Ofori et al.,
+2023).
+In summary, while the factors influencing acceptance
+are well documented in literature, there remains a need
+for more comprehensive studies elucidating strategies to
+enhance vaccine acceptance in Ghana. Additionally, the
+reliance on quantitative methods warrants exploration
+into qualitative approaches to provide deeper insights
+into the nuances of vaccine acceptance among Ghana’s
+populace. Further research could adopt qualitative
+research designs to explore interventions targeting these
+factors to bolster acceptance rates and inform robust
+vaccination strategies.
+
+15
+
+15
+
+10
+
+10
+2
+
+5
+0
+2021
+
+2022
+
+2023
+
+Figure 4. Year of publication.
+
+2022). Acceptance increased among persons with chronic
+illnesses (Acheampong et al., 2021), individuals infected
+with COVID-19 (Agyekum et al., 2021), and those influenced by prominent political personalities (Asumah
+et al., 2022; Lohiniva et al., 2022; Thomson et al., 2016).
+Additionally, willingness to accept COVID-19 vaccines
+was high when people are well-informed about their benefits, safety, and associated risks (Adjaottor et al., 2022;
+Adomako et al., 2021; Agyekum et al., 2021; KyeiArthur et al., 2022). As vaccine acceptance is the determinant of herd immunity (Malik et al., 2020) and potentially the most significant indicator for success (Kalu
+et al., 2022), its not surprising that our review found
+most of the records to be focused on vaccine acceptance.
+However, instead of exploring the experiences of research
+participants, from the research methodologies analyzed,
+we found majority of these papers to be merely interested
+in the rates of vaccine acceptance. From the records, 22
+out of 23 articles employed quantitative research methodology, and many of them utilizing multiple-item Likert
+scales (Acheampong et al., 2021; Addo et al., 2021;
+Adjaottor et al., 2022).
+
+Out of 23 articles concerned with Acceptance, 17 were
+connected with Awareness. Authors, including Zhou
+
+3
+
+Health Communicaon
+Radiography
+Clincal care
+Health ﬁnancing
+Public Health
+Health human resource
+Health System Policy
+
+1
+2
+2
+14
+2
+3
+0
+
+Figure 5. Sector.
+
+Awareness
+
+5
+
+10
+
+15
+
+16
+
+SAGE Open
+
+15%
+
+4%
+
+81%
+
+Naonal
+
+Regional
+
+Facility level
+
+Figure 6. Scope.
+
+et al. (2022), Okai and Abekah-Nkrumah (2022), BoiDsane et al. (2023), Kyei-Arthur et al., 2022, and
+Lohiniva et al. (2022) argued that adequate knowledge
+of the benefits and risks of vaccination is an indispensable requirement for enhanced vaccination coverage in
+Ghana. Analyses of these records show high prevalence
+of misinformation, misconception, and ignorance with
+associated high vaccine hesitancy in Ghana (Twum et
+al., 2021; Kyei-Arthur et al., 2022; Yeboah et al., 2021;
+Zhou et al., 2022). For instance, Okai and AbekahNkrumah (2022) noted Ghanaians’ concerns about
+potential risks of vaccine uptake to their reproductive
+health. Similarly, some Ghanaians expressed fear of vaccines from Western countries, suspecting them of being
+designed to harm the black race and older persons (BoiDsane et al., 2023). Lohiniva et al. (2022) recounted an
+incident where a local Premier League football coach
+attributed his team’s loss to players’ weakened physical
+condition post COVID-19 vaccination; illustrating the
+limited understanding many Ghanaians had regarding
+vaccine benefits and risks. Similarly, Zhou et al. (2022)
+highlighted that exposure to misleading public
+
+communications via media platforms heightened vaccine
+hesitancy among Ghanaians. It is important to mention,
+however, that although records from our review supported this finding, contrasting these findings with
+COVID-19 vaccination statistics from high-income
+countries reveals a stark divergence in the factors influencing hesitancy. While misinformation and misconceptions play a role globally, the specific concerns regarding
+the origin and intent of vaccines seem more prevalent in
+the Ghanaian context compared to high-income countries (Agyekum et al., 2021; Alhassan et al., 2021).
+Additionally, the impact of influential figures attributing
+sports outcomes to vaccination effects is not a commonly
+reported issue in high-income countries.
+On the other hand, Yeboah et al. (2021) challenged
+the notion that greater vaccine knowledge directly translates to increased vaccine uptake. Analyzing 1,560
+respondents, they discovered that although over 69.9%
+were well-informed about vaccine benefits and risks, only
+31% were willing to be vaccinated. They argue that
+extensive knowledge doesn’t necessarily result in compliance with preventive measures. Yeboah et al. (2021)
+admitted, however, that social media and informal relationships are major influencers of vaccination choices,
+with 93.6% of willing respondents being influenced by
+recommendations from friends and family. Thus, the
+paper observed that instead of focusing resources on the
+types of information communicated, policy makers
+should rather pay attention to the medium or channel of
+communication. However, the dominance of social networks in influencing vaccination decisions appears to be
+more pronounced in Ghana than in high-income countries, where factors like trust in institutions and access to
+healthcare might play a more significant role. In addition, the recommendation to center attention on communication mediums rather than specific information types
+warrants further investigation (Yeboah et al., 2021).
+While this approach might be relevant in Ghana, it
+might not fully align with the dynamics in high-income
+
+25
+
+23
+19
+
+20
+
+14
+
+15
+10
+
+7
+
+6
+
+Access
+
+Aﬀordability
+
+5
+0
+
+Figure 7. 5A dimensions.
+
+Awareness
+
+Acceptability
+
+Acvaon
+
+Agboh and Yarney
+countries where a blend of targeted information and
+credible sources might play a more critical role in vaccination promotion strategies.
+In summary, we are of the view that tailoring communication strategies to suit specific cultural contexts
+remains crucial, but further research on a blended
+approach to increase Awareness is necessary to inform
+vaccination policies in Ghana and other contexts.
+
+Access
+Although health systems in LMICs are largely constrained by infrastructure and institutional structures,
+our review identified only seven papers related to Access
+dimension with divergent opinions on the phenomenon.
+Some of the records reported a positive correlation
+between selected workplaces and professionals and
+enhanced vaccine Access (Agyekum et al., 2021; AmoAdjei et al., 2022; Serwaa, et al., 2021). According to
+Amo-Adjei et al. (2022) and Agyekum et al. (2021),
+Ghana’s initial vaccine distribution targeted critical
+patients, the elderly, and frontline workers such as
+healthcare professionals, security forces, and policymakers (Alhassan et al., 2021, 2022; Aram et al., 2021;
+Serwaa, et al., 2021). This prioritization minimized travel
+distances for these groups, provided firsthand vaccine
+information, and reduced inconveniences during vaccination,
+potentially
+fostering
+higher
+acceptance.
+Affordability thus emerged as a significant factor intertwined with access.
+In a contrary view, other findings revealed critical
+structural factors which barred Ghanaians from reaching
+or being reached by COVID-19 vaccines. Some of these
+include distance from immunization centers, place of residence, place of work, inequities on vaccine distribution,
+and vaccine shortages, among others. For instance, in
+their examination of facilitators and barriers to COVID19 vaccine uptake among women in two regions of
+Ghana, Afrifa-Anane et al. (2022) observed that participants could not vaccinate because of long queues at vaccination centers and shortage of vaccines. Queueing and
+vaccine shortages was particularly frequent when the initial 600,000 jabs were received from the COVAX facility
+(Afrifa-Anane et al., 2022; Alhassan et al., 2022) and the
+fear of contracting the disease or dying resulted in a rush
+for the vaccines. Due to the waiting time required to
+receive the jabs, many full-time employees were not vaccinated during the initial phase of the rollout.
+In comparison with data in high-income countries, we
+observed stack disparities in resource allocation, distribution strategies, and prioritization. In the US and other
+high-income countries, equitable distribution was
+attained due to robust infrastructure, proactive dissemination strategies, and adequate vaccine supply policies
+
+17
+(Amponsa-Achiano et al., 2022; Deb et al., 2023; Dubik,
+2022). Again, contrary to LMICs where shortages and
+distance hindered access, high-income countries achieved
+a broader vaccine accessibility (Dubik, 2022).
+The contrast between LMICs and high-income countries underscores the impact of structural inequalities on
+vaccine accessibility (Ofori, et al., 2023). While highincome nations demonstrated a more systematic
+approach, LMICs grappled with multifaceted challenges.
+Addressing these disparities demands a comprehensive
+approach, considering not only vaccine availability but
+also equitable distribution strategies, infrastructure
+improvements, and targeted interventions to mitigate
+accessibility barriers in LMICs.
+
+Affordability
+Affordability describes the monetary and non-monetary
+expenses related to obtaining COVID-19 vaccines
+(Thomson et al., 2016). Our findings indicate a close link
+between affordability and vaccine accessibility with significant effects at the national and household levels
+(Kalu et al., 2022).
+On a national scale, findings from our records show
+that despite Ghana receiving multiple doses of COVID19 vaccines from initiatives like COVAX and through
+bilateral relations with the United States and the
+European Union, supply was insufficient to cover the
+entire population. This shortage stemmed from the
+nation’s economic downturn when the pandemic struck,
+hindering the government’s ability to procure the
+remaining doses. As a result, there was a scarcity of vaccines, limited vaccination centers, and subsequently,
+reduced access to vaccination (Kalu et al., 2022).
+At the individual level, our data reveals a strong association between coverage and vaccine affordability.
+Household cost elements included service fees, transportation expenses to vaccination sites, and the time invested
+in waiting for vaccines (Thomson et al., 2016). Alhassan
+et al. (2021) conducted a study involving 1,556 individuals and found that those residing outside Accra, the capital city, were unwilling to bear the cost of transportation
+to vaccination centers. This reluctance was likely because
+populations living outside Accra and other major cities
+in Ghana fall within the extremely poor category and
+unlikely to afford the transportation costs associated
+with receiving the jabs (Alhassan et al., 2021; Amo-Adjei
+et al., 2022). Furthermore, the long waiting time at vaccination centers acting as a deterrent for workers, especially casual workers and full-time employees (AfrifaAnane et al., 2022; Thomson et al., 2016). Coupled with
+limited awareness of the benefits and risks of COVID-19
+vaccines outside major cities, it is expected that many
+
+18
+households would lack the motivation spend their time
+and savings on vaccination.
+Comparatively, in advanced countries, accessibility to
+COVID-19 vaccines tends to be more widespread due to
+robust healthcare infrastructure and greater financial
+resources. Affordability barriers are less pronounced,
+often mitigated through government-funded vaccination
+programs that prioritize free or low-cost inoculations for
+the entire population (Amponsa-Achiano et al., 2021;
+Dubik, 2022; Nonvignon et al., 2022). Moreover, higher
+awareness levels and better dissemination of information
+contribute to increased vaccine uptake, minimizing reluctance among individuals and reducing the impact of long
+waiting times at vaccination sites (Alhassan et al., 2022).
+Critically assessing the disparities between highincome countries and regions like Ghana highlights the
+significant impact of economic constraints on vaccine
+accessibility. While affluent nations can navigate affordability barriers and ensure comprehensive coverage,
+lower-income settings face substantial hurdles due to limited resources, ultimately affecting vaccine distribution
+and uptake. Addressing these disparities demands tailored strategies that account for the economic realities
+and informational needs of diverse populations.
+
+Activation
+Activation is the structural preparedness of health systems, and the effectiveness of reminders for vaccination.
+We identified fourteen papers showing a push toward
+both preventive measures and COVID-19 vaccination.
+For instance, Kalu et al. (2022) and Yeboah et al. (2021)
+reported that early in the pandemic, emergency strategies
+and media campaigns, including contact tracing, community address systems for hand hygiene education,
+hand sanitizers, masking, lockdowns, and social distancing protocols, were implemented to curb community
+infections and deaths. However, as vaccines became
+available in greater numbers, emphasis was centered on
+vaccination awareness campaigns. Media campaigns
+during the pandemic’s early stages played a crucial role
+in correcting misconceptions and promoting adherence
+to preventive protocols (Adomako et al., 2021). The
+media facilitated a strong connection and trust in
+government-provided information, and compliance with
+preventive measures. Adomako et al. (2021) documented
+that these preventive measures were largely successful,
+especially given the initial ineffectiveness of traditional
+treatment approaches. Agyekum et al. (2021) reported
+that 42.3% of respondents trusting government information, for instance, expressed willingness to take the vaccines. Similarly, Addo et al. (2021) found that health
+personnel engagement increased vaccine acceptance,
+emphasizing the role of close interactions in reducing
+
+SAGE Open
+hesitancy among health workers. Despite its significance,
+our records indicate inadequacy in the media awareness
+campaign (Acheampong et al., 2021). In their study on
+vaccine hesitancy in Sub-Saharan Africa, Acheampong
+et al. (2021) revealed that 53% of 2,345 Ghanaian adults
+surveyed were not well-informed about the vaccines.
+This lack of information led to 61% expressing doubts
+about the clinical safety of the vaccines and 35% having
+doubts about their effectiveness. Addressing this gap in
+information is vital to overcoming vaccine hesitancy and
+ensuring widespread acceptance of COVID-19 vaccines
+in diverse regions.
+This contrasts with developed countries where comprehensive communication strategies contribute to higher
+public awareness and understanding of vaccination
+efforts. Media campaigns, contact tracing, and community education played a pivotal role in shaping public
+perception and adherence to safety protocols in countries
+that recorded high vaccination coverage (Lohiniva et al.,
+2022; Zhou et al., 2022).
+In summary, Activation underscored the importance
+of early and effective communication strategies, especially in regions with limited information access.
+However, comparing data on Activation in Ghana with
+developed countries emphasize the need for tailored
+approaches to promote public trust. Future efforts
+should prioritize targeted media campaigns and health
+personnel engagement to ensure widespread understanding and acceptance of COVID-19 vaccines, contributing
+to global public health initiatives.
+
+Limitations
+The review has some limitations. While our review had
+successfully assessed operational strategies used to roll
+out the Ghana’s COVID-19 vaccine program, the 5A
+taxonomy was inadequate in accessing the role of
+enablers within family units. Some of these enablers
+include age, gender, rural-urban divides, and other interpersonal relationships which could affect vaccination
+decisions. While this omission does not take away the
+relevance of our findings to public health policies in
+Ghana, we recommend that further research is done in
+this area to inform the message that media organizations
+can communicate to the public during a pandemic.
+Additionally, since our review was focused exclusively
+on peer-reviewed empirical papers published in English,
+we are likely to miss out on other information published
+in editorials, commentaries, and newspaper publications,
+among others. In the same vein, since many national
+journals in Africa are not indexed in the databases we
+used for this research, we could miss useful information
+contained in papers published in such journals. Finally,
+we did not consult with stakeholders to validate our
+
+Agboh and Yarney
+
+19
+
+research findings. However, since this process can greatly
+enhance the quality of the review, we recommend users
+of our findings to, as much as possible seek additional
+interpretations from the relevant experts.
+
+Conclusion
+There is a plethora of publications on COVID-19 vaccination using different models which are sometimes overlapping. Our work harmonizes all these articles using the
+5A taxonomy to scientifically regroup and classify these
+articles to advise policy makers to enact evidenceinformed policies and programs to address the gaps identified. Regarding research gaps, our findings recommend
+further empirical investigations on vaccine financing
+(Affordability) and access constrains in Ghana. With
+many disease outbreaks in Africa, including Ebola,
+Measles, Hepatitis B and other childhood diseases, vaccination would remain a health policy choice for African
+nations for many years. The best way to enhance the
+effectiveness (Acceptance) of vaccination on the continent is to engage in continuous scientific assessment of
+the strategies (Activation) governments and health entrepreneurs adopt to make the jabs available to those who
+need it, and the results they produce.
+Acknowledgment
+I sincerely appreciate the support of the team at the Catholic
+Health Service Trust-Ghana (CHST) and the Health Policy and
+Management class of the University of Ghana Business School
+(UGBS).
+
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+
+Funding
+The author(s) received no financial support for the research,
+authorship, and/or publication of this article.
+
+Ethics Statement
+This is not applicable.
+
+ORCID iD
+Herman Nuake Kofi Agboh
+4409-6246
+
+https://orcid.org/0000-0003-
+
+Data Availability Statement
+The data underlying this study, including the literature search
+records, study selection process, and all data supporting the
+findings of this review are included in the article.
+
+References
+Amo-Adjei, J., Nurzhynska, A., Essuman, R., & Lohiniva, A.
+L. (2022). Trust and willingness towards COVID-19 vaccine
+uptake: a mixed-method study in Ghana, 2021. Archives of
+Public Health, 80(1), 64.
+Brien, S. E., Lorenzetti, D. L., Lewis, S., Kennedy, J., & Ghali,
+W. A. (2010). Overview of a formal scoping review on health
+system report cards. Implementation Science, 5, 1–12.
+Bukari, C., Essilfie, G., Aning-Agyei, M. A., Otoo, I. C., Kyeremeh, C., Owusu, A. A., Amuquandoh, K. F., & Bukari, K.
+I. (2021). Impact of COVID-19 on poverty and living standards in Ghana: A micro-perspective. Cogent Economics &
+Finance, 9(1), Article 1879716.
+Burgess, R. A., Osborne, R. H., Yongabi, K. A., Greenhalgh,
+T., Gurdasani, D., Kang, G., Falade, A. G., Odone, A.,
+Busse, R., Martin-Moreno, J. M., Reicher, S., & McKee,
+M. (2021). The COVID-19 vaccines rush: Participatory
+community engagement matters more than ever. The Lancet, 397(10268), 8–10.
+Crawshaw, A. F., Farah, Y., Deal, A., Rustage, K., Hayward,
+S. E., Carter, J., Knights, F., Goldsmith, L. P., CamposMatos, I., Wurie, F., Majeed, A., Bedford, H., Forster, A.
+S., & Hargreaves, S. (2022). Defining the determinants of
+vaccine uptake and undervaccination in migrant populations in Europe to improve routine and COVID-19 vaccine
+uptake: A systematic review. The Lancet. Infectious Diseases, 22(9), e254–e266.
+Deb, P., Furceri, D., Jimenez, D., Kothari, S., Ostry, J. D., &
+Tawk, N. (2023). Determinants of COVID-19 vaccine rollouts and their effects on health outcomes. Applied Health
+Economics and Health Policy, 21(1), 71–89.
+Dinleyici, E. C., Borrow, R., Safadi, M. A. P., van Damme, P.,
+& Munoz, F. M. (2021). Vaccines and routine immunization
+strategies during the COVID-19 pandemic. Human Vaccines
+& Immunotherapeutics, 17(2), 400–407.
+GAVI Alliance. (2019). Joint Appraisal Update Report 2019.
+Retrieved March 13, 2021, from https://www.gavi.org/sites/
+default/files/document/2020/Ghana%20Joint%20Appraisal%202019.pdf
+GAVI Alliance. (2021). COVID-19 vaccine doses shipped by
+the COVAX Facility head to Ghana, marking beginning of
+global roll-out. Retrieved March 14, 2021, from https://
+www.gavi.org/news/media-room/covid-19-vaccine-dosesshipped-covax-facility-head-ghana-marking-beginningglobal
+Ghana Health Service. (2023). Ghana health service COVID_19
+dashboard. Retrieved March 13, 2023, from https://www.
+ghanahealthservice.org/covid19/
+Green, D., & Loualiche, E. (2021). State and local government
+employment in the COVID-19 crisis. Journal of Public Economics, 193, Article 104321.
+John Hopkins University. (2023). Coronavirus Resource Centre: Understanding vaccination progress. Retrieved February 6, 2023, from https://coronavirus.jhu.edu/vaccines/
+international
+Kalu, M. E., Oyinlola, O., Ibekaku, M. C., Adandom, I. I.,
+Iwuagwu, A. O., Ezulike, C. J., Nwachukwu, E. C., &
+Uduonu, E. (2022). A mapping review on the uptake of the
+COVID-19 vaccine among adults in Africa using the 5As
+
+20
+vaccine taxonomy. The American Journal of Tropical Medicine and Hygiene, 106(6), 1688–1697.
+Levac, D., Colquhoun, H., & O’brien, K. K. (2010). Scoping
+studies: advancing the methodology. Implementation science,
+5, 1–9.
+Lupu, D., & Tiganasu, R. (2023). COVID-19 vaccination and
+governance in the case of low, middle and high-income
+countries. BMC Public Health, 23(1), 1–23.
+Malik, A. A., McFadden, S. M., Elharake, J., & Omer, S. B.
+(2020). Determinants of COVID-19 vaccine acceptance in
+the US. EClinicalMedicine, 26, Article 100495.
+Ministry of Finance. (2021). The Budget Statement and Economic Policy of the Government of Ghana for the 2021
+Financial Year. Retrieved March 13, 2021, from https://
+mofep.gov.gh/sites/default/files/budget-statements/2021Budget-Statement.pdf
+Newman, P. A., Reid, L., Tepjan, S., Fantus, S., Allan, K.,
+Nyoni, T., Guta, A., & Williams, C. C. (2022). COVID-19
+vaccine hesitancy among marginalized populations in the
+US and Canada: Protocol for a scoping review. PLOS ONE,
+17(3), Article e0266120.
+Nyasa, M., Chipungu, J., Ngandu, M., Chilambe, C., Nyirenda, H., Musukuma, K., Lundamo, M., Simuyandi, M.,
+Chilengi, R., & Sharma, A. (2023). Health care workers’
+reactions to the newly introduced hepatitis B vaccine in
+Kalulushi, Zambia: Explained using the 5A taxonomy. Vaccine: X, 13, Article 100274.
+Ofori, S. K., Schwind, J. S., Sullivan, K. L., Chowell, G., Cowling, B. J., & Fung, I. C. H. (2023). Age-stratified model to
+assess health outcomes of COVID-19 vaccination strategies,
+Ghana. Emerging Infectious Diseases, 29(2), 360.
+Pham, M. T., Rajić, A., Greig, J. D., Sargeant, J. M., Papadopoulos, A., & McEwen, S. A. (2014). A scoping review of
+scoping reviews: Advancing the approach and enhancing the
+consistency. Research Synthesis Methods, 5(4), 371–385.
+Statista. (2020). The cost per jab of COVID-19 vaccine candidates. Retrieved December 15, 2023, from https://www.statista.com/chart/23658/reported-cost-per-dose-of-covid-19vaccines/
+Statista. (2023). Domestic general government health expenditure as a share of Gross Domestic Product (GDP) in Ghana
+from 2008 to 2019. Retrieved Ferbuary 6, 2023, from
+https://www.statista.com/statistics/1124307/ghana-domestic-general-government-health-expenditure-as-share-of-gdp/
+The United Nations Children’s Fund (UNICEF). (2021).
+COVID-19 vaccine doses shipped by the COVAX Facility
+head to Ghana, marking beginning of global rollout.
+Retrieved March 13, 2021, from https://www.unicef.org/
+press-releases/covid-19-vaccine-doses-shipped-covax-facility-head-ghana-marking-beginning-global
+Thomson, A., Robinson, K., & Vallée-Tourangeau, G. (2016).
+The 5As: A practical taxonomy for the determinants of vaccine uptake. Vaccine, 34(8), 1018–1024.
+Tricco, A. C., Lillie, E., Zarin, W., O’Brien, K. K., Colquhoun,
+H., Levac, D., Moher, D., Peters, M. D. J., Horsley, T.,
+Weeks, L., Hempel, S., Akl, E. A., Chang, C., McGowan,
+J., Stewart, L., Hartling, L., Aldcroft, A., Wilson, M. G.,
+Garritty, C., & . Straus, S. E. (2018). PRISMA extension
+
+SAGE Open
+for scoping reviews (PRISMA-ScR): Checklist and explanation. Annals of Internal Medicine, 169(7), 467–473.
+U.S. Department of Health and Human Services, Public Health
+Emergency. (2020). U.S. government engages Pfizer to produce millions of doses of COVID-19 vaccine. Retrieved
+March 9, 2021, from https://www.medicalcountermeasures.
+gov/newsroom/2020/pfizer/
+World Health Organization. (2021a, February 9). COVID-19
+weekly epidemiological update (7 February 2021).
+World Health Organization. (2021b). Coronavirus disease
+(COVID-19): Vaccines. Retrieved March 9, 2021, from
+https://www.who.int/news-room/q-a-detail/coronavirus-disease-(covid-19)-vaccines?adgroupsurvey={adgroupsurvey}&gclid=Cj0KCQiA1pyCBhCtARIsAHaY_5djAkRnqlu8EddPjxq_-GJ7imQYoWQuxmjyq95ARfe6TpcizByEYNgaArjmEALw_wcB
+World Health Organization. (2021c). Ghana becomes recipient
+of historic first shipment of COVAX vaccines. Retrieved
+March 14, 2021, from https://www.afro.who.int/news/
+ghana-becomes-recipient-historic-first-shipment-covaxvaccines
+World Health Organization (2022). Africa’s COVID-19 vaccine
+uptake increases by 15%. Retrieved March 13, 2023, from
+https://www.afro.who.int/news/africas-covid-19-vaccineuptake-increases-15
+World Health Organization. (2023). WHO coronavirus
+(COVID-19) dashboard. Retrieved February 6, 2023, from
+https://covid19.who.int/
+Yawson, A. E., Bonsu, G., Senaya, L. K., Yawson, A. O.,
+Eleeza, J. B., Awoonor-Williams, J. K., Banskota, H. K., &
+Agongo, E. E. A. (2017). Regional disparities in immunization services in Ghana through a bottleneck analysis
+approach: implications for sustaining national gains in
+immunization. Archives of Public Health, 75(1), 1–10.
+
+Bibliography for reviewed papers
+Acheampong, T., Akorsikumah, E. A., Osae-Kwapong, J.,
+Khalid, M., Appiah, A., & Amuasi, J. H. (2021). Examining
+vaccine hesitancy in Sub-Saharan Africa: A survey of the
+knowledge and attitudes among adults to receive COVID19 vaccines in Ghana. Vaccines, 9(8), Article 814.
+Addo, P. C., Kulbo, N. B., Sagoe, K. A., Ohemeng, A. A., &
+Amuzu, E. (2021). Guarding against COVID-19 vaccine
+hesitance in Ghana: Analytic view of personal health
+engagement and vaccine related attitude. Human Vaccines &
+Immunotherapeutics, 17(12), 5063–5068.
+Adjaottor, E. S., Addo, F. M., Ahorsu, F. A., Chen, H. P., &
+Ahorsu, D. K. (2022). Predictors of COVID-19 stress and
+COVID-19 vaccination acceptance among adolescents in
+Ghana. International Journal of Environmental Research and
+Public Health, 19(13), Article 7871.
+Adomako, N. O., Mante, P. K., Mozu, I. E., Amoh, K. N.,
+Amponsah, O., Akplah, L., & Marfo, A. F. (2021). COVID19 vaccine acceptance among the Ghanaian population.
+GCP Journal. https://gcpharm.edu.gh/articles/16-covid-19vaccine-acceptance-among-the-ghanaian-population/
+Afrifa-Anane, G. F., Larbi, R. T., Addo, B., Agyekum, M. W.,
+Kyei-Arthur, F., Appiah, M., Agyemang, C. O., & Sakada,
+
+Agboh and Yarney
+I. G. (2022). Facilitators and barriers to COVID-19 vaccine
+uptake among women in two regions of Ghana: A qualitative study. PLOS ONE, 17(8), Article e0272876.
+Agyekum, M. W., Afrifa-Anane, G. F., Kyei-Arthur, F., &
+Addo, B. (2021). Acceptability of COVID-19 vaccination
+among health care workers in Ghana. Advances in Public
+Health, 2021, 1–8.
+Alhassan, R. K., Aberese-Ako, M., Doegah, P. T., Immurana, M.,
+Dalaba, M. A., Manyeh, A. K., Klu, D., Acquah, E., Ansah, E.
+K., & Gyapong, M. (2021). COVID-19 vaccine hesitancy among
+the adult population in Ghana: Evidence from a pre-vaccination
+rollout survey. Tropical Medicine and Health, 49(1), 1–13.
+Alhassan, R. K., Nketiah-Amponsah, E., Immurana, M., &
+Abuosi, A. A. (2022). Financing COVID-19 vaccination in
+sub-Saharan Africa: Lessons from a nation-wide willingness to
+pay (WTP) survey in Ghana. BMC Public Health, 22(1), 1–14.
+Amo-Adjei, J., Nurzhynska, A., Essuman, R., & Lohiniva, A.
+L. (2022). Trust and willingness towards COVID-19 vaccine
+uptake: A mixed-method study in Ghana, 2021. Archives of
+Public Health, 80(1), Article 64.
+Amponsa-Achiano, K., Frimpong, J. A., Barradas, D., Bandoh, D. A., & Kenu, E. (2022). Leveraging lessons learned
+from yellow fever and polio immunization campaigns during COVID-19 pandemic, Ghana, 2021. Emerging Infectious
+Diseases, 28(Suppl. 1), S232–S237.
+Aram, S. A., Hagan, J. E., Jr., Mansoh, G. K. A., Saalidong, B.
+M., Lartey, P. O., Ahinkorah, B. O., Seidu, A. A., Ameyaw,
+E. K., Appiah, A., Hotor, D. W., & Gyimah, J. (2021).
+Effects of vaccine health and safety perceptions on COVID19 vaccine uptake in Ghana: Implications for implementing
+rollout programs. Research Square. https://doi.org/10.
+21203/rs.3.rs-952497/v1
+Asumah, M. N., Abubakari, A., Fosu, B., Dzantor, E. K.,
+Agyapong, P. D., Harrison, S. B., Apio, G., & Abukari, A.
+K. (2022). Determinants of COVID-19 vaccine acceptance
+and hesitancy among healthcare professionals in the Kintampo North Municipality, Bono East Region, Ghana.
+Ghana Medical Journal, 56(3), 152–159.
+Awuni, J. A., Ayamga, M., & Dagunga, G. (2022) Covid-19
+vaccination intensions among literate Ghanaians: Still the
+need to dissipate fear and build trust on vaccine efficacy?
+PLOS ONE, 17(6), Article e0270742.
+Boi-Dsane, N. A., Dzudzor, B., Alhassan, Y., & Aheto, J. M.
+(2023). Prevalence of common adverse events experienced
+following COVID-19 vaccination and its associated factors
+in Ghana: Cross-sectional study design. Health Science
+Reports, 6(1), Article e1012.
+Botwe, B. O., Antwi, W. K., Adusei, J. A., Mayeden, R. N.,
+Akudjedu, T. N., & Sule, S. D. (2022). COVID-19 vaccine
+hesitancy concerns: findings from a Ghana clinical radiography workforce survey. Radiography, 28(2), 537–544.
+Dubik, S. D. (2022). Understanding the facilitators and barriers to COVID-19 vaccine uptake among teachers in the
+Sagnarigu Municipality of Northern Ghana: A crosssectional study. Risk Management and Healthcare Policy,
+15, 311–322.
+Forkuo, B. T., Osarfo, J., & Ampofo, G. D. (2022).
+COVID-19 vaccine acceptance and its determinants in
+
+21
+the Bono Region of Ghana. Ghana Medical Journal,
+56(4), 239–245.
+Kyei-Arthur, F., Kyei-Gyamfi, S., Agyekum, M. W., AfrifaAnane, G. F., & Amoh, B. A. (2022). Parents’ and guardians’ acceptability of COVID-19 vaccination for children
+in Ghana: An online survey. PLOS ONE, 17(8), Article
+e0272801.
+Lamptey, E., Serwaa, D., & Appiah, A. B. (2021). A nationwide survey of the potential acceptance and determinants of
+COVID-19 vaccines in Ghana. Clinical and Experimental
+Vaccine Research, 10(2), 183–190.
+Lohiniva, A. L., Nurzhynska, A., Hudi, A. H., & Anim, B.
+(2022). Infodemic management using digital information
+and knowledge cocreation to address COVID-19 vaccine
+hesitancy: Case study from Ghana. JMIR Infodemiology,
+2(2), Article e37134.
+Nonvignon, J., Owusu, R., Asare, B., Adjagba, A., Aun, Y. W.,
+Yeung, K. H. T., Azeez, J. N. K., Gyansa-Lutterodt, M.,
+Gulbi, G., Amponsa-Achiano, K., Dadzie, F., Armah, G.
+E., Brenzel, L., Hutubessy, R., & Resch, S. C.Ghana Health
+Technology Assessment Technical Working Group. (2022).
+Estimating the cost of COVID-19 vaccine deployment and
+introduction in Ghana using the CVIC tool. Vaccine, 40(12),
+1879–1887.
+Ofori, S. K., Schwind, J. S., Sullivan, K. L., Chowell, G., Cowling, B. J., & Fung, I. C. (2023). Age-stratified model to
+assess health outcomes of COVID-19 vaccination strategies,
+Ghana. Emerging Infectious Diseases, 29(2), 360–370.
+Okai, G. A., & Abekah-Nkrumah, G. (2022). The level and
+determinants of COVID-19 vaccine acceptance in Ghana.
+PLOS ONE, 17(7), Article e0270768.
+Serwaa, D., Osei-Boakye, F., Nkansah, C., Ahiatrogah, S.,
+Lamptey, E., Abdulai, R., Antwi, M. H., Wirekoh, E. Y.,
+Owusu, E., Buckman, T. A., & Danquah, M. (2021). Nonlife-threatening adverse reactions from COVID-19 vaccine;
+A cross-sectional study with self-reported symptoms among
+Ghanaian healthcare workers. Human Vaccines & Immunotherapeutics, 17(11), 3881–3886.
+Twum, K. K., Ofori, D., Agyapong, G. K. Q., & Yalley, A. A.
+(2021). Intention to vaccinate against COVID-19: A social
+marketing perspective using the theory of planned behaviour
+and health belief model. Journal of Social Marketing, 11(4),
+549–574.
+Webster, F., Bremner, S., Oosenbrug, E., Durant, S., McCartney, C. J., & Katz, J. (2017). From opiophobia to overprescribing: A critical scoping review of medical education
+training for chronic pain. Pain Medicine, 18(8), 1467–1475.
+Yeboah, P., Daliri, D. B., Abdin, A. Y., Appiah-Brempong, E.,
+Pitsch, W., Panyin, A. B., Adusei, E. B. A., Razouk, A.,
+Nasim, M. J., & Jacob, C. (2021). Knowledge into the practice against COVID-19: A cross-sectional study from
+Ghana. International Journal of Environmental Research and
+Public Health, 18(24), Article 12902.
+Zhou, L., Ampon-Wireko, S., Xu, X., Quansah, P. E., & Larnyo, E. (2022). Media attention and Vaccine Hesitancy:
+Examining the mediating effects of Fear of COVID-19 and
+the moderating role of Trust in leadership. PLOS ONE,
+17(2), Article e0263610.
+
+

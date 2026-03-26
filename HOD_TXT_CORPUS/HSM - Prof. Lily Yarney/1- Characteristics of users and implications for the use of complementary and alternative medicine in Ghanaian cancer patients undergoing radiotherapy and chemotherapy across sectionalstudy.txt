@@ -1,0 +1,1241 @@
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+RESEARCH ARTICLE
+
+Open Access
+
+Characteristics of users and implications for the
+use of complementary and alternative medicine
+in Ghanaian cancer patients undergoing
+radiotherapy and chemotherapy:
+a cross- sectional study
+Joel Yarney1*, Andrew Donkor1, Samuel Y Opoku2, Lily Yarney3, Isaac Agyeman-Duah1, Alice C Abakah4
+and Emmanuel Asampong3
+
+Abstract
+Background: There is widespread use of Complementary and Alternative Medicine (CAM) in Ghana, driven by
+cultural consideration and paradigm to disease causation. Whether there is concurrent use of conventional
+medicine and CAM in cancer patients is unknown. This study investigates the prevalence, pattern and predictors of
+CAM use in cancer patients. Overlapping toxicity, sources of information, and whether users inform their doctor
+about CAM use is examined.
+Method: Cross-sectional study using a questionnaire administered to cancer patients, who were receiving
+radiotherapy and or chemotherapy or had recently completed treatment at a single institution was used.
+Results: Ninety eight patients participated in the study with a mean age of 55.5 (18–89), made up of 51% females.
+Married individuals formed 56% of the respondents, whilst 49% had either secondary or tertiary education. Head
+and neck cancer patients were 15.3%, breast (21.4%), abdomen/pelvic cancers constituted (52%).Seventy seven
+(78.6%) patients received radiotherapy only, 16.3% received radiation and chemotherapy and 5.3% had
+chemotherapy only.
+Ninety five patients were diagnosed of cancer within the past 24 months,73.5% were CAM users as follows;
+massage(66.3%), herbal(59.2%), mega vitamins(55.1%), Chinese medicine(53.1%),and prayer(42.9%). Sixty eight
+percent were treated with curative intent. Overlapping toxicity was reported. Majority (83.3%) of users had not
+informed their doctor about CAM use.
+On univariate analysis, female (p=0.004) and palliative patients, p=0.032 were more likely to be CAM users.
+Multivariate analysis identified female (p<0.01), as significant for use, whilst head and neck site was significant for
+non use (p<0.028). Young, married and highly educated individuals are more likely to use CAM.
+Friends and Media are the main sources of information on CAM. There was increase in CAM use after the diagnosis
+of cancer mainly for Chinese Medicine and vitamins.
+(Continued on next page)
+
+* Correspondence: kodwoahen@gmail.com
+1
+National Centre for Radiotherapy and Nuclear Medicine, Korle Bu Teaching
+Hospital, Accra, Ghana
+Full list of author information is available at the end of the article
+© 2013 Yarney et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 2 of 9
+
+(Continued from previous page)
+
+Conclusion: There is high CAM usage among Cancer patients, comparable to use in the general population, there is
+concurrent use of CAM and conventional medicine with reported overlapping toxicity but without informing Oncologist
+about use. Women and palliative patients are more likely to use CAM. Doctor patient communication on
+herbal-radiotherapy and drug treatment interaction needs to be strengthened. Standardization and regulation of CAM
+use is paramount.
+Keywords: Complementary, Alternative, Medicine, Radiotherapy, Chemotherapy, Cancer, Traditional, User-characteristics,
+Toxicity
+
+Background
+Complementary and alternative medicine (CAM) has been
+defined as diagnosis, treatment or prevention that complements mainstream medicine by contributing to a common
+whole, by satisfying a demand not met by orthodoxy or by
+diversifying the conceptual framework of medicine [1,2].
+Elements of what is referred to as CAM in contemporary
+literature were main stream medicine in West Africa prior
+to the arrival of “Western Medicine”, it is therefore not a
+new phenomenon. In Ghana, about 70% of the population
+depend on traditional medicine for their health care. There
+is approximately one traditional medicine practitioner for
+every 400 people, compared to one allopathic doctor for
+every 12, 000 people [3].
+Whether an individual uses CAM or not is related to
+social and cultural considerations, including paradigm to
+disease causation. Chronic disease including cancer is
+attributed to the following; poor diets, poor lifestyle practices, heredity, physical factors, the environment, spiritual
+factors and psychological factors [4], health seeking behaviour is informed by these factors. In current times there is
+often a conflict between legitimized orthodox medicine and
+delegitimized traditional herbs and remedies.
+The cost of orthodox medicine is often prohibitive to
+many individuals, for a large proportion of individuals who
+cannot afford these medicines, CAM remains the only
+alternative. Additionally the recent proliferation of media
+that promote the use of all forms of CAM seem to influence its use. Unlike conventional therapies that are regulated by law, and require practitioners to be registered and
+regulated, CAM practioners are difficult to track, consequences of their practice including untoward effects of the
+treatments are not documented.
+Cancer is the third leading cause of death in developing
+countries [5]. Survival has improved over the years for
+many cancers resulting from improvement in conventional
+therapies and early presentation [6,7]. Despite this improvement, the effects of the treatment may still be a major
+concern to patients sufficiently for them to consider nonconventional treatment [8]. Indeed, most patients in the
+developing world including Ghana are diagnosed at a stage
+when most conventional therapies fail; this leads to a
+vicious cycle in which patients present late on the
+
+understanding that nothing can be done anyway, therefore
+they may as well resort to other therapies [9].
+Acute side effects of chemotherapy and radiotherapy can
+occasionally be life threatening, it may affect patient compliance in addition to making them vulnerable to the adoption of alternative forms of treatment which promise cure.
+There may be overlapping side effects of treatment, which
+worsen the side effects that are caused by conventional
+therapies with a potential to have a negative influence on
+compliance to treatment thereby diminishing outcomes for
+conventional therapy, an example is gastrointestinal toxicity
+due to shark cartilage, and used by many for treatment of
+cancer even though it has no anti-tumour activity in the
+laboratory [10,11]. There could be drug-herb- vitamin
+interaction that works to reduce the efficacy of chemotherapeutic and hormonal treatment. The use of antioxidants
+and vitamin C during radiation therapy and chemotherapy
+could have a negative impact on outcomes [12]. In spite of
+these interactions, majority of patients do not inform their
+physician about concurrent use.
+Literature from Sub Saharan Africa with respect to the
+use of CAM in Cancer patients is sparse, moreover demography of patients that are likely to use CAM, and reasons
+for use may be different from what pertains in developed
+countries because it is related to culture. We do not know
+much about concurrent use of CAM, and its potential
+consequences.
+We therefore undertook to determine the following; (i)
+prevalence of CAM use among cancer patients, reasons for
+use, whether it is used concurrently with conventional therapies, whether they inform their Oncologist about concurrent use, and possible overlapping toxicity,(ii)sources of
+information on CAM, (iii) demography (age, sex, marital
+status, and level of education of patients who use CAM,(iv)
+whether the use of CAM is influenced by the intention to
+treat (palliative versus curative),and disease site and (v)
+effect of CAM use on treatment compliance.
+
+Methods
+A cross-sectional descriptive survey design was used to collect data employing a questionnaire Additional file 1. The
+questionnaire on the use of complementary and alternative
+medicine designed by Emmanuel Ezeome was adopted and
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 3 of 9
+
+modified [13]. It was based on the National Center for
+Complementary and Alternative Medicine in USA’s classification of CAM therapies into five categories. The questionnaire was used to study the use of complementary and
+alternative medicine by cancer patients in Nigeria. This
+questionnaire which has been validated was chosen because
+of the cultural and geographical proximity of the two
+countries.
+The questionnaire was administered from 11th May 2010
+to 25th June 2010 after pretesting among 5 patients
+randomly selected from the outpatient department of the
+National Center for Radiotherapy and Nuclear Medicine of
+Korle Bu Teaching Hospital, Accra, the largest hospital in
+Ghana. The respondents had previously received anticancer therapy or were either undergoing radiotherapy or
+chemotherapy or both, they may or may not have submitted to Surgery in the past. Based on their responses, appropriate changes were made to the questionnaire.
+Consent was obtained from each participant prior to administration. The questionnaire was administered by one of
+the authors who read it out to illiterate patients, the rest
+completed it independently. Respondents were either waiting to be seen by a physician, or to be treated.
+Respondents were selected by convenient sampling
+provided they meet the following criteria; they had to be
+18 years of age and above, diagnosed of cancer and
+referred to the National Centre for Radiotherapy and
+Nuclear Medicine, Korle-Bu Teaching Hospital for
+management. Patients, who were blind, deaf and dumb,
+mentally retarded or being managed on emergency basis
+or with poor performance status were excluded, as were
+those who participated in the pilot study.
+Clinical characteristics and intention to treat (palliative
+versus curative) were gleaned from the patient chart.
+Ethical approval was obtained from the Ethical Review
+Committee of the School of Allied Health Sciences,
+College of Health Sciences, University of Ghana.
+Confidentiality of the information that the patients
+provided was ensured.
+The data collected was analysed using statistical package
+for social sciences (SPSS 16.0 software, Chicago, IL).
+Descriptive statistics of frequencies and percentages was
+used to describe the categorical variables as well as chisquare contingency table technique. Multivariate analysis
+was performed using binary logit regression software, SAS
+version 9.0 (Cary, NC 27513 USA). P - Value < 0.05 was
+considered significant.
+
+were 48(49%) and 50 (51%) respectively, whilst 55 (56%)
+were married and 43 (44%) were either single or divorced.
+Fifty respondents representing 51% of patients had received
+basic education, whilst 48 of them representing 49% had
+undergone either secondary or tertiary education.
+
+Results and discussion
+Patient characteristics
+
+Ninety eight patients were interviewed, none of the patients
+approached to answer the questionnaire declined. Patient
+age ranged from 18 to 89, with a mean of 55.5 years and a
+standard deviation of 17.1. Male and female respondents
+
+Clinical characteristics
+
+Fifteen respondents representing 15.3% had been diagnosed
+with cancer of the head and neck region, breast cancer
+constituted 21.4%, cancers of the abdomen/pelvic organs
+(mainly cervix, rectum, stomach and prostate) comprised
+52%, and others; 11.3%. Five respondents (5.1%), received
+only chemotherapy, 16(16.3%), received both chemotherapy
+and radiotherapy, whilst 77 (78.6%) had radiotherapy only.
+0ver 95% of patients were diagnosed of cancer within the
+past 24 months of the study. Sixty eight percent of respondents were treated with curative intent, whilst 22% were
+treated with palliative intent; the intention to treat was not
+available in 10% of cases examined.
+Among CAM users, 62.7% noted not abandoning
+conventional treatment for CAM. Majority (83.3%) of the
+CAM users did not inform their doctors about the CAM
+they were using or had used in the past.
+Reported side effects include gastric upsets, nausea,
+itching, headaches, diarrhoea, and stomach aches. Others
+are dizziness, unpleasant smell, water retention, loss of
+appetite, and bleeding.
+Pattern of CAM use
+
+CAM was used by 73.5% of respondents whilst 26.5% had
+not used it at all. Table 1 describes the pattern of CAM use.
+Respondents used more than one CAM at a time. Excluding the column “hope to use” and “used in the past”, the
+top five CAM used are Massage (66.3%), Herbal (59.2%),
+Mega vitamins (55.1%), Chinese Medicine (53.1%) and
+Prayers (42.9%) in decreasing order of use.
+How patients got to know about CAM
+
+When asked about how they got to know about the CAM
+they were using, they answered as follows; Friends (33.8%),
+Mass Media (24.6%), Family members (16.9%), Health
+personnel (9.6%), CAM Practitioners (6.2%), Church and
+Religious Groups (6.2%), and not sure (4.6%).
+Reasons for use or avoidance of CAM
+
+Participants were asked to note their reasons for using
+CAM. Among the reasons given were; they wanted to just
+try anything (31.2%), based on faith and beliefs (21.9%), and
+believing the sickness was spiritual (15.6%). Other reasons
+given were, conventional treatment is too mechanical
+(12.5%), disappointed in conventional treatment (9.4%), and
+conventional treatment is too toxic (9.4%).
+Benefits patients expected to derive from the CAM
+they used include; to fight the cancer (40.6%), to relieve
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 4 of 9
+
+Table 1 Pattern of CAM use
+Frequency (n)
+Types of CAM used by patients
+
+Used in the past
+
+Used since this cancer
+
+Hope to use
+
+Both in the past and since this cancer
+
+High dose/mega vitamins
+
+3
+
+41
+
+2
+
+13
+
+Herbal
+
+8
+
+28
+
+0
+
+30
+
+24
+
+15
+
+2
+
+27
+
+Rituals
+
+1
+
+30
+
+3
+
+1
+
+music therapy
+
+24
+
+5
+
+4
+
+11
+
+Relaxation
+
+13
+
+15
+
+8
+
+9
+
+Support group
+
+1
+
+18
+
+38
+
+5
+
+Chinese medicine
+
+0
+
+43
+
+6
+
+9
+
+Indian medicine
+
+0
+
+13
+
+16
+
+1
+
+Acupuncture
+
+0
+
+7
+
+5
+
+0
+
+Homeopathy
+
+0
+
+9
+
+8
+
+0
+
+Biological Based Therapies
+
+Mind-Body Systems
+Prayers
+
+Alternative Medical Systems
+
+Manipulative and Body Based Therapies
+Chiropractic
+
+0
+
+2
+
+10
+
+0
+
+Osteopathy
+
+2
+
+8
+
+6
+
+1
+
+Massage
+
+3
+
+24
+
+1
+
+41
+
+Reflexology
+
+1
+
+1
+
+11
+
+2
+
+Electromagnetic
+
+1
+
+6
+
+11
+
+0
+
+Therapeutic touch
+
+0
+
+3
+
+10
+
+0
+
+Energy Therapies
+
+symptoms of the cancer/conventional treatment (23.2%),
+and to relax or sleep (17.4%). Other expected benefits
+were to improve the emotional and physical well being
+(14.5%) and to assist in wound healing (4.3%).
+Non- CAM users were asked to note why they did not
+use it. Some had no faith in the effectiveness of CAM,
+others never thought of CAM, or were discouraged by
+some users of CAM, and yet others believed in the conventional medicine they were receiving and thought CAM was
+unnecessary.
+Statistical analysis
+
+Tables 2 and 3 depict details of univariate and logistic
+regression analysis respectively performed on the data
+derived from the questionnaire.
+Elements of what is referred to as CAM in contemporary
+literature are part of the lifestyle of Ghanaians and West
+Africans, and have been practised since antiquity. This is
+very different from what is reported in the literature from
+Europe and North America. Whether there is concurrent
+use of CAM and modern medicine in cancer patients, and
+its consequences are not documented in our environment.
+In this study we sought to establish whether there is concurrent use of CAM and main stream medicine, prevalence
+
+of CAM use in cancer patients, the kinds of CAM used,
+the potential influence of CAM use on compliance to treatment, side effects of CAM, and predictors of CAM use in a
+setting where there is a changing paradigm to disease
+causation.
+Participants were approached and invited to participate
+in the completion of the questionnaire instead of using
+mailed questionnaire, none of the patients invited to
+participate in the study declined (response rate of 100%) .
+In mailed questionnaire, non CAM users are likely not to
+respond, thus introducing bias, to that extent, our method
+is advantageous.
+The study was carried out in Korle Bu Teaching Hospital
+which provides tertiary services and therefore has a good
+mix of rural and urban clientele, drawn from all over the
+country but with majority from the south.
+While some studies included only a single disease site,
+quite a number also involved multiple disease sites like ours
+and were not restricted to a particular CAM [13-16].
+We found that 73.5% of cancer patients used CAM for
+various reasons. This figure is close to the reported prevalence of CAM use in the general Ghanaian population of
+70%, most patients are therefore CAM users even before
+diagnosis and do not stop the practice because they are
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 5 of 9
+
+Table 2 Contingency table of Patient characteristics and CAM use
+CAM
+
+USE
+
+observed
+
+expected
+
+Yes
+
+29
+
+36.7
+
+No
+
+43
+
+35.3
+
+chi square
+p-value
+
+(X2)
+
+Male
+
+Sex
+
+0.004
+
+8.206
+
+0.539
+
+0.385
+
+0.463
+
+0.561
+
+0.427
+
+0.63
+
+0.665
+
+21.9
+
+Female
+Yes
+
+19
+
+13.3
+
+No
+
+7
+
+12.7
+
+27
+
+25.7
+
+45
+
+46.3
+
+>50
+Yes
+No
+Age Range
+≤50
+Yes
+
+18
+
+16.7
+
+No
+
+8
+
+9.3
+
+Yes
+
+42
+
+40.4
+
+No
+
+30
+
+31.6
+
+Yes
+
+13
+
+14.6
+
+No
+
+13
+
+11.4
+
+Yes
+
+35
+
+36.7
+
+No
+
+37
+
+35.3
+
+Yes
+
+15
+
+13.3
+
+No
+
+11
+
+12.7
+
+Yes
+
+12
+
+10
+
+No
+
+17
+
+14
+
+Yes
+
+38
+
+34
+
+No
+
+5
+
+14
+
+3
+
+5
+
+No
+
+4
+
+7
+
+Yes
+
+13
+
+17
+
+No
+
+16
+
+7
+
+47
+
+47.9
+
+Married
+
+Marital Status
+Single and Divorce
+
+Basic
+
+Level of Education
+Secondary and Tertiary
+
+Head and Neck
+
+Breast
+
+Cancer Cases
+Abdomino-Pelvic
+Yes
+
+Other
+
+Curative
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 6 of 9
+
+Table 2 Contingency table of Patient characteristics and CAM use (Continued)
+Yes
+No
+
+19
+
+15.5
+
+Treatment Intent
+
+0.032
+
+6.9
+
+Palliative
+Yes
+
+21
+
+20.1
+
+No
+
+3
+
+6.51
+
+undergoing anti cancer treatment. CAM is used both for
+prevention, maintenance and curative purpose [3]. For
+instance it is believed that most diseases are caused by
+accumulation of mucus in the body, any treatment or concoction that removes mucus like laxatives is considered to
+have medicinal potential according to CAM practitioners.
+It is not uncommon to hear advocates of CAM use advertising this feature even to healthy individuals and encouraging its use to promote and maintain health. A study
+reported no difference in CAM use between cancer
+patients and non cancer patients, this is however not consistent with other studies [14,16].
+In a review of 26 surveys from 13 countries carried out
+from 1977 to 1998, prevalence of CAM use in cancer
+patients was 31.4% with a range of 7% to 64% [17], more
+recent studies have reported 70.2% and 83.3% [15,18]. This
+may be a reflection of the instrument used, the definition of
+CAM and the sample size, nevertheless our reported figure
+falls within this range, the only difference is that in our
+setting, cancer patients have not resorted to its use only
+because of the diagnosis.
+The most frequently used CAM types reported is a
+reflection of the perception of disease causation. A recent
+study on the causes of chronic disease including cancer in
+Ghana reported seven causes as follows; poor diets, poor
+
+lifestyle practices, heredity, physical factors, the environment, spiritual factors and psychological factors. In view of
+this, within an individual, there is often a conflict between
+the legitimized orthodox medicine and the often frowned
+upon local medicine since these ideas are well ingrained
+[4]. It is therefore not surprising that patients continue to
+use CAM in addition to orthodox medicine.
+Massage, herbalism, vitamins, chinese medicine and
+prayers are the most subscribed CAM. This is not too
+different from studies carried out elsewhere, except that
+Massage and Spiritual Practice(Prayers) ranked high,
+compared to other cultural settings, but this is similar to
+the picture from Nigeria probably because of similarities in
+culture [13], the only deviation with respect to other
+reports in Africa is the high usage of Chinese Medicine in
+Ghana. Chinese medicine, Vitamins and Rituals witnessed
+the greatest increase in usage after the diagnosis of cancer.
+The least used CAM like osteopathy, reflexology and electromagnetic touch, may be a reflection of availability rather
+than preference for the others [16].
+In Ghana, most conventional therapies are out of pocket
+payments similar to CAM, insurance cover or affordability
+may therefore not necessarily be a predictive factor. There
+is however a wide range in the cost of most CAM, ranging
+from very expensive to free. Resort to CAM use may be the
+
+Table 3 Results of logistic regression for the model
+Parameter
+
+Df
+
+Estimate (β)
+
+Pr > chisq
+
+Odds ratio
+
+CI 95%
+
+Intercept
+
+1
+
+0.953
+
+0.467
+
+Marital status
+
+1
+
+0.013
+
+0.647
+
+1.295
+
+0.429- 3.912
+
+Gender
+
+1
+
+Age
+
+1
+
+−1.012
+
+0.010
+
+0.132
+
+0.028 - 0.617
+
+−0.038
+
+0.102
+
+0.963
+
+0.920 - 1.008
+
+Education 0
+1
+
+1
+
+0.544
+
+0.256
+
+0.982
+
+0.189 – 5.104
+
+1
+
+−0.761
+
+0.116
+
+0.266
+
+0.46 – 1.532
+
+2
+
+1
+
+−0.345
+
+0.549
+
+0.404
+
+0.059 – 2.768
+
+Tumour site 0
+
+1
+
+−0.297
+
+0.562
+
+0.151
+
+0.026 – 0.869
+
+1
+
+1
+
+−1.476
+
+0.028
+
+0.046
+
+0.005 – 0.421
+
+2
+
+1
+
+0.177
+
+0.811
+
+0.242
+
+0.026 - 2.263
+
+Treatment Intent 0
+
+1
+
+0.199
+
+0.686
+
+0.730
+
+0.102 – 5.208
+
+1
+
+1
+
+−0.712
+
+0.282
+
+0.293
+
+0.025 – 3.85
+
+Marital status (married = 1, single=0) Gender(male=1, female=0); Age was used as a continuous variable Educ. (Basic = 0, Sec. = 1, Tert. = 2, uneduc. = 3) Tumour
+site (Abd/pel = 0, H/Neck = 1, Thorax = 2, other =3) Treatment Int. (curative = 0, Palliative = 1, unspecified =2).
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 7 of 9
+
+only choice available when the cost of conventional therapy
+is high relative to the choice of a particular CAM that is
+available to the patient.
+Some patients used CAM because they wanted to just try
+anything (31.2%); this is a reflection of doubt in the efficacy
+of conventional treatment. Majority of patients in the developing world including Ghana are diagnosed at a stage
+when most conventional therapies fail; this is a result of the
+absence of screening and educational programmes, as well
+as paradigm to disease causation, others also recur after
+varying periods of remission and majority become incurable
+with conventional therapies. In a study among newly diagnosed breast cancer patients, the causes of delayed presentation were: previous medical consultations 26(29.4%),
+ignorance 19(28.8%), fear of mastectomy 16(24.2%), herbal
+treatment 13(19.7%), prayer/prayer camps 13(19.7%) and
+financial incapability 12(18.2%). Fear of mastectomy 20
+(57.1%), herbal treatment 13(37.1%), financial incapability
+11(31.4%) and prayers/prayer camps 10(28.6%) which were
+prominent causes of late presentation, were the main
+reasons for absconding [9]. A vicious cycle of late presentation emanating from paradigm to disease causation leading
+to diminished chances of cure and therefore reduced belief
+in the efficacy of conventional therapies ensues and
+increases subscription to CAM.
+Whilst 40.6% of CAM users actually believed that CAM
+fights the cancer, majority used it to improve their quality
+of life by relieving symptoms caused by the cancer or
+conventional therapy(23.2%), relax or sleep(17.4%), for
+improvement in the emotional and physical well being
+(14.5%) and wound healing(4.3%). This finding is similar to
+that found in United States where patients resorted to
+CAM to improve their quality of life, boost the immune
+system and relieve symptoms [15] but is at variance with
+what is reported by patients from Nigeria, United Kingdom
+and Turkey where users expected CAM to directly cure
+their disease [13,19,20].
+Positive results have been reported for some forms of
+CAM, for instance, acupuncture has been shown to
+relieve chemotherapy induced nausea and vomiting [21],
+self-hypnosis, massage or acupuncture induce pain relief
+[22], short term improvement in psychological well
+being with aromatherapy massage and relief of dyspnoea
+with acupuncture, acupressure or relaxation/breathing
+techniques [23].
+Non users cited lack of belief in the efficacy of CAM,
+others were discouraged by previous users reflecting a
+negative experience with the use of CAM.
+The reported side effects may be a result of the biological
+activity of the active ingredients in ingested CAM [24] or
+pesticide, fungal and bacterial contamination [25]. There
+may be use of incorrect plant species [26], absence of
+standardisation (leading to possible substitution, adulteration, incorrect dosing or preparation and inappropriate
+
+labelling or advertising) [27]. Some herbal preparations
+have toxic effects (kava causes hepatotoxicity), interact with
+prescription drugs (St John Wort), or cause surgical complications (garlic, ginko and ginseng may enhance bleeding
+and ginseng causes hypoglycaemia) [27,28].
+Pelvic radiation causes inflammation of the bowel
+(enteritis and proctitis) in itself, additional gastrointestinal toxicity arising from any of the factors listed is
+likely to exacerbate diarrhoea and abdominal cramps.
+In a study carried out in Ghana, 52.9% clients of traditional medicine and 75% orthodox medicine users
+claimed that the use of traditional medicine is not safe
+as compared to orthodox medicine, but only 17.1% and
+5% of traditional medicines users and orthodox medicine
+users respectively described traditional medicine usage
+as remarkably safe and totally out of harm’s way [29].
+The observation that 83.3% of CAM users had not
+informed their doctors about CAM use is troubling because
+of the issues associated with concurrent use as described
+including the negative effect of supplemental anti oxidant
+and vitamin administration during radiotherapy and
+chemotherapy [12] and the detrimental effect of vitamin E
+and Selinium as demonstrated in the SELECT study [30].
+In a systematic review comprising 21 studies, 11% to 95%
+admitted CAM use, however between 20% and 77% of
+users did not disclose their CAM use to their Oncologist.
+Reasons cited include; doctors lack of enquiry, patients
+anticipation of doctors disapproval, disinterest, or inability
+to help, and patients perception that disclosure of CAM
+use is irrelevant to their conventional care [31].
+Predictors of CAM use in our setting are gender and
+intention to treat on univariate analysis (table 2). Women
+and patients treated with palliative intent are more likely to
+use CAM, with p values of 0.004 and 0.032 respectively.
+Age, marital status, level of education and tumour site were
+not statistically significant. Our finding in relation to
+intention to treat is in agreement with those of Molassiotis
+et al., who reported greater use in patients treated with
+palliative intent or patients treated for cancers with poorer
+prognosis [16]. Kritoffersen et al. also reported higher
+prevalence of CAM use among cancer patients with poorer
+prognosis, other studies have reported otherwise [32].
+Even in an environment of high CAM usage by the general population, gender continued to be significant on
+multivariate analysis (p=0.01) (table 3). Tumour site was
+also seen to be a significant factor affecting the use of CAM
+with a p-value of 0.028. It can be said that, those married
+are 29.5% more likely to use CAM than singles. Males are
+86.8% less likely to use CAM than females. Similarly, a year
+increase in age reduces the use of CAM by 3.7%. In other
+words younger people have a higher tendency to use CAM.
+At the educational level, those with basic, secondary and
+tertiary education are 1.8%, 73.4% and 59.6% less likely to
+use CAM than the uneducated. As one moves from
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+Page 8 of 9
+
+secondary to tertiary level of education, there is an increase
+in CAM usage but those with basic education have a higher
+usage of CAM. Tumours at the abdominal/pelvic, head and
+neck and thoracic areas are 84.9%, 95.4% and 75.8%
+respectively less likely than tumours at other parts of the
+body to use CAM, particularly head and neck patients are
+less likely to use CAM, this is probably due to the difficulty
+such patients have with swallowing. These findings are in
+agreement with most studies [13-16].
+Media and friends constitute the greatest source of
+information on CAM. In spite of the fact that radio coverage in Ghana is almost hundred percent, its content with
+respect to traditional medicine is hardly regulated, with
+vendors making unsubstantiated claims that potentially
+influences patient behaviour and preference. The preparations on the market usually lack labels, and do not report
+side effects, dosing is usually verbal. In a recent publication,
+buyers were admonished to beware of the potential for
+ingested CAM to cause side effects or hinder the efficacy of
+conventional therapies [33]. Even though there is an
+attempt at regulation by the Traditional Medical Council, it
+does not go far enough. The Mampong Center for Research
+into Plant Medicine seeks to apply scientific protocols to
+the practice of traditional medicine.
+Our study is limited by the rather low number of participants, non-probability sampling method used, and the fact
+that it was performed in a single institution. Additionally it
+is hospital based, there may be cancer patients who are
+CAM users but do not attend hospital at all, their responses
+especially in respect of reasons for subscription to CAM
+will be interesting. Nevertheless, it provides valuable insight
+into the behaviour of cancer patients with respect to CAM
+use in an environment where there is high patronage for
+CAM in the general population.
+
+causes of cancer and therefore behaviour. Psychological and
+Spiritual support should be added to patient care in order
+to ensure that evidence based information is provided to
+patients. A future study on health professionals’ attitude to
+CAM as well as a more detailed study of particular CAM
+patients use will be helpful in patient care.
+
+Conclusion
+There is high usage of CAM in Ghanaian cancer patients,
+and majority subscribe to CAM use concurrently with conventional medicine. The main reason for continued use is
+to improve quality of life including psychological boost.
+These patients are willing to share this information with
+their Oncologist, but health personnel fail to ask patients
+direct questions on CAM. Such patients tend to be female
+and are often treated with palliative intent. Overlapping
+toxicity between biological agents and radiotherapy and
+chemotherapy were reported, as were intake of agents that
+have the potential to reduce the efficacy of conventional
+therapies.
+It is therefore recommended that Physicians should routinely ask patients about concurrent use of CAM and conventional therapies in order to provide appropriate advice.
+CAM practioners and advertisement in the media on CAM
+should be regulated. Public education on risk factors for
+cancer should be intensified in order to influence perceived
+
+Additional file
+Additional file 1: Questionnaire on CAM use in cancer patients
+undergoing Radiotherapy and Chemotherapy in Ghana.
+
+Competing interest
+The authors have no competing interest including financial to report.
+Authors’ contribution
+JY: Concept formulation and drafting of script. AD: Concept formulation,
+questionnaire administration and drafting of script. SO; Concept formulation
+and drafting of script. LY: Drafting of script. IA-D: Statistical analysis and
+drafting of script. AA: Statistical analysis and drafting of script. EA: Drafting of
+script. All authors read and approved the final manuscript.
+Author details
+1
+National Centre for Radiotherapy and Nuclear Medicine, Korle Bu Teaching
+Hospital, Accra, Ghana. 2School of Allied Health Sciences, University of
+Ghana, Accra, Ghana. 3School of Public Health, University of Ghana, Accra,
+Ghana. 4Department of Mathematics and Statistics, Accra, Ghana.
+Received: 29 May 2012 Accepted: 10 January 2013
+Published: 19 January 2013
+References
+1. Ernst E, Resch KL, Mills S, et al: Complimentary medicine- a definition.
+Br J Gen Pract 1995, 45:506.
+2. Ernst E: Coplementary cancer treatment: hope or hazard? Clin Oncol 1995,
+7:259–263.
+3. Commodore SGO: Welcome address presented at “Traditional Medicine and
+Modern Health Care: Partnership for the Future, A Two-day National Consensus
+building Symposium on the Policies on Traditional Medicine in Ghana. Accra,
+Ghana: 1995:15–16. http://ebookbrowse.com/80-compendium-of-medicinaland-aromatic-plants-africa-vol-i-pdf-d425614889: 26-30.
+4. De Graft Aikins A, Anum A, Agyepong C, Addo J, Ogedegbe O: Lay
+representation of chronic disease in Ghana: implication for primary
+prevention. Ghana Med J 2012, 46(2):59–68.
+5. Ferlay J, Bray F, Parkin DM: GLOBOCAN 2000: Cancer Incidence, Mortality and
+Prevalence Worldwide, Version 1.0. IARC Cancer Base No. 5. Lyon:
+IARC Press; 2001.
+6. Ries LAG, Melbert D, Krapcho M, et al: SEER Cancer Statistics Review, 1975–
+2008. Bethesda, MD: National Cancer Institute; 2008. http://seer.cancer.gov/
+cso/1975- 2005/index, html. (Accessed on 13/10/09).
+7. Brenner H, Gondos A, Arndt V: Recent major progress in long-term cancer
+patient survival disclosed by modelled period analysis. J Clin Oncol 2007,
+25(22):3274–3280.
+8. Campbell K: Leukemia Research, Complementary and Alternative Medicine:
+2007. Available online at URL; http://www.Irf.org.uk. (Accessed on 25/11/09).
+9. Clegg- Lamptey J, Dakubo J, Attobra YN: Why do breast cancer patients
+report late or abscond during treatment in Ghana? A pilot study.
+Ghana Med J 2009, 43(3):127–131.
+10. Miller DR, Anderson GT, Stark JJ, Granick JL, Richardson D: Phase I/II trial of
+the safety and efficacy of shark cartilage in the treatment of advanced
+cancer. J Clin Oncol 1998, 16:3649–3655.
+11. Loprinzi CL, Levitt R, Barton DL, Sloan JA, Atherton PJ, Smith DJ, Dakhil SR,
+Moore DF Jr, Krook JE, Rowland KM Jr, Mazurczak MA, Berg AR, Kim GP,
+North Central Cancer Treatment Group: Evaluation of shark cartilage in
+patients with advanced cancer; a North Central Cancer Treatment group
+trial. Cancer 2005, 104:176–182.
+
+Yarney et al. BMC Complementary and Alternative Medicine 2013, 13:16
+http://www.biomedcentral.com/1472-6882/13/16
+
+12. Lawenda BD, Kelly KM, Ladas EJ, Sagar SM, Vickers A, Blumberg JB: Should
+supplement antioxidant administration be avoided during
+chemotherapy and radiation therapy? J Natl Cancer Inst 2008, 4:100(11).
+13. Ezeome ER, Anarado AN: Use of complementary and alternative medicine
+by cancer patients at the University of Nigeria Teaching Hospital, Enugu,
+Nigeria. BMC Complement Altern Med 2007, 7:28.
+14. Chang KH, Brodie R, Choong MA, Sweeney KJ, Kerin M: Complementary
+and alternative medicine use in oncology: a questionnaire survey of
+patients and health care professionals. BMC Cancer 2011, 11:196.
+15. Richardson MA, Sanders T, Palmer JL, Greisinger A, Singletary SE:
+Complementary/alternative medicine use in a comprehensive cancer
+center and the implications for oncology. J Clin Oncol 2000,
+18(13):2505–2514.
+16. Molassiotis A, Fernadez-Ortega P, Pud D, Ozden G, Scott JA, Panteli V,
+Margulies A, Browall M, Magri M, Selvekerova S, Madsen E, Milovics L,
+Bruyns I, Gudmundsdottir G, Hummerston S, Ahmad AMA, Platin N, Kearney
+N: Use of complementary and alternative medicine in cancer patients: a
+European survey. Annals of Oncol 2005, 16:655–663.
+17. Ernst E, Cassileth BR: The prevalence of complementary/alternative
+medicine in cancer. Cancer 1998, 83(4):777–782.
+18. Patterson RE, Neuhouser ML, Hedderson MM, et al: Types of alternative
+medicine used by patients with breast, colon, or prostate cancer:
+predictors, motives, and costs. J Altern Complement Med 2002, 8:477–485.
+19. Downer SM, Cody MM, McCluskey P, Wilson PD, Arnott SJ, Lister TA, Slevin
+ML: Pursuit and practice of complementary therapies by cancer patients
+receiving conventional treatment. BMJ 1994, 309:86–89.
+20. Ceylan S, Hamazaoglu O, Komurcu S, Beyan C, Yalcin A: Survey of the use
+of complementary and alternative medicine among Turkish cancer
+patients. Complement Ther Med 2002, 10:94–99.
+21. Shen J, Wenger N, Glaspy J, et al: Electroacupuncture for control of
+myeloablative chemotherapy induced emesis: a randomized controlled
+trial. J Am Med Assoc 2000, 284:2755–2761.
+22. Pan CX, Morrison RS, Ness J, et al: Complementary and alternative
+medicine in the management of pain, dyspneoa, and nausea and
+vomiting near end of life. a systematic review. J Pain Symptom Manage
+2000, 20:374–387.
+23. Fellowes D, Barnes K, Wilkinson S: Aromatherapy and massage for
+symptom relief inpatients with cancer. Cochrane Database Syst Rev 2004:
+CD002287.
+24. Glickman-Simon R: Complimentary and alternative medicine (CAM): an
+evidence-based approach. Medscape,2005. http://www.medscape.com/
+viewarticle/507242. (accesed Aug 2006).
+25. Ko RJ: Adulterants in Asian patent medicines. N England J Med 1998,
+339:847.
+26. Murch SJ, Krishna Raj S, Saxena PK: Phytopharmaceuticals: problems,
+limitations, and solutions. SciRev Alternat Med 2000, 4:33–37.
+27. Drew AK, Myers SP: Safety Issues in herbal medicines: implications for the
+health professional. Med J Aust 1997, 166:538–541.
+28. Ang-Lee MK, Moss J, Yuan CS: Herbal medicines and perioperative care.
+JAMA 2001, 286:208–216.
+29. Gyasi RM, Mensah CM, Adjei PO, Agyeman S: Public perceptions of the
+role of traditional medicine in the health care delivery system in Ghana.
+Glob J Health Sci 2011, 3(2):40–49.
+30. Lippman SM, Klein EA, Goodman PJ, et al: Effect of selenium and vitamin E
+on risk of prostate cancer and others: the Selinium and Vitamin E Cancer
+Prevention Trial (SELECT). JAMA 2009, 301(1):39–51.
+31. Davis EL, Oh B, Butow PN, Mullan BA, Clarke S: Cancer patient disclosure
+and patient-doctor communication of complementary and alternative
+medicine use: a systematic review. Oncologist 2012, 17(11):1475–1481.
+32. Kristoffersen AE, Fonnebo V, Northeim AJ: Do cancer patients with a por
+prognosis use complementary and alternative medicine more often than
+others? J Altern Complement Med 2009, 14:1115–1120.
+33. Raynor DK, Dickinson R, Knapp P, Long AF, Nicolson DJ: Buyer beware?
+Does the information provided with herbal products available over the
+counter enable safe use? BMC Med 2011, 9:94.
+
+Page 9 of 9
+
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+
+doi:10.1186/1472-6882-13-16
+Cite this article as: Yarney et al.: Characteristics of users and implications
+for the use of complementary and alternative medicine in Ghanaian
+cancer patients undergoing radiotherapy and chemotherapy: a crosssectional study. BMC Complementary and Alternative Medicine 2013 13:16.
+
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+
+

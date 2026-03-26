@@ -1,0 +1,1172 @@
+Mathematica Aeterna, Vol. 2, 2012, no. 9, 735 - 759
+
+Is Inheritance System a Factor in the Care of AIDS
+Orphans? The Asante and Krobo of Ghana Scenario
+
+Lily Yarney, PhD
+School of Public Health, University of Ghana, Accra
+Tel: +233-208137326; e-mail: babyaraba95@yahoo.com
+Chuks Mba, PhD
+Association of African Universities, Accra
+Tel: +233-208183860; E-mail: chuksmba@yahoo.com
+Emmanuel Asampong, MPhil
+School of Public Health, University of Ghana
+Tel: +233-244278453; e-mail: asampong2000@yahoo.com
+Joseph Darko, BA
+Institute of Social Statistical and Economic Research, University of Ghana
+Tel: +233-277706017; e-mail kujodarko@gmail.com
+Joel Yarney, MBCHB, FWACPS, FCRadOnc(SA)
+Korle Bu Teaching Hospital/College of Health Sciences, University
+of Ghana, Accra.
+Tel: +233-244271843; e-mail: kodwoahen@gmail.com
+Abstract
+The study was to establish the extent to which inheritance system, age of
+caregiver, and orphan status influence the care of children orphaned by
+AIDS among two ethnic groups of Ghana- the Asante and Krobo.
+The study, which was conducted between 2008 and 2011 was a
+cross-sectional one that employed quantitative methods to establish
+associations between care of children orphaned by AIDS (using their
+nutritional status as the proxy for care), and inheritance system, caregiver
+
+736
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+age, and orphan status (paternal/maternal; single/double) using interview
+questionnaires and anthropometric assessment of orphans. Chi-square
+tests and regression analyses were used to test associations.
+The results revealed that orphans under the matrilineal system of
+inheritance were about twice more likely to be stunted than those under
+the patrilineal system of inheritance (OR = 2.392; 95% CI = 1.268 – 4.511).
+Orphan status (paternal/maternal) or (single/double), and caregiver age
+did not show statistically significant association with nutritional status of
+orphans. However, among the Krobo, orphans with caregivers aged 41-50
+years were about eight times more likely to be stunted than those cared for
+by caregivers among other age groups (OR = 8.168; 95% CI = 1.042 –
+64.053).
+Mathematics Subject Classification: 00A06, 00A69, 00A99
+Keywords: AIDS orphans, Inheritance system, nutritional status,
+caregiver age, orphan status.
+INTRODUCTION
+It has become increasingly evident that one of the most tragic results of the
+AIDS pandemic is the ever-increasing number of orphans it is leaving
+behind. Reports from UNAIDS and UNICEF in 2002 indicated that before
+the heavy toll of HIV and AIDS related deaths in the late 1980s, only 2% of
+children from developing countries were orphans. As at the end of 2002,
+however, over 14 million children in sub-Saharan Africa (12% of all
+children less than 15 years) were total orphans (UNAIDS/UNICEF, 2002).
+Globally, it was estimated that the number of all orphans under age 15
+years would exceed 25 million by 2010, and over 90% of this number
+would be living in sub-Saharan Africa (UNAIDS, 2005).
+In Ghana, it is estimated that by 2012 AIDS-orphaned children would
+number 168,907 (NACP/GHS/WHO, 2011). Care for such orphans would
+be very challenging to individuals, families, communities and the nation if
+effective care issues are not anticipated and addressed. Available literature
+on orphans indicate that orphans are disadvantaged compared to their
+non-orphan counterparts in terms of education, nutrition, physical and
+
+737
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+sexual
+
+abuse,
+
+emotional
+
+and
+
+psychological
+
+distress,
+
+stigma
+
+and
+
+discrimination, among others (Hunter & Williamson, 1998b; Gilborn et al.,
+2001; Nyambedha, Wandiba, & Aagaard-Hansen,2003; Safman, 2004;
+Monash & Boerma, 2004; Oleke, Blystand & Rekdal, 2005; Cluver, &
+Gardiner, 2006; Nyamukapa, & Gregson, 2005).
+Studies in-country and elsewhere have looked at the situation and plight of
+the AIDS orphans as well as other orphans, but limited in these studies are
+the social and cultural factors that influence the care of these orphans. We
+therefore propose that orphan care interventions may be effective if social
+and cultural issues such as inheritance system and orphan status are
+critically looked at and addressed.
+A popular Ghanaian’s belief is that a sacred blood sustains and maintains
+the physical body, while a sacred spirit is responsible for the development
+of one’s full personality and being. The former forms the basis of matriliny
+and the latter patriliny. Thus, Ghana has both matrlineal and patrilineal
+family systems. One can therefore succeed to intestate property through
+either the matriclan, the patriclan or in some special cases to both (Goody,
+1973).
+Among the Asante, the right of inheritance is confined to the matrilineage,
+but men take precedence over women in the inheritance of a man’s
+property and vice versa. Thus, when a man dies, his own children do not
+have rights to his personal acquired property, it is his brother or wofase
+(sister’s son/nephew) that inherits him, but the preference is the nephew
+with whom the deceased share the same lineage. Traditionally, it is the
+closest clan member that inherits the dead. It is believed that clan property
+belongs to the woman’s line and powers are invested in men to act as
+caretakers only. Thus, though one’s paternal sister (father’s daughter) is
+considered his sister, her child cannot inherit the uncle since the child is
+not from the same clan as the uncle. When a woman dies, she is inherited
+by her sister or one of her daughters. Thus, orphans, especially those who
+
+738
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+are left motherless in early childhood are given to their mother’s sister to
+bring them up. The maternal aunt is supposed to treat them like her own
+and by so doing, the children would also respond to her like their real
+mother. The Asante therefore holds the view that children belong to their
+mother’s family, as such in the absence of the father, orphans must be
+taken care of by their matrikin.
+Unlike the Asante, Krobo inheritance is patrilineal. This means that a child
+belongs to, enjoys first rights, and owes first duties to his paternal agnatic
+kin. According to Okyeame Buatey- a linguist to the paramount chief of the
+Manya Krobo area (in a conversation in March 2009), the Krobo had very
+few farmlands which were inherited by their sons, as a result their
+daughters were encouraged to marry early, and once married they
+belonged to their husbands and their husbands’ family. Though marriage
+creates a link between the man and the woman’s families, the married
+woman has very little to do with her own family. Thus the responsibility of
+care of orphans falls first and foremost on the patrikin.
+These systems of inheritance may have implications for orphan care,
+especially in areas where HIV prevalence rates have been relatively high
+over the years. It is against this background that we undertook this study
+among the Asante and Krobo of Ghana. We attempted to establish
+associations between system of inheritance, caregiver age, and orphan
+status, and care of orphans using nutritional status of orphans as the
+surrogate for orphan care.
+This study may serve as a reliable source of reference for information on
+inheritance system, caregiver age, and orphan status, and how they affect
+orphans in Ghana. It is anticipated that the results of the study would
+assist orphan care organizations to draw up effective policies and
+interventions.
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+739
+
+MATERIALS AND METHODS
+A cross-sectional study using convenience sampling technique was carried
+out among one hundred and forty one (141) Asante orphans, and one
+hundred and fifty one (151) Krobo orphans and their caregivers between
+year 2008 and 2011. The Asante caregivers numbered one hundred and
+forty (140) whilst the Krobo orphans numbered one hundred and forty five
+(145). The orphans had lived with their current caregivers for a minimum
+period of one year, and had lost at least one parent to AIDS. Both orphans
+and caregivers were willing and were able to participate fully in the study.
+Relevant portions of the questionnaires from the Children’s Needs
+Assessment Toolkit (CNA Toolkit, version 3, March, 2002-developed for
+the Early Child Development Team of the World Bank by the Task Force
+for Child Survival and Development aimed at assisting organizations in
+assessing the needs of children in areas that are heavily affected by HIV
+and AIDS) were adapted and administered to the orphans. Three
+anthropometric measurements (height, weight, and mid upper arm
+circumference) were made on all orphans. Similar questionnaires were
+administered to their caregivers to authenticate responses from orphans.
+Illiterate respondents were guided to complete the questionnaires.
+The questionnaires gathered information on orphan demography – birth
+date, age, sex, and schooling status; orphan status – paternal, maternal or
+double orphan; information on inheritance system and other relevant
+issues. The questionnaires for caregivers also gathered similar information
+on caregivers in addition to employment status, level of education, and
+property owned by deceased parent(s) of orphans. We used WHO
+AnthroPlus which is a software for determining the nutritional status
+(height-for-age) of children aged five years and above, using their birth
+date, height, sex, and date of interview, to group the orphans into two
+categories: stunted, and not stunted based on the z-scores generated by the
+software.
+
+740
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+The data were analysed using Statistical Package for Social Sciences (SPSS
+version16.0). Chi square tests of association were done to test association
+between inheritance system; orphan status; caregiver age; and nutritional
+status of orphans. Regression analyses of inheritance system, orphan
+status, and caregiver age on nutritional status of orphans were also done,
+using odds ratios and confidence intervals to interpret the results. The
+level of significance was set at a probability less than 5% (p<0.05).
+RESULTS
+A total of 292 orphans participated in the study. Their ages ranged from 5
+to 17 years with a mean age of 12.2 years, 141 (48.3%) were males and 151
+(51.7%) females. The majority, 257 (88%) were in-school, and the
+remaining 35 (12%) were out-of school. Seventy three percent (73%) of
+orphans had one parent alive (single orphans) and the remaining 27% had
+lost both parents (double orphans). There were more paternal orphans 40.8% (those who have lost only their fathers) than maternal orphans
+-32.2% (those who have lost only their mothers). Thirty one percent (31%)
+of orphans were living with their maternal or paternal uncles and aunties,
+28.8% were with their grandparents, 34.6% were with either parent and
+5.1% were living with their siblings.
+The ages of caregivers ranged from 21 years to 94 years with 83% of
+caregivers aged between 21 and 60 years, whilst 16% were over 60 years of
+age, 2 (1%) Asante caregivers did not indicate their ages. One hundred and
+thirty-eight (138), that is 48% of caregivers, were widowed; 106 (37%)
+married; 19 (7%) had never married before; and the remaining 22 (8%)
+were either divorced or separated from their spouses. An appreciable
+number - 163 (57%) had some level of formal education. Only 12 (4%) had
+tertiary education, the majority, 83 (29%) had either junior or senior high
+school education whilst 68 (24%) had only primary education. A
+significant proportion of caregivers - 43% (122) did not have any form of
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+741
+
+formal education. The majority of caregivers, 148 (52%) were traders; 57
+(20%) were farmers; 37 (13%) were jobless individuals or housewives; 33
+(12%) were artisans; and only 10 (4%) were on regular monthly income
+(professionals).
+Independent sample t-tests between Asante and Krobo orphans and their
+caregivers indicated that there were no biases in the data with respect to
+age, sex, and schooling status (for orphans), and age, sex, educational
+background, and employment status (for caregivers), (p>0.05 for all the
+variables indicated).
+Care of Orphans Using Nutritional State as Proxy of Care of
+Orphan
+The majority of orphans, 187 (64%) were not stunted, that is, they had
+good nutritional status, however, 105 (36%) were poorly nourished and as
+a result had stunted growth (figure I)
+Figure 1: Nutritional Status of Orphans
+
+742
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+Inheritance System and Nutritional Status (Care) of Orphans
+Table III presents results on the relationship between inheritance system
+and the Nutritional Status (Care) of Orphans. The results indicate that the
+proportion of children malnourished (stunted) under the matrilineal
+system of inheritance is about twice that of those under the patrilineal
+system of inheritance (25.2% and 51.5% respectively), and this observed
+difference is statistically significant (p = 0.000).Forty (40) orphans and
+their caregivers though indicated that they are Asante, they could not
+indicate the system of inheritance applicable to them, thus, they were
+excluded in testing the association between inheritance system and
+nutritional status of orphans. They were however included in other areas
+of interest as Asante since they categorically indicated so.
+Thus when system of inheritance was tested against nutritional status (that
+is, excluding those who did not know the system of inheritance applicable
+to them), the difference observed was also significant statistically (p-value
+of .000).
+Table III:
+
+Inheritance System and Nutritional Status of Orphans
+(Overall Data)
+System of Inheritance
+
+Test
+Association
+
+Nutritional
+Status
+
+Matrilineal
+
+Patrilineal
+
+of
+
+Don’t Know
+P-Valu
+e
+
+743
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+Freq.
+
+Perce Fre
+nt
+q.
+
+Percen Fre
+t
+q.
+
+Perce
+nt
+
+Stunted
+
+52
+
+51.5
+
+38
+
+25.2
+
+15
+
+37.5
+
+Not Stunted
+
+49
+
+48.5
+
+113
+
+74.8
+
+25
+
+62.5
+
+Total
+
+101
+
+100
+
+151
+
+100
+
+401
+
+100
+
+χ2
+
+df
+
+18.25
+3
+
+2
+
+.000
+
+140 interviewees and their caregivers among the Asante did not indicate the inheritance
+
+system of their families.
+
+Orphan Status (Paternal/Maternal) and Nutritional Status of
+Orphans
+A greater proportion of paternal orphans was stunted (37.8%) than the
+proportion of maternal orphan stunted (34.0%). This difference is however,
+not statistically significant (p = 0.569).
+When the data were split to determine the relationship between orphan
+status (Maternal/Paternal) and nutritional status of orphans separately for
+Asante and Krobo, the results revealed that among the Asante and the
+Krobo nutritional status of orphans was statistically independent of
+whether the orphan is a maternal or a paternal orphan (p=0.160; p=0.541)
+respectively.
+Orphan Status (Single/Double) and Nutritional Status of
+Orphans
+The results showing the relationship between orphan status (single or
+double) and Nutritional Status of orphans also did not indicate statistically
+significant association (p = 0.911), indicating that single orphans do not
+receive better care than that obtained by double orphans.
+
+744
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+When the influence of orphan status (Single/Double) on nutritional status
+was explored separately for Asante and Krobo, the results indicated no
+statistically significant association between the two variables for the two
+ethnic groups (p=0.456; p=0.228) respectively.
+Caregiver Age and Nutritional Status of Orphans
+The relationship between caregiver age and nutritional status of orphans
+insignificant statistically (p = 0.087). Analyses of the data separately for
+Asante and Krobo also did not yield statistically significant results.
+Inheritance System, Caregiver Age, and Orphan Status on
+Nutritional Status of Orphans
+Regression analyses of the effect of inheritance system, orphan status and
+caregiver age on nutritional status as presented in table VIII indicate that
+only inheritance system showed significant association with nutritional
+status of orphans, and that Orphans under the matrilineal system of
+inheritance were about twice more likely to be stunted than those under
+the patrilineal system of inheritance (OR = 2.392; 95% CI = 1.268 – 4.411).
+Surprisingly, the test of association between caregiver age and nutritional
+status of orphans among the Krobo showed a statistically significant
+association of caregiver age range 41 – 50 years with nutritional status of
+orphans, where the orphans with such caregivers were about 8 times more
+likely to be stunted (OR = 8.168; 95% CI = 1.042 – 64.053), than those
+among the other age groups
+
+Table VIII : Effect of Inheritance System, Caregiver Age and
+Orphan Status
+(Paternal/Maternal) on Nutritional Status of
+Orphans
+
+745
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+Determinants Percentage
+
+OR
+
+95%
+
+Confidence P- Value
+
+Interval (C I)
+Lower
+
+Upper
+
+bound
+
+bound
+
+OVERALL
+Age of Caregiver
+21-30
+
+11.5
+
+0.634
+
+0.142
+
+2.829
+
+0.550
+
+31-40
+
+33.0
+
+0.570
+
+0.156
+
+2.086
+
+0.395
+
+41-50
+
+26.9
+
+0.361
+
+0.095
+
+1.374
+
+0.135
+
+51-60
+
+14.8
+
+0.661
+
+0.161
+
+2.709
+
+0.565
+
+61-70
+
+7.1
+
+0.921
+
+0.182
+
+4.684
+
+0.920
+
+71&above
+
+6.6
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+39.0
+
+2.392
+
+1.268
+
+4.511
+
+0.007
+
+Inheritance
+Matrilineal
+
+746
+
+Patrilineal
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+61.0
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+Maternal
+
+46.2
+
+0.778
+
+0.398
+
+1.519
+
+0.462
+
+Paternal
+
+53.8
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+Orphan Status
+
+ASANTE
+Age of Caregiver
+21-30
+
+9.7
+
+0.140
+
+0.010
+
+1.992
+
+0.147
+
+31-40
+
+33.3
+
+0.805
+
+0.142
+
+4.548
+
+0.806
+
+41-50
+
+26.4
+
+1.061
+
+0.183
+
+6.165
+
+0.947
+
+51-60
+
+12.5
+
+0.947
+
+0.129
+
+6.962
+
+0.957
+
+61-70
+
+8.3
+
+0.757
+
+0.084
+
+6.793
+
+0.084
+
+71&above
+
+9.7
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+747
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+Orphan Status
+Maternal
+
+50.0
+
+1.232
+
+0.453
+
+3.354
+
+0.683
+
+Paternal
+
+50.0
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+KROBO
+Age of Caregiver
+21-30
+
+12.7
+
+9.741
+
+0.923
+
+102.764
+
+0.058
+
+31-40
+
+32.7
+
+4.239
+
+0.597
+
+30.106
+
+0.149
+
+41-50
+
+27.3
+
+8.168
+
+1.042
+
+64.053
+
+0.046
+
+51-60
+
+16.4
+
+3.006
+
+0.389
+
+23.235
+
+0.291
+
+61-70
+
+6.4
+
+1.785
+
+0.167
+
+19.030
+
+0.631
+
+71&above
+
+4.5
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+Orphan Status
+
+748
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+Maternal
+
+43.6
+
+1.335
+
+0.501
+
+3.560
+
+0.563
+
+Paternal
+
+56.4
+
+1.000
+
+Referent
+
+Referent
+
+Referent
+
+Source: Field Data
+
+DISCUSSION
+The onset of HIV and AIDS about three decades ago in the country has
+compounded and multiplied the burden of orphans especially in the
+regions that have witnessed relatively high prevalence rates over the years.
+AIDS orphans unlike general orphans are often discriminated against and
+stigmatized in the societies in which they live (Atobrah, 2005).
+Apart from stigmatisation, the tendency of AIDS orphans to lose both
+parents is high compared to orphan status acquired through some other
+means. Absence of biological parents or guardians has financial
+implications and could lead to a myriad of problems related to poor
+supervision with its attendant consequences. Inheritance laws and other
+related issues that inure to the well-being of orphans are often not adhered
+to nor enforced by individuals responsible for their implementation. These
+factors interact to create problems for this group of people that demand
+special attention.
+Every society has a system in place for taking care of its orphans. In most
+Ghanaian societies as in other African societies, care of orphans falls
+heavily on traditional systems. In more recent times, community care in
+the form of orphanages is evolving, but the situation is lagging behind that
+of the western world where social welfare systems are more developed and
+integrated (Abebe, and Aase, 2007). Notwithstanding, in communities
+where the impact of AIDS in terms of increased numbers of orphans is
+being felt, the traditional system of orphan care becomes weak and
+inadequate (Howard et al, 2006; Ntozi, and Mukiza-Gapere, 1995; Foster,
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+749
+
+and Williamson, 2000; UNAIDS, UNICEF, & USAID, 2004).
+The Government of Ghana, as well as Non-Governmental Organizations
+(NGOs), Faith-Based Organizations (FBOs), bilateral agencies, donors and
+individuals have identified the need to support orphans. In Ghana, every
+child whether an orphan or not belongs to a recognised household or
+family. In any given community where a child lives, he or she derives an
+identity, a sense of cultural roots, of belonging, of a clan, of blood ties, and
+a particular mother tongue that connects the child to that particular
+community. Thus, orphans in need cannot be isolated or uprooted from
+their communities to the extent that, the government, individuals and
+organizations that have the goodwill to assist needy orphans cannot reach
+the orphans without first going through the home that has taken the
+orphan in and the community where the orphan lives. Williamson (2004)
+has argued that the local customs and practices of the communities to
+which orphans belong need to be considered for effective response to the
+orphan crisis. Therefore, orphan care interventions can never be effective
+if the dynamics of the cultural, social, traditional and economic contexts of
+care of the targeted orphans are ignored (Nyambedha et al., 2003).
+The Asante and Krobo people of Ghana were chosen for the study based on
+the reported high prevalence rates of HIV and AIDS in their regions and by
+extension the large number of orphans. For instance, Agomanya,
+representing the Krobos, had a prevalence rate of 13.4% in 1997, whilst
+Kumasi had 5.5% in the same period (NACP, 2008). These societies are
+expected to have a high burden of AIDS orphans as of now due to the
+passage of time as infected parents die off.
+The custom of inheritance among the matrilineal Asante and patrilineal
+Krobo is the transfer of property from an original owner to an heir or heirs
+after the death of the property owner. In Ghana, only the Akans practice a
+matrilineal system of inheritance which to the Asante is based on the
+rationale that it is obvious who the mother of a child is, but the real
+
+750
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+genetor of a child may be questionable. The matrilineal system of
+inheritance may also be explained scientifically that a child inherits certain
+genes from the mitochondria of the cytoplasm which are outside the
+nucleus and hence are inherited by a child only from the mother, without
+any contribution from the father. This may account for the Asante claim
+that the child has the same blood as his or her maternal uncle and derives
+his or her ntoro (spirit) from the father. Thus, anecdotal evidence suggests
+that the Asante do not attach much value to the marriage relationship. A
+mother can therefore encourage her daughter who is of age to have
+children without impressing upon her to get married, because a woman
+views the children of her daughters as her family whilst those of her sons
+belong to their mothers’ families.
+In both the matrilineal Asante and the patrilineal Krobo customs, however,
+a man’s property is granted to his closest male relatives upon his death.
+This usually undermines the economic security of widows and orphans
+despite the promulgation of the intestate succession law of the Provisional
+National Defence Council (PNDC Law 111) in 1985 which grants widows
+rights to inherit from their deceased husbands. However, most Ghanaian
+women lack rights consciousness or are ignorant on legal matters,
+especially those residing in rural areas of the country (Fenrich et al. 2001;
+Runger, 2006). The studies by Fenrich et al. (2001) and Runger (2006)
+have indicated that in places where people are aware of the PNDC Law 111
+on intestate succession, its application is completely misunderstood, and
+in some communities in the country, like Islamic communities, where
+religious principles govern intestate property distribution, the law does not
+apply at all.
+As observed in this study, inheritance customs or systems significantly
+affect care of orphans which is apparent in the proportions of stunted
+orphans under the two systems of inheritance. The proportion of stunted
+orphans under the matrilineal system of inheritance was about twice that
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+751
+
+of those under the patrilineal system of inheritance (OR = 2.392; P =
+0.007; CI = 1.268 – 4.511). One would therefore infer from these results
+that patrilineal inheritance system makes better provision for orphans
+than the matrilineal inheritance system. As was emphasized by one
+caregiver, when the deceased father of the orphan had property, it goes to
+benefit the orphan.
+
+What is difficult about this system of inheritance, he
+
+added, is that when the deceased had no property to fall on in taking care
+of the orphans, the system places extra burden on the inheritor.
+Despite this observation from the study, patrilineal Krobo inheritance was
+reported to negatively affect the care of orphans especially when the
+inheritor is unable to maintain the property and orphans are deprived of
+their inheritance after the death of their fathers. Thus, disinheritance leads
+to economic loss to orphans and their families as it reduces assets and
+potential income which have implications for the orphans’ long term
+economic security. Where the cause of death of parents is AIDS, the
+situation is different in the sense that AIDS impoverishes the parents
+before they die leaving no resources or property for the upkeep of the
+orphans. Among the Krobo for instance it was learnt that most of the
+deceased mothers of the AIDS orphans were migrants in Abidjan,
+
+Cote
+
+d’voire, and had worked to acquire properties like commercial vehicles,
+wax prints, expensive cooking utensils, and buildings, but had to sell all of
+these for money to treat their ailments (Atobrah, 2005). Thus, most
+households with AIDS orphans did not inherit any property which would
+serve as a capital or meaningful source of income for the upkeep of the
+orphans.
+This situation is not different for the matrilineal Asante orphans, however,
+because these orphans do not inherit directly from their fathers, the
+inherited property belongs to the maternal nieces and nephews of the
+deceased father, making the plight of Asante orphans worse when their
+maternal uncles and aunts do not step in to support their sister (widow) in
+
+752
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+looking after her orphans. Thus, in situations where the deceased father
+did not offer any property as a gift to the widow and orphans, and the
+maternal uncles and aunts are also incapable of providing support to the
+widow (who may be ill if she is infected with HIV), these orphans may live
+in poverty with its attendant problems.
+In patrilineal societies, the decision as to who should take care of newly
+orphaned children is usually made by men and this may affect orphan care,
+since women are the main care providers.
+
+A study among the Langi of
+
+Amach in Uganda found that although Langi women are recognized as the
+primary care providers of orphans, they are excluded from the decision
+involving who should care for orphans, consequently, some orphans are
+sometimes placed in the hands of women who are unwilling to care for
+orphans. Such orphans are therefore perceived by their caregivers as
+additional and unnecessary burden. This situation puts the orphans at a
+high risk of deprivation of care, discrimination, and abuse (Oleke, et al.,
+2007). The authors further linked vulnerability of orphans to care by
+matrikin or patrikin. They found that although patrilineal system of
+inheritance is regarded as protective of children’s rights to inheritance,
+support, safety, and belonging, orphans with paternal kin caregivers often
+reported very poor care, greater neglect of their basic needs, and relatively
+heavier workloads than those cared for by their maternal kin. A
+
+Krobo
+
+caregiver reported that though paternal kin is supposed to care for
+orphans, the maternal relatives more willingly support care-giving
+activities than paternal relatives because maternal relatives tend to be
+more emotionally attached to the orphans.
+Another peculiar finding among the patrilineal Krobos regarding orphan
+care is the issue of yobi (woman’s child). A Krobo man can only wield
+paternity rights over his child in his matrimonial home, if he fully
+performs the marriage rights of the child’s mother at the time of
+conception, or after performance of the po la rites (a ritual to claim a child
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+753
+
+born out of wedlock). Thus, a child born to an unmarried woman does not
+belong to his or her father, but to the maternal grandfather, rendering such
+a child as yobi (woman’s child). Such orphans are not covered under the
+Krobo traditional patrilineal provision of care. If the fathers of such
+orphans had paternity rights over them, the care of the orphans falls on the
+surviving father, or in the case of death of the father or both parents, the
+care of the orphans becomes the responsibility of the next of kin of the
+deceased father. This tradition was carefully and strictly observed for fear
+that the ghost of the deceased would haunt the inheritor if he failed to take
+good care of the orphans. Consequently, the inheritor would do all he
+could to care for the orphans as his own biological children.
+In recent times, however, custodians of orphans under both matrilineal
+and patrilineal systems of inheritance seem not to care much about the
+orphans in their custody because they tend not to adhere strictly to
+traditional norms and beliefs. Real economic pressures also make it
+difficult for custodians to render due responsibilities even toward their
+own children, let alone an orphan. Yobimε (plural for yobi) orphans, in
+spite of this are worse off than their orphan counterparts since they
+(Yobimε orphans) do not have any one on whom they make certain
+demands except their old grandparents who may be impoverished due to
+retirement from active work. Such orphans usually live at the mercy of
+their maternal uncles and aunts or external sympathisers who are not
+obliged to care for them.
+Differences in the nutritional status between Asante orphans and Krobo
+orphans may again be attributed partly to increased awareness of AIDS
+orphans among the Krobos and the interventions that have been put in
+place to support these orphans. For example, the Manya Krobo Queen
+Mothers Association receives support from the American Embassy and the
+Ghana AIDS Commission to take care of AIDS orphans. The association
+has put some of the monies received into income generation activities so as
+
+754
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+to sustain the care of about 1,034 orphans that they support in the
+communities. Among the Asante however, support for the orphans
+involved in the study was mainly through the persons living with HIV and
+AIDS (PLWHA) support groups, where the direct recipients are ill parents
+of the orphans who may in turn use almost all the resources received in
+seeking for treatment of their ailments. It has also been found by Thielman
+et al (2012) that caregiver’s health is an important determinant of orphan
+health.
+Other factors that may have contributed to the differences in the
+nutritional status of orphans observed between the two ethnic groups may
+be caregiver dependent, like educational background, experience in caring
+for children, household income, love and affection for orphan amidst other
+social and cultural factors.
+According to Nkosi (2007), anecdotal evidence exists in sub-Saharan
+Africa that orphan caregivers are elderly, poor, and do not have adequate
+support to play their role as caregivers. These coupled with the fact that
+the elderly (above 60 years) and the child (less than 18 years),
+demographically constitute the dependent age groups, often require
+assistance from others. In the study about 32% of caregivers were over 50
+years, and 85% of caregivers were females. These figures do not differ so
+much from the Ugandan study by Hunter (1990) which recorded that 43%
+of orphan caregivers were over 50 years, and 31% of caregivers were
+grandparents. This is the pattern that prevails in most sub-Saharan
+African countries that are hard hit by AIDS (Oppong, 2004).
+The study did not reveal significant association between the various
+caregiver age groups and nutritional status of orphans with the overall
+data and the data from Asante (p>0.05 in both cases). However,
+significant association was found between caregiver age and nutritional
+status of orphans (p<0.05) among the Krobo. The regression analysis
+showed that orphans whose caregivers were in the age range of 41 – 50
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+755
+
+years were about eight times more likely to be stunted than those with
+caregivers among the other age groups. This observation may be due to the
+fact that care of orphans especially among the Krobo falls heavily on
+grandparents without much support from other family members. The
+plight of these grandparents particularly grandmothers and orphans has
+stimulated some interventions and support from traditional and external
+sources (Atobrah, 2005), but because the age group 41 – 50 years is not
+regarded as elderly they may not be receiving the needed assistance as
+orphan caregivers. It could also be that some of these caregivers as well as
+some of the orphans in their care are infected with HIV or some other
+chronic diseases. As a result, the caregivers cannot cope with strenuous
+work to boost their family income, even though they need more money for
+the upkeep of the orphans as well as for the treatment of their ailments
+and diseases.
+Although the findings of this study did not find statistically significant
+differences between the nutritional status of paternal orphans and
+maternal orphans; and no statistically significant differences between the
+nutritional status of single orphans and double orphans that is, p>0.05 in
+both cases, anecdotal evidence claims that the situation of the paternal
+orphan in terms of the care he or she receives is better than that of the
+maternal orphan, and the care situation of double orphans worse than that
+of single orphans. Orphan care may be expected to be partly dependent on
+how close the orphan is, biologically to the caregiver. However, the impact
+of the loss of one or both parents on orphan care may however be
+dependent on the degree of involvement of the deceased parent(s) in the
+care of the children prior to their death. Thus, the greater the involvement
+of parents in the care of their children, the more detrimental their absence
+would be to the children they leave behind and vice versa. For those
+children who are already vulnerable, the death of their parent may not
+mean much to them in terms of care.
+
+756
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+CONCLUSION
+It is evident from the study that inheritance system affects orphan care
+with orphans under the matrilineal system of inheritance poorly cared for
+than those under the patrilineal system of inheritance, as such, it is
+important that community-based orphan care policies on interventions
+should focus more on orphans under the matrilineal system of inheritance
+in order to bridge the disparity in level of care between the two systems.
+Though there are no statistically significant differences in the nutritional
+status of paternal and maternal; and single and double orphans, the plight
+of the maternal orphan is said to be worse than that of the paternal orphan;
+and that of the single orphan better than that of the double orphan, and
+caregiver age has no statistically significant association with nutritional
+status of orphans. It should however, be noted that these findings apply
+only to orphans and not non-orphans as the situation of the latter has not
+been studied in a similar fashion. It is therefore recommended that similar
+studies be done on non-orphans to serve as the basis for comparison.
+The impact of AIDS on affected children and responses from families,
+communities, government, and other supporting agencies may be
+determined by the dynamics of the cultural, economic, psycho-social, and
+the organizational milieu in which these children find themselves. Orphan
+care stakeholders may, therefore, have to adopt appropriate strategies that
+take into consideration, the cultural, economic, as well as the social factors
+operating in the environment they work. This would enable them to draw
+up appropriate local responses to effectively address the needs of orphans
+and their caregivers, to ensure that these children grow up into responsible
+adults for the betterment of society.
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+757
+
+References
+[1] T. Abebe, and A. Aase, Children, AIDS, and the politics of orphan
+care in Ethiopia: The extended family revisited. Social Science and
+Medicine, (2007), 64 2058-2069
+[2] D. Atobrah, Care of orphans in Manya Krobo. Studies in the Culture
+of Care
+(2005), Institute of African Studies, University of Ghana,
+Legon.
+[3] L. Cluver, F. Gardner, and D. Operario, (2007). Psychological
+distress amongst AIDS-orphaned children in urban South Africa.
+Journal of Child Psychology and Psychiatry,(2007) 48: 755–763.
+doi: 10.1111/j.1469-7610.2007.01757.
+[4] J. Fenrich, J, T.E Higgins, ‘Promise unfulfilled: Law, culture and
+women's inheritance rights in Ghana’ Fordham International Law
+Journal. 25: (2001), 259-341.
+[5] G. Foster, and J. Williamson, A review of current literature of the
+impact of HIV/AIDS on children in Sub-Saharan Africa. AIDS 14 (suppl.
+3): (2000) S275-S284
+[6] Gilborn, et al. Making a difference for children affected by AIDS:
+Baseline findings from operations research in Uganda. The Population
+Council Inc., New York, (2001).
+[7] J. Goody, Polygyny, economy and the role of women. In: “The
+character of kinship”. Edited by Goody. pp. 175-190. Cambridge,
+Cambridge University Press. (1973).
+[8] B.H Howard, C.V. Philips, N. Matinhure, K.J. Goodman, S.A.
+McCurdy, and C.A. Johnson, Barriers and incentives to orphan care in
+a time of AIDS and economic crisis: A cross-sectional survey of
+caregivers in rural Zimbabwe. BMC Public Health,(2006)
+6:27doi:10.1186/1471-2458-6-27.
+[9] S, Hunter, J. Williamson Responding to the needs of children
+
+758
+
+L. Yarney, C. Mba, E. Asampong, J. Darko and J. Yarney
+
+orphaned by HIV/AIDS. Discussion paper on HIV/AIDS care and
+support. No. 7, Health and Technical Services (HTS) Project for USAID,
+June, (1998b).
+[10] S.S Hunter, (1990). Orphans as a window on the AIDS epidemic in
+sub-Saharan-Africa: Initial results and implications of a study in
+Uganda. Social Science and Medicine 31, (1990) 6:681-690
+[11] R. Monasch, J.T. Boerma, Orphanhood and childcare patterns in
+Sub-Saharan-Africa: An analysis of national surveys from 40 countries.
+AIDS.; (2004)18 (2):55–65
+[12] NACP/GHS (April 2009). 2008 HIV Sentinel Survey Report. Accra,
+Ghana
+[13] NACP/GHS/MoH (March,2011). 2010 HIV Sentinel Survey Report
+[14] B. Nkosi, Vulnerability of orphans vs. non-orphan caregivers in
+KwaZulu-Natal. AIDS Impact Conference. 4th July 2007
+[15] P.M. Ntozi, and J. Mukiza-Gapere. Care for AIDS orphans in
+Uganda: Findings from focus group discussions. Health Transition
+Review. Supplement to Volume 5, (1995). 245-252.
+[16] E.K. Nyambedha, S. Wandibba, and J. Aagaard-Hansen Changing
+patterns of orphan care due to the HIV epidemic in western Kenya. Soc
+Sci Med. (2003b).57(2):301–11
+[17] C. Nyamukapa, and S. Gregson. Extended families and women’s
+roles in safeguarding orphans’ education in AIDS-afflicted rural
+Zimbabwe. Social Science and Medicine. 60: (2005) 2155-2167
+[18] C. Oleke, A. Blystad, and O.B. Rekdal “When the obvious brother is
+not there”: Political and cultural contexts of the orphan Challenge in
+northern Uganda. Social Science & Medicine 61: (2005) 2628-2638c
+[19] C. Oppong, “Gender, family strategies and responsibilities of
+grandparents in Sub-Saharan Africa”. (2004) Occasional Research
+Papers Series 2000, IAS, Legon, Accra.
+
+Is Inheritance System a Factor in the Care of AIDS Orphans?
+
+759
+
+[20] M. Runger, 'Governance, land rights and access to land in Ghana –
+A development perspective on gender equity'. (8-11 March, 2006).
+[21] R.M Safman, Assessing the impact of orphanhood on Thai children
+affected by AIDS and their caregivers. AIDS Care.; (2004) 16(1):11–19.
+[22] N. Thielman, J. Ostermann, K. Whetten, R. Whetten, K. O’Donnell,
+et al. Correlates of Poor Health among Orphans and Abandoned
+Children in Less Wealthy Countries: The Importance of Caregiver
+Health.
+PLoS
+ONE
+7(6):
+(2012)
+e28109.
+Doi:10.1371/journal.pone.0038109
+[23] UNAIDS/UNICEF, Children on the brink: A joint report on
+orphan estimates and program strategies. July , (2002).
+[24] UNAIDS, Report on the global AIDS epidemic. (2005).
+[25] USAID/UNAIDS/UNICEF, Children on the brink (2004).
+[26] J. Williamson, Finding a way forward. Washington D.C.: USAID
+Displaced Children and Orphans. War Victims Fund. (2000).
+Received: October, 2012
+
+

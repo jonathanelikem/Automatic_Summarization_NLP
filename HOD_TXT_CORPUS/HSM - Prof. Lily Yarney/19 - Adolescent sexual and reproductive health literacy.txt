@@ -1,0 +1,1171 @@
+Health Promotion International, 2024, 39, daae065
+https://doi.org/10.1093/heapro/daae065
+Article
+
+Adolescent sexual and reproductive health literacy
+needs: a sub-national level assessment in Ghana
+Jacqueline Nkrumah1,*, , Aaron A. Abuosi2, Anita Asiwome Adzo Baku2, Lily Yarney2,
+Gordon Abekah-Nkrumah2, and Cecil Randolph Tettey3
+Department of Health Administration and Education, University of Education, Winneba, P. O. Box 25, Winneba Commercial
+Street, Winneba, Central Region, 233, Ghana
+2
+Department of Health Services Management, University of Ghana Business School, P. O. Box 78, Volta Hall Road, Accra-Legon,
+Greater Accra Region, 233, Ghana
+3
+University of Education, Winneba, Health Service Directorate, P. O. Box 25, Winneba Commercial Street, Winneba, Central
+Region, 233, Ghana
+1
+
+Corresponding author. E-mail: jnkrumah@uew.edu.gh
+
+*
+
+Abstract
+This study assessed young adolescents’ access and literacy challenges to sexual and reproductive health information and knowledge gaps in the Effutu Municipality in the Central Region of Ghana. We used a narrative design and a focus group discussion
+method to glean data from 52 in-school adolescents, aged 11–15. Focus group discussions were conducted using a discussion
+guide and data were processed using QDA Miner (version 6.0). We analyzed data thematically using an iterative process of data
+validation, coding and recording. The participants had poor knowledge of the concepts of sexual and reproductive health and its
+essential domains. Abstinence was the predominant sexual and reproductive health goal of the participants. Yet, many males
+admitted to having sexual partners. There was difficult linguistic and physical access to structured and safe information. Personal
+hygiene, signs of sexual maturation and abstinence were the predominant contents available to young adolescents. A revision of
+adolescent health policies and strategies to embrace actions for improving unrestricted access to easy-to-read educational materials and adolescent health literacy is essential. Creating adolescent corners and introducing peer education in schools within
+Effutu and other municipalities in the Central Region will be useful.
+Keywords: adolescent sexual and reproductive health, information, access, literacy, knowledge promotion
+
+INTRODUCTION
+Sexual and reproductive health (SRH) is concerned
+with the physical, mental and social well-being of
+individuals. Social well-being in this context relates
+to sexuality, matters of the reproductive system, its
+functioning, and processes, which include maternal
+and newborn health, family planning and adolescent
+and youth reproductive health (Denno et al., 2015).
+Adolescent sexual and reproductive health (ASRH)
+issues are of great concern in sub-Saharan Africa (SSA)
+(Melesse et al., 2020). The region is behind the rest of
+the world’s regions on measures of reproductive health.
+It accounts for a greater proportion of maternal deaths
+
+and mother-to-child transmission of HIV (UNFPA,
+2014). Even though there is a growing awareness of
+contraceptives and HIV/AIDS, knowledge of sexually
+transmitted infections (STIs), sexuality, reproduction and contraceptive services is largely inadequate
+(UNFPA, 2014; Ghebreyohans et al., 2015; Kim et al.,
+2019; Sully et al., 2020). Few women of reproductive
+age use modern contraceptives. Among adolescents,
+SRH constitutes a sizable proportion of the global burden of sexual ill-health (Morris and Rushwan, 2015).
+Studies have found poor reproductive health attitudes,
+and practices, and low perceptions of STIs and HIV
+among adolescents of school-going age (UNFPA, 2014;
+
+© The Author(s) 2024. Published by Oxford University Press. All rights reserved. For commercial re-use, please contact reprints@oup.com for
+reprints and translation rights for reprints. All other permissions can be obtained through our RightsLink service via the Permissions link on
+the article page on our site—for further information please contact journals.permissions@oup.com.
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Article
+
+J. Nkrumah et al.
+
+2
+
+Contribution to Health Promotion
+
+Manortey and Geh, 2018; Santos et al., 2019), which
+is suggestive of gaps in literacy and knowledge of SRH
+among adolescents in SSA.
+Ghana has low family planning uptake and an
+increased prevalence of STIs, especially chlamydia, HIV,
+syphilis and Chlamydia trachomatis, in some regions of
+the country (Nyarko et al., 2014; Osei-Yeboah et al.,
+2018). The prevalence of STIs suggests a risk of STIs
+in the population. Furthermore, teen motherhood is
+a public health concern in Ghana. The statistics show
+that 301 adolescent girls get pregnant every month, and
+13 get pregnant daily (Ghana Web, 2021). Adolescent
+girls aged 10–15 accounted for 2865 pregnancies
+recorded in 2020. The Central Region has recorded a
+year-on-year marginal decrease in teenage pregnancy
+from 2016 (12 404 pregnancies) to 2020 (10 301 pregnancies). Yet, the region came third among the regions
+with a higher rate of teen pregnancy in 2020 (Ghana
+Web, 2021; City News Room, 2021). Most disturbing
+is that many pregnancies occur among young adolescents between 10 and 15 years old. In 2020, 1327 out
+of 56 443 adolescent pregnancies were recorded in the
+region among adolescents aged 10–14 (Ghana Web,
+2021; Gbagbo, 2020). Studies from the Central Region
+also point to an increasing rate of sexual activities
+among young adolescents in basic schools (Afriyie and
+Essilfie, 2019; Gbagbo, 2020). These research findings
+are congruent with anecdotal accounts from the public
+health unit of the Municipal Health Directorate, which
+shows an upsurge in pregnancy among basic school
+pupils in the Effutu Municipality.
+The Adolescent Health Service Policy and Strategy
+(AHPS) (2016–2020) of Ghana was developed in 2016
+to ameliorate adolescent health outcomes in Ghana.
+
+MATERIALS AND METHODS
+Study area
+The study was conducted in the Effutu Municipality
+in the Central Region of Ghana. The municipality
+was selected based on research findings that 60% or
+more of basic school adolescents are already in sexual relationships (Gbagbo, 2020). Also, anecdotal
+accounts from the public health arm of the Municipal
+Health Directorate (MHD) show that the municipality has no adolescent corners or school-based SRH
+clubs for SRH learning. The Effutu Municipality has
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+• This study hones our understanding of
+young adolescents’ sexual and reproductive health (SRH) literacy needs at the
+sub-national level in Ghana.
+• It identifies specific areas where young
+adolescents may struggle to access, understand and use SRH information and services. Insight into these areas is valuable to
+health promotors for developing materials
+and interventions to improve adolescents’
+health outcomes.
+• Based on the findings, health promotors
+can address potential barriers to understanding SRH information and minimize
+disparities in information access among
+young adolescents.
+
+The policy prioritized among other things, the promotion of equitable access to appropriate and comprehensive, quality and cost-effective health information
+and education for adolescents (Ghana Health Service,
+2016). However, it is not yet known whether the strategies set out by the policy are effectively implemented
+and whether it is achieving the set targets. Providing
+access to health information and education as outlined
+in the policy is an essential step in promoting protective
+factors essential for reversing adverse SRH outcomes in
+adolescents. However, literature on adolescents’ access
+to SRH information under the new policy regime and
+related literacy challenges is scarce. Obtaining data on
+these domains is essential for designing literacy and
+educational interventions that will prepare adolescents with the agency to make informed SRH choices
+(Jones and Norton, 2007). Studies have shown the
+value of general and SRH literacy in reducing recurrent pregnancy among adolescents (Bennett et al.,
+2013; Dongarwar and Salihu, 2019). Thus, improving
+access to easy-to-read SRH information among adolescents will empower them with the social skills to make
+appropriate sexual health choices.
+A plethora of evidence abounds on ASRH behavior,
+knowledge, decision-making skills, and stigmatization in Ghana and SSA (Ivanova et al., 2019; Furry
+et al., 2019; Ahinkorah et al., 2019; Finlay et al., 2020;
+Tenkorang et al., 2021). Unfortunately, little is known
+about young adolescents’ access to appropriate and
+comprehensive SRH information in Ghana. While few
+(30%) Ghanaian adolescents aged 10–14 can read at
+the grade 3 level (UNICEF, 2022), there is a paucity
+of literature on the health literacy levels of adolescents
+in this age bracket in Ghana and SSA. Gaining insight
+into the literacy and access barrier to SRH information and knowledge in young adolescents will be a
+worthwhile step in identifying areas of intervention to
+stimulate ASRH literacy and related outcomes. In this
+study, we assess how young adolescents in the Effutu
+Municipality in the Central Region of Ghana construct
+meanings into SRH as a concept, their knowledge gaps
+and barriers to information.
+
+Adolescent sexual and reproductive health literacy needs
+
+The quality of the qualitative work
+We applied the principles of trustworthiness to
+improve data quality during data collection and analysis. We maintained trustworthiness by relying on
+four main criteria. They include credibility, transferability, dependability and confirmability (Stahl and
+King, 2020; Bryman, 2016). To strengthen the credibility of the study’s data and results, we ensured that
+the participants were well informed about the study
+throughout the sampling to data collection stages.
+We have also provided a detailed description of the
+research design and the methods for gleaning and
+analyzing data for purposes of transferability and
+credibility.
+
+Study design and population
+The study used a narrative design and a focus group
+discussion (FGD) method to gather data. This approach
+allowed individual participants in the research to share
+their lived experiences and perspectives on the SRH
+issues of interest to the authors (Butina, 2015). The
+design was valuable to understanding the meanings
+young adolescents construct into SRH concepts and their
+lived experiences regarding SRH information access, linguistic barriers and knowledge gaps. The study population included all in-school adolescents in grades 7 and
+8, aged 11–15, living in the Effutu Municipality. This
+age range was considered for this study due to the phenomenal record of pregnancy upsurges among young
+adolescents in Ghana (UNFPA, 2022). Also, the age
+group was considered to fill the gap created by the overconcentration of research on older adolescents (Melesse,
+2020). Although, World Health Organization (2013)
+classifies people, aged 10–14 as young adolescents, in
+almost all the schools in the municipality, 7th and 8th
+graders were 11 years or more. We, therefore, had to
+work with adolescents within this age bracket. Pupils,
+aged 16 and more who are in grade 9 and those without
+parental consent and or failed to give verbal assent were
+excluded from the study.
+
+Sample size and sampling procedure
+We recruited 52 in-school adolescents based on a fourstage sampling approach. Two ­sub-municipalities were
+randomly picked in the first stage, including KojoBedu-North Low-cost and Winneba West. Three communities, namely, North Campus, Abasraba and Club
+House, were randomly selected from the two sub-­
+municipalities. The random selections were done using
+Microsoft Excel (ME, 2013 version). We assigned
+numerical codes to sub-municipalities and the communities. The codes were input into ME for the random
+selection. Permission to enter the schools was provided by the MES and three schools were purposefully
+selected, one from each community, based on religion,
+academic performance, consent for participation and
+data saturation. All participating schools gave written
+informed consent after carefully considering the participants’ information. For purposes of anonymity, participating schools are labeled as schools 1, 2 and 3 for the
+schools selected from North Campus, Abasraba and
+Club House communities, respectively. School 1 is a
+Presbyterian Mission School and was chosen from the
+moderately performing schools. School 2 is an Islamic
+school and was selected from the poorly performing
+schools. School 3 is a local government school and
+was chosen from the best-performing schools. The aim
+of choosing these schools was to glean data on SRH
+knowledge gaps and literacy challenges from varied
+perspectives.
+We initially projected to sample 60 in-school adolescents based on informed parental consent, participants’ verbal assent, the expected number of FGDs
+and the group size. Six groups of 10 participants were
+projected for the FGDs. The 10 participants per group
+were premised on the optimal group size for FDGs
+(Von Seggern and Young, 2003; Rabiee, 2004).
+We explained the research purpose and procedures
+to 108 participants from the three schools. Written
+participant information and consent forms were given
+to be sent to their parents for consideration and consent. Participants’ information and consent forms were
+written in the English language, but provision was
+made for an interpreter and a witness in the case of
+illiterate parents. The participants’ information sheet
+provided the personal contacts and email address of
+the first author, so parents can seek further clarification or ask questions when necessary. Participants who
+received parental consent were also given the option
+to choose to participate by providing verbal assent.
+Participants’ verbal assent was indicated on the parental consent forms since they were minors and making
+them given a written assent is inconsequential. A total
+of 65 parents signed the consent forms, and 52 adolescent males and females, aged 11–15, gave verbal assent
+and participated in the FGDs.
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+four sub-municipalities. They include Winneba East,
+Winneba West, Essuekyir-Gyahadze and Kojo-BeduNorth Low-Cost. Each sub-municipality is further
+divided into communities. It has a population of
+83 695. Women of reproductive age (15–49 years)
+and the expected number of pregnancies are estimated at 20 087 and 3348, respectively. Adolescents
+aged 10–14 years are estimated to be 11 550 and
+those aged 15–19 are 8872 (Trauma and Specialist
+Hospital, 2021). Data from the Municipal Education
+Service (MES) show that 49 basic schools, including 22 public and 27 private schools, are distributed
+across the sub-municipalities.
+
+3
+
+J. Nkrumah et al.
+
+4
+
+Data collection instrument
+
+Data collection
+We held separate FGDs for male and female adolescents. The discussions were organized at the school
+premises after school hours using separate classrooms
+for male and female adolescents. The purpose was to
+create a culturally appropriate atmosphere, devoid of
+stigma and embarrassment and promote the credibility
+of the data. Two out of the six FGDs were held for
+male young adolescents made up of six participants per
+group in schools 1 and 2. However, a group discussion
+was held in school 3 because only three males from
+that school assented to participate in the study. We held
+four FGDs for the adolescent females with group sizes
+ranging between seven and ten participants. In school
+3, we held two female FGDs consisting of 10 participants per group. One FGD was held in school 1, using
+10 female participants. In school 2, we held one FGD,
+made up of seven female participants. Fewer male adolescents met the inclusion criteria than females, which
+explains the differences in group size.
+At the beginning of each group discussion, the moderators welcomed the participants and explained the
+format of the discussion, the ground rules and the
+expectations to them. While questions for the discussions were taken from the discussion guide, probes and
+follow-up questions were used to clarify and expand
+responses. The last author, a male practicing nurse with
+a public health background moderated the male FGDs.
+The first author who is a researcher and a lecturer,
+moderated the female group discussions. The duration
+of the group discussions ranged from 45 to 60 min.
+Discussions were done in Fante (the widely spoken
+language in the Effutu Municipality) and English.
+Using two languages was useful in creating a friendly
+atmosphere for unencumbered responses. Participants’
+
+responses were recorded using audio recorders and
+field notes. A male and female-trained research assistant took notes from the FGDs. The research assistants
+were 4th-year undergraduate students, aged 22 and
+23, respectively. Data were collected over 1 week in
+February 2022. All participants were provided with
+snacks since meetings were held after school, between
+14:00 and 15:00 Greenwich Meridian Time (GMT).
+
+Data analysis
+Data from the study were analyzed thematically. Data
+translation, transcription and coding were done in a
+manner that will guarantee the reliability of the results.
+We began by translating the discussions recorded in
+the local language (Fante) into English-language text.
+Two translators proficient in the English and Fante
+languages did the translation. The translators were
+graduate students, from the College of Languages,
+University of Education, Winneba. Discussions done
+in English (the audios) were transcribed and content
+validity was performed on the transcripts to authenticate the responses. The first author compared the
+transcribed audio with the field notes to ensure that
+responses were accurately captured by the note-takers.
+The translated and transcribed text was also compared
+with the audios to ensure that participants’ views and
+statements were captured completely and accurately by
+the transcribers and translators.
+Data were coded and processed using QDA Miner
+(version 6.0). We coded data inductively (Fereday and
+Muir-Cochrane, 2006) by working on the data set for
+each FGD separately. One of the data sets was first
+read through closely by considering the meanings
+inherent in the text. Codes were created from portions
+of the text that contain meaningful information. The
+codes we created from the first dataset were applied
+to the remaining datasets. However, additional codes
+were created for the other datasets if previously created codes did not match a portion of the data or when
+needed. This process was repeated on all the datasets
+after 3 months to allow for comparison and consistency with the earlier codes and to make the study
+results dependable. Saturation was achieved at two
+levels. At the first level, saturation was reached when
+no additional data were found after group discussion
+in school 3. The authors decided to discontinue the
+group discussion. The second level of saturation was
+reached when no new codes were identified from the
+transcripts. Codes were merged and grouped into
+themes based on the main themes in the discussion
+guide, using common patterns among them. Codes
+that did not fit closely under the themes in the discussion guide were combined to create sub-themes. All
+themes were compared against the data set for revision purposes. Relevant sentences and phrases were
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+We developed a discussion guide to moderate the
+FGDs using insight from the literature reviewed on
+adolescent SRH studies in SSA. The discussion guide
+centered around how adolescents construct meaning
+into the SRH concept, their knowledge of relevant
+topic domains in SRH, access to SRH information
+and associated literacy challenges. The questions were
+structured around seven primary themes. Namely, (i)
+the SRH concept and sources of information, (ii) SRH
+information access and literacy challenges, (iii) contraceptives and methods, (iv) personal relationships
+and risky sexual behaviors, (v) STIs, (vi) reproduction and related issues, (vii) SRH service utilization.
+The guide was reviewed and validated by a Medical
+Officer with expertise in health education and a public health expert. The authors revised the guide based
+on the review comments of the two experts. (See the
+Supplementary File for details on the discussion guide.)
+
+5
+
+selected to support the themes. Finally, the second and
+third authors redefined the themes and sub-themes to
+make them articulate and valuable. The themes and
+illustrative quotes were finally checked and accepted
+by the first five authors.
+
+had two sub-themes: content available and literacy
+challenges. Predominant sexual knowledge also had
+two sub-themes, namely, sexual behavior and etiquette and sexual maturation. The themes and the
+sub-themes are presented with illustrative quotes from
+the participants.
+
+Ethical consideration and ethics approval
+The authors obtained written permission and
+approval from the MES for the conduct of the study.
+Written permission and informed consent were
+taken from participating school heads and parents.
+Written parental consent and participants’ verbal
+assent formed the basis for inclusion into the FGDs.
+Schools, parents and participants were adequately
+informed about the study. Ethics approval was provided by the Ghana Health Service Ethics Review
+Committee in October 2021, ethics approval number: GHS-ERC006/10/21.
+
+RESULTS
+The authors assessed young adolescents’ conceptualization of SRH, literacy challenges and knowledge
+in the Effutu Municipality. Table 1 presents the background information of the participants (see the table
+file for details). A total of 52 in-school adolescents
+who submitted informed parental consent participated in the discussions. The mean age of participants
+was 13 ± 1 years. The majority of the participants
+were females (37) and were grade 7 pupils. Seven main
+themes emerged from the analysis. They are: (i) views
+on SRH (ii) SRH information sources and access, (iii)
+contraception, (iv) predominant sexual knowledge,
+(v) STIs, (vi) preferred SRH topic domains, (vi) SRH
+goals. However, SRH information sources and access
+
+Table 1: Background information of participants
+
+Description
+
+Freq (%)
+N = 52
+
+Age
+
+Description
+
+Freq (%)
+N = 52
+
+Grade level
+
+12
+
+9 (17%)
+
+Grade 7
+
+29 (56.%)
+
+13
+
+16 (30.7%)
+
+Grade 8
+
+23(44%)
+
+14
+
+14 (26.9%)
+
+15
+
+13 (25%)
+
+Religion
+
+Mean age
+
+13 ± 1
+
+Christianity
+
+39 (75%)
+
+Islam
+
+23 (25%)
+
+Gender
+Male
+
+15 (28.8%)
+
+Female
+
+37 (71.2%)
+
+Constructed by authors, 2023.
+
+Views on SRH
+The participants’ perspectives on the concept of SRH
+were somewhat unrelated to the concept. Some participants conceptualized SRH as personal hygiene and
+socially approved mannerisms. Participants expressed
+their ideas in the following statement:
+SRH is how we keep our vagina. (Female, FGD,
+school 1)
+Sir, it is about keeping your reproductive organs
+clean. For example, bathing twice daily and brushing your teeth. (Male, FGD, school 3)
+Madam, it is how we keep ourselves clean as adults.
+(Female, FGD, school 2)
+
+Others also conceptualized SRH as socially approved
+mannerisms and pubertal changes. Their views are captured in the following statement:
+Madam, we need to protect ourselves by wearing decent dresses so that if older people see us,
+we won’t have a problem with them, so they will
+know that we are good girls…with this, no man
+will also have sexual feelings for us. (Female, FGD,
+school 3)
+It is when an individual begins to develop during
+his teenage. Sir, it is about changes that occur…
+the boy or girl will start to develop. The girl will
+start developing breasts, and the boy will grow ‘big’
+eh!..., you know it Sir. (Male, FGD, school 3)
+
+SRH information sources and access
+Adolescent participants consulted diverse but mostly
+informal sources for SRH information. Key sources
+included relatives, teachers and books. According to
+the participants, the only book source was the grade
+8 integrated science textbook. Very few had internet
+access and had ever tried searching for information
+from Google. Examples of sources mentioned included
+the following:
+Madam, we get information from our parents,
+teachers, and guidance and counseling people.
+Madam, we also get information from wise teens
+and older people. (Female, FGD, school 2)
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Adolescent sexual and reproductive health literacy needs
+
+J. Nkrumah et al.
+
+6
+
+Sir, we are taught in school…. Yes, Sir, our teachers
+sometimes teach them in our school lessons. (Male,
+FGD, school 3)
+
+SRH information within participants’ reach focused on
+abstinence, sexual maturation and personal hygiene.
+However, the content for males was quite distinct from
+those given to female adolescents. While the males
+mentioned issues related to sexual maturation, the
+content from females seemed to center around abstinence and decent dressing. Participants mentioned the
+contents below.
+Sir, they said some physical, emotional, and psychological changes happen when adolescents develop.
+The information is in our textbook. (Male, FGD,
+school 3)
+They teach us how to prevent ourselves from having
+sexual intercourse. (Female, FGD, school 1)
+Madam, they teach us to keep ourselves and avoid
+visiting men in their rooms. They also teach us how
+to dress in a good way. (Female, FGD, school 1)
+
+Literacy challenges
+There were mixed reactions to linguistic challenges,
+whereas some participants said they could read and
+understand information from textbooks, others suggested challenges and said some words were difficult
+to read and understand. Some participants shared their
+experiences in the following statements:
+Yes, madam, we do not understand them. Massive
+response. (Female, FGD, school 1)
+Madam, as for me, if I do not understand, I check it
+in the dictionary when I go home to find the meaning. (Female, FGD, school 3)
+Madam, I use my parents’ phone to search for the
+meaning of difficult words from Google. Yes, me
+too. (Female, FGD, school 3)
+Madam, the English language used is too big.
+(Female, FGD, school 1)
+
+Digital literacy and resources were also significant barriers to information access. Most adolescents
+expressed interest in SRH information, but skills and
+resource challenges hindered their curiosity. Some adolescents expressed their bother and said:
+
+I do not have a smartphone. Madam,…I have not
+searched for information on the internet before.
+(Females, FGD, school 2)
+
+Aside from literacy challenges, ASRH prejudice and
+stigma were a noteworthy barrier. Young adolescents
+have challenges opening up to adults on matters of
+sexual health and reproduction. It was also observed
+from the audio recordings and discussions that it was
+more difficult for females to share views on sex and
+sexuality than males. Participants, particularly females,
+expressed their frustration and said:
+Sometimes we have problems in our personal lives
+and want explanations and guidance on what to do,
+but we cannot ask our teachers, parents, or adult
+family members. (Female, FGD, school 3)
+Madam, whenever we try a conversation on matters
+of sex, they get annoyed. They shout at us, saying
+we are ‘bad’ and ‘spoilt’ children. (Female, FGD,
+school 3)
+
+Contraception
+Oral contraceptives, particularly emergency contraceptives, male condoms, and the withdrawal method were
+well-known among the participants. Among female participants, information on self-induced abortion seemed
+widespread. Some female participants had these to say.
+Madam, you can also do an abortion…like taking
+a pack of paracetamol. Others use sugar and paracetamol with alcohol to do abortions. (Female,
+FGD, school 2)
+Madam, you can also use Nescafe. (Female, FGD,
+school 2)
+Madam, some people wear a condom, and others
+use P-2 (i.e., postinor-2, an emergency contraceptive). (Female, FGD, school 1)
+Madam, others use Lydia (i.e., an oral contraceptive
+brand name). (Female, FGD, school 1)
+
+While females were reserved about this topic and
+were shy to share their experience on contraceptive
+use, the males were outspoken and retorted in the following statement.
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Contents available
+
+No. Sir, most of us do not have smartphones. It’s
+like, I do not know how to use the internet to look
+for information…yes if I get a smartphone, I will
+learn how to look for such information. (Male,
+FGD, school 1)
+
+Adolescent sexual and reproductive health literacy needs
+
+Adolescent participants were aware of where
+they could source oral contraceptives and condoms.
+Prominent among the sources were pharmacies,
+chemical shops and hospitals. Others also mentioned
+herbal medicine providers. The participants shared
+their experiences in the following statements.
+Sir, you will get some at the hospital. Yes, it is good
+to get it from the hospital…I know someone who
+went to get one there, so am sure it is good. (Male,
+FGD, school 1)
+Madam, Herbal Shops…eh, sometimes in the cars
+when traveling. Some people boil concoctions and
+drink them at home as contraceptives. (Female,
+FGD, school 2)
+Yes, some are herbs brought from the farm. The
+herbal medicine people also have it. (Female, FGD,
+school 2)
+
+The adolescents were unaware that Family Health
+Units in public hospitals and health centers provide
+contraceptive services. Those who believed they could
+get contraceptive services from hospitals expressed it in
+the following statement.
+Madam, you must go to the OPD to get the
+­pregnancy-stopping medicines when you get to the
+hospital. (Female, FGD, school 2)
+No, madam, the abortion room is where you
+can get one. No, not that place. It is the No,
+not that place. It is the theatre. (Female, FGD,
+school 1)
+
+Madam, we have friends, and at other times we
+learn and play together…but sexual intercourse in
+this kind of friendship is not good. (Female, FGD,
+school 3)
+Madam, the opposite sex should not share a very
+close friendship. Yes, madam, fondling the breast
+and kissing are not ‘good’…. Yes, no pressing of
+buttocks. (Female, FGD, school 1)
+
+Participants were largely unaware of the classifications of sexual activities and their associated risks.
+Vaginal intercourse was known, and pregnancy was
+considered the only risk in sexual intercourse. Yet, some
+males admitted to having sexual partners. Participants
+expressed themselves in the following statement.
+No, Sir, we do not have girlfriends. (Male, FGD,
+school 2)
+Yes, Sir, we have some. (Male, FGD, school 2)
+Sir, getting pregnant and being a schoolgirl may
+cause you to drop out.
+Yes, Sir, it can also destroy one’s future. (Male,
+FGD, school 3)
+
+Few participants knew that condomizing during
+sexual intercourse was a safe sex practice. To most
+participants, safe sex is when sexual intercourse happens between regular sexual partners and in situations
+where the female is not intoxicated with alcohol. Some
+females shared the following views:
+Madam, safe sex is when the lady avoids drunkenness so that if she gets pregnant, she can figure out
+the father of her child. (Female, FGD, school 2)
+Yes! Yes! Madam, unsafe sex is having sex while
+drunk making you unable to figure out the partner.
+(Female, FGD, school 2)
+
+Predominant sexual knowledge
+Participants demonstrated sound knowledge of signs
+of sexual maturation, except menstruation. Other
+areas of knowledge were etiquettes in personal
+friendship and the dangers of early sexual activities.
+These findings are discussed under the sub-themes
+of sexual behavior, etiquette, and sexual maturation.
+
+Sexual behavior and etiquette
+Adolescent participants seemed abreast with the do’s
+and don’ts in personal friendship. The following are
+their views.
+
+Signs of sexual maturation
+The signs of sexual maturation were the predominant
+knowledge among the participants. However, knowledge of the menstrual cycle and safe and unsafe periods
+was lacking. Participants expressed their knowledge
+and the lack of it in the following ways:
+Sir, growing hair in the pubic areas is a sign that you
+have reached puberty. Boys will begin to produce
+sperm and start having wet dreams. (Male, FGD,
+school 3)
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Sir, if the feeling for sex becomes unbearable,
+sex happens even if there is no condom…but I
+remove my penis when the ‘juice’ is about coming out. That is to say, ejaculate. (Male, FGD,
+school 2)
+
+7
+
+J. Nkrumah et al.
+
+8
+
+Madam, with the menstrual cycle, sometimes the
+blood flows for five, seven, and six days. (Female,
+FGD, school 3)
+
+Madam, From one to 28 days, you will not get pregnant when you engage in sexual intercourse, and from
+five to 7 days, you can get pregnant if you engage in
+sexual intercourse. (Female, FGD, school 2)
+
+STIs and treatment
+Adolescents showed fair knowledge of STIs by citing
+relevant examples such as HIV, gonorrhea and syphilis,
+and how they can be diagnosed. Others, however, had
+very little knowledge about them. Among those who
+knew STIs, symptoms of HIV were better known than
+the other STIs they mentioned. Just like the responses
+on contraception, a mix of sources of treatment for
+STIs were named by the participants. While some
+adolescents mentioned formal sources, others named
+informal sources. Participants mentioned the following
+examples.
+Madam, an example of STI is moniasis. Another
+one is Bilharzia…ehm, yes, and bacteria too.
+(Female, FGD, school 1)
+Madam, STI, it’s when one engages in sexual intercourse and gets illnesses like HIV, gonorrhea, or
+syphilis. (Female, FGD, school 2)
+Before being sure you have an STI, you must take a
+test. For example, with HIV/AIDs, you will realize
+you have grown lean and weak, so you will need to
+see a doctor. (Female, FGD, school 3)
+
+Preferred SRH topics
+Participants expressed interest in learning more about
+SRH and suggested topics such as abortion, abstinence,
+contraception, decent dressing, the menstrual cycle,
+personal friendship and reproduction. However, SRH
+information was hard to reach or other times, non-­
+existent. Participants expressed their interest and frustration in the following ways:
+Madam, we need a book in easy-to-read writing or
+picture forms. That book will be attractive and give
+us a better understanding of the message. (Female,
+FGD, school 3)
+Because of the older people’s attitude towards
+us on sex matters, we would be happy to have
+
+SRH goals
+Although some participants indicated they have sexual
+partners, almost all mentioned abstinence as their SRH
+goal. The chief reasons for abstinence were age, inability to cater to the baby and educational aspiration.
+Here are some expressions from participants.
+I will not have sex…I will go to bed doing nothing.
+I will take a book and learn when the feeling to
+have sex continues…because I want to be a pilot.
+(Male, FGD, school 3)
+Sir, abstinence…because we are too young to care
+for ourselves and a mother. (Male, FGD, school 2)
+Madam, abstinence from sex. (Female, FGD, school 3)
+
+DISCUSSION
+The study assesses how young adolescents in the Effutu
+Municipality conceptualize SRH, their knowledge gaps
+and barriers to information. Participants’ SRH literacy
+challenges were identified in the domains of access to
+safe, comprehensive and accurate information; readability and comprehension of the available information. We identified knowledge gaps in many domains,
+including SRH as a concept, contraceptives, STIs and
+risky sexual behaviors. Access to SRH information is
+mainly informal and has the potential to propagate
+inaccurate and unsafe information among adolescents.
+Informal sources of information seem to be a characteristic feature of ASRH information in Ghana and
+SSA, as the literature often refers to them as a major
+source of SRH information for adolescents (Renzaho
+et al., 2017; Ahinkorah et al., 2019; Obasi et al., 2019;
+Gbagbo, 2020). The study participants complained
+of limited access to information, particularly, SRH
+educational materials. The only available structured
+information was those found in the integrated science
+textbook for 8th graders and the internet, which are
+limited in scope and reach. This result corroborates
+findings by Awusabo-Asare et al. (2017) that access
+to structured learning materials is a major constraint
+to the implementation of the comprehensive sex education policy in second-cycle and basic schools. Only
+a few of the participants had access to smartphones
+to search for SRH information on the internet. While
+adult groups and relatives could have been viable and
+reliable sources of SRH information for adolescents,
+the depth of their SRH knowledge and their ability
+to educate adolescents is not well known. This situation makes dependence on unstructured sources of
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Yes, madam, the 28 days is the safe period, and the
+five to seven days is the unsafe period. (Female,
+FGD, school 3)
+
+easy-to-read booklets that we could use privately to
+educate ourselves. (Female, FGD, school 2)
+
+9
+
+information unsafe for young adolescents. Improving
+access to structured SRH information may drastically
+enhance knowledge and positive health outcomes. It
+is essential to lay the groundwork for young adolescents to approach sexual health more maturely and
+responsibly.
+Consistent with the literature on Ghana (Asampong
+et al., 2013; Hall et al., 2018), prejudice against matters of adolescent sexuality and reproductive conversation was a significant barrier to SRH information and
+knowledge. The participants expressed misgivings and
+emphasized that they receive insults instead of proper
+feedback when they ask questions related to sex and
+reproduction. For most adolescents, the best cure to
+prejudice would be to provide them with easy-to-read
+SRH information to aid in independent reading and
+avoid prejudgment. This aspect of the results highlights a critical gap in the existing policies on ASRH
+in Ghana (Ghana Aids Commission, 2013; National
+Population Council, 2016; GHS, 2016), as they propose no strategy for addressing sociocultural barriers
+to SRH learning among adolescents. Advocacy and
+reforms to remove sociocultural, linguistic and physical
+access to safe SRH information are critical. Also, participants’ responses accentuated the existence of ASRH
+stigma and the gendered nature of the stigma, which
+corroborates findings from the literature. Studies in
+Ghana show that Ghanaian adolescent females suffer
+shame and humiliation arising from SRH stigmatization (Hall et al., 2018). For fear of stigmatization, most
+adolescents cultivate a behavior of silence and secrecy
+in matters of sex and reproduction. For instance, in the
+Eastern and Volta Regions of Ghana, Asampong and
+his colleagues (2013), reported the use of contention
+to control teen sexual desires instead of an open and
+honest parent–adolescent conversation on the timing
+of sex. They found that most parents perceived the
+present generation as ‘spoilt’ and one that lacks sexual morality. Prejudice and discrimination are likely to
+predispose young adolescents to exploitation, coercion
+or abusive relationships because they may be afraid of
+what others will think of them if they ask for assistance
+or talk about their experiences. Creating a welcoming
+and inclusive atmosphere where young adolescents feel
+empowered to make decisions about their SRH in an
+informed and healthy fashion is critical.
+Young adolescents’ conceptualization of SRH in this
+study indicates poor awareness of SRH rights, safe sex
+and contraceptive use. Their lack of awareness and
+knowledge of essential domains of SRH reinforces
+findings from Ghana and SSA. A study in eight sites
+across SSA found that very few young in-school adolescents knew about menstruation and STIs (Finlay
+et al., 2020). In Northern Ghana, Kyilleh et al. (2018)
+reported the commonplace of premarital sex among
+
+adolescents aged 10–19. While sexually active adolescents need access to safe information and education to
+make informed and healthy choices, adolescents in the
+study had poorer access to SRH information and had
+lower knowledge of reproductive health choices. In the
+present study, female in-school adolescents had very
+little knowledge about the menstrual cycle, particularly
+the safe and unsafe periods.
+Given that some participants have sexual partners,
+poor knowledge of the menstrual cycle and conceptive
+are hot spots for adolescent pregnancy. The lack of
+knowledge of essential SRH topics such as the menstrual cycle, risky sexual behaviors, STIs and contraceptives at the sub-national level seemingly suggests that
+Ghana is far behind the target of the adolescent health
+policy and strategy. As part of the policy targets, the
+Ghana Health Service was to reach 90% of adolescents
+with health information and improve the SRH knowledge of 90% of adolescents by 2020 (Ghana Health
+Service, 2016). However, deeply entrenched social and
+religious proscriptions limit ASRH discussions to the
+so-called ‘safe’ issues such as abstinence, signs of sexual
+maturation and personal hygiene with the view to preventing adolescents from engaging in sexual activities.
+Findings from Uganda suggest that most adults believe
+that sexual desires and sexual relationships among
+adolescents are the result of sex education (Muhwezi
+et al., 2015). While studies on religious faith and ASRH
+acceptance are scarce, Manlove et al. (2008) have
+found a negative association between family religiosity
+and the age of sexual debut among female adolescents.
+This finding, albeit dated, suggests that certain family
+principles and values do promote abstinence and may
+be useful in improving ASRH outcomes. Yet, a comprehensive approach to improving ASRH outcomes
+cannot be overemphasized. While we do not intend to
+water down the value of age-­appropriate ASRH education, sexual desire is physiological. Therefore, applying a discriminatory approach to the content of SRH
+learning would rather deny the young adolescent the
+essential knowledge and social skills necessary to make
+informed health choices and to navigate the allures of
+adolescent life.
+The majority of the female participants had misconceptions about risky sexual behaviors. Rather, they
+knew so much about self-induced abortion. The poor
+knowledge of essential topics in SRH coupled with
+the active sexual behavior reported by some participants, beckon to us the looming danger of increased
+teen pregnancy, recurrent pregnancy and self-induced
+abortion among young adolescents in the municipality. The active sexual behavior of some of the participants is corroborated by anecdotal accounts of some
+school heads. They mentioned that some adolescents
+indulge in sexual activities as early as grade 5. A
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Adolescent sexual and reproductive health literacy needs
+
+J. Nkrumah et al.
+
+10
+
+SUPPLEMENTARY MATERIAL
+
+LIMITATIONS
+
+ACKNOWLEDGEMENTS
+
+The study is limited to in-school adolescents in the
+Effutu Municipality in the Central Region of Ghana.
+Although prejudice and stigma against ASRH emerged
+in the participants’ lived experiences, the authors did
+not set out to investigate ASRH stigma and prejudice.
+Therefore, caution is needed in order not to interpret
+the result as such.
+
+CONCLUSION
+This study provides an extensive description of young
+adolescents’ conceptualization of SRH, information
+access challenges and knowledge gaps. Even though
+total abstinence was a universal SRH goal for the young
+adolescents in the study, some were sexually active.
+Almost all the participants had restricted and poor
+access to structured and safe sources of SRH information, except a few who had internet access. Major
+challenges to SRH information access were the lack of
+availability of information, the linguistic difficulty of
+available text and ASRH prejudice. Young adolescents
+are uninformed about SRH as a concept, risky sexual
+behaviors, STIs and contraceptives. The results of the
+study call to mind factors at sub-national levels that
+need to be improved to foster a favorable environment
+for ASRH education and literacy to thrive. Advocacy
+on community and parental involvement, adolescent
+SRH education and literacy at the sub-national level
+are essential to stem the tide of prejudice and stigma
+and to stimulate an open parent–adolescent SRH conversation. It will be useful to revise the AHPS’s strategies to embrace actions to improve the availability of
+easy-to-read SRH educational materials and adolescent health literacy. Revamping existing strategies such
+as the creation of adolescent corners and peer education in schools within Effutu and other municipalities
+in the Central Region will improve adolescents’ SRH
+knowledge and outcomes.
+
+Supplementary material is available
+Promotion International online.
+
+at
+
+Health
+
+AUTHOR CONTRIBUTIONS
+JN: Contributed to conceptualization, methodology,
+investigation, analysis and drafting of manuscript.
+AAA: contributed to conceptualization, validation and
+supervision. AAAB: contributed to validation, drafting
+and review of the manuscript. LY: contributed to conceptualization and supervision. GA: conceptualization
+and supervision. CRT: contributed to investigation.
+
+We acknowledge the support of the Municipal Director
+of Education, the Heads of participating schools and
+the participants’ parents, all of Effutu Municipality. We
+would also like to acknowledge Dr Beth Offei Awuku
+of the University of Education, Winneba for her meaningful contributions to the work.
+
+DATA AVAILABILITY
+Future users, agencies and researchers (within and outside Ghana) will be required to contact the authors to
+discuss the use of the data. The research data will be
+made available on request based on evidence of ethical
+clearance from a recognized ethics review committee.
+All data requests should be sent to the corresponding
+author (Jacqueline Nkrumah: jnkrumah@uew.edu.gh).
+
+FUNDING
+The work was funded through the personal financial
+resources of the authors.
+
+REFERENCES
+Afriyie, J. and Essilfie, M. E. (2019) Association between risky
+sexual behaviour and HIV risk perception among in-school
+adolescents in a municipality in Ghana. Ghana Medical
+Journal, 53, 29–36.
+Ahinkorah, B. O., Hagan Jr, J. E., Seidu, A. A., Budu, E.,
+Hormenu, T., Mintah, J. K. et al. (2019) Access to adolescent
+pregnancy prevention information and services in Ghana:
+a community-based case-control study. Frontiers in Public
+Health, 7, 382, 1–11, doi: 10.3389/fpubh.2019.00382
+Asampong, E., Osafo, J., Bingenheimer, J. B. and Ahiadeke, C.
+(2013) Adolescents and parents’ perceptions of best time
+for sex and sexual communications from two communities
+in the Eastern and Volta Regions of Ghana: implications for
+HIV and AIDS education. BMC International Health and
+Human Rights, 13, 1–11.
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+study of basic school adolescents in the municipality of Komenda–Edina–Egyafo–Abirem in the Central
+Region validates our findings. In this municipality,
+approximately 52% of the study participants had
+sexual debuts below age 14, and 27% were sexually
+active (Afriyie and Essilfie, 2019). The prevalence of
+sexual activities among adolescents, coupled with
+poor SRH knowledge, underscores the urgency for
+a combination of educational and behavioral interventions such as comprehensive sexuality education
+and literacy, peer education, parental involvement
+and health services tailored to the specific needs of
+adolescents.
+
+11
+
+Awusabo-Asare, K., Stillman, M., Keogh, S., Doku, D. T., KumiKyereme, A., Esia- Donkoh, K., ... & Bankole, A. (2017).
+From paper to practice: Sexuality education policies and
+their implementation in Ghana. Guttmacher Institute.
+Bennett, I. M., Frasso, R., Bellamy, S. L., Wortham, S. and Gross,
+K. S. (2013) Pre-teen literacy and subsequent teenage childbearing in the US population. Contraception, 87, 459–464.
+Bryman, A. (2016) Social Research Methods. Oxford, United
+Kingdom, University Press .
+Butina, M. (2015) A narrative approach to qualitative inquiry.
+American Society for Clinical Laboratory Science, 28,
+190–196.
+City News Room. (2021) Teenage pregnancies in Ghana hit
+555,575 in five years. ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​https://citinewsroom.com/2021/06/
+teenage-pregnancies-in-ghana-hit-555575-in-five-years/
+(last accessed 5 April 2022).
+Denno, D. M., Hoopes, A. J. and Chandra-Mouli, V. (2015)
+Effective strategies to provide adolescent sexual and reproductive health services and to increase demand and community support. The Journal of Adolescent Health, 56,
+S22–S41.
+Dongarwar, D. and Salihu, H. M. (2019) Influence of sexual and
+reproductive health literacy on single and recurrent adolescent pregnancy in Latin America. Journal of Pediatric and
+Adolescent Gynecology, 32, 506–513.
+Fereday, J. and Muir-Cochrane, E. (2006) Demonstrating rigor
+using thematic analysis: a hybrid approach of inductive and
+deductive coding and theme development. International
+Journal of Qualitative Methods, 5, 80–92.
+Finlay, J. E., Assefa, N., Mwanyika‐Sando, M., Dessie, Y.,
+Harling, G., Njau, T. et al. (2020) Sexual and reproductive
+health knowledge among adolescents in eight sites across
+sub‐Saharan Africa. Tropical Medicine & International
+Health, 25, 44–53.
+Furry, D. B., Mashalla, Y. and Tshweneagae, G. T. (2019) Sexual
+and reproductive health among high school adolescents in
+west Shoa zone, Oromia region in Ethiopia. African Journal
+of Reproductive Health, 23, 65–72.
+Gbagbo, F. Y. (2020) Contraceptive use among basic school pupils
+in Ghana: a case study of a municipality. International Journal
+of Pediatrics, 2020, 7521096, doi: 10.1155/2020/7521096
+Ghana AIDS Commission. (2013) National HIV and AIDS,
+STI Policy, Accra: Ghana AIDS Commission. https://www.
+healthpolicyproject.com/pubs/153_Policyfinal.pdf​​​​​​​​​​​​​​
+(last
+accessed 19 May 2021).
+Ghana Health Service. (2016) Adolescent Health Service Policy and
+Strategy (2016–2020). Ghana Health Service. https://www.
+afro.who.int/sites/default/files/2017-10/ADOLESCENT%20
+HEALTH%20SERVICE%20POLICY%20%20AND%20
+STRATEGY.pdf (last accessed 10 July 2023).
+Ghana Web. (2021) 13 teenage pregnancies recorded every
+one hour, 110,000 recorded in 2020—GHS statistics.
+ghanaweb.com (last accessed 5 April 2022).
+Ghebreyohans, G., Khalil, E. A. G., Tsige, Z. and Ali, F.
+(2015) Burden of reproductive health illiteracy in Eritrea.
+International Journal of Sciences: Basic and Applied
+Research, 19, 285–297.
+Hall, K. S., Morhe, E., Manu, A., Harris, L. H., Ela, E., Loll, D.
+et al. (2018) Factors associated with sexual and reproductive health stigma among adolescent girls in Ghana. PLoS
+One, 13, e0195163.
+
+Ivanova, O., Rai, M., Mlahagwa, W., Tumuhairwe, J., Bakuli,
+A., Nyakato, V. N. et al. (2019) A cross-sectional mixed-­
+methods study of sexual and reproductive health knowledge, experiences and access to services among refugee
+adolescent girls in the Nakivale refugee settlement, Uganda.
+Reproductive Health, 16, 1–11.
+Jones, S. and Norton, B. (2007) On the limits of sexual health
+literacy: insights from Ugandan schoolgirls. Diaspora,
+Indigenous, and Minority Education, 1, 285–305.
+Kim, T. Y., Haider, M., Hancock, G. R. and Boudreaux,
+M. H. (2019) The role of health literacy in family planning use among Senegalese women. Journal of Health
+Communication, 24, 244–261.
+Kyilleh, J. M., Tabong, P. T. N. and Konlaan, B. B. (2018)
+Adolescents’ reproductive health knowledge, choices and
+factors affecting reproductive health choices: a qualitative study in the West Gonja District in Northern region,
+Ghana. BMC International Health and Human Rights,
+18, 1–12.
+Manlove, J., Logan, C., Moore, K. A. and Ikramullah, E. (2008)
+Pathways from family religiosity to adolescent sexual
+activity and contraceptive use. Perspectives on Sexual and
+Reproductive Health, 40, 105–117.
+Manortey, S. and Geh, E. K. (2018) Access to sexual and reproductive health information among female adolescents in selected
+senior high schools in the lower Manya Krobo Municipality,
+Ghana. Applied Science and Innovative Research, 2, 180.
+Melesse, D. Y., Mutua, M. K., Choudhury, A., Wado, Y. D., Faye,
+C. M., Neal, S. et al. (2020) Adolescent sexual and reproductive health in sub-Saharan Africa: who is left behind?
+BMJ Global Health, 5, e002231.
+Morris, J. L. and Rushwan, H. (2015) Adolescent sexual and
+reproductive health: the global challenges. International
+Journal of Gynaecology and Obstetrics, 131, S40–S42.
+Muhwezi, W. W., Katahoire, A. R., Banura, C., Mugooda, H.,
+Kwesiga, D., Bastien, S. et al. (2015) Perceptions and experiences of adolescents, parents and school administrators
+regarding adolescent-parent communication on sexual
+and reproductive health issues in urban and rural Uganda.
+Reproductive Health, 12, 1–16.
+National Population Council. (2016) Adolescent Reproductive
+Health Policy. National Population Council, Accra,
+Ghana.
+Nyarko, C. C., Unson, C., Nyarko, P. K. and Koduah, M. (2014)
+Chlamydia trachomatis prevalence in Ghana. A study at a
+municipal district in Western Ghana. International Journal
+of Scientific & Technology Research, 3, 163–169.
+Obasi, M., Manortey, S., Kyei, K. A., Addo, M. K., Talboys,
+S., Gay, L. et al. (2019) Sexual and reproductive health of
+adolescents in schools for people with disabilities. The Pan
+African Medical Journal, 33, 299.
+Osei-Yeboah, J., Lokpo, S. Y., Ussher, F. A., Orish, V. N., Hamid,
+A. W. M., Dakorah, M. P. et al. (2018) The epidemiology of
+human immunodeficiency virus (HIV) and syphilis in Ghana:
+a five-year single urban site parallel population-based
+analysis vis-à-vis the sentinel survey. Journal of Tropical
+Medicine, 2018, 6574731, doi:10.1155/2018/6574731
+Rabiee, F. (2004) Focus-group interview and data analysis. The
+Proceedings of the Nutrition Society, 63, 655–660.
+Renzaho, A. M., Kamara, J. K., Georgeou, N. and Kamanga,
+G. (2017) Sexual, reproductive health needs, and rights
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+Adolescent sexual and reproductive health literacy needs
+
+12
+
+UNFPA. (2014) Investing in Sexual and Reproductive Health in
+Sub-Saharan Africa. New York, Guttmacher Institute. https://
+www.unfpa.org/sites/default/files/resource-pdf/383%20
+AIU3%20Regional_SSA_ENG%2011.19.14%20FINAL_0.
+pdf (last accessed 12 October 2023).
+UNFPA. (2022) Adolescent Pregnancy in Ghanaian
+Communities—A worrying trend amid MTCT of HIV.
+https://ghana.unfpa.org/en/news/adolescent-pregnancy-gha
+naian-communities-%E2%80%93-worrying-trend-amidmtct-hiv-0 (last accessed 15 October 2023).
+UNICEF. (2022) The situation of adolescents in Ghana. https://
+www.unicef.org/ghana/media/4101/file/Situation%20
+Analysis%20-%20Adolescent%20Girls%20in%20Ghana.
+pdf (date last accessed 15 October 2023).
+Von Seggern, M. and Young, N. J. (2003) The focus group
+method in libraries: issues relating to process and data analysis. Reference Services Review, 31, 272–284.
+WHO. (2013, December 10) Definition of key terms. World
+Health Organization. https://www.who.int/publications/i/
+item/9789241505727 (date last accessed 12 March 2021).
+
+Downloaded from https://academic.oup.com/heapro/article/39/3/daae065/7696825 by University of Ghana. Balme Library user on 25 March 2026
+
+of young people in slum areas of Kampala, Uganda: a
+cross-sectional study. PLoS One, 12, e0169721.
+Santos, M. J., Ferreira, E. and Ferreira, M. (2019) O6 sexual and
+reproductive health literacy in college students. European
+Journal of Public Health, 29, ckz098.
+Stahl, N. A. and King, J. R. (2020) Expanding approaches for
+research: understanding and using trustworthiness in qualitative research. Journal of Developmental Education, 44, 26–28.
+Sully, E. A., Biddlecom, A., Darroch, J. E., Riley, T., Ashford, L.
+S., Lince-Deroche, N. et al. (2020) Adding it up: Investing
+in Sexual and Reproductive Health 2019. https://www.
+guttmacher.org/report/adding-it-up-investing-in-sexual-reproductive-health-2019 (last accessed 17 November 2023).
+Tenkorang, E. Y., Amo-Adjei, J. and Kumi-Kyereme, A. (2021)
+Assessing components of Ghana’s comprehensive sexuality
+education on the timing of sexual debut among in-school
+youth. Youth & Society, 53, 1259–1286.
+Trauma and Specialist Hospital. (2021) Mid-Year Report.
+Trauma and Specialist Hospital, Effutu Municipal, Central
+Region, Ghana.
+
+J. Nkrumah et al.
+
+

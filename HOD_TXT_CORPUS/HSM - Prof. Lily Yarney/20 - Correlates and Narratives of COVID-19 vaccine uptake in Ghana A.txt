@@ -1,0 +1,1147 @@
+Public Health in Practice 11 (2026) 100683
+
+Contents lists available at ScienceDirect
+
+Public Health in Practice
+journal homepage: www.sciencedirect.com/journal/public-health-in-practice
+
+Correlates and Narratives of COVID-19 vaccine uptake in Ghana: A
+case study
+Lily Yarney a,*, John Asamoah-Boateng b, Herman Nuake Kofi Agboh a ,
+Gordon Abekah-Nkrumah a , Joel Yarney c , Robert Mayfield Yawson d
+a
+
+Department of Health Services Management, University of Ghana Business School (UGBS), Accra, Ghana
+Eastern Regional Hospital, Koforidua, Ghana
+Department of Haematology, University of Cape Coast, Ghana
+d
+Quinnipiac University School of Business, United States
+b
+c
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+COVID-19 vaccine uptake
+COM-B model
+Vaccine hesitancy
+Sociocultural barriers
+Ghana
+
+Objectives: The COVID-19 pandemic significantly impacted public health and disrupted socioeconomic activities
+globally. Although vaccination efforts have intensified, overall community uptake of COVID-19 vaccines remain
+suboptimal. This study explored the facilitators and barriers of vaccine uptake in the New Juaben South Municipality (NJSM) in Ghana.
+Study design: The Exploratory Case Study Design was employed for the research.
+Methods: Using concurrent mixed-method approach, quantitative data were collected from 418 randomly
+selected respondents from eight communities. The qualitative data consisted of responses from 23 participants.
+Quantitative data were analyzed with SPSS version 28, descriptive statistics, regression analysis, and p-values
+were used to interpret the findings, whilst participant interviews were recorded, transcribed, and analyzed
+thematically.
+Results: The level of COVID-19 vaccine uptake was 53.1 %. Various factors significantly influenced uptake,
+including age (p = 0.053), occupational category (p = 0.001), education (p = 0.003), income (p = 0.001),
+awareness of effectiveness of vaccines (p = 0.002), awareness of ongoing vaccination (p = 0.011), infection with
+coronavirus (p = 0.005), close family member infected with coronavirus (p = 0.039), death of someone due to
+COVID-19 (p = 0.022) and overall perception towards COVID-19 disease and vaccine (p = 0.001). Additionally,
+respondents above 47 years of age [AOR = 4.99, CI= (1.32–18.91), p = 0.018)], health workers [AOR = 2.65, CI
+= (1.03–6.18), p = 0.043)], those with basic education [AOR = 0.50, CI = (0.27–0.92), p = 0.025)], and good
+perception towards COVID-19 disease and vaccination [AOR = 2.30, CI = (1.37–3.85), p = 0.002)], all had
+higher odds of COVID-19 vaccine uptake. However, deeply rooted religious and cultural beliefs were major
+barriers to vaccination uptake.
+Conclusion: Community-based health communication strategies are essential to counter vaccine misconceptions
+during pandemics and foster enduring behavioural change.
+
+1. Introduction
+Africa recorded over nine million cases of COVID-19 and almost
+176,000 deaths [1]. In Ghana, over 171,735 cases and 1,462 cumulative
+deaths were reported since March 2020 [1]. Due to the high transmissibility of COVID-19, vaccines were rapidly developed and distributed globally to counter it [2–5]. Despite this, by October 2023, only
+36% of Ghana’s total eligible population was fully vaccinated; well
+
+below the projected 70% target [1]. Vaccine hesitancy was among the
+main causes of the low COVID-19 vaccination coverage in Ghana [6].
+Studies have shown that many Ghanaians were unprepared to accept the
+COVID-19 vaccines [7].
+Vaccine hesitancy arises from many causes, particularly mistruct in
+heath systems (Confidence), barriers to access (Convenience), and low
+risk perception of diseases (Complacency) [8–10]. A cross-sectional
+study by Malesza and Wittman [11], suggested a significant
+
+* Corresponding author.
+E-mail addresses: lyarney@ug.edu.gh (L. Yarney), asab774@gmail.com (J. Asamoah-Boateng), hnkagboh@st.ug.edu.gh (H.N.K. Agboh), GAbekah-Nkrumah@ug.
+edu.gh (G. Abekah-Nkrumah), j.yarney@uccsms.edu.gh (J. Yarney), robert.yawson@quinnipiac.edu (R.M. Yawson).
+https://doi.org/10.1016/j.puhip.2025.100683
+Received 24 April 2025; Received in revised form 16 October 2025; Accepted 4 December 2025
+Available online 5 December 2025
+2666-5352/© 2025 Published by Elsevier Ltd on behalf of The Royal Society for Public Health. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+L. Yarney et al.
+
+Public Health in Practice 11 (2026) 100683
+
+relationship between general health condition, chronic conditions,
+perceptions of infection, long-term effects, perceived efficacy of vaccines, side effects of vaccines, and attitudes towards vaccination. Similarly, reports from previous vaccine rollouts in Africa show that fear of
+side effects was largely responsible for low vaccination coverage in the
+region [12–15].
+To fully appreciate the systemic and behavioural predictors of
+COVID-19 vaccine hesitancy in Ghana, the modified COM-B model of
+health behavior was adopted to guide this research. COM-B model was
+developed by Michie et al. [16] and is widely used to evaluate vaccine
+programmes, including the “WHO Tailoring Immunization Programmes
+Approach” [17]. The model conceptualizes vaccine related behavior as a
+function of three constructs, namely capability (knowledge, skills, and
+abilities of individuals), opportunity (external influences, including
+vaccine manufacturing, infrastructure, pricing and accessibility), and
+motivation (personal experiences, perceptions of vaccine safety, effectiveness and risks) [16,18,19]. We operationalized these variables using
+unidirectional links for easy comprehension.
+
+fieldnotes were translated and analyzed thematically following Braun
+and Clarke’s [23] framework. First, we reviewed the transcripts to
+identify patterns; searched for deductive and inductive codes and linked
+them to the data; refined codes into themes for clarity and consistency;
+and organized them to develop connectors to write the research report.
+2.5. Ethical considerations
+Ethical approval was obtained from the Ethics Committee for the
+Humanities (ECH), University of Ghana, with approval number ECH
+182/22–23. Administrative permission was obtained from the Municipal Health Directorate. Written and verbal consent was taken from all
+participants. Participation was voluntary.
+
+2. Methods
+Table 1
+Sociodemographic characteristics of respondents.
+
+2.1. Study setting
+The study was conducted in New Juaben South Municipality (NJSM),
+Eastern Region, Ghana. NJSM had 125,256 residents across eight
+administrative zones, with two public hospitals, fifteen private hospitals, 34 Community-Based Health Planning (CHPS) Compounds, four
+health centers, one polyclinic and one maternity home.
+
+Variable
+
+Frequency
+
+Percentage (%)
+
+Sex
+Female
+Male
+
+264
+154
+
+63.2
+36.8
+
+Age (years)
+40 ± 12 (Mean)
+18–23
+24–29
+30–35
+36–41
+42–47
+>48
+
+2.2. Study design and population
+We employed the exploratory case study design, with concurrent
+mixed method approach. Quantitative surveys were used to measure the
+predictors of COVID-19 vaccination, and in-depth interviews used to
+explore underlying motivations, barriers, and contextual influences. The
+results were integrated to identify areas of divergence and complementarity [20].
+2.3. Sample size, sampling techniques, and instruments
+The target population included adult residents of NJSM. A sample
+size of 424 was calculated using Cochran’s formular (1977) (95 % CI,
+10% nonresponse) from eight randomly selected communities (Old Estate, Social Welfare, Two Streams, Zongo Community C, Residential
+Area, School Town, Nsukwao Abotanso and Klu Town-from) from NJSM.
+A structured questionnaire, adapted from previous literature [21,22]
+and covering respondents’ sociodemographic characteristics, vaccine
+uptake, knowledge, awareness, experiences, and perceptions of
+COVID-19 was used. Trained researchers assisted respondents. Each
+respondent took about 10 minutes to complete the questionnaire.
+Overall, 418 residents (98.6%) completed the questionnaire.
+Further, participants were purposively sampled from the questionnaire completers and interviewed. The in-depth interviews were conducted using an interview guide designed along the research objectives
+and the COM-B model. Each interview lasted approximately 45 minutes,
+in the English or Twi languages, and progressed until data saturation
+was achieved with 23 participants.
+2.4. Data processing and analysis
+
+3.8
+12
+32.1
+13.2
+16
+23
+
+160
+233
+11
+14
+
+38.3
+55.7
+2.6
+3.3
+
+Place of Residence
+Rural
+Peri urban
+Urban
+
+6
+86
+326
+
+1.4
+20.6
+78
+
+Occupational category
+Non-Health Worker
+Health Worker
+
+371
+47
+
+88.8
+11.2
+
+Level of Education
+No Formal Education
+Basic Education
+Secondary Education
+Tertiary Education
+
+3
+103
+138
+174
+
+0.7
+24.6
+33
+41.6
+
+Ethnicity
+Akan
+Ewe
+Krobo
+Hausa
+Ga-Adangbe
+Other
+
+208
+52
+40
+31
+29
+58
+
+49.8
+12.4
+9.6
+7.4
+6.9
+13.9
+
+Religion
+Christian
+Muslim
+
+361
+57
+
+86.4
+13.6
+
+Total
+
+Source: Field data, (2023)
+2
+
+​
+
+16
+50
+134
+55
+67
+96
+
+Marital Status
+Single
+Married
+Divorced
+Widowed
+
+Average Monthly Income (GHC)
+1182.00 ± 1021(Mean)
+<1000
+1000–2000
+2001–3000
+>3000
+
+The quantitative data were cleaned, coded, and analyzed using SPSS
+version 28. Bivariate associations (Chi-square and Fischer’s exact tests)
+aided variable identification for inclusion in a multivariate logistic
+regression. The results were expressed as adjusted odds ratios (AORs) at
+α = 0.05.
+The interviews were audio-recorded and transcribed. Transcripts and
+
+​
+
+​
+
+221
+129
+46
+22
+418
+
+​
+
+52.9
+30.9
+11
+5.3
+100
+
+L. Yarney et al.
+
+Public Health in Practice 11 (2026) 100683
+
+3. Results
+
+Table 2
+Logistic regression of Factors Influencing COVID-19 Vaccine Uptake in the
+NJSM.
+
+3.1. Statistical analysis
+
+Variable
+
+3.1.1. Sociodemographic characteristics of respondents
+Table 1 presents the sociodemographic characteristics of respondents. Out of 418 respondents approximately 63 % were females.
+The mean age of respondents was 40 ± 12 years. The mean monthly
+income was GHS 1182.00 ± 1021.00.
+
+Age (years)
+18–23
+24–29
+
+OR (95 % CI)
+
+Referent
+3.52
+(1.00–12.43)
+3.18
+(1.00–10.38)
+2.50
+(0.72–8.72)
+3.28
+(0.96–11.21)
+5.47
+(1.64–18.28)
+
+36–41
+42–47
+>47
+Occupational
+category:
+Non-Health Worker
+Health Worker
+
+3.1.3. Knowledge and observance of COVID-19 preventive protocols
+Most of the respondents (98.1 %; 410/418) were aware of COVID-19
+preventive measures, including hand washing (98.1 %; 410/418),
+coughing or sneezing into handkerchiefs (98.3 %; 411/418), avoiding
+handshaking (98.6 %; 412/418), social distancing (98.8 %; 413/418),
+no touching of face (98.6 %; 412/418), staying home (98.6 %; 412/418)
+and wearing face masks (98.6 %; 412/418).
+
+​
+​
+​
+
+0.003*
+
+​
+
+Referent
+0.50
+(0.27–0.92)
+0.70
+(0.41–1.21)
+1
+
+< 0.001*
+​
+
+​
+​
+
+​
+​
+​
+
+​
+​
+
+0.025*
+0.204
+​
+
+​
+
+0.700
+0.059
+0.057
+
+Referent
+1.18
+(0.38–3.61)
+​
+
+Referent
+7.17
+(1.59–32.46)
+
+​
+
+0.774
+
+​
+
+​
+
+Referent
+4.77
+(0.76–29.81)
+​
+​
+0.005*
+
+​
+Referent
+2.30
+(1.29–4.10)
+
+​
+
+0.094
+
+​
+
+​
+Referent
+2.00
+(0.90–4.43)
+
+​
+​
+0.039*
+
+​
+
+Referent
+1.63
+(1.02–2.59)
+
+​
+
+0.088
+
+​
+
+​
+
+Referent
+0.74
+(0.37–1.50)
+​
+​
+0.022*
+
+​
+
+Referent
+
+​
+
+0.043*
+
+​
+
+0.011*
+
+1.65
+(1.08–2.52)
+
+​
+
+​
+
+​
+
+​
+
+Death of someone you
+know from COVID19:
+No death from COVID19
+Death from COVID-19
+
+0.018*
+
+Referent
+0.90
+(0.54–1.51)
+2.26
+(0.97–5.27)
+5.27
+(0.95–29.22)
+​
+
+Referent
+3.88
+(1.62–9.30)
+
+Close family member
+ever infected with
+coronavirus:
+Never infected
+Ever infected
+
+0.462
+
+​
+
+0.002*
+
+Infection with
+coronavirus:
+Never infected
+Ever infected
+
+0.896
+
+​
+
+​
+
+​
+
+Awareness of ongoing
+COVID-19
+vaccination:
+Not aware
+Aware
+
+0.383
+
+Referent
+2.65
+(1.03–6.81)
+
+Referent
+1.16
+(0.75–1.80)
+3.24
+(1.60–6.60)
+11.46
+(2.61–50.20)
+
+Awareness of effective
+vaccine for COVID19:
+Not aware
+Aware
+
+0.472
+
+​
+
+​
+
+​
+
+>3000
+
+​
+
+​
+
+​
+
+Reference
+0.52
+(0.32–0.86)
+0.49
+(0.31–0.77)
+1
+
+2001–3000
+
+Overall Perception
+towards COVID-19
+Disease and
+Vaccine:
+
+​
+
+​
+
+Average Monthly
+Income:
+<1000
+1000–2000
+
+3.1.7. Simple logistic regression analysis
+Table 2 highlights the results of the simple logistic regression analysis. Significant associations were found between vaccine acceptance
+and; age (p = 0.053), occupational category (p < 0.001), Level of education (p=<0.003), monthly income (p < 0.001), awareness of effectiveness of vaccine (p = 0.002), awareness of ongoing COVID-19
+vaccination (p = 0.011), infection with coronavirus (p = 0.005), close
+family member infected with coronavirus (p = 0.039), death of someone
+due to COVID-19 (p = 0.022) and overall perception towards COVID-19
+disease and vaccine (p < 0.001), and uptake of the vaccine. After
+
+​
+
+Referent
+1.66
+(0.42–6.60)
+1.79
+(0.48–6.59)
+1.10
+(0.28–4.35)
+1.66
+(0.43–6.44)
+4.99
+(1.32–18.91)
+
+​
+
+Referent
+5.93
+(2.59–13.59)
+
+Tertiary Education
+
+3.1.6. Perceptions towards COVID-19 vaccination and infection
+The majority of respondents- 76.3 % (319/418) felt the vaccines
+were safe. About 62% (262/418) felt the vaccine infects people with
+COVID-19; 76.1 % (318/418) believed that COVID-19 virus could still
+infect people who recovered from the disease. Meanwhile, 67.5 % (282/
+418) believed there was no need for vaccination once a person recovers
+from the disease, and 75 % (313/418) indicated that there was no need
+for COVID-19 vaccines once they strictly adhered to the pandemic
+protocols. Overall, 70.6 % had adequate knowledge about the vaccines.
+
+​
+
+< 0.001*
+
+Secondary Education
+
+3.1.5. Experiences with COVID-19 infection
+About 15% (63/418) of respondents were infected but recovered
+fully, and 85% (355/418) were not infected with COVID-19. Almost
+28% (98/355) of those not infected indicated that close family members
+got the disease. Relatives hospitalized due to COVID-19 and those who
+knew someone who had died from the virus constituted 34.7 % (123/
+355) and 30.3 % (108/355), respectively, and about 31% (129/418) of
+respondents experienced work or wage disruptions during the
+pandemic.
+
+pvalue
+
+​
+
+​
+
+Level of Education:
+No Formal Education
+Basic Education
+
+3.1.4. Awareness of COVID-19 vaccination
+Nearly all respondents- 96.7 % (404/418) were aware of Ghana’s
+COVID-19 vaccination programme. The predominant vaccine side effects reported include fever 77.2 % (312/404), headache 74.0 % (299/
+404), muscle pain 68.8 % (278/404), pain at the site of injection 59.2 %
+(239/404) and muscle weakness 52.7 % (213/404). About 26.5 % (107/
+404) males and 10.6 % (43/404) females reported impacts on sexual
+performance. Also, some respondents reported chest pains- 7.2 % (29/
+404), speech loss- 7.4 % (30/404) and diarrhea- 9.9 % (40/404) as side
+effects.
+
+AOR (95 %
+CI)
+
+0.053
+
+​
+
+30–35
+
+3.1.2. COVID-19 vaccination uptake
+Overall, 53.1 % (222/418) received at least one dose of COVID-19
+vaccines. The majority (46.8 %, n = 104/222) had two doses, while
+another 29.3 % (65/222) took booster shots (three or more). Among the
+unvaccinated, 68.4 % (134/196) showed low intention to vaccinate
+whereas 31.6 % (62/196) stated their intention to vaccinate.
+
+p-value
+
+​
+
+​
+
+Referent
+​
+
+​
+
+​
+
+0.404
+
+1.18
+(0.65–2.12)
+​
+< 0.001*
+​
+
+0.588
+​
+
+(continued on next page)
+
+3
+
+L. Yarney et al.
+
+Public Health in Practice 11 (2026) 100683
+
+(iii) Future concerns and uncertainties: Participants questioned the
+long-term effects of vaccines on humans since the technology
+used to develop them were unknown, and the vaccines were
+untested on humans.
+
+Table 2 (continued )
+Variable
+
+OR (95 % CI)
+
+Poor Perception
+Good Perception
+
+Referent
+3.18
+(2.04–4.94)
+
+p-value
+​
+​
+
+AOR (95 %
+CI)
+Referent
+2.30
+(1.37–3.85)
+
+pvalue
+​
+
+0.002*
+
+… we don’t know what it will do to us in the future. Its consequences on
+our health are yet to be tested (P20)
+
+*Statistical significance, p < 0.05, OR=Crude Odds Ratio, AOR = Adjusted Odds
+Ratio; Source: Field data, (2023).
+
+I wouldn’t be 100% sure of the safety, because I know coming up with a
+vaccine goes through a lot of processes. But looking at the time that the
+COVID-19 emerged and the time that the vaccine was produced, it was
+very short. (P13)
+
+adjusting for confounding variables, the analysis showed that age,
+occupational category, level of education, and perception towards
+COVID-19 disease and vaccine were significantly associated with
+COVID-19 vaccine uptake. Respondents aged above 47 years were 4.99
+times more likely to vaccinate than those aged 18–23 [AOR = 4.99; p =
+0.018]. The analysis also showed that the odds of COVID-19 vaccine
+uptake among health workers was 2.65 times higher than non-health
+workers [AOR = 2.65; p = 0.043)]. Respondents with basic education
+qualifications were 50% less likely to take up COVID-19 vaccination
+compared to those with no formal education [AOR = 0.50; p = 0.025)].
+Also, respondents who had positive perception towards COVID-19 vaccines were 2.3 times more likely to take COVID-19 vaccines compared
+with those who have poor perceptions towards COVID-19 vaccines
+[AOR = 2.30; p = 0.002)].
+
+We didn’t know how it would turn out. It was a new thing. It’s not like
+childhood disease vaccine that we know about. (P18)
+Additionally, some participants doubted the effectiveness of the
+vaccine because some people took it but still reported to health facilities with COVID-19.
+Some people have not taken the vaccine, yet they are healthy and going
+about their normal lives. There are others who have taken it and are still
+infected. So, for me, the COVID-19 vaccine is not effective. (P8)
+(iv) Culture and customary Beliefs: Participants mentioned that
+longstanding cultural and customary practices were significant
+considerations in their decision to vaccinate.
+
+3.2. Findings from the qualitative study
+
+As for me and my family, we have been taking a mixture of tree barks and
+some herbs since the pandemic started, and we never got infected, though
+we did not take the vaccine. Can’t you see for yourself that I am strong?
+Our forefathers used complementary and alternative medicines/traditional herbs to treat all conditions. (P13)
+
+Nine [9] sub-themes emerged from the interviews (see Table 3).
+3.2.1. Capability
+The findings show that vaccine acceptance was significantly influenced by future concerns and uncertainties, culture and religious beliefs,
+and misinformation and disinformation, among others.
+
+(v) Misinformation and Misconceptions about the COVID-19 Vaccine: Participants were highly influenced by information from the
+public, particularly from social media.
+
+(i) Personal decision and choice based on perceived benefits: It
+emerged that individuals’ beliefs and circumstances strongly
+influenced their vaccination decision.
+
+Well, when you watch the WhatsApp videos, TikTok, or Facebook, they
+often say if you take that injection, you can’t give birth or in the long term,
+women who are menopausal will start having menses again … and people
+will develop some diseases later in life. (P9)
+
+Nobody influenced me. I thought it was wise that I must protect myself. So,
+I took the vaccine to protect myself (P22)
+
+… the first story was that the whites are just being wicked. They are
+introducing the vaccine into our system just to kill Black people so they
+can have the power or the authority to come and rule over us. (P15)
+
+(ii) Exposure to information about COVID-19 vaccine: Participants
+were convinced by public health officials about vaccine safety
+and side effects.
+
+3.2.2. Opportunity
+On the physical and social determinants, most of the participants
+mentioned that requirements from employers, the need to travel, and
+access to public spaces were major considerations.
+
+I spoke to a couple of medical workers who assured me that the vaccine
+was safe. They told me about the implications of having sickle-cell and
+having to get infected with COVID-19. I also listened to the broadcast
+messages of other public health specialists on television. (P15)
+
+(i) Workplace/Official
+requirements:
+Several
+participants
+expressed the view that workplace or official requirements
+strongly motivated their decision to vaccinate. Especially in areas
+where proof of COVID-19 vaccination was required to gain access
+to public places or emigrate.
+
+Table 3
+COM-B construct
+Themes
+
+Subthemes
+
+Capability (Knowledge and
+skills)
+
+Personal decision and choice based on perceived
+benefits
+Misinformation and misconceptions about
+COVID-19 vaccines
+Future concerns and uncertainties around Covid19 vaccines
+Culture and religious beliefs on COVID-19
+vaccine
+Influence of society and leaders
+Workplace/official requirement
+Public health recommendations
+Protection of loved ones
+Motivation from people who had taken the
+vaccine
+
+Opportunity (Physical &
+Social)
+Motivation (Reflective and
+Automatic)
+
+Well, they came up with this regulation that if you don’t take the vaccine,
+you can’t travel. There are some social gatherings and some places you
+cannot go. For instance, at the airport, even when you are going to escort
+someone, if you don’t have the COVID-19 vaccination card with you, you
+have no right to hang around the airport. (P9)
+For me, at my workplace, it was compulsory for everyone to receive the
+vaccine. Not taking the vaccine was like going against company policy. .
+(P15)
+(ii) Influence of society and leaders: Participants discussed the role
+of influential members of society such as politicians, community
+leaders, business leaders and celebrities on ordinary citizens.
+Leaders’ public education boosted vaccine support.
+4
+
+L. Yarney et al.
+
+Public Health in Practice 11 (2026) 100683
+
+approval for others in the family to vaccinate. In Kenya, those who
+avoided vaccines were getting their knowledge from social media,
+community meetings such as barazas (meetings with chiefs), and trusted
+local and religious leaders. Adedeji-Adenola et al. [24] stated that there
+were trust issues over whether the Nigerian government had ensured the
+safety of the vaccination. A fear that dissuaded many from taking the
+vaccine although the President of Nigeria advised all Nigerians to
+comply. To counter this, vaccine accessibility through scheduled campaigns and mobile outreach by healthcare professionals is required.
+Vaccine uptake to full dosage was low (53.1 %), likely because of the
+lack of trust and confidence in the jabs (53.1 %). Although some participants held positive perceptions of the benefits of the COVID-19
+vaccines, others were demotivated by their safety and effectiveness
+concerns. This finding was confirmed by a study conducted in Poland
+which similarly revealed varying levels of faith in licensed vaccines
+throughout Europe [29]. Similarly, the findings of this research revealed
+that residents of NJSM who had positive perceptions of COVID-19 disease and vaccine were 2.3 times more likely to be vaccinated compared
+to those with negative perceptions (AOR = 2.30, CI = 1.37–3.85, p =
+0.002). Those who were unwilling to accept the jabs generally expressed
+negative opinions on the safety and effectiveness of the vaccine [35,36,
+24].
+
+At a point, my presiding church elder, will invite the people doing the
+vaccination to the church and make an announcement for people to get
+vaccinated. (P10)
+Some politicians and businessmen donated several boxes of nose masks
+and encouraged people to go and vaccinate to stay safe. We saw our
+president, our chiefs, and other influential people receiving it on live
+camera and that motivated a lot of us. (P11)
+3.2.3. Motivation
+Participants expressed both emotive and reflective drivers. The key
+highlights include the need to protect loved ones from infection.
+(i) Motivation from People who have taken the vaccine: Participants described how experiences and recommendations by people who had received the vaccine influenced them.
+The number one reason why I decided to take the vaccine was because
+some people had it and they shared their experiences of not suffering any
+adverse effect. (P2)
+(ii) Protection of significant others: The desire to protect relatives
+and loved ones from infection was another driving force behind
+the vaccine uptake.
+
+4.1. Limitation
+
+As the breadwinner and the one who was always going out for food and
+other essentials at the peak of the pandemic and lockdown, I needed to
+save my life and protect my family. (P7)
+
+The case study design employed for the research limits the generalizability of our findings to other parts of Ghana. However, in areas with
+similar contextual issues, our findings may be applicable. Future studies
+should have broader scope, covering multiple regions in the country to
+examine the complex socio-cultural and economic predictors of vaccine
+uptake nationally.
+
+4. Discussion
+The study assessed the predictors of COVID-19 vaccination in NJSM.
+Our analyses found old age, educational level, health worker status and
+positive COVID-19 perception to be significant uptake predictors
+(Table 2). This mirrors previous studies in Nigeria and Ghana where
+lower vaccination rates were recorded among non-health workers [24,
+25], likely due to lower virus-related knowledge. Surprisingly, and
+contrary to other studies in LMICs [26], participants with basic education in this research were 50% less likely to vaccinate compared with
+those with no formal education (AOR = 0.50, CI = 0.27–0.92, p =
+0.025).
+Although vaccine hesitancy was low (32 %) compared to 80.9 % in
+Nigeria [24] and 62.7 % in other parts of Ghana [27], uptake to full
+dosage reached only 53.1%, showing lack of trust. Concerns about side
+effects and efficacy hinder acceptance [26]. These were evidenced by
+participants reporting fever (76.8 %), headache (73.6 %), muscle pain
+(68.5 %), pain at the site of injection (58.9 %) and muscle weakness
+(52.5 %) as side effects. Similarly, in a study of Ghanaian university
+students by Darko et al. [28], low perception of severity of infection, fear
+and doubt were strong predictors of vaccine hesitancy. Rzymski et al.
+[29] suggested that even with 68% vaccination acceptance, people
+would be hindered by side effects, low efficacy and testing mistrust [30,
+31].
+Further, vaccine misconception and misinformation, facilitated by
+religious and cultural beliefs was a major barrier [32]. For instance,
+similar to findings of this research, in Malawi, individuals mentioned
+that church officials preached that immunization was associated with
+devil worship [33,34]. In Uganda, officials propagated misinformation,
+fueling skepticism about COVID-19 vaccines [33].
+Vaccine uptake in the NJSM was also influenced by motivation from
+leaders in society. Political leaders, religious leaders, and traditional
+leaders had significant influences on participants’ decision to vaccinate.
+This is consistent with findings of Lazarus et al. (2021) who noted that
+social and frontline workers, as well as trust in governments, promote
+vaccine acceptability and contribute to public vaccination compliance.
+In parallel, Haldane and Butler [32] observed that in Malawi and
+Uganda, immediate relative and friends’ vaccine acceptance gives
+
+4.2. Conclusion
+COVID-19 vaccination uptake in Ghana is linked to older age, health
+worker status, educational level and having good perception about
+vaccines. Key facilitators of vaccine uptake include motivation from
+people who have taken the vaccine, protection of significant others,
+workplace/official requirements, exposure to COVID-19 vaccine information and the influence of leaders in society. In addition to efforts to
+improve physical access to vaccine doses, ccomprehensive communitybased public health communication strategy is crucial to counter
+COVID-19 vaccination misconceptions and to foster behavioral change.
+Ethics statement
+Ethical approval was obtained from the Ethics Committee for the
+Humanities (ECH), University of Ghana, with approval number ECH
+182/22–23. Administrative permission was obtained from the Municipal Health Directorate. Written and verbal consent was taken from all
+participants. Participation was voluntary.
+Data availability statement
+Research data is available upon request.
+Funding
+This research did not receive any grant from funding agencies in the
+public, commercial, or non-profit sectors.
+Declaration of competing interest
+The authors declare no known competing financial interest or personal relationships that could have appeared to influence the work reported in this paper.
+5
+
+L. Yarney et al.
+
+Public Health in Practice 11 (2026) 100683
+
+References
+
+[18] J.C. Jacobson Vann, R.M. Jacobson, T. Coyne-Beasley, J.K. Asafu-Adjei, P.
+G. Szilagyi, Patient reminder and recall interventions to improve immunization
+rates, Cochrane Database Syst Rev 1 (1) (2018 Jan 18). Available from: https://
+pubmed.ncbi.nlm.nih.gov/29342498/. (Accessed 22 April 2025).
+[19] N.T. Brewer, G.B. Chapman, A.J. Rothman, J. Leask, A. Kempe, Increasing
+vaccination: putting psychological science into action, Psychol Sci Public Interest
+18 (3) (2017 Dec 1) 149–207. Available from: https://pubmed.ncbi.nlm.nih.gov/
+29611455/. (Accessed 22 April 2025).
+[20] P.H. Chu, Y.Y. Chang, John W. Creswell, Research design: qualitative, quantitative,
+and mixed methods approaches, Journal of Social and Administrative Sciences 4
+(June) (2017).
+[21] A. Alemayehu, M. Yusuf, A. Demissie, Y. Abdullahi, Determinants of COVID-19
+vaccine uptake and barriers to being vaccinated among first-round eligibles for
+COVID-19 vaccination in Eastern Ethiopia: a community based cross-sectional
+study, SAGE Open Med 10 (2022 Feb 1). Available from: https://journals.sagepub.
+com/doi/10.1177/20503121221077585. (Accessed 22 April 2025).
+[22] K. Viswanath, M. Bekalu, D. Dhawan, R. Pinnamaneni, J. Lang, R. McLoud,
+Individual and social determinants of COVID-19 vaccine uptake, BMC Public
+Health 21 (1) (2021 Dec 1) 1–10. Available from: https://bmcpublichealth.biom
+edcentral.com/articles/10.1186/s12889-021-10862-1. (Accessed 22 April 2025).
+[23] V. Braun, V. Clarke, Using thematic analysis in psychology, Qual. Res. Psychol. 3
+(2) (2006) 77–101.
+[24] H. Adedeji-Adenola, O.A. Olugbake, S.A. Adeosun, Factors influencing COVID-19
+vaccine uptake among adults in Nigeria, PLoS One 17 (2) (2022 Feb 1) e0264371.
+Available from: https://journals.plos.org/plosone/article?id=10.1371/journal.
+pone.0264371. (Accessed 22 April 2025).
+[25] R.K. Alhassan, S. Owusu-Agyei, E.K. Ansah, M. Gyapong, COVID-19 vaccine uptake
+among health care workers in Ghana: a case for targeted vaccine deployment
+campaigns in the global south, Human Resources for Health [Electronic Resource]
+19 (1) (2021) 136. Available from: https://www.ezproxy.is.ed.ac.uk/login?url
+=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fullte
+xt&D=mesx&AN=34742301.
+[26] A.A. Malik, S.A.M. McFadden, J. Elharake, S.B. Omer, Determinants of COVID-19
+vaccine acceptance in the US, EClinicalMedicine 26 (2020 Sep 1). Available from:
+https://pubmed.ncbi.nlm.nih.gov/32838242/. (Accessed 22 April 2025).
+[27] G.A. Okai, G. Abekah-Nkrumah, The level and determinants of COVID-19 vaccine
+acceptance in Ghana, PLoS One 17 (7) (2022 Jul 1). Available from: https://pubm
+ed.ncbi.nlm.nih.gov/35802742/. (Accessed 22 April 2025).
+[28] S.N. Darko, K.G. Boahen, P.B. Okyere, C.N.K. Addo, J.A. Afuaa, E. Adjei, et al.,
+Covid-19 vaccine acceptance and risk perception in Ghana: insights from A study
+on tertiary-level students and surrounding residents in kumasi, Journal of Science
+and Technology (Ghana) 42 (2) (2024 Jul 4) 1–18. Available from: https://www.
+ajol.info/index.php/just/article/view/273314. (Accessed 22 April 2025).
+[29] P. Rzymski, J. Zeyland, B. Poniedziałek, I. Małecka, J. Wysocki, The perception and
+attitudes toward covid-19 vaccines: a cross-sectional study in Poland, Vaccines
+(Basel) 9 (4) (2021 Apr 14) 382. Available from: https://www.mdpi.com/20
+76-393X/9/4/382/htm. (Accessed 22 April 2025).
+[30] C.A. Latkin, L. Dayton, G. Yi, A. Konstantopoulos, B. Boodram, Trust in a COVID-19
+vaccine in the U.S.: a social-ecological perspective, Soc. Sci. Med. 270 (2021 Feb 1)
+113684.
+[31] K. Pogue, J.L. Jensen, C.K. Stancil, D.G. Ferguson, S.J. Hughes, E.J. Mello, et al.,
+Influences on attitudes regarding potential COVID-19 vaccination in the United
+States, Vaccines (Basel) 8 (4) (2020 Dec 1) 1–14. Available from: https://pubmed.
+ncbi.nlm.nih.gov/33022917/. (Accessed 22 April 2025).
+[32] B. Victoria Haldane, N. Butler, Approaches to Scaling up COVID-19 Vaccination:
+Experiences from Malawi, 2022.
+[33] E. Chilanga, M. Dzimbiri, P. Mwanjawala, A. Keller, R.A. Mbeya, Religion, politics
+and COVID-19 risk perception among urban residents in Malawi, BMC Public
+Health 22 (1) (2022 Dec 1) 1–10. Available from: https://bmcpublichealth.biom
+edcentral.com/articles/10.1186/s12889-022-13858-7. (Accessed 22 April 2025).
+[34] K. Lines, J.A. Sebbanja, S. Dzimadzi, D. Mitlin, P. Mudimu-Matsangaise, V. Rao, et
+al., Covid-19 vaccine rollout: challenges and insights from informal settlements,
+IDS Bull. 53 (3) (2022 Jul 1) 83–110.
+[35] P. Soares, J.V. Rocha, M. Moniz, A. Gama, P.A. Laires, A.R. Pedro, et al., Factors
+associated with COVID-19 vaccine hesitancy, Vaccines 9 (3) (2021 Mar 22) 300,
+2021, Vol 9, Page 300, [Internet]. Available from: https://www.mdpi.com/20
+76-393X/9/3/300/htm. (Accessed 22 April 2025).
+[36] P. Gerretsen, J. Kim, F. Caravaggio, L. Quilty, M. Sanches, S. Wells, et al.,
+Individual determinants of COVID-19 vaccine hesitancy, PLoS One 16 (11) (2021
+Nov 1) e0258462. Available from: https://journals.plos.org/plosone/article?
+id=10.1371/journal.pone.0258462. (Accessed 22 April 2025).
+
+[1] Weekly epidemiological update on COVID-19 [Internet]. Available from: http
+s://www.who.int/publications/m/item/weekly-epidemiological-update-on-covid19—30-august-2023, 25 August 2023. (Accessed 22 April 2025).
+[2] M.G. Thompson, J.L. Burgess, A.L. Naleway, H.L. Tyner, S.K. Yoon, J. Meece, et al.,
+Interim estimates of vaccine effectiveness of BNT162b2 and mRNA-1273 COVID19 vaccines in preventing SARS-CoV-2 infection among health care personnel, first
+responders, and other essential and frontline workers - eight U.S. locations,
+December 2020-March 2021, MMWR Morb Mortal Wkly Rep 70 (13) (2021 Apr 2)
+495–500. Available from: https://pubmed.ncbi.nlm.nih.gov/33793460/.
+(Accessed 22 April 2025).
+[3] A.D. Kaye, C.N. Okeagu, A.D. Pham, R.A. Silva, J.J. Hurley, B.L. Arron, et al.,
+Economic impact of COVID-19 pandemic on healthcare facilities and systems:
+international perspectives, Best Pract Res Clin Anaesthesiol 35 (3) (2021 Oct 1)
+293–306. Available from: https://pubmed.ncbi.nlm.nih.gov/34511220/.
+(Accessed 22 April 2025).
+[4] A. Pak, O.A. Adegboye, A.I. Adekunle, K.M. Rahman, E.S. McBryde, D.P. Eisen,
+Economic consequences of the COVID-19 outbreak: the need for epidemic
+preparedness, Front Public Health 8 (2020 May 29) 546036. Available from: www.
+frontiersin.org. (Accessed 22 April 2025).
+[5] Africa’s COVID-19 vaccine uptake increases by 15% | WHO | regional office for
+Africa [internet], Available from: https://www.afro.who.int/news/africas-covid-1
+9-vaccine-uptake-increases-15. (Accessed 22 April 2025).
+[6] P. Simkhada, P. Tamang, L. Timilsina, B. Simkhada, P. Bissell, E. van Teijlingen, et
+al., Factors influencing COVID-19 vaccine uptake among Nepali people in the UK: a
+qualitative study, Vaccines (Basel) 10 (5) (2022 May 1). Available from: https://
+pubmed.ncbi.nlm.nih.gov/35632536/. (Accessed 22 April 2025).
+[7] A.Y. Ahmed, M.Y. Ahmed, F.A. Saeed, F.A. Saeed, A.Y. Ahmed, M.Y. Ahmed, et al.,
+Level of acceptance of COVID-19 vaccine and its determinants among high risk
+groups for severe COVID-19 infection living in mogadishu Somalia, Health N Hav
+13 (11) (2021 Nov 8), 1206–21. Available from: https://www.scirp.org/journal/pa
+perinformation?paperid=113093. (Accessed 22 April 2025).
+[8] M.R. Biswas, M.S. Alzubaidi, U. Shah, A.A. Abd-Alrazaq, Z. Shah, A scoping review
+to find out worldwide COVID-19 vaccine hesitancy and its underlying
+determinants, Vaccines (Basel) 9 (11) (2021 Nov 1). Available from: https://pubm
+ed.ncbi.nlm.nih.gov/34835174/. (Accessed 22 April 2025).
+[9] N.E. MacDonald, J. Eskola, X. Liang, M. Chaudhuri, E. Dube, B. Gellin, et al.,
+Vaccine hesitancy: definition, scope and determinants, Vaccine 33 (34) (2015 Aug
+14) 4161–4164.
+[10] N.S. Sheikh, M. Touseef, R. Sultan, K.H. Cheema, S.S. Cheema, A. Sarwar, et al.,
+Understanding COVID-19 vaccine hesitancy in Pakistan: the paradigm of
+confidence, convenience, and complacency; A cross-sectional study, PLoS One 18
+(8) (2023 Aug 1). Available from: https://pubmed.ncbi.nlm.nih.gov/37585457/.
+(Accessed 22 April 2025).
+[11] M. Malesza, E. Wittmann, Acceptance and intake of COVID-19 vaccines among
+older germans, J. Clin. Med. 10 (7) (2021 Mar 30) 1388, 2021, Vol 10, Page 1388,
+[Internet]. Available from: https://www.mdpi.com/2077-0383/10/7/1388/htm.
+(Accessed 22 April 2025).
+[12] B.B.B. Ackah, M. Woo, L. Stallwood, Z.A. Fazal, A. Okpani, U.V. Ukah, et al.,
+COVID-19 vaccine hesitancy in Africa: a scoping review, Glob Health Res Policy 7
+(1) (2022 Dec 1) 1–20. Available from: https://ghrp.biomedcentral.com/articles/
+10.1186/s41256-022-00255-1. (Accessed 22 April 2025).
+[13] S. Amponsah-Tabi, R. Djokoto, S. Opoku, E. Senu, D.K. Boakye, W.K. Azanu, et al.,
+Knowledge, attitude and acceptability of COVID-19 vaccine among residents in
+rural communities in Ghana: a multi-regional study, BMC Infect Dis 23 (1) (2023
+Dec 1). Available from: https://pubmed.ncbi.nlm.nih.gov/36721102/. (Accessed
+22 April 2025).
+[14] J. Wu, Z. Shen, Q. Li, C.S. Tarimo, M. Wang, J. Gu, et al., How urban versus rural
+residency relates to COVID-19 vaccine hesitancy: a large-scale national Chinese
+study, Soc. Sci. Med. 320 (2023 Mar 1) 115695.
+[15] H.N.K. Agboh, L. Yarney, Analyses of the barriers and drivers of ghana’s COVID-19
+vaccination program using the 5A taxonomy: a scoping review, Sage Open 15 (1)
+(2025 Jan 1). Available from: https://journals.sagepub.com/doi/full/10.1177
+/21582440251323075. (Accessed 22 April 2025).
+[16] S. Michie, M.M. van Stralen, R. West, The behaviour change wheel: a new method
+for characterising and designing behaviour change interventions, Implementation
+Science 6 (1) (2011 Apr 23) 1–12. Available from: https://implementationscience.
+biomedcentral.com/articles/10.1186/1748-5908-6-42. (Accessed 22 April 2025).
+[17] K.B. Habersaat, C. Jackson, Understanding vaccine acceptance and Demand—and
+ways to increase them, Bundesgesundheitsblatt Gesundheitsforschung
+Gesundheitsschutz 63 (1) (2020 Jan 1) 32–39. Available from: https://link.sprin
+ger.com/article/10.1007/s00103-019-03063-0. (Accessed 22 April 2025).
+
+6
+
+

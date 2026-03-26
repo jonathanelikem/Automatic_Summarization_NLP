@@ -1,0 +1,1620 @@
+Facilitators and Barriers to Antiretroviral Therapy Adherence among Ghanaian Patients:
+A Multi-Case Study of Sunyani Municipal and Regional Hospitals in the Brong-Ahafo
+Region
+Lily Yarney, Angela Kwakyewaa Amankwah, Chuks Mba, Kwame Asamoah and Justice N.
+Bawole
+Abstract
+The only remedy to manage AIDS remains ART, making adherence to ART paramount in AIDS
+management. Non-adherence can impede the sustainability of programmes intended at successful
+HIV and AIDS care. We studied individual, social and service delivery factors influenc ing
+adherence to ART. Mixed method involving 133 participants was used, data were analysed using
+SPSS version 18.0. There were statistically significant relationship between availability of drugs,
+privacy, relations with health professionals, counselling services, and adherence to ART ((p =
+0.008, p = 0.001, p = 0.008 and p = 0.018 respectively). Although age, gender, and perceived
+efficacy and need for ART were not significantly related to adherence (p > 0.05 in all cases),
+qualitative findings indicated otherwise. For AIDS patients, ART is tantamount to life, thus,
+stakeholders should place priority on availability of ARVs and well trained personnel to deliver
+efficient and quality services to allay the fears of patients.
+
+Introduction
+HIV and AIDS have become a health scare in the world since its discovery in the early1980s
+(UNAIDS & WHO, 2003), with an infection and death rates of 6,800 and 5,700 persons per day,
+due to insufficient access to treatment and prevention of HIV and AIDS (UNAIDS & WHO, 2007)
+HIV has been and is still a challenge in Ghana, thus, in 2011, it was estimated that 225,478 people
+were living with the disease (NACP, 2011). The number of infected persons receiving treatment
+was 599,007 as at the end of 2011 (National AIDS Commission, 2013).The occurrence of the
+disease seems to be on a downward trend, however, the pattern may be described as irregular since
+prevalence rates have been rising and falling over a period of time. Hence, HIV prevalence dropped
+from 3.6% in 2003 to 2.7% in 2005, it then increased to 3.2% in 2006 and reduced to 2.2% in
+2008. Also, the distribution of the disease is not even across the country. There are variances in
+the regional distribution of the dominance of the disease. Some parts record high prevalence,
+principally mining and border towns, while others have lower rates. A major reason for high
+prevalence in these areas is thought to be the increased commercial activities in those areas, with
+its attendant attraction of people from all walks of life. A survey conducted in the country revealed
+that the occurrences of the disease increased in some regions while the Brong Ahafo remained the
+same (Ghana AIDS Commission, 2012).
+Since there is no cure for HIV, adherence to Antiretroviral Therapy (ART) is important to reduce
+the spread of the virus to enable infected persons live a normal and prolonged life. Highly Active
+Antiretroviral Therapy (HAART) is currently the most effective regimen for reducing mortality
+and opportunistic infection among HIV patients. Antiretroviral therapy can be started when
+
+patients including positive pregnant women have a CD4 count below 350 cells/ml (Ministry of
+Health/Ghana Health Service, 2010). Since the introduction of ART in the management of HIV,
+it has produced a remarkable results. Reports by the UNAIDS (2012) suggested that since 1999
+ART has increased the life expectancy rate of people living with the disease in low and middle
+income countries. It has been reported that about 8 million people had access to ART by the end
+of 2011.
+Antiretroviral therapy was not part of Ghana’s public healthcare system until June 2003, when the
+health ministry earmarked two places in the Manya Krobo district of the Eastern Region as pilot
+sites. The treatment included counseling and testing, management of sexually transmitted diseases
+and prevention of mother to child transmission. It was realized that the therapy had made
+improvements in the management of the disease at the pilot sites. To ensure a reduction in the
+spread and mortality caused by the disease, treatment sites were expanded. Since its introductio n,
+the treatment sites as at December, 2009 increased from 2 to about 138, and an estimated number
+of 337,745 PLHIV were receiving ART (MOH/GHS, 2010). The improvements in access to ART
+drugs have reduced the occurrence of new infection especially in PMTCT (Ampofo, 2009).
+Treatment is by complying with drug combination therapy. For adults, it is recommended that two
+of nucleoside reverse transcriptase inhibitors (NRTIs) plus a non-nucleoside reverse transcriptase
+inhibitor be administered as fixed dose combination in the initial stage of treatment. Treatment for
+the second phase consists of two nucleoside reverse transcriptase inhibitor (NRTIs) plus Ritonavir boosted protease Inhibitor (PI) administered for adults (WHO 2013).
+A lot of factors affect the treatment success of HIV. Among the factors, strict adherence to
+treatment regimen appears to be crucial. The reason being that a high level of adherence is required
+for drugs to work effectively, which also ensures the avoidance of the development of drug
+resistance (Nachega et al., 2006). However, the realization of effective compliance by infected
+people to the requirements of the treatment regime depends on their ability to accept the treatment
+recommendation. This has proven to be a big challenge for PLHIV (Mills et al., 2006). Although
+ART has been proven to be effective, countries which have been able to implement it have all
+come up against the challenge of patient adherence to treatment programme. Although the drug
+combination therapy has shown massive improvements in HIV related deaths, non-adherence is
+thought to account for the treatment failure in most cases (Obirikorang, Selleh, Abledu, & Fofie,
+2013). The existence of non-adherence can impede the sustainability of programmes intended at
+successful HIV and AIDS care.
+A lot of studies carried out on adherence in low and middle income countries identified factors
+such as financial constraints, stigma and inadequate information as hindrance to adherence
+(Nachega, 2006). These factors tend to gain prominence in places with high poverty levels, which
+generally fits the circumstances of many African countries. Most of the people affected with the
+disease happen to be in deprived areas where health care accessibility is not optimal. Even though
+these challenges exist, a lot of resources have been channeled into accelerating access to ART.
+There is no doubt that accessibility has been improved as reported by UNAIDS in 2012. There are
+a lot of factors that are yet to be discovered. Ghana for instance have dealt with financial access
+by subsidizing the cost of ART. People living with HIV have access to free health care. They
+receive free supply of antiretroviral (ARV) drugs.
+
+Drug adherence depends on both the patients and the relation that exists between providers and
+patients. Understanding the patient’s perspective and reactions after commencing treatment will
+aid treatment adherence. Studies that applied the objective adherence measure revealed that about
+70% of prescribed doses are taken in the treatment of HIV (Horne, Cooper, Gellaitry, Date &
+Fisher, 2007).
+A lot has been done in the area of treatment adherence (Horne et al., 2007; Chesney et al., 2000;
+Conway, 2007; Mills et al., 2006). Most of these studies were carried out in developed countries
+and Southern Africa. Though there are studies in Ghana (Obrikorang et al., 2013; Ohene & Forson,
+2009) these studies considered only one facility. This research goes beyond what has been done in
+Ghana by using a multi case study method to identify whether there are differences in adherence
+to ART in these two facilities. Again these studies considered individual factors. This study adds
+social and facility support structures as a way of expanding the scope of research on the subject
+matter.
+Again, since the implementation of HAART in Ghana in 2003, studies on HIV have been directed
+at reducing new infections. Though there are reports on enhanced effect in months into therapy,
+diminutive data have been published bearing in mind ART adherence and issues concerning
+treatments (Ohene & Forson, 2009). This has the potential to impact negatively on HIV treatment
+effectiveness and needs to be urgently addressed. This paper therefore sought to investigate the
+individual, social, and facility-based factors that influence HIV treatment adherence in the Sunyani
+Regional and the Municipal hospitals so as to uncover the barriers to adherence and make
+recommendations to address them as a way forward to improving treatment effectiveness.
+Methods
+Study Design
+In order to ascertain factors that influenced adherence to antiretroviral therapy, multi-case study
+design was used. This design ensures that two or more cases are studied for in-depth analysis.
+Multi case study design was deemed appropriate as it permitted inter-facility comparison of
+adherence to antiretroviral therapy.
+The Study Areas
+Two study areas were chosen for the study namely, the Sunyani Regional Hospital and the Sunyani
+Municipal Hospitals because they are designated facilities for HIV management in the BrongAhafo Region of Ghana.
+Study Population
+The study population consisted of all clients diagnosed as HIV positive who attended ART clinic
+at the Sunyani Regional and Municipal Hospitals, and the health professionals who attended to
+them were included in the study to ascertain their views on the factors that influenced ART
+adherence.
+
+Sampling Technique and Sample Size
+HIV and AIDS is associated with stigma and discrimination, thus, individuals with the disease
+usually dissociate themselves from any activity that is likely to expose their HIV positive status.
+This makes it difficult to sample HIV and AIDS Patients using probability sampling technique ,
+therefore, purposive sampling technique was used to select HIV positive adults 18 years old and
+above who were willing to be part of the research for the study. One hundred and twenty (120)
+consisting of 60 participants from each of the two study facilities were involved in the quantitative
+study whilst 13 others made up of 8 patients and 5 healthcare professionals who had a minimum
+of one year working experience with HIV treatment were also selected purposively to take part in
+the qualitative study. The healthcare professionals comprised of the HIV coordinator at the
+Sunyani Regional Hospital and the HIV counselor at the Municipal Hospital, a representative from
+the pharmacy department in charge of ART adherence counseling at the Municipal Hospital, a
+clinician in charge of clinical consultation and a nurse in charge of HAART clinic, both at the
+Regional Hospital.
+Data Collection Methods and Instruments
+The study used a mixed method approach utilizing both qualitative and quantitative methods. The
+quantitative part of the study used self-designed questionnaire administration. The questionna ire
+was divided into five parts: the first part sought to find out individual characteristics includ ing
+demography and disease factors; the second part considered social factors such as the existence of
+support and stigma, culture and religion; the third part focused on service delivery factors includ ing
+relationship with health professionals, availability of drugs and health promotion activities which
+had the potential to influence adherence to ART; and the fifth part was on clients’ adherence to
+ART in three and seven days assessment.
+The Qualitative aspect took the form of one-on-one in-depth interviews utilizing interview guide
+through an independent moderator (Harden et al., 2006). The in-depth interviews were held at the
+study facilities with patients and health workers to gather detailed information on individual, social
+and facility factors that determine adherence to ART.
+Ethical Consideration
+Prior to the commencement of the study in 2014, approval was sought from the Ghana Health
+Service with the study protocol. Following this, permission was granted from the hospital
+authorities of the study facilities before data collection. Every individual respondent was also
+approached to give a written or oral consent as per their preference before participation. Before
+participants were interviewed, each was given a consent form to read and sign. For individ ua ls
+who could not read, the purpose of the study was explained to them and if they accepted to partake,
+their thumbprints were taken. throughout the study.
+The Research Process
+Pre-test of the research tools was carried out to ensure reliability of the data collection instrume nts.
+The questionnaire were then revised for data collection. One-on-one interview questionnaire was
+conducted for each of the 120 participants for the quantitative study, either in English language or
+
+in the local (twi) language as per the choice of the participant. In-depth interviews were also
+conducted with 8 HIV patients and 5 healthcare professionals.
+Data Analysis
+The Statistical Package for Social Sciences (SPSS) version 18.0 was used to analyze the
+quantitative data. Simple statistics and Fisher’s Exact Test of independence (data were categorical
+and nominal) were used to interpret the results. Adherence to ART was analysed in three days and
+seven days assessment, and participants were grouped into two categories – adherent and nonadherent. The seven days assessment was used to find out the relationship between individ ua l,
+social and service delivery factors and adherence to ART at 95% confidence interval. The same
+method was used to assess the differences between the two health facilities.
+In-depth interviews were recorded with a digital recorder and transcribed. Data were analysed
+manually and categorized into themes with the main objectives as a guide. Where necessary, some
+responses were quoted verbatim whilst others were edited to improve readability. Results of the
+study were triangulated where relevant.
+Results
+Demographic characteristics of respondents
+The majority (65.8%; 79/120) of respondents were females with 34.2% (41/120) men. Their ages
+ranged from 18 to 50 years and above. Sixty-five percent of them (78/120) had junior or senior
+high education, only about 6% (7/120) had tertiary whilst the remaining 29% (35/120) had primary
+or no formal education. Most of the respondents (about 71%; 85/120) are Christians, 25% (30/120)
+are Muslim, and the rest are Traditional or other worshippers.
+Adherence to ART
+All the respondents (100%) adhered to ART treatment in the three days assessment, however, 25%
+(30/120) were not adherent in the seven days assessment (figure 1). The main reasons for missing
+medication as presented in Table 1 were forgetfulness and travelling (8.3%; 10/120 and 5.8%;
+7/120) respectively. These were consistent with responses from the in-depth interviews as
+interviewees indicated forgetfulness, travelling and busy schedules as the main causes of missing
+their medications. Some patient interviewees also indicated that they have been informed that
+missing just a day dose would not harm them so they sometimes missed dose if medicatio n
+coincided with social activities.
+
+Figure 1: Adherence to Antiretroviral Therapy
+
+Adherence to ART in Seven Days
+Assessment
+
+25%
+adherent
+non adherent
+
+75%
+
+Table 1: Factors Associated with Non-adherence
+Risk Factors
+Forgetfulness
+Sleeping through a dose
+Busy schedule
+Travelling
+Didn’t want people to see me take the drug
+Not applicable
+Total
+
+frequency
+10.0
+3.0
+7.0
+9.0
+1.0
+90.0
+120.0
+
+percentage
+8.3
+2.5
+5.8
+7.5
+0.8
+75.0
+100.0
+
+Individual factors and adherence to ART
+The relationship between adherence to ART and gender, age, and educational level were all not
+statistically significant (p = 0.317; p = 0.520; p = 0. 195 respectively) (Table 2). However, findings
+from in-depth interviews with health professionals indicated that age and gender have influe nce
+on adherence to ART. Four (80%) out of the 5 health professionals interviewed talked about the
+fact that young men do not usually adhere to HIV treatment. According to them, women regardless
+of their age are adherent to ART than men, they added that their health records even depict high
+turn up rate for women than men. Thus,
+
+“Young men find it very difficult accepting their HIV positive status when they find out after testing in the
+first place. Some will come back and tell you that they don’t believe that they have HIV because they feel
+healthy and strong. Hence, they may agree during counseling to come for treatment but they do not adhere
+to taking the drugs as scheduled, or will not return for refill” (Health Professional, Sunyani Municipa l
+Hospital)
+“If you go through the books you will realize that women adhere much more than men. Men especially
+the young ones don’t want to come for treatment when they are diagnosed, because they don’t want their
+friends to know that they are HIV positive, they may be afraid of stigma and the fact that young ladies
+might not want to enter into a relationship with them. But for the women because they are mostly pregnant
+at the time of diagnosis, they most of the time return for treatment to protect their babies from acquiring
+the infection, and so they adhere to treatment.” (Health professional, Sunyani Municipal Hospital)
+“Women are much more adherent than men. Men like to take risk, so they wait until they
+are ill before they take their medication or visit the facility for treatment.” (Health
+professional, Sunyani Regional Hospital)
+Table 2: Gender, Age, Education, and Adherence to ART
+Variables
+
+Adherent
+
+Nonadherent
+
+Gender
+
+frequency
+
+Female
+Male
+Total
+Age
+
+57.0
+33.0
+90.0
+
+18-29
+30-39
+40-49
+50 and
+above
+Total
+Education
+
+21.0
+25.0
+27.0
+17.0
+
+23.3
+27.8
+30.0
+18.9
+
+11.0
+8.0
+7.0
+4.0
+
+36.7
+26.7
+23.3
+13.3
+
+90.0
+
+100.0
+
+30.0
+
+100.0
+
+Primary
+Junior
+high
+Senior
+high
+Tertiary
+No
+education
+Total
+
+19.0
+35.0
+
+21.1
+38.9
+
+9.0
+10.0
+
+30.0
+33.3
+
+27.0
+
+30.0
+
+6.0
+
+20.0
+
+6.0
+3.0
+
+6.7
+3.3
+
+1.0
+4.0
+
+3.3
+13.4
+
+90.0
+
+100.0
+
+30.0
+
+100.0
+
+%
+63.3
+36.7
+100.0
+
+frequency
+22.0
+8.0
+30.0
+
+P
+value
+%
+
+0.317
+
+73.3
+26.7
+100.0
+0.520
+
+0.195
+
+Perceived Efficacy and Perceived Need for Treatment and Adherence to ART
+There was no statistically significant relationship between perceived efficacy and ART adherence
+(p = 0.062), and perceived need and ART adherence (p = 0.736) as indicated in Table 3.
+Table 3: Perceived Efficacy and Perceived Need for Treatment and Adherence to ART
+Variables
+
+Adherent
+
+Non-adherent
+
+Perceived
+efficacy
+
+frequency
+
+%
+
+frequency
+
+Better
+No
+change
+Worse
+Indifferent
+
+86.0
+0.0
+
+95.6
+0.0
+
+28.0
+2.0
+
+2.0
+2.0
+
+2.2
+2.2
+
+0.0
+0.0
+
+Total
+
+90.0
+
+100.0
+
+30.0
+
+%
+
+p-value
+0.062
+
+93.3
+6.7
+
+100.0
+
+Perceived
+Need for
+treatment
+
+0.736
+
+Yes
+No
+
+88.0
+2.0
+
+96.7
+3.3
+
+29.0
+1.0
+
+96.7
+3.3
+
+Total
+
+90.0
+
+100.0
+
+30.0
+
+100.0
+
+Responses from the in-depth interviews with patients however, varied from these findings. Some
+of them indicated that when they started the treatment and their health condition improved, they
+had the urge to adhere to treatment so they can stay healthy. Various experiences were shared
+including the following:
+“As for the ART drugs, they are very good, without them I would not be alive today. I have
+been on treatment for about 9 years prior to taking ART drugs, but I was not healthy. I had
+low weight and chronic illnesses, currently, I am very healthy. I have a good appetite for
+food which also boosts my immune system, so I’m always encouraged by my improved
+health condition to take my ART medications.” (Patient, Sunyani Municipal Hospital)
+“Ever since I started treatment, I have never fallen sick before. Initially I experienced drug
+side effects so the drugs were changed, now I am very healthy. How can I even think of
+missing my medications, they give me life” (Patient, Sunyani Regional Hospital)
+
+“As for the drugs, they are difficult to take especially when you start at first, but once your
+system adjusts to them and they are working for you, then you realise you can never do
+away with them, so you feel the need for them especially when they are even getting
+finished” (Patient, Sunyani Regional Hospital)
+“As for me the ART medications really work for me, so I make sure I visit the hospital
+regularly for the drugs. At the beginning I was having some problems, but the nurses
+explained to me that they will stop if I continue to take the drugs regularly and on time,
+and truly those bad feelings gradually subsided. Infact, the drugs work and that encourages
+me to stick to them. I’m even afraid that if I don’t take them for one day, my health condition
+will deteriorate” (Patient, Sunyani Municipal Hospital)
+
+Social Factors and Adherence to ART
+Support, stigma, disclosure of HIV positive status and adherence to ART
+Findings from the study as shown in Table 4 indicate that there was no statistically significa nt
+difference between existence of support (P = 0.96), stigma (P = 0.96), disclosure of HIV positive
+status (P = 0.059) and adherence to ART. Thus, social support in the form of support from other
+family members and friends and stigma after disclosure of HIV positive status to someone either
+in the family or outside the family had no influence on adherence to ART.
+These findings again were not supported by the qualitative part of the study. The in-depth
+interviews revealed that support from loved ones in the form of financial aid, encourageme nt,
+information, reminders to take medications improved adherence to ART. Some also indicated
+existence of support as a major facilitator of adherence to ART. Respondents who were presumed
+to have acquired the disease from their unfaithful partners received immense support from family
+members.
+“My husband was diagnosed of HIV and he died months after his diagnosis. After his death, I was
+sick for a long time and admitted at the hospital. At that point, I was also diagnosed of HIV.
+Regardless of my status, my family members gave me all the assistance I needed. They have been
+my source of motivation. Currently, I visit hospitals to counsel other people with the disease to
+adhere to medication” (patient, Sunyani Regional Hospital)
+“I have a nurse friend who assists me in diverse ways. I receive support from my family
+members and the nurse friend as well. When I am unable to go for my medication at the
+hospital, my sister take them on my behalf. The nurse friend also gives me encouragement
+to cope with the disease. Without the support from these people in my life I wouldn’t be
+alive today.” (Patient, Sunyani Municipal Hospital)
+All the health professionals interviewed also clearly indicated that support from ‘relevant others’
+aids adherence to ART treatment.
+
+“Some patients have mental conditions as a result of the disease so they may not appreciate
+the need to take medication so the supporter helps in adhering to medication as
+scheduled.” (Health professional, Sunyani Regional Hospital)
+
+Table 4: Support, Stigma, Disclosure of HIV Positive Status and Adherence to ART
+Variables
+
+Adherent
+
+Existence
+of support
+Yes
+No
+Total
+Existence
+of stigma
+Yes
+No
+No
+response
+Total
+Disclosure
+Good
+relation
+Receive
+support
+Aid
+adherence
+No
+response
+Total
+
+Frequency
+80.0
+10.0
+90.0
+
+Nonadherent
+%
+88.9
+11.1
+100.0
+
+Frequency
+23.0
+7.0
+30,0
+
+P
+value
+%
+
+0.96
+
+76.7
+23.3
+100.0
+0.96
+
+4.0
+77.0
+9.0
+
+4.4
+85.6
+10
+
+0.0
+24.0
+6.0
+
+80.0
+20.0
+
+90.0
+
+100.0
+
+30.0
+
+100.0
+
+20.0
+
+22.2
+
+1.0
+
+3.3
+
+59.0
+
+65.6
+
+23.0
+
+76.7
+
+1.0
+
+1.1
+
+0.0
+
+0.0
+
+10.0
+
+11.1
+
+6.0
+
+20.0
+
+90.0
+
+100.0
+
+30.0
+
+100.0
+
+0.084
+
+Belief in spirituality, traditional medicine, and Adherence to ART
+Statistically, there was no significant relationship between belief in spirituality and adherence to
+ART (p = 0.815). In the same vain there was no statistically significant relationship between
+belief in traditional medicine (p = 0.084) and adherence to ART (Table 5).
+These findings were supported by the findings from the in-depth interviews with patients. Patient
+interviewees indicated that they did not rely on spiritual healing nor traditional medicine as cure
+for HIV. Some however indicated that prayer is regarded as a complementary remedy to HIV
+cure.
+
+“It is good to pray, but the medicine is important. Once you know your status you have to
+take the drugs as scheduled and pray that God in his mercies will heal you.” (Patient,
+Sunyani Regional Hospital)
+“I go to church and pray that I will be completely healed, but I still take my
+medications.” (Patient, Sunyani Regional Hospital)
+“As for traditional medicine for HIV, I have taken some before, and it was good for
+treating diarrhoea, but they are not as effective as the ART drugs, so I don’t depend on
+traditional medicine anymore.” (Patient, Sunyani Municipal Hospital)
+“At times some priests tell you they can pray for you to be healed completely, and that
+will make you stop taking your medication, but that is not true, your condition might
+worsen, and may end up dying, so I don’t believe in that kind of spiritual healing, that
+does not mean I don’t believe in God.” (Patient, Sunyani Municipal Hospital)
+Interviews with the health professionals however, portrayed that belief in spirituality hindered
+their clients from adhering to treatment.
+“Clients generally adhere to treatment, and when they get better, about 40% discontinue
+with the medication and resort to prayer camps for cure, they only return when their
+health condition deteriorates. By that time, some may not be eligible for the ART
+treatment anymore and they die.” (Health professional, Sunyani Municipal Hospital)
+
+Table 5: Belief in Spirituality, Belief in Traditional Medicine and Adherence to ART
+Variables
+
+Adherent
+
+Belief in
+spirituality
+Yes
+No
+Total
+
+frequency
+
+Belief in
+traditional
+medicine
+yes
+No
+Total
+
+26.0
+64.0
+90.0
+
+Nonadherent
+%
+28.9
+71.1
+100.0
+
+frequency
+8.0
+22.0
+30.0
+
+P
+value
+%
+
+0.815
+
+26.7
+73.3
+100.0
+0.084
+
+24.0
+66.0
+90.0
+
+26.3
+73.3
+100.0
+
+12.0
+18.0
+30.0
+
+40.0
+60.0
+100.0
+
+Service Delivery Factors and adherence to ART
+Relations with Health Professionals, perceptions about service provision and privacy, and
+ART adherence
+There was a statistically significant relationship between relations of patients with health
+professionals and adherence to ART (p = 0.008). Also, perception about services and privacy in
+the facility had a statistically significant relationship with adherence to ART (p = 0.008 and p =
+0.001 respectively) as shown in Table 6.
+Table 6: Relations with Health Professionals and Adherence to ART
+Variables
+
+Adherent
+
+Perception of
+service delivery
+
+Frequency
+
+Satisfactory
+Average
+Dissatisfied
+Indifferent
+Total
+Respect from
+staff
+Yes
+No
+Total
+Privacy
+Yes
+No
+Total
+Satisfactory
+Communication
+Yes
+No
+Total
+
+78.0
+10.0
+1.0
+1.0
+90.0
+
+Nonadherent
+%
+
+86.7
+11.1
+1.1
+1.1
+100.0
+
+frequency
+
+P
+value
+%
+
+18.0
+10.0
+2.0
+
+60.0
+33.3
+6.7
+
+30.0
+
+100.0
+
+0.008
+
+0.629
+86.0
+4.0
+90.0
+
+95.6
+4.4
+100.0
+
+28.0
+2.0
+30.0
+
+93.3
+6.7
+100.0
+
+88.0
+2.0
+90.0
+
+97.8
+2.2
+100.0
+
+24.0
+6.0
+30.0
+
+80.0
+20.0
+100.0
+
+0.001
+
+0.065
+88.0
+2.0
+90.0
+
+97.2
+2.2
+100.0
+
+27.0
+3.0
+30.0
+
+90.0
+10.0
+100.0
+
+These were not too different from the findings from the in-depth interviews. Participants expressed
+that there was a good relationship between them and their health providers. This relations hip
+enabled them to comply with medication requirements. Some patients however, indicated that
+some health workers do not treat them well, but this does not deter them from going to the hospital
+for their medication and taking them regularly.
+
+“We don’t have any problem with our health providers. Health workers attend to us very
+well. They keep our information private, and are good to us. We are able to tell them the
+challenges we face and they listen to us, so we are comfortable and we obey them by taking
+our medications as scheduled.” (Patient, Sunyani Municipal Hospital)
+“There are some few health workers who do not treat us with respect, and these are usually
+new staff, this does not affect the taking of my medication.” (Patient, Sunyani Munic ipa l
+Hospital)
+Availability of drugs, counseling, and adherence to ART
+Respondents receive ARVs for free at the health facilities which in many ways contributed to
+adherence to ARV. However, they bear the cost for non-ARVs which are purchased outside the
+health facility. As indicated in Table 7, the availability of drugs had a statistically significa nt
+relationship with adherence to ART (p = 0.008). There was also a statistically significa nt
+relationship between relevance of counseling and adherence to ART (p = 0.018).
+Responses from the in-depth interviews revealed that the facilities sometimes faced drug shortages.
+But drugs are dispensed such that every client received at least a month supply of drugs to enhance
+continuity of treatment. If a particular drug was out of stock, health professionals switch the regime
+and supply alternative drugs. This initiative was regarded as a barrier to adherence by all patient
+in-depth interviewees.
+“Initially, the doctors used to give 5 months interval for appointment and we were given
+drugs to cover that period. Of late, the doctor can give 2 months interval but the pharmacist
+dispense drugs to cover for only two weeks. It makes it difficult adhering to these separate
+schedules. We travel long distances to attend ART services. I will appreciate if the system
+is revised to reduce transportation cost. Once you are not sick, the pharmacist should
+provide drugs to cover 6 months to enhance our ability to adhere to treatment
+requirements.”(Patient, Sunyani Municipal Hospital)
+
+Table 7: Availability of Drugs, Counseling and Adherence to ART
+Variables
+
+Adherent
+
+Supply of
+drugs at
+facility
+Yes
+No
+Total
+Payment
+of drugs
+Yes
+No
+Totals
+Affordability
+of drugs
+Yes
+No
+Totals
+Regular
+counseling
+
+frequency
+
+81.0
+9.0
+90.0
+
+Nonadherent
+%
+
+90.0
+10.0
+100.0
+
+frequency
+
+21.0
+9.0
+30.0
+
+P
+value
+%
+
+0.008
+
+70.0
+30.0
+100.0
+0.562
+
+25.0
+65.0
+90.0
+
+27.8
+72.2
+100.0
+
+10.0
+20.0
+30.0
+
+33.3
+66.7
+100.0
+0.397
+
+79.0
+11.0
+90.0
+
+87.8
+12.2
+100.0
+
+28.0
+2.0
+30.0
+
+93.3
+6.7
+100.0
+
+0.187
+Yes
+No
+Total
+Relevance of
+Counseling
+in ART
+adherence
+Yes
+No
+Total
+
+85.0
+5.0
+90.0
+
+94.4
+5.6
+100.0
+
+30.0
+0.0
+30.0
+
+100.0
+0.0
+100.0
+0.018
+
+85.0
+5.0
+90.0
+
+94.4
+5.6
+100.0
+
+24.0
+6.0
+30.0
+
+80.0
+20.0
+100.0
+
+Barriers to ART Adherence
+The factors that hindered adherence to ART as found by the study were service delivery factors.
+Respondents generally had less challenges with health professionals (34.2%, n=41/120). Those
+who expressed some challenges attributed them to delay at the pharmacy, delay in service delivery,
+health workers not prompt to work, drug refill schedules and preferential treatment, transportatio n
+cost, cost of non ARVs and treatment requirements as barriers they faced. See Table 8.
+
+Table 8: Barriers to ART Adherence
+Variable
+Challenges with health professionals
+Delay in service delivery
+Delay at the pharmacy
+Workers not prompt to work
+Drug refill schedules
+Preferential treatment
+No challenge
+Total
+Availability of drugs and ART
+adherence
+transportation cost as a barrier
+motivation derived from free drug supply
+treatment requirement as a challenge
+cost of non ARV drugs as a barrier
+No response
+Total
+
+frequency
+
+percentage
+
+16.0
+35.0
+10.0
+9.0
+9.0
+41.0
+120.0
+
+13.3
+29.2
+8.3
+7.5
+7.5
+34.2
+100.0
+
+35.0
+61.0
+7.0
+13.0
+4.0
+120.0
+
+29.3
+50.8
+5.8
+10.8
+3.3
+100.0
+
+Similar barriers were raised in the in-depth interviews. Respondents had a challenge with service
+delivery at the pharmacy. There were complaints that usually they spend almost the whole day at
+the clinic waiting for drugs. This was due to the fact that staff at the pharmacy do not start work
+early. Some were emphatic that they dodged their employers to come for refills so if they are
+delayed, it creates a lot of problems for them at the work place.
+“I’m satisfied with the kind of treatment I receive from the health professionals. My major
+challenge is time spent at the pharmacy. I try to come early so I can go back to my daily
+activities but I end up spending the whole day at the clinic. Now the time is 11am the staff
+at the pharmacy are now coming to work. We have complained several times but nothing
+has been done about it.” – (Patient, Sunyani Regional Hospital)
+“When I go to work first, I cannot leave for the hospital, so I usually go to the hospital first and
+very early, so I can go to work, but here is the case where I always have to go to work very late if
+I have to visit the hospital, because there are a lot of delays in the service delivery in this facility.
+Presently, my boss is not nice to me because of my lateness to work .” (Patient, Sunyani Regional
+Hospital)
+Differences in Adherence to ART among Patients of Sunyani Regional and Municipal
+Hospitals
+The findings indicated in Table 9 depict no significant difference in adherence to ART among
+respondents of the two study health facilities (p=0.673).
+
+Table 9: Differences in Adherence to ART among Patients of the Two Study Facilities
+Adherence
+Health facility
+Municipal
+Regional
+Total
+
+Frequency
+46.0
+44
+90
+
+%
+51.1
+48.9
+100.0
+
+Non-adherence
+
+P value
+
+frequency
+
+0.673
+
+14.0
+16.0
+30.0
+
+%
+46.7
+53.3
+100.0
+
+Discussion
+Antiretroviral therapy is an important management regime for HIV and AIDS especially in this
+era where a cure for HIV is yet to be realized. Thus, the drug combination therapy suppresses the
+virus in the blood stream, limiting its destructive ability on the immune system of the infected, and
+thereby preventing opportunistic infections. Information about the disease process, treatment
+procedure, drug resistance, non-adherence and its effects are vital for attaining compliance to ART.
+This information is usually well communicated to patients at the start of treatment for them to
+understand the rationale, however, many scholars assert that non adherence to ART is common
+among HIV and AIDS patients (Carlucci et al., 2006; Nachega et al., 2006; Olowookere et al.,
+2008). In this study, respondents exhibited knowledge on the need to adhere to ART, with the
+majority (75%) adhering in the seven-days assessment. This is necessary if involvement of patients
+in HIV treatment is to be achieved to enhance their commitment to treatment (Machtinger &
+Bangsberg, 2006), which is vital for effective treatment.
+General drug compliance is usually influenced by individual factors. Thus, daily activities like
+travels, busy schedules, funerals, and others as found in the study can make people forget to take
+their medication or leave them behind (Forgarty et al., 2002). On this, patients can be sensitised
+by their counsellors as a way of reminding them to taking their medications amidst these activities.
+Feeling of being healthy, and reluctance to disclose HIV positive status also affects adherence
+(Olowookere, Fatiregun, Akinyemi, Bamgboye, & Osagbemi, 2008). A lot of studies have been
+carried out on the individual attributes that affect ART compliance (Boyarinova, 2007; Spirea et
+al., 2002; Murray et al., 2009; Grierson, Koelmeyer, Smith, & Pitts, 2011; Lucas, Chaison, &
+Moore 1999; Reif, Golin & Smith 2005). Some identified gender, age, literacy level, employme nt,
+knowledge on the disease, treatment side effects as well as medication scheduling as factors that
+influence adherence.
+In our study, the quantitative findings did not indicate statistically significant relationship between
+individual factors like age, gender, perceived efficacy and need for ART and adherence, the
+qualitative findings indicated associations between these variables and adherence to ART. Non
+adherence was associated with young men, and this was attributed by health professionals as young
+men being less capable of long term therapy, and fear of rejection and stigma from the society
+especially from young women. Contrary to this finding, other studies indicate high non-adherence
+rates in women (Bailey et al., 2014; Murray et al., 2010; Nagarina, Popenoe,Kilewo, Biberfeld, &
+Ekstrom, 2013; Hanif et al., 2013). Some of the reasons being stigma and low empowerment on
+the part of women to access treatment especially in the developing world. Fogarty et al., (2002)
+
+however, disagree that gender has influence on adherence to ART and indicate age as a factor in
+adherence. What accounts for the disparity in these findings may be contextual, hence, it should
+be noted that women and men experience different forms of barriers when it comes to HIV issues
+(Ferguson, Stewart, Funkhouser, Westfall, & Sagg, 2002), and therefore, interventions should be
+such that they address the specific needs of both men and women.
+Perceived efficacy and need for ART was also regarded as factors that influence adherence by
+participants in the qualitative study. Individuals who regard ART as a curative measure usually
+discontinue treatment when their health condition improve (Gokran, Narkheda, Pardeshi, &
+Doibale, 2012; Karcher, Odera, Kurz & Harms 2007; Murphy et al., 2000). Similarly, there were
+some participants who discontinued treatment after observing improvement in their health. Others
+too were motivated to adhere to ART because they saw improvement in their health. They were
+informed to adhere to prevent them from going back to their previous bad health condition. These
+people regarded ART as important because they had achieved benefit through the efficacy of
+treatment. Consistently some studies have identified that achievement or benefit derived from
+medication to influence adherence to ART (Holstad, et al., 2006; Luszczynska, Sarkar & Knoll,
+2007; Simoni et al., 2006). Belief that ART is important to ensure good health is an important
+basis for adherence to ART. Thus, individuals who think they need to take medication only when
+they are sick, usually are non-adherent to ART (Murphy, Roberts, Martin, Marelich, & Hoffman,
+2000). This underscores the importance of persistent sensitization on the fact that ART does not
+cure, but manages HIV and AIDS and non-adherence can result in serious health consequences.
+Social factors like the absence of stigma (Curioso, Kepka, Cabello, Segura, & Kurth, 2010;
+Rintamaki, Davis, Skripkauskas, Bennette, & wolf, 2006), support by a significant other, and
+disclosure of HIV positive status aid adherence (Afolabi et al., 2013; Fredriksen-Goldsen, et al.,
+2011; Nachegba et al., 2006). The service providers in this study seemed to be in the known as
+they indicated that as part of their treatment procedures, each client is asked to present a treatment
+supporter, whose duty is to monitor clients in the absence of a health professional. This strategy
+enabled respondents to have someone to support them. Some participants indicated in the
+qualitative study that less stigma after disclosure made it easier for them to adhere to treatment.
+They were able to disclose their status to family members and friends who in turn support them to
+adhere to treatment requirements. Disclosure of status led to support because health professiona ls
+pass confidants through series of counseling to inform them on how to care for people living with
+HIV and AIDS. This could be the reason why there was less stigma among study participants,
+amidst this, respondents were careful with making people identifying them as HIV and AIDS
+patients. Many people tend to conceal their treatment, seek treatment far away or wait till no one
+is watching before they take medication to prevent discrimination from their friends and loved
+ones. Thus, persistent stigma associated with HIV in the family and community is a drawback to
+treatment compliance (Mshana et al., 2006; Padarath, Searle & Esu-Williams, 2006). Families and
+communities must therefore be continuously sensitized to eradicate stigma against HIV and AIDS
+patients.
+Whilst some studies have found culture and religion as barriers to ART adherence (Olowookere et
+al., 2008; Wanyama, et al., 2007; Walker et al., 2004), our findings on these indicated otherwise.
+Thus, reliance on spirituality and the use of traditional medicine were not common with
+respondents. Their decision to stick to ARVs was influenced by counseling services, which
+convinced them that HIV had no cure and adhering to medication was the only way to live long in
+good health. However, some health professionals indicated their client’s defaulted treatment
+
+because of reliance on spirituality, and these people usually revert to the health facilities for help
+that is impossible to provide.
+Health professionals play a vital role in achieving optimal adherence to ART. The sort of relation
+that exists between them and their clients influences clients’ decision to continue or discontinue
+treatment (Beach, Keruly, & Moore, 2006; Murphy et al., 2000). From the study, privacy and
+perception on services had statistically significant relationship with ART adherence (p=0.008).
+This was attributed to supportive non-judgmental care from health providers which sort to place
+clients’ need first. This enabled respondents to accept treatment procedure and adhere to them. It
+was emphasized in the qualitative study that information was kept confidential which made them
+express their challenges freely for them to be addressed. This made respondents listen to every
+instruction given by health professionals and heeded to them, thus, confirming that trust, privacy
+and confidentiality with health professionals is associated with adherence to ART (Golin, Lui &
+Hays, 2002; Remien, Hirky, Johnson, Weinhardt, Whittier, 2006; Posse & Baltussen, 2009).
+Another factor that aided adherence in the study was availability of affordable drugs. Availability
+of drugs at the facility was statistically and significantly related to adherence to ART (p=0.008).
+Respondents receive drugs at the facility for free which motivate them to adhere to refill schedules.
+These drugs are mainly antiretroviral drug combinations that are subsidized. The supply system
+also ensure that each respondent received drugs when he or she came for refill to ensure continuity
+of treatment. As indicated by WHO (2009), without effective drug supply system, adherence to
+ART cannot be achieved. Health workers at the study facilities were informed on the need to have
+regular drug supply to respondents which accounted for their ability to adhere to treatment.
+Other service delivery factors that influenced adherence to treatment were health education in the
+form of counseling (p=0.018), and monitoring. These activities were done on regular basis at the
+health facilities for HIV patients and their families. Respondents received regular counseling
+which informed their positive behaviour towards ART adherence. Health promotion activities
+therefore facilitate adherence to ART by informing patients on how HIV is managed and how to
+live a normal life in good health and should be carried out by all health facilities that provide ART
+services. For respondents at the Sunyani Municipal hospital, the location of clinic days is a threat
+to stigma for them. HIV and AIDS cases are handled with other out-patients department cases.
+This exposed their clients to stigma which is a treat to ART adherence. There is thus, the need for
+a separate facility for HIV cases to enhance service delivery.
+With regards to barriers to ART adherence, respondents indicated delay in service delivery, drug
+scheduling, cost of non-ART drugs and transportation cost as the main barriers to ART adherence.
+There are different appointments for drugs and consultations which made respondents spend much
+on transportation. Transportation cost for drug refill has been identified as a barrier in other studies
+(Hardon, Akurut & Comoro, 2007; Kangee & Delport, 2010; Mills et al., 2006; Trzynka & Erlen,
+2004). In addition, delay in service delivery especially at the pharmacy is a challenge for most
+respondents. This delay was associated to workers being late to work most of the time, and
+preferential treatments given to patients who are familiar to health workers. This was a major
+concern since some respondents have to stay away from their workplaces to seek healthcare.
+Finding excuses all the time to leave work for the clinic is difficult for a lot of patients especially
+those that are hiding their HIV status from colleagues, and is therefore a challenge to ART
+adherence (Hardon et al., 2007).
+
+From the perspectives of the health professionals, non-availability of drugs, inadequate personnel
+including doctors, nurses, and counselors, insufficient supply of logistics for the treatment of HIV
+and AIDS like reagent for testing CD4 count, among others impede the success of ART efficie nc y
+as was also indicated by Padarath, Searle and Esu-Williams in 2006. The Sunyani Municipa l
+Hospital for instance had no clinician to attend to HIV and AIDS clients. Health professiona ls
+lamented that there are increasing numbers of patients with few staff to handle them. This makes
+it stressful dealing with HIV and AIDS clients. Some health professionals indicated that some
+patients who felt healthy and refused to adhere to clinic schedules, but were found to refill their
+drugs on schedule, made the treatment procedure incomplete and made identification of defaulters
+inaccurate as well.
+There were no differences in adherence to ART among patients of the two study facilities. This
+may be attributed fact that the two facilities share similar service delivery structures. Responses
+from health professionals indicated that the study facilities shared the same ART adherence issues.
+They used identical procedure to attend to clients and had clients with comparable demographic
+and social characteristics. Both facilities attend to clients from Brong-Ahafo and beyond, and also,
+employ national guidelines which are in harmony with the WHO measure for treatment of HIV
+and AIDS.
+Conclusion
+Adherence to antiretroviral therapy is crucial for sustained health among HIV patients, and it is
+dependent on the individual, social, and facility-based support systems. Individuals living with
+HIV and AIDS would be committed to improving their health and living long for their families, if
+these factors are positive. Hence, some barriers to treatment adherence, such as different schedules
+of appointment for drugs and consultations, unavailability of drugs and health personnel, delay in
+service delivery at various departments in the health facility, should be addressed holistically by
+all ART stakeholders.
+Health professionals, though satisfied with their work, need to be motivated. It is therefore
+recommended that more health professionals be trained and motivated to deliver quality and
+efficient ART services to enhance adherence. It is also suggested that the management of the study
+hospitals organize special events to motivate their staff in charge of ART. This will enable them
+continue their good work on improving the lives of people living with HIV and AIDS.
+Last but not the least, non-antiretroviral drugs meant to compliment ART to improve the health of
+patients are expensive. It may be worthwhile to consider subsidizing these drugs especially for
+patients who cannot afford, but cannot do without them. This will heighten their commitment to
+adhering to antiretroviral therapy.
+
+References
+Afolabi, B. A., Afolabi, A. A., MA, O., & Olowookere, S. A. (2013). Roles of Family Dynamics
+on Adherence to Highly Active Antiretroviral Therapy Among People Living with
+HIV/AIDS at a Tertiary Hospital in Osogbo, South-West Nigeria. African Health Science,
+13(4):.
+
+Ammassari, A., Murri, R., Pezzotti, P., Trotta, M. P., Ravasio, L., De Longis, P., . . . Lichtner, M.
+(2001). Self-Reported Symptoms and Medication Side Effects Influence Adherence to
+Highly Active Antiretroviral Therapy in Persons With HIV Infections. Journal of Acquired
+Immune Deficiency Syndrome, 28(5)
+Ampofo, W. (2009). Current Status of HIV /AIDS Treatment, Care and Support Service in Ghana.
+Ghana Medical Journal, 43(4).
+Bailey, H., Thorne, C., Malyuta, R., Townsend, C. L., Semenenko, I., & Cortina-Borja, M. (2014).
+Adherence to Antiretroviral Therapy During Pregnancy and the First Year Postpartum
+among HIV-positive Women in Ukraine . BMC Public Health, 14:993.
+Bangsberg, D., & Machtinger, E. (2006). Comprehensive, up-to-date Information on HIV/AIDS
+Treatment, Prevention, and Policy from the University of California San Francisco. HIV
+Insite Base Chapter In Adherence to HIV Antiretroviral Therapy.
+Barnighausen, T., Bloom, D., & Humair, S. (2007). Human Resources for Treatung HIV/AIDS
+Needs. Capacities and Gaps. AIDS Patient Care, 21(11):800-12.
+Bartlett J.A., D. R. (2001). Overview of the Effectiveness of Tripple Combination Therapy in
+Antiretroviral-naive HIV-1 Infected Adults. AIDS Journal , 15:1369-77.
+Bartlett, J. G., Cheever, L. W., Johnson, M. P., & Douglas, S. P. (2004). A Guide to Primary Care
+of People with HIV/AIDS. Department of Health and Human Services, Health Resources
+and Services Administration, HIV/AIDS Bureau.
+Beach, M. C., Keruly, J., & Moore, R. D. (2006). Is the Quality of the Patient-Provider
+Relationship Associated with Better Adherence and Health Outcomes for Patients with
+HIV? J GEN INTERN MED, 21:661–665.
+Beattie, T., & Bhattacharjee, P. (2009). Access to HIV testing and Treatment Services by HighRisk Groups in Karnataka, India: Barriers and Motivators. Karnataka Health Promotion
+Trust.
+Bello, S. I. (2011). HIV/AIDS Patients’ Adherence to Antiretroviral Therapy in Sobi Specialist
+Hospital, Ilorin, Nigeria. Journal of Advanced Scientific Research, 2(3): 52-57.
+Bonolo, P. d., Ceccato, M. d., Rocha, G. M., Acu´ rcio, F. d., Campos, L. N., Guimara, M. D., &
+es, G. (2013). Gender Differences in Non-Adherence Among Brazilian Patients Initiating
+Antiretroviral Therapy. Clinics, 68(5):612-620.
+Botworth, H. B., Oddone, E. Z., & Weinberger, M. (2008). Patient Treatment Adherence Concept
+Intervention and Measurement. Health Psychology and Public health.
+Boyarinova, G. (2007). Antiretroviral HIV Therapy at TASO Clinic in Mulago Hospital in
+Kampala, Uganda: Medical, Cultural. Nursing, Allied Health and Health education, 1(1).
+
+Boyer S., M. F.-Z.-P. (2009). Financial Barriers to HIV Treatment in Yaounde Cameroon: First
+Result of a National Cross-sectional Survey. Published by WHO, 87:279-287.
+Carclucci, J., A., K., Pheneberger, R., 'Shepherd, B., Jenkins, C., Spurrier, J., & Vermund, S.
+(2008). Predictors of Adherence to Antretroviral Therapy in Rural Zambia. J. Acquir
+Immune Defic Syndr., 15;47(5):615-622.
+Carr, R. L., & Gramling, L. F. (2004). Stigma: A Health Barrier for Women With HIV/AIDS.
+Journal of the Association of Nurses in AIDS Care, 15(5) 30-39.
+Chakrapani V., S. M. (2008). Barriers to Free Antiretroviral Treatment for Female Sex Workers
+in Chennai, India. AIDS care.
+Chalker, J., Andualem, T., Tadeg, H., Gitau, L., Ntaganira, J., Celestino, O., & Waako, P. (2009).
+Developing Standard Methods to Monitor Antiretroviral Medicines and Treatment
+Defaulting in Resource-Poor Settings. Essential Medicines Monitor.
+Chensney, M., Morin, M., & Sherr, L. (2000). Adherence to HIV Combination Therapy. Social
+Science Medicine, 50, 15599-1605.
+Chesney, M. A. (2000). Factors Affecting Adherence to Antiretroviral Therapy. Clinical Infectious
+Diseases, 30, 171–6.
+Conway, B. (2007). The Role of Adherence to Antiretroviral Therapy in the Management of HIV
+Infection. Journal of Acquir Immune Defic Syndr , 45:S14–S18.
+Curioso, W. H., Kepka, D., Cabello, R., Segura, P., & Kurth, A. E. (2010). Understanding the
+Facilitators and Barriers of Antiretroviral Adherence in Peru: A Qualitative Study. BMC
+Public Health, 10:13.
+Damme, V., Kober, K. W., & Kegels, G. (2008). Scaling- up Antiretroviral Treatment in Southern
+African Countries with Resource Shortage: How will Health Systems Adapt? Social
+Science and Medicine, 66:.
+Dieleman, M. N., Cuong, P. V., Anh, L. V., & Martineau, T. (2003). Identifying Factors for Job
+Motivation of Rural Health Workers in North Viet. Human Resources for Health, 1:10.
+Dzokoto, A., & Commission, G. A. (2008). Republic of Ghana National Report on the Progress
+of the UnitedNations General Assembly Special Session (UNGASS)Declaration of
+Commitment on HIV and AIDS . Ghana AIDS Commission.
+Ellis, D. A., Naar-King, S., Phillippe, C., & Secord, E. (2006). Use of Multisystematic Therapy to
+ImproveAntiretroviral Adherence and Health Outcome in HIV Infected Pediatric
+Patients:Evaluation of a Pilot Program. AIDS Patient Care, 20(2).
+Ellis, D., Naar-King, S., Cunningham, P., & Second, E. (2006). Use of Multisystemic Therapy to
+improve Antiretroviaral Adherence and Health Outcomes in HIV- Infected Paediaric
+Patients; Evaluation of Pilot Programme. AIDS Patients Care and STDs, 20(2).
+
+Fisher, J. D., & Fisher, W. A. (1992). Changing AIDS Risk Behavior. Psychological Bulletin, 455
+- 474.
+Fisher, J., Fisher, W. A., Amico, K. R., & Harman, J. J. (2006). An informatio nmotivationbehavioral skills model of adherence to antiretroviral therapy. Health
+Psychology, 25(4):462-473.
+Fogarty, L., Roter, D., Larson, S., Burke, J., Gillespie, J., & Richard, L. (2002). Patient Adherence
+to HIV Medication Regimen: A Rview of Published and Abstract Reports. Patient
+Education and Counselling, 46, 93-108.
+Fredriksen-Goldsen, K. I., Shiu, C.-S., Starks, H., Chen, W.-T., Simoni, J., Kim, H.-J., . . . Zhang,
+F. (2011). ‘‘You Must Take the Medications for You and for Me’’: Family Caregivers
+Promoting HIV Medication Adherence in China. AIDS Patient Care and STDs, 25(12).
+Ghana AIDS Commision. (2006). Adherece-Resistance Relationship for Protease and nonnucleoside Reverse Transcriptase Inhibitor Explained by Virological Fitness. Ghana:
+Ghana AIDS Commission.
+Ghana AIDS Commission. (2012). Ghana Country's AIDS Progress Report, January 2010 December 2011. Ghana: Ghana AIDS Commission.
+Ghana AIDS Commisssion. (2013). Utilizing Strategic Information for Effective National HIV
+and AIDS Response. National HIV/AIDS Research Confrence (NHARCON) 10th - 13th
+September. Ghana: Ghana AIDS Commission.
+Godin, G., Co^te', J., Naccahe, H., Lambert, D. L., & Trottier, S. (2005, May). Predictions of
+Adherence to Antiretroviral Therapy: A One Year Longituinal Study. AIDS Care (Taylor
+and Francis Group), 17(4): 493/504.
+Gokarn, A., Narkhede, M. G., Pardeshi, G. S., & Doibale, M. K. (2012). Adherence to
+Antiretroviral Therapy. JAPI.
+Golin, C., Lui, H., & Hays, R. (2002). A Prospective Study of Predictors of Adherence to
+Combination Antiretroviral Medication. General Internal Medicine, 17:756-765.
+Golin, C., Reif, S., & Smith, S. (2000). Barrieres to Accessing HIV/AIDS Care in North Carolina:
+Rural and Urban Difference. Ann Intern. Med.
+Greeff, M., Phetlhu, R., & Makoae, L. (2008). Disclosure of HIV Status: Experiences and
+Perceptions of Persons Living with HIV/AIDS and Nurses Involved their Care. AIDS
+Patient Care and STDs, 18:311-324.
+Grierson, J., Koelmeyer, R., Smith, A., & Pitts, M. (2011). Adherence to Antiretroviral Therapy:
+Factors Independently Associated with Reported Difficulty Taking Antiretroviral Therapy
+in A National Aample of HIV-Positive Australians . HIV Medicine, 12, 562–569.
+
+Hanif, H., Bastos, F. I., Malta, M., Bertoni, N., Surkan, P. J., Winch, P. J., & Kerrigan, D. (2013).
+Individual and Contextual Factors of Influence on Adherence to Antiretrovirals Among
+People Attending Public Clinics in Rio de Janeiro, Brazil. BMC Public Health , 13:574.
+Hardon, A. P., Akurut, D., & Comoro, C. (2007). Hunger, Waiting Time and Transport Costs:
+Time to Confront Challenges to ART Adherence in Africa. AIDS Care, 19:658-665.
+Hardon, A., Davey, S., Gerritis, T., Hodgkin, C., Amsterda, H., Irunde, J., . . . Nakiyemba, R.
+(2006). The Challenges of Antiretroviral Therapy Treatment: Studies from Botwana,
+Tanzania and Uganda. Geneva: WHO.
+Holstad, M. K., Pace, J. C., De, A. K., & Ura, M. D. (2006). Factors Associated With Adherence
+to Antiretroviral Therapy. Journal of the Association of Nurses in AIDS Care , 17 ( 2)4-15.
+Horne, R., Cooper, V., Gellaitry, G., Date, L., & Fisher, M. (2007). Patient's Perception of Highly
+Active Antiretroviral Therapy in Relation to Treatment Uptake and Adherence.
+Epidemiology and Social Science.
+Ickovics, J. R., & Meade, C. S. (2002). Adherence to HAART among Patients with HIV:
+Breakthroughs and Barriers. AIDS Care: Psychological and Sociomedical Aspects of
+AIDS/HIV, 14:3, 309-318.
+Joglekar, N., Paranjape, R., Jain, R., Rahane, G., Potdar, R., Reddy, K., & Sahay, S. (2011).
+Barriers to ART adherence & follow ups among patients attending. Indian Medical
+Journal, 954-959.
+Kagee, A., & Delport, T. (2010 ). Barriers to Adherence to Antiretroviral Treatment: The
+Perspectives of Patient Advocates. Journal of Health Psychology, 15: 1001.
+Kagee, A., Rhemien, R., Berkman, A., Hoffman, S., Campos, L., & Swartz, L. (2011). Structural
+Barriers to ART Adherence in Southern Africa: Challenges and Potential Ways Forward.
+Global Public Health, 6(1)83:97.
+Kalichman, S. C., Rompa, D., DiFonzo, K., Simpson, D., Austin, J., Luke, W., . . . Buckles, J.
+(2001). HIV Treatment Adherence in Women Living With HIV/AIDS: Research Based on
+the Information-Motivation-Behavioral Skills Model of Health Behavior. Journal of the
+Association of Nurses in AIDS Care , 12(4) 58-67.
+Kalichman, S., Simbayi, L., Jooste, S., Toefy, Y., Cain, D., & Cherry, C. (2005). Development of
+Brief Scale to Meaasure AIDS - Related Stigma in South Africa. AIDS Behavoir, 9:135143.
+Kalichman, S., Stein, J. A., Malow, R., Averhart, C., Dévieux, J., Jennings, T., . . . Feaster, D. J.
+(2002). Predicting Protected Sexual Behaviour Using the Information- Motivatio nBehaviour skills Model among Adolescent Substance Abusers in Court- Ordered
+Treatment. Psychol Health Med, 7(3) 327-338.
+
+Karcher, H., A., O., Odera, J., Kurz, A., & Harms, G. (2007). Risk Factors for Treatment Denial
+and Loss to Follow-up in an Antiretroviral Treatment Cohort in Kenya. Tropical
+International Health, 12(5)687-94.
+KinslerI, J. J., Wong, M. D., Sayles, J. N., Davis, C., & Cunningham, W. E. (2007). The Effect of
+Perceived Stigma from a Health Care Provider on Access to Care Among a Low-Income
+HIV-Positive Population. AIDS Patient Care and STDs, 21 (8).
+Lima, V., Harrigan, R., Murray, M., Moore, D., Wood, E., & Hogg, R. (2008). Differential Impact
+of Adherence on Long Term Treatment Response Among Naive HIV/AIDS Infected
+Individuals. AIDS Care, 22:2371-2380.
+Luc, K. (2005, September 23). The Immune System and HIV. How HIV Damages the Immune
+System :Aidsmap, (Retrived 11th May, 2015). Retrieved from A patient Oriented
+Educational Website: http://www.aidsmap.com
+Lucas, G., Chaisson, R., & Moore, R. (1999). Highly Active Antiretroviral Therapy in a Large
+Urban Clinic: Risk Factors for Virological Failure and Adverse Drug Reactions. Annals of
+Internal Medicine, 131(2);81-7.
+Luszczynska, A., Sarkar, Y., & Knoll, N. (2007). Received Social Support, Self-Efficacy, and
+Finding Benefits in Disease Predictors of Physical Functioning and Adherence to
+antiretroviral therapy. Patient Education and Counseling, 37–42.
+Mills, E., Nachega, J., Buchan, I., Orbinski, J., Attaran, A., Singh, S., . . . Bangsberg, D. (2006).
+Adherence to Antiretroviral Therapy in Sub-Saharan Africa and North America. A MetaAnalysis. JAMA, 296(6)679-690.
+Ministry of Health, & Ghana Health Service. (2010). Guidelines for Antiretroviral Therapy in
+Ghana. Ghana: MOH/GHS.
+Morris, J., Marzon, M., Dandy, N., & O'Brien, L. (2012). Theories and Models of Behavior and
+Behavior Change. Forest Research.
+Mshana, H. G., Wamoyi, J., Busza, J., Zaba, B., Changalucha, J., Kaluvya, S., & Urassa, M.
+(2006). Barriers to Accessing Antiretroviral Therapy in Kisesa, Tanzania: A Qualitative
+Study of Early Rural Referrals to the National Program. AIDS Patient Care and STDs,
+20(9).
+Mugavero, M., Ostermann, J., Whetten, K., Leserman, J., Swartz, M., Stangl, D., & Thielman, N.
+(2006). Barriers to Antiretroviral Adherence: The Importance of Depression, Abuse, and
+Other Traumatic Events. AIDS Patient Care and STDs, 20( 6).
+Mugusi, S. S., M. Bakari1, B. H., Aris, E., Swai, H., Mhalu, F., Biberfeld, G., . . . Sandstrom, E.
+(2009). Enhancing Adherence to Antiretroviral Therapy at the HIV Clinic in Resource
+Constrained Countries; The Tanzanian Experience. Tropical Medicine and International
+Health, 14(10) 1226–1232.
+
+Murphy, D. A., Roberts, J. K., Martin, D. J., Marelich, W., & Hoffman, D. (2000). Barriers to
+Antiretroviral Adherence among HIV-Infected Adults. AIDS Patient Care and STDs,
+14(1).
+Murray, L. K., McCurleya, K. S., Theaa, E., M., D., Scotta, N., Mwiyab, M., . . . Boltonc, P.
+(2009). Barriers to Acceptance and Adherence of Antiretroviral Therapy in Urban Zambian
+Women: A Qualitative Study. AIDS Care, 21(1): 78.
+Nacheba, J. B., Knowlton, R. A., Deluca, A., Scheman, H., Watkinson, L., Efron, A., . . . Maartens,
+G. (2006). Treatment Supporter to Improve Adherence to Antiretroviral Therapy in South
+African Adults. Journal of Acquired Immune Decificiency Syndrom, 43:127-133.
+Nama, S. L., Fielding, K., Avalos, A., Dickinson, D., Gaolathe, T. P., & Geissler, W. (2008). The
+Relationship of Acceptance or Denial of HIV-status to Antiretroviral Adherence among
+Adult HIV Patients in Urban Botswana. Social Science & Medicine, (67)301–310.
+National AIDS Control Programme. (2011). HIV Sentinel Survey. Ghana: Ministry of Health.
+National HIV/AIDS, R. C. (2013). Utilising Strategic Information for Effective National HIV and
+AIDS Response. Ghana: Ghana AIDS Commission.
+National HIV/AIDS/STI Control Programme, & Ministry of Health/Ghana Health Service. (2008).
+Guidelines for Antiretroviral Therapy in Ghana. Ghana: Ministry of Health.
+National HIV/AIDS/STI Control Programme, Ministry of Heath, & Ghana Health Service. (2010).
+Guidelines for Antiretroviral Therapy in Ghana. Ghana: Ministry of Health.
+Ngarina, M., Popenoe, R., Kilewo, C., Biberfeld, G., & Ekstrom, A. M. (2013). Reasons for Poor
+Adherence to Antiretroviral Therapy Postnatally in HIV-1 Infected Women Treated for
+Their Own Health: Experiences From the Mitra Plus Study in Tanzania . BMC Public
+Health, 13:450.
+Obririkorang, C., Selleh, P., Abledu, K., & Fofie, O. (2013). Predictors of Adherence to
+Antiretroviral among HIV/AIDS Patients in the Upper West Region of Ghana. ISRN AIDS.
+Ogbochi, M., Modeste, N. N., Lee, D. W., Gleason, P. C., & Matnard-Tucker, G. (2014).
+Determinants of ART Adherence among Women in Southern Malawi; Health Worker
+Perspective. AIDS Research and Treatment, 2014 edition.
+Ohene, S., & Forson, E. (2009). Care of Patient on Antiretroviral Therapy in Kumasi Metropolis.
+Ghana Medical Journal.
+Olowookere, S. A., Fatiregun, A. A., Akinyemi, J. O., Bamgboye, A. E., & Osagbemi, G. K.
+(2008). Prevalence and Determinants of Non- Adherence to Highly Active Antiretrovira l
+Therapy among People Living with HIV/AIDS in Ibadan, Nigeria. J Infect Developing
+Countries, 2(5):369-372.
+
+Ostermann J., W. K. (2014). Treatment Retention and Care Transition During and after the Scaleup of HIV Care and Treatment in North Tanzania. AIDS Care.
+Padarath, A., Searle, C., & Esu-Williams, E. (2006). Understanding Barriers to Community
+Participation in HIV and AIDS Services . The Population Council Inc.
+Pallant, J. (2005). A Step by Step Guide to Data Analysis Using SPSS for Windows (Version 12).
+SPSS Survival Manual .
+Patel, A., Hirschhorn, L., Fullem, A., Ojikutu, B., & Oser, R. (2010). Adult Aherence to Treatment
+and Retention in Care. Arlington, USA: UNAIDS for AIDSTAR-ONE.
+Paterson D.L., S. S. (2000). Adherence to Protease Inhibitor Therapy and Outcomes in Patients
+with HIV Infection. Annals of Internal Medicine.
+Paterson, D., Swindellls, S., & Mohr, J. (1999). How much Adherence is Enough? A Prospective
+Study of Adherence to Protease Inhibitor Therapy Uaing MEMSCaps.
+Peltzer, K., Preez, N. F.-d., Ramlagan, S., & Jane, A. (2010). Antiretroviral Treatment Adherence
+Among HIV Pateints in Kwazulu, South Africa. BMC Public Health, 10:11.
+Posse, M., & Baltussen, R. (2009). Barriers to Access to Antiretroviral Treatment in Mozambique,
+as Percieved by Patient and Health Workers in Urban and Rural Settings. AIDS Patient
+Care.
+Posse, M., Meheus, F., Asten, H. V., Andre, V., & Baultussen, R. (2008). Barriers to Access to
+Antiretroviral Treatment in Developing Countries. Tropical Medicine and International
+Health Journal, 13(7) 904-913.
+Pratt, R., Robinson, N., Loveday, H., Pellowe, C., Franks, P., Hankins, M., & Lovedays, C. (2001).
+Adherence to Antiretroviral Therapy: Appropriate Use of Self-Reporting in Clinica l
+Practice. HIV Clinical Trails, 2(2), 146/159.
+Redding, C. A., Rossi, J. S., & Rossi, S. R. (2000). Health Behavior Models. The International
+Electronic Journal of Health Education,;, 3:180-193.
+Reif, S., Golin, C. E., & Smith, S. R. (2005). Barriers to Accessing HIV/AIDS Care in North
+Carolina: Rural and Urban Differences. AIDS Care, 17(5): 558/565.
+Remien, R., Hirky, A., Johnson, M., Weinhardt, L., & Whittier, D. (2006). Adherence to
+Medication Treatment: A Qualitative Study of Facilitators and Barriers among Sample of
+HIV Men and Women in Four US cities. AIDS Behavior, 1:61-72.
+Rintamaki, L. S., Davis, T. C., Skripkauskas, S., Bennette, C. L., & Wolf, M. S. (2006). Social
+Stigma Concerns and HIV Medication Adherence. AIDS Patient Care and STDs, 20 (5).
+Robberts, K. J. (2000). Barriers to and Facilitators of HIV-Positive Patients’ Adherence to
+Antiretroviral Treatment Regimens. AIDS Patient Care and STDs, 14 (3).
+
+Roberts, K. J., & Mann, T. (2000). Barriers to Antiretroviral Medication Adherence in HIVInfected Women. AIDS Care: Psychological and Sociomedical Aspects of AIDS/HIV ,
+12:(4) 377-386,.
+Ross, A. J., Aung, M., Campbell, L., & Ogunbanjo, G. A. (2011). Factors that Positively Influe nce
+Adherence to Antiretroviral Therapy by HIV and/or AIDS Patients and their Caregivers .
+AOSIS Open Journal, 1-5.
+Rueda, S., Park-Wyllie, L., A, B., Tynan, A., Antoniou, T., Rourke, S., & Glazier, R. (2009).
+Patient Support and Education for Promoting Adherence to Highly Active Antiretroviral
+Therapy for HIV/AIDS (Review). JohnWiley & Sons, (The Cochrane Collaboration).
+Servellen, G. V., Nyamathi, A., Carpio, F., Pearce, D., Garcia-Teague, L., Herrera, G., &
+Lombardi, E. (2005). Effects of a Treatment Adherence Enhancement Program on Health
+Literacy, Patient–Provider Relationships, and Adherence to HAART among Low-Income
+HIV-Positive Spanish-Speaking Latinos. AIDS Patient Care and STDs.
+Silva, M. C., Ximenes, R. A., Filhol, D. B., Arraes, L. W., Mendes, M., Melo, A. C., & Fernandis,
+P. R. ( 2009). Risk-Factors For Non-Adherence To Antiretroviral Therapy . Rev. Inst. Med.
+trop. S. Paulo, 51(3):135-139.
+Simoni J.M., K. A. (2006). Self Report Measures of Antiretroviral Therapy Adherence: A Review
+of Recommendations for HIV Research and Clinical Management . AIDS Behaviour,
+10(3):227- 45.
+Simoni, J. M., Frick, P. A., Pantalone, D. W., & Turner, B. J. (2003). Antiretroviral Adherence
+Interventions: A Review of Current Literature and Ongoing Studies. Antiretroviral
+Adherence Interventions International AIDS Society–USA Topics in HIV Medicine, 11(6).
+Spire, B., Durana, S., Souvillea, M., Leportb, C., Fran-coisRaffi, C., & Moattia, J.-P. (2002).
+Adherence to Highly Active Antiretroviral Therapies (HAART) in HIV-Infected Patients:
+From a Predictive to a Dynamic Approach. Social Science & Medicine, 54, 1481–1496.
+Steel, G., Nwokike, J., & Joshi, M. P. (2007). Development of a Multi-Method Tool to Measure
+ART Adherence in Resource-Constrained Settings:The South Africa Experience. Rational
+Pharmaceutical Management Plus Program Center for Pharmaceutical Management
+Management Sciences for Health.
+Taylor-Smith, K., Tweya, H., Harries, A., Schoutene, E., & Jahn, A. (2010). Gender Differe nces
+in Retention and Survival on Antiretroviral Therapy of HIV-1 Infected Adults in Malawi.
+Malawi Medical Journal, 22(2) 49-56.
+Trzynka, S., & Erlen, J. (2004). HIV Disease Susceptibility in Women and Barriers to Adherence.
+Medsurg Nursing, 97-104.
+Tufano, C. S., Amara, R. A., Cardoso, L. R., & Malbergier, A. (2014). The Influence of Depressive
+Symptoms and Substance Use on Adherence to Antiretroviral Therapy. A cross-sectional
+Prevalence Study. Sao Paulo Medical Journal.
+
+Turner, B. J. (2002). Adherence to Antiretroviral Therapy by Human Immunodeficiency Virus–
+Infected Patients. The Journal of Infectious Diseases, 185, S143–51.
+UNAIDS. (2010). Global Report on AIDS Epidemic. Joint United Nations Programme on
+HIV/AIDS.
+UNAIDS. (2012). Report on the Global AIDS Epidemic . UNAIDS.
+UNAIDS. (2012). World AIDS Day Report Result . UNAIDS.
+UNAIDS. (2013). Access to Antiretroviral Therapy in Africa, Report on Global AIDS Epidemic.
+Geneva: UNAIDS.
+UNAIDS, & WHO. (2003). A History of the HIV/AIDS Epidemic with Emhasis on Africa. Geneva:
+WHO.
+UNAIDS, & WHO. (2007). Prevalence of HIV and AIDS Epidemic Update. Geneva: WHO.
+Walker, L., Reid, G., & Cornell, M. (2004). Waiting to Happen. Cape Town: Double Storey Books.
+Wanyama, J., Castenuvo, B., Wandera, B., Mwebaze, P., Kambugu, A., & Bangberg, D. (2007).
+Belief in Devine Healing Can Be A Barrier to Antiretroviral Adherence in Uganda. AIDS,
+11:21(11):1486-7.
+Wasti, S. P., Teijlingen, E. v., Simkhada, P., Randall, J., Baxter, S., & Kirkpatrick, P. (2012).
+Factors Influencing Adherence to Antiretroviral Treatment in Asian Developing Countries:
+A Systematic Review. Tropical Medicine and International Health, 17(1) 71–81.
+Watt, M. H., Maman, S., Jo, A., Eugenia, Setel, P. W., E., G. C., & Mark, J. (2009). " It's all the
+Time in My Mind: Facilitators of Adherence to ANtiretroviral Therapy in a Tanzania
+Setting. Social Science Medicine, 1793-1800.
+Weiser, S., Wolfe, W., Bangsberg, D., Thior, I., Gilbert, P., Makhema, J., . . . Marlink, R. (2003).
+Barriers to Antiretroviral Adherence for Patients Living with HIV Infection and AIDS in
+Botswana. J Acquir Immune Defic Syndr., 1;34(3):281-8.
+WHO/UNICEF, & UNAIDS. (2013). The Global Update on HIV Treatment; Results, Impacts and
+Opportunities. Geneva: WHO.
+Wood, E., Kerra, T., Tyndalla, M. W., & Montaner, J. S. (2008). A Review of Barriers and
+Facilitators of HIV Treatment Among Injection Drug Users. AIDS Care, 22:1247–1256.
+World Health Organisation. (2003). Adherence to Long - Term Therapies Evidence for Action.
+Geneva: WHO.
+World Health Organisation. (2013). Consolidated Guidelines on Antiretroviral Drugs for Treating
+and Preventing HIV Infections Recommendation for a Public Health Approach. Geneva:
+WHO.
+
+World Health Organisation. (2013). Global Update on HIV/AIDS Treatments 2013: Results,
+Impact and Opportunies. Geneva: WHO in partnership with UNICEF and UNAIDS.
+World Health Organization. (2003). Adherence to Long-term Therapies: Evidence for Action.
+Geneva: WHO.
+
+

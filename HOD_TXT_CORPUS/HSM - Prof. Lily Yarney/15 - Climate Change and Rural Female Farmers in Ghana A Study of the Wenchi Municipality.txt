@@ -1,0 +1,569 @@
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Climate Change and Rural Female Farmers in Ghana: A Study of the Wenchi Municipality
+Lily Yarney1, Emmanuel. K. Sakyi1, Jonathan C. Mba2 and Peter K. Achamwie3
+1.
+2.
+3.
+
+Department of Public Administration and health Services Management
+University of Ghana Business School; email: lyarney@ug.edu.gh
+Association of African Universities; email: jcmba@aau.org
+Ghana Education Service, Wenchi; email: achamwiepeter@gmail.com
+
+Abstract: Climate change poses a major threat to development in most low and middle-income countries,
+especially the sub – Saharan Africa. Wurompo is a small farming community in the Wenchi Municipality of the
+Brong-Ahafo region of Ghana that depends on rain-fed agriculture activities for livelihood. In recent years,
+droughts, unpredictable rainfall pattern and crop failure have become common in the area. The study assessed
+knowledge and awareness, effects of climate change on female farmers, and their adaptation strategies. A case
+study in design, qualitative methods were used to collect data from 50 purposefully selected participants. Data
+were analyzed using themes and sub-themes generated from the research questions. Findings showed lack of
+adequate information and knowledge on climate change and its effects. Climate change has impacted negatively
+on these farmers stemming from decline in crop production and unavailability of adequate water supply in due
+season. Challenges to climate change adaptation are poverty, poor basic infrastructure, and modern farming
+practices. Farmers must be educated on climate change and its effects, with training on the necessary adaptation
+strategies to build their resilience. Policies that target rural farmers to adapt to climate change, and device
+modern agricultural techniques and practices are also necessary.
+Keywords: Climate-change, farmers, female, Ghana, rural
+
+Introduction
+Climate change is defined by the Intergovernmental Panel on Climate Change (IPCC) as a statistically
+significant variation in either the mean state of the climate or in its variability or both, persisting for an extended
+period (typically decades or longer). Thus, climate change is explained as a long-term shift in the climatic patterns
+of a specific place or region measured by changes in the behavior of climatic elements such as temperature, wind
+patterns and precipitations resulting in changes in ecosystems and socio-economic activities [1]. Such changes
+according to them, bring about uncertainties in agricultural activities.
+Though the fact is established that climate change is one of the of the main environmental problems of the
+21st century, most climate change stakeholders are still concerned about the political contestations, complexities
+and misgivings surrounding climate change [2,3,4]. Despite the lack of consensus among climate change
+stakeholders, authorities in the field have made it clear that intensity and frequency of extreme climate variabilities
+resulting in floods, cyclone, droughts, and the like are destined to rise with small mean increases in temperature
+[5,6]. The IPCC predicted the effects of these changes on humanity to be enormous and unavoidable [7, 8]. Also,
+Current Global Circulations Models (CGM) inability to forecast empirically, the specific levels of shifts in the
+planetary system, makes climate change and its impacts on humanity more worrying. Necessary and urgent steps
+are therefore needed to restrict these impacts for the attainment of balanced and sustained development to include
+poverty reduction [7].
+Research has revealed that many vulnerable groups are battling with the impacts of climate change, and a
+lot more are yet to witness more threatening occurrences in the ensuing years [7, 9]. The IPCC sums up the
+problem in its 2014 report for policy makers as “Climate change will amplify existing risks and create new risks
+for natural and human systems. Risks are unevenly distributed and are generally greater for disadvantaged people
+and communities in countries at all levels of development” (page 1). Climate variability policy research therefore
+expect that with the limited adaptive capacity, low and middle-income countries especially, Sub-Saharan Africa
+© 2021 by the author(s). Distributed under a Creative Commons CC BY license.
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+would be unduly affected [7] Researchers argue that Sub-Saharan Africa’s high susceptibility to the impacts of
+climate change is based on several determinants – biophysical, socio-economic, and political [7,10]. They
+additionally predict beyond variabilities in temperature and precipitation, the experience of intense events like
+floods, droughts and storms in Sub-Saharan Africa with their attendant problems on all facets of life [11, 12].
+Areas south of the Sahara are likely to emerge as the most vulnerable to climate change with likely
+agricultural losses ranging from 2% to 7% [7]. Also, crop yield in Africa would fall by 10% to 29% by 2050 or
+even up to 50% as a result of climate variabilities [13]. These have serious implications for Sub-Saharan Africa
+considering the World Bank’s projections that demand for food in this same region will double by 2030.
+The agricultural sector is the backbone of the economies of most low and middle-income countries
+engaging about 60% of the work force and contributing close to 30% of gross domestic product (GDP) on the
+average in sub-Saharan Africa [14]. Smallholder farmers form the majority in the agricultural sector and are
+therefore the backbone of agricultural production in Africa [15]. These smallholder farmers have in their access
+for agricultural production, a mean of two or less hectors of land and number about 36 million across the continent
+[16, 17]. Due to their dominance in the sector, they make a huge and important contribution to the domestic
+production of food and produce crops for export that earn foreign exchange for these economies. With reliable
+and consistent climatic conditions, the contributions of smallholder farmers could lead to economic stability of
+agriculture-dependent countries in Africa.
+Ghana, like all other countries in Sub-Saharan Africa, is equally vulnerable to the impacts of Climate
+Change [7]. Climate change in Ghana is evidenced by extreme weather events and high unpredictability in
+weather patterns, and thus, impacting on people’s source of livelihoods. In the last 45 years, recorded temperatures
+in the country rose about 1ºC while rainfall and runoff decreased by approximately 20 and 30 percent, respectively
+(Ghana Meteorological Agency). Agriculture grants the largest share of Ghana’s Gross Domestic Product (GDP),
+ranging between 35.8% and 37%. It generates about 30-40% of the country’s foreign exchange earnings and
+employs about 55% of the work force. It is predominantly practiced on smallholder, family operated farms using
+rudimentary technology. Hence, the effect of climate variabilities on this sector and individuals involved cannot
+be overemphasized. The distribution of rainfall is the single most important factor affecting agriculture in the
+country.
+As a country that depends mainly on rain-fed agriculture, Ghana is extremely vulnerable to climate
+variability and change. Evidence abounds in climate change literature that farmers are aware that the climate has
+changed and that this change has negatively affected their output [18]. The unfortunate aspect of the climate
+change dilemma in Ghana is that most of the farmers do not understand or appreciate their contributions to climate
+change devastations. This is more so among rural farmers, especially females, who still engage in traditional
+forms of slash and burn systems of farming [19]. It is well acknowledged that rural women in particular play a
+key role in environmental and natural resource management and therefore not out of place to focus on in a study
+related to climate change.
+There is, therefore, a clear need to investigate and learn from local climate change understandings of rural
+female farmers, to fill knowledge gaps, and to improve information exchange to facilitate decision-making and
+successful climate change adaptation strategies. It is, therefore, important to find out how farmers, who are major
+environmental stakeholders, perceive the issue of climate change, the type of changes they have observed in the
+past and how they have coped with the changes. This study was therefore conducted to unravel the level of climate
+change awareness, effects of climate change, and adaptation strategies among rural female farmers in Wurompo,
+a farming community in the Wenchi District of the Brong-Ahafo Region of Ghana.
+
+Materials and Methods
+Study Design, Area and Participants
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+A case study design was employed to study the effects of climate change on rural female farmers, assess
+their knowledge and awareness about climate change, as well as the adaptation strategies used by these women
+to cope with the effects of climate change on their livelihood. The case study design was used because it offers a
+holistic form of inquiry [20]. The case study design granted the opportunity for an in-depth assessment and
+analysis of each of the objectives for the study with a view not to generalize the findings of the study, but to unveil
+what specifically pertains to women farmers at Wurompo in the Brong-Ahafo Region of Ghana, regarding their
+experiences with climate change variabilities over the years.
+Study Context
+The study was conducted at Wurompo, a small community that is located few kilometres from the Wenchi
+Municipality in the Western part of the Brong-Ahafo Region of Ghana. Wurompo is situated at the north-eastern
+part of Sunyani Municipality. The area is covered by moist-deciduous forest and the Guinea Savana Woodland
+vegetation zone [21]. The rainfall pattern is seasonal, which is a limiting factor in agriculture and plant growth.
+The average annual rainfall is about 1140 -1270 mm with an average temperature of 30.9 degrees Celsius and a
+minimum of 21.2 degrees Celsius. The temperature of Wurompo community is generally high, averaging about
+24.5 degrees Celsius, with the month of February being the hottest month, [21]. Wurompo is predominantly a
+farming community, and the main crops cultivated by the people are maize, yam, cassava, cowpea, with very few
+of them cultivating sorghum. The farmers intercrop maize, cassava, and yam, and few people in the valleys
+cultivate pepper, garden eggs and other vegetables. The distribution of rainfall is the single most important factor
+affecting agriculture in this and other parts of Ghana.
+Figure 1. Map showing the study location
+
+Study Population, Sampling and Sample size
+Women in the Wurompo community formed the target population for the study because they are
+predominantly farmers and rural dwellers who have little or no formal education and are therefore relatively
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+disadvantaged in terms of economic power. Thus, the negative effects of climate change may impact on them
+greatly. Purposive sampling technique was used to select women who were farmers in wurompo and have lived
+and farmed in the community for not less than five years and were willing to participate in the study. These
+women were in the position to narrate their experiences with climate variabilities and their coping strategies over
+the years. A total of 46 such women were recruited for the study. Twelve (12) of the women who had lived in the
+community and practiced smallholder farming activities for over 15 years were engaged in in-depth interviews
+whilst the remaining 34 eligible women were put in groups of 11 or 12 for focus group discussion (FGD). The
+participants were identified with assistance from the community leaders. Four (4) officials from the Ministry of
+Food and Agriculture and Ghana Meteorological Agency in the Wenchi Municipality were also selected
+purposively for additional information on the subject matter . A total of 50 participants took part in the study.
+Data Collection Methods and Instruments
+In-depth interview sessions were organized with 15 women who have experience with smallholder
+farming activities in the study community for over fifteen years to find out their knowledge on climate change,
+its effects on their farming activities and their livelihood, and how they have adapted to climate variabilities over
+the years. These interviews were organized individually at their convenience in the community. Additionally, the
+remaining 35 participants were put in 3 groups for focus group discussion. The FDGs were organized in the
+community to solicit spontaneous responses on the nature of climate variability occurrences in the area,
+knowledge, and awareness on climate change issues, how climate change has affected their normal farming
+practices and their livelihoods, and how they have coped with these changes. Key informants’ interviews were
+also conducted with 4 officials from the Ministry of Agriculture and Ghana Meteorological Agency for their
+views on climate change impacts and adaptation in the area.
+The data collection instruments consisted of in-depth interview guide, key-informants interview guide and
+FDG guide. These were developed by the first three authors with the research questions as guide. Data collection
+was led by the last author who hails from the study region and was assisted by two qualitative research experts
+with the requisite qualification and experience in qualitative data collection and management. All the data
+collectors are Master of Philosophy holders with Social Science background and are very proficient in the local
+Bono and Akan dialects which are the main languages in the study region.
+Data Management and Analysis
+All interviews and FDG discussions were recorded electronically, and manual field notes were also taken.
+The two qualitative research experts independently translated and transcribed verbatim all the recorded interviews
+and discussions verbatim into English in a word processing application and added on the manual notes taken
+during data collection. They then came together to review the transcripts and the original recordings and built
+consensus where there were disagreements. The transcripts and notes were stored as files that were coded
+manually for textual analysis guided by the principles of grounded theory [22]. During the coding, blocks of text
+were placed into nodes using themes and sub-themes. Information from the themes were compared for similar
+and opposing views across the transcripts on knowledge and awareness on climate change and its effects on rural
+women. Quotes were then selected (verbatim and enhanced slightly to improve readability) to exemplify the
+themes.
+Ethical Consideration
+Before the start of the study, ethical approval was obtained from the Ethics Committee of Humanities,
+University of Ghana with the study protocol. All participants were provided with written informed accent before
+they agreed to participate in the study. Following information and explanation on the rationale, purpose,
+procedures, confidentiality, participation and rights, risks, and benefits, voluntary, and right to withdrawal at any
+point without prejudice to participants, participants were given the opportunity choose between signing or thumbprinting the written consent form before their involvement in the study. Permission was also sought from
+participants to take photos and to publish the findings of the study with anonymous quotes and masked faces to
+make them unidentifiable. This was done by asking participants to also sign or thumbprint another portion on the
+written informed consent form.
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Results
+The findings of the study were presented under the broad themes of demographic characteristics of
+participants, knowledge and awareness on climate change, effects of climate change, and adaptation strategies.
+Demographic characteristics of participants
+The majority (69.5%) of the female farmers involved in the study were between the ages of 31 and 50
+years, 13% were between 21 and 30 years, 8.7% were 51 to 60 years, and the remaining 8.7% were 61 years or
+more. About 54% of participants had primary or secondary education, and 46% had no formal education. Whilst
+about 35% were single (widowed or divorced), the remaining 65% were married. The majority of participants
+were traditional/non-religious, 39% were Christians and 4% were Muslim. About 46% of the women had 5 to 20
+years-experience with farming, 50% had farmed for 21 to 40 years, and only 2 (3.3%) had over 41 yearsexperience with farming (Table 1).
+The 4 officials from the Ministry of Food and Agriculture and the Ghana Meteorological Agency involved
+in the study were all males. Their ages ranged from 36 years to 54 years, three of them were married, they all had
+tertiary education, and they had all worked in the Wenchi Municipality for more than 2 years.
+Table 1. Socio-Demographic Characteristics of Female-Farmer Participants
+ATTRIBUTE
+Age (Years)
+21 – 30
+31 – 40
+41 – 50
+51 – 60
+61+
+Educational Level
+No Formal Education
+Primary
+Secondary
+Tertiary
+Marital Status
+Never Married Before
+Married
+Divorced
+Widowed
+Religious Affiliation
+Christian
+Muslim
+Traditional/Non-Religious
+Years of Farming
+5 – 10
+11 – 20
+21 – 30
+31 – 40
+41+
+
+FREQUENCY
+
+PERCENTAGE
+6.0
+14.0
+18.0.
+4.0
+4.0
+
+13.0
+30.4
+39.1
+8.7
+8.7
+
+21.0
+16.0
+9.0
+0.0
+
+45.7
+34.8
+19.5
+0.0
+
+0.0
+30.0
+5.0
+11.0
+
+0.0
+65.2
+10.9
+23.9
+
+18.0
+2.0
+26.0
+
+39.1
+4.3
+56.5
+
+10.0
+11.0
+17.0
+6.0
+2.0
+
+21.7
+23.9
+37.0
+13.0
+3.3
+
+n = 46
+
+Knowledge and awareness on climate change
+All the female-farmer respondents were aware of changes in climatic conditions of the area. This was
+mainly based on their observations in changes in temperature and rainfall patterns over the years. Knowledge on
+climate change and its impact was, however, poor. Participants demonstrated scanty knowledge on climate change
+based on their experiences with the phenomenon and linked it with rising temperature and unpredictable rainfall
+patterns.
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Regarding sources of information on climate change, the majority indicated no information from external
+sources. Only a few had shallow information from few school children with limited information from local FM
+stations. Thus:
+“The seasons nowadays, keep on changing, it used to rain in due season, but now, it even rains in the dry season.
+Temperatures also continue to be higher than we used to experience. These tell me that something is really
+happening with the weather and climate around us.” (Participant, in-depth interview)
+“The climate is changed in this area because there are increases in temperature over long periods of time than
+usual, and now we cannot differentiate between rainy and dry seasons properly, it rains anyhow during the year
+unexpectedly.” (Participant, FGD1)
+“I do not have any idea about weather changes, except that I have observed some changes. Normally, l grow my
+crops in the third month of the year, but it is not so now, the rainfall pattern has changed, and unstable now. Last
+two years, the rains started in the fourth month, but it was a different show all together last year. It started in the
+second month and stopped at the end of the third month and never came back until the sixth month when all our
+crops were destroyed.” (Participant, FGD1)
+“………It’s my grandson who told me that he’s learned from school that the climate around us keeps changing
+and we’ll be experiencing worse conditions with regard to temperature increases with less rainfall. As to why
+these changes, he was unable tell.” (Participant, in-depth interview)
+The reasons given for the observed changes in climatic conditions ranged from ‘not knowing exactly’, to
+superstition.
+“……this is a difficult question, hmm, l’m not God so l cannot explain the reasons why rains are not falling as
+they should, and temperatures are high. However, I think that our sins are so much that God cannot bear it any
+longer and has decided to punish us with heat and scanty rainfall.” (Participant, in-depth interview)
+“l am of the view that God sometimes ceases rain from falling on our crops simply because of our evil deeds. The
+other day l heard that a man killed his wife in the bush, and another killed a young girl for money, why won’t
+God be annoyed when all these evil things are going on? I am saying this because, sometimes, it stops raining
+right after we have sown our crops.” (Participant, FDG2)
+Participants of FGD3 attributed low crop production mostly to poor soil fertility and the fact that they do
+not own land in the community. Most of the female farmers were of the view that landowners normally rent poor
+infertile land to them, which cannot support proper agricultural activities.
+“Because we are strangers here, landowners give us portions of land that are not good. These cannot support
+proper agricultural activities, so we continue to remain poor because of constant low crop yield.” (Participant,
+FDG3)
+“I know the rains are not falling, but the problem is, we do not have good farmlands, that is the more reason why
+we are not getting enough food. Though l agree that sometimes the earth gets very hot, however, if we own good
+and enough farmlands, we will be able to produce more food.” (Participant, FGD3)
+Effects of Climate Change on Female Farmers
+The unpredictable rainfall pattern, coupled with high temperatures, according to study participants, have
+had some effects on their lives to include poor yield, droughts, soil erosion on farmlands, wilting of crops, low
+and poor water resources, and failure to plant/cultivate in due season (see Figures 2, 3 and 4)
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Figure 2. Women and children fetching water from the stream and dried-up borehole.
+
+Source: Fieldwork
+
+These have consequently impacted on their economic lives and their very existence as humans, and is
+witnessed as: increased poverty levels, threatened food security, increased workload of female farmers such as
+walking long distances in search for water, poor school performance among their daughters, migration of the
+men/husbands to cities in search for greener pastures, leading to increased burden of care of children on the
+women alone.
+Figure 3. Destroyed pepper farm due to erosion.
+
+Source: Fieldwork
+
+The female farmers noted that the unstable nature of rainfall sometimes led some people not to plant crops
+at all in some seasons.
+………Last year, for instance, most of us waited for the rains in vain, so we could not plant anything for the manor
+season farming. (Participant, FDG2)
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Figure 4. Poor crop yield due to low rainfall.
+
+Source: Fieldwork
+
+Adaptation Strategies of Female Farmers
+Participants established that they were engaging in various activities to offset some of the effects of climate
+change on their lives. These include:
+Planting of drought resistant and early maturing crops: A significant number of participants, especially the
+elderly, mostly plant drought resistant and early maturing crops like cassava, sorghum, cowpea, groundnut, beans,
+among others. The Dagaabas group mostly cultivate sorghum and groundnuts.
+Multi-cropping/mixed farming and inter-cropping:
+“I grow maize and cassava on one farm, l own cowpea farm, which is ready for harvesting, and l just finished
+harvesting my sorghum. The reason behind this is if some crops fail others will not. Cowpea is a good crop for
+some of us to plant because it matures very fast, so when it rains late, l don’t cultivate any crop again apart from
+the cowpea and groundnuts” (Participant, FGD2)
+Unsustainable adaptation strategies
+Participants also declared that they engage in other social intervention activities such as:
+Working on people’s farms in exchange for food or money: which is popularly known among study participants
+as ‘by day.’
+“……at times I have to go and assist my friend on her farm for some small amount of money or food so I can
+cater to some extent for my family.” (Participant, in-depth interview)
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Figure 5. Female farmers harvesting drought-resistant and early maturing crop.
+
+Source: Fieldwork
+Migrating to other places in search of job:
+Participants however, declared that though these serve to relieve them of poverty to some extent, they are
+not sustainable.
+Other maladaptation activities
+Interviews with Municipal officials revealed that farmers in the area are engaged in cutting down trees
+and selling of firewood, applying inorganic fertilizers to increase soil nutrient which in turn influence climate
+change. They also practise slash and burn method of farming with negative influence on the environment and
+consequential effects on the climate, as well as farming in valleys and along nearby riverbanks resulting in dry
+up and pollution of rivers.
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+Figure 6. Tree marked to be destroyed by DDT or brine and women carrying firewood to sell at dawn.
+
+Source: Fieldwork
+
+Figure 7. Slash and burn farming and polluted river due to nearby farming activity.
+
+Source: Fieldwork
+
+Discussion
+The reality of climate change cannot be overemphasized, and in Ghana, the increasing variability of
+rainfall patterns increases the risk associated with farming as prediction becomes almost impossible. Current
+projections on climate indicate that rising temperatures and frequent droughts will increase the incidence of bush
+fires and environmental degradation [7]. Farmers in the northern part of Ghana complain of reduction in farm
+output arising from the uncertainty of rainfall patterns, increased erosion resulting from heavy downpour, which
+consequently destroys soil fertility [23]. Small-holder farmers are most vulnerable to climate change, since their
+margin of security is narrower. Their reliance on rain makes them more dependent on the very climate that has
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+shifted and continues to shift. With less access to education and limited infrastructure and communication as the
+study has revealed, there are limited ways for farmers to understand the nature of the changes.
+Some empirical evidence exists in Africa to suggest that some awareness and knowledge on climate
+change issues are present, however, these are shallow with sources of information mainly through radio and
+television in areas where these gadgets are found and can be afforded and just as found in the present study,
+experiences with differences in rainfall patterns and rising temperatures over the years. Awareness and
+perceptions of a problem such as climate change shapes action or inaction on the problem [24]. Consequently,
+understanding the perception of climate change by stakeholders, such as farmers, is important as perception can
+shape the preparedness of these actors to adapt and change their practices [25].
+While climate change affects everyone in society, the undeniable fact is, it does not affect everyone equally.
+The poorest in the world, especially the developing world and particularly Africa experience it more. Women and
+children in Africa constitute an estimated huge number of the world’s poor. Most women in Africa, and for that matter,
+Ghana, are always at the forefront of coping with the adverse effects of climate change because of their low economic
+status and the social role they play in society. In low and middle-income countries, women and girls are mostly
+responsible for providing basic needs such as water, fuel, and food, and in most communities in Ghana, caring for the
+sick is seen as their responsibility. When the resources that these women rely on for living become scarce, as in the
+case of rural farmers in the study due to effect of climate change, it increases their workload [26] as they are forced to
+struggle through alternative ventures to cope with their situation. Some of these adaptation strategies as revealed by
+the study are precipitating factors to climate change which eventually destroy their environment [18]. Thus, effective
+adaptation will require the involvement of multiple stakeholders, including policymakers, extension agents, nongovernmental organizations, researchers, communities, and farmers.
+Study participants complained that the advent of climate change is affecting almost every part of their life.
+For instance, climate change brings about dry climate, low and erratic rainfall, and pro-longed droughts which
+finally affect their crops production and water resources. This also trickles down to affect their income levels,
+threaten their food security among other challenges. Again, the impact also increases the workload on the poor
+farmers and their female children. For instance, the women must walk extra miles to access water and firewood.
+This tends to affect girls’ performance in school because they spend most of their time searching for water and
+other domestic products to the detriment of their education. The female farmers indicated that even though, they
+are already struggling with life, the advent of climate variabilities in the area is worsening their plight.
+Thus, until mechanisms are carefully and systematically put in place to ensure resilience in development
+and reduce vulnerability, climate variability will pose serious challenges to national development. Because
+agricultural production remains the main source of income for most rural communities, adaptation of the
+agricultural sector to the adverse effects of climate change will be imperative to protect the livelihoods of the poor
+and to ensure food security. Adaptation can greatly reduce vulnerability to climate change by making possible
+consequences of climate change, people's perceptions of those consequences, and available adaptation options
+bare.
+Conclusion
+Climate change has enormous devastating impacts on rural women farmers in Ghana. The main challenges
+affecting these farmers’ ability to cope with the current climatic problems are lack of knowledge and information
+about weather changes, illiteracy, and inability of some women to access and own farmlands leading to abject
+poverty, with its attendant economic, social, psychological, and emotional problems. Over the years, farmers and
+other natural resource dependent communities in the country have found varied ways of coping with these
+changes, based on traditional knowledge and practices. However, a better understanding of how farmers perceive
+climate change, ongoing adaptation measures, and the factors influencing the decision to adapt farming practices
+is needed to craft policies and programs aimed at promoting successful adaptation of the agricultural sector. In
+making informed decisions about climate change, is of the view that timely and useful information is necessary
+[27]
+Rural female farmers must therefore be consistently educated on climate change and its effects, with
+training on the necessary sustainable adaptation strategies to build their resilience. Policies that target rural female
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+farmers to appropriately adapt to climate change and device modern agricultural techniques and practices that
+boost food production among vulnerable farmers and minimize maladaptation strategies, are also necessary.
+Author Contributions
+Conceptualization, L.Y; Methodology: L.Y, J.C.M, Software: P.K.A; Validation: E.K.S, P.K.A; Formal Analysis:
+L.Y, J.C.M; Investigation: P.K.A; Data Curation: P.K.A. Writing – original draft preparation: L.Y; Writing –
+review and editing: L.Y, E.K.S., J.C.M; Supervision: L.Y., E.K.S.
+Funding: This research received no external funding.
+Data Availability Statement: Data will be available upon request.
+Acknowledgement: Special thanks go to Mr. Victor Dagblo in charge of crop and livestock at the ministry of
+food and agriculture, Wenchi municipal, for the leadership role he played in the identification of participants for
+the research.
+Conflict of Interest: The authors declare no conflict of interest.
+
+References
+1. Urama, K.C.; Ozor, N. Impact of Climate Change on Water Resources in Africa: the Role of Adaptation.
+African Technology Policy Studies, 2010,1-29
+2. Aylett A. “The Socio-institutional Dynamics of Urban Climate Governance: A Comparative Analysis of
+nnovation and Change in Durban (KZN, South Africa) and Portland (OR, USA).” Urban Studies, 2014
+1386–1402
+3. Mueller, V.; Gray, C.; Kosec, K., Heat stress increases long-term human migration in rural
+Pakistan. Nature climate change, 2014.4,182-185.
+4. Ryan D., From commitment to action: A literature review on climate policy implementation at city level.
+Climatic Change, 2015, 131, 519–529.
+5. Meehl, G.A.; Stocker, T.F.; Collins W.D., P.; Gaye A.T., Gregory J.M.,; Kitoh,A. R. Knutti, J.M. Murphy,
+A. Noda, S.C.B. Raper, I.G. Watterson, A.J. Weaver, Z.-C. Zhao.Global Climate Projections. In Climate
+Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment
+Report of the Intergovernmental Panel on Climate Change. S. SolomonD. QinM. ManningZ. ChenM.
+MarquisK.B. AverytM. TignorH.L. Miller (eds.), Cambridge University Press, Cambridge, United
+Kingdom and New York, NY, USA.
+6. Marks, D. "Climate change and Thailand: Impact and response." Contemporary Southeast Asia: A Journal
+of International and Strategic Affairs,2011 33, 229-258.
+7. IPCC (2014) Climate Change 2014: Impacts Adaptation and Vulnerability. Contributions of Working
+Group II to the Fourth Assessment Report of the Intergovernmental Pannel on Climate Change, 2014
+Cambridge, UK: Cambridge University Press.
+8. Mikulewicz, M. and Taylor, M., Getting the resilience right: climate change and development policy in
+the ‘African Age’. New Political Economy, 2020, 25, 626-641.
+9. Codjoe, S.N.A. and Atiglo, D.Y, The implications of extreme weather events for attaining the sustainable
+development goals in sub-Saharan Africa. Frontiers in Climate,2020, 2.
+10. Connolly-Boutin, L., Smit, B., Climate change, food security, and livelihoods in sub-Saharan
+Africa. Regional Environmental Change, 2016. 16385-399
+11. Raleigh, C., Choi, H.J., Kniveton, D. The devil is in the details: An investigation of the relationships
+between conflict, food price and climate across Africa. Global Environmental Change, 2015.32, 187-199.
+12. Dosio, Alessandro, Hans-Jürgen Panitz, Martina Schubert-Frisius, and Daniel Lüthi. "Dynamical
+downscaling of CMIP5 global circulation models over CORDEX-Africa with COSMO-CLM: evaluation
+over the present climate and analysis of the added value." Climate Dynamics. 2015,44, 2637-2661.
+
+Preprints (www.preprints.org) | NOT PEER-REVIEWED | Posted: 2 June 2021
+
+doi:10.20944/preprints202106.0088.v1
+
+13. Jones PG, Thornton PK. Representative soil profiles for the Harmonized World Soil Database at different
+spatial resolutions for agricultural modelling applications. Agricultural Systems Submitted.2015.
+14. World Bank, 2011. World development report: Conflict, security, and development. 2011. The World
+Bank.
+15. Dixon, J., Tanyeri-Abur, Y., & Wattenbach, H. “Smallholders, globalization and policy analysis”.
+Agricultural Management, Marketing and Finance service occasional paper 5, Agricultural support
+systems division, 2004,FAO , Rome
+16. Jaeger P. “Smallholders: How to involve small‐scale farmers in commercial horticulture”. A paper
+prepared for the 6 th video seminar in the series, High Value Agriculture in Southern and Eastern Africa,
+2010, 1-20
+17. Nagayets, O. “Small Farms: Status and Key Trends”. Background paper prepared for the Research
+Workshop on the Future of Small Farms, organized by IFPRI, Imperial College and the Overseas
+Development Institute, Wye, UK. 2005, 26-29
+18. Enete, A.A. and Thornton, P.K. Effect of climate change and climate change mitigation. S/D, 2011.
+19. Agwu, E.A., Egbule, C.L., Amadu, F.O., Morlai, T.A. Wollor, E.T. and Cegbe, L.W. What Policy Options
+can Promote Agricultural Innovations for Climate Change and Adaption and Food Security in the West
+African Sub-region? African Technology Policy Studies Network Technopolicy Brief, 2011.29
+20. Creswell, JW, Creswell, JD, Research Design: Qualitative, Quantitative, and Mixed Methods Approaches.
+Thousand Oaks: SAGE. 2017
+21. GSS (Ghana Statistical Service). "2010 Population and housing census." 2010.
+22. Qualitative Research methods: a data collector’s field guide. Parkdatabase; 2005. Available from:
+http://www.fhi360.org/sites/default/files/media/documents/Qualitative%20Research%20 Methods%20%20A%20Data%20Collector's%20Field%20Guide.pdf
+23. Aid, Action. "The time is now; Lesson from farmers to adapting to climate change." Retired from: www.
+actionaid. org. on August 10 (2008): 2009.
+24. Nzeadibe, T.C. and Ajaero, C.K., Informal waste recycling and urban governance in Nigeria: Some
+experiences and policy implications. Handbook of environmental policy, 2010. 245-264.
+25. Speranza, C.I.,. Drought coping and adaptation strategies: Understanding adaptations to climate change
+in agro-pastoral livestock production in Makueni district, Kenya. The European Journal of Development
+Research, 2010, 22.623-642.
+26. Gonzlez, A., Belemvire, A. and Saulire, S.,. Climate Change and Women Farmers in Burkina Faso: Impact
+and adaptation policies and practices. Oxfam Policy and Practice: Agriculture, Food and Land, 2011,
+11,108-153.
+27. Olorunfemi, F.B.,. Living with waste: Major sources of worries and concerns about landfills in Lagos
+metropolis, Nigeria. Ethiopian journal of environmental studies and management, 2009,2.
+
+

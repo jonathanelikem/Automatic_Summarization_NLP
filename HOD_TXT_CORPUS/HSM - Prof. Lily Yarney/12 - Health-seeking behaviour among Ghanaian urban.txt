@@ -1,0 +1,882 @@
+Research Journal in Medical and Health Sciences
+
+Research Article
+Published by Royallite
+Global in the Research
+Journal in Medical and
+Health Sciences.
+
+RJMHS
+
+Section: Health Sciences
+
+Health-seeking behaviour among Ghanaian urban
+residents: A quantitative exploratory case study
+
+Lily Yarney1*, Evelyn Adjei-Mensah2, Joseph Darko3 and Akosua
+Nyame Adom Frempong4
+1
+Volume 3, Issue 1, 2022
+Department of Public Administration & Health Services
+Management, Ghana
+2
+Korle-Bu Teaching Hospital, Accra, Ghana
+Article Information
+3
+Submitted: 19th September 2022 School of Public Health, University of Ghana, Ghana
+4
+Accepted: 25th November 2022 Nutrition & Food Science Department, University of Ghana, Ghana
+Published: 26th November 2022 Correspondence: lyarney@ug.edu.gh
+https://orcid.org/0000-0003-3423-326X
+Additional information is
+available at the end of the
+article
+
+Abstract
+Health seeking behaviour is important for personal and social
+reasons, and several health problems can be adequately treated
+if they are reported early for appropriate health intervention. We
+https://creativecommons.
+examined the health-seeking behaviour of residents of a suburb in
+the capital of Ghana, the point in ill-health that they seek healthcare,
+org/licenses/by/4.0/
+their first point of call for healthcare, and the determinants of choice
+To read the paper online, of first point of call. Simple random sampling was used to select
+please scan this QR code 316 eligible respondents. Quantitative data were collected with
+questionnaire and analysed with IBM SPSS version 22. Descriptive
+statistics and Logistic regression were used to interpret the findings
+at 95% confidence intervals. Most respondents (50.6%) sought
+healthcare days to months after their first experience with ill-health,
+15.5% sought healthcare when they were severely ill, and about 34%
+sought healthcare immediately they experienced ill-health. Most of
+the respondents’ (54.2%) first point of call for healthcare was selfmedication with herbal sources or faith-based healing, and 45.8%
+sought attention from orthodox sources. Males were 1.97 times more
+likely than females; married individuals were 2.33 times more likely
+than the unmarried; and health insurance holders were 1.55 times
+more likely than the uninsured to use orthodox outfits as first point
+How to Cite:
+of call for healthcare. Healthcare stakeholders and policy makers
+Yarney, L., Adjei-Mensah, E.,
+need to intensify education on the need to seek orthodox healthcare
+Darko, J., & Frempong, A. N. A.
+in ill-health, encourage increased enrolment on the national health
+(2022). Health-seeking behaviour
+insurance scheme and strengthen social support systems that
+among Ghanaian urban residents:
+encourage good health-seeking behaviours.
+A quantitative exploratory case
+
+study. Research Journal in Medical
+and Health Sciences, 3(1). Retrieved Keywords: Ghana, greater Accra region, health-seeking behaviour,
+from https://royalliteglobal.com/ residents
+rjmhs/article/view/925
+
+Page 12
+
+© 2022 The Author(s). This open access article is distributed
+under a Creative Commons Attribution (CC-BY-NC-SA) license.
+
+Research Journal in Medical and Health Sciences
+Introduction
+The desire of every individual is to stay healthy and live a long life, thus, healthy life- a necessity of
+quality life is persistently pursued throughout one’s life journey (Agrawal & Patel, 2016; Campbell
+& Roland, 1996; Pillai, Nallavalli & Immaculate, 2019). Health seeking behaviour is important for
+personal and social reasons (Agrawal & Patel, 2016; Pillai, Nallavalli & Immaculate, 2019). Several
+health problems can be adequately treated if they are reported early for appropriate health intervention
+(Gæde et al., 2008; Shapiro & Taylor, 2002). Hence, delays in seeking appropriate health solution after
+noticing symptoms for most diseases especially, fatal illnesses such as cancers, can be detrimental (George
+& Fleming, 2004; White et al., 2011). Thus, health-seeking behaviours clearly have implications for the
+state of health for individuals and the entire health system of a country (Volpp, 2016).
+Health is defined as a “complete state of physical, mental and social wellbeing beyond the absence
+of disease or disability” (WHO, 2014). The state of people’s health is related to their health-seeking
+behaviours (Agrawal & Patel, 2016). Health-seeking behaviour as defined by Lepine and Nestour (2013)
+is the likelihood that people will seek healthcare when ill, and or the propensity to choose a particular
+healthcare provider and healthcare system.
+Empirical evidence suggests that the decision of people to seek health interventions for ailments
+is influenced by a range of complex demand and supply characteristics (Victoor, Delnoij, Friele, &
+Rademakers, 2012), which include socio-demographic, economic and healthcare-related factors
+(Agrawal & Patel, 2016; Asibey, Dankwah & Agyemang, 2019; Pillai et al., 2019). These factors can
+also be grouped broadly as psychological (e.g., cognitive, and emotional) and contextual (e.g., healthservice, and sociodemographic related). Ghanaian urban dwellers are confronted with these factors
+among others, and since the decision to seek health is the result of the combined forces of social and
+family pressures (Pillai et al., 2019), this study was aimed at exploring the health-seeking behaviours,
+the time of deciding to seek healthcare interventions and the first point of call for healthcare among
+Ghanaian urban dwellers. It is hoped that the findings would enable an empirical basis for formulating
+effective contextual-based behavioural change educational programmes to improve the health-seeking
+behaviours among urban dwellers in Ghana.
+Ghana- a low-middle-income country is confronted with a significant burden of preventable
+and curable illnesses coupled with high unmet healthcare needs. The country’s morbidity and mortality
+profiles are significantly characterized by several infectious diseases like lower respiratory tract
+infections, malaria, cholera, among others (CDC, 2016; Fenny, et al., 2015). Also, there is high rate
+of non-communicable diseases such as heart-related problems (IHME, 2015), diabetes, cancers, and
+mental health problems (see Darkwa, 2011; Gatimu, et al., 2016; Kratzer, 2012). Hence, the country is
+confronted with double burden of disease.
+Many people have health conditions that affect the quality of their life however, they fail to
+seek health interventions, or they delay in seeking treatment (Yaacob, Mokti & Muhammad, 2019).
+For instance, it is estimated that treatment gap in depression ranged from about 30% to 60% (Bristow
+& Patten, 2002; Fernandez et al., 2007), suggesting that the treatment and health-seeking gap remains
+high (Roskar, et al., 2017). Several health authorities and practitioners in various media discussions and
+health sensitization programmes have constantly called upon Ghanaians to seek timely treatment to
+avoid complications and untimely death. Despite these calls, people still delay in seeking healthcare. This
+late health-seeking behaviour could be attributed to several factors ranging from perceived attitudes of
+health professional, economic conditions of the individual, socio-demographic factors to behavioural
+factors.
+Although several studies have examined the determinants of health-seeking behaviour globally
+(Agrawal & Patel, 2016; Ngangbam & Roy, 2019; Pillai et al., 2019; Yousaf, et al., 2015), literature on
+the topic in Ghana is limited (Abor, et al., 2011; Asampong, Dwuma-Badu, Stephens, Srigboh, Neitzel &
+Basu and Fobil, 2015; Asibey et al., 2019; Nuhu, 2018). The few studies in Ghana have been conducted
+
+Page 13
+
+Research Journal in Medical and Health Sciences
+among specific occupations and from a qualitative perspective (see Asampong, et al., 2015), others
+have relied mainly on the Ghana Demographic and Health Survey (GDHS) data (see Abor, et al., 2011;
+Tettey, et al., 2019). This study therefore sought to gather first-hand information on health-seeking
+behaviours among urban dwellers using quantitative method and responded to calls to conduct studies
+on the subject with an urban-based population (Chilale, Silungwe, Gondwe & Masulani-Mwale, 2017).
+Korle Gonno, the study area, is one of the electoral areas under Ablekuma South sub-Metro
+of Accra Metropolitan Assembly and it is classified entirely as urban (Ghana Statistical Service, 2014),
+however, accident, violence, homicide, and suicide account for 12.0% of all deaths while other causes
+constitute 88.0% of deaths in the Metropolis (Ghana Statistical Service, 2014). This suggests that there
+is a high prevalence of preventable and curable health conditions among people residing in the area.
+Thus, this study examined the health-seeking behaviour of residents of Korle Gonno, the point in their
+illness at which they seek healthcare, their first point of call for healthcare, and the determinants of
+choice of first point of call for healthcare.
+Theoretical Review
+The study has the Health Belief Model (HBM) as its theoretical pivot (Jegede, 1998). Thus, in explaining
+the findings, the HBM comes into focus. The HBM allows for understanding and prediction of healthrelated behaviors regarding healthcare decisions and pursuit of health care. The HBM theorizes that
+health-related behaviors are conditional on a person’s awareness of four crucial and vital fields, namely:
+the enormity of thinkable illness, susceptibility to the illness, returns of embarking on a disruptive or
+defensive action to thwart the incidence of the illness, and the obstacles to embarking on the act. Hence,
+the premise here is that health-seeking behaviors are inspired by a variety of subconscious variables
+and established modalities and standards that inhibit health-seeking behaviors of a group of people.
+The HBM suggests that individuals are faced with alternative acts but would naturally decide on the
+one apparent to be most beneficial (Munro et al., 2007). Consequently, community members’ healthseeking decisions and actions would be the subsequent effect of knowledge on types and availability of
+healthcare, the gains and significance placed on these healthcare facilities, the perceived severity of the
+effects of their morbidities, the beholding of mortalities associated with illnesses in communities, belief
+in the avoidance of self-medication and patronage of other unorthodox outfits for healthcare as the right
+course of action, and the social and economic consequences of seeking healthcare from orthodox and
+formal healthcare facilities.
+Methodology
+Study Area
+The study was conducted in Korle Gonno - a major indigenous Ga community located at the heart
+of Accra. It covers an area of 15.1km2. The Sub Metro has an estimated population of 257,543 with
+22,751 houses and 69,401 households (Ghana Statistical Service, 2014; AMA, 2020). The major source
+of income for the residents is fishing and fish mongering. Apart from its central location with sea views,
+it also has a variety of employment centres such as banks, fuel stations, educational institutions, hotels,
+hospitals, and supermarkets (see Figure 3.1).
+
+Page 14
+
+Research Journal in Medical and Health Sciences
+Figure 1: Study Area (Korle Gonno)
+
+Source: Adopted from Arguello et al. (2013)
+Study Population, Sampling and Sample Size
+The target population for the study were persons aged 18 years or more who had been living in the area
+for not less than 2 years. Thus, residents younger than 18 years with less than 2 years of residence were
+not selected for inclusion in the study. This was to appropriately capture the pattern of health-seeking
+behaviour of adult residents in the area. Utilizing the existing enumeration system available by the
+Ghana Statistical Service (GSS) and the Accra Metropolitan Authority (AMA), simple random sampling
+technique was employed to select eligible respondents. By this probability sampling, equal chance was
+given to all eligible participants, to avoid bias in the findings of the study, and to allow for generalization
+of findings among the residents of the study area. For the purposes of standardization and stronger
+statistical power, the sample size was determined using Cochran (1977) formula. Thus, a sample size of
+three hundred and sixteen (316) was appropriately used for the study, which took into account a 10%
+non-response rate.
+Data Collection Method and Instrument
+We employed questionnaire to collect the required data for the study. The questionnaire collected data
+on the socio-demographic characteristics of participants, frequently experienced illnesses, reasons for
+seeking healthcare, first point of call for medical interventions, determinants of first point of call, and
+the stage in ill-health at which people decide to seek health interventions. The questionnaires were
+administered to participants in their homes on weekends and at their convenience by the second and
+third authors. The data collection period was 6 weeks.
+Ethical Consideration
+Before the start of the study, ethical approval was obtained from the Ethics Committee of Humanities,
+University of Ghana with the study protocol. Though the study did not have any serious ethical issues
+to contend with, participants were provided with written informed consent which were read to them
+before they agreed to participate in the study. Following information and explanation on the rationale,
+purpose, procedures, confidentiality, participation and rights, risks, and benefits, voluntary, and right
+to withdrawal at any point without prejudice to participants, participants were given the opportunity
+choose between signing or thumb- printing the written consent form before their involvement in the
+study. Permission was also sought from participants to publish the findings of the study. This was done
+
+Page 15
+
+Research Journal in Medical and Health Sciences
+by asking participants to also sign or thumbprint another portion on the written informed consent
+form.
+Data Management and Analysis
+Prior to data entry and analysis, each completed questionnaire was checked visually for completeness.
+The responses obtained from the administration of the questionnaire were entered into IBM SPSS version
+22 (SPSS Inc., Chicago, IL, USA) and coded for statistical analysis. Descriptive statistics were used to
+define and describe the responses. Logistic regression was conducted to ascertain factors associated with
+health seeking behaviours of adult in the Korle-Gonno area. Results were presented in odds ratios and
+at 95% confidence intervals.
+Results
+Socio-demographic Characteristics of Participants
+About 67% of the respondents were males and 33% were females. Many of the respondents (about
+46.0%) were married, about 28.0% had never married before, and the remaining about (27.0%) were
+either widowed or divorced. It is worth noting that 66.5% of the population sampled have health
+insurance.
+Table 1: Socio-demographic Characteristics of Respondents
+Characteristics
+Gender:
+Male
+Female
+Age (in years):
+
+Education:
+
+Marital Status:
+
+Religious affiliation:
+
+Occupational status:
+
+Page 16
+
+Frequency
+211
+105
+
+Percentage (%)
+66.8
+33.2
+
+18 - 25
+26 - 33
+
+66
+110
+
+20.9
+34.8
+
+34 - 41
+
+95
+
+30.1
+
+42 and older
+
+45
+
+14.2
+
+No formal education
+Primary
+
+65
+95
+
+20.6
+30.1
+
+Secondary (JHS/SHS)
+
+100
+
+31.6
+
+Tertiary
+
+56
+
+17.7
+
+Never married before
+Married
+
+87
+144
+
+27.5
+45.6
+
+Divorced
+
+65
+
+20.6
+
+Widowed
+
+20
+
+6.3
+
+Christian
+Islam
+
+169
+105
+
+53.5
+33.2
+
+Tradition
+
+41
+
+13
+
+No affiliation
+
+1
+
+0.3
+
+Formally employed
+Self-employed
+
+74
+154
+
+23.4
+48.7
+
+Unemployed
+
+71
+
+22.5
+
+Student
+
+10
+
+3.2
+
+Retired
+
+7
+
+2.2
+
+Research Journal in Medical and Health Sciences
+Health insurance status:
+
+Insured
+Not insured
+
+210
+106
+
+66.5
+33.5
+
+n = 316
+Illnesses Frequently Experienced by Participants
+Figure 2 shows the illnesses that the respondents normally experience. The common illnesses include
+malaria, diarrhoea, cough, injury/accidents, body pains. While most reported suffering one of the listed
+illnesses, a few stated they experience two or more.
+Fig 2: Illnesses frequently experienced
+
+n = 316
+Stage in Ill-health at Which Respondents Seek Help for Health Problems
+Almost 34% (107) of respondents indicated that they sought help immediately they experienced
+symptoms of illness, 40.2% (127) of respondents sought help days or weeks after when their symptoms
+persisted, 10.4% (33) sought help months later with symptoms present and 15.5% (49) only sought
+help for their illnesses when they were severely ill and could not do anything by themselves.
+Table 2: Stage in ill-health at which Respondents seek help for health problems
+Seek help:
+Frequency Percentage (%)
+Immediately
+107
+33.9
+Days after
+91
+28.8
+Weeks after
+36
+11.4
+Months after
+33
+10.4
+When I am very ill and cannot do anything
+49
+15.5
+n = 316
+
+Page 17
+
+Research Journal in Medical and Health Sciences
+Fig 3: Reasons why Respondents Seek Help for Health Problems
+
+Points of Call for Health Problems
+Participants indicated Self-medication (142: 44.9%), Traditional/ Herbal medicine (20: 6.3%), Licensed
+Chemical/Drug Stores (62: 19.6%), Formal Hospitals and Clinics (107: 33.9%), and Religious/Faithbased Healing (49: 15.5%) as the points of call for their health problems.
+Table 3: Points of Call for Health problems and First point of call for healthcare
+Points of call
+Yes
+No
+Self-medication/treatment
+142 (44.9 %)
+174 (55.1%)
+Traditional/herbal medicine
+20 (6.3%)
+296 (93.7%)
+Drug stores/licensed chemical sellers
+62 (19.6%)
+254 (80.4%)
+Formal healthcare avenues (hospitals/clinics)
+107(33.9%)
+209 (66.1%)
+Faith/religious-based healing
+49 (15.5%)
+267 (84.5%)
+First point of call for healthcare
+First point of call
+Frequency
+Percentage (%)
+Self-medication/herbal treatment
+142
+44.94
+Formal healthcare avenues (hospitals/clinics)
+94
+29.75
+Licensed chemical/drug stores
+51
+16.14
+Faith/religious based healing
+29
+9.20
+First Point of Call for Healthcare
+The first point of call for healthcare for about 45% (142) respondents is self-medication or traditional/
+herbal treatment; Clinics/Hospitals (94: 30%), Licensed Chemical/Drug Stores (51: 16%), and Faith/
+Religious-Based Healing (29: 9.2%)
+4.4 Determinants of First Point of Call for Healthcare
+Table 4 presents results from two different models that predict the odds of an individual using selfmedication or formal health care as the first point of call for seeking healthcare. The Odds Ratios (OR)
+for gender, age, education, religious affiliation, health insurance status, and the behavioural factors are
+not statistically significant. However, results of the determinants of formal healthcare as the first point
+of call for seeking healthcare reveals that gender significantly influences the use of formal healthcare
+
+Page 18
+
+Research Journal in Medical and Health Sciences
+services as the first point of call. Males are 1.97 times more likely to first go to hospitals or clinics when
+ill, compared to females.
+Examining educational level as a determinant of formal healthcare as the first point of call
+for healthcare, gave different outcomes at the various education levels. While primary and secondary
+education levels do not significantly influence the decision to first contact formal healthcare facilities
+when ill, tertiary education level strongly affects this decision. Table 4 shows that those with tertiary
+education are almost 4 times more likely to first attend hospitals or clinics when ill compared to those
+who have no tertiary education. Marital status also demonstrated to be a critical determinant of the
+use of formal healthcare services as the first point of call for seeking healthcare. It is observed that
+those married are 2.33 times more likely to seek formal healthcare services first when ill than the
+unmarried. This suggests that the unmarried are less likely to first attend hospitals or clinics when ill.
+Health insurance status shows to have a strong influence on the decision to use formal health centres
+as the first point of call when ill. Compared to people who have no health insurance, those who have
+health insurance are 1.55 times more likely to use formal healthcare services as their first point of call
+when they fall sick.
+However, the outcome shows that age, religious affiliation, and the behavioural factors of
+participants do not determine the likelihood that patients would employ formal healthcare services as
+their initial point of contact to cater for their health needs.
+Table 4: Odds Ratios for seeking different types of health care as First Point of Call
+Type of health sought
+Characteristic
+
+Self-Medication
+OR
+
+Formal health care
+CI
+
+OR
+
+CI
+
+0.76-1.72
+
+1.97**
+
+0.45-2.1
+
+Gender
+Female
+
+Ref
+
+Male
+
+0.68
+
+Age
+18-25
+
+Ref
+
+26-33
+
+0.67
+
+0.7-1.86
+
+1.32
+
+0.9-1.8
+
+34-41
+
+0.83
+
+0.59-1.5
+
+1.55
+
+0.9-1.2
+
+42 +
+
+0.51
+
+0.4-1.7
+
+1.78
+
+0.5-1.5
+
+Education
+None
+
+Ref
+
+Primary
+
+1.66
+
+0.67-1.6
+
+0.79
+
+0.4-1.3
+
+Secondary
+
+1.36
+
+0.5-1.2
+
+1.18
+
+0.6-1.6
+
+Tertiary
+
+0.61
+
+0.7-1.65
+
+3.97**
+
+0.3-1.5
+
+Religion
+No Religion
+
+Ref
+
+Christianity
+
+1.32
+
+0.6-1.01
+
+1.51
+
+0.3-1.1
+
+Islamic
+
+1.28
+
+0.8-1.25
+
+1.59
+
+0.6-1.5
+
+0.99-1.2
+
+2.33**
+
+0.8-1.4
+
+1.2-1.7
+
+1.55**
+
+0.9-1.7
+
+Marital Status
+Not Married
+
+Ref
+
+Married
+
+0.82
+
+Insurance Status
+uninsured
+
+Ref
+
+insured
+
+0.64
+
+***, **, significant at 1%, and 5% respectively
+
+Page 19
+
+Research Journal in Medical and Health Sciences
+Discussion
+The quest for good health is an important aspect of all human societies, thus, religious/health institution
+is one of the most prominent institutions of all cultures around the world. Studies on health-seeking
+behaviours of societies are therefore crucial as they provide empirical basis for policy formulation on
+effective means of assisting individuals to stay healthy and contribute their quota meaningfully to the
+attainment of societal goals.
+The present study revealed malaria, diarrhoea, cough, injury/accidents, and body pains as the
+health problems experienced by respondents in descending order (see figure 2). A study in a suburb in
+the Accra Metropolis also indicated similar ailments with qualitative methodology (Asampong et al.,
+2015). These indicate that as a country, Ghana still struggles with communicable diseases, especially
+in the urban capital, thus serious attention must be paid to them to avoid related complications and
+subsequent deaths.
+Regarding the health seeking behaviour of respondents in managing these health conditions,
+almost 34% of respondents indicated that they sought help immediately they experienced symptoms
+of illness, 40.2% sought help days or weeks after their symptoms persisted, 10.4% sought help months
+later with symptoms present and 15.5% only sought help for their illnesses when they were severely ill
+and could not do anything by themselves. This portrays that most respondents hold ‘present-oriented’
+health-seeking behaviours, that is, their present health condition is a major determinant of seeking
+healthcare, and only 34% hold ‘future-oriented health seeking behaviour, implying that their healthseeking is based on prevention of future consequences of their present health condition. Delays in seeking
+appropriate health solution after noticing symptoms for most diseases especially, severe ones, can be
+fatal to the individual concerned (George & Fleming, 2004; White et al., 2011), as found to be the case
+for most of the respondents in this study. Respondents also indicated that they would seek health-related
+help for 3 main reasons namely: having life threatening illness, preventing illness, and perceiving to be
+susceptible to illnesses (figure 3).
+Study respondents patronised both alternative and complimentary and orthodox medical sources
+for their healthcare problems. However, the first point of call for health problems by the majority of
+respondents (about 54%) was unorthodox (table 3). Implying that self-medication with herbal means
+and religious and faith-based healing were very prevalent as the first point of call for treatment of
+ailments among respondents. This finding indicates that most of urban dwellers in Ghana subscribe
+to complementary and alternative medical sources as their first point of call. This is not surprising as
+other studies have revealed similar findings (Abubakar et al., 2013; Assad et al., 2015). Individuals seek
+health from formal and informal systems of healthcare with the aim of resolving their health problems
+or conditions (Cornally & McCarthy, 2011; Yousaf et al., 2015). The preference of one of these sources
+as first point of call for healthcare problems over the other may also be due to the perceived benefits
+associated with each (Chilale et al., 2017). These benefits are usually related cost, proximity, and pastexperience with the source (Asampong et al., 2015; George, 2007).
+It is interesting to note from this study that, gender, age, education, religious affiliation, health
+insurance status, and the behavioural factors of respondents did not determine the tendency that a
+participants would choose self-medication as the first point of call for his or her ailments (see table
+4). On the other hand, determinants of formal healthcare facilities as the first point of call for seeking
+healthcare revealed that gender significantly influenced the use of formal healthcare services as the first
+point of call with males being 1.97 times more likely to first go to hospitals or clinics when ill, compared
+to females. This implies that females are less likely to opt for formal healthcare services as their first
+point of call when ill, which is a deviation of what is found in relevant literature (Johnson et al., 2012).
+Examining education as a determinant of formal healthcare as the first point of call for healthcare,
+gave different outcomes at the various educational levels. While primary and secondary education levels
+did not significantly influence the decision to first contact formal health centres in ill-health, tertiary
+
+Page 20
+
+Research Journal in Medical and Health Sciences
+education level strongly affected this decision. Respondents with tertiary education were almost 4
+times more likely to first attend hospitals or clinics when ill compared to those who had no tertiary
+education. This finding is contrary to findings of previous studies (Mackenzie et al. 2006; Roskar et al.
+2017; Doherty & Kartalova-O’Doherty, 2010). Usually, males are uncomfortable discussing their health
+problems with other people due to the culture of masculinity and are more prone to self-stigma (Johnson
+et al., 2012). The outcome of this study may be because the study area is urban and has received
+increased campaign and advocacy for a change in males’ attitudes towards seeking formal healthcare
+for their health problems.
+Marital status was demonstrated to be a critical determinant of the use of formal healthcare
+services as the first point of call for seeking healthcare. It was observed that those married were 2.33
+times more likely to seek formal healthcare services first when ill than the unmarried. This finding is
+consistent with findings of earlier studies (Agrawal & Patel, 2017; Doherty & Kartalova-O’Doherty,
+2010) that concluded that marital status is a major determinant of healthcare-seeking behaviour. This
+may be due to the support and encouragement that married couples offer to each other in times of illhealth. This finding also highlights the importance of social support mechanisms in promoting healthseeking behaviour among people.
+Health insurance status showed a strong influence on the decision to use formal health facilities
+as the first point of call for ill-health. Compared to individuals who had no health insurance, with
+health insurance were 1.55 times more likely to use formal healthcare services as their first point of call
+when they fall ill. This finding is also similar to those of other studies (Asampong et al., 2015; Asibey
+et al., 2019; Ngangbam & Roy, 2019). These studies identified cost of inpatient healthcare service as
+a barrier to seeking formal healthcare. Thus, individuals with active health insurance and appreciable
+levels of income are less confronted with cost barriers when they seek formal healthcare (Agrawal &
+Patel, 2016; Asibey et al., 2019; Kim et al., 2016). This further increases their confidence in their ability
+to pay for some critical medical services such as medications. In other jurisdictions, heavy workload of
+health workers due to insufficient human resource, and inadequate funding support from government
+contribute to non-patronage of health services provided by public health facilities (Hyzam et al, 2020).
+In this study, age, religious affiliation, and the behavioural factors of respondents did not determine the
+likelihood of utilizing formal healthcare services as the initial point of contact to meet health needs.
+In conclusion, we stress on the fact that the paradigm to disease causation of Ghanaians is
+two-fold – the physical and supernatural worlds. Thus, generally, most Ghanaians subscribe to plural
+medical systems without any sense of contradiction. This calls for scientific integration of both systems
+in environments where the use of CAM is inevitable like the Ghanaian situation. However, with evidence
+of orthodox medical system being scientifically superior to traditional/alternative and complementary
+medical systems, the findings of this study should contribute to putting in place effective policies on
+sensitization of Ghanaians and other sub-Saharan dwellers with similar health-seeking behaviours to
+modify their health-seeking behaviours towards orthodox medical systems in the face of technological
+and comprehensive healthcare, taking into consideration the elimination of financial bottlenecks. Future
+research may also focus on both rural and urban populations with both quantitative and qualitative
+methodologies.
+
+Page 21
+
+Research Journal in Medical and Health Sciences
+References
+Abor, Abekah-Nkrumah, Adjasi & Abor, 2011). The socio-economic determinants of maternal healthcare
+utilization in Ghana. International Journal of Social Economics, 38(7), 628-648.
+Abraham, C., & Sheeran, P. (2005). The health belief model. In Conner, M. and Norman, P. (Eds),
+Predicting Health Behaviour: Research and Practice with Social Cognition Models, Open
+University Press/McGraw Hill, Maidenhead, pp. 28-80.
+Agrawal, G., & Patel, S. K. (2017). Religious differentials in morbidity prevalence and healthcare seeking
+behaviours among older persons in India. International Journal of Human Rights in Healthcare,
+10(1), 14-27.
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes and predicting social behavior. Englewood
+Cliffs, NJ: Prentice Hall.
+Annesi, J. J. (2006). Relations of physical self-concept and self-efficacy with frequency of voluntary
+physical activity in preadolescents: Implications for after-school care programming. Journal of
+Psychosomatic Research, 61(4), 515-520.
+Asampong, E., Dwuma-Badu, K., Stephens, J., Srigboh, R., Neitzel, R., Basu, N., & Fobil, J. N. (2015).
+Health seeking behaviours among electronic waste workers in Ghana. BMC Public Health, 15,
+1-9.
+Asibey, B. O., Dankwah, A. B., & Agyemang, S. (2019). The relationship between perceived service
+quality of antenatal care and use among rural women in Ghana. International Journal of Social
+Economics, 46(5), 598-613.
+Assad, T., Okasha, T., Ramy, H., Goueli, T., El-Shinnawy, H., Nasr, M., ... Shorab, I. (2015). Role of
+traditional healers in the pathway to care of patients with bipolar disorder in Egypt. International
+Journal of Social Psychiatry, 61, 583–590.
+Atindanbila, S., & Thompson, C. E. (2011). The role of African traditional healers in the management
+of mental challenges in Africa. Journal of Emerging Trends in Educational Research and Policy
+Studies, 2, 457–464.
+Bartholomew, L., Parcel, G., Kok, G., & Gottlieb, N. (2006). Behavior-oriented theories used in health
+promotion. In J. Allegrante & K. Mcleroy (Eds.), Planning health promotion programs (pp.
+81–135). San Francisco, CA: JosseyBass.
+Centers for Disease Control and Prevention (2016). Global Health – Ghana. Retrieved from https://
+www.cdc.gov/globalhealth/countries/ghana/ on September 15, 2021.
+Chilale, H. K., Silungwe, N. D., Gondwe, S., & Masulani-Mwale, C. (2017). Clients and carers
+perception of mental illness and factors that influence help-seeking: Where they go first and why.
+International Journal of Social Psychiatry, 63(5), 418–425.
+Chilale, H., Banda, R., Muyawa, J., & Kaminga, A. (2014). Duration of untreated psychosis and
+associated factors in first episode psychosis in Mzuzu Northern Malawi. African Journal of
+Psychiatry, 17, 503–507
+Coles, R., Watkins, F., Swami, V., Jones, S., Woolf, S., & Stanistreet, D. (2010). What men really want:
+A qualitative investigation of men’s health needs from the Halton and St Helens Primary Care
+Trust men’s health promotion project. British Journal of Health Psychology, 15, 921-939.
+Cornally, N., & McCarthy, G. (2011). Help-seeking behaviour: A concept analysis. International Journal
+of Nursing Practice, 17, 280-288.
+Demyan, A. L., & Anderson, T. (2012). Effects of a brief media intervention on expectations, attitudes,
+and intentions of mental health help seeking. Journal of Counseling Psychology, 59, 222-229.
+Deng, Z., Liu, S., & Hinz, O. (2015). The health information seeking and usage behavior intention of
+Chinese consumers through mobile phones. Information Technology & People, 28(2), 405-423.
+Doherty, D. T., & Kartalova-O’Doherty, Y. (2010). Gender and self-reported mental health problems:
+Predictors of help seeking from a general practitioner. British Journal of Health Psychology, 15,
+
+Page 22
+
+Research Journal in Medical and Health Sciences
+213-228
+Fenny, A. P., Asante, F. A., Enemark, U., & Hansen, K. S. (2015). Malaria care seeking behavior of
+individuals in Ghana under the NHIS: Are we back to the use of informalcare? BMC Public
+Health, 15(1), 370.
+Fernández, A., Haro, J. M., Martinez-Alonso, M., Demyttenaere, K., Brugha, T. S., Autonell, J., Alonso,
+J. (2007). Treatment adequacy for anxiety and depressive disorders in six European countries.
+The British Journal of Psychiatry, 190, 172–173.
+Gæde, P., Lund-Andersen, H., Parving, H. H., & Pedersen, O. (2008). Effect of a multifactorial intervention
+on mortality in type 2 diabetes. New England Journal of Medicine, 358(6), 580-591.
+George, A., & Fleming, P. (2004). Factors affecting men’s help-seeking in the early detection of prostate
+cancer: implications for health promotion. Journal of Men’s Health and Gender, 1, 345-352.
+George, M. (2007). Socio-economic and Cultural Dimensions, and Health-seeking Behaviour for
+Leptospirosis: A Case Study of Kerala. Journal of Health Management, 9(3), 381–398.
+Germond, P., & Cochrane, J. R. (2010). Healthworlds: Conceptualizing landscapes of health and healing.
+Sociology, 44(2), 307–324.
+Ghana Statistical Service. (2014). 2010 population and housing census: District analytical report –
+Accra Metropolitan Assembly. Accra: Ghana Statistical Service.
+Girma, F., Jira, C., & Girma, B. (2011). Health services utilization and associated factors in Jimma zone,
+Southwest Ethiopia. Ethiopian Journal of Health Sciences, 21(3), 91-100.
+Gyasi, R. M., Mensah, C. M., Adjei, P. O. W., & Agyemang, S. (2011). Public perceptions of the role
+of traditional medicine in the health care delivery system in Ghana. Global Journal of Health
+Science, 3(2), 40-49.
+Haley, C., Drake, R., Bentall, R., & Lewis, S. (2003). Health beliefs link to duration of untreated
+psychosis and attitudes to later treatment in early psychosis. Social Psychiatry and Psychiatric
+Epidemiology, 38, 311–316.
+Hyzam, D., Zou, M., Boah, M. et al. (2020) Health information and health-seeking behaviour in
+Yemen: perspectives of health leaders, midwives and mothers in two rural areas of Yemen. BMC
+Pregnancy Childbirth 20, 404
+Institute for Health Metrics and Evaluation (IHME). (2015). Retrieved from http://www.healthdata.org/
+ghana
+Jewell, R. T. (2009). Demand for prenatal health care in South America. Applied Economics, 41(4),
+469-479.
+Johnson, J. L., Oliffe, J. L., Kelly, M. T., Galdas, P., & Ogrodniczuk, J. S. (2012). Men’s discourses of
+help-seeking in the context of men’s depression. Sociology of Health & Illness, 34, 345-361.
+Jones & Bartlett Publishers. (2010). Health belief model. In. Theoretical concepts (pp. 31–36). Retrieved
+from http:// www.jblearning.com/samples/0763743836/chapter%204. Pdf.
+Kim, J. H., Lee, S. G., Lee, K. S., Jang, S. I., Cho, K. H., & Park, E. C. (2016). Impact of health insurance
+status changes on healthcare utilisation patterns: a longitudinal cohort study in South Korea.
+BMJ Open, 6(4), 1-9.
+Krejcie, K. V., & Morgan, D. W. (1970). Determining sample size for research activities. Educational and
+Psychological Measurement, 30, 607-610.
+Kumbani, L. C., Chirwa, E., Odland, J. Ø, & Bjune, G. (2012). Do Malawian women critically assess
+the quality of care? A qualitative study on women’s perceptions of perinatal care at a district
+hospital in Malawi. Reproductive Health, 9(1), 30-44.
+Lepine, A., & Nestour, A. L. (2013). The determinants of health care utilisation in rural Senegal. J Afr
+Econ., 22(1), 163–86.
+Mackenzie, C. S., Gekoski, W. L., & Knox, V. J. (2006). Age, gender, and the underutilization of mental
+health services: The influence of help-seeking attitudes. Aging & Mental Health,10, 574–582.
+
+Page 23
+
+Research Journal in Medical and Health Sciences
+Marton, C., & Choo, C. W. (2012). A review of theoretical models of health information seeking on the
+web. Journal of Documentation, 68(3), 330-352.
+Mbwayo, A. W., Ndetei, D. M., Mutiso, V., & Khasakhala, L. I. (2013). Traditional healers and provision
+of mental health service in cosmopolitan informal settlements in Nairobi, Kenya. African Journal
+of Psychiatry, 16, 134–140.
+Mosadeghrad, A. M. (2012). A conceptual framework for quality of care. Materia Socio-Medica, 24(4),
+251-261.
+Munro, S., Lewin, S., Swart, T., & Volmink, J. (2007). A review of health behaviour theories: how useful
+are these for developing interventions to promote long-term medication adherence for TB and
+HIV/AIDS? BMC Public Health, 7, 104.
+Ngangbam, S., & Roy, A. K. (2019). Determinants of Health-seeking Behaviour in Northeast India.
+Journal of Health Management, 21(2) 234–257.
+Nuhu, K. M. (2018). Determinants of health-seeking behavior in Ghana, unpublished PhD Thesis,
+Department of Public Health and Recreation Professions in the Graduate School Southern,
+Southern Illinois University Carbondale.
+Olenja, J. (2003). Editorial: Health seeking behaviour in context. East African Medical Journal, 80(2),
+61-62.
+Pillai, K. R., Nallavalli, S., & Immaculate, C. (2019). Inexorable transformation in healthcare-seeking
+behaviour: a paradigm of choice. International Journal of Pharmaceutical and Healthcare
+Marketing, 13(2), 200-212.
+Rawlett, K. (2011). Analytical evaluation of health belief model and the vulnerable populations
+conceptual model applied to a medically underserved rural population. International Journal of
+Applied Science and Technology, 1, 15–21.
+Reynolds, H. W., Wong, E. L., & Tucker, H. (2006). Use of maternal and child health services in developing
+countries. International Family Planning Perspectives, 32(1), 6-16.
+Roskar, S., et al. (2017). Attitudes within the general population towards seeking professional help in
+cases of mental distress. International Journal of Social Psychiatry, 63(7), 614-621.
+Senah, K. A. (2004). In the mighty name of Jesus: Health-seeking behaviour in Ghana. Legon Journal of
+Sociology, 1(1), 59-70.
+Shapiro, A., & Taylor, M. (2002). Effects of a community-based early intervention program on the
+subjective well-being, institutionalization, and mortality of low-income elders. The Gerontologist,
+42(3), 334-341.
+Sorketti, E. A., Zuraida, N. Z., & Habil, M. H. (2012). The traditional belief system in relation to mental
+health and psychiatric services in Sudan. International Psychiatry, 9, 19–20.
+Turkson, P. K. (2009). Perceived quality of healthcare delivery in a rural district of Ghana. Ghana
+Medical Journal, 43(2), 65-70.
+Victoor, A., Delnoij, D. M., Friele, R. D., & Rademakers, J. J. (2012). Determinants of patient choice of
+healthcare providers: A scoping review. BMC Health Services Research, 12(1), 272.
+White, A., McKee, M., Richardson, N., de Visser, R., Madsen, S. A., de Sousa, B. C., et al. (2011).
+Europe’s men need their own health strategy. BMJ.
+WHO. (2014). General programme of work: not merely the absence of disease. Geneva: World Health
+Organization.
+Yaacob, L. H., Mokti, S. A., & Muhammad, J. (2019). Health seeking behaviour of menopausal
+women with urinary incontinence in Northeast Malaysia. Journal of Women & Aging, DOI:
+10.1080/08952841.2019.1593799.
+Yousaf, O., Grunfeld, E. A., & Hunter, M. S. (2015). A systematic review of the factors associated with
+delays in medical and psychological help-seeking among men. Health Psychology Review, 9 (2),
+264-276.
+
+Page 24
+
+
