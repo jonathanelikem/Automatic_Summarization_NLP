@@ -1,0 +1,838 @@
+
+
+
+Social media resources and export performance: the role of trust
+and commitment
+Mahmoud Abdulai Mahmoud
+Department of Marketing and Entrepreneurship, University of Ghana, Accra, Ghana and
+Department of Marketing Management, University of Johannesburg, Johannesburg, South Africa
+Matilda Adams and Aidatu Abubakari
+Department of Marketing and Entrepreneurship, University of Ghana, Accra, Ghana
+Nicholas Oblitei Commey
+Department of Marketing and Entrepreneurship, University of Ghana, Accra, Ghana and
+Heritage Christian College, Accra, Ghana, and
+Adelaide Naa Amerley Kastner
+Department of Marketing, Central University, Ghana, Accra, Ghana
+
+Abstract
+Purpose - The study sought to examine the influence of social media resources on export performance and the role commitment and trust play in this relationship using an integrated model.
+Design/methodology/approach - A quantitative survey design was employed for this study. Empirical data for this paper were drawn from 210 exporting firms in Ghana, using purposive sampling technique. The hypothesized links were analyzed using structural equation modeling.
+Findings - The result of this study reveals that social media resources and marketing capabilities directly influence export performance and indirectly through commitment and trust.
+Originality/value - To the best of the authors' knowledge, this study is among the first to attempt to use an integrated model (resource-based view and commitment-trust theory) to understand and explain an international marketing phenomenon. By concentrating on Ghana, the study offers new insights regarding the pathway for exporting firms in emerging markets.
+Keywords International marketing, Social media, Marketing capabilities, Export performance, Commitment, Trust and resource base view
+Paper type Research paper
+
+Introduction
+In recent times, the surge in technological advancements and the hype surrounding the use of social networking sites have transformed the digital landscape and how organizations interact with their consumers globally (Hofacker and Belanche, 2016). The transformation in the media landscape has reached an extent where the existence of exporting ventures is likely to be threatened, unless these firms respond affirmatively to contemporary mode of building and managing both transactional and relational ties with their customers (Tsai and Men, 2017). As a result, many firms are now incorporating social media platforms such as Facebook, Twitter, Instagram, among others into their marketing communications in the quest of reaching their customers and creating interactive brand communities (Johnston et al., 2018).
+   Studies have indicated social media usage offers businesses several benefits (Kenly and Poston, 2016; Alarc?on, et al., 2015). For instance, Alarc?on, et al. (2015) assert that social media provides faster access to markets that are outside the immediate geographical reach of firms,
+
+Social media and export performance
+
+
+273
+
+
+Received 19 February 2019
+Revised 10 October 2019
+9 December 2019
+Accepted 14 December 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Marketing Review
+Vol. 37 No. 2, 2020
+pp. 273-297
+(c) Emerald Publishing Limited
+0265-1335
+DOI 10.1108/IMR-02-2019-0084
+
+
+
+IMR 37,2
+
+
+
+274
+
+thus reducing the barriers of distance and time; serves as an inexpensive means for communicating product information to customers (Berthon et al., 2012); and can be used as a strategic resource to gain competitive advantage (Skarmeas, et al., 2016). This indicates that more studies are needed across diverse contexts in assessing social media as a resource and its influence on firms' performance in order to advance theory (Ratchford, 2015). Arguably, it appearsthat a good number of studies on social media have been undertaken from the perspectives of firms (Kenly and Poston, 2016; Alarcon, et al., 2015) and consumers (Berthon
+
+	 et al., 2012; Whiting and Williams, 2013). Despite the numerous studies on social media, deficits
+exist in the extant literature, beseeching the attention of scholars' in the marketing discipline. First, in the marketing context, resources include building relationships, brands and knowledge which often differ from resources in other contexts (Kozlenkova et al., 2014). The resource-based view (RBV) theorizes that resources that are valuable, rare, inimitable and non-substitutable can help achieve sustainable competitive advantage for firms (Barney, 1991). In line with this view, we theorize that social media and marketing capabilities are resources that encompass the relationships a firm builds with its customers through its social media platforms, and these relationships can be valuable resources that will be difficult or too costly for others to imitate. However, despite its increasing relevance in both practice and theory, a limited number of studies have examined social media as a resource, though extant studies reveal that intangible resources have a greater effect on sustained competitive advantage and performance than tangible resources (Kozlenkova et al., 2014). Hence, there is a need for further assessment of the nexus between social media resources and export
+performance, especially with its growing utilization in the business world today.
+   Secondly, data on social media and performance are biased toward the advanced countries (Gao et al., 2018; Hudson et al., 2016; Alarc?on et al., 2015), with relatively little evidence on the subject from emerging economies, especially Ghana (Ahmad et al., 2018; Odoom et al., 2017). This situation is worrying, since recent research indicates that emerging markets contribute considerably to the marketing discipline (Sheth, 2011). To this end, empirical studies from these contexts would present unique perspectives and also provide new theoretical developments and implications for practice. Moreover, Sheth (2011) argues that market heterogeneity, contextual disparities and sociopolitical environment in developed and developing economies are totally different. As a result, Drazin and Schonhoven (1996) have questioned the generalizability of findings from the developed economies to other economies, as findings may be context-bound and not universally generalizable (see Li and Zhou, 2010; Boso et al., 2013). Thus, based on the contextual disparity argument and as part of contributing to the international marketing literature, this study uses empirical data from an emerging economy, specifically Ghana, to contribute to the theory of development and offer managerial insights. Ghana presents a unique case because just like any other developing or emerging market, the economic activities of exporting firms or SMEs drive its gross domestic product (GDP) (Nieto and Santamaria, 2010; Odoom, 2017; Abor and Quartey, 2010). However, evidence exists to suggest that exporting firms from such settings are overwhelmed with persistent scarcity of resources as well as infrastructural challenges (Sheth, 2011; Odoom et al., 2017). For instance, Odoom et al. (2017) aver that most exporting ventures in developing economies like Ghana lack the skills and the needed resources to employ external marketing support to promote their products and services effectively to attain competitive advantage. The situation has compelled most smaller firms engaging in exporting activities in Ghana to adopt cheaper means of communicating their offerings and interacting with their customers through social media, which is considered a more cost-efficient means of communicating (Hanna et al., 2011; Ainin et al., 2015). Indeed, this move can also be attributed to the shift in media consumption in recent times, which has resulted in the use of social media by firms as a major platform for strategically communicating, informing and interacting with their clients (Odoom et al., 2017). Thus, it offers an interesting route for exporting SMEs to boost their
+
+
+
+export performance in overseas markets. Hence, a study like this is opportune in this context, to provide understanding and knowledge on how social media resources are being used by exporting firms in Ghana to enhance their capabilities and performance.
+   In addition, some scholars have argued that the possession of unique resources alone does not sustain competitive advantage; instead, a firm needs to have the capability (e.g. relational and informational capabilities) to deploy those resources effectively (Tan and Sousa, 2015). Barney (1991) also argues that a firm's ability to build trust and commitment with its
+
+Social media and export performance
+
+
+275
+
+customers improves the sustainability of realized competitive advantages, which 	
+subsequently leads to performance. In a similar vein, Leonidou et al. (2014) provide evidence of the usefulness of trust and commitment in the exporter-customer relationships. These authors suggest that trust and commitment are critical in this relationship, because they reduce the risks and uncertainties associated with the large geographical and psychological distance between the exporter and the overseas client. Despite the potential usefulness of trust and commitment in providing a more insightful and comprehensive understanding of exporting relationships, there is yet to be a study that has empirically tested these two relational tenets on the resources, capabilities and export performance relationship (Leonidou et al., 2008). As a result, Feng et al. (2017) have called for the mediation of the marketing capabilities and export performance relationship so as to comprehend the mediating mechanisms of how marketing capabilities impact exporting firm's performance. Scholars such as Bloemer et al. (2013) and Da Rocha et al. (2012), therefore, suggest that mediating variables such as trust and commitment be incorporated in the export performance model.
+   Accordingly, this study draws on the commitment-trust theory, to develop and test these two relational variables on the resources-capabilities-performance relationship, which is critical for export success (Leonidou et al., 2008). This is particularly important in this study because exporting firms in Ghana have limited resources, and consequently, it is important that the firms, in addition to the resources and capabilities they possess, build trust and commitment by cooperating with their foreign clients to preserve investments relationships to help sustain competitive advantage which, in turn, leads to enhanced export performance (Morgan and Hunt, 1994).
+   Finally, extant literature suggests that theories that originate from the developed countries may not be able to sufficiently explain the issues of developing countries, possibly due to contextual and other environmental factors (Wright et al., 2005; Meyer and Peng, 2005). For instance, Meyer and Peng (2005) argue that the types of resources and capabilities that help to achieve competitive advantage in emerging markets are different from that of the developed markets. Consequently, with the nuances varying across the different economic settings, we recognize the need to establish a better understanding of context-specific issues in marketing, since without it, scholars and practitioners alike may be misled and vulnerable to leaky idiosyncrasies. The paper further argues that similar to most of the constructs utilized in business management research, no single theory is sufficiently enough to explain the complexities in a given phenomenon (Chen, et al., 2016). Thus, the authors assert that depending on the research standpoint, multiple theories could be employed to help provide an improved understanding of the nuances regarding the research area.
+   From the foregoing discussion, the current paper makes two major contributions to the growing body of literature. First, in terms of international marketing theory building, this paper contributes to the international marketing literature by providing a validated model by drawing on the RBV and commitment-trust theory to depict the relationships between social media resources, marketing capabilities, trust, commitment and export performance. This study departs from previous studies that utilized single theories (e.g. RBV), by extending the RBV to include commitment and trust as mediators in the export performance model, in an attempt to understand how these theories help to explain the idiosyncrasies and contextual variations surrounding emerging economies such as Ghana. Second, the findings of this
+
+
+
+IMR 37,2
+
+
+
+276
+
+study offer international marketers or exporting managers a better understanding of the strategies/activities they need to adopt to achieve sustainable competitive advantage in their export processes, as this will help them improve their firms' export performance.
+   The rest of the paper is structured in the following order: first, the study provides a review of theory underpinning the study which leads to model and hypotheses development. Next, the research methodology is presented, followed by the findings. Finally, discussion, conclusions as well as the implications, contributions, limitations and future research
+
+	 directions are presented.
+
+Theoretical and hypotheses development
+The theories underpinning the current research are the RBV (Barney, 1991) theory and commitment-trust theory (Morgan and Hunt, 1994). The RBV theorizes that resources and capabilities that are valuable, rare, imperfectly inimitable and exploitable by the firms' organization (VRIO) are deemed crucial sources of sustained competitive advantage and superior performance (Kozlenkova, et al., 2014; Barney, 1991). According to such theorists, these resources represent exclusive bundles of interconnected assets (tangible and intangible), capabilities, information and knowledge a firm controls that allow it to perceive and implement strategies to enhance efficiency (Barney, 1991). The essential function performed by resources in helping businesses to achieve performance benefits has been well espoused by the proponents of the theory. The RBV theory further posits that resources are essential for firms that seek to succeed in competitive environments (Kozenkova et al., 2013). Consequently, Barney (1991) espouses that businesses could achieve sustainable competitive advantage and exceptional performance only if they can effectively convert these resources (such as social media) into capabilities (i.e. informational and relational).
+   Though social media technologies are difficult to patent, the relationships that firms build and maintain with their customers could be resources that are valuable, rare and imperfectly imitable. These resources must be organized to capture value from them. The RBV theory supports the view that resources are the central tenets for firms that want to remain competitive and attain superior performance.
+   In line with the RBV theory, Gao et al. (2018) assert that relational resources can improve the strategic position of a business, increase its competitiveness and contribute to its performance through the development of marketing capabilities. Following the foregoing discourse, the use of social media as a resource to build a firm's marketing capabilities to enhance performance is no exception to the underlying assumptions of the RBV theory. Thus, this current study, by way of extending the RBV theory, conceptualizes social media resources as a valuable external relational resource, which, when properly utilized, can create strong informational and relational capabilities for exporting firms that will be difficult for others to imitate which will, in turn, increase their performance.
+   The RBV aids the understanding of the means used by firms to leverage their investments in Internet technologies (Barney and Clark, 2007). The RBV is thus used as a theoretical lens to best explain how social media could be integrated into existing international marketing theory. The theory is relevant to the current study as it suggests that relationships firms build with their clients can be regarded as intangible market resources that provide firms with significant advantages. According to Barney (1991), resources are valuable if they minimize a firm's costs or maximize revenue compared to what the situation would have been if the firm did not possess that resource. Based on this assertion, we argue that relationships that firms build with their customers through social media technologies are valuable, because firms are able to minimize their cost through cheaper means of communication and promotion on social media platforms (Hanna et al., 2011). Strong relationships between firms and their overseas clients on social media are rare resources, because not all firms are able to build such
+
+
+
+relationships. Moreover, extant marketing literature suggests that many firms are unsuccessful at developing relational resources (King and Burgess, 2008).
+   Social media platforms offer firms accounts that are exclusive to them, and they are able to improve quality of relationships with their overseas customers through these accounts; this quality will be difficult, if not impossible, for competitors to imitate (Palmatier et al., 2007), and hence, it could be argued that social media resources are imperfectly imitable. Firms that do not possess social media resources cannot acquire them through direct duplication or substitution
+
+Social media and export performance
+
+
+277
+
+(Kozlenkova et al., 2014). A firm must be organized to leverage its social media resource. Strong 	
+social media resources rely on organizational factors such as managerial support and internal and external communication; thus, the organization acts as an inhibitor or enabler of the benefits embedded in its valuable, rare and imperfectly imitable social media resources
+   However, some researchers in marketing aver that investing in resources (Feng et al., 2017; Tan and Sousa, 2015) and capabilities alone does not always provide sufficient direct performance benefits. As a result, scholars such as Feng et al. (2017) and Bloemer et al. (2013) advocated for possible intervening variables such as commitment and trust, which are likely to enhance the resource-capability-performance relationship.
+   The commitment and trust theory have been employed by scholars in numerous studies in areas such as retailing, banking and finance, as well as tourism and hospitality (Mukherjee and Nath, 2007; Nusair et al., 2013; Gan et al., 2007). It must, however, be mentioned that although these variables have been used across diverse industries, all these studies confirm commitment and trust as key mediating variables that are relevant to any successful relational exchange involving suppliers, customers and employees (Morgan and Hunt, 1994). In a similar vein, theorists of the commitment trust theory submit that relationships between firms and their customers would only be successful when there is commitment and trust on both sides. In international marketing research, commitment and trust are very important due to the fact that they help international businesses to conserve investments in relationships through cooperation with business partners (Morgan and Hunt, 1994). The presence of both commitment and trust in any relationship results in outcomes that lead to productivity and efficiency (Morgan and Hunt, 1994). Based on these foregoing theorising, this study espouses that commitment and trust are mediators of the link between resources- capabilities and export performance.
+
+
+Social media resources and export performance
+Although several possible definitions of social media exist, this current study adopts that of Kaplan and Haenlein (2010), for its simplicity and comprehensiveness. Kaplan and Haenlein (2010, p. 61) define social media as "a group of internet-based applications that build on the ideological and technological foundations of Web 2.0, and allow the creation and exchange of user generated content." Recent statistics indicate that more than 1.44 billion active monthly users of Facebook spend over 700 billion minutes on the website; 500 million tweets are sent through Twitter every day; and 70 million photos/videos are uploaded on Instagram (Sakyi- Gyinae, 2015). This research assesses two social media sites (Facebook and Twitter). The reason for this choice is as a result of the recent submissions by Aladwani (2015), which suggestively rate these two as major platforms utilized by businesses and consumers. Social media has gained prominence and popularity as a marketing communication tool over the past decade, and extant literature indicates that it influences consumer behavior (Constantinides and Fountain, 2008).
+   From the perspective of international marketing, by using social media in their international advertising, firms can offer global reach and personalization, thus making it possible for them to have an improved relationship with their customers (Okazaki and Taylor, 2013). The relationships firms build with their clients on their social media platforms
+
+
+
+IMR 37,2
+
+
+
+278
+
+can be valuable resources which can earn them sustained competitive advantage through high publicity of the firm and its offerings, increased traffic, enhanced search-engine ranking and improved sales (Stelzner, 2011). Inferring from this, it can be observed that the RBV of firms is fundamental in the social media and performance relationship. Zhang et al. (2013) also argue that the utilization of Internet technologies offers businesses the ability to enhance performance in foreign markets. Supporting this argument, Pezderka et al. (2012) reveal that firms that utilize Internet in communicating and building relationships with their customers
+
+	 experience improved export performance. Largely, evidence exists to suggest that social media resources positively affect firm performance (Luo et al., 2013; Zhang et al., 2013). For instance, the findings of Zhang et al. (2013) reveal that utilization of Internet technologies offers exporting firms the ability to enhance their performance. Relating the foregoing discourse to the current study, we submit that the pertinent role of social media as a resource in creating relationships with customers is a significant consideration for exporting firms, as firms that invest substantially in their social media resources will more likely increase their performance benefits. Thus, we hypothesize that,
+H1. Social media resources will have a positive significant relationship with export performance
+
+Social media resources, marketing capabilities and export performance
+In line with the RBV, prior studies suggest that a firm that is able to create distinctive capabilities enjoys superior organizational performance (Menguc and Auh, 2006). Vorhies (1998, p. 4) defines marketing capabilities as "integrative processes designed to apply the collective knowledge, skills and resources of the firm to the market-related needs of the business, enabling the business to add value to its goods and services, adapt to market conditions, take advantage of market opportunities and meet competitive threats". The marketing capabilities firms possess are very crucial to their operations because they are recognized as one of the basic modes for attaining competitive advantage (Day, 1994; Day and Wensley, 1988) and superior performance. Thus, exporting firms that are proficient in converting their resources into value adding capabilities are more likely to enjoy superior performance.
+   The manner in which social media is embedded in the business processes of exporting firms varies. However, exactly how businesses leverage their investments to generate distinct social media-specific capabilities influences the success of a business (Zhu and Kramer, 2002). The RBV is extensively used to elucidate how capabilities are more inherent in the firm's ability to leverage resources than in the resource itself (Gregory et al., 2017). Capabilities are central to exporting firms and could be a vital source of competitive advantage (Murray et al., 2011). Thus, social media resources could be significant resources for creating relational and informational capabilities for firms (Freeman and Styles, 2014), as they facilitate an organization's ability to exchange information and to build and maintain relationships with overseas partners (Kaleka and Morgan, 2017). Relational capabilities describe "a firm's capability to create, develop, and manage business relationships" (Pham et al., 2017). Informational capabilities, on the other hand, refer to a firm's capability to acquire valuable export market-related information, and it includes data on clients and rivals. Extant literature depicts two forms of capabilities that are particularly important to the performance of exporting firms and architectural and specialized capabilities (Morgan et al., 2012).
+   Architectural capabilities stem from the learning process of outside markets, the analysis of external information related to the market and the establishment of export marketing
+strategies to respond to external marketing information (Vorhies and Morgan, 2005). On the other hand, specialized capabilities mostly stem from the use of internal resources, developing market processes and implementing efficient export marketing strategies
+
+
+
+(Gregory et al., 2017). The current study views relational and informational capabilities as internally generated (specialized capabilities) as the information systems literature suggests that the use of internal information technology resources enhances processes, minimizes cost and leads to capabilities that boost efficiencies (Gregory et al., 2017). Relational capabilities are particularly crucial in improving performance, especially in new markets, and in facilitating relationships between firms and their partners (Zhou et al., 2012; Pham et al., 2017). Informational capabilities have been found to have an effect on market differentiation and
+
+Social media and export performance
+
+
+279
+
+product development capability (Morgan et al., 2018). In the international marketing 	
+literature, studies on the relationship between marketing capabilities and performance abound, and findings largely show that marketing capabilities influence performance positively (Pham et al., 2017; Mu, 2015; Lee and Zhou, 2012). In this study, we conceptualize marketing capabilities as a firm's ability to use the skills and accumulated knowledge it has in taking advantage of a bundle of interconnected available firm resources and assets to carry out exporting activities. Based on previous studies, we advance the argument that exporting firms will increase their performance through the valuable resources and capabilities they possess. This thus leads us to our next set of hypotheses stated as follows.
+H2. Social media resources have a positive significant relationship with marketing capabilities.
+H3. Marketing capabilities have a positive significant effect on export performance.
+
+
+The   mediating   role   of   commitment   and   trust According to Morgan and Hunt (1994), commitment and trust constitute important mediating variables that mediate the success of any long-term relational exchange. In other words, both commitment and trust are necessary in producing outcomes that promote productivity, efficiency and effectiveness. Commitment can be explained as the partner's belief that an exchange relationship is important and the willingness of the exchange partner to expend some form of effort to maintain it (Wang et al., 2015). Similarly, Morgan and Hunt (1994) describe commitment "as an exchange partner having confidence in the fact that an existing relationship with another is essential to merit great efforts at preserving, that is, an enduring desire to maintain a relationship." Donthu and Kim (1993) assert that commitment in international marketing context is usually defined from the attitudinal viewpoint as a managers' inclination to devote resources to the exporting function.
+   Cavusgli and Zou (1994) explain international commitment from the behavioral perspective, as the resources a firm actually devotes to its foreign businesses. In view of this, the current study posits that relational and informational capabilities acquired from investing in social media resources influence commitment of exporting firms to maintain relationships with overseas clients. Commitment in the international scene is normally demonstrated in several ways such as export management and identifying customers' needs; however, according to Beamish et al. (1993), adapting to the requirements and aspirations of foreign customers is the most important indicator of international commitment.
+   Similarly, in the relationship marketing literature, trust occurs if a party has confidence in an exchange partner's reliability and integrity (Morgan and Hunt, 1994). Bloemer et al. (2013) defined trust as the conviction that an organization's overseas customers will be honest, fair and reliable. Hewett and Bearden (2001) argue that from a relational perspective, trust in the context of buyer-seller relationship is crucial for both persuasion and encouraging future exchanges. Gefen and Straub (2004) aver that interaction with an exchange partner is a precondition of trust, and hence personal or impersonal human interaction contributes to developing trust. Within the exporter-customer relationship, if an exporting firm builds a close relationship with its foreign clients, trust and commitment are more likely to increase for
+
+
+
+IMR 37,2
+
+
+
+280
+
+both parties, thereby reducing potential risks and uncertainties associated with the exporting venture (Morgan and Hunt, 1994). In other words, exporting firms that foster trust in foreign clients and enhance commitment toward its exporting ventures are more likely to improve their export performance.
+   As we previously mentioned, enhanced trust and commitment are critical for exporters' success (Leonidou et al., 2014; Zhang et al., 2003). Indeed, while many have argued for a direct significant relationship between trust, commitment and performance (Ismail et al., 2017;
+
+	 Barnes et al., 2015; Katsikeas et al., 2009), evidence exist to suggest that the relationship is not always direct, and that trust and commitment interact with other contextual variables to influence export performance (Morgan and Hunt, 1994; Obadia et al., 2017). Owing to this, scholars such as Zhang et al. (2003) are urging researchers to consider testing both the direct and indirect effect of trust and commitment in the export performance model as the impact can be both direct and indirect. Although some studies have looked at the role of trust and commitment in the export performance model, the results remain inconclusive.
+   In line with Morgan and Hunt (1994), as well as Zhang et al. (2003), this study argues that trust and commitment mediate the relationships between social media resources and export performance; and marketing capabilities and export performance. These relational variables are relevant in this relationship because they help encourage exporting firms to preserve relationship investments by cooperating with foreign clients. We, therefore, posit that trust and commitment significantly influence export performance directly and also have an indirect effect on social media resources and export performance, as well as marketing capabilities and export performance. Based on the forgoing discourse, we offer the following hypotheses;
+H4(a). Trust mediates the relationship between social media resources and export performance.
+H4(b). Commitment mediates the relationship between social media resources and export performance.
+H5(a). Commitment mediates the relationship between marketing capabilities and export performance.
+H5(b). Trust mediates the relationship between marketing capabilities and export performance.
+H6(a). Trust has a positive significant relationship with export performance.
+H6(b). Commitment has a positive significant relationship with export performance.
+The model in Figure 1 theorizes that exporting firms' social media resources and the marketing capabilities they possess act as antecedents to trust and commitment to enable exporting firms realize superior export performance. We argue for positive influences of both social media resources and marketing capabilities either directly or indirectly (via trust and commitment) on export performance. Although, it is possible for exporting firms to achieve their export performance directly from their resources, we anticipate that firms that are able to harness and deploy their resources and capabilities effectively in sync with trust and commitment are better able to achieve optimum export performance (see Figure. 2).
+
+
+Methodology
+Research design, sample and procedure
+In testing the hypothesized relationships, we employed a quantitative approach using self- administered questionnaires to collect data from the exporting firms. The questionnaire was
+
+
+Social media and export performance
+
+H1
+281
+
+
+
+
+
+
+
+
+Figure 1.
+Research model
+
+
+
+separated into Section A and Section B. Section A constituted the background information of the exporting firms (firm size, type of social media platform they own, number of years of being in business, industry/sector), and Section B looked at the measures on social media resources, marketing capabilities (relational and informational capabilities), trust and commitment and export performance. With the exception of Section A, which dealt with the profile of the exporting firms, all other variables in Section B were examined using five-point Likert scales which ranged from "1 5 strongly disagree" to "5 5 strongly agree." Section B contained statements on social media resources as well as export performance, which were adapted from Gregory et al. (2017) and measured with four and eight items, respectively; the relational capability variable was measured with five items and informational capabilities five items, and both were from Pham et al. (2017) and Kaleka and Morgan (2017), respectively; finally, trust had three items and commitment four items, and both were also adapted from Bloemer et al. (2013). To establish face and content validity, the initial scales were pre-tested using three international marketing faculty members of the Department of Marketing and Entrepreneurship, University of Ghana, two managers from export firms in Ghana and eight doctoral students from the University of Ghana to ensure the suitability of the survey questions (Saunders et al., 2009). Based on the feedback received, several changes were incorporated into the instrument to improve clarity.
+
+Control                                   variables The study incorporated three controls to guarantee that the results were not unduly affected. The study controlled for the age of the firm, the social media platform the firms were using and firm size. The firm size was determined by the number of employees that are likely to influence export performance (Wolff and Pett, 2000). The study adopted the categorization by United Nations Industrial Development Organisation (UNIDO) for least developed economies (Abor and Quartey, 2010). The age of the business is linked to the number of years the exporting firms have been in operation (Lages and Jap, 2002).
+
+
+
+IMR 37,2
+
+
+
+282
+
+
+
+
+0.49
+-0.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2.
+Final
+measurement model
+
+
+Population and sampling procedure
+The population of this current study included all firms undertaking non-traditional export (NTE) activities in Ghana (Ghana Export Promotion Authority [GEPA], 2016). The GEPA (2016) list revealed that there were 312 registered SMEs who were actively undertaking NTE
+
+
+
+activities in Ghana. To ensure adequate experience and knowledge of the subject matter under study, firms were screened to target only exporting firms that have been engaging in exporting activities continuously for not less than 3 years and also had active Twitter and/or Facebook account that was helping them with their exporting activities. We purposively contacted 250 exporting firms (who were into product manufacturing) from the GEPA database via their emails and by telephone using phone numbers recorded in their profiles/ bios to elicit participation in our study. More specifically, we first contacted the 312 exporting
+
+Social media and export performance
+
+
+283
+
+firms via their email addresses provided in the GEPA database, to solicit their participation in  	
+the study. About one-third (104) of the emails were returned due to invalid email addresses. However, 208 representing two-thirds of the exporting firms received the email. Out of this number, 150 firms agreed to partake in the study. To maximize rate of response, two reminders were sent, and we also made phone calls using the telephone numbers provided in the GEPA database to those that had invalid email addresses, seeking their consent to partake in the study. This particular exercise generated an additional 100 respondents. Consequently, meeting dates with the managers of the exporting firms were scheduled, where the survey instruments were administered face-to-face. It is worthwhile to mention that we promised the firms a snapshot of the findings which we believe motivated them to agree to partake in the study. Moreover, due to the managers' prior commitment to participate in this research and the extensive personal follow-ups and remainders, we were able to retrieve about 84% of the questionnaires.
+   To estimate non-response bias, the recommendation proffered by Armstrong and Overton (1977) was followed. Using Pearson's chi-square test, we compared the responses from those we contacted via email (early respondents) and the responses of those we contacted through phone calls (late respondents) by testing for the mean differences for firm's age in operation and firm size over a period of one month. The results showed no significant differences between early and late respondents for firm's age in operation (p 5 0.452) and firm size (0.447). Thus, non-response bias was considered not an issue in this current study.
+   Furthermore, to minimize common method bias (CMB) (Podaskoff et al., 2012), first, the information provided by the firms was obtained from three "key persons" from each firm. The key respondents had to occupy an integral position that made them more knowledgeable about the exporting undertakings of their businesses and also involved in their business's policy-making decisions with regards to international business (Boso et al., 2013). Thus, the key respondents chosen played a part in planning, leading and in controlling of the firm's resources (Sousa et al., 2010), and thus are generally capable of providing valid responses (Abdullah, 2010). For instance, in most of the firms, the CEOs completed the part relating to the firm's profiles, export managers complemented the marketing capabilities measures as well as the trust and commitment measures, whereas the finance officers completed the export performance measures. Second, we statistically conducted two tests to show that CMB was not an issue for this current study (Lu et al., 2010). First, we performed a Lindell and Whitney's (2001) test through a marker variable approach. The results showed no significant correlation between the marker variable item and export performance (r 5 0.013, p > 0.05). The results also showed no significant correlations between the marker variable item and other constructs, ranging between 0.013 and 0.065, which suggests that CMB does not affect this study. Next, Harman's one-factor test in confirmatory factor analysis was run; the results indicate that no single factor accounted for more than 30% of the variance; this was lower than the 50% threshold recommended by Podsakoff and Organ (1986), indicating that CMB
+was not an issue in this study.
+   From the 250 questionnaires returned, 210 representing 84% valid questionnaires from the participating firms became useable for further analysis. All statistical data were analyzed using IBM SPSS version 21 and structural equation modeling (SEM) version 22.
+
+
+
+IMR 37,2
+
+
+
+284
+
+Analyses and results
+As displayed in Table 1, the statement "the adoption of social media has facilitated the identification of prospective customers to make contacts in the export market" recorded the highest mean of 4.76. Conversely, the lowest mean of 3.20 was recorded on the statement "foreign clients will continuously keep a trade secret regarding our businesses. This finding indicates that utilizing social media enables exporting firms to locate their prospective customers in the export market whereas the lowest mean score suggests that foreign
+
+	 customers of the firms rarely keep a trade secret regarding the firms" business.
+
+Structural equation modeling analysis (SEM)
+A two-staged approach was used in the analysis (Anderson and Gerbing, 1988). In the first stage, we estimated the measurement model (confirmatory factor analysis) using maximum likelihood approach, whereas the structural model was tested in the second stage. More specifically, CFA was performed in the initial phase to examine the reliability and validity of the constructs and the scales used (Byrne, 2016). To do this, we assessed the reliability of the measurement items by inspecting their respective internal consistency values using Cronbach's alpha (CA), composite reliability (CR) and the factor loadings of the items on their corresponding constructs. As shown in Table 2 the CFA results reveal that CA (a), CR, AVEs as well as factor loadings were above the recommended thresholds (Fornell and Lacker, 1981; Bagozzi and Yi, 2012), thus providing evidence of satisfactory item convergence for all the constructs.
+   In addition, Table 3 illustrates that the square roots of the AVEs for the constructs are consistently greater than the correlations between the constructs (Fornell and Lacker, 1981), thus giving support for discriminant validity.
+   Model fit was determined using ?2/df 5 1.49, comparative fit index (CFI) 5 0.97, Tucker- Lewis index (TLI) 5 0.96, normed fit index (NFI) 5 0.91, root mean square error of approximation (RMSEA) 5 0.05. Based on these findings, we can conclude that the specified measurement model reliably fits the data collected since all the fit indices fall within the cut- off limits (Schreiber, 2008). See Table 4:
+
+
+Hypotheses testing using SEM
+After confirming the reliability and validity of the measurement model, we proceeded to test the hypothesized structural relationships between the constructs using Amos 22. The output results of the structural model show good fit, with ?2/df 5 1.44, NFI 5 0.93, IFI 5 0.96, TLI 5 0.96, CFI 5 0.96 and RMSEA 5 0.05. Regarding the hypothesized direct relationships, the study found support for all the hypotheses H1 (ß 5 0.427, p < 0.001), H2 (ß 5 0.594, p < 0.001), H3 (ß 5 0.418, p < 0.001), H6a (ß 5 0.237, p < 0.001) and H6b (ß 5 0.480, p < 0.001),
+as displayed in Table 5. However, with respect to the control variables, the study found no
+significant relationships between the age of the firm, social media page as well as size of the firm and export performance.
+
+
+Mediation analysis test
+The study sought to establish the mediating effect of trust and commitment on the relationship between social media resources and export performance (H4a, b) as well as trust and commitment on the relationship between marketing capabilities and export performance (H5a, b). Following the bootstrapping method proffered by Preacher and Hayes (2004) as well as MacKinnon et al. (2004), the mediation test was carried out using a bootstrap sample of 2000. Table 6 presents the results of this analysis.
+
+
+
+
+Scale itemVariable code
+Mean
+SDS.E.
+MeanSocial media
+and exportSocial media resources
+This company invests substantially in a budget for social media
+SMR1
+4.46
+0.58
+0.04performanceexport development
+This company invests substantially in staff who are in charge of
+SMR2
+4.33
+0.66
+0.04social media export development285This company invests substantially in a dedicated social media
+team for export marketing development
+This company invests substantially in services to support socialSMR3
+
+SMR44.35
+
+4.440.62
+
+0.540.04
+
+0.04media export salesRelational capabilities
+Social media adoption has given us the ability to create relationships
+ReCap1
+4.44
+0.67
+0.05with new clients
+Social media adoption has given us the ability to maintain
+ReCap2
+4.20
+0.74
+0.05relationships with new existing clients
+Social media adoption has given us the ability to effectively
+ReCap3
+4.01
+0.78
+0.05communicate with clients
+Social media adoption has given us the ability to jointly solve
+ReCap4
+4.11
+0.80
+0.05problems with clients
+Social media adoption has given us the ability to achieve targets
+ReCap5
+4.29
+0.77
+0.05when negotiatingInformational capabilities
+The adoption of social media has facilitated the identification of
+InCap1
+4.42
+0.73
+0.05prospective customers
+The adoption of social media has facilitated the identification of
+InCap2
+4.27
+0.79
+0.05prospective customers in capturing important market information The adoption of social media has facilitated the identification of
+InCap3
+4.28
+0.76
+0.05prospective customers acquisition of export market related information
+The adoption of social media has facilitated the identification of
+
+InCap4
+
+4.76
+
+0.64
+
+0.04prospective customers to make contacts in the export market The adoption of social media has facilitated the identification of
+InCap5
+4.45
+0.75
+0.05prospective customers monitoring competitive products in the export marketCommitment
+This company desires to devote much time in knowing our overseas
+Com1
+3.58
+0.79
+0.05customers
+This firm will devote the resources essential to grow worthy
+Com2
+3.60
+0.81
+0.05relationships with foreign customers
+Activities of this company will be disturbed if we end our
+Com3
+3.61
+0.83
+0.06relationships with our overseas customers
+We have insufficient choices to consider terminating our
+Com4
+4.18
+0.84
+0.06relationship with overseas clientsTrust
+Foreign clients have been truthful in their dealings with us
+Trst1
+3.48
+0.98
+0.07Our foreign clients will continuously keep a trade secret regarding our business
+Foreign clients are honest about problems they caused in ourTrst2
+
+Trst33.20
+
+3.840.91
+
+0.830.06
+
+0.06working relationship
+Our firm trusts our overseas customers
+Trst4
+3.65
+0.88
+0.06
+Table 1.
+
+(continued )
+
+Descriptive statistics of construct measures
+
+
+
+
+
+
+IMR
+37,2
+Scale itemVariable code
+Mean
+SDS.E.
+MeanOur company has a very long association with the foreign customers we transact business withTrst53.721.010.07286Export performance
+The adoption of social media has enabled us to offer lower cost
+Eperf1
+4.16
+0.55
+0.04channels for transacting with customersThe adoption of social media has enabled us to maintain
+relationships    with    overseas    customers The adoption of social media has enabled us to exploit new sourcesEperf2
+
+Eperf33.75
+
+3.690.72
+
+0.770.05
+
+0.05of revenue
+The adoption of social media has enabled us to reduce our operating
+Eperf4
+3.69
+0.81
+0.05cost
+The adoption of social media has enabled us to offer new services to
+Eperf5
+3.71
+0.82
+0.06our existing customers
+The adoption of social media has enabled us to develop stronger
+Eperf6
+3.85
+0.79
+0.05relationships with suppliers and customers
+The adoption of social media has enabled us to access new
+Eperf7
+4.48
+0.55
+0.04international markets
+The adoption of social media has enabled us to introduce new
+Eperf8
+4.33
+0.62
+0.04Table 1.products/services to the international market quickly
+
+
+
+
+ConstructVariable codeFactor loadingsT-valueCRAVECASocial media resourcesSMR20.77***Fixed0.920.680.74SMR30.77***9.41Marketing capabilitiesRelationalRecap10.75***Fixed0.910.670.88Recap20.76***11.15Recap30.81***12.02Recap40.75***11.11Recap50.78***11.54InformationalInCap10.77***Fixed0.880.590.86InCap20.81***12.09InCap30.75***11.11InCap50.80***12.03CommitmentCom10.86***Fixed0.860.610.91Com20.87***16.89Com30.89***17.62TrustTrst10.86***14.840.910.760.91Trst20.84***14.26Trst30.85***14.48Trst40.72***11.80Trst50.80***FixedExport performanceEperf30.81***Fixed0.740.590.92Eperf40.87***14.64Table 2.Eperf50.87***15.18CFA results for finalEperf60.90***15.74measurement modelEperf70.67***10.89
+
+
+The mediation analysis found trust and commitment to partially mediate the relationship between social media resources and export performance, since the direct path from social media resources to export performance and the indirect paths through trust and commitment were found to be significant. Hence, providing support for H4a and H4b. Additionally, it can be observed from Table 6 that trust and commitment fully mediated the relationship between marketing capabilities and export performance, since the direct relationship between marketing capabilities and export performance became insignificant when the mediators
+
+Social media and export performance
+
+
+287
+
+(trust and commitment) were introduced into the relationship. Thus, providing support for 	
+H5a and H5b.
+   On the whole, the model explained substantial variance in trust (R2 5 0.13), commitment (R2 5 0.22) and export performance (R2 5 0.45). It is safe therefore to conclude that taking an integrative approach is favorable as it provides a better explanatory capacity for export performance.
+
+Discussion and conclusions
+The purpose of this paper is to examine the influence of exporting firms' social media resources on their export performance, as well as the influence of commitment and trust on the link between social media resources, marketing capabilities and export performance in an emerging economy context. In this study, social media resources were conceptualized as external relational resources, which when properly utilized can create strong relational and informational capabilities for exporting firms which will, in turn, influence export performance. The result of this study indicates a significant positive relationship between social media resources, marketing capabilities and export performance. The results further indicate that commitment and trust serve as key mediators of the relationship between social media and export performance and marketing capabilities and export performance.
+   More particularly, the results depict a significant positive relationship between social media resources and export performance (H1). This finding is consistent with prior research. For instance, the findings of Alarcon et al. (2015) indicate that social media can have tremendous effect on online marketing strategies of export-oriented firms in overseas markets, and also allows exporting firms to have a better potential to benefit from
+
+
+
+CRAVE1234561. Export performance0.920.680.832. Trust0.910.670.660.823. Relational capabilities0.880.590.520.600.77Table 3.4. Informational capabilities0.860.610.270.490.580.78Discriminant/5. Commitment0.910.670.750.780.600.430.87correlation matrix6. Social media resources0.740.590.510.430.670.610.570.77with AVEs
+
+Fit indicesAcceptable thresholdInitial resultsFinal obtainedx2/df=31.671.49CFI=0.900.950.97TLI=0.900.950.96Table 4.NFI=0.900.890.91Fit indices ofRMSEA=0.080.070.05measurement model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HypothesesStructural pathsB estimateT-valuep-value	R2	ResultsH1Social media resources? Export performance0.4277.06***0.18SupportedH2Social media resources ? Marketing capabilities0.59411.05***0.35SupportedH3
+?2/df 5 1.44Marketing capabilities ? Export performance NFI 5 0.93 IFI 5 0.96 TLI 5 0.96 CFI 5 0.970.418
+RMSEA 5 0.056.95***0.19SupportedNote(s): ***p = 0.001 H: Hypotheses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+performance
+Note(s): R2 5 0.45; ***p = 0.001 H: hypotheses
+
+Results of mediation
+analysis
+
+
+
+
+international market growth opportunities. The effect is attributed to the fact that social media tools offer enhanced communication with customers and lessen or remove physical distances.
+   The results for H2 also indicate a positive significant relationship between social media resources and marketing capabilities (informational and relational capabilities). This finding is similar to the results of previous studies (Trainor et al., 2014). This implies that when firms view social media as a resource, it impacts customer relationship outcomes significantly through firms' capabilities. Additionally, the study revealed in H3 a positive significant relationship between marketing capabilities and export performance. This finding confirms the results of previous studies (Pham et al., 2017; Konwar et al., 2017). For example, Pham et al. (2017) found that an organization's relational capabilities strengthened the efficiency of pricing and communication capabilities on export performance. Similarly, Kaleka (2011) found informational capabilities to positively impact the performance of export firms. However, this finding disconfirms De Carolis (2003), who found that marketing capabilities do not have a significant impact on firm performance.
+   For H4(a-b), we found that trust and commitment partially mediated the relationship between social media resources and export performance, as both the direct and indirect paths were found to be significant. This result reiterates the fact that the mere possession of resources does not necessarily guarantee superior or enhanced export performance. This finding is consistent with Trainor et al. (2014), who argue that the mere adoption of a technology will not necessarily translate into enhanced competitive advantage. Furthermore, this study points to the fact that trust and commitment are key to achieving superior export performance. In addition, the study confirms the commitment trust model of relationship marketing, as indicated by Morgan and Hunt (1994), who assert that commitment and trust are key mediating variables of relationship outcomes. The partial mediation effect of trust and commitment on social media resources and export performance implies that although social media resources alone can influence export performance, the relationship is enhanced when there is trust and commitment.
+   The results for H5(a-b) indicate that commitment and trust fully mediated the marketing capabilities and export performance relationship. This finding underscores the salience of
+
+
+
+IMR 37,2
+
+
+
+290
+
+trust and commitment in the marketing capabilities-export performance relationship, since without trust and commitment, the marketing capabilities that the exporting firms possess will not generate the desired export outcomes. Thus, the effective implementation of export marketing strategies to enhance a firm's performance necessitates the need for both trust and commitment.
+   Finally, in H6(a-b), we found a direct significant relationship between trust and export performance as well as commitment and export performance. The results of this study are
+
+	 consistent with previous studies. For example, Navarro et al. (2010) aver that firms that are more committed to their foreign markets are more willing to adapt elements of their marketing strategies that enable them to perform relatively better in foreign markets.
+   In conclusion, extant literature indicates that investments in social media resources have become a usual practice in exporting firms, and they are necessary for boosting export performance; however, these studies offer minimal insights on how such resources translate into improved export performance. In particular, the study concludes that adopting social media directly influences export performance. The results have also shown that social media influences an organization's ability to develop and improve upon their relational and informational capabilities. These capabilities can only influence export performance through the commitment and trust of export firms and gaining commitment of clients. The study has also indicated that trust and commitment were key mediating variables between social media resources and export performance. The study has also highlighted how building trusting relationships can positively influence the effect of marketing capabilities on export performance. Our overall results support the resource-capability-performance nexus and demonstrate how it can be extended to marketing activities which deal with applying technologies in exporting.
+   These findings indicate that the use of social media as a strategic tool in boosting the performance of firms in international markets seems to be ubiquitous among SMEs in emerging markets such as Ghana too. Though past research suggests SMEs in emerging markets seldom utilize Internet-based technologies in their commercial activities (Abou- Shouk et al., 2013), these results depict social media resources are used to supplement marketing activities of these firms. In recent times, Internet penetration and smart technology adoption are becoming widespread globally; hence, it is necessary for exporting ventures in emerging markets like Ghana to use unconventional means to reach their customers. Since exporting SMEs in Ghana do not have sufficient resources to compete favorably in foreign markets, the emergence of social media presents unique opportunities tothem to develop and maintain relationships and enhance interactions with customers in foreign markets at minimum cost; this enhances their performance.
+
+
+Theoretical       and       managerial       implications Social media influences innovation and relationship building in international marketing, as it offers a unique mode of communicating, building and maintaining relationships and a source of information exchange in international business. This paper makes several contributions to the growing body of literature. First, in terms of international marketing theory building, this study departs from previous studies that utilized a single theory (e.g. resource-based view) to understand an international marketing phenomenon, by attempting to combine two theories, namely, RBV and commitment-trust theory, to examine social media resources influence on export performance as well as on marketing capabilities and export performance and the role commitment and trust have on these relationships. It is worthy to mention that although the RBV has been empirically proven for its predictive ability to explain a significant amount of variance, including the commitment and trust in the model provides a better explanatory power to our model. Therefore, at the conceptual level, this study represents a response to
+
+
+
+calls for research on theory integration (Chen et al., 2016) to help offer a better understanding of the nuances regarding international marketing research.
+   Second, this current study has empirically tested these theories using data from an emerging economy setting in sub-Saharan Africa. In earlier sections, it was established that theories that are developed in the Western economy may not apply to a non-Western economy, owing to market heterogeneity and other contextual factors (Wright et al., 2005; Meyer and Peng, 2005). Indeed, evidence exists to suggest that the types of resources and
+
+Social media and export performance
+
+
+291
+
+capabilities that help to achieve sustained competitive advantage in developing/emerging 	 economies  are  different  from  that  of  the  developed  economies.  Thus,  with  the  nuances varying across the different economic settings, there was the need to test these theories in an
+emerging economy context in order to establish a clear understanding of context-based marketing issues, since without it both academics and practitioners alike may be deluded and vulnerable to leaky idiosyncrasies. Hence, by linking social media resources and marketing capabilities to commitment and trust, the study has assessed the extent to which an export firm's resources influence performance benefits directly or indirectly through commitment and trust. This study contributes to the global international marketing literature by providing strong theoretical perspective, that when exporting firms develop strategies for universal markets, Western theories/models could be applicable in evaluating their marketing nuances and ramifications. The results of this study contribute profoundly to the global marketing literature with findings that are plausibly similar or different from those found in other emerging or developed countries.
+   A third contribution of this study is the examination of the mediating effect of commitment and trust on social media resources, marketing capabilities and export performance. The findings in this study provide fresh insights by amplifying the positive mediating effect of commitment and trust on the resources-capabilities and export performance relationship. Given the positive mediating effect of the interaction, it is likely that firms adopting social media as a resource without coupling such resource with commitment and trust are missing an opportunity to further enhance their export performance.
+   The practical implication of the ongoing discussion is that for exporting firms in a developing country such as Ghana, seeking to achieve sustained competitive advantage and superior performance, the apparent effect of integrating multiple variables is key as it provides enhanced performance benefits. More specifically, exporting firms may not achieve superior performance by investing in their social media resources alone; however, a firm that shows commitment and builds trust in its social media resources is well positioned to exploit the advantage of the rich information from the resources. Additionally, the results suggest that export performance can be achieved not only through the adoption of social media resources but also through the development of marketing capabilities that enable firms to better serve their overseas clients. In this regard, this paper will enable exporting managers and international marketing practitioners not only in Ghana, but across the globe, to better understand that when they combine unique marketing capabilities such as effectively communicating with their foreign clients in addition to commitment and trust, the effect of social media resources on export performance will be enhanced.
+
+
+Limitations and directions for future research
+Despite the delineated contributions, there are limitations to this study that need to be taken into consideration when interpreting the findings. First, the study tested the relationships among the constructs using exporting firms from a single country, specifically Ghana. Therefore, the result cannot be generalized to different industries, contexts and settings. Therefore, it will be interesting for future studies to test our model in other settings in order to
+
+
+
+IMR 37,2
+
+
+
+292
+
+confirm the findings. Second, the effects examined in this current study are that of relationships, and not causalities, as the research design employed was cross-sectional in nature. Opportunities therefore exist for future research to conduct longitudinal studies to establish causality over time. Third, the sample was drawn from manufacturing exporting firms who were users of Twitter and Facebook only; this poses a threat to the external validity of the findings and may limit the generalizability of the conclusions to other populations. Future studies can therefore look at different exporting firms from different
+
+	 industries to enhance generalizability. Lastly, there may be possible variations in the research relationships investigated because we failed to control for some key variables such as export experience and human capital. These variables were not tested because they were outside the remit of this study. We therefore recommend that other studies examine such possible variations to advance theory. Despite the acknowledged limitations of this study, the paper makes significant contribution to the international marketing literature, especially in developing/emerging economies context by providing useful insights from such contexts.
+
+
+References
+Abdullah, A. (2010), "Measuring TQM implementation: a case study of Malaysian SMEs", Measuring Business Excellence, Vol. 14 No. 3, pp. 3-15.
+Abor, J. and Quartey, P. (2010), "Issues in SME development in Ghana and South Africa", International Research Journal of Finance and Economics, Vol. 39 No. 6, pp. 215-228.
+Abou-Shouk, M., Megicks, P. and Lim, W.M. (2013), "Perceived benefits and E-Commerce sdoption by SME travel agents in developing countries: evidence from Egypt", Journal of Hospitality and Tourism Research, Vol. 37 No. 4, pp. 490-515.
+Ahmad, S.Z., Ahmad, N. and Abu-Bakar, A.R. (2018), "Reflections of entrepreneurs of small and medium-sized enterprises concerning the adoption of social media and its impact on performance outcomes: evidence from the UAE", Telematics and Informatics, Vol. 35 No. 1, pp. 6-17.
+Ainin, S., Parveen, F., Moghavvemi, S., Jaafar, N.I. and Mohd Shuib, N.L. (2015), "Factors influencing the use of social media by SMES and its performance outcomes", Industrial Management and Data Systems, Vol. 115 No. 3, pp. 570-588.
+Aladwani, A.M. (2015), "Facilitators, characteristics, and impacts of twitter use: theoretical analysis and empirical illustration", International Journal of Information Management, Vol. 35 No. 1,
+pp. 15-25.
+Alarc?on, M.D.C., Rialp, A. and Rialp, J. (2015), "The effect of social media adoption on exporting firms' performance", Entrepreneurship in International Marketing, Emerald Group Publishing,
+pp. 161-186, doi: 10.1108/S1474-797920140000025007.
+Anderson, J.C. and Gerbing, D.W. (1988), "Structural equation modeling in practice: a review and recommended two-step approach", Psychological Bulletin, Vol. 103 No. 3, p. 411.
+Armstrong, J.S. and Overton, T.S. (1977), "Estimating nonresponse bias in mail survey", Journal of Marketing Research, Vol. 14, pp. 396-402.
+Bagozzi, R.P. and Yi, Y. (2012), "Specification, evaluation, and interpretation of structural equation models", Journal of the Academy of Marketing Science, Vol. 40 No. 1, pp. 8-34.
+Barnes, B.R., Leonidou, L.C., Siu, N.Y. and Leonidou, C.N. (2015), "Interpersonal factors as drivers of quality and performance in Western-Hong Kong interorganizational business relationships", Journal of International Marketing, Vol. 23, pp. 123-149.
+Barney, J. (1991), "Firms resources and sustained competitive advantage", Journal of Management, Vol. 17 No. 1, pp. 99-120.
+Barney, J.B. and Clark, D.N. (2007), Resource-Based Theory: Creating and Sustaining Competitive Advantage, Oxford University Press, Oxford.
+
+
+
+Beamish, P.W., Craig, R. and McLellan, K. (1993), "The performance characteristics of Canadian versus UK exporters in small and medium sized firms", Management International Review, Vol. 33 No. 3, pp. 121-137.
+Berthon, P.R., Pitt, L.F., Plangger, K. and Shapiro, D. (2012), "Marketing meets web 2.0, social media, and creative consumers: implications for international marketing strategy", Business Horizons, Vol. 55 No. 3, pp. 261-271.
+Bloemer, J., Pluymaekers, M. and Odekerken, A. (2013), "Trust and affective commitment as energizing
+
+Social media and export performance
+
+
+293
+
+forces for export performance", International Business Review, Vol. 22 No. 2, pp. 363-380.		
+Boso, N., Story, V.M. and Cadogan, J.W. (2013), "Entrepreneurial orientation, market orientation, network ties, and performance: study of entrepreneurial firms in a developing economy", Journal of Business Venturing, Vol. 28 No. 6, pp. 708-727.
+Byrne, B.M. (2016), Structural Equation Modeling with AMOS: Basic Concepts, Applications, and Programming, Routledge, New York.
+Cavusgil, S.T. and Zou, S. (1994), "Marketing strategy-performance relationship: an investigation of the empirical link in export market ventures", Journal of Marketing, Vol. 58 No. 1, pp. 1-21.
+Chen, J. and Sousa, C.M.P. and Xinming, H. (2016), "The determinants of export performance: a review of the literature 2006-2014", International Marketing Review, Vol. 33 No. 5.
+pp. 626-670.
+Constantinides, E. and Fountain, S.J. (2008), "Web 2.0: conceptual foundations and marketing issues",
+Journal of Direct, Data and Digital Marketing Practice, Vol. 9 No. 3, pp. 231-244.
+Da Rocha, A., Cotta de Mello, R., Pacheco, H. and de Abreu Farias, I. (2012), "The international commitment of late-internationalizing Brazilian entrepreneurial firms", International Marketing Review, Vol. 29 No. 3, pp. 228-252.
+Day, G.S. (1994), "The capabilities of market-driven organizations", Journal of Marketing, Vol. 58,
+pp. 37-51.
+Day, G.S. and Wensley, R. (1988), "Assessing advantage: a framework for diagnosing competitive superiority", Journal of Marketing, Vol. 52 No. 2, pp. 1-20.
+De Carolis, D.M. (2003), "Competencies and imitability in the pharmaceutical industry: an analysis of their relationship with firm performance", Journal of Management, Vol. 29 No. 1, pp. 27-50.
+Donthu, N. and Kim, S.H. (1993), "Implications of firm controllable factors on export growth", Journal of Global Marketing, Vol. 7 No. 1, pp. 47-64.
+Drazin, R. and Schoonhoven, C.B. (1996), "Community, population, and organization effects on innovation: a multilevel perspective", Academy of Management Journal, Vol. 39 No. 5,
+pp. 1065-1083.
+Feng, H., Morgan, N.A. and Rego, L.L. (2017), "Firm capabilities and growth: the moderating role of market conditions", Journal of the Academy of Marketing Science, Vol. 45 No. 1, pp. 76-92.
+Fornell, C. and Lacker, D.F. (1981), "Evaluating structural equation modeling for travel behavior research", Transportation Research Part B, University of Michigan, Vol. 37, pp. 1-25.
+Freeman, J. and Styles, C. (2014), "Does location matter to export performance?", International Marketing Review, Vol. 31 No. 2, pp. 181-208.
+Gan, L., Sim, C.J., Tan, H.L. and Tna, J. (2007), "Online relationship marketing by Singapore hotel websites", Journal of Travel and Tourism Marketing, Vol. 20 Nos 3/4, pp. 1-19.
+Gao, H., Tate, M., Zhang, H., Chen, S. and Liang, B. (2018), "Social media ties strategy in international branding: an application of the resource based theory", Journal of International Marketing, Vol. 26 No. 3, pp. 45-69.
+Gefen, D. and Straub, D.W. (2004), "Consumer trust in B2C e-commerce and the importance of social presence: experiments in e-products and e-services", Omega, Vol. 32 No. 6, pp. 407-424.
+Ghana Export Promotion Authority (2016), available at: https://www.gepaghana.org/export-statistic/ annual-report-2016-summary/ (accessed November 2018).
+
+
+
+IMR 37,2
+
+
+
+294
+
+Gregory, G.D., Ngo, L.V. and Karavdic, M. (2017), "Developing e-commerce marketing capabilities and efficiencies for enhanced performance in business-to-business export ventures", Industrial Marketing Management, (published electronically March 10), doi: 10.10166/j.indmarman. 2017.03.
+Hanna, R., Rohm, A. and Crittenden, V.L. (2011), "We're all connected: the power of the social media ecosystem", Business Horizons, Vol. 54 No. 3, pp. 265-273.
+Hewett, K. and Bearden, W.O. (2001), "Dependence, trust, and relational behavior on the part of foreign subsidiary marketing operations: implications for managing global marketing operations", Journal of Marketing, Vol. 65 No. 4, pp. 51-66.
+Hofacker, C.F. and Belanche, D. (2016), "Eight social media challenges for marketing managers",
+Spanish Journal of Marketing-ESIC, Vol. 20 No. 2, pp. 73-80.
+Hudson, S., Huang, L., Roth, M.S. and Madden, T.J. (2016), "The influence of social media interactions on consumer-brand relationships: a three-country study of brand perceptions and marketing behaviors", International Journal of Research in Marketing, Vol. 33 No. 1,
+pp. 27-41.
+Ismail, D., Alam, S.S. and Hamid, R.B.A. (2017), "Trust, commitment, and competitive advantage in export performance of SMEs. Gadjah Mada", International Journal of Business, Vol. 19 No. 1, pp. 1-18.
+Johnston, W.J., Khalil, S., Nhat Hanh Le, A. and Cheng, J.M.S., (2018), "Behavioral implications of international social media advertising: an investigation of intervening and contingency factors", Journal of International Marketing, Vol. 26, No. 2, pp. 43-61.
+Kaleka, A. (2011), "When exporting Manufacturers compete on the basis of service: resources and marketing capabilities driving service advantage and performance", Journal of International Marketing, Vol. 19 No. 1, pp. 40-58.
+Kaleka, A. and Morgan, N.A., (2017), "Which competitive advantage(s)? Competitive advantage- market performance relationships in international markets", Journal of International Marketing, Vol. 25 No. 4, pp. 25-49.
+Kaplan, A.M. and Haenlein, M. (2010), "Users of the world, unite! The challenges and opportunities of social media", Business Horizons, Vol. 53 No. 1, pp. 59-68.
+Katsikeas, C.S., Skarmeas, D. and Bello, D.C. (2009), "Developing successful trust-based international exchange relationships", Journal of International Business Studies, Vol. 40 No. 1, pp. 132-155.
+Kenly, A. and Poston, B. (2016), "Social media and product innovation early adopters reaping benefits amidst challenge and uncertainty. kalypso white paper, kalypso consulting firm", available at: http://kalypso.com/downloads/insights/Kalypso Social Media and Product Innovation 1. Pdf (accessed 3 August 2018).
+King, S.F. and Burgess, T.F. (2008), "Understanding success and failure in customer relationship management", Industrial Marketing Management, Vol. 37 No. 4, pp. 421-431.
+Konwar, Z., Papageorgiadis, N., Ahammad, M.F., Tian, Y., McDonald, F. and Wang, C. (2017), "Dynamic marketing capabilities, foreign ownership modes, sub-national locations and the performance of foreign affiliates in developing economies", International Marketing Review, Vol. 34 No. 5, pp. 674-704.
+Kozlenkova, I.V., Samaha, S.A. and Palmatier, R.W. (2014), "Resource-based theory in marketing",
+Journal of the Academy of Marketing Science, Vol. 42 No. 1, pp. 1-21.
+Lages, L.F. and Jap, S.D. (2002), "A contingency approach to marketing mix adaptation and performance in international marketing relationships", FEUNL Working Paper No. 411, available at SSRN: https://dx.doi.org/10.2139/ssrn.881941.
+Lee, R.P. and Zhou, K.Z. (2012), "Is product imitation good for firm performance? An examination of product imitation types and contingency factors", Journal of International Marketing, Vol. 20 No. 3, pp. 1-16.
+
+
+
+Leonidou, L.C., Samiee, S., Aykol, B. and Talias, M.A. (2014), "Antecedents and outcomes of exporter- importer relationship quality: synthesis, meta-analysis, and directions for further research", Journal of International Marketing, Vol. 22 No. 2, pp. 21-46.
+Leonidou, L.C., Talias, M.A. and Leonidou, C.N. (2008), "Exercised power as a driver of trust and commitment in cross-border industrial buyer-seller relationships", Industrial Marketing Management, Vol. 37 No. 1, pp. 92-103.
+Li, J.J. and Zhou, K.Z. (2010), "How foreign firms achieve competitive advantage in the Chinese
+
+Social media and export performance
+
+
+295
+
+emerging economy: managerial ties and market orientation", Journal of Business Research, 	
+Vol. 63 No. 8, pp. 856-862.
+Lindell, M.K. and Whitney, D.J. (2001), "Accounting for common method variance in cross-sectional research designs", Journal of Applied Psychology, Vol. 86 No. 1, p. 114.
+Luo, L., Wang, Y. and Han, L. (2013), "Marketing via social media: a case study", Library Hi Tech, Vol. 31 No. 3, pp. 455-466.
+MacKinnon, D.P., Lockwood, C.M. and Williams, J. (2004), "Confidence limits for the indirect effect: distribution of the product and resampling methods", Multivariate Behavioral Research, Vol. 39 No. 1, pp. 99-128.
+Menguc, B. and Auh, S. (2006), "Creating a firm-level dynamic capability through capitalizing on market orientation and innovativeness", Journal of the Academy of Marketing Science, Vol. 34 No. 1, pp. 63-73.
+Meyer, K.E. and Peng, M.W. (2005), "Probing theoretically into central and Eastern Europe: transactions, resources and institutions", Journal of International Business Studies, Vol. 36,
+pp. 600-621.
+Morgan, N.A., Feng, H. and Whitler, K.A. (2018), "Marketing capabilities in international marketing",
+Journal of International Marketing, Vol. 26 No. 1, pp. 61-95.
+Morgan, N.A., Katsikeas, C.S. and Vorhies, D.W. (2012), "Export marketing strategy implementation, export marketing capabilities, and export venture performance", Journal of the Academy of Marketing Science, Vol. 40 No. 2, pp. 271-289.
+Morgan, R.M. and Hunt, S.D. (1994), "The commitment-trust theory of relationship marketing", The Journal of Marketing, Vol. 58 No. 3, pp. 20-38.
+Mu, J. (2015), "Marketing capability, organizational adaptation and new product development performance", Industrial Marketing Management, Vol. 49, pp. 151-166.
+Mukherjee, A. and Nath, P. (2007), "Role of electronic trust in online retailing: a re-examination of the commitment-trust theory", European Journal of Marketing, Vol. 41 Nos 9/10, pp. 1173-1202.
+Murray, J.Y., Gao, G.Y. and Kotabe, M. (2011), "Market orientation and performance of export ventures: the process through marketing capabilities and competitive advantages", Journal of the Academy of Marketing Science, Vol. 39 No. 2, pp. 252-269.
+Navarro, A., Losada, F., Ruzo, E. and D?iez, J.A. (2010), "Implications of perceived competitive advantages, adaptation of marketing tactics and export commitment on export performance", Journal of World Business, Vol. 45 No. 1, pp. 49-58.
+Nieto, M.J. and Santamaria, L. (2010), "Technological collaboration: bridging the innovation gap between small and large firms", Journal of Small Business Management, Vol. 48 No. 1, pp. 44-69.
+Nusair, K.K., Bilgihan, A. and Okumus, F. (2013), "The role of online social network travel websites in creating social interaction for gen Y travelers", International Journal of Tourism Research, Vol. 15 No. 5, pp. 458-472.
+Obadia, C., Vida, I. and Pla-Barber, J. (2017), "Differential effects of bilateral norms on smes' export relationships: a dynamic perspective", Journal of International Marketing, Vol. 25 No. 3,
+pp. 21-41.
+Odoom, R., Anning-Dorson, T. and Acheampong, G. (2017), "Antecedents of social media usage and performance benefits in small-and medium-sized enterprises (SMEs)", Journal of Enterprise Information Management, Vol. 30 No. 3, pp. 383-399.
+
+
+
+
+IMR 37,2
+
+
+
+296
+
+Okazaki, S. and Taylor, C.R. (2013), "Social media and international advertising: theoretical challenges and future directions", International Marketing Review, Vol. 30 No. 1, pp. 56-71.
+Palmatier, R., Dant, R. and Grewal, D. (2007), "A comparative longitudinal analysis of theoretical perspectives of interorganizational relationship performance", Journal of Marketing, Vol. 71 No. 4, pp. 172-194.
+Pezderka, N., Sinkovics, R.R. and Jean, R.J.B. (2012), "Do Born global SMES reap more benefits from ICT use than other internationalizing small firms?", in Gabrielsson, M. and Manek Kirpalani,
+V.H. (Eds), Handbook of Research on Born Globals, Edward Elgar, Cheltenham, pp. 185-213.
+Pham, T.S.H., Monkhouse, L.L. and Barnes, B.R. (2017), "The influence of relational capability and marketing capabilities on the export performance of emerging market firms", International Marketing Review, Vol. 34 No. 5, pp. 606-628.
+Podsakoff, P.M. and Organ, D.W. (1986), "Self-reports in organizational research: problems and prospects", Journal of Management, Vol. 12, pp. 531-544.
+Podsakoff, P.M., MacKenzie, S.B. and Podsakoff, N.P. (2012), "Sources of method bias in social science research and recommendations on how to control it", Annual Review of Psychology, Vol. 63,
+pp. 539-569.
+Preacher, K.J. and Hayes, A.F. (2004), "SPSS and SAS procedures for estimating indirect effects in simple mediation models", Behavior Research Methods, Instruments, and Computers, Vol. 36 No. 4, pp. 717-731.
+Ratchford, B.T. (2015), "Some directions for research in interactive marketing", Journal of Interactive Marketing, Vol. 29 No. 1, pp. 5-7.
+Sakyi-Gyinae, K. (2015), 6 Ways to Build a Better Brand: Proven Strategies on How the Best Global Brands Stay Great, Amazon Digital Services LLC.
+Saunders, M., Lewis, P. and Thornhill, A. (2009), Research Methods for Business Students, 5th ed., Pearson Education Limited, Harlow.
+Schreiber, J.B. (2008), "Core reporting practices in structural equation modeling", Research in Social and Administrative Pharmacy, Vol. 4 No. 2, pp. 83-97.
+Sheth, J.N. (2011), "Impact of emerging markets on marketing: rethinking existing perspectives and practices", Journal of Marketing, Vol. 75 No. 4, pp. 166-182.
+Skarmeas, D., Zeriti, A. and Baltas, G. (2016), "Relationship value: drivers and outcomes in international marketing channels", Journal of International Marketing, Vol. 24 No. 1,
+pp. 22-40.
+Sousa, C.M., Ruzo, E. and Losada, F. (2010), "The key role of managers' values in exporting: influence on customer responsiveness and export performance", Journal of International Marketing, Vol. 18 No. 2, pp. 1-19.
+Stelzner, M.A. (2011), "Social media marketing industry report", Social Media Examiner, Vol. 41, pp. 1-10.
+Tan, Q. and Sousa, C.M. (2015), "Leveraging marketing capabilities into competitive advantage and export performance", International Marketing Review, Vol. 32 No. 1, pp. 78-102.
+Trainor, K.J., Andzulis, J.M., Rapp, A. and Agnihotri, R. (2014), "Social media technology usage and customer relationship performance: a capabilities-based examination of social CRM", Journal of Business Research, Vol. 67 No. 6, pp. 1201-1208.
+Tsai, W.H.S. and Men, L.R. (2017), "Consumer engagement with brands on social network sites: a cross-cultural comparison of China and the USA", Journal of Marketing Communications, Vol. 23 No. 1, pp. 2-21.
+Vorhies, D.W. and Morgan, N.A. (2005), "Benchmarking marketing capabilities for sustainable competitive advantage", Journal of Marketing, Vol. 69 No. 1, pp. 80-94.
+Vorhies, D.W. (1998), "An investigation of the factors leading to the development of marketing capabilities and organizational effectiveness", Journal of Strategic Marketing, Vol.6 No. 1, pp. 3-23.
+
+
+
+Wang, S.W., Ngamsiriudom, W. and Hsieh, C.H. (2015), "Trust disposition, trust antecedents, trust, and behavioral intention", The Service Industries Journal, Vol. 35 No. 10,
+pp. 555-572.
+Whiting, A. and Williams, D. (2013), "Why people use social media: a uses and gratifications approach", Qualitative Market Research: An International Journal, Vol. 16 No. 4, pp. 362-369.
+Wolff, J.A. and Pett, T.L. (2000), "Internationalization of small firms: an examination of export competitive patterns, firm size and export performance", Journal of Small Business Management, Vol. 38 No. 2, pp. 34-47.
+Wright, M., Filatotchev, I., Hoskisson, R.E. and Peng, M.W. (2005), "Strategy research in emerging economies: challenging the conventional wisdom", Journal of Management Studies, Vol. 42, pp. 1-33.
+Zhang, C., Cavusgil, S.T. and Roath, A.S. (2003), "Manufacturer governance of foreign distributor relationships: do relational norms enhance competitiveness in the export market?", Journal of International Business Studies, Vol. 34 No. 6, pp. 550-566.
+Zhang, M., Sarker, S. and Sarker, S. (2013), "Drivers and export performance impacts of IT capability in 'born-global' firms: a cross-national study", Information Systems Journal, Vol. 23 No. 5,
+pp. 419-443.
+Zhou, L., Wu, A. and Barnes, B.R. (2012), "The effects of early internationalization on performance outcomes in young international ventures: the mediating role of marketing capabilities", Journal of International Marketing, Vol. 20 No. 4, pp. 25-45.
+Zhu, K. and Kraemer, K.L. (2002), "E-commerce metrics for net-enhanced organizations: assessing the value of e-commerce to firm performance in the manufacturing sector", Information Systems Research, Vol. 13 No. 3, pp. 275-295.
+
+
+Further reading
+Blesa, A. and Ripolles, M. (2008), "The influence of marketing capabilities on economic international performance", International Marketing Review, Vol. 25 No. 6, pp. 651-673.
+De Ruyter, K., Moorman, L. and Lemmink, J. (2001), "Antecedents of commitment and trust in customer-supplier relationships in high technology markets", Industrial Marketing Management, Vol. 30 No. 3, pp. 271-286.
+Lusch, R. and Harvey, M. (1994), "Opinion: the case for and off-balance sheet controller", Sloan Management Review, Vol. 35 winter, pp. 101-105.
+Shoham, A. (1998), "Export performance: a conceptualization and Empirical assessment", Journal of International Marketing, Vol. 6 No. 3, pp. 59-81.
+
+
+Corresponding author
+Mahmoud Abdulai Mahmoud can be contacted at: mamahmoud@ug.edu.gh
+
+
+
+
+
+
+
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Social media and export performance
+
+
+297
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

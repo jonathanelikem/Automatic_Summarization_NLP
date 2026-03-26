@@ -1,0 +1,1357 @@
+Journal of Strategic Marketing
+
+ISSN: 0965-254X (Print) 1466-4488 (Online) Journal homepage: http://www.tandfonline.com/loi/rjsm20
+
+Sustainable market orientation: a competitive
+strategic tool in an emerging economy context
+Mahmoud Abdulai Mahmoud
+To cite this article: Mahmoud Abdulai Mahmoud (2016): Sustainable market orientation: a
+competitive strategic tool in an emerging economy context, Journal of Strategic Marketing, DOI:
+10.1080/0965254X.2016.1149210
+To link to this article: http://dx.doi.org/10.1080/0965254X.2016.1149210
+
+Published online: 16 Mar 2016.
+
+Submit your article to this journal
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=rjsm20
+Download by: [University of California, San Diego]
+
+Date: 17 March 2016, At: 00:51
+
+Journal of Strategic Marketing, 2016
+http://dx.doi.org/10.1080/0965254X.2016.1149210
+
+Sustainable market orientation: a competitive strategic tool in an
+emerging economy context
+Mahmoud Abdulai Mahmoud*
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Department of Marketing & Entrepreneurship, UGBS, University of Ghana, Legon, Ghana
+(Received 6 March 2015; accepted 5 November 2015)
+The purpose of this research is to test the effect of sustainable market orientation
+(SMO) as a strategic tool on banks’ sustainable balanced ﬁrm performance (SBFP)
+in an emerging economy. The research data was collected via the survey approach
+through self-administered questionnaires to 445 bank employees. Exploratory Factor
+Analysis was employed to establish the dimensionality of the research constructs,
+whereas multiple linear regressions were utilised to test the research hypotheses.
+Results suggest that SMO is positively and signiﬁcantly related to sustainable balanced performance of banks. The study conﬁrms the SMO concept promulgated in
+prior studies. Employees’ opinions on bank Managers incorporating sustainability
+management variables into market orientation as a strategy are encouraged by scholars to engender SBFP. Strategic approaches of this kind leads to balance performance of organisations and the larger society which is central to all stakeholders.
+This study may be the initial quantitative investigation into SMO and SBFP in the
+strategic marketing literature.
+Keywords: sustainable marketing orientation; market orientation; sustainable
+balanced ﬁrm performance; marketing strategy; emerging markets
+
+Introduction
+The integration of sustainability principles to corporate management strategy for a balanced and sustained economic and social performance has been effective in the marketing literature (Claudy, Peteeson, & O’Driscoll, 2013; Crittenden, Crittenden, Ferrell,
+Ferrell, & Pinney, 2011; Wooliscroft, Ganglmair-Wooliscroft, & Noone, 2013). Sustainable management (SM) and marketing impact on ﬁrms’ long-term performance have
+been conceptualized differently and empirically tested in marketing literature (Brik,
+Rettab, & Mellahi, 2011; Crittenden et al., 2011; Maignan, Ferrell, & Ferrel, 2005;
+Mitchell, Wooliscroft, & Higham, 2010). One of such conceptualizations for which this
+study intends to build on is the interest of marketers to combine SM with market orientation (MO) for effective, efﬁcient and balance performance of ﬁrms (Crittenden et al.,
+2011; Mitchell, Wooliscroft, & Higham, 2013; Mitchell et al., 2010). Scholars are of
+the view that deﬁciencies in corporate governance, exploitative social and environmental tendencies, and an emphasis on maximizing short-term proﬁtability at the expense
+of long-term stakeholder interest are necessitating the re-conceptualisation of the MO
+construct (Mitchell et al., 2010, 2013; Pantouvakis, 2014). These failures have been
+attributed to corporate management regimes and leadership style that are not active. In
+*Email: amohammed@ug.edu.gh
+© 2016 Taylor & Francis
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+2
+
+M.A. Mahmoud
+
+this regard, the MO concept has been challenged and its adequacy has raised some
+concerns. This has shown the need for ﬁrms to move beyond MO to sustainable market
+orientation (SMO) by developing a more universally acceptable process for responsible
+business practices and marketing management. Hence, the re-conceptualisation of MO
+paradigm to achieve greater alignment of longer term commercial performance with the
+interest of a wider range of stakeholders including current and latent customers and
+communities (Mitchell et al., 2013).
+Organisations that adopt SMO are expected to achieve balanced sustainable performance (SP) (Crittenden et al., 2011; Mitchell et al., 2013). This means that such ﬁrms
+are able to perform well from economic and social perspectives. SMO will stimulate
+corporate performance and organisations would be able to elicit positive evaluations
+from consumers due to its implementation in their various marketplaces (Claudy et al.,
+2013). Overall, direct and indirect stakeholders’ needs are met if SMO construct is
+implemented in organisations. Also, the conceptualisation of SMO opens up fresh
+opportunities for marketing research, for which this study intends to contribute into the
+marketing academy. Further, this study aims to conﬁrm the SMO constructs by testing
+the model in an emerging economy context which will provide the means for corporate
+managers to examine and ﬁne-tune corporate marketing strategies by applying an
+empirically proven mix of long-term economic, social, and environmental performance
+indicators (Mitchell et al., 2010). More so, SMO emphasis to proﬁtably satisfying market demand places adequate obligations on corporations to meet social and environmental expectations of stakeholders (Crittenden et al., 2011). This is beneﬁcial to the ﬁrms’
+long-term corporate marketing strategy, hence the SMO construct (Mitchell et al.,
+2013).
+Ghana is among emerging economies and one of the fastest growing and most
+politically stable in sub-Saharan Africa (Ward, 2013). Ghana’s banking industry is the
+empirical context of this research. The industry is governed by the central bank known
+as Bank of Ghana (BoG) (Narteh, 2013a, 2013b). The mandate of the BoG is to ensure
+sustainable growth in output and employment through creating the right conditions for
+all sectors of the Ghanaian economy, particularly, the banking industry (Bank of Ghana,
+2014). The BoG achieves this through price stability, low inﬂation and supporting government economic objectives to ensure sound macroeconomic stability for the banking
+industry and other industries to thrive. Currently, the banking sector is the fastest growing industry in Ghana, the emergence of new banks and their impact on the Ghanaian
+banking industry has been much discussed (Hinson, Owusu-Frimpong, & Dasah, 2009;
+Mahmoud, Kastner, & Akyea, 2011; Narteh, 2013a, 2013b). In relation to sustainable
+operations, banks in Ghana are reported to be practicing SMO in diverse areas, which
+is in line with marketers’ observation (Bradshaw & Tadajewski, 2011; Lewin, Strutton,
+& Paswan, 2011; McDonagh & Prothero, 2014). Banks have sustainability policies to
+which they commit themselves (UT Bank, 2014). For instance, they are committed to
+be responsible and maintaining, integrity, respect and high ethical standards in Ghana.
+Banks also hold themselves accountable to generate economic values for their customers. In addition, they commit themselves to respect the environment and also partner with other key stakeholders to ensure they improve on the environmental proﬁle of
+their products and services in Ghana. Banks are also claiming to be making positive
+impact on communities where they operate (UT Bank, 2014).
+Banks in Ghana are reported to be operating sustainably with long-term goals in
+mind rather than short-term proﬁtability (Hinson et al., 2009). They want to ensure they
+experience market share growth of their customers and clients and hence sustainable
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Journal of Strategic Marketing
+
+3
+
+operations are the hallmark of their operations (Bank of Ghana, 2014). They have also
+assisted educational institutions with modern technological equipment and cash donations in support of communities’ pursuit of sustainable development through education.
+As communities in Ghana strive and dedicate themselves to sustainable development,
+banks in the country are reported to share or associate themselves with this overall
+objective of sustainability by investing in communities and contributing to economic
+growth of the Ghanaian economy (Societe Generale Ghana, 2014; Standard Chartered
+Bank, 2014). As part of their sustainability practices, the banks claims to be developing
+and protecting relationships with stakeholders in order to build and enhance the reputation of the banks (Standard Chartered Bank, 2014). Therefore, the strategic posture of
+Ghanaian banks in recent times as sustainable banks serves as a motivation to assess
+SMO in banking sector of the Ghanaian economy.
+Combining theory and practice discussed so far seems to suggest that SMO is key
+to ﬁrms’ SP. It also appears Ghanaian banks are practicing SMO; warranting this study
+is to assess banks SMO and its effect on bank performance both socially and economically. Thus, the purpose of this study is to merge MO (a dominant construct in marketing management and strategy research) and SM (a dominant construct in sustainability
+research) to predict sustainable balanced ﬁrm performance (SBFP).
+The organisation of the paper is as follows. First, literature is reviewed on MO and
+SMO concepts; within this discourse, the consequences and dimensions of SMO are
+discussed leading to conceptual framework for the study. Second, the hypotheses to be
+tested are stated. Third, the methodology employed in the study is presented. Fourth,
+the research results are discussed followed by the discussions and implications of the
+research. Finally, the conclusions with some limitations and future direction for further
+studies of the SMO construct are presented.
+Literature review and conceptual framework
+Market orientation
+MO has been the cornerstone of corporate marketing strategy for the past six decades
+(Jaworski & Kohli, 1993; Kohli & Jaworski, 1990; McKitterick, 1957; Narver & Slater,
+1990; Pantouvakis, 2014). Hunt and Morgan (1995), using Resource-Advantage Theory, determined that a market-oriented ﬁrm can achieve a position of a competitive
+advantage and superior long-run performance. MO has been conceptually and empirically linked to superior business performance in the extant literature (Gebhardt,
+Carpenter, & Sherry, 2006; Hunt, 2012; Hunt & Lambe, 2000; Kirca, Jayachandran, &
+Bearden, 2005). MO provides ﬁrms with a source of competitive advantage (Morgan,
+Vorhies, & Mason, 2009). Empirical studies on the topic have so far shown that ﬁrms
+that embrace MO concepts develop increased market-sensing and customer-linking
+capabilities that lead to superior business performance (Doyle & Armenakyan, 2014;
+Hawkins, 2014; Jaworski & Kholi, 1993; Kirca et al., 2005; Kohli & Jaworski, 1990;
+Kuada & Buatsi, 2005; Kumar, Jones, Venkatesan, & Leone, 2011; Lings & Greenley,
+2009; Pantouvakis, 2014). Over the period, a number of revisions and suggestions
+regarding the MO construct have emerged (Blankson et al., 2013; Homburg & Pﬂesser,
+2000; Lado, Maydeu-Olivares, & Rivera, 1998; Mitchell et al., 2010; Morgan &
+Strong, 1998; Pantouvakis, 2014).
+Traditionally, the studies on MO have been based on two perspectives. The ﬁrst
+perspective argues that MO is ‘the organisational culture that most effectively and
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+4
+
+M.A. Mahmoud
+
+efﬁciently creates necessary behaviours for the creation of superior value for buyers
+and, thus, continuous superior performance for business’ (Narver & Slater, 1990, p 21).
+Narver and Slater (1990) argued that a market-oriented ﬁrm will have a long-term focus
+and emphasis on proﬁtable operations. They suggest that a MO is relevant in every
+market environment and, as such, must be the foundation for a business’s competitive
+advantage strategy. In line with this argument, MO is found to be an important determinant of ﬁrm performance Jaworski and Kohli (1993), Deshpande, Farley, & Webster,
+(1993), and Homburg and Pﬂesser (2000). Kohli and Jaworski (1990) identiﬁed three
+core themes of a MO: (1) customer focus, (2) coordinated marketing, and (3) proﬁtability. The behavioral perspective, depicted by Kohli and Jaworski (1990), relates to speciﬁc actions or behaviors necessary to achieve a MO. They view MO as follows:
+organisation-wide generation of market intelligence pertaining to current and future
+needs of the customer, thus dissemination of intelligence within the organisation and
+responsiveness to existing and potential customers.
+Crittenden et al. (2011) in reviewing the literature on MO were of the view that
+while a MO has evolved over time to be almost synonymous with a customer (as end
+consumer) and competitor focus, researchers have called for the broadening of ‘market’
+so as to include a larger constituency base. Accordingly, Slater and Narver (1995) refer
+to key stakeholders and call for the inclusion of suppliers, businesses in different industries, consultants, universities, and government agencies in the MO construct. Matsuno
+and Mentzer (2000, p. 5) recommend an extended domain pertaining to ‘relevant industry market participants (i.e. competitors, suppliers, and buyers) and inﬂuencing factors
+(i.e. social, cultural, regulatory, and macroeconomic factors).’ From an internal perspective, Schonberger (1990) suggests that functional areas in a ﬁrm form a continuous
+chain of customers that extends from a product/service concept to the end user (consumer) of the product. This broader stakeholder perspective (both internally and externally) is consistent with the contemporary stakeholder perspective that has historically
+been the dominant paradigm in sustainability research (Crittenden et al., 2011). The
+stakeholder perspective takes into account not just one stakeholder group, such as consumers, but all groups to whom the business is responsible (Crittenden et al., 2011).
+Marketers assuming this larger stakeholder perspective as related to sustainability will
+shift the ﬁrm’s MO (both behavioral and cultural) from an end-consumer focus to a
+broader set of stakeholders (Maignan and Ferrell 2004; Crittenden et al., 2011). Signiﬁcantly, scholars also suggest that a MO that encompasses the broad base of stakeholders provides an avenue to stronger competitive advantage (Crittenden et al., 2011;
+Ferrell, Gonzalez-Padron, Hult, & Maignan, 2010). In recent times, there is evidence
+that MO has substantial conceptual shortcomings warranting a proposition of SMO as a
+more comprehensive management framework (Crittenden et al., 2011; Mitchell et al.,
+2010).
+Sustainable market orientation
+Given the measurable impact of possessing a MO in conjunction with the competitive
+advantage offered by a marketing strategy that incorporates sustainability, it stands to
+reason that a market-oriented approach to sustainability would serve as a resource
+advantage for the ﬁrm (Crittenden et al., 2011). Moreover, researchers posit that integrating bodies of knowledge from one or more substantive areas can initiate theory
+development in marketing (Yadav, 2010; Crittenden et al., 2011). Our aim here is to
+follow these researchers suggestion of using interrelations to advocate a SMO
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Journal of Strategic Marketing
+
+5
+
+framework that identiﬁes the underlying constructs of SMO and sustainable balance performance. To succeed in this endeavour, this research draws from a variety of business
+and non-business disciplines to understand the phenomenon. Thus, the SMO is derived
+from integrating theory across a marketing management (Kohli & Jaworski, 1990; Narver
+& Slater, 1990) and sustainability management (Kuosmanen and Kuosmanen (2009). An
+SMO approach to sustainability is predicated on the understanding that MO is a type of
+organizational behavior (Kohli & Jaworski, 1990) and more than just a focus on the customer and the competitor. Rather, a culture of a MO encourages behaviors that affect
+organizational learning, which can instill sustainability into the fabric of a ﬁrm, yielding a
+resource advantage (Slater & Narver, 1995).
+In respect to sustainability, Kuosmanen and Kuosmanen (2009, p. 235) state that,
+‘Sustainability is nowadays generally accepted as one of the key success factors in the
+long term business strategy of the ﬁrm.’ SMO is a strategic orientation that comprises
+balanced and equitable intergenerational management of environmental, social and economic resources (Mitchell et al., 2013). SMO presents a framework that combines the
+macro-marketing principles of sustainability and micro-marketing of intelligence generation, dissemination and responsiveness to create proﬁtable products and services for
+the target market and society as a whole (Bradshaw & Tadajewski, 2011; Jaworski &
+Kohli, 1993; Lings & Greenley, 2009; Meunier-FitzHugh & Lane, 2009; Mitchell
+et al., 2013; Mittelstaedt, Shultz, Kilbourne, & Peterson, 2014). A corporate commitment to SMO will reﬂect an understanding of latent market and community expectations that is also likely to foster trust-based market, societal, and governmental
+relationships and minimise the risk of government intervention and regulation (Mitchell
+et al., 2010). The proponents of SMO identiﬁed MO, macromarketing, corporate stakeholder responsibility and sustainable development management as the major building
+blocks of the concept (Crittenden et al., 2011; Mitchell et al., 2010, 2013).
+SMO dimensions include broadly MO and SM. Firms related strategic decisions
+that enhance or impede the implementation of the MO and SM would have an inﬂuence on their SMO culture. SM issues are important contributors to consumer decisionmaking (Cummins, Reilly, Carlson, Grove, & Dorsch, 2014). SM comprises ecological
+orientation, societal orientation (SO) and economic orientation (EconoO) (Mitchell
+et al., 2013). Mitchell et al. (2010) in their exploratory study developed a theoretical
+framework of the relationship between the SMO concept and its predictors in which
+they suggested that societal, ecological and EconoOs are predictors or antecedents to
+SMO. However, other studies have postulated that societal, economic and environmental orientations (EnviroOs) are dimensions of sustainable development (Choi & Ng,
+2011; Mitchell et al., 2013). MO and SM are conceptualised as components of SMO
+(Choi & Ng, 2011; Mitchell et al., 2013).
+SOs involve businesses recognizing the importance of conformity with social norms
+(Varman & Costa, 2008). Corporate marketing managers should proactively manage
+social factors in order to attain SMO. Focusing on micromarketing alone to the neglect
+of macromarketing factors such as social interventions would not aid businesses in
+attaining SP. Firms’ ecological orientation is suggested to be dependent on the target
+consumers (Ling-Yee, 1997). In markets where consumers are ecological conscious and
+embark on green-product-related information search, and purchase green products often
+will compel ﬁrms targeting such markets to be ecologically conscious in the operations.
+Ecological orientation refers to the degree of emotional, the amount of factual knowledge, the level of willingness, as well as the extent of actual behaviour on pollution-environment issues (Ling-Yee, 1997). Mitchell et al. (2013) found that ecological
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+6
+
+M.A. Mahmoud
+
+orientations of ﬁrms are important precursors, which inﬂuence consumers’ attitudes and
+ultimately adoption intentions.
+Environmental responsible marketing of well-branded products and services by
+ﬁrms that address signiﬁcant stakeholder needs will show a high commitment to SMO
+even in a highly competitive marketplace (Mitchell et al., 2010; Viswanathan, Jung,
+Venugopal, Minefee, & Jung, 2014). It is suggested, therefore, that those ﬁrms with a
+high degree of SMO will generate superior long-term market performance because of
+their holistic approach to business management (Mitchell et al., 2010). Firms that practice SMO due to innovative socially and environmentally responsible practices are more
+likely to generate additional income and operating efﬁciency (Dean & McMullen,
+2007; Menon & Menon, 1997; Mitchell et al., 2010; Orlitzky, Schmidt, & Rynes,
+2003). EnviroO as a dimension of SMO is management commitment to sustaining in
+their decision-making process that does not compromise the environment. Macromarketing view of environmental marketing is considered to be valuable in injecting new
+perspectives to the debate of sustainability (Polonsky, 2011). When companies do
+recognize the importance of operating in sustainable manner, they usually do so within
+the realm of environmental component (Cummins et al., 2014). This reinforces the relevance of EnviroO as a dimension of ﬁrms’ SMO (Mitchell et al., 2013).
+Conceptual framework
+As a guide to this study, a framework is developed based on previous literature on MO
+and SM (Choi & Ng, 2011; Crittenden et al., 2011; Mitchell et al., 2010). The framework presented (see Figure 1) suggests that ﬁrms with a high commitment to SMO are
+likely to be engaged in SM and MO. The consequences of this will be sustainable
+balanced social and economic performance. This is expected to ensure marketing of
+well-branded products by ﬁrms that address signiﬁcant stakeholder needs. Firms will
+continue to exhibit high commitment to SMO even in a highly competitive marketplace
+(Crittenden et al., 2011; Mitchell et al., 2010). The framework has three main
+components made of (1) SMO; (2) SBFP and (3) control variables (Figure 1).
+
+Figure 1. Framework of SMO and SBFP.
+Source: Developed based on previous literature.
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Journal of Strategic Marketing
+
+7
+
+SMO has two main dimensions in this framework, namely: SM and MO. The
+dimensions of SM are SO, EnviroO and EconoO. The dimensions for the MO construct
+was not decomposed into its various dimensions in this study, because these components have been extensively examined in prior literature (Jaworski & Kohli, 1993;
+Kohli & Jaworski, 1990; Kuada & Buatsi, 2005; Mahmoud, Kastner, & Yeboah, 2010;
+Narver & Slater, 1990). SBFP has brand performance (BP) and SP as its dimensions.
+The BP reﬂects economic performance, whereas SP in this sense represents the social
+performance in this conceptualisation. Social performance means non-ﬁnancial measures of sustainability progress in the overall assessment of a company’s SP (Crittenden
+et al., 2011). For instance, companies may target reducing their greenhouse emissions
+effect by 2% in 2016. Economic performance on the other hand is ﬁnancial measures
+of sustainability progress in the overall assessment of a company’s SP. Grifﬁn and
+Mahon (1997) suggest the need for multiple sources of performance and note that performance should be observed from both ﬁnancial (i.e. corporate ﬁnancial performance)
+and non-ﬁnancial (i.e. corporate social performance) metrics.
+Hypotheses
+To investigate the consequences of SMO of banks in Ghana, the following hypotheses
+were developed and tested in this study.
+H1: There is a signiﬁcant positive relationship between sustainable market orientation
+(SMO) and sustainable balanced ﬁrm performance (SBFP).
+H2: There is a signiﬁcant positive relationship between societal orientations (SO) and sustainable balanced ﬁrm performance (SBFP).
+H3: There is a signiﬁcant positive relationship between environmental orientation (EvironO) and sustainable balanced ﬁrm performance (SBFP).
+H4: There is a signiﬁcant positive relationship between economic orientation (EconoO) and
+sustainable balanced ﬁrm performance (SBFP).
+H5: There is a signiﬁcant positive relationship between market orientation (MO) and sustainable balanced ﬁrm performance (SBFP).
+
+Research methodology
+Data collection
+Primary data was collected for testing the hypotheses. The sample consisted of 445
+employees of all the commercial banks in Ghana. This is in line with good practices as
+precedents of the use of bank employees are available in prior studies (Mahmoud et al.,
+2011; Opoku & Essien, 2011). To be speciﬁc, the sample drawn were from senior-level
+personnel of commercial banks in Ghana through a purposive sampling technique.
+Moreover, these categories of the population are educated and are presumed to possess
+the appropriate knowledge in understanding sustainability and marketing issues.
+Nonetheless, the researcher explained to the participants what MO and sustainable
+development represent in the study, before the questionnaires were administered.
+Customers were not included in this study to avert the serious drawback of subjective
+performance measures (Haugland, Myrtveit, & Nygaard, 2007; Noble, Sinha, & Kumar,
+2002).
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+8
+
+M.A. Mahmoud
+
+The ﬁrst assessment for the qualiﬁcations of the respondents was to determine their
+position with the class one banks. In Ghana, the class one banks are the mainstream
+banks registered with the BoG, the central bank (Bank of Ghana Survey, 2013). These
+banks have been further classiﬁed in four quartiles based on the value of their operating
+assets (PWC, 2013). Questionnaire was self-administered to the bank employees with a
+letter which explained the nature of the research and assured conﬁdentiality. Data collection lasted for three months. Into the ﬁrst one month of the data collection, 388
+questionnaires were administered and returned. After the third month, the administered
+and returned questionnaire increased to 445. All questionnaires were found to be usable
+probably due to the self-administered survey approach adopted for this study. The analysis of the two-wave of questionnaires received did not show signiﬁcant differences
+between early and late respondents. Therefore, non-response bias was not a problem
+for this research.
+Measurement
+Measurement in this study included independent variables, dependent variables and
+control variables.
+Independent variables
+SMO, SO, EnviroO, MO and EconoO were the independent variables. These were
+measured with scales developed from existing literature (Jaworski & Kohli, 1993;
+Mitchell et al., 2010, 2013). All items were scored on a ﬁve-point likert scale in which
+1 equals ‘strongly disagree’ and 5 equals ‘strongly agree’.
+Dependent variables
+Over-reliance on ﬁnancial performance has been identiﬁed as one of the key limitations
+of extant marketing literature (Brik et al., 2011). This current study measured SBFP
+subjectively, based on the initial empirical research (Mitchell et al., 2013). SBFP was
+categorised into BP which was an indication of economic well-beings of the banks and
+long-term performance reﬂect social or sustainability performance of the banks. Overall,
+12 items were developed (see appendix) from the qualitative study of Mitchell et al.
+(2013) to measure SBFP. Seven items measure BP, whereas 5 items measure long-term
+performance.
+Control variables
+The study controlled for the size of the banks based on its assets, the number of years
+employees have worked with the bank and age of the employees with single item measure. There are precedents of the use of single item measure in marketing research
+(Morgan et al., 2009). Past research provides evidence that the size of ﬁrms have an
+impact on their performance (Brik et al., 2011; Morgan et al., 2009). Likewise, the loyalty and age of the respondents to the brand can inﬂuence their responses and as such
+were controlled in this study. Banks size were measured based on Ghana banking survey ranking of banks in Ghana. In Ghana, banks are ranked based on their performance. The ﬁrst top four banks are referred to as ‘quartile one’ banks and as such were
+ranked in that order (Mahmoud et al., 2011). Any other listed as respondent bank was
+
+Journal of Strategic Marketing
+
+9
+
+rank the ﬁfth bank. Bank loyalty was measured based on how long the respondent had
+been with the bank. Age of respondents were also categorised based on what they stated. Therefore, the variables: size of the bank, loyalty with the bank and age of the
+respondents were controlled in this study.
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Model speciﬁcation
+The regression equation below was estimated to test the research hypotheses.
+SBFP = a + β1SMO + β2SB + β3BL + β4AgeR + é
+Note:
+SBFP = Sustainable balanced ﬁrm performance
+SMO = Sustainable market orientation
+SB = Size of the bank
+BL = Loyalty to the bank by respondents
+AgeR = Age of respondents
+β = Beta coefﬁcient
+a = Constant
+é = Error term
+Research results
+Sample characteristics
+In respect of bank employees’ demographic characteristics, the study was satisﬁed that
+this sample commensurate with the research aim. From Table 1, it can be concluded
+that majority of the respondents had worked with their bank for considerable number
+of years (58%). This highlights the experience of the respondents in reporting on their
+Table 1.
+
+Sample characteristics.
+
+Number of years working with the
+bank
+Less than 1 year
+1–2 years
+2–3 years
+3–4 years
+More than 4 years
+Total
+Age of respondents
+26–33
+34–41
+42–47
+48+
+Total
+Ranking of respondents banks
+Quartile one banks
+Other banks
+Total
+Educational Level
+Bachelors’ degree
+Master’s degree
+Professional qualiﬁcations
+Total
+
+Frequency
+
+Percentage
+
+8
+22
+52
+105
+258
+445
+
+1.8
+4.9
+11.8
+23.5
+58.0
+100.0
+
+140
+154
+86
+65
+445
+
+31.46
+34.61
+19.33
+14.60
+100.0
+
+302
+143
+445
+
+67.8
+32.2
+100.00
+
+95
+274
+76
+445
+
+21.35
+61.57
+17.08
+100.0
+
+10
+
+M.A. Mahmoud
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+bankers’ SMO and how it impacts on their economic and social performance. Majority
+of the respondents were under 42 years constituting 294 (66.07%) and those who were
+42 years above were above 151 (33.93%). This indicates a high number of youth or
+‘working class’ who were expected to be conscious about sustainability issues of their
+bankers’ considering campaigns about integration of economic, social, ecological and
+environmental by multiple stakeholders in diverse platforms. The rankings of respondents’ banks were analysed. Majority, 302 (67.8%) , of the sample fell within the quartile one banks. The quartile one banks are the ﬁrst four banks rank in order of size in
+Ghana, based on Ghana banking survey carried out annually (Mahmoud et al., 2011).
+The remaining 143 (32.2%) were with the other banks. This indicates that most of the
+respondent’s banks were large.
+Construct validation and reliability
+In order to validate the multidimensional scales of SMO and SBFP, a factor analysis
+was performed (see Table 2). The Exploratory Factor Analysis (EFA) (applying principal component analysis), based on the suggested rule of eigenvalue > 1, indicate all
+items loaded appropriately onto their respective factors. The factor analysis of SMO
+produces four factors: SO, EnviroO, EconoO and MO accounting for 47.979% of the
+total variance, with composite reliability of .904. The loadings of these four factors of
+SMO range from .501 to .812. Cronbach’s alpha values are .850, .867, .545 and .775,
+respectively, for SO, EnviroO, EconoO and MO. The EFA results in two factors to
+measure the construct of SBFP. There are BP and SP. These two factors account for
+60.486% of total variance for SBFP. The composite reliability is .905, which is high.
+The loadings for the two factors of SBFP range between .524 and .844. A cut-off of .5
+for Cronbach alpha (Nunnally, 1978) was adopted for the constructs. In line with
+Blankson and Stokes (2002), the accepted benchmark for item-to-total correlation was
+set above .3.
+The validity of the scales was tested through content, convergent and discriminant
+validity (Abdulai Mahmoud & Yusif, 2012; Blankson & Stokes, 2002; O’Cass & Ngo,
+2007). The content validity checks were performed on the constructs taking into
+account both the literature and opinions received during the pre-test with academics
+and practitioners. This was to ensure that the scale items would be meaningful to the
+sample and capture the issues which were intended to be measured (Abdulai Mahmoud
+& Yusif, 2012; Appiah-Adu, 1998). Discriminant validity can be veriﬁed if the correlation between two composite constructs is not higher than their reliability estimates
+(Abdulai Mahmoud & Yusif, 2012; O’Cass & Ngo, 2007). In this regard, the constructs
+correlations were compared to their respective reliabilities. Based on the results, the
+correlation between SMO and SBFP is .649 (Table 3) and the respective reliabilities
+are .904 and .905 (Table 2). In consonance with the work of O’Cass and Ngo (2007),
+the results support the claim for discriminant validity of the scales.
+Convergent validity proposes that the items of a construct be at least moderately correlated (Abdulai Mahmoud & Yusif, 2012; O’Cass & Ngo, 2007). A measure must correlate
+with other indicators of the same construct. The correlation coefﬁcient between overall
+SMO and its four dimensions of SO, EnviroO, EconoO and MO are .788, .789, .666 and
+.794 (Table 3). The high correlation between SMO and its dimensions show that the four
+dimensions are converging to a common construct, given backing to the convergent
+validity of the scale. Based on the same principle, convergent validity for SBFP is equally
+
+Journal of Strategic Marketing
+Table 2.
+
+Factor analysis and reliability.
+Factor Eigen- Variance
+loadings value explained
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+11
+
+Scale
+SMO (Total variance = 47.979;
+Composite reliability = .904 and
+KMO = .927
+Societal orientation
+My bank effectively gathers and
+integrates information to develop
+social strategy
+My bank effectively gathers and
+integrates information to develop
+economic strategy
+My bank effectively gathers and
+integrates information to develop
+environmental strategy
+My bank effectively gathers and
+integrates social, economic and
+environmental information to develop
+strategy
+My bank’s operations reﬂect both
+market orientation and sustainable
+development
+Environmental orientation
+Environmental values stimulate
+responsiveness in my bank
+My bank’s new products and services
+minimises environmental impact
+relative to its competitors
+Environmental values are important for
+my bank in its sustainability
+management capabilities
+Environmental concerns such as
+pollution of water bodies stimulates
+responsiveness in my bank in
+relationship to its competitors
+Environmental friendly operations are
+important to my bank relative to its
+competitors
+My bank responds to environmental
+concerns
+Economic orientation
+In relation to the competition, my bank
+generates economic value to its
+customers
+In relation to the competition, my bank
+generates economic value for its
+employees
+In relation to the competition, my bank
+generates economic value for its
+shareholders
+
+9.777
+
+Item – to –
+total
+correlation
+
+30.553
+
+.850
+
+.812
+
+.717
+
+.787
+
+.700
+
+.706
+
+.666
+
+.690
+
+.684
+
+.558
+
+.547
+2.055
+
+36.974
+
+.867
+
+.786
+
+.708
+
+.764
+
+.691
+
+.736
+
+.696
+
+.700
+
+.583
+
+.699
+
+.673
+
+.605
+
+.634
+1.640
+
+42.254
+
+Cronbach
+alpha
+
+.755
+
+.400
+.411
+
+.717
+
+.300
+
+.545
+
+.692
+
+(Continued)
+
+12
+Table 2.
+
+M.A. Mahmoud
+(Continued).
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Factor Eigen- Variance
+loadings value explained
+Market orientation
+Individuals from my bank’s
+departments interact directly with
+customers to learn how to serve them
+better
+My bank meets with customers at least
+once a year to ﬁnd out what products
+or services they will need in the
+future
+My bank does a lot of in-house market
+research
+My bank has interdepartmental
+meetings at least once a quarter to
+discuss market trends and
+developments
+My bank periodically circulates
+documents that provide information
+on their customers
+When something important happens to
+a major customer or market of my
+bank, the whole bank knows about it
+in a short period
+SBFP
+(Total variance = 60.486; Composite
+reliability = .905 and KMO = .930
+Brand performance
+My bank’s corporate brand is doing
+well relative to the competition
+My bank’s corporate brand is relatively
+strong in the target market relative its
+competitors
+My bank is very innovative and
+entrepreneurial in relative to
+competitions
+The reputation of my bank in the
+market place is high
+My bank’s products and services
+provision are competitive
+My bank performs excellently in
+market and community values
+In my opinion, my bank has a longterm objectives
+Sustainable performance
+Sustainability management performance
+is critical to my bank
+My bank is doing well in meeting
+current stakeholders need at the same
+time operating with the future
+stakeholders in mind relative to the
+competition
+Sustainable banking performance is
+important to my bank
+Commitment to sustainability
+management amongst my bank is
+high
+
+.766
+
+1.838
+
+47.979
+
+Item – to –
+total
+correlation
+
+Cronbach
+alpha
+
+.650
+
+.775
+
+.716
+
+.537
+
+.694
+
+.586
+
+.601
+
+.502
+
+.562
+
+.454
+
+.501
+
+.427
+
+.897
+.844
+
+5.900
+
+49.167
+
+.769
+
+.843
+
+.765
+
+.797
+
+.759
+
+.777
+
+.751
+
+.772
+
+.745
+
+.550
+
+.737
+
+.524
+
+.565
+1.358
+
+60.486
+
+.834
+
+.811
+
+.677
+
+.782
+
+.600
+
+.752
+
+.717
+
+.686
+
+.665
+
+Journal of Strategic Marketing
+Table 3.
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+SBFP
+SMO
+SO
+EnviroO
+MO
+EconoO
+BP
+SP
+
+13
+
+Constructs correlations.
+Mean
+
+SD
+
+SBFP
+
+SMO
+
+SO
+
+EcoloO
+
+MO
+
+EconoO
+
+BP
+
+SP
+
+3.7680
+3.2738
+3.4373
+3.2908
+2.9255
+3.6581
+3.7236
+3.6726
+
+.65318
+.50144
+.61016
+.63903
+.69820
+.63697
+.66045
+.66597
+
+1
+.649**
+.602**
+.452**
+.427**
+.591**
+.953**
+.820**
+
+1
+.788**
+.789**
+.794**
+.666**
+.605**
+.617**
+
+1
+.540**
+.448**
+.475**
+.550**
+.588**
+
+1
+.407**
+.379**
+.418**
+.466**
+
+1
+.441**
+.414**
+.381**
+
+1
+.545**
+.530**
+
+1
+.639**
+
+1
+
+***P-value is signiﬁcant at the .001 level.
+**P-value is signiﬁcant at the .05 level.
+*P-value is signiﬁcant at the .001 level.
+
+supported. The correlation coefﬁcient between overall SBFP and BP and SP are .953 and
+.820 respectfully (Table 3).
+The correlations results postulate that the extracted factors could be interpreted as a
+display of common underlying dimensions of SMO and SBFP (Abdulai Mahmoud &
+Yusif, 2012; Blankson & Stokes, 2002). In general, the above results accept the psychometric properties of the measures employed in this study.
+Descriptive statistics and correlations
+Table 3 presents the means, the standard deviation and correlation among the different
+constructs which were employed to test the hypotheses in this study. Correlations
+among SMO, SBFP and their components are signiﬁcantly related, thus indicating a
+potential relationships or associations among the constructs. All the variables appear to
+show a high mean value. This paves the way for testing the study’s hypothesised relationships. The evidence gathered from the descriptive statistics (mean and standard
+deviation) appears to conﬁrm SMO and SBFP are appreciated to be important among
+employees of banks in Ghana.
+Hypotheses testing
+Regression analyses were used to test the research hypotheses. Five models were tested
+in this study. Hypothesis 1 report the result of SMO compared to SBFP as independent
+variable. From Table 4, the results show a positive and signiﬁcant relationship
+(β = .648, P ≤ .001). As expected, these ﬁndings provide support for H1 of the study.
+Similarly, all the components of SMO exhibit positive and signiﬁcant relationship with
+SBFP. The components of SMO in this study are made of SM and MO. SM was
+decomposed into SO, EnviroO and EconoO, whereas the MO component was maintained.
+SO was found to be positively and signiﬁcantly related (β = .603, P ≤ .001) to
+SBFP, providing support for H2. This result supports the notion that banks that are concerned about wider stakeholders beyond their target market will do well than their competitors. EnviroO was found to be positively and signiﬁcantly (β = .452, P ≤ .001)
+related to SBFP, thus, granting support for H3. Also, the result of EconoO in relation to
+SBFP indicate a positive and signiﬁcant relationship (β = .594, P ≤ .001). Accordingly,
+
+14
+Table 4.
+
+M.A. Mahmoud
+Regression coefﬁcients for the predictors and consequences of SMO.
+Dependent variable
+SBFP
+
+Independent
+variables
+
+Hypothesis 1
+β(t)
+
+SMO
+
+.648
+(23.121***)
+
+SO
+
+Hypothesis 2
+β(t)
+
+Hypothesis 4
+β(t)
+
+Hypothesis 5
+β(t)
+
+.603
+(20.578***)
+
+EcoloO
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Hypothesis 3
+β(t)
+
+.452
+(13.733***)
+
+EconoO
+
+.596
+(19.957***)
+
+MO
+SB
+BL
+AgeR
+Constant
+R2
+Adjusted R2
+F
+Df
+
+.32
+(1.137)ns
+−.007
+(−.254)ns
+−.068
+(−2.345)ns
+6.922
+.426
+.423
+135.678
+4
+
+.056
+(1.892)ns
+−.007
+(−.022)ns
+−.067
+(−2.232)ns
+10.484
+.370
+.366
+107.680
+4
+
+.044
+(1.333)ns
+−.009
+(−.259)ns
+−.063
+(−1864)ns
+14.408
+.210
+.206
+48.622
+4
+
+−.023
+(−.764)ns
+−.049
+(−1.608)ns
+−.046
+(−1.503)ns
+12.272
+.356
+.352
+101.348
+4
+
+.428
+(12.878***)
+.043
+(1.275)ns
+−.011
+(−.311)ns
+−.071
+(−.2.077)ns
+18.396
+.189
+.185
+42.876
+4
+
+*P = signiﬁcant at 10%.
+**P = signiﬁcant at 5% and
+***P = signiﬁcant at 1%.
+Note: SB = Size of bank, BL = Bank loyalty, AgeR = Age of respondents, ns = Not signiﬁcant.
+
+the result support H4. Finally, a positive and signiﬁcant (β = .427, P ≤ .001) relationship was found between MO and SBFP; consequently, H5 of the study is supported.
+Also, as shown in Table 4, all the control variables were not signiﬁcant, indicating they
+do not inﬂuence the SMO and SBFP relationship.
+Discussions and implications
+The main ﬁndings of this research show a signiﬁcant and positive relationship between
+SMO and SBFP. This means that SMO generates both economic and social performance for emerging economies banking sector and must be encouraged. In the ﬁrst
+place, the ﬁnding of the study conﬁrms the conceptualisation that SMO results in sustainable balanced performance of ﬁrms, at least in the banking sector in Ghana. Moreover, the ﬁndings provide support to earlier exploratory research conducted on the
+subject (Mitchell et al., 2013). Managers must sustain their interest in both short-term
+and long-term strategic performance of banks, rather than on short-term economic
+gains. The results of this study also support the argument that societal, environmental
+and EconoOs are dimensions of banks SMO. This shows that banks whose strategies
+are not only internally focus but are externally oriented would be relatively positioned
+to be more sustainable market-oriented, which consequently will result in long-term
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Journal of Strategic Marketing
+
+15
+
+economic and social performance for such banks. Employees are argued to identify
+with corporate institutions that are perceived to be involved in sustainability management that have direct impact with them (Choi & Ng, 2011).
+The ﬁndings of this study is re-echoing the argument by strategic marketing scholars to add sustainable marketing into conventional focus on marketing management on
+customers and market dimensions (Brik et al., 2011; Mitchell et al., 2010, 2013). The
+research ﬁndings should spur corporate managers to examine and transform marketing
+strategies by applying an empirically proven mix of long-term economic, social, ecological and environmental performance indicators for corporate and societal beneﬁts.
+Corporate managers must view the adoption of SMO as an opportunity for growth and
+not threat to the success of their operations. This assertion is supported by social movements among consumers (including internal consumers) demonstrating a growing concern with the environment as ﬁrms pursue their economic agenda (Cummins et al.,
+2014).
+Furthermore, the ﬁndings on the dimensions of SMO on SBFP also indicate that
+the employees value all of these variables as they make tactical and strategic decisions.
+This is in line with a study by Choi and Ng (2011) which concluded that employees
+respond to multiple dimensions of sustainability. The implications to managers are that
+equal attentions are needed to all the SMO dimensions. Generally, management focus
+on both the micromarketing and macromarketing constructs are likely to generate
+favourable response from target market than either of them. Scholars postulate that
+ﬁrms that are environmental sustainable are seeking competitive advantage (Lewin
+et al., 2011; Mitchell et al., 2013; Wooliscroft et al., 2013). This implies SMO has the
+potential of deriving competitive advantage for banks investigated.
+The positive and signiﬁcant inﬂuence of EnviroO and SBFP demonstrates that
+banks are concerned about the external marketing environment. In relation to concern
+for cost-oriented values and beneﬁt-oriented values (Lewin et al., 2011) on ecological
+orientation, the ﬁndings of this study suggest that banks are most likely to be concerned on the cost and beneﬁts of their operations to the environment. A previous study
+has established that beneﬁt-oriented values have a negative relation with concerns,
+whereas cost-oriented values are positively associated with safety and regulatory concerns (Lewin et al., 2011).
+The ﬁndings of this study also suggest that managers who are not yet incorporating
+SM in their corporate strategy must begin to do so. The advantages for adopting SMO
+far outweigh its cost in the long-term (Lewin et al., 2011). Lagging behind in terms of
+SMO adoption could be costly. As some marketing scholars are of the view managers
+are incorporating sustainability initiatives other than those purely under academic
+umbrella (Cummins et al., 2014). This implies that aside academic researchers’ interest
+in sustainable issues, managers in industry or practice are also incorporating sustainability matters in their work. Apart from the adoption of SMO beneﬁt that inure to the
+banks, managers have the responsibility to protect the environment. In this regard,
+banks have the pivotal role in environmental and social friendly operations at their own
+level and other partner ﬁrms operations. For instance, banks can ensure loans are
+approved and disbursed to sectors that are perceived to be environmental friendly in
+their operations.
+Environmental marketing suggest that outside factors such as economic downturns
+can and do play an inﬂuencing role in the degree to such trends become enhanced in
+the corporate structures (Cummins et al., 2014). At the corporate level, SMO might not
+be given attention due to faltering economic conditions as an external variable
+
+16
+
+M.A. Mahmoud
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+(Cummins et al., 2014). The ﬁndings of this study is in congruence with Mitchell
+et al.’s (2013) conclusion that the SMO construct can assist ﬁrms to achieve enhance
+social and environmental creditability that result in long-term market competitiveness,
+proﬁtability and resilience. Also, as organizations’ grow to become powerful in the
+marketplace, they are also being held accountable for great many environmental, social
+and sustainability challenges (Han, Hansen, Panwar, Hamner, & Orozco, 2013). As a
+result, many organisations are increasingly expected to redeﬁne and realign their relationships with the larger society by adopting macromarketing approach in their corporate marketing strategy (Han et al., 2013; Mitchell et al., 2010).
+Conclusions and directions for future research
+This study contributes to the emerging economies strategic marketing literature. This is
+achieved by applying SMO construct to the understanding of sustainable operations of
+banks and its effects on their economic and social performance. The assessment of the
+banking industry environmental operations and the synergistic effect are not easily
+attainable due to the difﬁculty in visualizing and understanding the impact of banking
+sector compared to manufacturing and mining. Nonetheless, the study empirically
+shows evidence of beneﬁts of banks adoption of SMO, which leads to better and balanced performance of banks relative to focusing on micromarketing at an emerging
+economy context. Thus, SMO is a competitive strategic tool among banks in an emerging economy. Several reasons account for this ﬁnding, including and not limited to:
+environmental education, competition, and increase in employee knowledge about the
+environment and the integration of internal and external banks strategies.
+The main underlying premise of SMO is that banks’ use of MO and SM principles
+when making strategic decisions for sustainability balanced economic and social performance (Bradshaw & Tadajewski, 2011; Claudy et al., 2013; Wooliscroft et al., 2013).
+This ensures that banks are protected at normal or economic boom periods and at difﬁcult times. Banks’ products and services may suffer diffusions among employees if they
+perceive them to be unsustainable as a result of poor environmental, social and economic management.
+Assessment of SMO in the banking industry is an evaluation of corporate relationships with key economic, social, and other environmental stakeholders. This calls for
+corporate management to apply SMO principles to achieve improved balanced economic, social long-term organizational performance. Moreover, the investigating of the
+application of SMO in banks in an emerging economy, particularly, in a sub-Saharan
+African context adds to existing empirical studies of SMO beyond the studies conducted in developed countries. Prior studies in SMO recommended to researchers,
+establishing the potential of SMO in different industry sectors, for which this study has
+accomplished. Further, this investigation adds value to the SMO concept as recommended by previous scholars (Mitchell et al., 2010). Empirical research on SMO is at
+the embryonic stage, thus, this paper stimulate further research into the concept. Moreover, to the best of the researcher’s knowledge, this may be the ﬁrst quantitative study
+to empirically examine the SMO construct in an emerging economy.
+The test of the hypotheses using banks employees’ perceptions of SMO and its
+relation to performance without other stakeholders’ views serves as short-comings to
+this research. In this regard, it is important to consider customers, shareholders and
+other constituents’ views in subsequent SMOs studies. However, it is believed that the
+use of perceptual data provides real-time facts than using documentary evidence.
+
+Journal of Strategic Marketing
+
+17
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Moreover, this study still ﬁnds it appropriate to use employees since it is believed that
+they are more knowledgeable about the banks operation. The researcher is also of the
+view that controlling for banks employees educational background and tribal/ethnicity
+such as Akan, Dogombas, Ga, Gonja, Nzema, Hausa, Ewe and so on could have provided an objective assessment of the sustainable issues and performance. This stems
+from the fact that educational and cultural differences have a signiﬁcant role in these
+responses to the issues. Notwithstanding the challenges enumerated above, this study
+postulate future research opportunities that may hold particular promise. Further studies
+can be conducted in other sectors within the context of this study. This will make the
+SMO construct relevant to other sectors within the emerging markets.
+Disclosure statement
+No potential conﬂict of interest was reported by the author.
+
+References
+Abdulai Mahmoud, M. A., & Yusif, B. (2012). Market orientation, learning orientation, and the
+performance of nonproﬁt organisations (NPOs). International Journal of Productivity and
+Performance Management, 61, 624–652.
+Appiah-Adu, K. (1998). Market orientation and performance: Empirical tests in a transition economy. Journal of Strategic Marketing, 6, 25–45.
+Bank of Ghana. (2014). Role of banking sector in capital market-Bank of Ghana. Retrieved
+March 10, 2014, from https:\\www.bog.gov.gh
+Bank of Ghana Survey. (2013). Licensed banks, representative ofﬁces & their registered ofﬁces
+in Ghana as at December 2013. Retrieved June 22, 2014, from http://www.bog.gov.gh/index.
+php?option=cbgom_content&view=article&id=82:licensed-banks&catid=71&Itemid=124
+Blankson, C., & Stokes, D. (2002). Marketing practices in the UK small business sector. Marketing Intelligence and Planning, 20, 49–61.
+Blankson, C., Cowan, K., Crawford, J., Kalafatis, S., Singh, J., & Cofﬁe, S. (2013). A review of
+the relationships and impact of market orientation and market positioning on organisational
+performance. Journal of Strategic Marketing, 21, 499–512.
+Bradshaw, A., & Tadajewski, M. (2011). Macromarketing roundtable commentary–the export of
+marketing education. Journal of Macromarketing, 31, 312–321.
+Brik, A. B., Rettab, B., & Mellahi, K. (2011). Market orientation, corporate social responsibility,
+and business performance. Journal of Business Ethics, 99, 307–324.
+Choi, S., & Ng, A. (2011). Environmental and economic dimensions of sustainability and price
+effects on consumer responses. Journal of Business Ethics, 104, 269–282.
+Claudy, M. C., Peteeson, M., & O’Driscoll, A. (2013). Understanding the attitude-behavior gap
+for renewable energy systems using behavioral reasoning theory. Journal of Macromarketing,
+33, 273–287.
+Crittenden, V. L., Crittenden, W. F., Ferrell, L. K., Ferrell, O. C., & Pinney, C. C. (2011). Market-oriented sustainability: A conceptual framework and propositions. Journal of the Academy
+of Marketing Science, 39, 71–85.
+Cummins, S., Reilly, T. M., Carlson, L., Grove, S. T., & Dorsch, M. J. (2014). Investigating the
+portrayal and inﬂuence of sustainability claims in an environmental advertising context. Journal of Macromarketing, 34(3), 332–348.
+Dean, T. J., & McMullen, J. S. (2007). Toward a theory of sustainable entrepreneurship: Reducing environmental degradation through entrepreneurial action. Journal of Business Venturing,
+22, 50–76.
+Deshpande, R., Farley, J. U., & Webster, F. E., Jr (1993). Corporate culture, customer orientation,
+and innovativeness in Japanese ﬁrms: A quadrad analysis. Journal of Marketing, 7, 23–37.
+Doyle, J. D., & Armenakyan, A. (2014). Value-creating mechanisms within the market orientation–performance relationship: A meta-analysis. Journal of Strategic Marketing, 22, 193–205.
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+18
+
+M.A. Mahmoud
+
+Ferrell, O. C., Gonzalez-Padron, T. L., Hult, G. T. M., & Maignan, I. (2010). From market
+orientation to stakeholder orientation. Journal of Public Policy & Marketing, 29, 93–96.
+Gebhardt, G. F., Carpenter, G. S., & Sherry, J. F., Jr (2006). Creating a market orientation: A
+longitudinal, multiﬁrm, grounded analysis of cultural transformation. Journal of Marketing,
+70, 37–55.
+Grifﬁn, J., & Mahon, J. (1997). The corporate social performance and corporate ﬁnancial performance debate. Business & Society, 36, 5–31.
+Han, X., Hansen, E., Panwar, R., Hamner, R., & Orozco, N. (2013). Connecting market orientation, learning orientation and corporate social responsibility implementation: is innovativeness
+a mediator? Scandinavian Journal of Forest Research, 28, 784–796.
+Haugland, S. A., Myrtveit, I., & Nygaard, A. (2007). Market orientation and performance in the
+service industry: A data envelopment analysis. Journal of Business Research, 60, 1191–1197.
+Hawkins, M. A. (2015). Market identiﬁcation to generation: A practice theory market orientation.
+Journal of Strategic Marketing, 23(2), 112–121.
+Hinson, R., Owusu-Frimpong, N., & Dasah, J. (2009). Key motivations for bank patronage in
+Ghana. International Journal of Bank Marketing, 27, 381–399.
+Homburg, C., & Pﬂesser, C. (2000). A multiple-layer model of market-oriented organizational
+culture: Measurement issues and performance outcomes. Journal of Marketing Research, 37,
+449–462.
+Hunt, S. D. (2012). Explaining empirically successful marketing theories: The inductive realist
+model, approximate truth, and market orientation. AMS Review, 2, 5–18.
+Hunt, S., & Lambe, C. (2000). Marketing’s contribution to business strategy: Market orientation,
+relationship marketing and resource-advantage theory. International Journal of Management
+Review, 2(1), 17–43.
+Hunt, S. D., & Morgan, R. M. (1995). The comparative advantage theory of competition. Journal
+of Marketing, 59, 1–15.
+Jaworski, B., & Kohli, A. (1993). Market orientation: Antecedents and consequences. Journal of
+Marketing, 57, 53–70.
+Kirca, A., Jayachandran, S., & Bearden, W. (2005). Market orientation: A meta-analytic review
+and assessment of its antecedents and impact on performance. Journal of Marketing, 69,
+24–41.
+Kohli, A., & Jaworski, B. (1990). Market orientation: The construct, research propositions, and
+managerial implications. Journal of Marketing, 54(2), 1–18.
+Kuada, J., & Buatsi, S. N. (2005). Market orientation and management practices in Ghanaian
+ﬁrms: Revisiting the Jaworski and Kohli framework. Journal of International Marketing, 13,
+58–88.
+Kumar, V., Jones, E., Venkatesan, R., & Leone, R. P. (2011). Is market orientation a source of
+sustainable competitive advantage or simply the cost of competing? Journal of Marketing,
+75, 16–30.
+Kuosmanen, T., & Kuosmanen, N. (2009). How not to measure sustainable value (and how one
+might). Ecological Economics, 69, 235–243.
+Lado, N., Maydeu-Olivares, A., & Rivera, J. (1998). Measuring market orientation in several
+populations: A structural equations model. European Journal of Marketing, 32, 23–39.
+Lewin, J. E., Strutton, D., & Paswan, A. K. (2011). Conﬂicting stakeholder interests and natural
+gas: A macromarketing perspective. Journal of Macromarketing, 31, 340–358.
+Lings, I. N., & Greenley, G. E. (2009). The impact of internal and external market orientations
+on ﬁrm performance. Journal of Strategic Marketing, 17, 41–53.
+Ling-Yee, L. (1997). Effect of collectivist orientation and ecological attitude on actual environmental commitment: The moderating role of consumer demographics and product involvement. Journal of International Consumer Marketing, 9, 31–53.
+Mahmoud, M. A., Kastner, A., & Yeboah, J. (2010). Antecedents, environmental moderators and
+consequences of market orientation: A study of pharmaceutical ﬁrms in Ghana. Journal of
+Medical Marketing, 10, 231–244.
+Mahmoud, M. A., Kastner, A. N. A., & Akyea, K. S. (2011). Market orientation as a competitive
+tool: Empirical evidence from ‘quartile one’ banks in Ghana. Journal of Financial Services
+Marketing, 16, 316–334.
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+Journal of Strategic Marketing
+
+19
+
+Maignan, I., & Ferrell, O. C. (2004). Corporate social responsibility and marketing: An integrative framework. Journal of the Academy of Marketing Science, 32(1), 3–19.
+Maignan, I., Ferrell, O. C., & Ferrel, L. (2005). A stakeholder model for implementing social
+responsibility in marketing. European Journal of Marketing, 39, 956–977.
+Matsuno, K., & Mentzer, J. T. (2000). The effects of strategy type on the market orientation-performance relationship. Journal of Marketing, 64(4), 1–16.
+McDonagh, P., & Prothero, A. (2014). Introduction to the special issue sustainability as megatrend I. Journal of Macromarketing, 1–5. doi: 10.1177/0276146714533341
+McKitterick, J. (1957). What is the marketing management concept? In The frontiers of marketing thought and action. Chicago, IL: American Marketing Association.
+Menon, A., & Menon, A. (1997). Enviropreneurial marketing strategy: The emergence of corporate environmentalism as market strategy. Journal of Marketing, 61, 51–67.
+Meunier-FitzHugh, K. L., & Lane, N. (2009). Collaboration between sales and marketing, market
+orientation and business performance in business-to-business organisations. Journal of Strategic Marketing, 17, 291–306.
+Mitchell, R. W., Wooliscroft, B., & Higham, J. (2010). Sustainable market orientation: A new
+approach to managing marketing strategy. Journal of Macromarketing, 30, 160–170.
+Mitchell, R., Wooliscroft, B., & Higham, J. E. (2013). Applying sustainability in national park
+management: Balancing public and private interests using a sustainable market orientation
+model. Journal of Sustainable Tourism, 21, 695–715.
+Mittelstaedt, J. D., Shultz, C. J., Kilbourne, W. E., & Peterson, M. (2014). Sustainability as
+megatrend: Two schools of macromarketing thought. Journal of Macromarketing, 34, 253–
+264.
+Morgan, R., & Strong, C. (1998). Market orientation and dimensions of strategic orientation.
+European Journal of Marketing, 32, 1051–1073.
+Morgan, N. A., Vorhies, D. W., & Mason, C. H. (2009). Market orientation, marketing capabilities, & ﬁrm performance. Strategic Management Journal, 30, 909–920.
+Narteh, B. (2013a). SME bank selection and patronage behaviour in the Ghanaian banking industry. Management Research Review, 36, 1061–1080.
+Narteh, B. (2013b). Key determinant factors for retail bank switching in Ghana. International
+Journal of Emerging Markets, 8, 409–427.
+Narver, J., & Slater, S. (1990). The effect of a market orientation on business proﬁtability. Journal of Marketing, 54, 20–35.
+Noble, C. H., Sinha, R. K., & Kumar, A. (2002). Market orientation and alternative strategic orientations: A longitudinal assessment of performance implications. Journal of Marketing, 66,
+25–39.
+Nunnally, J. C. (1978). Psychometric theory. New York, NY: McGraw-Hill Publishing.
+O’Cass, A., & Ngo, L. V. (2007). Market orientation versus innovative culture: Two routes to
+superior brand performance. European Journal of Marketing, 41, 868–887.
+Opoku, R. A., & Essien, V. B. (2011). Employee perceptions of market orientation in the banking
+industry: A case from a developing country. Journal of Financial Services Marketing, 16,
+139–152.
+Orlitzky, M., Schmidt, F., & Rynes, S. L. (2003). Corporate social and ﬁnancial performance: A
+meta-analysis. Organisation Studies, 24, 403–441.
+Pantouvakis, A. (2014). Market orientation and service quality: Opponents or colleagues. International Journal of Quality and Service Sciences, 6(2/3), 98–111.
+Polonsky, M. J. (2011). Transformative green marketing: Impediments and opportunities. Journal
+of Business Research, 64, 1311–1319.
+PWC. (2013). 2013 Ghana banking survey. Retrieved June 22, 2015, from https://www.pwc.com/
+en_GH/gh/pdf/ghana-banking-survey-2013-pwc.pdf
+Schonberger, R. J. (1990). Building a chain of customers. New York, NY: The Free Press.
+Slater, S., & Narver, J. (1995). Market orientation and the learning organization. Journal of
+Marketing, 59, 63–74.
+Societe Generale Ghana. (2014). CSR – Partnering sustainable development; the story of A.
+Retrieved March 10, 2014, from http://societegenerale.com.gh/Media/
+Standard Chartered Bank. (2014). Key people – about us. Retrieved March 10, 2014, from https:\
+\www.sc.com
+
+Downloaded by [University of California, San Diego] at 00:51 17 March 2016
+
+20
+
+M.A. Mahmoud
+
+UT Bank. (2014). Responsible procurement policy. Retrieved March 10, 2014, from https://www.
+utbankghana.com
+Varman, R., & Costa, J. (2008). Embedded markets, communities, and the invisible hand of
+social norms. Journal of Macromarketing, 28, 141–156.
+Viswanathan, M., Jung, K., Venugopal, S., Minefee, I., & Jung, I. W. (2014). Subsistence and
+sustainability: from micro-level behavioral insights to macro-level implications on consumption, conservation, and the environment. Journal of Macromarketing, 34, 8–27.
+Ward, R. (2013). Ghana is among emerging economies. The Economist, Retrieved August 12,
+2014, from https:\\www.ghana.gov.gh/index.php/news-slider/3588-ghana-is-among-emergingeconomies-economis
+Wooliscroft, B., Ganglmair-Wooliscroft, A., & Noone, A. (2013). The hierarchy of ethical consumption behavior: the case of New Zealand. Journal of Macromarketing, 1–16,
+0276146713508560.
+Yadav, M. S. (2010). The decline of conceptual articles and implications for knowledge development. Journal of Marketing, 74(1), 1–19.
+
+

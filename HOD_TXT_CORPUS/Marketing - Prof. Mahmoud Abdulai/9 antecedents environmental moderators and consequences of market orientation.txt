@@ -1,0 +1,509 @@
+
+
+
+
+Original Article
+Antecedents, environmental moderators and consequences of market orientation: A study of pharmaceutical ?rms in Ghana
+Received (in revised form): 23rd April 2010
+
+Mohammed A. Mahmoud
+is a lecturer in the Department of Marketing and Customer Management at the University of Ghana Business School, Ghana.
+
+Adelaide Kastner
+is a lecturer in the Department of Marketing and Customer Management at the University of Ghana Business School, Ghana.
+
+Joseph Yeboah
+is a teaching and research assistant in the Department of Marketing and Customer Management at the University of Ghana Business School, Ghana.
+
+ABSTRACT Despite the widespread recognition attached to market orientation (MO) as a strategic drive for ?rms to attain and maintain competitive advantage, relatively little is known of its performance implication for pharmaceutical ?rms. An MO concept successfully applied to the pharmaceutical industry should drive the manufacturing, distribution or over-the-counter sale of medicines for new diseases or medicines with better results in terms of health outcomes, which would enable the focal ?rms to enjoy some competitive advantages. This study examines both internal and external factors affecting MO while relating MO to the performance of pharmaceutical ?rms. A popular MO construct in the scienti?c literature was replicated by estimating three multiple regression equations to test some hypotheses based on data collected on pharmaceutical ?rms in Ghana. The results show a strong positive association between MO and overall performance (R 2 = 0.291; P :s 0.001). It was observed that senior management factors consistently shaped the direction of MO of pharmaceutical ?rms; however, there were some inconsistencies regarding how interdepartmental dynamics, organizationwide systems and external factors affect MO of these ?rms. Journal of Medical Marketing (2010) 10, 231-244. doi:10.1057/jmm.2010.12
+
+Keywords:  market orientation; performance; innovation; pharmaceutical industry; Ghana
+
+
+
+
+Correspondence: Mohammed A. Mahmoud Department of Marketing and Customer Management, University of Ghana Business School, University of Ghana, PO Box LG 78, Legon, Accra, Ghana
+E-mail: amohammed@ ug.edu.gh
+
+INTRODUCTION
+Since the inception of the new millennium, the pharmaceutical industry in Ghana has entered into a new face in its competitive environment. There are an
+
+
+increasing number of local manufacturing firms, wholesalers and retailers of pharmaceuticals, and over-the-counter pharmacy shop operators. At the same time, foreign involvement in the local
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+www.palgrave-journals.com/jmm/
+
+
+
+
+market has heightened. To withstand the now competitive nature of the industry, firms would have to invest heavily into marketing activities in an endeavour to gain customer loyalty and, moreover, to compete directly with other firms in the industry. In view of this, adopting a market-orientated strategy should be seen by pharmaceutical firms as a way of successfully managing the impact of changes in the industry. In this connection, Kesic?1 argues that strategic management with a strong market orientation (MO) should be the most important top business function of firms in this industry. It is widely accepted that MO, reflecting the degree of implementation of marketing concept, leads to superior business performance.2-4 The marketing concept holds that organizations should direct all their business activities towards satisfying the needs, wants and aspirations of their customers for a profit.
+  For the past two decades, there has been comprehensive search of empirical literature to test the assertion that MO results to superior performance. Lara and de Mesa5 took a bold step when they studied MO in the pharmaceutical industry in Spain; however, their study was exploratory and did not show the causal linkage between MO and performance of businesses in the industry.
+Therefore, to the best knowledge of the authors, to date, no attempt has been made to empirically examine the congruence between MO and the
+performance of a pharmaceutical firm in the scientific literature. But, since it is known that a particular industry may have a particular culture,6 an organization's MO could be industry-specific. Indeed, the pharmaceutical industry has distinctive features that make demand conditions, sources of new product ideas and the resulting competition different from other more traditional markets.7 Reflecting on
+
+this issue, Kesic?1 argues that the traditional view of markets consisting of end customers does not necessarily apply as there are many stakeholders involved in the commercialization process of pharmaceuticals.
+Furthermore, the development
+of MO may be facilitated or hampered by certain internal/organizational factors (that is antecedents) and that the MO-performance relationship of a
+pharmaceutical firm may be moderated by the interplay of some external factors (that is environmental moderators). For these reasons, a pharmaceutical firm would have to implant the appropriate cultures or behaviours in order to foster MO internally and that it is of relevance that such a firm responds appropriately to external forces within the industry in which it operates. However, issues such as what specific internal factors enhance MO and what kind of external factors would moderate the relationship between MO and performance of a pharmaceutical firm remain unclear. The present study intends to correct this void by supplying complete contemporary empirical evidence on the antecedents and environmental moderators of MO while, at the same time, relating MO to business performance.
+  It is hoped that pharmaceutical marketing practitioners will be informed (via the result of the study) about the benefits of developing MO as well
+as the mechanism through which MO stimulates performance of firms in
+the pharmaceutical industry where operationalization of the MO construct is sparse. Consequently, such information will go a long way in assisting the understanding of MO practices that need urgent and sustained managerial attention. It must be noted here that scholars have argued that if a pharmaceutical firm wants to achieve market success with a brand new product, it needs to invest strongly into marketing activities.7,8 In the next
+
+
+
+
+
+
+232	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+Antecedents, environmental moderators and consequences of MO
+
+
+
+discussions, this paper reviews the concept of MO, its antecedents and environmental moderators, which will lead to an account of its implication for a pharmaceutical firm performance. A number of hypotheses are forwarded before discussing the research design and methodology.
+Thereafter, the results of the survey are presented along with discussions and managerial implications. The paper concludes with a number of limitations and recommendations for future research.
+
+MARKET ORIENTATION
+MO is based upon the implementation of the marketing concept.9 According to McNamara10 the marketing concept is 'a philosophy of business management, based upon a companywide acceptance of the need for customer orientation, profit orientation, and recognition of the important role of marketing in communicating the needs of the market to all major corporate departments'
+(p. 51). This definition indicates that for an organization to be successful, then, it must direct all its business activities towards satisfying the needs, wants and aspirations of its target market for a profit. Therefore, MO involves the use of superior organizational skills in understanding and satisfying customers.11
+  Following growing interest in the MO construct, numerous conceptual and empirical studies have been undertaken to define the concept and develop scales for measuring the degree of MO that organizations exhibit.2-4,9,12-14 The two most fundamental works on MO are those of Kohli and Jaworski2 and Narver and Slater3 and definitions proposed by most researchers were derived from the conceptualization of both Kohli and Jaworski2 and Narver and Slater.3 Kohli and Jaworski2 defined MO as the organizationwide generation of market intelligence, or information on customers' current and future needs, dissemination of
+
+that information across departments, and organizationwide responsiveness to the intelligence. In a sense, MO involves taking concrete actions in response to market intelligence. Apparently, Kohli and Jaworski2 consider MO as an activity of processing market information and understand it to be a form of behaviour or conduct more than an attitude, as the concept is more identified with the putting into practice of the concept of marketing.
+  On the other hand, Narver and Slater3 defined MO as the organizational culture that most effectively and efficiently creates the necessary behaviours for the creation of superior value for buyers and thus, continuous superior performance for the business. According to them, MO consists of three behavioural components. These are customer orientation, competitor orientation and interfunctional coordination. Customer orientation involves the process of understanding target customers and effectively deploying the skills and resources of the firm to satisfy the customer by creating superior value. Competitor orientation has to do with creating superior value through understanding the principal competitors' short-term strengths and weaknesses and long-term capabilities and strategies.
+Finally, inter-functional coordination involves getting all business functions working together to provide superior value.
+  In the pharmaceutical industry, companies must be oriented towards three customer segments: (1) physicians (2) hospitals, wholesalers and pharmacies, and
+(3) end customers, that is patients.15 Therefore, applying the concept of MO to this industry implies that firms need to acquire market information base on a wide range of customers including physicians, pharmacies, hospitals and patients. In this regard, Lara and de Mesa5 chose to define MO as the generation of
+
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+233
+
+
+
+
+marketing intelligence based on the deep knowledge of and orientation towards an extensive spectrum of customers as well as the knowledge of and orientation towards the suppliers, competitors and distribution channels. They noted that the process of dissemination of all this market information within each functional area and the adequate organizational response in order to satisfy the market needs close the MO process for a pharmaceutical firm.
+  In addition, it is suggested that innovations are typically the lifeblood of pharmaceutical companies.7 Therefore, when talking about MO in pharmaceutical ventures the orientation should not only be an attribute of an organization; MO is also a characteristic of projects within the firm that aim to develop and commercialize those crucial innovations.
+Slater and Narver16 argue that new product development should result from the interplay between actors, typically manufacturers and customers (physicians, pharmacies, hospitals and patients). In this regard, developing a drug that provides better cure for patients or medicine for new diseases presupposes an understanding of the nature of ailments or prevailing diseases, and ideally this process should be undertaken prior to the commencement of any actual new product development.17
+
+CONSEQUENCES OF MO
+Kohli and Jaworski2 theorized improvement in organizational performance as a consequence of adopting an MO. The authors list favourable business performance indicators as sales volume, sales growth, market share, return-on-investment (ROI) and profits.
+They contend that MO is likely to lead to higher customer satisfaction and repeat business, esprit de corps, job satisfaction and employee commitment, which will consequently result in overall business performance. In a sense, firms with strong MO will exhibit a competency to add
+
+value to products and services by targeting complete marketing mixes to specific customer segments. This action will translate into greater demand, higher profit margins and, ultimately, higher overall profits. To date, numerous studies undertaken in different contextual settings have attempted to show the beneficial effects of MO. Although the empirical evidence does not consistently support the claim of a direct association between MO and some performance indicators, the congruence between MO and overall performance has been confirmed by an extensive strand of studies conducted in a variety of firms.3,4,18-20 However, this direct association is yet to be evidenced in the pharmaceutical industry.
+  In the pharmaceutical industry, evidence has shown that research and development (R&D) and marketing and sales activities are two of the most important operative and even more strategic priorities of firms.1 Also, it is argued that the most important top business function of the world pharmaceutical industry is strategic marketing management with a strong emphasis on MO.1 On this basis, it can be assumed that the degree of MO has some performance implications for pharmaceutical firms. This latter assertion should not be surprising in that, Renko7 contends that some proactive aspects of MO may be more relevant for firm performance in markets for technology than in more traditional markets. The market for pharmaceuticals, according to Renko,7 forms part of markets for technology. In markets for technology, MO is particularly significant for firms in that it serves as a source of new product ideas. The market intelligence approach to MO proposed by Kohli and Jaworski2 emphasizes the generation of market information. Often, idea generation is considered a critical activity for the development of new products. It is shown
+
+
+
+
+
+
+234	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+Antecedents, environmental moderators and consequences of MO
+
+
+
+that the number of new product ideas generated in a firm is highly correlated with measurements of firm performance.17 But greater amounts of market information contribute towards enhancing idea generation, which goes to enhance the development of new products.
+  Therefore, one of the reasons for firms in this industry to be market-oriented is that this orientation will help them to generate new, more successful ideas for future medicines. Research has shown that new product development projects, which rely on carefully defined customer needs, are more likely to succeed than those that are only based on new technological opportunities.17 Moreover, recent research suggests that the degree to which a firm is involved in new product activity depends on the extent and nature of its MO.21,22 Lara and de Mesa5 contend that an MO concept successfully applied to the pharmaceutical industry would be able to drive two types of innovation; radical (medicines for new illnesses) and incremental (medicines with better results in terms of health outcomes) innovations. This is true because regular contacts with customers and competitors can provide major inputs that improve the quality of existing drugs. Even so, close partnerships with customers during product development may provide access to resources that the focal firm lacks
+in-house.
+
+ANTECEDENTS TO MO
+Antecedents to MO refer to the organizational factors that enhance or impede the implementation of the business philosophy represented by the marketing concept.11 Kohli and Jaworski,2 in their conceptual study, developed a theoretical framework of the relationship between the MO construct and its antecedents in which they suggested three hierarchically ordered categories of antecedents to an MO; thus, senior
+
+management factors, interdepartmental dynamics and organizationwide systems.
+   The senior management factors include top-management emphasis and management risk-averse. Webster23 argues that senior managers shape the direction of an organization and its values. Without the emphasis of top management it is unlikely to commit necessary resources for a pharmaceutical firm to pursue MO.
+Also, the essence of MO is delivering new solutions or therapies to ever-changing customer needs or diseases, which involves taking risks. Therefore, unless top management is willing to take risk, a pharmaceutical firm will not pursue a market-orientated strategy. For this reason, top management risk aversion is a predictor of MO. In line with this, Jaworski and Kohli4 found that the amount of emphasis senior managers place on MO affects both the acquisition of and responsiveness to information, and that MO requires risk taking on the part of senior managers.
+  Interdepartmental dynamics relates to the formal and informal interactions and relationships among an organization's departments or functions. According to Jaworski and Kohli,4 interdepartmental conflict, and interdepartmental connectedness are two key departmental dynamics that affect a firm's ability to develop MO. Interdepartmental conflict is considered detrimental to MO. This is so because conflicts among departments distort interfunctional coordination, causing a breakdown in communication and obstructing the flow of information, which are likely to reduce market- oriented activities.24 On the other hand, by fostering interdependency, open communication and conflict resolution, interdepartmental connectedness facilitate the dissemination and responsiveness to market intelligence.
+   The organizational systems set of antecedents includes: formalization,
+
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+235
+
+
+
+
+centralization and reward systems. Kohli and Jaworski2 proposed that greater formalization and centralization lead to lower intelligence generation and dissemination. Levitt,25 in his discussion, identifies centralization and formalization as barriers to communication and noted that both are hostile to market-oriented activities. These are believed to impede innovations and timely response to changing market needs, which are in the core of MO, especially in the pharmaceutical industry. Furthermore, it is argued that market-based reward system enhances MO because, when employees are evaluated and rewarded based on market factors, they are likely to focus on such market factors, the cornerstones of MO.24
+
+ENVIRONMENTAL MODERATORS
+Jaworski and Kohli4 contend that the nature of the external environment would moderate the strength of the MO- performance linkage after testing for the moderating effects of external factors like market turbulence, competitive intensity and technological turbulence on the outcome of MO. Market turbulence reflects the rate of change in the composition of customers and their preferences, technological turbulence relates to the rate of change in technology, and competitive intensity is the extent of competition in an industry.4 While all these situations are likely to enhance market uncertainties, the generation of, and response to, market intelligence are essentials to face market uncertainties. Therefore, under these circumstances, spending resources for market-oriented activities would be worthwhile. However, under situations of stable market, technological and competitive environments, expending resources for market-oriented activities would be superfluous.24
+  
+According to Lara and de Mesa,5 the pharmaceutical industry is characterized by competitive intensity. Firms fight to be the first to launch a new medicine for a certain disease, which will allow them to benefit from the temporary monopoly and consequently guarantees them some extraordinary benefits (with medicines that are an absolute novelty). Besides, there is rivalry among businesses aiming at their product becoming the most utilized therapy for a certain problem of health (among several medicines that are relatively new). Zababa et al26 argue that more competition increases the negotiation power of patients who demand more value at lower cost and more freedom of choices regarding health- care providers. Moreover, more active and informed patients increasingly influence the choice of drugs while reducing the role of physicians as decision makers thereby making the market more turbulent. Challener27 concurs in noting that in today's health-care market, the pharmaceutical decision-making process has expanded to include not only prescribers but also multiple stakeholders and influencers. They further advanced that successfully accessing the market calls for a high degree of customer intelligence and cross-functional coordination within companies.27
+
+RESEARCH HYPOTHESES
+The Kohli and Jaworski2 and Jaworski and Kohli's4 model was adopted to examine the antecedents, environmental moderators and consequences of MO of pharmaceutical firms in Ghana. Therefore, on the basis of the preceding discussions, the following hypotheses were tested in the present study in Ghana.
+
+Hypothesis 1: The higher the level of MO of pharmaceutical firms, the greater their business performance.
+
+
+
+
+
+
+236	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+Antecedents, environmental moderators and consequences of MO
+
+
+
+Hypothesis 2: The greater the top management emphasis, the higher the MO of pharmaceutical firms.
+
+Hypothesis 3: The lesser the management risk averse, the greater the MO of pharmaceutical firms.
+
+Hypothesis 4: The greater the inter- departmental connectedness of pharma- ceutical firms, the higher their MO.
+
+Hypothesis 5: The lesser the interdepartmental conflict, the greater the MO of pharmaceutical firms.
+
+Hypothesis 6: The lesser the centralization, the higher the MO of pharmaceutical firms.
+
+Hypothesis 7: The greater the reward system, the higher the MO of pharmaceutical firms.
+
+Hypothesis 8: The lesser the formalization, the greater the MO of pharmaceutical firms.
+
+Hypothesis 9: The greater the market turbulence, the stronger the relationship between MO and business performance of pharmaceutical firms.
+
+Hypothesis 10: The greater the technological turbulence, the weaker the relationship between an MO and business performance of pharmaceutical firms.
+
+Hypothesis 11: The greater the competition, the stronger the relationship between MO and business performance of pharmaceutical firms.
+
+METHODOLOGY
+Context
+In Ghana, the pharmaceutical industry is regulated by the Ghana Pharmacy Council.
+
+To date, there are about 1400 firms registered with the council. The council has categorized these firms into Retail (also known as prescription-only medicine shop (POMs)), Wholesale, Manufacturing and Licensed Chemical Sellers (otherwise known as over-the-counter medicine shops (OTCs)). According to the council, Retail firms' medicines are patronized by individual patients only. Wholesale firms buy medicines either from outside the country or from within and sell to other wholesale firms for redistribution or to retail firms for direct sales to the public. Wholesale firms only sell to retail firms but not patients or persons who will directly use the medicines. Registered Manufacturing firms in the country produce medicines and sell their products to wholesale firms for distribution. OTCs sell Class C medicines or over-the-counter medicines. They do not sell prescription- only medicines. A major observation in this industry is that most of the manufacturing firms are also engaged in wholesale, retail and OTC trading. For instance, Ernest Chemist, one of the leading manufacturing firms in Ghana, has outlets across the country engaged in other three categories of trading. Thus, while considering a manufacturing firm, one is ultimately talking of the same company involved in the manufacturing, wholesaling and retailing of pharmaceuticals.
+
+Data collection
+A survey questionnaire was developed to measure the study's constructs. Data were collected by personally administering questionnaires on managers and business owners of 220 firms in the pharmaceutical industry within the Accra and Tema metropolitan areas in Ghana. This represented a simple random sampling of manufacturers, wholesalers, POMs and OTCs operating in the industry. The sample frame from which the population
+
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+237
+
+
+
+
+of pharmaceutical firms is drawn was obtained from a database held by the Ghana Pharmacy Council. Only 92 out of the 220 respondents across the four categories of firms in the sample completed and returned their questionnaires on our first reminder. In line with recommendations from Dillman,28 we made a follow-up exactly 1 week later and 94 questions were returned by some of the respondents who could not respond to the earlier call. Thus, a total of 186 questionnaires representing 74 per cent of the total questionnaires administered were returned by respondents. Of these, four were rejected because of incomplete answering. This brings the effective response rate to approximately 69 per cent. In the present study, non-response bias was assessed by comparing the responses of early respondents with those of late respondents.29 Several t-tests were performed to test the null hypothesis that the means of the answers across the two groups were the same. No significant differences were found on a number of characteristics between early and late respondents. The sample size and the response rate are consistent with related studies.
+
+Measures
+Given that the aim of this study was to replicate the Kohli and Jaworski's2 and Jaworski and Kohli's4 MO model, their complete measurement scale for MO, antecedents and environment moderators have been adopted. Accordingly, the questionnaire instrument had 32 items for MO, 49 for antecedents and 17 for environmental moderators, putting the total number of items at 98.
+
+Reliability
+Testing of the internal reliability of the expected factors was performed in the form of Cronbach a coefficient. The results of
+
+the exploratory factor analysis have identified 29 items with factor loading less than 0.4 out of a total of 98 items. As a result, 14, 1, 2, 3, 1, 2, 3, 2 and 1 items were dropped from MO, top management risk averse, interdepartmental connectedness, interdepartmental conflict, centralization, reward systems, formalization, market turbulence, technological turbulence and competitive intensity scale, respectively. A cut-off point of 0.5 was considered desirable for Cronbach a coefficient as the literature suggests that reliabilities of 0.50 are sufficient in the early stages of research.30,31 Facts exist to suggest that there is lack of descriptive research relating MO to business performance in pharmaceutical firms.5 Top management emphasis, centralization, market turbulence and competitive intensity scale returned Cronbach a coefficients of 0.78, 0.71,
+0.805 and 0.742, respectively, indicating high level of internal consistency within these measures. Reliability test for all other measures (see Table 1) generated moderate but reliable Cronbach a coefficients, which are acceptable.31 The least value of Cronbach a coefficient, reported for formalization, is 0.506, which meets the cut-off point adopted in this study. The higher and acceptable values for the reliability test provide strong justification for validating the measures.
+
+Table 1: Analysis of internal consistency
+
+VariableNo. of itemsCronbach
+ Overall performance40.738MO180.620Top management emphasis40.780Top management risk averse50.672Interdepartmental connected-50.561ness
+Interdepartmental con?ict
+4
+0.506Centralization40.710Reward system40.695Formalization40.506Market turbulence40.805Competitor intensity60.742Technological turbulence40.621
+
+
+
+
+
+238	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+Antecedents, environmental moderators and consequences of MO
+
+
+
+RESULTS AND DISCUSSIONS
+Demography
+Analysis of demography of the sample (refer to Table 2) indicates that majority of pharmaceutical firms are POMs. In this regard, whereas, 42.4 per cent of sampled firms are in the POMs category, there are only 37.75 per cent, 13.9 per cent and
+5.95 per cent for the OTCs, wholesale and manufacturing category, respectively. This result confirms the dominance of POMs as far as the pharmaceutical industry in Ghana is concerned. On the average, sampled firms have been in operation for about 19 years; but with a standard deviation of 25.26, which is greater than the average value, it suggests that the industry is growing; put differently, the number of firms in the industry is increasing. It is also witnessed that there was an increase in sales turnover (ST) over the last financial year, highlighting the significance of the industry in terms of income generation. Thus, income tax from firms in this industry could be increased annually owing to increase in their annual sales, assuming much of the increase is turned into operating income.
+
+Senior management factors
+It is witnessed that managers are enthusiastic about MO. In particular, they get qualified pharmacist to communicate with institutional consumers (for example government hospitals, private clinics and so on). They also get on board well- trained sales representatives to
+
+communicate product benefits directly to individual consumers while given customer feedback to management who subsequently disseminates such information to various functional units/departments within their firms. The result of the regression (Table 3) shows a significant positive association between top management emphasis and MO (r = 0.466, P :s 0.05), a finding that has echoed Kuada and Buasti's32 and Dwaire et al's24 results on the effect of top management emphasis on MO. Consequently, Hypothesis 2 has been supported. With respect to management risk aversion behaviour, as hypothesized (Hypothesis 3), top management risk averse related negatively and significantly with MO (r = - 0.295,
+P :s 0.001). We observed that,
+management is normally hesitant to commit resources into the manufacturing, distribution or over-the-counter sale of
+
+Table 3: Standardized regression coef?cient for antecedents to MO
+
+Independent variable	Dependent variable
+
+MO
+
+Top management emphasis	0.466*
+Top management risk averse	- 0.295*** Interdepartmental connectedness		0.363 (N.S.) Interdepartmental con?ict	- 0.092***
+Formalization	- 0.451***
+Reward systems	- 0.098 (N.S.)
+Centralization	0.196*
+Adjusted R2	0.456
+N	182
+***P :s 0.001, *P :s 0.05.
+N.S.=P value not signi?cant.
+
+Table 2: Demographic characteristics of the sample
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+239
+
+
+
+
+pharmaceuticals requiring substantial amount of capital and risks. This behaviour is likely to distort MO. As noted by Kohli and Jaworski,2 higher risk aversion behaviour exhibited by management is detrimental to the development of MO.
+
+Interdepartmental dynamics Contrary to Hypothesis 4, the reported results revealed a negative (r = - 0.363) and insignificant relationship between interdepartmental connectedness and MO. Perhaps the inconsistency in this result is due to the fact that most of the studied firms are small in nature. These small firms are normally OTCs employing between two and 10 persons with low degree of departmentalization. However, it must be acknowledged that the relatively larger ones who constitute minority of the sample operate along functional units in which there is higher degree of coordination between marketing and production. This step is laudable in that in markets for pharmaceuticals, especially in manufacturing companies, close collaboration between marketing departments and production is important as marketing managers can pass on customer feedbacks to production managers, which is vital for a new product development process. As for interdepartmental conflict, it related negatively and significantly with MO
+(r = - 0.092, P :s 0.001), in line with
+Hypothesis 5. This result supports claims by Levitt25 that interdepartmental conflict is detrimental to the implementation of MO. We observed that conflicts between functional units are rare in those firms operating along functional units. This is good for their market-oriented activities because, as the result suggests, any potential misunderstandings among functional units is likely to inhibit market intelligence dissemination, which is an integral part of MO, thereby thwarting
+
+their efforts at developing a market- oriented culture.
+
+Organizationwide systems
+It is found that that formalization is negatively (r = - 0.451) and significantly related to MO (at P :s 0.001). The pharmaceutical industry is governed by lots of rules and regulations by which firms must abide. Management constantly ensures that quality controls are in place to forestall integrity of products as well as their companies' image. Further, employees must refer regularly to what constitutes lawful, standard or acceptable professional practices before initiating any move. This kind of culture can act as a barrier to MO. With this result, Kohli and Jaworski's2 proposition that greater formalization leads to lower MO (Hypothesis 8) has been supported.
+Therefore, although adherence to legal requirements in the industry is imperative, managers must ensure that strict rules and regulations emanating from their organizational structures, but which are not regulatory requirements, are relaxed if their aim is to promote market-oriented activities, as excessive rules and regulations are likely to stifle initiative and, consequently, MO. Concerning reward system, the regression result in Table 4 depicts a negative and insignificant relationship between market-based reward system and MO (r = - 0.098). In other words, contrary to Hypothesis 7, market- oriented activities are rather discouraged when managers use market-based factors as the criteria for rewarding employees in their firms. Finally, the result indicates a significant positive relationship between centralization and MO (r = 0.196,
+P :s 0.05). Although the direction of this relationship contradicts Hypothesis 6, centralization is found to be very crucial for the development and implementation of market-oriented activities among the pharmaceutical firms studied.
+
+
+
+
+
+
+240	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+Antecedents, environmental moderators and consequences of MO	
+
+
+Table 4: Standardized regression coef?cient for MO, consequences and moderators
+
+Independent variables	Dependent variable
+
+  Overall performance
+
+ROI	New product success
+
+Pro?tability	Sales growth
+
+
+MO S AG0.322***
+0.221 (N.S.)
+0.102 (N.S.)0.390***
+0.021*
+0.053 (N.S.)0.246***
+0.045 (N.S.)
+0.15 (N.S.)0.355***
+011*
+0.26 (N.S.)0.295 (N.S.)
+0.061 (N.S.)
+0.13 (N.S.)ST
+Market turbulence Competitive Intensity Technological Turbulence0.150*
+0.171***
+0.229*
+0.433 (N.S.)0.101 (N.S.)0.051 (N.S.)0.023 (N.S.)0.114 (N.S.)R 20.291N182***P :s 0.001, **P :s 0.01, *P :s 0.05.
+N.S.=P value not signi?cant.
+
+
+Effects of MO on performance
+It emerged that (see Table 4) MO correlated positively and significantly with overall performance (R2 = 0.291;
+P :s 0.001). In other words, the level of MO exhibited by the sampled firms has direct influence on their performance in line with Hypothesis 1. The result also shows that business performance of these firms is also affected by their size, age and ST, given regression coefficients (r) of 0.221, 0.102 and 0.150, respectively; but as these variables were only meant to avoid specification bias, they are dropped from the remainder of our analysis.
+   By analysing the various performance indicators used, some insights have been revealed. Unlike prior studies, it was observed that, sales growth has positive but insignificant relationship with MO (r = 0.295). In line with Narver and Slater,3 we found a significant positive association between ROI and MO
+(r = 0.39, P :s 0.001). In the same way, new product success related positively and significantly with MO (r = 0.246,
+P :s 0.001), suggesting that the success of a new drug is largely determined by firm's degree of MO. Similarly, it was found that profitability related positively and
+significantly with MO (r = 0.355,
+P :s 0.001). That is, within the pharmaceutical industry, firms that actively
+
+engage in market intelligence generation disseminate such intelligence across their functional units and response to the intelligence from organizationwide stance are more likely to achieve superior profitability.
+
+External factors
+Overall performance associated negatively and significantly with the interacted MO- market turbulence variable (r = - 0.171,
+P :s 0.001). Thus, contrary to Hypothesis 9, under conditions of high market uncertainties, engendering in MO activities do not generate better results in terms of performance. This sharply contradicts results from studies of Jaworski and Kohli4 and Slater and Narver.3 This discrepancy may be attributed to the nature of the pharmaceutical industry, which is dominated largely by small- and medium-scale enterprises that rarely engage in marketing activities. The multiplicative variable that results from the interaction between MO and competitive intensity associated positively and significantly with overall performance
+(r = 0.229, P :s 0.05). This result validates Hypothesis 10 and is suggesting that increased competition in the industry should cause firms to increase their market-oriented activities in order to outperform market averages. In Ghana,
+
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+241
+
+
+
+
+due to trade liberalizations, local producers, wholesalers and retailers are now facing severe competition from foreign firms, especially Asian firms. With severe competition, expending resources on activities leading to MO is particularly significant for local firms to attain competitive advantage and to compete internationally. Furthermore, by interacting MO and technological turbulence and relating the resulting variable to overall performance, it was found that performance associated positively (r = 0.433) and insignificantly with the interacted variable. In other words, MO does not produce superior performance in a turbulent technological market. Although this result contradicts Hypothesis 11 and, for that matter, Kohli and Jaworski's2 proposition, it manifests the nature of the pharmaceutical industry. Commenting on similar issue, Renko7 contends that new technologies and solutions that stem from science and research rather than customer orientation (a component of MO) have a potential to create new markets in a technology market like the pharmaceutical industry.
+
+LIMITATIONS WITH DIRECTIONS FOR FUTURE RESEARCH
+The research evidence should be viewed with certain amount of caution because of the study's methodological limitations that are as follows.
+  First, comparing the total number of registered firms of 1400 with the sample size of 220 firms, which resulted to a response rate of 74 per cent, does not provide sound basis for generalization in that there is a possibility of response bias. Even so, the broad spread of categories of firms involved and the above sample selection process may have reduced the generalizability of the results. Therefore, for future research, a logical concentration on a single category, say manufacturing,
+
+can help to improve the generalizability of findings, while maintaining its statistical validity.
+  Second, we realized that most of the measures returned low reliabilities in relation to the original scale. This could be attributed to the fact that some of the items in the scale are not reflective of the business context represented by the pharmaceutical industry as claimed by some of the respondents. Clearly, this is an indication that further attention needs to be given to most scales used in studying the application of the marketing concept or MO in businesses. The line for further research from this revelation is to concentrate on refining or creating industry-specific scale according to the characteristics of the research setting.
+
+CONCLUSIONS
+This study follows from Lara and de Mesa's5 call for a quantitative research on the antecedents and consequences of MO in the pharmaceutical industry. We analysed the relationship between MO and business performance controlling for the impact of other variables (that is size, age and ST of firms). The study echoes Narver and Slater3 and Jaworski and Kohli4 that validate the relationship between MO and performance. The findings indicate strong influence of MO on all performance indicators except sales growth. In Ghana, there are dozens, probably hundreds, of medical conditions and illnesses for which individuals are seriously looking for cure. Obviously, firms with products addressing this need would require little MO activities in order to increase their sales. Regardless of this observation, we can fairly conclude here that the higher the level of MO the greater the performance of pharmaceutical firms in Ghana, a finding supported by numerous empirical studies.18-20,24
+  With regard to the antecedents to MO, all senior management factors have been
+
+
+
+
+
+
+242	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+Antecedents, environmental moderators and consequences of MO
+
+
+
+supported strongly in the present study. We found that both top management emphasis and top management risk averse pose considerable influence on the development of MO of the pharmaceutical firms studied. It is important to note that all replications have produced similar results.24 For this reason, we can firmly assert that in the Ghanaian pharmaceutical industry senior management shapes the direction of market-oriented activities in firms. Regarding interdepartmental dynamics, interdepartmental conflict had strong negative association with MO, as expected; and interdepartmental connectedness had insignificant impact on MO, contrary to expectation. Thus, as determinant of MO, interdepartmental dynamics is not completely influential.
+Studies such as Kuada and Buatsi32 and Dwaire et al 24 linked interdepartmental dynamics to MO and also produced conflicting results.
+  For the organizational factors, two of the hypotheses have been rejected, and only one supported. It was witnessed that formalization has substantial influence on MO with both centralization and reward systems producing inconsistent results.
+There is evidence that most replications regarding how different organizational factors relate to MO have been inconsistent. Furthermore, all the external factors (that is market turbulence, competitive intensity and technological turbulence) interacted with MO. Nevertheless, only the interaction between MO and competitive intensity was found desirable in terms of our hypotheses. This is not surprising in the sense that ceaseless competition is a major challenge for all pharmaceutical firms in Ghana today.
+
+REFERENCES
+1 Kesic?, D. (2009) Strategic analysis of the world pharmaceutical industry. Management 14(1): 59-76.
+2 Kohli, A. and Jaworski, B. (1990) Market orientation: The construct, research propositions, and managerial implications. Journal of Marketing 54(2): 1-18.
+3 
+Narver, J. and Slater, S. (1990) The effect of market orientation on business profitability. Journal of Marketing 54(4): 20-35.
+4 Jaworski, B. and Kohli, A. (1993) Market orientation: Antecedents and consequences. Journal of Marketing 57: 53-70.
+5 Lara, R.P. and de Mesa, G.E. (2006) Market orientation: Is it accepted as a 21st century marketing strategy in the pharmaceutical industry? An example: Spain. Journal of Medical Marketing 6(4): 260-267.
+6 Webster, C. (1993) Refinement of the marketing culture scale and the relationship between marketing culture and profitability of a service firm. Journal of Business Research 26(2): 111-131.
+7 Renko, M. (2006) Market orientation in markets for technology - Evidence from Biotechnology ventures. Publications of the Turku School of Economics: Series A-8, http://ssrn.com/abstract=1344724.
+8 Alt, R. (2003) Transformation in the pharmaceutical industry - Developing customer orientation at Pharma Corp. Proceedings of the 16th Bled eCommerce Conference: eTransformation; 9-11 June, Bled, Slovenia, pp. 522-538.
+9 Blankson, C. and Stokes, D. (2002) Marketing practices in the UK small business sector. Marketing Intelligence & Planning 20(1): 49-61.
+10 McNamara, C.P. (1972) The present status of the marketing concept. Journal of Marketing 36(1): 50-57.
+11 Deshpande, R. (1999) Developing a Market Orientation. California: SAGE Publications.
+12 Ruekert, R.W. (1992) Developing a market orientation: An organizational strategy perspective. International Journal of Research in Marketing 9: 225-245.
+13 Heart, S. and Diamantopoulos, A. (1993) Linking market orientation and company performance: Preliminary work on Kohli and Jaworski's framework. Journal of Strategic Marketing 1(2): 93-122.
+14 Appiah-Adu, K. and Ranchhod, A. (1998) Market orientation and performance in the biotechnology industry: An exploratory empirical analysis. Technology Analysis and Strategic Management 10(2): 197-210.
+15 Lin, B. and Huarng, F. (2000) Internet in the pharmaceutical industry: Infrastructure issues. American Business Review 18(1): 101-106.
+16 Slater, S.F. and Narver, J.C. (1994) Does competitive environment moderate the market orientation- performance relationship? Journal of Marketing 58(1): 46-55.
+17 Cooper, R.G. (1988) Predevelopment activities determine new product success. Industrial Marketing Management 17: 237-247.
+18 Pulendran, S., Speed, R. and Widing II, R.E. (2000) The antecedents and consequences of market orientation in Australia. Australian Journal of Management 25(2): 119-143.
+19 Tay, L. and Morgan, N.A. (2002) Antecedents and consequences of market orientation in chartered surveying firms. Construction Management and Economics 20(4): 331-341.
+20 Shoham, A., Rose, G.M. and Kropp, F. (2005) Market orientation and performance: A meta-analysis. Marketing Intelligence and Planning 23(5): 435-454.
+
+
+
+
+
+
+
+(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+243
+
+
+
+
+21 Hurley, F.B. and Hult, G.T.M. (1998) Innovation, market orientation and organizational learning: An integration and empirical examination. Journal of Marketing 62: 42-54.
+22 Atuahene-Gima, K. (1996) Market orientation and innovation. Journal of Business Research 35: 93-103.
+23 Webster Jr, F.E. (1988) Rediscovering the marketing concept. Business Horizons 31: 29-39.
+24 Dwairi, M., Bhuian, S. and Turkus, A. (2007) Revisiting the pioneering market orientation model in an emerging economy. European Journal of Marketing 41(7/8): 713-721.
+25 Levitt, T. (1969) The Marketing Model. New York: McGraw-Hill Book Company.
+26 Zabada, C., Singh, S. and Munchus, G. (2001) The role of information technology in enhancing patient
+satisfaction. British Journal of Clinical Governance 6(1): 9-16.
+27 
+Challener, C. (2000) Customer relationship management and R&D are key for pharma applications. Chemical Market Reporter 258(17): 19.
+28 Dillman, D.A. (1978) Mail and Telephone Surveys: The Total Design Method. New York: John Wiley.
+29 Armstrong, J.S. and Overton, T. (1977) Estimating nonresponse bias in mail surveys. Journal of Marketing Research 14: 396-402.
+30 Nunnally, J. (1978) Psychometric Theory, 2nd edn. New York: McGraw Hill Publishing.
+31 Hair Jr, J.F., Anderson, R.E., Tatham, R.L. and Black, W.C. (1998) Multivariate Data Analysis, 5th edn. Englewood Cliffs, NJ: Prentice-Hall.
+32 Kuada, J. and Buatsi, S. (2005) Market orientation and management practices in Ghanaian firms: Revisiting the Jarworski and Kohli framework. Journal of International Marketing 13(1): 58-73.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+244	(c) 2010 Macmillan Publishers Ltd. 1745-7904  Journal of Medical Marketing  Vol. 10, 3, 231-244
+
+

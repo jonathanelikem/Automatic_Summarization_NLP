@@ -1,0 +1,775 @@
+
+
+
+
+
+
+
+African Journal of Economic and Management Studies
+Social capital and export performance of SMEs in Ghana: the role of firm capabilities
+Roseline Barbara Easmon, Adelaide Naa Amerley Kastner, Charles Blankson, Mahmoud Abdulai Mahmoud,
+Article information:
+To cite this document:
+Roseline Barbara Easmon, Adelaide Naa Amerley Kastner, Charles Blankson, Mahmoud Abdulai Mahmoud, (2019) "Social capital and export performance of SMEs in Ghana: the role of firm capabilities", African Journal of Economic and Management Studies, https://doi.org/10.1108/ AJEMS-11-2018-0361
+Permanent link to this document:
+https://doi.org/10.1108/AJEMS-11-2018-0361
+Downloaded on: 19 June 2019, At: 06:43 (PT)
+References: this document contains references to 157 other documents. To copy this document: permissions@emeraldinsight.com
+Access to this document was granted through an Emerald subscription provided by emerald- srm:485088 []
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald for Authors service information about how to choose which publication to write for and submission guidelines are available for all. Please visit www.emeraldinsight.com/authors for more information.
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company manages a portfolio of more than 290 journals and over 2,350 books and book series volumes, as well as providing an extensive range of online products and additional customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the Committee on Publication Ethics (COPE) and also works with Portico and the LOCKSS initiative for digital archive preservation.
+
+*Related content and download information correct at time of download.
+
+
+
+
+Social capital and export performance of SMEs in Ghana: the role of firm capabilities
+
+SMEs in Ghana
+
+Roseline Barbara Easmon		
+Department of Marketing and Entrepreneurship,
+
+University of Ghana Business School, Accra, Ghana
+Adelaide Naa Amerley Kastner
+Department of Marketing, Central University of Ghana, Accra, Ghana
+Charles Blankson
+     Department of Marketing and Logistics, University of North Texas, Denton, Texas, USA, and
+Mahmoud Abdulai Mahmoud
+Department of Marketing and Entrepreneurship, University of Ghana Business School, Accra, Ghana
+
+Abstract
+Purpose - The purpose of this paper is to understand the direct impact of social capital and the influence of market-based capabilities as intervening variables on the export performance of small and medium-sized enterprises (SMEs) in Ghana.
+Design/methodology/approach - Questionnaire-based survey was used to collect data from top executives and senior managers of exporting companies in Ghana. Data obtained were analysed using the structural equation modelling.
+Findings - The findings revealed that social capital of SMEs exert the greatest influence on their export performance. Innovation and marketing capabilities are also key drivers of export performance among SMEs as they fully mediate the social capital-export performance relationship. Notwithstanding, marketing capabilities appear to exert a greater influence than innovation capabilities on the export performance of SMEs.
+Research limitations/implications - The study used perceptual measures of international performance by managers of SMEs in the Ghanaian exporting sector making it difficult to determine respondent bias. Practical implications - Managers of exporting firms should build stronger relationships with their customers and suppliers who contribute significantly to their export performance. SMEs would also have to hone their innovation and marketing skills as strategic components in enhancing their export performance. Social implications - Market-based resources such as marketing and innovation should not be taken for granted by SMEs in the export business.
+Originality/value - The study offers some lessons on how small firms can sharpen their marketing and innovation capabilities to derive export performance benefits from social capital. Theoretically, while the findings offer strong evidence reinforcing the DC theory, an exploration of the nexus of the theories brings to the fore the need to reassess the resource-based view and SC theories.
+Keywords Export performance, Ghana, SMEs, Innovation capabilities, Marketing capabilities
+Paper type Research paper
+
+1. Introduction
+Firms have undertaken cross-border activities for over centuries. Yet the unpredictable business environment, technological growth and accelerated globalisation have created an even greater need for not only large but, to a higher extent, smaller firms to seek business opportunities across borders. Internationalisation has therefore become an essential strategy that all businesses may have to pursue (Fernández and Nieto, 2005) and a valuable tool for expansion and growth in organisations (Graves and Thomas, 2008). Exporting has been identified as an attractive foreign market entry and expansion mode of
+
+Received 19 November 2018
+Revised 11 February 2019
+Accepted 15 March 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+African Journal of Economic and
+Management Studies
+(c) Emerald Publishing Limited
+2040-0705
+DOI 10.1108/AJEMS-11-2018-0361
+
+
+
+
+AJEMS
+
+internationalisation, particularly for firms whose economic conditions in their local markets are not too favourable (Hultman et al., 2009). Indeed, the increase in sales and improved profitability among small firms has been linked to earnings from exports (Lages and Montgomery, 2004).
+   Small and medium-sized enterprises (SMEs) are typically regarded as resource-constrained compared to large corporations, thus limiting the possibilities of taking advantage of opportunities in foreign markets (Lu and Beamish, 2001). Even though they possess less tangible and financial resources than large multinational corporations (Knight and Kim, 2009), lately the internationalisation trend for smaller firms has been on the ascendancy. Pinho (2011) opines that SMEs could still be successful if they accessed valuable and rare resources through social network relationships. Early researchers such as Penrose (1959) first recognised the importance of resources, contending that a firm consists of a collection of productive resources and whose growth depends on the manner in which its resources are deployed. The key role of resources in the exploitation of opportunities in foreign markets has been espoused by international marketing scholars, particularly in successful export ventures of SMEs (Kaleka, 2012; Tseng et al., 2007; Lu and Beamish, 2001). Several studies have outlined performance challenges SMEs face due to resource constraints, particularly in relation to their size. Meanwhile, social capital, derived from social networks, is considered one of the critical resources that a firm can develop to enhance its competitive advantage and reap above-average rates of return (Chrisholm and Nielsen, 2009). For some scholars social capital, which is rooted in inter-firm relationships and managerial ties, constitutes a vital resource. SME export performance has been studied from a number of perspectives including the macro and micro levels of success (Zou and Stan, 1998). Research at the macro level has assessed policies and programs at the national level, where governments the world over support SMEs to improve their export performance leading to economic growth (Zou and Stan, 1998). Micro-level export performance among SMEs has probably received the most attention by researchers. Zou and Tamer Cavusgil (1996) confirm this subject as one of the most widely studied in export marketing. Examples include Ayob and Freixanet's (2014) study of management's perception of usefulness of export promotion programmes in Malaysia, which confirmed that exporting SMEs perceive export promotion programs as more useful than non-exporting SMEs. A number of studies exist in Ghana on the export performance determinants at the micro level (e.g. Abban et al., 2013; Hinson and Sorensen, 2006). Similar studies within the Ghanaian context (e.g. Adu-Gyamfi et al., 2013; Abor and Quartey, 2010) have attributed challenges SMEs face in exporting to foreign markets to internal constraints such as finance, information asymmetry as well as the lack of export experience, commitment and resources.
+   While evidence abounds about the varying contributions of social capital and firm-specific capabilities to the export performance of small firms, there is relatively little research on how firms from emerging markets employ their capabilities in leveraging social capital to enhance their growth and profitability (Sheth, 2011). Additionally, anecdotal evidence suggests the direct influence of capabilities (Morgan, 2012), marketing capabilities, innovation capabilities (Rubera and Kirca, 2012) and social capital (Lu et al., 2010) on firm performance. However, literature covering marketing and innovation capabilities as influencers of firm performance remains quite fragmented as some focuses on understanding customer needs (Soh, 2003), innovation processes (Lee et al., 2001) and adaptive capacity (Lu et al., 2010). Even though extant research in marketing and strategy has covered the concept of market-based capabilities, there still remains a lacuna in studies identifying the differential impact of these capabilities (e.g. marketing mix vs innovation) on the performance of firms at different stages of export (Yeniyurt et al., 2005). This argument echoes contentions that a lot still remains to be uncovered about the direct relationship between market-based capabilities and superior export performance (e.g. Zou et al., 2003). Researchers (e.g. Abban et al., 2013; Hinson and
+
+
+
+
+Dadzie, 2011) have therefore proposed that beyond the social context, marketing practices among SMEs should be examined towards enhancing enterprise development. Therefore, given the rapidly increasing complexity of the environment in which SMEs conduct their business (Garcia et al., 2012), it is imperative that research is conducted towards identifying key resource combinations that will not only result in superior export performance but will also enhance both academic and industry knowledge.
+
+2. Literature review and hypotheses development
+Globalisation, coupled with technological advances and trade liberalisation, has led to an increase in export activities, with firms increasingly looking beyond their traditional domains and expanding into export markets to develop and enhance their competitiveness (O'Cass and Julian, 2003). Research has demonstrated that small firms improve their competencies and capabilities in management from participation in export markets (Griffith and Hoppner, 2013). Indeed, Rankin et al. (2006) associated weak domestic markets and stagnated growth in Sub-Saharan Africa with the non-participation of firms in export markets. Katsikeas et al. (2000) also justified these calls by advocating for firms to intensify their export drive in order to expand their portfolio of customers and offer companies realistic opportunities for growth. From the perspective of emerging economies, researchers (Kuada, 2007) have suggested an internationalisation strategy for African countries to surmount challenges they face from the absence of adequate domestic markets. To this effect, there has been a strong advocacy for African governments to enact policies in support of the export initiatives of small enterprises to enhance socioeconomic development in their nations (Ibeh et al., 2012). Furthermore, firms from emerging economies have been exposed to greater opportunities in today's global markets (Bruton et al., 2003; Luo and Tung, 2007), thus attracting significant interest, particularly in the international marketing arena. This has resulted in a lot more enterprises undertaking international expansion through exporting to reach out to foreign markets (Ibeh et al., 2012).
+Export performance research has evolved throughout the decades with experts
+adopting new approaches to determining export success. This stems from an increased research interest in macro- and micro-level factors associated with export development (Kahiya and Dean, 2014). International marketing research has however typically focused on promotional and distribution strategies employed by large well-endowed firms from developed economies to service international markets (Griffith et al., 2008; Douglas and Craig, 2006). Emerging economy contexts therefore pose a challenge to the efficacy of business models and theories which have been applied in developed economies with relatively stable and efficient markets (Wright et al., 2005). In this regard, scholars (see Meyer and Peng, 2005; Hoskisson et al., 2000) have reassessed the robustness of theories and frameworks that examine the strategic challenges businesses face in emerging economy contexts.
+   Extant research has significantly employed framework-based and model-based approaches in studying export performance (Beleska-Spasova et al., 2012; Kaleka, 2012; Tseng et al., 2007). Even though some theories of competitive advantage have been employed in understanding export performance, international marketing experts (Morgan et al., 2004) have called for a broader theory base that better explains the concept by bringing together findings in a more cohesive manner. Eriksson (2014), Prange and Verdier (2011) and Knudsen and Madsen (2002) have put forward strong arguments calling for new insights to be drawn through the investigation of SME export operations from a dynamic capabilities' perspective. Additionally, there have been calls for exploring the relationship between resources rooted in the firms' networks and the dynamic capabilities that would enhance their performance on the market (Chrisholm and Nielsen, 2009; Okpara, 2009).
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+2.1 
+Social capital
+Social capital has been classified under three broad dimensions: structural, relational and cognitive. Antoldi et al. (2011) distinguish between structural, relational and cognitive social capital as follows: the structural dimension relates to patterns of connection between actors (i.e. the number and kinds of actors involved; presence or absence of direct ties between specific individual actors, network density, connectivity and hierarchy and the stability of ties between nodes). The relational dimension deals with the behavioural aspects of the network such as trust and trustworthiness, obligations and expectations. Within this framework, the entrepreneur develops direct relationships through a history of interactions from which information and resources are leveraged. This view involves many aspects of social context such as social interactions and the degree of trust in the relationships (Nahapiet and Ghoshal, 1998). Lee (2009) links relational social capital to the normative conditions and best practices that guide the individual actor's relations. The normative conditions of trust, obligation and expectations have been identified as the main components of relational dimensions (Lin and Si, 2010). Finally, the cognitive dimension of social capital focuses on the meaningful contexts of communication among and between actors (Nahapiet and Ghoshal, 1998), which facilitate the exchange of information, knowledge and resources (Kang et al., 2007). Some studies have situated social capital within the framework of intra-institutional relationships (e.g. Peng and Luo, 2000). Institutional capital that has been listed as contributing positively to export performance are governmental export agencies, participation in international fairs and exhibitions, close client relationships, as well as links with associations (Abban et al., 2013; Pinho, 2011; Panayides, 2006). Other studies have focused on government interventions (e.g. Lu et al., 2010; Wilkinson and Brouthers, 2006; Czinkota, 2002). Other experts (e.g. Lu et al., 2010) have approached the concept of social capital from the angle of managerial ties. Atuahene-Gima and Murray (2007) distinguish between two types of managerial ties from which internationalising enterprises derive their social capital: domestic-country ties and foreign-country ties. Peng and Luo (2000) break down managerial ties into variables such as relationships with buyers, suppliers, governmental agencies and competitors. Sandefur and Laumann (1998) on the other hand relate managerial ties to goodwill drawn from family, friends, workmates and other acquaintances that provide a range of valuable resources including information, influence and solidarity. The individual-level social capital embedded in entrepreneurs' personal networks may importantly influence small firm performance (Stam et al., 2014). Furthermore, the impact of other factors such as political and socio-cultural environments is context specific in the measurement of social capital. Indeed, within the same cultural context, social capital has been operationalised variously as business/firm networks (Abban et al., 2013), while others include family and friend networks (Acquaah, 2007).
+   Empirical literature on the impact of networking on SME performance has produced mixed results. For instance, Thrikawala (2011) found that an SME's engagement in various networks positively impacted its performance. Similar findings were made by Watson (2007) that SMEs involved in networking recorded a higher performance and longer survival rate. Rowley et al. (2000) on the other hand discovered a negative association between networking and performance among SMEs. Notwithstanding Rowley et al. (2000) findings, literature abounds with positive associations between social capital and the performance of small firms (Stam et al., 2014). Indeed, some experts (see Koçak and Edwards, 2005; Chetty and Holm, 2000) have attributed the survival of SMEs to an amalgamation of relationships in the form of collaborations, co-operations and alliances with industry, government and other SMEs. This was corroborated by Westhead et al. (2004) whose study associated the performance of metropolitan exporters with their close proximity to industry associations. There is also growing evidence to suggest that very few enterprises, specifically SMEs, can innovate in isolation as compared to firms that engage in cooperation activities (Freel and Harrison, 2006). For instance, some scholars
+
+
+
+
+(see Khan and Ede, 2009) have proposed that small enterprises explore other sources outside of their domain which may present unique advantages for their development. Benefits accruing from the network of small enterprises include the identification of new business opportunities, access to resources below the market price and securing legitimacy from external stakeholders (Stam et al., 2014).
+   The role of inter-firm partnerships (strategic alliances) and their impact on firm performance has also gained significant attention in firm performance research (Huizingh, 2011), particularly the link between SME network ties and performance. Dickson et al. (2006) aver that such strategic alliances with prominent industry players may signify the quality of the new firm's activities and products. In cases where an unknown venture must compete with established local or multinational players on the international front, such strategic alliances have been found to be important. In the case of young enterprises, strategic alliances have granted access to resources that would otherwise have taken years to build, thereby buffering a firm from the hazards of young age (Lee et al., 2001). It is also pointed out that in order to develop new capabilities to cope with turbulent and unpredictable markets, SMEs need to leverage their social relationships/ties that provide access to novel sources of information. Tomlinson and Fai (2013) for instance, identified the strength of cooperative ties across a range of productive activities within the value chain as important facilitators of SME innovative capability for both product and process innovation. These strengthen the capabilities of SMEs to derive benefits which are often the preserve of larger firms and associations (Zeng et al., 2010). In view of the above, we hypothesis that:
+H1. Social capital has a positive relationship with the export performance of SMEs.
+
+2.2 Firm capabilities
+The subject of capability development has received significant attention in strategic management literature with a number of conceptualizations of what constitutes capabilities. Some scholars have positioned capabilities in terms of what the firm has (a firm's existing possessions and assets) and what the firm does (a firm's ability to create, coordinate and use assets) relative to competition and the changing market environments (Lu et al., 2010). The dynamic capabilities framework considers the development of firm capabilities or market- based assets as more important than firm resources (Doole et al., 2006; Sapienza et al., 2006; Morgan et al., 2004; Ibeh, 2003). Ultimately, dynamic capabilities ensure that an enterprise not only attains economic survival but sustains its performance in the face of threats and opportunities in its business environment (Wang and Ahmed, 2007). Dynamic capabilities are therefore vital to the performance and survival of firms operating within unstable environments (Montealegre, 2002). To this end, some frameworks consider marketing and innovation as core capabilities, which when deployed, ensure sustained competitive advantage for the firm (Lu et al., 2010). The relevance of these models cannot be overemphasised given that institutions affect export performance not only directly, but also indirectly through their interplay of internal firm resources and capabilities (Yi et al., 2013).
+   Even though various approaches have been adopted in understanding the importance of small firms optimising resources to achieve excellence in export performance, one of the prevailing paradigms used, particularly in a dynamic global environment, is the resource-based view (RBV) of the firm (Barney, 1991; Barney et al., 2007) as well as its subsequent extension - the dynamic capabilities approach (Wang and Ahmed, 2007; Zollo and Winter, 2002). The RBV is premised mainly on the fact that firms compete on the basis of their resources and capabilities (Peteraf and Bergen, 2003). The resources are made up of unique bundles of tangible and intangible assets, which include various skills, capabilities, processes and information within the control of the firm. Firms possessing such unique resources are expected to outperform their competitors in a sustainable way (Bowman and Ambrosini, 2007).
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+The RBV thus posits that the actions taken by a firm should depend on its characteristics, with special focus on those activities for which it has an advantage and avoid those where it does not. As is the case for most theories, however, the RBT has been criticised with some critics (e.g. Foss et al., 2008; Makadok, 2001) indirectly proposing amendments to and others directly criticising it (Spender, 2006; Foss and Knudsen, 2003). While a number of criticisms of RBV have been addressed to a great extent by definitional and theoretical refinements (Peteraf and Bergen, 2003; Makadok, 2001), a new body of research that motivated the development of the DC framework was introduced to make up for some critical shortcomings of the RBV.
+   The theory of DC evolved from the DC approach (Teece et al., 1997). For Montealegre (2002), it is "an extension of the resource-based theory that was introduced to explain how firms can develop their capability to adapt and even capitalize on rapidly changing technological environments". It therefore attempts to highlight the critical role capabilities play in exploiting resources to achieve SCA (Newbert, 2007). Proponents of the DC approach have argued that capabilities are dynamic processes that are deeply rooted in organisations, and that are to a large extent inimitable and non-substitutable (Theodosiou et al., 2012; Vorhies et al., 2011; Fang and Zou, 2009). The dynamic approach to firms' capabilities involves adapting, integrating and reconfiguring internal and external organisational skills and resource bases and competencies in order to better adjust to requirements of a changing environment (McKelvie and Davidsson, 2009; De Toni and Tonchia, 2003). Basically, the difference between the resource-based and dynamic views lies in the approach to the resources. The RBV places emphasis on a collection of resources (choice of combination of resources), whereas the DC view stresses renewal of resources (reconfiguration of resources into new combinations of operational capabilities).
+   A firm's innovation capabilities have been said to be critical to export marketing (Lages et al., 2009) and a core driver of exporters' international business success (Calantone et al., 2006). The resource-based framework has proven to be a useful theoretical lens for examining the potential benefits of innovation capability at the firm level (Terziovski, 2010; Menguc and Auh, 2006). This theory distinguishes a firm as an idiosyncratic bundle of resources and capabilities that enable it to achieve competitive advantage and superior performance (Newbert, 2007). Hence, the resource-based perspective considers innovativeness as valuable and idiosyncratic to firms (Lages et al., 2009), which may endow businesses with a competitive edge too costly for rival firms to replicate (Boso et al., 2013). Various frameworks have been used in measuring innovation capabilities. For instance, Albaldejo and Romijn's study identifies innovation capabilities as internal processes such as investments in R&D as well as fostering a creative and learning culture. Thus, companies with employees who are creative and possess innovation capabilities have been said to achieve greater successes in the marketplace (Kallio et al., 2012; Hotho and Champion, 2011).
+   Export marketing experts have identified innovation as a key export marketing capability that contributes significantly to the international business success of exporting firms (Lages et al., 2009; Calantone et al., 2006). Indeed, some scholars (Uner et al., 2013) have suggested that many "exporters themselves consider the lack of innovativeness as a critical barrier to export market expansion and business growth". Researchers (Hughes and Morgan, 2007) have given empirical backing to the positive influence of innovativeness on firm performance.
+   Some benefits have been said to accrue to enterprises exhibiting innovation capabilities in their internationalisation activities. Contractor (2007) for instance found out that firms with greater innovation capabilities have successfully expanded, diversified or differentiated their operations at the international front. Manova and Zhang (2012) also discovered that firms exporting a variety of innovative products could employ different pricing strategies in servicing overseas markets. Moreover, a direct link has been drawn between innovation capabilities and superior international performance. For instance, Tellis et al. (2009) averred that enterprises with superior innovation capabilities can enhance their
+
+
+
+
+positional advantages by driving consumer demand. Reputational benefits and the ability to build strong brand equity have been adduced to firms with superior levels of innovation capabilities that are exhibited through novel products and services as well as high levels of acceptance by customers rates (Schilke and Cook, 2013). In this regard, some organisational innovation researchers (see Boso et al., 2013) have concluded that firms with superior levels of innovativeness ultimately generate superior results.
+   Some scholars (see Rosenbusch et al., 2011) have actually suggested that the impact of firm innovation capabilities on performance may be more complex than previously thought, which presents an opportunity to further explore the innovation capability-export performance nexus. We therefore hypothesised that:
+H2. There is a positive relationship between innovation capability and export performance of SMEs.
+Marketing capabilities have been operationalised as marketing's functional processes and value-creating mechanisms around the classical marketing mix (Morgan et al., 2012; Leonidou et al., 2002). The marketing mix encompasses the product, price, promotional activities and distribution networks. Morgan et al. (2004), in their market-based resources framework, operationalised marketing capabilities as informational, relationship building and product development capabilities. Zou et al.'s (2003) framework also identified distribution, product development, pricing and communication as core export marketing capabilities.
+   Besides the elements of the marketing mix, Leonidou et al. (2002) identified market targeting as part of their marketing capabilities determining export performance. Generally, a similar trend of the marketing mix framework has been applied across other studies in determining export performance (e.g. Boansi et al., 2014; Egyir et al., 2012; Ayan and Percin, 2005) even though some studies labelled the variables differently. Although the four critical elements of the marketing mix are not exhaustive, Zou et al. (2003) stated that they represent the core function in the marketing mix that can create superior value offerings for customers in export markets. This research therefore adopts the elements of the marketing mix in determining the impact of marketing capabilities on an enterprise's export performance. Product capability is conceptualised as the delivery of new or modified products of higher uniqueness that in the long term allows for better performance (Avlonitis and Salavou, 2007; Marsh and Stock, 2006). Distribution capability is considered as the exporting firm's ability to provide superior support to export distributors and to develop a close relationship with them (Zou et al., 2003). Zou et al. (2003) identified an enterprise's quick response to competitors' pricing tactics as a measure of its pricing capability. Promotional capability is operationalised as the ability of firms to adapt to foreign markets and target the right customers with effective integrated marketing communications (Blesa and Ripolles, 2008).
+   One of the emerging themes in the export performance literature is the configuration of the export marketing mix strategies (4Ps) that could yield superior export performance (Morgan et al., 2012). The 4Ps have served as an effective framework in analysing the impact of firm capabilities on export performance. Zou et al. (2003) identified pricing capabilities as the extent to which an export venture can effectively use and manage pricing tactics to respond to competitors challenge and customer changes in the export market. Product capabilities have also received some attention in extant literature which has emphasised the differentiation advantage new products confer on firms that constantly introduce new products to the market (Tellis et al., 2009).
+   International marketing experts (Newbert, 2007) have actually linked an exporting firm's superior performance to its inimitable internal resources and capabilities (Robson et al., 2012). In this regard, studies such as Thirkell et al.'s have identified competency issues relating to technology, R&D, market knowledge, export planning and control as major determinants of
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+export performance. Morgan et al. (2012) identified distinctive marketing capabilities as key drivers of financial and export marketing performance. Other studies (Theodosiou et al., 2012; Griffith et al., 2010) have lent empirical support to suggest a positive association between marketing capabilities and export performance. Another set of critical marketing capabilities that have boosted internationalisation efforts includes international customer support that positively affects organisational learning and performance (Khavul, 2010). International customer support capability enhances the exchange relationship with the firm's most important international customers and captures the learning and performance outcomes of entry into global markets. In line with the argument by some researchers (e.g. Morgan et al., 2012) that the firm is better positioned to create and maintain a competitive advantage as well as reap greater economic benefits by strategically developing and deploying marketing mix strategies, this study hypothesises that:
+H3. There is a positive relationship between marketing capability and export performance of SMEs.
+Sirmon et al. proposed a causal flow of a resource management model, describing a set of sequential activities through which a firm acquires resources (internally and externally) and then constructs capabilities that transform those resources into competitive advantages by providing superior products or services to customers. Lu et al., 2010 built on Sirmon et al. causal flow model by proposing a mediating role of capabilities in the relationship between resources and international performance. Other models have also drawn primarily from the RBV and its extended dynamic capabilities framework in associating marketing capabilities with business strategy as a complementary asset in driving business performance (Morgan et al., 2012). In this regard, even though enterprises may gain benefits in exporting from social capital, this study argues that these benefits are better enhanced through the deployment of marketing and innovation capabilities possessed by the enterprises. Therefore, it is hypothesised that:
+H4. Innovation capability mediates the relationship between social capital and export performance.
+H5. Marketing capability mediates the relationship between social capital and export performance.
+
+3. Research methodology
+The study is guided by the positivist philosophy deemed the most appropriate for this research. This philosophical paradigm is justified because the research seeks to establish causal relationships among the predictor and outcome variables. In order to test the objective theories by examining the relationships among variables, the quantitative research approach was adopted as appropriate for this study. Consequently, the survey method was considered the most appropriate research strategy for the research to allow for the collection and comparison of systematic data between cases with the same characteristics (de Vaus, 2013). The survey instrument was a self-administered questionnaire. Operationalisation of the constructs was adopted from previously available scales in export performance, export marketing as well as innovation literature and validated by scholars (Lages et al., 2009). Some new scales were also introduced based on a review of resource-based and dynamic capability theories. Respondents were required to rank their opinions along a seven-point Likert-scale instrument which ranged from 1 (Not at all) to 7 (To a very large extent) for data on all the main variables. A pilot study was then carried out among 30 export managers of SMEs in Ghana. The pilot study ensured that the questionnaires were refined (Bryman and Bell, 2015; Saunders et al., 2007).
+
+
+
+
+   The research population is all SMEs undertaking non-traditional export activities in Ghana continuously for a period of not less than two years. The various institutions - Registrar General's Department, Ghana Export Promotion Authority, National Board for Small Scale Industries and Association of Ghana Industries - that manage exporting in Ghana were therefore approached for databases to provide estimations of the sampling frame for the research. Other trade associations including the Shea Butternut Exporters Association, Salt Producers and Exporters Association, Wood and Furniture Producers Association, Travel and Tour Operators Association and Association of Garment Producers were contacted. The databases yielded a total population of 357 exporters who could be sampled. This study adopted the convenience sampling approach (Saunders et al., 2011). In line with Saunders et al. (2007), responses were solicited from "key persons" in the organisations. The key informants targeted for this research included business owners, chief executive officers, managers and executive assistants (in a few instances) of the exporting firms sampled. Furthermore, business owners were encouraged to nominate managers involved with the export business as respondents, similar to Lages et al. (2009). Questionnaires were distributed to 327 available respondents out of the 357 exporters from the database. Out of the 327 distributed questionnaires, 297 were returned and used for the analysis of the study. This represents a response rate of 90.8 per cent.
+   Two statistical packages - Statistical Package for Social Science (SPSS) version 22.0 and SmartPLS version 3.2 - were used for this research. Coding and inputting of raw data gathered from the field was done using SPSS (Bryman and Bell, 2015). Per Kline's (2005) recommendation, psychometric analysis was carried out to confirm that the data gathered from the survey were suitable for further empirical analysis of the measurement model. The partial least squares (PLS) approach to structural equation modelling (SEM), using the statistical package SmartPLS 3.2 employed in previous research, was deployed for further analysis. This technique makes it possible to show hypothesised relationships between dependent and independent variables, whilst making amendments to causal paths to fit the primary model (Kline, 2005).
+   Similar to Pallant (2011), reliability tests were conducted to ensure that the scales used were free from random error and guaranteed internal consistency. The research instrument was validated in confirmatory factor analysis (CFA) through the use of Cronbach's a (CA) and composite reliability (CR). Since most constructs were measured using existing scales that had already been subjected to tests of content validity in previous research (Beleska-Spasova, 2014; Boso et al., 2013; Lu et al., 2010), the scales were deemed to have face validity. However, to ensure robustness of the instrument, the questionnaire was further piloted on a small sample of respondents to test for comprehension, logic and relevance. Opinions on the overall content of the instrument were sought from international marketing experts in academia and decision makers in exporting SMEs as was done in previous research (Alegre and Chiva, 2013). Construct validity was also established through an investigation of the relationship of each construct with other constructs, i.e. related (convergent validity) and unrelated (discriminant validity). No response bias was detected after a split-sample experiment was conducted on the data.
+
+4. Analysis and results
+4.1 Demographic data
+Characteristics of the exporting firms as well as attributes of key respondents are presented in Table I. The total sample size is 297 firms, representing 90.8 per cent of the questionnaire distributed in the survey. The demographic variables in Table I represent the gender, educational qualification and the role of the individual respondents in the SMEs. Table I also presents the industry of business, their membership of an association, ownership profile,
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+
+
+Variable	Level	Frequency Variable	Measures	Frequency
+
+Member of an association
+
+No	125	Gender	Female	94
+Yes	169	Male	203
+Total	294	Total	297
+
+Firm ownership	Partnership	34	Educational level	JHS/SHS/	67
+MLSC
+
+Limited liability company
+
+203	Professional	78
+
+State-owned	9	Degree	136
+Sole proprietorship	48	Post-	16
+graduate
+Total	297	Total	297
+
+Major destination of export
+
+Africa	119	Number of employees
+
+5 or less	67
+
+Asia	23	6-20	118
+Europe	89	21-40	37
+North America	8	41-60	24
+South America	2	61-80	13
+Other	3	80 and above	38
+Total	244	Total	297
+
+Industry of business	Agricultural	70	Years in export business
+
+2-5	63
+
+Manufacturing	81	6-9	112
+Services	146	10 and above	122
+Total	297	Total	297
+
+Which social institution supports you in enhancing your export performance
+
+Governmental agencies
+
+164	Role of respondent Owner	48
+
+Table I. Demographic attributes of respondents and firm characteristics
+
+Trade associations	105	Manager	117
+Family and friends	99	Employee	126
+Customers	187	Other	6
+Old school mates	12	Total	297
+Overseas partners	126
+Suppliers	137
+Note: Firm age (mean 1/4 16.9, SD 1/4 12.67)
+
+
+
+
+statistics on export experience, firm size, depicted by the number of employees. Generally, the average age of all participating SMEs is 16.9 years with a standard deviation of 12.7, indicating some considerable experience in exporting.
+
+4.2 Confirmatory factor analysis
+Measurement scales adopted from literature reviewed for the current study were validated via a CFA using SmartPLS version 3.2. The structural model may not be meaningful if it is not established that the measurement model is sufficient and fitting for the study (Bagozzi and Yi, 2012). The specified theories might have to be modified for testing if the chosen indicators for a construct do not measure that construct (Bagozzi and Yi, 2012). Hence, the CFA presented in Table II was used as an effective tool in specifying a valid measurement model prior to evaluating the structural model (Hair et al., 2014; Haenlein and Kaplan, 2004). Following from Hair et al. (2014), three dimensions of the measurement model were assessed: reliability, convergent validity and discriminant validity. First, an examination of parameter estimates and the reliability of the construct measures were used to establish the
+
+
+
+
+
+
+Construct and measures	Code  Loadings CA AVE  CR
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes: CA, Cronbach's a; CR, composite reliability; AVE, average variance estimate	analysis results
+
+
+internal structure (Blunch, 2008). Parameters are expected to be significant and in the hypothesised direction. The principle approach used to assess the measurement model was the variance extracted measures and the CR measures for each construct. The convergent validity of the items was assessed via the loadings and average variance extracted (AVE) values. Here, items that shared a high degree of residual variance with another, as well as those whose loadings were below the recommended threshold value (0.7) were dropped in order to obtain a revised model (Hair et al., 2014). Based on this, a total of 11 measuring items were dropped from the initial pool of 35 measuring items: 5 items were dropped from the social capital measures leaving 5 items in the revised measurement model; 3 items were dropped from the marketing capability measures, leaving 6 items; 3 items were dropped from the innovation capability measures, leaving 8 items. All 5 measuring items for export performance met the criteria and were thus retained for further analysis.
+   The revised measurement model now had 24 items. It was subsequently observed that all the loadings for each of the remaining items were above the minimum threshold value of
+
+
+
+
+AJEMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table III.
+Correlation matrix
+
+0.70, thus providing support for convergent validity (Hair et al., 2014). In addition to this, the AVE values ranging from 0.558 to 0.67 were all above the minimum recommended level of
+0.50 as suggested by Fornell and Larcker (1981), reinforcing the convergent validity for all the constructs.
+
+4.3 Reliability and validity
+To be certain that the scales used were free from random error and guarantee internal consistency (Pallant, 2011), reliability tests were conducted. Reliability of each construct was assessed by calculating CAs and CRs of the items measuring the constructs. Reliability is considered acceptable if values for CA are not less than 0.70 even though a threshold level of
+0.6 could be accepted for exploratory research. Inferring from Table III, the reliability measures of all the constructs were above the acceptable satisfactory thresholds. All CAs were greater than the recommended 0.70 value while CRs were also greater than 0.70 (Bagozzi and Yi, 2012; Haenlein and Kaplan, 2004). The two dimensions were used to assess the internal consistency for each construct and were deemed meritorious based on the values obtained, hence satisfying Fornell and Larcker's (1981) recommended satisfactory reliability measurement levels (CAs W 0.70, AVEW 0.50, CRW 0.70). Thus, the measurement models represented in Table III can be considered as the confirmed measurement for SME marketing capability, SME innovation capability, SME social capital and SME export performance models within the context of the current study.
+   Using Fornell and Larcker's (1981) criterion, discriminant validity was also assessed. The assessment was done by comparing the square root of the AVE values with the latent variable correlations. The results presented in Table III did not exhibit any evidence of strong correlations between constructs. Italic figures on the diagonal are the square root values of AVE for each construct and the values are distinct from the rest of the values. As a confirmation of the existence of discriminant validity, it was observed that for each pair of latent variables the square root of AVE exceeded correlations between the latent variables.
+
+4.4 Structural model test
+Following Hair et al.'s (2012) suggestion, an evaluation of the model's predictive capabilities and inter-construct relationships was carried out. This was done by initially bootstrapping (2,000 re-sample) to assess the significance of the path coefficients along with the value of the t-statistic via the PLS-SEM algorithm (Henseler et al., 2009). The path coefficients were assessed based on signs associated with them and the
+
+VariableFAEEFSSCMCICEPFA-EE0.489**-FS0.418**0.210**-SC0.082-0.0420.217**0.764MC0.137*-0.1070.383**0.538**	0.747IC0.109-0.143*0.354**0.411**	0.604**	0.777EP0.171**-0.170**0.151**0.385**0.560**0.346**0.819CA---0.8900.8700.9300.900AVE---0.5850.5580.6040.670CR---0.8800.8800.9200.910Notes: FS, firm size; FA, firm age; EE, export experience; SC, social capital; IC, innovation capability; MC, marketing capability; EP, export performance; CA, Cronbach's a; CR, composite reliability; AVE, average variance estimate. *,**Correlations significant at the 5 and 1 per cent significance levels, respectively
+
+
+
+
+
+
+
+magnitude of their values. For significance, a path coefficient t-value greater than or equal to 1.96 and p-value of 0.05 or less is acceptable.
+   Results from the SEM test of hypothesised paths are depicted in Table IV. The level of significance of the coefficients supports the theory represented in the model. The parameter estimates (for both p and t-values) are significant and within the scales expected (Blunch, 2008), hence supporting the predictive validity of the model. From the structural model results (Table IV), two out of the three path coefficients (direct effects) were statistically significant. The relationship between innovation capability and export performance (t-value 1/4 5.39, p-value 1/4 0.000), as well as the relationship between marketing capability and export performance (t-value 1/4 7.11, p-value 1/4 0.000) showed statistical significance. The results in Table IV provided no support for H1 because the effect of social capital on export performance is non-significant (t-value 1/4 1.10, p-value W 0.05). In all these analyses, firm characteristics (age, experience and size) were controlled for in the structural model assessment. Their effects in the structural relationships were found to be statistically non-significant. From this, H2 and H3 were supported in the current data, whereas H1 was not supported.
+
+4.5 Tests for mediation effects
+Two tests of mediation were conducted to examine the effect and magnitude to which innovation capability and marketing capability mediate the relationship between social capital and export performance. One of the main advantages of using a path model is the possibility of exploring the direct, indirect and total effects among latent variables (Lages and Montgomery, 2005). The indirect effect is determined by understanding the impact of a particular variable on a second variable through its effect on a third intervening or mediating variable (Hair et al., 2010). Hence, to test the mediating effect of innovation capability on the relationship between social capital and export performance, the effect of marketing capability was constrained in the structural model. A statistically significant indirect effect (t-value 1/4 4.71, p-value 1/4 0.000) was observed from the bootstrapped mediation test. Thus, H4 was supported by the data in the study. Second, following from Baron and Kenny's (1986) rule, the effect of innovation capability was constrained in the second mediation model while the paths involving social capital, marketing capability and export performance were analysed. As was in the first mediation model, a statistically significant indirect effect (t-value 1/4 6.28, p-value 1/4 0.000) was observed from the bootstrapped mediation test. Consequently, H5 was also supported by the data in the study. Therefore, this study confirms that innovation capability and marketing capability act as full mediators in each of the aforementioned simple mediating relationships (H4 and H5). Table V exhibits the mediation results.
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+Path specified	Standardized coefficientt-value bootstrapControls
+Age?Export performance	0.06
+0.74Experience?Export performance	0.060.87Size?Export performance	-0.010.13Model relationships
+H1. Social capital?Export performance	0.06
+1.10H2. Innovation capability?Export performance	0.35
+H3. Marketing capability?Export performance	0.435.39***
+7.11***Table IV.
+Structural modelNote: ***p-value significant at the 1 per cent significance levelresults
+
+
+
+AJEMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table V.
+Mediation test results
+5. 
+Discussions and implications
+This study hypothesised that social capital as a firm resource results in superior export performance of SMEs. From the structural model results, the hypothesised path was not found to be statistically significant. Hence, contrary to empirical evidence from other studies that social capital presents valuable resources to actors within a network (O'Cass and Sok, 2013), results from this research do not confirm significant effects of social capital on export performance of SMEs. Consequently, findings from this research do not endorse previous contributions by Babakus et al. (2006), Belso-Martínez (2006) and Boehe (2013) who reported a direct positive link between networks and export performance. On the contrary, findings of this study are congruent with Stoian and Gilman (2017) who found that inter-organisational networks do not significantly impact on export performance. Results from this research therefore, as compared to the market-based resources under study, do not endorse social networks and their outcomes as critical resources that result in competitive advantage as postulated by Lages et al. (2009). Thus, even though respondents hinted at their sources of social capital, their social networks were not deemed significant to influence their export performance. This suggests that the existence of inter-organisational networks may be necessary but not sufficient to contribute significantly to the success of SME export operations. Perhaps, the low levels of governmental support in getting SMEs to build their capabilities by participating in export promotion programmes could have led to the insignificant impact of social capital on export performance. In other words, governmental support for developing SME capabilities through participation in trade shows that exhibitions and training programmes might have contributed more significantly to enhancing their resources and the skills required to handle their export operations effectively, without the need for the support of other social networks.
+It was also hypothesised that innovation capabilities would have a positive relationship
+with export performance of SMEs. As predicted, the results provide substantial empirical support for findings from other settings that innovation capabilities positively influence export performance of SMEs. Thus, in line with prior research (Stoian and Gilman, 2017; Boso et al., 2013), current findings underpin the critical role of capabilities in export marketing.
+   This study also hypothesised that SME export performance could be enhanced if they possessed marketing capabilities. In this regard, a structural path between marketing capabilities and export performance was tested yielding statistically significant results between both constructs. Marketing capabilities proved to foster improved export performance among SMEs sampled, providing empirical support to prior research findings that link export performance with the deployment of capabilities (Morgan et al., 2004), effectively confirming the role of marketing capabilities as key drivers of export market performance. Similar to Morgan et al. (2012) assertion that the adaptation of the export marketing mix strategies (4Ps) is an internal capability which leads to enhanced export operations, findings from this research suggest that the effective exploitation of the marketing mix strategies in their exporting activities yields superior performance for SMEs.
+
+Direct effectsIndirect effectsMediation relationships	(t-value bootstrap) Indirect effects (t-value bootstrap) Total effectsH4. Innovation capability as mediator
+Social network?Expert performance
+0.06 (1.10)
+0.16
+4.71***
+0.22H5. Marketing capability as mediator
+Social network?Expert performance
+-0.01 (0.13)
+0.24
+6.28***
+0.23Note: ***p-value significant at the 1 per cent significance level
+
+
+
+
+
+
+
+This study also assessed the empirical findings of the theoretical viewpoints espoused in this research by examining the effect and magnitude to which innovation and marketing capabilities enhanced the relationship between social capital and export performance. The data analysis yielded statistically significant results for both sets of mediations (i.e. innovation and marketing capabilities both impact on social capital to generate superior export performance). Significantly, findings from this research support assertions from earlier studies that in order for networks to benefit from export performance, there was the need for indirect relationships mediated by one or various intermediate outputs such as innovation (Stoian and Gilman, 2017; Lu et al., 2010). Additionally, it also supports Lu et al.'s (2010) findings on the capabilities-mediated resources and the international performance of entrepreneurial SMEs which further demonstrates support for the mediating role of capabilities in the relationship between resources and international performance of firms.
+   Hence, beyond their direct influence on export performance of SMEs, the possession of marketing and innovation capabilities also results in superior export performance when they mediate the social capital-export performance relationship. This study has therefore empirically reinforced the dynamic capabilities theory that the mere possession of resources does not necessarily guarantee the achievement of performance benefits, as those resources can be traded and are transferable across several organisational boundaries (Lu et al., 2010).
+
+5.1 Theoretical                              implications While the study empirically reinforced the dynamic capabilities theory, an exploration of the nexus of the three theories brought to the fore the need to reassess the social capital theory. This is in light of the results from this research suggesting that merely possessing social capital as a resource does not guarantee superior export performance. However, the results by no means suggest that the social capital theory is not relevant within the export performance context. Indeed, social capital theory is widely recognised as a rich theoretical platform from which to study business outcomes and still remains relevant to the export performance literature (Boso et al., 2013). Its potential in determining export success is yet to be fully explored. This research measured its applicability relative to resource-based theories. Hence, in juxtaposing the relational resources with the market-based resources, the theories have provided some exposure as to the relative contribution of marketing capabilities, innovation capabilities and social capital.
+
+5.2 Methodological implications
+The research adopted a quantitative technique using a survey approach, which employed structured questionnaires to obtain information from respondents. This approach was deemed appropriate for the research that sought to test some theories by understanding relationships among variables (Saunders et al., 2011) and predicting outcomes of those relationships. Also, a significant sample was required to effectively draw general conclusions within the SME sector and gather the most valid results, hence the use of a relatively larger sample. The use of the positivist approach in undertaking the study was to increase the predictive understanding of the relationships that exist among the various constructs in order to test the various theories and test the hypotheses by analysing numbers from the measures.
+
+5.3 Policy and managerial implications
+Customers and suppliers have proven to be critical sources social capital for exporters, providing information in an organisational supply chain as they offer useful suggestions on product and process improvement that enables firms sustain competitive advantage. In this regard, managers should strive to engage more with these groups of stakeholders to enhance
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+their export performance. Staff should also be encouraged to perform boundary spanning activities that would enable the firms derive significant benefits from the relationships. Government and its agencies can also play a critical role in supporting SMEs to enhance their knowledge towards improving their market offer. Sponsoring capacity-building programmes in the areas of marketing and innovation could enable Ghanaian SMEs compete effectively on the international front. Government must itself map out strategies at the macro level to support small firms in their export drive. For instance, tax incentives could be offered as well as assistance in the form of resources to enhance SME export operations, while encouraging more SMEs to venture into exporting. Managers of SMEs in export also need to pay a little more attention to their firms' product, pricing, promotional and distribution strategies in servicing overseas markets. To overcome cultural challenges on the international front, managers could use the services of international marketing experts to craft out interesting promotional programmes to effectively position their products in the host nations. Similarly, Ghanaian SMEs need to come up with more innovative product strategies (e.g. packaging) that would suit the idiosyncrasies of international markets. Pricing strategies should also take into account the social structures of consumers in destination countries so as not to price themselves out of the market, while generating adequate revenue. An effective combination of the marketing mix elements will position the exporting firm effectively in a highly competitive environment.
+
+6. Conclusions, limitations and future research
+This study concludes that SMEs' ability to achieve superior export performance from social capital is dependent on how effectively their market-based resources are harnessed. This research has demonstrated that the possession of relational resources alone may not result in gaining superior export performance (the path value yielded negative results). Thus, to realise the needed results, social capital derived from various networks and associations ought to be harnessed along a set of market-based capabilities. Additionally, this study has demonstrated that capabilities vary in terms of their impact on firm performance. Marketing capability is apparently still relevant in today's world in spite of the innovation wave sweeping across the global market. By implication, contrary to views that small firms do not require marketing to succeed, this research has provided sufficient justification for SMEs to pay closer attention to their marketing activities. Findings from this study to a large extent are in tandem with theoretical expectations. However, as with any scientific research, there are a few limitations that should be noted. Even though key respondents were considered experts in the field being researched, the robustness of the data would have been enhanced if more than one person had been surveyed in each enterprise. Again, in the domain of respondents, the method applied in eliciting responses could not easily establish informant bias, particularly with respect to the ratings for the various scale measuring items.
+   Future research may therefore consider examining each of the elements within the marketing capabilities construct to determine the varying impact of each on export performance. For instance, it could explore the development of the pricing process as a capability. It would also be interesting to test the joint effect of marketing and innovation capabilities on the performance of exporting firms. Furthermore, marketing capabilities transcend the marketing mix capabilities model, hence the need to test the mediation of other marketing variables such as customer relationship management as well as differentiation and low-cost advantages in explaining marketing capabilities-export performance relationships. In addition, there is the need for further research on the benefits of innovation to be carried out on firms from emerging economies. From a theoretical standpoint, future research could adopt the institutional learning and competitive theories to enrich the research. These could help in identifying other institutional factors, besides market-based resources that positively influence export performance.
+
+
+
+
+References
+Abban, R., Omta, S.W.F., Aheto, J.B. and Scholten, V.E. (2013), "Connecting the dots: a multiple case study of the network relationships of small and medium-sized enterprises (SMEs) in the non-traditional agricultural export (NTAE) sector of Ghana", African Journal of Economic and Management Studies, Vol. 4 No. 1, pp. 74-94.
+Abor, J. and Quartey, P. (2010), "Issues in SME development in Ghana and South Africa", International Research Journal of Finance and Economics, Vol. 39 No. 6, pp. 215-228.
+Acquaah, M. (2007), "Managerial social capital, strategic orientation, and organizational performance in an emerging economy", Strategic Management Journal, Vol. 28 No. 12, pp. 1235-1255.
+Adu-Gyamfi, E., Soni, S.P., Xue, Y., Digman, M.A., Gratton, E. and Stahelin, R.V. (2013), "The Ebola virus matrix protein penetrates into the plasma membrane a key step in viral protein 40 (VP40) oligomerization and viral egress", Journal of Biological Chemistry, Vol. 288 No. 8, pp. 5779-5789.
+Alegre, J. and Chiva, R. (2013), "Linking entrepreneurial orientation and firm performance: the role of organisational learning capability and innovation performance", Journal of Small Business Management, Vol. 51 No. 4, pp. 491-507.
+Antoldi, F., Cerrato, D. and Depperu, D. (2011), "Strategic networks, trust and the competitive advantage of SMEs", Export Consortia in Developing Countries, Springer, Berlin and Heidelberg,
+pp. 23-43.
+Atuahene-Gima, K. and Murray, J.Y. (2007), "Exploratory and exploitative learning in new product development: a social capital perspective on new technology ventures in China", Journal of International Marketing, Vol. 15 No. 2, pp. 1-29.
+Avlonitis, G.J. and Salavou, H.E. (2007), "Entrepreneurial orientation of SMEs, product innovativeness, and performance", Journal of Business Research, Vol. 60 No. 5, pp. 566-575.
+Ayan, T.Y. and Percin, S. (2005), "A structural analysis of the determinants of export performance: evidence from Turkey", Innovative Marketing, Vol. 1 No. 2, pp. 106-120.
+Ayob, A.H. and Freixanet, J. (2014), "Insights into public export promotion programs in an emerging economy: the case of Malaysian SMEs", Evaluation and Program Planning, Vol. 46, pp. 38-46.
+Babakus, E., Yavas, U. and Haahti, A. (2006), "Perceived uncertainty, networking and export performance: a study of Nordic SMEs", European Business Review, Vol. 18 No. 1, pp. 4-13.
+Bagozzi, R.P. and Yi, Y. (2012), "Specification, evaluation, and interpretation of structural equation models", Journal of the Academy of Marketing Science, Vol. 40 No. 1, pp. 8-34.
+Barney, J. (1991), "Firm resources and sustained competitive advantage", Journal of Management, Vol. 17 No. 1, pp. 99-120.
+Barney, R.J., Clark, S.M. and Riley, E.G. (2007), "Annotated list of the leaf beetles (Coleoptera: Chrysomelidae) of Kentucky: subfamily Cassidinae", Journal of the Kentucky Academy of Science, Vol. 68 No. 2, pp. 132-145.
+Baron, R.M. and Kenny, D.A. (1986), "The moderator-mediator variable distinction in social psychological research: conceptual, strategic, and statistical considerations", Journal of Personality and Social Psychology, Vol. 51 No. 6, p. 1173.
+Beleska-Spasova, E. (2014), "Determinants and measures of export performance - comprehensive literature review", Journal of Contemporary Economic and Business Issues, Vol. 1 No. 1, pp. 63-74.
+Beleska-Spasova, E., Glaister, W. and Stride, C. (2012), "Resource determinants of strategy and performance: the case of British exporters", Journal of World Business, Vol. 47 No. 4, pp. 635-647.
+Belso-Martínez, J.A. (2006), "Do industrial districts influence export performance and export intensity? Evidence for Spanish SMEs' internationalisation process", European Planning Studies, Vol. 14 No. 6, pp. 791-810.
+Blesa, A. and Ripolles, M. (2008), "The influence of marketing capabilities on economic international performance", International Marketing Review, Vol. 25 No. 6, pp. 651-673.
+Blunch (2008), Introduction to Structural Equation Modeling: Using SPSS and AMOS, Sage Publications Limited, London.
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+Boansi, D., Odilon Kounagbé Lokonon, B. and Appah, J. (2014), "Determinants of agricultural export trade: case of fresh pineapple exports from Ghana", Journal of Economics, Management and Trade, Vol. 8, pp. 1736-1754.
+Boehe, D. (2013), "Collaborate at home to win abroad: how does access to local network resources influence export behaviour?", Journal of Small Business Management, Vol. 51 No. 2, pp. 167-182.
+Boso, N., Cadogan, J.W. and Story, V.M. (2013), "Entrepreneurial orientation and market orientation as drivers of product innovation success: a study of exporters from a developing economy", International Small Business Journal, Vol. 31 No. 1, pp. 57-81.
+Bowman, C. and Ambrosini, V. (2007), "Firm value creation and levels of strategy", Management Decision, Vol. 45 No. 3, pp. 360-371.
+Bruton, G.D., Ahlstrom, D. and Wan, J.C.C. (2003), "Turnaround in East Asian firms: evidence from ethnic overseas Chinese communities", Strategic Management Journal, Vol. 24 No. 2, pp. 519-540.
+Bryman, A. and Bell, E. (2015), Business Research Methods, Oxford University Press, Darwen, Lancashire.
+Calantone, R.J., Chan, K. and Cui, A.S. (2006), "Decomposing product innovativeness and its effects on new product success", Journal of Product Innovation Management, Vol. 23 No. 5, pp. 408-421.
+Chetty, S. and Holm, D.B. (2000), "Internationalisation of small to medium-sized manufacturing firms: a network approach", International Business Review, Vol. 9 No. 1, pp. 77-93.
+Chrisholm, A. and Nielsen, K. (2009), "Social capital and the resource-based view of the firm",
+International Studies of Management and Organisation, Vol. 39 No. 2, pp. 7-32.
+Contractor, F.J. (2007), "Is international business good for companies? The evolutionary or multi-stage theory of internationalization vs. the transaction cost perspective", Management International Review, Vol. 47 No. 3, pp. 453-475.
+Czinkota, M.R. (2002), "Export promotion: a framework for finding opportunity in change",
+Thunderbird International Business Review, Vol. 44 No. 3, pp. 315-324.
+De Toni, A. and Tonchia, S. (2003), "Strategic planning and firms' competencies: traditional approaches and new perspectives", International Journal of Operations & Production Management, Vol. 23 No. 9, pp. 947-976.
+de Vaus, D. (2013), Surveys in Social Research, Routledge.
+Dickson, P.H., Weaver, K.M. and Hoy, F. (2006), "Opportunism in the R&D alliances of SMES: the roles of the institutional environment and SME size", Journal of Business Venturing, Vol. 21 No. 4,
+pp. 487-513.
+Doole, I., Grimes, T. and Demack, S. (2006), "An exploration of the management practices and processes most closely associated with high levels of export capability in SMEs", Marketing Intelligence & Planning, Vol. 24 No. 6, pp. 632-647.
+Douglas, S.P. and Craig, C.S. (2006), "On improving the conceptual foundations of international marketing research", Journal of International Marketing, Vol. 14 No. 1, pp. 1-22.
+Egyir, I.S., Adu-Nyako, K. and Okafor, R. (2012), "The 'Made in USA poultry label' and consumer choice in Ghana", No. 1372-2016-109083.
+Eriksson, T. (2014), "Processes, antecedents and outcomes of dynamic capabilities", Scandinavian Journal of Management, Vol. 30 No. 1, pp. 65-82.
+Fang, E.E. and Zou, S. (2009), "Antecedents and consequences of marketing dynamic capabilities in international joint ventures", Journal of International Business Studies, Vol. 40 No. 5, pp. 742-761.
+Fernández, Z. and Nieto, M.J. (2005), "Internationalisation strategy of small and medium-sized family businesses: some influential factors", Family Business Review, Vol. 18 No. 1, pp. 77-89.
+Fornell, C. and Larcker, D.F. (1981), "Structural equation models with unobservable variables and measurement error: algebra and statistics".
+Foss, N.J. and Knudsen, T. (2003), "The resource-based tangle: towards a sustainable explanation of competitive advantage", Managerial and Decision Economics, Vol. 24 No. 4, pp. 291-307.
+
+
+
+
+Foss, N.J., Klein, P.G., Kor, Y.Y. and Mahoney, J.T. (2008), "Entrepreneurship, subjectivism, and the resource-based view: toward a new synthesis", Strategic Entrepreneurship Journal, Vol. 2 No. 1,
+pp. 73-94.
+Freel, M.S. and Harrison, R.T. (2006), "Innovation and cooperation in the small firm sector: evidence from 'Northern Britain' ", Regional Studies, Vol. 40 No. 4, pp. 289-305.
+Garcia, F., Avella, L. and Fernandez, E. (2012), "Learning from exporting: the moderating effect of technological capabilities", International Business Review, Vol. 21 No. 3, pp. 1099-1111.
+Graves, C. and Thomas, J. (2008), "Determinants of the internationalisation pathways of family firms: an examination of family influence", Family Business Review, Vol. 21 No. 2, pp. 151-167.
+Griffith, D.A. and Hoppner, J.J. (2013), "Global marketing managers: improving global marketing strategy through soft skill development", International Marketing Review, Vol. 30 No. 1,
+pp. 21-40.
+Griffith, D.A., Cavusgil, S.T. and Xu, S. (2008), "Emerging themes in international business research",
+Journal of International Business Studies, Vol. 39 No. 7, pp. 1220-1235.
+Griffith, D.A., Yalcinkaya, G. and Calantone, R.J. (2010), "Do marketing capabilities consistently mediate effects of firm intangible capital on performance across institutional environments?", Journal of World Business, Vol. 45 No. 3, pp. 217-227.
+Haenlein, M. and Kaplan, A.M. (2004), "A beginner's guide to partial least squares analysis",
+Understanding Statistics, Vol. 3 No. 4, pp. 283-297.
+Hair, J.F., Anderson, R.E., Babin, B.J. and Black, W.C. (2010), "Multivariate data analysis: a global perspective", Vol. 7.
+Hair, J.F. Jr, Sarstedt, M., Hopkins, L. and Kuppelwieser, V.G. (2014), "Partial least squares structural equation modeling (PLS-SEM): an emerging tool in business research", European Business Review, Vol. 26 No. 2, pp. 106-121.
+Hair, J.F., Sarstedt, M., Ringle, C.M. and Mena, J.A. (2012), "An assessment of the use of partial least squares structural equation modeling in marketing research", Journal of the Academy of Marketing Science, Vol. 40 No. 3, pp. 414-433.
+Henseler, J., Ringle, C.M. and Sinkovics, R.R. (2009), "The use of partial least squares path modelling in international marketing", Advances in International Marketing, Vol. 20, pp. 277-320.
+Hinson, R. and Dadzie, K. (2011), "Organisational environment & SME contemporary marketing practices in an emerging economy entrepreneurship marketing principles and practice of SME marketing".
+Hinson, R. and Sorensen, O. (2006), "E-business and small Ghanaian exporters: preliminary micro firm explorations in the light of a digital divide", Online Information Review, Vol. 30 No. 2,
+pp. 116-138.
+Hoskisson, R.E., Eden, L., Lau, C.M. and Wright, M. (2000), "Strategy in emerging economies", Academy of Management Journal, Vol. 43 No. 3, pp. 249-267.
+Hotho, S. and Champion, K. (2011), "Small businesses in the new creative industries: innovation as a people management challenge", Management Decision, Vol. 49 No. 1, pp. 29-54.
+Hughes, M. and Morgan, R.E. (2007), "Deconstructing the relationship between entrepreneurial orientation and business performance at the embryonic stage of firm growth", Industrial Marketing Management, Vol. 36 No. 5, pp. 651-661.
+Huizingh, E.K. (2011), "Open innovation: state of the art and future perspectives", Technovation, Vol. 31 No. 1, pp. 2-9.
+Hultman, M., Robson, M.J. and Katsikeas, C.S. (2009), "Export product strategy fit and performance: an empirical investigation", Journal of International Marketing, Vol. 17 No. 4, pp. 1-23.
+Ibeh, K., Wilson, J. and Chizema, A. (2012), "The internationalisation of African firms 1995-2011: review and implications", Thunderbird International Business Review, Vol. 54 No. 4, pp. 11-427.
+Ibeh, K.I. (2003), "Toward a contingency framework of export entrepreneurship: conceptualisations and empirical evidence", Small Business Economics, Vol. 20 No. 1, pp. 49-68.
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+Kahiya, E.T. and Dean, D.L. (2014), "Export performance: multiple predictors and multiple measures approach", Asia Pacific Journal of Marketing and Logistics, Vol. 26 No. 3, pp. 378-407.
+Kaleka, A. (2012), "Studying resource and capability effects on export venture performance", Journal of World Business, Vol. 47 No. 1, pp. 93-105.
+Kallio, A., Kujansivu, P. and Parjanen, S. (2012), "Locating the weak points of innovation capability before launching a development project", Interdisciplinary Journal of Information, Knowledge & Management, p. 7.
+Kang, S.C., Morris, S.S. and Snell, S.A. (2007), "Relational archetypes, organizational learning, and value creation: extending the human resource architecture", Academy of Management Review, Vol. 32 No. 1, pp. 236-256.
+Katsikeas, C.S., Leonidou, L.C. and Morgan, N.A. (2000), "Firm-level export performance assessment: review, evaluation, and development", Journal of Academy of Marketing Science, Vol. 28 No. 4,
+pp. 493-511.
+Khan, H. and Ede, D. (2009), "How do not-for-profit SMEs attempt to develop a strong brand in an increasingly saturated market?", Journal of Small Business and Enterprise Development, Vol. 16 No. 2, pp. 335-354.
+Khavul, S. (2010), "Microfinance: creating opportunities for the poor?", Academy of Management Perspectives, Vol. 24 No. 3, pp. 58-72.
+Kline, R.B. (2005), Principles and Practice of Structural Equation Modelling, 2nd ed., Guilford Press, New York, NY.
+Knight, G.A. and Kim, D. (2009), "International business competence and the contemporary firm",
+Journal of International Business Studies, Vol. 40 No. 2, pp. 255-273.
+Knudsen, T. and Madsen, T.K. (2002), "Export strategy: a dynamic capabilities perspective",
+Scandinavian Journal of Management, Vol. 18 No. 4, pp. 475-502.
+Koçak, A. and Edwards, V. (2005), "Independence and co-operation among small businesses: the case of the Turkish shotgun industry in a period of recession", International Journal of Entrepreneurial Behavior & Research, Vol. 11 No. 3, pp. 186-200.
+Kuada, J. (2007), "Internationalisation, regionalisation and Africa's economic growth semiconductor industries", Strategic Management Journal, Vol. 21 No. 1, pp. 369-386.
+Lages, L.F. and Montgomery, D.B. (2004), "Export performance as an antecedent of export commitment and marketing strategy adaptation: evidence from small and medium sized exporters", European Journal of Marketing, Vol. 38 Nos 9/10, pp. 1186-1214.
+Lages, L.F. and Montgomery, D.B. (2005), "The relationship between export assistance and performance improvement in Portuguese export ventures: an empirical test of the mediating role of pricing strategy adaptation", European Journal of Marketing, Vol. 39 Nos 7/8, pp. 755-784.
+Lages, L.F., Silva, G., Styles, C. and Pereira, Z. (2009), "The NEP scale: a measure of network export performance", International Business Review, Vol. 18 No. 4, pp. 344-356.
+Lee, C., Lee, K. and Pennings, J.M. (2001), "Internal capabilities, external networks, and performance: a study on technology-based ventures", Strategic Management Journal, Vol. 22 Nos 6-7,
+pp. 615-640.
+Lee, R. (2009), "Social capital and business and management: setting a research agenda", International Journal of Management Reviews, Vol. 11 No. 3, pp. 247-273.
+Leonidou, L.C., Katsikeas, C.S. and Samiee, S. (2002), "Marketing strategy determinants of export performance: a meta-analysis", Journal of Business Research, Vol. 55 No. 1, pp. 51-67.
+Lin, J. and Si, S.X. (2010), "Can guanxi be a problem? Contexts, ties, and some unfavorable consequences of social capital in China", Asia Pacific Journal of Management, Vol. 27 No. 3,
+pp. 561-581.
+Lu, J.W. and Beamish, P.W. (2001), "Strategic entrepreneurship: entrepreneurial strategies for wealth creation", Strategic Management Journal, Vol. 22 Nos 6/7, pp. 565-586.
+
+
+
+
+Lu, Y., Zhou, L., Bruton, G. and Li, W. (2010), "Capabilities as a mediator linking resources and the international performance of entrepreneurial firms in an emerging economy", Journal of International Business Studies, Vol. 41 No. 3, pp. 419-436.
+Luo, Y.D. and Tung, L. (2007), "International expansion of emerging market enterprises: a springboard perspective", Journal of International Business Studies, Vol. 38, pp. 481-498.
+McKelvie, A. and Davidsson, P. (2009), "From resource base to dynamic capabilities: an investigation of new firms", British Journal of Management, Vol. 20 No. 20, pp. S63-S80.
+Makadok, R. (2001), "Toward a synthesis of the resource-based and dynamic-capability views of rent creation", Strategic Management Journal, Vol. 22 No. 5, pp. 387-401.
+Manova, K. and Zhang, Z. (2012), "Export prices across firms and destinations", The Quarterly Journal of Economics, Vol. 127 No. 1, pp. 379-436.
+Marsh, S.J. and Stock, G.N. (2006), "Creating dynamic capability: the role of intertemporal integration, knowledge retention, and interpretation", Journal of Product Innovation Management, Vol. 23 No. 5, pp. 422-436.
+Menguc, B. and Auh, S. (2006), "Creating a firm-level dynamic capability through capitalizing on market orientation and innovativeness", Journal of the Academy of Marketing Science, Vol. 34 No. 1, pp. 63-73.
+Meyer, K.E. and Peng, M.W. (2005), "Probing theoretically into Central and Eastern Europe: transactions, resources and institutions", Journal of International Business Studies, Vol. 36 No. 6,
+pp. 600-621.
+Montealegre, R. (2002), "A process model of capability development: lessons from the electronic commerce strategy at Bolsa de Valores de Guayaquil", Organization Science, Vol. 13 No. 5,
+pp. 514-531.
+Morgan, N.A. (2012), "Marketing and business performance", Journal of the Academy of Marketing Science, Vol. 40 No. 1, pp. 102-119.
+Morgan, N.A., Kaleka, A. and Katsikeas, C.S. (2004), "Antecedents of export venture performance: a theoretical model and empirical assessment", Journal of Marketing, Vol. 68 No. 2, pp. 90-108.
+Morgan, N.A., Katsikeas, C.S. and Vorhies, D.W. (2012), "Export marketing strategy implementation, export marketing capabilities, and export venture performance", Journal of the Academy of Marketing Science, Vol. 40 No. 2, pp. 271-289.
+Morgan, T. (2012), "Smart grids and electric vehicles: made for each other?", International Transport Forum Discussion Paper.
+Nahapiet, J. and Ghoshal, S. (1998), "Social capital, intellectual capital, and the organizational advantage", Academy of Management Review, Vol. 23 No. 2, pp. 242-266.
+Newbert, S.L. (2007), "Empirical research on the resource-based view of the firm: an assessment and suggestions for future research", Strategic Management Journal, Vol. 28 No. 2, pp. 121-146.
+O'Cass, A. and Julian, C. (2003), "Examining firm and environmental influences on export marketing mix strategy and export performance of Australian exporters", European Journal of Marketing, Vol. 37 Nos 3/4, pp. 366-384.
+O'Cass, A. and Sok, K.M. (2013), "Achieving superior SME performance: overarching role of marketing, innovation, and learning capabilities", Australasian Marketing Journal, Vol. 21 No. 3,
+pp. 161-167.
+Okpara, J.O. (2009), "Strategic choices, export orientation and export performance of SMEs in Nigeria",
+Management Decision, Vol. 47 No. 8, pp. 1281-1299.
+Pallant, J. (2011), SPSS Survival Manual: A Step By Step Guide to Data Analysis Using the SPSS Program, 4th ed., Allen and Unwin, Berkshire.
+Panayides, P. (2006), "Enhancing innovation capability through relationship management and implications for performance", European Journal of Innovation Management, Vol. 9 No. 4,
+pp. 466-483.
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+Peng, M.W. and Luo, Y. (2000), "Managerial ties and firm performance in a transition economy: the nature of a micro-macro link", Academy of Management Journal, Vol. 43 No. 3, pp. 486-501.
+Penrose, E. (1959), The Theory of the Growth of the Firm, John Wiley and Sons, New York, NY.
+Peteraf, M.A. and Bergen, M.E. (2003), "Scanning dynamic competitive landscapes: a market-based and resource-based framework", Strategic Management Journal, Vol. 24 No. 10, pp. 1027-1041.
+Pinho, J.C.M.R. (2011), "Social capital and dynamic capabilities in international performance of SMEs",
+Journal of Strategy and Management, Vol. 4 No. 4, pp. 404-421.
+Prange, C. and Verdier, S. (2011), "Dynamic capabilities, internationalisation process and performance",
+Journal of World Business, Vol. 46 No. 1, pp. 126-133.
+Rankin, N., Söderbom, N. and Teal, F. (2006), "Exporting from manufacturing firms in Sub-Saharan Africa", Journal of African Economics, Vol. 15 No. 4, pp. 671-687.
+Robson, P.J., Akuetteh, C.K., Westhead, P. and Wright, M. (2012), "Exporting intensity, human capital and business ownership experience", International Small Business Journal, Vol. 30 No. 4,
+pp. 367-387.
+Rosenbusch, N., Brinckmann, J. and Bausch, A. (2011), "Is innovation always beneficial? A meta-analysis of the relationship between innovation and performance in SMEs", Journal of Business Venturing, Vol. 26 No. 4, pp. 441-457.
+Rowley, T., Behrens, D. and Krackhardt, D. (2000), "Redundant governance structures: an analysis of structural and relational embeddedness in the steel and semiconductor industries", Strategic Management Journal, Vol. 21 No. 3, pp. 369-386.
+Rubera, G. and Kirca, A.H. (2012), "Firm innovativeness and its performance outcomes: a meta-analytic review and theoretical integration", Journal of Marketing, Vol. 76 No. 3, pp. 130-147.
+Sandefur, R.L. and Laumann, E.O. (1998), "A paradigm for social capital", Rationality and Society, Vol. 10 No. 4, pp. 481-501.
+Sapienza, H.J., Autio, E., George, G. and Zahra, S.A. (2006), "A capabilities perspective on the effects of early internationalization on firm survival and growth", Academy of Management Review, Vol. 31 No. 4, pp. 914-933.
+Saunders, M., Lewis, P. and Thornhill, A. (2007), Research Methods for Business Students, Pearson Education, Harlow.
+Saunders, M.N., Saunders, M., Lewis, P. and Thornhill, A. (2011), Research Methods for Business Students, 5th ed., Pearson Education, Mumbai.
+Schilke, O. and Cook, K.S. (2013), "A cross-level process theory of trust development in interorganizational relationships", Strategic Organization, Vol. 11 No. 3, pp. 281-303.
+Sheth, J.N. (2011), "Impact of emerging markets on marketing: rethinking existing perspectives and practices", Journal of Marketing, Vol. 75 No. 4, pp. 166-182.
+Soh, P.H. (2003), "The role of networking alliances in information acquisition and its implications for new product performance", Journal of Business Venturing, Vol. 18 No. 4, pp. 727-744.
+Spender, J.C. (2006), "Getting value from knowledge management", The TQM Magazine, Vol. 18 No. 3,
+pp. 238-254.
+Stam, W., Arzlanian, S. and Elfring, T. (2014), "Social capital of entrepreneurs and small firm performance: a meta-analysis of contextual and methodological moderators", Journal of Business Venturing, Vol. 29 No. 1, pp. 152-173.
+Stoian, C. and Gilman, M. (2017), "Corporate social responsibility that 'pays': a strategic approach to CSR for SMEs", Journal of Small Business Management, Vol. 55 No. 1, pp. 5-31.
+Teece, D.J., Pisano, G. and Shuen, A. (1997), "Dynamic capabilities and strategic management",
+Strategic Management Journal, Vol. 18 No. 7, pp. 509-533.
+Tellis, G.J., Prabhu, J.C. and Chandy, R.K. (2009), "Radical innovation across nations: the preeminence of corporate culture", Journal of Marketing, Vol. 73 No. 1, pp. 3-23.
+
+
+
+
+Terziovski, M. (2010), "Innovation practice and its performance implications in small and medium enterprises (SMEs) in the manufacturing sector: a resource-based view", Strategic Management Journal, Vol. 31 No. 8, pp. 892-902.
+Theodosiou, M., Kehagias, J. and Katsikea, E. (2012), "Strategic orientations, marketing capabilities and firm performance: an empirical investigation in the context of frontline managers in service organizations", Industrial Marketing Management, Vol. 41 No. 7, pp. 1058-1070.
+Thrikawala, S. (2011), "The determinants of entrepreneurial intention among academics in Sri Lanka",
+International Conference on Economics and Finance Research: LACSIT Press, Singapore,
+pp. 454-458.
+Tomlinson, P.R. and Fai, F.M. (2013), "The nature of SME co-operation and innovation: a multi-scalar and multi-dimensional analysis", International Journal of Production Economics, Vol. 141 No. 1,
+pp. 316-326.
+Tseng, C., Tansuhaj, P., Hallagan, W. and McCullough, J. (2007), "Effects of firm resources on growth in multinationality", Journal of International Business Studies, Vol. 38 No. 2, pp. 961-974.
+Uner, M.M., Kocak, A., Cavusgil, E. and Cavusgil, S.T. (2013), "Do barriers to export vary for born globals and across stages of internationalization? An empirical inquiry in the emerging market of Turkey", International Business Review, Vol. 22 No. 5, pp. 800-813.
+Vorhies, D.W., Orr, L.M. and Bush, V.D. (2011), "Improving customer-focused marketing capabilities and firm financial performance via marketing exploration and exploitation", Journal of the Academy of Marketing Science, Vol. 39 No. 5, pp. 736-756.
+Wang, C.L. and Ahmed, P.K. (2007), "Dynamic capabilities: a review and research agenda",
+International Journal of Management Reviews, Vol. 9 No. 1, pp. 31-51.
+Watson, J. (2007), "Modeling the relationship between networking and firm performance", Journal of Business Venturing, Vol. 22 No. 3, pp. 852-874.
+Westhead, P., Wright, M. and Ucbasaran, D. (2004), "Internationalization of private firms: environmental turbulence and organizational strategies and resources", Entrepreneurship & Regional Development, Vol. 16 No. 6, pp. 501-522.
+Wilkinson, T. and Brouthers, L.E. (2006), "Trade promotion and SME export performance",
+International Business Review, Vol. 15 No. 3, pp. 233-252.
+Wright, M., Filatotchev, I., Hoskisson, R.E. and Peng, M.W. (2005), "Strategy research in emerging economies: challenging the conventional wisdom", Journal of Management Studies, Vol. 42 No. 1,
+pp. 1-33.
+Yeniyurt, S., Cavusgil, S.T. and Hult, G.T.M. (2005), "A global market advantage framework: the role of global market knowledge competencies", International Business Review, Vol. 14 No. 1, pp. 1-19.
+Yi, J., Wang, C. and Kafouros, M. (2013), "The effects of innovative capabilities on exporting: do institutional forces matter?", International Business Review, Vol. 22 No. 2, pp. 392-406.
+Zeng, Y., Liang, Y.C., Hoang, A.T. and Zhang, R. (2010), "A review on spectrum sensing for cognitive radio: challenges and solutions", EURASIP Journal on Advances in Signal Processing, Vol. 2010 No. 1, pp. 381-465.
+Zollo, M. and Winter, S.G. (2002), " 'Deliberate learning and the evolution of dynamic capabilities' ",
+Organization Science, Vol. 13 No. 3, pp. 339-351.
+Zou, S. and Stan, S. (1998), "The determinants of export performance: a review of the empirical literature between 1987 and 1997", International Marketing Review, Vol. 15 No. 5,
+pp. 333-356.
+Zou, S. and Tamer Cavusgil, S. (1996), "Global strategy: a review and an integrated conceptual framework", European Journal of Marketing, Vol. 30 No. 1, pp. 52-69.
+Zou, S., Fang, E. and Zhao, S. (2003), "The effect of export marketing capabilities on export performance: an investigation of Chinese exporters", Journal of International Marketing, Vol. 11 No. 4, pp. 32-55.
+
+SMEs in Ghana
+
+
+
+
+
+
+
+
+
+AJEMS
+
+Further reading
+Anderson, J.C. and Gerbing, D.W. (1988), "Structural equation modeling in practice: a review and recommended two-step approach", Psychological Bulletin, Vol. 103 No. 3, p. 411.
+Arregle, J.L., Hitt, M.A., Sirmon, D.G. and Very, P. (2007), "The development of organizational social capital: attributes of family firms", Journal of Management Studies, Vol. 44 No. 1, pp. 73-95.
+Charan, R. (2013), Global Tilt: Leading Your Business Through the Great Economic Power Shift, Crown Publications.
+Emden, Z., Calantone, R.J. and Droge, C. (2006), "Collaborating for new product development: selecting the partner with maximum potential to create value", Journal of Product Innovation Management, Vol. 23 No. 4, pp. 330-341.
+Fening, F.A., Pesakovic, G. and Amaria, P. (2008), "Relationship between quality management practices and the performance of small and medium size enterprises (SMEs) in Ghana", International Journal of Quality and Reliability Management, Vol. 25 No. 7, pp. 694-708.
+Fowler, F.J. (2004), "The case for more split-sample experiments in developing survey instruments", in Presser, S., Rothgeb, J.M., Couper, M.P., Lessler, J.T., Martin, E., Martin, J. and Singer, E. (Eds), Methods for Testing and Evaluating Survey Questionnaires, Wiley, New York, NY, pp. 173-188.
+GEPA (2016), "Database of SMEs in export", Ghana Export Promotion Authority.
+Helfat, C.E., Finkelstein, S., Mitchell, W., Peteraf, M., Singh, H., Teece, D. and Winter, S. (2007),
+Dynamic Capabilities: Understanding Strategic Change in Organisations, Blackwell, London.
+Lu, Z. and Hirschman, L. (2012), "Biocuration workflows and text mining: overview of the BioCreative 2012 workshop track II", Database, 1 January.
+Morgan, N.A., Vorhies, D.W. and Mason, C.H. (2009), "Market orientation, marketing capabilities, and firm performance", Strategic Management Journal, Vol. 30 No. 8, pp. 909-920.
+Omar, R. and Rejab, I. (2011), "Entrepreneurial orientation of small and medium enterprises (SMEs) in Malaysian information communication technology (ICT) sector", African Journal of Business Management, Vol. 5 No. 31, pp. 12329-12340.
+Romijn, H. and Albaladejo, M. (2000), Determinants of Innovation Capability in Small UK Forms: An Empirical Analysis, Queen Elizabeth House, pp. 1-28.
+Wetzels, M., Odekerken-Schröder, G. and Van Oppen, C. (2009), "Using PLS path modeling for assessing hierarchical construct models: guidelines and empirical illustration", MIS Quarterly,
+pp. 177-195.
+
+
+Corresponding author
+Mahmoud Abdulai Mahmoud can be contacted at: mamahmoud@ug.edu.gh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com

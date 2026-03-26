@@ -1,0 +1,1149 @@
+Journal of Relationship Marketing
+
+ISSN: 1533-2667 (Print) 1533-2675 (Online) Journal homepage: http://www.tandfonline.com/loi/wjrm20
+
+The Effect of Trust, Commitment, and Conflict
+Handling on Customer Retention: The Mediating
+Role of Customer Satisfaction
+Mahmoud Abdulai Mahmoud, Robert Ebo Hinson & Maxwell Kofi Adika
+To cite this article: Mahmoud Abdulai Mahmoud, Robert Ebo Hinson & Maxwell Kofi Adika
+(2018): The Effect of Trust, Commitment, and Conflict Handling on Customer Retention:
+The Mediating Role of Customer Satisfaction, Journal of Relationship Marketing, DOI:
+10.1080/15332667.2018.1440146
+To link to this article: https://doi.org/10.1080/15332667.2018.1440146
+
+Published online: 21 May 2018.
+
+Submit your article to this journal
+
+Article views: 10
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=wjrm20
+
+JOURNAL OF RELATIONSHIP MARKETING
+, VOL. , NO. , –
+https://doi.org/./..
+
+The Eﬀect of Trust, Commitment, and Conﬂict Handling
+on Customer Retention: The Mediating Role of
+Customer Satisfaction
+Mahmoud Abdulai Mahmoud, Robert Ebo Hinson, and Maxwell Kofi Adika
+Department of Marketing and Entrepreneurship, University of Ghana Business School, University of
+Ghana, Accra, Ghana
+
+ABSTRACT
+
+KEYWORDS
+
+Previous studies have investigated drivers of customer retention
+in the mobile telecommunications industry worldwide. These
+studies call on scholars pay to attention to these factors in the
+scholarly marketing literature, since customer retention is the
+basic tenet of relationship marketing. Drawing on relationship
+marketing theory, this study analyzes the direct and indirect relationships amongst trust, commitment, and conflict handling on
+customer retention. A cross-sectional survey using a structured
+questionnaire was employed to gather data from customers
+of mobile telecommunication operators. The findings revealed
+that only conflict handling had a direct significant effect on
+customer retention. Also, trust and conflict handling had a direct
+and significant effect on customer satisfaction. However, trust
+and conflict handling were seen to have an indirect significant
+effect on customer retention via customer satisfaction. The study
+recommends that managers should effectively resolve customer
+complaints as well as build their trustworthiness in order to
+satisfy and retain their customers.
+
+commitment; conﬂict
+handling; customer
+retention; customer
+satisfaction; mediating; trust
+
+Introduction
+An increasing number of studies have been undertaken to establish the link between
+RM theory and customer retention (Rizan, Warokka, & Listyawati, 2014). These
+studies often tend to view RM as a single construct, even though RM has been conceptualized as a composite of several constructs (Narteh, Agbemabiese, Kodua, &
+Braimah, 2013; Ndubusi & Wah, 2005). Few studies have been undertaken to identify the interplay between each RM practice, such as customer trust, commitment
+of employees, and conflict handling effects, on customer retention (Kjaernes, 2006;
+Liu & Louvieris, 2006; Ndubisi & Wah, 2005). Also, several studies have failed to
+establish a relationship among each of the constructs through the mediating roles
+of customer satisfaction and customer retention, even though customer satisfaction
+CONTACT Mahmoud Abdulai Mahmoud
+Legon.
+©  Taylor and Francis Group, LLC
+
+mamahmoud@ug.edu.gh
+
+UGBS, P.O. Box LG , University of Ghana,
+
+2
+
+M. A. MAHMOUD ET AL.
+
+has been identified as an intervening factor between relationship marketing practices and customer retention (Hennig-Thurau & Klee, 1997; Narteh et al., 2013;
+Ndubisi & Wah, 2005; Rizan et al., 2014). Based on these observations, it will be
+interesting to investigate the RM variables’ relationship with customer retention
+using mobile telecommunication as a context. Several reasons account for the use
+of mobile telecommunications, as highlighted in the ensuing paragraphs.
+The mobile telecommunications industry in Ghana is recognized as one of the
+most competitive sectors of the country. Within the last decade, the telecommunications industry in Ghana has experienced a massive growth of service providers and
+subscriber base (GSMA, 2015). The growth of the sector can basically be attributed
+to the positive economic outlook of the country. Mobile phone services were first
+introduced into the Ghanaian market in March 1992 by Millicom International
+Cellular with its Mobitel Brand, as a result of the deregulation of the sector. The
+introduction of mobile phones in the country contributed significantly to the liberalization of the sector. Mahmoud and Hinson (2012) submit that the liberalization
+created a competitive market to generate growth and innovation in the telecom
+sector by eliminating the very poor service and low penetration rates in the country.
+Since the introduction of mobile telephony communication in 1992, Ghana has
+become one of Africa’s most developed mobile markets, with more than half of the
+population having access to mobile phone services (GSMA, 2015). According to
+GSMA (2015), Ghana’s mobile telecommunications industry, compared with many
+African countries, has a well-connected mobile market with network coverage in
+up to 95% of the country.
+According to the NCA (2015), the mobile telecommunications environment in
+Ghana shares many characteristics with other markets on the continent, such as predominantly prepaid customers, the availability of multiple competing mobile networks, and a proportion of customers who have accounts and SIM cards from more
+than one of the networks. The mobile telecommunications market in Ghana has
+become very competitive, which is evidenced by the falling prices of mobile telephony services. Furthermore, over the years, the telecommunications industry has
+experienced an array of innovations; for example, the introduction of wireless and
+3G broadband technologies in 2011 (Coffie & Owusu-Frimpong, 2014). Companies operating in the sector now have to serve customers under highly competitive
+conditions (Mahmoud & Hinson, 2012). To remain competitive in this industry, it is
+imperative that telecommunications firms understand the impact of customer trust,
+commitment, and conflict handling on their efforts to retaining their customers.
+This current article is intended to further knowledge on the direct and indirect
+link between relationship marketing constructs of trust, commitment, and conflict
+handling and customer retention. This article aims to investigate the link between
+the three constructs of RM and customer retention with customer satisfaction as a
+mediator. The article is structured as follows: we follow this section with a theoretical underpinning. Thereafter, a literature review on customer trust, commitment,
+conflict handling, customer retention, and customer satisfaction is presented. The
+subsequent section details the methodology adopted for the study, followed by an
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+3
+
+analysis of data and discussion of the research findings. The last section of this article focuses on drawing conclusions to the study, highlighting the recommendations
+for future studies and limitations of the study.
+Theoretical underpinning
+Relationship marketing (RM) theory emerged within the field of services marketing and industrial marketing (Berry, 1983; Christopher, Payne, & Ballantyne,
+1991; Jackson, 1985) and has gained considerable interest among academics
+and practitioners (Egan, 2004). A review of the RM theory reveals that it is
+conceived in diverse ways by different authors. In the opinion of Baran, Galka,
+and Strunk (2008), RM is a philosophy of managing relationships with stakeholders with emphasis on customer retention. Hunt, Arnett, and Madhavaram
+(2006) opine that relationship marketing theory explains that successful relationship marketing is created from a number of features of cooperative relationships. Du Plessis, Jooste, and Strydom (2005) conclude that relationship
+marketing focuses on establishing and maintaining relationships with customers. Eiriz and Wilson (2006) explain RM as the set of marketing activities
+oriented to establishing, developing, and maintaining relational exchanges with
+customers.
+Scholars in relationship marketing theorize its dimensions as follows: customer trust (Moorman, Deshpande, & Zaltman, 1993; Morgan & Hunt, 1994;
+Ndubisi, 2007); commitment (Morgan & Hunt, 1994; Ndubisi, 2007); conflict
+handling (Chan, 2004; Dwyer, Schur, & Oh, 1987); communication or sharing of
+secrets (Crosby, Evans, & Cowles, 1990; Morgan & Hunt, 1994); independence
+(Crosby et al., 1990); fulfillment of promises (Gummesson, 1990); competence
+(Chan, 2004); benevolence (Buttle, 1996); and empathy (Ndubisi, 2007). For
+the purposes of this study, RM was conceptualized as being composed of trust,
+commitment, and conflict handling. Trust and commitment have been identified as the basic building blocks of relationship marketing (Morgan & Hunt,
+1994). In addition, a study conducted by Roberts-Lombard (2011) found that
+conflict handling is one of the fundamental building blocks of RM. Likewise,
+a recent study by Kanyan, Andrew, Ali, and Beti (2015) revealed conflict handling as one of the most important dimensions of RM that influence customer
+retention.
+Literature review and hypotheses development
+Trust, commitment, conflict handling, and customer retention
+
+Gronroos (2000) found that customer retention is an important field of relationship
+marketing that is mainly concerned with keeping customers. Likewise, Menon and
+O’Connor (2007) see customer retention as the longevity of a client’s relationship
+with a product and/or service provider. This perspective of customer retention is
+
+4
+
+M. A. MAHMOUD ET AL.
+
+confirmed by Keiningham, Cooil, Aksoy, Andreassen, and Weiner (2007), who view
+customer retention as customers’ stated continuation of a business relationship with
+a firm. In a quantitative perspective, Buttle (2004) views customer retention as the
+number of customers of a firm at the end of a financial year expressed as a percentage of those who are active customers at the beginning of the year. In the telecom
+sector, Srinuan, Srinuan, and Bohlin (2014) refer to consumer retention as activities performed by the telecommunications service provider to establish long-term
+relationships with consumers in order to reduce consumer defections. Bruhn and
+Georgi (2006) also explain that firms with effective customer retention strategies
+are able to persuade customers to stay and patronize their offerings.
+Trust has been identified in several studies (Narteh et al., 2013; Ndubisi & Wah,
+2005; Roberts-Lombards, 2011) as an imperative element in developing relationships with customers. Trust is conceptualized as the willingness to rely on a partner
+in whom confidence is entrusted (Ndubisi, 2007). Roberts-Lombard and du Plessis
+(2012) state that, before a relationship can exist, both parties must mutually perceive that trust exists. From a customer’s perspective, trust can be seen as a desired
+product, at a fair price, and an ongoing mutually beneficial relationship between the
+customer and the company (Sauers, 2008). In this regard, Sauers (2008) is of the
+opinion that customers will trust organizations which they perceive to be honest.
+Ndubisi (2007) argues that trust is an underpinning of RM and has a positive influence on customer loyalty, leading to customer retention. Liang and Wang
+(2006) pointed out that trust has a significant positive impact on customer retention. Wong and Sohal (2002) associate higher levels of trust with a higher level of
+customer retention. Bowen and Shoemaker (2003) found that building customers’
+trust has an important role in ensuring customer retention.
+Roberts- Lombard (2011) identifies commitment as the belief by both parties in
+a relationship that the relationship is worth working on to ensure that it endures
+indefinitely. Rauyyruen and Miller (2007) identify commitment as a psychological
+sentiment of the mind in which an attitude concerning continuation of a relationship
+with a business partner is formed. According to Gummesson (2006), if the relationship is important and the parties rely on it, commitment is crucial for it to work. The
+literature identifies commitment to be higher among individuals who believe that
+they receive more value from relationships (Read, 2009; Sauers, 2008). This leads to
+customers creating positive impressions of the relationship, and exhibiting tendencies to stay longer in the relationship (Du Plessis, 2010).
+Moorman et al. (1993) consider commitment as essential to customer retention. According to Wong and Sohal (2002), a higher level of a service provider’s
+commitment in the relationship will impact positively on customer retention. A
+study by Evanschitzky, Iyer, Plassmann, Niessing, and Meffert (2006) suggested that
+commitment is seen as an essential antecedent to customer retention. Similarly, a
+study by White and Yanamandram (2007) concluded that commitment has a role
+in determining customer retention. Tu, Liu, and Chang (2015) postulate that committed customers have a more positive impression of their relationship with an
+organization and their intentions to remain in the relationship.
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+5
+
+Kuada and Hinson (2014) argue that customer complaint cannot be entirely
+avoided in the services industry. Conflict handling encompasses all activities by
+a supplier to avoid potential conflict, solve manifested conflicts before they create problems, and the ability to openly discuss solutions when problems arise
+(Ndubisi & Wah, 2005). Hinson, Mohammed, and Mensah (2006) suggested that
+the sources of complaints involve mostly inefficiencies on the part of the service providers to provide timely solutions to customer complaints. Hinson et al.
+(2006) further explained the inefficiencies to include unexplained delays, rudeness, inflexibility on the part of the service provider, ineptitude, and incompetent
+service.
+Kuada and Hinson (2014) found that, even though complaints are sometimes
+undesirable, they serve as an important source of feedback to firms. Ndubisi (2007)
+suggests that customer retention can be created and reinforced by handling customer conflict efficiently. Egan (2004) explains that conflict handling is explicitly
+a means to restoring and strengthening long-term relationships with customers.
+Homburg and Furst (2005) argue that successful conflict handling has a strong effect
+on customer satisfaction and retention. In a study by Ndubisi and Wah (2005), they
+concluded that how conflict is handled will either ensure customer retention or the
+customer leaving for a competitor. Based on these arguments, the researchers propose the following hypotheses:
+H1a: There is a direct relationship between trust and customer retention in the mobile
+telecommunications sector of Ghana.
+H1b: There is a direct relationship between commitment and customer retention in the
+mobile telecommunications sector in Ghana.
+H1c: There is a direct relationship between conflict handling and customer retention in the
+mobile telecommunications industry in Ghana
+
+Trust, commitment, conflict handling, and customer satisfaction
+Satisfaction has been identified as the fundamental goal of marketing, since the core
+purpose of marketing is to satisfy customers. Zhang, Ye, Law, and Li (2010) observe
+that customer satisfaction is a complex phenomenon. Bloemer and Odekerken
+(2002) see customer satisfaction as a product of successful marketing strategies to
+create value for customers. Buttle (2004) explains that value is created by understanding customer requirements and meeting customer expectations. Earlier,
+customer satisfaction, according to Gengler and Leszczyc (1997), not only helps
+firms to measure the attitude of customers, but can be used by marketers to manage
+the relationship with customers. Essentially, customer satisfaction is crucial for
+organizations in creating long-term relationships with their customers (Arnett,
+German, & Hunt, 2003).
+Hutchinson, Singh, Svensson, and Mysen (2011) postulate that, if an exchange
+partner anticipates that they can rely on the other partner to act fairly, the partner
+
+6
+
+M. A. MAHMOUD ET AL.
+
+will be more satisfied with the relationship. A study by Teichert and Rose (2003)
+established a strong relationship between trust and customer satisfaction. They
+identified trust as a major element of the supplier-client relationship. Hutchinson
+et al. (2011) argue that a high level of trust in an exchange partner has a positive
+impact on satisfaction in a relationship. Several studies (Duarte & Davies, 2004; Lee,
+Lee, & Feick, 2001; Svensson, Mysen, & Payan, 2010) position trust as an antecedent
+to satisfaction.
+Ndubisi (2007) contends that the degree of customer satisfaction with the organization will depend on the commitment of the firm towards the relationship. According to Skarmeas, Katsikeas, Spyropoulou, and Salehi-Sangari (2008), satisfaction
+represents the focal outcome of the buyer-seller exchange relationship, which is
+unlikely to lead to future purchase intention and long-term relationship without
+commitment. Supporting this, Hutchinson et al. (2011) indicate that customer satisfaction will, in part, be influenced by the customer investment in maintaining the
+relationship. Also, Farrelly and Quester (2005) argue that commitment leads to customer satisfaction in an exchange relationship.
+Conflict handling, according to Gronroos (2004), is a non-billable service used
+by service organizations to create customer value. Gronroos (2004) further explains
+that the proper handling of customer complaints reflects the desire to make customer interest a priority, eventually improving customer satisfaction. A study by
+Narteh (2009) concluded that conflict handling has a significant outcome on customer satisfaction in a relationship. In summary, conflict handling significantly
+influences customer perception of services and their satisfaction. Based on these
+arguments, we propose that:
+H2a: There is a positive significant relationship between trust and customer satisfaction in
+the mobile telecommunications industry of Ghana.
+H2b: There is a positive significant relationship between commitment and customer satisfaction in the mobile telecommunications industry of Ghana.
+H2c: There is a positive significant relationship between conflict handling and customer
+satisfaction in the mobile telecommunications industry in Ghana.
+
+Customer satisfaction and customer retention
+According to Almossawi (2014), the relationship between customer satisfaction
+and retention has been widely researched. Several authors (Ranaweera & Prabhu,
+2003; Zeithaml, Bitner, & Gremler, 2009) suggest that customers can be retained by
+offering increased levels of satisfaction. According to Reichheld (1996), customer
+satisfaction prevents turnover and consolidates retention. Likewise, Jones, Mothersbaugh and Beatty (2002) argue that customer satisfaction is an important factor
+influencing customer retention; hence, customer satisfaction can be considered as
+an antecedent to customer retention. Based on these arguments, we propose the
+following hypothesis:
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+7
+
+H3a: There is a positive significant relationship between customer satisfaction and customer retention in the mobile telecommunications industry in Ghana.
+
+Customer satisfaction as a mediator among trust, commitment, conflict
+handling, and customer retention
+Karakostas, Kardaras, and Papathanassiou (2005) stated that about 71% of service
+firms implement relationship marketing strategies with the purpose of ensuring
+customer satisfaction, which will, in effect, prevent customers from switching to
+other service providers, hence retaining customers. A study conducted by Gerpott,
+Rams, and Schindler (2001) identifies that, overall, relationship marketing has an
+impact on customer satisfaction, which, in turn, influences customers’ intentions to
+terminate or continue the contractual relationship with service providers. Gomez,
+McLaughlin, and Wittink (2004) are of the view that customer satisfaction, as an
+antecedent of customer retention, is based on serving customers better than the
+competition and being perceived as offering superior service and value. It is therefore proposed that:
+H3b: Trust indirectly impacts customer retention through customer satisfaction in the
+mobile telecommunications industry in Ghana.
+H3c: Commitment indirectly impacts customer retention through customer satisfaction in
+the mobile telecommunications industry in Ghana.
+H3d: Conflict handling indirectly impacts customer retention through customer satisfaction in the mobile telecommunications industry in Ghana.
+
+Conceptual framework
+As shown in Figure 1, the framework establishes the relationship among relationship
+marketing practices, customer satisfaction, and customer retention.
+
+Figure . Conceptual framework of the study.
+
+8
+
+M. A. MAHMOUD ET AL.
+
+Research methodology
+The study adopts the descriptive and explanatory research purpose. Descriptive
+research purpose was used to describe the relationship between the independent and
+dependent variables under study. The suitability of using the explanatory method is
+to enable the researcher to identify the relationship between customer relationship
+variables, customer satisfaction, and customer retention, consistent with previous
+studies on relationship marketing and customer retention (see Narteh et al., 2013;
+Ndubisi, 2007). The population for the study comprised mobile phone subscribers in
+Ghana. However, the unit of analysis for this study was the customers of the top four
+mobile telecommunication service providers in Ghana. Subscribers of the top four
+mobile service providers account for almost 95% of the entire market base; hence,
+they form a significant representation of the market. The four mobile providers used
+in this study are MTN, Vodafone, Tigo, and Airtel.
+The survey technique of quantitative method for data collection was used for
+this study. Primary data were garnered directly in the form of responses from the
+administration of questionnaires. A self-completion structured questionnaire with
+closed questions was developed for the study. The questionnaire was divided into
+two main sections: A and B. Section A consists of personal information about the
+respondents, such as gender, age, highest educational level, and occupation.
+Section B is made up of questions on trust, commitment, conflict handling, customer satisfaction, and customer retention. In all, there were 17 items in this section. The first construct—“trust,” consisting of three questions—was adapted from
+studies of Narteh et al. (2013) and Ndubisi and Wah (2005). The second construct—
+“commitment,” which comprised three questions—was adapted from Narteh et al.
+(2013) and Ndubisi and Wah (2005). The “Conflict handling” dimension contained
+four questions which were adopted from Narteh et al. (2013) and Ndubisi and Wah
+(2005). Questions on customer satisfaction were adapted from Martin-Consuegra,
+Molina, and Esteban (2007). There were four questions on customer retention,
+which were adopted from Narteh et al. (2013). Primary data were gathered from
+the sample on a cross-sectional basis using a convenience sampling technique.
+Prior studies using the survey method adopted the convenience sampling method
+(Alshurideh, 2010; Arthur, Ahenkrah, & Asamoah, 2012; Narteh & Odoom, 2015).
+The sample was divided into four specific strata with a specified number of
+respondents expected from each stratum. This was used to get representation of
+customers of the telecommunications companies adopted for the study. The structured questionnaires were administered to 320 respondents of the four major mobile
+service providers in Ghana. Prior to the administration of data, questionnaires were
+collaboratively pretested on twenty five (25) selected respondents. Overall, 320 questionnaires were distributed, out of which 291 questionnaires were returned, representing a response rate of 90%, a reasonable response rate for a survey of this type
+(Malhotra, 2006). Data garnered from the study were analyzed using SPSS and
+Smart PLS. SPSS version 20 was used for the descriptive analysis of the variables,
+while Smart PLS 3 was used for structural equation modelling (SEM) to examine
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+9
+
+the structural component of the measurement and the structural model (Hair, Hult,
+Ringle, & Sarstedt, 2014).
+Presentation of results
+Respondent details
+
+Out of a total of 291 respondents, 168 were males, representing 57.7%. The remaining 123, representing 42.3%, were females. A significant 24% of the respondents were
+between the ages of 21 and 30 years. Almost a quarter of the respondents (29.2%)
+were between the ages of 31 and 40 years, followed by 15.5% between the ages of 41
+and 50 years. Furthermore, 12% of the respondents were less than 21 years old and
+the remaining 9.3% were more than 51 years old. In terms of education, 36.1% of
+the respondents have tertiary education, 34% have secondary school qualification,
+21.3% have basic education, and 8.6% have post-graduate education.
+Descriptive statistics
+Pallant (2003) suggests that data should first be subjected to descriptive analysis
+before validation and further analysis. Table 1 depicts the descriptive statistics of
+the variables used.
+Assessment of the measurement model
+Reliability and validity tests
+
+Convergent validity of the latent constructs was tested using confirmatory factor
+analysis (CFA) and average variance extracted (AVE) measures. From Table 2, it
+can be seen that the AVE values for all of the latent constructs exceed 0.5, which
+Table . Descriptive statistics of constructs.
+
+TR
+TR
+TR
+CT
+CT
+CT
+CH
+CH
+CH
+CH
+CS
+CS
+CS
+CR
+CR
+CR
+CR
+
+Items
+
+N
+
+Mean
+
+S.D.
+
+Fulﬁlls promise
+Consistent in quality
+Conﬁdence in service provider
+Committed to relationship
+Flexible service
+Care long term
+Problem solving promptly
+Service delivery compensation
+Solves problem before manifestation
+Listens to complaints
+Completely happy
+Good experience
+Overall satisfaction
+Recommend services
+Future patronage
+Emotionally attached
+WOM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+10
+
+M. A. MAHMOUD ET AL.
+
+Table . Content and convergent validity analysis for variables.
+Variables
+Trust
+TR
+TR
+TR
+Commitment
+CT
+CT
+CT
+Conﬂict handling
+CH
+CH
+CH
+CH
+Customer Satisfaction
+CS
+CS
+CS
+Customer Retention
+CR
+CR
+CR
+CR
+
+Factor Loadings
+
+AVE
+
+CR
+
+Cronbach’s Alpha
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+means that the latent variables are able to explain more than half of the variance
+of its indicators on average (see Götz, Liehr-Gobbers, & Krafft, 2009). Again, the
+empirical results indicate that the outer loadings score for all of the items was above
+0.50.
+In determining the reliability of the constructs, Cronbach’s alpha and composite
+reliability were used. From Table 3, for composite reliability, the entire construct
+was above the accepted value of 0.7. The results also indicate a Cronbach’s alpha of
+0.7 and above, which is adequate for quantitative studies, as advised by Hair et al.
+(2014). Hence, all of the requirements for convergent validity, construct reliability,
+internal reliability, and composite reliability are achieved.
+Discriminant validity measures
+Discriminant validity ensures that the items that measure a construct are unique in
+serving as indicators to the construct (Hair et al., 2014). It is indicated by the low
+correlation between the measure of interest and the measures of other constructs
+(Cheung & Lee, 2010). The AVE was used to assess the discriminant validity.
+Table . Discriminant validity of variables.
+
+Commitment ()
+Conﬂict Handling ()
+Trust ()
+Customer Satisfaction ()
+Customer Retention ()
+
+
+
+
+
+
+
+
+
+
+
+0.82
+.
+.
+.
+.
+
+0.73
+.
+.
+.
+
+0.83
+.
+.
+
+0.92
+.
+
+0.84
+
+Note: The diagonals represent the square root of the average variance extracted while the other entries represent the
+squared correlation.
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+11
+
+Table . Direct path relationship between variables.
+Path
+Trust -> Customer Retention
+Trust -> Customer Satisfaction
+Commitment -> Customer Retention
+Commitment -> Customer Satisfaction
+Conﬂict Handling -> Customer Retention
+Conﬂict handling -> Customer Satisfaction
+Customer Satisfaction -> Customer Retention
+
+Coeﬃcient
+
+t-value
+
+p-value
+
+.
+.
+− .
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+Note: t >., p < ..
+
+In Table 3, as noted by Hair et al. (2014), the squared correlation for each
+construct should be less than the square root of the AVE of the indicators measuring
+the construct. The results indicate that, truly, the indicators are unique in measuring the construct and hence there are no higher correlations between the constructs
+(Hair et al., 2014). In summary, the recommended guidelines for the measurement
+model show adequate convergent and discriminant validity. Therefore, it can be concluded that the measuring properties and structural relationships indicate acceptable validity and reliability.
+Direct effect of trust, commitment, and conflict handling on customer
+retention
+In order to analyze the effects of trust, commitment, and conflict handling on customer retention, the coefficient and t-values and p-values of the respective dimensions were measured against customer retention as the dependent variable. From
+Figure 2, Figure 3 and Table 4, it can be seen that RM of trust (β = 0.10, t = 1.77,
+
+Figure . Structural modelw with path coeﬃcients and t-values.
+
+12
+
+M. A. MAHMOUD ET AL.
+
+Figure . Structural model with path coeﬃcients and p-values.
+
+p = 0.08) and commitment (β = –0.03, t = 0.67, p = 0.51) did not have a direct
+significant relationship with customer retention. However, conflict handling (β =
+0.30, t = 6.04, p = 0.00) had a significant relationship with customer retention.
+Effect of trust, commitment, and conflict handling on customer satisfaction
+Table 4 indicates that trust (β = 0.44, t = 6.64, p = 0.00) and conflict handling
+(β = 0.36, t = 7.46, p = 0.00) had a positive relationship with customer satisfaction.
+However, commitment (β = 0.01, t = 0.12, p = 0.91) did not have a significant
+relationship with customer satisfaction.
+Customer retention
+Effect of trust, commitment, and conflict handling on customer retention
+through customer satisfaction
+
+Table 5 depicts the indirect effect of trust, commitment, and conflict handling on
+customer retention through customer satisfaction. It can be observed that trust
+Table . Indirect eﬀect of trust, commitment, and conﬂict handling on customer retention.
+Path
+Trust -> Customer Retention
+Commitment -> Customer Retention
+Conﬂict handling -> Customer Satisfaction
+Note: t >., p < ..
+
+Coeﬃcient
+
+t-value
+
+p-value
+
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+13
+
+(β = 0.25, t = 5.6, p = 0.00) and conflict handling (β = 0.21, t = 6.02, p = 0.00) had
+a significant indirect relationship with customer retention via customer satisfaction. On the other hand, commitment (β = 0.00, t = 0.10, p = 0.92) did not have a
+significant indirect relationship with customer retention via customer satisfaction.
+
+Summary of hypotheses tests
+An analysis of path coefficient and the levels of significance of all of the hypothesis were undertaken. The results showed that six out of the 10 hypotheses were
+supported. From Table 6, it can be observed that the direct significant relationship
+between trust and customer retention was not accepted (t = 1.77). Similarly, the
+direct significant relationship between commitment and customer retention was
+not accepted (t = 0.67). However, the relationship between conflict handling and
+customer retention was accepted (t = 6.04). Furthermore, the positive relationship
+between trust and customer satisfaction was accepted (t = 6.64). Similarly, the positive relationship between conflict handling and customer satisfaction was accepted
+(t = 7.46). However, the positive relationship between commitment and customer
+satisfaction was not accepted (t = 0.12). Also, customer satisfaction was found to
+have a positive significant relationship with customer retention (t = 9.79). With
+regard to the indirect relationship, trust and conflict handling were found to have
+an indirect relationship with customer retention through customer satisfaction
+(t = 5.6 and t = 6.02, respectively). On the other hand, commitment was found not
+
+Table . Summary of hypotheses testing.
+Hypotheses
+Ha
+Hb
+Hc
+Ha
+Hb
+Hc
+Ha
+Hb
+Hc
+Hd
+
+Hypotheses Path
+
+t-value
+
+p-value
+
+Result
+
+Direct signiﬁcant relationship between trust and
+customer retention
+Direct signiﬁcant relationship between
+commitment and customer retention
+Direct signiﬁcant relationship between conﬂict
+handling and customer retention
+Signiﬁcant relationship between trust and
+customer satisfaction
+Signiﬁcant relationship between commitment
+and customer satisfaction
+Signiﬁcant relationship between conﬂict
+handling and customer satisfaction
+Signiﬁcant relationship between customer
+satisfaction and customer retention
+Customer satisfaction signiﬁcantly mediates the
+relationship between trust and customer
+retention
+Customer satisfaction signiﬁcantly mediates the
+relationship between commitment and
+customer retention
+Customer satisfaction signiﬁcantly mediates the
+relationship between conﬂict handling and
+customer retention
+
+.
+
+.
+
+Unsupported
+
+.
+
+.
+
+Unsupported
+
+.
+
+.
+
+Supported
+
+.
+
+.
+
+Supported
+
+.
+
+.
+
+Unsupported
+
+.
+
+.
+
+Supported
+
+.
+
+.
+
+Supported
+
+.
+
+.
+
+Supported
+
+.
+
+.
+
+Unsupported
+
+.
+
+.
+
+Supported
+
+Notes: t-values for two tailed test: . (signiﬁcant level = %).
+
+14
+
+M. A. MAHMOUD ET AL.
+
+to have an indirect relationship with customer retention via customer satisfaction
+(t = 0.1).
+Discussion
+The purpose of the study was to investigate the direct and indirect effects of trust,
+commitment, and conflict handling on customer retention via customer satisfaction. The study revealed a positive and significant relationship between trust and
+customer satisfaction in the telecommunications sector. This confirms the study of
+Chiou (2004), who identified that perceived trust has a positive effect on overall
+satisfaction of customers. The results demonstrate that ensuring trust is the most
+important RM practice that influences relationship quality and, in essence, the satisfactory level of customers. This underscores the argument that trust is the basic
+foundation of RM (Wong & Sohal, 2002). Similarly, a positive interplay was identified between conflict handling and customer satisfaction in the telecommunications sector of Ghana, which corroborates the findings of Gronroos (2004). This
+finding confirms the study of Narteh (2009) that conflict handling has a significant impact on customer satisfaction in the service industry. This implies that the
+ability of mobile telecommunications firms to prevent potential conflicts, as well as
+solve manifested conflicts, has a significant impact on customers’ satisfaction with
+the relationship. It was interesting to note that commitment was found not to relate
+significantly to customer satisfaction. This implies that mobile telecommunications
+service providers merely providing flexible services and committing to improving
+relationships do not effectively influence the customers’ post-purchase evaluation
+of services enjoyed.
+Per the findings of the study, trust and commitment were found not to have a
+direct significant relationship with customer retention in the telecommunications
+industry in Ghana. However, conflict handling was seen to have a direct significant relationship with customer retention. The significant relationship between conflict handling and customer retention reflects the findings of Narteh et al. (2013),
+who emphasized that when firms are able to handle service failures and successfully respond to customer complaints, customers return to patronize the services
+of the firm. It was also seen that trust and conflict handling indirectly affect customer retention through customer satisfaction, as suggested by Rizan et al. (2014)
+and Mostert and De Meyer (2010). Essentially, customer satisfaction mediates the
+effect of trust and conflict handling on customer retention (Ranaweera & Prabhu,
+2003; Zeithaml et al., 2009). The study indicates that customer satisfaction is a key
+driver of customer retention (Rizan et al., 2014).
+Conclusions, implications, and further research directions
+Relationship marketing has become an important marketing practice in fostering
+customer retention in the services sector. The essence of relationship marketing is
+to build a long-term relationship with the customer in order to reduce customer
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+15
+
+switching behavior as a means of ensuring customer retention. The study, therefore,
+examined the direct and indirect relationships between relationship marketing
+practices of trust, commitment, and conflict handling and customer retention in
+the telecommunications industry of Ghana. Hypotheses based on the literature
+were formulated to test the relationship between the constructs in the conceptual framework. The findings of this study demonstrated that trust and conflict
+handling are significantly related with customer satisfaction, with only conflict
+handling showing a direct relationship with customer retention. However, trust and
+conflict handling were found to have a direct relationship with customer retention
+via customer satisfaction.
+This study makes significant contributions to both practice and academia. The
+findings of the study are crucial for management of telecommunications companies.
+The findings of the study recognize that customer retention is influenced by the
+level of customer satisfaction. This finding, in turn, has important implications.
+Managers should focus their RM practices on improving customer satisfaction,
+which will invariably increase customer retention. In order to do this, mobile
+telecommunications service providers in Ghana should fulfill their promises, consistently provide quality network services, and maintain their integrity. In doing
+do, firms in the industry should make realistic and achievable promises which they
+can fulfill, and continually train their employees, especially their customer care
+representatives, in how to be professional in their dealings with customers.
+Based on the findings, conflict handling was identified as an important indicator
+of both customer satisfaction and customer retention. Therefore, it is paramount for
+mobile service providers to develop and implement a comprehensive and effective
+conflict and complaint management system in order to address service failures and
+other forms of conflicts. Mobile service providers should make it possible and easy
+for customers to make such complaints. Again, service providers should make the
+necessary efforts to solve complaints promptly, and if they cannot be rectified immediately, they should inform customers when they will be able to solve these issues.
+Similarly, it is important that mobile service providers compensate customers for
+service failures. Customer care personnel should also be trained in how to handle
+customer complaints without aggravating the situation.
+Although the research provides significant insights, it is subject to some limitations. To begin with, the use of a cross-sectional survey for data collection makes
+it difficult to determine equivocally the time sequence of relationships between
+RM practices and customer retention. Therefore, future studies should consider
+undertaking a longitudinal study to offer more insight on the data collected.
+Also, data were collected only from the perspectives of the subscribers of mobile
+telecommunications services, without considering the opinion of the management
+of the network service providers. In order to have a broader understanding of the
+effect of RM practices on customer retention, future research should consider incorporating the perspectives of both subscribers and the management of the network
+service providers.
+
+16
+
+M. A. MAHMOUD ET AL.
+
+References
+Almossawi, M. M. (2014). Customer satisfaction in the mobile telecom industry in Bahrain:
+Antecedents and consequences. International Journal of Marketing Studies, 4(6), 87–94.
+Alshurideh, M. T. (2010). Customer service retention: A behavioural perspective of the UK mobile
+market (Masters thesis). Durham University, Durham, UK.
+Arnett, D. B., German, S. D., & Hunt, S. D. (2003). The identity salience model of relationship
+marketing success: The case of non-profit marketing. Journal of Marketing, 67(2), 89–105.
+doi:10.1509/jmkg.67.2.89.18614
+Arthur, Y., Ahenkrah, K., & Asamoah, D. (2012). Determinants analysis of customer switching
+behaviour in Ghanaian telecommunication industry: An exploratory and inferential study.
+International Journal of Business and Social Research, 2(5), 105–112.
+Baran, R. J., Galka, R. J., & Strunk, D. P. (2008). Principles of customer relationship management.
+Ohio: Thomson South-Western.
+Berry, L. L. (1983). Relationship marketing. In L. L. Berry, G. L. Shostack, & G. D. Upsay (Eds.),
+Emerging perspectives on service marketing: Proceedings of services marketing conference,
+American Marketing Association, Chicago, IL, 25–28.
+Bloemer, J., & Odekerken-Schroder, G. (2002). Store satisfaction and store loyalty explained by
+customer and store related factors. Journal of Consumer Satisfaction, Dissatisfaction and Complaining Behaviour, 15, 68–80.
+Bowen, J. T., & Shoemaker, S. (2003). Loyalty: A strategic commitment. Cornell Hotel and Restaurants Administration Quarterly, 44(56), 31–46.
+Bruhn, M., & Georgi, D. (2006). Services marketing: Managing the service value chain. Harlow,
+England: Prentice Hall.
+Buttle, F. (1996). Relationship marketing. In F. Buttle (Ed.), Relationship marketing: Theory and
+practice (pp. 1–16). London, England: Paul Chapman Publishing.
+Buttle, F. (2004). Customer relationship management: Concepts and tools. Oxford, England:
+Butterworth-Heinemann.
+Chan, K. W. (2004). Examining the antecedents of relationship quality, customer satisfaction and
+customer loyalty (MBA thesis). University of Malaysia, Sabah, Kota, Malaysia.
+Cheung, C. M. K., & Lee, M. K. O. (2010). A theoretical model of intentional social action in
+online social networks, Decision Support Systems, 49(1), 24–30. doi:10.1016/j.dss.2009.12.006
+Chiou, J. S. (2004). The antecedents of consumer’s loyalty towards Internet service providers.
+Information and Management, 41(6), 685–695. doi:10.1016/j.im.2003.08.006
+Christopher, M., Payne, A., & Ballantyne, D. (1991). Relationship marketing: Bringing quality,
+customer service and marketing together. Oxford, England: Butterwort-Heinemann.
+Coffie, S., & Owusu-Frimpong, N. (2014). Alternative positioning strategies for services in Ghana.
+Thunderbird International Business Review, 56(6), 531–546. doi:10.1002/tie.21652
+Crosby, L. A., Evans, K. R., & Cowles, D. (1990). Relationship quality in services selling: An interpersonal influence approach. Journal of Marketing, 54(7), 68–81. doi:10.2307/1251817
+Duarte, M., & Davies, G. (2004). Trust as a mediator of channel power. Journal of Marketing
+Channels, 11(2/3), 77–102. doi:10.1300/J049v11n02_05
+Du Plessis, L. (2010). Customer relationship management and its influence on customer loyalty at
+Liberty Life in South Africa. University of Johannesburg.
+Du Plessis, P. J., Jooste, C. J., & Strydom, J. W. (2005). Applied strategic marketing (2nd ed.).
+Sandton, South Africa: Heinemann.
+Dwyer, F. R., Schur, P. H., & Oh, S. (1987). Developing buyer-seller relationships. Journal Marketing, 51(2), 11–27. doi:10.2307/1251126
+Egan, J. (2004). Relationship marketing, exploring relational strategies in marketing (2nd ed.).
+Essex, England: Pearson Education Limited.
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+17
+
+Eiriz, V., & Wilson, D. (2006). Research in relationship marketing: Antecedents,
+traditions and integration, European Journal of Marketing, 40(3/4), 275–291.
+doi:10.1108/03090560610648057
+Evanschitzky, H., Iyer, G. R., Plassmann, H., Niessing, J., & Meffert, H. (2006). The relative
+strength of affective commitment in securing loyalty in service relationships. Journal of Business Research, 59(12), 1207–1213. doi:10.1016/j.jbusres.2006.08.005
+Farrelly, F. J., & Quester, P. G. (2005). Examining important relationship quality constructs
+of the focal sponsorship exchange. Industrial Marketing Management, 34(3), 211–219.
+doi:10.1016/j.indmarman.2004.09.003
+Ganguli, S., & Roy, S. K. (2011). Generic technology-based service quality dimensions in banking:
+Impact on customer satisfaction and loyalty, International Journal of Bank Marketing, 29(2),
+168–189. doi:10.1108/02652321111107648
+Gengler, C. E., & Leszczy, P. T. L. (1997). Using customer satisfaction research for relationship marketing: A direct marketing approach. Journal of Direct Marketing, 11(1), 23–29.
+doi:10.1002/(SICI)1522-7138(199724)11:1%3c23::AID-DIR3%3e3.0.CO;2-0
+Gerpott, T., Rams, W., & Schindler, A. (2001). Customer retention, loyalty and satisfaction in
+the German mobile cellular telecommunications market. Telecommunications Policy, 25(4),
+247–269. doi:10.1016/S0308-5961(00)00097-5
+Gomez, M. I., McLaughlin, E. W., & Wittink, D. R. (2004). Customer satisfaction and
+retail sales performance: An empirical investigation. Journal of Retailing, 80(4), 265–278.
+doi:10.1016/j.jretai.2004.10.003
+Götz, O., Liehr-Gobbers, K., & Krafft, M. (2009). Evaluation of structural equation models using
+the partial least squares (PLS) approach. In V E. Vinzi, W. W. Chin, J. Heneseler, & H.
+Wang (Eds.), Handbook of partial least squares: Concepts, methods and applications. Berlin,
+Germany: Springer.
+Grönroos, C. (2000). Service management and marketing: A customer relationship approach.
+Chichester, England: John Wiley.
+Gronroos, C. (2004). The relationship marketing process: Communication, interaction, dialogue, value. Journal of Business and Industrial Marketing, 19(2), 99–113.
+doi:10.1108/08858620410523981
+GSMA. (2015). Digital inclusion and mobile taxation in Ghana. Deloitte. Retrieved from
+https://www.gsma.com/publicpolicy/wp-content/uploads/2016/09/GSMA2015_Report
+_DigitalInclusionAndMobileSectorTaxationInGhana.pdf
+Gummesson, E. (1990). The part-time marketer. Karlstad, Sweden: Centre for Service Research.
+Gummesson, E. (2006). Implementing the market concept: From service and value to lean consumption. Marketing Theory, 6(3), 291–293.
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2014). A primer on partial least square
+structural equation modeling (PLS-SEM). Los Angeles, CA: Sage Publications.
+Hennig-Thurau, T., & Klee, A. (1997). The impact of customer satisfaction and relationship
+quality on customer retention: A critical reassessment and model development. Psychology and Marketing, 14(8), 737–764. doi:10.1002/(SICI)1520-6793(199712)14:8%3c737::AIDMAR2%3e3.0.CO;2-F
+Hinson, R., Mohammed, A., & Mensah, R. (2006). Determinants of Ghanaian bank service quality
+in a universal banking dispensation. Banks and Bank Systems, 1(2), 69–81.
+Homburg, C., & Fürst, A. (2005). How organizational complaint handling drives customer loyalty: An analysis of the mechanistic and the organic approach. Journal of Marketing, 69(3),
+95–114. doi:10.1509/jmkg.69.3.95.66367
+Hunt, S., Arnett, D., & Madhavaram, S. (2006). The explanatory foundations of relationship marketing theory. Journal of Business and Industrial Marketing, 21(2), 72–87.
+doi:10.1108/10610420610651296
+
+18
+
+M. A. MAHMOUD ET AL.
+
+Hutchinson, D., Singh, J., Svensson, G., & Mysen, T. (2011). Antecedents and postcedents of satisfaction in business relationships in Canada. International Journal of Logistics Economics and
+Globalisation, 3(4), 189–206. doi:10.1504/IJLEG.2011.044960
+Jones, M. A., Mothersbaugh, D. L., & Beatty, S. E. (2002). Why customers stay: Measuring the
+underlying dimensions of services switching costs and managing their differential strategic
+outcomes. Journal of Business Research, 55(6), 441–51.
+Jackson, B. B. (1985). Build customer relationships that last. Harvard Business Review, 63,
+120–128.
+Kanyan, A., Andrew, J., Ali, J. K., & Beti, M. M. (2015). Building customer relationship for gaining
+customer loyalty in the pharmaceutical industry. Journal of Advanced Management Science,
+3(4), 319–321. doi:10.12720/joams.3.4.319-322
+Karakostas, B., Kardaras, D., & Papathanassiou, E. (2005). The state of CRM adoption by the
+financial services in the UK: An empirical investigation. Information and Management, 42(6),
+853–863. doi:10.1016/j.im.2004.08.006
+Keiningham, T. L., Cooil, B., Aksoy, L., Andreassen, T. W., & Weiner, J. (2007). The
+value of different customer satisfaction and loyalty metrics in predicting customer retention, recommendation, and share-of wallet. Managing Service Quality, 17(4), 361–384.
+doi:10.1108/09604520710760526
+Kjaernes, U. (2006). Trust and distrust: Cognitive decisions or social relations? Journal of Risk
+Research, 9(8), 911–932. doi:10.1080/13669870601065577
+Kuada, J., & Hinson, R. (2014). Service marketing in Ghana: A customer relationship management
+approach. London, England: Adonis & Abbey Publishers Ltd.
+Lee, J., Lee, J., & Feick, L. (2001). The impact of switching costs on the customer satisfaction—
+loyalty link: Mobile phone service in France. Journal of Services Marketing, 15(1), 35–48.
+doi:10.1108/08876040110381463
+Liang, C. J., & Wang, W. H. (2006). The behavioural sequence of the financial services industry in
+Taiwan: Service quality, relationship quality and behavioural loyalty. The Services Industries
+Journal, 26(2), 119–145. doi:10.1080/02642060500369131
+Liu, L., & Louvieris, P. (2006). Managing customer retention in the UK online banking
+sector. International Journal of Information Technology & Management, 5(4), 295–307.
+doi:10.1504/IJITM.2006.012043
+Mahmoud, M. A., & Hinson, R. (2012). Market orientation, innovation and corporate social
+responsibility practices in Ghana’s telecommunications sector. Social Responsibility Journal,
+8(3), 327–346.
+Malhotra, N. K. (2006). Marketing research: An applied orientation (5th ed.), London, England:
+Prentice-Hall.
+Martin-Consuegra, D., Molina, A., & Esteban, A. (2007). An integrated model of price, satisfaction, and loyalty: An empirical analysis in the service sector. Journal of Product & Brand
+Management, 16(7), 459–68.
+Menon, K., & Connor, O. (2007). Building customer’s affective commitment towards retail banks:
+The role of CRM in each moment of truth. Journal of Financial Services Marketing, 12(2),
+157–168. doi:10.1057/palgrave.fsm.4760068
+Moorman, C., Deshpande, R., & Zaltman, G. (1993). Relationship between providers and users of
+market research: The role of personal trust, Marketing Science Institute, Cambridge, MA.
+Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship marketing.
+Journal of Marketing, 58(3), 20–38. doi:10.2307/1252308
+Mostert, P., & De Meyer, C. (2010). Building customer relationships as retention strategy
+in the South African domestic passenger airline industry. Acta Commercii, 10(1), 27–42.
+doi:10.4102/ac.v10i1.110
+Narteh, B. (2009). Relationship marketing and customer satisfaction in the Ghanaian banking
+sector. Journal of Retail Marketing Management Research, 2(1), 15–29.
+
+JOURNAL OF RELATIONSHIP MARKETING
+
+19
+
+Narteh, B., Agbemabiese, G. C., Kodua, P., & Braimah, M. (2013). Relationship marketing and
+customer loyalty: Evidence from the Ghanaian luxury hotel industry. Journal of Hospitality
+Marketing and Management, 22(4), 407–436. doi:10.1080/19368623.2012.660564
+Narteh, B., & Odoom, R. (2015). Does internal marketing influence employee loyalty? Evidence from the Ghanaian banking industry. Services Marketing Quarterly, 36(2), 112–135.
+doi:10.1080/15332969.2015.1014237
+National Communication Authority (NCA). (2015). Mobile number portability. Retrieved from
+http://www.nca.org.gh/72/93/Mobile-Number-Portability.html
+Ndubisi, N. O. (2007). Relationship marketing and customer loyalty. Marketing Intelligence and
+Planning, 25(1), 98–106. doi:10.1108/02634500710722425
+Ndubisi, N. O., & Wah, C. K. (2005). Factorial and discriminant analyses of the underpinnings
+of relationship marketing and customer satisfaction. International Journal of Bank Marketing,
+23(7), 542–557. doi:10.1108/02652320510629908
+Pallant, J. (2003). SPSS survival manual: A step by step guide to data analysis using SPSS for Windows (1st ed.). Sydney, Australia: Allen & Unwin.
+Ranaweera, C., & Prabhu, J. (2003). The influence of satisfaction, trust and switching barriers
+on customer retention in a continuous purchasing setting. International Journal of Service
+Industry Management, 14(4), 374–395. doi:10.1108/09564230310489231
+Rauyruen, P., & Miller, K. E. (2007). Relationship quality as a predictor of B-to-B customer loyalty.
+Journal of Business Research, 60(1), 21–31. doi:10.1016/j.jbusres.2005.11.006
+Read, B. (2009). Top tips to build and keep customer loyalty with CRM. Customer Interaction
+Solutions, 27(9), 26–28.
+Reichheld, F. (1996). Learning from customer defection. Harvard Business Review, 56–59.
+Rizan, M., Warokka, A., and Listyawati, D. (2014). Relationship marketing and customer loyalty:
+Do customer satisfaction and customer trust really serve as intervening variables? Journal of
+Marketing Research and Case Studies, 2014, 1–12.
+Roberts-Lombard, M. (2011). Customer retention through customer relationship management:
+The exploration of two way communication and conflict handling. African Journal of Business
+Management, 5(9), 3487–3496.
+Roberts-Lombard, M., & du Plessis, L. (2012). Customer relationship management (CRM) in
+a South African service environment: An exploratory study. African Journal of Marketing
+Management, 4(4), 152–165.
+Sauers, A. C. (2008). Effective customer relationship management. New York, NY: Cambria Press.
+Skarmeas, D., Katsikeas, C., Spyropoulou, S., & Salehi-Sangari, E. (2008). Market and
+supplier characteristics driving distributor relationship quality in international marketing channels of industrial products. Industrial Marketing Management, 37(1), 23–26.
+doi:10.1016/j.indmarman.2007.04.004
+Srinuan, P., Srinuan, C., & Bohlin, E. (2014). An empirical analysis of multiple services and
+choices of consumer in the Swedish telecommunications market. Telecommunications Policy,
+38(5), 449–459. doi:10.1016/j.telpol.2014.03.002
+Svensson, G., Mysen, T., & Payan, J. (2010). Balancing the sequential logic of quality constructs
+in manufacturing-supplier relationships: Causes and outcomes. Journal of Business Research,
+63(11), 1209–1214. doi:10.1016/j.jbusres.2009.10.019
+Teichert, T., & Rose, K. (2003). Trust, involvement profile and customer retention modelling,
+effects and implications. International Journal of Technology Management, 26(5/6), 621–639.
+doi:10.1504/IJTM.2003.003426
+Tu, Y.-T., Liu, W. C., & Chang, Y.-Y. (2015). Customer commitment: A mediating variable between
+corporate brand image and customer loyalty. Journal of Education and Vocational Research,
+5(1), 17–27.
+
+20
+
+M. A. MAHMOUD ET AL.
+
+Verbekea, W., Dejaegera, K., Martensb, D., Hurc, J., & Baesensa, B. (2012). New insights into
+churn prediction in the telecommunication sector: A profit driven data mining approach.
+European Journal of Operational Research, 218(1), 211–229.
+Vranakis, S., Chatzoglou, P., & Mpaloukas, A. (2012). Customer satisfaction of Greek mobile
+phone services. International Journal of Managing Value and Supply Chains, 3(4), 43–54.
+doi:10.5121/ijmvsc.2012.3404
+White, L., & Yanamandram, V. (2007). A model of customer retention of dissatisfied business services customers. Managing Service Quality, 17(3), 298–316. doi:10.1108/09604520710744317
+Wong, A., & Sohal, A. (2002). An examination of the relationship between trust, commitment
+and relationship quality. International Journal of Retail and Distribution Management, 30(1),
+34–50. doi:10.1108/09590550210415248
+Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2009). Services marketing: Integrating customer
+focus across the firm (5th ed.). Boston, MA: McGraw-Hill Irwin.
+Zhang, Z., Ye, Q., Law, R., & Li, Y. (2010). The impact of e-word-of-mouth on the online popularity of restaurants: A comparison of consumer reviews and editor reviews. International
+Journal of Hospitality Management, 29(4), 694–670. doi:10.1016/j.ijhm.2010.02.002
+
+

@@ -1,0 +1,1643 @@
+The Service Industries Journal
+
+ISSN: 0264-2069 (Print) 1743-9507 (Online) Journal homepage: http://www.tandfonline.com/loi/fsij20
+
+Customer behavioural intentions towards mobile
+money services adoption in Ghana
+Bedman Narteh, Mahmoud Abdulai Mahmoud & Simon Amoh
+To cite this article: Bedman Narteh, Mahmoud Abdulai Mahmoud & Simon Amoh (2017):
+Customer behavioural intentions towards mobile money services adoption in Ghana, The Service
+Industries Journal, DOI: 10.1080/02642069.2017.1331435
+To link to this article: http://dx.doi.org/10.1080/02642069.2017.1331435
+
+Published online: 05 Jun 2017.
+
+Submit your article to this journal
+
+Article views: 68
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=fsij20
+Download by: [The UC San Diego Library]
+
+Date: 08 June 2017, At: 22:42
+
+THE SERVICE INDUSTRIES JOURNAL, 2017
+https://doi.org/10.1080/02642069.2017.1331435
+
+Customer behavioural intentions towards mobile money
+services adoption in Ghana
+Bedman Narteh, Mahmoud Abdulai Mahmoud and Simon Amoh
+Marketing & Entrepreneurship, University of Ghana, Accra, Legon, Ghana
+ABSTRACT
+
+ARTICLE HISTORY
+
+This study examined the determinants of mobile money service
+usage intentions and assessed the effect of social influence (SI) on
+mobile money services adoption and behavioural intentions (BIs).
+The sample of the study comprised 300 mobile money service
+users in Ghana. Guided by the conceptual framework and two
+theories identified to have an effect on technology adoption and
+consumer behaviour, eight hypotheses were developed and
+tested using Structural Equation Modelling Techniques. It is
+discovered that perceived ease of use, perceived usefulness,
+perceived trust and perceived cost of use have a strong influence
+on mobile money service usage. The study found SI to have a
+significant effect on the adoption and BI. Providers ensure that
+their mobile application services are simple to operate, fulfil
+specific consumers’ needs, protect consumers’ accounts to ensure
+trust and are affordable, hence positively influencing consumers’
+adoption of services.
+
+Received 9 January 2017
+Accepted 12 May 2017
+KEYWORDS
+
+Mobile banking; mobile
+money services; customer
+behavioural intentions;
+Ghana
+
+Introduction
+Mobile phone coverage and adoption in sub-Saharan Africa have increased substantially
+over the past decade (PWC, 2016). Until 1999, less than 1% of the populace had access to
+mobile phones and this has increased to over 55% (GSMA, 2009). In Ghana in particular,
+mobile phone adoption and usage have increased from 150,000 mobile phone subscribers
+in 2000 to approximately 11 million subscribers in 2009 (Wireless Intelligence, 2012). This
+number keeps growing due to the services of telecommunication operators across the
+continent. One of such new services is the mobile money, which, according to Aker and
+Mbiti (2010), is a product that allows clients to use text messages to store value in an
+account accessible by the handset, convert cash in and out of the stored value account,
+and transfer value between users. Due to technological development, mobile phones
+are used to make payments, send money to family members and store monetary value
+safely in Ghana.
+Seven years after the launch of the first mobile money solution in Ghana, the service can
+be said to be a game changer in the country’s financial services industry (PWC, 2016). From
+a modest start in 2009, mobile money solutions now account for cash flows that compare
+CONTACT Mahmoud Abdulai Mahmoud
+Ghana, Box LG 78 Accra, Legon, Ghana
+
+mamahmoud@ug.edu.gh
+
+© 2017 Informa UK Limited, trading as Taylor & Francis Group
+
+Marketing & Entrepreneurship, University of
+
+2
+
+B. NARTEH ET AL.
+
+with aggregate deposits of commercial banks in the country. Bank of Ghana (BOG) publication indicated that the value of mobile money transactions in 2015 was GH¢35.4b, up
+from GH¢11.2b in 2014. Clearly, this shows a rise that evidences the acceptance of the
+service and demonstrates its relevance in attaining a cash-lite economy in Ghana.
+The Ghana mobile telecommunication industry (GMTI) is one of the keenly competitive
+markets in sub-Sahara Africa with six major international players (Yeboah-Asiamah,
+Nimako, Quaye, & Buame, 2016) and has been regarded as one of the powerful economic
+sectors in the Ghanaian economy (Mahmoud & Hinson, 2012). Mobile phone subscription
+as of December 2016 stood at 38,305,078, representing 135.92% penetration rate. Mobile
+money subscription within this same period stood at 19,735,098, also representing a penetration rate of 51.52%. (NCA, 2016), signifying an upsurge in mobile money usage. There
+has been a rapid growth in the mobile money services business in Ghana over the past
+years. The introduction of mobile money services in Ghana has transformed how business
+operates (Tobbin & Kowornu, 2011). For example, most service providers and retail outlets
+encourage mobile money subscribers to pay directly for products and services from their
+mobile money wallet in order to avoid the use of physical cash payment. Consumers have
+quick access to their monies when it is on their phone than going through the rigid requirements of opening bank accounts and queuing at banks to effect minor cash transactions. It
+will be of interest to academicians and practitioners to understand factors that influence
+mobile money service adoption so as to develop policies that will enhance and sustain
+the use of mobile money services, especially in developing economies such as Ghana.
+Interestingly, researchers have investigated and reported some factors that may influence mobile money adoption (Aker & Mbiti, 2010; Dermish, Kneiding, Leishman, & Mas,
+2011; Gencer, 2011; Kleijnen, Lee, & Wetzels, 2009; Kusimba, Chaggar, Gross, & Kunyu,
+2013; Mehrtens, Cragg, & Mills, 2011; Osei-Assibey, 2014). Mehrtens et al. (2011) indicate
+that the adoption of mobile money services by consumers is influenced by factors such
+as perceived benefits, readiness, external pressures, changes in structure, skills and openness to external sources of information. Consumers may resist a product uptake when the
+adoption or use of the product requires significant alterations in the consumers’ value
+systems, as well as their established behavioural patterns, norms, habits and traditions
+(Kleijnen et al., 2009). In the Ghanaian context, Osei-Assibey (2014) studied the drivers
+of behavioural intention (BI) of mobile money adoption among indigenous money collectors (called susu). The study found perceived risk (PR), education level, relative advantage
+and the age of the collector to be statistically significant in influencing the BI of mobile
+money services adoption.
+According to Aker and Wilson (2013), deciding to use mobile money services often
+depends on the usage by the members of one’s social network (which is particularly an
+issue for mobile money transfers). Individual customers live in a sociocultural environment
+and, as a result, some social influence (SI) might affect either positively or otherwise their
+decisions towards the usage of a particular payment system (Kuhlmeier & Knight, 2005;
+Mohd Suki, 2013; Tian, Shi, & Yang, 2009). SI is defined as the degree to which an individual’s friends, family members and other close relatives perceive the importance to use a
+system (Ajzen & Fishbein, 1980; Choi, Choi, Kim, & Yu, 2003; Venkatesh, Morris, Davis, &
+Davis, 2003). Mohd Suki (2013) argue that certain customers are mindful of what they purchase or use and, thus, whether their friends would like the product or the product would
+fit in with their social group.
+
+THE SERVICE INDUSTRIES JOURNAL
+
+3
+
+Considering the performance of the Mobile Money (MM) business in Ghana and the
+varying factors put forward by scholars (Kusimba et al., 2013; Osei-Assibey, 2014), it will
+be prudent to empirically examine these factors. This will provide practitioners and academics contemporary evidence on why consumers are patronizing the MM business.
+Thus, the aim of this research is to examine factors influencing customer BIs towards
+mobile money service usage and the moderating role of SI. Having established the justification and aim of this study, the paper is organized as follows: The theoretical foundations and research hypotheses are presented next. This is followed by the research
+methodology. Data analysis and findings as well as the discussions and implications are
+presented in that order. The final section discusses the conclusions, limitations and direction for future studies.
+
+Theoretical foundation and research hypotheses
+Two models have been linked to mobile money research and provide a broad theoretical
+guideline for this study. They are:
+1. The Technology Acceptance Model (TAM)
+2. Diffusion of Innovation Model (DIM)
+
+Technology acceptance model
+The TAM and the DIM are used in examining subscriber behaviour towards the mobile
+money services in this study. The TAM was proposed by Davis (1989) to predict users’
+acceptance and use of any information technology. The TAM has been specifically recommended to model the acceptance of Information Technologies and Information
+Systems (Davis, 1989; Davis, Bagozzi, & Warshaw, 1989) due to its sound influence on
+the acceptance of behaviour (Lymperopoulos & Chaniotakis, 2005). The theory again
+has also been argued to have an empirical advantage over some theories such as
+Theory of Planned Behaviour (Mathieson, 1991).
+Some areas that the TAM has been used in the acceptance of Information Technologies
+and Information Systems include the acceptance of commercial mobile services (Dahlberg,
+Mallat, & Oorni, 2003; Jiang & Deng, 2011; Wei, Marthandan, Chong, Ooi, & Arumugam,
+2009; Wei, Xinyan, & Yue, 2011), online shopping (Gefen, Karahanna, & Straub, 2003)
+and e-commerce (Pavlou, 2003). According to Davis (1989), a person’s BIs to use a particular technology are based on two beliefs, which are the perceived ease of use (PEOU) and
+perceived usefulness (PU). These two beliefs will be investigated in the next subsections to
+establish how they influence the BIs of people in using a particular technology (i.e. mobile
+money services).
+
+Perceived ease of use (PEOU)
+Perceived ease of use is the extent to which an individual believes that a system would be
+easy to use and that the system should not be complex in order to encourage its adoption
+(Carter & Belanger, 2004; Rogers, 1995). This means to use a particular form of technology,
+little effort should be needed by the user (Liu & Li, 2010). This effort can be physical and
+mental (Davis, 1993; Taylor & Todd, 1995). Extensive researches have documented
+
+4
+
+B. NARTEH ET AL.
+
+evidence on the significant effect of PEOU on user BIs (see Adam, Nelson, & Todd, 1992;
+Davis, 1989; Carter & Belanger, 2004; Guriting & Ndubisi, 2006; Ramayah, Jantan, &
+Aafaqi, 2003; Ramayah, Siron, Dahlan, & Mohamad, 2002). In the mobile money services,
+PEOU includes how easy the registration procedure is, ease of use of the payment
+method, easy access to customer services, minimal steps required to make a payment,
+availability of mobile money transfer agents and how accessible the service is on
+mobile phones with the basic features and software. With these easiness, the study
+hypothesized that:
+H1: Perceived ease of use of the mobile money system will influence customer BIs in Ghana.
+
+Perceived usefulness (PU)
+Lopez-Nicolas, Molina-Castillo, and Bouwman (2008) argued that the system should be
+able to assist the consumer to carry out a job easier, quicker and in better quality. The literature suggests that PU is positively linked with the adoption of mobile payment (Kim,
+Mirusmonov, & Lee, 2010; Padashetty & Krishna, 2013; Zhou, 2011). PU has been seen
+to positively influence the adoption of the mobile payment system across countries
+such as Finland, the USA, Japan and Germany (Guhr, Loi, Wiegard, & Breitner, 2013).
+According to Tobbin and Kowornu (2011), the intention to use mobile money services
+will increase if the belief in its usefulness also increases (Luarn & Lin, 2005). The ultimate
+reason people exploit the use of mobile money services is that they find them useful.
+Some other services introduced into the mobile services include paying of utility bills
+and other fees, which is likely to increase the benefit of the service to customers. It can
+be hypothesized that:
+H2: Perceived usefulness of the mobile money services will influence customer BIs in Ghana.
+
+Diffusion of innovation model
+The DIM propounded by Rogers (2003) advances the communication and adoption of new
+ideas and technologies. Diffusion is the process by which an innovation is communicated
+through certain channels over time and among the members of a social system (Lee, 2007;
+Lee, Hsieh, & Hsu, 2011; Rogers, 1983, 2003; Shin, 2007). The diffusion of innovation assesses
+how, why and at what rate new ideas and technology are communicated and adopted by
+consumers. The diffusion process for all innovations consists of individuals talking to one
+another about the new idea, thus decreasing the perceived uncertainty of the innovation
+so as to encourage its adoption and usage. Rogers (1995, 2003) identified five intrinsic
+characteristics/factors that strongly influence whether or not someone will adopt an innovation. These factors are relative advantage, complexity, compatibility, trialability and
+observability. Three of these factors are employed in this study based on contextual
+reasons. These three factors were chosen based on the fact that they were found to be
+important in consumer decision behaviour as to whether to adopt a particular technology
+or not. Also, comparison could easily be made to other prior studies (Osei-Assibey, 2014).
+
+Relative advantage
+The degree to which an innovation is perceived as a better alternative to other products
+and services is termed relative advantage (Puschel, Mazzon, & Hernandez, 2010).
+
+THE SERVICE INDUSTRIES JOURNAL
+
+5
+
+According to Pihlajamäki (2004), relative advantage can also be examined from the value
+and the cost of the service to the user. This means that using mobile money services
+should be better than any traditional mode of payment and that the value gained in
+using mobile money services should outweigh the cost of the service to the consumer.
+Studies have consistently found relative advantage to affect positively users’ intention
+to use systems across different participants (Lee, 2007; Lee et al., 2011; Shin, 2007). To
+Lee et al. (2011), users are more prone to adopt a new technology (mobile money services)
+when they perceive that the system offers them a relative advantage over an existing one,
+such as bank or other money transfer services.
+H3: Relative advantage of the mobile money services will influence customer BIs to adopt it.
+
+Perceived trust
+Perceived trust is the customers’ feeling of security, confidence and willingness to rely on a
+system, product or service that it will not fail them (Chung & Kwon, 2009; Kim, Chung, &
+Lee, 2011). Thus, the perceived confidence and assurance customers have in the mobile
+money service that the service is free from hackers and fraudsters will have a significant
+influence on the adoption rate of the service. The use of the mobile money service
+system should be able to overcome users’ distrust (Siau & Shen, 2003). This means the
+user should be provided with some assurance that the system will be provided with
+minimum possible hindrance from hackers and fraudsters using the mobile money services. Potential adopters of the mobile money services need to have a belief that the
+network is reliable and that they can trust the system at least more than their existing practices of saving and transferring money.
+Trust in mobile money services is likely to influence the BI of consumers to accept/use
+the services. Previous studies have found perceived trust as a significant determinant influencing users’ BIs to use any technology (Jarvenpaa & Staples, 2000; Mallat, 2007; Myers,
+1997; Siau & Shen, 2003; Tobbin, 2010; Zhou, 2011). The idea that the mobile money
+system is run on an SMS alert where users are notified of any transaction they perform
+through the SMS alert, the use of Pincodes and the idea that users do not lose the
+money when they lose their mobile device is likely to influence users’ intention to
+adopt the services.
+H4: Perceived trust will influence customer BIs to adopt mobile money services in Ghana.
+
+Perceived complexity
+Complexity is the end users’ perceived level of difficulty in understanding innovations and
+their ease of use (Antovski & Ribarski, 2009). This is the extent to which customers perceive
+the innovative idea, product or service as easy to understand and use. Thus, customers will
+readily adopt the mobile money service if they perceive that the service is flexible and has
+easily understandable steps which do not require the help of third parties. The ease with
+which people can transfer and withdraw money is crucial to the acceptance of the service.
+Empirical studies have found that the more complex the end users perceived a new technology, the lower the users’ intention to use the system (Lee, 2007; Tobbin, 2011).
+Antovski and Ribarski (2009, p. 20) argue that a system which is ‘intuitive, flexible, easy
+to install and has few steps or clicks will contribute to the ease of use’ as a result of it not
+
+6
+
+B. NARTEH ET AL.
+
+being complex. The notion that users can easily transfer money to friends by following
+simple steps on their mobile devices reduces the complexity of the system. Also, that
+users can easily withdraw money from an agent by providing secret codes and confirming
+to the withdrawal makes the mobile money system less complex.
+H5: Perceived complexity (PC) will influence customer BIs to adopt mobile money services in
+Ghana.
+
+Perceived risks
+Perceived risks (PRs) are the beliefs of the uncertainty regarding possible negative consequences (dangers) in using a physical good or service (Featherman & Pavlou, 2003). The
+perception of the possible risk exposure of a user is when his/her private information is
+known to others (Cox & Rich, 1964; Featherman & Pavlou, 2003; Nyshadham, 2000).
+When consumers perceive any possible losses that could be created due to the uncertainties of using mobile money services, their perception of risk will increase. The losses may
+include any unfavourable consequences to consumers, such as financial loss, the violation
+of privacy, dissatisfaction with performance, psychological anxiety or discomfort, time
+waiting and long queues.
+Perceived risk is the doubts, uncertainties or perceived dangers consumers have
+regarding the outcome of their purchase decision (Arslan, Geçti, & Zengin, 2013). Given
+the unique characteristics of a service, its PR is usually higher than that of a product
+(Carter, Weerakkody, Phillips, & Dwivedi, 2016; de Kerviler, Demoulin, & Zidda, 2016).
+The perception of possible risk exposure of a mobile money client is a potential hindrance
+to the adoption of the service. The PR associated with the mobile money service could be
+financial, social, functional (performance risk) or psychological risk (Arslan et al., 2013; de
+Kerviler et al., 2016; Kim, Jang, & Yang, 2016; Paluch & Wünderlich, 2016). Financial risk is
+the possibility of a client losing money due to unauthorized persons having access to the
+client’s mobile money account. Social risk is the influence or perception of society regarding the service. For instance, the perception that the mobile money service is for the
+working-class people who do not have a bank account could be a potential barrier to
+the adoption of the service, since an individual may feel loss of image. Functional risk is
+the inability of the service or the product to perform to the satisfaction of the customer;
+for example, fear of not having access to one’s money at some point in time due to
+system or network failure.
+H6: Perceived risks will influence customer BIs to adopt mobile money services in Ghana.
+
+Perceived cost of use
+The rate of acceptance and adoption of mobile money service among the unbanked
+population is the cost of making transactions associated with the service (Tobbin, 2012).
+According to Luarn and Lin (2005) and Tobbin (2012), individuals are likely to adopt
+mobile money services if they perceived that the cost is acceptable compared to other
+existing alternatives of the service. If individuals perceive the cost of mobile phones to
+be high, the price of SIM cards to be high, and the registration fees and other transaction
+costs to be higher, their intention to adopt will be affected.
+H7: Perceived cost of use will influence customer BIs to adopt mobile money services in Ghana.
+
+THE SERVICE INDUSTRIES JOURNAL
+
+7
+
+Moderating role of SI
+Social influence is defined as the beliefs an individual holds regarding the expectations of
+others (concerning mobile money services) as well as the individual’s motivation to
+comply with these expectations (Dunn, Mohr, Wilson, & Wittert, 2011). It is an individual’s
+belief regarding whether significant others (friends and family) think he or she should have
+a mobile money account and the extent to which the individual is willing to comply these
+beliefs would have a strong influence on the adoption of the mobile money service. It is
+the degree to which an individual’s friends/colleagues, family members and other close
+relatives perceive the importance to use the new system (Choi et al., 2003; Venkatesh
+et al., 2003). SI represents the social pressures on individuals to perform or not perform
+a particular behaviour (engage in mobile money services). The perception that mobile
+money services are for the unbanked population can negatively influence an individual’s
+adoption of the service. Notwithstanding that, families and friends who are using mobile
+money can influence others to use the system. Thus, people’s thought, feelings and behaviours are not just influenced by their individual characters, but through SI, by what relevant other people think, feel or do, as well.
+As noted by Tan and Teo (2000), relevant references such as the adopter’s friends, family
+and colleagues/peers may all influence the adoption decision. The reason being that a user
+may be reluctant to participate in a certain behaviour at first, but when taking into consideration the importance of what the referents (i.e. friends/peers, family, etc.) think, the
+user may agree to the behaviour (Venkatesh & Morris, 2000). SI can be driven by many
+factors (Smith & Mackie, 2015). These include the desire to hold correct opinions (and
+the assumption that what others think is likely correct and accurate, typically called informational influence); the desire to seek social rewards by agreeing with others (typically
+called normative influence) and the desire to maintain and express an important identity
+(typically called referent informational or social identity-based influence).
+According to Aker and Wilson (2013), deciding to use mobile money services often
+depends on the usage by the members of one’s social network (which is particularly an
+issue for mobile money transfers). The unbanked populace may be forced to use
+mobile money as it can be used to perform those services as saving, transferring and
+receiving money (Aker & Wilson, 2013). Notwithstanding that, families and friends who
+are using mobile money can influence others to use the system. As noted by Tan and
+Teo (2000), relevant references such as the adopter’s friends, family and colleagues/
+peers may all influence the adoption decision.
+A study conducted by Thomas, Jewell, and Wiggins Johnson (2015) on SI dubbed
+‘Hidden consumption behaviour: an alternative response to social group influence’
+found out that when there is severe non-conformity of certain consumption to a particular
+social group, individuals in such a group are likely to hide their consumption behaviour.
+Similarly, Mohd Suki (2003) revealed that SI and the brand name of the product have
+an effect on the increasing demands for smartphones. A recent study conducted by
+Persaud and Schillo (2017) found that social identity and SI affect individuals’ purchase
+intentions of organic food among Canadians. Linking the findings of previous studies to
+the current study implies that users of mobile money may be reluctant to participate
+based on the severe non-conformity of the social group, or appreciate the use of
+
+8
+
+B. NARTEH ET AL.
+
+Figure 1. Conceptual framework.
+
+mobile money services based on the strong conformity of the social group (Mohd Suki,
+2013; Thomas et al., 2015). Hence the study hypothesized that (See Figure 1):
+H8: SI moderates the effect of mobile money adoption factors on BIs; the positive effect
+strengthens as the SI level increases.
+
+Methodology
+The focus of this study is to establish the relationship between various constructs (adoption and BIs) of mobile money services. Mobile Telecommunication Network (MTN) subscribers constituted the study population. MTN is the leading market cellular mobile
+phone operator, connecting subscribers in 22 countries in Africa, Asia and the Middle
+East. Also, the company is the leading mobile telecommunications industry in Ghana
+with over 12 million subscribers and offering its valued subscribers a range of exciting products and services under postpaid and prepaid subscriptions. MTN’s network covers all 10
+regional capitals, major cities and many rural and remote areas. The service is offered by
+MTN in partnership with 10 banks. Subscribers can use MTN Mobile Money to send and
+receive money, top-up MTN airtime, pay bills (DStv, ECG Postpaid, MTN Postpaid, School
+fees, etc.), buy and pay for insurance, pay employee salaries, and pay for airline tickets
+and other goods and services. Currently, more than 2 million Ghanaians are registered
+as active users. Respondents were selected from all the 10 regional capitals (Kumasi,
+Accra, Cape Coast, Takoradi, Sunyani, Tamale, Wa, Koforidua, Ho and Bolgatanga).
+A purposive sampling method was used to select the various study areas and simple
+random sampling was used to sample the subscribers. The purposive sampling method
+was used to sample the regional business units because majority of users of mobile
+money services reside in these units. The simple random method was used to give an
+equal chance to the users of the service. This was done by randomly selecting users,
+who were physically present at each of the business/service centre until specified
+members or units were selected. Three hundred and fifty respondents were selected;
+
+THE SERVICE INDUSTRIES JOURNAL
+
+9
+
+however, 300 subscribers’ responses were found to be useable after the initial screening
+(Malhotra & Birks, 2007).
+A Likert scale which ranged from 1 = strongly disagree to 5 = strongly agree was used.
+The questions were adapted from the researchers who either used the questions in a
+mobile payment or a mobile banking environment (Table 1).
+Perceived usefulness (PU) and PEOU were adapted from Davis (1989), Davis et al. (1989)
+and Moore and Benbasat (1991). Social influence (SI) was adapted from Ajzen (1991).
+Future behavioural intention (BI) was adapted from Davis (1989) and Davis et al. (1989).
+On the other hand, relative advantage (RA) and perceived complexity (PC) were measured
+by items adapted from Moore and Benbasat’s (1991) study. Perceived risk (PR) was
+adapted from Ndubisi and Sinti (2006) and Cruz, Laukkanen, and Muñoz (2009). Perceived
+cost of use (PCOU) was measured by adapting the instrument from Luarn and Lin (2005)
+and perceived trust was adapted from Pavlou (2003). In all, 30 items were used to measure
+nine constructs. Three items each were used to measure PCOU, PU, SI, BI, PRs, PC, and four
+items each were used to measure RA, perceived trust (PT) and PCOU.
+The questionnaire was in three (3) sections. The first (section A) part measured the
+demographic characteristics of the respondents, the second (section B) and the third
+(section C) part measured both factors of adoption and the BIs of mobile money service
+subscribers. The collection of the data lasted for three weeks. The data collected from
+this study were analysed with the help of SPSS version 20 and SmartPLS 3.2.4. The data
+were coded and screened for outliers or any other variation in the data set. Descriptive
+analysis was used for demographic variables and hypotheses were tested using structural
+equation modelling (SEM).
+Validations were performed through face, content and construct validations. A pilot test
+was used to assess face validity. The Ghana business school students use MM for various
+financial services on campus, similar to that of the targeted population. Hence, the pilot
+test was done at the University of Ghana Business School, where 30 students were
+sampled. The aim of the test was to identify items that were ambiguous for modification;
+hence, unclear statements were correctly worded. Colleagues and teaching assistants in
+the university used their expert opinions to examine the understandability and suitability
+of the questions.
+Confirmatory factor analysis was used to purify the measures, assess the unidimensionality of the scale items and assess discriminant validity (whether scores on the measure do
+not correlate with variations that should differ, or are expected by theory to not correlate
+with the construct) among these constructs.
+
+Table 1. Constructs and measurement items.
+Construct
+
+Label Cronbach’s alpha No. of items
+
+Perceived usefulness
+PU
+Social influence
+SI
+Behavioural Intention
+BI
+Perceived Risks
+PR
+Perceived Complexity PC
+Relatively Advantage RA
+Perceived Trust
+PT
+Perceived Cost of Use PCOU
+
+0.778
+0.669
+0.810
+0.637
+0.779
+0.803
+0.739
+0.611
+
+3
+3
+3
+3
+3
+4
+4
+4
+
+Source
+Davis et al. (1989), Moore and Benbasat (1991).
+Ajzen (1991)
+Davis et al. (1989), Davis (1989)
+Ndubisi and Sinti (2006), Cruz, Laukkanen & Munoz (2009),
+Moore and Benbasat (1991)
+Moore and Benbasat (1991)
+Pavlou (2003)
+Luarn and Lin (2005)
+
+10
+
+B. NARTEH ET AL.
+
+Table 2. Demographics of respondents.
+Variable
+
+Category
+
+Frequency
+
+Percentage (%)
+
+Gender
+
+Male
+Female
+Less than 24
+25–31
+32–38
+39–45
+46–52
+53 and above
+Junior High
+Senior high/Vocational/Technical
+Level
+Tertiary
+Postgraduate
+Others
+Less than a year
+1–2 years
+3–4 years
+Above 5 years
+No
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+
+177
+123
+83
+96
+56
+39
+15
+10
+11
+58
+
+59
+41
+27.7
+32
+18.7
+13
+5
+3.3
+3.7
+19.3
+
+170
+57
+3
+17
+67
+86
+130
+71
+229
+249
+51
+60
+240
+39
+261
+204
+96
+
+56.7
+19
+1
+5.7
+22.3
+28.7
+43.3
+23.7
+76.3
+83
+17
+20
+80
+13
+87
+68
+32
+
+Age (years)
+
+Level of education
+
+How long using mobile money services
+
+Buy Airtime
+Pay bills (DSTV, Utility)
+Transfer money
+Receive Money
+Savings
+
+Demographic characteristics of respondents
+Some demographic variables were collected in this study: gender, age, level of education,
+years of using mobile money service and types of services mostly used, and these results
+are summarized in Table 2.
+In terms of type of services mostly patronized, it was observed that 76.3% have been
+buying airtime, while 23.7% have not used mobile money service for airtime purchase.
+Only 17% had used mobile money services for bill payment and 80% of the respondents
+have been using money transfer services on mobile money. Finally, while 87% have been
+receiving money through mobile money, only 32% actually use mobile money for savings
+purposes.
+
+Table 3. Constructs reliability and AVE.
+BI
+PC
+PCU
+PEOU
+PR
+PT
+PU
+RA
+SI
+
+Cronbach’s alpha
+
+Composite reliability
+
+AVE
+
+0.826
+0.734
+0.772
+0.848
+0.906
+0.809
+0.845
+0.828
+0.812
+
+0.896
+0.809
+0.868
+0.908
+0.941
+0.886
+0.906
+0.896
+0.889
+
+0.741
+0.590
+0.687
+0.767
+0.841
+0.722
+0.763
+0.743
+0.727
+
+THE SERVICE INDUSTRIES JOURNAL
+
+11
+
+Reliability analysis
+The value of the Cronbach alpha ranges from 0 to 1. From Table 3, the alpha values ranged
+from 0.611 to 0.810. These values were greater than 0.60; hence, the constructs were
+deemed reliable (Nunnally & Bernstein, 1994).
+
+Results and findings
+Partial least squares structural equation modelling (PLS-SEM) was employed to evaluate
+the adequacy of the measurement model of the principal constructs and the predictive
+relevance of the conceptual model, and also to test the hypothesized relationships (see
+Figure 2). PLS-SEM was suitable as the main objective of the study was concerned with
+maximizing the prediction of respective constructs to predict the contribution of
+various antecedents on intention to use mobile money services.
+
+Figure 2. Structural equation model.
+
+12
+
+B. NARTEH ET AL.
+
+Additionally, PLS-SEM was selected because of its distribution-free assumption, which
+was appropriate for the purpose of this study. The PLS algorithm permits each indicator
+to vary in how much it contributes to the composite score of the latent variable,
+instead of assuming equal weight for all indicators of a scale (Chin, Marcolin, &
+Newsted, 2003). For sample size considerations in PLS-SEM, according to Hair, Ringle,
+and Sarstedt (2011, p. 144), as a common rule of thumb for appropriate sample size for
+testing PLS-SEM models is the rule of 10, which suggests 10 times the largest number
+of structural paths directed at a particular latent construct in the structural model. In
+this study, the highest number of structural paths (seven independent variables) directed
+at a latent construct (intentions to use mobile money services) at a time was seven. Therefore, 7 multiplied by 10 gives 70 cases; thus, our sample of 300 respondents could be
+described as satisfactory.
+Although PLS-SEM estimates both the measurement model and the structural model
+concurrently, the assessment of the estimated full model followed Hair et al.’s (2011,
+p. 144) two-step approach: the examination of the measurement (outer) model
+before the estimation of the structural (inner) model. While the measurement model
+allows us to examine whether the constructs are measured with satisfactory accuracy,
+the structural model helps us to assess the explanatory power of the model (see
+Cool, Dierickx, & Jemison, 1989). The former is, however, a prerequisite for the latter
+as it only makes sense to evaluate the structural model when the measurement
+model shows evidence of reliability and validity (Henseler, Ringle, & Sinkovics, 2009).
+The SmartPLS 3.2.4 software was set to 500 bootstrap samples for the estimation of
+
+Table 4. Cross-loadings for item and convergent reliability.
+BI
+
+PC
+
+BI1
+0.859
+−0.118
+BI2
+0.874
+−0.050
+BI3
+0.850
+−0.090
+PC1
+−0.030
+0.657
+PC2
+−0.046
+0.716
+PC3
+−0.111
+0.908
+PCU1
+0.588
+−0.028
+PCU2
+0.581
+0.065
+PCU3
+0.499
+−0.048
+PEOU1
+0.541
+−0.001
+PEOU2
+0.543
+−0.010
+PEOU3
+0.497
+−0.047
+PR1
+0.525
+0.076
+0.620
+0.073
+PR2
+PR3
+0.559
+0.087
+PT1
+0.656
+−0.074
+PT2
+0.529
+−0.040
+PT3
+0.591
+−0.046
+PU1
+0.555
+−0.031
+PU2
+0.640
+−0.048
+PU3
+0.636
+−0.066
+RA2
+−0.087
+−0.026
+RA3
+−0.121
+−0.030
+RA4
+−0.090
+−0.029
+0.535
+−0.064
+SI1
+SI2
+0.655
+−0.086
+SI3
+0.601
+−0.012
+Notes: item loadings are in bold.
+
+PCU
+
+PEOU
+
+PR
+
+PT
+
+PU
+
+RA
+
+SI
+
+0.593
+0.568
+0.578
+0.029
+0.032
+−0.024
+0.833
+0.864
+0.787
+0.462
+0.449
+0.447
+0.632
+0.679
+0.667
+0.643
+0.618
+0.658
+0.574
+0.627
+0.601
+−0.126
+−0.140
+−0.184
+0.551
+0.578
+0.545
+
+0.538
+0.505
+0.512
+0.024
+0.032
+−0.049
+0.421
+0.454
+0.407
+0.889
+0.903
+0.835
+0.445
+0.538
+0.494
+0.505
+0.416
+0.530
+0.448
+0.553
+0.525
+−0.106
+−0.138
+−0.146
+0.535
+0.581
+0.459
+
+0.525
+0.544
+0.537
+0.030
+0.018
+0.103
+0.494
+0.744
+0.548
+0.473
+0.491
+0.452
+0.897
+0.936
+0.918
+0.592
+0.509
+0.528
+0.695
+0.764
+0.711
+−0.119
+−0.159
+−0.198
+0.510
+0.601
+0.499
+
+0.600
+0.614
+0.600
+0.011
+−0.047
+−0.072
+0.644
+0.626
+0.605
+0.536
+0.518
+0.450
+0.538
+0.619
+0.609
+0.841
+0.859
+0.850
+0.556
+0.649
+0.661
+−0.172
+−0.184
+−0.187
+0.551
+0.600
+0.553
+
+0.614
+0.624
+0.572
+−0.043
+−0.049
+−0.045
+0.543
+0.580
+0.596
+0.506
+0.529
+0.502
+0.754
+0.777
+0.748
+0.654
+0.576
+0.583
+0.846
+0.898
+0.876
+−0.086
+−0.139
+−0.141
+0.578
+0.614
+0.541
+
+−0.102
+−0.083
+−0.119
+0.022
+−0.032
+−0.038
+−0.167
+−0.197
+−0.051
+−0.116
+−0.146
+−0.136
+−0.127
+−0.198
+−0.174
+−0.219
+−0.145
+−0.161
+−0.068
+−0.170
+−0.130
+0.864
+0.913
+0.806
+−0.116
+−0.152
+−0.129
+
+0.616
+0.596
+0.605
+−0.032
+−0.025
+−0.069
+0.537
+0.566
+0.523
+0.562
+0.578
+0.474
+0.489
+0.654
+0.580
+0.627
+0.481
+0.573
+0.484
+0.644
+0.634
+−0.119
+−0.162
+−0.115
+0.814
+0.894
+0.848
+
+THE SERVICE INDUSTRIES JOURNAL
+
+13
+
+Table 5. Latent variable correlations and discriminant validity.
+BI
+PC
+PCU
+PEOU
+PR
+PT
+PU
+RA
+SI
+
+BI
+
+PC
+
+PCU
+
+PEOU
+
+PR
+
+PT
+
+PU
+
+RA
+
+SI
+
+0.861
+−0.100
+0.673
+0.602
+0.622
+0.702
+0.701
+−0.117
+0.703
+
+0.768
+−0.002
+−0.021
+0.086
+−0.064
+−0.056
+−0.033
+−0.064
+
+0.829
+0.516
+0.720
+0.754
+0.688
+−0.172
+0.654
+
+0.876
+0.539
+0.574
+0.585
+−0.151
+0.616
+
+0.917
+0.643
+0.829
+−0.184
+0.631
+
+0.850
+0.715
+−0.209
+0.666
+
+0.873
+−0.143
+0.677
+
+0.862
+−0.156
+
+0.853
+
+Notes: AVEs are in the diagonal; correlations are below the diagonal.
+
+the significance of the t-values (Chin, 2010). Moderation and a multi-group analysis
+(MGA) were performed using Henseler’s non-parametric PLS-SEM-MGA approach,
+which is available in SmartPLS 3.2.4.
+
+Assessment of the measurement model
+All the constructs in the study are reflective and not formative; hence, in order to validate
+the model fitness, there is the need to examine the composite reliabilities (CRs), average
+variance extracted (AVE), item loadings’ size and significance, and discriminant validity
+(see Liang, Saraf, Hu, & Xue, 2007). Cronbach’s alpha and the CR test revealed that all constructs showed a value above the threshold (0.7 for both Cronbach’s alpha and CR,
+adopted from Bagozzi & Yi, 2012) (see Table 4).
+
+Convergent validity
+To test for convergent validity, CR factor loading and AVE were examined. It is acceptable if
+an individual item factor loading is greater than 0.7, CR exceeds 0.7 and AVE exceeds 0.5
+(Gefen, Straub, & Boudreau, 2000) (see Table 5). All loadings for the reflective constructs
+exceeded 0.7 and were shown to be significant at Bootstrap t-statistics (a. 0:01), while satisfying the CR and AVE criteria.
+
+Discriminant validity
+Discriminant validity was considered adequate since the square root of the AVEs (in the
+diagonal) is greater than their respective inter-construct correlations, as shown in Tables
+Table 6. Latent variable correlations and discriminant validity.
+Hypothesized
+Hypothesis
+
+Relationship regression weight
+
+H1
+PEOU->BI
+H2
+PU->BI
+H3
+RA->BI
+H4
+PT->BI
+H5
+PC->BI
+H6
+PR->BI
+H7
+PCOU->BI
+H8
+SI->BI
+*Significant at .01.
+**Significant at .05.
+
+Std. error
+0.142
+0.226
+0.037
+0.195
+−0.052
+−0.030
+0.164
+0.247
+
+0.052
+0.083
+0.034
+0.065
+0.047
+0.050
+0.075
+0.070
+
+T-value
+
+P-value
+
+Result
+
+2.740
+2.718
+1.092
+3.009
+1.116
+0.603
+2.191
+3.511
+
+0.005
+0.005
+0.275
+0.003
+0.265
+0.547
+0.002
+0.000
+
+Supported**
+Supported**
+Not supported
+Supported**
+Not supported
+Not supported
+Supported**
+Supported***
+
+14
+
+B. NARTEH ET AL.
+
+5 and 6 (Fornell & Larcker, 1981). Additional support for discriminant validity comes
+through the inspection of the cross-loadings (Table 4), which indicates that the measurement items for each construct load higher on their respective constructs than they load on
+other constructs (Chin, 2010; Hair et al., 2011). Since the square root of the AVEs (in the
+diagonal) is greater than their respective inter-construct correlations as depicted in
+Tables 4 and 5, the conditions for discriminant validity were fulfilled (Fornell & Larcker,
+1981). Furthermore, the inspection of the cross-loadings in Table 5 supports discriminant
+validity, as it shows that the measurement items for each construct load higher on their
+respective constructs than they load on other constructs (Hair et al., 2011).
+
+Assessment of the structural model
+Having examined the measurement (inner) model to be suitable (i.e. reliable and valid), the
+next stage is to assess the structural model. To do this, it is important to first examine the
+multiple squared correlation coefficients (R 2) for each dependent (endogenous) variable in
+the structural part (Chin, 1998), showing the amount of variance in the dependent variable
+explained by its corresponding model. In PLS-SEM, the interpretation of the R 2 is not different from the traditional MLR (Chin, 1998), and obviously, there are no definite guidelines
+for the evaluation of a model as ‘good or bad’ only based upon the magnitude of R 2 as this
+will be dependent on several factors.
+
+Results of the structural model
+In PLS-SEM, structural models’ validity is assessed through the strength of the regression
+weights, t-values, p-values for significance of t-statistics, as well as effect sizes of the independent variables on the dependent variables (Chin, 2010; Hair et al., 2011). The results of
+the hypotheses testing are presented in Table 6.
+Hypothesis 1 (PEOU of the mobile money system will influence customer BIs) was
+supported in the study as indicated in Table 6. Here, the hypothesis examines the
+relationship between PEOU and BIs towards mobile money use. As shown in Table 6,
+the observed regression weights, t-value and p-value (t = 2.740, p < .005) indicated that
+the relationship is found to be positive and significant. The results confirm that the
+level of consumers’ adoption of mobile money services is dependent on the ease of use
+of the services. Extensive research have documented evidence on the significant effect
+of PEOU on user BIs (see Adam et al., 1992; Davis, 1989; Guriting & Ndubisi, 2006;
+Ramayah et al., 2002; Ramayah et al., 2003). This study’s findings add to the existing
+body of evidence on the relationship between PEOU and customer BI towards the adoption of mobile money services.
+Hypothesis 2 (PU of the mobile money services will influence customer BIs towards mobile
+money services adoption) considers the relationship between PU and customer BIs towards
+mobile money adoption. As shown in Table 6, PU is positively and significantly related to
+customer BI towards mobile money adoption. This supports hypothesis 2. Significant and
+positive effects of PU on BI were observed as shown by the regression coefficient (t-value
+= 2.718, p < .005). The findings suggest the extent to which an individual believes that PU
+of mobile money services will determine whether they will choose to adopt and use the
+service or not. The result is consistent with Tobbin and Kowornu’s (2011) findings that the
+degree to which a person believes that using a particular system would enhance his or her
+
+THE SERVICE INDUSTRIES JOURNAL
+
+15
+
+job performance or life will affect their intention to utilize it. Similarly, the findings are in
+line with some scholarly works in the extant literature (Kim et al., 2010; Padashetty &
+Krishna, 2013; Zhou, 2011). The findings also corroborate other countries’ studies such
+as Finland, the USA, Japan and Germany (Guhr et al., 2013).
+Hypothesis 3 tested the relationship between RA and BI towards the adoption of mobile
+money services. The relationship between RA and BI was positive but not significant
+(t-value = 1.092, p < .275). The results indicate that RA positively predicts customers’ BIs
+in the mobile money services. However, the relationship between RA and BI was not significant. This could be attributed to the service-oriented nature of the mobile money services. Differentiating one service provider from others is usually difficult since the services
+are normally the same. This might have accounted for the insignificant relationship
+between RA and BI.
+Hypothesis 4 tested the relationship between perceived trust and customer BI towards
+the adoption of the mobile money services. The results revealed a positive and significant
+(t-value = 3.009, p < .003) relationship between PT and BI towards mobile money services
+among the data sampled. This shows that trust is a key factor in determining the customer
+BI towards the adoption of mobile money services among the sample investigated. This
+finding resonates with previous studies that have found perceived trust as a significant
+determinant influencing users’ BIs to use any technology (Jarvenpaa & Staples, 2000;
+Mallat, 2007; Siau & Shen, 2003; Tobbin, 2010; Zhou, 2011). This finding supports the argument that the entire financial system is based on trust.
+Hypothesis 5 examined the effect of PC and behavioural BIs in the adoption and usage
+of mobile money services. The regression path between PC and BI was significant (t-value
+= 1.116, p < .265). This finding gives support to other empirical studies in the academic literature. For instance, Lee (2007) and Tobbin (2011) have found that the more complex the
+end users perceived a new technology to be, the lower the users’ intention to use the
+system.
+The confidence a user has in a mobile device to perform an expected activity without
+taking advantage of the result is an indication that trust is a very significant ingredient to
+the customer’s intent to act favourably towards mobile money. Hypothesis 5, which
+addresses the statement that PC will influence customer BI towards mobile money
+adoption, was therefore supported.
+Hypothesis 6 was tested to investigate the effect of PR on BIs towards the adoption of
+mobile money services. The regression coefficient and t-value from PR and BIs were not
+significant (t-value = 0.603, p < .547). The relationship between PR and BIs was found
+not to be significant, given the results of the t-value and p-values. Given the unique characteristics of a service, its PR is usually higher than its physical good (Carter et al., 2016; de
+Kerviler et al., 2016). Surprisingly, the participants in this study did not consider PR to be
+relevant in making a decision with respect to their BIs towards the adoption of mobile
+money services.
+Hypothesis 7 was used to determine the relationship between PCOU and BI. The
+regression coefficient and the corresponding t-value (t = 2.191 and p < .002) demonstrate
+a significant and positive relationship between PCOU and BI. Hence hypothesis 7 was supported. This finding indicates that the cost inovlved in patronising mobile money services
+by consumers is important to them. This corroborates what exists in the extant literature
+that the rate of acceptance and adoption of mobile money services among customers is
+
+16
+
+B. NARTEH ET AL.
+
+Table 7. Relationship between social influence and factors affecting adoption.
+Group statistics
+QCL_1
+PEOU
+PCU
+PT
+PU
+
+High social influence
+Low social influence
+High social influence
+Low social influence
+High social influence
+Low social influence
+High social influence
+Low social influence
+
+N
+
+Mean
+
+F
+
+Sig.
+
+204
+96
+204
+96
+204
+96
+204
+96
+
+4.250
+3.6076
+3.5049
+3.4167
+4.1740
+3.6927
+4.2990
+3.5903
+
+13.385
+
+.000
+
+1.409
+
+.236
+
+1.026
+
+.312
+
+10.417
+
+.001
+
+the cost of making transactions associated with the service (Tobbin, 2012). According to
+Luarn and Lin (2005) and Tobbin (2012), individuals are likely to adopt mobile money services if they perceived that the cost is acceptable compared to other existing alternatives
+of the service.
+Hypothesis 8 (SI moderates the effect of mobile money adoption factors on BI; the positive
+effect strengthens as the SI levels increase) was tested. The relationship between SI and BI
+was found to be significant (t-value = 3.511, p < .0001). Based on this result, SI positively
+influenced BI; thus, hypothesis 8 was supported. In all, PEOU, PU, PT, PCOU and SI
+predict BIs by 64.7% (R 2 of 0.647) in the research context.
+
+Difference between high and low SI groups
+In order to determine whether there is a significant statistical difference between individuals with low and high SI s, in terms of factors affecting mobile money adoption, the independent sample t-test was used. The responses to the variables used to measure SI were
+divided into low and high using a cluster analysis known as K-means (See Table 7).
+Table 7 indicates that there is a significant difference between low (M = 3.6076) and
+high (M = 4.250) SI and their PEOU of mobile money service (F = 13.385, p < .05). There
+was also a significant difference between low (M = 3.5903) and high (M = 4.2990) SI and
+their PU of mobile money service (F = 10.417, p < .05). SI was not found to be significant
+with PR, perceived trust and RA towards the intention to use a mobile service.
+
+Discussions and implications
+This study was undertaken to assess the influence of eight exogenous variables on the BIs of
+users of mobile money services in Ghana. Specifically, the study sought to identify the key
+drivers of mobile money adoption and usage. The result shows that there is a positive
+relationship between five of the constructs and the dependent variable, while three independent variables were not significant. The details are explained below. The result shows
+that mobile money services are used mostly for buying airtime, and receiving and transferring money. Other uses such as paying bills and managing savings were relatively used by
+fewer respondents. It can be implied that users of the service do not trust or perceived some
+risks with the use of mobile money service for paying bills or managing savings. Using
+mobile money for savings is popular among the unbanked. The use of mobile money services according to Gutierrez and Choi (2014) is for sending and receiving money. Looking
+
+THE SERVICE INDUSTRIES JOURNAL
+
+17
+
+at the respondents’ age and level of education, their access to the banking system is high;
+therefore, they may not see the need to use mobile money for savings.
+The findings suggest that even though mobile money services are designed to provide
+greater convenience to the everyday life of users, their usage has been limited to few
+service types. Users are not tapping into the full opportunities mobile money services
+offer, such as convenience of paying for goods and services, payment of utility bills and
+broader financial inclusion to the unbanked through savings on the mobile money
+wallet. The study revealed that the factors that significantly lead to the adoption of
+mobile money services were perceived use, PEOU, perceived trust, PCOU and SI. The
+result is consistent with the existing literature (Osei-Assibey, 2014; Tobbin & Kowornu,
+2011). By implication, among other things, the respondents are more likely to adopt
+and use the mobile money platform when it is seen to be user-friendly; when they see
+the service to be useful, reliable and relatively cheaper and when it can be counted on
+to deliver as expected.
+The overall model is able to strongly predict customers’ BI towards mobile money adoption and usage. The five drivers of PEOU, PU, PT, PCOU and SI predict BI by 64.7% (R 2 of
+0.647), in the research context. This means that about 65% of factors that will influence
+customers to engage in mobile money services are explained by the exogenous variables
+tested in the study. The study revealed that there were significant differences between low
+and high SI on PEOU and PU of mobile money services. Nonetheless, SI was not found to
+be significant with PRs, perceived trust and RA towards the intention to use mobile money.
+The demographic characteristics of the respondents from the field indicated that majority
+of the respondents were educated and they were in their youthful ages, which makes
+them technology savvy. Although personal characteristic (demographic) variables were
+not consistent across studies, the extant literature has demonstrated that social-demographic characteristics have a significant influence on behaviour and suggests that
+younger, higher income and better educated consumers tend to accept market innovations more quickly (Osei-Assibey, 2014).
+
+Conclusion, limitations and directions for future research
+The study employed two theories, the TAM and the DIM, to examine the drivers of mobile
+money adoption in Ghana. The two theories have explained to a large extent the drivers of
+mobile money adoption in Ghana. The study identified and empirically examined the key
+factors necessary to drive customers’ BI towards the adoption of mobile money services. It
+is evident from the study that the PEOU, perceived trust, PU and PCOU are significant to
+customers. Also, the level of influence from social groups – friends and family – is another
+salient contributor to the adoption of mobile money services. It is, therefore, recommended that mobile money service providers streamline their strategies to make the
+services not only easy to use, but also less expensive, useful and secure to instil trust in
+their services. The study has demonstrated that at least there are certain key factors
+that drive mobile money services’ adoption in a developing economy perspective.
+PEOU was found to have a significant influence on consumer behavioural intentions.
+The study, therefore, recommends that mobile money service providers must ensure
+that the mobile application is very simple to use, users have quick access to their electronic
+account at their own convenient time and also network challenges are addressed quickly
+
+18
+
+B. NARTEH ET AL.
+
+as soon as they are detected. PU, trust and cost were found to have a strong influence on
+consumer behavioural intentions. This implies that consumers would appreciate products
+or services that are beneficial and fulfil their specific needs. Mobile money service providers must make good use of the customer database captured on their systems so as to
+deliver services to meet the needs of their customers. Consumer trust in the service provider is built over time. Customers’ data and transactions should be protected from
+hackers and third parties who might contact customers for commercial purposes.
+Service providers should resolve customer complaints quickly. There will be the need
+for service providers to charge their customers fairly for the services delivered, and the
+various options customers could consider in order to avoid extra charges for the services
+should be provided. Finally, SI was found to be significant between adoption and BI. The
+use of both affluent and low-income earners, young and old people in the promotion of
+mobile money service usage would encourage more people to see themselves as potential
+users of the services.
+Although the study makes a significant contribution to knowledge and as is the case
+with most research works, this current study carefully points out certain limitations, indicating some directions for further research. Foremost, the relationships among the constructs were tested using customers from a single country. Moreover, the study showed
+that the confounding effects of SI vary among the constructs. It will, therefore, be instructive to carry out similar investigations across different contexts in order to strengthen the
+nuances of such constructs in the mobile technology adoption literature. Relevantly,
+testing how SI moderates the direct relationship between the aggregated constructs
+and BIs would provide further enlightenment. Additionally, the effects tested in this
+study are that of relationships and not causalities, and on the basis that a cross-sectional
+research design was used, the study acknowledges that some dynamism in the tested
+relationships may have been ignored.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+References
+Adam, D. A., Nelson, R. R., & Todd, P. A. (1992). Perceived usefulness, ease of use and usage of information technology: A replication. MIS Quarterly, 16(2), 227–247.
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision
+Processes, 50(2), 179–211.
+Ajzen, I., & Fishbein, M. (1980). Understanding attitude and predicting social behavior. Englewood Cliffs:
+Prentice-Hall.
+Aker, J. C., & Mbiti, I. M. (2010). Mobile phones and economic development in Africa. The Journal of
+Economic Perspectives, 24(3), 207–232.
+Aker, J. C., & Wilson, K. (2013). Can mobile money be used to promote savings? Evidence from preliminary research in Northern Ghana (No. 2012-003). Swift Institute Working Paper.
+Antovski, L., & Ribarski, P. (2009). Mobile voting: Overview of the road from paper to mobile. In Proc. of
+the mLife 2009 Conference, ISBN 0-9763341-3-5, Barcelona.
+Arslan, Y., Geçti, F., & Zengin, H. (2013). Examining perceived risk and its influence on attitudes: A
+study on private label consumers in Turkey. Asian Social Science, 9(4), 158.
+
+THE SERVICE INDUSTRIES JOURNAL
+
+19
+
+Bagozzi, R. P., & Yi, Y. (2012). Specification, evaluation, and interpretation of structural equation
+models. Journal of the Academy of Marketing Science, 40(1), 8–34.
+Carter, L., & Belanger, F. (2004). The influence of perceived characteristics of innovating one-government adoption. Electronic Journal of E-Government, 2(1), 11–20.
+Carter, L., Weerakkody, V., Phillips, B., & Dwivedi, Y. K. (2016). Citizen adoption of E-government services: Exploring citizen perceptions of online services in the United States and United Kingdom.
+Information Systems Management, 33(2), 124–140.
+Chin, W. W., Marcolin, B. L., & Newsted, P. R. (2003). A partial least squares latent variable modeling
+approach for measuring interaction effects: Results from a Monte Carlo simulation study and an
+electronic mail emotion/adoption study. Information Systems Research, 14(2), 189–217.
+Chin, W. W. (1998). The partial least squares approach to structural equation modeling. Modern
+Methods for Business Research, 295(2), 295–336.
+Chin, W. (2010). How to write up and report PLS analyses. In V. EspositoVinzi, W. W. Chin, J. Henseler,
+H. Wang (Eds.), Handbook of partial least squares: Concepts, methods and applications (pp. 655–
+690). Heidelberg: Springer.
+Choi, H., Choi, M., Kim, J., & Yu, H. (2003). An empirical study on the adoption of information appliances with a focus on interactive TV. Telematics and Informatics, 20(2), 161–183.
+Chung, N., & Kwon, S. J. (2009). Effect of trust level on mobile banking satisfaction: A multi-group
+analysis of information system success instruments. Behaviour & Information Technology, 28(6),
+549–562.
+Cool, K., Dierickx, I., & Jemison, D. (1989). Business strategy, market structure and risk return relationships: A structural approach. Strategic Management Journal, 10(6), 507–522.
+Cox, D. F., & Rich, S. V. (1964). Perceived risk and consumer decision making-the case of telephone
+shopping. Journal of Market Research, 1, 32–39.
+Cruz, P., Laukkanen, T., & Muñoz, P. (2009). Exploring the factors behind the resistance to mobile
+banking in Portugal. International Journal of E-Services and Mobile Applications (IJESMA), 1(4),
+16–35.
+Dahlberg, T., Mallat, N., & Oorni, A. (2003). Trust enhanced technology acceptance model-consumer
+acceptance of mobile payment solutions: Tentative evidence, stockholm mobility roundtable.
+Stockholm: Citeseer, pp. 22–23.
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information
+technology. MIS Quarterly, 13(3), 319–340.
+Davis, F. D. (1993). User acceptance of information technology: System characteristics, user perceptions and behavioural impacts. International Journal of Man-Machine Studies, 38, 475–487.
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1989). User acceptance of computer technology: A comparison of two theoretical models. Management Science, 35(8), 982–1003.
+de Kerviler, G., Demoulin, N. T., & Zidda, P. (2016). Adoption of in-store mobile payment: Are perceived risk and convenience the only drivers? Journal of Retailing and Consumer Services, 31,
+334–344.
+Dermish, A., Kneiding, C., Leishman, P., & Mas, I. (2011). Branchless and mobile banking solutions for
+the poor: A survey of the literature. Innovations, 6(4), 81–98.
+Dunn, K. I., Mohr, P., Wilson, C. J., & Wittert, G. A. (2011). Determinants of fast-food consumption. An
+application of the theory of planned behaviour. Appetite, 57(2), 349–357.
+Featherman, M. S., & Pavlou, P. A. (2003). Predicting e-services adoption: A perceived risk facets perspective. International Journal Human-Computer Studies, 58, 451–474.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables
+and measurement error. Journal of Marketing Research, 18, 39–50.
+Gefen, D., Karahanna, E., & Straub, D. (2003). Trust and TAM in online shopping: An integrated model.
+MIS Quarterly, 27(1), 51–90.
+Gefen, D., Straub, D., & Boudreau, M. C. (2000). Structural equation modeling and regression:
+Guidelines for research practice. Communications of the Association for Information Systems, 4
+(7), 1–79.
+Gencer, M. (2011). The mobile money movement: Catalyst to jump-start emerging markets.
+Innovations, 6(1), 101–117.
+
+20
+
+B. NARTEH ET AL.
+
+GSMA. (2009). GSMA announces that global mobile connections surpass 5 billion, Retrieved January 5,
+2011, from www.gsmworld.com/newsroom/press-releases/2010/5265.htm
+Guhr, N., Loi, T., Wiegard, R., & Breitner, M. H. (2013). Technology readiness in customers’ perception
+and acceptance of M (obile)-payment: An empirical study in Finland, Germany, the USA and Japan.
+Technology, 1, 1–2013.
+Guriting, P., & Ndubisi, O. N. (2006). Borneo online banking: Evaluating customer perceptions and
+behavioural intention. Management Research News, 29(1/2), 6–15.
+Gutierrez, E., & Choi, T. (2014). Mobile money services development: The cases of the Republic of Korea
+and Uganda. Policy Research Working Paper No. 6786. Washington, DC: World Bank. https://
+openknowledge.worldbank.org/handle/10986/17339.
+Hair, J., Ringle C. M., & Sarstedt M. (2011). PLS-SEM: Indeed a silver bullet. Journal of Marketing Theory
+and Practice, 19(2), 139–151.
+Henseler, J., Ringle, C., & Sinkovics, R. (2009). The use of partial least squares path modeling in international marketing. In (Ed.), New challenges to international marketing (pp. 277–319). Bingley:
+Emerald Group Publishing Limited.
+Jarvenpaa, S. L., & Staples, D. S. (2000). The use of collaborative electronic media for information
+sharing: An exploratory study of determinants. The Journal of Strategic Information Systems, 9(2),
+129–154.
+Jiang, G., & Deng, W. (2011). An empirical analysis of factors influencing the adoption of mobile
+instant messaging in China. International Journal of Mobile Communications, 9(6), 563–583.
+Kim, M. J., Chung, N., & Lee, C. K. (2011). The effect of perceived trust on electronic commerce:
+Shopping online for tourism products and services in South Korea. Tourism Management, 32(2),
+256–265.
+Kim, S. H., Jang, S. Y., & Yang, K. H. (2016). Analysis of the determinants of software-as-a-service adoption in small businesses: Risks, benefits, and organizational and environmental factors. Journal of
+Small Business Management.
+Kim, C., Mirusmonov, M., & Lee, I. (2010). An empirical examination of factors influencing the intention to use mobile payment. Computers in Human Behaviour, 26(3), 310–322.
+Kleijnen, M., Lee, N., & Wetzels, M. (2009). An exploration of consumer resistance to innovation and its
+antecedents. Journal of Economic Psychology, 30(3), 344–357.
+Kuhlmeier, D., & Knight, G. (2005). Antecedents to internet-based purchasing: A multinational study.
+International Marketing Review, 22(4), 460–473.
+Kusimba, S., Chaggar, H., Gross, E., & Kunyu, G. (2013). Social networks of mobile money in Kenya.
+Institute for Money, Technology & Financial Inclusion (IMTFI), Working Paper, 1.
+Lee, Y. H. (2007). Exploring key factors that affect consumers to adopt E-Reading Services (Unpublished
+master thesis). Huafan University.
+Lee, Y. H., Hsieh, Y. C., & Hsu, C. N. (2011). Adding innovation diffusion theory to the technology
+acceptance model: Supporting employees’ intentions to use E-learning systems. Educational
+Technology & Society, 14(4), 124–137.
+Liang, H., Saraf, N., Hu, Q., & Xue, Y. (2007). Assimilation of enterprise systems: The effect of institutional pressures and the mediating role of top management. MIS Quarterly, 59–87.
+Liu, Y., & Li, H. (2010). Mobile internet diffusion in China: An empirical study. Industrial Management &
+Data Systems, 110(3), 309–324.
+Lopez-Nicolas, C., Molina-Castillo, F. J., & Bouwman, H. (2008). An assessment of advanced mobile
+services acceptance: Contributions from TAM and diffusion theory models. Information &
+Management, 45, 359–364.
+Luarn, P., & Lin, H. H. (2005). Toward an understanding of the behavioural intention to use mobile
+banking. Computers in Human Behavior, 21(6), 873–891.
+Lymperopoulos, C., & Chaniotakis, I. E. (2005). Factors affecting acceptance of the internet as a marketing-intelligence tool among employees of Greek bank branches. International Journal of Bank
+Marketing, 23(6), 484–505.
+Mahmoud, M. A., & Hinson, R. E. (2012). Market orientation, innovation and corporate social responsibility practices in Ghana’s telecommunication sector. Social Responsibility Journal, 8(3), 327–346.
+
+THE SERVICE INDUSTRIES JOURNAL
+
+21
+
+Malhotra, N. K., & Birks, D. F. (2007). Marketing research: An applied approach. Harlow: Pearson
+Education.
+Mallat, N. (2007). Exploring consumer adoption of mobile payments – a qualitative study. Journal of
+Strategic Information Systems, 16(4), 413–432.
+Mathieson, K. (1991). Predicting user intentions: Comparing the technology acceptance model with
+the theory of planned behavior. Information Systems Research, 2(3), 173–191.
+Mehrtens, S. I., Cragg, P. B., & Mills, A. M. (2011). A model of internet adoption by SMEs. Information
+and Management, 39(3), 165–176.
+Mohd Suki, N. (2013). Students’ dependence on smart phones: The influence of social needs, social
+influences and convenience. Campus-Wide Information Systems, 30(2), 124–134.
+Moore, G. C., & Benbasat, I. (1991). Development of an instrument to measure the perceptions of
+adopting an information technology innovation. Information Systems Research, 2(3), 192–222.
+Myers, M. D. (1997). Qualitative research. MIS Quarterly, 21(2), 241–242.
+NCA. (2016). Telecom voice subscription for December 2016. Retrieved April 13, 2017, from http://www.
+nca.org.gh/assets/Uploads/Voice-Statistics-December-2016.pdf
+Ndubisi, O. N., & Sinti, Q. (2006). Consumer attitudes, system’s characteristics and internet banking
+adoption in Malaysia. Management Research News, 29(1/2), 16–27.
+Nunnally, J. C., & Bernstein, I. H. (1994). The assessment of reliability. Psychometric Theory, 3(1), 248–
+292.
+Nyshadham, E. A. (2000). Consumer perceptions of online transaction security – a cognitive explanation
+of the origins of perception. AMCIS 2000 Proceedings, 111.
+Osei-Assibey, E. (2014). What drives behavioural intention on mobile money adoption? The case of
+Ancient Susu saving operations in Ghana. Institute of money, technology and financial inclusions,
+working paper 1.
+Padashetty, S., & Krishna, S. V. (2013). An empirical study on consumer adoption of mobile payments in Bangalore city: A case study. International Journal of Arts, Science & Commerce, 4, 54–57.
+Paluch, S., & Wünderlich, N. V. (2016). Contrasting risk perceptions of technology-based service innovations in inter-organizational settings. Journal of Business Research, 69(7), 2424–2431.
+Pavlou, P. A. (2003). Consumer acceptance of electronic commerce: Integrating trust and risk with the
+technology acceptance model. International Journal of Electronic Commerce, 7(3), 69–103.
+Persaud, A., & Schillo, S. R. (2017). Purchasing organic products: Role of social context and consumer
+innovativeness. Marketing Intelligence & Planning, 35(1), 130–146.
+Pihlajamäki, A. (2004). Mobile payments. Seminar on networking business, Fall, Helsinki University of
+Technology, Networking Laboratory.
+Puschel, J., Mazzon, J. A., & Hernandez, J. M. C. (2010). Mobile banking: Proposition of an integrated
+adoption intention frame-work. International Journal of Bank Marketing, 28, 389–409.
+PWC. (2016). Ghana banking survey: How to win in era of mobile money. Retrieved April 13, 2017, from
+https://www.pwc.com/gh/en/assets/pdf/2016-banking-survey-report.pdf
+Ramayah, T., Jantan, M., & Aafaqi, B. (2003, July). Internet usage among students of institutions of higher
+learning: The role of motivational variables (pp. 10–12). The proceedings of the 1st international
+conference on Asian Academy of Applied Business conference, Sabah, Malaysia.
+Ramayah, T., Siron, R., Dahlan, N., & Mohamad, O. (2002, October). Technology usage among owners/
+managers of SME’s: The role of demographic and motivational variables. The proceedings of the 6th
+Annual Asian-Pacific Forum for small business on small and medium enterprises linkages, networking and clustering, Kuala Lumpur, Malaysia.
+Rogers, E. M. (1983). Diffusion of innovations (3rd ed.). New York, NY: The Free Press.
+Rogers, E. M. (1995). Diffusion of innovations (4th ed.). New York, NY: Free Press.
+Rogers, E. (2003). Diffusion of innovations (5th ed.). New York, NY: Free Press.
+Shin, D. H. (2007). User acceptance of mobile internet: Implication for convergence technologies.
+Interacting with Computers, 19, 472–483.
+Siau, K., & Shen, Z. (2003). Building customer trust in mobile commerce. Communications of the ACM,
+46(4), 91–94.
+Smith, E. R., & Mackie, D. M. (2015). Dynamics of group-based emotions: Insights from intergroup
+emotions theory. Emotion Review, 7(4), 349–354.
+
+22
+
+B. NARTEH ET AL.
+
+Tan, M., & Teo, T. S. H. (2000). Factors influencing the adoption of internet banking. Journal of the
+Association for Information Systems, 1(1), 1–42.
+Taylor, S., & Todd, P. (1995). Assessing IT usage: The role of prior experience. MIS Quarterly, 561–570.
+Thomas, V. L., Jewell, R. D., & Wiggins Johnson, J. (2015). Hidden consumption behaviour: An alternative response to social group influence. European Journal of Marketing, 49(3/4), 512–531.
+Tian, L., Shi, J., & Yang, Z. (2009). Why does half the world’s population have a mobile phone? An
+examination of consumers’ attitudes toward mobile phones. CyberPsychology & Behavior, 12(5),
+513–516.
+Tobbin, P. E. (2010). Modeling adoption of mobile money transfer: A consumer behaviour analysis. Paper
+presented at The 2nd International Conference on Mobile Communication Technology for
+Development, Kampala, Uganda.
+Tobbin, P. (2011). Understanding mobile money ecosystem: ROLES, structure and strategies. In Mobile
+Business (ICMB), 2011 Tenth International Conference on (pp. 185–194). IEEE.
+Tobbin, P. (2012). Towards a model of adoption in mobile banking by the unbanked: A qualitative
+study. Information, 14(5), 74–88.
+Tobbin, P., & Kowornu, J. K. M. (2011). Adoption of mobile money transfer technology: Structural
+equation modelling approach. European Journal of Business and Management, 3(7), 59–77.
+Venkatesh, V., & Morris, M. G. (2000). Why don’t men ever stop to ask for directions? Gender,
+social influence, and their role in technology acceptance and usage behaviour. MIS Quarterly,
+24, 115–139.
+Venkatesh, V., Morris, M., Davis, G., & Davis, F. (2003). User acceptance of information technology:
+Toward a unified view. MIS Quarterly, 27(3), 425–478.
+Wei, T. T., Marthandan, G., Chong, A. Y. L., Ooi, K. B., & Arumugam, S. (2009). What drives Malaysian mcommerce adoption? An empirical analysis. Industrial Management & Data Systems, 109(3), 370–
+388.
+Wei, G., Xinyan, Z., & Yue, M. (2011). Literature review on consumer adoption behavior of mobile commerce services. International Conference on E-Business and E-Government (ICEE), 6-8, 1-5.
+Wireless Intelligence. (2012). Dashboard, Africa. Retrieved April 4, 2016, from https://
+wirelessintelligence.com/analysis/2012/04/dashboard-africa-2012
+Yeboah-Asiamah, E., Nimako, S. G., Quaye, D. M., & Buame, S. (2016). Implicit and explicit loyalty: The
+role of satisfaction, trust and brand image in mobile telecommunication industry. International
+Journal of Business and Emerging Markets, 8(1), 94–115.
+Zhou, T. (2011). An empirical examination of users’ post-adoption behaviour of mobile services.
+Behaviour & Information Technology, 30(2), 241–225.
+
+

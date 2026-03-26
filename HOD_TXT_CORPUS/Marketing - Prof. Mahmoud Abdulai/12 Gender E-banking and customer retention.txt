@@ -1,0 +1,2111 @@
+Journal of Global Marketing
+
+ISSN: 0891-1762 (Print) 1528-6975 (Online) Journal homepage: https://www.tandfonline.com/loi/wglo20
+
+Gender, E-Banking, and Customer Retention
+Mahmoud Abdulai Mahmoud
+To cite this article: Mahmoud Abdulai Mahmoud (2019): Gender, E-Banking, and Customer
+Retention, Journal of Global Marketing, DOI: 10.1080/08911762.2018.1513108
+To link to this article: https://doi.org/10.1080/08911762.2018.1513108
+
+Published online: 15 May 2019.
+
+Submit your article to this journal
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=wglo20
+
+JOURNAL OF GLOBAL MARKETING
+https://doi.org/10.1080/08911762.2018.1513108
+
+Gender, E-Banking, and Customer Retention
+Mahmoud Abdulai Mahmoud
+Department of Marketing and Entrepreneurship, University of Ghana Business School, University of Ghana, Legon, Accra
+KEYWORDS
+
+ABSTRACT
+
+This research seeks to investigate the role of gender in the relationship between e-banking
+dimensions and customer retention. A measure of the key constructs was developed
+based on prior research. A survey approach was adopted to gather the research data. The
+study is guided by the social script theory. Gender plays different roles in the relationship
+with e-banking dimensions and customer retention. The study provides critical evidence to
+support the social script theory, such that gender moderates the relationships between convenience, website design and customer retention. The study aids managers of banks to recognize e-banking components that are not affected by gender and those that are ingrained.
+This has implications for e-banking segmentation strategies and tactics. Gender issues are
+important to the local and national economies, and also the global community. The study is
+focused on a specific industry and thus curtails our understanding in other sectors of
+the economy.
+
+Introduction
+
+Gender’s role in decision making with respect to
+technological adoption appears to be narrowing
+among the consuming public, particularly with
+regard to decisions about using electronic banking technologies to do business. Culturally, men
+are more likely than women to be influenced to
+use these technologies. There are numerous initiatives to ensure that there is parity among consumers, no matter their gender. Technology
+adoption is no longer the preserve for a certain
+gender category. In addition, gender issues
+remain quite relevant in academic circles. It is
+not surprising that the Journal of Global
+Marketing published a special issue on gender
+issues in marketing and entrepreneurship in
+2017. This signifies the potency of gender-related
+issues in the academic literature and demonstrates that they are worthy of continued
+research. Globally, works on the role of technology in business performance have been conducted in extant scholarly literature (Lim et al.,
+2017; Nysveen, Pedersen & Thorbjørnsen, 2005;
+Wolin, 2003). Gender as a moderating or
+CONTACT Mahmoud Abdulai Mahmoud
+mamahmoud@ug.edu.gh
+School, P. O. Box LG 78, Legon, Accra, Ghana.
+ß 2018 Taylor & Francis Group, LLC
+
+Gender; e-banking;
+customer retention; social
+script theory
+
+mediating variable has been considered in prior
+studies (Floh & Treiblmaier, 2006; Nysveen et al.,
+2005; Wolin, 2003). These studies demonstrate
+that the area of inquiry is not new and that this
+current investigation is only seeking to extend
+knowledge by making a modest contribution to
+the existing body of empirical knowledge.
+In contemporary times, the banking industry is
+global in nature. As a result, the industry faces a
+competitive environment; banks are forced to
+adopt new technologies in carrying out their
+operations. Thus, electronic banking may be the
+instigator of this new environment and the prime
+mover in terms of providing the potential solution for a bank’s survival in the near future
+(Anyasi & Otubu, 2009; Kadir, Rahmani, &
+Masinaei, 2011a, 2011b; Musiime & Biyaki,
+2010). Research has proven that electronic banking services (EBS) are the wave of future banking
+by providing enormous benefits to consumers in
+terms of ease and cost of transactions through
+online banking (Markku, 2012; Nsouli &
+Schaechter, 2002). It will be interesting to both
+practitioners and academics to understand how
+Department of Marketing and Entrepreneurship, University of Ghana Business
+
+2
+
+M. ABDULAI MAHMOUD
+
+gender dovetails in the e-banking and customer
+retention relationship. Would gender moderate
+the relationship between e-banking dimensions
+and customer retention? This current study is
+focusing on the role of gender in the relationship
+between e-banking and customer retention.
+The study is relevant to bank managers for
+their strategic planning purposes. It will inform
+managers about the role gender plays and what
+emphasis they need to place on gender in making
+strategic decisions with respect to e-banking.
+Customers of e-banking might also find the study
+to be useful since it reveals a certain behavior
+pattern in relation to gender. Though there are
+studies on e-banking and customer retention,
+research on gender roles is very inadequate.
+Through contributing to the body of knowledge
+in this area, this research adds significant value.
+Moreover, the study presents valuable information on the market behavior of customers in
+Ghana, which may be unfamiliar to many readers, particularly at the global level. The key
+objective of this study is to establish the moderating role of gender as a categorical variable and
+the association between e-banking dimensions
+and customer retention. Having identified the
+research problem and the research objective, the
+study is organized as follows: Following the introduction of the study is the theoretical underpinning. Next is a literature review of the major
+constructs of the study, followed by the methodology, the results and findings of the study.
+Discussions and implications follow. The conclusions, limitations, and directions for future studies are presented subsequently.
+Theoretical underpinning
+
+The theoretical underpinning of this study is the
+social script theory. The social script theory
+explains how social constructs influence socially
+mediated meaningful activities (Lim et al., 2017).
+In assessing the usage of e-banking services,
+according to the social script theory, social constructs can influence the user’s response and
+evaluation by pre-defining the roles and scripts
+of users based on their distinct social groups
+(Clair, Robert, Thome-Williams, & Lichang,
+2005). It is emphasized in this theory that social
+
+behavior is scripted. Consequently, two individuals who are presented with identical stimuli will
+react differently to the situation because they
+have defined the context of that situation differently. Relating this to gender, the concept of self,
+significant others, social roles, social relationships, defining the context of the situation, episodic memory, and social scripts have been
+socially defined differently for males and females.
+Those differences have been present in several
+ways. For instance, previous research indicates
+that females are less satisfied than males with
+their online experience (Rodgers & Harris, 2003).
+In addition, Sanchez-Franco, Ramos, and Velicia
+(2009) found that females show greater risk aversion and less trust in the use of the Internet.
+Also, while males value their ability to post content online (convenience and reliability), females
+value the responsiveness of the online platform
+(Awad & Ragowsky, 2008; See-To & Ho, 2014).
+Literature review
+
+The process involved in reviewing the literature
+was through a web search of credible academic
+databases for scholarship which have previously
+investigated the subject matter.
+Electronic banking
+
+Electronic banking services are operationalized as
+banking services driven by information technology that enable customers to acquire a service
+without direct employee involvement (Yaghubi &
+Seyedin, 2015). Propelled by the Internet, electronic banking is referred to as online banking
+(Bauer, Hammerschmidt, & Falk, 2005; Floh &
+Treiblmaier, 2006), and it comprises the services
+provided by a bank to its customers over the
+Internet (Daniel, 1999).
+Technological developments in the area of
+information and telecommunications technology
+are transforming the banking sector. Electronic
+banking is facing a new revolution with the
+development of this technology. Largely, it seems
+clear that the effect of electronic banking is facilitating a more economical way of exchanging
+information (Sohail & Shanmugham, 2003).
+
+JOURNAL OF GLOBAL MARKETING
+
+Comparing electronic and offline banking, the
+quality dimensions are not far apart (Bauer et al.,
+2005). Fundamentally, the quality dimensions of
+services and products are a key determinant of
+customer loyalty behaviors, such as retention
+(Caruana, 2002; Cronin & Taylor, 1992;
+Parasuraman et al., 1988). In e-banking, the quality of the electronic products and services, as well
+as the tools for delivery, are criticial in determining customer retention and other loyalty behaviors. These customer service quality dimensions,
+nonetheless, represent a useful starting point for
+assessing the quality of e-banking. Also to note,
+the quality dimension specifically related to
+online systems is the cognitive analysis of quality,
+under which a compensatory process is employed
+to evaluate the quality attributes of technologybased products and services (Dabholkar, 1996).
+Several studies have proposed differing constituents of e-banking quality dimensions. For
+instance, Ganguli and Roy (2011) identified ebanking quality dimensions as ease of use, reliability, security, convenience, information quality,
+and customer service. Jun and Cai (2001) also
+developed 17 dimensions of e-banking, which
+include diverse features/product variety, courtesy,
+responsiveness, reliability, competence, access,
+ease of use, credibility, communication, understanding the customer, esthetics, collaboration,
+continuous improvement, accuracy, security, content, and timeliness. Similarly, M€aenp€a€a (2006)
+examined e-banking quality with seven dimensions: auxiliary features, convenience, security,
+status, investment, personal finances, and exploration. In another study, Joseph, McClure, and
+Joseph (1999) used efficiency, accessibility, convenience/accuracy, queue management, customization, and feedback/complaint management to
+measure the quality of e-banking. Kumbhar
+(2011) proposed that the dimensions of e-banking should include system availability, accuracy,
+e-fulfillment, efficiency, security, responsiveness,
+ease of use, convenience, cost-effectiveness, compensation, problem handling, and contact. Auta
+(2010) found security, queue management, user
+friendliness, time, accessibility, and fund transfer
+to be the most important dimensions of e-banking quality. Trust also emerged as a fundamental
+determinant of e-banking in a study conducted
+
+3
+
+by Zhou (2012). Sohail and Shanmugham (2003)
+suggested accessibility, reluctance, costs, trust,
+security, convenience, and ease of use as the
+most significant dimensions of e-banking. In a
+similar study by Liao and Cheung (2002), convenience, user experience, user friendliness, user
+involvement, security, and speed emerged as the
+significant dimensions of e-banking. Other reliable and trusted dimensions, such as usefulness,
+seamlessness, gratification, irritation, etc., were
+not considered, as they were only reliably tested
+in contexts other than e-banking, most notably in
+online shopping (see Lim, 2013a, 2013b, 2015;
+Lim & Ting, 2012a, 2012b, 2014).
+This study adopts only the key dimensions
+which are related to customer service and, at the
+same time, related to online systems (Jiang et al.,
+2016). The following are the core dimensions of
+e-banking adopted for this study: trust (Masoud
+& AbuTaqa, 2017; Sohail & Shanmugham, 2003),
+reliability (Jiang et al., 2016; Yaghubi & Seyedin,
+2015), responsiveness (Asfaw, 2017; Ibrahim
+et al., 2006; Yap et al., 2010), website design
+(Ahmad & Al-Zu’bi, 2011; Bacinello et al., 2017),
+convenience (Jiang et al., 2016; Sohail &
+Shanmugham, 2003), and personalization (Lee &
+Lin, 2005; Rod et al., 2009).
+Trust
+
+For quite some time, trust has been viewed as a
+catalyst for buyer/seller exchanges that provide
+buyers with the required fulfilling trade relationship (Spekman & Carraway, 2006). For instance,
+Akbar and Parvez (2009) identified trust as
+necessary for attaining customer loyalty. It has
+been identified as the main issue of concern
+when engaging in electronic business. Trust is
+essential whenever there is the existence of interdependence and uncertainty (Yousafzai, Pallister,
+& Foxall, 2009). The connection existing between
+electronic banking and level of trust has not fully
+been clarified. However, it is one of the essential
+parts in most social and business relationships at
+whatever point doubt and risk exist (Mcknight
+et al., 2002). Trust has been identified as a basic
+factor for the achievement of electronic banking.
+This is due to the open and worldwide nature of
+different web systems as an exchange framework
+
+4
+
+M. ABDULAI MAHMOUD
+
+where uncertainty emerges; risk in online
+exchanges makes trust an important component
+of electronic banking. The lack of direct physical
+contact between parties in the online transaction
+means that consumers cannot use physical cues,
+such as observing the physical office space, to
+judge trustworthiness (Yap et al., 2010). Findings
+from extant research show that trust not only
+activates intent to use e-banking (Liu & Wu,
+2007; Suh & Han, 2002), but trust in e-banking
+has also been found to be an antecedent to
+commitment to e-banking (Kassim & Kader
+Mohammed
+Ahmed
+Abdulla,
+2006;
+Vatanasombut et al., 2008). Lee et al. (2007)
+reported that, in online transactions, trust permits partners to rise above short-run disparities
+or dangers to focus on long-term benefits. This
+can ensure long-term patronage by customers (retention).
+Moreover, Lee and Turban (2001) found that
+the lack of physical interaction and a physical
+branch provide a distinctive environment in
+which trust is of utmost importance. Most consumers and customers find it difficult to adopt
+the services of e-banking due to privacy and
+security concerns. Aladwani (2001) thus confirmed that trust is an essential aspect for
+Internet banking. Consequently, the survival of
+Internet banking is dependent on the ability of
+banks to persuade consumers and customers to
+make transactions online or bank electronically.
+Mukherjee and Nath (2003) argue that banks can
+build a mutual relationship with customers via
+trust-based collaboration procedures. In general,
+trust improves the consumer’s beliefs about the
+e-retailer and the associated infrastructure,
+attenuating the perceived level of risk associated
+with the transaction process (Yousafzai et al.,
+2005, 2009). Trust reduces the risk involved in
+transacting with an e-retailer. Thus, trust in an ebanking institution reduces risk beliefs about
+online banking transactions with that e-banking
+institution.
+Empirically, Ndubisi (2006) discovered that
+significant gender differences exist in the trustloyalty relationship. Women are found to be significantly more loyal than men at higher levels of
+trust in the bank. This finding implies that gender issues are pertinent in the banks’ e-service
+
+delivery and their ability to retain customers. As
+cited in Kim and Peterson (2017), a study including online trust and gender revealed that females
+exhibited lower levels of trust with respect to
+shopping via the Internet than males. In another
+study, there was no critical distinction in trust
+between males and females. Kivij€arvi, Laukkanen,
+and Cruz (2007) noted that, with regards to
+online financial services, it is helpful to test the
+role of gender in trust-based research.
+
+Reliability
+
+Reliability is described as the ability for organizations to provide expected standards, deliver and
+address customers’ problems, and deliver promised services at the right time. Yang and Fang
+(2004) mention that reliability comprises accurate
+processes of orders, billing, and fulfillment, which
+keeps the service attractive to the consumer. Nui
+Polatoglu, and Ekin (2001) found that the reliability dimension was an important determinant
+for consumers who used electronic banking.
+Reliability is the consistency of delivery and
+dependability in e-banking systems (Cox & Dale,
+2001; Tih & Ennis, 2004). Online banking is considered reliable if it performs the service as
+promised (Tan et al., 2003), if the banking platform is available 24/7 and is in working condition (Yang, 2003; Zeithaml et al., 2000). Also,
+according to Liao and Cheung (2002), reliability
+was positively related to the use of electronic
+banking. They concluded that the more reliable a
+consumer perceived electronic banking to be, the
+more likely they were to use electronic banking.
+Inherently, reliability is an important determinant
+of general service quality (Parasuraman et al.,
+1988). It is further established that customers of
+electronic banking services may be especially concerned about the reliability of new service delivery options based on technology because they
+may envision some performance risk in that these
+options may not work well (Dabholkar, 1996).
+Reliability, performance, and dependability of ebanking systems are therefore a very important
+dimension of e-banking quality that can determine customer retention.
+
+JOURNAL OF GLOBAL MARKETING
+
+5
+
+Responsiveness is explained as the capacity for
+firms to attend to the requirements of customers
+on a flexible and timely basis. Mariappan (2006)
+mentioned that the business environment has
+experienced changes due to the revolution of
+information technology in the banking and financial institution sectors. Consequently, banks need
+to embrace electronic banking to deliver good
+service and also to decrease cost by creating
+value-added services for customers and consumers (Zhu, Wymer, & Chen, 2002). In the case of
+the responsiveness dimension, Karjaluoto et al.
+(2002) demonstrated that electronic banking
+users believed that electronic banking responded
+faster to their needs than other traditional modes
+of banking; for example, the speed of bill payment via the Internet. In addition, Nui Polatoglu
+and Ekin (2001) identified instant feedback, quick
+transactions, and easy access as important attributes in electronic banking. Furthermore, Liao and
+Cheung (2002) and Gerrard and Cunningham
+(2005) found that the transaction speed (the perceived speed of response from electronic banking) and the fast access to electronic banking
+accounts were important attributes for consumers
+who used electronic banking. The willingness to
+assist users by responding speedily to customers
+explains the responsiveness measurement (Bauer
+et al., 2006). Bauer et al. (2006) posited that the
+responsiveness measurement has appeared to
+impact the term of relationships with clients.
+
+performance of a firm’s website determines their
+ability to retain their customers (Cheung &
+Limayem, 2005; Chiu et al., 2009). Scherer et al.
+(2015) confirmed the positive link between website performance and customer retention. In the
+banking sector, Jayawardhena (2004) used e-client
+assessments for the quality of banking service
+and proposed an access model consisting of four
+dimensions: web interface, trust, attention, and
+credibility. He also found that customers placed a
+greater emphasis on web elements (download
+speed, ease of navigation, visual presentation aids,
+search function and efficiency). If a consumer is
+satisfied with a firm’s website, he/she can continue his/her relationship with the website.
+However, the consumer might discontinue the
+relationship if he/she is dissatisfied with the website (Ltifi, 2018). Ladhari and Leclerc (2013) posited that there are contrasts in gender
+impressions of e-trust, e-loyalty, e-satisfaction,
+and website service quality. Lin and Sun (2009)
+reported that, in order to attract and retain clients, e-retailers must comprehend that the principal necessity is to provide great website quality to
+their clients. Clients’ worries about how reliable
+the quality of an online channel may be influence
+whether they embrace an e-financial services
+website and how frequently they utilize it
+(Yousafzai et al., 2003). According to Sohail and
+Shanmugham (2003), good website design not
+only provides a direct contact between the firm
+and its consumers or customers, but it also provides room for innovation to take place.
+
+Website design
+
+Convenience
+
+It is essential to understand the objectives of a
+website before they are designed. A well-designed
+website helps to create added value and motivates
+customers to repeatedly pay visits to the website.
+As such, firms need to create an interactive and
+content-rich website to attract more customers.
+Udo and Marquis (2001) found that a very
+interactive website helps to attract and keep customers in the long run, reducing customer support cost as well as increasing revenues. In a
+similar vein, Nielsen (2001) reported that as electronic banking is increasing all the time, banks
+should therefore focus more on designing their
+websites for effective communication. The
+
+Convenience has been one of the key motives for
+using electronic banking. Convenience is the ability of online banking to meet users’ needs using
+the different features availabile (Malarvizhi,
+2011). Convenience focuses on resources such as
+time and effort required of the consumer in
+shopping for a product (Brown, 1990). Kaura
+et al. (2015) define a convenience-oriented consumer as one who seeks to accomplish a task in
+the shortest time with the least expenditure of
+human energy. Service convenience can be
+thought of as a means of adding value to consumers by decreasing the amount of time and
+effort a consumer must expend on the service
+
+Responsiveness
+
+6
+
+M. ABDULAI MAHMOUD
+
+(Colwell et al., 2008). According to the Pew
+Center (2005), convenience provides an impulse
+for the usage of Internet banking among
+American users. Huang (2002) mentions that
+people will choose between traditional or electronic services based on convenience. Akbar and
+Parvez (2009) stress that convenience is one of
+the major factors to be considered when an individual wants to adopt Internet banking. It is
+because of this motive that banks need to make
+sure that their banking systems are integrated in
+a way to increase customers’ convenience. Kerem
+(2002) emphasizes that banks therefore need to
+make sure management aspects are reviewed to
+ensure better convenience for customers for the
+success of electronic banking.
+Personalization
+
+Personalization involves customizing products
+and services to the needs and wants of consumers
+and customers. It has become one of the most
+important factors to consider when determining
+which things need to be personalized and how
+they should be presented (Hiltunen, Heng, &
+Helgesen, 2004). Mittal and Lassar (1996) defined
+personalization as the social content of interaction between service employees and their customers. Personalization concerns the manner in
+which service employees relate to customers as
+people–either coldly and impersonally or warmly
+and personally. Personalization is distinct from
+customization and responsiveness, both of which
+can be offered with a total lack of personalization. First, both can be offered by a service delivery system that need not entail any interpersonal
+contact; second, an interpersonal contact
+employee could be quite responsive, attending to
+customer needs promptly and dutifully but in a
+mechanical fashion; and third, a service employee
+could be warm and friendly, yet ignore task
+imperatives such as being responsive. Hanson
+(2000) highlights that a bank that provides personalized service differentiates itself from other
+competitors. Thus, when there is high service differentiation, it provides banks with the opportunity to compete effectively in the marketplace,
+become more profitable, and improve performance (Chan Kim & Mauborgne, 2005).
+
+Tam and Ho (2006) and Xu et al. (2014) found
+that personalization has influenced different
+aspects of decision making and information processing. It was discovered that personalization in
+various settings increases performance expectancy
+(Ahmad & Al-Zu’bi, 2011; Mathew & Stone,
+2003). The electronic environment enables advertisers to construct profiles of their clients (both
+males and females) and to build up an intelligent
+relationship with the goal of promoting correspondence that can be personalized, keeping in
+mind the end goal of addressing customers’
+issues and needs (Yang et al., 2014).
+Customer retention
+
+Ahmad and Buttle (2001) report that customer
+retention can be seen as the mirror image of customer defection, where a high retention rate has
+the same significance as a low defection rate.
+Customer retention management can be problematic if it is not defined precisely in a way
+appropriate to the firm’s business. Bowen and
+Chen (2015) note that satisfying a customer is
+not enough, implying that banks must not only
+satisfy, but also exceed, customers’ expectations
+so as to ensure customer loyalty. Increasing customer loyalty increases the odds of customer
+retention. According to Zineldin (2006), customer
+retention is a commitment to continue to do
+business or exchange with a particular company
+on an ongoing basis. Oliver (1997, p. 392) views
+it as a “deeply held commitment to rebuy or
+repatronise a preferred product or service consistently in the future, despite situational influences
+and marketing efforts having the potential to
+cause switching behavior.” Motiwala (2008)
+defines customer retention as maintaining the
+existing customer base by establishing good relations with all who buy the company’s products.
+In simple terms, it is the ability to maintain existing customers by establishing profitable and cordial relationships with them while delivering
+superior quality services.
+The ability of banks to attract, grow, and retain
+customers in this competitive landscape has led
+to the development of certain marketing strategies. Customers can be satisfied with the services
+provided by a service provider, but this
+
+JOURNAL OF GLOBAL MARKETING
+
+satisfaction does not guarantee retention. With
+this in mind, banks must focus on a variety of
+strategies that go beyond satisfying a customer to
+ensuring customer retention. Concentrating on
+retaining customers can yield numerous benefits
+and, for this reason, good retention strategies
+that will identify barriers and deter customers
+from switching to a competitor must be developed (Buttle 2004; Ahmad & Buttle, 2002).
+Numerous researchers have indicated that
+increasing customer retention has a positive
+impact on business profits; also, a company can
+increase its customer retention rates by being
+responsive to customers’ problems and ensuring
+that problems are addressed properly and on
+time. In view of this, service firms should strive
+to increase their customer retention rates by
+developing a good retention strategy and being
+responsive to customer needs. This will serve as a
+competitive advantage over competitors in the
+market, which is vital for business growth and
+profitability (Flambard-Ruaud, 2005). Richard
+et al. (2010) reported that women were observed
+to be more relationship-oriented than men. This
+is confirmed by women’s associations online with
+consumers and service providers.
+Conceptual model and hypotheses
+
+The study makes an important contribution by
+proposing a conceptual model about electronic
+banking and customer retention as influenced by
+e-banking site usage factors such as trust, reliability, responsiveness, website design, convenience,
+and personalization. The model uses a moderating variablel namely, gender (see Figure 1).
+Gender, e-banking dimensions, and
+customer retention
+
+Gender is often identified as a key moderator in
+consumer behavior studies (Bendall-Lyon &
+Powers, 2002; Dommeyer & Gross, 2003; Lim
+et al., 2017). It is posited that women and men
+differ in their perception and evaluation of online
+platforms and systems. For instance, Venkatesh
+and Morris (2000) find gender differences in the
+motives for using a new software system at a
+workplace. The literature on gender issues in, for
+
+7
+
+E-Banking Dimensions
+
+x
+x
+x
+x
+x
+x
+
+Trust
+Reliability
+Responsiveness
+Website Design
+Convenience
+Personalisation
+
+Customer Retention
+
+Gender
+
+Figure 1. Conceptual framework.
+
+example, technology adoption is vast and findings
+suggest that women and men make decisions
+with respect to technology adoption differently,
+and consequently, respond differently to innovation efforts of companies. The results from previous studies indicate differential effects of
+gender on motives for using information technology. Identifying such effects is important, both
+for better being able to tailor technological products and marketing communication to gender
+segments and for better understanding the different motives underlying new technology adoption
+(Nysveen et al., 2005).
+Gender differences exist in the extant scholarly
+literature (Colley et al., 2009; Shi, Chen, & Chow,
+2016). In this regard, gender differences are
+entrenched in a social interaction in a given culture. The social script theory highlights that men
+and women respond and evaluate marketing
+information and online platforms differently due
+to the different social roles and social relationships into which they have been indoctrinated.
+This suggests that gender differences in the
+results should be expected for the relationships
+between the dimensions of electronic banking
+and customer retention. As established in the
+extant literature reviewed, the dimensions of ebanking are expected to have a significant relationship with customer retention.
+Trust, customer retention, and gender
+
+The works of Lee et al. (2007), Ndubisi (2006),
+and Kim and Peterson (2017) empirically stipulate that trust plays a significant role in customer
+patronage of e-banking services. Specifically, Lee
+et al. (2007) established that trust makes customers transcend short-term problems to focus on
+long-term usage and benefits. Trust ensures continuous patronage of online banking systems,
+
+8
+
+M. ABDULAI MAHMOUD
+
+even after initial setbacks and challenges, hence
+leading to customer retention. On gender differences in the use of e-banking with trust as a factor, Kim and Peterson (2017) observed
+differences between men and women. They found
+that women exhibited lower levels of trust with
+respect to shopping via the Internet than men.
+Similarly, Ndubisi (2006) revealed that women
+are found to be significantly more loyal than men
+at higher levels of trust in the bank. It is therefore hypothesized that:
+
+by bank customers. Sindwani and Goel (2015)
+also noted that the responsiveness of the e-banking systems attracts customers, improves satisfaction, and enhances loyalty and retention. As a
+moderating variable, Floh and Treiblmaier (2006)
+discovered differences in the responses between
+male samples and female samples in their study
+on e-banking dimensions and customer loyalty.
+This study, therefore, proposes that:
+H3: The effect of responsiveness in electronic banking
+and customer retention is moderated by gender.
+
+H1: The effect of trust in electronic banking and
+customer retention is moderated by gender.
+
+Website design, customer retention, and gender
+Reliability, customer retention, and gender
+
+Reliability has been empirically tested as a dimension of e-banking by Dabholkar (1996), Nui
+Polatoglu and Ekin (2001), and Liao and Cheung
+(2002). They all established that reliability of an ebanking system is positively related to its use, satisfaction, and subsequent retention of customers
+(Sindwani & Goel, 2015). As previously mentioned, gender has been used to moderate the relationships between e-banking qualities and
+retention, where several authors have recognized
+the differences between men and women (BendallLyon & Powers, 2002; Dommeyer & Gross, 2003;
+Lim et al., 2017). For instance, Kadir et al. (2011a)
+found significant differences between male
+respondents and female respondents in their
+assessment of the reliability of a bank’s e-banking
+service. It is therefore proposed in this study that:
+H2: The effect of reliability in electronic banking and
+customer retention is moderated by gender.
+
+Responsiveness, customer retention, and gender
+
+Empirically, responsiveness has been postulated
+as a quality dimension of e-banking by several
+authors. For instance, Nui Polatoglu and Ekin
+(2001) found that, in e-banking, instant feedback,
+quick transactions, and easy access were essential
+attributes in assessing the quality of the system.
+Also, studies by Liao and Cheung (2002) and
+Gerrard and Cunningham (2005) discovered that
+the perceived speed of response from electronic
+banking is a determinant of e-banking patronage
+
+The design of an e-banking website is not only
+evidence of e-banking quality, but it is also necessary for the retention of customers. A study by
+Scherer et al. (2015) postulated that customers
+exhibit loyalty behaviors such as retention for
+firms with superior website performance. Ltifi
+(2018) confirmed by iterating that consumers
+continue to interact with a firm’s website when
+its performance is satisfactory. However, they
+might discontinue the relationship when they are
+dissatisfied with the website. On the other hand,
+Ladhari and Leclerc (2013) theorized that there
+are differences in gender impressions of e-trust,
+e-loyalty, e-satisfaction, and website service quality. For this reason, the study proposes that:
+H4: The effect of website design in electronic banking
+and customer retention is moderated by gender.
+
+Convenience, customer retention, and gender
+
+Convenience is inarguably one of the essential
+factors of e-banking quality. Since e-banking uses
+the Internet, customers are able to use the platform at any time in any properly equipped location, and so convenience is expected as an ebanking quality dimension. Tan and Thompson
+(2000) expressed the relationship between convenience as a dimension of e-banking and customer retention. On gender moderation, studies
+by Riquelme and Rios (2010) and Lichtenstein
+and Williamson (2006) on e-banking adoption
+and retention registered differences in male and
+female responses. Given such differences, it is
+proposed that:
+
+JOURNAL OF GLOBAL MARKETING
+
+9
+
+Table 1. Sample demographic characteristics of respondents.
+Variable
+
+Classification
+
+Gender
+
+Male
+Female
+18–25
+26–33
+34–41
+42–49
+50þ
+Student
+Current
+Savings
+Fixed Deposit
+Investment
+Other types of accounts
+1 year
+1–3 years
+4–6 years
+7–9 years
+10 years þ
+1 year
+1–3 years
+4–6 years
+7–9 years
+10 years þ
+Once
+1–3 times
+4–6 times
+7–9 times
+10 times
+More than 10 times
+
+Age
+
+Type of Account
+
+Duration with bank
+
+Length of using e-banking service
+
+Average number of times
+e-banking services are used in a
+month
+
+Males
+
+Females
+
+Total
+
+Percent
+
+159
+75
+31
+5
+3
+16
+72
+163
+4
+10
+8
+31
+96
+82
+29
+35
+87
+120
+51
+10
+5
+72
+123
+43
+15
+3
+17
+
+337
+273
+365
+156
+66
+17
+6
+38
+161
+363
+11
+17
+20
+54
+228
+195
+63
+70
+182
+276
+115
+27
+10
+151
+271
+117
+33
+4
+34
+
+55.2
+44.8
+59.8
+25.6
+10.8
+2.8
+1.0
+6.2
+26.4
+59.5
+1.8
+2.8
+3.3
+8.9
+37.4
+32.0
+10.3
+11.5
+29.8
+45.2
+18.9
+4.4
+1.6
+24.8
+44.4
+19.2
+5.4
+0.7
+5.6
+
+206
+81
+35
+12
+3
+22
+89
+200
+7
+7
+12
+23
+132
+113
+34
+35
+95
+156
+64
+17
+5
+79
+148
+74
+18
+1
+17
+
+n ¼ 610.
+
+H5: The effect of convenience in electronic banking
+and customer retention is moderated by gender.
+
+Personalization, customer retention, and gender
+
+According to Sindwani and Goel (2015), personalization has a direct relationship with customer
+satisfaction and retention. In their study on technology-based self-service banking, it was found
+that personalization improves service delivery by
+acknowledging customers by their names, providing product offerings according to their preferences, and providing the precise and sufficient
+information customers require. Moreover,
+Agarwal et al. (2009) confirmed the gender disparities in response to e-banking quality dimensions. This study therefore proposes that:
+H6: The effect of personalization in electronic
+banking and customer retention is moderated
+by gender.
+
+demographic characteristics of respondents (see
+Table 1). The second section entailed a 5-point
+Likert scale (SA ¼ Strongly Agree, A ¼ Agree,
+N ¼ Neutral, D ¼ Disagree, and SD ¼ Strongly
+Disagree), which was used to determine
+respondents’ perceptions and attitudes regarding
+the electronic banking services of their respective
+banks. Similarly, the third section considers the
+outcome variable after engaging in electronic
+banking to determine whether it results in customer retention. Based on the conceptualization
+of e-banking dimensions with reference to extant
+literature on electronic service quality dimensions
+and customer retention (Kimery & McCord,
+2002; Zeithaml et al., 2002), a set of questions
+was generated to develop the questionnaire for
+the survey. A pilot test was conducted with a
+number of people to ensure relevance and avoid
+bias before the final distribution of the questionnaire took place.
+
+Methodology
+
+Data collection
+
+Instrument design
+
+This study employed a survey on users of electronic banking services. The aim was to gather
+relevant and significant data related to the subject
+
+The questionnaire consisted of three sections.
+The first section gathered information on the
+
+10
+
+M. ABDULAI MAHMOUD
+
+matter and for hypothesis testing. A well-structured questionnaire was personally administered
+to customers face-to-face at different branches of
+several banks that were randomly and conveniently selected. Respondents had to identify on the
+questionnaire whether or not they use their
+banks’ e-banking platform and how often they
+use it. Convenience sampling was employed; a
+total of 1000 questionnaires were distributed to
+customers in Accra, which is the capital of
+Ghana. Accra is suitable for this kind of study
+due its cosmopolitan nature. Moreover, Accra is
+the economic center of Ghana, and all of the
+banks have their headquarters situated in the city
+of Accra. However, out of the questionnaires
+returned, 610 respondents identified as e-banking
+users and thus were found to be useful for inclusion in the analyses. In adherence to ethical practice in data collection, participants were
+guaranteed anonymity and confidentiality of the
+information they provided. In addition, voluntary
+consent of participants with respect to their participation in the study was obtained.
+Analysis of data
+
+A quantitative research approach was adopted to
+approve or disapprove the hypotheses. This study
+has been analyzed using both the SPSS statistical
+software and AMOS 21 structural equation modeling software to ascertain the relationship
+between the postulated relationships (reliability,
+trust, personalization, convenience, website
+design, responsiveness) and customer retention,
+as well as the gender effect on these relationships.
+The data were initially explored using exploratory
+factor analysis to discover the interrelationships
+among the variables. We conducted an exploratory factor analysis using SPSS software with
+principal component analysis as a method of
+extraction, along with the Varimax rotation
+method. This summarizes and minimizes the
+number of variables with high loadings on one
+factor. The Kaiser-Meyer-Olkin Measure of
+Sampling Adequacy (KMO) and the Bartlett’s
+Test of Sphericity were extracted to verify if the
+data would be suitable for factor analysis.
+According to Tabachnick and Fidell (2007), the
+Bartlett’s test of sphericity should be significant
+
+(that is, 0.50 or smaller) and the KMO value
+should be 0.60 and above for it to be considered
+suitable for factor analysis. Factor loadings below
+0.50 and eigenvalues less than 1.0 were ignored;
+37 items of the scale were reduced to 21 after
+EFA under 7 factors which represent trust, reliability, responsiveness, website design, personalization, convenience, and retention. The factor
+loadings, communalities, Cronbach’s alpha, eigenvalues, and the KMO are represented in Table 2.
+The retention factor which first consisted of six
+items was reduced to five. Reliability consisted of
+six statements reduced to three; website design,
+personalization, and convenience were reduced to
+two statements. Factor analysis resulted in measured variables with communalitiesabove 0.50,
+which indicates a high reliability and validity.
+The acceptable Cronbach’s alpha level should be
+0.70 or better (Nunnally & Bernstein, 1978). As
+illustrated in Table 2, the 31 statements which
+were reduced to 21 items under the 7 factors
+have an acceptable KMO value of 0.941. The factor loadings measured variables with communalities above 0.05, indicting high reliability and
+validity. The Cronbach’s alpha for most of the
+factors was also good, as each factor exceeded the
+acceptable level, which is 0.70 or better.
+Results and findings
+
+Using ordinary least square (OLS) regression for
+latent variables may result in biased estimates
+because OLS neglects the relationship between
+the latent construct and the observed indicators
+(see Horrace & Oaxaca, 2006). Thus, structural
+equation modeling (SEM) was chosen to analyze
+the relationships between the constructs.
+Unidimensionality was achieved without further
+scale purification for trust, reliability, responsiveness, website design, convenience, and personalization. As shown in Table 3, indicator reliability was
+achieved with all observed variables having loadings above the 0.50 threshold suggested by Hair
+et al. (2011). Composite reliability and Cronbach’s
+a values were satisfactory with all values above
+0.50 (Nunnally & Bernstein, 1978). Table 3 shows
+that average variance extracted (AVE) was 0.50 or
+higher for all latent constructs, and thus convergent validity was achieved.
+
+JOURNAL OF GLOBAL MARKETING
+
+11
+
+Table 2. EFA results.
+EFA
+Factors
+
+Code
+
+Factor loadings
+
+Trust (TRU)
+I have complete trust in my bank’s e-banking services.
+My bank’s e-banking service is easy to operate.
+I feel safe using my bank’s e-banking service.
+My bank’s e-banking service instills confidence in customers.
+
+TRU1
+TRU2
+TRU3
+TRU4
+
+0.589
+0.522
+0.804
+0.741
+
+Reliability (REL)
+The e-banking service of my bank is consistent.
+My bank’s e-banking service is reliable.
+The e-banking service of my bank delivers on its undertaking to do certain things by a certain time.
+
+REL1
+REL2
+REL3
+
+0.784
+0.766
+0.578
+
+Responsiveness (RES)
+I think the e-banking service of my bank gives prompt service.
+I believe the e-banking service of my bank is always willing to help customers.
+I believe the e-banking service of my bank is never too busy to respond to customer requests.
+
+RES1
+RES2
+RES3
+
+0.597
+0.697
+0.582
+
+Website Design (WSD)
+The e-banking website of my bank is visually appealing.
+The user interface of my bank’s e-banking service has a well-organized appearance.
+
+WSD3
+WSD4
+
+0.850
+0.838
+
+Personalization (PER)
+My bank’s e-banking service provides customers with a free personal homepage.
+The e-banking service of my bank provides targeting e-mail to customers.
+
+PER2
+PER3
+
+0.809
+0.708
+
+Convenience (CON)
+No experience of delayed transactions.
+I believe in the confidentiality of my bank’s e-banking services.
+
+CON4
+CON5
+
+0.785
+0.609
+
+Retention (RET)
+I strongly recommend that others use my bank’s e-banking service.
+In the future, I will continue to carry out e-banking at my bank.
+If I had to do it all over again, I would choose the same e-banking service of my bank.
+I will repurchase the e-banking services of my bank.
+I would recommend the e-banking service of my bank to friends, family members and acquaintances.
+
+RET1
+b
+RET2
+RET3
+RET5
+RET6
+
+0.721
+0.795
+0.794
+0.712
+0.736
+
+Ca
+0.788
+
+0.798
+
+0.742
+
+0.802
+
+0.519
+
+0.606
+
+0.906
+
+Note. Overall KMO ¼ 0.941. Total variance explained for the factor solution in EFA ¼ 62.291.
+
+Hypotheses testing
+
+AMOS was employed in building a structural
+model in order to estimate the hypothesized path
+coefficients existing among the variables. As
+shown in Table 4, trust, reliability, responsiveness, website design, convenience, and personalization represent the exogenous variables;
+customer retention represent the endogenous
+variable. The sample fit indexes showed adequate
+absolute fit indices as follows —v2-test ¼ 1.919,
+GFI ¼ 0.988, RMSEA ¼ 0.027—and relative fit
+indices—CFI ¼ 0.990, NFI ¼ 0.980.
+The moderating role of gender in the link between
+e-banking service dimensions and
+customer retention
+
+Trust significantly influences both male and
+female customer retention; thus, the relation is
+positive and significant in both males and females
+(see Table 4). However, since the chi-square difference between the male and female samples is
+not significant (t-value ¼ 0.684, p-value ¼ 0.494),
+hypothesis H1 is not supported. Similarly,
+
+Table 3. Pearson’s correlations.
+TRU
+REL
+RES
+WSD
+PER
+CON
+RETENTION
+SD
+Mean
+CR
+AVE
+
+TRU
+
+REL
+
+RES
+
+WSD
+
+PER
+
+CON
+
+1
+0.844
+0.808
+0.603
+0.673
+0.883
+0.774
+3.880
+0.563
+0.815
+0.525
+
+1
+0.828
+0.663
+0.739
+0.784
+0.762
+3.799
+0.571
+0.800
+0.572
+
+1
+0.656
+0.804
+0.827
+0.886
+3.765
+0.558
+0.778
+0.539
+
+1
+0.682
+0.648
+0.594
+3.519
+0.586
+0.803
+0.670
+
+1
+0.608
+0.683
+2.745
+0.426
+0.711
+0.552
+
+1
+0.769
+3.596
+0.548
+0.759
+0.612
+
+RETENTION
+
+1
+3.537
+0.600
+0.914
+0.640
+
+reliability was found to significantly drive e-banking and customer retention in both males
+(b ¼ 0.153, p < 0.01) and females (b ¼ 0.128,
+p < 0.01). Yet, the statistical difference between
+the males and females is insignificant (t-value ¼ 1.592, p-value ¼ 0.112). As a result, hypothesis H2 is not supported. Similarly, in hypothesis
+H3, responsiveness as a dimension of e-banking
+has a significant effect on customer retention in
+both samples: males (b ¼ 0.323, p < 0.001) and
+females (b ¼ 0.419, p < 0.001). However, since the
+difference between the males and females is not
+statistically significant (t-value ¼ 1.254, p-value ¼ 0.210), hypothesis H3 is not supported.
+
+12
+
+M. ABDULAI MAHMOUD
+
+Table 4. Moderating effect of gender.
+Males
+Hypothesis
+H1
+H2
+H3
+H4
+H5
+H6
+
+Path
+
+b estimate
+
+S.E.
+
+RET <— TRU
+RET <— REL
+RET <— RES
+RET <— WSD
+RET <— CON
+RET <— PER
+Controls: Age
+Type of Account
+
+0.402
+0.353
+0.323
+0.065
+0.184
+0.079
+0.048
+0.082
+
+0.060
+0.055
+0.052
+0.044
+0.043
+0.038
+0.030
+0.021
+
+Statistical
+comparison
+of paths
+
+Females
+p-value
+
+0.004
+
+0.149
+0.019
+0.097
+0.203
+0.030
+
+b estimate
+
+S.E.
+
+0.335
+0.228
+0.419
+0.198
+0.045
+0.043
+0.018
+0.002
+
+0.080
+0.055
+0.056
+0.042
+0.040
+0.030
+0.015
+0.024
+
+p-value
+
+0.015
+
+0.017
+0.338
+0.457
+0.630
+0.964
+
+t-value
+
+p-value
+
+0.684
+1.592
+1.254
+2.156
+2.223
+0.719
+
+0.494
+0.112
+0.210
+0.032
+0.027
+0.472
+
+Note. Structural model fit indices: v2/df ¼ 1.919; GFI ¼ 0.988; CFI ¼ 0.990; NFI ¼ 0.980; RMSEA ¼ 0.027. R2 ¼ 0.524.
+p < 0.001; p < 0.01; p < 0.05.
+
+Hypothesis H4, proposing a positive effect of
+gender on the relation between e-banking and
+customer retention, is only significant for the
+female sample: males (b ¼ 0.065, p > 0.05) and
+females (b ¼ 0.108, p < 0.05), implying that
+female customers are more prone to website
+design in e-banking impacting customer retention. The difference between the males and
+females is statistically significant (t-value ¼ 2.156,
+p-value ¼ 0.032), onfirming hypothesis H4.
+Hypothesis H5, which states that there is a positive effect of gender on the relation between
+
+was
+significant
+with
+males
+(b ¼ 0.082,
+p-value ¼ 0.030) but not females (b ¼ 0.002,
+p-value ¼ 0.964), while age of customer was not
+significant for either gender group.
+The differences between male and female users
+of e-banking are further examined by statistically
+comparing the path coefficient for males with the
+corresponding path coefficient for all the dimensions of e-banking identified (Chin, 1998). The
+procedure suggested by Chin (1998, 2000) to
+develop multi-group analysis was used in this
+study. Chin’s (2000) formula follows that:
+
+Pathmale – Pathfemale
+qﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+t ¼ qﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2
+ðn1  1Þ
+ðn2  1Þ2
+1
+1
+2
+2
+n1 þ n2 
+ðn1 þ n2 2Þ  SEmale þ ðn1 þ n2 2Þ  SEfemale  
+
+e-banking and customer retention, is significant
+and supported in the male sample and not significant for the female sample: males (b ¼ 0.114,
+p < 0.05) and females (b ¼ 0.045, p > 0.05). The
+implication is that more male customers than
+female customers prefer convenience in e-banking in order to for a bank’s e-banking services to
+retain their patronage. With a chi-difference of tvalue ¼ 2.223 and p-value ¼ 0.027, hypothesis H5
+is supported. Finally, hypothesis H6 was not significant for both males (b ¼ 0.98, p > 0.05) and
+females (b ¼ 0.89, p > 0.05), and had no statistically significant difference (t-value ¼ 0.719 and pvalue ¼ 0.472). Personalization as a dimension of
+electronic banking and its relationship with customer relation were found not to be moderated
+by gender. Type of account as a control variable
+
+where Pathmale is the path coefficient in the structural
+model (males); Pathfemale is the path coefficient in the
+model (females); n1, sample size of males; n2, sample
+size of females; SEmale, standard error of paths in
+structural model (males); SEfemale, standard error of
+paths in structural model (females); t, t-statistic; and
+(n1 þ n2 – 2) is the degree of freedom.
+
+The comparison of path coefficients between
+male and female users of e-banking is displayed
+in Table 4. The results reveal that website design
+and convenience show statistical differences
+between the two subgroups at the 0.05 significance level. While website design has a significantly greater effect for woman than men,
+convenience has a greater effect for men than for
+women. This is an indication of the differential
+effects of e-banking dimensions on customer
+retention in male users and female users.
+
+JOURNAL OF GLOBAL MARKETING
+
+Discussions
+
+This research builds on the existing literature on
+gender-related cognitive and behavioral differences in order to assess the role of gender differences on the relationship between e-banking and
+customer retention. The results of our analysis
+confirm several differences between men and
+women, thus highlighting how gender may affect
+consumers’ e-banking and customer retention. In
+particular, we have tested how different dimensions of electronic banking are related to customer retention and, subsequently, the effect of
+gender. With the exception of personalization,
+trust, reliability, responsiveness, website design,
+and convenience were all found to be drivers of
+customer retention in the banking industry.
+The core objective of this study is, however, to
+establish the influence of gender in the relationship between the dimensions of e-banking and
+customer retention. With the premise set by the
+social script theory, the study sought to establish
+the differences in effects of gender on the dimensions of e-banking and customer retention. It is
+found that trust significantly influences customer
+retention in both males and females (i.e., the relationship is positive and significant in both males
+and females). However, considering trust as an ebanking dimension, no significant differences exist
+with respect to the female and male influence on
+customer retention. Therefore, hypothesis H1 is
+not supported. Nonetheless, both males and
+females demand trust in electronic banking services to remain with their banks. This finding is
+consistent with findings in extant literature on ebanking and customer retention (Hogan &
+Campbell, 2008; Valaei et al., 2016). Odumeru
+(2013) has established the linkage of trust on the
+use of e-banking. Similarly, Kim and Prabhakar
+(2004) also discovered trust as a key ingredient in
+determining the connection between e-banking
+and customer retention. The banking industry, as
+one of the key users of information technology,
+depends heavily on storage and sharing of personal data. Due to the sensitive nature of the data
+handled by firms in the banking industry, trust is
+inherently required for clients to reduce their perceived risks, such as due to data breaches and
+insecurities. System communication channels
+
+13
+
+encourage electronic transactions (Hogan &
+Campbell, 2008). In order for clients to continue
+patronizing the electronic services of their banks,
+trust must be established between clients and the
+electronic systems and channels used for such
+transactions.
+Also, both males and females demand reliable
+e-banking services for customer retention to
+occur. Unreliable e-banking services will frustrate
+both genders, with no considerable differences
+between the effects on males and females. Floh
+and Treiblmaier (2006) established gender effect
+on reliability as a dimension of e-banking. They
+found that reliability is critical for banks offering
+electronic banking services to retain customers.
+Previous scholars have found that the reliability
+dimension was an important determinant for
+retaining consumers who used electronic banking
+(Nui Polatoglu & Ekin, 2001). Liao and Cheung
+(2002) found that reliability was positively related
+to the use of electronic banking. They concluded
+that the more secure that consumers perceived
+electronic banking to be, the more likely they
+were to use electronic banking.
+Responsiveness as a dimension of electronic
+banking was also a significant factor in customer
+retention. Both males and females were found to
+be positively and significantly influenced by the
+e-banking dimension of responsiveness and customer retention. Men and women prefer to have
+e-banking service that is responsive to their needs
+in order to be retained as customers. This finding
+is consistent with Riquelme and Rios’ (2010)
+studies in gender differences in terms of responsiveness of banks in e-banking services.
+Responsiveness is how fast the e-banking services
+respond to customer requirements. Accordingly,
+the customer tolerance level must not be overstretched. A bank’s e-banking services must be
+able to respond to customer needs within a reasonable time.
+The relationship between website design and
+customer retention was positively significant for
+females only, but not males. For males, website
+design was not found to be relevant to their
+retention level. This implies that female customers are more inclined to the esthetics of a bank’s
+e-banking platform, and that can influence their
+continuous use of the platform. This is supported
+
+14
+
+M. ABDULAI MAHMOUD
+
+by similar studies by Ismail and Panni (2009),
+which established that, generally, women are
+more attracted to the physical appearance of
+products and services than men. The looks of the
+e-banking platform, particularly the color of the
+website, are more important to women than to
+men. It is therefore pertinent that academics and
+practitioners give closer attention to this phenomenon. This finding resonates with studies by
+Wan, Luk, and Chow (2005).
+On the other hand, convenience in the use of
+e-banking services was a significant determinant
+of retention in men but not in women. Men
+require convenience in e-banking services. In practice, this discovery is not unusual, as customers
+using e-banking services do not require the presence of bank employees for the services to be
+delivered effectively, especially since, with innovation and the era of mobile apps, banking services
+are now at the fingertips of customers. Banking
+customers can now execute banking transactions
+in their private offices and homes without interacting with the personnel of the banks. However,
+in this context, the number of men who may use
+e-banking services is greater than the number of
+women. This implies that the demand for more
+convenience will be most significant in men. Also,
+speed and convenience in banking will be of
+greater necessity to ensure retention, taking into
+consideration contextual factors. The social script
+theory lends credence to this finding by dictating
+the roles of men and women, hence the differences. The studies of Ladhari and Leclerc (2013)
+confirm the findings of this study.
+Finally, personalization as a dimension of electronic banking and its relationship with customer
+retention was not moderated by gender. Among
+both men and women, personalization had no
+significant influence on their retention. This is
+partially due to the security requirements of
+banking services, such that e-banking systems
+cannot permit personal customizations or allow
+individual customers to alter the e-banking platforms. Consequently, customers and users of ebanking services do not have expectations for the
+personalization of the services and platforms for
+e-banking. Therefore, the lack of personalization
+of the e-banking services does not affect the
+retention of customers, whether males or females.
+
+These findings are supported by studies from
+Ahmad and Al-Zu’bi (2011), as well as Swaid and
+Wigand (2009), where retention is derived from
+satisfaction with e-banking services.
+Implications
+For theory
+
+From the theoretical viewpoint, this study added
+empirical evidence to the existing knowledge on
+the social script theory. The study confirms that
+the roles, responsibilities, and scripts dictated to
+each gender by society result in the differences
+we find in gender responses to marketing communications. The study is also important to the
+literature on e-banking by establishing a relationship between e-banking dimensions and customer
+retention. It confirms that the dimensions of ebanking (trust, reliability, responsiveness, convenience, website design, and personalization) are
+good predictors of customer retention in the
+banking arena. Although trust, reliability, responsiveness, and personalization did not produce any
+significant difference in the results between males
+and females, differences in the relationships for
+website design, convenience, and retention were
+seen to exist between males and females. From a
+theoretical standpoint, this study shows that gender is an essential differentiating factor in assessing the quality of e-banking. This is an important
+knowledge added to the study of e-banking and
+gender, in which extant literature have focused
+predominantly on the qualities of e-banking without recognizing the differences in acceptance of
+the technology among different segmented customers. Not only does the study fill the gap in
+this respect, it sets the pace for more studies in
+different business contexts.
+For practice
+
+From a practitioner perspective, our findings
+improve the knowledge of the relationship
+between e-banking and customer retention, particularly the role of gender in this relationship. In
+order to develop effective e-banking platforms for
+customers, managers should pursue a gender-segmented strategy. While traditional global marketing campaigns have focused on cultural elements
+
+JOURNAL OF GLOBAL MARKETING
+
+such as historical tradition and religion, modern
+brand strategists should also stress gender-related
+differences in order to better segment their consumer target. Regarding male consumers, the
+focus should be on improving convenience, ease
+of use and speed, in addition to trust, reliability,
+and responsiveness in e-banking systems to foster
+customer retention.
+In contrast, in order to increase female consumers’ retention, e-banking services should
+focus on e-banking services capable of affecting
+personal perceptions, and not only should the ebanking systems be trustworthy, reliable, and
+responsive, but they should also be visually
+appealing and esthetically apt to positively influence customer retention. In light of our results,
+gender matters in electronic banking and customer retention management are critical and
+should be taken into consideration when designing e-banking services. For instance, a focus on
+website design may be more effective to foster
+customer retention in female consumers, but, in
+turn, it could prove ineffective for male customers. Similarly, efforts to enhance convenience and
+speed may be more effective for a male consumer
+audience. Consequently, critical care must be
+taken to achieve a balance in the integration of
+the elements of e-banking, as banks cannot
+choose which gender should use their platform
+but must serve each gender segment satisfactorily.
+It is important for banks to consider factors that
+mutually satisfy the e-banking needs of both
+males and females, while making room to achieve
+parity to meet the exclusive desires of both genders when designing their e-banking platforms.
+Meanwhile, understanding how different customer segments can be differentiated, particularly
+in a service-oriented business environment, may
+enable companies to better target their customers’
+needs, which may give them a competitive edge.
+Notwithstanding the security concerns and performance standard that must be taken into regard
+in e-banking, the study identifies that “one-sizefits-all” solutions may be problematic for the different customer segments of the bank.
+Management should therefore make an effort to
+recognize the differences that exist within
+their segments.
+
+15
+
+Conclusions, limitations, and directions for
+future research
+
+The findings of this research form part of a
+development in the knowledge of gender-related
+cognitive and behavioral differences in the electronic banking and customer retention environment. Specifically, we have focused on exploring
+such differences in consumers who are part of a
+developing economy context. From a theoretical
+perspective, this research contributes to both ebanking and gender literature. Explicitly, it analyzed dimensions of electronic banking and customer retention from the perspective of the
+relevance of gender differences, which is a topic
+that has not been thoroughly explored. However,
+another relevant contribution is the set of practical implications concerning the need for managers of banks’ electronic platforms to tailor
+electronic banking services according to the gender of the targeted consumers. For men, more
+engaging strategies are needed, and for women,
+clear communication seems to be a gender-sensitive approach. Nevertheless, notwithstanding its
+contribution, this research also presents some
+limitations. The study is based on only one
+industry: the banking industry. As a consequence
+of this, results are not fully generalizable and
+may prove to be valid only in this context.
+Nevertheless, we selected the banking industry
+due to its steady stability for the past several
+years in the context of investigation. This study
+represents a benchmark and may prove replicable
+for future studies. It could be possible to precisely
+evaluate the moderating roles of gender-related
+cognitive and behavioral differences in the light
+of cultural differences.
+References
+Agarwal, R., Rastogi, S., & Mehrotra, A. (2009). Customers’
+perspectives regarding e-banking in an emerging economy. Journal of Retailing and Consumer Services, 16(5),
+340–351.
+Ahmad, A. M. K., & Al-Zu’bi, H. A. (2011). E-banking
+functionality and outcomes of customer satisfaction: An
+empirical investigation. International Journal of
+Marketing Studies, 3(1), 50–65.
+Ahmad, R., & Buttle, F. (2001). Customer retention: A
+potentially potent marketing management strategy.
+Journal of Strategic Marketing, 9(1), 29–45.
+
+16
+
+M. ABDULAI MAHMOUD
+
+Akbar, M. M., & Parvez, N. (2009). Impact of service quality, trust, and customer satisfaction on customers loyalty.
+ABAC Journal, 29(1), 24–38.
+Aladwani, A. M. (2001). Online banking: A field study of
+drivers, development challenges, and expectations.
+International Journal of Information Management, 21(3),
+213–225.
+Anyasi, F. I., & Otubu, P. A. (2009). Mobile phone technology in banking system: Its economic effect. Research
+Journal of Information Technology, 1(1), 1–5.
+Asfaw, F. (2017). The effect of e-banking service quality on
+customer satisfaction in the banking sector of Ethiopia
+(Case study: Five selected grade four branch customers of
+CBE) (Doctoral dissertation). St. Mary’s University.
+Awad, N. F., & Ragowsky, A. (2008). Establishing trust in
+electronic commerce through online word of mouth: An
+examination across genders. Journal of Management
+Information Systems, 24(4), 101–121.
+Bacinello, E., Carmona, L. J. D. M., Tomelim, J., Da Cunha,
+H. C., & Tontini, G. (2017). Nonlinear antecedents of
+consumer satisfaction on e-banking portals. The Journal
+of Internet Banking and Commerce, 22(S8), 1–21.
+Bauer, H. H., Falk, T., & Hammerschmidt, M. (2006).
+eTransQual: A transaction process-based approach for
+capturing service quality in online shopping. Journal of
+Business Research, 59(7), 866–875.
+Bauer, H. H., Hammerschmidt, M., & Falk, T. (2005).
+Measuring the quality of e-banking portals. International
+Journal of Bank Marketing, 23(2), 153–175.
+Bendall-Lyon, D., & Powers, T. L. (2002). The impact of
+gender differences on change in satisfaction over time.
+Journal of Consumer Marketing, 19(1), 12–23.
+Bowen, J. T., & Chen McCain, S. L. (2015). Transitioning
+loyalty programs: a commentary on “the relationship
+between customer loyalty and customer satisfaction”.
+International Journal of Contemporary Hospitality
+Management, 27(3), 415–430.
+Brown, L. G. (1990). Convenience in services marketing.
+Journal of Services Marketing, 4(1), 53–59.
+Bruni, A., Gherardi, S., & Poggio, B. (2004). Entrepreneurmentality, gender and the study of women entrepreneurs.
+Journal of Organizational Change Management, 17(3),
+256–268.
+Caruana, A. (2002). Service loyalty: The effects of service
+quality and the mediating role. Of customer satisfaction.
+European Journal of Marketing, 36(7/8), 811–828.
+Chan Kim, W., & Mauborgne, R. (2005). Value innovation:
+A leap into the blue ocean. Journal of Business Strategy,
+26(4), 22–28.
+Cheung, C., & Limayem, M. (2005). The role of habit in
+information systems continuance: examining the evolving
+relationship between intention and usage. In ICIS 2005
+Proceedings, p. 39.
+Chin, W. W. (1995). Issues and opinion on structure equation modeling. MIS Quarterly, 22(1), 7–16.
+
+Chin, W. W. (2000). Frequently asked questions: Partial
+least squares and PLS-Graph. Retrieved from http://discnt.cba.uh.edu/chin/plsfaq/plsfaq.htm
+Chiu, C. M., Lin, H. Y., Sun, S. Y., & Hsu, M. H. (2009).
+Understanding customers’ loyalty intentions towards
+online shopping: An integration of technology acceptance
+model and fairness theory. Behaviour & Information
+Technology, 28(4), 347–360.
+Clair, S., Robert, N., Thome-Williams, A. C., & Lichang, S.
+(2005). The role of social script theory in cognitive
+blending. Intercultural Communication Studies, 15(1),
+1–7.
+Colley, A., Mulhern, G., Maltby, J., & Wood, A. M. (2009).
+The short form BSRI: Instrumentality, expressiveness and
+gender associations among a United Kingdom sample.
+Personality and Individual Differences, 46(3), 384–387.
+Colwell, S. R., Aung, M., Kanetkar, V., & Holden, A. L.
+(2008). Toward a measure of service convenience:
+Multiple-item scale development and empirical test.
+Journal of Services Marketing, 22(2), 160–169.
+Cox, J., & Dale, B. G. (2001). Service quality and e-commerce: An exploratory analysis. Managing Service
+Quality: An International Journal, 11(2), 121–131.
+Cronin, J. J., Jr., & Taylor, S. A. (1992). Measuring service
+quality: A reexamination and extension. The Journal of
+Marketing, 56(3), 55–68.
+Dabholkar, P. A. (1996). Consumer evaluations of new technology-based self-service options: An investigation of
+alternative models of service quality. International
+Journal of Research in Marketing, 13(1), 29–51.
+Daniel, E. (1999). Provision of electronic banking in the UK
+and the Republic of Ireland. International Journal of
+Bank Marketing, 17(2), 72–83.
+Dommeyer, C. J., & Gross, B. L. (2003). What consumers
+know and what they do: An investigation of consumer
+knowledge, awareness, and use of privacy protection
+strategies. Journal of Interactive Marketing, 17(2), 34–51.
+Flambard-Ruaud, S. (2005). Relationship marketing in
+emerging economies: some lessons for the future.
+Vikalpa, 30(3), 53–64.
+Floh, A., & Treiblmaier, H. (2006). What keeps the e-banking customer loyal? A multigroup analysis of the moderating role of consumer characteristics on e-loyalty in the
+financial service industry. Journal of Electronic Commerce
+Research, 7(2), 97–110.
+Ganguli, S., & Roy, S. K. (2011). Generic technology-based
+service quality dimensions in banking: Impact on customer satisfaction and loyalty. International Journal of
+Bank Marketing, 29(2), 168–189.
+Gerrard, P., & Cunningham, J. B. (2005). The service quality of e-banks: An exploratory study. International
+Journal of Financial Services Management, 1(1), 102–117.
+Hanson, V. L. (2000). Web access for elderly citizens. In
+Proceedings of the 2001 EC/NSF workshop on Universal
+accessibility of ubiquitous computing: providing for the
+elderly, pp. 14–18.
+
+JOURNAL OF GLOBAL MARKETING
+
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2011). PLS-SEM:
+Indeed a silver bullet. Journal of Marketing theory and
+Practice, 19(2), 139–152.
+Hiltunen, M., Heng, L., & Helgesen, L. (2004). Personalized
+electronic banking services. In Designing personalised user
+experiences in eCommerce (pp. 119–140). Dordrecht:
+Springer.
+Hogan, E. J., & Campbell, C. M. (2008). Method and system
+for secure payments over a computer network. U.S. Patent
+No. 7,379,919. Washington, DC: U.S. Patent and
+Trademark Office.
+Horrace, W. C., & Oaxaca, R. L. (2006). Results on the bias
+and inconsistency of ordinary least squares for the linear
+probability model. Economics Letters, 90(3), 321–327.
+Huang, E. (2002). Online experiences and virtual goods purchase intention. Internet Research, 22(3), 252–274.
+Ibrahim, E. E., Joseph, M., & Ibeh, K. I. (2006). Customers’
+perception of electronic service delivery in the UK retail
+banking sector. International Journal of Bank Marketing,
+24(7), 475–493.
+Ismail, H. B., & Panni, M. F. A. K. (2009). Factors affecting
+customer retention toward internet banking in Malaysia.
+Journal of Information & Knowledge Management, 8(1),
+35–43.
+Jayawardhena, C. (2004). Measurement of service quality in
+internet banking: The development of an instrument.
+Journal of Marketing Management, 20(1-2), 185–207.
+Jiang, L., Jun, M., & Yang, Z. (2016). Customer-perceived
+value and loyalty: How do key service quality dimensions
+matter in the context of B2C e-commerce? Service
+Business, 10(2), 301–317.
+Joseph, M., McClure, C., & Joseph, B. (1999). Service quality in the banking sector: The impact of technology on
+service delivery. International Journal of Bank Marketing,
+17(4), 182–193.
+Jun, M., & Cai, S. (2001). The key determinants of internet
+banking service quality: A content analysis. International
+Journal of Bank Marketing, 19(7), 276–291.
+Kadir, H. A., Rahmani, N., & Masinaei, R. (2011a). Impacts
+of service quality on customer satisfaction: Study of
+Online banking and ATM services in Malaysia.
+International Journal of Trade, Economics and Finance,
+2(1), 1–9.
+Kadir, H. A., Rahmani, N., & Masinaei, R. (2011b). Service
+quality analysis: An application on online banking and
+ATM facilities. International Journal of Trade, Economics
+and Finance, 4, 1.
+Karjaluoto, H., Mattila, M., & Pento, T. (2002). Factors
+underlying attitude formation towards online banking in
+Finland. International Journal of Bank Marketing, 20(6),
+261–272.
+Kassim, N. M., & Kader Mohammed Ahmed Abdulla, A.
+(2006). The influence of attraction on internet banking:
+An extension to the trust-relationship commitment
+model. International Journal of Bank Marketing, 24(6),
+424–442.
+
+17
+
+Kaura, V., Durga Prasad, C. S., & Sharma, S. (2015). Service
+quality, service convenience, price and fairness, customer
+loyalty, and the mediating role of customer satisfaction.
+International Journal of Bank Marketing, 33(4), 404–422.
+Kerem, K. (2002). Adoption of electronic banking:
+Underlying consumer behaviour and critical success factors. Case of Estonia, Tallinn Technical University.
+Retrieved from http://www.ise.ac.uk/
+Kimery, K. M., & McCord, M. (2002). Third-party assurances: Mapping the road to trust in e-retailing. Journal of
+Information Technology Theory and Application, 4(2),
+63–82.
+Kim, Y., & Peterson, R. A. (2017). A meta-analysis of online
+trust relationships in e-commerce. Journal of Interactive
+Marketing, 38, 44–54.
+Kim, K. K., & Prabhakar, B. (2004). Initial trust and the
+adoption of B2C e-commerce: The case of internet banking. ACM SIGMIS Database, 35(2), 50–64.
+Kivij€arvi, M., Laukkanen, T., & Cruz, P. (2007). Consumer
+trust in electronic service consumption: A cross-cultural
+comparison between Finland and Portugal. Journal of
+Euromarketing, 16(3), 51–65.
+Kumbhar, V. M. (2011). Factors affecting the customer satisfaction in e-banking: Some evidences form Indian
+banks. Management Research & Practice, 3(4), 1–14.
+Ladhari, R., & Leclerc, A. (2013). Building loyalty with
+online financial services customers: Is there a gender difference? Journal of Retailing and Consumer Services,
+20(6), 560–569.
+Lee, K. C., Kang, I., & McKnight, D. H. (2007). Transfer
+from offline trust to key online perceptions: an empirical
+study. IEEE Transactions on Engineering Management,
+54(4), 729–741.
+Lee, G. G., & Lin, H. F. (2005). Customer perceptions of eservice quality in online shopping. International Journal
+of Retail & Distribution Management, 33(2), 161–176.
+Lee, M. K., & Turban, E. (2001). A trust model for consumer internet shopping. International Journal of
+Electronic Commerce, 6(1), 75–91.
+Liao, Z., & Cheung, M. T. (2002). Internet-based e-banking
+and consumer attitudes: An empirical study. Information
+& Management, 39(4), 283–295.
+Lichtenstein, S., & Williamson, K. (2006). Understanding
+consumer adoption of internet banking: An interpretive
+study in the Australian banking context. Journal of
+Electronic Commerce Research, 7(2), 50–66.
+Lim, W. M. (2013a). The effects of web atmospherics on
+entertainment gratification and web irritation: Some
+empirical evidence from online shopping. Modern
+Applied Science, 7(12), 15–23.
+Lim, W. M. (2013b). Toward a theory of online buyer
+behaviour using structural equation modeling. Modern
+Applied Science, 7(10), 34–41.
+Lim, W. M. (2015). Antecedents and consequences of eshopping: An integrated model. Internet Research, 25(2),
+184–217.
+
+18
+
+M. ABDULAI MAHMOUD
+
+Lim, J. S., Heinrichs, J. H., & Lim, K. S. (2017). Gender and
+hedonic usage motive differences in social media site
+usage behaviour. Journal of Global Marketing, 30(3),
+161–173.
+Lim, W. M., & Ting, D. H. (2012a). E-shopping: An analysis of the uses and gratifications theory. Modern
+Applied Science, 6(5), 48–63.
+Lim, W. M., & Ting, D. H. (2012b). E-shopping: An analysis of the technology acceptance model. Modern Applied
+Science, 6(4), 49–62.
+Lim, W. M., & Ting, D. H. (2014). Consumer acceptance
+and continuance of online group buying. Journal of
+Computer Information Systems, 54(3), 87–96.
+Lin, G. T., & Sun, C. C. (2009). Factors influencing satisfaction and loyalty in online shopping: An integrated model.
+Online Information Review, 33(3), 458–475.
+Liu, T. C., & Wu, L. W. (2007). Customer retention and
+cross-buying in the banking industry: An integration of
+service attributes, satisfaction and trust. Journal of
+Financial Services Marketing, 12(2), 132–145.
+Ltifi, M. (2018). Electronic services co-creation experience:
+Telecommunications sector in Tunisia as an example.
+Journal of Global Marketing, 31(3), 210–223.
+M€aenp€a€a, K. (2006). Clustering the consumers on the basis
+of their perceptions of the internet banking services.
+Internet Research, 16(3), 304–322.
+Malarvizhi, V. (2011). An analysis on the usage of e-banking services in Coimbatore city. International Journal of
+Business
+Quantitative
+Economics
+and
+Applied
+Management Research, 2(1), 226–242.
+Mariappan, V. (2006). Changing the way of banking in
+India. Vinimaya, 26(2), 26–34.
+Markku, T. (2012). Impact of future trends on banking
+services. Journal of Internet Banking and Commerce,
+17(2), 271–295.
+Masoud, E., & AbuTaqa, H. (2017). Factors affecting customers’ adoption of e-banking services in Jordan.
+Information Resources Management Journal, 30(2), 44–60.
+Mathew, J., & Stone, G. (2003). An empirical evaluation of
+US bank customer perceptions of the impact of technology on service delivery in the banking sector.
+International Journal of Retail & Distribution
+Management, 31(4), 190–202.
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2002).
+The impact of initial consumer trust on intentions to
+transact with a web site: A trust building model. The
+Journal of Strategic Information Systems, 11(3-4),
+297–323.
+Mittal, B., & Lassar, W. M. (1996). The role of personalisation in service encounters. Journal of Retailing, 72(1),
+95–109.
+Mukherjee, A., & Nath, P. (2003). A model of trust in
+online relationship banking. International Journal of Bank
+Marketing, 21(1), 5–15.
+Musiime, A., & Biyaki, F. (2010). Bank clients’ perception
+of information technology usage, service delivery and
+customer satisfaction: Reflections on Uganda’s banking
+
+sector. In International Trade & Academic Research
+Conference (ITARC), London, pp. 1–17.
+Ndubisi, N. O. (2006). Effect of gender on customer loyalty:
+A relationship marketing approach. Marketing Intelligence
+& Planning, 24(1), 48–61.
+Nielsen, J. (2001). Internet technology and customer linking
+in Nordic banking. International Journal of Service
+Industry Management, 13(5), 475–495.
+Nsouli, S. M., & Schaechter, A. (2002). Challenges of the ebanking
+revolution:
+Finance
+and
+development.
+International Monetary Fund, 39(3), 231–254.
+Nui Polatoglu, V., & Ekin, S. (2001). An empirical investigation of the Turkish consumers’ acceptance of Internet
+banking services. International Journal of Bank
+Marketing, 19(4), 156–165.
+Nunnally, J. C., & Bernstein, I. H. (1978). Psychometric theory (2nd ed.). New York, NY: MacGraw-Hill.
+Nysveen, H., Pedersen, P. E., & Thorbjørnsen, H. (2005).
+Explaining intention to use mobile chat services:
+Moderating effects of gender. Journal of Consumer
+Marketing, 22(5), 247–256.
+Udo, G. J., & Marquis, G. P. (2001). Factors affecting
+e-commerce web site effectiveness. The Journal of
+Computer Information Systems, 42(2), 10–16.
+Odumeru, J. A. (2013). Going cashless: Adoption of mobile
+banking in Nigeria. Nigerian Chapter of Arabian Journal
+of Business and Management Review, 1(2), 9–17.
+Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1988).
+Servqual: A multiple-item scale for measuring consumer
+perceived quality. Journal of Retailing, 64(1), 12–40.
+Pew Center. (2005). Public more critical of press, but goodwill persists: Online newspaper readership countering
+print losses, Pew internet and American life project.
+Retrieved from World Wide Web on http://peoplepress.
+org/reports/display.php3?ReportID¼248.
+Richard, M. O., Chebat, J. C., Yang, Z., & Putrevu, S.
+(2010). A proposed model of online consumer behaviour:
+Assessing the role of gender. Journal of Business Research,
+63(9–10), 926–934.
+Riquelme, H. E., & Rios, R. E. (2010). The moderating effect
+of gender in the adoption of mobile banking.
+International Journal of Bank Marketing, 28(5), 328–341.
+Rod, M., Ashill, N. J., Shao, J., & Carruthers, J. (2009). An
+examination of the relationship between service quality
+dimensions, overall internet banking service quality and
+customer satisfaction: A New Zealand study. Marketing
+Intelligence & Planning, 27(1), 103–126.
+Rodgers, S., & Harris, M. A. (2003). Gender and e-commerce: An exploratory study. Journal of Advertising
+Research, 43(3), 322–329.
+Sanchez-Franco, M. J., Ramos, A. F. V., & Velicia, F. A. M.
+(2009). The moderating effect of gender on relationship
+quality and loyalty toward Internet service providers.
+Information & Management, 46(3), 196–202.
+Scherer, A., W€
+underlich, N. V., & Von Wangenheim, F.
+(2015). The value of self-service: Long-term effects of
+
+JOURNAL OF GLOBAL MARKETING
+
+technology-based self-service usage on customer retention. MIS Quarterly, 39(1), 177–200.
+See-To, E. W., & Ho, K. K. (2014). Value co-creation and
+purchase intention in social network sites: The role of
+electronic word-of-mouth and trust: A theoretical analysis. Computers in Human Behaviour, 31, 182–189.
+Shi, S., Chen, Y., & Chow, W. S. (2016). Key values driving
+continued interaction on brand pages in social media: An
+examination across genders. Computers in Human
+Behaviour, 62, 578–589.
+Sindwani, R., & Goel, M. (2015). The impact of technology
+based self-service banking dimensions on customer satisfaction. International Journal of Business Information
+Systems Strategies, 4(1/2), 1–13.
+Sohail, M. S., & Shanmugham, B. (2003). E-banking and
+customer preferences in Malaysia: An empirical investigation. Information Sciences, 150(3-4), 207–217.
+Spekman, R. E., & Carraway, R. (2006). Making the transition to collaborative buyer–seller relationships: An
+emerging framework. Industrial Marketing Management,
+35(1), 10–19.
+Suh, B., & Han, I. (2002). Effect of trust on customer
+acceptance of Internet banking. Electronic Commerce
+Research and Applications, 1(3-4), 247–263.
+Swaid, S. I., & Wigand, R. T. (2009). Measuring the quality
+of e-service: Scale development and initial validation.
+Journal of Electronic Commerce Research, 10(1), 13–28.
+Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate
+statistics. Boston, MA: Allyn & Bacon/Pearson Education.
+Tam, K. Y., & Ho, S. Y. (2006). Understanding the impact
+of web personalisation on user information processing,
+behaviour and judgement. MIS Quarterly, 30(4), 865–890.
+Tan, M., & Thompson, S. H. T. (2000). Factors influencing
+the adoption of Internet banking. Journal of the
+Association for Information Systems, 1(1), 1–43.
+Tan, K. C., Xie, M., & Li, Y. N. (2003). A service quality
+framework for web-based information systems. The TQM
+Magazine, 15(3), 164–172.
+Tih, S., & Ennis, S. (2004). Internet retailing: determinants
+of consumers’ intentional repurchases of internet services.
+In Proceedings of 33rd European Marketing Academy
+Conference, Universidad De Murcia, Murcia, 18–21 May.
+Valaei, N., Rezaei, S., Ismail, W. K. W., & Oh, Y. M.
+(2016). The effect of culture on attitude towards online
+advertising and online brands: Applying Hofstede’s cultural factors to internet marketing. International Journal
+of Internet Marketing and Advertising, 10(4), 270–301.
+Vatanasombut, B., Igbaria, M., Stylianou, A. C., & Rodgers,
+W. (2008). Information systems continuance intention of
+web-based applications customers: The case of online
+banking. Information & Management, 45(7), 419–428.
+Venkatesh, V., & Morris, M. G. (2000). Why don’t men
+ever stop to ask for directions? Gender, social influence,
+and their role in technology acceptance and usage behaviour. MIS Quarterly, 24(1), 115–139.
+
+19
+
+Wan, W. W., Luk, C. L., & Chow, C. W. (2005).
+Customers’ adoption of banking channels in Hong Kong.
+International Journal of Bank Marketing, 23(3), 255–272.
+Wolin, L. D. (2003). Gender issues in advertising: An oversight synthesis of research: 1970–2002. Journal of
+Advertising Research, 43(1), 111–129.
+Xu, X., Thong, J., & Venkatesh, V. (2014). Effects of ICT
+services innovation and complementary strategies on
+brand equity and customer loyalty in a customer technology market. Information Systems Research, 25(4),
+710–729.
+Yaghubi, N., & Seyedin, S. M. (2015). Ranking the technical
+dimensions of e-banking service quality evaluation models using Analytical Hierarchy Process. Advances in
+Computer Science: An International Journal, 4(1), 37–43.
+Yang, C. C. (2003). Establishment and applications of the
+integrated model of service quality measurement.
+Managing Service Quality: An International Journal,
+13(4), 310–324.
+Yang, Z., & Fang, X. (2004). Online service quality dimensions and their relationships with satisfaction: A content
+analysis of customer reviews of securities brokerage services. International Journal of Service Industry
+Management, 15(3), 302–326.
+Yang, S., Wang, Y., & Wei, J. (2014). Integration and consistency between web and mobile services. Industrial
+Management & Data Systems, 114(8), 1246–1269.
+Yap, K. B., Wong, D. H., Loh, C., & Bak, R. (2010). Offline
+and online banking: Where to draw the line when building trust in e-banking? International Journal of Bank
+Marketing, 28(1), 27–46.
+Yousafzai, S. Y., Pallister, J. G., & Foxall, G. R. (2003). A
+proposed model of e-trust for electronic banking.
+Technovation, 23(11), 847–860.
+Yousafzai, S. Y., Pallister, J. G., & Foxall, G. R. (2005).
+Strategies for building and communicating trust in electronic banking: A field experiment. Psychology and
+Marketing, 22(2), 181–201.
+Yousafzai, S., Pallister, J., & Foxall, G. (2009). Multi-dimensional role of trust in Internet banking adoption. The
+Service Industries Journal, 29(5), 591–605.
+Zeithaml, V. A., Parasuraman, A., & Malhotra, A. (2000).
+Conceptual Framework for understanding e-service quality: Implications for future research and managerial practice. Report No. 00-115, Marketing Science Institute
+Cambridge, Massachusetts, pp. 1–46.
+Zeithaml, V. A., Parasuraman, A., & Malhotra, A. (2002).
+Service quality delivery through web sites: A critical
+review of extant knowledge. Journal of the Academy of
+Marketing Science, 30(4), 362–375.
+Zhou, T. (2012). Understanding users’ initial trust in mobile
+banking: An elaboration likelihood perspective.
+Computers in Human Behaviour, 28(4), 1518–1525.
+Zhu, F. X., Wymer, W., & Chen, I. (2002). IT-based services
+and service quality in consumer banking. International
+Journal of Service Industry Management, 13(1), 69–90.
+
+

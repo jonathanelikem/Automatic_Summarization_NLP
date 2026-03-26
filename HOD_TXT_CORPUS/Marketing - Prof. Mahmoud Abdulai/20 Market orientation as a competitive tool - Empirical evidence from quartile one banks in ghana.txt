@@ -1,0 +1,729 @@
+
+
+
+
+Original Article
+Market orientation as a competitive tool: Empirical evidence from 'quartile one' banks in Ghana
+Received (in revised form): 28th July 2011
+
+Mohammed Abdulai Mahmoud
+is a lecturer at the University of Ghana Business School. He is currently a doctoral candidate. His research interests include market orientation and services marketing with concentration in banking, health and telecommunications. He has published in Journal of Medical Marketing, International Journal of Marketing Studies and Social Responsibility Journal (forthcoming).
+
+Adelaide Naa Amaeley Kastner
+is a lecturer at the University of Ghana Business School. Her research interest includes marketing, social marketing and internationalisation of ?rms. She has published in a number of journals including African Journal of Business and Economic Review and Journal of Medical Marketing. She is currently researching on consumer shopping behaviours.
+
+Ko? Safo Akyea
+is a Product Development Manager at Standard Chartered Bank, Accra, Ghana. His research interest is in marketing and market orientation in the ?nancial services sector.
+
+ABSTRACT The positive impact of market orientation has been agreed upon generally, yet few studies have focused explicitly on its implications for banks. Based upon a case study involving the top four banks in Ghana (that is, 'quartile one' banks), this article examines the incidence of market orientation in banks. Research evidence was obtained from in-depth face-to-face interviews of eight managers and questionnaires completed by 109 managers. Qualitative data were analysed deductively and the quantitative data were analysed using univariate and multivariate techniques. The interview results highlight that customer orientation seems to dominate the patterns of bank market orientation while the descriptive statistics show strong emphasis on intelligence dissemination. From the regre- ssion results, top management emphasis, market-based reward systems and interdepart- mental coordination are the essential internal values for developing market orientation in Ghanaian banks. It is found that market orientation is a signi?cant factor for achieving high levels of employees' esprit de corps and customer satisfaction, which are particularly viable for banks facing severe competition, technological turbulence and operate in a weak economy. It suggests that without competition, technological turbulence and weak general economy, market orientation is an insigni?cant factor for business success. Discussions, managerial implications and avenues for further studies are provided.
+Journal of Financial Services Marketing (2011) 16, 316-334. doi:10.1057/fsm.2011.26
+
+Keywords:  bank performance; Ghana; market orientation; 'quartile one' banks
+
+
+Correspondence: Mohammed Abdulai Mahmoud
+Department of Marketing and Customer Management, University of Ghana Business School, University of Ghana, Legon, Accra, Ghana
+E-mails: amohammed@ug.edu.gh; mabdulaim@yahoo.com
+
+
+
+
+(c) 2011 Macmillan Publishers Ltd. 1363-0539  Journal of Financial Services Marketing  Vol. 16, 3/4, 316-334
+www.palgrave-journals.com/fsm/
+
+
+
+INTRODUCTION
+Literature abounds regarding the market orientation construct, with studies spanning both developed1-4 and developing5-8 economies. While initial studies on the construct concentrated on manufacturing firms,9 it appears that many subsequent studies have been carried out with samples comprising a wide variety of companies without making any breakdowns for results to specific industries.10 However, it is known that a particular industry may have a particular culture11-13 and, therefore, an organisation's market orientation could be
+industry specific.10 For instance, the banking industry falls under the services sector, which requires a unique approach to market orientation success. In general, services
+have unique features, namely intangibility, inseparability, variability and perishability
+that makes their marketing management tasks different from those of pure products.14 Scholars underscore that these characteristics must also result in unique organisational
+and industry culture in which personal interaction, relationship and service quality are valued highly.15,16
+  On the global stage, few studies have focused explicitly on market orientation
+and its related issues in banking.1,6,16,17 These studies were undertaken in industrialised countries whose economies have witnessed maturity and stability in relative terms.
+Scholars11-13 assume that firms in these countries are also effectively able to monitor competitive trends, assess customer needs and respond strategically to a changing market environment. However, these assumptions may be unrealistic in developing economies dominated by product-oriented firms as increasing demand for products
+and services outstrips supply.17
+Building on this argument, we argue
+that drawing insights from findings regarding the incidence of market orientation in product-oriented companies to purely service settings may be misleading.9,16,18 In the Ghanaian context there is a strand of studies
+
+undertaken largely in the manufacturing sectors,19,20 with few others in the exports8,21 and pharmaceuticals8,22 markets showing how market orientation can be used to sustain competitiveness. This is surprising
+in view of the fact that the banking sector
+is the fastest growing industry in Ghana, and is the highest contributor to the overall growth rate of the Ghanaian economy.23 On the selection of an appropriate approach for improving market orientation scholarship, Kolar16 argues that further studies should compare direct peak performing competitors rather than comparison with market average. This current study in the Ghanaian banking sector responds to the improvement of the market orientation construct acceptability in a developing country context by selecting the peak performing banks in Ghana.
+Although not similar in approach16 where banks in Europe and Slovenian market orientation behaviours were compared
+using the benchmarking principles, the focus on the peak performing banks in Ghana market-oriented culture provides a further illumination into peak performing banks market orientation. This approach is unique as regards to previous market orientation studies.1,6,16,17 Briefly, the issues raised
+above suggest that it is timely to investigate market orientation and its associated topics in a banking sector of a developing country such as Ghana.
+
+APPLYING MARKET ORIENTATION WITHIN GHANA'S BANKING SECTOR
+Ghana's banking sector has witnessed an unprecedented growth over the last decade due to a stable political economy. The consistency in implementing political and economic policies, stability of the local currency, and the lower minimum capital requirement of 7 million Ghana cedis (US$5 million), among other things,24 have led to the emergence of diverse types of banks. This includes local-private, Nigerian, Pan African and Arabian banks into the
+
+
+
+country. The result of this development has been increased competition, ceaseless turbulence, change and uncertainty in the industry. The banking industry is highly
+competitive, with banks competing not only among each other but also with non-banks and other financial institutions.25 Other trends such as rapid information technology development also put pressure on the market efficiency of banks, while customers are becoming more active and empowered.
+The Bank of Ghana, in connection with parliament, has recently passed the universal banking law also allowing all types of banking to be conducted under a single corporate banking entity. Thus, all Ghanaian banks are now offering identical products and services26 and most bank product developments are easy to duplicate.23
+  With these developments, the true source of competitive advantage for banks will be their ability to provide superior customer value relative to that provided by the competition. Bank executives hoping to succeed in this market are therefore looking for managerial approaches that would enable them to achieve this goal. Market orientation is a business philosophy that puts the customer first and is widely recognised for its path to competitive advantage. Adopting a market- orientated strategy is posited as a way of successfully managing the impact of changes
+in the banking sector. For bank customers it could mean more appropriate services that enhance their level of satisfaction.27 For bank staff it could mean a better understanding of their roles in achieving organisational and personal goals (that is, high employee esprit de corps). For banks themselves it could mean survival. Indeed, concerning the latter, evidence exists to suggest that market orientation can be the saviour for banks operating under severe competitive markets.1 Therefore, this is an opportune time to examine the appropriateness of this construct for banks in Ghana since drawing insights from the findings of developed country studies can be misleading.
+
+LITERATURE REVIEW
+This study suggests that a bank's market orientation is founded on four main pillars namely intelligence generation, intelligence dissemination, intelligence responsiveness and marketing culture.16 It suggests that the development of a market orientation is affected internally by management behaviour, organisational structures, systems and process. The development of market orientation in banks should lead to higher employee morale and greater organisational commitment, which should drive customer satisfaction and, accordingly, business performance of banks. Granted that banks do not operate in isolation, their ability to drive performance via market orientation may be moderated by exogenous factors including competition, market turbulence, technology and the strength of the general economy. Figure 1 depicts the framework for this study.
+
+Market orientation
+Market orientation has for many years been considered as the central ingredient of a successful organisation's culture.28,29 Most of the studies on market orientation are based upon two different perspectives.30,31 Market orientation is 'the organisational culture that most effectively and efficiently creates necessary behaviors for the creation of superior value for buyers and, thus, continues superior performance for the business'.31 Narver and Slater31 developed the culturally
+
+
+
+Figure 1:	Framework for market orientation in banking.
+
+
+
+based behavioural perspective for viewing market orientation. According to them, market orientation consists of three behavioural components namely customer orientation, competitor orientation and interfunctional coordination. They argued that a market-oriented firm would have
+a long- term focus and emphasis on the profitability of operations.32,33
+   For Kohli and Jaworski30 the starting point of market orientation is market intelligence.
+These authors see market orientation to be a mixture of three activities:
+
+• organisation-wide generation of market intelligence pertaining to current and future needs of the customer;
+• dissemination of intelligence within the organisation;
+• taking responsive actions based on the market intelligence.
+
+Ruekurt33 argued that market orientation is the degree to which a strategic business unit obtains and uses information regarding its customers, develops a strategy considering the obtained information regarding customers needs satisfaction and implements that strategy meeting those needs and wants. While Ruekert33 seems to concur with both Kohli and Jaworski30 and Narver and Slater,31 Deshpande et al34 challenged the conceptions of these authors (that is, Kohli and Jaworski30; and Narver and Slater31) advising that further efforts are needed to improve these seminal works. In a recent study of market orientation in Slovenian banks, Kolar16 also questioned the universal application of the traditional perspectives and developed a modified framework of market orientation for banks. Kolar16
+notes three limitations of the traditional perspectives as follows:
+
+1. There is less emphasis on evaluating and interpreting the extent of market orientation across different markets and industries;
+2. 
+The appropriateness of universal unmodified measurement instruments inside the specific context of banking may be questionable; and
+3. It has questionable managerial usefulness.
+
+With these limitations, to better conceptualise market orientation in banks, Kolar16 recommended the definition of Deshpande and Farley,35 who conceive market orientation as 'the set of cross-functional processes
+and activities directed at creating and satisfying customers through continuous needs-assessment' (p. 213). Following the definition of Deshpande and Farley,35 and insights gained from the studies of Webster,13 Homburg and Pflesser36 and Lafferty and Hult,37 Kolar16 developed four component factors of market orientation. Building on
+the work of Kohli and Jaworski,30 he argues that marketing culture is an informal counterpart of formal managerial dimensions of market orientation and should therefore be included in its conceptualisation.16 Therefore, to be consistent with the work of Kolar,16 since the context of our study relates to the banking sector although in
+a different environmental context, we posit market orientation as a function of four factors: intelligence generation, intelligence dissemination, intelligence responsiveness and marketing culture. Based on the discussions above, we put forward the following question: Do Ghanaian banks exhibit the principles of market orientation?
+
+Determinants of organisational market orientation
+Having dealt with conceptual issues the next stage involved the identification of internal factors that would account for market orientation in a business unit.30 The most studied internal/organisational factors affecting the development of market orientation
+are senior management behaviours, organisation-wide systems, structures and processes.2,38-41 Without a clear signal from top management regarding the importance
+
+
+
+of being responsive to customer needs,
+an organisation is not likely to be market- oriented.42 It is recommended that in order to obtain total participation of the human
+resources, top management of the organisation must commit the organisation to customer satisfaction.43 Therefore, market orientation will only occur when management attitude is in favour of marketing. Jaworski and Kohli38 assert that it is only when the top managers express the importance of a commitment towards satisfaction of consumer needs that the rest of the organisation adopts that orientation.
+  Organisational structures of formalisation and centralisation also affect the development of market orientation. Research to date suggests that both centralisation and formalisation are barriers to communication and for that matter hostile to market- oriented activities. These are believed to impede innovations and timely response to changing market needs, which are at the core of market orientation. Beyond these, research has shown that the implementation of market orientation is greatly influenced by interdepartmental connectedness and conflict.2,3,38 Interdepartmental connectedness promotes interfunctional coordination leading to more frequent communication, which is
+likely to enable the dissemination of collected market intelligence and facilitate a timely market focused response.2 On the other hand, interdepartmental conflict inhibits communication across the departments of an organisation, reducing interfunctional performance, and consequently inhibiting timely response to market needs that are at the core of the market orientation processes.
+Finally, it is argued that market-based reward systems enhance market orientation because, when employees are evaluated and rewarded based on market factors, they
+are likely to focus on such market factors, the cornerstones of market orientation.6 Not surprisingly, Ruekert33 finds that the extent of organisational market orientation is 'positively associated with organisational
+
+practices in recruiting, training and rewarding of personnel'. We therefore ask: What kind
+of internal/external organisational values account for market orientation in banks in Ghana?
+
+Consequences of market orientation
+Kohli and Jaworski30 contend that market orientation is likely to lead to higher customer satisfaction and repeat business, esprit de corps, job satisfaction and employee commitment, which will consequently result in overall business performance. Raju et al44 purported that an increase in market orientation is expected to result in higher performance in business because it facilitates clarity of focus and vision in an organisation's strategy and generates pride in belonging
+to an organisation that results in higher employee morale and greater organisational commitment. The result is customer satisfaction that indicates repeat purchases and draws new customers to the business.44 Several studies undertaken in a variety of firms have demonstrated a consistent positive relationship between market orientation
+and numerous performance indicators.1,6-8
+In the banking literature, Han et al1 proposed a framework in which the relationship between market orientation and performance is mediated through innovation. The results indicate that there is no significant direct relationship between market orientation and objective performance. However, they
+report a significant positive relationship between market orientation and innovation and between market orientation and objective performance. Dwaire et al6 replicated the Kohli and Jaworski30 and Jaworski and Kohli38 model in their study of Jordanian banks reporting a significant positive relationship between market orientation and bank performance. While Han et al's1 study reported a mediated relationship between market orientation and performance, Dwaire et al's6 finding is consistent with a meta-analysis highlighted by Kirca et al,45 confirming once again
+
+
+
+that 'market orientation has an impact on performance beyond the mediated effects' (p. 30). It is important to ask: Does market orientation affect the performance of Ghanaian banks?
+
+The moderating role of external factors
+Jaworski and Kohli38 and Slater and Narver32 empirically tested environmental factors, namely competition, market turbulence, technology and general economy, as exogenous variables or moderating variables in order to identify the relationship between market orientation and its consequences.
+In order to be sustained in the market place, an organisation should recognise competitors.
+Organisations that recognise competition and perceive it to be more threatening in
+achieving their goals have a greater tendency to evaluate it. Thus, it can be said that the greater the perceived competition, the greater the tendency to adopt a market orientation for enhanced performance.46
+  Jaworski and Kohli38 asserted that organisations that operate in more turbulent markets are likely to have to modify their products and services continually in order to satisfactorily cater to customers' changing preferences. Therefore, they again suggested that the businesses operating in more turbulent markets should increase their market-oriented activities as this is likely to lead to superior performance. It is therefore imperative that organisations are highly market-oriented in conditions of market turbulence.3 In such conditions, management must undertake market-oriented activity while maintaining the flexibility to shift resources and adapt to potential market trends. Furthermore, Grewal and Tansuhaj47 argued that both the pace and degree of innovations and changes in technology induce technological uncertainty. In this vein, Kohli and Jaworski29 suggest that market orientation might not be as important as it is in technologically stable industries.
+They claimed that organisations often use
+
+technological orientation as an alternative means to market orientation in building sustainable competitive advantage.
+  Lastly, on economic issues, Kohli and Jaworski30 argued that a strong economy is characterised by strong demand and so an organisation may be able to get away with a minimal amount of market orientation. However, in a weak economy, customers are likely to be very value conscious and organisations must be more in tune with, and responsive to, customer needs in order to offer good value for money. Following their investigation of the moderating role of the strength of the economy on the relationship between market orientation development and company performance, Slater and Narver32 concur that the companies that operate in weak economies with stable or decreasing markets should
+have the greater motivation to adopt market orientation when compared with companies operating in strong economies. In short, the degree to which a firm's market orientation would affect its performance is contingent on exogenous factors such as competitive intensity, market turbulence, technological turbulence and the strength of the general economy. Based on the above discussion, we would want to find out: What external factors would mediate the relationship between market orientation and Ghanaian banks performance?
+
+METHODOLOGY
+A case study research strategy was adopted to explore the four research questions, using 'Quartile one banks' profiled in Table 1.
+Yin48 argues that it is most appropriate to use multiple cases if 'replication logic' is supposed to reveal support for theoretically similar or contrasting results for predictable reasons. Thus, our use of multiple cases (Quartile one' banks) strengthens the empirical results through replicating the pattern matching, thereby increasing confidence in the robustness of the theory.49 The study utilised qualitative in-depth
+face-to-face interviews and a quantitative
+
+
+
+Table 1: Quartile one banks
+
+Case codeBankAge (years)OwnershipBranchesOriginNationality of CEOCGCB56Local148GhanaGhanaianBBBG92Foreign &Local154UKGhanaianSSCB113Foreign &Local19UKGhanaianEEBG19Foreign & Local44GhanaGhanaianSource: Hinson et al.64
+
+
+questionnaire to gather research evidence, allowing for triangulation.49,50
+  The study used Price Waterhouse Coopers (PWC) (Ghana) annual survey in which it lists and classifies all licensed banks in Ghana on the bases of their size and operating assets. For the 2009 Classification, 'Quartile One' banks include: Ghana Commercial Bank, Ecobank Ghana Limited, Standard Charted Bank (Ghana) Limited and Barclays Bank (Ghana) Limited. These banks based on comparison of size and operating assets are the four largest banks in Ghana. The study focuses on these banks because they are the four largest banks in the country, which is an indication of success that could be attributed to market orientation posture. On why this current study focused on 'quartile one' banks, Kolar16 argues that further studies should compare direct peak performing competitors
+rather than comparison with market average, therefore, the concentration on these banks for this particular study.
+
+Data collection
+First, open-ended semi-structured interviews were held with eight managers, two from each member of the 'Quartile one' retail banks. The reason for conducting the
+semi-structured interviews was to establish incidence of the four dimensions of market orientation before using the questionnaire survey and to help reshape the survey instrument, if need be. Also, the purpose of the interview was to identify the incidence of four dimensions of market orientation, thus, helping to uncover and confirm the
+
+patterns of market orientation among the four banks. Managers with a minimum of two years working experience were selected for the study, as it is the general belief that longer-serving employees are better equipped to provide relevant insights to information being sought. Informants were personally contacted, after which those who were willing to share information were selected for the interview.50 The duration of the interviews averaged 35 minutes and all interviews were recorded on audio tape to help with the accuracy of the interpretation and analysis of the information gained.
+  Second, questionnaires were distributed to 120 managers of the four banks from their head offices and other branches in Accra. The questionnaires were personally distributed to the managers who agreed to participate in the process. Thirty questionnaires were sent to each of the participating banks. Given the definition of market orientation (see Kohli and Jaworski30 and Narver and Slater31), and following best practices (see Pulendran et al3 and Hinson
+et al7), we sampled managers across different departments/functions within each bank.
+This generated the amount of data necessary to provide comprehensive insights into
+the cases and the three research questions.
+Managers were sampled because they had control over activities concerning organisational culture and the overall
+strategies in their organisations. As observed by Yin,48 'key informants are often critical to the success of a case study'. A total of 109 questionnaires were retrieved. This high response rate was attributed to the
+
+
+
+researchers' personal administering of the survey instrument as compared to a mail survey, which usually yields low response rates as a result of the researcher's remoteness from the respondents.
+
+Construct measurement
+The questionnaire instrument addressed
+19 variables altogether. Questions for these variables were generated from previous empirical studies. We utilised these scales considering their wide recognition and acceptability in the market orientation literature. A limited pilot study was carried out to reinforce the content validity of the questionnaire especially when used for data collection within the specific context of the Ghanaian banking sector. And based on the pre-test, a few adjustments were made on the questionnaire before final administration. Appendix shows the
+constructs, items and the respective literature that informed the measurement.
+
+Data analysis
+The qualitative data were analysed using deductive reasoning to confirm the dimensions of market orientation following good practices in the scientific literature.45,51-53 The analysis presents
+responses pertaining to the incidence of the four dimensions of market orientation shown in the framework, thereby dealing with an account of the existence of the constructs.
+For the quantitative study, the parametric technique for data analysis was utilised.
+In this regard, factor analysis, correlation analysis and regression analysis dominated the quantitative data analysis. More specifically, we performed correlation and factor analyses to assess the validity and reliability of measurement scales.54 For the purposes of hypotheses testing, regression analysis was used to measure
+the relationships between market orientation, determinants, consequences and exogenous variables. The use of this technique
+is popular in market orientation studies.7,8,38
+
+FINDINGS
+Qualitative study
+Generally, this part of the article explores 'quartile one' bank managers' opinions of the extent to which the main construct (market orientation) of the study is being developed and practiced. The main aim is to gather preliminary qualitative evidence of market orientation practice among the banks involved, which can be confirmed or disconfirmed by the quantitative analysis in the later part of the study. Interviews
+were conducted and the key themes for the interviews were how the organisations perceive market orientation, how they practice it, how they generate intelligence of their clients or customers, competitors and their inter-functional activities, how they disseminate the information, how
+they respond to the information generated as well as their marketing culture. Different perspectives regarding bank market orientation were corroborated by the interviewees.
+   A manager in Case S perceived that there is some level of market orientation practices in their bank. The manager was of the view that company S has a special unit for the purpose of generating information. This information gathered, according to the respondent, is aimed at responding to customers' needs and monitoring and responding to competitors activities. In his own words:
+
+My organisation places a lot of importance on the generation of market information because you need to know what your competitors or the industry is doing so that you can align yourself and see where the opportunities are
+and how you can take advantage of such opportunities. So the generation of market information is very important in my company. We have a dedicated department for that, called the Business Intelligence Unit. They are responsible
+for market research. They gather market
+
+
+
+information that the business can rely on to see where opportunities exist in the market.
+Similarly, a manager in Case E asserts that:
+Every year we undertake a customer survey to assess our level of service quality and customer satisfaction. For instance, somewhere early part of last year we did a customer survey and the responses we got weren't good to our image so we came back and organized an intensive two month's course on improved customer services and then we re-launched our image and everything.
+We really take our customers' satisfaction with our services into consideration because it helps us move from one step to the other.
+On this same issue, a manager in the Corporate Banking Division of Case C said that: 'We take customer complaints all the time. And any complaint they make we work on it; try to resolve it as quickly
+as we can. That is one way we measure it [customer satisfaction] and make sure unsatisfied customers are satisfied'.
+  Furthermore, in terms of responding to market needs, a manager at the Cash Control Unit of Case S said that:
+... we have what we call K 12 meetings where all the departments come together to take strategic actions on prevailing issues in which we also discuss the
+needs of our clients. The business exists for customers. I mean if you
+are doing business and you don't have the customers' interest at heart, you are shooting the business to the foot and possibly prematurely terminating your existence even before time.
+And for marketing culture, the interviewees were emphatic about the fact that they are very much aware of their company's mission/vision, that their business goal is to satisfy customers through the provision of
+
+high service quality, and that employees are rewarded on the basis of customer satisfaction and service quality results. Citing one of the managers interviewed:
+We are a world class bank and we have values and one of our core values is to respond. And before you can respond you need a culture that drives hunger for knowledge. So performance is based on knowledge- the more you know the more you practice. And we don't lose sight of the fact that we are in a strong competitive market even though we are leaders and all that, but we don't lose sight of competition. The desire to put ourselves ahead and remain leaders
+drives us to search for information about our market. Internally, we are driven
+by the idea that we are a world class bank and we need to be the best among everything. And to be the best you need to know. These are organisational philosophies that have been embedded into every individual that drives us towards excellence.
+Yet, it appears that customer emphasis is at the heart of banks' market orientation, given that almost all interviewees stressed on the need to be customer focused. For instance, when asked to define what it means to say that a bank is market oriented, a manager in the Operations Department of Case B succinctly put forward that:
+A bank that is market oriented is one that is able to touch base with its clients [its customers] to know what the customer wants and then it's able to deliver as such. Because if you don't know what's your client base or what your customers want - what are you offering to them? So if you are market
+oriented then you have to find out what their needs are and you can meet and even exceed their expectations.
+It should be noted that customer emphasis (that is, customer orientation) is a component
+
+
+
+Table 2: Reliability and factor analyses
+
+MeasureItem Factor loadingsKMOBartlett's testEigen-valueVariance explainedCronbach's alphaIG40.76 - 0.840.68167.66, P=0.0002.5663.950.801ID40.86 - 0.920.81322.58, P=0.0003.2280.440.913IR50.74 - 0.860.65321.88, P=0.0003.1963.770.850MC50.61 - 0.890.77193.01, P=0.0002.8857.580.803TME30.72 - 0.890.6084.31, P=0.0001.9765.760.731C40.71 - 0.920.72181.72, P=0.0002.6365.810.812MRS30.71 - 0.930.54114.41, P=0.0002.0768.940.768IDC30.67 - 0.950.52162.97, P=0.0002.1370.970.795IC40.69 - 0.870.73127.10, P=0.0002.4260.550.762CI50.76 - 0.860.85244.58, P=0.0003.3166.240.865TT30.81 - 0.900.68113.13, P=0.0002.2273.940.815GE40.71 - 0.800.7496.85, P=0.0002.2957.140.743EDC30.89 - 0.940.73217.52, P=0.0002.5184.180.898BP6-0.60383.24, P=0.0003.1352.090.804CS60.62 - 0.930.59545.11, P=0.0003.8063.290.876
+
+
+
+of market orientation and it enhances the relationship between the marketer and the customer (that is, client), and this relationship is characterised by trust, cooperation and lack of conflict.55 The qualitative analysis so far tends to suggest that Quartile one bank managers sampled
+did not fully address what really constitutes market orientation. Some elements of market orientation such as customer focus was highlighted to mean market orientation
+by some of the interviewees, but which in actual fact was an aspect of it.
+
+Quantitative study
+Validation of research constructs To examine the unidimensionality, validity and reliability of the measures used in collecting data for the present study, the guidelines established by Hair et al54 and Nunally and Berstein56 were observed. First the possible dimensions of the constructs were determined through a principal component analysis with oblique rotation using direct oblimin. As a result of the PCA, the 79 items were reduced to 62 because
+the items failed the reliability and validity procedures. All variables retained exceeded the minimum Kaiser-Meyer-Olkin value
+of 0.5, and reached significance in Bartlett's
+
+
+test of sphericity. Furthermore, eigenvalues for all the variables are larger than 1 and all the items retained within each construct had factor loadings exceeding 0.40. These findings provide evidence of acceptable
+validity.54 In addition, in terms of reliability, all variables exceeded the acceptable standard of reliability analysis of 0.70.56 In short, the statistics in Table 2 highlights
+the appropriateness of the measures for data collection within the context of Ghanaian banks and also signifies the goodness of data for this study.
+
+Descriptive statistics
+Gauging market orientation based upon
+the mean scores of its four activities (that is, dimensions) on the five-point scale allows us to assert that 'quartile one' banks in Ghana practice market orientation at a moderate level. This assertion is permissible in view of the fact that, mean scores for
+the four dimensions of market orientation range from 3.179 to 3.645. Intelligence dissemination had the highest score followed by intelligence generation with a mean score of 3.408, and the lowest goes to marketing culture. As Pearson57 contended the emphasis on, or practice of, market orientation in
+any organisation, sector, industry or country is a question of degree (cited in Osuagwu5).
+
+
+
+Therefore, 'quartile one' banks practice market orientation to a reasonable extent. These quantitative findings triangulate with managers comments made on the four dimensions of market orientation in the qualitative aspect of the study, and are somewhat similar to prior studies conducted in the banking sectors of other environments (see for a review Anwar and Sohail18; Kolar16).
+
+Regression results
+Results of the regression analyses are presented in Table 3. Among seven regression models, model 1 shows that internal/organisational factors including top management emphasis, centralisation structure, market-based reward systems, interdepartmental conflict and interdepartmental connectedness have significant impacts on the level of market orientation of the 'quartile one' banks in Ghana (R2 = 0.680; F = 40.44; P = 0.000;
+DF = 95). In more specific terms, the emphasis of top management is a significant and positive factor for the development of bank market orientation (/J = 0.52, P < 0.01).
+Similarly, market-based reward systems
+
+(/J = 0.27, P < 0.01) and interdepartmental connectedness (/J = 0.32, P < 0.01) have significant positive contributions towards the development of market orientation in banks. The centralisation structure of banks is negatively related to their market orientation (/J = - 0.03, not significant), while interdepartmental conflict has a positive insignificant relationship with market orientation (/J = 0.06, not significant).
+  Models 2 to 4 show the consequences of market orientation. In model 2, market orientation is a significant predictor of the employees' esprit de corps of the 'quartile
+one' banks (R2 = 0.122; F = 15.59; P = 0.000;
+DF = 105). In this regard, market orientation significantly and positively influences employees' morale towards their work
+(/J = 0.35, P < 0.01). In model 3, the practice of market orientation by banks does not seem to make any significant impact on their business performance (R2 = 0.011;
+F = 1.17; not significant; DF = 105). More specifically, market orientation alone, although positively related to banks business performance (/J = 0.11, not significant), is insufficient to cause any substantial variation
+
+
+
+
+Table 3: Standardised regression coef?cients for market orientation, antecedents, consequences and exogenoues variables
+
+
+Independent variables
+
+
+Dependent variable (Market orientation, Esprit de corps, business performance and customer satisfaction)
+
+
+Model 1
+/J (t)Model 2
+/J (t)Model 3
+/J (t)Model 4
+/J (t)Model 5
+/J (t)Model 6
+/J (t)Model 7
+/J (t)TME0.52 (8.41**)------C- 0.03 ( - 0.53)------MRS0.27 (2.95**)------IDC0.06 (0.86)------IC0.32 (3.88**)------MO-0.35 (3.82**)0.11 (1.08)0.54 (6.59**)---MO*CI----- 0.003 ( - 0.018)0.59 (4.05**)0.20 (1.74)MO*TT----0.58 (3.50**)0.65 (4.52**)0.18 (1.47)MO*GE----- 0.05 ( - 0.25)- 0.60 ( - 3.37**)0.47 (3.17**)Constant- 0.934.01**14.75**1.724.94**19.14**3.79**R2	0.68	0.12	0.011	0.29	0.28	0.45	0.65
+**P value is significant at the 0.01 level.
+*P value is significant at the 0.05 level.
+
+
+
+in the business performance of 'quartile one' banks. Model 4 shows that the market orientation of the 'quartile one' banks in Ghana is a key factor in enhancing customer satisfaction (R2 = 0.294; F = 43.39; P = 0.000; DF = 104). Thus, a significant positive relationship exists between market orientation and the level of banks customer satisfaction (/J = 0.54, P < 0.01).
+  Models 5 to 7 highlight the effect of exogenous variables on the consequences of engaging in market-oriented activities among the 'quartile one' banks in Ghana. As can be seen from model 5, when market orientation interacts with external variables including competitive intensity, technological turbulence and the general economy, employees' esprit de corps is affected significantly (R2 = 0.283;
+F = 12.380; P = 0.000; DF = 94). The effect of
+interacting market orientation under increasing competition (/J = - 0.003, not significant)
+looks bad for employees' work spirit while practicing market orientation under high technological uncertainties (/J = 0.58, P < 0.01) and weak economic conditions (/J = - 0.05, not significant) seems promising for enhancing employees' spirit towards work.
+  It is clear from model 6 that only when market orientation interacts with exogenous variables namely competitive intensity, technological turbulence and general economy, would it significantly impact on bank business performance (R2 = 0.45;
+F = 25.36; P = 0.000; DF = 94). Precisely,
+when market orientation interacts with competition (/J = 0.59, P < 0.01) and technological turbulence (/J = 0.65, P < 0.01) it affects business performance in the most positive and significant manner. But, the interaction between market orientation and
+general economy shows a negative relationship with business performance (/J = - 0.60,
+P < 0.01), an indication that market orientation is more beneficial for firms operating in countries with weak economic conditions.
+  Finally, model 7 suggests that the interaction between market orientation and general economy will significantly
+
+impact on the customer satisfaction of banks (/J = 0.47, P < 0.01), but the interaction of market orientation and competitive intensity (/J = 0.20, not significant) or technological turbulence (/J = 0.18, not significant) will have no significant impact on the level of bank customer satisfaction. Yet, collectively, when these three exogenous variables interact with market orientation, they will significantly influence the level of customer satisfaction of the 'quartile one' banks in Ghana (R2 = 0.648; F = 57.04; P = 0.000; DF = 93),
+providing an indication of the model fit.
+
+DISCUSSIONS
+This study has demonstrated empirically the incidence of market orientation among the top four banks in Ghana known, in this study, as 'quartile one' banks. By utilising
+a mixed-method multiple case study design, the study has addressed four research questions including: Do Ghanaian banks observe the principles of market orientation? What internal factors/organisational culture account for market orientation of Ghanaian banks? Does market orientation affect
+the performance of Ghanaian banks? And finally, What external factors mediate the relationship between market orientation and performance of Ghanaian banks?
+  The overall impressions gained from the qualitative study highlight that the 'quartile one' banks in Ghana generate, disseminate and respond to market intelligence. They also have a culture that 'drives hunger for knowledge' about everything that affects the
+customer. The quantitative study also concurs largely with the qualitative findings showing that 'quartile one' banks in Ghana actively engage in market orientation activities.
+Bank managers were more affirmative with intelligence dissemination. The results are similar to prior studies conducted in the banking sectors of other economies.16,18 On the issue of what internal factors propel the market orientation of 'quartile one' banks in Ghana, results of the regression analyses indicate that the key to
+
+
+
+developing market orientation in banks lies in the amount of emphasis placed on this activity by top management. Previous studies have alluded to the significance of top management knowledge, skill and commitment in developing market-oriented cultures in organisations.3,6,38
+  Most significantly, all studies centred on the determinants of market orientation in Ghanaian firms8,20,21 have shown that without emphasis from top managers, Ghanaian companies cannot operate on customer led principles, respond swiftly to competitive reactions and develop interfunctional integration in order to provide superior products and services to their valued customers. This is a major implication for 'quartile one' banks and probably all banks
+in the industry. Other internal values that significantly determine the market orientation of the 'quartile one' banks in Ghana
+are market-based reward systems and interdepartmental connectedness. Thus, it is advisable that banks aiming to develop market orientation have in place reward schemes that place much weight on employee (including managers) market-based performance. Such
+a scheme may be based on, for example, the measurement of customer satisfaction as
+well as critical factors for customer satisfaction and all employees must be assessed on the basis of how they contributed to enhancing customer satisfaction, loyalty and retention.
+The implication that is drawn from the significant positive relationship between market orientation and interdepartmental connectedness is that interfunctional integration is necessary for 'quartile one' banks to uphold the principles of market orientation. Indeed, the qualitative study suggested that intelligence dissemination (or interdepartmental coordination) is the
+most practiced dimension of the market orientation among the 'quartile one' banks. This particular result is not surprising given that connectedness facilitates interaction and exchange of information among various business functions.58 Therefore, we follow
+
+Jaworski and Kohli38 and conclude that the higher the interfunctional connectedness the greater would be the market orientation of the 'quartile one' banks in Ghana.
+   With regard to the consequences of market orientation for the 'quartile one' banks in Ghana, this study found interesting results.
+Market orientation is a significant predictor of the employees' esprit de corps explaining 12 per cent of the changes in the employees' spirit towards their work. However, market orientation is not a significant factor for business success in the 'quartile one' banks having related positively and insignificantly with business performance. It appears that the most significant contribution of market orientation is its ability in driving customer satisfaction. As the results suggest, market orientation has a significant positive relationship with customer satisfaction and
+it explained 29 per cent of the variance in the level of bank customer satisfaction. Thus, an increase in market orientation would
+facilitate clarity of focus and vision in a bank's strategy and generates pride in belonging to it that results in higher employee morale and greater organisational commitment. This would motivate workers to be more responsive to customer needs leading to customer satisfaction that indicates repeat purchases and draws new customers to the bank.30,44
+MANAGERIAL IMPLICATIONS
+This study has shown that in order to achieve higher business success, banks must instead practice market orientation under severe competitive conditions, increased technological turbulence and weaker general economy. The interaction of 'quartile one' banks' market orientation with all exogenous variables showed significant relationship with business performance. Indeed, competition in the Ghanaian banking industry is obvious and so clearly 'quartile one' banks have nothing to wait for: the generation of, dissemination of, and response to, market intelligence is necessary for them to face
+
+
+
+these uncertainties. Furthermore, the results indicate that with increasing competition in banking, market orientation may be a key source for building a loyal customer base given its impact on customer satisfaction.
+As banks are all offering identical products using duplicated production processes, relationship rather than transaction marketing is the only way left for banks to differentiate themselves.24,26 Service quality, customer satisfaction and loyalty are key issues in relationship marketing.59,60 It has been shown here that market orientation significantly drives customer satisfaction. Already some studies have demonstrated its impacts on service quality.9 Therefore, with market orientation, banks can be able to improve upon their quality of services, following increased employees' organisational commitment, leading to increased customer satisfaction, which when given the appropriate cultivation could turn into customer loyalty.59,61
+
+LIMITATIONS AND AVENUES FOR FURTHER STUDIES
+In line with Osuagwu,5 the limitation in this research pertains to the use of subjective measures of performance (that is, respondents' evaluations of esprit de corps, business performance and customer satisfaction with regard to market orientation practices). Extant research on market orientation practices has reported positive effects of market orientation on subjective performance measures, but when objective indicators of performance have been used, the findings have been mixed.5 Although
+the use of subjective measures of performance in research approximates objective measures of performance,62 it would be more illuminating if further studies apply objective performance indicators to see whether similar results would materialise.
+  Similar to other scholarly works63 in the banking sector, this study is not conclusive, but provides a platform for further enquiry
+
+into the other perspectives of research needs such as:
+
+• Interrelationships among market orientation, learning orientation, innovation and bank performance. Such research could provide bank managers with complete insight about the mechanisms through which a market orientation could stimulate their business performance.
+• Customers' perspectives on market orientation could be also explored to confirm the evidence gathered from the bank management account of the banks' level of market orientation and its relationship to performance.
+• Further it will be relevant to consider samples of banks across the sub-Saharan African region to enable the generalisation of the results beyond Ghana.
+
+
+REFERENCES
+1 Han, J.K., Namwoon, K. and Srivastava, R.K. (1998) Market orientation and organisational performance: Is innovation a missing link? Journal of Marketing 62(4): 30-45.
+2 Harris, L.C. and Piercy, N. (1999) Management behaviour and barriers to market orientation in retailing companies. The Journal of Service Marketing 13(2):
+113-131.
+3 Pulendran, S., Speed, R. and Widing II, R.E. (2000) The antecedents and consequences of market orientation in Australia. Australian Journal of Management 25(2):
+119-144.
+4 Esteban, A., Millan, A., Molina, A. and Martin-Consuegra,
+D. (2001) Market orientation in service: A review and analysis. Journal of Marketing 36(9/10): 1003-1021.
+5 Osuagwu, L. (2006) Market orientation in Nigerian companies. Marketing Intelligence & Planning 24(6): 608- 631.
+6 Dwairi, M., Bhuian, S. and Turkus, A. (2007) Revisiting the pioneering market orientation model in an
+emerging economy. European Journal of Marketing 41(7/8): 713-721.
+7 Hinson, R., Kastner, A., Ofori, D. and Mahmoud, A. (2008) Market orientation and export performance:
+A Ghanaian study. AJBER 3(2/3): 62-91.
+8 Mahmoud, M.A., Kastner, A. and Yeboah, J. (2010) Antecedents, environmental moderators and consequences of market orientation: A study of pharmaceutical firms in Ghana. Journal of Medical Marketing 10(3): 231-244.
+9 Guo, C. (2002) Market orientation and business performance: A framework for service organisations. European Journal of Marketing 36(9/10): 1154-1163.
+
+
+
+10 Kasper, H. (2002) Culture and leadership in market oriented service organisations. European Journal of Marketing 36(9/10): 1047-1057.
+11 Fornbrun, C.J. (1984) Corporate culture and competitive strategy. In: C.J. Fornbrun, N.M. Tichy and M.A. Devanna (eds.) Strategic Human Resource Management. New York, NY: Wiley and Sons Inc., pp. 203-233.
+12 Hofstede, G. (1991) Cultures and Organisations, Software of the Mind. London: McGraw-Hill Book Company.
+13 Webster, C. (1993) Refinement of the marketing culture scale and the relationship between marketing culture and profitability of a service firm. Journal of Business Research 26(2): 111-131.
+14 Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1988) SERVQUAL: A multi-item scale for measuring consumer perceptions of service quality. Journal of Retailing 64(1): 12-40.
+15 Siguaw, J.A., Brown, G. and Widing, R.E. (1994) The influence of market orientation of the firm on sales force behaviour and attitudes. Journal of Marketing Research 31(1): 106-116.
+16 Kolar, T. (2006) Benchmarking market orientation of banks in transitional markets Exploring a modified approach. International Journal of Bank Marketing 24(2): 76-97.
+17 Lancaster, G. and van der Velden, H. (2004) The influence of employee characteristics on market orientation. International Journal of Bank Marketing 22(5): 343-365.
+18 Anwar, S.A. and Sohail, M.S. (2003) Testing market orientation of bank managers in the emerging economy of Brunei. International Journal of Bank Marketing 21(6/7): 289-295.
+19 Appiah-Adu, K. (1998) Market orientation and performance: Empirical test in a transition economy. Journal of Strategic Marketing 6(1): 25-45.
+20 Kuada, J. and Buatsi, S. (2005) Market orientation and management practices in Ghanaian firms: Revisiting the Jarworski and Kohli framework. Journal of International Marketing 13(1): 58-73.
+21 Mahmoud, M. (2006) Market orientation and export performance: A study of Ghanaian export firms. MPhil thesis, University of Ghana, Legon, Accra, Ghana.
+22 Akomea, S. (2001) Market orientation in a changing environment: The case of manufacturing and pharmaceutical firms in Ghana. MBA thesis, University of Ghana, Legon, Ghana.
+23 Ghana Statistical Service. (2010) News Letter: Revised Gross Domestic Product (GDP) Estimates for 2009.
+24 Hinson, R., Owusu-Frimpong, N. and Dasah, J. (2009) Key motivations for bank patronage in Ghana. International Journal of Bank Marketing 27(5): 381-399.
+25 George, M. and Bob-Milliar, G.K. (2007) Developments in the Ghanaian banking sector, http://www.ghanawb
+.com/GhanaHomePage/features/artikel.php?ID=123156, accessed 15 January 2010.
+26 Hinson, R. and Hammond, B. (2006) Service delivery in Ghana's banking sector. In: R. Hinson (ed.) African Marketing Practice Cases from Ghana. Ghana: Sedco Publishing, pp. 43-64.
+27 
+Sen, B. (2006) Defining market orientation for libraries.
+Library Management 27(4/5): 201-217.
+28 Hunt, S.D. and Morgan, R.M. (1995) The competitive advantage theory of competition. Journal of Marketing 59(2): 1-15.
+29 Slater, S. and Narver, J. (1995) Market orientation and the learning organisation. Journal of Marketing 59(3): 63-74.
+30 Kohli, A.K. and Jaworski, B.J. (1990) Market orientation: The construct, research propositions, and managerial implications. Journal of Marketing 54(2): 1-18.
+31 Narver, J. and Slater, S. (1990) The effect of market orientation on business profitability. Journal of Marketing 54(4): 20-35.
+32 Slater, S. and Narver, J. (1994) Does competitive environment moderate the market orientation performance relationship? Journal of Marketing 58(2): 46-55.
+33 Ruekert, R. (1992) Developing a market orientation: An organisational strategy perspective. International Journal of Research in Marketing 9(3): 225-245.
+34 Deshpande, R., Farley, J.U. and Webster, F. (1993) Corporate culture, customer orientation, and innovativeness in Japanese firms: A quadrad analysis. Journal of Marketing 57(1): 23-37.
+35 Deshpande, R. and Farley, J.U. (1998) The market orientation construct: Construct, correlations, culture, and comprehensiveness. Journal of Market-Focused Management 2(3): 237-240.
+36 Homburg, C. and Pflesser, C. (2000) A multiple-layer model of market-oriented organisational culture: Measurement issues and performance outcomes. Journal of Marketing Research 37(4): 449-462.
+37 Lafferty, B. and Hult, G.T.M. (2001) A synthesis of contemporary market orientation perspectives. European Journal of Marketing 35(1/2): 92-109.
+38 Jaworski, B.J. and Kohli, A.K. (1993) Market orientation: Antecedents and consequences. Journal of Marketing 57(3): 53-70.
+39 Gounaris, S.P. and Avlonitis, G.J. (1997) Company and market correlates of marketing orientation development: An empirical investigation. 26 EMAC Conference,
+20-23 May, Warwick, UK, pp. 536-555.
+40 Avlonitis, G. and Gounaris, S. (1999) Marketing orientation and its determinants: An empirical analysis. European Journal of Marketing 33(11/12): 1003-1037.
+41 Harris, L.C. (1999) Barriers to developing market orientation. Journal of Applied Management Studies 8(1): 85-101.
+42 Webster, F.E. (1988) Rediscovering the marketing concept. Business Horizons 31(3): 29-39.
+43 Muffatto, M. and Panizzolo, R. (1995) A process-based view for customer satisfaction. International Journal of Quality & Reliability Management 12(9): 154-169.
+44 Raju, P.S., Lonial, S.C. and Gupta, Y.P. (1995) Market orientation and performance in the hospital industry. Journal of Health Care Marketing 15(4):
+34-41.
+45 Kirca, A.H., Jayachandran, S. and Bearden, W.O. (2005) Market orientation: A meta-analytic review and assessment of its antecedents and impact on performance. Journal of Marketing 69(2): 24-41.
+
+
+
+46 Wood, W.R. and Bhuian, S.N. (1993) Market orientation and nonprofit organisations: Performance associations and research propositions. Journal of Nonprofit & Public Sector Marketing 1(1): 7-32.
+47 Grewal, R. and Tansuhaj, P. (2001) Building organisational capabilities for managing economic crisis: The role of market orientation and strategic flexibility. Journal of Marketing 65(2): 67-80.
+48 Yin, R.K. (1994) Case Study Research - Design and Methods, 2nd edn. Thousand Oaks, CA: Sage Publications.
+49 Amaratunga, D. and Baldry, D. (2001) Case study methodology as a means of theory building in facilities management organisations. Work Study 50(3): 95-105.
+50 Saunders, M., Lewis, P. and Thornhill, A. (2000) Research Methods for Business Students, 2nd edn. Harlow, UK: Pearson Education.
+51 Zebal, M.A. (2003) A synthesis model of market orientation for a developing country - The case of Bangladesh. Doctoral dissertation, Victoria University of Technology, Melbourne, Australia.
+52 Blankson, C. and Omar, O.E. (2002) Marketing practices of Caribbean small business in London UK. Qualitative Market Research: An International Journal 5(2): 123-134.
+53 Amaratunga, D., Baldry, D., Sarshar, M. and Newton,
+R. (2002) Quantitative and qualitative research in the build environment: Application of 'mixed' research approach. Work Study 51(1): 17-31.
+54 Hair Jr, J.F., Anderson, R.E., Tatham, R.L. and Black,
+W.G. (1998) Multivariate Data Analysis, 5th edn. Upper Saddle River, NJ: Prentice-Hall.
+55 Huff, L. and Kelley, L. (2005) Is collectivism a liability? The impact of culture on organisational trust and
+
+customer orientation: A seven-nation study. Journal of Business Research 58(1): 96-102.
+56 Nunally, J.C. and Bernstein, I.H. (1994) Psychometric Theory. New York: McGraw-Hill.
+57 Pearson, G.J. (1993) Business orientation: Cliché or substance? Journal of Marketing Management 9(3): 233-243.
+58 Deshpande, R. and Zaltman, G. (1982) Factors affecting the use of market research information: A path analysis. Journal of Marketing Research 19(1): 14-31.
+59 Oliver, R.L. (1999) whence consumer loyalty. Journal of Marketing 63(Special Issue): 33-44.
+60 Caruana, A. (2002) Service loyalty: The effects of service quality and the mediating role of customer satisfaction. European Journal of Marketing 36(7/8): 811-828.
+61 Ismail, A. and Alli, N. (2009) Perceive value as a moderator on the relationship between service quality features and customer satisfaction. International Journal of Business and Management 4(2): 71-79.
+62 Maydeu-Olivares, A. and Lado, N. (2003) Market orientation and business economic performance: A mediated model. International Journal of Service Industry Management 14(3): 284-309.
+63 Waite, K., Harrison, T. and Hunter, G. (2011) Exploring bank website expectation across two task scenarios. Journal of Financial Services Marketing 16(1): 76-85.
+64 Hinson, R., Boateng, R. and Madichie, N. (2010) Corporate social responsibility activity reportage on bank websites in Ghana. International Journal of Bank Marketing 28(7): 498-518.
+65 Aiken, M. and Hage, J. (1968) Organisational independence and intra-organizational structure. American Sociological Review 33(6): 912-930.
+
+
+APPENDIX
+
+
+Table A1: Construct measurements
+
+Construct	Item	Literature
+
+
+Marketing culture	1. Our managers and employees can precisely tell our mission/
+vision.
+2. Managers and employees honestly believe that satis?ed customers and better quality are the best means for achieving better ?nancial performance of the bank.
+3. Rewarding managers and employees is based on their contribution to customer satisfaction and improving services quality.
+4. Authority and information for ?exible decision making are available where needed (and not treated as the exclusive domain of top managers).
+5. Bank and customer interests are not treated as 'natural con?ict' and customer interests are put in the ?rst place (customer interests are a priority).
+6. Innovations and suggestions are implemented without multiple approvals by hierarchical round-ups or across bank levels.
+7. Our bank is visibly 'obsessed' with the desire to satisfy customers and ful?ll their needs, which is apparent in our
+internal materials, branches and public communications/relations.
+8. The ?exible interpretation of work procedures, rules and policies is not treated as a problem in our bank - especially when the satisfaction of customer needs is concerned.
+9. Stereotypes like 'that is not our job', 'that problem has always been caused by other departments' and 'we didn't get all the necessary things for ef?cient work', are not present in our bank.
+Intelligence generation   1. Our customer's satisfaction and critical factors for satisfaction
+are regularly measured and compared with other banks in the industry.
+2. Pro?tability of segments/services and drivers of pro?tability are frequently analysed and used for strategic planning.
+3. Improving employee satisfaction, organisational culture and work conditions are regularly measured and compared with employee effectiveness.
+4. Achieving marketing goals (market share, segments/services pro?tability, customer satisfaction and loyalty, quality of services) is controlled similarly to how ?nancial goals are controlled.
+
+
+Kolar16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kolar16
+
+
+Intelligence dissemination
+
+
+
+
+
+
+
+
+
+
+
+
+
+Intelligence responsiveness
+
+
+1. The main focus of our vision is on customer satisfaction and improving the quality of our services.
+2. Our mission/vision is written and realised through strategic plans and operational activities of this bank.
+3. Customer satisfaction and quality improvement are regularly discussed at our bank's strategic conferences and meetings.
+4. Measurable (quantitative) goals for customer satisfaction
+and quality improvement are set and included in strategic plans (similarly ?nancial goals setting).
+5. Strategic plans are worked out for segments, services and distribution channels and budgeting is also based on the same (market) entities.
+6. Goals and results of customer satisfaction are systematically communicated to managers and employees through reports and meetings.
+7. Information on upcoming strategic changes are communicated in comprehensive, logical and objective way - including
+drawbacks of changes and surveying opinions of employees.
+
+1. Managers demonstrate personal involvement in getting closer to customers with speci?c behaviours - such as open door meetings and personally answering questions.
+2. The system of continuous improvement of critical factors for customer satisfaction and quality of services (queues, relationship management and customer complaints) is implemented.
+
+Kolar16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kolar16
+
+
+
+
+
+
+Table A1 continued
+
+Construct	Item	Literature
+
+3. For core processes cycle time and defect rate is measured and improved, which ensures that the result of the processes is improving customer value.
+4. Implementation of major projects is not disturbed by the fact that more departments are included - we do not experience 'barriers' or con?icts between departments as an obstacle for ef?cient implementation.
+5. Managers and employees embrace implementing changes in spite of the fact that changes are often the cause of instability and that they bring inherent risks.
+6. Most of the managers and employees are keen to meet new challenges and learn new skills - regardless of their position and age.
+
+
+Top management emphasis
+
+
+
+
+
+Top management risk aversion
+
+
+1. Top managers repeatedly tell employees that this business unit's survival depends on its adapting to market trends.
+2. Top managers often tell employees to be sensitive to the activities of our competitors.
+3. Top managers keep telling people around here that they must gear up now to meet customers' future needs.
+4. According to top managers here, serving customers is the most important thing our business unit does.
+
+1. Top managers in this business unit believe that higher ?nancial risks are worth taking for higher rewards.
+2. Top managers in this company like to take big ?nancial risks.
+3. Top managers here encourage the development of innovating marketing strategies, knowing well that some will fail.
+4. Top managers around here like to implement plans only if they are very certain that they will work.
+
+Jaworski and Kohli38
+
+
+
+
+
+
+Jaworski and Kohli38
+
+Centralisation	1. There can be little action taken here until a supervisor approves
+a decision.
+2. Even small matters have to be referred to someone higher for a ?nal decision.
+3. I have to ask my boss before I do almost anything.
+4. Any decision I make has to be my boss's approval.
+Formalisation	1. In our company, employees are motivated to feel that they
+supervise themselves.
+2. For most of the things in our company it is within the authority of those who are responsible for them to decide how they will be done.
+3. The employees in this company are constantly monitored for rules violation.
+
+Aiken and Hage65
+
+
+
+
+Aiken and Hage65
+
+Competition	1. We regularly monitor our competitors' marketing efforts.	Zebal38
+2. We frequently collect marketing data on our competitors to help direct our marketing plans.
+3. Our salespeople are instructed to monitor and report on competitor activity.
+4. We respond rapidly to competitors' actions.
+5. There are many promotion wars in our company.
+6. Price competition is a hallmark of our company.
+7. Our competitors are relatively weak.
+
+Market turbulence	1. In our kind of business, customers' product preferences
+change quite a bit over time.
+2. Our customers tend to look for new product all the time.
+3. We are witnessing demand for our products and services from customers who never bought them before.
+4. Sometimes our customers are price sensitive, but on other occasions, price is relatively unimportant.
+
+Jaworski and Kohli38
+
+Technology	1. The technology in our company is changing rapidly.	Jaworski and Kohli38
+2. Technological changes provide big opportunities in our company.
+3. A large number of new product ideas have been made possible through technological breakthroughs in our company.
+4. Technological developments in our company are rather minor.
+
+
+
+
+Table A1 continued
+
+Construct	Item	Literature
+
+General economy	1. The customers in our company are likely to be value conscious.	Jaworski and Kohli38
+2. Our company is more responsive to customer needs in order to offer good value for money.
+3. The general economy of this country is weak.
+
+
+Organisational commitment
+
+
+1. Employees of this company would be happy to make personal sacri?ces if it were to important for the company's well being.
+2. The bonds between this company and its employees are weak.
+3. In general employees are proud to work for this company.
+4. Our employees have little or no commitment to this company.
+
+Jaworski and Kohli38
+
+Esprit de corps	1. People in this company are genuinely concerned about
+the needs and problems of each other.
+2. Working for this company is like being a part of a big family.
+3. People in this company feel emotionally attached to each other.
+4. People in this company view themselves as independent individuals who have to tolerate others around them.
+
+Jaworski and Kohli38
+
+
+Business performance (over the last three years)
+
+
+1. The return on investment of our company has improved.
+2. The pro?t of our company has increased.
+3. We have remarkable sales growth in our company.
+4. The market share of this company has gone up.
+5. The sales volume has increased.
+6. The revenues of our company have increased.
+7. The quality of our products has improved.
+8. The ?nancial position of my company has improved.
+
+Zebal51
+
+Customer satisfaction	1. We have more loyal customers than competitors.	Zebal51
+2. We often receive complementary phone calls/letters from our customers.
+3. Our trade partners always praise about our product quality.
+4. We hardly receive complaints about our product.
+5. We generate new customers on our company on a regular basis.
+6. Customers of this company are happy with our products and prices.
+
+
+Market-based reward system
+
+
+
+
+
+
+Interdepartmental con?icts
+
+
+
+
+
+
+Interdepartmental connectedness
+
+
+1. Employees from every department in this company get recognised for being sensitive to competitive moves.
+2. Customer satisfaction assessments in?uence senior managers' pay in this company.
+3. Formal rewards (eg, pay raise, promotion) are forthcoming to anyone who consistently provides good market intelligence/ information.
+4. Salespeople's performance in this company is measured by the strength of relationships they build with customer.
+
+1. Most departments in this company get along well with each other.
+2. When members of several departments get together, tensions frequently run high.
+3. People in one department generally dislike interacting with those from other departments.
+4. Employees from different departments feel that the goals of their respective departments are in harmony with each other.
+5. There is little or no interdepartmental con?ict in this company.
+
+1. In this company, regardless of their rank or position, it is easy to talk to anyone needed.
+2. There is ample opportunity for informal hall talk among individuals from different departments in this company.
+3. In this company, employees from different departments feel comfortable calling each other when the need arises.
+4. People in this company are quite accessible to those in other departments.
+
+Jaworski and Kohli38
+
+
+
+
+
+
+
+Jaworski and Kohli38
+
+
+
+
+
+
+
+Jaworski and Kohli38
+
+
+
+
+
+
+
+
+
+
+
+
+

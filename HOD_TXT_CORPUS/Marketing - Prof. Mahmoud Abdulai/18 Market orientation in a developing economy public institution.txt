@@ -1,0 +1,475 @@
+
+International Journal of Public Sector Management
+Market orientation in a developing economy public institution: Revisiting the Kohli and Jaworski's framework
+Mohammed A. Mahmoud Robert E. Hinson
+Article information:
+To cite this document:
+Mohammed A. Mahmoud Robert E. Hinson, (2012),"Market orientation in a developing economy public institution", International Journal of Public Sector Management, Vol. 25 Iss 2 pp. 88 - 102
+Permanent link to this document:
+http://dx.doi.org/10.1108/09513551211223758
+Downloaded on: 17 December 2014, At: 09:38 (PT)
+References: this document contains references to 58 other documents. To copy this document: permissions@emeraldinsight.com
+The fulltext of this document has been downloaded 638 times since 2012*
+Users who downloaded this article also downloaded:
+Amparo Cervera, Alejandro Mollá, Manuel Sánchez, (2001),"Antecedents and consequences of market orientation in public organisations", European Journal of Marketing, Vol. 35 Iss 11/12 pp. 1259-1288 http:// dx.doi.org/10.1108/EUM0000000006476
+Tor Wallin Andreassen, (1994),"Satisfaction, Loyalty and Reputation as Indicators of Customer Orientation in the Public Sector", International Journal of Public Sector Management, Vol. 7 Iss 2 pp. 16-34 http:// dx.doi.org/10.1108/09513559410055206
+
+
+Access to this document was granted through an Emerald subscription provided by 333301 []
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald for Authors service information about how to choose which publication to write for and submission guidelines are available for all. Please visit www.emeraldinsight.com/authors for more information.
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company manages a portfolio of more than 290 journals and over 2,350 books and book series volumes, as well as providing an extensive range of online products and additional customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the Committee on Publication Ethics (COPE) and also works with Portico and the LOCKSS initiative for digital archive preservation.
+
+*Related content and download information correct at time of download.
+
+
+
+
+IJPSM 25,2
+
+
+88
+
+Received 3 November 2010
+Revised 30 March 2011
+Accepted 4 April 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Market orientation in a developing economy public institution
+Revisiting the Kohli and Jaworski's framework
+Mohammed A. Mahmoud
+Department of Marketing and Customer Management,
+University of Ghana Business School, University of Ghana, Legon, Ghana, and
+Robert E. Hinson
+University of the Free State Business School, University of the Free State, Bloemfontein, South Africa
+
+
+Abstract
+Purpose - The aim of this study is to generate insights into whether market orientation - as defined by Kohli and Jaworski - is being practiced in the Ghanaian public sector.
+Design/methodology/approach - Based on a case-study of a local government, the Accra Metropolitan Assembly (the Assembly), semi-structured interviews were conducted with departmental heads and their assistants to collect data. A total of 14 key informants participated in the interviews, and this sample size compared favourably with prior qualitative studies.
+Findings - The assembly collects intelligence on citizens' present needs, their earning potential and the political and technological environment, ignoring citizens' satisfaction with development projects. Meetings are regularly held by the various units in the Assembly to share and discuss the generated intelligence, yet one can see little consideration of citizens' needs and their satisfaction with projects in these discussions.
+Research limitations/implications - Further research into local governments across multiple regions in Ghana, or from a range of countries within Sub-Saharan Africa, could provide an opportunity for greater generalisability of the results.
+Practical implications - Local authorities must develop formal procedures for monitoring citizens' satisfaction with services, programmes and development projects. There is need to harness the intelligence inherent among staff with the use of focused communication or knowledge management strategies.
+Originality/value - Recent efforts to extend market orientation application to the public sector have over-concentrated on western countries. Based upon empirical evidence from a non-western (Ghanaian) context, this study further assuages fears that market orientation may not be applicable to public institutions like local government.
+Keywords Market orientation, Public sector, Local government, Developing countries, Ghana, Public sector organizations, Customer satisfaction
+Paper type Case study
+
+
+International Journal of Public Sector
+Management		
+Vol. 25 No. 2, 2012
+
+pp. 88-102
+q Emerald Group Publishing Limited 0951-3558
+DOI 10.1108/09513551211223758
+
+The authors greatly appreciate the suggestions of the two anonymous IJPM's reviewers; the
+useful comments and suggestions of Dr K. Sackyi; and the effort of Baba Yusif in transcribing the interviews.
+
+
+
+
+Introduction
+Recent developments have put public organisations under increasing competitive and financial pressures (Ghobadian and Ashworth, 1994; Day et al., 1998). Trends such as commercialisation, compulsory competitive tendering, and privatisation of public services have created an environment in which public organisations are expected to provide responsive and effective services to the citizenry (Day et al., 1998). Thus, public organisations have looked to the private sector for tools and techniques designed to improve both efficiency and effectiveness and one such tool is market orientation (Caruana et al., 1997; Rees, 2000).
+  Within the past two decades, the subject market orientation has generated profound interest among both marketing scholars and practitioners (Kohli and Jaworski, 1990; Narver and Slater, 1990). The overriding proposition of the literature is that increased market orientation results in superior organisational performance (Narver and Slater, 1990). However, this conclusion was drawn based on data principally tested on studies of profit making organisations, thereby leaving questions regarding the application of the construct to public organisations with no profit orientation (Ghobadian and Ashworth, 1994; Zhou et al., 2009). This study generates insights into whether market orientation is being practiced in the Ghanaian public sector and at what level the market orientation is practiced as compared to what pertains in the Western countries (see, e.g. Harrison and Shaw, 2004; Sen, 2006; Kowalik, 2011).
+  In the Ghanaian context, scholars have found an association between market orientation and organisational performance in private for profit organisations (Appiah-Adu, 1998; Kuada and Buatsi, 2005; Hinson et al., 2008; Mahmoud et al., 2010); however, the market orientation construct is yet to be examined among public sector organisations guided by social goals. It is argued that, citizens who are the consumers of public services (Butler and Colins, 1995) cannot be treated like conventional customers (Forbes, 1987). Several authors note that due to its political and economic complexities, marketing implementations within the public sector is a problematic issue (Bean and Hussey, 1997).
+  The overall importance of public organisations in Ghana makes the investigations of market orientation issues germane to their survival and sustainability. The paper reports the results of a case-study research that utilised the Kohli and Jaworski's (1990) framework to understand the marketing practices of Ghana's largest public sector institution - Accra Metropolitan Assembly (hereafter referred to as the Assembly). The Assembly was chosen for the study due to its size as the biggest in Ghana. It was the first metropolitan assembly to be created and is headquartered in Ghana's capital, Accra. Our contribution is anchored on the theory that, whilst market orientation studies were focused primarily on the private sector, recent efforts to extend its application to the public sector have over-concentrated on western countries. In this connection, we provide empirical evidence from a non-western (Ghanaian) context, and further attenuate the fears of some academics that market orientation may not be applicable to public sector institutions like the local government.
+  The paper first introduced the topic under discussion - market orientation and the public sector. The second part of the paper discusses the context of the study, the Assembly. The third and forth sections addressed previous work and in particular the interface between market orientation and the public sector and this is immediately followed by the framework of the study. The fifth section deals with the methodology
+          
+Market orientation in public institutions
+
+89
+
+
+
+
+
+
+IJPSM 25,2
+
+
+90
+
+whilst section six considers the findings and discussions of the study. The seventh section presents the conclusions to the paper whereas the eighth section of the paper closes with limitations and future research directions.
+
+Context of the study
+The Assembly is the administrator of Ghana's Capital Accra (www.ghanabusinesss.
+
+	 com) and the hub of Ghana (ama.ghanadistricts.gov.gh). Given that the Assembly is the hub of Ghana and has been charged by the President of Ghana to turn Accra into a world class millennium city within the shortest possible time (ama.ghanadistricts.gov.gh), it would seem almost automatic that the Assembly would be employing market orientation practices in order to meet its corporate mandate. A cursory review of 2010 publications on the Assembly featuring on www. myjoyonline.com (Ghana's leading business news portal), however, reveals some headlines that might not be complementary to the marketing efforts of any local government public institution. Table I presents some of these headlines.
+  Whilst material published on the internet can generally not be regarded as sacrosanct, these Assembly's reports nevertheless represent some cause for concern. Cowell (1989) notes that the adoption of the marketing concept will provide public organisations with suitable instruments in order to reduce criticism from interest groups or media, as the knowledge of public needs will help them to organise their supply for better satisfying public needs. This current paper which examines market
+
+Headline	Date of publication Key excerpt
+
+
+NPP General Secretary vows to sue the Assembly
+
+
+
+
+Victim confesses: Assembly guards had sex with me for return of my goods
+
+
+Residents of Accra want better services from Assembly - survey
+
+
+14 April 2010	The Assembly has earmarked for demolition
+over 140 unauthorized structures allegedly sited on watercourses ... but NPP General Secretary says the exercise is a calculated attempt ... To make life unbearable for supporters of the main opposition party
+2 May 2010	"Yes they slept with me" Three times. The first
+time, I was able to pay part of the requested amount, but the subsequent ones, I could not afford, so they asked me to have sex with them instead of the amount"
+30 August 2010	Residents of the Accra Metropolis want provision
+of better places of convenience improvement in sanitation and drainage as well as refuse and solid waste disposal services
+
+Assembly bans churches	6 September 2010	The Assembly has vowed to close down 90
+percent of the churches in Accra	The
+Assembly has a task force that is clamping down on churches that are located in residential areas
+
+
+Table I.
+Assembly headlines on www.myjoyonline.com
+
+Stabbing of trader: Assembly says guards acted in self- defence
+
+14 October 2010	Street hawkers in the Central Business District of
+Accra, Thursday, engaged in a brawl with the Assembly task force resulting in the stabbing of one trader
+
+
+
+
+
+
+
+orientation practices in a Ghanaian public service organisation; the Assembly, responds to three calls in the market orientation literature for public sector market orientation research:
+(1) Research in the field of market orientation and the analysis of the variables connected, have almost entirely been developed in the field of privately owned organisations and this issue has led researchers to recognize the convenience of expanding research to different scopes (Cervera et al., 2001).
+(2) If marketing is to be developed for the public realm, then it would need to develop a language that is defined by the specific character of that realm (Walsh, 1994) and hence this market orientation case-study on a public sector institution.
+(3) In their analysis of innovation in a public organisation, Hurley and Hult (1998) pointed out the need to investigate market orientation in public organisations.
+
+Market orientation in public sector
+The appreciation and implementation of market orientation in practice within the public sector remains debatable (Dyer and Shimp, 1977; Forbes, 1987; Baker, 1995). It is believed that legislative restrictions, political philosophies, lack of physical and financial resources (Bean and Hussey, 1997), lack of competition, particularly if the sector is monopolized by state-owned enterprises and excessive government regulations (Zhou et al., 2009) limit the ability of public organisations to implement a customer-led approach even when it is desirable. Qu and Ennew (2005), for instance, illuminated the flaws in China's socialist set up and suggest that government stringent regulations, ownership structure and resource availability greatly impede market orientation. Apparently, within the public domain, government controls are blamed for distorting organisational change (Savitt, 2001).
+  The public sector has, in recent years, been challenged by a multidisciplinary theoretical approach advocating decentralization, down-sizing, lean production, business alliance and privatisation as means of solving public efficiency problems (Ghobadian and Ashworth, 1994; Day et al., 1998; Samu and Wymer, 2001). These political administrative changes were inspired by theories of public sector competition and competiveness - the new public management (NPM) - (Hood, 1991; Olsen, 1997). Recent studies of NPM, however, contravened that many of these NPM solutions are neither fair nor efficient (Dunleavy et al., 2006; Lapsley, 2009). In relation to marketing, Baker (1995, p.77) states that the use of the word "customers" within the public sector is resisted because it represents the language of the marketplace, which traditionally-speaking is a cultural anathema to the public service ethic.
+  Not surprisingly, in their study of market orientation in public nonprofits, Dolnicar and Lazarevski (2009) found that only small proportions of nonprofit public organisations considered market research and strategic marketing as important to their organisations. However, those who value this orientation are able to perform far better than those who do not (Dolnicar and Lazarevski, 2009). This seems to suggest that marketing and, more importantly, market orientation is appropriate for a public sector institution. Rees (2000), in her study of marketing in local government in the UK, concluded that marketing has arrived in local government and it is there to stay even if the external pressures are relieved. She noted that most officers were ready and willing to embrace marketing including those working in social services.
+          
+Market orientation in public institutions
+
+91
+
+
+
+
+
+
+IJPSM 25,2
+
+
+92
+  
+Indeed, recent studies conducted in the western context demonstrate that market-oriented organisational change is appropriate for all kinds of public institutions including education (Caruana et al., 1997; Naude and Ivy, 1999), libraries (e.g. Harrison and Shaw, 2004; Sen, 2006), health (e.g. Boonekamp, 1994) and local government (Cervera et al., 2001; Kowalik, 2011). In particular, the importance of market orientation to the public sector lies in the fact that it leads to improvement of public administration performance and public services quality (Poister and Streib, 2005), increased organisational commitment of managers (Caruana et al., 1997) and better communication with the citizens (Clark and Stewart, 1994; Schedler, 2006). Although these studies have demonstrated the appropriateness of market-oriented organisational change to public sector organisations in the western context (see, e.g. Caruana et al., 1997; Cervera et al., 2001; Flavian and Lozano, 2006; Kowalik, 2011), research regarding the public sector application of this concept in a developing African context is scant.
+  With the dominance of the public sector in the Ghanaian economy, it is imperative that public sector organisations uncover new ways of improving their organisational performances in order to reduce criticisms from interest groups or media. In this regard, the knowledge of public needs, according to Cowell (1989), will help public organisations to organize their supply for a better satisfaction of these needs. Thus, the concept of strategic marketing or market orientation based on stakeholder analysis can enable the public sector institutions in Ghana to improve efficiency, effectiveness and responsiveness of their service delivery (Boonekamp, 1994; Naude and Ivy, 1999; Harrison and Shaw, 2004). The present study focuses on the administrative responsibility related to the provision of services, programmes and development projects for the general public or the citizenry (i.e. customers), which is the core business of public sector institutions, like the local government. In view of this, it is believed that irrespective of the political orientation at any point, local governments must meet the needs and wants of the citizenry in the best way possible, which is the basis of the marketing concept.
+
+
+Conceptual framework
+A market-oriented organisation is one which successfully applies the marketing concept (Kohli and Jaworski, 1990; Caruana et al., 1997). Two contributions have been fundamental leading to subsequent studies; Kohli and Jaworski's (1990) approach on one hand and Narver and Slater's (1990) approach on the other hand. The definitions developed by most researchers were derived from the conceptualisation of both Kohli and Jaworski (1990) or Narver and Slater (1990). After comparing the three core elements of market orientation as a philosophy to the perception of marketing practitioners, Kohli and Jaworski (1990) concluded that market orientation involves: the organization-wide generation of market intelligence pertaining to current and future customer needs; dissemination of the intelligence across departments; and organisation-wide responsiveness to this intelligence. Narver and Slater (1990), on the other hand, proposed that market orientation has three components namely: customer orientation, competitor orientation, and inter-functional coordination. This approach depicts market orientation as a phenomenon related to the cultural values and norms of an organisation (Narver and Slater, 1990).
+
+
+
+
+  The research framework is based on the Kohli and Jaworski's (1990) postulations with modifications to reflect the context of the study (see Figure 1). The present research conjectures that market information generation, its dissemination and market information response (to satisfy citizens' needs) constitute the nuclear essence of a market orientation in a public sector institution. Intelligence generation involves searching for qualitative and quantitative information about citizens, external factors, and internal factors using informal and formal means. This gathered information is then shared throughout the organisation. Finally, response to intelligence gathered through designing, developing and implementing, not only services, but also programmes, projects and systems for their development and distribution to the public (Cervera et al., 2001; Kowalik, 2011). The use of this theoretical approach to operationalise market orientation has recently been shown to be applicable to public sector organisations in the Western context by proponents of market-oriented organisational change (see, e.g. Caruana et al., 1997; Cervera et al., 2001; Flavian and Lozano, 2006; Kowalik, 2011). We contribute by examining whether this approach to market orientation is practiced by public sector organisations in a non-western environment, Ghana.
+
+Methodology
+A case-study was adopted. Eisenhardt (1989) defines case-study as a research which focuses on understanding the dynamics present within a single setting. A common misconception about case-study is that it cannot provide reliable information about the broader class (Abercrombie et al., 1984, p. 34). Seale et al. (2004, p. 420) argue that this description, if not directly wrong, is so oversimplified as to be grossly misleading. In support, Eckstein (1975, p. 80) explains that the case-study is useful for both generating and testing of theories.
+  A large local government - the Assembly - was chosen for the study. To assist the external validity of conclusions drawn, it should be noted that there are commonalities
+          
+Market orientation in public institutions
+
+93
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Figure 1. Market orientation model in local government
+
+
+
+
+
+
+
+IJPSM 25,2
+
+
+94
+
+in policies, procedures and organisational contexts of all local governments in Ghana as these institutions are guided by one administrative document (i.e. The Local Government Act). Eisenhardt (1989) pointed out that the case-study typically uses data collection methods such as archives, interviews, questionnaires or observations. Thus, it was deemed that semi-structured interviews would prove the most suitable mechanism for data collection. Our research employed an almost "theory-testing" (see Eckstein, 1975; cited in Seale et al., 2004) case-study approach towards the theory-building process, in that theory "developed" from previously established theory (Kohli and Jaworski, 1990). Nevertheless, this approach has broadened the scope of enquiry and has raised further issues that would subsequently inspire a quantitative research. Prior to the initiation of formal interviews, publications regarding the Assembly on popular Ghanaian websites were studied and two weeks' observation of the Assembly's employees at the headquarters was conducted. Using the purposive sampling technique, heads of five departments (i.e. planning, legal, audit, treasury, and administration), including their assistants, in the Assembly were sampled. As contended by the PRO of the Assembly, these departments represent the five largest divisions within the Assembly, and can therefore be especially informative (Neuman, 2007). Steps were taken to ensure that only workers with at least two years of working experience in the Assembly were included in the sample. A total of 14 persons were interviewed and this sample size compared favourably with prior qualitative studies (i.e. Goodwin et al. (1997) used 16 respondents; Omar (1997) 12 respondents; Doherty (2000) seven respondents, and Sen (2006) also used seven respondents).
+  The interviews with the departmental heads and their assistants were conducted at their respective offices during their normal work-hours (8 a.m.-4 p.m.). All interviews took place during the months of January and February 2010, and each lasted approximately 40 minutes. To ensure the interview process was successful, measures such as practicing the interviews and confirming dates, times and places with interviewees were taken (Lincoln and Guba, 1986). All interviews were recorded on audio tape. Interview questions were open-ended and were adapted from Kohli and Jaworski's (1990) work. This work was adapted because of its test and re-test validity and reliability (see Wood and Bhuian, 1993; Cervera et al., 2001). Questions asked pertains to:
+? information generation about citizens' needs, their satisfaction with public services, programmes or development projects, the environment and impact of projects on the citizenry;
+? dissemination of the information within the Assembly; and
+? response to the generated and disseminated information.
+We also asked respondents whether they study competitors, how they regard marketing, the forms of marketing the Assembly undertakes and whether market orientation is appropriate for the Assembly.
+  As noted earlier, all dimensions were measured through responses derived from the perceptions of selected key informants. Interviewees were briefed on the subject matter, prior to interviews, to gain an understanding of the information requested thereby promoting validity and reliability (Saunders et al., 2000). Following Goodwin et al. (1997), and in line with Blankson and Omar (2002), the constructs validity was examined in two ways. First, the summary of findings of the study was sent to two
+
+
+
+
+heads of departments who participated in the interviews for their comments and suggestions. They all agreed with the findings, nevertheless, their suggestions were included in the final analysis. Second, copies of the draft version were given to some scholars with expertise in marketing and public administration for their comments and suggestions. In fact, this final work includes their suggestions.
+  All the interviews were fully transcribed and then sorted and classified according to the major questions posed in a systematic and iterative manner (Turner, 1981). The interview data was analysed using the three components of market orientation depicted in Figure 1, whilst recognising other themes which emerged from the data. The information obtained from the interviews gives insights into whether market orientation is being practiced by the Assembly.
+
+Presentation and discussions of findings
+The research findings deal with an account of the existence of the market orientation construct in the Assembly rather than an account of the causal linkages between the antecedents and consequences of market orientation (see Cervera et al., 2001; and Kowalik, 2011, for a discussion on these issues).
+
+Intelligence generation
+The results of the interviews revealed that intelligence is gathered by the Assembly on the people within its jurisdiction; information is collected based on citizens' current needs and other issues which influence their ability to pay rates and tolls set by the Assembly, such as earning potentials, personal savings, standard of living, and educational background. The Assembly also observes and collects information on external factors that influence its ability to implement programmes and projects, such as the possibility of non-compliance from the citizenry, central government interventions, political issues in the country, and technological development. We present some of the interview excerpts below:
+Yes, I know the Research and Monitoring Unit conduct survey to determine the needs of our clients (the people of Accra) [.. .] (Head: Legal Services).
+The community technical interface, which we organise yearly enable us to understand the needs of our clients [.. .] when we have to fix tolls and rates for our services we normally study their earning potentials, savings, level of education [.. .] (Head of Administration).
+Every year we hold stakeholders' forum with the public and we allow the public to express whatever sentiment they have and as they are exposing areas we record them [.. .] (Assistant head: Treasury).
+We have something we call community technical interface where we go to the various units, electoral areas, communities and sub-metros to discuss with the people what their needs are, and usually before we set the fees for services we study their ability to pay [.. .] (Head of Planning).
+On the issue of gathering information on competitors, almost all the heads and their assistants interviewed think that they do not have competitors. They noted that most of the services provided by the Assembly are monopolised, and can only be provided by other local governments operating under separate jurisdiction. For example, the Head of Internal Audit observes that:
+          
+Market orientation in public institutions
+
+95
+
+
+
+
+
+
+IJPSM 25,2
+
+
+96
+
+Most of the services that we provide, we have monopoly. You won't find other organisations providing the same service unless you say other metropolis which don't fall within our jurisdiction.
+Respondents generally contend that the Assembly has no competition since it is sheltering under monopoly power conferred by status (i.e. the Local Government Act). Organisations which they collect information on are those that the Assembly usually sub-contracts to provide public services on it behalf. This they do to assess their performance. The Head of Treasury, for instance, has this to say:
+Yes, If we sub-contract a project we do monitor the contract. How are the contractors performing? [.. .]
+These results are consistent with recent public sector studies, which report that organisations in the public sector like local governments gather intelligence on their clients (Cervera et al., 2001; Sen, 2006; Kowalik, 2011). Our results suggest that whilst the intelligence generation dimension is applicable to the local government, the focus is on issues such as citizens' present needs, their earning potentials and the environment, for achieving a better understanding, with little consideration of citizens' satisfaction with the services or projects being developed.
+
+Intelligence dissemination
+The results of the interviews indicate that the Assembly sometimes shares the collected information among its various authorities within its organisational structure. Collected information is shared, discussed and, where necessary, action is taken. In more specific terms, all the respondents claimed that intelligence dissemination is encouraging in the Assembly and some of the examples shared include:
+From the departmental level we do a lot, we call management meetings- Heads of all departments of the Assembly meet every Monday of every week to share and discuss current and emerging issues concerning the Assembly and its people (Head: Research and Monitoring Unit - under Treasury).
+We do share because at my position sitting here as the auditor whatever goes on I am informed and I know other departments are also informed (Assistant Head: Administration).
+We have the general Assembly meetings in which the Mayor of Accra takes part. In those meetings we discuss and share ideas on issues (Head: Legal).
+The dissemination of intelligence within the Assembly seems to take place during its management meetings held on every Monday of the week (called the MVCU meeting). The Mayor of Accra normally avails himself in these meetings, and issues discussed pertain to developments within the Assembly. However, respondents were found to be diverse between "client-focus" and "not client-focus" when conducting these meetings. For this particular issue, whilst two persons declined making any comment, six persons claimed that discussions were focused on clients needs and six others also contended that little is talked about as far as clients' needs are concerned. In relation to the latter observation, the assistant head of Internal Audit has this to say:
+In those meetings we don't discuss the needs of the clients what the clients need at the future[.. .] We only look at the city dwellers when we are fixing our fees, rates [.. .] Here we only focus on the "can they pay" issues[.. .]
+
+
+
+
+Our results indicate that although meetings are regularly held by the various units in this public institution to share and discuss issues, one can witness little consideration of the present needs of the citizenry and their satisfactions with services, programmes or projects in the discussions that take place. Indeed, Sen's (2006) study has shown that market intelligence dissemination in public institutions needs significant improvement with perhaps more focused-communication or using knowledge management strategies (see also Kelleher and Levene, 2001).
+
+Intelligence responsiveness
+The responses showed that intelligence responsiveness appears to be the least considered aspect of the Assembly's market orientation. Majority of the respondents think that the Assembly is trying hard to respond to the needs of its constituents, however, lack of financial resources, structural and system bureaucracy and political interventions limit its ability to do so. Whilst some departmental heads think that appropriate actions are taken considering the gathered information, others simply claim that the Assembly rarely responds to the needs of its constituents on the basis of market intelligence. For those who think the Assembly is responsive, three of the notable comments made in this regard include:
+It is not so fast but it is because we have to go through procedures, and we also don't have the resources [.. .] (Head: Planning).
+[.. .] getting our clients satisfied is the mindset of every worker in the Assembly [.. .] it is our vision [.. .] So if the clients' service discovers and reports any problem, we sit down and solve it [.. .] (Head: Administration).
+We respond to the needs of our clients - the people of Accra - but generally there is a constraint [.. .] Normally we don't have all the money to respond quickly to the needs of the clients [.. .] (Head: Clients Services-under Administration).
+On the other hand, as previously stated, others posit that the Assembly is not so much concerned about responding to the needs of the people. Little is done in terms of taken strategic decisions to get lasting solutions to the many problems confronting the people of the city. The head of Internal Audit simply said that:
+We don't. Is not about we don't know what we should do but is about misplaced priority. I mean we don't focus [.. .]
+The head of Treasury similarly claimed that:
+If the city dwellers are to request [.. .], we respond, but we respond immediately base on the agitation but after that we go back. We don't give it a thorough discussion to find a lasting solution to the problems, needs of our clients [.. .]
+These findings contrast with those obtained from a recent study in Polish local government by Kowalik (2011), which found intelligence response to be significantly higher than intelligence generation and dissemination. Whilst, in general, public sector organisations have a diminishing capacity to respond to mounting challenges (Leadbeater, 2003), we should expect that in developing countries like Ghana the ability of a public organisation to implement a customer-led approach would be inhibited by financial and political constraints (Qu and Ennew, 2005; Zhou et al., 2009). The political
+          
+Market orientation in public institutions
+
+97
+
+
+
+
+
+
+IJPSM 25,2
+
+
+98
+
+constraint identified in this study is related to the bureaucratic systems, structures and interventions from the central government.
+
+Conclusions and implications to local government management
+Defining market orientation as the generation of, dissemination of, and responsiveness to, market intelligence allows us to assuage the fears of some academics (e.g. Bean and Hussey, 1997) that market orientation may not be applicable to public organisations. Prior research has established that there are some elements of market orientation in the activities of the local government (see, e.g. Cervera et al., 2001; Kowalik, 2011), although in a western context. We found in the case of the Assembly in Ghana (a developing African country) that, before projects are undertaken by the Assembly, information is collected from the various constituents of the Assembly. This involves among other things, organising annual forums to seek the opinions of the people on what needs to be done and where the Assembly needs to improve. Obviously, such kinds of activities are the starting point of market orientation (Kohli and Jaworski, 1990). Intelligence generation seems to be in a stage of development, but there is need to develop formal procedures for monitoring citizens' satisfaction with services, programmes or development projects.
+  Intelligence dissemination is practiced in local government. The impression from the case-study evidence is that meetings are held on regular basis to share and discuss information pertaining to the Assembly and its constituents. Tools such as memos, upward and downward communications are some of the ways in which market intelligence are disseminated. Even though this approach is consistent with Kohli and Jaworski (1990), what is missing is that there is less focus on citizens' needs and satisfactions with services or development projects excepts when fees and tolls had to be fixed for services where the "can they pay" issues arise. We stress that much emphasis be placed on harnessing the intelligence inherent among staff through the use of focused-communication or knowledge management strategies (Sen, 2006; Kelleher and Levene, 2001). Our research indicates that the Assembly does little to respond to the needs of its constituents and, when it tries to, its efforts are undermined by lack of financial resources, bureaucracy, and political interventions, lending general credence to the thesis that financial and political constraints impede market orientation in most developing countries (Chelariu et al., 2002; Qu and Ennew, 2005; Zhou et al., 2009). The ramification of these findings is that local governments in Ghana must realign structural and system influences to reflect both the objectives of the local assemblies and to be sensitive to citizens' needs. In this regard, the organisational structures and systems, such as operating procedures for collecting and disseminating information or the local assemblies' mechanisms for responding to local environmental changes, might need to be formalised, at least in the initial stages, in order to make their application systematic and consistent across various departments in the Assemblies.
+  Furthermore, echoing the prevailing view about public sector institutions (see, e.g. Baker, 1995; Andreasen and Kotler, 2003), we found that the Assembly operates in an environment where competition is virtually non-existence. The Assembly provides services most of which are monopolised by statutory provisions. This has made the Assembly to be less proactive, and tend to place less emphasis on its clients when conducting management meetings. The implication for local governments is
+
+
+
+
+straight-forward; local authorities must understand that becoming more market-oriented is not the latest Western fad, and so failing to indigenise the organisational change might lead to subtle forms of resistance conforming to a "neo-colonial resistance narrative" perspective (MacLachlan and Carr, 1997; Chelariu et al., 2002). A way to ensure that employees have a personal stake in creating a market orientation and become active agents of this orientation is by implementing the appropriate system of incentives (Chelariu et al., 2002). The leadership of local governments in Ghana must be committed to this change and clearly communicates its commitment to all employees and create a sense of urgency in the market orientation implementation programmes.
+
+Limitations and future research directions
+Employing a single case-study strategy, the study has suffered the limitations associated with such studies. Although the study was effective in providing insight into a specific local government, the findings could not be discussed in the context of the general population (Eisenhardt, 1989). It should be noted that a claim for external validity of conclusions drawn is possible in view of the fact that there are commonalities in policies, procedures and organisational contexts of all local governments in Ghana as these institutions are guided by one administrative document (i.e. The Local Government Act). Nevertheless, a further research of large numbers of local governments across multiple regions in Ghana or from a range of countries within Sub-Saharan Africa would provide an opportunity for greater generalisability of results. Further research may concentrate on identifying the antecedents and consequences of market orientation in local governments in Ghana or similar countries in order to furnish local authorities with a more nuanced understanding of market orientation. In addition, future studies might include responses from citizens (customers) who are the direct and indirect beneficiaries of the Assembly's market orientation activities. This will ensure the confirmation of the responses of the Assembly's representatives and the identification of gaps to be fulfilled to the society's benefit at large.
+
+References
+Abercrombie, N., Hill, S. and Turner, B. (1984), Dictionary of Sociology, Penguin, Harmondsworth.
+Andreasen, A. and Kotler, P. (2003), Strategic Marketing for Non-profit Organisations, Prentice Hall, Englewood Cliffs, NJ.
+Appiah-Adu, K. (1998), "Market orientation and performance: empirical tests in a transition economy", Journal of Strategy Marketing, Vol. 6 No. 1, pp. 25-46.
+Baker, F.P. (1995), "Marketing in a local authority", Journal of Marketing Practice: Applied Marketing Science, Vol. 1 No. 4, pp. 73-84.
+Bean, J. and Hussey, L. (1997), Marketing Public Sector Services, HB Publications, London.
+Blankson, C. and Omar, O. (2002), "Marketing practices of African and Caribbean small businesses in London, UK", Qualitative Market Research: An International Journal, Vol. 5 No. 2, pp. 123-34.
+Boonekamp, L.C.M. (1994), "Marketing for health-care organisations: an introduction to network management", Journal of Management in Medicine, Vol. 8 No. 5, pp. 11-24.
+          
+Market orientation in public institutions
+
+99
+
+
+
+
+
+
+IJPSM 25,2
+
+
+100
+
+Butler, P. and Colins, N. (1995), "Marketing public sector services: concepts and characteristics",
+Journal of Marketing Management, Vol. 11 Nos 1-3, pp. 83-96.
+Caruana, A., Ramaseshan, B. and Ewing, M.T. (1997), "Market orientation and organisational commitment in the Australian public sector", International Journal of Public Sector Management, Vol. 10 No. 4, pp. 294-303.
+Cervera, A., Molla´, A. and Sa´nchez, M. (2001), "Antecedents and consequences of market orientation in public organisations", European Journal of Marketing, Vol. 35 Nos 11/12,
+pp. 1259-88.
+Chelariu, C., Ouattarra, A. and Dadzie, K.Q. (2002), "Market orientation in Ivory Coast: measurement validity and organizational antecedents in a sub-Saharan African economy", Journal of Business & Industrial Marketing, Vol. 17 No. 6, pp. 456-70.
+Clark, M. and Stewart, J. (1994), "The local authority and the new community governance",
+Regional Studies, Vol. 28 No. 2, pp. 202-7.
+Cowell, D.W. (1989), The Marketing Services, Heinemann, Oxford.
+Day, J., Reynolds, P. and Lancaster, G. (1998), "A marketing strategy for public sector organisations compelled to operate in a compulsory competitive tendering environment", International Journal of Public Sector Management, Vol. 11 No. 7, pp. 583-95.
+Doherty, A.M. (2000), "Factors influencing international retailers market entry mode strategy: qualitative evidence from the UK fashion sector", Journal of Marketing Management, Vol. 16 Nos 1-3, pp. 223-45.
+Dolnicar, S. and Lazarevski, K. (2009), "Marketing in non-profit organisations: an international perspective", International Marketing Review, Vol. 25 No. 3, pp. 275-91.
+Dunleavy, P., Margetts, H., Bastow, S. and Tinkler, J. (2006), "New public management is dead - long live digital era governance", Journal of Public Administration Research and Theory, Vol. 16, pp. 467-94.
+Dyer, R.F. and Shimp, T.A. (1977), "Enhancing the role of marketing research in public policy decision making", Journal of Marketing, Vol. 41 No. 1, pp. 63-7.
+Eckstein, H. (1975), "Case study and theory in political science", in Greenstein, F.I. and Polsby, N.W. (Eds), Handbook of Political Science, Vol. 7, Addison-Wesley, Reading, MA,
+pp. 79-137.
+Eisenhardt, K. (1989), "Building theories from case study research", Academy of Management Review, Vol. 14 No. 4, pp. 532-50.
+Flavian, C. and Lozano, J. (2006), "Organisational antecedents of market orientation in the public university system", International Journal of Public Sector Management, Vol. 19 No. 5,
+pp. 447-67.
+Forbes, J.D. (1987), The Consumer Interest Dimension and Policy Implications, Croom Helm, Bechenham.
+Ghobadian, A. and Ashworth, J. (1994), "Performance measurement in local government - concept and practice", International Journal of Operations & Production Management, Vol. 14 No. 5, pp. 35-51.
+Goodwin, C., Mayo, M. and Hill, R.P. (1997), "Salesperson response to loss of a major account: a qualitative analysis", Journal of Business Research, Vol. 40, pp. 167-80.
+Harrison, J. and Shaw, R.N. (2004), "Intra-organisational marketing culture and market orientation: a case study of the implementation of the marketing concept in a public library", Library Management, Vol. 25 Nos 8/9, pp. 391-8.
+
+
+
+
+Hinson, R., Kastner, A., Ofori, D. and Mahmoud, A. (2008), "Market orientation and export performance: a Ghanaian study", African Journal of Business and Economic Research, Vol. 3 Nos 2/3, pp. 62-91.
+Hood, C. (1991), "Public management for all seasons", Public Administration, Vol. 69, Spring,
+pp. 3-19.
+Hurley, F.B. and Hult, G.T.M. (1998), "Innovation, market orientation and organizational learning: an integration and empirical examination", Journal of Marketing, Vol. 62,
+pp. 42-54.
+Kelleher, D. and Levene, S. (2001), Knowledge Management: A Guide to Good Practice, British Standards Institution, London, PAS 2001.
+Kohli, A. and Jaworski, B. (1990), "Market orientation: the construct, research propositions, and managerial implications", Journal of Marketing, Vol. 54 No. 2, pp. 1-18.
+Kowalik, I. (2011), "Market orientation and its antecedents in the Polish local governments",
+International Journal of Public Sector Management, Vol. 24 No. 1, pp. 57-79.
+Kuada, J. and Buatsi, S. (2005), "Market orientation and management practices in Ghanaian firms: revisiting the Jaworski and Kohli framework", Journal of International Marketing, Vol. 13 No. 1, pp. 58-73.
+Lapsley, I. (2009), "New public management: the cruellest invention of the human spirit",
+ABACUS, Vol. 45 No. 1, pp. 1-21.
+Leadbeater, C. (2003), Overdue: How to Create a Modern Public Library Service, Demos, London. Lincoln, Y.S. and Guba, E.G. (1986), Naturalistic Inquiry, Sage Publications, Beverly Hills, CA. MacLachlan, M. and Carr, S.C. (1997), "Psychology in Malawi: towards a constructive debate",
+The Psychologist, Vol. 10, pp. 77-9.
+Mahmoud, M.A., Kastner, A. and Yeboah, J. (2010), "Antecedents, environmental moderators and consequences of marketing orientation: a study of pharmaceutical firms in Ghana", Journal of Medical Marketing, Vol. 10 No. 3, pp. 231-44.
+Narver, J. and Slater, S. (1990), "The effect of market orientation on business profitability",
+Journal of Marketing, Vol. 54 No. 4, pp. 20-35.
+Naude, P. and Ivy, J. (1999), "The marketing strategies of universities in the UK", International Journal of Education Management, Vol. 13 No. 3, pp. 126-34.
+Neuman, L. (2007), Basics of Social Research: Qualitative and Quantitative Approaches, Pearson Education, Boston, MA.
+Olsen, J.P. (1997), "Civil service in transition: dilemmas and lessons learned", in Hesse, J. and Toonen, T.A. (Eds), The European Yearbook of Comparative Government and Public Administration, Vol. III, Nomos, Baden-Baden, pp. 389-406.
+Omar, O.E. (1997), "Target pricing: a marketing management tool for pricing new cars", Pricing Strategy & Practice, Vol. 5 No. 2, pp. 61-9.
+Poister, T.H. and Streib, G. (2005), "Elements of strategic planning and management in municipal government: status after two decades", Public Administration Review, Vol. 65 No. 1,
+pp. 45-56.
+Qu, R. and Ennew, C.T. (2005), "Developing a market orientation in a transitional economy: the role of government regulation and ownership structure", Journal of Public Policy and Marketing, Vol. 24 No. 1, pp. 82-9.
+Rees, P. (2000), "Marketing in local government - from a local government officer's perspective", Proceedings of ANZMAC 2000: Visionary Marketing for the 21st Century: Facing the Challenge, Australia and New Zealand Marketing Academy, Gold Coast, pp. 1040-6.
+          
+Market orientation in public institutions
+
+101
+
+
+
+
+
+
+IJPSM 25,2
+
+
+102
+
+Samu, S. and Wymer, W. Jr (2001), "Nonprofit-business alliance model: formation and outcomes",
+Journal of Nonprofit and Public Sector Marketing, Vol. 9 No. 1, pp. 45-61.
+Saunders, M., Lewis, P. and Thornhill, A. (2000), Research Methods for Business Students, 2nd ed., Pearson Education, Harlow.
+Savitt, R. (2001), "Understanding marketing development in the Czech Republic", European Journal of Marketing, Vol. 35 Nos 11/12, pp. 1386-97.
+Schedler, K. (2006), "Networked policing: towards a public marketing approach to urban safety",
+German Policy Studies, Vol. 3 No. 1, pp. 112-36.
+Seale, C., Gobo, G., Gubrium, J. and Silverman, D. (2004), Qualitative Research Practice, Sage Publications, Thousand Oaks, CA, pp. 420-34.
+Sen, B. (2006), "Defining market orientation for libraries", Library Management, Vol. 27 Nos 4/5,
+pp. 201-17.
+Turner, B.A. (1981), "Some practical aspects of qualitative data analysis: one way of organizing the cognitive processes associated with the generation of grounded theory", Quality and Quantity, Vol. 15, pp. 225-45.
+Walsh, K. (1994), "Marketing and public sector management", European Journal of Marketing, Vol. 28 No. 3, pp. 63-71.
+Wood, W.R. and Bhuian, S.N. (1993), "Market orientation and nonprofit organisations: performance associations and research propositions", Journal of Nonprofit and Public Sector Marketing, Vol. 1 No. 1, pp. 7-32.
+Zhou, Y., Chao, P. and Huang, G. (2009), "Modeling market orientation and organisational antecedents in a social marketing context: evidence from China", International Marketing Review, Vol. 26 No. 3, pp. 256-74.
+
+Further reading
+Boadi, K.O. and Kuitunen, M. (2003), "Municipal solid waste management in the Accra metropolitan area, Ghana", The Environmentalist, Vol. 23, pp. 211-8.
+Campos, J.E. and Esfahani, H.S. (1996), "Why and when do governments initiate public enterprise reform?", The World Bank Economic Review, Vol. 10 No. 3, pp. 451-85.
+Wanna, J., O'Fairchiallaigh, C. and Weller, P. (1992), Public Sector Management in Australia, Macmillan Education, Sydney.
+
+Corresponding author
+Mohammed A. Mahmoud can be contacted at: amohammed@ug.edu.gh
+
+
+
+
+
+
+
+
+
+
+
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+This article has been cited by:
+
+1. José Carlos Pinho, Ana Paula Rodrigues, Sally Dibb. 2014. The role of corporate culture, market orientation and organisational commitment in organisational performance. Journal of Management Development 33:4, 374-398. [Abstract] [Full Text] [PDF]

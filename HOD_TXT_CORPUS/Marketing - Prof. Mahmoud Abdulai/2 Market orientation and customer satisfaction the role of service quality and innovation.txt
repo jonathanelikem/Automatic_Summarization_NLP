@@ -1,0 +1,2009 @@
+144
+
+Int. J. Business and Emerging Markets, Vol. 11, No. 2, 2019
+
+Market orientation and customer satisfaction:
+the role of service quality and innovation
+Mahmoud Abdulai Mahmoud*
+Department of Marketing and Entrepreneurship,
+University of Ghana Business School,
+University of Ghana, Ghana
+and
+Department of Marketing Management,
+School of Consumer Intelligence and Information Systems,
+College of Business and Economics,
+University of Johannesburg, South Africa
+Email: mamahmoud@ug.edu.gh
+*Corresponding author
+
+Robert Ebo Hinson
+Department of Marketing and Entrepreneurship,
+University of Ghana Business School,
+University of Ghana, Ghana
+and
+University of Free State Business School,
+University of the Free State,
+Park West, Bloemfontein, 205 Nelson Mandela Drive, South Africa
+Email: hinsonrobert@gmail.com
+
+Dickson Muumob Duut
+Department of Marketing and Entrepreneurship,
+University of Ghana Business School,
+University of Ghana, Ghana
+Email: duut_dickson@yahoo.com
+Abstract: The aim of this study is to examine the relationship between market
+orientation (MO) and customer satisfaction (CS), and the interaction effects of
+service quality and innovation on this relationship. The study adopted a
+quantitative research approach. Questionnaire was used to collect data from
+277 respondents comprising of marketing managers and employees selected
+from leading banks in Ghana. Structural equation modelling was used to
+analyse the data. The results indicated that MO and its components have
+positive and significant relationship with CS. In addition, it was found that
+service quality and innovation have interaction effects on MO and CS, where
+the two variables strengthen the relationship between MO and CS. Based on the
+findings, the study recommends that practitioners and bank managers should be
+innovative, and improve upon the service quality of the banking services in
+order to keep their customers satisfied.
+
+Copyright © 2019 Inderscience Enterprises Ltd.
+
+Market orientation and customer satisfaction
+
+145
+
+Keywords: market orientation; customer satisfaction; service quality; banks;
+innovation.
+Reference to this paper should be made as follows: Mahmoud, M.A.,
+Hinson, R.E. and Duut, D.M. (2019) ‘Market orientation and customer
+satisfaction: the role of service quality and innovation’, Int. J. Business and
+Emerging Markets, Vol. 11, No. 2, pp.144–167.
+Biographical notes: Mahmoud Abdulai Mahmoud is a Senior Lecturer at the
+University of Ghana Business School. He has authored and co-authored a
+number of peer review journal articles in a number of international recognised
+journals.
+Robert Ebo Hinson is a Professor of Marketing at the University of Ghana
+Business School. His scholarly works has appeared in reputable international
+journals. He is currently the Coordinator of the UGBS International Business
+Programme. He has a wide range of experience working in Africa and beyond.
+Dickson Muumob Duut is a Budget Analyst with the Local Government
+Service. Prior to joining local government service, he has worked with Poly
+Group of Companies and Enterprise Assurance Company. His research areas
+include market orientation, customer satisfaction, service quality and
+innovation.
+
+1
+
+Introduction
+
+The market orientation (MO) construct effect on business performance has drawn the
+attention of both practitioners and academicians for the past several decades (Narver and
+Slater, 1993; Jaworski and Kohli, 1993; Opoku and Essien, 2011; Osuagwu and Obaji,
+2009). Though marketing scholars have accepted the concept of MO as a strategic
+variable for success under competitive environmental conditions, there is an ongoing
+debate in the marketing literature about its role (Mahmoud et al., 2016). This debate
+specifies that developing a market-oriented culture is only the first step towards market
+success and an organisation’s ability to deliver quality service as well as provide
+innovative products and services better than its competitors may be its only foundation of
+sustainable competitive advantage (see Pantouvakis, 2014; Sandvik and Sandvik, 2003).
+Building on this line of argument, some studies suggest that a service quality (SQ)
+provision or innovative orientations have more of a positive impact on organisational
+performance than MO (see Rubera and Kirca, 2017). On the other hand, other studies
+have either found no linkage or have found MO to have a more positive influence on
+business performance than SQ and innovation orientations (Cronin et al., 2000).
+The liberalisation of the Ghanaian economy has paved the way for a buyer’s
+economy where banks are competing for the attention of customers. Therefore, marketing
+strategies are being developed by banks in an effort to create a competitive market place.
+As the Ghanaian economy continues to grow, the needs and expectations of bank
+customers will likely evolve and grow and eventually develop both market and
+competitive structures. Competition among banks is now prevalent in the market place.
+On account of the above, since the effectiveness of a strategic orientation is contingent on
+the dynamics of the market, then the relationship between innovativeness, SQ and MO of
+
+146
+
+M.A. Mahmoud et al.
+
+banks appears to be an opportune research task. The rationale for this study emanates
+from review of the literature that shows a paucity of empirical studies that shed light on
+understanding the relationship between MO, innovation and SQ orientations.
+The justifications for this study are as follow: first, most studies which address the
+identified constructs were mainly conducted in developed countries with multi-industry
+data (see, e.g., Lee and Tsai, 2005; Carmen and José, 2008). However, according to Kohli
+and Jaworski (1990), varying industries enjoy a multitude of opportunities where
+successful strategies differ across industries, and strategic choices depend on the situation
+(see Deshpandé et al., 1993; Mahmoud et al., 2016). Second, although much has been
+studied in the banking sector (see Bhuian, 1997; Han et al., 1998; Anwar and Sohail,
+2003; Kolar, 2006; Dalbooh, 2014; Pulendran et al., 2015; Mahmoud et al., 2016),
+surprisingly, none of these studies have attempted an integrated approach of measuring
+MO, SQ and innovation relationships. This paper contributes to the literature by
+providing an understanding of market, SQ and innovation orientations and drawing
+attention to the importance of an integrated approach of measuring the relationship
+among the three strategic issues: MO, SQ and innovation.
+Customer satisfaction (CS), on the other hand, is a central concept in modern
+marketing thought and practice (Oh and Kim, 2017; Ennew et al., 2015). The marketing
+philosophy emphasises delivering satisfaction to customers and obtaining profits in
+return. To this end, overall quality of life is expected to be enhanced. CS, therefore,
+is crucial to meeting various needs of customers. According to the CS model,
+customers judge satisfaction with a product or service in comparison with their
+expectations about it performance. If the performance is above the expectations, there is a
+positive confirmation. If the performance is below expectations, there is a negative
+disconfirmation. Disconfirmation is thus expected to affect CS (Qazi et al., 2017).
+Market-oriented firms adapt their products and services to the needs and expectations of
+their customers as compared to product-oriented firms who focus on developing a
+product or service that is then marketed and hopefully sold (Grönroos, 2006). The firm
+cultivates a set of shared values and beliefs about putting the customer first and reaps
+results in the form of a defendable competitive advantage, decreased costs and increased
+profits (Hinson and Mahmoud, 2011) and enhances CS (Ozkaya et al., 2015; Kirca et al.,
+2005; Slater and Narver, 1994; Jaworski and Kohli, 1993).
+In light of this, the objective of the current study is to examine the relationship
+between MO and CS and the mediating and moderating roles of SQ and innovation,
+respectively, in the context of Ghanaian banking industry. The paper is organised as
+follows: a literature review on the main constructs of the study will be considered next.
+The methodology employed in the study will be presented. The ensuing section then
+considers the results and findings of the study. The penultimate section considers the
+managerial implications of the study. The final section of the paper dwells on the
+conclusions and directions for future studies.
+
+2
+
+Literature review
+
+2.1 Market orientation
+MO has been extensively researched in various context (Mahmoud et al., 2017b;
+Dalbooh, 2014; Opoku and Essien, 2011). There are two main dimensions of MO
+
+Market orientation and customer satisfaction
+
+147
+
+(Kohli and Jaworski, 1990; Narver and Slater, 1990). The first dimension is the
+information-based process perspective and the second is the cultural-based perspective.
+The information-based perspective proponents were Kohli and Jaworski (1990), and they
+viewed MO as an intelligent generation, dissemination and responsiveness to market data
+as well as information for efficient and effective market decisions. The cultural-based
+perspective proponents were Narver and Slater (1990). They perceived MO as a culture
+that characterises an organisation’s outlook to deliver superior value to its customers on a
+continuous basis.
+MO is viewed as being close to customers by knowing what they need, at the same
+time knowing what competitors are doing and coordinating the activities of your firm to
+meet the customers’ demands (Hunt and Morgan, 1995). According to Liu et al. (2002),
+MO has been characterised as a culture of organisation that requires that CS be put at the
+centre of business operations. Marketing practitioners have advocated that MO, as the
+central tenet to modern marketing science, is the panacea for ensuring that today’s
+financial organisations retain customers (Mahmoud et al., 2016; Guo and Wang, 2015;
+Qu and Ennew, 2003).
+Customer focus is a primary pillar of MO in that it is the behavioural characteristic of
+market-driven organisation (Narver and Slater, 1990; Kohli and Jaworski, 1990; Day,
+1994; Chen et al., 2015; Pulendran et al., 2015). Although market-oriented firms embrace
+customer focus as their central philosophy, the operation-focused firms tend to be
+less customer orientated. Hunt and Lambe (2000) perceive MO strategy as a major
+contribution to business success. Gatignon and Xuereb (1997), for example, considered
+MO as an important strategic orientation, while Stoelhorst and Raaij (2004) position MO
+as marketing’s explanation of performance differentials between firms. These advantages
+of MO are generally argued to be a consequence of improved market-sensing capabilities
+and improve in market responsiveness, particularly in more hostile and unpredictable
+environments (Jaworski and Kohli, 1993; Kohli and Jaworski, 1990).
+
+2.2 Customer satisfaction
+CS has received much attention among scholars and practitioners due to its important role
+as a key element in business strategy. Kotler and Keller (2006, p.144) define CS as
+“a person’s feeling of pleasure or disappointment resulting from comparing a product’s
+performance outcome in relation to his or her expectation.” Lovelock and Wirtz (2004)
+also define CS as “an attitude-like judgement following a purchase act or a series of
+consumer product interactions.” Consumer satisfaction comprises three main components
+namely: the type of response (cognitive, affective or conative), the centre of interest or
+the subject on which the response is focused, and the moment in time at which the
+evaluation is made (Agyapong, 2011).
+Financial institutions such as banks are putting in much effort to deliver quality
+banking services and products in a bid to maintain existing customers, attract and lure
+new customers as well as fight off competitors. Customers expect best and superior value
+for their money hence they search for more information about firms to know the ones that
+deliver best services. CS can be perceived to be a fundamental indicator of a company’s
+performance due to the benefits firms derive from it (Ennew et al., 2015). Banks put in
+resources to enhance CS in order to increase their customer-base, customer loyalty,
+
+148
+
+M.A. Mahmoud et al.
+
+revenue, profits, market share and survival. In other words, banks put in measures to
+delight their customers.
+
+2.3 Service quality
+Early scholars (see Lewis and Booms, 1983; Lehtinen and Lehtinen, 1991; Grönroos,
+1984; Parasuraman et al., 1985, 1988, 1994) of SQ research define the concept as the
+result of the comparison that customers make between their expectations about a service
+and their perception of the way the service has been performed. It is simply the
+overall impression of a customer’s judgement concerning service provided. To
+conceptualise SQ, Parasuraman et al. (1985, 1988, 1994) developed the 22-item
+SERVQUAL instrument that has come to be widely used. The 22 items have been
+categorised into five dimensions: reliability, responsiveness, assurance, empathy and
+tangibles. The dimensions of reliability, responsiveness, assurance and empathy concern
+human properties, whereas tangibility denotes things such as employee dress and
+appearance, the internal design and decor of the servicescape and other atmospherics.
+SQ and its respective dimensions act as an antecedent of satisfaction (Ahrholdt et al.,
+2017). Each SQ dimension reflects a composite set of service attributes that customers
+consider when they evaluate the quality of that service dimension. The assessment of
+customers’ quality perceptions reflects an attribute-level approach (Albayrak and Caber,
+2015), to better judge the quality dimensions. The reasoning is that customers could have
+highly positive views of the performance of an attribute while simultaneously expressing
+highly negative perceptions of other attributes that relate to the same SQ dimension.
+Similarly, the quality perceptions of different service dimensions influence overall
+satisfaction (Oliver et al., 1997; Wang, 2011).
+
+2.4 Innovation
+Innovation is referred to as the set of new products that a firm introduces in the
+marketplace (Sorescu et al., 2003). Specifically, the direct and indirect effects of
+innovation on firm value (e.g., Rubera and Kirca, 2012; Sood and Tellis, 2009;
+Srinivasan et al., 2009) and CS (e.g., Dotzel et al., 2013; Stock, 2011) have been
+investigated extensively in prior literature. In the banking industry, the adoption of new
+technologies has created alternate banking services and products (Ayo et al., 2016;
+Mishra, 2014).
+Currently, CS of bank services is dictated by convenience, pace and efficiency
+(Ladeira et al., 2016; Malinconico and Fuccio, 2016). Customers can now conduct
+banking transactions anytime and anywhere in the world without physical presence at the
+bank counters (Vyas and Raitani, 2014). These innovative services have resulted in
+unprecedented efficiency and convenience to the customers. Rogers (1995, p.11)
+therefore defined innovation as “an idea, practice, process, product or service that is new
+to an individual or other unit of adoption.” In banking, innovative services are
+operationalised in terms of mobile banking, internet banking, e-wallet, and multi-channel
+platforms enabling new methods of banking and customer engagement (Mbama and
+Ezepue, 2018). According to Agolla et al. (2018), the dimensions of banking innovations
+include use of different technologies to offer services, ease of use of such technologies,
+transaction costs, ease of transfer of funds from one end to the other, security of
+technologies, and improved quality of service of such technologies.
+
+Market orientation and customer satisfaction
+
+149
+
+2.5 Hypotheses development
+2.5.1 MO and CS
+Marketing scholars have argued that market-oriented firms can gain benefits from
+superior market performance (Pulendran et al., 2015, 2000; Amirkhani and Fard, 2009)
+such as desired profits (Jaworski and Kohli, 1993; Homburg and Pflesser, 2000).
+Market-oriented businesses are again committed to understanding both the expressed and
+latent needs of their customers, and the capabilities and plans of their competitors
+through the processes of acquiring and evaluating market information in a systematic
+and anticipatory manner (Slater and Narver, 1995). They continuously create superior
+customer value by sharing the knowledge broadly throughout the organisation and by
+acting in a coordinated and focused manner. Firms that are market-oriented perform
+better than their competitors because they are able to attract customers and satisfy
+customers (Narver and Slater, 1990; Homburg and Pflesser, 2000). The study, therefore,
+hypothesised that:
+H1
+
+MO has a positive and significant relationship with CS in the banking industry.
+
+2.5.2 Customer orientation and CS
+Market-oriented organisations are expected to tailor their products and services to
+meet the demands of customers through a coordinated marketing campaign. With an
+increasingly global economy and several choices for customers, companies must be
+willing to adopt MO in order to stay competitive. Customer focus, according to
+Khamwon and Speece (2005), is the sufficient understanding of one’s target buyers in
+order to be able to create superior value for them continuously. It requires that the seller
+knows the buyer’s entire value chain. The crucial point of MO is that it is customer focus,
+and to focus on the customer, banks need to understand the customers’ entire value chain
+not just at the immediate stage but as it evolves over time (Mahmoud et al., 2016).
+Market-oriented banks, therefore, should understand the cost and revenue dynamics not
+only about the immediate target customers’ but also broader market. In understanding the
+dynamics of the customer in this era of intense competition, banks have to develop a
+comprehensive understanding of its customers business and how these customers’ in the
+immediate and downstream market perceive value.
+Employees in a market-oriented financial institution spend considerable amount of
+time with customers to know what their concerns are and try to find lasting solutions to
+their concern (Narver and Slater, 1990). It is therefore important in a highly competitive
+business environment, where market structures are highly interrelated and complex, to
+embrace MO driven and customer-oriented strategies. Managers and employees often
+constantly monitor customer behaviour and sometime engage them through customer
+meetings in order to identify new ways of satisfying their needs (Jaworski and Kohli,
+2017). To be able to understand the needs, desires and preferences of customers
+employees should be seen as an integral part in playing a critical role that increase the
+chances of the commitment and loyalty of customers towards the banking products and
+increase the level of satisfaction of banking service (Anderson et al., 1994). Based on the
+foregoing discussion, the study hypothesises that:
+
+150
+H2
+
+M.A. Mahmoud et al.
+The greater the practice of customer orientation by a firm, the higher the level of CS
+in the banking industry.
+
+2.5.3 Competitor orientation and CS
+The banking sector has experienced tremendous growth and improvement over the
+last decade bringing about intense pressure in the sector. There is therefore, the need
+for many financial service organisations to adopt innovative strategies to improve on
+their services as a way of leapfrogging over their competitors. One of these strategies
+is focusing on the competitors. Narver and Slater (1993) posit that creating
+superior customer value requires more than just focusing on customer alone.
+Superior value creation requires that the financial service organisations identify
+and understand the principal competitors’ profile, their short-term strengths
+and weaknesses and long-term capabilities and strategies so that they can be in a
+better position to offer superior customer service as a way of creating competitive
+advantage (Njeru and Kibera, 2014). Competitor orientation means that a seller
+understands the short-term strengths and weaknesses and long-term capabilities and
+strategies of both the key current and the key potential competitors (Khamwon and
+Speece, 2005).
+The banking sector in this era of intense competition should be seen empowering,
+training and motivating employees from all functions within departments to share
+information concerning competitors through competitive intelligence. Slater and Narver
+(1994) indicate that the research and development department should be responsible
+to receive information acquired by the sales group about the pace of a competitor’s
+technology development and then put them into effective use. The study therefore
+hypothesises that:
+H3
+
+The greater the practices of competitor orientation, the higher the level of CS in the
+banking industry.
+
+2.5.4 Inter-functional coordination and CS
+Companies can survive enormous competition when top managements are able
+to coordinate all the various units and departments to achieve a common purpose.
+Personnel and resources from the banking sector should be used to create value
+for customers. For example, banks can adopt a bottom-up approach where everyone
+starting from the frontline service providers are seen working toward the satisfaction
+of the customers’ needs. Inter-functional coordination is the coordinated utilisation
+of company resources in creating superior value for target customers at any, and
+all points in the buyer’s value chain. Good inter-functional information flow is essential
+for this long-term focus and profit emphasis (Khamwon and Speece, 2005). For
+example, accountant, research and development, and financial managers can become
+involved in preliminary market research of the competitors and customer profiling
+(Mahmoud et al., 2016). Risk managers, human resource managers and relationship
+managers in organisations can also become involved in sales and marketing in order
+to build a long lasting relationship with the customers (Njeru and Kibera, 2014).
+Employees of financial institutions such as banks, regardless of their distance from
+strategy formulation must recognise their role in helping firms to achieve and sustain
+competitive advantage. When all these functions contribute to creating buyer value this
+
+Market orientation and customer satisfaction
+
+151
+
+way, more creativity is brought to bear on increasing effectiveness and efficiency for the
+customer; hence, difficult for competitors to duplicate or clone (Hinson and Mahmoud,
+2011; Hunt and Morgan, 1995).
+Organisations need information about the market, customers, competitors, and other
+various functions. The more banks are able to provide information, the more they are able
+to analyse the level of the different markets in order to make good strategies and sound
+marketing decisions (Dalbooh, 2014; Opoku and Essien, 2011). The interaction among
+employees in various departments such as production, marketing, financial sales, and
+human resources help promote unity and performance. Public relations also help promote
+CS. Qualified employees and staff achieve the goals of banks and meet the requirements
+of customers according to their attitudes. They listen to the customers’ complaints and
+increase their level of participation in solving their problems. Based on the above, we
+hypothesise that:
+H4
+
+The greater the practice of inter-functional coordination in a firm, the higher the
+level of CS in the banking industry.
+
+2.5.5 MO, SQ, innovation and CS
+SQ is the ability of an organisation to constantly deliver superior service value
+to customers. SQ is defined as the difference between customers’ expectations of
+service to be received and perceptions of the service actually received (Parasuraman
+et al., 1988). Improving SQ can reduce customers’ defection. In measuring CS,
+innovation and SQ play a critical role in determining the outcome of satisfied
+or dissatisfied customers. Lee et al. (2000) provided a useful insight on the measurement
+of CS through firm’s level of innovation and SQ. The outcome showed that when
+managers and employees deploy exceptional level of innovativeness, and provide quality
+service to clients it improves CS.
+MO has been related to innovativeness in several studies (Mahmoud et al., 2017b;
+Agarwal et al., 2003; Hult et al., 2004; Sandvik and Sandvik, 2003) since it improves the
+chances of the innovations being better adjusted to the market requirements (Jimenez
+and Valle, 2008). MO forms part of organisational culture where employees throughout
+the organisation are systematically and entirely committed to the continuous creation
+of superior customer value. Slater and Narver (1995) indicated that firms that are
+market-oriented enhance the level of innovation and therefore, enjoy greater success
+when marketing new products. Empirically, it has also been proven that MO, SQ and
+innovation have significant effects on CS and business performance although much of the
+variations in performance are accounted for by the mediating effect of innovation and SQ
+on the MO-business performance relationship (Agarwal et al., 2003). For instance,
+Mahmoud et al. (2017b) opined that since MO is a source of ideas for new products and
+services, it should therefore positively affect the degree of SQ and innovation in banks.
+This viewpoint finds support in the assertion of Agarwal et al. (2003) that firms that are
+less market-oriented are less likely to consider SQ and innovation and such firms are
+likely to face declining performance which can trigger the loss of customers to other
+competitors.
+An innovation is defined as an idea or object that is perceived as new by an
+individual or an agency (Barrett et al., 2015). The perceived newness of the idea
+from the individual’s point of view determines his or her reaction to it
+
+152
+
+M.A. Mahmoud et al.
+
+(Witell et al., 2015). If the idea seems new to the individual, it is an innovation.
+An innovation consists of certain technical knowledge about how things can be
+done better than existing state of the art (Tyler, 2001). The innovativeness of
+a new product and firm innovation capability is important for several reasons. Innovative
+products or services present opportunities for firms in terms of growth and expansion
+into new areas as well as allow firms to gain competitive advantage.
+Therefore, embracing of innovation is largely intended to contribute to the performance
+of the adopting organisation (Mahmoud et al., 2017b). Based on the above, the study
+hypothesises that:
+H5
+
+Innovation moderates the relationship between MO and CS in the banking industry.
+
+H6
+
+SQ mediates the relationship between MO and CS in the banking industry.
+
+3
+
+Methodology
+
+The study considered Narver and Slater’s (1990) three dimensions of MO to assess the
+degree of an organisation’s customer focus, competitor focus, and how it engages in
+multidepartment market intelligence generation activities to satisfy customers. This study
+seeks to understand the MO practices and CS in the Ghanaian banking sector.
+Quantitative research method was employed to determine the relationship between MO
+and CS and cross sectional data was collected from 277 respondents in Accra.
+The study population consisted of managers and employees of the two leading banks.
+The two banks were purposively chosen based on the fact that Ecobank Ghana Limited
+and GCB Bank are leading banks in Ghana. The two banks form part of the quartile one
+banks in the country with high customer-base and relatively higher profit margins
+(Mahmoud et al., 2016). The study sampled 14 branches of the two banks located in the
+Greater Accra Region of Ghana. This is because according to Patton (2015) purposeful
+sampling involves selecting information rich cases for the purpose of the inquiry.
+Merriam and Tisdell (2015) indicated that the process for selecting a sample and
+determining sample size depends on the research questions, the data collected, the data
+analysis, and the availability of resources. Questionnaires were designed to ascertain the
+knowledge of top management and employees on MO.
+Data was collected using a structured questionnaire based on a five-point Likert scale
+ranging from 1 (strongly disagree) to 5 (strongly agree). The questionnaire elicited
+information on MO, innovation (INN), SQ and CS. All the items intended to measure CS
+(dependent variable) were adapted from previous literature (Lee et al., 2000). The
+independent variables (MO and the components of MO) were measured using Narver and
+Slater (1990) modified model. The data was analysed using structural equation modelling
+with AMOS version 21.
+
+4
+
+Data analysis and findings
+
+4.1 Demographic profile of respondents
+The demographic variables in this study are gender, age groups, and highest level of
+education of respondent. Results from the demographic data (see Table 1) indicate that,
+
+153
+
+Market orientation and customer satisfaction
+
+out of 277 respondents, 177 were males representing 63.9% and 100 were females which
+accounted for 36.1% in the work. In terms of age group, 16–25 had a frequency of 19
+representing 6.9%, while 26–35 had a frequency of 95 representing 34.3%. The highest
+age brackets were between 36–45 which has a frequency of 139 representing 50.2%. The
+least age group were between 16 and 25 and the frequency 19 accounting for 6.9% of the
+sampled respondents.
+Table 1
+
+Demographic profile of respondents
+
+Variables
+
+Definition/measurement
+
+Frequency (N = 277)
+
+Percent
+
+Gender
+
+Male
+
+177
+
+63.9
+
+Female
+
+100
+
+36.1
+
+16–25
+
+19
+
+6.9
+
+26–35
+
+95
+
+34.3
+
+36–45
+
+139
+
+50.2
+
+46 and above
+
+24
+
+8.7
+
+Chief executive office
+
+6
+
+2.2
+
+Chief marketing officer
+
+14
+
+5.1
+
+General manager marketing
+
+48
+
+17.3
+
+Sales and marketing manager
+
+105
+
+37.9
+
+Other positions
+
+104
+
+37.5
+
+HND holder
+
+17
+
+6.1
+
+Bachelor’s degree
+
+165
+
+59.6
+
+Master’s degree
+
+95
+
+34.3
+
+Availability of
+marketing department
+
+Yes
+
+264
+
+95.3
+
+No
+
+13
+
+4.7
+
+Number of workers in
+the marketing/sales
+department
+
+1–10
+
+29
+
+10.5
+
+11–20
+
+102
+
+36.8
+
+21–30
+
+142
+
+51.3
+
+More than 30
+
+4
+
+1.4
+
+Age
+
+Position
+
+Highest academic
+qualification
+
+Another variable that was used to profile sampled respondents was the positions or ranks
+in the organisation. The analysis shows that sales and marketing managers of the banks
+had frequency of 105 respondents representing 37.9% while the frequency of general
+manager position from the various branches of the banks were 48 representing 17.3%.
+The frequency of chief marketing officer (CMO) was 14 representing 5.1%. The rest
+occupied other positions and ranks like relationship managers and officers, credit
+analysts, risk analysts, customer service managers, heads of corporate banking, heads of
+delivery managers, treasury managers and officers, with a frequency and percent of 104
+and 37.5%, respectively. Another variable that was used to profile sampled respondents
+was their educational qualification. The selected branches for the banks reveal that 165
+representing 59.6% which is the majority of the sampled population hold bachelor’s
+
+154
+
+M.A. Mahmoud et al.
+
+degrees, while 95 representing 34.3% of the sampled gathered were master’s degree
+holders. Table 1 shows the demographic profile of respondents.
+
+4.2 Confirmatory factor analysis
+A confirmatory factor analysis (CFA) was conducted to estimate multiple interrelated
+dependence relationships (Hair et al., 2010). In order to confirm if the measurement
+model is fit for the data collected, a number of goodness-of-fit measures were assessed.
+Results indicated overall fitness of the model. The overall fit and comparative fit indices
+indicated RMSEA ≤ 0.08, GFI ≥ 0.90, NFI ≥ 0.90 and CFI ≥ 0.90 (Hair et al., 2016;
+Bagozzi and Yi, 2012; Hu and Bentler, 1999) which are all within the acceptable range.
+The χ2 goodness-of-fit value is used to evaluate the sufficiency of most theorised model’s
+creation of a covariance matrix (Kline, 2015; Byrne, 2013). An acceptable fit for the base
+model was established based on the thresholds of Hair et al. (2014) and Bagozzi and Yi
+(2010). Table 2 presents the results of the CFA, where the following fit indices were
+achieved: χ2 / df = 2.129, GFI = 0.939, CFI = 0.931, NFI = 0.942, TLI = 0.910 and
+RMSEA = 0.031.
+
+4.3 Reliability and validity test
+Composite measures were computed on the items of each construct to assess the
+reliability and validity. For reliability, composite reliability and Cronbach’s α values
+were assessed. The composite reliabilities of the scales also ranged from 0.848 to 0.955.
+The Cronbach’s α coefficients ranged from 0.864 to 0.950. The result indicates
+satisfactory values above the accepted 0.5 desirable level (Coakes et al., 2008; Nunnally,
+1978). Internal consistency was calculated to draw validity conclusions for the data using
+average variance extracted (AVE). The AVE values ranged from 0.699 to 0.799, and are
+within the acceptable limit of 0.6 (Hair et al., 2016) confirming convergent validity
+(Fornell and Larcker, 1981) of the customers. Pearson’s correlation table was also
+constructed (see Table 3) for further validity test.
+
+4.4 Second-order construct measurement model
+This study also modelled a second-order construct, namely, MO, and assessed its
+measurement model. This second-order construct, MO, was used subsequently for
+moderation and mediation tests. The standardised estimates for customer focus (0.954),
+competitor orientation (0.930), and inter-functional coordination (0.891) with R2 values
+of 91%, 86.4% and 79.4%, respectively, and Cronbach’s α coefficient of 0.944 were
+evaluated for the second-order reflective constructs. This exceeds the acceptable
+benchmark of 0.70 (Fornell and Larcker, 1981; Vandenbosch, 1996). Assessment of the
+fit indices of the second-order construct modelled revealed a good fit to the data
+(RMSEA = 0.084, GFI = 0.959, NFI = 0.959 and CFI = 0.972). The χ2-statistic was 2.932
+representing the normed χ2 value. The second-order construct measurement model is
+presented in Table 4.
+
+0.942
+0.870
+
+CFOC3
+CFOC4
+CFOC5
+CFOC6
+
+My bank business objectives are driven by customer satisfaction
+
+Improving customer satisfaction in the bank are regularly measured and compared with employee
+effectiveness
+
+Managers in the bank keep on telling employees that they must gear up to be able to meet customers’ future
+needs
+
+Customers’ satisfaction is regularly discussed in the bank’s strategic conference meetings
+
+CORI3
+CORI4
+CORI5
+
+The bank response rapidly to competitor actions
+
+The bank salespeople are trained to continually monitor and report competitor actions
+
+Our top managers regularly discuss competitors’ strengths and strategies
+
+0.870
+
+INTF3
+INTF4
+INTF5
+
+Inter-functional coordination by departments in the bank improves customer satisfaction
+
+All of our business functions (marketing/sales, finance/accounting, HR, R&D, etc.) are integrated to providing
+quality service to our customers
+
+The bank demonstrates employee personal involvement in order to make sure customers are satisfied
+
+Note: n = 277, RMSEA = .031, GFI = .939, NFI = .942, TLI = .910, CFI = .931 and χ / df = 2.129.
+
+2
+
+0.843
+
+INTF2
+
+Organisational structure of the company helps in the dissemination of information to target audience
+
+0.871
+
+0.888
+
+INTF1
+
+0.902
+
+0.928
+
+0.898
+
+Top managers in the bank repeatedly tell employees that the bank’s survival depends on its adapting to
+effective and efficient department coordination
+
+Inter-function coordination (CR = .942, AVE = .765, Cα = .945)
+
+0.762
+
+CORI2
+
+0.854
+
+0.789
+
+CORI1
+
+We regularly monitor our competitors moves and marketing efforts in order to provide quality service that
+satisfies customers
+
+0.830
+
+Competitor orientation/focus promote customer satisfaction in my bank
+
+Competitor orientation (CR = .927, AVE = .720, Cα = .929)
+
+0.948
+
+CFOC2
+
+Customer focus help in improvement of customer satisfaction in the bank
+0.943
+
+CFOC1
+
+0.743
+
+Standardised loadings
+
+Our customers’ satisfaction and loyalty are critical factors that are regularly measured and compared with
+other banks in Ghana
+
+Items
+
+21.356
+
+19.372
+
+19.718
+
+27.707
+
+Fixed
+
+18.770
+
+16.487
+
+16.510
+
+32.498
+
+Fixed
+
+14.570
+
+15.407
+
+15.089
+
+17.015
+
+17.109
+
+Fixed
+
+t-values
+
+3.700
+
+3.820
+
+3.780
+
+3.870
+
+3.780
+
+4.110
+
+3.910
+
+3.740
+
+3.650
+
+3.640
+
+3.860
+
+3.910
+
+3.940
+
+3.940
+
+3.920
+
+3.640
+
+Mean
+
+1.007
+
+0.966
+
+1.057
+
+0.977
+
+0.978
+
+0.829
+
+0.904
+
+0.938
+
+1.128
+
+1.133
+
+0.926
+
+0.930
+
+0.918
+
+0.926
+
+0.950
+
+1.209
+
+SD
+
+Table 2
+
+Customer focus (CR = .955, AVE = .779, Cα = .950)
+
+Construct
+
+Market orientation and customer satisfaction
+155
+
+Results of final measurement model
+
+0.640
+
+CUSA3
+CUSA4
+CUSA5
+
+I am comfortable about the relationship with my service provider
+
+I am satisfied with the performance of the frontline employees of my bank
+
+The bank employees are sympathetic and reassuring if something is wrong in order to make sure customers
+are satisfied
+
+0.541
+0.836
+
+INNV3
+INNV4
+
+Innovation and suggestions are implemented without multiple approvals by hierarchical round-ups or across
+bank levels
+
+My bank is obsessed with the desire to satisfy customers and fulfil their needs which is apparent in our
+internal materials, branches and PR
+
+SEVQ2
+SEVQ3
+SEVQ4
+
+My bank applies service quality model (SERQUAL) to ensure that superior services are provided to customers
+
+My bank delivery quality service to the customer is the top most priority
+
+My bank is more responsive to customer needs in order to offer good value for money
+
+Note: n = 277, RMSEA = .031, GFI = .939, NFI = .942, TLI = .910, CFI = .931 and χ / df = 2.129.
+
+2
+
+SEVQ1
+
+My bank does not compromise on service of quality to customers
+
+.859
+
+.879
+
+.925
+
+.865
+
+0.607
+
+INNV2
+
+Service quality (CR = .934, AVE = .779, Cα = .935)
+
+0.880
+
+INNV1
+
+A large number of new products ideas have been possible through the innovativeness of the bank R&D
+department
+
+0.975
+
+The employees go extra mile to ensure that they deliver what customers expect
+
+Innovation (CR = .848. AVE = .737, Cα = .864)
+
+0.751
+
+CUSA2
+
+0.926
+
+CUSA1
+
+0.844
+
+Standardised loadings
+
+I am satisfied with the professional competence of my bank
+
+Items
+
+I am satisfied with the overall quality of service offered by my bank
+
+Customer satisfaction (CR = .919, AVE = .699, Cα = .922)
+
+Fixed
+
+33.230
+
+21.876
+
+3.960
+
+3.900
+
+3.810
+
+3.980
+
+3.910
+
+Fixed
+
+19.053
+
+3.830
+
+3.940
+
+3.880
+
+3.950
+
+4.090
+
+3.970
+
+3.860
+
+3.860
+
+Mean
+
+9.597
+
+11.038
+
+18.441
+
+Fixed
+
+12.885
+
+12.147
+
+12.680
+
+11.869
+
+t-values
+
+0.957
+
+0.982
+
+1.012
+
+0.919
+
+0.936
+
+0.856
+
+0.785
+
+0.946
+
+0.728
+
+0.770
+
+0.957
+
+0.972
+
+0.977
+
+SD
+
+Table 2
+
+Construct
+
+156
+M.A. Mahmoud et al.
+
+Results of final measurement model (continued)
+
+157
+
+Market orientation and customer satisfaction
+Table 3
+
+Pearson’s correlation among latent variables
+Customer
+focus
+
+Customer focus
+
+Competitor Inter-functional Customer
+Service
+Innovation
+orientation coordination satisfaction
+quality
+
+1
+
+Competitor
+orientation
+
+0.899*
+
+1
+
+Inter-functional
+coordination
+
+0.842*
+
+0.809*
+
+1
+
+Customer
+satisfaction
+
+0.777*
+
+0.759*
+
+0.821*
+
+1
+
+Innovation
+
+0.772*
+
+0.669*
+
+0.686*
+
+0.697*
+
+1
+
+Service quality
+
+0.863*
+
+0.840*
+
+0.824*
+
+0.778*
+
+0.677*
+
+1
+
+AVE
+
+0.779
+
+0.720
+
+0.765
+
+0.699
+
+0.737
+
+0.779
+
+CR
+
+0.955
+
+0.927
+
+0.942
+
+0.919
+
+0.848
+
+0.934
+
+β estimate
+
+t-value
+
+p-value
+
+Results
+
+Market orientation → Customer
+satisfaction
+
+0.835
+
+21.932
+
+***
+
+Supported
+
+Customer focus → Market
+orientation
+
+0.954
+
+20.980
+
+***
+
+Competitor orientation → Market
+orientation
+
+0.930
+
+30.439
+
+***
+
+Inter-functional coordination →
+Market orientation
+
+0.891
+
+26.357
+
+***
+
+Note: *Correlation is significant at the 0.01 level (two-tailed).
+Table 4
+Hypothesis
+
+Second-order construct measurement model
+Relationship
+Direct relationships
+
+H1
+
+Note: RMSEA = .084, GFI = .959, NFI = .959, CFI = .972, χ2 / df = 2.932, ***p < .001
+and n = 277.
+
+4.5 Structural model assessment
+The structural model technique was used to test the hypothetical propositions based on
+the conceptual framework for this research. The results ascertained R2 value of 0.707 for
+MO, customer focus, competitor orientation, and inter-functional coordination for CS.
+The R2 value shows that a bank’s overall MO, reflected by its focus on customers,
+competitor orientation, and inter-functional coordination could have a high predictive
+capacity in determining the satisfaction of its customers. To ascertain the results of the
+hypotheses set for the study, the path coefficients were assessed based on signs and
+magnitude (see Table 5). At a β estimate of 0.835, t-value of 21.932 and p-value of 0.000,
+MO has a positive significant relationship with CS, supporting Hypothesis H1. This
+indicates that a bank’s MO significantly influences its CS. Thus, customers’ satisfaction
+increases when their banks increase their MO. Also, in practicing customer orientation, a
+bank’s focus on customers have a direct and significant relationship with CS (β = 0.165,
+t-value = 1.977 and p-value = 0.048). This explains that when banks focus on their
+
+158
+
+M.A. Mahmoud et al.
+
+customers, the satisfaction of customers rises, therefore supporting Hypothesis H2.
+Competitor orientation as a practice of MO has a positive and significant relationship
+with CS (β = 0.164, t-value = 2.154 and p-value = 0.031). This implies that a
+bank’s knowledge of the competition in the industry can enhance its CS. Therefore,
+Hypothesis H3 is supported. Finally, the results reveal that inter-functional coordination
+also has a positive significant relationship with CS (β = 0.551, t-value = 8.900 and
+p-value = 0.000). This supports Hypothesis H4, implying that the coordination of
+different functional levels within a bank positively influences the satisfaction of the
+bank’s customers.
+Figure 1
+
+Conceptual framework
+Service
+quality
+
+•
+•
+•
+
+Market orientation
+
+Customer focus
+Competitor orientation
+Inter-functional coordination
+
+Customer
+satisfaction
+
+Innovation
+
+Table 5
+
+Structural measurement results
+
+Hypothesis
+
+Relationship
+
+β estimate t-value
+
+p-value
+
+Results
+Supported
+
+Direct relationships
+H1
+
+Market orientation → Customer
+satisfaction
+
+0.835
+
+21.932
+
+***
+
+H2
+
+Customer focus → Customer
+satisfaction
+
+0.165
+
+1.977
+
+0.048* Supported
+
+H3
+
+Competitor orientation → Customer
+satisfaction
+
+0.164
+
+2.154
+
+0.031* Supported
+
+H4
+
+Inter-functional coordination →
+Customer satisfaction
+
+0.551
+
+8.900
+
+***
+
+Presence of marketing department
+→ CS
+
+–0.030
+
+–0.901
+
+0.367
+
+Number of workers → CS
+
+0.030
+
+0.914
+
+Supported
+
+Controls
+
+2
+
+0.361
+2
+
+Note: RMSEA = .023, GFI = .992, NFI = .994, CFI = .999, χ / df = 1.148, R = .707,
+***p < .001, *p < .05 and n = 277.
+
+4.6 Test of moderation
+Table 6 shows the analysis of the moderation of innovation on the relationship between
+MO and CS. The results of the interaction of innovation and MO on CS (β = 0.534,
+
+159
+
+Market orientation and customer satisfaction
+
+t-value = 4.203 and p-value = 0.000) confirms that innovation, as a moderator, positively
+and significantly influences the MO and CS relationship. This supports Hypothesis H5.
+With R2 value of 0.710, it can be explained that it is estimated that the moderator,
+innovation, explains 71% of the variance of CS, indicating a high predictive capacity.
+This implies that a bank’s adoption of innovative practices, coupled with its MO, would
+go a long way to enhance CS. Figure 2 displays the moderation test results.
+Table 6
+
+Test of moderation
+
+β estimate
+
+t-value
+
+p-value
+
+Results
+
+H1
+
+Market orientation → Customer
+satisfaction
+
+0.965
+
+9.460
+
+***
+
+Supported
+
+H5
+
+Innovation*market orientation →
+Customer satisfaction
+
+0.534
+
+4.203
+
+***
+
+Supported
+
+Innovation → Customer satisfaction
+
+0.469
+
+2.960
+
+0.003**
+
+Presence of marketing department
+→ CS
+
+0.013
+
+0.396
+
+0.692
+
+Educational level → CS
+
+0.010
+
+0.281
+
+0.779
+
+Age → CS
+
+0.020
+
+0.575
+
+0.565
+
+Sex → CS
+
+0.021
+
+0.543
+
+0.520
+
+Hypothesis
+
+Relationship
+
+Controls
+
+Note: RMSEA = .021, GFI = .986, NFI = .990, CFI = .999, χ2 / df = 1.118, R2 = .710,
+***p < .001, **p < .01 and n = 277.
+Figure 2
+
+Test of moderation (see online version for colours)
+
+Note: Innovation strengthens the positive relationship between MO and CS.
+
+4.7 Test of mediation
+To establish meditation effects, all significant parameters were tested using guidelines
+from Baron and Kenny (1986) for partial and full mediation conditions, with the
+assumption that if all the three relationships are significant, then mediation testing would
+be possible. A number of regression equations were estimated. First, SQ (mediator) was
+
+160
+
+M.A. Mahmoud et al.
+
+regressed on MO (independent variable) and it showed a significant effect (MO → SQ,
+β = 0.888, p-value = 0.000). Second, CS (dependent variable) was regressed on MO
+(independent variable) and this showed a significant effect (MO → CS, β = 0.653,
+p-value = 0.000). Third, CS (dependent variable) was regressed on SQ (mediator), and
+the effect was significant (SQ → CS, β = 0.198, p-value = 0.006). This mediation
+possibility test is presented in Table 7. All the three relationship paths were significant,
+hence mediation test was conducted.
+Table 7
+
+Mediation possibility test
+
+Model
+
+Relationship
+
+β estimate
+
+t-value
+
+p-value
+
+1
+
+Market orientation → Service quality
+
+0.888
+
+32.082
+
+***
+
+2
+
+Market orientation → Customer satisfaction
+
+0.653
+
+9.033
+
+***
+
+3
+
+Service quality → Customer satisfaction
+
+0.198
+
+2.738
+
+0.006**
+
+Note: ***p < .001, **p < .01 and n = 277.
+
+After determining that SQ mediates the relationship between their MO and CS, a
+systematic analysis was applied to the structural model to provide a comprehensive
+representation of Hypothesis H5. First, the path coefficient for the direct relationship
+between MO, and the CS without the mediator (SQ) was examined. The effect of MO on
+CS was positive and statistically significant (β = 0.835, t-value = 21.932, p-value =
+0.000). Second, was the inclusion of the mediator (MO → SQ → CS, path 1: β = 0.652,
+t-value = 9.059, p-value = 0.000, path 2: β = 0.199, t-value = 2.758, p-value = 0.006).
+The results indicate that SQ partially mediates the relationship between MO and CS as
+both the direct effect without, and the indirect effect with mediator was significant. The
+results imply that MO influences CS even without SQ. However, SQ improves the
+relationship between MO and CS, since it has a significant positive relationship with CS
+(β = 0.199, t-value = 2.758, p-value = 0.006). This provides support for Hypothesis H6.
+Table 8 presents a summary of the mediation test results.
+Table 8
+
+Test of mediation
+
+Model
+
+Relationship
+
+β estimate
+
+t-value
+
+p-value
+
+Direct effect
+without
+mediator
+
+Market orientation → Customer
+satisfaction
+
+0.835
+
+21.932
+
+***
+
+Direct effect
+with mediator
+
+Market orientation → Customer
+satisfaction
+
+0.652
+
+9.059
+
+***
+
+Service quality → Customer
+satisfaction
+
+0.199
+
+2.758
+
+0.006**
+
+Market orientation → Service
+quality
+
+0.888
+
+32.082
+
+***
+
+Service quality → Customer
+satisfaction
+
+0.199
+
+2.758
+
+0.006**
+
+Indirect effect
+with mediator
+
+Decision
+
+H6 supported
+(partial
+mediation)
+
+Note: RMSEA = .047, GFI = .980, NFI = .973, CFI = .989, χ2 / df = 1.605, ***p < .001,
+**p < .01 and n = 277.
+
+Market orientation and customer satisfaction
+
+5
+
+161
+
+Discussion
+
+Achieving CS in business has become a central issue to both practitioners and
+researchers. Researchers have confirmed that it costs more to attract new customers than
+to retain old ones (Narteh and Kuada, 2014; Narteh et al., 2013; Pfeifer, 2005; Uncles
+et al., 2003), and that the benefits of CS and loyal customers are enormous. Mahmoud
+et al. (2016) further contended that achieving a good MO practice enhances CS and
+customer loyalty which are the preconditions for competitive advantage. In an
+increasingly competitive and volatile business environment like that of the Ghanaian
+banking sector, CS has become an ideal objective, and lifeblood of every organisation. It
+is therefore, important for professionals and practitioners in the banking sector to identify
+and have a better understanding of the factors that promote CS as well as adopt them in
+order to prevent customers from defecting to competitors.
+The study has established that, the three components of MO (customer orientation,
+competitor orientation and inter-functional coordination) have significant influence on
+CS. Banks must therefore, be balanced in handling internal and external strategic issues.
+Internal strategy related issues such as banks employee relationships management are
+crucial, and managers must give attention to ensure harmonious coexistence for superior
+customer value delivery. Similarly, managers must pay attention to external related issues
+such as customers’ existing and potential needs as well their demands and complaints.
+Equally important, competitor activities must not be ignored by management.
+The analysis also revealed that the MO and CS relationship was internally moderated
+by innovation and partially mediated by SQ. Providing superior SQ through employees’
+commitment and innovativeness all determine the propensity of the customer to be
+satisfied. This revelation is in line with scholars’ arguments that MO, SQ and innovation
+have significant effects on business performance although much of the variations in
+performance are accounted for by the effect of innovation and SQ on the MO-business
+performance relationship which can lead to CS (Agarwal et al., 2003; Hinson and
+Mahmoud, 2011; Han et al., 1998).
+This suggests that MO plays an important role in shaping CS through SQ and
+management innovativeness. Existing literatures emphasises that the practice of MO and
+CS in an organisation is a prerequisite for enhancing organisational performance and
+competitive advantage (Dalbooh, 2014; Mahmoud et al., 2017a). Consistent with existing
+literature, the study revealed that these three constructs are antecedents or are necessary
+preconditions for CS. This study also provides several useful decision-making
+implications. First, it leads to the argument that the practice of MO enhances CS in an
+organisation.
+
+6
+
+Managerial implications
+
+The study provides support for management to make prudent decisions regarding MO,
+SQ, innovation and their resultant effect on CS. Managers and practitioners must pay
+attention to their MO culture. They must ensure that their banks’ MO is not decaying in
+order to ensure CS. All necessary measures must be put in place to ensure that their banks
+level of MO is at an acceptable level to meet customers’ expectation, and changing needs
+since the findings of this study associates MO with CS. Similarly, practitioners must bear
+
+162
+
+M.A. Mahmoud et al.
+
+in mind that positive association and significance of MO and CS is internally moderated
+by SQ and innovation. This suggests that for practitioners to reap the full benefits of the
+link between MO and CS, then, they must ensure that they step up the level of
+innovativeness. For example in Ghana, Ecobank and GCB as part of the leading banks
+ensure SQ and enhance CS with the introduction of mobile banking. High SQ and
+innovations in the banking sector will facilitate the association between MO and CS.
+Hence, reducing the burden of MO and CS linkage of managers.
+This finding suggests that managers should plan and implement SQ and innovation
+efforts within an appropriate banks MO practice. Banks generally can survive in today’s
+volatile and turbulent business environment when they pay attention to the practice and
+effective implementation and monitoring of the components of MO to ensure their
+continued use and application to guarantee CS. If banks are capable of recognising which
+services customers need, design and implement strategies to satisfy those needs, they will
+gain a competitive edge over others.
+
+7
+
+Conclusions and directions for future research
+
+The study provides an insight in to the linkage among the various constructs investigated.
+The study provides contemporary understanding of MO, SQ, innovation, and CS
+relationships. This adds to existing global support to the marketing strategic construct for
+superior business performance. Future studies might consider the role of external
+moderators on the linkage between MO and CS in the same context or a different setting.
+The dynamic nature of the business environment makes it relevant to continue to
+establish these associations to inform relevant shareholders to make potent decisions for
+business success.
+In addition, as competition intensifies in the banking industry, the importance of CS
+has become a key issue for bank managers. Therefore, the need to maintain mutually
+beneficial lasting relationship with valued clients cannot be underestimated. An
+understanding of the concept of MO and CS is of significant value to bank managers as
+satisfied customers are less likely to defect, less expensive to maintain and bring in new
+customers through positive word of mouth. The findings contribute to the general body
+of knowledge and provide a basis for further development of theory and research
+particularly the MO and banks CS literature.
+
+References
+Agarwal, S., Erramilli, M.K. and Dev, C. (2003) ‘Market orientation and performance in service
+firms: role of innovation’, Journal of Services Marketing, Vol. 17, No. 1, pp.68–82.
+Agolla, J.E., Makara, T. and Monametsi, G. (2018) ‘Impact of banking innovations on customer
+attraction, satisfaction and retention: the case of commercial banks in Botswana’,
+International Journal of Electronic Banking, Vol. 1, No. 2, pp.150–170.
+Agyapong, G.K. (2011) ‘The effect of service quality on customer satisfaction in the utility
+industry – a case of Vodafone (Ghana)’, International Journal of Business and Management,
+Vol. 6, No. 5, p.203.
+Ahrholdt, D.C., Gudergan, S.P. and Ringle, C.M. (2017) ‘Enhancing service loyalty: the roles
+of delight, satisfaction, and service quality’, Journal of Travel Research, Vol. 56, No. 4,
+pp.436–450.
+
+Market orientation and customer satisfaction
+
+163
+
+Albayrak, T. and Caber, M. (2015) ‘Prioritisation of the hotel attributes according to their influence
+on satisfaction: a comparison of two techniques’, Tourism Management, Vol. 46, No. 1,
+pp.43–50.
+Amirkhani, A. and Fard, R.S. (2009) ‘The effect of market orientation on business performance of
+the companies designing and manufacturing clean rooms’, American Journal of Applied
+Sciences, Vol. 6, No. 7, p.1373.
+Anderson, E.W., Fornell, C. and Lehmann, D.R. (1994) ‘Customer satisfaction, market share, and
+profitability: findings from Sweden’, The Journal of Marketing, Vol. 58, No. 3, pp.53–66.
+Anwar, S.A. and Sohail, M.S. (2003) ‘Testing market orientation of bank managers in the emerging
+economy of Brunei’, International Journal of Bank Marketing, Vol. 21, Nos. 6/7, pp.289–295.
+Ayo, C.K., Oni, A., Adewoye, O.J. and Eweoya, I.O. (2016) ‘E-banking users’ behaviour: e-service
+quality, attitude, and customer satisfaction’, International Journal of Bank Marketing, Vol. 34,
+No. 3, pp.347–367.
+Bagozzi, R.P. and Yi, Y. (2012) ‘Specification, evaluation, and interpretation of structural equation
+models’, Journal of the Academy of Marketing Science, Vol. 40, No. 1, pp.8–34.
+Baron, R.M. and Kenny, D.A. (1986) ‘The moderator–mediator variable distinction in social
+psychological research: conceptual, strategic, and statistical considerations’, Journal of
+Personality and Social Psychology, Vol. 51, No. 6, pp.1173–1182.
+Barrett, M., Davidson, E., Prabhu, J. and Vargo, S.L. (2015) ‘Service innovation in the digital age:
+key contributions and future directions’, MIS Quarterly, Vol. 39, No. 1, pp.135–154.
+Bhuian, S.N. (1997) ‘Exploring market orientation in banks: an empirical examination in
+Saudi Arabia’, Journal of Services Marketing, Vol. 11, No. 5, pp.317–328.
+Byrne, B.M. (2013) Structural Equation Modeling with AMOS: Basic Concepts, Applications, and
+Programming, Routledge, London.
+Carmen, C. and José, G.M. (2008) ‘The role of technological and organisational innovation in the
+relation between market orientation and performance in cultural organisations’, European
+Journal of Innovation Management, Vol. 11, No. 3, pp.413–434.
+Chen, K.C., Jin, B.H. and Wu, C.S. (2015) ‘A study of market orientation, social customer
+relationship management and organizational performance’, Xing Xiao Ping Lun, Vol. 12,
+No. 4, pp.395–429.
+Coakes, E.W., Coakes, J.M. and Rosenberg, D. (2008) ‘Co-operative work practices and
+knowledge sharing issues: a comparison of viewpoints’, International Journal of Information
+Management, Vol. 28, No. 1, pp.12–25.
+Cronin Jr., J.J., Brady, M.K. and Hult, G.T.M. (2000) ‘Assessing the effects of quality, value, and
+customer satisfaction on consumer behavioural intentions in service environments’, Journal of
+Retailing, Vol. 76, No. 2, pp.193–218.
+Dalbooh, M.A.A. (2014) ‘The impact of market orientation on the performance of Islamic banks
+(case study: Jordanian Islamic banks)’, International Journal of engineering Research and
+Applications, Vol. 1, No. 4, pp.31–42.
+Day, G.S. (1994) ‘The capabilities of market-driven organisations’, The Journal of Marketing,
+Vol. 58, No. 4, pp.37–52.
+Deshpandé, R., Farley, J.U. and Webster Jr., F.E. (1993) ‘Corporate culture, customer orientation,
+and innovativeness in Japanese firms: a quadrad analysis’, Journal of Marketing, Vol. 57,
+No. 1, pp.23–37.
+Dotzel, T., Shankar, V. and Berry, L.L. (2013) ‘Service innovativeness and firm value’, Journal of
+Marketing Research, Vol. 50, No. 1, pp.259–276.
+Ennew, C.T., Binks, M.R. and Chiplin, B. (2015) ‘Customer satisfaction and customer retention:
+an examination of small businesses and their banks in the UK’, in Proceedings of the 1994
+Academy of Marketing Science (AMS) Annual Conference, Springer, Cham, pp.188–192.
+Fornell, C. and Larcker, D.F. (1981) ‘Evaluating structural equation models with unobservable
+variables and measurement error’, Journal of Marketing Research, Vol. 18, No. 1, pp.39–50.
+
+164
+
+M.A. Mahmoud et al.
+
+Gatignon, H. and Xuereb, J.M. (1997) ‘Strategic orientation of the firm and new product
+performance’, Journal of Marketing Research, Vol. 34, No. 1, pp.77–90.
+Grönroos, C. (1984) ‘A service quality model and its marketing implications’, European Journal of
+Marketing, Vol. 18, No. 4, pp.36–44.
+Grönroos, C. (2006) ‘On defining marketing: finding a new roadmap for marketing’, Marketing
+Theory, Vol. 6, No. 4, pp.395–417.
+Guo, C. and Wang, Y. (2015) ‘How manufacturer market orientation influences B2B customer
+satisfaction and retention: empirical investigation of the three market orientation components’,
+Journal of Business and Industrial Marketing, Vol. 30, No. 2, pp.182–193.
+Hair Jr., J.F., Black, W.C., Babin, B.J., Anderson, R.E. and Tatham, R.L. (2010) SEM:
+An Introduction to Multivariate Data Analysis: A Global Perspective, pp.629–686, Pearson
+Education, Upper Saddle River, NJ.
+Hair Jr., J.F., Hult, G.T.M., Ringle, C. and Sarstedt, M. (2016) A Primer on Partial Least Squares
+Structural Equation Modeling (PLS-SEM), Sage Publications, Thousand Oaks, CA.
+Hair Jr., J.F., Sarstedt, M., Hopkins, L. and Kuppelwieser, V.G. (2014) ‘Partial least squares
+structural equation modeling (PLS-SEM) an emerging tool in business research’, European
+Business Review, Vol. 26, No. 2, pp.106–121.
+Han, J.K., Kim, N. and Srivastava, R.K. (1998) ‘Market orientation and organizational
+performance: is innovation a missing link?’, Journal of Marketing, Vol. 62, No. 4, pp.30–45.
+Hinson, R.E. and Mahmoud, M.A. (2011) ‘Qualitative insights into market orientation in small
+Ghanaian businesses’, International Journal of Marketing Studies, Vol. 3, No. 1, pp.35–44.
+Homburg, C. and Pflesser, C. (2000) ‘A multiple-layer model of market-oriented organisational
+culture: measurement issues and performance outcomes’, Journal of Marketing Research,
+Vol. 37, No. 4, pp.449–462.
+Hu, L.T. and Bentler, P.M. (1999) ‘Cutoff criteria for fit indexes in covariance structure analysis:
+conventional criteria versus new alternatives’, Structural Equation Modelling, Vol. 6, No. 1,
+pp.1–55.
+Hult, G.T.M., Hurley, R.F. and Knight, G.A. (2004) ‘Innovativeness: its antecedents and impact on
+business performance’, Industrial Marketing Management, Vol. 33, No. 5, pp.429–438.
+Hunt, S.D. and Lambe, C.J. (2000) ‘Marketing’s contribution to business strategy: market
+orientation, relationship marketing and resource-advantage theory’, International Journal of
+Management Reviews, Vol. 2, No. 1, pp.17–43.
+Hunt, S.D. and Morgan, R.M. (1995) ‘The comparative advantage theory of competition’, The
+Journal of Marketing, Vol. 4, No. 4, pp.1–15.
+Jaworski, B.J. and Kohli, A.K. (1993) ‘Market orientation: antecedents and consequences’, The
+Journal of Marketing, Vol. 57, No. 3, pp.53–70.
+Jaworski, B.J. and Kohli, A.K. (2017) ‘Conducting field-based, discovery-oriented research:
+lessons from our market orientation research experience’, AMS Review, Vol. 7, Nos. 1–2,
+pp.4–12.
+Jimenez, D.J. and Valle, R.S. (2008) ‘The role of market orientation and organisational learning’,
+European Journal of Innovation Management, Vol. 11, No. 3, pp.389–412.
+Khamwon, A. and Speece, M. (2005) ‘Market orientation and business performance in the
+veterinary care industry: an empirical analysis’, BU Academic Review, Vol. 4, No. 1, pp.1–10.
+Kirca, A.H., Jayachandran, S. and Bearden, W.O. (2005) ‘Market orientation: a meta-analytic
+review and assessment of its antecedents and impact on performance’, Journal of Marketing,
+Vol. 69, No. 2, pp.24–41.
+Kline, P. (2015) A Handbook of Test Construction (Psychology Revivals): Introduction to
+Psychometric Design, Routledge, London.
+Kohli, A.K. and Jaworski, B.J. (1990) ‘Market orientation: the construct, research propositions, and
+managerial implications’, The Journal of Marketing, Vol. 54, No. 2, pp.1–18.
+
+Market orientation and customer satisfaction
+
+165
+
+Kolar, T. (2006) ‘Benchmarking market orientation of banks in transitional markets: exploring a
+modified approach’, International Journal of Bank Marketing, Vol. 24, No. 2, pp.76–97.
+Kotler, P. and Keller, K.L. (2006) Marketing Management, 12th ed., Prentice Hall, Upper Saddle
+River, NJ.
+Ladeira, J.W., Santini, F.O., Sampaio, C.H., Perin, M.G. and Araújo, C.F. (2016) ‘A meta-analysis
+of satisfaction in the banking sector’, International Journal of Bank Marketing, Vol. 34, No. 6,
+pp.798–820.
+Lee, H., Lee, Y. and Yoo, D. (2000) ‘The determinants of perceived service quality and its
+relationship with satisfaction’, Journal of Services Marketing, Vol. 14, No. 3, pp.217–231.
+Lee, T.S. and Tsai, H.J. (2005) ‘The effects of business operation mode on market orientation,
+learning orientation and innovativeness’, Industrial Management & Data Systems, Vol. 105,
+No. 3, pp.325–348.
+Lehtinen, U. and Lehtinen, J.R. (1991) ‘Two approaches to service quality dimensions’, The
+Service Industries Journal, Vol. 11, No. 3, pp.287–303.
+Lewis, R.C. and Booms, B.H. (1983) ‘The marketing aspects of service quality’, in Berry, L.L.,
+Shostack, G.L. and Upah, G.D. (Eds.): Emerging Perspectives on Services Marketing,
+pp.99–104, American Marketing Association, Chicago, USA.
+Liu, S.S., Luo, X. and Shi, Y.Z. (2002) ‘Integrating customer orientation, corporate
+entrepreneurship, and learning orientation in organisations-in-transition: an empirical study’,
+International Journal of Research in Marketing, Vol. 19, No. 4, pp.367–382.
+Lovelock, C.H. and Wirtz, J. (2004) Services Marketing: People, Technology, Strategy, Prentice
+Hall, Upper Saddle River, NJ.
+Mahmoud, M.A., Blankson, C. and Hinson, R.E. (2017a) ‘Market orientation and corporate
+social responsibility: towards an integrated conceptual framework’, International Journal of
+Corporate Social Responsibility, Vol. 2, No. 1, p.9.
+Mahmoud, M.A., Hinson, R.E. and Anim, P.A. (2017b) ‘Service innovation and customer
+satisfaction: the role of customer value creation’, European Journal of Innovation
+Management, DOI: 10.1108/EJIM-09-2017-0117.
+Mahmoud, M.A., Blankson, C., Owusu-Frimpong, N., Nwankwo, S. and Trang, T.P. (2016)
+‘Market orientation, learning orientation and business performance: the mediating role of
+innovation’, International Journal of Bank Marketing, Vol. 34, No. 5, pp.623–648.
+Malinconico, A. and Fuccio, N. (2016) ‘Customers experience and problem resolutions in retail
+banking: some empirical evidence from Italian banking’, International Journal of Financial
+Innovation in Banking, Vol. 1, Nos. 1–2, pp.109–125.
+Mbama, C.I. and Ezepue, P.O. (2018) ‘Digital banking customer experience and bank financial
+performance’, International Journal of Bank Marketing, Vol. 36, No. 2, pp.230–255.
+Merriam, S.B. and Tisdell, E.J. (2015) Qualitative Research: A Guide to Design and
+Implementation, John Wiley and Sons, Hoboken, NJ.
+Mishra, S. (2014) ‘Analysing relationship among service quality, satisfaction and loyalty in internet
+banking: a study from India’, International Journal of Electronic Finance, Vol. 8, No. 1,
+pp.57–73.
+Narteh, B. and Kuada, J. (2014) ‘Customer satisfaction with retail banking services in Ghana’,
+Thunderbird International Business Review, Vol. 56, No. 4, pp.353–371.
+Narteh, B., Agbemabiese, G.C., Kodua, P. and Braimah, M. (2013) ‘Relationship marketing and
+customer loyalty: evidence from the Ghanaian luxury hotel industry’, Journal of Hospitality
+Marketing and Management, Vol. 22, No. 4, pp.407–436.
+Narver, J.C. and Slater, S.F. (1990) ‘The effect of a market orientation on business profitability’,
+The Journal of Marketing, Vol. 54, No. 4, pp.20–35.
+Narver, J.C. and Slater, S.F. (1993) ‘Market orientation and customer service: the implications for
+business performance’, European Advances in Consumer Research, Vol. 1, No. 1,
+pp.317–321.
+
+166
+
+M.A. Mahmoud et al.
+
+Njeru, W.G. and Kibera, F.N. (2014) ‘The perceived effects of the three components of market
+orientation on the performance of tour firms in Kenya’, European Scientific Journal, Vol. 10,
+No. 25, pp.266–285.
+Nunnally, J.C. (1978) Psychometric Methods, McGraw Hill, New York, NY.
+Oh, H. and Kim, K. (2017) ‘Customer satisfaction, service quality, and customer value: years
+2000–2015’, International Journal of Contemporary Hospitality Management, Vol. 29, No. 1,
+pp.2–29.
+Oliver, R.L., Rust, R.T. and Varki, S. (1997) ‘Customer delight: foundations, findings, and
+managerial insight’, Journal of Retailing, Vol. 73, No. 3, pp.311–336.
+Opoku, R.A. and Essien, V.B. (2011) ‘Employee perceptions of market orientation in the banking
+industry: a case from a developing country’, Journal of Financial Services Marketing, Vol. 16,
+No. 2, pp.139–152.
+Osuagwu, L. and Obaji, R. (2009) ‘Market orientation in Nigerian manufacturing companies’,
+International Business and Economics Research Journal, Vol. 8, No. 9, pp.67–72.
+Ozkaya, H.E., Droge, C., Hult, G.T.M., Calantone, R. and Ozkaya, E. (2015) ‘Market orientation,
+knowledge competence, and innovation’, International Journal of Research in Marketing,
+Vol. 32, No. 3, pp.309–318.
+Pantouvakis, A. (2014) ‘Market orientation and service quality: opponents or colleagues’,
+International Journal of Quality and Service Sciences, Vol. 6, Nos. 2/3, pp.98–111.
+Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1985) ‘A conceptual model of service quality
+and its implications for future research’, Journal of Marketing, Vol. 49, No. 4, pp.41–50.
+Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1988) ‘SERVQUAL: a multiple-item scale for
+measuring consumer perceptions of service quality’, Journal of Retailing, Vol. 64, No. 1,
+pp.12–40.
+Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1994) ‘Reassessment of expectations as a
+comparison standard in measuring service quality: Implications for further research’, Journal
+of Marketing, Vol. 58, No. 1, pp.111–124.
+Patton, M.Q. (2015) Qualitative Research and Evaluation Methods: Integrating Theory and
+Practice, 4th ed., Sage, Thousand Oaks, CA.
+Pfeifer, P. (2005) ‘The optimal ratio of acquisition and retention costs’, Journal of Targeting,
+Measurement and Analysis for Marketing, Vol. 13, No. 2, pp.179–188.
+Pulendran, S., Speed, R. and Widing II, R.E. (2000) ‘The antecedents and consequences of market
+orientation in Australia’, Australian Journal of Management, Vol. 25, No. 2, pp.119–144.
+Pulendran, S., Speed, R. and Widing, R. (2015) ‘Marketing planning, market orientation and
+performance: an empirical study of Australian organisations’, in Proceedings of the 1998
+Academy of Marketing Science (AMS) Annual Conference, Springer, Cham, pp.455–456.
+Qazi, A., Tamjidyamcholo, A., Raj, R.G., Hardaker, G. and Standing, C. (2017) ‘Assessing
+consumers’ satisfaction and expectations through online opinions: expectation and
+disconfirmation approach’, Computers in Human Behavior, Vol. 75, No. 1, pp.450–460.
+Qu, R. and Ennew, C.T. (2003) ‘An examination of the consequences of market orientation in
+China’, Journal of Strategic Marketing, Vol. 11, No. 3, pp.201–214.
+Rogers, E.M. (1995) Diffusion of Innovations, 4th ed., Free Press, New York.
+Rubera, G. and Kirca, A.H. (2012) ‘Firm innovativeness and its performance outcomes:
+a meta-analytic review and theoretical integration’, Journal of Marketing, Vol. 76, No. 3,
+pp.130–147.
+Rubera, G. and Kirca, A.H. (2017) ‘You gotta serve somebody: the effects of firm innovation on
+customer satisfaction and firm value’, Journal of the Academy of Marketing Science, Vol. 45,
+No. 5, pp.741–761.
+Sandvik, I.L. and Sandvik, K. (2003) ‘The impact of market orientation on product innovativeness
+and business performance’, International Journal of Research in Marketing, Vol. 20, No. 4,
+pp.355–376.
+
+Market orientation and customer satisfaction
+
+167
+
+Slater, S. and Narver, J. (1994) ‘Does competitive environment moderate the market orientation
+performance relationship?’, Journal of Marketing, Vol. 58, No. 1, pp.46–55.
+Slater, S. and Narver, J. (1995) ‘Market orientation and the learning organisation’, Journal of
+Marketing, Vol. 59, No. 3, pp.63–74.
+Sood, A. and Tellis, G.J. (2009) ‘Do innovations really pay off? Total stock market returns to
+innovation’, Marketing Science, Vol. 28, No. 3, pp.442–456.
+Sorescu, A.B., Chandy, R.K. and Prabhu, J.C. (2003) ‘Sources and financial consequences of
+radical innovation: insights from pharmaceuticals’, Journal of Marketing, Vol. 67, No. 4,
+pp.82–102.
+Srinivasan, S., Pauwels, K., Silva-Risso, J. and Hanssens, D.M. (2009) ‘Product innovations,
+advertising, and stock returns’, Journal of Marketing, Vol. 73, No. 1, pp.24–43.
+Stock, R. (2011) ‘How does product program innovativeness affect customer satisfaction?
+A comparison of goods and services’, Journal of the Academy of Marketing Science, Vol. 39,
+No. 6, pp.813–827.
+Stoelhorst, J.W. and Raaij, E.M. (2004) ‘On explaining performance differentials: marketing and
+the managerial theory of the firm’, Journal of Business Research, Vol. 57, No. 5, pp.462–477.
+Tyler, B.B. (2001) ‘The complementarity of cooperative and technological competencies:
+a resource based perspective’, Journal of Eng. Tecnol. Management, Vol. 18, No. 1, pp.1–27.
+Uncles, M., Dowling, G. and Hammond, K. (2003) ‘Customer loyalty and customer loyalty
+programs’, Journal of Consumer Marketing, Vol. 20, No. 4, pp.294–316.
+Vandenbosch, M.B. (1996) ‘Confirmatory compositional approaches to the development of product
+spaces’, European Journal of Marketing, Vol. 30, No. 3, pp.23–46.
+Vyas, V. and Raitani, S. (2014) ‘Drivers of customers’ switching behaviour in Indian banking
+industry’, International Journal of Bank Marketing, Vol. 32, No. 4, pp.321–342.
+Wang, X. (2011) ‘The effect of unrelated supporting service quality on consumer delight,
+satisfaction, and repurchase intentions’, Journal of Service Research, Vol. 14, No. 2,
+pp.149–163.
+Witell, L., Anderson, L., Brodie, R.J., Colurcio, M., Edvardsson, B., Kristensson, P. and
+Andreassen, T.W. (2015) ‘Exploring dualities of service innovation: implications for service
+research’, Journal of Services Marketing, Vol. 29, Nos. 6/7, pp.436–441.
+
+

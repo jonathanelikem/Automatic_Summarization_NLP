@@ -1,0 +1,1814 @@
+Management Science Letters 3 (2013) 367–384
+
+Contents lists available at GrowingScience
+
+Management Science Letters
+homepage: www.GrowingScience.com/msl
+
+Investigation into Mall Visitation Motivation and Demographic Idiosyncrasies in Ghana
+
+Thomas Anning-Dorson*, Adelaide Kastner and Mohammed Abdulai Mahmoud
+
+University of Ghana Business School, Department of Marketing and Customer Management
+
+CHRONICLE
+
+ABSTRACT
+
+Article history:
+Received September 15, 2012
+Received in revised format
+20 December 2012
+Accepted 20 December 2012
+Available online
+December 24 2012
+Keywords:
+Shopping motivation
+Ghanaian shoppers
+Shopping behaviour
+Shopper demography
+
+This paper aims to investigate shoppers’ motivations for visiting the mall in respect of their
+demographic characteristics. The study was Cross-sectional and adopted the quantitative
+method. Structure questionnaire was used to collect data through a mall intercept approach.
+Factor analysis was conducted to determine the mall visitation motivations of shoppers and
+Chi-square test and regression analysis used to help answer the research questions. The paper
+found eight (8) key mall visitation motivations attract Ghanaian shoppers. Escapism influences
+the shoppers most, followed by pleasure flow, safety, aesthetic and architectural leisure,
+respectively. The least motivational factor is exploration. The result suggests that shoppers in
+Ghana are most likely to see the mall as an escape route from their daily hectic conditions and a
+place for relaxation.
+
+© 2013 Growing Science Ltd. All rights reserved.
+
+1. Introduction
+Generalizations research findings on shopping centers outside ones context of study are always
+limited due to the differences in consumers and retail formats available in various countries and
+geographical locations (Carpenter, 2008). Studies across the globe on retail shopping environment
+has substantially concentrated in the Western context (Ahmed et al., 2007) leaving the less developed
+ones who are also of managerial and theoretical significance like Africa unattended. Ghana which is
+one of the fastest growing economies in the world (World Bank Report) has in recent times seen
+development of malls and shopping centers which hitherto was non-existent to confirm the growth of
+the economy. Changing lifestyles and shopping behavior, which is emerging from this economic and
+infrastructural development affords the researchers the opportunity to update literature on shopping
+behaviour with empirical perspectives from Africa. As the shopping mall is considered a modern
+adaptation of the historical African marketplace, there are bound to be different motivations towards
+the mall.
+*Corresponding author.
+E-mail addresses: thomasdorson@gmail.com (T. Anning-Dorson)
+© 2013 Growing Science Ltd. All rights reserved.
+doi: 10.5267/j.msl.2012.12.020
+
+368
+
+Research regarding consumer shopping behaviour first found wide recognition among marketing
+scholars in 1972, through Tauber’s (1972) seminal article, investigating the question “Why do people
+shop?” Since, then, shopping behaviour has emerged as one of the key constructs of contemporary
+research in retail marketing and consumer behaviour, discussed in numerous empirical (Dholakia,
+1999) and conceptual scholarly articles (Woodruffe-Burton et al., 2002), doctoral dissertations
+(Perner, 1998), as well as marketing textbooks (McGoldrick, 2002). In recent times scholars such as
+Hunter, (2006); Rajamma et al. (2009); Soars, (2009) and Beynon, (2010) have dealt well with the
+subject mostly centered in the developed context while the Sub-Saharan Africa has had less
+consideration. Retailers and manufacturers are very interested in how shoppers make their purchase
+decisions, as well as when, why and whether a shopping trip leads to a purchase. Such information is
+critical in formulating marketing strategy (Kotler a& Keller, 2006) and retailing planning (Levy &
+Weitz, 2007). Marketing literature has revealed that many factors may affect shoppers' purchase
+decisions, including individual and psychological characteristics, cultural, social and environmental
+variables and promotional strategies.
+Extensive efforts have been made in investigating the buyer behaviour impact on shoppers' buying
+decisions. For example, previous studies indicate that people have various motivations for shopping:
+some for a purely utilitarian purpose, others for hedonistic reasons (Arnold and Reynolds, 2003;
+Babin et al., 1994). It must however be indicated that these motivations may be affected by contextual
+factors as most of the studies are done in the developed context. These various motivations for
+shopping trip is defined by a consumer may affect his/her behaviour. These shopping motivations can
+be highly influenced by the shopping environment such as the mall which is the face of the retail
+modernization. The major research objective is to look into the critical mall attributes that serve as
+mall visitation motivations at the mall in an emerging economy and their demographic idiosyncrasies
+on patronage.
+According to Tauber (1972), consumer behaviour consists of three distinct activities: shopping,
+buying, and consuming. Considerable progress has been achieved in identifying behavioural
+dimensions of buying and a number of theories on buying behaviour have been postulated. However,
+much less is known about the determinants of consuming and shopping behaviour (Ahmed et al.,
+2007) and this study also attempt to provide empirical support for the limited literature. This study is
+also justified on the basis that the development of modernized retailing literature is still in the early
+development state and that this study contributes to the empirical literature by giving the version of
+the developing context which is of managerial and theoretical substance. The rest of the paper
+presents a literature review and conceptual framework, methodology, presentation of results,
+discussion of findings and conclusion and implications for future research.
+2. Literature review and conceptual development
+The mall is a collection of independent retail stores, services, and a parking area, which is conceived,
+constructed, and maintained by a separate management firm as a unit. As the world first fully
+enclosed shopping mall was born in 1950s in America, in the last five decades, shopping malls have
+mushroomed all over the world (see Ahmed et al., 2007; Reardon et al., 2007). The mall design has
+evolved from an open air, to a fully enclosed building with air conditioners and containing
+amusement park, restaurants, banks, theaters, professional offices, service stations etc. The shopping
+malls compete from the product offerings which include excellence services, competitive prices, and
+attractive promotions to exciting mall atmospheres. Consumers are also more knowledgeable, with
+tastes, preferences and shopping behaviour becoming more sophisticated because of higher
+disposable incomes and the impact of globalization (Chan & Yap, 2004).
+Retail management and shopping center developers continually attempt to respond to changing
+shopper preferences and demands. They are aware that many consumers choose shopping locations
+based on their appeal as a one-stop center. Underlying such shopper choices is the need to balance
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+369
+
+demands on shoppers’ available time to shop, their ability to travel from center to center, and their
+willingness to do so. Today, shopping malls have emerged as places for social gatherings, weekend
+family outings and more. According to Ng (2003), shopping malls have tailored themselves to
+become not only a centre for shopping but also a community centre for social and recreational
+activities. Shopping itself is no longer confined to purchasing of goods but has evolved into a form of
+recreation. Visiting shopping mall has become a family leisure activity rather than a purely economic
+activity (Millan & Howard, 2007). Shoppers are looking for a variety of merchandise, exciting
+promotions, food and even entertainment. As a result, shopping malls have usurped squarely the
+function of olden-day community halls, coffee shops or shady trees (Baharun, 1997).
+Several studies have attempted to identify shoppers’ underlying motives and the relationship between
+these motives and shoppers’ behaviour (e.g. Jin & Kim, 2003; Tauber, 1972; Westbrook & Black,
+1985). Shopping motivations can be defined as ‘‘the drivers of behaviour that bring consumers to the
+marketplace to satisfy their internal needs’’ (Jin & Kim, 2003, p. 399). Bloch et al. (1994) for
+instance identified seven dimensions of shopping malls that collectively explain consumers’ motives
+for visiting malls. These dimensions were: aesthetics, escape, flow, exploration, role enactment,
+social and convenience. Bellenger et al. (1977) in their study discovered four basic dimensions
+(quality of the center, presence of related services, variety under one roof and economic
+convenience). Wilhelm and Mottner’s (2005) attributes consisted of teen friendliness, number of cool
+mall stores, number of different kinds of mall stores, number of entertainment options, number of
+sports/play options and mall design. Newberry et al.’s (2003) research identified seven dimensions
+which, among others, included décor, atmosphere, appearance and cleanliness.
+According to El-Adly (2007), the attractiveness of a mall is attributable to six factors including
+comfort, entertainment, diversity, mall essence, convenience and luxury. Likewise, in prior research,
+it is not uncommon for an attribute such as atmosphere to be labeled under “quality of center” in one
+study (Bellenger et al., 1977) but under “facilities” in another study (Wong et al., 2001). Or price be
+an indicator of “quality and variety” in one study (Wong et al., 2001) but be related to “economic
+convenience” dimension in the other study (Bellenger et al., 1977). Or variety of stores be an
+indicator of “value assortment” factor in one study (LeHew et al., 2002) but belong to “mall essence”
+factor in another study (El-Adly, 2007).
+2.1 Conceptual framework
+From the forgoing literature review, there are some mall visitation motivations discussed and used by
+different scholars. This study based on the clear and consistent motives for going shopping has
+identified the following five mall shopping motivations as they try to capture all the discussed
+motives that run through the various studies. These motives are discussed to serve as a guide in the
+development and the measurement of the scales and to check the applicability in the Ghanaian
+context.
+Aesthetic and architectural motivation: malls aesthetic and architectural offer visitors the advantage
+of climatic comfort and freedom from the noise and traffic that categorizes other shopping venues
+since a ‘‘noisy’’ environment creates a different image than is characterized by silence or soft
+background music. Ahmed et al. (2007) contend that architectural elements are being used by
+developers to increase the drama of mall interiors and to satisfy consumer-seeking sensory
+stimulation. The aesthetics of the mall inculcates the internal designs that attract the visitor’s sensory
+stimuli. Design features (e.g. high ceilings, flooring/carpeting, architecture, interior landscaping, store
+layout), as well as physical facilities (elevators, air-conditioning, and washrooms) all impact
+assessments by consumers. According to Lui (1997), modern mall interiors have evolved from
+‘‘comfortable’’ to architecturally rich, with lavish materials and sophisticated design elements.
+Interior design actually continues the mall’s image-fostering process (Loudon & Bitta, 1993).
+
+370
+
+Wakefield and Baker (1998) in their study found that architectural design had the strongest positive
+influence on mall excitement, while interior décor had the strongest positive effect on desire to stay.
+Light and color has been found as having impact on the feeling of spaciousness and serenity and signs
+in bright colors create excitement as found by Solomon (1994). Mall developers are finding ways of
+appealing to the sensuality of shoppers which are offered in the mall’s aesthetics.
+Escapism (Getaway) motivation: Ahmed et al. (2007) state that the mall offer access to new
+experiences as a break from the consumer’s hectic activities and the shoppers are attracted by the
+mall’s atmospherics which is seen as an offer for relief from boredom or loneliness. Underhill, (2005)
+intimated this by stating that many malls are currently offering high level of sensory stimulation. As
+the mall offer the visitor entertainment which is mostly free or low cost, visitors can have family
+entertainment in a non-formal manner without advance preparation. Malls therefore offer its patrons
+pastime opportunities to get away from the hectic daily hassle and it has become one of the few
+places where people seek solace whenever they are in need of “live”. Ahmed et al., (2007) shopping
+malls represent a unique form of shopping environment and have become a social place in which
+people converge to engage not only in buying activities, but also in social activities, such as going to
+a movie, having food or a meal out, getting together with friends or family, hair styling, etc.
+Flow and Exploration motivation: Flow has been described as a pleasurable state of absorption that is
+associated with losing track of time (Bloch et al., 1994; Lui, 1997) while Ahmed et al. (2007)
+describes it as a rare and desirable state the shopper would want to get to. Thus, one may speculate
+that the achievement of flow while in a mall may encourage continuation among consumers
+enthusiastic about shopping in mall (Ahmed et al., 2007). The flow attribute of the mall can make
+visitors lose track of time since they are normally isolated from cues of time and whether in that
+enclosed environment. The more sufficient the mall atmosphere is, the high propensity of the hours
+gliding by without the mall visitor noticing. On exploration, Wakefield and Baker (1998) discovered
+that gathering information by exploring new products or stores was a perceived benefit of the mall
+experience. Tauber (1972) in his seminal article described the exploration motive of the mall as the
+learning of new trends, technology, style and fashion. This was corroborated by Wakefield and Baker
+(1998) that the exploration attribute of the mall taps into consumers’ desire for variety. Having a
+variety of stores or mix of tenants that work well together to meet the needs of many types of
+customers, including those valuing exploration, will enhance the performance of the entire shopping
+mall (Kaufman, 1996).
+Socialization, leisure and pleasure motivation: shopping in whatever form it takes offer shoppers
+opportunity to leisure and pleasure which otherwise cannot be offered at home. Mall visits can create
+new acquaintances and meeting of both new/old friends and sometimes attract the opposite sex. Thus,
+social variables offering the benefit of affiliation with others also make malls attractive leisure sites
+(Ahmed et al., 2007). Tauber (1972) and (Wakefield & Baker, 1998) suggested that an important
+pleasing aspect of shopping includes the opportunity for social interaction with friends, family, or
+even strangers that one encounters in a shopping location. People will shop where they feel wanted
+and will even pay a little more for the privilege (Underhill, 1999). Leisure is any satisfying
+experience (Torkildsen, 1992) and the mall visitor will always want and shopping may or may not be
+a leisure or recreational activity. For instance, leisure’s promise according to Howard, 2007 is that: . .
+. a deep sense of appreciation envelopes us and lifts us to a higher plane, where we discover that there
+is peace and beauty and joy in the world. That may carry over into increasing appreciation of life
+itself (p. 663). From a sociological perspective, malls have become community centers, offering
+visitors common recreational attractions, e.g. music, movies, games, and dining out (Ahmed et al.,
+2007). Many researchers have asserted that, shopping at the mall is viewed at a recreational activity
+(Rintamaki et al., 2006; Sit et al., 2003; Dennis et al., 2005). This is supported by Dholakia (1999) by
+saying that the shoppers have a social motive and its very important since ‘‘shopping is a spectacle in
+which one is both performer and spectator. . . it is seeing and being seen, meeting and being met, a
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+371
+
+way of interacting with others’’. Chetthamrongchai and Davies (2000) also advanced that shopping
+may even be a very enjoyable use of time without the purchase of goods or services for recreational
+shoppers.
+Convenience and external motivation: Convenience is also important to anti-shoppers – consumers
+who make fewer mall visits and fewer purchases (Loudon & Bitta, 1993). Anti-shoppers perceive
+shopping as stressful and, therefore, a task that is to be completed quickly. Anti-shoppers will prefer
+malls or stores where they can get in and out quickly. Convenience of location and product
+assortments offered will be key criteria for these consumers (Ahmed et al., 2007). Shoppers will tend
+to favor centers that enable the completion of all essential shopping and related tasks at one
+concentrated location (Kaufman, 1996). According to Kaufman (1996), many shoppers select
+shopping areas based on hours of operation and travel time. Retail location theory also posits that
+consumers prefer to shop as close to home as possible. Loudon and Bitta (1993) found that consumers
+were very convenience-oriented; they disliked spending a lot of time finding a parking space and
+trekking from one end of a mall to another.
+De Juan (2004) said that accessibility has been traditionally associated with such proximity indicators
+as distance to home or work or driving time to the shopping venue though recent thinking separates it
+from locational convenience (Haytko & Baker, 2004). Included in accessibility as a distinct patronage
+dimension are such attributes as ease with which shoppers can get into and out of a mall and find their
+way around once they are in the mall (Dogu & Erkip, 2000; Haytko & Baker, 2004). Based on related
+research, Yava and Babakus, 2009 contend that additional attributes may be closely associated with
+accessibility, one they considered as parking facilities, security provision, feeling of confort and
+adequate and easy time parking.
+Several researchers have posited that demographic characteristics of customers affect their purchasing
+behavior (e.g. Raju, 1980; Wood, 1998), however, this relationship is currently considered unclear as
+research findings have been found to be controversial (e.g. Jin & Kim, 2001; Mai & Zhao, 2004;
+Mitchell & Walsh, 2004).With the aim of assessing the demographic idiosyncrasies in respect of
+mall visitation motivation, the study will test the association of sex, age, educational status,
+employment status, marital status and monthly income against the various mall visitation motivations
+that will be identifies through exploratory factor analysis. Based on the review above, the study seeks
+answers to the following questions;
+Question 1: What are the mall visitation motivations at the mall in an emerging economy?
+Question 2: What is the relationship between shopping motivation and demographic
+idiosyncrasies of mall visitors?
+Question 3: What are the shopping dimensions hierarchy effects on mall visitation?
+3. Methodology
+This study adopts the deductive approach. Deductive reasoning works from the more general to the
+more specific. The study begins with thinking up a theory about the topic of interest then narrows
+down into more specific questions that can be tested (Robson, 1993). This ultimately leads us to be
+able to test the hypothesis with specific data -- a confirmation (or not) of our original theories
+(Saunders et. al., 2000; Kumar, 1996; Robson, 1993). The study adopted the survey strategy as it is
+usually associated with the deductive approach (Saunders et al., 2007). The study was Cross-sectional
+and adopted the quantitative method of research since quantitative research is commonly used when
+the purpose is to test hypotheses and generalize the results (Hair et al., 2003; Holme & Solvang,
+1991) as this study sought to do. Data were collected from the Accra Mall and the A&C Mall which
+
+372
+
+are the most prominent malls and seen as the flagship of malls in the country. Structured
+questionnaire were distributed to visitors of these malls. These questionnaires were Likert in nature
+for easy fill out and in conformity with previous studies. Shoppers were intercepted at the mall to
+allow respondents to easily recall activities and give appropriate responses because of environmental
+influence.
+A total of 600 questionnaires were printed and distributed to shoppers of Accra and A&C shopping
+malls. Shoppers were intercepted while they were within the mall and requested to help fill the
+questionnaires. Respondents were asked to fill and return the instruments immediately as it would
+have been difficult to collect them later. The distributions of the questionnaires were done over a
+period of four-weeks. A total of 528 were successfully returned as some abundant the questionnaire
+midway into the filling. However, 467 were usable which were finally used in the final analysis
+representing a usable response rate of 77.83%.
+4. Results
+The table below shows the demography of the respondents in terms of their sex, age, education level,
+income, marital status and employment status. From the table, there is more males visit the mall than
+females as 57% males as against 42.8% females were recorded. Most of the people who visit the
+more are between the ages of 18 and 35 as they had a total of 333 representing 71.4% of the entire
+sample.
+Table 1
+Demography of Respondents
+DEMOGRAPHIC FACTOR
+Sex Male
+Female
+Age Less than 18
+18-25
+26-35
+36-45
+46 and above
+Highest Education Level
+Basic
+Senior high
+Tertiary or more
+No formal schooling
+Marital Status
+Never married
+Married
+Divorced/separated/widowed
+Employment Status Student
+Employed
+Unemployed
+Estimated Monthly Income
+GH¢<100
+GH¢100-500
+GH¢501-1000
+GH¢1001-1500
+GH¢1501-2000
+Over GH¢2000
+
+FREQUENCY (N=467)
+266
+200
+25
+204
+129
+72
+35
+
+PERCENTAGE (%)
+57
+42.8
+5.4
+43.7
+27.7
+15.4
+7.5
+
+30
+68
+346
+20
+
+6.4
+14.6
+74.1
+4.3
+
+257
+201
+9
+135
+308
+24
+
+55.0
+43.0
+1.9
+28.9
+66
+5.1
+
+63
+153
+138
+82
+17
+8
+
+13.5
+32.8
+29.6
+17.6
+3.6
+1.7
+
+Note: items that do not add up to 100% had missing figures
+
+As shown in Table 1, most of the respondents representing over 74% have had tertiary education and
+therefore did not require further explanation of the questionnaires which normally account for
+interviewer biases. Only 6.4% have had basic formal education but did not require much
+interpretation of the questions to affect their responses. Single in terms of marital status attend the
+mall than married ones as 43% of the respondents were married leaving the rest never married; or
+divorced, separated or widowed. A sizeable portion of the sample representing 66% were employed
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+373
+
+and therefore deemed to have the purchasing power to visit the mall. However, since most of the
+respondents were youth as indicated in the age groupings, a quite substantial number of the
+respondent were students. Again, this can be attributed to the geographical location of the malls as
+they are located closer to tertiary educational institutions and other schools. Finally in terms of the
+income of the respondents, a chunk of the respondents representing 32.8% earn between GH¢100 and
+500 while another 26.9% earn between GH¢501 and 1000 and 22.9% also earning more than
+GH¢1000 showing that those considered in the study had purchasing power and therefore visit the
+mall with the possibility of spending.
+4.1 Factor Analysis
+According to the literature, there are number of scale measures for mall visitation. This study sought
+to maximize the usefulness of these scales and therefore considered a number of them amid additions
+from the researcher. Where there were inconsistencies in the scales from different scholars, the
+researcher rephrased the questions to make it more relevant to the context of the study. The various
+scholars and their themes regarding mall visitation motivation have been discussed literature review
+section of the study which paved way for factor analysis to determine what the MVM are in Ghana.
+In total, thirty-four (34) items were used as a measurement for mall visitation motivation (MVM).
+Respondents were to indicate their level of agreement for all of the items used for MVM on a fivepoint Likert scale where strongly agree represented the highest level of agreement with 5-points and
+1-point for strongly disagree and a mid level of 3-points representing neither agree nor disagree. In
+accordance with best practices as suggested by Tull and Howkins (1994), Parasuraman et al., (1998),
+Churchil (1995) and Dabholkar et al., (1996) exploration of the underlying structure of the data
+carried out through exploratory factor analysis (EFA) and stepwise process suggested by Hair et al.
+(2006) was followed.
+Initial visual assessment of the correlation matrices for mall visitation motivation indicated
+considerable degree of inter-factor correlation as indicated in table 2. In addition, from the correlation
+matrices, the Bartlett test of Sphericity (Chi-square = 5527.30, df=561; p<0.000) for Mall Visitation
+Motivation and Kaiser-Meyer-Olkin (KMO) measure of sampling adequacy indices (value of 0.828)
+for Mall Visitation Motivation confirmed the appropriateness of the data for EFA. Given that the aim
+was to identify the minimum portion of the variance of the original items, principal component
+analysis was selected (Nunnally, 1978) to reduce the number of factors where the Eigen value greater
+than 1 and a cumulative percentage of variance explained being greater than 50% were the criteria
+used in determining the number of factors. On the basis of these criteria, 9 factors were extracted for
+Mall Visitation Motivation which collectively accounted for a satisfactory 60.05% of the variance.
+Furthermore, the communality column in table provides further evidence of the overall significance
+of the solution.
+In order to obtain a clear picture of the structure, the initial solution was rotated and the absence of a
+compelling analytical or theoretical reason, no prior assumption in terms of factor dependence was
+made and consequently an oblique rotation was applied to the data (Parasuraman et al., 1988). On the
+basis of the sample size, the criterion for the significance of the factor loading for the extracted
+common factor was stipulated to be greater than the absolute value of 0.5 suggested by Hair et al.
+(2006). Communality was also examined in order to assess how much variance of each item was
+accounted for by the extracted factors and shed light into possible elimination of items (given the lack
+of accepted guidelines a cut-off value of 0.3 was used).
+Initial analysis through the principal component analysis for MVM produced nine factors as shown in
+the table below with the Varimax- Rotated Factor Component loadings also showing in table 3. The
+nine factors accounted for 60.045% of the total variance which the first factor accounted for 29.19%.
+
+374
+
+Table 2
+Principal Component Analysis for Mall Visitation Motivation
+Variable
+
+Communality
+
+Factor
+1
+
+Eigen
+value
+7.544
+
+Percentage
+of variance
+22.189
+
+Cumulative
+percent
+22.189
+
+This mall is beautifully designed to attract
+people like me
+I am attracted by the mall interior beauty
+The store layout and walkways are inviting
+The environment (i.e. lighting and
+decoration) in the malls attracts my
+attentions
+When I am alone, bored and need
+something to do, the mall is a good place to
+go
+When I am stressful, the mall is a good
+place to go
+I feel relax during my mall visit
+I visit the mall to avoid traffic congestion
+I visit the mall as a diversion from the
+daily routine life
+When I am in the mall, I feel like I am in
+another world
+I lose track of time, when I am inside the
+mall
+When I leave the mall, I am sometimes
+surprised to find out it is dark outside
+The mall is a good place to find out what is
+new
+Certain stores in the mall are fun to visit
+because they sell products that interest me
+I consider a visit to the mall as a learning
+experience.
+I enjoy handling the merchandise and
+trying it on
+I feel modern by visiting the mall
+Going to the mall is an enjoyable
+experience when I am with friends
+I visit the mall to meet new friends
+I feel excited whenever I visit the this mall
+I enjoy being pampered by attentive
+salespeople
+I enjoy talking to other customers and sales
+people
+I love the sales promotions at the mall
+My going to the mall is a form of a leisure
+I visit this mall because of its convenient
+location
+I visit this mall because it is easier to find a
+parking space
+The mall store hours are convenient
+The mall serves as a one-stop shopping
+place for me
+I visit this mall for its tenant variety and
+product assortment
+I visit this mall for its other complementary
+services like cinema, better management
+and promotions
+I visit this mall for its better traffic
+management around the area
+It is a good place to shop with children
+I feel very secure in this shopping mall
+It is very easy to find what I want always
+
+.642
+.677
+.568
+.469
+
+2
+3
+4
+
+2.323
+2.195
+1.892
+
+6.831
+6.456
+5.564
+
+29.020
+35.476
+41.040
+
+.562
+
+5
+
+1.587
+
+4.667
+
+45.706
+
+.695
+
+6
+
+1.444
+
+4.247
+
+49.953
+
+.612
+.524
+.546
+
+7
+8
+9
+
+1.268
+1.119
+1.045
+
+3.729
+3.290
+3.073
+
+53.682
+56.972
+60.045
+
+.547
+.639
+.634
+.617
+.699
+.536
+.344
+.577
+.452
+.608
+.500
+.806
+.813
+.727
+.612
+.524
+.605
+.538
+.557
+.630
+.521
+.628
+.638
+.702
+.665
+
+375
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+Table 3
+Varimax- Rotated Factor Component Loadings for Mall Visitation Motivation
+Variable
+I enjoy being pampered by attentive salespeople
+I enjoy talking to other customers and sales people
+I love the sales promotions at the mall
+I feel excited whenever I visit the this mall
+I am attracted by the mall interior beauty
+This mall is beautifully designed to attract people like
+me
+The store layout and walkways are inviting
+The environment (i.e. lighting and decoration) in the
+malls attracts my attentions
+When I leave the mall, I am sometimes surprised to
+find out it is dark outside
+I lose track of time, when I am inside the mall
+When I am in the mall, I feel like I am in another world
+I visit the mall to meet new friends
+I visit this mall for its tenant variety and product
+assortment
+The mall serves as a one-stop shopping place for me
+I visit this mall for its other complementary services
+like cinema, better management and promotions
+My going to the mall is a form of a leisure
+I consider a visit to the mall as a learning experience.
+I visit the mall as a diversion from the daily routine life
+I visit the mall to avoid traffic congestion
+I visit this mall because of its convenient location
+I feel modern by visiting the mall
+I enjoy handling the merchandise and trying it on
+When I am stressful, the mall is a good place to go
+I feel relax during my mall visit
+When I am alone, bored and need something to do, the
+mall is a good place to go
+Certain stores in the mall are fun to visit because they
+sell products that interest me
+The mall store hours are convenient
+Going to the mall is an enjoyable experience when I
+am with friends
+The mall is a good place to find out what is new
+I feel very secure in this shopping mall
+It is very easy to find what I want always
+It is a good place to shop with children
+I visit this mall because it is easier to find a parking
+space
+I visit this mall for its better traffic management around
+the area
+
+Factors
+1
+2
+.868
+.100
+.855
+.059
+.750
+.028
+.480
+.240
+.042
+.770
+.024
+.708
+
+3
+.089
+.206
+-.015
+.371
+.172
+.129
+
+4
+.113
+.053
+.081
+.137
+.194
+.278
+
+5
+.079
+.097
+.178
+.169
+-.013
+-.099
+
+6
+.021
+.031
+.008
+-.051
+.074
+.087
+
+7
+-.002
+.057
+.304
+.119
+-.077
+-.006
+
+8
+-.034
+.049
+.180
+.047
+.019
+.103
+
+9
+.122
+.128
+-.034
+.091
+.055
+.137
+
+.130
+.117
+
+.670
+.589
+
+-.010
+.092
+
+-.078
+.111
+
+.026
+.210
+
+.068
+.072
+
+.277
+.158
+
+.110
+.069
+
+.049
+-.096
+
+.088
+
+.197
+
+.749
+
+-.010
+
+.133
+
+-.006
+
+.008
+
+.018
+
+-.094
+
+.226
+-.087
+.227
+.156
+
+.119
+-.108
+.323
+.148
+
+.747
+.606
+.548
+.054
+
+-.014
+-.011
+.246
+.743
+
+.027
+-.109
+.266
+.007
+
+.001
+.339
+-.105
+-.002
+
+.105
+.159
+-.055
+-.033
+
+-.006
+.069
+.075
+.108
+
+.058
+.058
+.000
+.131
+
+.007
+.050
+
+.087
+.175
+
+-.008
+.016
+
+.649
+.627
+
+.282
+.044
+
+-.059
+.013
+
+.133
+.236
+
+.036
+.127
+
+.164
+-.141
+
+.068
+.172
+.174
+.235
+.151
+.063
+.315
+-.075
+.122
+.001
+
+-.132
+.285
+-.075
+.091
+.006
+.143
+.236
+.077
+.207
+-.014
+
+-.137
+.180
+.355
+.184
+.121
+.381
+.078
+.006
+-.060
+.142
+
+.118
+.118
+.147
+.078
+.296
+.356
+-.156
+.105
+-.210
+.025
+
+.685
+.545
+.501
+.494
+.424
+.398
+.348
+-.008
+.021
+.121
+
+.194
+.004
+-.007
+.051
+-.048
+-.064
+-.052
+.815
+.710
+.706
+
+.206
+.249
+.155
+-.216
+.300
+-.064
+-.154
+-.091
+-.036
+.094
+
+-.044
+.139
+.102
+.016
+.102
+.336
+.077
+-.004
+-.020
+.136
+
+-.077
+.026
+.277
+.356
+.342
+.027
+.073
+.013
+-.023
+-.012
+
+.153
+
+.234
+
+.140
+
+.022
+
+.204
+
+.012
+
+.741
+
+.075
+
+.069
+
+.158
+.009
+
+-.051
+.314
+
+.014
+.148
+
+.272
+.311
+
+.056
+-.011
+
+.003
+-.208
+
+.549
+.412
+
+.200
+.054
+
+.302
+-.138
+
+.047
+.188
+-.057
+.097
+.000
+
+.351
+.013
+.175
+.179
+.047
+
+.272
+.076
+.005
+.065
+-.020
+
+.301
+.116
+.060
+.432
+-.087
+
+.319
+-.133
+.189
+.250
+.053
+
+.156
+.068
+.037
+.076
+-.051
+
+.411
+.124
+.081
+.085
+.151
+
+.149
+.781
+.761
+.537
+.013
+
+-.095
+-.023
+.071
+.205
+.753
+
+.252
+
+.044
+
+.001
+
+.295
+
+.075
+
+.058
+
+-.073
+
+.093
+
+.673
+
+4.2 Reliability and Internal Consistency
+The internal reliability of the nine factors for mall visitation motivation were analysed through
+Cronbach’s coefficient alpha. As prescribed by Nunally (1968) and Hair et al., (2006), only factors
+that meet the minimum value of 0.6 were accepted. Also, in order to test the value of the variables
+that loaded onto the factors, item–to total correlation was set above 0.3 (Parasuraman et al., 1988;
+Hair et al., 2006). As a result, the factors were re-specified. This was further done to reduce the
+number of factors. This is consistent with recommendations by Churchil (1995) and Hair et al.,
+(2006) who state that the deletion or merger of a particular statement/item can only be justified when
+the item to be eliminated or merged are conceptually related with another group of items. Items were
+eliminated if by merging them with others, there was no improvement in the internal reliability that is
+no increase in the Cronbach alpha value (Parasuraman, 1988, Hair et al., 2006).
+
+376
+
+As per the discussions above, factors 1, 2, 4, 5, 6, 7 and 8 were maintained without alteration for Mall
+Visitation Motivation. However, an item in factor 3 had item-total correlation figure of less than 3
+and was therefore deleted. Factor 9 was deleted due to the fact that its alpha value was lower than 0.6
+and the items to total correlation were less than 3. Attempt to add these items to conceptually fit
+group of factors led to reduction of the alpha value. Upon the revision of the structure of the factors, a
+further internal consistency was checked the factors named as they conceptually fit. To answer the
+research question 1 and in accordance with the extent literature there are eight factors that serve as
+mall visitation motivation in Ghana. They are pleasure, aesthetics and architectural design, flow,
+leisure (relaxation), convenience, escapism, exploration and safety. These motivations for mall
+visitation were further checked by their Cronbach alphas which were all more than 0.6 to ensure
+reliability. The table 4 below shows the details.
+Table 4
+Internal Constancy of Revised Structure for Mall Visitation Motivation
+Factor and Item
+Factor 1/Pleasure Motivation
+I enjoy being pampered by attentive salespeople
+I enjoy talking to other customers and sales people
+I enjoy the hassle and bustle of stores and in the shopping
+mall
+I feel excited whenever I visit the this mall
+Factor 2/ Aesthetics And Architectural Motivation
+The interior design of the malls usually attracts my
+attentions
+This mall is beautifully designed to attract people like me
+I am attracted by the mall interior beauty
+The environment (i.e. lighting and decoration) in the malls
+attracts my attentions
+Factor 3/Flow Motivation
+I lose track of time, when I am inside the mall
+When I am in the mall, I feel like I am in another world
+I visit the mall to meet new friends
+Factor 4/ Convenience Motivation
+I visit this mall for its tenant variety and product assortment
+The mall serves as a one-stop shopping place for me
+I visit this mall for its complementary services like cinema,
+better management and promotion
+Factor 5/ Escapism Motivation
+My going to the mall is a form of a leisure
+I consider a visit to the mall as a learning experience.
+I visit the mall as a diversion from the daily routine life
+I visit the mall to avoid traffic congestion
+I visit this mall because of its convenient location
+Factor 6/Leisure (Relaxation) Motivation
+When I am stressful, the mall is a good place to go
+I feel relax during my mall visit
+When I am alone, bored and need something to do, the mall
+is a good place to go
+Factor 7/Exploration Motivation
+Certain stores in the mall are fun to visit because they sell
+products that interest me
+The mall store hours are convenient
+Going to the mall is an enjoyable experience when I am with
+friends
+Mall is a good place to find out what is new
+Factor 8/Safety Motivation
+I feel very secure in this shopping mall
+It is very easy to find what I want always
+It is a good place to shop with children
+
+Number of
+items
+4
+
+Item – total
+correlations
+
+Weighted
+mean
+3.55
+
+Cronbach
+Alpha
+0.831
+
+3.96
+
+0.736
+
+3.32
+
+0.725
+
+4.07
+
+0.631
+
+3.69
+
+0.693
+
+2.83
+
+0.658
+
+4.04
+
+0.678
+
+4.2
+
+0.664
+
+.741
+.778
+.644
+.492
+4
+.546
+.631
+.493
+.467
+3
+.588
+.556
+.427
+3
+.455
+.497
+.382
+5
+.351
+.431
+.549
+.417
+.498
+3
+.432
+.544
+.448
+4
+.589
+.374
+.376
+.517
+3
+.510
+.459
+.470
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+377
+
+5. Discussions
+The discussions of the results are matched against the research questions to find answers that will
+eventually help achieve the research objectives.
+Question 1: What are the shopping visitation motivations at the mall in emerging economy?
+The extent literature review showed that several scholars have investigated into mall visitation
+motivations and have come out with different dimensions depending on the context. Mall visitation
+motivation is defined as the drivers of behaviour that bring consumers to the marketplace (mall) to
+satisfy their internal needs’’ (Jin & Kim, 2003). Bloch et al. (1994) for instance identified seven
+dimensions of shopping malls that collectively explain consumers’ motives for visiting malls (i.e.
+aesthetics, escape, flow, exploration, role enactment, social and convenience). Bellenger et al. (1977)
+found four basic dimensions (quality of the center, presence of related services, variety under one
+roof and economic convenience) while Wilhelm and Mottner (2005) found teen friendliness, number
+of cool mall stores, number of different kinds of mall stores, number of entertainment options,
+number of sports/play options and mall design.
+This study found eight motivations that serve as drivers of behaviour that bring the shoppers to the
+mall. These motivations are safety, exploration, leisure (relaxation), escapism, convenience, flow,
+aesthetics and architectural and pleasure motivations.
+Safety motivation: this motivation comes in the form of the shoppers having a feeling of being
+comfortable and secured within and around the mall. Shoppers evaluate mall’s safety by its childfriendliness, secured car parks and internal security measures. Exploration motivation: this
+motivation has to do with the shopper learning about new trends, gathering information on new
+products and new trends in fashion and technology. Leisure (relaxation) motivation: this motivation
+has to do with the mall having the ability to provide recreational activities that comes in the form of
+satisfying experience. Leisure in the mall allows the shopper to have a deep and increasing
+appreciation of life. Escapism motivation: this motivation has to do with the malls ability to relief
+shoppers of boredom or loneliness, help shoppers break from daily hectic activities and offers
+shoppers the opportunity for pastime activities that help them get away from daily pressure.
+Convenience motivation: Malls convenience ability comes in the fact that it is able to provide
+shoppers with the expediency to enter, exit, get assorted products and removes all anti-shopping
+impediments. Convenience may come in the form of mall-shopping hours, better traffic management
+systems and total comfort for each shopping visit. Flow motivation: this motivation describes the
+pleasurable state of absorption that is associated with losing track of time (Lui, 1997). Ahmed (2007)
+described it as the rare and desirable state attained by the shopper when inside the mall. Aesthetics
+and architectural motivation: these are the on-premises features of the mall in terms of the malls
+internal layout, manipulating structural design, interior sensory stimuli and intangible atmospherics.
+Pleasure motivation: the pleasure motivation of the mall shows its ability to create excitement within
+the shoppers and also a sense of indulgence. The mall should treat its patrons with an entertaining
+experience.
+Question 2: What is the relationship between shopping motivation and demographic idiosyncrasies of
+shoppers?
+The second question sought to assess the relationship between the demographic variables and the
+identified Mall Visitation Motivation (MVM). Since the question was seeking for the level of
+relationship significance, a Chi-square test was appropriate. The Chi-square test enables you to find
+out how likely it is that two variables are associated (Saunder et al., 2007). The Chi-square test
+
+378
+
+calculates the probability that data could occur by chance alone by comparing with what you would
+expect if the two variables being compared were independent of each other. The test results are
+displayed in the table below.
+Table 5
+Relationship MVM and demographic variables
+Demo variable
+Sex
+
+Age
+
+Education
+
+Marital status
+
+Employment
+
+Estimated income
+
+***Significant at p<0.001
+
+Value
+df
+Asymp. Sig (2-sided)
+Approx. Sig
+Value
+df
+Asymp. Sig (2-sided)
+Approx. Sig
+Value
+df
+Asymp. Sig (2-sided)
+Approx. Sig
+Value
+df
+Asymp. Sig (2-sided)
+Approx. Sig
+Value
+df
+Asymp. Sig (2-sided)
+Approx. Sig
+Value
+df
+Asymp. Sig (2-sided)
+Approx. Sig
+**Significant at p<0.01
+
+Pearson R
+
+Cramer’s V
+
+82.184
+57
+0.16
+
+0.421
+
+Contingency
+Coefficient
+0.388
+
+0.16
+0.441
+
+0.16
+0.661
+
+Accept
+
+0.000
+.409
+
+0.000
+.578
+
+Accept
+
+0.001
+0.432
+
+0.001
+0.521
+
+Accept
+
+0.000
+0.494
+
+0.000
+0.572
+
+Accept
+
+0.000
+0.502
+
+0.000
+0.747
+
+Accept
+
+0.000
+
+0.000
+
+3.595
+228
+0.000
+2.318
+171
+0.001
+1.737
+114
+0.000
+2.266
+114
+0.000
+5.785
+280
+0.000
+
+Decision
+Reject
+
+*Significant at p<0.05
+
+From the table above, it can be seen that there is NO association between MVM and sex of the
+respondents as it recorded a more than 0.05 significance level, which was used as the base. It
+therefore means that the probability of Sex and MVM occurring by chance alone is probable; which
+therefore means that there is no significance relationship between MVM and sex of the shopper.
+However, the rest of the demographic variables were significantly related with MVM as all of them
+were significant at 0.001. As regards age and MVM, the overall chi-square value of 359.68 with 228
+degrees of freedom (df) was recorded. The significance of 0.000 (i.e. Asymp. sig.) meant that the
+probability of the values in the data occurring by chance alone was less than 0.001. It can therefore be
+concluded that the relationship between age and MVM was extremely unlikely to be explained by
+chance factors alone.
+While the chi-square test is useful for determining whether there is a relationship, it does not tell you
+the strength of the relationship. Symmetric measures (Cramers V and Contingency coefficient)
+attempt to quantify this (Hair et al., 2009). The Cramer’s V gives the direction and the level of
+significance while the Contingency coefficient gives the level of significance. The Cramer’s V value
+of 0.441 showed that the association between age and MVM though not too strong, was positive since
+a strong relationship is signified by a Cramer’s V value which should be greater than 0.5 (Saunders et
+al., 2007). The contingency coefficient of 0.66 showed somewhat strong relationship.
+There was a significant relationship between education and MVM as the overall chi square value of
+231.829 with 171 df was significant at 0.001. It can therefore be concluded that the relationship
+between educational level and MVM was extremely unlikely to be explained by chance factors alone.
+
+379
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+The Cramer’s V value of 0.41 showed a positive direction of the relationship while the contingency
+coefficient of 0.58 showed a somewhat strong relationship. Again, there was a significant relationship
+between marital status and MVM as the overall chi square value of 173.67 with 114 df was
+significant at 0.001. It can therefore be concluded that the relationship between marital status and
+MVM was extremely unlikely to be explained by chance factors alone which therefore meant that
+there is a significant relationship between the two variables. The Cramer’s V value of 0.43 showed a
+positive direction of the relationship while the contingency coefficient of 0.52 showed a somewhat
+strong relationship.
+In the same vein, there was a significant relationship between employment and MVM as the overall
+chi square value of 226.6 with 114 df was significant at 0.001. It can therefore be concluded that the
+relationship between marital status and MVM was extremely unlikely to be explained by chance
+factors alone which therefore meant that there is a significant relationship between the two variables.
+The Cramer’s V value of 0.49 showed a positive direction of the relationship while the contingency
+coefficient of 0.57 showed a somewhat strong relationship. Lastly, there was a significant relationship
+between estimated monthly income and MVM as the overall chi square value of 578.414 with 280 df
+was significant at 0.001. It can therefore be concluded that the relationship between employment
+status of the shopper and MVM was extremely unlikely to be explained by chance factors alone
+which therefore meant that there is a significant relationship between the two variables. The Cramer’s
+V value of 0.502 showed a positive direction of the relationship while the contingency coefficient of
+0.75 showed a strong relationship.
+Question 3: What are the shopping dimensions hierarchy effects on general on mall visitation
+motivation
+As research question three sought to assess the shopping dimensions hierarchy effect in general on
+mall visitation motivation, two statistical analyses was performed. Firstly, a comparison of the means
+of the various factors could tell which of the motivations respondents rated higher. However since the
+comparison of the factors means cannot tell the real effect on the overall motivation to the mall, a
+multiple regression analysis was performed. The regression analysis’s β values tell the direction and
+the level of the effect of each factor.
+Table 6
+Descriptive Statistics of MVM Factors
+Factors
+
+N
+
+Mean
+
+Std. Deviation
+
+Pleasure
+
+465
+
+3.5500
+
+.82168
+
+Aesthetics and Architectural
+
+467
+
+3.9631
+
+.60519
+
+Flow
+
+467
+
+3.3233
+
+.77999
+
+Convenience
+
+467
+
+4.0735
+
+.62767
+
+Escapism
+
+467
+
+3.6955
+
+.69791
+
+Leisure
+
+467
+
+2.8323
+
+.78292
+
+Exploration
+
+467
+
+4.0482
+
+.55428
+
+Safety
+Valid N
+
+467
+
+4.2027
+
+.70985
+
+465
+
+According to the descriptive analysis of the MVM factors, the most significant motivation for the
+mall visit is safety (4.20) followed by convenience (4.07), exploration (4.05), aesthetics and
+architectural (4.00), escapism (3.70), pleasure (3.55), flow (3.32) and leisure (2.83). But as indicated
+earlier, these ranking does not tell the effect on the overall mall visitation motivation, therefore the
+regression analysis was needed.
+
+380
+
+The relationship of all the variables in the casual model was assessed based on the research question
+and the results displayed in the regression table. The multiple coefficient (R) is 0.980, suggesting
+reasonably good correlation between all the influencing factors taken together and MVM, but the
+adjusted R2 figure of 0.960 suggests that they can explain 96% of the variance, leaving only 4%
+unexplained and the analysis of variance was statistical significance at 0.000, and the analysis of
+relationships between all the influencing factors and mall visitation can be accepted.
+Table 7
+Regression Analysis of MVM Factors
+Model
+1 (Constant)
+Pleasure
+Aesthetics and
+Architectural
+Flow
+Convenience
+Escapism
+Leisure
+Exploration
+Safety
+
+Unstandardized Coefficients
+B
+SE
+.122
+.037
+.140
+.006
+
+Standardized Coefficients
+β
+t
+3.265
+.268
+24.270
+
+Significance
+.001
+.000***
+
+.122
+
+.008
+
+.172
+
+15.736
+
+.000***
+
+.118
+.097
+.187
+.082
+.106
+.105
+
+.006
+.008
+.007
+.005
+.009
+.007
+
+.215
+.142
+.304
+.150
+.137
+.173
+
+20.230
+12.529
+25.846
+15.642
+11.272
+15.969
+
+.000***
+.000***
+.000***
+.000***
+.000***
+.000***
+
+Note: Dependent Variable: Mall Visitation Motivation
+R=.96
+R2=0.90 Adjusted R2=0.960
+F=1389.230
+
+Sig at p< 0.001
+
+A person’s mall visitation motivation can be positively influenced by all the factors as significant
+predictors of MVM. Considering the level of significance of those factors, the said table still shows
+that all the factors were significant (sig. of 0.000). In general, escapism (0.304), favourably
+influenced the mall visitation motivation most followed by pleasure (0.268), flow (0.215), safety
+(173), aesthetics and architectural (0.172), leisure (0.150) and the least influential being exploration
+(0.137).
+6. Conclusion and implication
+The study revealed that there are eight (8) key mall visitation motivations that will attract Ghanaian
+shoppers to the mall. These distinctive motivations are safety, exploration, leisure (relaxation),
+escapism, convenience, flow, aesthetics and architectural and pleasure motivations. Generally,
+escapism favourably influences the shoppers mall visitation motivation most, followed by pleasure,
+flow, safety, aesthetics and architectural, leisure and the least influential being exploration. This
+therefore mean that the shoppers in Ghana, are more likely to see the mall as an escape route from the
+daily hectic affairs and as a place to kill their boredom the find pleasure than as a place for finding
+new things or for the mall’s architectural beauty. The study has also shown that shopping motivation
+has a positive relationship with the demographic idiosyncrasies of shoppers to a very large extent.
+The study showed that only sex of the shopper relates significantly with their mall visitation
+motivation factors. The other demographic variables such as age, educational level, marital status,
+employment status and monthly income relates very significantly with the shoppers mall visitation
+motivation.
+There is rising competition on the front of the retailing industry where the malls and the shops within
+the malls belong. It therefore behooves on these retail formats to be innovative and customer-centered
+in order to enjoy the better part of the market. Mall management must be cognizant of the needs and
+wants of the targeted consumers to build and maintain market share. The results of this study have
+several implications that should be of benefit to the retailing industry, and mall management.
+Shopping malls have become social and recreational centers where people go for multiple purposes:
+shopping, recreational pursuits, entertainment, meeting friends, simply browsing around, and so on.
+Therefore, developers of malls must adapt to the fact that malls have evolved into something more
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+381
+
+than simply a place for buying products. Shopping malls, that could offer exciting stores with enticing
+product assortments, multitudinous entertainment and ‘‘experiential’’ opportunities, combined with
+modern and attractive designs and facilities will be necessary to attract more people.
+Escapism was the most influencing mall motivation factor for shoppers’ mall visitation. This
+therefore means that shoppers find the mall as a place to deal with their loneliness and boredom, get
+relief from stressful activities during the day and use as an avoidance of traffic. Mall developers in
+Africa and specifically in Ghana, must therefore take key note of this fact and include the dimensions
+and properties of the mall being able to serve the “getaway” needs of the mall shoppers. Exploration,
+leisure, flow and convenience dimensions were also preferred by the shoppers. The shoppers
+favoured a wide assortment of products, one-stop shopping, and an enjoyable place to socialize with
+friends. Mall management of the tenant and service mix should be used as a strategic tool in attracting
+shoppers to contemporary African malls. Aesthetic factors were also preferred by the shoppers.
+Statements related to interior design of the malls, decorations, and lighting was found to have high
+preference scores. As such, mall management should make sure that their mall atmospherics offer a
+mall environment that is pleasing to multiple senses, to ensure it is conducive for shoppers to stay and
+spend more of their time and money. Managing atmospherics is a strategic task, affecting success in
+positioning and differentiation.
+Segmentation based on demographic variables of consumers has been espoused by many researchers
+over the years (Lin & Kim, 2001; Mai & Zhao, 2004). In this study, it has come to light that mall
+shoppers in a developing economy like Ghana can have its market well segmented on the
+demographic variables such as age, educational level, employment status, and estimated monthly
+income. These variables were favourably related to the mall visitation of shoppers and therefore can
+serve as a good measure of segmentation for mall planners and potential tenants of malls in
+developing economies must seriously consider. Tenants of the malls in Africa must be particular
+about the age, educational level, employment status, and estimated monthly income about their target
+market as they offer important managerial and marketing insight. Though the study sought to
+investigate the developing economies within the sub-Saharan Africa, the findings are generally based
+on shoppers in Ghana which therefore must guide users of the findings in its application to other subSaharan African countries. Future research should also consider a broader demographic profile
+representing multiple geographical locations in Africa as well as other region given that consumer’
+shopping-related perceptions and expectations are likely to differ across countries or cultures
+throughout the world. Future research covering wider perspectives is desirable to enable comparisons,
+benchmarking and setting standards. With many mall developers and mall managers now operating as
+MNCs (multi-national corporations), this international perspective is particularly important.
+References
+Ahmed, Z. U., Ghingold, M. and Dahari, Z. (2007). Malaysian shopping mall behaviour: an
+exploratory study. Asia Pacific Journal of Marketing and Logistics,19(4), 331-348.
+Arnold, M.J., & Reynolds, K.E. (2003). Hedonic shopping motivations. Journal of Retailing, 79, 7795.
+Bellenger, D.N., Robertson, D.H., & Greenberg, B.A. (1977). Shopping center patronage motives.
+Journal of Retailing, 52(2) 29-38.
+Beynon, M.J. (2010). Gender differences in supermarket choice - An expositional analysis in the
+presence of ignorance using CaRBS. European Journal of Marketing, 44(1/2) 267-290
+Bloch, P.H., Ridgway, N.M., & Dawson, S.A. (1994). The shopping mall as consumer habitat.
+Journal of Retailing, 70(1) 23-42.
+Chetthamrongchai, P., & Davies, G. (2000). Segmenting the market for food shoppers using attitudes
+to shopping and to time. British Food Journal, 102(2) 81-101.
+Churchill, G.A. (1995). Marketing Research: Methodological Foundations. 6th ed. Fort Worth:
+Dryden Press.
+
+382
+
+Dennis, C., Newman, A., & Marsland, D. (2005). Objects of Desire: Consumer Behaviour in
+Shopping Centre Choices. Palgrave, London.
+Dholakia, R.R. (1999). Going shopping: key determinants of shopping behaviours and motivations.
+International Journal of Retail & Distribution Management, 27(4) 154-65.
+Dholakia, R.R. (1999). Going shopping: key determinants of shopping behaviours and motivations.
+International Journal of Retail & Distribution Management 27(4) 154-65.
+Dogu, U. and Erkip, F. (2000). Spatial factors affecting wayfinding and orientation: a case study in a
+shopping mall. Environment and Behaviour, 32(6) 731-55.
+El-Adly, M.I. (2007). Shopping malls’ attractiveness: a segmentation approach. International Journal
+of Retail & Distribution Management, 35(11) 936-50.
+Hair, J. F., Jr., Babin, B., Money, A. H., & Samouel, P. (2003). Essentials of business research
+methods. New York: Wiley.
+Haytko, D.L. and Baker, J. (2004). It’s all at the mall: exploring adolescent girls’ experiences”,
+Journal of Retailing, 81(1) 67-83.
+Holme, I. M., & Solvang, B. K. (1997). Forskningsmetodik: om kvalitativa och kvantitativa metoder,
+Lund: Studentlitteratur
+Howard, E. (2007). New shopping centres: is leisure the answer? International Journal of Retail &
+Distribution Management, 35(8), 661-72.
+Humphrey, J. (2007). The Supermarket Revolution in Developing Countries: Tidal Wave or Tough
+Competitive Struggle? Journal of Economic Geography, 7 433-450.
+Hunter, G. L. (2006). The role of anticipated emotion, desire, and intention in the relationship
+between image and shopping center visits. International Journal of Retail & Distribution
+Management, 34(10), 709-721
+Jin, B., & Kim, J.-O. (2003). A typology of Korean discount shoppers: shopping motives, store
+attributes, and outcomes. International Journal of Service Industry Management, 14(3/4) 396-419.
+Kaufman, C.F. (1996). A new look at one-stop shopping: a TIMES model approach to matching store
+hours and shopper schedules. Journal of Consumer Marketing, 13(1) 4-52.
+Kim, Y.-K. (2002). Consumer value: an application to mall and internet shopping. International
+Journal of Retail & Distribution Management, 30(12), 595-602.
+Kotler, P., & Keller, P. (2006). Marketing Management. Prentic Hall, New Jersey
+Kowinski,W.S. (1985). The Malling of America.William Morrow& Co., New York, NY.
+Kumar, R. (1996). Research Methodology- A Step by Step Guide for Beginners. Sydney: Addison
+Wesley.
+LeHew, M.L.A., & Fairhurst, A.E. (2000). US shopping mall attributes: an exploratory investigation
+of their relationship to retail productivity. International Journal of Retail & Distribution
+Management, 28 (6), 261-79.
+Loudon, D.L., & Bitta, A.J.D. (1993). Consumer Behaviour: Concepts and Applications, 4th ed.,
+McGraw-Hill, New York, NY.
+Lui K. F. (1997). Shopping behaviour in Kuala Lumpur shopping malls. Universiti Putra Malaysia.
+Mai, L.-W., & Zhao, H. (2004). The characteristics of supermarket shoppers in Beijing. International
+Journal of Retail & Distribution Management, 32 (1), 56-62.
+McGoldrick, P. (2002). Retail Marketing. 2nd ed., McGraw-Hill, Maidenhead.
+Michon, R., Chebat, J.C. & Turley, L.W. (2005). Mall atmospherics: the interaction effects of the
+mall environment on shopping behaviour. Journal of Business Research, 58 (5), 576-83.
+Millan, E. S., & Howard, E. (2007). Shopping for pleasure? Shopping experiences of Hungarian
+consumers. International Journal of Retail & Distribution Management 35 (6), 474-487
+Mitchell, V.-W., & Walsh, G. (2004). Gender differences in German consumer decision-making
+styles. Journal of Consumer Behaviour, 3(4), 331-46.
+Newberry, R.C., Klemz, B.R., & Boshoff, C. (2003). Managerial implications of predicting purchase
+behaviour from purchase intentions: a retail patronage case study. Journal of Services
+Marketing,17(6), 609-20.
+
+T. Anning-Dorson et al. / Management Science Letters 3 (2013)
+
+383
+
+Ng, C.F. (2003). Satisfying shoppers’ psychological needs: from public market to cyber-mall. Journal
+of Environmental Psychology, 23(4), 439-55.
+Nicholls, J.A.F., Li, F., Kranendonk, C.J., & Roslow, S. (2002). The seven year itch? Mall shoppers
+across time. Journal of Consumer Marketing, 19 (2), 149-65.
+Nunnally, J.C. (1978). Psychometric Theory. 2nd ed., McGraw-Hill Book Company, New York, NY.
+Ooi, J. T. L., & Sim, L.-L. (2007). The magnetism of suburban shopping centers: do size and
+Cineplex matter. Journal of Property Investment & Finance, 25(2), 111-136
+Othman, M.N., & Lim, S.H. (1997). Consumer behavior in shopping malls: a study of urban
+Malaysian consumers. Malaysian Journal of Consumer & Family Economics, 79-90.
+Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1988). SERVQUAL: A Multiple-Item Scale for
+Measuring Consumer Perceptions of Service Quality. Journal of Retailing, 64(1), 12-40.
+Perner, L.E. (1998). Optimal stimulation level as a moderator of ‘high-low’ and EDLP pricing
+effectiveness. unpublished doctoral dissertation, University of Southern California, Los Angeles,
+CA.
+Peter, J.P., & Olson, J.C. (1994). Understanding Consumer Behaviour, Irwin Inc, Homewood, IL.
+Rajamma, R. K., Paswan, A. K. and Hossain, M. M. (2009). Why do shoppers abandon shopping
+cart? Perceived waiting time, risk, and transaction inconvenience. Journal of Product & Brand
+Management, 18(3).188–197
+Raju, P.S. (1980). Optimum stimulation level: its relationship to personality, demographics, and
+exploratory behaviour. Journal of Consumer Research, 7, 272-82.
+Reardon, T, Henson, S, & Berdegue, J. (2007). Proactive fast-tracking diffusion of supermarkets in
+developing countries: implications for market institutions and trade. Journal of Economic
+Geography, 7(4) 399-431.
+Reardon, T., & Berdegue, J.A. (2006). The Retail-led Transformation of Agrifood Systems and its
+Implications for Development Policies, Rimisp-Latin American Center for Rural Development.
+Rintamaki, T.K.A., Kuusela, H., & Spence, M.T. (2006). Decomposing the value of department store
+shopping into utilitarian, hedonic and social dimensions: evidence from Finland”, International
+Journal of Retail & Distribution Management, 34(1), 6-24.
+Robson, C (2002). Real world research. 2nd ed, Oxford, Blackwell
+Saunders, M., Lewis, P., & Thornhill, A. (2003). Research methods for business students, 3th ed.
+Prentice Hall, UK
+Sit, J., Merrilees, B., & Birch, D. (2003). Entertainment-seeking shopping centre patrons: the missing
+segments. International Journal of Retail & Distribution Management, 31(31), 80-94.
+Soars, B. (2009). Driving sales through shoppers’ sense of sound, sight, smell and touch,
+International Journal of Retail & Distribution Management, 37(3), 286-298
+Solomon, M.R. (1994). Consumer Behaviour, 2nd ed., Allyn Bacon
+Tauber, E.M. (1972). ‘Why do people shop? Journal of Marketing Management, Fall, 58-70.
+Taylor, S. L. and Cosenza, R. M., (2002). Profiling later aged female teens: mall shopping behaviour
+and clothing choice. Journal of Consumer Marketing 10(5), 393-408
+Torkildsen, G. (1992). Leisure and Recreation Management. E&FN Spon, London.
+Tull, D.S & Hawkins, D.I. (1990). Marketing Research. 5th Ed. New York: Macmillian Publishing
+Company.
+Underhill, P. (1999). Why We Buy? The Science of Shopping, Simon Schuster, New York, NY.
+Underhill, P. (2005). Call of the Mall. Simon Schuster, New York, NY.
+Wakefield, K., & Baker, J. (1998). Excitement at the mall: determinants and effects on shopping
+response. Journal of Retailing, 74(4), 515-539.
+Wilhelm, W.B., & Mottner, S. (2005). Teens and shopping mall preferences: a conjoint analysis
+approach to understanding the generational shift toward an experience economy. Journal of
+Shopping Center Research, 12(1), 23-52.
+Wong, G.K.M., Lu, Y., & Yuan, L.L. (2001). SCATTR: an instrument for measuring shopping center
+attractiveness. International Journal of Retail & Distribution Management, 29(2), 76-86.
+
+384
+
+Wood, M. (1998). Socio-economic status, delay of gratification, and impulse buying. Journal of
+Economic Psychology,19, 295-320.
+Woodruffe-Burton, H., Eccles, S., & Elliott, R. (2002). Towards a theory of shopping: a holistic
+framework. Journal of Consumer Behaviour, 1(3), 256-66.
+Yavas, U. and Babakus, E. (2009). Modeling patronage behaviour: a tri-partite conceptualization,
+Journal of Consumer Marketing 26(7), 516–526
+
+

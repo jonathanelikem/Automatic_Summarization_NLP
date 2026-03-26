@@ -1,0 +1,1774 @@
+Social Responsibility Journal
+Market orientation, innovation and corporate social responsibility practices in Ghana's telecommunication sector
+Mohammed Abdulai Mahmoud Robert E. Hinson
+
+Article information:
+To cite this document:
+Mohammed Abdulai Mahmoud Robert E. Hinson, (2012),"Market orientation, innovation and corporate social responsibility practices in
+Ghana's telecommunication sector", Social Responsibility Journal, Vol. 8 Iss 3 pp. 327 - 346
+Permanent link to this document:
+http://dx.doi.org/10.1108/17471111211247910
+Downloaded on: 28 February 2015, At: 04:51 (PT)
+References: this document contains references to 86 other documents.
+To copy this document: permissions@emeraldinsight.com
+The fulltext of this document has been downloaded 824 times since 2012*
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Users who downloaded this article also downloaded:
+Barbara Bigliardi, Alberto Ivo Dormio, Francesco Galati, (2012),"The adoption of open innovation within the telecommunication industry",
+European Journal of Innovation Management, Vol. 15 Iss 1 pp. 27-54 http://dx.doi.org/10.1108/14601061211192825
+Lez Rayman-Bacchus, Robert Ebo Hinson, Prince Kodua, (2012),"Examining the marketing-corporate social responsibility nexus",
+International Journal of Law and Management, Vol. 54 Iss 5 pp. 332-344 http://dx.doi.org/10.1108/17542431211264223
+Yonggui Wang, Hing-Po Lo, (2002),"Service quality, customer satisfaction and behavior intentions: Evidence from China’s
+telecommunication industry", info, Vol. 4 Iss 6 pp. 50-60 http://dx.doi.org/10.1108/14636690210453406
+
+Access to this document was granted through an Emerald subscription provided by 540409 []
+
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald for Authors service information about
+how to choose which publication to write for and submission guidelines are available for all. Please visit www.emeraldinsight.com/
+authors for more information.
+
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company manages a portfolio of more than
+290 journals and over 2,350 books and book series volumes, as well as providing an extensive range of online products and additional
+customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the Committee on Publication Ethics (COPE) and
+also works with Portico and the LOCKSS initiative for digital archive preservation.
+*Related content and download information correct at time of download.
+
+Market orientation, innovation and
+corporate social responsibility practices in
+Ghana’s telecommunication sector
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Mohammed Abdulai Mahmoud and Robert E. Hinson
+
+Mohammed Abdulai
+Mahmoud is Lecturer in the
+Department of Marketing
+and Customer
+Management, University of
+Ghana, Accra, Ghana.
+Robert E. Hinson is based
+at the University of Free
+State Business School,
+Bloemfontein, South Africa.
+
+Abstract
+Purpose – The aim of this study is to examine how market orientation, innovation, and corporate social
+responsibility (CSR) jointly impact business performance.
+Design/methodology/approach – This study adopts a quantitative research design. Research
+evidence was collected via a questionnaire-based survey of marketing managers and executives of
+telecommunication companies in Ghana. The hypotheses developed following a review of scholarship
+on marketing, strategy and corporate citizenship were tested through regression analysis.
+Findings – The results indicate that firms’ degree of market orientation and CSR have significant impact
+on innovation, which then influences business performance. Furthermore, market orientation has direct
+significant effect on CSR, which tends to mediate the influence of market orientation on business
+performance.
+Research limitations/implications – The use of longitudinal research that combines managers’
+evaluation with a survey of consumers, employees, and other relevant stakeholders is suggested to
+confirm the results of this study.
+Practical implications – This study suggests that innovation and CSR are two key ingredients for
+transforming market orientation into a successful business strategy. Managers are to note that even
+‘‘doing good’’ (a CSR initiative) requires a sense of innovation for it to trigger any significant financial
+performance for the business.
+Originality/value – This study introduces a model in which the relationship between CSR, market
+orientation, and performance is mediated by innovation. The empirical evidence enhances the existing
+literature on marketing, corporate citizenship, and strategy.
+Keywords Market orientation, Innovation, Corporate social responsibility, Telecommunication, Ghana
+Paper type Research paper
+
+Introduction
+
+The authors wish to thank the
+Research and Conference
+Committee of the University of
+Ghana Business School
+(UGBS) for providing the
+financial assistance necessary
+to complete this research
+project.
+
+DOI 10.1108/17471111211247910
+
+There is a growing body of literature on the market orientation construct (see Kohli and
+Jaworski, 1990; Narver and Slater, 1990; Ruekert, 1992; Greenley, 1995; Pitt et al., 1996;
+Appiah-Adu and Ranchhod, 1998; Harris, 2000; Esteban et al., 2001; Guo, 2002; Blankson
+and Stokes, 2002; Perry and Shao, 2002; Green et al., 2005; Keskin, 2006; Ozer et al., 2006;
+Low et al., 2007). Studies have analyzed the construct in terms of its conceptualization (Kohli
+and Jaworski, 1990; Narver and Slater, 1990; Ruekert, 1992) and factors (both internal and
+external) influencing the degree of market orientation in organizations (see Harris, 2000;
+Ozer et al., 2006). Additionally, other scholars have linked the construct to business
+performance (Ruekert, 1992; Appiah-Adu and Ranchhod, 1998). In relation to the market
+orientation-business performance relationship, it has been shown that organizations that
+exhibit higher levels of market orientation experienced superior performance in terms of new
+product success (Atuahene-Gima, 1996), return on assets (Narver and Slater, 1990), growth
+in market share (Appiah-Adu and Ranchhod, 1998), customer satisfaction, service quality,
+and employee satisfaction (Agarwal et al., 2003).
+
+VOL. 8 NO. 3 2012, pp. 327-346, Q Emerald Group Publishing Limited, ISSN 1747-1117
+
+j
+
+SOCIAL RESPONSIBILITY JOURNAL
+
+j
+
+PAGE 327
+
+Importantly, the journey from market orientation to performance is a complex phenomenon as
+other factors could intervene in the transformation process (Slater and Narver, 1995; Han et al.,
+1998; Baker and Sinkula, 1999). Some marketing scholars like Sinkula (1994), Hurley and Hult
+(1998) and Low et al. (2007) have postulated that market orientation require a sense of
+innovation. Indeed, scholars like Lee and Tsai (2005), Keskin (2006), and Low et al. (2007) have
+found a positive association between innovation and business performance. To this end,
+Deshpande et al. (1993) noted that perhaps the most significant contribution of market
+orientation is its success via innovation. Surprisingly, few studies to date from developed
+countries have focused explicitly on analyzing the interrelationship between market orientation,
+innovation and company performance (Lin et al., 2008; Jiménez-Jimenez et al., 2008).
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Analogous to proponents of innovation-performance and market orientation-performance
+relationships, a considerable stream of scholarly research has emerged in the management
+literature suggesting that corporate social responsibility (CSR) orientation is the key to
+stimulating long-term stability, growth, and sustainable performance in a dynamic and
+changing environment (Balabanis et al., 1998; Luo and Homburg, 2007; Gyves and
+O’Higgins, 2008; Prado-Lorenzo et al., 2008). In fact, some studies even reported that CSR
+has synergy with market orientation (Narver and Slater, 1990; Maignan et al., 1999; Qu,
+2007, 2009). Qu (2009), for instance, accounted for the joint effects of market orientation and
+CSR on firm performance in his survey of star-rated hotels in China by reporting that:
+[. . .] although both market orientation and CSR could enhance performance, once the effects of
+CSR are accounted for, the direct effects of market orientation on performance diminish
+considerable to almost non-existent.
+
+It would seem that a market orientation may not be the only determining factor of firm
+performance (Han et al., 1998; Baker and Sinkula, 1999; Agarwal et al., 2003). This study
+extends Qu’s (2009) work by testing for the nomological web of relations among market
+orientation, CSR and innovation. Innovation in managerial and organizational practices
+suggests new ways of enhancing corporate responsibility through rebuilding the
+relationship between organizations and the wider community and developing an
+understanding of the social capital that exists in the communities which an organization
+serves (Bartlett, 2009). Although evidence exists to suggest that both innovation and CSR
+should be considered as important determinants of business performance, studies
+empirically addressing their joint effects on performance are far reaching. In this paper, we
+propose and test a model of the relationship between market orientation, innovation, CSR
+and business performance in a sample comprising marketing managers and executives of
+all telecommunication companies operating in Ghana.
+The Ghanaian telecommunication industry has been deregulated, and companies operating in
+the sector now have to serve customers under competitive forces. Market orientation would
+seem to be very important to these companies (Kurtinaitiene, 2005), because with increasing
+global competition and changes in consumer needs, companies must organize their activities
+with a strong focus on their markets, in order to survive (Mahmoud et al., 2010).
+The telecommunication sector is of particular interest, as it retails intangible products in
+which service quality and customer orientation are crucial elements. In service sectors, such as
+telecommunication, a firm can hardly differentiate itself on the basis its products alone
+thereby making the acquisition of competitive advantage extremely difficult. It seems that
+developing and planning effective innovative strategies is a critical requirement for service
+organizations. Additionally, CSR activities could be crucial for improving corporate image in
+order to stimulate market performance (Luo and Bhattacharya, 2006; Prado-Lorenzo et al.,
+2008). To date, no Ghanaian study has addressed the issues of market orientation, innovation
+and CSR in the telecom sector. This study is designed around two research questions: how
+does innovation function in the relationship between market orientation and business
+performance? And how does CSR affect innovative performance when complemented with
+market orientation?
+Slater and Narver (1995) held that market orientation only improves business performance when
+it is combined with a learning culture. The authors stress that market orientation and learning
+orientation are inseparable; and that a learning orientation mediates the market
+
+j
+
+j
+
+PAGE 328 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+orientation-performance relationship (Slater and Narver, 1995, p. 67). Hurley and Hult (1998,
+p. 42) found these assumptions contradictory, and stipulate that ‘‘the apparent contradiction in
+Slater and Narver’s (1995) framework can be resolved by incorporating constructs related to
+innovation into these models’’. As encapsulated in research question one, we contribute to these
+global market orientation debates by examining the relationship between market orientation and
+innovation in a services sector where continuous innovativeness is especially crucial for
+business success. Our study is opportune as there is increasing scholarly recognition that
+models of market orientation should focus on innovation rather than learning as the primary
+mechanism for responding to markets conditions (see Hurley and Hult, 1998; Maydeu-Olivares
+and Lado, 2003; Agarwal et al., 2003; Carmen and José, 2008). In addition, research question
+two is timely because even though CSR and innovation are correlated (e.g. Fey and Birkinshaw,
+2005; Borger and Kruglianskas, 2006), from the literature it does not become clear what the
+nature of the relationship between CSR and innovation is (i.e. what leads to what?).
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Given the complex nature of the market orientation-performance relationship, firms must rely
+on some competences in order to transform market orientation into a successful business
+strategy, with CSR and innovation as the two key competences in this regard. Drawing on
+several theoretical bases, we argue further that managers must marry CSR with innovation in
+order to achieve some business gains for their businesses.
+This paper is set out as follows: the introduction deals with a discussion of market orientation,
+innovation, and CSR and why these issues are being examined in the context of Ghana’s
+telecommunications sector. The second section of the paper introduces Ghana’s
+telecommunication industry, whilst the third and forth parts of the paper address the
+conceptual framework and hypotheses as well as the study research design. The fifth section
+of the paper dwelt on the analysis and results whilst the sixth section takes on the discussions
+and implications. The paper concludes with limitations and indications for future research.
+
+Ghana’s telecommunication sector
+Historically, Ghana’s telecommunication sector can be broken into two distinct phases
+following independence in 1957 from British colonial rule. In the first phase, the sector was
+heavily regulated with Ghana Post and Telecommunications (GP&T) as the sole provider of
+telecom services for both fixed and mobile networks. During this era, the sector was
+characterized by deficient telecommunications infrastructure and operational inefficiencies
+on the part of P&T (Frempong and Henten, 2004). Services provided by GP&T were very
+poor with low penetration rates. This continued up until 1994 when government lunched the
+‘‘Accelerated Development Program 1994-2000 (ADP 2000)’’ to deregulate the industry,
+which marked the beginning of a new era in the sector. As part of the restructuring plan,
+Ghana Telecom was incorporated to succeed GP&T. Subsequently, in 1996, the National
+Communication Authority (NCA) was established by Parliamentary Act to regulate the
+sector, promote a stable operating environment for all participants, and promote fair
+competition and efficiency. The deregulation encouraged new entrants into the industry
+such as Millicom Ghana ltd and Kassapa Telecom. Today, the sector is fast growing with
+multinational companies like MTN, Zain, and Vodafone Plc. (who have acquired majority
+interest in Ghana Telecom) all featuring prominently in the sector. Nigerian operator
+Globacom, has also recently been licensed to operate in Ghana.
+Unlike the monopoly era, innovation in the sector has been driven by market liberalization as
+several services including international roaming, mobile money services, internet facilities,
+and teleconferencing facilities have been introduced and customers now have a range of
+choices apart from merely making and receiving calls. Besides introducing innovative
+products onto the market, the telecom operators also separately invest substantial amounts
+into high-impact CSR activities, particularly in education, health, environment, sports, music,
+arts and entertainment (see Ofori and Hinson, 2007, for more on CSR activities of leading
+Ghanaian companies). The market leader (see Table I for facts on market share), MTN for
+instance, invests 1 percent of pre-tax profits every year into CSR through its autonomous
+CSR wing, MTN Ghana Foundation. The Vodafone Group also recently earmarked $1 million
+US dollars for the training of entrepreneurs in Africa to leverage the world wide web as a
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 329
+
+Table I Profile of telecommunication companies in Ghana
+Corporate name
+
+Brand name
+
+Subscriber base
+
+Market share by subscribers (%)
+
+Vodafone Plc.
+Millicom Ghana
+Kassapa Telecom
+MTN – Ghana
+ZAIN Ghana
+Globacom
+
+Vodafone
+TIGO
+Kassapa
+MTN
+ZAIN
+Glo
+
+2,134,119
+3,420,354
+262,259
+8,000,946
+1,291,238
+–
+
+14.12
+22.64
+1.74
+52.96
+8.55
+–
+
+Source: National Communication Authority, Ghana (2009)
+
+platform for delivering locally relevant content, applications and services. In addition,
+Millicom Ghana Ltd has launched the Millicom Fraternity for Humanity Programme. Zain and
+Kasapa have their own CSR projects spread across the country.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Direct and indirect employment by the sector continue to increase with over 4,000 of
+Ghana’s labor force being absorbed into the six telecommunication companies in operation.
+Government also relies heavily on the sector for revenue mobilization bagging $26 million
+from communication service tax alone in the first quarter of 2010 (Ghana News Agency
+(GNA), 2010). MTN, for example, declared that it paid taxes to the tune of 222.80 million
+Ghana Cedis ($148.5 million) in 2008, which constituted 28.1 percent of their total revenue
+for that year and 5 percent of Government’s total tax revenue for the year (GNA, 2009).
+
+Conceptual framework and hypotheses
+Market orientation
+Market orientation has been defined as the extent to which an organization is inclined to
+implement the marketing concept (Kohli and Jaworski, 1990). Scholars (see Homburg and
+Pflesser, 2000) have examined the concept from both behavioral and cultural perspectives. In
+the behavioral approach, market orientation has been viewed as a set of processes relating to
+the philosophy of an organization, and in that regard is referred to as the organization-wide
+generation of market intelligence or information pertaining to current and future customer needs,
+dissemination of the information across departments, and organization-wide responsiveness to
+this information (Kohli and Jaworski, 1990). This perspective urges firms to know the customer
+needs and preferences and to analyze exogenous factors that influence those needs and
+preferences. There is also the need for organization’s departments to coordinate and react
+appropriately to the market needs and to take actions in response to intelligence that is
+generated and disseminated (Kohli and Jaworski, 1990).
+From the cultural perspective, Narver and Slater (1990) defined market orientation as ‘‘the
+organizational culture that most effectively and efficiently creates the necessary behaviors for
+the creation of superior value for buyers and, thus, continuous superior performance for the
+business’’ (p. 21). This approach emphasizes three components of market orientation –namely
+customer orientation, competitor orientation, and inter-functional coordination. Customer
+orientation is a set of beliefs that puts the customer’s interest first and requires a sufficient
+understanding to create products or services of superior value (Deshpande et al., 1993; Narver
+and Slater, 1990). Competitor orientation requires firms to understand the strengths,
+weaknesses, capabilities and strategies of competitors and actively engage in information
+acquisition on existing and potential competitor (Deshpande et al., 1993; Narver and Slater,
+1990). Inter-functional coordination is defined as ‘‘the coordinated utilization of company
+resources in creating superior value for target customers’’ (Narver and Slater, 1990, p. 22).
+Marketing scholars have long described market orientation as a desirable strategy for
+companies to pursue and they have described the practice as ‘‘customer-led’’. According to
+Low et al. (2007, p. 879), it entails such things as looking for unmet customer needs, matching
+these with firm competencies and then obtaining feedback from customers on the desirability
+of these new offerings. Several studies have found a consistent positive relationship between
+
+j
+
+j
+
+PAGE 330 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+companies’ degree of market orientation and their performance (Narver and Slater, 1990;
+Ruekert, 1992; Greenley, 1995; Selnes et al., 1996; Atuahene-Gima, 1996; Pelham and Wilson,
+1996; Appiah-Adu and Ranchhod, 1998; Agarwal et al., 2003; Kurtinaitiene, 2005).
+Kurtinaitiene (2005) undertook a study of market orientation in EU telecommunication
+market and reported positive correlations between market orientation and profitability, number
+of subscribers, growth of the subscriber base, and growth in market share. In this connection,
+telecommunication companies should wish to guide their operation according to market
+orientation principles (Kurtinaitiene, 2005). Moreover, a recent Ghanaian study by Mahmoud
+et al. (2010) in other service firms found significant positive relationship between market
+orientation, return-on-investment, new product success and profitability. Thus it was sound to
+hypothesize that:
+H1.
+
+Market orientation would positively relate to the business performance of Ghanaian
+telecommunication companies.
+
+Innovation
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+An innovation can be a new product or service, a new production process technology, a new
+structure or administrative system, or a new plan or program pertaining to organizational
+members:
+Organizations innovate because of pressure from the external environment, such as competition,
+deregulation, isomorphism, resource scarcity, and customer demands, or because of an internal
+organizational choice, such as gaining distinctive competencies, reaching a higher level of
+aspiration, and increasing the extent and quality of services [. . .] Either way, the adoption of
+innovation is intended to ensure adaptive behavior, changing the organization to maintain or
+improve its performance (Damanpour et al., 2009, p. 635).
+
+Therefore, the adoption of innovation is generally intended to contribute to the performance
+or effectiveness of the adopting organization (Han et al., 1998; Hurley and Hult, 1998;
+Calantone et al., 2002; Agarwal et al., 2003; Lee and Tsai, 2005; Keskin, 2006).
+In the services sector, it is established that firms facing environmental challenges and
+uncertainty can achieve superior performance through incorporating technical and
+managerial innovations in their organizational structure (Han et al., 1998). Calantone et al.
+(2002, p. 517) note that ‘‘innovation capability is the most important determinant of firm
+performance [. . .]’’, and citing Li and Calantone (1998) they further implied that ‘‘[. . .] firms
+must be innovative to gain a competitive edge in order to survive [. . .]’’ (Calantone et al., 2002,
+p. 517). Therefore, when viewed as a responsive adaptation to the changing environment or as
+a pre-emptive move to influence the environment, innovation can achieve some sort of
+competitive advantages, and thereby business performance (Lee and Tsai, 2005). Keskin
+(2006), in his study of 157 managers of Turkish SMEs, demonstrates that firm innovativeness
+has a positive impact on business performance and concludes that when firms frequently try
+new ideas, seek out new ways to do things, develop new product/services, and try to be
+creative in their methods of operations, they become more profitable, get higher market share,
+and growth rates. Several authors have found strong positive relationships between firm
+innovativeness and firm performance: see for example, Zahra and Covin (1993), Yamin et al.
+(1999), Calantone et al. (2002), and Low et al. (2007). The implication of these findings is that
+by adopting innovation as a strategic response to adapt to the changing environment or as a
+pre-emptive move to influence the environment, telecommunication companies could improve
+their business performance and competitive positions. Therefore we hypothesize that:
+H2.
+
+Innovation would positively influence the business performance of Ghanaian
+telecommunication companies.
+
+Corporate social responsibility
+CSR emerged from the idea that corporate bodies are an integral part of society and for that
+matter the attainment of the goals and aspirations of the society must be their preoccupation,
+just as the attainment of their corporate goals are. It involves those policies, activities, or
+behaviors undertaken by a firm that goes beyond the traditional economic and legal
+obligations that the firm has with its target internal and external stakeholders (Bowen, 1953;
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 331
+
+Davis, 1960; McGuire, 1963; Carroll, 1979). In line with this, the World Bank (2004) defines
+CSR as:
+[. . .] the commitment of businesses to contribute to sustainable economic development-working
+with employees, their families, the local community, and society at large to improve the quality of
+life, in ways that are good for business and good for development.
+
+For Carroll (1979), organizations have four responsibilities or obligations to the society in
+which they operate. These are: economic, legal, ethical, and discretionary responsibilities.
+The economic responsibilities are the obligations for businesses to maintain economic
+wealth whilst meeting consumption needs. Legal responsibilities suggest that businesses
+must fulfill their economic mission within the framework of legal requirements. Ethical
+responsibilities require that businesses abide by the moral rules defining appropriate
+behaviors in society. Discretionary responsibilities reflect society’s desire to see businesses
+contributing to its development. Whilst the economic and legal responsibilities are
+obligations that have always existed for organizations and obligations that will continue to
+exist in the future regardless of further changes in the mindset of consumers, ethical and
+discretionary responsibilities are not always undertaken by organizations (Drucker, 1984).
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Studies in strategic management have proposed a direct association between CSR
+initiatives and firm performance; however, the empirical evidence has been rather
+conflicting. Fombrun and Shanley (1990), Waddock and Graves (1997), Maignan et al.
+(1999), and Luo and Bhattacharya (2006), for example, found the consequences of CSR on
+firm performance to be positive in their studies; however, negative consequences were
+reported in earlier studies such as Vance (1975), Aupperle et al. (1985), and McGuire et al.
+(1988). Qu (2009, p. 572) argues that lack of coherence between the earlier and recent
+studies may be attributed to the fact that ‘‘business environments are in a state of flux and
+the current business environments are becoming more favorable towards businesses that
+place an emphasis on CSR’’. In a more recent study of CSR practice and motivations in
+Spain, Prado-Lorenzo et al. (2008), after controlling for size of the companies, found that
+disclosure of information on CSR leads to an improved corporate image which eventually
+increases the rate of sales growth. They state that firms which have disclosed a greater
+volume of information on CSR have experienced greater sales growth, as opposed to those
+organizations which have not disclosed information publicly (Prado-Lorenzo et al., 2008,
+p. 1259). Moreover, scholars also suggest that CSR activities stimulate firms’ ability to attract
+more talented and committed individuals who seek to merge their work and non-work lives
+(Maignan et al., 1999) and boost internal employee morale and commitment within the firm
+(McGuire et al., 1990). Thus, on the basis of the foregoing discussions, we hypothesize that:
+H3.
+
+CSR would have a positive impact on the business performance of Ghanaian
+telecommunication companies.
+
+Market orientation, innovation, and CSR
+Market orientation basically implies doing something new or different as a response
+to market conditions and this may be perceived as a kind of innovative behavior.
+Consistent with the latter assertion, Slater and Narver (1995) also state that those
+firms that are market-oriented enhance the level of innovation and therefore enjoy greater
+success when marketing new products. Empirically it has been demonstrated that both
+innovation and market orientation have significant effects on business performance albeit
+much of the variations in performance are accounted for by the mediating effect of
+innovation on the market orientation-business performance relationship (Agarwal et al.,
+2003). In essence, it is difficult to reduce innovativeness to market orientation, or vice versa
+(Carmen and José, 2008). Thus, market-orientation is a source of ideas for new products
+and services and that it should therefore positively affect the degree of innovation in firms
+and that market-oriented firm’s greater understanding of its market environment should also
+reduce the incidence of new product failures (Atuahene-Gima, 1996; Carmen and José,
+2008). Agarwal et al. (2003) support this viewpoint when he stress that firms that are less
+market-oriented are less likely to consider innovation and noted that unless protected from
+competition such firms are likely to face declining performance. Therefore, firms who display
+
+j
+
+j
+
+PAGE 332 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+a greater ability to innovate will respond more successfully to environmental changes and
+will develop skills enabling them to gain some kind of competitive advantage and, hence,
+better performance (Hult et al., 2004). Atuahene-Gima (1996) posits that in services, the
+success of innovation depends on the firm’s market orientation, especially on its customer
+orientation. An ability to closely monitor client needs and wants and an ability to respond
+appropriately to same is a key to innovation success in the service sector (Maydeu-Olivares
+and Lado, 2003, p. 288). Following Keskin (2006), we test the hypothesize that:
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+H4.
+
+The more market-oriented Ghanaian telecommunication companies are, the higher
+their innovativeness. Innovation mediates the relationship between market
+orientation and business performance in telecommunication companies.
+
+In respect of relationship between market orientation and CSR, Maignan et al. (1999)
+proposed a mediating role of CSR in the market orientation model. According to Maignan
+et al. (1999), companies’ degree of market orientation could have some positive impacts on
+the level of CSR they display, suggesting that a market orientation is an antecedent to CSR
+orientation. Narver and Slater (1990) contend that since a market oriented culture focuses on
+being external oriented, companies would not only be sensitive to their external publics but
+also be anticipatory of their concerns. Therefore, taking a preemptive approach to address
+issues that are of customers concerns should make a company stand out from its
+competitors and to become a more favorable choice as suppliers of products/services to
+customers (Narver and Slater, 1990). Qu (2007) undertook a study of the determinants of
+CSR in China. His survey of 600 hotels resulted in 143 returned responses from top
+managers. The findings of the study suggest that market orientation is the most significant
+predicator of CSR. In a more recent study, Qu (2009) argues that in a business environment
+where external publics such as consumers have high expectations of firms’ CSR activities,
+market-oriented companies will be among the first to realize the importance of CSR and
+accordingly, implement CSR initiatives in their attempt to outperform competitors. Consistent
+with Qu (2009), we hypothesize that:
+H5.
+
+The more market-oriented Ghanaian telecommunication companies are, the higher
+their CSR activities. CSR would mediate the relationship between market
+orientation and business performance in Ghanaian telecommunication companies.
+
+Furthermore, CSR may require firms to align the interests of external stakeholders with
+changes in the behaviors of internal organizational actors and this process can entail radical
+organizational transformations and major changes to business models (see Zadek, 2004;
+Holmes and Moir, 2007). In this connection, CSR activities will offer firms access to intense
+networks distinct from their own corporate sphere, as well as providing a different view of the
+marketplace and giving early warning about shifts in public tastes and values (Yaziji, 2004).
+Since external environments are sources of information, being open to the new ideas that
+these knowledge flows provide is a key predictor of firm innovative performance (Fey and
+Birkinshaw, 2005). Thus, it is suggested that firms that open up engagements with nonprofit
+stakeholders can assimilate the information received (Clarke and Roome, 1999), and can
+gain competitive advantage from the acquisition and utilization of new knowledge they have
+accessed through the engagement (Sharma and Vredenburg, 1998). Since CSR disclosures
+lead to improved corporate image which enhances sales (Prado-Lorenzo et al., 2008),
+companies will necessarily increase innovation in response to service users’ needs viewed
+as the key to enhancing sales performance. In this regard, ‘‘[. . .] CSR is understood to arise
+from an increased awareness that change outside the company requires management
+attention’’ (D’ Amato and Roome, 2009, p. 423). This means that a CSR initiative will results to
+innovations in product/services that generates maximum social benefits (Gyves and
+O’Higgens, 2008; Bartlett, 2009) which ultimately translate into improved financial
+performance for the firm. We therefore test the hypothesize that:
+H6.
+
+CSR would positively affect innovation in the Ghanaian telecommunication market.
+Innovation would mediate the relationship between CSR and business
+performance in Ghanaian telecommunication companies.
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 333
+
+Research design
+Construct measurement
+Whilst the measurement instruments of Narver and Slater (1990) and Kohli and Jaworski
+(1990) appear the most used instruments for determining a company’s degree of market
+orientation, Bigne et al. (2003) submit that there is no one generally accepted research
+instrument to measure the incidence of market orientation in companies. Depending on the
+sector, different measures and components of the market orientation construct can emerge
+(Bigne et al., 2003). This indicates that market orientation measures for services firms may
+differ from those of manufacturing firms devised by both Narver and Slater (1990) and Kohli
+and Jaworski (1990). In this vein, this study adopted the measures developed by Kolar
+(2006) for his study of market orientation in a service industry in Slovenia. The instruments
+are refined versions of the MARKOR, the criteria proposed by Kohli et al. (1993). Kolar (2006)
+viewed market orientation as a function of intelligence generation, intelligence
+dissemination, intelligence responsiveness, and marketing culture, arguing that marketing
+culture is an informal counterpart of formal managerial dimensions of market orientation and
+should therefore be included in its conceptualization. The current interest is on overall
+market orientation, which was derived from the composite score of the four component
+measures. As contended by Keskin (2006):
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Although the market orientation construct has been conceptualized into three distinctive
+behavioral and cultural components in the literature, the primary emphasis has been on the
+combined effect of the components in actual practice (p. 407).
+
+The operationalization of the CSR construct is based on Maignan et al.’s (1999) approach. This
+scale captures all four dimensions of CSR proposed by Carroll (1979) – namely economic,
+legal, ethical and discretionary responsibilities. The present study is not interested in how the
+components of CSR relate to innovation and market orientation – only overall CSR tendency of
+the firms was considered. Previous studies examining CSR’s relationship to market orientation
+have looked at CSR in its entirety other than its dimensions (see for example; Maignan et al.,
+1999). This study is inspired by a similar approach. We arrived at the overall CSR after taking a
+composite measure of the four individual factors. In measuring the extent to which the
+telecommunication companies were innovative, use is made of Calantone et al.’s (2002) scale.
+Calantone et al. (2002) underscore that firm innovativeness involves openness to new ideas as
+an aspect of a firm’s culture by a willingness to try out new ideas, seek out new ways to do
+things, be creative in its methods of operation and rate of product introduction. All questions
+measuring innovation, CSR, and market orientation were presented in the form of affirmative
+statements asking managers of the sampled telecommunication companies to score their
+level of agreement with the statements on a five-point Likert scale ranging from 1 ¼ ‘‘strongly
+disagree’’ to 5 ¼ ‘‘strongly agree’’. One approach to measuring the degree to which
+companies practice various strategic orientations is to rely on the perceptions of managers.
+Indeed, there is precedent for the use of this particular approach in both theory generation
+(e.g. Narver and Slater, 1990; Kohli and Jaworski, 1990; Kohli et al., 1993) and theory testing
+(see for example, Maignan et al., 1999; Calantone et al., 2002; Keskin, 2006; Qu, 2009)
+research studies found in the management literature. Thus, the present research did not
+detract from normal practice in the scientific literature. Besides, in developing countries such
+as Ghana, it is often difficult to obtain objective documentary information; in most cases, such
+information is deemed by companies as classified information, not open to outsiders (Ofori
+and Hinson, 2007).
+Following the latter submission, in operationalizing business performance, a five-item scale
+covering service quality, customer satisfaction, employee satisfaction, gross profit margin,
+and market share was adopted from Agarwal et al. (2003). Agarwal et al. (2003, p. 74)
+underscore that ‘‘[. . .] judgmental measures of performance that include customer
+satisfaction, employee satisfaction, and service quality, are important prerequisite for
+profitability or objective measures of performance [. . .]’’. Managers were asked to assessed
+the items on a five point Likert scale of 1 ¼ ‘‘much worse than competitors’’ to 5 ¼ ‘‘much
+better than competitors’’. We later dropped the items of service quality, customer
+satisfaction, and employee satisfaction from the measure of business performance due to
+
+j
+
+j
+
+PAGE 334 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+their weak reliabilities. It is important to state that these works were adapted following
+scholars’ (Wright and Kearns, 1998) suggestions for replicating existing marketing
+constructs, and considering the rigor with which the measurement instruments were
+developed. Furthermore, replication of existing marketing scale is not without precedent; for
+example, Qu (2009) adapted the CSR scale developed by Maignan et al. (1999) in his study
+of Chinese hotels. The questionnaire details are provided as an appendix.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Sampling and data collection
+Data was drawn from a quantitative survey of marketing managers and executives of all
+telecommunication companies operating in Ghana. The sample used for this study was a
+convenience sample – the use of convenience samples has been found relevant in previous
+studies (see Hall and Lockshin, 2000; Blankson and Stokes, 2002; Osuagwu, 2006;
+Mahmoud et al., 2010). Managers were considered because it is believed that their position
+in their organizations gives them much control over the issues under investigation (see
+Narver and Slater, 1990; Maignan et al., 1999; Calantone et al., 2002; Keskin, 2006).
+Following a limited pilot study in which the questionnaire used for data collection was
+pre-tested on a group within the research population in order to establish the questionnaire’s
+content validity, few adjustments were made on the questionnaire before final administration.
+In addressing issues related to the questionnaire’s content validity, best practice criterion
+suggested by (Churchill, 1995) was applied. This included conducting among other things a
+series of personal interviews involving relevant academics and professionals in marketing.
+The main research data were obtained through a questionnaire administered to the
+convenience sample of 200 managers from marketing related departments (marketing,
+sales, customer service, innovation, business development, corporate services and social
+responsibilities) of the telecommunication companies operating in the national capital
+Accra. The scope was limited to Accra because all the companies located their head offices
+in the capital. With the help of some research assistants from the University of Ghana
+Business School, questionnaires with introductory letters were hand-delivered to
+respondents. Respondents were guaranteed confidentiality, and promised an incentive
+(by making the research paper available to them if they so desire) for participating in the
+research. In Sub-Saharan Africa, past studies (e.g. Osuagwu, 2006) found the use of
+incentives to be an excellent method for encouraging managers to participate in research.
+Of the 200 copies of questionnaire administered, 115 copies were found useable, resulting
+in an effective response rate of 57.5 percent percent. In line with Gounaris and Avlonitis
+(2001) and Osuagwu (2006), a higher response rate might not have been possible because
+of the confidential nature of some of the information requested. Nevertheless, response rates
+ranging from 12 to 20 percent are considered acceptable in cross-sectional studies of this
+kind (Churchill, 1995). In fact, not all the completed questionnaires were collected in one tell
+swoop. There were some late respondents. In view of this, we followed Armstrong and
+Overton’s (1977) guidelines and conducted independent sample t-tests for differences
+between early and late respondents to check for non-response bias. All t-tests indicated an
+absence of significant differences between the means of the two groups at the 0.01 level,
+suggesting that the sample for this research is free from response bias. Biographic data
+collected are presented in Table II.
+Validation of research constructs
+The dimensionality of the scale items was explored via factor analysis using principal
+component analysis with orthogonal rotation as the extraction method. Since items measuring
+the same factors must have consistent substantive meaning, a content analysis was conducted
+to purify the uncovered factors. Items with factor loadings less than 0.4 were removed from the
+domain of each scale. Again all items indicating low correlations with the total were removed
+from each scale. Consistent with Blankson and Stokes (2002), convergent validity was
+determined via factor analysis where the extracted factors could be viewed as an array of
+common underlying dimensions of the four research constructs. Using a zero-order correlation
+coefficients (not reported here) and the reliability coefficients, in addition to the results from the
+pilot study, the stability of the research constructs in terms of predictive validity is also
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 335
+
+Table II Biographic data
+Construct
+
+Classification
+
+Number
+
+%
+
+History
+
+Less than 5 years
+6-10 years
+11-20 years
+More than 20 years
+Missing
+
+50
+4
+34
+26
+1
+
+43.5
+3.5
+29.6
+22.6
+0.9
+
+Ownership
+
+Local-private
+Foreign
+Joint-venture
+Missing
+
+6
+81
+27
+1
+
+5.2
+70.4
+23.5
+0.9
+
+Annual revenue
+
+1-5m (GHC)
+More than 5 (GHC)
+Missing
+
+7
+105
+4
+
+6.1
+90.4
+3.5
+
+Employee size
+
+10-20
+21-30
+More than 30
+
+1
+2
+112
+
+0.9
+1.7
+97.4
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+supported (Blankson and Stokes, 2002; Osuagwu, 2006). In particular, the standardized factor
+loadings for all items are above the suggested cut-off of 0.4 (Hair et al., 1995), given a minimum
+of 0.549, Eigen-values for the pre-specified factors range from 1.13 to 3.77, item-to-total
+correlations were ranging from moderate to very strong, and Cronbach alpha for all research
+constructs exceeded the 0.7 criterion recommended by (Nunnally, 1978). Moreover the
+correlations (refer to Table III) between the main constructs namely market orientation, CSR,
+innovation and business performance were all less than unity demonstrating satisfactory level
+of validity (Bagozzi and Yi, 1991). Clearly, from Tables III and IV, it is shown that the
+dimensionality and reliability of the factors for all research constructs are quite reliable and
+acceptable. On this premise, using these constructs, tests of hypotheses were undertaken in
+the next section to investigate the relationships among the research constructs.
+
+Analysis and results
+To verify the influence of market orientation, CSR, and innovation on business performance,
+we perform regression analysis. Starting with mode 4 in Table V, which shows that in the
+absence of both CSR and innovation, market orientation is significantly and positively related
+to business performance (b ¼ 0.310; R 2¼0.096; DF ¼ 87; p , 0.01). Interestingly, as can
+be inferred from the R 2 value market orientation only slightly (9 percent) explains the
+variance in the business performance. Model 5 shows the direct and significant effect of
+CSR on business performance where social responsibility accounts for about 12 percent of
+the variations in business performance (b¼ 0.351; R 2¼ 0.123; DF ¼ 83; p , 0.01).
+Innovation is shown in model 6 to have the most substantial positive impact on business
+performance accounting for up to 18 percent of the changes in the latter (b ¼ 0.427;
+R 2¼0.183; DF ¼ 106; p , 0.001).
+Table III Descriptive statistics and correlations
+Research construct
+
+MO
+
+CSR
+
+INO
+
+BP
+
+Market orientation (MO)
+Corporate social responsibility (CSR)
+Innovation (INO)
+Business performance (BP)
+Mean
+Standard deviation
+
+1
+0.785**
+0.631**
+0.310**
+4.0380
+0.5294
+
+1
+0.602**
+0.351**
+4.0996
+0.4931
+
+1
+0.427**
+4.2259
+0.6230
+
+1
+3.5183
+0.1404
+
+Note: *Correlations significant at the 0.01 level (2-tailed)
+
+j
+
+j
+
+PAGE 336 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+Table IV Factor analysis and reliability test
+Number of
+items
+
+Eigen-value
+
+Factor
+loadings
+
+Market orientation
+Intelligence generation
+Intelligence dissemination
+Intelligence responsiveness
+Marketing culture
+
+2
+5
+6
+6
+
+1.13
+2.50
+2.89
+2.99
+
+0.833-0.863
+0.549-0.898
+0.583-0.784
+0.562-0.789
+
+Corporate social responsibility (CSR)
+Economic responsibility
+Legal responsibility
+Ethical responsibility
+Discretionary responsibility
+Innovation
+
+5
+7
+5
+5
+4
+
+2.40
+3.77
+2.64
+2.31
+2.59
+
+0.650-0.764
+0.595-0.829
+0.653-0.841
+0.618-0.771
+0.642-0.893
+
+Business Performance
+
+2
+
+1.83
+
+0.955-0.960
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Research construct
+
+Total
+variance (%)
+
+Item-to-total
+correlation
+
+68.83
+
+Composite
+reliability
+0.843
+
+0.440-440
+0.492-0.616
+0.496-0.640
+0.485-0.657
+68.53
+
+0.848
+
+66.51
+
+0.456-0.522
+0.485-0.727
+0.429-0.692
+0.432-0.519
+0.463-0.734
+
+0.809
+
+91.69
+
+0.834-0.834
+
+0.909
+
+Table V Standardized regression coefficients for the interrelationship between market orientation, CSR, innovation and
+business performance
+Independent variable
+(s)
+
+Model 1
+(CSR)
+
+Model 2
+(INO)
+
+MO
+CSR
+INO
+R2
+Adjusted R 2
+F
+DF
+
+0.785**
+
+0.631**
+
+Model 3
+(INO)
+
+Dependent variable
+Model 4
+Model 5
+Model 6
+(BP)
+(BP)
+(BP)
+0.310*
+
+0.602**
+0.616
+0.611
+12.44
+70
+
+0.399
+0.392
+58.97
+89
+
+0.362
+0.354
+48.21
+85
+
+0.351*
+0.096
+0.086
+9.26
+87
+
+0.123
+0.112
+11.64
+83
+
+0.427**
+0.183
+0.175
+23.68
+106
+
+Model 7
+(BP)
+
+Model 8
+(BP)
+
+Model 9
+(BP)
+
+0.031
+0.464*
+
+20.048
+
+20.215
+0.291
+0.560**
+0.394
+0.367
+14.11
+65
+
+0.239
+0.216
+10.53
+67
+
+0.551*
+0.273
+0.256
+15.94
+85
+
+Note: *p value is significant at the 0.01 level; **p value is significant at the 0.001 level; MO=market orientation; CSR=corporate social
+responsibility; INO=innovation; BP=business performance
+
+In model 1 market orientation significantly and positively determines CSR (b ¼ 0.785;
+R 2¼ 0.616; DF ¼ 70; p , 0.001) explaining over 60 percent of the variance in CSR.
+Similarly, model 2 shows that market orientation is a significant and positive factor for firm
+innovativeness with the former accounting for about 40 percent of the variance in the
+latter (b ¼ 0.631; R 2¼0.399; DF ¼ 89; p , 0.001). Model 3 also indicates that CSR
+predicts over 30 percent of changes in firm innovativeness (b ¼ 0.602; R 2¼ 0.362;
+DF ¼ 85; p , 0.001). Model 7 shows the relationship between market orientation, CSR
+and business performance. In particular, when the measures of CSR and market
+orientation are included into regression model 7 with the aim of predicting business
+performance, the relationship between market orientation and business performance
+became statistically insignificant (b ¼ 0.031, not significant). Only the relationship
+between CSR and business performance could retain its statistical significance
+(b ¼ 0.464, p , 0.01).
+In a similar fashion, model 8 highlights that when business performance (the dependent
+variable) is regressed against market orientation and innovation (as the independent
+variables), the relationship between market orientation and business performance changes
+to negative and insignificant (b ¼ 2 0.048, not significant). However, innovation was still
+significant and positively related to business performance (b ¼ 0.551, p , 0.001). These
+findings suggest that both CSR and innovation mediate the relationship between market
+orientation and business performance (Baron and Kenny, 1986). For mediation to prevail
+(among a dependent variable, a mediator variable, and an independent variable),
+according to Baron and Kenny (1986), the following conditions must exist:
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 337
+
+B
+
+The independent variable is significantly associated with the mediator.
+
+B
+
+The independent variable is significantly associated with the dependent variable in the
+absence of the mediator.
+
+B
+
+The mediator variable is significantly associated with the dependent variable.
+
+B
+
+When the independent variable and the mediator variable are controlled, a previously
+significant relationship between the independent variable and dependent variable is no
+longer significant (for a full mediation) or it is significantly decreased (for a partial
+mediation) (see Baron and Kenny, 1986, for a complete commentary on mediation).
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Results in Table V above seem to indicate that these conditions are fully met with respect to
+the relationship between market orientation, CSR and business performance, or that
+between market orientation, innovation and business performance. In fact, it appears in
+model 9 that innovation will also mediate the relationship between CSR and business
+performance. As can be seen from the regression model 9, when we controlled innovation,
+CSR and market orientation in an attempt to predict business performance, we found a
+significant relationship only between innovation and business performance (b ¼ 0.551,
+p , 0.001). The relationship between market orientation and business performance was
+again negative and insignificant (b ¼ 2 0.215, not significant) whilst that of CSR and
+performance was positive but with no statistical power (b ¼ 0.291, not significant). In other
+words, with the inclusion of innovation into regression model 7, business performance’
+relationship to market and CSR diminish considerable to almost non-existent. In short, as
+depicted in Table VI, we found full support for all the six research hypotheses.
+
+Discussions and implications
+This study has extended the Qu (2009) study that examined the joint effects of market
+orientation and CSR on firm performance by integrating innovation in the model. How does
+innovation function in the relationship between market orientation and business
+performance? And how does CSR affect innovative performance when complemented
+with market orientation? These were the two research questions that distinguished between
+the present study and Qu’s (2009) work. In answering these research questions this study
+developed six hypotheses from an extensive review of prior scholarships, which were later
+tested in a sample of telecommunication companies in Ghana. The choice of the
+telecommunication industry as a reference point is due to its growing significance in the
+Ghanaian economy, the active engagement of companies in this sector in social activities
+which positioned them as socially responsible citizens, and the dearth of literature on the
+telecommunication sector globally as regard the incidence of market orientation, CSR, and
+their impact on innovative performance.
+Consistent with some prior studies in their respective areas, the present research confirms
+that market orientation (e.g. Selnes et al., 1996; Kurtinaitiene, 2005; Mahmoud et al., 2010),
+CSR (e.g. Fombrun and Shanley, 1990; Waddock and Graves, 1997; Maignan et al., 1999;
+Luo and Bhattacharya, 2006), and innovation (e.g. Zahra and Covin, 1993; Yamin et al.,
+1999; Calantone et al., 2002; Low et al., 2007) individually have significant positive impacts
+on business performance. But, as shown in their respective R 2 values, we conjecture that
+innovation is the most important determinant of firm performance explaining up to 18 percent
+Table VI Results of hypotheses testing
+Research hypothesis
+H1
+H2
+H3
+H4
+H5
+H6
+
+j
+
+j
+
+PAGE 338 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+Expected sign
+
+Test result
+
+þ
+þ
+þ
+þ
+þ
+þ
+
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+of the changes in the performance of the sample, which is significantly greater than the
+individual contribution of either market orientation (9 percent) or CSR (12 percent). These
+findings concur largely with Calantone et al. (2002, p. 517) that innovation capability is the
+most important predictor of organizational effectiveness. Suffice it to say that the contribution
+of CSR is also significantly greater than that of market orientation. When either CSR or
+innovation is practiced simultaneously with market orientation, only the significant impact of
+CSR or innovation is reported. Again, the variance in performance as explained by ‘‘CSR
+and market orientation together’’ or ‘‘innovation and market orientation together’’ is much
+greater than what is explained by market orientation alone. Therefore, our findings echo
+authors who seem to argue that the market orientation-business performance relationship is
+mediated by innovation (Han et al., 1998; Agarwal et al., 2003; Carmen and José, 2008) or
+CSR (Maignan et al., 1999; Qu, 2007, 2009). On this basis, we can conveniently assert that
+both innovation and CSR are key mediators in the market orientation-business performance
+relationship.
+As underscored by Maignan et al. (1999), market-oriented cultures are conducive for
+proactive corporate citizenship. This assertion is reinforced by the present study’s findings
+which suggest that market orientation facilitates the practice of CSR. This may be explained
+by the fact that ‘‘the implication of a given magnitude of market orientation is that a business
+is, to some extent, sensitive and responsive to any stakeholder or issue that may affect its
+long-term performance’’ (Narver and Slater, 1990, p. 34). In addition, according to the
+results, both CSR and market orientation are antecedents of organizational innovativeness.
+By implication, innovative firms are invariably market-oriented (Maydeu-Olivares and Lado,
+2003; Carmen and José, 2008), and are more likely to be responsible corporate citizens (see
+Bartlett, 2009, for a discussion on CSR and innovation).
+With regard to the study’s theoretical implications, the results indicate that market orientation
+does not operate in isolation from other sources of competitive advantage. In other words,
+though a market-oriented culture is important to stimulate business performance, this study
+emphasizes that the co-adoption of market orientation strategy and other strategic
+orientations, such as innovation and CSR initiatives, has far more positive implication to
+business performance. In this connection, we agree perfectly with Slater and Narver’s (1995,
+p. 63) proposition that creating a market orientation should only be the starting point. Again,
+in contrast to existing marketing research that stress the direct effect of CSR on business
+performance (Balabanis et al., 1998; Luo and Homburg, 2007; Prado-Lorenzo et al., 2008),
+our research indicates that CSR may be more useful in firms that are more innovative in
+nature. Overall, this chained relationship from CSR to innovation to a firm’s business
+performance that includes market share and profitability suggests that innovativeness
+represents one of the underlying pathways through which the financial potential of CSR is
+realized and capitalized. The notion that the extent to which CSR is beneficial to the firm is
+determined by how much CSR drives innovation points further research in a more precise
+direction when evaluating the ultimate impact of CSR.
+Practically, our findings on the role of innovation in this study may improve managers
+understanding of why innovation matters. Specifically, this study affirms that the
+interrelationship between market orientation and innovation has been recognized as one
+of the key factors in performance (see Maydeu-Olivares and Lado, 2003; Agarwal et al.,
+2003; Carmen and José, 2008 for a discussion on innovation and market orientation). The
+present study provides some support that innovation facilitates the conversion of
+market-oriented business philosophy into superior corporate performance. Integrating an
+innovation strategy into a firm’s market orientation strategy should provide a more coherent
+and comprehensive market development road map for the organization to follow. In line with
+Carmen and José (2008), the concept of market orientation, by which firms aim to develop
+an offer which creates greater value for their customers, does not restrict innovation strategy,
+but rather acts as a spur, since an effort is made to become aware of and anticipate the
+needs of customers in order to adapt innovations to their expectations. This research
+suggests that the predominant sources of ideas for new products/services in services sector
+are the marketing activities, which implies that the magnitude and the effectiveness of the
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 339
+
+innovation activities of a service organization can be enhanced through the adoption of
+market orientation principles (Maydeu-Olivares and Lado, 2003).
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Furthermore, Brown and Dacin (1997, p. 68) cited a marketer who pondered that ‘‘we do all
+good things [. . .] but we don’t know if we get anything out of it.’’ Apparently, the decision to
+undertake CSR activities is an important issue with strong managerial implications since
+prudent managers are confronted with tough choices in allocating their limited resources and
+in prioritizing different strategic initiatives. Indeed, according to our results, marketers that
+focus on ‘‘doing good’’ (CSR) will position their organizations to achieve a superior business
+performance. Though this may not be guaranteed, innovation is particularly necessary to
+transfer both market-oriented corporate culture and CSR activities into superior performance
+outcomes. Our findings suggest that, beyond customer satisfaction (Luo and Bhattacharya,
+2006) and improved corporate image (Prado-Lorenzo et al., 2008), CSR would stimulate
+company’s business performance especially in terms of market share and gross profit margin
+with innovation as the core competence for which CSR activities would drive greater
+performance. These findings are hardly surprising in that past studies have shown that ‘‘[. . .]
+without proper support of corporate abilities, such as innovativeness, CSR can be harmful to
+firm performance’’ (Luo and Bhattacharya, 2006, p. 16). In this conception, it is imperative that
+managers consider CSR initiatives in the light of the firm’s corporate abilities. When managers
+fail to align their CSR initiatives with internal factors, they put their organization at risk which
+could potentially lead to poor market performance (Luo and Bhattacharya, 2006). It is
+therefore reasonable that marketing managers carefully scrutinize the organizational context
+in totality before implementing CSR initiatives (Holmes and Moir, 2007).
+
+Conclusions, limitations and future research
+This research concludes that the market orientation-performance relationship can be more
+complex than expected with firms having to rely on some competences in order to turn the
+former into a successful business strategy. According to this study, two of such key
+competences are CSR and innovation. Our findings seem to indicate that even ‘‘doing
+good’’ requires a sense of innovation for it to trigger any significant financial performance for
+the business. The findings of the present study supported all six hypotheses relating to the
+research model, thereby, confirming the significance of innovation for both CSR and market
+orientation strategies. Moreover, the uncovered mediated results provide marketing
+practitioners with better understanding of the market orientation’s pathway to business
+performance. The methodological limitations encountered whilst completing the study are
+carefully discussed below.
+The study relied solely on information provided by managers and executives working in
+marketing related positions. In essence, the data gathered are reflective of managers’
+evaluation of market orientation, CSR, innovation and business performance as measured in
+terms of market share and profitability. Scholars argued that organizational activities are
+better depicted when multi-informant research design is used (Maignan et al., 1999).
+Therefore, this caveat may be addressed by future research that combines managers’
+evaluation with a survey of consumers, employees, and other relevant stakeholders,
+comparing non-intuitive measures of customers, for instance, with managers’ evaluation to
+establish the true facts. This will be the focus of our next line of research.
+It is further suggested that future research in the area use longitudinal design and objective
+performance measures. In so doing, the financial statements of companies, for instance,
+may be studied over three or more years in order to detect the direction of changes in the
+level of key financial performance indicants. Again, this may be compared with managers’
+evaluation to ascertain similarities and differences in results. It is worthy of note that some
+market orientation studies, for instance, reported positive effects of market orientation on
+subjective performance measures, yet when objective performance indicators were used,
+the findings have been mixed (Maydeu-Olivares and Lado, 2003; Osuagwu, 2006).
+In addition, there is need for an examination of the themes covered by CSR in the telecom
+sector and the extent to which the CSR activities of telecom companies in Ghana address
+
+j
+
+j
+
+PAGE 340 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+relevant themes (i.e. social and environmental problems associated with telecom). The
+present study’s replication of the existing CSR scale did not allowed us to identify these
+themes, and so we propose to undertake this in our future study. Finally, a comparative
+analysis between industries or countries in different geographical and cultural areas could
+generate an interesting line of future research. The obtainment of results similar to those in
+this study in other industries or countries would allow their generalization.
+
+References
+Agarwal, S., Erramilli, K. and Dev, C. (2003), ‘‘Market orientation and performance in service firms: role of
+innovation’’, Journal of Services Marketing, Vol. 17 No. 1, pp. 68-82.
+Appiah-Adu, K. and Ranchhod, A. (1998), ‘‘Market orientation and performance in the biotechnology
+industry: an exploratory empirical analysis’’, in Appiah-Adu, K. (Ed.), Strategic Orientation and Business
+Performance, Graphic Packaging, Accra, pp. 154-78.
+Armstrong, S. and Overton, T.S. (1977), ‘‘Estimating non-response bias in mail surveys’’, Journal of
+Marketing Research, Vol. 14, August, pp. 396-402.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Atuahene-Gima, K. (1996), ‘‘Market orientation and innovation’’, Journal of Business Research, Vol. 35
+No. 2, pp. 93-103.
+Aupperle, K.E., Carroll, A.B. and Hatfield, J.D. (1985), ‘‘An empirical examination of the relationship
+between corporate social responsibility and profitability’’, Academy of Management Journal, Vol. 28
+No. 2, pp. 446-63.
+Bagozzi, R.P. and Yi, Y. (1991), ‘‘Multitrait-multimethod matrices in consumer research’’, Journal of
+Consumer Research, Vol. 17 No. 4, pp. 426-39.
+Baker, W.E. and Sinkula, J.M. (1999), ‘‘The synergistic effect of market orientation on organizational
+performance’’, Journal of the Academy of Marketing Science, Vol. 27 No. 4, pp. 411-27.
+Balabanis, G., Phillips, H. and Lyall, J. (1998), ‘‘Corporate social responsibility and economic performance
+in the top British companies: are they linked?’’, European Business Review, Vol. 98 No. 1, pp. 25-44.
+Baron, R.M. and Kenny, D.A. (1986), ‘‘The moderator-mediator variable distinction in social
+psychological research: conceptual, strategic and statistical consideration’’, Journal of Personality
+and Social Psychology, Vol. 51 No. 6.
+Bartlett, D. (2009), ‘‘Embedding corporate responsibility: the development of a transformational model
+of organizational innovation’’, Corporate Governance, Vol. 9 No. 4, pp. 409-20.
+Bigne, E., Kuster, I. and Toran, F. (2003), ‘‘Market orientation and industrial salesforce: diverse measure
+instruments’’, Journal of Business & Industrial Marketing, Vol. 18 No. 1, pp. 59-81.
+Blankson, C. and Stokes, D. (2002), ‘‘Marketing practices in the UK small business sector’’, Marketing
+Intelligence & Planning, Vol. 20 No. 1, pp. 49-61.
+Borger, F.G. and Kruglianskas, I. (2006), ‘‘Corporate social responsibility and environmental and
+technological innovation performance: case studies of Brazilian companies’’, International Journal of
+Technology, Policy and Management, Vol. 6 No. 4, pp. 399-412.
+Bowen, H.R. (1953), Social Responsibilities of the Businessman, Harper & Brothers, New York, NY.
+Brown, T.J. and Dacin, P.A. (1997), ‘‘The company and the product: corporate associations and
+consumer product responses’’, Journal of Marketing, Vol. 61, January, pp. 68-84.
+Calantone, R.J., Cavusgil, S.T. and Zhao, Y. (2002), ‘‘Learning orientation, firm innovation capability and
+firm performance’’, Industrial Marketing Management, Vol. 31 No. 6, pp. 515-24.
+Carmen, C. and José, G.M. (2008), ‘‘The role of technological and organizational innovation in the
+relation between market orientation and performance in cultural organizations’’, European Journal of
+Innovation Management, Vol. 11 No. 3, pp. 413-34.
+Carroll, A.B. (1979), ‘‘A three-dimensional conceptual model of corporate performance’’, Academy of
+Management Review, Vol. 4 No. 4, pp. 497-505.
+Churchill, G.A. (1995), Marketing Research: Methodological Foundations, 5th ed., The Dryden Press,
+London.
+Clarke, S. and Roome, N. (1999), ‘‘Sustainable business: learning-action networks as organizational
+assets’’, Business Strategy and the Environment, Vol. 8, pp. 296-310.
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 341
+
+D’Amato, A. and Roome, N. (2009), ‘‘Leadership of organizational change: toward an integrated model
+of leadership for corporate responsibility and sustainable development: a process model of corporate
+responsibility beyond management innovation’’, Corporate Governance, Vol. 9 No. 4, pp. 421-34.
+Damanpour, F., Walker, R.M. and Avellaneda, C.N. (2009), ‘‘Combinative effects of innovation types and
+organizational performance: a longitudinal study of service organizations’’, Journal of Management
+Studies, Vol. 46 No. 4, pp. 650-75.
+Davis, K. (1960), ‘‘Can business afford to ignore social responsibilities?’’, California Management
+Review, Vol. 2 No. 3, pp. 70-6.
+Deshpande, R., Farley, I.C. and Webster, F.E. (1993), ‘‘Corporate culture, customer orientation and
+innovativeness in Japanese firms’’, Journal of Marketing, Vol. 57, January, pp. 23-7.
+Drucker, P. (1984), ‘‘The new meaning of corporate social responsibility’’, California Management
+Review, Vol. 26 No. 2, pp. 53-63.
+Esteban, A., Millan, A., Molina, A. and Martin-Consuegra, D. (2001), ‘‘Market orientation in service: a
+review and analysis’’, Journal of Marketing, Vol. 36 Nos 9/10, pp. 1003-21.
+Fey, C.F. and Birkinshaw, J. (2005), ‘‘External sources of knowledge, governance mode, and R&D
+performance’’, Journal of Management, Vol. 31 No. 4, pp. 597-621.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Fombrun, C.J. and Shanley, M. (1990), ‘‘What’s in a name: reputation building and corporate strategy’’,
+Academy of Management Journal, Vol. 33 No. 2, pp. 213-32.
+Frempong, G. and Henten, A. (2004), ‘‘Telecom developments and investments in Ghana’’, Discussion
+paper: WDR 0305, The World Dialogue on Regulation for Network Economies.
+(The) Ghana News Agency (GNA) (2009), ‘‘Telecommunications contribution to Ghana’s Economy: MTN
+GH222.8 million in 2008’’, available at: www.cedipost.com/business/telecommunications-contributionto-ghanas-economy-mtn-gh222-8-million-in-2008.html (accessed 5 October 2009).
+(The) Ghana News Agency (GNA) (2010), ‘‘Communication tax bags ¢26m for first quarter’’, available at:
+www.modernghana.com/news/279250/22/communication-tax-bags-26m-for-first-quarter.html
+(accessed 9 June 2010).
+Gounaris, S.P. and Avlonitis, G.J. (2001), ‘‘Market orientation development: a comparison of industrial vs
+consumer goods companies’’, Journal of Business & Industrial Marketing, Vol. 6 No. 5, pp. 354-81.
+Green, K.W. Jr, Inman, R.A., Brown, G. and Wilis, T.H. (2005), ‘‘Market orientation: relation to structure
+and performance’’, Journal of Business & Industrial Marketing, Vol. 20 No. 6, pp. 276-84.
+Greenley, G.E. (1995), ‘‘Market orientation and company performance: empirical: evidence from UK
+companies’’, British Journal of Management, Vol. 6 No. 1, pp. 1-13.
+Guo, C. (2002), ‘‘Market orientation and business performance: a framework for service organizations’’,
+European Journal of Marketing, Vol. 36 Nos 9/10, pp. 1154-63.
+Gyves, S. and O’Higgins, E. (2008), ‘‘Corporate social responsibility: an avenue for sustainable benefit
+for society and the firm?’’, Society and Business Review, Vol. 3 No. 3, pp. 207-23.
+Hair, J.F. Jr, Anderson, R.E., Tatham, R.L. and Black, W.G. (1995), Multivariate Data Analysis, 4th ed.,
+Prentice Hall, Englewood Cliffs, NJ.
+Hall, J. and Lockshin, L. (2000), ‘‘Using means-end chains for analyzing occasions-not buyers’’,
+Australasian Marketing Journal, Vol. 8 No. 1, pp. 45-54.
+Han, J.K., Kim, N. and Srivastava, R.K. (1998), ‘‘Market orientation and organizational performance: is
+innovation a missing link?’’, Journal of Marketing, Vol. 62 No. 4, pp. 30-45.
+Harris, C. (2000), ‘‘The organizational barriers to developing market orientation’’, European Journal of
+Marketing, Vol. 34 Nos 5/6, pp. 598-624.
+Holmes, S. and Moir, L. (2007), ‘‘Developing a conceptual framework to identify corporate innovations
+through engagement with non-profit stakeholders’’, Corporate Governance: The International Journal of
+Business in Society, Vol. 7 No. 4, pp. 414-22.
+Homburg, C. and Pflesser, C. (2000), ‘‘A multiple-layer model of market-oriented organizational culture:
+measurement issues and performance outcomes’’, Journal of Marketing Research, Vol. 37 No. 4,
+pp. 449-62.
+Hult, G.T.M., Hurley, R.F. and Knight, G.A. (2004), ‘‘Innovativeness: its antecedents and impact on
+business performance’’, Industrial Marketing Management, Vol. 33 No. 5, pp. 429-38.
+
+j
+
+j
+
+PAGE 342 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+Hurley, F.B. and Hult, G.T.M. (1998), ‘‘Innovation, market orientation and organizational learning:
+an integration and empirical examination’’, Journal of Marketing, Vol. 62, pp. 42-54.
+Jiménez-Jimenez, D., Valle, R.S. and Hernandez-Espallardo, M. (2008), ‘‘Fostering innovation: the role
+of market orientation and organizational learning’’, European Journal of Innovation Management, Vol. 11
+No. 3, pp. 389-412.
+Keskin, H. (2006), ‘‘Market orientation, learning orientation, and innovation capabilities in SMEs:
+an extended model’’, European Journal of Innovation Management, Vol. 9 No. 4, pp. 396-417.
+Kohli, A.K. and Jaworski, B.J. (1990), ‘‘Market orientation: the construct, research propositions, and
+managerial implications’’, Journal of Marketing, Vol. 54, April, pp. 1-18.
+Kohli, A.K., Jaworski, B.J. and Kumar, A. (1993), ‘‘MARKOR: a measure of market orientation’’, Journal of
+Marketing Research, Vol. 30, November, pp. 467-77.
+Kolar, T. (2006), ‘‘Benchmarking market orientation of banks in transitional markets: exploring a modified
+approach’’, International Journal of Bank Marketing, Vol. 24 No. 2, pp. 76-97.
+Kurtinaitiene, J. (2005), ‘‘Marketing orientation in the European Union mobile telecommunication
+market’’, Marketing Intelligence & Planning, Vol. 23 No. 1, pp. 104-13.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Lee, T. and Tsai, H. (2005), ‘‘The effects of business operation mode on market orientation, learning
+orientation and innovativeness’’, Industrial Management & Data, Vol. 105 No. 3, pp. 325-48.
+Li, T. and Calantone, R.J. (1998), ‘‘The impact of market knowledge competence on new product
+advantage: conceptualization and empirical examination’’, Journal of Marketing, Vol. 62 No. 4, pp. 13-29.
+Lin, C.H., Peng, C.H. and Kao, D.T. (2008), ‘‘The innovativeness effect of market orientation and learning
+orientation on business performance’’, International Journal of Manpower, Vol. 29 No. 8, pp. 752-72.
+Low, D.R., Chapman, R.L. and Sloan, T.R. (2007), ‘‘Inter-relationships between innovation and market
+orientation in SMEs’’, Management Research News, Vol. 30 No. 12, pp. 878-91.
+Luo, X. and Bhattacharya, C.B. (2006), ‘‘Corporate social responsibility, customer satisfaction, and
+market value’’, Journal of Marketing, Vol. 70, October, pp. 1-18.
+Luo, X. and Homburg, C. (2007), ‘‘Neglected outcomes of customer satisfaction’’, Journal of Marketing,
+Vol. 71 No. 2, pp. 133-49.
+McGuire, J.W. (1963), Business and Society, McGraw-Hill, New York, NY.
+McGuire, J., Sundgren, A. and Schneeweis, T. (1988), ‘‘Corporate social responsibility and firm financial
+performance’’, Academy of Management Journal, Vol. 31 No. 4, pp. 854-72.
+McGuire, J., Thomas, S. and Ben, B. (1990), ‘‘Perceptions of firm quality: a cause or result of firm
+performance’’, Journal of Management, Vol. 16 No. 1, pp. 167-80.
+Mahmoud, M.A., Kastner, A. and Yeboah, J. (2010), ‘‘Antecedents, environmental moderators and
+consequences of market orientation: a study of pharmaceutical firms in Ghana’’, Journal of Medical
+Marketing, Vol. 10 No. 3, pp. 231-44.
+Maignan, I., Ferrell, O.C. and Hult, G.T.M. (1999), ‘‘Corporate citizenship: cultural antecedents and
+business benefits’’, Journal of the Academy of Marketing Science, Vol. 27 No. 4, pp. 455-69.
+Maydeu-Olivares, A. and Lado, N. (2003), ‘‘Market orientation and business economic performance:
+a mediated model’’, International Journal of Service Industry Management, Vol. 14 No. 3, pp. 284-309.
+Narver, J. and Slater, S. (1990), ‘‘The effect of a market orientation on business profitability’’, Journal of
+Marketing, Vol. 54, October, pp. 20-35.
+Nunnally, J.C. (1978), Psychometric Theory, 2nd ed., McGraw-Hill, Sydney.
+Ofori, D.F. and Hinson, R.E. (2007), ‘‘Corporate social responsibility (CSR) perspectives of leading firms
+in Ghana’’, Corporate Governance, Vol. 7 No. 2, pp. 178-93.
+Osuagwu, L. (2006), ‘‘Market orientation in Nigerian companies’’, Marketing Intelligence & Planning,
+Vol. 24 No. 6, pp. 608-31.
+Ozer, A., Kocak, A. and Celik, O. (2006), ‘‘Determinants of market orientation in accounting firms’’,
+Marketing Intelligence & Planning, Vol. 24 No. 6, pp. 591-607.
+Pelham, A. and Wilson, D. (1996), ‘‘A longitudinal study of the impact of market structure, firm structure,
+strategy, and market orientation culture on dimensions of performance’’, Journal of the Academy of
+Marketing Sciences, Vol. 24 No. 1, pp. 27-43.
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 343
+
+Perry, L. and Shao, T. (2002), ‘‘Market orientation and incumbent performance in dynamic market’’,
+European Journal of Marketing, Vol. 36 Nos 9/10, pp. 1140-53.
+Pitt, L., Caruana, A. and Berthon, P. (1996), ‘‘Market orientation and business performance: some
+European evidence’’, International Marketing Review, Vol. 13 No. 1, pp. 5-18.
+Prado-Lorenzo, J.M., Gallego-Álvarez, I., Garcıá-Sánchez, I.M. and Rodrı́guez-Domı́nguez, L. (2008),
+‘‘Social responsibility in Spain: practices and motivations in firms’’, Management Decision, Vol. 46 No. 8,
+pp. 1247-71.
+Qu, R. (2007), ‘‘Corporate social responsibility in China: impact of market orientation’’, Chinese
+Management Studies, Vol. 1 No. 3, pp. 198-207.
+Qu, R. (2009), ‘‘The impact of market orientation and corporate social responsibility on firm performance:
+evidence from China’’, Asia Pacific Journal of Marketing and Logistics, Vol. 21 No. 4, pp. 570-82.
+Ruekert, R.W. (1992), ‘‘Developing a market orientation: an organizational strategy perspective’’,
+International Journal of Research in Marketing, Vol. 9 No. 3, pp. 225-45.
+Selnes, F., Jaworski, D.J. and Kohli, A.K. (1996), ‘‘Market orientation in United States and Scandinavian
+companies: cross-cultural study’’, Scandinavian Journal of Management, Vol. 12 No. 2, pp. 139-57.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Sharma, S. and Vredenburg, H. (1998), ‘‘Proactive corporate environmental strategy and the
+development of competitively valuable organizational capabilities’’, Strategic Management Journal,
+Vol. 19 No. 8, pp. 729-53.
+Sinkula, J.M. (1994), ‘‘Market information processing and organizational learning’’, Journal of Marketing,
+Vol. 58, January, pp. 35-45.
+Slater, F.S. and Narver, J.C. (1995), ‘‘Market orientation and the learning organization’’, Journal of
+Marketing, Vol. 59, July, pp. 63-74.
+Vance, S.C. (1975), ‘‘Are socially responsible corporations good investment risks?’’, Management
+Review, Vol. 64 No. 8, pp. 19-24.
+Waddock, S.E. and Graves, S.B. (1997), ‘‘The corporate social performance – financial performance
+link’’, Strategic Management Journal, Vol. 18 No. 4, pp. 303-19.
+Wright, M. and Kearns, Z. (1998), ‘‘Progress in marketing knowledge’’, Journal of Empirical
+Generalizations in Marketing Science, Vol. 3 No. 1, pp. 1-21.
+(The) World Bank Group (2004), ‘‘Corporate social responsibility’’, available at: www.worldbank.org/
+developmentcommunications/where1/environment/csr.htm
+Yamin, S., Gunasekaran, A. and Mavondo, F. (1999), ‘‘Innovation index and its implications on
+organizational performance: a study of Australian manufacturing companies’’, International Journal of
+Technology Management, Vol. 17 No. 2, pp. 495-503.
+Yaziji, M. (2004), ‘‘Turning gadflies into allies’’, Harvard Business Review, Vol. 82 No. 2, pp. 110-5.
+Zadek, S. (2004), ‘‘The path toward corporate responsibility’’, Harvard Business Review, Vol. 82 No. 12,
+pp. 125-32.
+Zahra, S.A. and Covin, J. (1993), ‘‘Business strategy, technology policy and firm performance’’,
+Strategic Management Journal, Vol. 14 No. 6, pp. 451-78.
+
+Appendix
+Market orientation (source: Kolar, 2006)
+Intelligence generation:
+B
+
+The profitability of our services and drivers of profitability are frequently analyzed and
+used for strategic planning.
+
+B
+
+Improvement in employee satisfaction, organizational culture and work conditions are
+regularly measured and compared with employee effectiveness.
+
+Intelligence dissemination:
+B
+
+j
+
+j
+
+Organizational mission/vision is written and realized through strategic plans and
+operational activities.
+
+PAGE 344 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+B
+
+Customer satisfaction and quality improvement are regularly discussed at our
+organization’s strategic conferences and meetings.
+
+B
+
+Measurable (quantitative) goals for customer satisfaction and quality improvement are set
+and included in strategic plans (similarly financial goals setting).
+
+B
+
+We systematically communicated goals and reports of customer satisfaction to managers
+and employees through reports and meetings.
+
+B
+
+Information on upcoming strategic changes are communicated in comprehensive, logical
+and objective way – including drawbacks of changes and surveying opinions of
+employees.
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Intelligence responsiveness:
+B
+
+Managers are personally involved in getting closer to customers with specific behaviors –
+such as open door meetings and personally answering questions.
+
+B
+
+We implement the system of continuous improvement of critical factors for customer
+satisfaction and quality of services (queues, relationship management and customer
+complaints) is implemented.
+
+B
+
+We measure and improve core processes cycle time and defect rate to ensure that the
+result of the processes is improving customer value.
+
+B
+
+Implementation of major projects is not disturbed by the fact that more departments are
+included – we do not experience ‘‘barriers’’ or conflicts between departments as an
+obstacle for efficient implementation.
+
+B
+
+Managers and employees embrace implementing changes in spite of the fact that
+changes are often the cause of instability and that they bring inherent risks.
+
+B
+
+We are keen to meet new challenges and learn new skills – regardless of their position
+and age.
+
+Marketing culture:
+B
+
+Managers and employees can precisely tell the organizational mission/vision.
+
+B
+
+Managers and employees honestly believe that satisfied customers and better quality are
+the best means for achieving better financial performance of the organization.
+
+B
+
+Contribution towards customer satisfaction and improving service quality are key criteria
+for rewarding managers and employees.
+
+B
+
+Authority and information for flexible decision making are not treated as the exclusive
+domain of top managers.
+
+B
+
+Our organization is visibly ‘‘obsessed’’ with the desire to satisfy customers and fulfill their
+needs, which is apparent in our internal materials, branches and public
+communications/relations.
+
+B
+
+Stereotypes like ‘‘that is not our job’’, ‘‘that problem has always been caused by other
+departments’’ and ‘‘we didn’t get all the necessary things for efficient work’’, are not
+present in our organization.
+
+CSR (source: Maignan et al., 1999)
+Economic responsibilities:
+B
+
+Our business has a procedure in place to respond to every customer complaint.
+
+B
+
+We continually improve the quality of our products.
+
+B
+
+We use customer satisfaction as an indicator of our business performance.
+
+B
+
+We strive to lower our operating cost.
+
+B
+
+We closely monitor employees’ productivity.
+
+Legal responsibilities:
+B
+
+Managers are informed about relevant environmental laws.
+
+j
+
+j
+
+VOL. 8 NO. 3 2012 SOCIAL RESPONSIBILITY JOURNAL PAGE 345
+
+B
+
+All our products meet legal standards.
+
+B
+
+Our contractual obligations are always honored.
+
+B
+
+The managers of this organization try to comply with the law.
+
+B
+
+Our company seeks to comply with the law regulating hiring and employee benefits.
+
+B
+
+We have programs that encourage the diversity of our workforce (in terms of age, gender
+or race).
+
+B
+
+Internal policies prevent discrimination in employees’ compensation and promotion.
+
+Ethical responsibilities:
+B
+
+Our business has a comprehensive code of conduct.
+
+B
+
+Members of our organization follow professional standards.
+
+B
+
+We are recognized as trustworthy company.
+
+B
+
+Fairness toward coworkers and business partners is an integral part of our employee
+evaluation process.
+
+B
+
+A confidential procedure is in place for employee to report any misconduct at work (such
+as stealing or sexual harassment).
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+Discretionary responsibilities:
+B
+
+Our business supports employees who acquire additional education.
+
+B
+
+Flexible company policies enable employees to better coordinate work and personal life.
+
+B
+
+Our business gives adequate contributions to charities.
+
+B
+
+A program is in place to reduce the amount of energy and material wasted in our
+business.
+
+B
+
+We encourage partnerships with local businesses and schools.
+
+Innovation (source: Calantone et al., 2002)
+B
+
+Our organization frequently tries out new ideas.
+
+B
+
+Our organization seeks out new ways to do things.
+
+B
+
+Our organization is creative in its methods of operation.
+
+B
+
+Our organization is often the first to market with new services.
+
+Business performance (source: Agarwal et al., 2003)
+B
+
+Gross profit margin.
+
+B
+
+Market share.
+
+Corresponding author
+Mohammed Abdulai Mahmoud can be contacted at: amohammed@ug.edu.gh
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+j
+
+j
+
+PAGE 346 SOCIAL RESPONSIBILITY JOURNAL VOL. 8 NO. 3 2012
+
+This article has been cited by:
+
+Downloaded by MAHIDOL UNIVERSITY At 04:51 28 February 2015 (PT)
+
+1. Mohammed Abdulai Mahmoud, Baba Yusif. 2012. Market orientation, learning orientation, and the performance of nonprofit
+organisations (NPOs). International Journal of Productivity and Performance Management 61:6, 624-652. [Abstract] [Full
+Text] [PDF]
+
+

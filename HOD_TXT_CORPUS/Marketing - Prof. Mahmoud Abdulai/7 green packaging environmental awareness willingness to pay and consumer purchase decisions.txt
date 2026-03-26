@@ -1,0 +1,270 @@
+sustainability
+
+
+Article
+Green Packaging, Environmental Awareness, Willingness to Pay and Consumers' Purchase Decisions
+Mahmoud Abdulai Mahmoud 1,*  , Ernest Kafui Kwasi Tsetse 2  , Ernest Edem Tulasi 2
+and Donne Komla Muddey 3
+
+1	Department of Marketing and Entrepreneurship, University of Ghana Business School, College of Humanities, University of Ghana, Accra P.O. Box LG 581, Ghana
+2	Department of Marketing, HTU Business School, Ho Technical University, Ho P.O. Box HP 217, Ghana
+3	Department of Mathematics and Statistics, Faculty of Applied Science and Technology, Ho Technical University, Ho P.O. Box HP 217, Ghana
+*	Correspondence: mamahmoud@ug.edu.gh; Tel.:+233-0246149696
+
+
+
+
+
+
+
+
+
+
+
+
+Citation: Mahmoud, M.A.; Tsetse, E.K.K.; Tulasi, E.E.; Muddey, D.K. Green Packaging, Environmental Awareness, Willingness to Pay and Consumers' Purchase Decisions. Sustainability 2022, 14, 16091. https://doi.org/10.3390/su142316091
+
+Academic Editors: Esi A Elliot, Annan Anthony and
+Carmina Cavazos
+
+Received: 23 October 2022
+Accepted: 25 November 2022
+Published: 1 December 2022
+
+Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil- iations.
+
+Copyright: (c) 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).
+
+Abstract: This study examined green packaging, environmental awareness, and willingness to pay for green products in consumers' purchase decisions. A cross-sectional survey was employed in collecting data from 218 respondents in Ghana. Purposive sampling was used to select respondents for the study. The data were analyzed using SPSS software for descriptive statistics and partial least square structural equation modeling (PLS-SEM) to test our hypotheses. The study found that consumers' environmental awareness had a positive and significant impact on green purchasing decisions. However, the impact of green packaging was not found to be significant on consumers' purchase decisions in Ghana. The study further revealed that consumers' willingness to pay for green products positively and significantly predicted consumer purchase decisions. Some recommendations are suggested for theoretical and managerial considerations.
+
+Keywords: green packaging; environmental awareness; willingness to pay; customer purchase decisions
+
+
+1. Introduction
+    The subject of environmental conservation has gained attention in recent years as public awareness of the depletion of natural resources has grown [1]. Packaging has been highlighted as a major source of non-biodegradable garbage that harms the environment [2-4]. In particu- lar, consumers and governments have been pressurizing businesses to decrease packaging waste and over-packaging, as well as increase recyclability, for quite some time [4,5]. Accord- ing to Hao [6], the packaging of a product is regarded as one of the most common aspects of consumption and serves a variety of purposes and provides consumers with a great deal of convenience. Packaging is described as a crucial element of the marketing mix [7]. It also fulfils the manufacturer's legal duties and communicates vital brand messages to consumers. There are many types of packaging, including passive and active, primary, secondary, and tertiary [1,5,7]. In addition, Singh and Pandey [7] assert that packaging has three negative effects on the environment: it consumes resources; produces solid, liquid, and gaseous waste and pollution; and spreads pathogens and pests. Furthermore, according to the OECD [8], in 2019 1.7 Mt of plastic was dumped into the seas and 6.1 Mt plastic garbage spilled into the aquatic environment. In addition, it has been revealed that, in Europe, 40% of packaging waste ends up in landfills, and even worse, almost 32% of waste ends up polluting the ocean and the land [9].
+    Due to the growing impact of packaging on the world, researchers have identified a growing consumer awareness of green packaging and its effects on the environment in past surveys [1-7,10]. Consumers are becoming increasingly concerned about the harmful effects of packaging waste on the environment [5]. Similarly, consumers are seeking to change the current course of increasing environmental degradation as the movement for
+
+
+
+
+
+Sustainability 2022, 14, 16091. https://doi.org/10.3390/su142316091	https://www.mdpi.com/journal/sustainability
+
+
+
+a "green revolution" gets traction [4]. Customers are willing to alter their purchase and consumption habits to aid in the improvement and sustainability of the environment. This shift reflects how consumers have begun to incorporate environmental issues into their lifestyle choices. These altered lifestyles choices include purchase decisions based on dual aims such as how well items meet their requirements while having an impact on the natural environment [3,11].
+    This current demand of consumers has prompted businesses to rethink their man- ufacturing processes to make their products more environmentally friendly. As a result, redesigning packaging to be ecologically friendly is one of the techniques used by firms, as buyers check for items with environmentally friendly packages before purchasing, forcing businesses to adopt green packaging as a marketing strategy, including in the food manufac- turing sector. According to Prakash and Pathak [1], the term green is alternatively known as eco-friendly, environmentally friendly, or sustainable. These terms have been used interchangeably in previous studies and they all seem to be referring to the same concept. It is important to note that the methods by which green packaging influences customer purchasing decisions are sometimes described as uninspired and are still in need of more research. Furthermore, given the relevance of packaging to competitive advantage, the paucity of studies jointly investigating the impact of green packaging, environmental awareness, and consumer willingness to pay for green products in their purchase decisions for manufactured foods is astonishing and therefore warrants scholarly examination and empirical investigation. Furthermore, previous research on the subject abounds in the extant literature [2,3,5,6,10,12]; however, none has considered these three antecedents as captured in this current investigation. Therefore, the goal of this study is to appreciate the role of green packaging, environmental awareness, and willingness to pay for green products in purchasing decisions among customers. The remainder of the paper is organized as follows. The second section presents the theoretical literature review as well as the hypotheses developments. The third and fourth sections outline the methodology and the results, respectively. The fifth section presents the discussion, and the sixth section highlights the implications of the study. The seventh section, which is the final part of the paper, presents
+the conclusions and directions for future studies.
+2. Literature Review and Theory
+2.1. Theory of Planned Behavior
+    This study is guided by the theory of planned behavior (TPB) [12]. The theory is used to understand and predict human behavior. TPB is a theory in social psychology and one of the best supported theories among social psychological theories. TPB offers an all-inclusive yet parsimonious psychological theory that identifies a creative form for explaining a broad range of human behavior [13]. Behavior can be interpreted widely or narrowly and is a function of the researcher's theoretical or applied objectives [14]. However, according to TPB, any behavior can be considered in terms of four constructs, namely, action, target, context, and time [15]. Therefore, the current study conceptualized the attitudinal behavior of consumers of manufactured food products as green packaging, environmental awareness, and willingness to pay for green products in consumers' green purchase decisions, as the supporters of the theory argue that any measurement of behavior must specify how the behavior is to be accurately measured or understood [14]. TPB was used in this study because a critical examination of the literature showed that the theory was utilized to analyze consumer green product purchase decisions [16-18]; however, despite TPB being widely used, its applicability within the food manufacturing sector in Ghana has received little attention.
+2.2. Hypotheses Development
+2.2.1. Green Packaging and Consumer Product Purchase Decisions
+    Green packaging is a relatively new concept that has attracted much attention in recent times from various scholars [1-7,12,19]. Terms such as sustainable design, eco-
+
+
+
+friendly packaging, environmentally conscious design, and design for the environment are synonyms of green packaging [19]. According to Hao [6], the core element of green packaging is its environmentally friendly, resource-saving technology. They postulate that, during the whole lifecycle, including the design, research and development, manufacturing, use, and recycling, green packaging causes little or no harm to the ecological environment or human health. Nonetheless, Maziriri [12] asserts that green packaging is identified with conveying a duty towards sustainability, ecological activities of organizations, and green item characteristics in the marketplace. Green packing involves the encouragement and utilization of packaging, which results in improved manageability of items [20]. According to Mazirriri [12], green packaging includes three main identities: they are minimizing the use of hard-to-decompose packaging, using packaging with low energy consumption, and using environmentally friendly packaging.
+     The criteria of individual ecological concerns are different from each other. Nowadays, consumers' buying decisions depend on different factors and evaluations of the effect of packaging on ecological degradation [7]. It has been established that consumers do value environment-friendly and ethical products. However, the daily purchasing behavior of consumers is often inconsistent with this [2,5]; hence, there might be a potential market for this type of packaging. Prakash and Pathak [1] conducted a study on consumers to understand the determinants of consumers' intentions to purchase ecologically packaged products. They found that consumers are willing to purchase the eco-friendly products with eco-friendly packaging. Another study by Wandosell [19] on consumers found that disposal decisions for product packaging and eco-friendly purchases are related to green packaging and eco-friendly attitudes. The study highlighted that consumers are in favor of the environmentally friendly packaging of products.
+H1. Green packaging has a positive and significant impact on consumers' product purchase decisions.
+2.2.2. Environmental Awareness and Consumer Product Purchase Decisions
+    The concept of environmental awareness gained global attention in the 1970s, when the "environmentalist movement" in the United States of America gained impetus and was later converted into political activism. Environmentalism is seen as an important factor of human behavior. Environmental awareness is described as an individual's ability to understand the nexus between human activities, environmental qualities, and his or her readiness to actively engage in environmental activities [20,21]. Similarly, Handoyo [22] defines it as "a people's perception about environmental issues, which include also the aggregate aspects of environmental knowledge, value and attitudes of a person which altogether affect the level of environmental awareness". It is considered as the first and most important step in preparing individuals to find solutions to environmental issues [23]. Consumers' environmental awareness and purchase behavior have been tested through their purchasing behavior in terms of eco-friendly products [6]. Consumer environmental awareness is seen as an important factor that affects people's consumption behaviors and the sustenance of the natural environment [24]. According to Sekhokoane [25], people who are aware of the environment are more likely to modify their consumption behaviors toward environmentally friendly products. Similarly, Wang, Li and Zhao [26] note that environmental awareness plays an important role in influencing consumers' behavior toward environmentally friendly products and services. Prakash and Pathak [1] state that the packaging sector of developing countries should always pay attention to environmental awareness among consumers and try to increase the level of pro-environmental behavior of consumers who currently have low levels of such behavior. However, other scholars [20] have argued that consumers' environmental awareness does not always influence purchas- ing behavior. Moreover, Okada, Tamaki, and Managi [27] found a negative relationship between environmental awareness and consumers' post-purchase satisfaction. Despite these studies, there appears to be a paucity of studies measuring consumers' environmental awareness and purchase behavior in an emerging economy such as Ghana. Therefore, this
+study hypothesizes that:
+
+
+
+H2. Environmental awareness has a positive and significant impact on consumers' product pur- chase decisions.
+2.2.3. Willingness to Pay for Green Packaging and Consumers' Product Purchase Decisions
+    An early study by Anderson et al. [28] averred "that consumers' willingness to pay (WTP) is the cornerstone of marketing strategy that drives important marketing decisions." According to Le Gall-Ely [29], willingness to pay is "the maximum price a buyer accepts to pay for a given number of goods or services". Schmidt and Bijmolt [30] claim that consumers' willingness to pay is the focal point for price response strategies that determine the decision for pricing and promotion. Moreover, the prices of new products that are to be introduced to the market must be carefully selected, as poor pricing can endanger the development of investments [31]. Managers must be aware of the highest price at which customers are prepared to pay when forecasting demand for a good or service in order to develop an ideal pricing plan that will satisfy customers while maximizing profits [32-34].
+    Within sustainability studies, Prakash and Pathak [1] stipulate that price is an impor- tant attribute of consumers' purchasing decisions. Further, they argue that green products are perceived as more expensive than conventional goods. Mishra et al. [4] postulated that the most convincing evidence supporting the growth of ecologically favorable consumer behavior is the increasing number of individuals who are willing to pay more for envi- ronmentally friendly products. However, the high price of products has been considered one of the major barriers to green consumption [6]. Nonetheless, the literature shows that price does not have a significant role in the purchasing of eco-labeled products [7]. Consumers who have concerns about the environment are not price sensitive and accept higher prices [1]. However, these studies are based on Western consumers and give little insight on Ghanaian consumers. It is well known that some consumers are price sensitive and are not willing to pay for more product attributes [29]. So, it is important to know whether Ghanaian consumers are willing to pay a premium price for green packaging. Thus, the willingness of consumers to pay for green packaging is considered as a critical predictor of green purchasing.
+H3. Willingness to pay for green products has a positive and significant impact on the customers' product purchase decisions.
+    Figure 1 below depicts the conceptual framework of the study. Green packaging, environmental awareness, and willingness-to-pay are related to the consumers' purchase decisions.
+
+Figure 1. Conceptual Framework.
+
+
+
+3. Materials and Methods
+3.1. Research Design
+    To investigate the antecedents of consumers' green product purchase decisions, this study employed the cause-effect quantitative research design to determine the effect of green packaging, environmental awareness, and willingness to pay on green product purchase decisions. The population of this research consisted of individual shoppers at the major shopping malls in the Greater Accra region at the time research was conducted. Shopping malls were chosen because they bring together a variety of products in one place, representing suitable locations to appreciate consumers' green product purchasing deci- sions. In addition, to have broader coverage and an in-depth analysis, these shopping malls were deemed appropriate. Further, using a structured questionnaire, the participants for this study were drawn through a purposive sampling technique to sample 300 individual shoppers, whereby the respondents were selected on purpose based on the research topic. Out of the 300 questionnaires distributed to respondents, 225 were retrieved but 218 were used for analysis after data screening, representing a response rate of 73%. This makes the data collected usable for further analysis, since Nulty [34] revealed that a response rate of 70% and over is considered to be free of errors associated with responses. The research questionnaires were distributed between July and September 2022 when the questionnaires were given to shoppers who were checking out from the malls. The data were analyzed using SPSS software for descriptive statistics and partial least square structural equation modeling (PLS-SEM) for text reliability and the hypotheses.
+3.2. Measures
+    Measures of the study were adopted from previous studies [1,4,35,36]. Table 1 de- scribes the measures as well as their sources for the current investigation.
+
+Table 1. Adapted instruments and Cronbach's Alpha.
+
+ConstructsCronbach's AlphaSourcesGreen Packaging0.816[4,35]Green packaging is important in protecting environmentI have knowledge about the benefits of green packagingI have purchased products in green packaging beforeI purchase products in green packaging weeklyI purchase products in green packaging monthlyProtecting the environment is my reason for choosing green packagingGreen packaging is important in protecting environmentI have knowledge about the benefits of green packagingEnvironmental Awareness0.850[1]I am aware of green packagingGreen package is my preferred packaging material.Green packages awareness influences my purchase decisionI became aware of green packaging through mediaI became aware of green packaging through product designI prefer green packaging because I care about the environmentWillingness to Pay0.783[1,4]It is acceptable for me to pay more money for products that are packaged in anenvironmentally friendly way.I feel proud to have environmentally friendly packaged products in my house though theyare more costly than conventionally packaged productsI am you willing to support local initiatives to support green packagingIt is acceptable for me to pay more money for products that are packaged in anenvironmentally friendly way.I feel proud to have environmentally friendly packaged products in my house though theyare more costly than conventionally packaged productsI am you willing to support local initiatives to support green packaging
+
+
+Table 1. Cont.
+
+ConstructsCronbach's AlphaSourcesPurchase Intentions0.853[1,36]I plan to purchase green products when deciding to buyI would buy green packaged products in the near futureI plan to buy green packaged products on regular basisFrom now on, I plan to purchase green productsI intend to pay more for green productsI intend to buy green packaged products because they are more environmentally friendly
+4. Results
+4.1. Demographic Characteristics of Respondents
+     Out of a total of 218 respondents who took part in the study, 62.4% were males whereas 37.6% were females. The majority of the respondents (76.1%) were within the age range of 18-30 years, 21.1% were within the age range of 31-40 years, and the remaining 2.8% were between 41 and 50 years. Moreover, 92% of the respondents had tertiary qualifications (Diploma, Undergraduate Degree, and Graduate Masters/PhD), with a majority of the respondents' earning incomes between GHS 1000 and GHS 3000. All the study participants were Ghanaians except for two respondents who reported other nationalities. These outcomes are shown in Table 2 below.
+Table 2. Demographic Characteristics of Respondents.
+
+DemographicsFrequencyPercentage (%)Gender:Male13662.4Female8237.6Age:18-3016676.131-404621.141-5062.8Education:SHS125.5Technical/Vocational41.8Diploma3817.4Undergraduate Degree13260.6Graduate (Masters/PhD)3214.7Income:None5223.9Below 10003817.41001-300010849.53001-5000104.6Above 5000104.6Nationality:Ghanaian21699.1Others20.9Total218100.0
+4.2. Construct Reliability and Convergent Validity
+     The measures for validity and convergent reliability were each evaluated. The analyses include the average variance extracted (AVE), variance inflation factor (VIF), construct reliability (CR), Cronbach's alpha (CA), and item loadings. Table 3 and Figure 2 below report the item loadings, construct reliability, and convergent validity tests.
+
+
+
+Table 3. Reliability and Convergent Validity Results.
+
+ItemsLoadingst-Valuesp-ValuesVIFCARho_ACRAVEEVA10.72914.9170.0001.7170.8500.8760.8880.573EVA20.85136.4400.0002.512EVA30.78128.3250.0001.701EVA50.6649.8980.0001.518EVA60.64211.4400.0001.402EVA70.84734.4320.0002.451GP110.67817.0060.0001.219GP40.61910.5580.0002.175GP50.74117.3410.0002.856GP60.83329.3250.0002.816GP80.70014.0000.0002.0040.8160.8360.8640.516GP90.72211.7540.0002.142PI10.78321.5730.0001.922PI20.6198.2650.0001.508PI30.84239.1960.0002.382PI40.81122.7780.0002.653PI50.73214.9760.0001.885PI60.76621.3170.0001.8020.8530.8570.8920.581WTP30.81018.1280.0001.663WTP40.88343.1680.0001.940WTP60.81125.8980.0001.5110.7830.7910.8740.698Note: VIF = variance inflation factor; CA = Cronbach's alpha; CR = composite reliability; AVE = average variance extracted.
+
+
+Figure 2. Measurement Model. Source: estimate from SmartPLS.
+
+    The outcome of the analysis indicated that the factor loadings of every item were substantial. Moreover, there were no issues with regard to collinearity because the variance inflation factor was less than five (VIF < 5), and this is shown in Table 3 and Figure 2, respectively [33]. Additionally, the Cronbach's alpha (CA) and composite reliability (CR) values range from 0.783 to 0.892 and are higher than the 0.7 threshold. The average variance extracted (AVE) values ranging from 0.516 to 0.581 also surpass the 0.50 threshold. These results demonstrate the validity and reliability of the measurements [36-38].
+
+
+
+4.3. Discriminant Validity
+     Discriminant validity was tested using cross-loading, the Fornell and Larcker criterion, and the heterotrait-monotrait (HTMT) approach. The results are presented in Table 4.
+
+Table 4. Discriminant validity by Fornell Larcker criterion.
+
+Latent VariablesEVAGPPIWTPEVA0.757GP0.7100.719PI0.5700.5000.762WTP0.4810.4330.6360.836
+    In Table 4, the square roots of the AVEs are shown on the diagonals, and the figures below the diagonals are the correlations between the constructs. All figures on the diagonals are greater than the figures below them, which indicates that discriminant validity is assured. According to Hair et al. [39], discriminant validity using the Fornell-Larcker criterion at the construct level can be achieved if the square root of the AVE is greater than the highest correlation between the latent variable and the other constructs.
+    The results in Table 5 indicates that the outer loading of each indicator was greater on its respective latent variable than its cross-loadings on any other latent variables. This also confirms that discriminant validity was achieved.
+
+Table 5. Discriminant validity by cross-loading.
+
+ITEMSEVAGPPIWTPEVA10.7290.7250.3630.366EVA20.8510.6260.4810.455EVA30.7810.5430.5330.416EVA50.6640.3290.2780.258EVA60.6420.4470.3370.236EVA70.8470.5290.5080.392GP110.5670.6780.5050.459GP40.4600.6190.2310.094GP50.5800.7410.2770.265GP60.5070.8330.3480.322GP80.4170.7000.3820.281GP90.5020.7220.2460.291PI10.4540.3920.7830.454PI20.4990.3940.6190.412PI30.4690.3180.8420.547PI40.3460.3820.8110.467PI50.3810.3160.7320.436PI60.4400.4680.7660.563WTP30.2650.2860.4770.810WTP40.4330.3720.5750.883WTP60.4920.4220.5350.811
+     The latest criteria for evaluating discriminant validity were determined by heterotrait- monotrait (HTMT) ratios. All HTMT values, as indicated in Table 6, were below the threshold of 0.85 [39] or 0.90 [40,41], and this also confirms that discriminant validity was attained.
+
+
+
+Table 6. Discriminant validity by heterotrait-monotrait (HTMT) approach.
+
+Latent VariablesEVAGPPIWTPEVA GP
+0.838PI0.6450.548WTP0.5670.4910.770
+4.4. Hypothesis Testing
+     From the results in Table 7 and Figure 3, the path coefficients and the p-values show that out of the three hypotheses tested, one path relationship (GP- > PI) was insignificant (i.e., H2). Specifically, EVA significantly predicted PI (ß = 0.279; t = 3.125; p = 0.002), indicating that a one-unit increase in EVA would increase the expected value of PI by 0.279, thereby supporting H1. Moreover, WTP significantly predicted PI (ß = 0.458; t = 5.753; p = 0.000), indicating that a one-unit increase in WTP will increase the expected value of PI by 0.458, thereby supporting H3.
+
+Table 7. Result showing the effect of green packaging, environmental awareness, and willingness to pay on purchase intentions.
+
+HypothesisPathVIFßSEt-Valuep-ValueDecisionH1GP- > PI0.1070.1140.0811.3130.189RejectedH2EVA- > PI0.2750.2790.0883.1250.002SupportedH3WTP- > PI0.4580.4520.0805.7530.000Supported
+
+Figure 3. Hypothesis Path Diagram.
+
+    From Table 8, it is established that the structural model has an acceptable level of predictive relevance (Q2 > 0.0267) and predictive power (R2 > 0.501) [37,42]. Specifically, the R2 value of 0. 501 indicates that the model explains 50.1% of the variation in purchase intentions. Moreover, Q2 of the model was 0.0267, which is >0.0, establishing the fact that the PLS structural model has predictive relevance.
+
+
+
+Table 8. Results showing predictive relevance and predictive power.
+
+Latent	Q2	R2	AJ. R2
+PI	0.0267	0.501	0.494
+
+5. Discussion
+    This research was carried out to determine the influence of green packaging, environ- mental awareness, and willingness to pay for green manufacturing products on consumer product purchase decisions. The discussions are carried out along the study's three hy- potheses.
+H1. Green packaging has a positive and significant impact on consumers' product purchase decisions.
+    The study tested data to find out if green packaging has any positive impact on consumers' purchase decisions regarding products. The outcome of the study (ß = 0.114; SE = 0.081; t = 1.313; p > 0.05) showed an insignificant relationship. Thus, green packaging does not positively impact consumers' purchase decisions or does not significantly influence or predict consumer purchase decisions. The negative confirmation of this hypothesis proved that consumers are not conscious of their environment. This result confirmed that of Hao et al. [6]. Their study revealed that consumers' cognition of green packaging is relatively low, and consumers have partial knowledge about the benefits of green packaging as well as know little about the harms of traditional packaging. Further, this could be attributed to the fact that when consumers are in desperate need of a product, the packaging component (i.e., green packaging) of the product does not influence their purchase intention too much, so long as it meets their satisfaction.
+H2. Environmental awareness has a positive and significant impact on consumers' product purchase decisions.
+    The study tested data to find out if environmental awareness of green packaging has any positive impact on consumers' purchase decisions regarding products. The outcome (ß = 0.279; SE = 0.088; t = 3.125; p < 0.05) indicates that consumers' environmental awareness of green packaging has a positive and significant impact on the purchase decisions of consumers. This outcome shows that consumers have become conscious of the packaging materials used by manufacturing firms to package their products. It was also revealed that consumers become aware of green packaging through several mediums such as friends, the media, and product design. This finding is in line with previous studies [6,43,44], which tested consumers' environmental awareness and knowledge regarding green packaging, and their results indicated that consumers have stronger environmental awareness and pay more attention to green packaging. These results lead to the acceptance of hypothesis one (H1). This result can be accounted for by consumers within the Ghanaian environment being aware of green packaging. This awareness is created through the media and the packaging of the product by the manufactures to educate consumers.
+H3. Willingness to pay for green products positively and significantly influence consumers' product purchase decisions.
+    Consumers' willingness to pay premium prices for green packaging was tested as the third hypothesis (H3). After the analysis, the results (ß = 0.452; SE = 0.080; t = 5.753; p < 0.05) showed that consumers' willingness to pay for green packaging can positively and significantly influence or predict consumer purchase decisions. This showed that it is acceptable for the modern consumer to pay more money for products that are packaged in an environmentally friendly way and to be proud to have environmentally friendly packaged products in their homes though they are more costly than conventionally pack- aged products. This positive and significant outcome relates to the studies of [45], which revealed that willingness to pay premium prices is an important component influencing the purchasing decisions of consumers. However, this finding also contradicts previous studies
+
+
+
+that highlighted price as an obstacle in adopting green packaging [46]. Similarly, consumers' willingness to pay premium prices for green packaging products derived from consumers feeling proud and gaining some level of status among their peers, which influenced their decision to purchase green products.
+6. Implications
+6.1. Theoretical Implications
+    Theoretically, this study combined green packaging, environmental awareness, and willingness to pay in order to analyze consumer purchase decisions. It shows that while most studies are underpinned by the theory of planned behavior as an antecedent, the attitudinal behavioral outcome such as purchase decisions could guide consumers willing to engage in deep cognitive processing. That is, in some situations, such as the purchasing of manufactured food products, instead of intensely analyzing information and developing systematic processing, consumers use immediate cues (i.e., green environmental awareness, green packaging, and willingness to pay for green products) to facilitate their green product purchasing decisions [47]. This study also focuses on a crucial but underexamined area of consumers goods in the food industry. These consumers have now recognize the relevance of environmental issues. That is, they have received even more green products as a result of their concern and increased support for environmental protection laws [48-51]. Moreover, the influence of users of food manufacturing products is growing. Consumers develop new patterns of behavior and cause new difficulties in the study of sustainable behavior, even though they value many characteristics of the produced items. In particular, the findings show a relationship between consumers' purchase decisions and sustainability (i.e., environmental awareness and willingness to pay for green products).
+6.2. Managerial Implications
+    Green packaging, awareness of green packaging, and willingness to pay for green products do influence consumer purchase decisions within the food manufacturing sector. Managers must take advantage to incorporate green packaging features in their packaging designs in order to cater to this segment of the market. Moreover, environmental awareness was found to influence consumer buying decisions. In this direction, it is imperative for practitioners to take the necessary measures to inform and provide the relevant information to the target market of these green products. Practitioners might suffer green marketing myopia if they fail to incorporate awareness creation strategies in their programs. Similarly, willingness to pay for green products was found to relate to consumer purchase decisions. Practitioners should take advantage of this information to invest in their sustainable initiatives as the market is willing to pay for such investments. Linking the above theory and practice, managers must consider the behaviors of their target market and act accordingly. In so doing, their brands can gain consumer acceptance.
+7. Conclusions and Future Research Direction
+     The first and most important conclusion of this study is that consumers' environmental awareness of green packaging has a positive and significant impact on their purchase decisions. This result shows that consumers have become conscious of the packaging materials used by manufacturing firms for their products. The second conclusion of the study is that green packaging does not have a positive impact on consumers' purchase decisions or does not significantly influence or predict consumer purchase decisions. The negative conclusion means that food manufacturing firms must do more to educate the consuming public about the importance of green packaging in order for the awareness to transform into real purchases.
+    We recommend that food manufacturing firms should consider the environmental consciousness of consumers when choosing and developing packages for their products. Businesses should as well strategize their production processes to make their products and packages environmentally friendly. It is also recommended that manufacturing businesses
+
+
+
+develop product packaging that can decompose in order to reduce environmental pollution caused by packaging. Education, awareness creation, and the implementation of various policies that improve the use of green packaging materials can be used to develop and improve consumers' green purchase behavior.
+    The third conclusion is that consumers' willingness to pay for green packaging posi- tively and significantly influences or predicts consumer purchase decisions. This showed that the modern consumer would be willing to pay more money for products that are packaged in an environmentally friendly way.
+    Future studies should employ diverse theoretical explanations of consumer purchas- ing behaviors with regards to purchasing products in environmentally friendly packaging. Further research should also look at adding more independent variables or predictors to test the relation between consumers and green packaging. Mixed methods of data collection could also be employed in subsequent studies to avoid the weaknesses of using a single method. This study was limited to the manufacturing sector. Further research should con- sider the roles of other organizations and governments in the transition to more sustainable consumer purchasing behavior, rather than only searching for individual predictors of consumer purchasing behaviors regarding green packaging. Moreover, research can be conducted in other industries, such as the service sector, banking, education, health, and telecommunications. Finally, the current study is cross-sectional; future research should look at longitudinal studies to compare the results over time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+Author Contributions: Conceptualization, M.A.M. and E.K.K.T. methodology, E.E.T.; software, D.K.M.; validation, D.K.M., E.E.T. and E.K.K.T.; formal analysis, D.K.M.; investigation, E.E.T.; re- sources, E.K.K.T.; data curation, E.E.T.; writing-original draft preparation, E.K.K.T.; writing- review and editing, M.A.M.; visualization, M.A.M.; supervision, M.A.M.; project admin-istration, M.A.M.; funding acquisition, M.A.M. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: Not applicable.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+1. Prakash, G.; Pathak, P. Intention to buy eco-friendly packaged products among young consumers of India: A study on developing nation. J. Clean. Prod. 2017, 141, 385-393. [CrossRef]
+2. Kabir, E.; Kaur, R.; Lee, J.; Kim, K.-H.; Kwon, E.E. Prospects of biopolymer technology as an alternative option for non-degradable plastics and sustainable management of plastic wastes. J. Clean. Prod. 2020, 258, 120536. [CrossRef]
+3. Dilkes-Hoffman, L.S.; Lane, J.L.; Grant, T.; Pratt, S.; Lant, P.; Laycock, B. Environmental impact of biodegradable food packaging when considering food waste. J. Clean. Prod. 2018, 180, 325-334. [CrossRef]
+4. Mishra, P.; Jain, T.; Motiani, M. Have green, pay more: An empirical investigation of consumer's attitude towards green packaging in an emerging economy. In Essays on Sustainability and Management; Springer: Singapore, 2017; pp. 125-150.
+5. Nguyen, A.T.; Parker, L.; Brennan, L.; Lockrey, S. A consumer definition of eco-friendly packaging. J. Clean. Prod. 2020, 252, 119792. [CrossRef]
+6. Hao, Y.; Liu, H.; Chen, H.; Sha, Y.; Ji, H.; Fan, J. What affect consumers' willingness to pay for green packaging? Evidence from China. Resour. Conserv. Recycl. 2019, 141, 21-29. [CrossRef]
+7. Singh, G.; Pandey, N. The determinants of green packaging that influence buyers' willingness to pay a price premium. Australas. Mark. J. 2018, 26, 221-230. [CrossRef]
+8. OECD. Plastic Pollution Is Growing Relentlessly as Waste Management and Recycling Fall Short. Available online: https://www. oecd.org/environment/plastic-pollution-is-growing-relentlessly-as-waste-management-and-recycling-fall-short.htm  (accessed on 22 February 2022).
+9. Eco To Go FoodPacks. How Food Packaging Affects the Environment. Eco to Go FoodPacks. Available online: https:// ecotogofoodpacks.co.uk/how-food-packaging-affects-the-environment (accessed on 27 April 2020).
+
+
+
+10. Popovic, I.; Bossink, B.A.; van der Sijde, P.C. Factors influencing consumers' decision to purchase food in environmentally friendly packaging: What do we know and where do we go from here? Sustainability 2019, 11, 7197. [CrossRef]
+11. Martinho, G.; Pires, A.; Portela, G.; Fonseca, M. Factors affecting consumers' choices concerning sustainable packaging during product purchase and recycling. Resour. Conserv. Recycl. 2015, 103, 58-68. [CrossRef]
+12. Maziriri, E.T. Green packaging and green advertising as precursors of competitive advantage and business performance among manufacturing small and medium enterprises in South Africa. Cogent Bus. Manag. 2020, 7, 1719586. [CrossRef]
+13. Ajzen, I. From Intentions to Actions: A Theory of Planned Behavior. In Action Control; Kuhl, J., Beckmann, J., Eds.; Springer: Berlin/Heidelberg, Germany, 1985; pp. 11-39.
+14. Hegner, S.M.; Fenko, A.; TerAvest, A. Using the theory of planned behaviour to understand brand love. J. Prod. Brand Manag.
+2017, 26, 26-41. [CrossRef]
+15. Kan, M.P.H.; Fabrigar, L.R. Theory of planned behaviour. In Encyclopedia of Personality and Individual Differences; Springer: Cham, Switaerland, 2017; pp. 1-8.
+16. Armitage, C.J.; Conner, M. Efficacy of the Theory of Planned Behaviour: A meta-analytic review. Br. J. Soc. Psychol. 2001, 40, 471-499. [CrossRef] [PubMed]
+17. Amoako, G.K.; Dzogbenuku, R.K.; Abubakari, A. Do green knowledge and attitude influence the youth's green purchasing? Theory of planned behavior. Int. J. Product. Perform. Manag. 2020, 69, 1609-1626. [CrossRef]
+18. Awuni, J.A.; Du, J.; Yiranbon, E. Factors Influencing Green Purchasing Behaviors: Some Insights from Tamale, Ghana. Br. J. Econ. Manag. Trade 2016, 14, 1-12. [CrossRef] [PubMed]
+19. Ackaah, W.; Kanton, A.T.; Osei, K.K. Factors influencing consumers' intentions to purchase electric vehicles in Ghana. Transp. Lett. 2022, 14, 1031-1042. [CrossRef]
+20. Wandosell, G.; Parra-Meroño, M.; Alcayde, A.; Baños, R. Green Packaging from Consumer and Business Perspectives. Sustainabil- ity 2021, 13, 1356. [CrossRef]
+21. Kumar, M.; Agarwal, A.; Singh, P. Green packaging and marketing in promoting agribusiness. Management 2017, 3, 1.
+22. Umuhire, M.L.; Fang, Q. Method and application of ocean environmental awareness measurement: Lessons learnt from university students of China. Mar. Pollut. Bull. 2016, 102, 289-294. [CrossRef]
+23. Handoyo, B.; Astina, I.K.; Mkumbachi, R.L. Students' environmental awareness and pro-environmental behaviour: Preliminary study of geography students at state university of malang. IOP Conf. Series Earth Environ. Sci. 2021, 683, 012049. [CrossRef]
+24. Fu, L.; Sun, Z.; Zha, L.; Liu, F.; He, L.; Sun, X.; Jing, X. Environmental awareness and pro-environmental behavior within China's road freight transportation industry: Moderating role of perceived policy effectiveness. J. Clean. Prod. 2019, 252, 119796. [CrossRef]
+25. Choi, D.; Kim, K.P.J. Influences of Environmental and Hedonic Motivations on Intention to Purchase Green Products: An Extension of the Theory of Planned Behavior. Sustain. Prod. Consum. 2019, 18, 145-155. [CrossRef]
+26. Sekhokoane, L.; Qie, N.; Rau, P.L.P. Do consumption values and environmental awareness impact on green consumption in China? In International Conference on Cross-Cultural Design; Springer Cham: New York, NY, USA, 2017; pp. 713-723.
+27. Wang, S.; Li, J.; Zhao, D. Institutional Pressures and Environmental Management Practices: The Moderating Effects of Environ- mental Commitment and Resource Availability. Bus. Strat. Environ. 2017, 27, 52-69. [CrossRef]
+28. Okada, T.; Tamaki, T.; Managi, S. Effect of environmental awareness on purchase intention and satisfaction pertaining to electric vehicles in Japan. Transp. Res. Part D Transp. Environ. 2019, 67, 503-513. [CrossRef]
+29. Anderson, J.C.; Jain, D.C.; Chintagunta, P.K. Customer value assessment in business markets: A state-of-practice study. J. Bus. Bus. Mark. 1992, 1, 3-29. [CrossRef]
+30. Le Gall-Ely, M. Definition, measurement and determinants of the consumer's willingness to pay: A critical synthesis and avenues for further research. Rech. Et Appl. En Mark. (Engl. Ed.) 2009, 24, 91-112. [CrossRef]
+31. Schmidt, J.; Bijmolt, T.H.A. Accurately measuring willingness to pay for consumer goods: A meta-analysis of the hypothetical bias. J. Acad. Mark. Sci. 2019, 48, 499-518. [CrossRef]
+32. Ingenbleek, P.T.; Frambach, R.T.; Verhallen, T.M. Best practices for new product pricing: Impact on market performance and price level under different conditions. J. Prod. Innov. Manag. 2013, 30, 560-573. [CrossRef]
+33. Sukhu, A.; Bilgihan, A.; Seo, S. Willingness to pay in negative restaurant service encounters. Int. J. Hosp. Manag. 2017, 65, 11-19. [CrossRef]
+34. Steenis, N.D.; van Herpen, E.; van der Lans, I.A.; Ligthart, T.N.; van Trijp, H.C. Consumer response to packaging design: The role of packaging materials and graphics in sustainability perceptions and product evaluations. J. Clean. Prod. 2017, 162, 286-298. [CrossRef]
+35. Nulty, D.D. The adequacy of response rates to online and paper surveys: What can be done? Assess. Evaluation High. Educ. 2008,
+33, 301-314. [CrossRef]
+36. Orzan, G.; Cruceru, A.F.; Balaceanu, C.T.; Chivu, R.G. Consumers' behaviour concerning sustainable packaging: An exploratory study on Romanian consumers. Sustainability 2018, 10, 1787. [CrossRef]
+37. Sun, Y.; Wang, S. Understanding consumers' intentions to purchase green products in the social media marketing context. Asia Pac. J. Mark. Logist. 2019, 32, 860-878. [CrossRef]
+38. Hair, J.F.; Risher, J.J.; Sarstedt, M.; Ringle, C.M. When to use and how to report the results of PLS-SEM. Eur. Bus. Rev. 2019, 31, 2-24. [CrossRef]
+
+
+
+39. Shmueli, G.; Sarstedt, M.; Hair, J.F.; Cheah, J.-H.; Ting, H.; Vaithilingam, S.; Ringle, C.M. Predictive model assessment in PLS-SEM: Guidelines for using PLSpredict. Eur. J. Mark. 2019, 53, 2322-2347. [CrossRef]
+40. Hair, J.F.; Sarstedt, M.; Ringle, C.M.; Mena, J.A. An assessment of the use of partial least squares structural equation modeling in marketing research. J. Acad. Mark. Sci. 2012, 40, 414-433. [CrossRef]
+41. Henseler, J.; Ringle, C.M.; Sarstedt, M. A new criterion for assessing discriminant validity in variance-based structural equation modeling. J. Acad. Mark. Sci. 2015, 43, 115-135. [CrossRef]
+42. Hair, J.F.; Ringle, C.M.; Sarstedt, M. Partial Least Squares Structural Equation Modeling: Rigorous Applications, Better Results and Higher Acceptance. Long Range Plan. 2013, 46, 1-12. [CrossRef]
+43. Usakli, A.; Kucukergin, K.G. Using partial least squares structural equation modeling in hospitality and tourism: Do researchers follow practical guidelines? Int. J. Contemp. Hosp. Manag. 2018, 30, 3462-3512. [CrossRef]
+44. Auliandri, T.A.; Thoyib, A.; Rohman, F.; Rofiq, A. Does green packaging matter as a business strategy. Explor. Young Consum. Consum. Emerg. Market. Probl. Perspect. Manag. 2018, 16, 376-384.
+45. Mancini, P.; Marchini, A.; Simeone, M. Which are the sustainable attributes affecting the real consumption behaviour? Consumer understanding and choices. Br. Food J. 2017, 119, 1839-1853. [CrossRef]
+46. Hsu, C.-L.; Chang, C.-Y.; Yansritakul, C. Exploring purchase intention of green skincare products using the theory of planned behavior: Testing the moderating effects of country of origin and price sensitivity. J. Retail. Consum. Serv. 2017, 34, 145-152. [CrossRef]
+47. Bezawada, R.; Pauwels, K. What is special about marketing organic products? How organic assortment, price, and promotions drive retailer performance. J. Mark. 2013, 77, 31-51. [CrossRef]
+48. Lisboa, A.; Vitorino, L.; Antunes, R. Gen Zers' intention to purchase products with sustainable packaging: An alternative perspective to the attitude-behaviour gap. J. Mark. Manag. 2022, 38, 967-992. [CrossRef]
+49. Yu, Z.; Jung, D.; Park, S.; Hu, Y.; Huang, K.; Rasco, B.A.; Chen, J. Smart traceability for food safety. Critical Reviews in Food Sci. Nutr. 2022, 62, 905-916. [CrossRef] [PubMed]
+50. Branca, G.; Resciniti, R.; Loureiro, S.M.C. Virtual is so real! Consumers' evaluation of product packaging in virtual reality. Psychol. Mark. 2022. [CrossRef]
+51. Marozzo, V.; Raimondo, M.A.; Miceli, G.; Scopelliti, I. Effects of au naturel packaging colors on willingness to pay for healthy food.
+Psychol. Mark. 2019, 37, 913-927. [CrossRef]
+
+

@@ -1,0 +1,1842 @@
+European Journal of Innovation Management
+Service innovation and customer satisfaction: the role of customer value creation
+Mahmoud Abdulai Mahmoud, Robert Ebo Hinson, Patrick Amfo Anim,
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Article information:
+To cite this document:
+Mahmoud Abdulai Mahmoud, Robert Ebo Hinson, Patrick Amfo Anim, (2017) "Service innovation
+and customer satisfaction: the role of customer value creation", European Journal of Innovation
+Management, https://doi.org/10.1108/EJIM-09-2017-0117
+Permanent link to this document:
+https://doi.org/10.1108/EJIM-09-2017-0117
+Downloaded on: 15 December 2017, At: 02:10 (PT)
+References: this document contains references to 104 other documents.
+To copy this document: permissions@emeraldinsight.com
+
+Access to this document was granted through an Emerald subscription provided by emeraldsrm:425905 []
+
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald
+for Authors service information about how to choose which publication to write for and submission
+guidelines are available for all. Please visit www.emeraldinsight.com/authors for more information.
+
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company
+manages a portfolio of more than 290 journals and over 2,350 books and book series volumes, as
+well as providing an extensive range of online products and additional customer resources and
+services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the
+Committee on Publication Ethics (COPE) and also works with Portico and the LOCKSS initiative for
+digital archive preservation.
+*Related content and download information correct at time of download.
+
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/1460-1060.htm
+
+Service innovation and customer
+satisfaction: the role of customer
+value creation
+
+Service
+innovation
+and customer
+satisfaction
+
+Mahmoud Abdulai Mahmoud
+Department of Marketing and Entrepreneurship, University of Ghana,
+Accra, Ghana
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Robert Ebo Hinson
+
+Received 7 September 2017
+Revised 20 November 2017
+Accepted 20 November 2017
+
+Department of Marketing and Entrepreneurship, University of Ghana,
+Accra, Ghana and
+University of the Free State Business School, Bloemfontein, South Africa, and
+
+Patrick Amfo Anim
+Department of Marketing and Entrepreneurship, University of Ghana,
+Accra, Ghana
+Abstract
+Purpose – The purpose of this paper is to explore the relationships between service innovation, customer value
+creation (CVC) and customer satisfaction (CS) with specific emphasis to Ghanaian telecommunication operators.
+Design/methodology/approach – Assuming a positivist philosophical approach with a quantitative data
+analysis technique, the study samples 510 registered adult customers of at least one telecommunication network
+in Ghana. An exploratory factor analysis, confirmatory factor analysis and structural equation modeling were
+used to assess and confirm the proposed scales validity and the relationships of the research model.
+Findings – The study unveiled that a service firm’s ability to achieve CS is dependent on how
+telecommunication operators harness and deploy their service innovation activities. In addition, the study
+showed that CVC mediates the relationship between service innovation and CS. Thus, service innovation
+must create value for customers in order to enhance CS.
+Practical implications – By relating the study findings to firms’ innovation strategies, managers can
+improve the strength of their service offerings to achieve CS by spending more on consumer research, market
+research and increased customer interactions.
+Originality/value – Considering the uniqueness of this study in a Ghanaian context, the research draws on
+two influential theories, which are signaling theory and expectation disconfirmation theory to examine the
+differential role played by service innovation in enabling telecommunication operators in Ghana, to create
+customer value in order to achieve CS amidst the constraints in the business environment.
+Keywords Innovation, Ghana, Customer satisfaction, Telecommunication industry, Service innovation,
+Customer value creation
+Paper type Research paper
+
+1. Introduction
+In a global competitive market place where consumers seek value in their daily purchases,
+innovation has become contemporarily essential in both theory and practice. Innovation is
+all about offering new or adapted solutions to customer needs or problems in such a way
+that adds value as defined and used by customers (Vargo and Lusch, 2004; Michel et al.,
+2008). In Sub-Saharan African countries, for which Ghana is not an exception, the
+continuous growth in technology and its sophistication, coupled with the proliferation of
+mobile phones, especially in the telecommunication industry (Aker and Mbiti, 2010), have
+pushed many mobile network operators to build robust innovative service products in order
+to gain consumer satisfaction.
+Evidently, it can be seen that operators within the Ghanaian telecom sector have
+introduced several innovative services in order to offer customers with variety of choices,
+
+European Journal of Innovation
+Management
+© Emerald Publishing Limited
+1460-1060
+DOI 10.1108/EJIM-09-2017-0117
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+aside simply receiving and making phone calls (Mahmoud and Hinson, 2012). The purpose
+of this move is to increase the satisfaction of customers toward their service offerings.
+The strength of achieving customer satisfaction (CS) is therefore acknowledged as a
+significant indicator of a service innovation success. Despite the tremendous benefits firms
+acquire from satisfied customers, and the heavy investments made toward innovation to
+achieve these benefits, Wilke and Sorvillo (2005) explain that a vast majority of innovations
+fail within the first three years of their introduction into the market place. In recognition of
+this challenge, one key issue championed by marketing scholars, academics and
+practitioners is acknowledging that the success of service innovation to achieve CS greatly
+depends on customer value creation (CVC).
+In the past, there have been some erroneous perceptions that innovation was a preserve of
+manufacturing businesses, reflecting the fact that innovation theory has its roots in a time
+where manufacturing was the major economic activity (Drejer, 2004). While services are seen
+to be generating a lot more to support nations’ GDP and have outdistanced manufacturing
+from an employment perspective (Menor et al., 2002), manufacturing has continued to
+dominate innovation studies ( Jaw et al., 2010; McDermott and Prajogo, 2012). Quite
+profoundly, an earlier taxonomical review of literature on innovation studies revealed a
+paucity of research in the area of services, with little clear coverage of the subject area
+(Küpper, 2001; Hauser et al., 2006; Jaw et al., 2010). Scholars such as Ettlie and Rosenthal (2012)
+and Ostrom et al. (2010) have therefore championed a call for further extensively research into
+the area of innovation in services. In an attempt to catch up with the pace of manufacturing
+innovation, scholars have looked at different aspects of service innovation subject to the view
+of bridging this gap (Flint et al., 2005; Oke, 2007; Yusif, 2012; Carlborg et al., 2014). In spite of
+these attempts, a major area of service innovation literature that has not yet received massive
+attention is the service innovation measurement, particularly from the customers perspective
+( Janssen, 2011), as the above-mentioned studies mainly focused on management’s perception.
+With respect to CVC, despite its centrality to marketing thought, research on the concept is
+still nascent and in the early stages of conceptual development (Zhao et al., 2015; Cheng and
+Chen, 2009; Brodie et al., 2009; Palmatier, 2008; Woodruff and Flint, 2006). Many companies
+fail to meet customer expectations with respect to creating customer value (Cheng and Chen,
+2009; Klingmann, 2007; Van Riel and Lievens, 2004), probably because managers are not
+completely sure of what brings value to the customer, or how it is created. The apparent
+confusion of how value is defined by different scholars lend to the fact that there is a real
+importance for a study in value creation. This study makes an attempt to fill this gap by
+investigating into the value creation process and consumption of value by the customer.
+Contextually, the study is conducted in an emerging economy. The study sees a contextual
+gap in the literature as empirical tests of potential business outcomes of innovation in service
+firms are heavily biased to data originating in developed nations’ settings (e.g. Sundbo, 1997;
+Grawe et al., 2009; Carlborg et al., 2014), meaning the benefits or costs of investing in
+innovation in less developed societies are unknown. The study sees the scanty research into
+innovation in service firms in emerging market contexts as telling, since the literature
+indicates that the beneficial effects of a firm’s strategic orientation such as an innovation may
+be context specific as opposed to being universally applicable (e.g. Li and Zhou, 2010).
+This study is opportune, as there is increasing call by scholars for an extensive study
+that focuses on innovation in services, which has arguable received scanty research focus
+and its impact on CS within the African context (e.g. Li and Zhou, 2010). This paper,
+therefore, sought to find answers to the following questions:
+RQ1. What is the effect of service innovation in terms of new service concept (NSC), new
+service process (NSP) and new technological systems (NTSs) on CS in Ghana’s
+telecommunication industry?
+
+RQ2. What is the relationship between service innovations, customer value creating and
+CS in the telecommunication industry in Ghana?
+RQ3. Does CVC have a negative or positive effect on CS in the telecommunication
+industry in Ghana?
+2. Theoretical foundation and hypotheses development
+The theoretical foundation of this study is based on two influential theories. They are
+as follows:
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+(1) signaling theory (ST); and
+(2) expectation disconfirmation theory (EDT).
+2.1 ST
+ST and EDT have since become dominant contemporary approaches to the analysis of
+innovation and satisfaction research (Pappu and Quester, 2016; Henard and Dacin, 2010;
+Boulding and Kirmani, 1993; Kirmani, 1990; Erdem and Swait, 1998; Giese and Cote, 2000).
+Far back from the time of Spence (1974), who was the first to formally model the signaling
+equilibria, the theory as of today, has become the basis of many models, ideas, other theories
+and hypotheses. Importantly, the ST provides a parsimonious clarification amongst
+frameworks used in extant literature to explain the innovativeness-satisfaction relationship
+(Henard and Dacin, 2010). This is so because of the complex nature of other theories, such as
+the exchange theory, cues utilization theory and many others (Eisingerich and Rubera, 2010;
+Kunz et al., 2011). The basic premise of the ST, as suggested by prominent scholars like
+Spence (1974, 2002) and Stigler (1961), is that the market place is characterized by
+information asymmetry or imperfect information. Thus, unlike the firm, consumers do not
+have the full information required for judging the quality or value of an innovation in
+services newly introduced into the market (Stiglitz, 2000). Firms therefore attempt to convey
+information about the quality and value of their innovations to the market using signals.
+Consumers therefore rely on variables such as advertising (Kirmani, 1990), brand name
+(Erdem and Swait, 1998; Rao et al., 1999), price (Dawar and Sarvary, 1997) and warranty
+(Boulding and Kirmani, 1993), as signals to infer value of these communicated innovations,
+to determine their satisfaction or dissatisfaction levels.
+2.2 EDT
+EDT further provides explanation to how customers become satisfied with an
+introduction of a new product or service offering. Expectancy disconfirmation theory is
+built on the base of cognitive dissonance theory definition, which was developed by Leon
+Festinger in 1957, to explain how dissonance between an individual’s cognition and reality
+influence his/her subsequent cognition and/or behavior (Bhattacherjee and Premkumar,
+2004). EDT measures CS from the difference between customer’s expectation and
+experience in perceived products or services (Oliver, 1980; Patterson et al., 1996).
+EDT has been used severally to examine various field of study, such as marketing
+(Oliver, 1977, 1980; Diehl and Poynor, 2010; Santos and Boote, 2003), tourism
+(Fallon and Schofield, 2003), psychology (Gotlieb et al., 1994), information technology
+(Bhattacherjee and Premkumar, 2004; Bhattacherjee, 2001a, b; Hsu et al., 2006; Khalifa and
+Liu, 2002), repurchase behavior and retention (Bhattacherjee and Premkumar, 2004;
+Hsu et al., 2006; Patterson et al., 1996), and the airline industry (Chen, 2008) for a better
+understanding of customer’s expectations and requirements for attracting their
+satisfaction. The basic premise of the EDT model is that customers form expectation
+
+Service
+innovation
+and customer
+satisfaction
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+before the purchase or use of an offering. These expectations are used as a frame of
+reference in the evaluation/judgment of the actual performance perception. CS therefore
+emerges after the comparison between the perceived performance and pre-purchase/use
+expectations. Three possible outcomes occur at this stage: the customer becomes satisfied,
+neutral or dissatisfied toward the new product or service offering.
+2.3 Service innovation and CS
+The key to remaining competitive and surviving in the market is the firm’s ability to provide
+products tailored to meet the needs of its customers. In a chain relationship, scholars have
+suggested that the key to remaining competitive through meeting customer needs is
+innovation (Darroch and McNaughton, 2002), as trends, customer needs and perceptions
+keep evolving with the passage of time. In this respect, firms in attempt to produce superior
+value at all times have to adopt the practice and culture of innovation. This is to say that
+innovation explicably increases the chances of the firm producing to meet the very need of
+customers, consequently offering opportunity for the firm to satisfy its customers.
+2.4 Service innovation and CVC
+In today’s competitive global market, companies should focus on their customers’ needs to
+gain an understanding of the buyer’s entire value chain (holistic needs), referring to not only
+as it is today (the current needs), but also as it changes/evolves over time (anticipated needs)
+(Slater and Narver, 1994). Companies should then use the understanding of the buyer’s value
+chain to mix and match their various products and/or services (service package/bundle),
+refer to adaptations of existing services or newly launched services, and adjust or evolve
+the processes to deliver and maintain these services (like improved service delivery rates), to
+meet the customer’s needs with the goal to influence the customers perceived value of
+the offering. Service innovations can be regarded as a value creating activity (Slater and
+Narver, 1995).
+For service providers, innovating services in such a way that enables them to serve their
+customer’s present and future needs which adds to their perceived value is what establishes
+a firm’s competitive advantage (Kandampully and Duddy, 1999). Besides, innovation on its
+own is of lesser significance, as it is the value of the innovation as perceived by the customer
+that provides the advantage of the offering (Chapman et al., 2002). According to Tether et al.
+(2001), service innovations typically transform the state of the customer’s perceptions
+(De Jong et al., 2003). This influence will add to the customer’s perception of the value of the
+service, as has also been suggested in other studies (Flint et al., 1997; Kandampully and
+Duddy, 1999). The view of service innovation as a value creating activity or one that
+influences/adds to the perceived value of the offering is important, as it suggests and
+emphasizes the interrelation between service innovation and perceived customer value.
+2.5 Service innovation, CVC and CS
+Within this study, CS has been defined as a response to an evaluation of perceived product
+or service performance, based on the customer’s judgments of the value that has been
+created for them (Flint et al., 1997). While perceived customer value has been defined as the
+customer’s assessment of the value that has been created for them by a supplier, given the
+trade-offs between all relevant benefits and sacrifices in a specific use situation (Flint et al.,
+2002). When looking at these definitions, one can easily confuse one with the other.
+Although they show similarities, they are different.
+Based on the comparison of the definitions, theoretically, perceived customer value
+antecedes CS, as the value judgment (perceived value) comes before the evaluation response
+(satisfaction). The theoretical relation between perceived customer value and CS has been
+empirically confirmed as several service marketing literature have shown the CVC concept
+
+to be an important factor in gaining CS (Zeithaml, 1988; McDougall and Levesque, 2000;
+Cronin et al., 2000; Wang and Ahmed, 2004; Turel and Serenko, 2006; Hume and
+Sullivan Mort, 2008; Kuo et al., 2009). The argument for creating customer value as a
+significant driver of CS is that when customers perceive higher levels of value in an offering
+they are likely to feel positive about their consumption experience and purchase decision
+(Oh, 2000; Zeithaml, 1988).
+From the ensuing discussion, the researchers propose a conceptual model presented in
+Figure 1, which theorizes that firm’s innovation in services acts as an antecedent to CVC to
+enable firms gain CS. It can, therefore, be hypothesized that:
+
+Service
+innovation
+and customer
+satisfaction
+
+H1. A NSC innovation has a positive and significant relationship on CS.
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+H2. A NSP has a positive and significant relationship on CS.
+H3. A NTS innovation has a positive and significant relationship on CS.
+H4. The greater the fit between a service firm’s CVC and service innovation, the greater
+the CS.
+H5. There is a positive and significant relationship between CVC and CS.
+
+3. Methodology
+This paper adopts a positivist methodological paradigm in formulating research questions,
+hypothesis and empirically testing constructs under careful controlled circumstances
+(Boateng, 2016). In this quantitative study, a survey design was used with a semi-structured
+questionnaire as the primary data collection instrument. The survey strategy is deemed
+appropriate due to the fact that it is usually associated with a deductive approach and
+explanatory research of this nature. Adopting a convenience sampling technique, the study
+sampled 510 registered adult customers of at least one telecommunication network in the
+Greater Accra metropolitan area out of a target population of all registered adult subscribers
+of mobile telecommunication network in Greater Accra.
+
+New service
+concept
+innovation
+
+New service
+process innovation
+
+Customer value
+creation
+functional value
+emotional value
+social value
+
+H5
+
+H4
+
+H1-H3
+
+Customer
+satisfaction
+cumulative view
+outcome view
+
+New technological
+system innovation
+
+Source: Researchers’ own construct (2017)
+
+Figure 1.
+Conceptual framework
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+Statistical Package for Social Sciences (SPSS V.20) was used for the preliminary coding and
+inputting of the raw data as well as for data cleaning and exploratory factor analysis (EFA).
+Drawing on the view of Pallant (2011), three main steps were followed in carrying out the
+EFA: “(1) Assessment of the suitability of the data for factor analysis, (2) Factor extraction,
+and (3) Factor rotation and interpretation.” After EFA, a confirmatory factor analysis (CFA)
+was performed before onward transferal to AMOS 22 for further analysis. It must be
+mentioned that there were two different sets of data responses used for the EFA and CFA; 200
+responses were used for the EFA while 310 were used for the CFA. Thus, two major phases
+were undergone in carrying out the analysis. The proposed model was, therefore, assessed for
+model fitness using the structural equation modeling (SEM) via Amos 22. Assessing model fit
+involves the interpretation of how well the conceptualized model fits the empirical research.
+The process is comparative in nature because it involves choosing between numerous fit
+indices that subjectively indicate whether the data fit the theoretically postulated model
+(Bagozzi and Yi, 2012; Hair et al., 2010; Schumacker and Lomax, 2004). Scholars have
+proposed a number of fit indices. However, there are at least two main conventions for the
+assessment of model fit that are apparent in literature; thus, the assessment of the absolute fit
+of the model and the assessment of the comparative fit (Tanaka, 1993).
+Model fit criteria commonly used in absolute fit are χ2, goodness-of-fit index (GFI),
+adjusted goodness-of-fit index, root mean square residual and root mean square error of
+approximation (RMSEA). These criteria are based on differences between the observed and
+model-implied correlation or covariance matrix (Hair et al., 2014). Comparative fit deals with
+whether the model being considered is better than a competing model in accounting for
+observed data. Comparative fit assessment is based on the examination of a “baseline”
+model in comparison with theoretically derived models (Kelloway, 1998). Some criteria in
+this category include normed fit index (NFI), comparative fit index (CFI) and the relative
+non-centrality index. The following fit indexes were used to evaluate how well the
+measurement model fit the data collected, with each one having conventionally acceptable
+values: RMSEA ⩽ 0.08, GFI ⩾ 0.90, NFI ⩾ 0.90 and CFI ⩾ 0.90 (Hair et al., 2014; Bagozzi and
+Yi, 2012; Hu and Bentler, 1999). The sufficiency of the theorized model’s creation of a
+covariance matrix is evaluated by the χ2 goodness-of-fit value; it also estimates coefficients
+compared with the observed covariance matrix. However, since the value of χ2 is affected by
+the sample size, a large number of participants can cause χ2 to be inflated when assessing
+model fit (Hu and Bentler, 1999). Many researchers have applied the method that divides the
+value of χ2 by degrees of freedom instead of relying only on the overall χ2and its associated
+test of significance. It is typically suggested that a normed χ2 of less than 3 is favorable for a
+large sample. These fit indices were employed to assess the strength and acceptability of the
+construct measurements. The selection of these fit indices was based on the classification
+proposed by Kline (2015) and Byrne (2013) as being the most commonly accepted criteria in
+social sciences.
+To ensure reliability of the current study, two main criteria were adopted which include
+Cronbach’s α and composite reliability (CR), which are widely and mostly used in SEM
+(Hair et al., 2016). To ensure validity in this study, construct validity measures such as
+convergent validity (Rezaei and Ghodsi, 2014; Rezaei, 2015) and discriminant validity
+(Rezaei, 2015; Rezaei and Ghodsi, 2014) were employed. Discriminant validity used construct
+correlations and cross-loading criterion while convergent validity employed average
+variance extracted (AVE) and factor loadings (Kim et al., 2016; Rezaei, 2015).
+4. Results
+Before performing the actual analysis of the main data, preliminary data analysis (PDA)
+was done. During the PDA, data sets and variables were cleaned and cleansed to eliminate
+unengaged responses, outliers and replace missing data. Data analysis was then conducted
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+in different distinct phases. First the paper shows the descriptive statistics of measurement
+items; depicts the exploratory and CFA; tests for hypothesis; examines the mediating effect
+of CVC on service innovation and CS; and finally discusses the findings.
+4.1 Descriptive statistics of measurement items
+Table I shows the means and standard deviations of the various variables used. The highest
+mean was 4.033 (my mobile service has automated service options) while the lowest was
+2.868 (using my mobile service gives me pleasure). This gives an indication that
+telecommunication network subscribers are satisfied with their network providers
+automated service options that give them adequate and frequent information through ATM
+alerts, SMS alerts and many others. However, subscribers indicated that they gain very little
+pleasure with their mobile service. The 35 variables displayed in Table I represented the
+components of the five main constructs depicted in the conceptual framework for the study:
+NSC, NSP, NTS, CVC and CS.
+4.2 EFA
+The 35 items used for the scales on the conceptual constructs were factor analyzed and
+subjected to principal component analysis (PCA) using SPSS version 22. Prior to performing
+PCA, the suitability of data for factor analysis was assessed. The Kaiser-Meyer-Olkin value
+was 0.878, exceeding the recommended value of 0.6 (Kaiser, 1970) and Bartlett’s (1954) test
+of sphericity reached statistical significance (approx.: χ2 ¼ 5,469.993, df 595, sig. 0.000). This
+confirms that there was a significant correlation among the variables; thus, factor analysis
+was appropriate. The PCA revealed the presence of seven components with eigenvalues
+exceeding 1. The seven-component solution altogether explained 63.088 percent of the
+variance, with the highest component contributing 10.842 percent and the lowest component
+contributing 7.923 percent.
+To assist in the interpretation of these seven components, varimax method of rotation
+was performed on the 35 variables to examine the number of strong loadings and ascertain
+the specific variables which loaded substantially onto the various components. The variable
+loadings for EFA are considered high if they are all 0.7 or greater to be retained for analysis,
+although some scholars suggest a considerable loading value of 0.5 to be adequately strong
+(Hair et al., 2014). Out of 35 variables rotated, 33 loaded perfectly onto 7 components with a
+threshold of 0.6. Table II presents a comparison of the principal component extraction of the
+various rotation methods as well as the internal consistency measures on the final retained
+variables of the various constructs.
+Having established an internal consistency in the final structures of the construct scales
+through the EFA, the second phase of the study was conducted. The surviving items were
+designed into a new questionnaire in order to test the relationships among the constructs of
+the study. A 33-item questionnaire was therefore re-designed to collect data from 310 adult
+registered subscribers of at least one telecommunication network in Greater Accra,
+exclusive of those used for the exploratory design. The subsequent section presents the
+results obtained from the CFA analysis for the purpose of establishing the best possible
+underlying structure for the conceptual model of the study.
+4.3 CFA
+The measurement models of the five constructs (NSC, NTS, NSP, CVC and CS) were
+assessed through a CFA. It must be noted that the variable codes stipulated in the EFA were
+maintained in the confirmatory stage. As a result, the codes represent the scale statements
+indicated earlier in this paper. Consequently, the original measurement model was then
+subjected to modification according to the sizes of factor loadings, cross-loadings,
+
+Service
+innovation
+and customer
+satisfaction
+
+EJIM
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Scale items
+
+Table I.
+Descriptive statistics
+of variables
+
+Variable
+codes
+
+My mobile service has creative service packages (voice, SMS and
+NSC1
+internet combinations)
+My mobile service has flexible service package options (client
+NSC2
+customization)
+My mobile service is noticeably different in concept and design, compared NSC3
+to preceding services
+My mobile service is a totally different service experience compared to NSC4
+preceding services
+My mobile service is noticeably different in concept and design, compared NSC5
+to competing services
+My mobile service has online service options (procedures, support and
+NSP1
+usage history)
+My mobile service has automated service options
+NSP2
+My mobile service provider uses modern interaction media (creative
+NSP3
+website, social media)
+My mobile service provider has mobile shops at special occasions or events NSP4
+My mobile service provider offers quick and easy call center support
+NSP5
+My mobile service has many innovative features (SMS to e-mail, calling circles) NTS1
+My mobile service provider offers the latest user equipment
+NTS2
+My mobile service provider is always the first on the market with the
+NTS3
+latest technology
+My mobile service is based on the latest technology applications
+NTS4
+My mobile service provider shows its efforts for service
+NTS5
+quality improvement
+My mobile service usage makes me feel good
+CVCEM1
+I find my mobile network service engaging
+CVCEM2
+Using my mobile service gives me pleasure
+CVCEM3
+Using my mobile service makes me feel relaxed
+CVCEM4
+Using my mobile service is an enjoyment
+CVCEM5
+My mobile service is worth the price I pay
+CVCFU1
+My mobile service is worth the technical quality
+CVCFU2
+My mobile service is worth the customer service
+CVCFU3
+My mobile service offers consistent quality of service
+CVCFU4
+Using my mobile service is not a financial burden or stress
+CVCFU5
+My mobile service usage makes a good impression in my social group
+CVCSO1
+My mobile service usage gives me a sense of belonging
+CVCSO2
+My mobile service usage helps me to feel accepted by others
+CVCSO3
+Using my mobile service gives me social approval and recognition
+CVCSO4
+My mobile service usage improves the way I am perceived by other people CVCSO5
+What is your overall satisfaction level regarding the mobile call
+CSO1
+service (voice)?
+What is your overall satisfaction level regarding the mobile internet
+CSO2
+service?
+What is your overall satisfaction level regarding the additional mobile
+CSO3
+services (SMS, voice mail)?
+What is your overall satisfaction level regarding the customer service? CSO4
+What is your overall satisfaction level regarding the total mobile
+CSO5
+service offering?
+
+SE
+Mean mean
+
+SD
+
+3.454
+
+0.069 1.207
+
+3.391
+
+0.067 1.169
+
+3.266
+
+0.068 1.179
+
+3.194
+
+0.064 1.122
+
+3.197
+
+0.070 1.216
+
+4.003
+
+0.055 0.956
+
+4.033
+3.934
+
+0.046 0.804
+0.050 0.869
+
+3.655
+3.599
+3.484
+3.112
+3.589
+
+0.054
+0.060
+0.058
+0.063
+0.054
+
+3.635
+3.474
+
+0.054 0.934
+0.059 1.024
+
+3.375
+3.030
+2.868
+3.247
+3.135
+3.763
+3.530
+3.424
+3.595
+3.434
+3.530
+3.480
+3.151
+3.526
+3.319
+3.500
+
+0.063
+0.063
+0.063
+0.062
+0.063
+0.061
+0.062
+0.061
+0.059
+0.060
+0.056
+0.057
+0.061
+0.058
+0.059
+0.059
+
+3.454
+
+0.060 1.043
+
+3.434
+
+0.058 1.013
+
+3.217
+3.171
+
+0.061 1.056
+0.063 1.104
+
+0.93
+1.048
+1.015
+1.096
+0.947
+
+1.092
+1.097
+1.103
+1.079
+1.092
+1.064
+1.087
+1.069
+1.026
+1.054
+0.974
+0.992
+1.064
+1.008
+1.025
+1.037
+
+measurement errors and correlation between measurement errors. In the case of this
+investigation, the AMOS software output suggested modification of some items via
+stage-by-stage re-specifications of some weak variables. As a result, scale items were rather
+dropped systematically to ensure that the deletion of each item was necessary. During the
+modification of the original unfitted model, six items (CVCF1, CVCFU3, CVCEM3, CVCEM5,
+
+Items
+Factor 1
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Factor 2
+
+Factor 3
+
+Factor 4
+
+Factor 5
+
+Factor 6
+
+Factor 7
+
+Principal component loadings and internal consistencies
+Variance
+Item-total α if item is
+Variable codes Varimax loadings explained Cronbach’s α KMO correlation
+deleted
+NSC1
+NSC2
+NSC3
+NSC4
+NSC5
+CVCFU1
+CVCFU2
+CVCFU3
+CVCFU4
+CVCFU5
+CVCEM1
+CVCEM2
+CVCEM3
+CVCEM4
+CVCEM5
+NSP1
+NSP2
+NSP3
+NSP4
+NSP5
+CS1
+CS2
+CS3
+CS4
+CVCSO2
+CVCSO3
+CVCSO4
+CVCSO5
+NTS1
+NTS2
+NTS3
+NTS4
+NTS5
+
+0.810
+0.840
+0.860
+0.843
+0.809
+0.757
+0.788
+0.707
+0.669
+0.696
+0.638
+0.800
+0.693
+0.790
+0.780
+0.670
+0.801
+0.789
+0.694
+0.685
+0.711
+0.778
+0.808
+0.734
+0.715
+0.625
+0.707
+0.687
+0.705
+0.687
+0.636
+0.638
+0.685
+
+74.066
+
+0.912
+
+0.846
+
+61.994
+
+0.846
+
+0.836
+
+63.674
+
+0.856
+
+0.842
+
+59.149
+
+0.822
+
+0.827
+
+64.170
+
+0.812
+
+0.764
+
+63.511
+
+0.807
+
+0.757
+
+54.503
+
+0.790
+
+0.782
+
+0.756
+0.796
+0.810
+0.785
+0.736
+0.661
+0.748
+0.580
+0.642
+0.638
+0.630
+0.732
+0.570
+0.716
+0.706
+0.578
+0.681
+0.649
+0.578
+0.618
+0.617
+0.680
+0.691
+0.537
+0.661
+0.585
+0.687
+0.561
+0.563
+0.572
+0.581
+0.544
+0.587
+
+0.896
+0.888
+0.885
+0.891
+0.901
+0.812
+0.788
+0.834
+0.818
+0.818
+0.836
+0.810
+0.852
+0.814
+0.817
+0.798
+0.773
+0.778
+0.798
+0.789
+0.770
+0.739
+0.735
+0.807
+0.739
+0.776
+0.726
+0.786
+0.752
+0.751
+0.747
+0.759
+0.745
+
+CVCSO3 and CVCSO5) were deleted from CVC, two items (NSP1, NSP4) from NSP, another
+two items (NSC4, NSC5) from the NSC and one item (CS4) from CS. Thus, 11 items were
+eliminated after the CFA which left the new purified constructs with 22 items which
+provided the best fit indices.
+4.4 Reliability and validity test
+Research scholars such as Bagozzi and Yi (2012) have specifically suggested that “testing of
+a structural model may be meaningless unless it is established that the measurement model
+holds; if the chosen indicators for a construct do not measure that construct, the specified
+theory must be modified before it can be tested.” Table III shows the robustness test result
+of the study constructs for the model to check for model fit.
+Table III depicts the PCA which revealed the presence of seven components, internal
+consistencies of items, reliability test and validity test. Data reliability was tested via
+Cronbach’s α and CR. For CR, the values recorded a range between 0.70 and 0.90. Evidently,
+all CR values were above 0.6 meeting the acceptable recommended limits stipulated by
+extant renowned research scholars (Hair et al., 2016). Again, the Cronbach’s α coefficients
+
+Service
+innovation
+and customer
+satisfaction
+
+Table II.
+Rotated component
+matrix and internal
+consistencies
+
+EJIM
+
+Constructs
+
+Items
+
+New technological system (NEWTS)
+
+NTS1
+NTS2
+NTS3
+NTS4
+NTS5
+CVCEM1
+CVCEM2
+CVCEM4
+CVCFU2
+CVCFU4
+CVCFU5
+NSP2
+NSP3
+NSP5
+CS1
+CS2
+CS3
+CVCS02
+CVCSO4
+NSC1
+NSC2
+NSC3
+
+Emotional value creation (EMVC)
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Functional value creation (FUNVC)
+New service process (NEWSP)
+Customer satisfaction (CUSTSA)
+Social value creation (SOCVC)
+Table III.
+Validity and reliability New service concept (NEWSC)
+results for CFA final
+measurement model
+
+Standardized loadings
+
+CR
+
+AVE
+
+Cronbach’s α
+
+0.750
+0.800
+0.900
+0.810
+0.760
+0.770
+0.830
+0.690
+0.750
+0.830
+0.800
+0.730
+0.730
+0.720
+0.750
+0.850
+0.710
+0.750
+0.730
+0.790
+0.710
+0.760
+
+0.902
+
+0.649
+
+0.913
+
+0.810
+
+0.588
+
+0.805
+
+0.834
+
+0.626
+
+0.832
+
+0.769
+
+0.525
+
+0.759
+
+0.812
+
+0.591
+
+0.810
+
+0.707
+
+0.547
+
+0.705
+
+0.796
+
+0.566
+
+0.794
+
+ranged from 0.70 to 0.91. The result indicates appreciable values above the accepted
+0.5 desirable level (Coakes et al., 2008; Nunnally, 1978). The researchers ascertained the
+internal consistency to draw validity conclusions for the data using AVE and factor
+loadings. The AVE values fell between 0.50 and 0.65, exceeding the acceptable stipulated
+limits of 0.5 (Fornell and Larcker, 1981; Hair et al., 2016). The factor loadings ranged from
+0.69 to 0.90, which exceeded the acceptable limit of 0.6, showing a strong reliability status of
+the items (Hair et al., 2016).
+4.5 Measurement model fit indices
+In evaluating the appropriateness of the measurement model fit in relation to the data
+collected, conventionally acceptable values including RMSEA ⩽ 0.08, GFI ⩾ 0.90, NFI ⩾ 0.90
+and CFI ⩾ 0.90 (Hair et al., 2016; Bagozzi and Yi, 2012; Hu and Bentler, 1999) were used. The
+sufficiency of most theorized model’s creation of a covariance matrix is evaluated by the χ2
+goodness-of-fit value; it also estimates coefficients compared with the observed covariance
+matrix. The selection of these fit indices was based on the classifications proposed by Kline
+(2015) and Byrne (2013) as being the most commonly and widely accepted criteria in social
+science research. The model fit indices revealed a good fit to the data (RMSEA ¼ 0.04,
+NFI ¼ 0.92, RFI ¼ 0.90, IFI ¼ 0.97 and CFI ¼ 0.97). The χ2-statistic was 1.45 representing the
+normed χ2 value. This value fell within the acceptable limit between 0 and 3. Figure 2 shows
+the final measurement model.
+4.6 Second-order construct measurements model
+This study also modeled one second-order constructs, namely, service innovation, and
+assessed its measurement model. The outer loadings for NTS innovation (0.799), NSP
+innovation (0.878) and NSC innovation (0.853), AVE (0.559), Cronbach’s α (0.898) and CR
+(0.868) were evaluated for the second-order reflective constructs. Composite reliabilities
+
+e1
+
+NTS3
+
+e2
+
+NTS4
+
+0.34
+
+e3
+
+NTS2
+
+0.54
+
+e4
+
+NTS5
+
+e5
+
+NTS1
+
+e6
+
+CVCEM2
+
+e7
+
+CVCEM1
+
+e10
+
+CVCEM4
+
+Service
+innovation
+and customer
+satisfaction
+
+0.90
+0.81
+0.79
+NEWTS
+
+0.70
+0.75
+
+0.25
+0.83
+0.77
+EMVC
+
+0.69
+
+0.23
+
+0.34
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+0.52
+
+e11
+
+CVCFU2
+
+e12
+
+CVCFU4
+
+e13
+
+CVCFU5
+
+0.75
+0.82
+
+0.35
+
+FUNVC
+
+0.80
+
+e17
+
+NSP3
+
+0.34
+
+0.22
+
+NEWSP
+
+0.72
+e19
+
+0.32
+
+0.73
+0.72
+
+NSP2
+
+0.36
+
+0.37
+
+0.25
+
+e16
+
+0.22
+
+NSP5
+
+e21
+
+CS3
+
+0.71
+0.84
+
+e22
+
+CS2
+
+0.75
+
+e23
+
+CS1
+
+0.37
+
+CUSTSA
+
+0.31
+
+e26
+
+CVCS02
+
+e27
+
+CVCS04
+
+0.75
+0.72
+
+SOCVC
+
+0.69
+
+0.39
+
+0.36
+
+0.53
+
+0.40
+
+0.41
+
+0.46
+
+e31
+
+NSC1
+
+e32
+
+NSC2
+
+e35
+
+NSC3
+
+0.79
+0.71
+0.70
+
+NEWSC
+
+exceeded the 0.6 benchmark and Cronbach’s α exceeds 0.70 (Fornell and Larcker, 1981;
+Vandenbosch, 1996).
+The researchers also assessed the fit indices of the second-order construct modeled. The
+model fit indices revealed a good fit to the data (RMSEA ¼ 0.042, NFI ¼ 0.966, RFI ¼ 0.952,
+IFI ¼ 0.988 and CFI ¼ 0.988). The χ2-statistic was 1.545 representing the normed χ2 value.
+This value fell within the acceptable limit between 0 and 3.
+4.7 The structural model
+The structural model conducted in this study was intended to test some hypothetical
+propositions based on the conceptual framework for this research. For this study, the R2
+value for service innovation, NSC, NSP and NTS was 0.221 for CS. The R2 values show
+that a service firm’s innovation in NSC, NSP and NTS could have a moderate predictive
+capacity in determining CS. The path coefficients were assessed based on signs and
+magnitude. The path coefficient and t-value for significant (α) level of 0.05 is 1.96 and
+
+Figure 2.
+Final
+measurement model
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+α level of 0.01 is 2.575. Specifically, a service firms NSC innovation related significantly to CS
+( β ¼ 0.31, po0.01) with a t-value W2.575 (3.932). This indicates that an innovation in a firm’s
+service concept significantly influences CS. Customers are satisfied with their mobile network
+provider’s new ideas or solutions to a problem. Therefore, H1 was supported. Also, a service
+firm’s NSP innovation related significantly to CS ( β ¼ 0.22, po0.01) with a t-value W2.575
+(2.797). This indicates that an innovation in a firm’s service process significantly influences
+CS. Customers are satisfied with the extent to which their mobile service providers alter their
+service systems to enhance value delivery. Therefore, H2 was also supported. However,
+a service firm’s NTS innovation failed to relate significantly to CS ( β ¼ 0.05, pW0.05) with a
+t-valueo2.575 (0.700). This indicates that an innovation in a service firm’s technological
+systems has no significant influence on CS. Customers are not satisfied with their mobile
+networks latest technological options. Therefore, H3 was not supported. The extent of
+variance of the endogenous variables accounted for by the hypothesized influences was as
+follows: R2 for CS ¼ 0.22. This is also displayed in Table IV.
+4.8 Test for mediation
+In testing for the mediation, the second-order construct modeled above was used as it
+combined all the three individual construct, which are NSC, NSP and NTSs to comprise of
+service innovation as operationalized earlier for this study. To establish meditation effects,
+all significant parameters were tested using guidelines from Baron and Kenny (1986) for
+partial and full mediation conditions. A number of regression equations were estimated. In
+this study, first, CVC (mediator) was regressed on service innovation (independent variable)
+and it showed a significant effect (service innovation → CVC, β ¼ 0.60, p ¼ 0.000). Second,
+CS (dependent variable) was regressed on service innovation (independent variable) and
+this showed a significant effect (service innovation → CS, β ¼ 0.59, p ¼ 0.000). Third, CS
+(dependent variable) was regressed on the service innovation (independent variable) and
+CVC (mediator) and the effect was significant (service innovation → CVC → CS, β ¼ 0.60,
+p ¼ 0.000 was recorded for the first path, β ¼ 0.24, p ¼ 0.000 was recorded for the second
+path). The results of the regressions are presented in Table V.
+The assumption was that if all the three relationships are significant, then mediation
+testing would be possible. From Table V, all three relationships tested were significant.
+
+Hypothesis Unstandardized regression path
+
+β estimate t-value p-value Hypothesis results
+
+New service concept → customer satisfaction
+0.31
+3.93
+***
+Supported
+New service process → customer satisfaction
+0.22
+2.80
+0.01
+Supported
+New technological system → customer
+0.05
+0.70
+0.48 Not supported
+satisfaction
+Notes: RMSEA ¼ 0.039, NFI ¼ 0.953, RFI ¼ 0.939, CFI ¼ 0.984, χ2/df ¼ 1.472. p-values of ***Represent 0.000
+significance level
+H1
+H2
+H3
+
+Table IV.
+Hypothesis testing
+
+Model
+
+Table V.
+Mediation
+possibility test
+
+Unstandardized regression path
+
+1
+Service innovation → customer value creation
+2
+Service innovation → customer satisfaction
+3
+Service innovation → customer satisfaction
+4
+Customer value creation → customer satisfaction
+Notes: p-values of ***Represent 0.000 significance level
+
+β estimate
+
+t-value
+
+p-value
+
+0.60
+0.59
+0.59
+0.24
+
+8.31
+8.16
+8.16
+4.21
+
+***
+***
+0.02
+***
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Now, determining the type of relationship, if service innovation on CS is less in the third
+model than in the second model, then the mediation is said to be partial. Full mediation holds
+if the service innovation has no effect when the CVC is controlled. Even though the t-values
+in the third and second models were the same (8.16), the significant level for model
+two ( p-value ¼ 0.00) was stronger than that of model 3 ( p-value ¼ 0.02). This indicates a
+partial mediation.
+After determining that a customer value created by a service firm partially mediates the
+relationship between their service innovation and CS, a systematic analysis was applied to
+the structural model to provide a comprehensive representation of H4 and H5. First,
+the path coefficients for the relationships service innovation and the CS was examined.
+The effect of service innovation on CS was positive and statistically significant ( β ¼ 0.59,
+p-value ¼ 0.02) with a t-value W2.575 (8.16). Second was the inclusion of the mediator.
+The second and third objectives of this study were to identify the mediating role of CVC and
+the relationship between CVC and CS.
+The results indicate that CVC partially mediated the relationship between service
+innovation and CS as both the direct effect with mediator (service innovation → CVC → CS,
+path 1: β ¼ 0.48, p ¼ 0.00; path 2: β ¼ 0.24, p ¼ 0.02) and the indirect effect with mediator
+(service innovation → CS, β ¼ 0.59, p ¼ 0.00) were significant. The results imply that service
+innovation influences CS even without creating customer value. However, CVC improves the
+relationship between service innovation and CS since it has a significant positive
+relationship with CS ( β ¼ 0.24, p ¼ 0.00). This provides support for H4 and H5. Table VI
+presents a summary of the mediation test.
+
+Service
+innovation
+and customer
+satisfaction
+
+5. Discussions
+The key objective of this study is primarily to explore the utilization of service firms’
+innovation to achieve CS on service firms’ CVC efforts. The fundamental question
+underlying the current study is thus articulated as: How do service firms realize
+CS through the deployment of their service innovations amidst the constraints of their
+environment? In an attempt to address this question, the study sought to evaluate three
+key questions which cumulated into both theoretical and empirical investigations in the
+previous chapters.
+5.1 Influence of service innovation on CS
+The first objective of this study sought to examine the influence of Ghanaian
+telecommunication operators’ innovation, that is, in a NSC (H1), or a NSP (H2), or a NTS
+Unstandardized regression path β estimate t-value p-value Hypothesis results
+(Direct effect) without Service innovation → customer
+0.59
+8.16
+***
+Supported
+mediator
+satisfaction
+H4 (direct effect) with Service innovation → customer
+0.59
+8.16
+0.02 Supported
+mediator
+satisfaction
+partial mediation as
+Customer value creation →
+0.24
+4.21
+***
+both direct and
+customer satisfaction
+indirect paths are
+H5 (indirect effect)
+Service innovation → customer
+0.59
+8.16
+***
+significant
+with mediator
+satisfaction
+Customer value creation →
+0.24
+4.21
+***
+Supported
+customer satisfaction
+Notes: RMSEA ¼ 0.043, NFI ¼ 0.95, GFI ¼ 0.98, TLI ¼ 0.96, CFI ¼ 0.99, χ2/df ¼ 1.43. ***p-value: 0.001
+(two-tailed)
+
+Table VI.
+Summary of
+mediation test
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+(H3) on CS. Supporting H1, the findings of the study showed that Ghanaian
+telecommunication operators’ innovation in a NSC has a positive and significant effect on
+CS ( po 0.01). Thus, as firms continuously innovate and strive for the creation of new ideas,
+products and services that have the potential of solving customer problems satisfactorily,
+customers’ consideration to repurchase the service/product is assured. This finding is
+congruent to that of some scholars (Edvardsson et al., 1995, 2005), who posit that
+for a service firm to increase CS, a service concept innovation that has a higher degree
+of solving customer problems, not only providing information on the service system, must
+be implemented.
+Supporting the proposed H2, the results revealed that Ghanaian telecommunication
+operators’ outstanding service process innovations have a positive and significant effect on
+CS ( p o0.05). The results could be interpreted as “a service firm’s deployment of an
+enhanced way of customer interaction and outstanding service delivery process to meet
+customer needs, guarantees customer satisfaction.” This finding confirms Iacobucci et al.’s
+(1994) assertion that during interactions and service delivery that take place between a
+customer and a firm, customers form perceptions about their service encounter, and
+subsequently evaluate whether the service experience met their expectations by providing
+value for them before they consider repurchase intentions.
+Disconfirming the proposed H3, the findings indicated that Ghanaian telecommunication
+operator’s NTS innovation does not significantly relate to CS ( p W0.05). The possible
+translation for this outcome would be that just the mere introduction of a new technology
+application does not guarantee CS. In order to enhance CS in a more significant manner,
+innovation in technological systems must be able to meet customer needs satisfactorily, as
+well as provide outstanding value to customers. Confirming this finding, Joseph and Stone
+(2003) postulate that an organization’s technological innovations will engender CS if only
+they are responsive to advances in the technological environment and meet the expectations
+and needs of customers.
+5.2 Mediating role of CVC on service innovation and CS
+The second objective of the study sought to examine the mediating role of CVC on the
+relationship between their service innovation and CS. To achieve this objective, the
+researcher first modeled a second-order construct named service innovation, which
+combined all three construct, that is, NSC, NSP and NTS, to examine its effect as a whole
+on CS. It was not surprising that service innovation positively and significantly influenced
+CS ( p o0.01). This empirical result therefore can be interpreted that the more Ghanaian
+telecommunication operators engage in robust service innovation practices that meet
+customer needs, the higher the level of their CS toward their service offering. This
+conclusion is consistent with previous studies (Georghious and Keenan, 2006; Georgantzas
+and Acar, 1995; Auluck, 2002). Confirming the findings of earlier studies, Byerlee et al. (2002)
+suggest that through service innovation, companies can create highly satisfied customers
+who are loyal to an organization.
+For the mediation effect, the researcher followed the suggestion of Baron and Kenny
+(1986). From the study, CVC was found to have a mediating effect on the relationship
+between service innovation and CS. Concerning the type of mediation, the results of the
+study showed that CVC partially and significantly mediates the relationship between
+service innovation and CS ( p o0.01). This indicates that telecommunication operators’
+innovations alone can influence CS even without creating customer value. However,
+a service innovation that creates value for customers can better improve and increase
+CS toward the service operator’s offerings. Confirming this result, the findings of
+Chapman et al. (2002) indicate that innovation on its own is of lesser significance, as it is the
+value created by the innovation as perceived by the customer that provides the advantage of
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+the offering. According to Tether et al. (2001), service innovations typically transform the
+state of the customer’s perceptions (De Jong et al., 2003). This influence will add to the
+customer’s perception of the value of the service, as has also been suggested in other studies
+(Flint et al., 1997; Kandampully and Duddy, 1999). Additionally, Kandampully and Duddy
+(1999) severally suggest that a service firms’ innovation that create, serve and add value to
+their customers’ present and future needs is what establishes the firms’ competitive
+advantage through increased CS.
+5.3 The influence of CVC on CS
+The third objective of the study sought to examine the influence of CVC on CS. The findings
+of the study suggested that creating value for customers through a service innovation could
+positively and significantly influence CS ( p o0.00). This result could be interpreted that
+when customers perceive to gain high social value, emotional value and functional value
+from a telecommunication operator’s innovation, they are more likely to feel positive about
+their consumption experience, purchase decision and satisfaction toward the offering.
+This finding is similar to the findings of numerous scholars in different studies within
+marketing literature (Zeithaml, 1988; Rust and Oliver, 1993; McDougall and Levesque, 2000;
+Cronin et al., 2000) who found out that CVC is a significant driver of CS. This finding also
+confirms earlier suggestions that when customers recognize higher levels of value in an
+offering, they are likely to feel positive about their consumption experience and purchase
+decision (Oh, 2000; Zeithaml, 1988).
+6. Managerial implications
+From the research objectives and results, it was found that firms are better positioned if they
+have consumers’ top of the mind consideration to continuously repurchase their products
+and services. This infers that service firms must invest wisely and co-ordinate their service
+innovation activities well, so as to deliver outstanding innovative services that provide
+satisfaction to customers. This will enable companies to gain consumers’ top of the mind
+consideration to build and enhance loyalty.
+Furthermore, this research also identified three interrelated constructs which
+characterize the strategic process through which service firms can harness and deploy
+their service innovations to achieve CS. The conceptual framework for this study suggests
+that NSP, NSC and NTSs should be given astute consideration by managers if they want to
+increase CS toward their service offerings. In this regard, service providers should take into
+account the multi-dimensional nature of service innovation, as the different dimensions
+encompass very different service innovation aspects, offering varying possibilities for them
+to innovate on.
+Service companies should also be aware that the service innovation dimensions are
+interrelated. Hence, changes within one service innovation dimension usually coincide or
+require relating or fitting changes in one or more of the other dimensions. In light of the
+significant results pertaining to service innovation and CVC influencing CS, managers
+should keep up the constant process of service innovation enhancement in order to create
+value for customers.
+Practically, it is logical to realize that customers accepting a service product and their
+intentions to repurchase are essential to gaining higher market share. “Intentions to
+repurchase” is a viable indicator in estimating the number of re-acquisitions of the customer.
+It is therefore essential for managers to need to balance the two very well in order to
+maintain their market share through repeat patronage. Managers can therefore create very
+smart marketing strategies with outstanding service innovations to capture the market
+while leveraging on CVC to maintain their market share.
+
+Service
+innovation
+and customer
+satisfaction
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+7. Conclusion and further research directions
+The first objective of the study provided evidence for the justification that service
+innovation aid in achieving some level of CS. Thus, service innovation in a NSC and a NSP
+positively and significantly influences CS. However, service firm’s NTS innovation had a
+feeble influence on CS. Results from the second objective saw a very strong and significant
+relationship between service innovation, CVC and CS. The third objective revealed a
+positive and significant relationship between CVC and CS.
+From the various analysis and discussions, the study established that service innovation
+in creating customer value has a strong and positive influence on CS. This is essentially
+rational, as a firm’s ability to put together innovative services that meet customers’
+functional, social and emotional value expectations will lead to CS. The study further
+established three major dimensions of service innovation (NSC, NSP and NTS) that are very
+effective in influencing CS.
+The results from this current study are largely in accord with theoretical expectations.
+However, as with any scientific research, there are a number of study limitations and future
+direction which need to be pointed out. This research primarily used a specific service type,
+namely, mobile telecommunication service. This forms a certain limitation, as it may not yet
+be enough to derive conclusions for different types of services within the sector. However,
+this does form a basis for further research, in which other service types, such as hospitality,
+insurance, banking and many others can be assessed, offering data for cross-comparisons
+within the services sector.
+References
+Aker, J.C. and Mbiti, I.M. (2010), “Mobile phones and economic development in Africa”, The Journal of
+Economic Perspectives, Vol. 24 No. 3, pp. 207-232.
+Auluck, R. (2002), “Benchmarking: a tool for facilitating organizational learning?”, Public
+Administration and Development, Vol. 22 No. 2, pp. 109-122.
+Bagozzi, R.P. and Yi, Y. (2012), “Specification, evaluation, and interpretation of structural equation
+models”, Journal of the Academy of Marketing Science, Vol. 40 No. 1, pp. 8-34.
+Baron, R.M. and Kenny, D.A. (1986), “The moderator-mediator variable distinction in social
+psychological research: conceptual, strategic, and statistical considerations”, Journal of
+Personality and Social Psychology, Vol. 51 No. 6, pp. 1173-1179.
+Bartlett, M.S. (1954), “A note on the multiplying factors for various χ2 approximations”, Journal of the
+Royal Statistical Society: Series B (Methodological), Vol. 16 No. 2, pp. 296-298.
+Bhattacherjee, A. (2001a), “An empirical analysis of the antecedents of electronic commerce service
+continuance”, Decision Support Systems, Vol. 32 No. 2, pp. 201-214.
+Bhattacherjee, A. (2001b), “Understanding information systems continuance: an expectation
+confirmation model”, MIS Quarterly, Vol. 25 No. 3, pp. 351-370.
+Bhattacherjee, A. and Premkumar, G. (2004), “Understanding changes in belief and attitude toward
+information technology usage: a theoretical model and longitudinal test”, MIS Quarterly, Vol. 28
+No. 2, pp. 229-254.
+Boateng, R. (2016), Research Made Easy, CreateSpace Independent Publishing Platform, Accra.
+Boulding, W. and Kirmani, A. (1993), “A consumer-side experimental examination of signaling theory:
+do consumers perceive warranties as signals of quality?”, Journal of Consumer Research, Vol. 20
+No. 1, pp. 111-123.
+Brodie, R.J., Whittome, J.R. and Brush, G.J. (2009), “Investigating the service brand: a customer value
+perspective”, Journal of Business Research, Vol. 62 No. 3, pp. 345-355.
+Byerlee, D., Alex, G. and Echeverría, R.G. (2002), “The evolution of public research systems in
+developing countries: facing new challenges”, Agricultural Research Policy in an Era of
+Privatization, CABI Publishing, Washinton, DC.
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Byrne, B.M. (2013), Structural Equation Modeling with LISREL, PRELIS, and SIMPLIS:
+Basic Concepts, Applications, and Programming, Psychology Press.
+Carlborg, P., Kindström, D. and Kowalkowski, C. (2014), “The evolution of service innovation
+research: a critical review and synthesis”, The Service Industries Journal, Vol. 34 No. 5,
+pp. 373-398.
+Chapman, R.L., Soosay, C. and Kandampully, J. (2002), “Innovation in logistic services and the new
+business model: a conceptual framework”, Managing Service Quality: An International Journal,
+Vol. 12 No. 6, pp. 358-371.
+Chen, C.F. (2008), “Investigating structural relationships between service quality, perceived value,
+satisfaction, and behavioral intentions for air passengers: evidence from Taiwan”,
+Transportation Research Part A: Policy and Practice, Vol. 42 No. 4, pp. 709-717.
+Cheng, C.H. and Chen, Y.S. (2009), “Classifying the segmentation of customer value via RFM model and
+RS theory”, Expert Systems with Applications, Vol. 36 No. 3, pp. 4176-4184.
+Coakes, E.W., Coakes, J.M. and Rosenberg, D. (2008), “Co-operative work practices and knowledge
+sharing issues: a comparison of viewpoints”, International Journal of Information Management,
+Vol. 28 No. 1, pp. 12-25.
+Cronin, J.J., Brady, M.K. and Hult, G.T.M. (2000), “Assessing the effects of quality, value, and customer
+satisfaction on consumer behavioral intentions in service environments”, Journal of Retailing,
+Vol. 76 No. 2, pp. 193-218.
+Darroch, J. and McNaughton, R. (2002), “Examining the link between knowledge management practices
+and types of innovation”, Journal of Intellectual Capital, Vol. 3 No. 3, pp. 210-222.
+Dawar, N. and Sarvary, M. (1997), “The signaling impact of low introductory price on perceived quality
+and trial”, Marketing Letters, Vol. 8 No. 3, pp. 251-259.
+De Jong, J.P., Bruins, A., Dolfsma, W. and Meijaard, J. (2003), “Innovation in service firms explored:
+what, how and why”, Business and Policy Research (EIM), Zoetermeer.
+Diehl, K. and Poynor, C. (2010), “Great expectations?! Assortment size, expectations, and satisfaction”,
+Journal of Marketing Research, Vol. 47 No. 2, pp. 312-322.
+Drejer, I. (2004), “Identifying innovation in surveys of services: a Schumpeterian perspective”,
+Research Policy, Vol. 33 No. 3, pp. 551-562.
+Edvardsson, B., Gustafsson, A. and Roos, I. (2005), “Service portraits in service research: a critical
+review”, International Journal of Service Industry Management, Vol. 16 No. 1, pp. 107-121.
+Edvardsson, B., Haglund, L. and Mattsson, J. (1995), “Analysis, planning, improvisation and control in
+the development of new services”, International Journal of Service Industry Management, Vol. 6
+No. 2, pp. 24-35.
+Eisingerich, A.B. and Rubera, G. (2010), “Drivers of brand commitment: a cross-national investigation”,
+Journal of International Marketing, Vol. 18 No. 2, pp. 64-79.
+Erdem, T. and Swait, J. (1998), “Brand equity as a signaling phenomenon”, Journal of Consumer
+Psychology, Vol. 7 No. 2, pp. 131-157.
+Ettlie, J.E. and Rosenthal, S.R. (2012), “Service innovation in manufacturing”, Journal of Service
+Management, Vol. 23 No. 3, pp. 440-454.
+Fallon, P. and Schofield, P. (2003), “First-timer versus repeat visitor satisfaction: the case of Orlando,
+Florida”, Tourism Analysis, Vol. 8 No. 2, pp. 205-210.
+Flint, D.J., Woodruff, R.B. and Gardial, S.F. (1997), “Customer value change in industrial marketing
+relationships: a call for new strategies and research”, Industrial Marketing Management, Vol. 26
+No. 2, pp. 163-175.
+Flint, D.J., Woodruff, R.B. and Gardial, S.F. (2002), “Exploring the phenomenon of customers’
+desired value change in a business-to-business context”, Journal of Marketing, Vol. 66 No. 4,
+pp. 102-117.
+Flint, D.J., Larsson, E., Gammelgaard, B. and Mentzer, J.T. (2005), “Logistics innovation: a customer
+value‐oriented social process”, Journal of Business Logistics, Vol. 26 No. 1, pp. 113-147.
+
+Service
+innovation
+and customer
+satisfaction
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+EJIM
+
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable
+variables and measurement error”, Journal of Marketing Research, Vol. 18 No. 1, pp. 39-50.
+Georgantzas, N.C. and Acar, W. (1995), Scenario-Driven Planning: Learning to Manage Strategic
+Uncertainty, Praeger, Cambridge.
+Georghiou, L. and Keenan, M. (2006), “Evaluation of national foresight activities: assessing rationale,
+process and impact”, Technological Forecasting and Social Change, Vol. 73 No. 7, pp. 761-777.
+Giese, J.L. and Cote, J.A. (2000), “Defining consumer satisfaction”, Academy of Marketing Science
+Review, Vol. 2000 No. 1, pp. 1-27.
+Gotlieb, J.B., Grewal, D. and Brown, S.W. (1994), “Consumer satisfaction and perceived quality:
+complementary or divergent constructs?”, Journal of Applied Psychology, Vol. 79 No. 6,
+pp. 875-885.
+Hair, J.F. Jr, Hult, G.T.M., Ringle, C. and Sarstedt, M. (2016), A Primer on Partial Least Squares
+Structural Equation Modeling (PLS-SEM), Sage Publications, New York, NY.
+Hair, F.J. Jr, Sarstedt, M., Hopkins, L. and Kuppelwieser, V.G. (2014), “Partial least squares structural
+equation modeling (PLS-SEM) an emerging tool in business research”, European Business
+Review, Vol. 26 No. 2, pp. 106-121.
+Grawe, S.J., Chen, H. and Daugherty, P.J. (2009), “The relationship between strategic orientation, service
+innovation, and performance”, International Journal of Physical Distribution & Logistics
+Management, Vol. 39 No. 4, pp. 282-300.
+Hair, J.F. Jr, Black, W.C., Babin, B.J., Anderson, R.E. and Tatham, R.L. (2010), “SEM: an introduction”,
+Multivariate Data Analysis: A Global Perspective, Pearson Education, Upper Saddle River, NJ.
+Hauser, J., Tellis, G.J. and Griffin, A. (2006), “Research on innovation: a review and agenda for
+marketing science”, Marketing Science, Vol. 25 No. 6, pp. 687-717.
+Henard, D.H. and Dacin, P.A. (2010), “Reputation for product innovation: its impact on consumers”,
+Journal of Product Innovation Management, Vol. 27 No. 3, pp. 321-335.
+Hsu, M.H., Yen, C.H., Chiu, C.M. and Chang, C.M. (2006), “A longitudinal investigation of continued
+online shopping behavior: an extension of the theory of planned behavior”, International Journal
+of Human-Computer Studies, Vol. 64 No. 9, pp. 889-904.
+Hu, L.T. and Bentler, P.M. (1999), “Cutoff criteria for fit indexes in covariance structure analysis:
+conventional criteria versus new alternatives”, Structural Equation Modeling:
+A Multidisciplinary Journal, Vol. 6 No. 1, pp. 1-55.
+Hume, M. and Sullivan Mort, G. (2008), “Satisfaction in performing arts: the role of value?”,
+European Journal of Marketing, Vol. 42 Nos 3/4, pp. 311-326.
+Iacobucci, D., Grayson, K.A. and Ostrom, A.L. (1994), “The calculus of service quality and customer
+satisfaction: theoretical and empirical differentiation and integration”, Advances in Services
+Marketing and Management, Vol. 3 No. 1, pp. 1-68.
+Janssen, M.M. (2011), “Managing service innovation: measuring and modelling dynamic service
+innovation capabilities”, Working Paper No. 14.07, Eindhoven Centre for Innovation Studies
+(ECIS), Technische Universiteit, Eindhoven.
+Jaw, C., Lo, J.Y. and Lin, Y.H. (2010), “The determinants of new service development: service
+characteristics, market orientation, and actualizing innovation effort”, Technovation, Vol. 30
+No. 4, pp. 265-277.
+Joseph, M. and Stone, G. (2003), “An empirical evaluation of US bank customer perceptions of the
+impact of technology on service delivery in the banking sector”, International Journal of Retail &
+Distribution Management, Vol. 31 No. 4, pp. 190-202.
+Kaiser, H.F. (1970), “A second generation little jiffy”, Psychometrika, Vol. 35 No. 4, pp. 401-415.
+Kandampully, J. and Duddy, R. (1999), “Competitive advantage through anticipation, innovation and
+relationships”, Management Decision, Vol. 37 No. 1, pp. 51-56.
+Kelloway, E.K. (1998), Using LISREL for Structural Equation Modeling: A Researcher’s Guide,
+Sage Publications, Thousand Oaks, CA.
+
+Khalifa, M. and Liu, V. (2002), “Satisfaction with internet-based services: the role of expectations and
+desires”, International Journal of Electronic Commerce, Vol. 7 No. 2, pp. 31-49.
+Kim, K., Hwang, J., Zo, H. and Lee, H. (2016), “Understanding users’ continuance intention toward
+smartphone augmented reality applications”, Information Development, Vol. 32 No. 2,
+pp. 161-174.
+Kirmani, A. (1990), “The effect of perceived advertising costs on brand perceptions”, Journal of
+Consumer Research, Vol. 17 No. 2, pp. 160-171.
+Kline, R.B. (2015), Principles and Practice of Structural Equation Modeling, Guilford Publications,
+Quebec.
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Klingmann, A. (2007), Brandscapes: Architecture in the Experience Economy, MIT Press, Cambridge.
+Kunz, W., Schmitt, B. and Meyer, A. (2011), “How does perceived firm innovativeness affect the
+consumer?”, Journal of Business Research, Vol. 64 No. 8, pp. 816-822.
+Kuo, Y.F., Wu, C.M. and Deng, W.J. (2009), “The relationships among service quality, perceived value,
+customer satisfaction, and post-purchased intention in mobile value-added services”, Computers
+in Human Behavior, Vol. 25 No. 4, pp. 887-896.
+Küpper, C. (2001), “Service innovation – a review of the state of the art”, Institute of Innovation
+Research and Technology Management, Munich.
+Li, J.J. and Zhou, K.Z. (2010), “How foreign firms achieve competitive advantage in the Chinese
+emerging economy: managerial ties and market orientation”, Journal of Business Research,
+Vol. 63 No. 8, pp. 856-862.
+McDermott, C.M. and Prajogo, D.I. (2012), “Service innovation and performance in SMEs”, International
+Journal of Operations & Production Management, Vol. 32 No. 2, pp. 216-237.
+McDougall, G.H. and Levesque, T. (2000), “Customer satisfaction with services: putting perceived value
+into the equation”, Journal of Services Marketing, Vol. 14 No. 5, pp. 392-410.
+Mahmoud, M.A. and Hinson, R.E. (2012), “Market orientation, innovation and corporate social
+responsibility practices in Ghana’s telecommunication sector”, Social Responsibility Journal,
+Vol. 8 No. 3, pp. 327-346.
+Menor, L.J., Tatikonda, M.V. and Sampson, S.E. (2002), “New service development: areas
+for exploitation and exploration”, Journal of Operations Management, Vol. 20 No. 2,
+pp. 135-157.
+Michel, S., Brown, S.W. and Gallan, A.S. (2008), “Service-logic innovations: how to innovate customers,
+not products”, California Management Review, Vol. 50 No. 3, pp. 49-65.
+Nunnally, J.C. (1978), “Psychometric methods”, McGraw Hill, New York, NY.
+Oh, H. (2000), “The effect of brand class, brand awareness, and price on customer value and behavioral
+intentions”, Journal of Hospitality & Tourism Research, Vol. 24 No. 2, pp. 136-162.
+Oke, A. (2007), “Innovation types and innovation management practices in service
+companies”, International Journal of Operations & Production Management, Vol. 27 No. 6,
+pp. 564-587.
+Oliver, R.L. (1977), “Effect of expectation and disconfirmation on postexposure product evaluations: an
+alternative interpretation”, Journal of Applied Psychology, Vol. 62 No. 4, pp. 480-486.
+Oliver, R.L. (1980), “A cognitive model of the antecedents and consequences of satisfaction decisions”,
+Journal of Marketing Research, Vol. 17 No. 4, pp. 460-469.
+Ostrom, A.L., Bitner, M.J., Brown, S.W., Burkhard, K.A., Goul, M., Smith-Daniels, V., Demirkan, H. and
+Rabinovich, E. (2010), “Moving forward and making a difference: research priorities for the
+science of service”, Journal of Service Research, Vol. 13 No. 1, pp. 4-36.
+Pallant, J. (2011), “Multivariate analysis of variance”, SPSS Survival Manual. Crows Nest: Allen & Unwin,
+Vol. 20 No. 11, pp. 283-296.
+Palmatier, R.W. (2008), “Interfirm relational drivers of customer value”, Journal of Marketing, Vol. 72
+No. 4, pp. 76-89.
+
+Service
+innovation
+and customer
+satisfaction
+
+EJIM
+
+Pappu, R. and Quester, P.G. (2016), “How does brand innovativeness affect brand loyalty?”, European
+Journal of Marketing, Vol. 50 Nos 1/2, pp. 2-28.
+Patterson, P.G., Johnson, L.W. and Spreng, R.A. (1996), “Modeling the determinants of customer
+satisfaction for business-to-business professional services”, Journal of the Academy of Marketing
+Science, Vol. 25 No. 1, pp. 4-17.
+Rao, A.R., Qu, L. and Ruekert, R.W. (1999), “Signaling unobservable product quality through a brand
+ally”, Journal of Marketing Research, Vol. 36 No. 2, pp. 258-268.
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Rezaei, S. (2015), “Segmenting consumer decision-making styles (CDMS) toward marketing practice:
+a partial least squares (PLS) path modeling approach”, Journal of Retailing and Consumer
+Services, Vol. 22 No. 8, pp. 1-15.
+Rezaei, S. and Ghodsi, S.S. (2014), “Does value matters in playing online game? An empirical study
+among massively multiplayer online role-playing games (MMORPGs)”, Computers in Human
+Behavior, Vol. 35 No. 6, pp. 252-266.
+Rust, R.T. and Oliver, R.L. (Eds) (1993), Service Quality: New Directions in Theory and Practice,
+Sage Publications, Thousand Oaks, CA.
+Santos, J. and Boote, J. (2003), “A theoretical exploration and model of consumer expectations,
+post‐purchase affective states and affective behaviour”, Journal of Consumer Behaviour, Vol. 3
+No. 2, pp. 142-156.
+Schumacker, R.E. and Lomax, R.G. (2004), A Beginner’s Guide to Structural Equation Modeling,
+Psychology Press, OH.
+Slater, S.F. and Narver, J.C. (1994), “Market orientation, customer value, and superior performance”,
+Business Horizons, Vol. 37 No. 2, pp. 22-28.
+Slater, S.F. and Narver, J.C. (1995), “Market orientation and the learning organization”, The Journal of
+Marketing, Vol. 59 No. 3, pp. 63-74.
+Spence, A.M. (1974), Market Signaling: Informational Transfer in Hiring and Related Screening
+Processes, Vol. 143, Harvard University Press, Cambridge.
+Spence, M. (2002), “Signaling in retrospect and the informational structure of markets”, The American
+Economic Review, Vol. 92 No. 3, pp. 434-459.
+Stigler, G.J. (1961), “The economics of information”, Journal of Political Economy, Vol. 69 No. 3, pp. 213-225.
+Stiglitz, J.E. (2000), “The contributions of the economics of information to twentieth century
+economics”, The Quarterly Journal of Economics, Vol. 115 No. 4, pp. 1441-1478.
+Sundbo, J. (1997), “Management of innovation in services”, Service Industries Journal, Vol. 17 No. 3,
+pp. 432-455.
+Tanaka, J.S. (1993), “Multifaceted conceptions of fit in structural equation models”, Sage Focus Editions,
+SAGE Publications, Inc., Los Angeles, CA.
+Tether, B., Metcalfe, J.S. and Miles, I. (2001), “Horndal at Heathrow?: Co-operation, learning and
+innovation: investigating the processes of runway capacity creation at Europe’s most congested
+airports”, Centre for Research on Innovation and Competition, University of Manchester.
+Turel, O. and Serenko, A. (2006), “Satisfaction with mobile services in Canada: an empirical
+investigation”, Telecommunications Policy, Vol. 30 No. 5, pp. 314-331.
+Vandenbosch, M.B. (1996), “Confirmatory compositional approaches to the development of product
+spaces”, European Journal of Marketing, Vol. 30 No. 3, pp. 23-46.
+Van Riel, A.C. and Lievens, A. (2004), “New service development in high tech sectors: a decision-making
+perspective”, International Journal of Service Industry Management, Vol. 15 No. 1, pp. 72-101.
+Vargo, S.L. and Lusch, R.F. (2004), “Evolving to a new dominant logic for marketing”, Journal of
+Marketing, Vol. 68 No. 1, pp. 1-17.
+Wang, C.L. and Ahmed, P.K. (2004), “The development and validation of the organisational
+innovativeness construct using confirmatory factor analysis”, European Journal of Innovation
+Management, Vol. 7 No. 4, pp. 303-313.
+
+Downloaded by UNIVERSITY OF ADELAIDE At 02:10 15 December 2017 (PT)
+
+Wilke, J. and Sorvillo, N. (2005), Targeting Early Adopters – A Means for New Product Survival,
+ACNielsen BASES Publication, New York, NY.
+Woodruff, R.B. and Flint, D.J. (2006), “Marketing’s service-dominant logic and customer value”,
+The Service-Dominant Logic of Marketing: Dialog, Debate, and Directions, Routledge, Oxford.
+Yusif, B. (2012), “Adopting a specific innovation type versus composition of different innovation types: case
+study of a Ghanaian bank”, International Journal of Bank Marketing, Vol. 30 No. 3, pp. 218-240.
+Zeithaml, V.A. (1988), “Consumer perceptions of price, quality, and value: a means-end model and
+synthesis of evidence”, The Journal of Marketing, Vol. 52 No. 3, pp. 2-22.
+Zhao, J., Wang, T. and Fan, X. (2015), “Patient value co-creation in online health communities: social
+identity effects on customer knowledge contributions and membership continuance intentions in
+online health communities”, Journal of Service Management, Vol. 26 No. 1, pp. 72-96.
+Further reading
+Hair, J.F., Anderson, R.E., Tatham, R.L. and Black, W.C. (1998), Multivariate Data Analysis, 5th ed.,
+Prentice Hall International, New York, NY.
+
+Corresponding author
+Mahmoud Abdulai Mahmoud can be contacted at: mamahmoud@ug.edu.gh
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Service
+innovation
+and customer
+satisfaction
+
+

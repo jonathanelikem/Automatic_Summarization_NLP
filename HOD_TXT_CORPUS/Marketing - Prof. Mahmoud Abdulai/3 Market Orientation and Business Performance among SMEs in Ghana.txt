@@ -1,0 +1,901 @@
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+Market Orientation and Business Performance among SMEs in Ghana
+Mohammed Abdulai Mahmoud
+Lecturer, Department of Marketing and Customer Management
+University of Ghana Business School
+University of Ghana
+E-mail: amohammed@ug.edu.gh
+Abstract
+
+The effect of market orientation on business performance has been extensively researched over the past two decades
+with authors generally agreeing on its positive outcome. It appears however that previous studies placed much
+emphasis on its applications in large scale organizations. Only recently have researchers begun to publish articles on
+the patterns of market orientation in small and medium scale organizations (SMEs) (Blankson et al., 2006; Keskin,
+2006). Even so, it seems that researchers are yet to reach a common ground on the appropriateness of this management
+toolkit to SMEs. This study argues that it is in this sector that firms need to be more customer focus, monitor
+competitive trends, and respond appropriately to market intelligence in order to survive given evidence of their
+financial, technical and other constraints. Following an adoption of two popular scales in the literature, the study
+investigated the market orientation-performance link among Ghanaian SMEs using a survey to collect data on 191
+firms. Results show that the development of market orientation in this sector rests more on the attitude of owners/
+managers and, more importantly, the repeatedly reported performance implication of market orientation does not
+elude Ghanaian SMEs. More specifically, market orientation leads to superior performance under ceaseless
+competitive conditions. Conclusions are drawn; the limitations and directions for further investigations of the
+construct are provided.
+Keywords: Market orientation, Business Performance, SMEs, Ghana
+1. Introduction
+
+There abound numerous conceptual and empirical studies on the market orientation construct in the extant literature
+(see for review Kohli & Jaworski, 1990; Narver & Slater, 1990; Rueket, 1992; Jaworski & Kohli, 1993; Greenley,
+1995; Pitt et al., 1996; Appiah-Adu & Ranchhod, 1998; Mahmoud et al., 2010). These works span from both
+developed (Harris, 2000; Esteban et al., 2001; Guo, 2002; Perry & Shao, 2002; Elg, 2003; Green Jr. et al., 2005;
+Blankson et al., 2006; Keskin, 2006; Sen, 2006; Ozer et al., 2006; Low et al., 2007) and developing (Agarwal et al.,
+2003; Aggarwal & Singh, 2004; Kuada & Buatsi, 2005; Osuagwu, 2006; Dwairi et al., 2007; Hinson et al., 2008;
+Mahmoud et al., 2010) economies. The central argument of the developed and developing countries’ studies
+demonstrates the indispensable role that market orientation plays in an organization’s marketing activities in
+achieving superior performance in its chosen markets.
+Moreover, literature on the impact of market orientation on firm performance has revealed mixed discoveries in the
+developed and developing countries studies (Narver & Slater, 1990; Jaworski & Kohli, 1993; Perry & Shao, 2002 &
+Dwairi et al., 2007). Studies conducted in the United States have demonstrated the positive effect of market orientation
+on performance whereas a mixed blessing of market orientation is reported among UK and other developing countries
+studies (Beamish et al., 1993; Pitt et al, 1996). There are also questions regarding the universal application of the
+market orientation construct by marketing scholars (Pelham & Wilson, 1996). This stems from the fact that, there are
+differences in environments, industries and their structures as well as the size of firms (Pelham & Wilson, 1996).
+Following Blankson et al. (2006) and Keskin (2006), despite the attention devoted to market orientation by academics,
+research interest in market orientation within small and medium scale enterprises (SMEs) sector has been scanty (see
+also McLartey, 1998; Lee et al., 1999; Becherer et al., 2003). On the other hand, SMEs are vital in most economies
+including Ghana in that they contribute a lot in terms of GDP and employment (Abor and Beikpe, 2005 and Keskin,
+2006). In the Ghanaian economy in particular, SMEs have been identified as the catalyst for the economic growth of
+the country as they make major contributions to employment generation and poverty reduction (Mensah, 2004; Abor
+and Beikpe, 2005). Thus, the SME sector is regarded in certain situations as a valve for absorbing the teeming
+unemployed youth in the Ghanaian economy (Mensah, 2004).
+Adopting a market-orientated strategy is posited as a way of successfully managing the impact of changes in the SME
+domain. However, the application of market-orientation and its research models, which were developed for large-scale
+firms, may have different meanings in an SME context (Blankson et al., 2006; Keskin, 2006). This position is
+warranted given the fact that SMEs face peculiar problems including: deficiencies arising from their limited resources
+and range of technological competencies; influence of their owners/managers on the decision-making; dependence on
+
+Published by Canadian Center of Science and Education
+
+241
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+small numbers of customers and suppliers; and focus on the efficiency of current operations, among others (Badger et
+al., 2001). The survival of SMEs has been the focus of a number of recent reports in Ghana, which call for new
+strategic directions if SMEs wish to sustain their competitiveness and financial success in the future (Ohene-Konadu,
+2008).
+However, there is lack of enough empirical and conceptual studies of market orientation and business performance
+among SMEs in Ghana. This may affect policy formulation and implementation in the SMEs domain. This is because
+the SMEs Owners and Managers may not appreciate the role of market orientation as a strategic tool for quality
+decision-making in the SME sector. This research attempts to address this gap and contribute to the literature by
+concentrating on the following research questions: what is the situation of market orientation among Ghanaian SMEs?
+Do antecedents of market orientation proposed by Jaworski and Kohli, 1993 impact on the SMEs market orientation
+levels and hence on performance in Ghana? Do environmental factors moderate the relationship between market
+orientation and business performance among the SMEs in Ghana? In the remainder of the discussions, this paper
+reviews the framework and theories underpinning market orientation leading to a number of research hypotheses. This
+is immediately followed by a detail specification of the research methodology. Thereafter, the empirical results are
+presented and discussed along with managerial implications. The final part of the paper presents some conclusions on
+the basis of the research findings, outlines some inherent limitations and provides some directions for future research.
+2. Literature review
+
+Market orientation is not a new concept in the marketing and management literature. Scholars argued that the
+postulation by Drucker (1954) that the customer must be the focus of organization’s operations and the subsequent
+support given to this idea by Levitt (1960) that the customer is the reason for the organization’s existence were all
+pointing to the fact that market orientation behavior was necessary at that time. This idea was extended to become
+known as the marketing concept (McNamara, 1972). Following these developments, the subject market orientation
+has received a great deal of attention from marketing scholars who have developed, tested and refined market
+orientation scales for measuring the degree of market orientation that organizations exhibit (see among others, Kohli
+and Jaworski, 1990; Narver and Slater, 1990; Heart and Diamantopoulos, 1993; Hooley et al., 1998; and Blankson &
+Stokes, 2002).
+While researchers have found congruence between market orientation and business performance (Blankson & Stokes,
+2002), there seems to be ambiguity as far as the appreciation as well as the adoption of the market orientation construct
+by SMEs is concerned (Harris, 1998; McLarty, 1998; Stokes, 2000). The position that market orientation has not been
+adopted by SMEs may have been supported by Stokes and Blackburn (1999) who contended that whereas traditional
+marketing concept is conceived of as a deliberate planned process which proceeds from a careful identification of
+market needs by formal research , and through purposeful development of new offerings to the market place, the
+small business deliberation involves informal, unplanned activity that relies on the intuition and energy of the owner/
+manager to make things happen. Furthermore, following Stokes and Blackburn (1999), it appears that when compared
+to other functions of their business, SMEs owners have a problem with marketing; they appear to give marketing a low
+priority, often regarding marketing as “something that larger firms do”. Meziou (1991) concurs that SMEs are more
+reluctant than larger firms to embrace the marketing concept in their strategy formulations. Apparently, SMEs do not
+conduct market research, and do not have long-term market planning (Peterson, 1988; Meziou, 1991; Blankson &
+Stokes, 2002).
+Supporting the foregoing, Harris (1998) in his study of small hotel businesses in the UK asserts that in reality the
+dimension of market orientation may not be applicable in the small business sector. The author noted that several key
+factors inhibit the ability of small businesses in focusing on trends and needs, or market orientation. These include:
+unclear view of the customer, commitment with the status quo, ignorance of market orientation, lack of competitive
+differentiation, limited resources, perceived inappropriateness and short-term focused. Also according to Carson
+(1993, cited in Blankson & Stokes (2002), small firms embark upon marketing in such a general and inappropriate
+way that it does not appear to have any significant impact on performance and as a consequence is not perceived to be
+useful.
+Although the foregoing may hold true for SMEs at large, following observations and recent developments in the
+Ghanaian SME sector, coupled with discussions with academics with expertise in SMEs and practitioners
+(owners/managers), it can be asserted that in view of the ongoing government support and concern for SMEs (Mensah,
+2004), further research is needed to highlight the appreciation of marketing and it practices within the SME sector.
+Again, eventhough there are enough evidence that marketing is crucial to the survival and development of SMEs
+(Stokes and Blackburn, 1999), the fact that market orientation concept was developed largely from studies of large
+organizations makes it timely to examine the appropriateness of the construct to SMEs. A research in this order may
+reveal pertinent issues regarding marketing practices that should be of interest to policy makers, entrepreneurs and
+
+242
+
+ISSN 1913-9004
+
+E-ISSN 1913-9012
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+researchers interested in the SMEs sector. It must be noted here that Hills (1999) has observed that marketing and
+entrepreneurship largely determine the fate of entrepreneurs and SMEs around the world.
+In Ghana, available data from the Registrar General indicates that 90% of companies registered are micro, small and
+medium enterprises. This target group has been identified as the catalyst for the economic growth of the country as
+they are a major source of income and employment. Data on this group is however not readily available. The Ministry
+of Trade and Industry (MOTI), in 1998 estimated that the Ghanaian private sector consists of approximately 80,000
+registered limited companies and 220,000 registered partnerships from which they came out with the following
+definitions: micro enterprises-those employing up to 5 employees with fixed assets not exceeding the value of $10,000;
+small enterprises-employ between 6 and 29 employees with fixed assets of $100,000; and medium enterprises-employ
+between 30 and 99 employees with fixed assets of up to $1million. (Mensah, 2004).
+3. Theoretical framework
+
+A market-oriented firm is one which successfully applies the marketing concept (Kohli & Jaworski, 1990; Pitt et al.,
+1996; Caruana et al., 1999). According to Blankson and Cheng (2005), the marketing concept holds that the key to
+organizational success is through the determination and satisfaction of the needs, wants and aspirations of target
+markets. They noted that these must be pursued more effectively and efficiently than that of competitors and with the
+intention of achieving profitability and or satisfying objectives. From the strategic marketing literature, market
+orientation involves the use of superior organizational skills in understanding and satisfying customers (Day, 1990). In
+essence, market orientation is derived from the application of marketing concept and it requires firms to monitor
+rapidly changing customer needs and wants, determine the impact of these changes on customer satisfaction, increase
+the rate of product innovation, and implement strategies that build the firms’ competitive advantages.
+There has been increased interest in the market orientation construct in the past two decades. Following this
+development, many attempts have been made by researchers to appreciate its make-up resulting in the
+operationalization of its definition as a construct (Blankson et al., 2006). Most definitions developed were derived
+from the conceptualization of both Kohli and Jaworski (1990) or Narver and Slater (1990). Kohli and Jaworski (1990)
+compared the three core elements of market orientation as a philosophy to the perception of marketing practitioners
+and observed that market orientation has three components: the organization-wide generalization of market
+intelligence pertaining to current and future customer needs; dissemination of the intelligence across departments; and
+organization-wide responsiveness to this intelligence. According to the authors, this is based on customers’ opinion
+and it includes the consideration of: exogenous market factors that affect customer needs and performance; and
+current and future needs of customers (Kohli & Jaworski, 1990). In the same fashion, Narver and Slater (1990)
+postulated that market orientation has three components namely: customer orientation, which involves understanding
+target customers and effectively deploying the skills and resources of the firm to satisfy customer by creating superior
+value; competitor orientation, which has to do with creating superior value through understanding the principal
+competitors’ short-term strength and weaknesses and long-term capabilities and strategies; and inter-functional
+coordination, which involves getting all business functions working together to provide superior value (Narver &
+Slater, 1990; Slater & Narver, 1994).
+Since market orientation is viewed as part of organizational culture (Narver & Slater, 1990) or processes (Kohli &
+Jaworski, 1990), it may be facilitated or hampered by internal factors (Jaworski & Kohli, 1993; Harris, 2000; Harris
+&Ogbonna, 2001). For this latter assertion, Kohli and Jaworski (1990) in their conceptual study proposed three
+categories of organizational factors (top management, interdepartmental dynamics and organizationwide systems) that
+determine the level of market orientation in any organization. The critical role of management in fostering a market
+orientation has appeared in several studies (Webster, 1988; Kohli & Jaworski, 1990). These studies viewed
+management as highly influential on customer focus, interfunctional coordination and intelligence responsiveness.
+For instance, Kohli and Jaworski (1990, p. 7) state that “the commitment of top managers is an essential prerequisite to
+a market orientation”. Thus, Harris and Ogbonna (2001) proclaimed that management behaviour is the key barrier to
+developing a market-oriented culture in an organization. Lear (1963, p.54) states that a market orientation, while
+‘better suited to the customer’, creates complications in terms of structure. Ruekert (1992) analyzed organizational
+process as a barrier to market orientation and advised that the degree to which an organization can increase its market
+orientation is inextricably linked to the organizational structures, systems and processes created to sustain them.
+Briefly, certain characteristics of organizational structure such as low formalization and limited centralization
+facilitate the development of market orientation and vise versa (Jaworski & Kohli, 1993). Related to this, Webster
+(1988) argued that the key to developing a market-driven, customer oriented business lies in how managers are
+evaluated and rewarded. Years later, Ruekert (1992, p. 238) substantiated Webster’s (1988) argument when he finds
+that the extent of organizational market orientation is “positively associated with organizational practices in recruiting,
+training and rewarding of personnel”. Additionally, several researchers have shown that the implementation of market
+orientation is greatly influenced by interdepartmental connectedness and conflict (Levitt, 1969 Jaworski & Kohli,
+
+Published by Canadian Center of Science and Education
+
+243
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+1993; Harris & Piercy, 1999; Pulendran et al., 2000). Interdepartmental connectedness promotes interfunctional
+coordination leading to more frequent communication which is likely to enable the dissemination of collected market
+intelligence and facilitate a timely market focused response (Harris & Piercy, 1999; Pulendran et al., 2000). On other
+hand, interdepartmental conflict inhibits communication across the departments of an organization, reducing
+interfunctional performance, and consequently inhibiting timely response to market needs which are in the core of the
+market orientation processes.
+Indeed, market orientation has long been associated with higher result in terms of business profitability (Narver &
+Slater, 1990) as well as success in the market place (Jaworski & Kohli, 1993). Other studies have shown that market
+oriented organizations are likely to experience improved levels of employee satisfaction, esprit de corps and
+organizational commitment (Ruekert, 1992; Jaworski & Kohli, 1993). However, there is recognition in literature that a
+firm may not reap the full benefits of market orientation in the presence of external factors such as decreasing
+competition, market stability, and turbulent technological conditions (Kohli & Jaworski, 1990; Narver & Slater, 1990;
+Jaworski & Kohli, 1993; Slater & Narver, 1994b). The main thrust of studies into the effect of external factors on the
+market orientation-performance relationship is that while external factors increase market uncertainties, the
+generation of, and response to, market intelligence are essentials to face market uncertainties. In this regard, research
+has shown that under circumstances of high market uncertainties, spending resources for market-oriented activities is
+worthwhile; but, under situations of stable market, technological and competitive environments, expending resources
+for market-oriented activities would be superfluous (Dwaire et al., 2007).
+It appears that most studies focusing on market orientation were conducted in the developed western countries using
+data on large organizations. But the potential of SMEs, confronting many problems, to resist the implementation of the
+marketing concept were noted in the review. Given that it is ambiguous whether these market orientation frameworks
+developed largely through studies of large organizations from developed countries (Blankson & Stokes, 2002; Keskin,
+2006) are indeed applicable to SMEs, particularly those from developing countries, the model of the relationship
+between market orientation and its antecedents (or determinants) and consequences needs investigation in the SMEs
+sector. More specifically, a research in this order in Ghana is scant despite the increasing importance of SME in the
+Ghanaian economy. Building on this argument, the present study tests the applicability and the robustness of the
+market orientation model among Ghanaian SMEs following an adaptation of the Narver and Slater’s (1990) and
+Jaworski and Kohli’s (1993) frameworks as underpinned in Figure 1 (see appendix). The model is based upon the
+three research questions the study is set up to address.
+4. Methodology
+4.1 Sampling the population
+
+The study employed a convenience sample of managers and business owners in the SME domain within the cities of
+Accra and Tema. The sample has been restricted to these two cities in view of the fact that most businesses in Ghana
+are situated within the two cities. This is in line with some studies that were conducted using a state (see Blankson &
+Cheng, 2005; Blankson et al., 2006). The sample frame from which the population of SMEs is drawn was obtained
+from a database held by the National Board for Small Scale Industries (NBSSI) and the Association of Ghana
+Industries (AGI). These SMEs were operating in service and manufacturing. The final pool of SMEs to whom
+questionnaire were sent totaled 600. Eventually, only 191 (constituting 31.83% response rate) useable questionnaires
+were returned by the respondents. After comparing the responses of the early and late respondents, on a number of
+characteristics, no significant different was found suggesting that the sample is free from response bias. The sample
+size and the response rate are consistent with related studies. For instance, Blankson and Cheng (2005) sampled 500
+and had 21% response rate.
+4.2 Measurement of research constructs
+
+This study sought to assess the causal links between market orientation and business performance. Scale measures
+were adopted from both Narver and Slater (1990) and Jaworski and Kohli’s (1993) constructs. The adoption of these
+two popular scales in a single study is not a new thing. For instance, Farrel and Oczkowski (1997) adopted the
+MKTOR (Narver and Slater’s, 1990) and MARKOR (Kohli et al., 1993) measures in their study in Australia. Also,
+Hinson et al. (2008) adopted the two scales in their study of market orientation in Ghana. The questionnaire was
+divided into five different sections. Section one examine the market orientation of the sample. Section two addresses
+the antecedent to market orientation. The items under section three sought to measure some performance variables.
+Moderating factors were explored in section four and section five contains some control variables.
+In line with Narver and Slater (1990), the market orientation scale was assigned 15 items and each was measured using
+a seven-point Likert type scale. Similarly, four performance variables were adopted from Narver and Slater’s work
+and were measured with the aid of a five-point Likert type scale. Following Jaworski and Kohli (1993), the antecedent
+variables had 50 items and 17 items were assigned to the moderating variables. A five-point ranking scale was used in
+
+244
+
+ISSN 1913-9004
+
+E-ISSN 1913-9012
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+measuring both antecedent and moderating variables. To ensure the robustness of the business performance model,
+three items (size, age and sales turnover) were included as control variables in order to minimize specification bias.
+4.3 Reliability
+
+At this point it was a matter of necessity that reliability analysis was conducted on all the multi-items scales to check
+the internal consistency of the scales. This study adopted a cut off of 0.5 for cronbach’s coefficient following Nunnally
+(1978). Using 0.5 as the cut off is not without precedent; it has been adopted in related studies (Blankson & Stoke,
+2002; Blankson & Cheng, 2005). Reliability results have been presented in Table 1 below. Reliability test for
+performance, market orientation and centralization (alpha values of 0.838, 0.871 and 0.823 respectively) using the
+original number of items from the studies of Narver and Slater (1990) and Jaworski and Kohli (1993) resulted into
+higher degree of internal consistency of these scales. As for formalization, reward system, market turbulence and
+competitive intensity, the reliability test (alpha values of 0.685, 0.695, 0.562 and 0.661) was relatively moderate, but
+acceptable since alpha value for each is well above the adopted cut-off point of 0.5 (Nunnally, 1978). In accordance
+with Hair et al. (1998), this is acceptable. On the contrary, the reliability test for management risk averse,
+inter-functional conflict, interconnectedness, top management emphasis, organizational commitment and
+technological turbulence scales using the original number of items from the original studies recorded weak and
+unacceptable values for cronbach’s coefficient (values are below the 0.5 cut-off point).
+To improve the internal consistency of these scales and to make them reliable for use in this study, one or two of the
+items were dropped. This resulted into better as well as acceptable values for cronbach’s coefficient for most of these
+scales (see table 1). For example, using the original number of items reported in Jaworski and Kohli’s (1993) study,
+the multi item scale “management risk averse” had cronbach’s alpha of 0.447. After reducing the items from 6 to 5,
+this value improved to 0.647.These notwithstanding, interconnectedness and technological turbulence never generated
+acceptable cronbach’s coefficients and as such have been dropped in the remainder of this analysis. Dropping a scale
+is not without precedent, Dwairi et al. (2007) in their study of market orientation in Jordan eliminated
+interdepartmental conflict because it had a low reliability coefficient. Accordingly, interdepartmental connectedness
+and technological turbulence are eliminated from further analysis in this current study.
+4.4 Models
+
+The three regression equations below were estimated to test the hypotheses.
+
+Y    1 MO   2 S   3 A   4 ST   (1)
+MO    1 MRA   2 ICF   3 ICN   4 FM   5 CS   6 RS   7TME   8 OrC  
+
+Y     1 MO * MT   2 MO * CI   3 MO * TT  
+
+(2)
+
+(3)
+
+Note:
+Y- Performance,
+MO- Market orientation,
+S- Size of the firm,
+A -Age of the firm,
+ST- Sales turnover,
+MRA- Management risk aversion,
+ICF- Inter-functional coordination,
+ICN-Inter-functional conflict,
+FM –formalization, CS –centralization,
+RS- Reward system,
+OrC- Organizational Commitment,
+TME- Top Management Emphasis,
+MO*MT-Market orientation x Market Turbulence,
+MO*CI – Market orientation x Competitive Intensity,
+- Coefficients, and
+- Constant.
+
+Published by Canadian Center of Science and Education
+
+245
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+5. Results and analysis
+5.1 Demography
+
+It is witnessed from Table 2 that majority of SMEs are into services. In other words, while 57.61 percent of the sample
+is in the services sector, only 42.29 percent are in the manufacturing sector. This confirms the dominance of the
+service sector as far as SMEs in Ghana are concerned. The reported results also show that in terms of the type of
+product traded, overwhelming majority (about 78 percent) of SMEs trade in soft goods. This is not surprising in view
+of the fact that most hard goods are capital expenditure items requiring huge capital outlay which SMEs in themselves
+cannot raise.
+It is observed that the sample is consistent with the literature’s definition of Ghanaian SMEs. The reported result
+indicates an average number of employees of 49 (approximately) with the average dispersion around this value being
+steady at 15.33. According to Mensah (2004), Ghanaian SMEs employ between 6 and 99 workers. In this regard, the
+sample is largely consistent with the literature’s definition of SMEs in Ghana. Furthermore, it was observed that, on
+the average, sampled SMEs have been in operation for about 16 years. With a relatively wide standard deviation of
+19.47, it can be asserted that the SME sector is still growing thereby highlighting the fact that the number of SMEs is
+increasing. Another important observation is that, on the average, change in sales turnover is recording increases
+annually across SMEs. With this observation, the significance of the SMEs sector in the Ghanaian economy in terms
+of income generation is reinforced. Put differently, income tax from SMEs could be increased annually due to increase
+in their annual sales assuming much of the increase is turned into operating income.
+5.2 Regression Analysis
+
+There is a significant positive relationship between market orientation and business performance (r= 0.251, p≤ 0.1).
+That is, to achieve superior outcome in business, SMEs’ practitioners need to operate on customer lead approach, be
+competitor orientation, and strengthen inter-functional integration. Although this result was significant, it needs to be
+emphasized that size, age and sales turnover of the sample firms have some level of influences on their business
+performance (refer to Table 3 under appendix). They are however dropped from the remaining analysis since there
+were only used to avoid specification bias.
+In Table 4, it is observed that top management risk aversion has a significant negative relationship with market
+orientation (r=-0.232, at p≤ .01). In other words, among the sampled SMEs, market oriented activities cannot be
+developed unless top management displays less risk-aversion behaviour. Therefore, for Ghanaian SMEs to become
+market oriented, the attitude of owner-managers must favour calculated risk-taking. Top management emphasis is
+found to be positively (0.343) and significantly (p≤ .01) related to market orientation. This finding resonates Kohli and
+Jaworski‘s (1990); Jaworski and Kohli’s (1993); Kuada and Buasti’s (2005); and Dwaire et al.’s (2007) findings on
+this antecedent variable. Therefore, without the emphasis of owners/ managers it would be unlikely to commit
+necessary resources for SMEs to pursue market oriented activities. Owners/top managers shape the direction and
+values of their organizations (Webster, 1988); hence, owners/ managers of Ghanaian SMEs must provide the
+resources and strategic direction for SMEs to operate on market oriented principles.
+It is observed (see Table 4) that the lesser the inter-functional conflict, the greater the market orientation of SMEs.
+That is, inter-functional conflict related negatively with market orientation. But this influence is never significant
+statistically. By implication, Ghanaian SMEs can have some wrangling yet market orientation will continue to grow, a
+finding that is inconsistent with the postulations in the literature (Kohli & Jaworski, 1990). Similarly, reward system
+has no significant impact on the market orientation culture of SMEs. The analysis shows that market orientation tends
+to relate negatively, although insignificantly, with reward system (r=-0.121). With this kind of conflicting result, it is
+difficult to make any firm statement on the role of market-based reward system in the market orientation of the sample.
+Furthermore, it is found that organizational commitment relates directly with market orientation (r=0.029),
+highlighting that increased organizational commitment towards market oriented activities will increase the generation
+of, dissemination of, and response to, market intelligence among SMEs. But this relationship has no statistical
+significance perhaps an indication that small firms, in particular, need not have commitment from all workers to be
+market oriented. This may have reinforced the fact that general commitment needs to come from the owner/ manager,
+who is in most cases the “jack of all trade”. Lastly, on the determinants of market orientation, the regression results
+provides a significant positive relationship between centralization and market orientation (r=0.196, p≤ .05). In other
+words, centralized organizational structure is cherished among Ghanaian SMEs studied. While scholars (e.g. Ruekert,
+1992; Webster, 1988) advocate that organizations must be less centralized to enhance market oriented cultures within,
+SMEs viewed centralization as crucial for the development and implementation of greater market orientation in their
+organizations. These results may not be surprising in that, for instance, the small business deliberation of the market
+place involves informal, unplanned activity that relies on the intuition and energy of the owner-manager to make
+things happen (Stokes & Blackburn, 1999).
+
+246
+
+ISSN 1913-9004
+
+E-ISSN 1913-9012
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+Regression results in Table 5 also demonstrate that the Ghanaian business environment moderates the strength of the
+market orientation-performance relationship reported for the SMEs studied. In specific terms, the results suggest that
+the existence of strong competition leads to an even greater relationship between market orientation and performance
+of sampled SMEs (r=0.345). Similarly, stronger market turbulence in the SMEs sector generates stronger relationship
+between market orientation and performance of SMEs (r=0.197). However, only the coefficient of the interacted
+market orientation-competitive intensity is significant at p≤ .1. By implication, under condition of severe competition,
+the need for Ghanaian SMEs to be more market oriented becomes a key issue, as it provides a mean for firms to focus
+on activities that lead to the development quality products and service to enhance customer satisfaction and customer
+loyalty. Indeed, it is argued that in turbulent competitive markets, market orientation may be the saviour for stressed
+organizations (Harris & Ogbonna, 2000). However, the results suggest that SMEs should be less customer focus
+where the market is witnessing high rate of change in the customer needs and preference, contradicting Kohli and
+Jaworski’s (1990) proposition. This may be attributed to the fact that in Ghana, like in most developing African
+countries, demand for goods and services outstrips supply and customers preference, although changes in small units,
+does not dictate the way business is done, especially among Ghanaian SMEs who are noted for poor marketing skills
+(Mensah, 2004).
+6. Conclusions
+
+This study validates previous scholars’ assertions about the relationship between market orientation and performance
+with a focus on the SMEs sector in Ghana. Despite the lack of agreement on the appropriateness of the market
+orientation construct developed and tested principally on studies of large firms to small and medium scale enterprises
+(SMEs), this study demonstrates that when applied by an SME, market orientation will positively influence its level of
+performance in business. That is the higher the level of market orientation, the greater the level of performance in
+Ghanaian SMEs, consistent with the overriding proposition of the literature that increased market orientation lead to
+higher firm performance (Narver & Slater, 1990; Slater & Narver, 1994; Agarwal et al., 2003; Green Jr. et al., 2005;
+Dwairi et al., 2007; Low et al., 2007).
+In determining what factors would account for the market orientation of the Ghanaian SMEs internally, eight
+antecedents of market orientation were evaluated. While one of the variables (interconnectedness) could not be tested
+because the scale was very weak, four of the variables were supported and three unsupported. The results indicate that
+the power of top-management emphasis on market orientation is substantial across SMEs studied. Following Dwairi et
+al. (2007), all replications have been consistent with this relationship as such, top managements are crucial for
+Ghanaian SMEs to be market-oriented. Same can be said of management risk aversion, formalization and
+centralization; they pose considerable influence on market orientation behaviour of Ghanaian SMEs. However, as
+determinants of market orientation, organizational commitment, inter-functional conflict and reward system are not
+completely decisive. This study found these three to have no significant roles in the development of market orientation
+among the sampled Ghanaian SMEs.
+Only two of the environmental factors were tested with technological turbulence dropped due to weakness in the scale.
+This study found that the degree of competition in the industry has substantial influence on the importance of market
+orientation to the performance of SMEs studied. On the other hand, similar to prior empirical studies (Kuada & Buatsi,
+2005; Dwairi et al., 2007), this study also found that eventhough market turbulence plays some role in the market
+orientation model, the nature of this role is not clear. For that matter, no firm conclusion can be drawn regarding how
+market turbulence would shape the importance of market orientation to Ghanaian SMEs.
+Unlike a single industry analysis, the disadvantage of this multi-industry study is that the study lacks a focus on a
+single industry that could have provided a deeper knowledge and understanding of an industry’s appreciation of
+market orientation and its relation to business performance. For future studies, a logical concentration on a single
+industry such as manufacturing or service might help to facilitate uniformly stronger support from management of the
+few SMEs in the industry, and to attain easy access to multiple, and knowledgeable raters within the few SMEs
+selected. Again, much emphasis was given to the external generalizability of the findings other than internal validity.
+For this reason, a large number of SMEs were sampled across different industries and this made it impossible to detail
+the investigation of each SME visited so that internal validity would not be overlooked much as we place emphasis on
+external generalizability. To deal with this, it is proposed that future research on this study may use multiple
+respondents from each SME. In this regard, researchers might segregate the target SMEs into their various industries.
+By this, objective correlates of market orientation would be developed and would increase confidence in the measures
+as well as reducing the concern about method variance, which accompanies most survey research.
+Acknowledgement
+
+The researcher would like to acknowledge the financial support toward this current study by the research and
+conferences committee of the University of Ghana Business School, University of Ghana, Legon, Accra, Ghana.
+
+Published by Canadian Center of Science and Education
+
+247
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+References
+
+Abor, J. and Biekpe, N. (2005). “Corporate Governance, Ownership Structure and Performance of SMEs in Ghana:
+Implications for Financing Opportunities”, Corporate Governance, 7, 3, 288-300.
+Agarwal, S., Erramill, M. and Dev, C. (2003). “Market orientation and performance in service firms: role of
+innovation”, Journal of Services Marketing, 17, 1, 68-82.
+Aggarwal, N. and Singh, R. (2004). “Market Orientation in Indian Organizations: An Empirical Study”, Marketing
+Intelligence and Planning, 22, No.7, 700-715.
+Appiah-Adu, K. and Ranchhod, A. (1998). “Market Orientation and Performance in the Biotechnology Industry: An
+Exploratory Empirical Analysis”, in Appiah-Adu (Ed) Strategic Orientation and Business Performance, 154-178,
+Graphic Packaging Limited, Ghana.
+Badger, I.C., Mangles, T. and Sadler-Smith, E. (2001). “Organizational learning styles, competencies and learning
+systems in small, UK manufacturing firms”, International Journal of Operations & Production Management, 21,
+1417-32.
+Beamish, P., Craig, R. and McLellan, K. (1993). “The Performance Characteristics of Canadian versus UK Exporters
+in Small and Medium sized Firms”, International Management Review, 33, 121-37.
+Becherer, R. C., Halstead, D. and Haynes, P. (2003). “Marketing orientation in SMEs: effects of the internal
+environment”, New England Journal of Entrepreneurship, 6, 1, 13-22.
+Blankson, C. and Cheng, J.M.S. (2005). “Have small businesses adopted the market orientation concept? The case of
+small businesses in Michigan”, Journal of Business and Industrial Marketing, 20, 6, 317-30.
+Blankson, C. and Stokes, D. (2002). “Marketing practices in the UK small business sector”, Marketing Intelligence &
+Planning, 20, 49-61.
+Blankson, C., Motwani, J.G. and Levenburg, N.M. (2006). “Understanding the patterns of market orientation among
+small businesses”, Marketing Intelligence and Planning, 24, 6, 572-590.
+Carson, D. (1993). “A philosophy for marketing education in small firms”, Journal of Marketing Management, 9,
+2,189-204.
+Carson, W. and Gilmore, A. (2000). “SME marketing management competencies”, International Business Review, 9,
+363-82.
+Caruanna, A., Pitt, L. and Berthon, P. (1999). “Excellence-market oriented link: some consequences for service firms”,
+Journal of Business Research, 44, 5-15.
+Day, G.S. (1990). Market driven strategy; Processes for creating value. New York Free Press.
+Drucker, P. (1954). “The Practice of Management”, Harper & Row, New York, NY.
+Dwairi, M., Bhuian, S. and Turkus, A. (2007). “Revisiting the pioneering market orientation model in an emerging
+economy”, European Journal of Marketing, 41, 7/8, 713-721.
+Elg, U. (2003). “Retail orientation: A preliminary framework”, International Journal of Retail and Distribution
+Management, 31, 2,107 – 117.
+Esteban, A., Millan, A., Molina A., and Martin-Consuegra, D., (2001). “Market Orientation in Service”: A Review
+and Analysis”, Journal of Marketing, 36, 9/10,1003-1021.
+Farrell, M.A. and Oczkowski, E. (1997). “An analysis of the MKTOR and MARKOR measures of market orientation:
+an Austrailian perspective”, Marketing Bulletin, 8, 30-40, available at: www.marketingbulleting.com or
+http://marketing-bulleting. Massey.ac.nz
+Green, K. W. Jr., Inman, R. A., Brown G., and Wilis, T. H. (2005). “Market Orientation: Relation to Structure and
+Performance”, Journal of Business & Industrial Marketing, 20. 6, 276-84.
+Greenley, G. E. (1995). “Market Orientation and Company Performance: Empirical. Evidence from UK Companies",
+British Journal of Management, 6, 1-13.
+Guo, C. (2002). “Market orientation and business performance: A framework for service organizations”, European
+Journal of Marketing, 36, 9/10,1154-1163.
+Hair, J.F. Jr, Anderson, R.E., Tatham, R.L. and Black, W.C. (1998). Multivariate Data Analysis, 5th ed., Prentice-Hall,
+Englewood Cliffs, NJ.
+
+248
+
+ISSN 1913-9004
+
+E-ISSN 1913-9012
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+Harris, C. (2000). “The organizational barriers to developing market orientation” European Journal of Marketing, 34,
+5/6, 598-624.
+Harris, C. (1998). “The obstacle to developing market orientation: a study of small hotels”, Proceedings of the
+Academy of Marketing Conference, Sheffield University, Sheffield, July 8-10, 612-3.
+Harris, L.C. and Ogbonna, E. (2001) “Leadership Style and Market Orientation: An Empirical Study”, European
+Journal of Marketing, 35, 5/6, 744-764.
+Harris, L.C. and Piercy, N. (1999). “Management Behaviour and Barriers to Market Orientation in Retailing
+Companies”, The Journal of Service Marketing, 13, 2, 113-131.
+Heart, S. and Diamantopoulos, A. (1993).”Linking market orientation and company performance: preliminary work
+on Kohli and Jaworski’s framework”, Journal of Strategic Marketing, 1, 2, 93-122.
+Hills, G.F. (1999). “An inaugural commentary for the Journal of Research in Marketing & Entrepreneurship”, Journal
+of Marketing and entrepreneurship, 1, 1, 5-7.
+Hinson, R., Kastner, A. Ofori, D and Mahmoud, A (2008). “Market Orientation and Export Performance; A Ghanaian
+Study”, AJBER, 3, 2&3, 62-91.
+Hooley, G., Cox, T., Fahy, J., Shipley, D., Beracs, J., Fonfara, K. and Snoj, B. (1998). “Market Orientation in the
+transition economies of Central Europe”, Procedings of the 27th EMAC Conference, Track 5, Stockholm, May 20-23,
+479-98.
+Jaworski, B. and Kohli, A. (1993). “Market Orientation: Antecedents and Consequences”, Journal of Marketing, 57,
+53-70.
+Keskin, H. (2006). “Market orientation, learning orientation, and innovation capabilities in SMEs: An extended
+model”, European Journal of Innovation Management, 9, 4, 396-417.
+Kohli, A. and Jaworski, B. (1990). “Market Orientation: The Construct, Research Propositions, and Managerial
+Implications”, Journal of Marketing, 54, 2, 1-18.
+Kuada, J. and Buatsi, S. (2005). “Market orientation and management practices in Ghanaian firms: Revisiting the
+Jarworski and Kohli framework”, Journal of International Marketing, 13, 1, 58-73.
+Lear, R.W. (1963). “No Easy Road to Market Orientation”, Harvard Business Review, 41, 5, 73-80.
+Lee, K., Lim, S., Guan, H. and Tan, S.J. (1999). “Dealing with resource disadvantage: generic strategies for SMEs”,
+Small Business Economics, 12, 4, 299-311.
+Levitt, I. (1960). “Marketing Myopia”, Harvard Business Review, 38, 24-47.
+Levitt, T. (1969). The Marketing Mode, McGraw-Hill, New York.
+Low, R., Chapman, L. and Sloan, R., (2007). “Inter-relationship between innovation and market orientation in SMEs”,
+Managerial Research News, 30, 12, 878-891.
+Mahmoud, M.A., Kastner, A. and Yeboah, J. (2010). “Antecedents, environmental moderators and consequences of
+market orientation: A study of pharmaceutical firms in Ghana”, Journal of Medical Marketing, 10, 3, 231–244.
+McLartey, R. (1998). “Case study: evidence of a strategic marketing paradigm in a growing SME”, Journal of
+Marketing Practice: Applied Marketing Science, 4, 4, 105-17.
+McNamara, C.P. (1972). “The present status of the marketing concept”, Journal of Marketing, 36, 1, 50-57.
+Mensah, S. (2004). “A Review of SME Financing Schemes in Ghana”, A Presentation at the UNIDO Regional
+Workshop of Financing SMEs, Accra, Ghana, March 15-16.
+Meziou, F. (1991). “Areas of strength and weakness in the adoption of the marketing concept by small manufacturing
+firms”, International Small Business Journal, 29, 72-8.
+Narver, J. and Slater, S. (1990). “The Effect of Market Orientation on Business Profitability”, Journal of Marketing,
+54, 4, 20-35.
+Nunnally, J. (1978). Psychometric Theory, (2nd ed.). McGraw – Hill Publishing, New York.
+Ohene-Konadu, N. (2008). “Northern Region gets $119m support for SMEs”, Daily Graphic, Accra, Ghana, April 11.
+Osuagwu, L. (2006). “Market Orientation in Nigerian Companies”, Marketing Intelligence & Planning, 24, 6,
+608-631.
+Ozer, A., Kocak, A. and Celik, O. (2006). “Determinants of market orientation in accounting firms”, Marketing
+Intelligence and Planning, 24, 6, 591-607.
+
+Published by Canadian Center of Science and Education
+
+249
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+Pelham, A. and Wilson, D. (1996). A Longitudinal Study of the Impact of Market Structure, Firm Structure, Strategy,
+and Market Orientation Culture on Dimensions of Performance” Journal of the Academy of Marketing Sciences, 24,
+27-43.
+Perry L. and Shao T. (2002). “Market Orientation and Incumbent Performance in dynamic Market” European Journal
+of Marketing, 36, 9/10, 1140-1153.
+Peterson, R.T. (1988). “An analysis of new product ideas in small business”, Journal of Small Business Management,
+26, 25-31.
+Pitt, L., Caruana, A. and Berthon, P. (1996). “Market Orientation and Business Performance: Some European
+Evidence, International Marketing Review, 13, 5-18.
+Pulendran, S., Speed, R. and Widing II, R.E. (2000). “The Antecedents and Consequences of Market Orientation in
+Australia”, Australian Journal of Management, 25, 2,119-144.
+Ruekert, R. W. (1992). Developing a Market Orientation: An Organizational Strategy Perspective, International
+Journal of Research in Marketing, 9, 225-245.
+Sen, B. (2006). “Defining market orientation for libraries”, Library Management, 27, 4/5, 201-217.
+Slater, S. and Narver, J. (1994). “Does Competitive Environment Moderate the Market Orientation Performance
+Relationship?”, Journal of Marketing, 58, 2, 46-55.
+Stokes, D. (2000). “Entrepreneurship marketing: a conceptualization from qualitative research”, Qualitative Market
+Research: An Internal Journal, 3,1,47-54.
+Stokes, D. and Blackburn, R. (1999). “Entrepreneurship: building for the future”, Working Paper Series, Small
+Business Research Centre, Kingston University, UK.
+Webster, F.E. (1988). “Rediscovering the Marketing Concept”, Business Horizons, 31, 3, 29-39.
+Table 1. Analysis of Internal Consistency
+Model
+
+No. of Items
+
+Cronbach’s Alpha
+
+Performance
+
+5
+
+0.838
+
+Market Orientation
+
+15
+
+0.871
+
+Management Risk Averse
+
+5
+
+0.647
+
+Inter-functional Conflict
+
+5
+
+0.712
+
+Interconnectedness
+
+7
+
+0.120
+
+Formalisation
+
+7
+
+0.685
+
+Centralisation
+
+5
+
+0.823
+
+Reward System
+
+6
+
+0.695
+
+Top Management Emphasis
+
+3
+
+0.623
+
+Organisational Commitment
+
+5
+
+0.534
+
+Market Turbulence
+
+6
+
+0.562
+
+Competitor Intensity
+
+6
+
+0.661
+
+Technological Turbulence
+
+4
+
+0.080
+
+Table 2. Demographic characteristics of the sample
+Item/Statistic
+Type of Business
+Manufacturing
+Service
+Total
+Type of Good
+Soft
+Hard
+Total
+Size (S)
+Age (AG)
+Change in ST
+
+250
+
+Frequency
+
+Percentage (%)
+78
+106
+184
+
+42.39
+57.61
+100
+
+142
+39
+100
+
+78.45
+21.55
+100
+
+Mean
+
+Std. Deviation
+
+48.69
+15.73
+2.78
+
+15.36
+19.47
+.53
+
+ISSN 1913-9004
+
+E-ISSN 1913-9012
+
+www.ccsenet.org/ibr
+
+International Business Research
+
+Vol. 4, No. 1; January 2011
+
+Table 3. Regression coefficients for market orientation and performance.
+Dependent Variable
+Independent
+Variable
+
+Performance
+
+Market Orientation
+
+0.251*
+
+Size of Firm
+
+0.217(ns)
+
+Sales Turnover
+
+0.140(ns)
+
+Adjusted R2
+
+0.086
+
+N
+
+191
+
+***p≤ .01, **p≤ .05, *p≤ .1, nsp value not significant
+
+Table 4. Regression coefficients for the antecedents to market orientation.
+Dependent Variable
+Independent
+
+Market Orientation
+
+Variable
+Management Risk Averse
+
+-0.232***
+
+Inter-functional Conflict
+
+-0.058(ns)
+
+Formalization
+
+0.265***
+
+Centralization
+
+0.196**
+
+Reward System
+
+-0.121(ns)
+
+Top Management Emphasis
+
+0.343***
+
+Organisational Commitment
+
+0.029(ns)
+
+Adjusted R
+
+2
+
+0.456
+
+N
+***
+
+191
+
+p≤ .01, **p≤ .05, *p≤ .1, nsp value not significant
+
+Table 4. Regression coefficients for moderated market orientation-performance relationship.
+Dependent Variable
+Independent Variable Performance
+Market Orientation x Competitive Intensity
+
+0 .345*
+
+Market Orientation x Market Turbulence
+
+0.197(ns)
+
+Adjusted R2
+
+0.209
+
+N
+***
+
+191
+**
+
+*
+
+ns
+
+p≤ .01, p≤ .05, p≤ .1, p value not significant
+
+Management emphasis &
+risk
+
+Formalization
+Market
+Orientation
+
+Centralization
+
+Business
+Performance
+
+Conflict
+Connectedness
+
+External Factors
+Competitive Intensity
+Market Turbulence
+Technological Turbulence
+
+Reward systems
+
+Figure 1. Conceptual Framework
+
+Published by Canadian Center of Science and Education
+
+251
+
+

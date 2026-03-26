@@ -1,0 +1,484 @@
+
+Journal of African Business
+
+
+
+
+
+
+ISSN: 1522-8916 (Print) 1522-9076 (Online) Journal homepage: http://www.tandfonline.com/loi/wjab20
+
+
+Preventing Customer Churn in the Mobile Telecommunication Industry: Is Mobile Money Usage the Missing Link?
+
+Eric Yeboah-Asiamah, Bedman Narteh & Mahmoud Abdulai Mahmoud
+
+To cite this article: Eric Yeboah-Asiamah, Bedman Narteh & Mahmoud Abdulai Mahmoud (2018): Preventing Customer Churn in the Mobile Telecommunication Industry: Is Mobile Money Usage the Missing Link?, Journal of African Business, DOI: 10.1080/15228916.2018.1440462
+To link to this article: https://doi.org/10.1080/15228916.2018.1440462
+
+
+
+ Published online: 26 Feb 2018.  Submit your article to this journal
+
+ Article views: 64
+ View related articles  View Crossmark data
+
+
+
+
+
+
+
+
+         Full Terms & Conditions of access and use can be found at http://www.tandfonline.com/action/journalInformation?journalCode=wjab20
+
+
+JOURNAL OF AFRICAN BUSINESS, 2018
+https://doi.org/10.1080/15228916.2018.1440462
+
+RESEARCH PAPER	
+Preventing Customer Churn in the Mobile Telecommunication Industry: Is Mobile Money Usage the Missing Link?
+Eric Yeboah-Asiamah	, Bedman Narteh and Mahmoud Abdulai Mahmoud
+Department of Marketing & Entrepreneurship, University of Ghana Business School, Accra, Ghana
+
+KEYWORDS
+Mobile money; continuance intention; satisfaction; trust; active usage; churn; mobile telecommunication; third- party mediator
+
+
+
+
+
+
+
+
+
+1. Introduction
+The recent proliferation of mobile technology has resulted in easy access to mobile phones and has therefore reduced communication costs in many parts of the develop- ing world. The rapid growth pace, coupled with increased competition within the telecommunications industry and the saturation of markets, come with the prime challenge of customer churn: losing customers, often to the competition (Hwang, Taesoo, & Euiiho, 2004). Essentially, all industries, irrespective of type and size, in one way or the other, experience voluntary churn - the decision by the customer to switch to another company or service provider (Kuusik & Varblane, 2009). This is particularly true for telecommunication companies where the average annual churn rate ranges between 10% and 67% (Hughes, 2007).
+  In a developing country like Ghana, the mobile telecommunication industry thrives on the presence of mobile operators often referred to as "telecommunication compa- nies" or "TELCOs." Mobile services from a particular operator are provided to the customer when a SIM card is inserted into the mobile device. Airtime can then be purchased from agents and retailers for calls and data, which fuels social media applications such as Whatsapp (www.web.whatsapp.com) and Facebook (www.face book.com). Customers in Ghana often possess multiple SIM cards from one or more mobile operators, taking advantage of the promotional bene?ts o?ered by each. A recent policy from the industry regulator, the National Communications Authority (NCA), has allowed customers to switch from one service provider to another (Nimako,
+
+(c) 2018 Informa UK Limited, trading as Taylor & Francis
+
+Ntim, & Mensah, 2014) while retaining the same mobile number. This policy, referred to as mobile number portability, has thus worsened churn rates within the industry in Ghana (ibid) as customers can change service providers without the perceived barrier of losing their phone number (Shin & Kim, 2008).
+  Extant literature argues that customer churn leads to increased costs, which result not only from the loss of revenue from current customers, but also from the additional cost of acquiring new ones (Svendsen & Prebensen, 2013). In both cases, organizations are worse o? when customer churn occurs. Moreover, previous studies also argue that retaining 5% of customers could lead to about 60% increase in pro?t (Reichheld, 1996). This suggests that the key factor underpinning the long-term success of a business is its ability to increase and retain loyal customers. Recent marketing emphasis is thus being shifted from winning new customers to retaining existing ones (Kuusik & Varblane, 2009).
+  As mobile phone penetration increases, one key innovation in the Ghanaian tele- communication sector is the technology-enabled service which allows consumers to use mobile phones to perform ?nancial transactions (Abor, Amidu, & Issahaku, 2018; Humbani& Wiese, 2017). Widely known as mobile money, the phenomenon consists of a mobile operator acting as an e-money service provider (Lal & Sachdev, 2015; PricewaterhouseCoopers, 2016). Physical cash is given to an authorized mobile money agent who transfers the virtual equivalent into the customer's phone wallet. This virtual cash can then be used to pay for products and services, be transferred to other users, or again be extracted as physical cash from an agent. The mobile operator, on whose platform the system is run, receives a speci?ed percentage of each transaction as fees. More than half a billion registered mobile money accounts globally were recorded as at end of 2016 (GSMA, 2017), and mobile money is now available in two-thirds of low and middle-income countries via 277 service providers (ibid).
+  Moreover, Sub-Saharan Africa continues to account for the majority of mobile money services (PwC, 2016), and Ghana - now one of the leading mobile money markets in the world (GSMA, 2017) - has seen astronomical growth in mobile money usage since its introduction in 2009 (GhanaWeb, 2017). By the end of March 2017, a total number of 20,500,470 customers were registered for mobile money services, representing 52.25% of the customer base of four mobile operators in the country, namely MTN, Tigo, Airtel and Vodafone (Bank of Ghana, 2017). Out of the registered customers, 9,262,376 are active mobile money customers, meaning that they use their mobile account frequently. The records for the total volume of transactions are equally remarkable, with 198,236,640 transactions representing a 97% growth over the same period in 2016. Total transaction value and balances on ?oat stood at Ghc78,508.90bn ($18,895.48bn) and Ghc1,257.40bn ($302.63m) respectively, with growth rates 121.5% and 129.47% in 2016(Bank of Ghana, 2017).
+  Despite the growing interest among academic and practitioner communities around the world in the ways through which mobile money can be sustained and fully harnessed (Bongomin, Ntayi, Munene, & Malinga, 2018; Gosavi, 2017), limited research has been devoted to investigating it. The scarce research on mobile money has focused on behavioral intentions to adopt mobile money services (Humbani & Wiese, 2017; Narteh, Mahmoud, & Amoh, 2017), home economics of e-money (Mbiti & Weil, 2013), the mechanics and potential economic impact of M-pesa (Jack & Suri, 2010), the use of mobile money to promote ?nancial inclusion of the world's poor (Abor et al., 2018),
+
+and the usage and impact of transformational mobile ?nancial services (Morawczynski, 2009). Although these lines of research have contributed vital knowledge toward our understanding of the mobile money phenomenon, pertinent gaps still exist in the literature. Notably limited in the prevailing literature is the critical role mobile money can play in in?uencing customers' continuance intention toward a service provider in the face of increasing competition across markets (Wamuyu, 2014).
+  Several scholars (Bhattacherjee, 2001; Bhattacherjee& Lin, 2014; Zhou, 2013) have emphasized the importance of continuance intention, stating that the essen- tial value of technology-enabled services, such as mobile money, is fully realized, not when it is adopted, but rather when there is continuous usage. Consequently, there exist numerous questions that remain unanswered, especially concerning mobile money's ability to in?uence customer continuance. Furthermore, the importance of factors like satisfaction and trust on the sustenance of service relationships has been underscored by various researchers (e.g., Morgan & Hunt, 1994). Especially in technology-enabled environments where perceived risks are high (Zhou, 2013), consumers' intention to continue patronage of a service depends largely upon their positive discon?rmations (Kuo, Wu, & Deng, 2009) and their assurance of the safety of their money. However, even high levels of satisfaction and trust may still be inadequate to encourage continuance in a customer who is a relative stranger to the technological environment (Bhattacherjee, 2001; Roos & Gustafsson, 2011). Active usage of the service plat- form is therefore also an important factor to consider.
+  The current study therefore aims primarily to investigate the question, "How much do satisfaction, and trust in?uence customers' intention to stay with their mobile operator?" Additionally, the study seeks to examine how (the) active usage of mobile money services mediates the relationships between satisfaction and customer's continuance intention, and between trust and customers' continuance intention.
+  The information system (IS) Post-Acceptance Model (PAM) developed by Bhattacherjee (2001) was therefore adapted for the study, testing the e?ects of satisfaction, trust, and the active usage of mobile money services on customers' continuance intention. In the modi?ed PAM, active usage of mobile money also acts as a mediator in the relationship between satisfaction and trust on the continuance intention in the research model. Bhattacherjee (2001) ?rst developed IS PAM for investigation into user continuance intention toward IS. The model was adapted from Davis (1989) technology acceptance model (TAM) and Oliver's (1980) expec- tation-con?rmation theory (ECT), and has been validated in di?erent settings (Chen, Chen, Lin, & Chen, 2011; Gao & Bai, 2014). The modi?ed PAM model was suitable for the study because the dependent variable captures the fundamental purpose of the study, which is to determine customer continuance intentions toward a service provider as a result of active usage of mobile money.
+  The paper proceeds as follows. The theoretical background, research model, and research methodology are discussed. The next sections then present the results of the data analysis and a discussion of the study's ?ndings, proceeded by the theoretical and managerial implications of the results. Finally, we discuss possible study limitations, and directions for future research.
+
+2. Theoretical background
+As indicated earlier, the theoretical basis for this research comes from the work of Bhattacherjee (2001) who adapted Davis (1989) technology acceptance model (TAM) and Oliver's (1980) expectation-con?rmation theory (ECT) to the ?eld of post-accep- tance of computer technology, adapting the mixed pre/post consumption ECT model to a pure post-acceptance IS model. A core tenet of the continuance theory holds that a user's continuance with a technology is contingent on a conscious decision to operate in a given way (Bhattacherjee& Lin, 2014). PAM asserts that once a user accepts and uses a technology, he or she will form an initial opinion about the con?rmation or discon?r- mation of their expectancies. In situations where the expectations are con?rmed, the user will form opinions about the bene?ts of the technology. Ultimately, both the con?rmation and the bene?ts will a?ect their satisfaction with the service and even- tually the satisfaction will impact their desire to continue to use the technology with the same service provider (Bhattacherjee, 2001).
+  PAM advances our understanding of user continuance intention since it o?ers a convincing case for an explicit distinction between the user's preliminary acceptance and durable use of a technology-enabled service, whilst presenting a baseline theoretical model for assessing customers' continuance with service providers. In the extant litera- ture, various factors are postulated to a?ect the user's continuance with a technology- enabled service and service providers have been investigated. Notable among them are trust (Gefen, Karahanna, & Straub, 2003; Qureshi et al., 2009), satisfaction (Bhattacherjee, 2001; Limayem, Hirt, & Cheung, 2007), usage (Liao, Palvia, & Chen, 2009); and habit (Bhattacherjee & Lin, 2014; Limayem & Cheung, 2008).
+  Additionally, Ajzen and Fishbein's (2000) theory of planned behavior (TPB) suggests that the frequent performance of a certain behavior (in this case active usage) leads to the formation of habit, which in?uences subsequent behavior with- out conscious cognitive negotiation. By implication, an active customer is more likely to remain in a relationship because such a customer has accumulated more (conscious) reasons for remaining in the relationship (Cio? & Garner, 1996). Further, Roos and Gustafsson (2011) established that individual switching histories are longer in case of passive customers, and that switching is less frequent when customers are more active (Roos & Gustafsson, 2011).Thus, to e?ectively enhance the explanation of continuance usage behavior as far as staying with service provi- ders are concerned, trust and active usage of mobile money are added to Bhattacherjee's (2001) post-acceptance model of IS continuance in the current paper, as indicated in Figure 1.
+
+
+3. Development of research model and hypotheses
+Figure 1 illustrates the proposed relationships between satisfaction, trust, active mobile money usage, and customer continuance intention. This framework has two main components. The initial objective is to analyze the in?uences of each of the two independent variables on customers' continuance intention. Second, the study assesses the mediation e?ect of active usage of mobile money services on the relationship
+
+
+
+Figure 1. Conceptual Model for the Study (Modi?ed PAM).
+
+between satisfaction and trust on a customer's continuance intention toward a service provider. Finally, hypotheses of the study are developed from the framework.
+
+
+3.1. Customer satisfaction
+In a consumer behavior context, customer satisfaction is considered the foundation to acquiring and maintaining a loyal base of stable customers (Oliver, 1993). In the case of technology-enabled services such as mobile money, Kuo et al. (2009) posited satisfac- tion as the re?ection of positively aggregated feelings that are developed by/through multiple dealings with the service.
+  PAM, which is developed from the expectation con?rmation theory (ECT), o?ers an explanation on the generation of satisfaction in consumers (Bhattacherjee, 2001). The theory postulates that the relationship, between an individual's initial expectations and the results obtained by a service, largely determines the degree of satisfaction. By implica- tion, satisfaction is in?uenced by the di?erence between what a consumer wants and what he/she attains. Further extension of this logic postulates that, should customers perceive satisfaction from ?nding their wants ful?lled with/by the mobile money service, they are likely to continue using the service to accomplishing the task. The opposite is also true, meaning that when a customer fails to achieve what he/she wants from a mobile money service, the likelihood that the customer will discontinue to use the service is high, because the customer will have formed a negative attitude toward the service. The extant literature has adequately validated the assertion that satisfaction serves as an instrument to engender user continuance with a service (see e.g., Bhattacherjee, 2001; Bhattacherjee& Lin, 2014; Kuo et al., 2009; Liu, Guo, & Lee, 2011). Drawing on previous literature, we expect satisfaction to a?ect continuance intention and active usage of mobile money services, because a contented user will continue to use the service for his or her target task(s) and remain satis?ed with the service provider. (Liu et al., 2011; Zhou, 2013).
+Hence we hypothesize that:
+
+H1: Customer satisfaction positively in?uences customer continuance intention
+H2:  Satisfaction positively in?uences active usage of mobile money services
+
+3.2. Customer trust
+Based on Morgan and Hunt's (1994) interpretation of the construct, we de?ne trust in this study as the "extent of con?dence in the exchange partner's reliability and integ- rity" (Morgan & Hunt, 1994, p. 23). For the purpose of this study, trust in a mobile money service signi?es (a) trust in the brand itself, as one with which customers will be contented/satis?ed to entrust their funds; (b) trust that the technology for service transmission will function as promised; (c) trust that agents will do what is required with regards to customer funds and transactions; and (d) trust that individual activities and transactions will be ful?lled to expectation (Lal & Sachdev, 2015).
+   Given the recent relational orientation emerging in marketing activities, trust has become a key variable in the development of an enduring desire to maintain a relationship in the long term (Morgan & Hunt, 1994; Yeboah-Asiamah, Nimako, Quaye, & Buame, 2016). Trust was added to the original IS PAM because the literature has established that in certain circumstances, service providers may not be able to retain even those customers who are satis?ed (e.g., Heskett, Jones, Loveman, Sasser, & Schlesinger, 1994; Ranaweera & Prabhu, 2003; Schneider & Bowen, 1999), suggesting that satisfaction alone is not enough to ensure long-term customer continuance and commitment. Looking beyond satisfaction to identify other variables that develop and strengthen commitment in order to ensure eco- nomically viable, long-term relationships is often the right approach (Hart & Johnson, 1999; Morgan & Hunt, 1994), especially with mobile technology-enabled services such as mobile money which are built on a signi?cant level of uncertainty and risk (Zhou, 2013). Trust a?ects active usage and in?uences positive intentions toward mobile money service, because a user's con?dence in a service will foster a continued relationship of frequent usage and an eventual delay in leaving the service provider (Benamati, Fuller, Serva, & Baroudi, 2010; Luo, Li, Zhang, & Shim, 2010). Hence we hypothesize that:
+
+H3: Trust positively in?uences customer continuance intention
+
+H4:  Trust positively in?uences active usage of mobile money services
+
+
+3.3. Continuance intention and active usage of mobile money
+The continued usage of technology-enabled services such as mobile money, rather than just the early acceptance, is what determines its success or otherwise. Bhattacherjee and Lin (2014) suggest that a technology-enabled service is not successful if its application is not reinforced by the persons who seek to bene?t from its o?erings. By implication, the ability of a telecommunication service provi- der to maintain its existing customers in the long-term is reliant on knowledge of the factors that foster or constrain users' continuance intentions toward the service (Akter et al., 2011). For the purpose of this study, customer continuance is de?ned as a customer's self-reported determination to remain with his/her (the) current telecommunication mobile money service provider and use their technology-enabled services over similar available services.
+
+   The industry's benchmark for active users of mobile money refers to the number of customers who transacted or performed any activity on a mobile money account at least once within the 90 days prior to selection of targeted respondents (Bank of Ghana, 2017). Active usage was added to the original IS PAM because several scholars have suggested that customers who regularly use a service and enjoy the bene?ts of the service o?erings/services o?ered will more likely stay with the service provider (Bhattacherjee, 2001; Bhattacherjee& Lin, 2014; Limayem et al., 2007). According to Roos and Gustafsson (2007), the likelihood of a passive customer switching to a competitor is greater than that of an active customer switching. Furthermore, Roos and Gustafsson (2011) posit that switching is less frequent when customers are more active. In other words, user continuance is somehow guaranteed when the user is more active. Hence we posit that:
+
+H5:	Active usage of mobile money services is positively related to customer continuance intention
+
+3.4. Mediating e?ects of active usage of mobile money on satisfaction and trust
+According to Hart and Johnson (1999), the condition beyond satisfaction that guaran- tees true customer loyalty is total trust. If ?rms are unable to retain satis?ed customers partially due to dearth of trust, then trust may act as a complement to satisfaction in underpinning customer continuance (Hart & Johnson, 1999). This inference is consis- tent with other works on relationship contexts (Morgan & Hunt, 1994; Ranaweera & Prabhu, 2003). Ranaweera and Prabhu (2003) state that the customers most likely to continue with a service provider are those with high levels of both satisfaction and trust in the provider. Furthermore, Zhou (2013) notes that trust and satisfaction are the key factors that a?ect users' continuance intention of mobile payment services such as mobile money.
+   Interestingly, active usage of mobile money services is one of the key metrics of interest to telecommunication operators, because the success of a technology-enabled service such as mobile money is dependent on continued use rather than initial acceptance (Bhattacherjee, 2001; Limayem et al., 2007). Because former studies (Roos & Gustafsson, 2011, 2007), have established that user continuance will be achieved once a user becomes more active, we test the potential mediating e?ect of the active usage of mobile money in the research model. Liu et al. (2011) and Zhou (2013) both conclude that satisfaction induces active usage of mobile money services because a delighted user will continue to use the service for his or her target task(s) (Liu et al., 2011; Zhou, 2013). Moreover, trust has been found to (have an) impact (on) active usage of mobile money service because a user's assurance in a service will foster a continued relationship for frequent use of service (Benamati et al., 2010; Luo et al., 2010) hence we state the sixth and seventh hypotheses as:
+
+H6:	Active usage of mobile money services signi?cantly mediates the relationship between satisfaction and customer continuance intention
+
+H7:	Active usage of mobile money service signi?cantly mediates the relationship between trust and customer continuance intention
+
+4. Methodology
+4.1 Sample population and data collection
+Individual customers (subscribers) of four telecom ?rms operating mobile money services in Ghana made up the population for the study. A sample of 700 registered mobile money subscribers were (conveniently) selected from ?ve of Ghana's 10 regions (Greater Accra, Eastern, Volta, Central and Western Regions) in December 2016. To enable the researcher (to) collect quality data that echo customers' opinion and enhance the sample representation, a survey methodology was employed for data collection from customers. We inspected all questionnaires (700) and dropped 193 responses that had too many missing values. Accordingly, 507 valid responses were obtained, producing a response rate of 72.4%. Both the sample size guidelines as recommended by Hair, Hult, Ringle, and Sarstedt (2013) stating that at least 59 observations are necessary to accomplish a statistical power of 80% for detecting R-square values of at least 0.25 (that is, 10 × 3 structural paths = 30 customers), and the "10 times rule" (Thompson, Barclay, & Higgins, 1995) are satis?ed in this study. For a Partial Least Squares (PLS) model, the "10 times rule" proposes that the sample size should at least equal "10 times the maximum number of structural paths pointing at a latent variable anywhere in the PLS path" (Thompson et al., 1995).
+  This being a cross-sectional study, self-administered questionnaires were used to collect data according to a seven-point Likert scale ranging from one, "strongly disagree", to seven, "strongly agree." All measurement items for the constructs were based on extant literature and adapted for Ghana's mobile telecommunication industry. Demographic variables such as gender, age, quali?cation, etc., as well as categorical questions were used to collect data. To check for the suitability, structure and design of the instrument, questionnaires were pilot-tested with 20 mobile money users. This helped to restructure the wording of items in the questionnaire. After the pilot, questionnaires were administered to the customers of four telecom operators at their various customer service centers. Subscribers who had registered for mobile money services and have actually used the service within the past 90 days were selected, and the questionnaires were administered within a six-week period by four hired and trained research assistants.
+
+
+4.2. Data analysis
+Partial Least Squares Structural Equation Modeling (PLS-SEM), available in SmartPLS
+3.2.6 (Ringle, Wende, & Becker, 2016) and SPSS 23.0, were used for the data and descriptive analysis respectively in the study. The use of the PLS-SEM was to enable the researcher(s) to evaluate the adequacy of the measurement model in relation to the prime constructs and also to examine the hypothesized relationships (Figure 1) and the extra- polative signi?cance of the conceptual model (Ringle et al., 2016). Since the ultimate objective of the study was to test the ability of the respective antecedents to forecast their in?uence on customers' intention to stay with mobile money service provider, PLS-SEM is the most suitable tool for the study. Furthermore, PLS-SEM is ideal for the purpose of the study due to its distribution-free assumption (Gye-Soo, 2016).
+
+5. Results of the study
+5.1. Demographic analysis of respondents
+The descriptive statistics showed that males comprised 60.4% of respondents, whilst females were 39.6%. There were two dominant age groups: below 25 years (42%) and between 26 and 35 years (42.6%). Respondents between 35 and 46 years were 11.2%, and those between 46 and 55 years and above 55 years recorded 3.6% and 0.6% respectively. In terms of quali?ca- tion, nearly half of the respondents (47.4%) had Diploma/HND education, with 21.9% and 12.8% having Senior High School (WASSCE/SSCE) and Technical/Vocational training respectively. Last but not least, respondents with a Bachelor's and Master's level of education were 14.5% and 3.4% respectively. About 30.6% of the respondents did not earn any income because they were students, whilst 31.2% earn a monthly income below GH¢200 (US$ 45). Also 20.3% earned a monthly income between GH¢200 and GH¢500 (US$ 111), 8.8% of them earned between GH¢500 and GH¢1000 (US$ 222) and about 9.1% earned above GH¢1000. This is considered quite high in an economy where the average monthly income is GH ¢899 (US$ 200) (Ghana Statistical Service, 2016).
+  Out of 507 respondents, 78.5% used bank accounts while 21.5% did not have traditional bank accounts. Interestingly, 57.2% averred that mobile money services alone could meet their banking needs, though 42.8% still believed that they couldn't do without a bank account. Finally, with regards to the number of years they had been registered for the mobile money service with their current service provider, 29.6% of respondents had spent less than one year. Almost 34.7% had spent between 1 and 2 years, while 26.8% had spent between 2 and 4 years and 8.9% had spent more than 5 years with their current service provider. This suggests that more than half (64.3%) of the respondents had registered for mobile money service within the previous two years.
+
+5.2. Constructs and measurement items
+The measurement items used to assess the various constructs and their respective outer loadings are presented in Table 1, while the PLS path estimation model is presented in Figure 2. Indicator reliability, internal consistency reliability, discriminant validity, and convergent validity of the re?ective measurement model were assessed before a path coe?- cient analysis to ensure the reliability of the data and the model (Wong, 2013). Four items (CCI1, CCI5, SAT3, TRT4) which did not meet the required thresholds were removed from the model. The remaining items used for analysis are indicated in the charts below.
+
+5.3. The measurement/outer model
+Internal consistency was assessed using composite reliability (CR), which, according to Cevdet Altunel and Erkut (2015), should be valued above 0.70. From the measurement model, CRs of the constructs ranged from 0.897 to 0.940, establishing adequate reliability of the measures: CCI (0.925); MMAU (0.908); Satisfaction (0.940); and Trust (0.897).
+  Furthermore, to examine construct validity, convergent and discriminant validities were estimated. Hair, Black, et al. (2014) postulate that the establishment of convergent validity requires a factor loading of at least 0.50 and an average variance extracted (AVE) above 0.50 to signify that more than half of the variance of the indicators of the latent variables are
+
+Table 1. Constructs and Measurement Items	
+No.
+
+
+Construct	Label	Measurement items
+ 
+Outer Loadings
+
+of
+items	Source
+
+Customer Continuance Intension
+
+CCI2	I will not move to another network because I have mobile money service on my current sim card
+
+0.874	4	Bhattacherjee and Lin
+(2014); Cronin, Brady, and Hult (2000); Yeboah-
+
+CCI3	Because of mobile money services, I will intend to stay with my network provider in the future to continue usage of the services
+CCI4	Mobile Money services will urge me to stay with my service provide irrespective of any competitive o?erings
+CCI6	My intentions are to continue using mobile money rather than use any alternative means
+
+0.888
+
+
+0.897
+
+
+0.813
+
+Asiamah et al. (2016)
+
+Mobile Money Active Usage
+
+MMAU1 I use Mobile Money Services at least once a month
+MMAU2 I have a need to use Mobile Money services every 30 days
+MMAU3 To a large extent, I am an active user of mobile money service
+MMAU4 I perform minimum of one transaction every month
+
+0.824	4	Self- developed
+
+0.872
+
+0.872
+
+0.807
+
+Satisfaction	SAT1	I am happy with the Mobile Money
+          services provided by my network SAT2	I will recommend my Network Mobile
+          Money services to other people SAT4	I believe I have made the right
+decision to register for mobile Money
+Trust	TRT1	The Network Mobile Money brand is like a friend to me
+
+0.906	3	Mittal and Lassar (1998);
+Cronin et al. (2000)
+0.930
+
+0.914
+
+0.823	4	Sudhahar, Israel, Britto, and
+Selvam (2006); Morgan
+
+TRT2	The people in my service provider ?rm respond caringly when I share my problems on Mobile Money
+
+0.826
+
+and Hunt (1994),
+
+TRT3	The communication materials I see from my Network Mobile Money is credible
+TRT5	I trust mobile money to send money correctly to recipients
+
+0.849	Chaudhuri and Holbrook (2001)
+
+0.816	Sudhahar et al. (2006)
+
+
+
+
+
+Figure 2. PLS Path Model Estimation.
+
+explained. From Table 2, all the factor loadings of the items were above the minimum 0.50 threshold. Again, the AVEs and the CRs all indicate appropriate internal consistency. Moreover, discriminant validity was assessed by analyzing the correlation among the measures to identify any potentially overlapping constructs (Fornell & Larcker, 1981). Hair, Hult, et al. (2014) instruct that the square root of the AVE should be higher than the variance shared between the construct and other constructs in order to establish discriminant validity. Table 2 indicates that all the correlations and the square roots of the AVE's indicate adequate discriminant validity.
+
+
+5.4. Evaluation of the structural model in PLS-SEM: collinearity assessment
+The structural model, just like the measurement model, has to be properly evaluated before arriving at any logical conclusions. According to Hair, Ringle, and Sarstedt (2011), one of the potential problems in the structural model is collinearity, typically indicated by a variance in?ation factor (VIF) value of 5 or above (Hair et al., 2011; Wong, 2013). In this study, the IBM SPSS 23.0 was utilized to generate VIF values.
+  From the summary of collinearity results in Table 3, it is clear that all the VIF values are lower than ?ve, indicating that there is a low possibility of collinearity between each set of predictor variables.
+
+
+5.5. Coe?cient of determination (R2)
+The assessment of the coe?cient of determination (R2) is another key part in the evaluation of the structural model. In this study, customer continuance intention (CCI) is the major construct of interest, and from the PLS Path model estimation and from Table 6, the overall R2 is found to be relatively moderate. Threshold values of 0.25, 0.50 and 0.70 to de?ne weak, moderate and strong coe?cients of determination are recommended (Hair et al., 2013; Wong, 2013). The R2value for this study is 0.490, which suggests that the three constructs of SAT, TRT and MMAU jointly explain 49%
+
+Table 2. Discriminant Validity	
+Discriminant Validity met?
+(Square root of
+Latent Variable Correlations (LVC)	AVE>LVC?)
+Customer Continuance IntentionMM Active Usage
+Satisfaction
+TrustCustomer Continuance0.869YesIntentionMM Active User0.5060.844YesSatisfaction0.6260.4530.917YesTrust0.6310.4720.7550.829YesNote: The square root of AVE values is shown on the diagonal and printed in bold; non-diagonal elements are the latent variable correlations (LVC).
+
+
+of the variance of the endogenous construct CCI. Last, the model estimation reveals
+
+Table 3. Collinearity Assessment
+First Set	Second Set
+
+Collinearity
+Statistics	Collinearity Problem?
+
+
+Collinearity
+Statistics	Collinearity Problem?
+
+Constructs
+
+Tolerance VIF
+
+(VIF>5?)	Constructs
+
+Tolerance VIF
+
+(VIF>5?)
+
+
+MMAU0.7561.323NoTRT0.432.325NoSAT0.4182.391NoSAT0.432.325NoTRT0.4092.446NoDependent variable: CCI	Dependent variable: MMAU
+
+
+that the R2for the other latent constructs, SAT and TRT, are found to jointly explain (the) 24% of MMAU's variances in this PLS-SEM model.
+
+
+5.6. Path coe?cient and hypothesis testing
+To assess the relationship between constructs in PLS-SEM, the path coe?cient and the related t-statistics through the bootstrapping procedure has to be examined (Wong, 2013). Standardized path coe?cients (b), signi?cance levels (t-statistic), and R2 esti- mates were utilized to estimate the structural model as shown in Table 4.
+  The results from Table 4 indicate that all the hypotheses for the study were supported. H1 predicted that active usage of mobile money services will have signi?cant and positive e?ect on customers' continuance intention toward service provider, and with t-value = 5.780, and p < 0.001, hypothesis 1 is accepted. Satisfaction has signi?cant positive e?ect on customers' continuance intention toward the service provider as well as on active usage of mobile money service (t = 5.377, p < 0.001; and t = 3.676, p < 0.001 respectively), providing support for hypothesis H2 and H3. Hypotheses 4 and 5 predicted that Trust will have signi?cant positive in?uence on customers' continuance intention towards the service provider and on active usage of mobile money service. The results from Table 4 provide support for these hypotheses with t = 5.443, p < 0.001; and t = 4.493, p < 0.001 respectively. Figure 3 also indicates the path structural model using the bootstrapping procedure.
+
+
+5.7. Predictive relevance (Q2)
+In PLS-SEM, the Stone-Geisser's predictive relevance (Q2) assessment is essential because it helps the researcher con?rm if the data points of indicators in the re?ective measure- ment model of the endogenous construct can be accurately predicted (Wong, 2013). The
+
+Table 4. Signi?cance Testing Results of the Structural Model Path Coe?cients
+
+Hypothesis
+Path:   Path Coe?cients
+t Values  p Values
+HypothesisH1MM Active Usage -> Customer Continuance0.2315.7800.001SupportedIntentionH2Satisfaction -> Customer Continuance Intention0.2975.3770.001SupportedH3Satisfaction -> MM Active Usage0.2253.6760.001SupportedH4Trust -> Customer Continuance Intention0.2975.4430.001SupportedH5Trust -> MM Active Usage0.3024.4930.001Supported
+
+
+Figure 3. PLS Path Structural Model (Bootstrapping).
+*Signi?cant
+
+Blindfolding procedure in SmartPLS (is what is) was used to achieve this purpose. Since SAT and TRT are the two endogenous constructs in our research model, they are selected for the running of the Blindfolding Algorithm. Table 5 summarizes the results. Based on Chin's (1998) suggestion that a model exhibits good predictive relevance when its Q2 value is larger than zero, it can be concluded from Table 5 that the proposed model has
+(a) good predictive relevance for all the endogenous variables in the study.
+
+
+5.8. Predictive power analysis (e?ect sizes) (f2)
+The conclusive stage in the evaluation of the structural model is to examine the e?ect of a speci?c exogenous construct on the endogenous construct if it is expunged from the model. The e?ect size is estimated as:
+R2 included - R2 included
+1 - R2 included
+Cohen (1988) o?ers interpretation of the f2values of 0.00, 0.02, 0.15, and 0.35 to represent none, small, medium and large e?ect sizes correspondingly. The results in Table 6 indicate that in general, the exogenous variable have small f2e?ect sizes on the endogenous variables. (Cohen, 1988; Wong, 2013).
+
+5.9. Mediation test
+According to Ramayah, Lee, and In (2011), a mediation test is performed to ascertain if a mediator construct has the ability to signi?cantly carry the e?ect of an independent
+
+Table 5. Results of Coe?cient of Determination (R2) and Predictive Relevance (Q2)	
+
+Endogenous Latent VariableR2 ValueQ2 ValueCustomer Continuance Intention (CCI)0.4900.347Mobile Money Active User (MMAU)0.2440.159
+Table 6. Results of F2 E?ect Sizes Analysis
+Customer Continuance Intention (CCI)	Mobile Money Active User (MMAU)
+
+
+Variable
+  
+Path Coe?cient
+
+R2
+Included
+
+R2
+Excluded	f2	Remarks
+
+Path
+Coe?cient R2Included
+
+R2
+Excluded	f2	Remarks
+
+SAT0.2970.4900.4530.0725Small0.2250.2460.2230.0305SmallE?ectE?ectTRT0.2970.4900.4540.0706Small0.3020.2460.2080.0504SmallE?ectE?ectMMAU0.2310.4900.4510.0765SmallN/AE?ect
+Note: Target constructs appear in the ?rst row, whereas the predecessor constructs are in the ?rst column.
+
+
+variable to a dependent variable (Ramayah et al., 2011). The causal steps approach (Baron & Kenny, 1986) was adopted to discover the indirect e?ect of the independent variable on the dependent variable through a mediator variable. To assess whether active usage of mobile money functions as the mediator for satisfaction (H6) and trust (H7), three conditions should be met: (1) an independent construct should signi?cantly in?uence the dependent construct, (2) an independent construct should signi?cantly in?uence the mediator construct, and (3) both the independent construct and the mediator should together predict the dependent construct (Baron & Kenny, 1986).
+
+
+5.10. Magnitude of mediation
+The strength of the mediator can be assessed through the use of total e?ect and variance accounted for (VAF), after the signi?cance of the indirect e?ect is ascertained. Table 7 presents the results of the mediation analysis. It can be said that 20.2% of satisfaction's e?ect on the customer's continuance intention is explained via the active usage of a mobile money mediator, and 20.1% of the trust e?ect on customer continuance intention was also explained via the active usage of mobile money as the mediator. Thus, the active usage of mobile money increases the e?ect of trust and satisfaction on the customer's continuance inten- tion. According to Hair et al. (2013), partial mediation is demonstrated when VAF exceeds the 0.2 threshold level and full mediation is demonstrated when it exceeds
+0.8. Since the VAF values for both hypotheses H6 and H7 were more than 20%, but smaller than 80%, it can be concluded that active usage of mobile money partially mediates the in?uences of satisfaction and trust on the continuance intention towards the mobile money service provider. These ?ndings lead us to
+
+
+Table 7. Mediation E?ect Analysis
+
+
+
+Coe?cient in regression
+Indirect e?ect's Size
+
+
+
+
+Total
+
+
+
+Mediating	Hypothesis
+
+ 
+
+IV - >IV - >M - >IV - >M xt-e?ect'sHypothesis IV	MDV	DVMDVM - > DVvaluesize	VAFStrengthH6	SAT MMAUCCI 0.500***0.453***0.280***0.127***10.9740.627	0.202Partial	AcceptedH7	TRT MMAUCCI 0.504***0.472***0.268***0.126***10.5810.630	0.201Partial	AcceptedNote: IV = Independent variable; M: mediator; DV: dependent variable; VAF: variance accounted for. *** P < 0.01.
+
+accept hypothesis H6 and H7 about MMAU's mediator role. The results present some interesting results for discussion.
+
+6. Discussion
+This study explored how the use of mobile money services can deter (in deterring) customer churn. The relationship between customers' continuance intentions and usage of mobile money services has not been studied to a signi?cant extent in the mobile telecommunications industry. The mediating role of active usage of mobile money services in the link between satisfaction and trust in relation to customers' continuance intention has also seldom been studied. This study therefore ?lled these voids by examining the mediation e?ect of active usage of mobile money service on the relation- ship between satisfaction and trust on customer continuance intention.
+  The results of the study indicate that satisfaction has a substantial positive e?ect on both active usage of mobile money as well as customers' continuance intention. Previous research has established that satisfaction is a strong determinant of continuance behavior (Kim, Hong, Min, & Lee, 2011; Kuo et al., 2009; Liu et al., 2011), hence satisfaction should be the main instrument through which telecommunication service providers seek to build active usage and loyalty to prevent churn. A contented user is likely to continue to use mobile money services due to positive feelings about the service. On the contrary, if users are not satis?ed with mobile money services they may discontinue their usage and subsequently have a negative attitude toward the service. In e?ect, satisfaction acts as a mechanism to stimulate active usage and customer intention to stay with the service provider, as illustrated in the research model. In the extant literature, this assertion has been well supported and validated in di?erent settings (e.g., Bhattacherjee& Lin, 2014; Kim et al., 2011; Liu et al., 2011).
+  Trust has a positive and signi?cant relationship with both active usage of mobile money and customers' continuance intention toward service providers. This supports Liu et al.'s (2011) assertion that increasing user trust is key to the advancement of mobile technology- enabled services. According to Blau (1964), trust is the key element in the preservation of exchange relations, and is hence the reason why customers would be willing to deposit their money with agents (strangers) who are authorized by the service providers. The implication is that, when a mobile money user is persuaded that the service is worthy of accomplishing a task to an agreed standard, there is a high possibility that the user will continue patronage. On the other hand, a mobile money user is not likely to be an active user and remain with the service provider unless the service provider is able to build trust to ease the customer's perception of risk and uncertainty.
+
+7. Implications of the research
+This study provides both theoretical and practical implications. First, it is of theoretical importance, as it is among the ?rst studies, to examine the e?ect of mobile money on customer churn prevention in the telecommunication industry from a theoretical perspective. This study has also provided empirical support for the involvement of trust and satisfaction in preventing customer churn, and has investigated the mediating role of active usage of mobile money, which is a key indicator of level of acceptance for service providers. Furthermore, the study has validated a theoretical model of customer
+
+continuance intention in the context of mobile money. This extends the purview of the relatively scarce literature on mobile money, and also provides a new perspective on managing customer churn in an emerging market.
+  The results of this research have additionally provided several practical insights into ensuring customers' continuance in emerging markets as far as mobile money is concerned. In the ?rst place, customer continuance intention towards the service provider is in?uenced by their satisfaction with the service and their trust in the provider. Managers must therefore focus resources on creating positive and pleasant experiences for customers whenever they make use of mobile money platforms, so that they can enjoy the usage, and recommend it to others. Mobile operators must also strive to build trust, by strengthening their security processes and training their sta? to show empathy toward the customer size and adequately respond when service failures occur. These will strengthen consumers' intention to remain with the operator. The results also make it clear that active usage of mobile money services has a strong in?uence on continuance intention when combined with satisfaction and trust. This suggests that managers in the telecommunications industry must make engendering the active usage of mobile money a priority in their strategic plans. Relevant and innovative services on the platform should be developed to attract and stimulate regular usage, as this will lead to customer retention. Regular users of mobile money services should also be speci?cally targeted with interventions to increase trust and customer satisfaction as they will yield a higher response in terms of CCI than less frequent users of the service.
+  It is again evident that trust and satisfaction signi?cantly in?uence active usage of mobile money. Thus, managers, as a strategy to in?uence resistance to churn, should seek to ensure that customers continue to use mobile money by working to alleviate user perceptions of uncertainty and risk (Luo et al., 2010; Zhou, 2013), while ensuring that technology-enabled services create customer satisfaction (Kuo et al., 2009).
+
+8. Limitations and further research directions
+This study has made a modest contribution to understanding CCI by de?ning a model for customer continuance intention in the context of mobile money. However, the study has limitations which o?er opportunities for future research. In the ?rst place, the use of a cross-sectional study to assess a relationship which is present over a relatively long period of time can be problematic (Davis-Sramek, Droge, Mentzer, & Myers, 2009). Second, the use of the telecommunication industry as the context of this study reduces the extent of generalization of the ?ndings.
+  As recommendation for future research, similar studies based on longitudinal data would help to compare the behavior of both active and passive mobile money users' continuance intention towards service providers. In addition, this study can be replicated in di?erent service sectors and markets to compare results and validate the ?ndings of this study. Lastly, a qualitative or case study method approach with a relatively larger sample can be employed to validate the inferences and suppositions of this study.
+
+Conclusion
+The objective of the study was to examine the critical role of mobile money in ensuring customer continuance intention, which is a major issue for ?rms in very competitive
+
+markets. Overall, there has been considerable support for the study's conceptual model, hence this study makes contribution to knowledge by establishing that customers' continuance intention towards service providers in the telecommunication ?rms can be instigated by engendering satisfaction, trust and, more signi?cantly, active usage of mobile money services. The results further indicate that active usage of mobile money services mediates the link between satisfaction and trust on customers' continuance intention.
+  The paper has demonstrated that active usage of mobile money services is crucial in locking in customers, thus making them more resistant to churn. In speci?c terms, mobile operators may prevent customer churn by pursuing combined strategies aimed at intro- ducing mobile money products/services that are relevant to the everyday lives and needs of their customers, thereby ensuring that they become active users of mobile money.
+
+
+Disclosure statement
+No potential con?ict of interest was reported by the authors.
+
+ORCID
+Eric Yeboah-Asiamah  http://orcid.org/0000-0002-2903-5907
+
+
+
+References
+Abor, J. Y., Amidu, M., & Issahaku, H. (2018). Mobile telephony, ?nancial inclusion and inclusive growth. Journal of African Business, 1-24. doi:10.1080/15228916.2017.1419332
+Ajzen, I., & Fishbein, M. (2000). Attitudes and the attitude-behavior relation: Reasoned and automatic processes. European Review of Social Psychology, 11(1), 1-33. doi:10.1080/ 14792779943000116
+Akter, S., D'Ambra, J., & Ray, P. (2011). Trustworthiness in mHealth information services: An assessment of a hierarchical model with mediating and moderating e?ects using partial least squares (PLS). Journal of the American Society for Information Science and Technology, 62(1), 100-116. doi:10.1002/asi.21442
+Bank of Ghana. (2017). Payment systems statistics report. Retrieved 17 June, 2017, fromhttps:// www.bog.gov.gh/privatecontent/Payment%20Systems/PAYMENT%20SYSTEM% 20STATISTICS_%20First%20Quarter%202017%20.pdf
+Baron, R. M., & Kenny, D. A. (1986). Moderator-mediator variable distinction in social psycho- logical research: Conceptual, strategic and statistical considerations. Journal of Personality and Social Psychology, 51(6), 1173-1182. doi:10.1037/0022-3514.51.6.1173
+Benamati, J. S., Fuller, M. A., Serva, M. A., & Baroudi, J. A. (2010). Clarifying the integration of trust and TAM in e-commerce environments: Implications for systems design and manage- ment. IEEE Transactions on Engineering Management, 57(3), 380-393. doi:10.1109/ TEM.2009.2023111
+Bhattacherjee, A. (2001). Understanding information systems continuance: An expectation-con-
+?rmation model. MIS Quarterly, 25, 351-370. doi:10.2307/3250921
+Bhattacherjee, A., & Lin, C. P. (2014). A uni?ed model of IT continuance: Three complementary perspectives and crossover e?ects. European Journal of Information Systems, 24(4), 364-373. doi:10.1057/ejis.2013.36
+Blau, P. M. (1964). Exchange and power in social life. New York: John Wiley.
+
+
+Bongomin, G. O. C., Ntayi, J. M., Munene, J. C., & Malinga, C. A. (2018). Mobile money and ?nancial inclusion in Sub-Saharan Africa: The moderating role of social networks. Journal of African Business, 1-24. doi:10.1080/15228916.2017.1416214
+Cevdet Altunel, M., & Erkut, B. (2015). Cultural tourism in Istanbul: The mediation e?ect of tourist experience and satisfaction on the relationship between involvement and recommen- dation intention. Journal of Destination Marketing Management., 4(4), 213-221. doi:10.1016/j. jdmm.2015.06.003
+Chaudhuri, A., & Holbrook, M. B. (2001). The chain of e?ects from brand trust and brand a?ect to brand performance: The role of brand loyalty. Journal of Marketing, 65(2), 81-93. doi:10.1509/jmkg.65.2.81.18255
+Chen, S.-C., Chen, -H.-H., Lin, M.-T., & Chen, Y.-B. (2011). A conceptual model to understand the e?ects of perception on the continuance intention in facebook. Australian Journal of Business and Management Research, 1(8), 29-34.
+Chin, W. W. (1998). The partial least squares approach for structural equation modeling. In G. A.Marcoulides (Ed.), Modern methods for business research. Mahwah, NJ: Lawrence Erlbaum Associates.
+Cio?, D., & Garner, R. (1996). On doing the decision: E?ects of active versus passive choice on commitment and self-perception. Personality and Social Psychology Bulletin, 22(2), 133-147. doi:10.1177/0146167296222003
+Cohen, J. (1988). Statistical power analysis for behavioral sciences (2nd ed.). Hillsdale, NJ: L. Erlbaum.
+Cronin, J. J., Brady, M. K., & Hult, G. T. M. (2000). Assessing the e?ects of quality, value, and customer satisfaction on consumer behavioral intentions in service environments. Journal of Retailing, 76(2), 193-218. doi:10.1016/S0022-4359(00)00028-2
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of informa- tion technology. MIS Quarterly, 13(3), 319-340. doi:10.2307/249008
+Davis-Sramek, B., Droge, C., Mentzer, J. T., & Myers, M. B. (2009). Creating commitment and loyalty behaviour among retailers: What are the roles of service quality and satisfac- tion?Journal of the Academy of Marketing Science, 37(4), 440-454. doi:10.1007/s11747-009- 0148-y
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39-50. doi:10.2307/ 3151312
+Gao, L., & Bai, X. (2014). An empirical study on continuance intention of mobile social networking services. Asia Paci?c Journal of Marketing and Logistics, 26(2), 168-189. doi:10.1108/APJML-07-2013-0086
+Gefen, D., Karahanna, E., & Straub, D. W. (2003). Trust and TAM in online shopping: An integrated model. MIS Quarterly, 27(1), 51-90. doi:10.2307/30036519
+Ghana Statistical Service. (2016, December). 2015 Labour force report. Retrieved 8 January, 2018, fromhttp://www.statsghana.gov.gh/doc?les/publications/Labour_Force/LFS%20REPORT_  ?anl_21-3-17.pdf.
+GhanaWeb. (2017, October 20). Mobile money transactions shoot up 737%. Retrieved 18 January,
+2018, fromhttps://www.ghanaweb.com/GhanaHomePage/business/Mobile-money-transac tions-shoot-up-737-592496
+Gosavi, A. (2017). Can mobile money help ?rms mitigate the problem of access to ?nance in Eastern sub-Saharan Africa? Journal of African Business, 1-18. doi:10.1080/ 15228916.2017.1396791
+GSMA. (2017). State of the industry report on mobile money - decade edition: 2006 - 2016.
+Retrieved 18 January, 2018, from https://www.gsma.com/mobilefordevelopment/wp-content/ uploads/2017/03/GSMA_State-of-the-Industry-Report-on-Mobile-Money_2016.pdf.
+Gye-Soo, K. (2016). Partial least squares structural equation modeling(PLS-SEM): An application in customer satisfaction research. International Journal of U-And e-Service, Science and Technology, 9(4), 61-68. doi:10.14257/ijunesst.2016.9.4.07
+
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2014). Multivariate data analysis (7th ed.). Edinburgh Gate, Harlow: Pearson Education Limited.
+Hair, J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. A. (2014). A primer on partial least squares structural equation modeling (PLS-SEM) (1st ed.). Thousand Oaks, CA, USA: Sage Publications.
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2013). A primer on partial least squares structural equation modeling (PLS-SEM). Thousand Oaks: Sage.
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2011). PLS-SEM: Indeed a silver bullet. Journal of Marketing Theory and Practice, 19(2), 139-151. doi:10.2753/MTP1069-6679190202
+Hart, C., &Johnson, M. (1999). Growing the trust relationship. Journal of Marketing Management, 8(1), 8-19.
+Heskett, J. L., Jones, T. O., Loveman, G. W., Sasser, W. E., & Schlesinger, L. A. (1994, March/ April). Putting the service-pro?t chain to work. Harvard Business Review, 77(2), 164-174.
+Hughes, A. M. (2007). Churn reduction in the telecom industry. Retrieved 2 March, 2017, fromwww.telecommarketing.com/index.php?q.node/29.
+Humbani, M., & Wiese, M. (2017). A cashless society for all: Determining consumers' readiness to adopt mobile payment services. Journal of African Business, 1-21. doi:10.1080/ 15228916.2017.1396792
+Hwang, H., Taesoo, J., & Euiiho, S. (2004). An Ltv model and customer segmentation based on customer value: A case study on the wireless telecommunications industry. Expert Systems with Applications, 26(2), 181-188. doi:10.1016/S0957-4174(03)00133-7
+Jack, W., &Suri, T. (2010). The economics of M-PESA: An update. Unpublished research paper, Georgetown University.
+Kim, J., Hong, S., Min, J., & Lee, H. (2011). Antecedents of application service continuance: A synthesis of satisfaction and trust. Expert Systems with Applications, 38(8), 9530-9542. doi:10.1016/j.eswa.2011.01.142
+Kuo, Y. F., Wu, C. M., & Deng, W. J. (2009). The relationships among service quality, perceived value, customer satisfaction, and post-purchase intention in mobile value-added services. Computers in Human Behavior, 25(4), 887-896. doi:10.1016/j.chb.2009.03.003
+Kuusik, A., & Varblane, U. (2009). How to avoid customers leaving: The case of the Estonian telecommunication industry. Baltic Journal of Management, 4(1), 66-79. doi:10.1108/ 17465260910930458
+Lal, R., & Sachdev, I. (2015). Mobile money services-Design and development for ?nancial inclusion. Harvard Business School. Working Paper 15-083.
+Liao, C., Palvia, P., & Chen, J. L. (2009). Information technology adoption behavior life cycle: Toward a Technology Continuance Theory (TCT). International Journal of Information Management, 29(4), 309-320. doi:10.1016/j.ijinfomgt.2009.03.004
+Limayem, M., & Cheung, C. M. (2008). Understanding information systems continuance: The case of internet-based learning technologies. Information & Management, 45(4), 227-232. doi:10.1016/j.im.2008.02.005
+Limayem, M., Hirt, S. G., & Cheung, C. M. (2007). How habit limits the predictive power of intention: The case of information systems continuance. MIS Quarterly, 31(4), 705-737. doi:10.2307/25148817
+Liu, C. T., Guo, Y. M., & Lee, C. H. (2011). The e?ects of relationship quality and switching barriers on customer loyalty. International Journal of Information Management, 31(1), 71-79. doi:10.1016/j.ijinfomgt.2010.05.008
+Luo, X., Li, H., Zhang, J., & Shim, J. P. (2010). Examining multi-dimensional trust and multi- faceted risk in initial acceptance of emerging technologies: An empirical study of mobile banking services. Decision Support Systems, 49(2), 222-234. doi:10.1016/j.dss.2010.02.008
+Mittal, B., & Lassar, W. M. (1998). Why do customers switch? The dynamics of satisfaction versus loyalty. Journal of Services Marketing 12(3), 177-194.
+Mbiti, I., & Weil, D. N. (2013). The home economics of e-money: Velocity, cash management, and discount rates of m-pesa users. The American Economic Review, 103(3), 369. doi:10.1257/ aer.103.3.369
+
+Morawczynski, O. (2009). Exploring the usage and impact of "transformational" mobile ?nancial services: The case of M-PESA in Kenya. Journal of Eastern African Studies, 3(3), 509-525. doi:10.1080/17531050903273768
+Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship marketing.
+Journal of Marketing, 58(3), 20-23. doi:10.2307/1252308
+Narteh, B., Mahmoud, M. A., & Amoh, S. (2017). Customer behavioural intentions towards mobile money services adoption in Ghana. The Service Industries Journal, 37(7/8), 1-22. doi:10.1080/02642069.2017.1331435
+Nimako, S. G., Ntim, B. A., & Mensah, A. F. (2014). E?ect of mobile number portability adoption on consumer switching intention. International Journal of Marketing Studies, 6(2), 117. doi:10.5539/ijms.v6n2p117
+Oliver, R. L. (1980). A cognitive model of the antecedents and consequences of satisfaction decisions. Journal of Marketing Research, 17(4), 460-469. doi:10.2307/3150499
+Oliver, R. L. (1993). Cognitive, a?ective, and attribute bases of the satisfaction response. Journal of Consumer Research, 20(3), 418-430. doi:10.1086/jcr.1993.20.issue-3
+PricewaterhouseCoopers (2016). 2016 Ghana banking survey: How to win in an era of mobile money. Retrieved 17 January, 2018 from https://www.pwc.com/gh/en/assets/pdf/2016-bank ing-survey-report.pdf
+Qureshi, I., Fang, Y., Ramsey, E., McCole, P., Ibbotson, P., & Compeau, D. (2009). Understanding online customer repurchasing intention and the mediating role of trust - an empirical investigation in two developed countries. European Journal of Information Systems, 18(3), 205. doi:10.1057/ejis.2009.15
+Ramayah, T., Lee, J. W. C., & In, J. B. C. (2011). Network collaboration and Performance in the tourism sector. Service Business, 5(4), 411-428. doi:10.1007/s11628-011-0120-z
+Ranaweera, C., & Prabhu, J. (2003). The in?uence of satisfaction, trust and switching barriers on customer retention in a continuous purchase setting. International Journal of Service Industry Management, 14(4), 374-395. doi:10.1108/09564230310489231
+Reichheld, F. F. (1996). Learning from customer defections. Harvard Business Review, 74(2), 56-69. Ringle, C. M., Wende, S., & Becker, J.-M. (2016). SmartPLS 3. Bönningstedt: SmartPLS GmbH. Roos, I., &Gustafsson, A. (2007). Understanding frequent switching patterns - A crucial element in managing customer relationships. Journal of Service Research, 10(1), 93-108. doi:10.1177/
+1094670507303232
+Roos, I., & Gustafsson, A. (2011). The in?uence of active and passive customer behavior on switching in customer relationships. Managing Service Quality: An International Journal, 21 (5), 448-464. doi:10.1108/09604521111159771
+Schneider, B., & Bowen, D. (1999). Understanding customer delight and outrage. Sloan Management Review, 41(1), 35-45.
+Shin, D. H., & Kim, W. Y. (2008). Forecasting customer switching intention in mobile service: An exploratory study of predictive factors in mobile number portability. Technological Forecasting and Social Change, 75(6), 854-874. doi:10.1016/j.techfore.2007.05.001
+Sudhahar, J. C., Israel, D., Britto, A. P., & Selvam, M. (2006). Service loyalty measurement scale: A reliability assessment. American Journal of Applied Sciences, 3(4), 1814-1818. doi:10.3844/ ajassp.2006.1814.1818
+Svendsen, G. B., & Prebensen, N. K. (2013). The e?ect of brand on churn in the telecommunica- tions sector. European Journal of Marketing, 47(8), 1177-1189. doi:10.1108/ 03090561311324273
+Thompson, R., Barclay, D. W., & Higgins, C. A. (1995). The partial least squares approach to causal modeling: Personal computer adoption and use as an illustration. Technology Studies: Special Issue on Research Methodology, 2(2), 284-324.
+Wamuyu, P. K. (2014). The role of contextual factors in the uptake and continuance of mobile money usage in Kenya. The Electronic Journal of Information Systems in Developing Countries, 64(1), 1-19. doi:10.1002/(ISSN)1681-4835
+Wong, K. K. (2013). Partial least squares structural equation modeling (PLS-SEM) techniques using SmartPLS. Marketing Bulletin, 24, Technical Note 1, 1-32.
+
+
+Yeboah-Asiamah, E., Nimako, S. G., Quaye, D. M., & Buame, S. (2016). Implicit and explicit loyalty: The role of satisfaction, trust and brand image in mobile telecommunication industry. International Journal of Business and Emerging Markets, 8(1), 94-115. doi:10.1504/ IJBEM.2016.073402
+Zhou, T. (2013). An empirical examination of continuance intention of mobile payment services.
+Decision Support Systems, 54(2), 1085-1091. doi:10.1016/j.dss.2012.10.034
+
+
+
+
+
+
+
+
+
+
