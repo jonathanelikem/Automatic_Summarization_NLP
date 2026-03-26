@@ -1,0 +1,1005 @@
+The current issue and full text archive of this journal is available at
+www.emeraldinsight.com/0144-333X.htm
+
+IJSSP
+33,1/2
+
+Determinants of financial
+governance practices: evidence
+from NGOs in Ghana
+
+114
+
+Vera Ogeh Fiador
+Department of Finance, University of Ghana Business School, Legon, Ghana
+Abstract
+Purpose – The purpose of this paper is to explore financial governance as practiced by NGOs in
+Ghana and further examines the determinants of the financial governance structures of the NGOs. The
+study specifically investigates which organizational-level characteristics exhibit any link whatsoever
+with governance as it relates to budget preparation, budget execution and internal controls and budget
+monitoring.
+Design/methodology/approach – Using a questionnaire to conduct the survey, a cross-sectional
+regression analysis was executed.
+Findings – The findings of the study indicate that the most positively influential factor in explaining
+an NGO’s adoption of a governance framework is its size. The other variables, organizational age and
+independence, are not significant across all three financial governance proxies and when they prove
+significant, the effect is negative.
+Originality/value – The findings hold important policy implications and especially so for countries
+that attract significant funding via relatively small-sized NGOs.
+Keywords Financial governance, NGO, Organizational demographics, Size,
+Non-governmental organizations, Ghana
+Paper type Research paper
+
+1. Introduction
+The role of civil society organizations, also referred to as non-governmental
+organizations (NGOs) or non-profits, in the quest for growth and development has
+expanded significantly in recent years. This expanded role was adequately captured by
+Lewis and Kanji (2009), who indicated that, NGOs have over the years come to be
+recognized as important actors on the landscape of development. According to Easterly
+and Rebelo (1993), growth and development discussions would be incomplete without
+the mention of fiscal management, which, encapsulated on the macro level as the
+sourcing for and uses of financial resources in line with development agendas, is
+captured as the financial management function on the micro level. Efficient financial
+management is the backbone of any entity’s growth drive. When well-executed, the
+financial management function forms the bedrock for growth, development and
+sustainability (Aldaba, 2002).
+The importance and sensitivity of financial management to an entity’s quest for
+growth has in recent times brought the issue of financial governance and accountability
+International Journal of Sociology and to the forefront of stakeholder issues (Zadek, 2003). This emphasis became even more
+Social Policy
+Vol. 33 No. 1/2, 2013
+pp. 114-130
+q Emerald Group Publishing Limited
+0144-333X
+DOI 10.1108/01443331311295217
+
+The author gratefully acknowledges financial support from the Institute of Statistical, Social,
+and Economic Research (ISSERI (University of Ghana) and the Centre for International
+Development Issues Nijmegen (CIDIN) (Radboud University Nijmegen), The Netherlands.
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+pronounced in the wake of the collapse of world giants like Enron, Tyco and WorldCom
+among others and during the financial crisis of 2007-2009. For the NGO donor
+community, the concerns raised in the wake of the collapses of organizations due to weak
+governance and accountability as per financial management are not new to them. In fact,
+apart from the core issues that may elicit funding from such donor entities, another very
+important framework required by donors is a system of good governance and
+accountability of donor funds (Kihato and Rapoo, 1999) which is generally embodied in a
+comprehensive financial management system.
+According to Naidoo (2003), in the case of NGOs, the need for a system of financial
+governance is a very pressing issue. This need, as per literature, is predicated on the
+apparent protection of NGOs from potent market-disciplining devices such as hostile
+takeovers, proxy fights among others (Steinberg, 1990; Bolton and Mehran, 2006).
+Another reason is the apparent lack of multiple monitoring platforms with regards to
+financial resources which provides the stage for an unstructured and unorganised
+access to and disbursement of donor funds which will in the long-run affect the financial
+health of the NGO and its capacity to execute intended projects (Oxford Analytica, 2005).
+Notwithstanding the apparent fact that financial governance is a prerequisite for the
+sustained growth and financial stability of any organization, its implementation is
+usually dictated by the size and political setting of the organization in question
+(Goodhart, 2004). In other words, the peculiar characteristics of an organization may
+dictate to a large extent how its financial governance via financial management
+systems will be implemented and operationalized.
+This organization-specific feature of financial management system implementation
+raises a few but pertinent research questions in a developing country like Ghana that
+attracts a lot of donor funds through NGOs (Hearn, 2001). These are: what is the nature
+of financial governance as is practiced by NGOs in Ghana? Is the financial governance
+system of NGOs influenced by any set of organizational demographics? In other words,
+to what extent do characteristics like size, independence and age influence the financial
+management system that may exist within an entity? To answer these questions the
+study set the following objective: to explore the framework of NGO financial
+management systems, as a proxy for financial governance, and identify any relevant
+relationships.
+
+Financial
+governance
+practices
+115
+
+2. The literature
+2.1 Defining financial governance and components
+Financial governance, essential to all successful organizations, can be defined as the
+legitimate use of power and authority in the management of an entity’s financial
+resources. Good financial governance, while being seen as a significant contributor to
+sound fiscal management, effective and efficient resource use, is also seen as
+underpinning transparency and accountability (African Financial Governance Status
+Report, 2011). Effective financial governance systems are therefore required in the
+quest to maximize the efficient use of resources, create the highest level of
+transparency and accountability in an organization’s finances and to ensure long-term
+economic success. Recent literature has also highlighted the importance of financial
+governance via sound financial management systems to service delivery, poverty
+reduction and the achievement of the millennium development goals (Pretorius and
+Pretorius, 2008).
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+116
+
+With regards to best practices in finance and governance, the UK Department for
+Social Development (2005) intimates that governance is not about doing but it is about
+ensuring that things are done. By inference, the deployment of an efficient system that
+is expected to ensure that things are done can be implied as governance. An AfDB
+Group (2006) guideline for financial management and financial analysis of projects
+supports this assertion by also indicating that efficient deployment of appropriate
+modern financial management systems can be construed as representing sound
+financial management and good governance.
+In pursuance of such measures of governance via financial management systems,
+some schools of thought have identified several criteria that the financial management
+systems of NGOs and other donor funded projects must meet in pursuance of financial
+governance. One such major classification is proposed by Shizhen (2005) which includes
+financial reporting, accounting records and source documentation, internal control,
+budget control, cost allowance and cash management and compliance frameworks.
+On the same issue of components of a governance system, the African Financial
+Governance Status Report (2011) indicates that effective financial governance can also
+be predicated on effective systems and structures (Wixley and Everingham, 2005), key
+among these: budget preparation, budget execution, internal control and accounting,
+reporting, auditing and monitoring systems (Ott and Bajo, 2001). According to the
+report, without relevant information on these systems, users of public funds cannot be
+held to account, thereby opening the door for wasteful spending and possible corrupt
+practices. In a similar vein, a number of funding agencies have also developed financial
+governance assessment frameworks along the areas of the mode of budget planning,
+execution, internal control and monitoring required of funded projects (AfDB Group,
+2006) and thereby inferring the level of governance as practised by an institution based
+on the presence of such predefined systems.
+2.1.1 Budget preparation. Defined generally as the process of quantitatively
+expressing an organization’s strategy or the financial perspective of what an
+organization seeks to achieve over a specific period of time (Horngren et al., 2006), the
+budget preparation process is at the heart of the financial management function. Budgets
+or financial plans, which result from the budget preparation process, typically form the
+basis on which subsequent performance may be assessed. Gaist (2009) indicates that by
+budgeting and producing periodic financial reports, NGOs are able to constantly
+monitor their revenue and costs to ensure that funding streams sustain operations.
+In order to align financial planning and budget preparation to strategic intent of
+organizations, there is usually a need for certain features to be present with regards to
+budget preparation. Key among these is comprehensiveness (Umapathy, 1987).
+Put simply, the budget must include sources and uses of funds for all aspects of
+operations and maintain a true and holistic reflection of plans for the budget period.
+Moreover, budgeting requires significant input from fiscal staff as well as clearly
+defined duties, responsibilities, lines of supervision and limits of authority for all
+(Brownell, 1982). These features, according to Ahmad et al. (2003), Joshi et al. (2003)
+and Joshi and Com (1997), in turn make the budget the performance monitoring tool for
+use by the organization. On the issue of budget transparency, which also make for
+successful budgeting, Poterba and von Hagen (1999) stipulate that budgets can only be
+considered transparent if they are easily accessible to participants involved in the
+decision-making process and represent consolidated information.
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+In terms of empirics, a number of studies have sought to find a link between the
+planning phase and organizational performance. Thune and House (1970), for example,
+found that formal long-range planning actually does pay off in the way of improved
+performance. Phillips (1996) and Hansen and Van der Stede (2004) also corroborate this
+finding by documenting that the formality, thoroughness, sophistication and
+participation that characterizes long-range planning exhibit a positive relationship
+with organizational performance. In general and from these studies, it can be inferred
+that governance in the use of organizational resources, which ultimately flows from the
+planning process contributes to the positive improvement in performance.
+2.1.2 Budget execution and internal control. Budget execution is the phase where the
+organisation’s resources are used in implementing its activities. In general, the main
+focus of budget execution is compliance with budgetary authorizations and this is
+usually governed by an internal control system. According to Mensah et al. (2003), weak
+internal control systems as per an organization’s execution framework create incentives
+for company buyers to make side deals with vendors and or make side-payments to
+influence contracts. In a bid to ensure tight internal control systems and ultimately
+governance, certain provisions are usually provided for. These provisions usually
+revolve around roles of the board of directors, payments and financial accounting as it
+relates to budget execution.
+Efficient budget execution, according to Tommasi (2007), is budgets implemented in
+line with the pre-set rules and authorizations of the implementing entity, with changes
+or adaptations being made by the appropriate authority in the event of changes in
+baseline assumptions or conditions. This setup ensures that procurement and
+management of procured goods and services are done efficiently and also prevents risk
+and abuse to the implementing organization and its resources. Lambert (1990) further
+augments this list by indicating other factors that are key to successful budget
+execution: written authorization and evidence in the giving and receipt of funds as well
+as timeliness and accuracy of financial reports.
+On the whole, it seems there is empirical evidence in the literature to support the
+assertion that effective internal control systems in the budget execution process have
+strong links with governance. One study that documents such a relationship is by
+Elbannan (2009) using US firms. He finds that internal control quality is positively
+related to good governance. Another study that supports that relationship is by Jensen
+(1993) who reports that the effectiveness of internal control is positively related to the
+efficiency of board governance. In general, it seems safe to infer that the strength of
+internal control with regard to project execution framework is positively related to
+overall good governance.
+2.1.3 Monitoring and evaluation. Monitoring and evaluation is the feedback
+mechanism within a management framework. It has as its main objective the
+improvement in the management of programmes, projects and supporting activities and
+ensuring the optimal use of funds and other resources while providing a platform to
+learn from experience so as to improve the relevance, methods and outcomes of
+cooperative programmes (Khawaja, 2011). According to Tirole (2006), monitoring is
+very critical to the governance framework. So critical is it that general talk on
+governance ultimately seems to imply the monitoring of management to deliver on the
+interests and desires of relevant project to stakeholders. Gillan et al. (2003) further this
+argument by opining that optimal monitoring implies strong governance. In fact
+
+Financial
+governance
+practices
+117
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+118
+
+Mackay (2007) refers to monitoring as the centre-piece of the governance system.
+He goes on to indicate that monitoring and evaluation contribute to sound governance
+by facilitating evidence-based policy making, policy development, management and
+accountability.
+The components of monitoring as per Shapiro (undated) include the establishment
+of indicators of efficiency, effectiveness and impact; setting up of systems to collect
+information relating to these indicators; collecting and recording the information;
+analysing the information; and last but not least using the information to inform
+day-to-day management. In an empirical study of the determinants of the level of
+governance using firm-level data for 624 US firms, Khanchel (2007), reports that firms
+with effective monitoring systems score best on governance. It can be said that the
+general literature gives reason to classify effective monitoring as a core requisite for
+effective governance.
+2.2 Organizational demographics and governance structures
+While there is evidence to support the assertion that adoption of good governance
+can positively affect an organization’s performance (Abor and Biekpe, 2007; Abor
+and Adjasi, 2007 among others), other researchers also indicate that the extent
+of adoption of the tenets of good governance as prescribed by the codes of best
+practices may be influenced by organizational demographics, key being size.
+Gallery et al. (2011), for example, alerted that given that costs of adoption of certain
+governance principles for smaller firms far outweigh the benefits derived, there was a
+need to reassess most governance frameworks with a view to customizing them to
+smaller entities.
+This alert followed a study by Gallery et al. (2011) to assess the adoption of
+governance codes among small firms. They found that the size of the organization and
+cost of adoption played key roles in influencing the rates of adoption of governance
+codes. In another finding by Moorhead (2007) on internal controls and governance, he
+also finds evidence to support the notion that larger NGOs compared to smaller NGOs
+have more resources to put in place stronger internal control and governance
+frameworks. In general, it seems that organizational size, which seems to have a
+significant bearing on capacity, both human and financial, is a key influence in the
+level of governance within an organization.
+Another organizational characteristic that has received some attention in the
+governance literature is age. According to Loderer and Waelchli (2011), as organizations
+age, their governance structures deteriorate because the complexity of expansion makes
+for weaker monitoring and ultimately poorer governance. Gillian et al. (2007) also hold
+the view that older firms are likely to have in place anti-takeover mechanisms which
+ultimately make for lower governance. Another school of thought is of the view that as a
+firm grows it gets better, implying that governance improves as firms age. Kyereboah
+and Biekpe (2007) found negative relationships between firm age and the size of
+the board and the proportion of outside directors. By inference from best practice, the
+negative relationship with outside directors imply poor governance while the negative
+relationship between firm age and board size can be construed as ambiguous since the
+literature has not yet reached a consensus on which is best for good governance in terms
+of large or small board. Given the two conflicting views, the relationship between NGO
+age and level of governance is left open.
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+3. Methodology
+3.1 Research design and sampling
+The study adopted a mostly descriptive research design in assessing the status of
+financial governance in the sample under study and a regression analysis to test the
+organizational drivers of the financial governance setup. This approach was
+considered most appropriate since the purpose of the study was to document the
+systems as is and also model possibility of cause and effect.
+The population for the study is the universe of NGOs in Ghana. For reasons of
+access, however, the study was limited to NGOs based in the Greater Accra Region.
+Due to the fact that it is not feasible to sample the entire network, a total of 60 NGOs
+were sampled for the study. For the exploratory purpose of this study, a survey
+approach was chosen, using face-to-face contact in filling the data collection
+instrument. The major drawback envisaged with the inability to draw a larger sample
+is the fact that observed behaviour from the sample group may not necessarily reflect
+that of the entire population but may still offer useful constructs from the exploratory
+perspective.
+
+Financial
+governance
+practices
+119
+
+3.2 Data type, sources and collection
+The data was collected mainly using the survey approach and the type of data
+collected was cross-sectional. The instrument for data collection, a structured
+questionnaire, was developed from reviewing the literature on financial governance.
+The questionnaire was modelled along the basic framework of best practices for
+financial governance as it applies to NGOs/funded projects. This framework was
+chosen because it provides a reference point from which deviations from or otherwise
+as regards financial governance systems could be compared.
+Categorization of observance with regards to the required frameworks ranged from
+“not observed” through to “fully observed”. The questions were fashioned to elicit
+governance information on budget planning, budget implementation and internal
+controls and budget evaluation and control. The study sought to assess the compliance
+of the NGOs as regards best practices of governance in financial management. For the
+purposes of the study, the questionnaires were administered interview-style and filled
+out by the interviewer. This was to reduce the incidence of inappropriate responses or
+non-response due to non-clarity. Senior management and officials responsible for the
+financial decisions of the NGOs were the respondent group used. The response
+categorization followed that applied in the Report on Observance of Codes by the
+World Bank, where a requirement being fully observed means that all essential criteria
+are met without significant deficiencies. Largely observed means only minor
+shortcomings are observed, which do not raise questions about the organization’s
+ability and intent to achieve full observance in the short term. Partially observed meant
+that while the main framework complies with the principle, practices and enforcement
+diverge. Materially not observed meant that, despite progress, shortcomings were
+sufficient to raise doubts about the organization’s ability to achieve observance. Not
+observed means no substantive progress toward observance had been achieved.
+3.3 Data analysis and presentation
+The data collected was analysed through the construction of indices measuring financial
+governance mainly using a scalar approach, assigning values of 1 through to 5 for
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+120
+
+“not observed” through to “fully observed”. The close-ended questionnaire for collecting
+the data elicited a Yes or No answer to questions regarding financial governance. Values
+of 1 were assigned for a Yes response and 0 otherwise. In other instances, a value of 0 was
+assigned for a Yes and 1 for a No if the yes response deviated from best practices. The
+total value of one’s (1’s) per section was then added up, divided by the total number of
+questions under the section and then scaled by the maximum value of 5 which represents
+full observance. Values ranging from 0 to 1 were interpreted as standards not being
+observed. Values greater than 1 and less than or equal to 2 were rated as materially
+not observed. Values greater than 2 but less than or equal to 3 were to be coded as
+partially observed. Values greater than 3 but less than or equal to 4 were be rated
+as largely observed and values greater than 4 will be coded as fully observed. Averages
+were computed under each of the tenets that describe the level of financial governance
+with attention, however, also given, in the discussion, to the various sub-items that may
+be driving the averages. On a final note, an average of all the responses were used
+to compute a score to measure the overall level of financial governance for the total
+sample of NGOs.
+4. Discussion
+This section presents the analysis and discussion of study findings. This section deals
+with the summary statistics of the variables under study, the correlation matrix
+between the variables and the regression output.
+4.1 Nature of NGO characteristics and financial governance
+On the whole, 42 out the targeted 60 NGOs approached over the study period,
+July-October, 2011, were willing to participate in the survey. This represents
+approximately a 70 per cent response rate and forms the basis of reported findings. From
+the summary statistics, the sampled NGOs were aged between 2 and 25 years with the
+average age being 9.8 years and in terms of size, employ about 10 permanent staff with
+the maximum employment strength being 20 and a minimum of 3. On the question of
+full-time or permanent staff managing the finance function, the statistics indicate an
+average of 2.6 employees with some NGOs having no full-time worker on the finance
+function while some had as many as 4. In terms of independence, which sought to
+measure whether or not the sampled NGOs were offshoots of much larger unilateral
+organisations or networks and therefore a proxy for the amount of influence that may
+flow from being associated with larger networks, the responses indicate that the NGOs
+sampled were more of independent entities, not necessarily branches of larger/global
+organizations.
+In the area of financial governance, the budgetary framework, which sought to
+gauge the robustness of systems that guide the budget preparation process, the
+average score was 3 out of 5 with a minimum of 0.9091 and a maximum of 4.55.
+By implication the average non-profit organization in Ghana works with a budget
+preparation framework but enforcing the budget is not as expected. The minimum
+score of 0.9091 out of 5 indicated that a portion of the sample have no framework
+whatsoever to work with. The maximum score of 4.5 which implies full observance,
+however, also indicates that there are NGOs within the system that have budgetary
+frameworks which serve as their planning and monitoring tool thereby implying that
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+they plan for the use of the money and stick by the agreed upon budget, which they
+ultimately use as their yardstick for performance assessment.
+From the graph (Figure 1) that complements the Table I, it can be inferred that the
+average budgeting score of 3 out of 5 is founded on the following: most of the NGOs
+have very comprehensive annual budgets and they adjudge their annual budget as true
+reflections of their actual work plan for the year. It also seems the sampled NGOs have
+clearly defined and written duties, responsibilities, lines of supervision and authority
+limits as regards the budget preparation process and have fiscal staff that review the
+budget and take action where necessary. The NGOs, however, do not prepare variance
+reports and also do not have capital budgets for major maintenance and replacement.
+In terms of budget proposal review, more NGOs had the lead director being the only
+reviewer as compared to a fiscal team. In general, these components seem to be the
+main drivers of the overall budget score for the study sample.
+In terms of budget execution, which was measured by the Exscore, the average score
+for the sample stood at 2.077 out of 5, implying that the basic rules that govern the
+
+121
+
+Figure 1.
+Components of budget
+framework
+
+Source: Survey Data (2011)
+
+Variable
+
+Mean
+
+SD
+
+Minimum
+
+Maximum
+
+Budscore
+Exscore
+Mscore
+FGI
+FTemp
+FTFemp
+PTFemp
+Age
+Indep
+
+3
+2.076923
+2.85
+2.644231
+10.33333
+2.6
+0.5
+9.8
+1.222222
+
+1.087715
+1.317066
+1.370267
+1.206654
+5.960655
+1.391705
+0.8271702
+7.090394
+0.4277926
+
+0.909091
+0.192308
+0.5
+0.662005
+3
+0
+0
+2
+1
+
+4.545455
+4.423077
+4.75
+4.254662
+20
+4
+2
+25
+2
+
+Source: Survey Data, 2011
+
+Financial
+governance
+practices
+
+Table I.
+Descriptive statistics
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+122
+
+Figure 2.
+Major components of NGO
+execution and internal
+control framework
+
+execution of project budgets are materially not observed. In this regard, the minimum
+score was 0.1923, quite close to zero, an indication of a complete non-existence of an
+execution framework and also a lack of internal controls. The maximum score on the other
+hand was 4.4231, indicating that others within the sample were abiding by the basic tenets
+of best practice with regards to budget execution. For the sampled group, it can be inferred
+that the execution and internal control framework is generally weak. By implication there
+is not much assurance that the funds will be put to the use for which it was acquired.
+As per the findings of the study, under the execution and internal control
+framework, most the NGOs keep complete written charts of accounts and by projects,
+endorse all cheques appropriately and have clearly defined procedures for the payment
+of vendors. It seems also that most of the NGOs have written authorization for all new
+hiring as well as written policies for all fiscal transactions (Figure 2).
+Next to these aforementioned components, the NGOs make it a point to secure all unused
+cheques, log all cash transactions appropriately, have written policies and procedure for
+charging or collecting fees (if any) and store accounting data offsite for backup purposes.
+On the other hand also are the components that drive the weaknesses (inferred by a
+response rate of below 50 per cent) within the execution and internal control
+framework. Top on the list are: failure to maintain mail logs, failure to keep and protect
+computerized data as well as failure to separate review and recording functions with
+respect to money matters. The latter set-up has a tendency to foster corruption since it
+provides no checks and balances with regards auditing of cash and bank balances.
+The next set of weaknesses include failure to back up accounting data frequently
+enough and also not separating bank reconciliation and cash depositing functions.
+Also, overtime, vacation and sick leave policies are not clearly defined and in the same
+vein, they have no means of verifying compliance with written policies and procedures.
+Furthermore, only about 40 per cent of the sample indicate that their board is
+independent and made up of more external members than internal members. An even
+
+Source: Field Data (2011)
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+smaller percentage of NGOs make it a point to keep monthly attendance sheets while
+very few of the NGOs disburse funds with mostly cheques. By implication, most of the
+NGO have a tendency of doing major transactions by cash (Figure 3).
+In general, the weaknesses such as those identified above usually leave room for the
+discretion of the person-in-charge, which may not be necessarily objective or optimal.
+The final framework, the monitoring framework, which generally seeks to match
+actual performance with targeted performance, the sample scored 2.85 out of 5 and
+therefore leans towards a case of partial observance of the governance setup as it
+applies to monitoring or evaluating performance.
+Monitoring and evaluation provides useful information for decision-making. By
+monitoring and evaluating projects, NGOs will be in a better position to execute future
+projects as the evaluation of previous projects would have provided information that can
+be fed into new projects to make them better. The minimum score on the monitoring
+framework was 0.5 and the maximum score 4.75. The average monitoring framework
+score of 2.85 pre-supposes that the average NGO only partially observes the tenets of best
+practices as regards the monitoring of money allocated to projects. In other words, while
+the main framework complies with the principle, practices and enforcement diverge.
+In trying to identify the main drivers of the monitoring score, the item within the
+monitoring framework that seems paramount to the NGO is board oversight to ensure
+solvency. In general, it seems that monitoring by NGOs is to ensure first and foremost
+their solvency. Next on the list were board oversight to ensure compliance with
+government regulations and regular review of financials. Other important components
+of the NGO monitoring framework include reviewing of financials by the full board;
+analysis of line items with a view to adjusting strategic decisions and oversight to
+ensure compliance with donor requirements (Figure 4).
+Lower on the list is compliance with audit reports and suggestions therein. The least
+adhered to components has to do with the swiftness of preparing periodic financials,
+only marginally overtaken with the idea of preparing periodic financials and having
+
+Source: Field Data (2011)
+
+Financial
+governance
+practices
+123
+
+Figure 3.
+Weaker components
+of internal control and
+execution framework
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+124
+
+Figure 4.
+Components of NGO
+monitoring framework
+
+Source: Field Data (2011)
+
+a finance committee as a subset of the governing board to advise on financial matters.
+The responses also seem to indicate a concentration of power in the lead director,
+which by inference from best practice codes such as the South African King’s reports is
+not indicative of good governance.
+Putting all together, the NGO sampled had a financial governance index (FGI)
+(captured as FGI) of 2.6442 out of 5. In terms of rating, one cannot necessarily conclude
+that the NGOs in Ghana do fully observe good financial governance; rather, it is a case
+of partial observance. In light of the score and given that a complete framework on
+governance with regards to financial management is essential in reducing the
+possibility of wrong decisions, fraud, exposure to risks, while encouraging good
+management in general, the score is quite low on the scale. The minimum and
+maximum values of 0.6620 and 4.25, respectively, seem to indicate quite some
+disparities in financial governance where the NGOs are concerned. It seems to indicate
+that while some are gravitating towards best practices, others are not in any way
+observing best practices in relation to financial governance.
+4.2 Organizational drivers of financial management systems
+Using correlation analysis to identify the links between organizational drivers of
+financial governance also revealed the following (Table II): size of the organization, in
+terms of employee base, is significantly and positively related to the existence and
+possible use of the budgeting and monitoring frameworks by NGOs but no relationship
+with the execution and internal control framework.
+The age of the organization as well as its independence, however, does not seem to have
+any significant relationship with the budgeting framework, the internal control framework
+or the monitoring framework. That aside, some other interesting dynamics were also noted:
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+1.0000
+0.8533 * * *
+0.9439 * * *
+0.2141
+0.3667
+2 0.0186
+2 0.0312
+2 0.1787
+
+1.0000
+0.8555 * * *
+0.9318 * * *
+0.9644 * * *
+0.5653 * *
+0.55 * *
+0.3723
+0.206
+20.1763
+1.0000
+0.969 * * *
+0.4948 * *
+0.5051 * *
+0.3831 *
+0.2568
+20.1301
+
+Mscore
+
+Note: Significant at: *10, * *5 and * * *1 per cent levels, respectively
+
+Budscore
+Exscore
+Mscore
+FGI
+FTemp
+FTFemp
+PTFemp
+Age
+Indep
+
+Exscore
+
+Budscore
+
+1.0000
+0.4316 *
+0.4898 * *
+0.2501
+0.1477
+2 0.1684
+
+FGI
+
+1.0000
+0.8667 * * *
+0.3453
+0.812 * * *
+0.1401
+
+FTemp
+
+1.0000
+0.2743
+0.5568 * *
+0.126
+
+FTFemp
+
+1.0000
+0.2513
+2 0.3571
+
+PTFemp
+
+Indep
+
+1.0000
+
+Age
+
+1.0000
+0.0345
+
+Financial
+governance
+practices
+125
+
+Table II.
+Correlation matrix
+of study variables
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+126
+
+it seems that employing full-time finance specialists to manage the finance function is
+positively related to the budget preparation and monitoring framework and also positively
+related to the overall level of financial governance and full-time employee base. It, however,
+is unrelated to the execution and internal control framework. From the correlation matrix, it
+also seems that the age of firms is positively related to the recruitment of full-time workers
+in general and to the finance function specifically.
+Regression analysis. To answer the main problem of the research, the study sought to
+investigate the possible drivers. In this regard, the budget preparation; execution and
+internal control and monitoring scores were regressed on NGO age, size (employee base,
+see Dalbor et al. (2004)) and independence, where independence sought to measure
+external influences and takes on the value of 1 for NGOs that are stand-alone entities
+with own-defined mission and 2 when NGOs that are offshoots larger organization and
+therefore bound by the rules of the parent NGO. For the purposes of standardization,
+NGO age and employee base were logged for the regression analysis. The results, see
+Table III, indicate that independence is negatively significant in explaining the internal
+control framework of NGOs but does not, however, affect the budget preparation and
+monitoring frameworks. In other words, an NGO’s financial governance framework is
+not necessarily influenced by being affiliated to or mission-dependent on a larger
+over-arching body and when that relationship proves significant, it is only important in
+explaining its execution and internal control framework and the effect is negative.
+Size is the only variable that is significantly and positively related to the budget
+preparation, execution and internal control and monitoring frameworks, confirming
+the finding by Gallery et al. (2011) and Moorhead (2007) that larger organizations have
+more resources at their disposal to implement governance systems compared to
+smaller ones and also because the benefits derived from implementing governance
+systems far outweigh the costs of implementing such. It is therefore expected that as an
+NGO gets larger in size, their financial governance systems will improve. In other
+words, scores that seem to indicate seemingly low observance levels with regards to
+codes of financial governance may only be reflecting a lack of resources to implement
+governance structures as opposed to refusal to comply with codes of best practices.
+
+Indep
+Lsize
+Lage
+Cons
+Table III.
+Regression results
+on determinants of
+financial governance
+
+R2
+F (3, 33)
+Prob . F
+
+Coef. (sig.)
+Budscore
+
+Coef. (sig.)
+Exscore
+
+Coef. (sig.)
+Score
+
+2 0.2631833
+(0.218)
+1.196364
+(0.000) * * *
+2 0.154772
+(0.533)
+0.942227
+(0.029) * *
+0.5764
+56.23
+0.0000 * * *
+
+21.197906
+(0.077) *
+1.602045
+(0.000) * * *
+21.237247
+(0.000) * * *
+2.881907
+(0.006) * *
+0.3855
+8.29
+0.0003 * * *
+
+2 0.2273091
+(0.706)
+1.421043
+(0.000) * * *
+2 0.8424924
+(0.001) * * *
+1.964718
+(0.020) * *
+0.3073
+12.11
+0.0000 * * *
+
+Note: Significant at: *10, * *5 and * * *1 per cent levels, respectively
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+The age of the NGO also proves negatively significant for the internal control and
+monitoring frameworks but not significant for the budget preparation framework. The
+finding therefore contradicts the finding of Kyereboah and Biekpe (2007) that as
+organizations get older, their governance systems seem to get better. The findings,
+which imply financial governance systems seem to deteriorate as NGOs get older,
+however, support those of Loderer and Waelchli (2011) and Gillian et al. (2007) that as
+firms get older their complexity does not augur well for good governance. Another
+inference could be that younger organizations seek to project good governance as a
+means of accessing donor funds and once they have created a niche for themselves, relax.
+
+Financial
+governance
+practices
+127
+
+4.3 Conclusion and policy implications
+As per the findings of the study, it can be posited that NGOs only partially observe
+best practices as they relate to financial governance and this is mostly explained by the
+size of the NGO. This is not surprising, as the literature seems to point to the fact that,
+all else equal, larger organizations are more likely to implement full-scale governance
+systems because they benefit from increased resources and higher benefit-to-cost
+ratios. Age on the other hand seems to be negatively related to financial governance
+measures. The implication may be that once an NGO has carved a reputation for itself
+overtime, it is likely to get lax with its governance structures. In terms of policy
+making, it presents the need to review governance codes with a view to making
+provisions for size and thereby accurately capture and differentiate inability from
+refusal to comply. Also, there is the need to ensure that older organizations do not
+necessarily enjoy the glories of past achievements but instead must be constantly
+scrutinized to ensure compliance with codes of best practices. A lack of proper systems
+may ultimately lead to the early death of otherwise very viable projects while efficient
+financial management and governance, on the other hand, will ensure that the funds
+are put to the right use and benefits accrue to all stakeholders. Policy moves such as
+those indicated above will ensure that only capable and accountable NGOs play their
+role within the third sector. While the study helps to fill the research gap on
+governance issues as regards NGOs, the literature could be further enriched with
+studies probing further into the governance frameworks of NGOs, issues of financial
+sustainability among others.
+References
+Abor, J. and Adjasi, C. (2007), “Corporate governance and the small and medium enterprises
+sector: theory and implications”, Corporate Governance, Vol. 7 No. 2, pp. 111-22.
+Abor, J. and Biekpe, N. (2007), “Small business reliance on bank financing in Ghana”, Emerging
+Market Finance & Trade, Vol. 43 No. 4, pp. 93-102.
+AfDB Group (2006), Guidelines for Financial Management and Financial Analysis of Projects,
+African Development Bank Group, Tunisia.
+Ahmad, N.N.N., Suleiman, N. and Alwi, N.M. (2003), “Are budgets useful? A survey of Malaysian
+companies”, Managerial Auditing Journal, Vol. 18 No. 9, pp. 717-24.
+Aldaba, F.T. (2002), “Philippine NGOs and multistakeholder partnerships: three case studies”,
+Voluntas: International Journal of Voluntary and Nonprofit Organizations, Vol. 13 No. 2,
+pp. 179-92.
+Bolton, P. and Mehran, H. (2006), “An introduction to governance and taxation of non-for-profit
+organisations”, Journal of Accounting and Economics, Vol. 41, pp. 293-305.
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+128
+
+Brownell, P. (1982), “Participation in the budgeting process: when it works and when it doesn’t”,
+Journal of Accounting Literature, Vol. 1, pp. 124-53.
+Dalbor, M.C., Kim, A. and Upneja, A. (2004), “An initial investigation of firm size and debt use by
+small restaurant firms”, Journal of Hospitality Financial Management, Vol. 12 No. 1.
+Department for Social Development (2005), Best Practice in Finance and Governance in the
+Voluntary and Community Sector, Department for Social Development, Belfast.
+Easterly, W. and Rebelo, S. (1993), “Fiscal policy and economic growth: an empirical
+investigation”, Journal of Monetary Economics, Vol. 32 No. 3, pp. 417-58.
+Elbannan, M.A. (2009), “Quality of internal control over financial reporting, corporate
+governance and credit ratings”, International Journal of Disclosure and Governance, Vol. 6
+No. 2, available at: http://ssrn.com/abstract¼1157900
+Gaist, P.A. (2009), Igniting the Power of Community: The Role of CBOs and NGOs in Global Public
+Health, Springer, New York, NY.
+Gallery, G., Gallery, N. and Plastow, K. (2011), “An analysis of corporate governance practices of
+smaller listed companies”, paper presented at the AFAANZ Conference, Darwin,
+Australia, 3-5 July 2010, QUT Business School, Queensland University of Technology,
+Brisbane.
+Gillan, L.S., Hartzell, J.C. and Starks, L.T. (2003), “Explaining corporate governance: boards,
+by-laws and charter provisions”, Working Papers No. 2003-03, Weinberg Center for
+Corporate Governance, Newark, DE.
+Goodhart, C.A.E. (2004), “Financial supervision from an historical perspective: was the
+development of such supervision designed, or largely accidental?”, paper presented at the
+Structure of Financial Regulation, Bank of Finland Conference, mimeo.
+Hansen, S.C. and Van der Stede, W.A. (2004), “Multiple facets of budgeting: an exploratory
+analysis”, Management Accounting Research, Vol. 15 No. 4, pp. 415-39.
+Hearn, J. (2001), “The ‘uses and abuses’ of civil society in Africa”, Review of African Political
+Economy, Vol. 28 No. 87, pp. 43-53.
+Horngren, C.T., Datar, S.M. and Foster, G. (2006), Cost Accounting: A Managerial Emphasis,
+12th ed., Pearson, Upper Saddle River, NJ.
+Jensen, M.C. (1993), “The modern industrial revolution, exit and the failure of internal control
+system”, Journal of Finance, Vol. 48 No. 3, pp. 831-80.
+Joshi, P.L. and Com, M. (1997), “Budgetary practices in the banking sector in Bahrain: empirical
+research findings”, Journal of Financial Management & Analysis, Vol. 10 No. 2, pp. 44-51.
+Joshi, P.L., Al-Mudhaki, J. and Bremser, W.G. (2003), “Corporate budget planning, control, and
+performance evaluation in Bahrain”, Managerial Auditing Journal, Vol. 18 No. 9, pp. 737-50.
+Khanchel, I. (2007), “Corporate governance: measurement and determinant analysis”, Managerial
+Auditing Journal, Vol. 22 No. 8, pp. 740-60.
+Khawaja, S. (2011), Good Governance and Results-Based Monitoring, Poorab Academy,
+Islamabad.
+Kihato, C. and Rapoo, T. (1999), “An independent voice? A survey of civil society organisations in
+South Africa, their funding and their influence over the policy process”, Research Report
+No. 67, Centre for Policy Studies, Johannesburg.
+Kyereboah, C.A. and Biekpe, N. (2007), “Corporate governance and financing choices of firms:
+a panel data analysis”, South African Journal of Economics, Vol. 74 No. 4.
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+Lambert, R.W. (1990), “Budget execution: a management guide for naval security group
+commanding officers, officers in charge and department heads”, unpublished master’s
+thesis, Naval Postgraduate School, Monterey, CA.
+Lewis, D. and Kanji, N. (2009), Non-governmental Organizations and Development, Routledge,
+London.
+Loderer, C.F. and Waelchli, U. (2011), “Firm age and governance”, available at: http://ssrn.com/
+abstract¼1938635
+Mackay, K.R. (2007), How to Build M&E Systems to Support Better Government, Vol. 847, World
+Bank Independent Evaluation Group, Washington, DC.
+Mensah, S., Aboagye, K., Addo, E. and Buatsi, S. (2003), Corporate Governance and Corruption in
+Ghana – Empirical Findings and Policy Implications, African Capital Markets Forum, Accra.
+Moorhead, W.A. (2007), Internal Controls and Governance in NGO Designed to Provide
+Accountability and Deter, Prevent and Detect Fraud and Corruption, ProQuest LLC,
+Ann Arbor, MI.
+Naidoo, K. (2003), “Civil society accountability: ‘who guards the guardians?’”, Lunchtime
+Address, UN Headquarters, New York, NY, 3 April.
+Ott, K. and Bajo, A. (2001), Local Government Budgeting in Croatia, Institute of Public Finance,
+Zagreb.
+Oxford Analytica (2005), “Holding NGOs accountable”, Forbes Magazine, May, available at:
+www.forbes.com/business/ 2005/04/05/cz_0405oxan_ngo.html
+Phillips, P.A. (1996), “Strategic planning and business performance in the quoted UK hotel sector:
+results of an exploratory study”, International Journal of Hospitality Management, Vol. 15
+No. 4, pp. 347-62.
+Poterba, J. and von Hagen, J. (1999), “Introduction”, in Poterba, J.M. and von Hagen, J. (Eds),
+Fiscal Institutions and Fiscal Performance, University of Chicago Press, Chicago, IL.
+Pretorius, C. and Pretorius, N. (2008), Review of Public Financial Management Reform Literature,
+DFID, London.
+Shizhen, L. (2005), “Modern financial management system”, Capital Economic & Trade
+University Transaction, Vol. 6, pp. 43-6.
+Steinberg, R. (1990), “Profits and incentive compensation in nonprofit firms”, Nonprofit
+Management & Leadership, Vol. 1, pp. 137-52.
+Thune, S.S. and House, R.J. (1970), “Where long-range planning pays off-findings of a survey of
+formal and informal planners”, Business Horizon, Vol. 13 No. 4, pp. 81-7.
+Tirole, J. (2006), The Theory of corporate Finance, Princeton University Press, Princeton, NJ.
+Tommasi, D. (2007), “Budget execution”, Budgeting and Budgetary Institutions, Public Sector
+Governance and Accountability Series, World Bank, Washington, DC.
+Umapathy, S. (1987), “How successful firms budget”, Management Accounting, February, pp. 25-7.
+Wixley, T. and Everingham, G. (2005), Corporate Governance, 3rd ed., South Africa Siber Ink,
+Kibler Park.
+Zadek, S. (2003), “From fear and loathing to social innovation”, Alliance, Vol. 8 No. 4, pp. 21-4.
+
+Financial
+governance
+practices
+129
+
+Further reading
+Bakker, I. (2002), “Fiscal policy, accountability and voice: the example of gender responsive
+budget initiatives”, occasional paper, Human Development Report Office, UNDP,
+New York, NY.
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+IJSSP
+33,1/2
+
+130
+
+Ball, C. and Dunn, L. (1995), Non-governmental Organisations: Guidelines for Good Policy and
+Practice, Commonwealth Foundation, London.
+Bendell, J. (2006), Debating NGO Accountability: Development Dossier, UN Non-Governmental
+Liaison Service, New York, NY.
+Brody, E. (2002), “Accountability and public trust”, in Salamon, L. (Ed.), The State of America’s
+Non-profit Sector, Aspen Institute and Brookings Institute Press, Washington, DC.
+Doyle, J., Ge, W. and McVay, S. (2007), The Determinants of Weaknesses in Internal Control Over
+Financial Reporting, New York University, New York, NY, available at: http://faculty.
+washington.edu/geweili/DGM_JAE.pdf
+Ebrahim, A. (2003), “Accountability in practice: mechanisms for NGOs”, World Development,
+Vol. 31 No. 5, pp. 813-29.
+Fama, E.C. and Jensen, M.C. (1983), “Separation of ownership and control”, Journal of
+Law & Economics, Vol. 26, pp. 301-25.
+Fama, E.F. (1980), “Agency problems and theory of the firm”, Journal of Political Economy, Vol. 88
+No. 2, pp. 288-307.
+GAO (1997), Financial Management Systems Inventory/Accounting and Information
+Management Division (AIMD), General Accounting Office, Washington, DC.
+John, K. and Senbet, L. (1998), “Corporate governance and board effectiveness”, Journal of
+Banking & Finance, Vol. 22 No. 4, pp. 371-403.
+Jordan, L. and van Tuijl, P. (2006), NGO Accountability: Politics, Principles and Innovations,
+Earthscan, London.
+Kim, J. (2001), Accountability Issues on Korean Non-governmental Organizations: Focusing on
+Their Openness to Attentive Citizens, Nova Science Publishers, Huntington, NY.
+Lister, S. (2003), “NGO legitimacy: technical issue or social construct?”, Critique of Anthropology,
+Vol. 23 No. 2.
+Rong’en, Z., Jianjun, Z. and Hong, Z. (2003), The Auditing, Vol. 4, Senior Education Press, Beijing.
+Tandon, R. (1995), “Board games: governance and accountability”, in Edwards, M. and
+Hulme, D. (Eds), NGO Performance and Accountability, Earthscan, London.
+The Paris Declaration on Aid Effectiveness (2005), Ownership, Harmonization, Alignment,
+Results and Mutual Accountability, OECD, London.
+UK Department of Health (2003), Delivering Excellence in Financial Governance, UK Department
+of Health, London.
+(The) World Bank (2008), Public Sector Reform: What Works and Why? An IEG Evaluation of
+World Bank Support, World Bank, Washington, DC.
+Xiaofeng, L., Yong, M. and Jianhua, W. (2005), Financial Management, Henan People Press,
+Hong Kong.
+Corresponding author
+Vera Ogeh Fiador can be contacted at: vsoli@ug.edu.gh
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+Downloaded from http://www.emerald.com/ijssp/article-pdf/33/1-2/114/1059331/01443331311295217.pdf by University of Ghana, John Vanderpuye on 25
+
+

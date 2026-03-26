@@ -1,0 +1,1044 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/2040-0705.htm
+
+AJEMS
+7,4
+
+482
+
+Does corporate governance
+influence the efficiency
+of working capital management
+of listed firms
+
+Received 22 August 2015
+Revised 22 January 2016
+Accepted 24 March 2016
+
+Evidence from Ghana
+Vera Fiador
+Department of Finance, University of Ghana Business School, Accra, Ghana
+Abstract
+Purpose – The purpose of this paper is to explore the relevance of corporate governance in the quest
+to attain organizational efficiency in the working capital management of listed firms. There is a
+consensus that efficiency of working capital management is vital for firm’s growth and survival, yet
+another consensus is the role of corporate governance in limiting managerial self-serving behavior and
+ultimately improving firm’s efficiency. If the foregoing views hold, then the empirical question
+“Is corporate governance important for firm-level working capital efficiency?” becomes important.
+Design/methodology/approach – Panel data on 13 non-financial firms listed on the Ghana Stock
+Exchange were employed in a pooled OLS regression.
+Findings – The results of the study indicate mostly a negative effect of internal governance
+mechanisms on the cash conversion cycle, the inventory, receivables’ periods and payables’ periods,
+implying that governance structures do affect the efficiency of working capital management. Firm
+characteristics like age, size and profitability also emerged as relevant influences on the efficiency of
+working capital management.
+Research limitations/implications – Data for the study cut across several sectors thus limiting the
+specificity with which findings can be applied.
+Originality/value – These findings have implications for board composition in the quest for
+firm-level efficiency while raising the need for more industry-specific enquiries.
+Keywords Corporate governance, Ghana, Listed firms, Working capital management, Efficiency,
+Board characteristics
+Paper type Research paper
+
+African Journal of Economic and
+Management Studies
+Vol. 7 No. 4, 2016
+pp. 482-496
+© Emerald Group Publishing Limited
+2040-0705
+DOI 10.1108/AJEMS-08-2015-0096
+
+1. Introduction
+The quest to provide answers to organizational performance issues is still ongoing, in
+spite of the voluminous literature available that links firm performance to a host of
+factors ranging from the macroeconomics (Zeitun et al., 2007; Bhattacharjee et al., 2002)
+through industry level (Schmalensee, 1985, McGahan and Porter, 1997; Hawawini
+et al., 2003) and to firm level (Abor, 2007b; Mahmoud, 2011; among others). At the firm
+level, in particular, the value of organizational efficiency for improved firm
+performance (Baik et al., 2013) is unequivocal, with competition over the years
+making it even more important.
+In response to this focus on organizational efficiency, quite a significant volume of
+literature has emerged, documenting managerial efficiency in the use of resources as a
+key ingredient in organizational success (Andreou et al., 2013; Carmeli and Tishler,
+2004). One such area requiring managerial efficiency in the use of resources is the
+This study was funded by the University of Ghana Business School.
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+working capital management. This is because working capital, according to
+Mukhopadhyay (2004), is considered the life-giving force of any economic entity, an
+assertion that is premised on the fact that every organization, whether profit making or
+not or large or small and notwithstanding the nature of its business, needs a requisite
+amount of working capital in order to operate. Furthermore, when investment projects
+are being assessed, account is taken not only of investment in the fixed assets but also
+in the current assets, because it is this capital that keeps an entity working. It is from
+these views that the general belief is founded that the working capital management
+setup of a firm has an important role in the success or failure of an organization.
+The typical components of working capital are current asset items such as
+cash, cash equivalents, short-term investments, accounts receivable, and inventory as
+well as current liability items such as payables. When current assets are less
+than current liabilities, then an entity has a working capital deficiency and may not be
+in a position to meet its short-term liabilities with its current asset base. Working
+capital management is thus considered pertinent because of its effect on profitability as
+well as liquidity (Ukaegbu, 2014). Mehrotra (2013), and Guimaraes and Nossa (2010)
+also support this assertion by arguing that efficient working capital management
+is a relevant factor in the discourse on organizational survival, liquidity, solvency
+and profitability. Block and Hirt (1992) further affirm the importance of working capital
+by stating that “while long-term decisions involving plant and equipment or
+marketing strategy may well determine the eventual success of the firm, effective and
+efficient short-term decisions on working capital determine whether the firm gets to
+the long term.”
+In view of the value of efficiency in general for the corporate organization’s financial
+success, there has been a quest to identify drivers of managerial or resource efficiency.
+In the process, the concept of corporate governance emerged. Proponents of the agency
+theory of governance ( Jensen and Meckling, 1976) posit that managers are
+opportunistic shirkers who must be controlled if their actions are to be aligned with
+the interests of shareholders. They go on further to offer corporate governance
+mechanisms for controlling this opportunistic behavior. One such mechanism is the
+corporate board. It is argued that the strength of the board in executing its most
+important role is dependent on its characteristics, namely, size, composition and
+leadership structure (CEO duality).
+Over the years, it has also been quite well established that the propensity of a firm to
+make it to the long term is predicated on the appropriateness or else of its governance
+mechanisms (Waddock et al., 2002), among other factors. This suggests that a firm
+without appropriate governance structures is likely to fail. Dittmar and Mahrt-Smith
+(2007) subsequently argue that good corporate governance is the shareholders’ defense
+against the inefficient use of corporate assets by managers. This view from the agency
+theory perspective, that corporate governance is able to control the opportunistic
+behavior of management, has kindled significant research interests. Numerous studies
+have sought, in one way or the other, to document the relationship between corporate
+governance and the efficiency of the corporate finance decision-making processes.
+A number of these studies have amply supported efficiency effects of corporate
+governance on corporate finance decisions like investment (Datta et al., 2001; Ayogu,
+2001; Hutchinson and Gul, 2004), financing (Wen et al., 2002; Kyereboah-Coleman and
+Biekpe, 2006; Abor, 2007a) and dividend payout (Short et al., 2002; Gugler, 2003;
+Gugler and Yurtoglu, 2003; Farinha, 2003; Knyazeva, 2007; Abor and Fiador, 2012).
+There is a relative dearth, however, of studies linking corporate governance to the
+
+Working
+capital
+management
+of listed firms
+483
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+484
+
+efficiency of working capital management. This link is particularly relevant because
+without the appropriate management of working capital to align with the strategic
+intents on investment, financing and dividend payout and value creation cannot
+be realized. Though a few studies have investigated corporate governance and
+aspects of working capital, like cash holdings and liquidity (Kusnadi, 2011; Dittmar
+and Mahrt-Smith, 2007; Pinkowitz et al., 2003 among others), studies employing the
+cash conversion cycle (CCC) as the measure of working efficiency are quite few. The
+few that have studied the effect of corporate governance on the CCC of firms
+(Gill and Biger, 2013; Gill and Shah, 2012; Zariyawati et al., 2010 for example) have
+mostly concluded that strong governance practices and structures improve the
+efficiency of working capital management.
+Notwithstanding these findings and the fact that the literature on corporate
+governance and efficiency of working capital management has been growing, the
+evidence in the literature is mostly skewed toward developed countries. This skewness
+constrains the applicability of the findings in the context of developing countries, Ghana
+inclusive. For instance, Ghana as a country is in its incipient stages of corporate
+governance (World Bank, 2005), with no standard governance code by which firms are
+governed. The World Bank (2010) also indicates that beyond the legal and regulatory
+governance requirements, enforcement and implementation in Ghana are plagued with
+challenges. Okike (2007) sums up this situation and thus calls for context-specific
+governance solutions with the argument that different socio-economic, political, cultural
+and legal systems existing in each country exert influences on corporate governance,
+hence what works for one country may not necessarily work for another. It is in the light
+of such barriers to the general applicability of the available study findings to other
+settings that some pertinent questions ultimately come to the fore: for example, how does
+board governance impact the efficiency of working capital management in a context
+where the broader governance structures like shareholder rights, shareholder redress,
+legal structures and enforcement are weak? Does the corporate board exert any significant
+influences on the efficiency of inventory and receivables and payables management
+decisions of the firm so as to align with shareholder wealth maximization and thus
+compensate for the weaker external governance environment? Answers to these
+questions, for Ghana, will prove relevant in the quest to deploy corporate governance
+structures that harness managerial efficiency toward shareholder wealth maximization.
+To answer these questions, the study sets the objective of determining the influence
+of the board structure on the efficiency of working capital management as a whole and
+separately on its component parts: inventory, receivables and payables.
+The rest of the paper is structured as follows: the next section presents an overview
+of governance in Ghana, followed by sections on the method employed, the results of
+the study, the conclusion and implications for management.
+2. Overview of corporate governance in Ghana
+In Ghana, the Companies Code (1963), which governs companies listed on the stock
+exchange, is based on UK legislation and is supported by the Securities Industries Law
+1963 (PNDCL 333) as amended by the Securities Industry (Amendment) Act 2000
+(Act 590). In fact, Franks and Meyer (1994) describe the Ghanaian system of governance
+as essentially an “outside control system,” having been inherited from its colonial days.
+With regard to standard best practice governance code for companies, there is none,
+and though there is a corporate governance guideline promulgated by the Securities
+and Exchange Commission for public companies, compliance with this guideline
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+is purely voluntary. This implies an almost complete reliance on internal governance
+mechanisms, such as the corporate board, to deliver on shareholder value. In terms of
+investor characteristics, institutional investors in the Ghanaian financial market are
+somewhat passive and focused on short-term profits, rather than corporate governance
+issues. Awareness of corporate governance is in incipient stages. Ownership
+concentration is on the high side and is primarily institutional with foreign and state
+ownership but rarely family ownership. In terms of shareholder rights, these are
+generally well observed. However, enforcement, especially on material facts disclosure,
+monitoring for content, related party transactions and ownership disclosures, is lacking
+(World Bank ROSC, 2005). Also, the companies’ code, which provides the main
+regulatory framework for companies, does not provide for the balance between executive
+and non-executive board members. In the 2010 update of the report on the observance of
+codes (World Bank ROSC, 2010) on governance, it is still the case that governance
+provisions remain weak, and there is not much in the area of shareholder redress,
+disclosure on third party, or related transactions among others. So while governance has
+somewhat improved over the years, investor protection is still just above average.
+
+Working
+capital
+management
+of listed firms
+485
+
+3. The data and method
+The study uses all non-financial companies listed on the Ghana Stock Exchange, with at
+least nine years of data from 2001 to 2012. The final sample of 13 firms is thus employed
+for the study. An unbalanced panel is generated from the data collated from the published
+financial statements and annual reports on the listed companies. The data were mainly
+collated from the Ghana Stock Exchange fact book (various editions) and updated where
+necessary from the individual company websites. Multiple regressions were used to test
+the relationship between the corporate board and the efficiency of working capital and its
+components while controlling for other firm-level influences like size, profits and age. The
+use of panel data regressions allowed for the control of omitted variable bias that may
+result from the exclusion of unobservable variables. The increase in the number of
+observations, from using panel data, also provides more information and hence precision
+while allowing for the analysis of economic questions that cannot be addressed using time
+series or cross-sectional data (Hsiao, 2003). To test the efficiency effect of the corporate
+board on working capital, the following model is estimated:
+Z 6
+bi controlsþ eit
+(1)
+W C it ¼ b0 þ b1 BC it þ b2 BS it þ b3 CEOit þ
+i¼4
+
+where i and t refer to firm i in year t, respectively. WCit captures the efficiency of working
+capital, proxied by the CCC, inventory days, receivable days and payables period. The
+controls employed for this study are firm age, firm size and profits.
+The variables are measured in this model as follows:
+(1) board composition (BCit), defined as the percentage of external directors on the
+board;
+(2) board size (BSit), which refers to the number of members constituting the board;
+(3) CEOit, for CEO duality, which is a dummy taking a value of 1 if the CEO takes a
+dual role as the board chair and 0 otherwise;
+(4) profits ( profit) is measured as earnings before interest and tax scaled by total
+assets;
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+486
+
+(5) age (ageit) is the number of years since establishment; and
+(6) size (sizeit) is the log of total assets.
+Apart from the governance variables, that is, board size, composition, and CEO duality,
+all the other variables were logged to achieve data standardization. The Hausman test
+(Table I) was not significant at 5 percent, thus favoring a random effects model over a
+fixed effects model. The ultimate choice to run a pooled OLS was informed by
+statistically significant values for the Breusch-Pagan LM test (Table II).
+4. Findings and discussions
+4.1 Working capital trends in Ghana
+Overall, the efficiency of working capital management for listed firms in Ghana, as
+measured by the CCC (Figure 1), seems to have improved over the study period. Over
+the 12-year period, the CCC experienced a relatively steady decline. The steepest decline
+
+(b)
+Fixed effects
+
+Table I.
+Results of
+the Hausman
+specification test
+
+Coefficients
+(B)
+Random effects
+
+bs
+−0.0477894
+−0.0125888
+−0.0352006
+bc
+−0.7848319
+−10.481023
+0.6961913
+ceo
+−0.2409222
+0.0206593
+−0.2615815
+lprofit
+−0.0127212
+−0.0112632
+−0.0014579
+lage
+−3.038292
+−0.924444
+−2.113848
+lsize
+0.1674964
+0.1330872
+0.0344092
+Notes: χ2(6) ¼ (b−B)0 ((Vb−VB)(−1)) (b−B) ¼ 10.97. Prob Wχ2 ¼ 0.0893
+
+Estimated results
+Var
+
+Figure 1.
+Cash conversion
+cycle (CCC)
+
+Lccc
+1.505175
+e
+0.7896072
+u
+0.4343318
+2
+Notes: Test: Var(u) ¼ 0. w (01) ¼ 9.81. Prob Ww2 ¼ 0.0009
+
+Logged Values (CCC)
+
+Table II.
+Breusch and Pagan
+Lagrangian
+multiplier test for
+random effects
+
+(b−B)
+Difference
+
+sqrt(diag(Vb−VB))
+SE
+0.0225159
+0.3498759
+0.0988826
+–
+0.6315174
+0.0168024
+
+SD ¼ sqrt(Var)
+1.226856
+0.8885985
+0.6590385
+
+3.5
+3
+2.5
+2
+1.5
+CCC
+1
+0.5
+0
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+YEAR
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+Logged Values_Inventory days
+
+was evident in the year 2006; after 2006, the level of efficiency deteriorated, peaking in
+2009, before improving once more. The apparent improvements over the period could
+have been fostered by more positive actions like improvements in inventory and
+receivables management.
+Average inventory period (Figure 2) over the study period was quite erratic. On the
+whole, it appears there was deterioration in the efficacy of managing inventory in line with
+demand and supply conditions, evident from the rising trend. From 2001 to 2004, the
+market was characterized by rising inventory periods, and after 2004, it started to decline,
+flattening out by 2007, only to rise again, peaking in 2009, and once again showing an
+improvement. The inventory period for 2012 was higher than the period average.
+The average collection period (Figure 3) for the market showed the highest relative
+decline in relation to the market’s operating cycle. Average collection periods were highest
+in 2001-2003. It improved quite significantly by 2004 and has been relatively stable for the
+period 2004-2012, except for mild deteriorations in 2007 and 2009. On the whole, however,
+the average collection period appeared to be efficiently managed. On the one hand, this
+could indicate a shift to cash sales. This latter perception might be more appropriate since
+the period that saw the decline in the collection period was also characterized by rising
+inventory levels, possibly suggesting declining sales due to more stringent terms of credit.
+Trade credit repayment periods, like inventory periods in the market, saw
+an increasing trend over the study period. This suggests that payables were delayed or
+at least the market enjoyed longer credit terms in relation to payables. Over the 12-year
+period, the longest payable periods were experienced in 2006 and 2010. The
+payables period for 2012 was, however, not significantly different in terms of duration
+from the one in 2001 (Figure 4).
+
+Working
+capital
+management
+of listed firms
+487
+
+2.2
+2.1
+2
+1.9
+
+Inventory Days
+
+1.8
+1.7
+1.6
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+Figure 2.
+Inventory period
+
+Logged Values_Debtor days
+
+YEAR
+
+3
+2.5
+2
+1.5
+
+Debtor’s Period
+
+1
+0.5
+0
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+Figure 3.
+Receivables period
+
+YEAR
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+Logged Values:_Payable days
+
+2.5
+
+488
+Figure 4.
+Payables deferral
+period
+
+2
+1.5
+Payables Period
+
+1
+0.5
+0
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+YEAR
+
+Figure 5.
+CEO duality
+
+Proportion of sample firms
+
+4.2 Corporate governance practices
+The internal governance practices in Ghana seem to have undergone some significant
+changes during the period from 2001 to 2012. Board leadership consolidation
+(CEO duality) has seen a tremendous drop from around 75 percent of firms in the
+market to being almost non-existent by the year 2010. The first decline in CEO duality
+became evident by 2006, dropping further by 2007 and fizzling out by 2010 (Figure 5).
+In view of best practice governance codes advocating for the separation of board
+leadership and firm leadership, it appears that the market has attained the best practice
+status for this particular mechanism. This ultimately suggests that too much power
+does not lie with one person.
+The proportion of non-executive members on corporate boards, on the other hand,
+stayed stable at about 78 percent from 2001 to 2006. It then spiked to 82.5 percent,
+plateauing there for 2007, before once more declining to its previous levels. On
+the average though, it seems board independence is a common feature across the
+market. This is not surprising considering it is the preferred board feature for listed
+firms (Figure 6).
+The relatively high proportion of non-executive board members may also suggest
+that firms on the market are controlled more from the outside than from the inside. On
+the one hand, this may indicate more objectivity in the decision-making process. On the
+other hand, it could also pose a problem to tailored strategies since the outside directors
+may not have the benefit of insider information, sometimes a very valuable factor for
+making decisions that fit.
+
+1
+0.8
+0.6
+avceo
+
+0.4
+0.2
+0
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+YEAR
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+Proportion of Non-executive
+
+Working
+capital
+management
+of listed firms
+
+0.84
+0.82
+0.8
+
+avbc
+
+0.78
+
+489
+
+0.76
+0.74
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+Figure 6.
+Board composition
+
+YEAR
+
+Board size for Ghana, over the 12 years, averaged approximately 8.5. It increased
+briefly in 2006 and then dropped to 7.8 in 2009, before rising back up and dropping
+once more in 2012 (Figure 7).
+Given that there is no consensus on the optimal board size for effective governance
+and firm success, the board size trends exhibited over the years may need further
+probing to identify the drivers and potential implications for firm efficiency.
+
+Count
+
+4.3 Correlation analysis
+To avoid the possibility of spurious regression coefficients from the presence of
+multicollinearity in the regressors, a pairwise correlation was run. None of the variables
+exhibited any high correlations, so the possibility of multicollinearity was absent.
+The CCC exhibited a positive and significant correlation with the inventory period and
+the debtors’ period. It seems, however, that receivables management has more influence
+on the efficiency of working capital (proxied as CCC) compared to the inventory
+management. Payable management, as expected, exhibits a significant and negative
+correlation with the CCC. The correlation value is, however, not large enough at −0.2215.
+This may suggest a weak influence on CCC from the management of payables. From these
+correlations, it appears the greatest influence on the CCC emanates from debtors’
+management with relatively small impacts from inventory and payables management.
+Board size, composition, profits and age were negatively correlated with working
+capital efficiency (CCC). Age was, however, not significant. These correlations may
+9
+8.8
+8.6
+8.4
+8.2
+8
+avbs
+7.8
+7.6
+7.4
+7.2
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+
+Figure 7.
+Board size trends
+
+YEAR
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+490
+
+seem to suggest that firms with large boards, independent boards, or high profits are
+likely to be characterized by efficient working capital management. CEO duality and
+firm size were positively correlated, though CEO duality was not significant at any of
+the appropriate levels. Large firms on the other hand may exhibit inefficiencies in
+working capital management.
+Inventory period was positively correlated with size, receivables period and
+payables period. The correlation between the inventory period and the payables period
+was, however, higher than the correlation between inventory and receivables. This may
+probably suggest that levels of inventory may be primarily driven by the availability of
+suppliers’ credit (Table III).
+CEO duality, board size, board independence, profits and age were negatively
+correlated to inventory periods. Of these correlations, board independence and profits
+are insignificant. The receivables period, though positively and significantly correlated
+with payables period and firm size, was not large enough. CEO duality was positively
+but insignificantly correlated with the receivables period, while board size and board
+independence were negatively and significantly correlated with the average receivables
+period. This seems to suggest that large boards or independent boards are associated
+with reduced receivables collection periods. Profits and age, however, exhibited
+insignificant and negative correlations with receivables.
+Payables period was negatively correlated to board size, board composition, CEO duality
+and age, although CEO duality was insignificant. It appears a large board is likely to have
+the CEO also as board chair, but this case reverses when a board is highly independent. The
+correlations between CEO duality and size also seem to suggest that large firms are more
+likely to have the same person as CEO and board chair. The correlation values also seemed
+to indicate that larger firms are likely to be associated with smaller boards or less
+independent boards. Older firms, on the other hand, are likely to have smaller boards.
+4.4 Regression analysis
+The coefficient for board size is significant and negative for inventory holding period
+and payables period but not significant for CCC and receivables. This seems to suggest
+that as boards get larger, payables and inventory periods decline. The negative effect of
+board size on inventory holding period and payables goes against the argument by
+Yermack (1996) and Lipton and Lorsch (1992) that smaller boards are more effective in
+decision making and are thus able to enhance performance. In fact, the finding seems to
+suggest that the relatively larger pool of expertise associated with large boards is what
+results in the efficiency of inventory and payables management. The decline in
+inventory period may stem from the board advocating leaner inventories, while the
+negative effect of board size on payables may also be indicative of the board pursuing
+swift payment for supplies for reasons of reputation or reduction in the use of trade
+credit for cost reasons. The negative relationship for payables is consistent with Karani
+(2013) but contradicts the positive relationship found by Gill et al. (2014). The statistical
+significance of the board size in relation to inventory efficiency, however, does not find
+support in the literature, as most of the available studies (see Karani, 2013; Gill and
+Biger, 2013) report an insignificant relationship. The insignificant effect of board size
+on the cash conversion cycle finds support in studies by Achchuthan and Kajananthan
+(2013) and Kamau and Baweti (2013) (Table IV).
+The coefficient of the proportion of non-executive board members is negative and
+significant for CCC, the receivables period, and the payable period but not for the inventory
+period. It would appear, therefore, that as the board becomes more independent, the
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+CCC
+
+IHP
+
+DHP
+
+PDP
+
+CCC
+1.0000
+IHP
+0.2591***
+1.0000
+DHP
+0.8669***
+0.2891***
+1.0000
+PDP
+−0.2150**
+0.6454***
+0.1849**
+1.0000
+CEO
+0.0701
+−0.1709**
+0.0646
+−0.1115
+BS
+−0.2215**
+−0.2811***
+−0.3232***
+−0.2253**
+BC
+−0.2655***
+−0. 0807
+−0.3761***
+−0. 1566*
+PROFITS
+−0.1895**
+−0.0639
+−0.1187
+0.1385
+FIRM SIZE
+0.4452***
+0.2538***
+0.4771***
+0.0852
+AGE
+−0.0475
+−0.1679**
+−0.1211
+−0.1771**
+Note: *,**,***Significant at 10, 5, and 10 percent levels, respectively
+
+Variables
+
+1.0000
+0.1405*
+−0.2066**
+−0.0621
+0.2042**
+0.0981
+
+CEO
+
+1.0000
+0.0029
+−0.0059
+−0.3192***
+−0.5050***
+
+BS
+
+1.0000
+0.1508
+−0.2715***
+0.0981
+
+BC
+
+1.0000
+−0.0685
+0.1130
+
+PROFITS
+
+AGE
+
+1.0000
+
+FIRM SIZE
+
+1.0000
+−0.0053
+
+Working
+capital
+management
+of listed firms
+491
+
+Table III.
+Correlation matrix of
+study variables
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+492
+Table IV.
+Regression output
+on working capital
+and components
+
+Variables
+
+Cash conversion cycle
+
+Inventory period
+
+Receivables period
+
+Payables period
+
+Board size
+−0.0308782 (0.523)
+−0.0406402 (0.007)**
+−0.0508258 (0.205)
+−0.495631 (0.049)*
+Board
+composition
+−2.175796 (0.032)**
+−0.1652018 (0.593)
+−3.436655 (0.000)***
+−1.604453 (0.003)***
+CEO duality
+−0.1025471 (0.618)
+−0.0543429 (0.390)
+−0.1067098 (0.529)
+−0.0133942 (0.900)
+Profits
+−0.0878151 (0.244)
+−0.013126 (0.519)
+−0.0042526 (0.945)
+0.0698578 (0.080)*
+Age
+−0.6191984 (0.033)**
+0.1120152 (0.198)
+−0.6841589 (0.005)***
+0.059567 (0.737)
+Firm size
+0.1535826 (0.000)***
+0.0239562 (0.022)**
+0.11977 (0.000)*** −0.0201896 (0.243)
+Constant
+4.370858 (0.009)**
+2.058166 (0.001)***
+5.887109 (0.000)***
+3.358528 (0.000)***
+R2
+0.3132
+0.1896
+0.3981
+0.1617
+F-stat, prob.
+8.13 (0.0000)***
+4.17 (0.0008)***
+11.80 (0.0000)***
+3.54 (0.0031)***
+Number of obs.
+114
+114
+114
+114
+Note: *,**,***Significant at 10, 5, and 1 percent levels, respectively
+
+efficiency of receivables management, payables management and CCC improves. This
+effect may be because non-executive directors have a reputation to protect and enhance,
+hence their diligence in this area of working capital management. In essence, this finding
+supports the notion that non-executive directors on the board are much more effective in
+monitoring inefficient managerial behavior. Zariyawati et al. (2010) and Gill and Biger
+(2013) also report a similar relationship between board independence and efficiency
+of the CCC. The notion of efficiency of receivables management in the presence of an
+independent board does not find support, as the available literature (Gill et al., 2014) finds
+the relationship to be insignificant. Gill et al. (2014), however, contradict the negative
+relationship between payables and board independence found in this study. They found
+that board independence increases the payables period. In relation to efficiency of
+inventory management, however, the independence of the board proves inconsequential.
+CEO duality is insignificant in explaining any of the working capital measures. This
+seems to support the trend in the literature: Achchuthan and Kajananthan (2013) and
+Gill and Shah (2012) also find the relation is insignificant for the CCC. Gill and Biger
+(2013) also find CEO duality has no significant impact on inventory efficiency and
+payables management efficiency. This could be because the drawback of ineffective
+monitoring from CEO duality is exactly offset by the cost-saving benefit of leadership
+consolidation and information transfer, hence the neutral effect (Brickley et al., 1997).
+In terms of the effect of firm characteristics, the results show that profit is weakly
+significant in explaining the payables period. It appears that profitable firms are likely to
+enjoy more trade credit and longer credit periods, possibly based on the perception of less
+risk of default. The other variables such as inventory period, receivables period and the
+CCC exhibit insignificant associations, which are consistent with the finding by Gill and
+Biger (2013). The profit-payables relationship does not seem to converge with or
+contradict any of the available literature. The coefficient of age is negative and significant
+for CCC and receivables but positive and insignificant for inventory and payables periods.
+It may appear that as firms get older, their CCC and receivable period improve but their
+age has no impact on the inventory and payable management characteristics. It can be
+inferred that the older firms may be exhibiting greater efficiency in these areas of working
+capital management due to experience gained over the years. The efficiency effect of age
+on the conversion cycle is consistent with the findings of Wasiuzzaman and Arumugam
+(2013) but contradicts those by Banos-Caballero et al. (2010b). The coefficient of firm size is
+positive and significant for CCC, inventory management, and receivables management in
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+all the equations. It will appear that as firms get larger, their CCC deteriorates along with
+inventory periods and receivables period but not payables. In respect of this finding, Stein
+(2003) and Goetz’s (2012) opinion that larger firms suffer more agency problems and
+diseconomies of scale could hold true in this case. It could also be argued that size and
+complexity make for difficult monitoring and control, hence the inefficient outcomes.
+It could also be that large firms are in a position to stock large inventories (hence the
+longer inventory period), offer longer credit periods to clients, and take less trade credit
+from their suppliers because of their cash flow position. This study’s findings, however,
+contradict the findings of Attari and Raza (2012), Wasiuzzaman and Arumugam (2013)
+and Zariyawati et al. (2010), all of whom report negative relations between size and
+working capital efficiency.
+
+Working
+capital
+management
+of listed firms
+493
+
+5. Conclusion and implications
+The study set out to examine the influence that internal governance characteristics such
+as board size, board independence and CEO duality exert influences on the efficacy of
+working capital management and its components. The study found some board
+characteristics as significant in explaining working capital efficiency albeit with
+differential impacts on the various components. The study also found board
+characteristics to be mostly negatively influential in relation to working capital
+management. It also seems that the working capital unit of the corporate finance function
+is driven by other factors and not necessarily internal governance structures. This may
+also reflect the general posture of the responsibility of the board for strategic vs tactical
+decisions. It is quite well acknowledged that strategic decisions rest with the board while
+day-to-day decisions like working capital rest with management, and the study’s findings
+seem to be confirming that ideology. It appears, however, that, where important, the board
+may extend its influence on the working capital management of listed firms.
+In terms of policy implications, it would appear that firms can still influence the
+efficiency in the management of their inventory practices through an increase in their board
+size so as to benefit from the diverse expertise that comes from a large board. It would also
+be appropriate for firms seeking to minimize the CCC to have more external members on
+the board. It is also recommended for firms seeking more efficient debtors’ management to
+constitute more externally dominated boards while those seeking reduction in payables
+deferral periods more likely to achieve that with larger or non-executive board members.
+Consolidating the leadership position has no impact on working capital and its components.
+On the whole, it seems that some characteristics of the corporate board are
+important in explaining the efficiency of working capital in firms albeit with differential
+impacts on the various components constituting working capital management. Also, it
+appears that efficient working capital management can become an outcome of effective
+governance structures. It must, however, be noted that since the study pooled a sample
+comprising firms across different industries, the findings may be more general than
+specific in terms of applicability. Future studies may look at industry-level data and
+derive industry-specific influences of governance on working capital.
+References
+Abor, J. (2007a), “Corporate governance and financing decisions of Ghanaian listed firms,
+corporate governance”, International Journal of Business in Society, Vol. 7 No. 1, pp. 83-92.
+Abor, J. (2007b), “Debt policy and performance of SMEs: evidence from Ghanaian and
+South African Firms”, Journal of Risk Finance, Vol. 8 No. 4, pp. 364-379.
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+Abor, J. and Fiador, V. (2012), “Does corporate governance explain dividend policy in
+Sub-Saharan Africa?”, International Journal of Law and Management, Vol. 55 No. 3,
+pp. 201-225.
+Achchuthan, S. and Kajananthan, R. (2013), “Corporate governance practices and its impact on
+working capital management: evidence from Sri Lanka”, Research Journal of Finance and
+Accounting, Vol. 4 No. 3, pp. 23-31.
+
+494
+
+Andreou, P.C., Ehrlich, D. and Louca, C. (2013), “Managerial ability and firm performance:
+evidence from the global financial crisis”, available at: www.efmaefm.org/0efmameetings/
+efma%20annual%20meetings/2013-reading/papers/EFMA2013_0542_fullpaper.pdf
+(accessed October 28, 2014).
+Attari, M.A. and Raza, K. (2012), “The optimal relationship of cash conversion cycle with firm size
+and profitability”, International Journal of Academic Research in Business and Social
+Sciences, Vol. 2 No. 4, pp. 189-203.
+Ayogu, M.D. (2001), “Corporate governance in Africa: the record and policies for good
+governance”, Economic Research Papers No. 66, African Development Bank, Abidjan.
+Baik, B., Chae, J., Choi, S. and Farber, D.B. (2013), “Changes in operational efficiency and firm
+performance: a frontier analysis approach”, Contemporary Accounting Research, Vol. 30
+No. 3, pp. 996-1026.
+Banos-Caballero, S., García-Teruel, P.J. and Martínez-Solano, P. (2010b), “Working capital
+management in SMEs”, Accounting & Finance, Vol. 50 No. 3, pp. 511-527.
+Bhattacharjee, A., Higson, C., Holly, S. and Kattuman, P. (2002), “Macro economic instability and
+business exit: determinants of failures and acquisitions of large UK Firms”, Working Paper
+No. 0206, Department of Applied Economic, Mimeo, University of Cambridge.
+Block, S.B. and Hirt, G.A. (1992), Foundations of Financial Management, Richard D. Irwin Inc.,
+Boston, MA, p. 138.
+Brickley, J.A., Coles, J.L. and Jarrell, G. (1997), “Leadership structure: separating the CEO and
+chairman of the board”, Journal of Corporate Finance, Vol. 3 No. 3, pp. 189-220.
+Carmeli, A. and Tishler, A. (2004), “The relationships between intangible organizational elements and
+organizational performance”, Strategic Management Journal, Vol. 25 No. 13, pp. 1257-1278.
+Datta, S., Iskander-Datta, M. and Raman, K. (2001), “Executive compensation and corporate
+acquisition decisions”, Journal of Finance, Vol. 56 No. 6, pp. 2299-2336.
+Dittmar, A. and Mahrt-Smith, J. (2007), “Corporate governance and the value of cash holdings”,
+Journal of Financial Economics, Vol. 83 No. 3, pp. 599-634.
+Farinha, J. (2003), “Dividend policy, corporate governance and the managerial entrenchment
+hypothesis: an empirical analysis”, Journal of Business Finance & Accounting, Vol. 30
+Nos 9-10, pp. 1173-1209.
+Franks, J. and Meyer, C. (1994), “Corporate control: a comparison of insider and outsider
+systems”, working paper, London Business School, London.
+Gill, A. and Shah, C. (2012), “Determinants of corporate cash holdings: evidence from Canada”,
+International Journal of Economics and Finance, Vol. 4 No. 1, pp. 70-79.
+Gill, A., Biger, N. and Obradovich, J. (2014), “The impact of independent directors on the cash
+conversion cycle of America manufacturing firms”, International Journal of Economics and
+Finance, Vol. 7 No. 1, pp. 87-96.
+Gill, A.S. and Biger, N. (2013), “The impact of corporate governance on working capital
+management efficiency of American manufacturing firms”, Managerial Finance, Vol. 39
+No. 2, pp. 116 -132.
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+Goetz, M.R. (2012), “Bank diversification, market structure and bank risk taking: theory and
+evidence from US Commercial Banks”, Working Paper No. 12-2, FRB of Boston
+Quantitative Analysis Unit, Boston, MA.
+Gugler, K. (2003), “Corporate governance, dividend payout policy, and the interrelation between
+dividends, R&D, and capital investment”, Journal of Banking and Finance, Vol. 27 No. 7,
+pp. 1297-1321.
+Gugler, K. and Yurtoglu, B. (2003), “Corporate governance and dividend pay-out policy in
+Germany”, European Economic Review, Vol. 47 No. 4, pp. 731-758.
+
+Working
+capital
+management
+of listed firms
+495
+
+Guimaraes, A. and Nossa, V. (2010), “Working capital, profitability, liquidity and solvency of
+healthcare insurance companies”, BBR – Brazilian Business Review, Vol. 7 No. 2,
+pp. 37-59, available at: http://ssrn.com/abstract=2118608
+Hawawini, G., Subramanian, V. and Verdin, P. (2003), “Is performance driven by industry-or firmspecific factors? A new look at the evidence”, Strategic Management Journal, Vol. 24 No. 1,
+pp. 1-16.
+Hsiao, C. (2003), Analysis of Panel Data, 2nd ed., Cambridge University Press, Cambridge.
+Hutchinson, M. and Gul, F. (2004), “Investment opportunity set, corporate governance practices
+and firm performance”, Journal of Corporate Finance, Vol. 10 No. 4, pp. 595-614.
+Jensen, M.C. and Meckling, W.H. (1976), “Theory of the firm: managerial behaviour, agency costs
+and ownership structure”, Journal of Financial Economics, Vol. 3, pp. 308-360.
+Kamau, M. and Baweti, A. (2013), “Relationship between corporate governance and working
+capital efficiency of firms listed at Nairobi securities exchange”, Journal of Finance and
+Accounting, Vol. 4 No. 19, pp. 2222-2847.
+Karani, H. (2013), “The effect of corporate governance on working capital of manufacturing firms
+listed at the Nairobi securities exchange”, unpublished thesis, University of Nairobi, Nairobi.
+Knyazeva, A. (2007), “Delivering on the dividend promise: corporate governance, managerial incentives,
+and dynamic dividend behavior”, job market paper, New York University, New York, NY.
+Kusnadi, Y. (2011), “Do corporate governance mechanisms matter for cash holdings and firm
+value?”, Pacific-Basin Finance Journal, Vol. 19 No. 5, pp. 554-570.
+Kyereboah-Coleman, A. and Biekpe, N. (2006), “Corporate governance and financing choices of
+firms: a panel data analysis”, South African Journal of Economics, Vol. 74 No. 4, pp. 670-681.
+Lipton, M. and Lorsch, J.W. (1992), “A modest proposal for improved corporate governance”,
+Business Lawyer, Vol. 48 No. 1, pp. 59-77.
+McGahan, A.M. and Porter, M.E. (1997), “How much does industry matter, really?”, Strategic
+Management Journal, Vol. 18 No. S1, pp. 15-30.
+Mahmoud, A.M. (2011), “Market orientation and business performance among SMEs in Ghana”,
+International Journal of Business Research, Vol. 4 No. 1, pp. 241 -251.
+Mehrotra, S. (2013), “Working capital trends and liquidity analysis of Fmcg sector in India”, IOSR
+Journal of Business and Management, Vol. 9 No. 4, pp. 45-52.
+Mukhopadhyay, D. (2004), “Working capital management in heavy engineering firms – a case
+study”, Management Accountant Calcutta, Vol. 39 No. 4, pp. 317-323.
+Okike, E.N.M. (2007), “Towards better corporate governance and financial accountability in a
+developing economy: a Nigerian case study”, PhD thesis, University of Sunderland, Sunderland.
+Pinkowitz, L., Stulz, R.M. and Williamson, R. (2003), “Do firms in countries with poor protection of
+investor rights hold more cash?”, No. w10188, National Bureau of Economic Research, MA.
+Schmalensee, R. (1985), “Do markets differ much?”, American Economic Review, Vol. 75 No. 3,
+pp. 341-351.
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+AJEMS
+7,4
+
+496
+
+Short, H., Zhang, H. and Keasey, K. (2002), “The link between dividend policy and institutional
+ownership”, Journal of Corporate Finance, Vol. 8 No. 2, pp. 105-122.
+Stein, J.C. (2003), “Agency, information and corporate investment”, Handbook of the Economics of
+Finance, Vol. 1, pp. 111-165.
+Ukaegbu, B. (2014), “The significance of working capital management in determining firm
+profitability: evidence from developing economies in Africa”, Research in International
+Business and Finance, Vol. 31, May, pp. 1-16.
+Waddock, S., Bodwell, C. and Graves, S. (2002), “Responsibility: the new business imperative”,
+Academy of Management Executive, Vol. 16 No. 2, pp. 132-148.
+Wasiuzzaman, S. and Arumugam (2013), “Determinants of working capital investment: a study of
+Malaysian public listed firms”, Australasian Accounting Business and Finance Journal, Vol. 7
+No. 2, pp. 49-68.
+Wen, Y., Rwegasira, K. and Bilderbeek, J. (2002), “Corporate governance and capital structure
+decisions of Chinese listed firms”, Corporate Governance: An International Review, Vol. 10
+No. 2, pp. 75-83.
+World Bank ROSC (2005), “Corporate governance report on the observance of standards and
+codes (ROSC)”, World Bank, May.
+World Bank ROSC (2010), “Corporate governance report on the observance of standards and
+codes (ROSC)”, World Bank.
+Yermack, D. (1996), “Higher market valuation of companies with a small board of directors”,
+Journal of Financial Economics, Vol. 40 No. 2, pp. 185-211.
+Zariyawati, M., Annuar., M.N., Taufiq, H. and Sazali, A. (2010), “Determinants of working capital
+management: evidence from Malaysia”, International Conference on Financial Theory and
+Engineering, Dubai, pp. 190-194.
+Zeitun, R., Tian, G.G. and Keen, S. (2007), “Macroeconomic determinants of corporate
+performance and failure: evidence from an emerging market the case of Jordan”, Corporate
+Ownership and Control, Vol. 5 No. 1, pp. 179-194.
+Further reading
+Deloof, M. (2003), “Does working capital management affect profitability of Belgian firms?”,
+Journal of Business Finance and Accounting, Vol. 30 Nos 3-4, pp. 573-587.
+Hutchinson, M. (2002), “An analysis of the association between firms’ investment opportunities,
+board composition, and firm performance”, Asia-Pacific Journal of Accounting and
+Economics, Vol. 9, pp. 17-39.
+Scharfstein, D. and Stein, J. (2000), “The dark side of internal capital markets: divisional rent
+seeking and inefficient investment”, Journal of Finance, Vol. 55 No. 6, pp. 2537-2564.
+
+Corresponding author
+Vera Fiador can be contacted at: vsoli@ug.edu.gh
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/ajems/article-pdf/7/4/482/359086/ajems-08-2015-0096.pdf by University of Ghana, John Vanderpuye on
+
+

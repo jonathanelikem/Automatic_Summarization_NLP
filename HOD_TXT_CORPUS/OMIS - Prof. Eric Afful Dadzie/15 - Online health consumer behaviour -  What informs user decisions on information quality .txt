@@ -1,0 +1,1944 @@
+Computers in Human Behavior Reports 3 (2021) 100064
+
+Contents lists available at ScienceDirect
+
+Computers in Human Behavior Reports
+journal homepage: www.journals.elsevier.com/computers-in-human-behavior-reports
+
+Online health consumer behaviour: What informs user decisions on
+information quality?
+Eric Afful-Dadzie, Anthony Afful-Dadzie *
+Department of Operations and Management Information Systems, University of Ghana Business School, Accra, Ghana
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Online health information
+Online health consumer behaviour
+Information quality
+Developing country
+Web portals
+Online consumer sophistication
+
+Around the world, the use of Online Health Information (OHI) is on the increase. This is even more prevalent in
+developing economies where poor healthcare access and delivery present OHI as a potent alternative to physician
+consultations. This phenomenon grants the online health information seeker the sole decision-making responsibility of determining the quality of OHI. Given the potential consequences of incorrect medical advice, it is
+important to understand what criteria constitutes quality OHI from the perspective of users so as to inform better
+OHI publication and design. Using choice-based conjoint analysis as a preference modelling technique, the results
+indicate that, in order of importance, OHI seekers view the credibility of the author or their afﬁliation as a key
+measure of OHI quality, while the provision of internal search functionality is viewed as a measure of design
+quality. OHI seekers however showed a less preference for web portals that store and process user data. The OHI
+quality preferences obtained in the study were used to audit selected OHI portals to ascertain their level of
+conformity with the observed user preferences.
+
+1. Introduction
+Around the world, and in many languages, online platforms (websites, social media, chatrooms, etc.) serve enthusiastic number of consumers on various online health information (OHI) needs. Ranging from
+benign to malignant health issues, consumers search the web for information on symptoms and conditions of ailments, communicate in realtime with health experts, learn to administer drugs, and complete online personal health assessment questionnaires (Finney Rutten et al.,
+2019; Fox & Duggan, 2013; Zhang et al., 2019). For others, OHI provides
+a means to feel conﬁdent and prepared when meeting physicians, reassure individuals of their health status or resolve otherwise confusing
+medical conditions (Redston et al., 2018). While OHI generally serves as
+supplemental information, there is a gradual dependence by consumers
+due to challenges to healthcare access and delivery in many parts of the
+world (Tan & Goonawardene, 2017). For instance, in Africa where
+challenges to health care access result in long queues and general inefﬁciencies, OHI is increasingly becoming a companion among the
+literate society (Gathoni, 2012; Hampshire et al., 2015). With relative
+improvements in internet access and mobile phone penetration on the
+African continent, online health information seekers are becoming
+empowered and sophisticated in their health decision making
+
+(Borzekowski et al., 2006; Hampshire et al., 2015; Nwagwu, 2007;
+Pfeiffer et al., 2014).
+As OHI becomes more prevalent and easily accessible, the traditional
+power and control exercised by medical professionals are gradually
+waning (Liu & Lei, 2019; Wang et al., 2018). In effect, the norm of
+soliciting medical information exclusively from health professionals is
+declining. This could be good and bad. Good in the sense that, access to
+OHI is democratized and therefore has the tendency to save time and
+healthcare access costs for OHI seekers. It could also be worringly bad
+when the OHI seeker consumes inaccurate or misleading information.
+Another challenge is that while contents of online health information are
+generally authored by health organizations, recognized research institutions, medical centers and individual health professionals, a lot more
+also come from sources that though well intentioned, tend to misinform,
+mislead and persuade health anxious individuals to purchase health
+products (Cotten & Gupta, 2004). Note that, in the actual moment of
+information search, the online health information seeker, whether
+knowledgeable or not, remains the sole decision maker over what forms
+credible and reliable OHI on web portals.
+To understand how the OHI seeker makes such decisions over what
+constitutes quality OHI, the study seeks to determine what information
+quality criteria guide the information seeker when accessing internet
+
+* Corresponding author.
+E-mail addresses: eafful-dadzie@ug.edu.gh (E. Afful-Dadzie), aafful-dadzie@ug.edu.gh (A. Afful-Dadzie).
+https://doi.org/10.1016/j.chbr.2021.100064
+Received 28 November 2019; Received in revised form 7 February 2021; Accepted 8 February 2021
+Available online 25 February 2021
+2451-9588/© 2021 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/bync-nd/4.0/).
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+health information. To do this, an experimental design approach of
+choice-based conjoint analysis is used to understand the decision processes of OHI seekers towards determining quality of OHI on web portals.
+The study also reveals the trade-offs information seekers make on information quality when accessing OHI. The study contributes both to
+theory and practice by (1) helping to understand the choices of OHI
+seekers regarding the use of online health information on web portals, (2)
+modelling and validating a choice framework on how OHI seekers make
+complex decisions on quality OHI, (3) guiding OHI publishers on user
+preferred quality features which can be incorporated into the design of
+OHI web portals. The paper is further organized as follows: the next
+section presents the state of OHI literature. This is followed by the
+methodology, results, discussion and conclusions of the study.
+
+Table 1
+Evaluation criteria in OHI quality evaluation.
+Criteria
+
+Deﬁnition
+
+Literature support
+
+Credibility
+
+This evaluation criterion is
+decomposed into three subcriteria to measure the credibility
+of OHI as a function of quality.
+The three sub-criteria are the
+source of the information, its upto-dateness and relevance. The subcriteria, source, serves as
+reasonable grounds to defuse any
+doubts about the credibility of the
+information. Key metadata such
+as the ofﬁcial logo of the
+institution providing the
+information, together with author
+and qualiﬁcation, source of
+funding (if any) evoke user trust
+in the source of the OHI. The subcriterion, up-to-dateness, checks
+how current the information or
+material is and therefore its
+suitability for use. The subcriterion, relevance also assists the
+OHI seeker to determine whether
+the content exactly relates to the
+purpose of the web portal.
+Content refers to the actual OHI
+information published online.
+Since it is what the information
+seeker invariably accesses, its
+form of presentation is very
+important as far as winning the
+trust of users. In this paper, two
+sub-criteria are deemed
+appropriate under content,
+namely accuracy and disclaimer.
+Accuracy seeks for scientiﬁc
+validity of the information
+provided. Users expect an OHI
+that is rooted in scientiﬁc theory
+and practice. Disclaimer addresses
+liability concerns by stating the
+limitations and scope of the
+content.
+The design criterion looks at the
+layout of the OHI portal,
+including graphics, text, search
+functionality, links, etc. Though
+the design criterion should not
+directly affect the quality of an
+OHI, it facilitates the acceptance,
+delivery and use and therefore is
+considered important in gauging
+user preferences of OHI quality.
+Three sub-criteria namely,
+accessibility, logical organization
+(navigability) and internal search
+engine or functionality within the
+web portal are considered.
+The evaluation criterion disclosure
+focuses on the intentions or the
+reasons for the setting up of the
+OHI web portal. This criterion
+looks for the presence of a mission
+statement or the purpose of the
+OHI web portal. Two sub-criteria
+are deemed appropriate for
+measuring disclosure. These are
+the purpose of the site, and proﬁling
+which checks whether users are
+adequately informed of any
+collection, use or distribution of
+users’ information collected on
+the web portal.
+
+(Eysenbach et al., 2002; Hu &
+Shyam Sundar, 2010; Jadad &
+Gagliardi, 1998; Kim et al.,
+1999; Ambre et al., 1997;
+Winker et al., 2000).
+
+2. State of online health information
+Since the advent of the internet, many research works have been
+produced on various topics relating to online health information. A signiﬁcant number of these have been dedicated to issues concerning the
+quality of the OHI. The literature focusing on quality of OHI can broadly
+be segmented into four groups. The ﬁrst group addresses OHI ‘content’,
+and is often dedicated to speciﬁc diseases and disorders. The focus of the
+ﬁrst group has been about whether OHI contents adequately serve its
+intended audiences. For instance, Gokcen and Gumussuyu (2019) studied OHI quality issues for disc herniation videos on YouTube, Alnafea
+et al. (2017), Arif and Ghezzi (2018) and Basch et al. (2018) respectively
+studied the quality of OHI contents for oral, breast, and prostate cancers.
+Others are dengue fever (Rao et al., 2012), concussion (Ahmed et al.,
+2012), infant feeding (Taki et al., 2015), scoliosis (Staunton et al., 2015),
+stroke and speech and language difﬁculty (Surman & Bath, 2013), pediatric urology (Fast et al., 2013), acute low back pain (Hendrick et al.,
+2012), hydrocele (Nason et al., 2013), microtia and aural atresia (Alamoudi & Hong, 2015), dental implant (Leira-Feijoo et al., 2015) and
+heart failures (Orlowski et al., 2013). The second category of research on
+quality OHI has focused on user perception and trust of OHI and its
+sources. Some of these works addressed for instance, factors that inﬂuence user perception of OHI quality on diet-nutrition (Jung et al., 2016),
+relationship between visual design and user perceptions of OHI website
+credibility (Sbafﬁ & Rowley, 2017), and user trust judgments of OHI
+(Lederman et al., 2014; Rowley et al., 2015). The third category on
+quality OHI research has looked at evaluation criteria, instruments and
+methodologies used in assessing quality OHI such as Zhang et al. (2015)
+where a systematic review of evaluation criteria, instruments and
+methodologies was conducted and in Oroszlanyova et al. (2018) where
+quality of health web documents was predicted using their characteristics. Quality criteria are mainly characteristics or features that serve as
+guides to users when accessing health information, while the instruments
+or methodologies are procedural frameworks used in evaluating the
+quality of OHI. Prominent studies on quality criteria, instruments and
+methodologies are the Agency for Health Care Policy and Research
+(AHCPR) (Ambre et al., 1999), Journal of American Medical Association
+(JAMA) benchmark (Silberg et al., 1997; Winker et al., 2000), the
+DISCERN instrument (Charnock et al., 1999) and the Health on the Net
+Foundation (HONCode) principles (Boyer et al., 1998). The AHCPR
+criteria-set which this study adopts, proposed seven OHI criteria namely
+credibility, content, design, disclosure, interactivity, links and caveat. Table 1
+provides an in-depth explanation of ﬁve of the AHCPR criteria and their
+sub-criteria used in this study. These ﬁve criteria were deemed appropriate for this study through an expert elicitation survey. In addition, the
+ﬁve criteria are also supported by the JAMA, the DISCERN and the
+HONCode though stated differently. For instance, the criterion ‘credibility’ is also used by the JAMA and the HONCode, but respectively
+referred to as ’authorship’ and ’authoritative’. ‘Disclosure’ is referred to
+as ’disclosure’ and ’ﬁnancial disclosure’ by the JAMA and the HONCode.
+The AHCPR’s criterion, ‘content’ together with its description is also
+supported by the HONCode and the DISCERN instruments, but however
+
+Content
+
+Design
+
+Disclosure
+
+(Ambre et al., 1997; Kim et al.,
+1999; Winker et al., 2000)
+
+(Kim et al., 1999; Ambre et al.,
+1997; Winker et al., 2000)
+Robins et al., 2010)
+
+(Kim et al., 1999; Ambre et al.,
+1997 Winker et al., 2000 )
+
+Interactivity
+(continued on next page)
+
+2
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+model. This section also gives a brief description of the sampling procedure used for the data collection.
+
+Table 1 (continued )
+Criteria
+
+Deﬁnition
+
+Literature support
+
+This evaluation criterion
+envisages that the OHI web portal
+possesses Web 2.0 features
+especially those that aid
+interactivity. Three sub-criteria
+namely, mechanism for feedback,
+chat rooms and tailoring are
+presented. The sub-criterion
+tailoring looks at personalization
+of OHI content such that a
+registered user has access to
+personalized content based on
+clinical algorithms.
+
+(Winker et al., 2000; Kim
+et al., 1999; Robins et al.,
+2010)
+
+3.1. Choice-based conjoint model
+Preference (utility) elicitation is deﬁned as the process of assessing
+and extracting relevant information in user preferences with a view to
+achieving optimum decisions (Raghavarao et al., 2010). While several
+preference elicitation methods exist, conjoint analysis (CA) and the
+analytical hierarchy process (AHP) are two methods widely used in user
+preference measurement (Helm et al., 2008). In this study, the
+Choice-Based Conjoint Analysis method was deemed appropriate for the
+task of unravelling OHI users’ stated preferences and expectations
+regarding what constitutes quality OHI on the internet. This is because
+the CBC technique especially when deployed together with hierarchical
+Bayes estimation method, performs better at revealing individual respondents’ utilities than AHP (Helm et al., 2008). A Choice-based
+conjoint (CBC) analysis model also known as discrete choice model is
+generally used to understand the choices people make, and the reasons
+behind those choices. More precisely, it is used to ascertain the relative
+importance consumers ascribe to product attributes and the trade-offs
+they make in their choices. It is used in many areas including marketing, healthcare, and transportation (Rao, 2014, p. 389). In CBC, a choice
+is made up of different proﬁles of attributes that consumers use to
+maximize their satisfaction (utilities).
+Suppose there are K systematically constructed choice sets, where
+each choice set is made up of a number of proﬁles. In CBC modelling, a
+decision maker (survey participant) is presented with choice tasks
+(alternative hypothetical scenarios) showing a number of product attributes and their features (sub-level attributes). At each presentation of a
+choice proﬁle, the individual decision-maker chooses a single option
+among a ﬁnite set of choices that maximizes his utility (satisfaction). The
+choice proﬁles are a combination of features of a product’s attributes
+which are systematically constructed through an experimental design
+approach (See Appendix A for the choice proﬁles used in the study). The
+number of proﬁles presented to a decision maker at a given scenario is
+referred to as choice tasks. We assume that the best proﬁle is selected
+according to the Random Utility Model (RUM) framework where a
+respondent chooses the best proﬁle according to the one perceived to
+have the maximum utility. The RUM assumes that the utility of a proﬁle
+can be decomposed into two parts, where one is a function of some
+observable covariates and unknown parameters to be estimated, and the
+other, a random deviate made up of all the unobservable determinants of
+the utility. Several methods exist for estimating the unknown parameters,
+and therefore the utilities. This paper employed the Hierarchical Bayes
+(HB) estimation method, in particular, because of its ability to allow
+respondents’ utilities to be segmented and thereby detect possible
+different preferences across different demographic groups. A brief
+description of the HB estimation method is presented in the next subsection.
+
+referred to as ‘transparency’ and ‘content’ respectively.
+The last category of OHI research dedicated to quality issues have
+mainly focused on the behaviour of the online health information seeker
+and the need to understand how they make decisions regarding what
+constitutes quality of OHI on web portals. This category has primarily
+looked at the decision-making abilities of the OHI user; how they ﬁnd,
+evaluate and use online health information (Lopes & Ribeiro, 2010,
+2013; Morahan-Martin, 2004; Peterson et al., 2003; Sillence et al., 2007).
+This paper falls in this last category but with a different focus. The four
+closest studies to this paper, Peterson et al. (2003), Morahan-Martin
+(2004), Ye et al. (2017) and Sillence et al. (2007) though studied how an
+OHI seeker evaluate online health information, did not address the actual
+decision processes OHI seekers go through to select quality online health
+information. For instance, Peterson et al. (2003) studied the behaviour of
+people when using search engines to obtain health information, Morahan-Martin (2004) studied cross-cultural differences in how OHI is
+used, Ye et al. (2017) used two case studies to examine consumers’
+quality evaluation of online health information through eye-movement
+patterns on webpages, while Sillence et al. (2007) proposed a staged
+model of trust development to understand how users search the internet
+for information and advice. So far, no attempts have been made to understand the choices that inform the decision of the online health information seeker to use OHI and the trade-offs made in the processes of
+deciding what constitutes quality OHI. We hypothesize that, to fully
+understand the decision-making processes of OHI seekers, including their
+motivations, preferences and aversions, it is prudent not to directly ask
+‘what’ do you prefer or are averse to, but rather understand the ‘how’ of
+what informs user choices regarding OHI. There is therefore the need for
+a theory and a model that allow for deeper understanding of how the
+online health information seeker makes decisions regarding quality of
+OHI and on the premise that, the OHI seeker has no control over what is
+published, the publisher and the technology used in publishing OHI. This
+study is also different given that it focuses on a developing country
+context where difﬁculties to health care access compel especially the
+literate and semi-literate to consume more online health information.
+The next sections present the methodology detailing the choice-based
+conjoint model, the hierarchical Bayes (HB) estimation method for estimating the parameters of the model, the OHI quality criteria gleaned
+from the literature, survey procedure and the data collected.
+
+3.1.1. Hierarchical Bayes (HB) estimation method
+The study used the HB estimation method to estimate the utility parameters of the choice-based conjoint analysis. The HB estimation
+method was purposively selected because its estimate of the individuallevel utility scores (part-worth utility) is robust (Wang & Blei, 2018),
+and in turn improves general results of choice-based conjoint modelling.
+Moreover, HB is appropriate for estimating how different one respondent’s utilities are from other respondents. The HB model as adapted
+from Akinc and Vandebroek (2018), Wang and Blei (2018), Park (2004)
+and Lenk et al. (1996), is expressed in Equation (1) and Equation (2)
+below. Let there be n respondents, then the responses to the proﬁles
+presented to a respondent i ¼ 1; 2; …; n can be expressed as:
+
+3. Methodology
+This section ﬁrst presents a brief introduction to Choice-Based
+Conjoint (CBC) Model, the preference elicitation technique used in the
+study, and the Hierarchical Bayes (HB) method used in estimating the
+parameters of the CBC model. The CBC model is then used to elicit
+preferences of OHI seekers in a developing country. Before applying the
+CBC model, relevant OHI quality evaluation criteria were ﬁrst selected
+from the literature. Following this, an experimental design approach was
+used to generate various combinations of OHI quality critera (i.e. choice
+proﬁles) whose relative importance are then determined using the CBC
+
+Yi ¼ Xi βi þ εi
+
+3
+
+for i ¼ 1; …; n
+
+(1)
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+βi ¼ ∅zi þ δi
+
+for i ¼ 1; …; n
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+Simulating actual consumer choice situations, The CBC design also
+helped to explore the trade-offs OHI seekers make when choosing which
+OHI evaluation criterion is important to them as far as information
+quality is concerned.
+
+(2)
+
+In Eq. (1), Yi is a vector of mi metric responses of respondent i to the
+proﬁles described by a given design matrix Xi , and βi is the p-dimensional
+vector of regression coefﬁcient or path-worth utility for respondent i. One
+can also estimate individual level path-worth utilities using the multivariate regression model of Eq. (2), where zi is a q-dimensional vector of
+covariates, and ∅ is a p  q matrix of regression coefﬁcients. The error
+terms fεi g and fδi g in Eqs. (1) and (2) are assumed to be mutually independent multivariate normal distributions with zero means and
+covariance matrices fσ 2i Ig and 9; respectively. That is, εi is Nm f0; σ 2i Ig and
+δi is Np f0; 9g where I is the identity matrix and 9 is a p p positive definite matrix.
+
+3.2.3. Sampling procedure and data collection
+Two important criteria were used to select the target population. The
+ﬁrst was that respondents must be internet users and secondly, have
+experience using the internet for health information seeking. Web-based
+survey technique was used to administer the questionnaire to a random
+sample of graduate and undergraduate students in Ghana. The sample
+represents a large population of internet users (Thatcher & Goolam,
+2005; Omotayo, 2006; Weil & Rosen, 1995), knowledgeable and who are
+likely to use digital health products including OHI. E-mail addresses were
+ﬁrst obtained from course representatives in the University, out of which
+800 students were randomly selected. Students were then notiﬁed of
+their selection, and those who consented to participate were e-mailed the
+survey. The consented students were ﬁrst taken through a pre-testing
+phase to familiarize themselves on how to answer choice-based
+conjoint analysis questionnaires. Responses obtained from the pre-test
+had an error rate of 25.23%, which highlighted the need to provide
+deﬁnitions to accompany some of the attributes and sub-attributes, as
+well as detailed guidelines to some questions for clearer understanding.
+This signiﬁcantly reduced the error rate in the actual test to 1.3%, which
+were all uncompleted responses. In all, 711 students consented to complete the questionnaire. However, of this number, 62 respondents representing 8.72% indicated that they have never used the Internet for
+online health information seeking. Since this was a basic criterion of the
+study, 62 of these responses were removed leaving 649. The study sample
+had 54.08% females to 45.92% males, with graduate students being the
+most dominant group as shown in Table 2. Majority of the respondents
+(83.83%) were aged between 18 and 34. This re-enforced the choice of
+the sample who are frequent internet users and are often sophisticated in
+their choices (Omotayo, 2006; Thatcher & Goolam, 2005; Weil & Rosen,
+1995).
+On the question of whether respondents seek conﬁrmations of medical practitioners’ recommendations and prescriptions on OHI web portals, a greater majority representing 69.80% indicated that they have at
+least once on an online platform, veriﬁed recommendations given by
+their doctors. It was further revealed that the most dominant medical
+issue searched for by online health information seekers is “causes and
+symptoms of diseases”. On the question of what respondents would do
+when online medical information turns contrary to what their medical
+practitioner advised, 38.40% indicated were unsure of what their decision will be, 52.85% indicated will go with their physicians’ advice while
+8.78% said will go with the recommendation from the web portal.
+Majority of the respondents representing 60.09% also indicated that
+there have been occasions where online health information has been
+enough to avoid consulting medical practitioners. On whether there has
+ever been adverse effect as a result of using OHI, a majority (67.18%)
+indicated having not experienced any adversity. However, 14.48%
+afﬁrmed having experienced complications due to the use of OHI.
+
+3.2. Preference elicitation of OHI seekers
+This section applies the CBC model to elicit the preferences of OHI
+seekers. To do this, a list of criteria for the evaluation of OHI quality is
+ﬁrst gleaned from the literature. This is followed by an explanation of
+how data was collected, including sampling technique and procedure.
+The study questionnaire can be seen in Appendix A.
+3.2.1. Identiﬁcation of OHI quality criteria
+The literature on online health information (OHI) suggests several
+key criteria for evaluation. Notable among these are those provided by
+the AHCPR, the JAMA, the DISCERN and the HONCode. This study uses
+ﬁve of the seven criteria suggested by the AHCPR as presented in Table 1.
+The ﬁve namely credibility, content, design, disclosure and interactivity were
+arrived at after a nine-member experts from health technology assessment, medicine, information systems and health infomediary publishers
+had offered explanations and subsequently ranked the seven AHCPR
+criteria in order of importance in relation to online health information
+seeking. Based on expert suggestion, the sixth AHCPR criterion, ‘link’,
+was coalesced under the criterion ‘design’ because its description ﬁtted
+better under ‘design’. Each major OHI evaluation criterion has a set of
+sub-criteria which deﬁne the main criteria. See Table 1 for detailed
+explanation of the criteria and respective sub-criteria selected for the
+study.
+3.2.2. Experimental design
+To present choice proﬁles in conjoint analysis, experimental design
+approach is used to generate various combinations of product attributes
+and levels. While several orthogonal experimental designs exist, the
+fractional factorial design is used for many reasons including cost, time,
+and convenience when the experiment involves a large number of factors. As the name suggests, a fractional factorial design uses a fraction of
+total choice combinations. Fractional factorial designs have been proven
+to provide enough information for the estimation of optimal utilities that
+are similar to that from a full factorial but with the advantage of requiring
+far fewer choice levels (Montgomery, 2017; Orme, 2006; Rao, 2014, p.
+389). For instance, in full factorial design, the 5 criteria and their
+sub-levels used in this study, would result in a combined total of (3  2 
+3  2  3) ¼ 108 different sets of choice tasks. To avoid burdening survey
+participants with many choice proﬁles which may lead to unreliable data,
+a smaller but optimized set of three choice tasks were drawn from 12
+proﬁles satisfying orthogonality among criterion levels. For each of the
+12 proﬁles, respondents were presented with 3 choice tasks from which
+one was to be chosen as the preferred OHI quality characteristics.
+Orthogonality ensures that the effect of a factor can be estimated separately from the effect of any other factor (Montgomery, 2017). The
+XLSTAT software (Addinsoft, 2018) was used for both the experimental
+design and the CBC analysis.
+Orthogonality was achieved using the XLSTAT software. The software
+was used to implement D-optimality, which is the most commonly used
+metric in design construction (Johnson et al., 2013).
+
+4. Results
+In conjoint analysis, part-worth utilities are numerical scores that
+measure how much inﬂuence each sub-level criterion contributed to a
+decision-maker’s choice. The part-worth utility and the relative importance (weight) of the OHI quality evaluation criteria derived from the
+survey data is as shown in Table 3. In practical sense, the results depict
+respondents’ value system regarding quality of OHI. Overall, the result
+indicates that, online health information seekers view ‘credibility’
+(29.46%) as the most important factor when accessing online health
+information. This is followed by the ‘design’ of the OHI portal (20.54%),
+and the ‘content’ offered on the OHI platform (18.90%). The relative
+importance of ‘interactivity’ and ‘disclosure’ were respectively (17.79%)
+4
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+OHI sources that provide author information or are afﬁliated to a credible
+organization, over how current or relevant the information is.
+Likewise, in respect of the criterion content, respondents preferred
+provision of scientiﬁc accuracy of the OHI information over OHI sources
+that issue disclaimers. Note that, just because disclaimer received a
+negative utility value does not mean that this level was unattractive
+altogether. Disclaimer may have appealed to some respondents, however,
+compared to accuracy, it faired relatively worse. The various preferred
+OHI quality criterion levels are combined to give a picture of the ideal
+OHI quality characteristics preferred by online health information
+seekers.
+It can be inferred in view of the analysis that, OHI seekers’ ideal
+quality characteristic proﬁle of OHI web portals are those that provide
+‘source’ or author information (A11 Þ, have a ‘search functionality’ feature
+to enable easy search of information (A33 ), with highly ‘accurate’ contents
+(A21 ), provide ‘feedback’ to users (A51 Þ and those that inform and seek
+users permission (opt-in-opt-out policy) to collect and process information (A42 ). It must be noted that this OHI quality characteristic proﬁle set
+is arrived at after respondents have traded-off several sub-level characteristics to settle on this ‘ideal’ proﬁle.
+The Hierarchical Bayes (HB) estimation method helped to reveal how
+the demographics of respondents inﬂuenced the utility scores. In Table 4,
+it is instructive to note that though in aggregate terms the three most
+important OHI evaluation criteria users look for when accessing online
+health information are ‘credibility’, ‘design’ and ‘content’, males averagely
+preferred these criteria more, relative to females. Females on the other
+hand, preferred the criteria ‘interactivity’ and ‘disclosure’ slightly more
+than males. In the age category, though 18–24 and 25–34 were the
+dominant groups in the study, the most important OHI criterion, credibility of OHI was consistently more preferred by older adults (45–54 and
+55 years and over). Similarly, respondents aged 55 and over preferred the
+criterion ‘disclosure’ more than the other age categories.
+Unsurprisingly, relatively younger respondents (18–24 years) opted
+for the more aesthetic and appealing criteria, ‘design’ and ‘interactivity’.
+Further in Table 4, it is observed that, those who indicated that OHI
+sometimes serve as substitute to consulting medical practitioners,
+preferred ‘credibility’, and ‘disclosure’ as quality OHI criteria to have on
+web portals. On the other hand, those who indicated that OHI were not
+substitutes to medical practitioners, relatively favoured the criteria
+‘content’ and ‘interactivity’. Similarly, for participants who indicated
+having experienced adverse effects as a result of using OHI, the criteria
+‘content’ and ‘credibility’ were more important to them. We also note that
+those who indicated that a further check is carried to conﬁrm their
+medical practitioner’s recommendations, viewed ‘content’ more favourably as a quality OHI criterion than the other criteria. In the following
+sections, the results are discussed under three separate themes; choices
+and motivations, consumer sophistication, and aversion. To analyse
+consistency in the results, the discussion section combined Tables 2–4.
+
+Table 2
+Demographic proﬁle of study participants.
+Proﬁle of respondents (N ¼ 649)
+
+Percentage (%)
+
+Gender
+Male
+45.92
+Female
+54.08
+Age (yrs.)
+18-24
+32.83
+25-34
+51.00
+35-44
+11.86
+45-54
+3.85
+55 and over
+0.46
+Student-level
+Undergraduate
+34.67
+Graduate
+65.33
+Have you ever done a (further) check on the internet regarding what your medical
+practitioner told you?
+Yes
+69.80
+No
+30.20
+Which of the following health issues do you mostly search online? (select only one (the
+most searched))
+Communicate with health expert online?
+5.40
+Search for causes and symptoms of a disease
+89.82
+Fill health related questionnaire to ascertain state of illness
+4.78
+What do you do when an online medical information turns contrary to what your
+medical practitioner advised?
+Not sure (undecided)
+38.40
+Go with my physician’s advice
+52.85
+Go with online information recommendation
+8.78
+Has an online health information ever been enough to avoid seeing a medical doctor?
+Yes
+60.09
+No
+39.91
+Has there ever been an adverse effect resulting from a health information you acted
+upon from the internet?
+Yes
+14.48
+No
+67.18
+Do not remember
+18.34
+Which of the following would you assign as the most important reason for using online
+health information? (Select only one)
+Discomfort in long waiting times to see a doctor
+90.75
+To conﬁrm doctor’s recommendations
+6.47
+To understand the experiences of other patients
+1.70
+To save money on consultation fees at the hospital
+0.46
+To diagnose recurring symptoms
+0.62
+
+and (13.31%). The part-worth utilities reveal the most preferred subcriterion under each main criterion. The utility values with asterisks in
+column 3 of Table 3 indicate that the sub-criterion is the most preferred.
+Note that, a high positive part-worth utility value of a sub-criterion indicates a relatively high preference among the sub-criteria under a given
+main criterion. On the other hand, a negative part-worth utility indicates
+a less preference for the OHI evaluation sub-criterion. For instance, under
+the OHI evaluation criterion, ‘credibility’, study participants indicated
+their preference for source (authority) over up-to-dateness and relevance.
+This means that speciﬁc to the criterion credibility, respondents preferred
+
+Table 3
+Part-worth utilities and relative importance of criterion and sub-levels. The utility values with asterisk in column 3 signify the most preferred sub-criteria.
+Criteria
+
+Sub-criterion
+
+Part-worth utilities
+
+Standard Error
+
+Relative importance
+(Weight %)
+
+A1 : Credibility
+
+A11 : Source (Authority)
+A12 : Up-to-dateness
+A13 : Relevance
+A21 :Accuracy
+A22 : Disclaimer
+A31 : Accessibility
+A32 : Logical Organization (Navigability)
+A33 : Search box or search ﬁeld
+A41 : Purpose of the Site
+A42 : Proﬁling
+A51 : Mechanism for Feedback
+A52 : Chat Rooms
+A53 :Tailoring
+
+0.219*
+0.426
+0.207
+0.282*
+0.282
+0.003
+0.086
+0.083*
+0.119
+0.119*
+0.019*
+0.032
+0.013
+
+0.2709
+0.1315
+0.3350
+0.1260
+0.2260
+0.1113
+0.1261
+0.2387
+0.2238
+0.1294
+0.2980
+0.3203
+0.2541
+
+29.46
+
+A2 : Content
+A3 : Design
+
+A4 : Disclosure
+A5 : Interactivity
+
+5
+
+18.90
+20.54
+
+13.31
+17.79
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+OHI on web portals is shown. It depicts from left to right, respondents’
+view of the most important OHI quality criterion and its preferred subcriterion. It can be seen that ‘source’ inﬂuences the credibility of OHI
+(such as the authority of the author, qualiﬁcation and ofﬁcial logo of the
+institution they represent) while ‘search functionality’ inﬂuences design
+quality of an OHI web portal. In that order, ‘accuracy’ is the most
+important determinant of OHI content quality, ‘feedback’ inﬂuences OHI
+interactivity as a measure of quality and ﬁnally, ‘proﬁling’ is the most
+important determinant of OHI disclosure as a quality criteria. The results
+are reﬂective of the choices of the dominant age of the sample population. The study results are afﬁrmed by Sun, Zhang, Gwizdka, & Trace
+(2019), Wu & Li (2016) and Flanagin & Metzger (2007). In Sun et al.
+(2019) review paper, 25 criteria and 165 indicators were identiﬁed in the
+literature as health information seeking criteria among consumers.
+However, the most widely criteria used by information seekers were
+trustworthiness, expertise, and objectivity which respectively relate to
+the credibility of the source, the accuracy of the content, and the design
+of the OHI. The study on the elderly’s use of OHI in China by (Wu & Li,
+2016) also indicated that among other factors such as education, Internet
+search proﬁciency and familiarity with the Internet, credibility of online
+health information was a signiﬁcant factor in the elderly’s decision to use
+online health information. The study results by Flanagin & Matzger
+(2007) however indicated that credibility of online information is
+inﬂuenced by design features, depth of content, site complexity.
+
+Table 4
+Relative importance of OHI evaluation criterion across demographic groups.
+Proﬁle of
+respondents
+
+Credibility
+
+Content
+
+Design
+(%)
+
+Disclosure
+
+Interactivity
+
+Gender
+Male
+29.47
+19.33
+21.16
+13.14
+16.92
+Female
+29.45
+18.56
+20.02
+13.46
+18.48
+Age (yrs.)
+18-24
+29.13
+17.49
+21.51
+13.60
+18.30
+25-34
+29.92
+20.24
+19.15
+13.16
+17.52
+35-44
+28.71
+29.64
+20.85
+11.97
+16.84
+45-54
+31.06
+18.97
+18.92
+14.71
+16.34
+55 and over
+39.40
+10.58
+18.22
+16.30
+15.52
+Has an online health information ever been enough to avoid seeing a medical doctor?
+Yes
+29.84
+18.68
+20.73
+13.02
+17.73
+No
+29.12
+19.26
+20.26
+12.70
+17.81
+Has there ever been an adverse effect resulting from a health information you acted
+upon from the internet?
+Yes
+29.03
+19.52
+23.23
+13.38
+16.92
+No
+28.84
+17.44
+22.22
+13.94
+17.56
+Do not
+32.10
+17.86
+19.86
+10.99
+19.18
+remember
+Have you ever done a (further) check on the internet regarding what your medical
+practitioner told you?
+Yes
+29.41
+19.14
+20.46
+13.34
+17.65
+No
+29.60
+18.81
+20.74
+12.50
+18.03
+
+5. Discussion
+5.2. Consumer sophistication
+
+This section combines Tables 3 and 4 to glean consistencies especially
+of the general answers given by respondents in Table 2 and the choices
+they made in the OHI quality criteria as presented in Tables 3 and 4 We
+also present audit ﬁndings of four (4) OHI portals in Ghana to ascertain
+whether their current OHI features conform to the stated preferences of
+respondents. That is, are users’ quality OHI preferences (features) being
+provided by OHI portals in Ghana?
+
+Varied instances of consumer behaviour are exhibited in this study.
+From the result in Table 2, two of the most persistent reasons why people
+continue to use online health information were (1) discomfort in long
+waiting lines at health centers and (2) conﬁrming doctor’s recommendation as accurate or otherwise, which are collaborated by Caiata-Zufferey, Abraham, Sommerhalder, & Schulz (2010) and Bell, Hu,
+Orrange, & Kravitz (2011). While the ﬁrst reason afﬁrms a common
+spectacle in developing economies such as Ghana, the second reveals a
+growing sophistication in online consumer health choices. Another trait
+of health consumer sophistication is depicted in the fact that, in spite of
+the abundance of OHI on one hand and the discomfort of long waiting
+queues on another, majority of respondents did not consider OHI as
+complete substitute to consulting a medical practitioner. Further, majority of respondents indicated that should an online health information
+turn contrary to what their medical practitioner advised, they will trust
+recommendations given by practitioners, while a signiﬁcant number
+were unsure of what their decision will be. This demonstrates that the
+online health consumer despite challenges with health care access and
+delivery, showed a quality of having an understanding of OHI issues as
+depicted in their decision-making. The trust in physicians despite
+growing use of OHI is afﬁrmed by Dutta-Bergman (2003) and but resort
+to OHI only when trust in the physician is low (Bell et al., 2011). These
+conclusions are consistent with the preference modelling results in
+Table 3, where ‘credibility’ was considered the most important OHI
+quality criteria. This is to say that, in spite of the growing desire to use
+
+5.1. Choices and motivations
+One of the goals of the study was to model a framework that captures
+how OHI seekers make complex decisions about what they consider the
+most important as far as quality of online health information is concerned. The choice-based conjoint analysis approach helped to reveal
+choices as shown in Table 3, while Table 2 revealed motivations for the
+use of OHI by study participants. In Table 2, it is noted that, majority
+ascribed ‘discomfort in long waiting time’ as the reason for their
+continued use of OHI. This assertion is given credence by the fact that,
+doctor to patient ratio in Ghana, as of 2018, hovers around 1:8000,
+though the world health organization prescribes, in the most, a 1:1000
+ratio (Adua, Frimpong, Li, & Wang, 2017; Ghana Health Service, 2018).
+Such a situation coupled with other enabling factors such as growing
+internet and mobile device penetration rates naturally compels people to
+seek health solutions online. The motivations for OHI use also reﬂect the
+choice of quality criteria deemed important when accessing OHI.
+In Fig. 1, respondents’ preference framework for determining quality
+
+Fig. 1. Ideal OHI quality characteristic proﬁle.
+6
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+the symbols (√) and (  ) respectively represent the availability of the
+OHI feature or otherwise. The ﬁndings generally present a positive
+outlook for OHI platforms as far as the criteria and sub-criteria used in the
+study are concerned. However, speciﬁc to the ideal OHI characteristic
+proﬁle preferred by respondents, there were some key discrepancies
+among the four platforms. For instance, while the two privately owned
+OHI portals provided all of the preferred OHI characteristic proﬁle, the
+publicly owned ones had some key features missing on their web portals.
+The Ghana health service, as far as respondents’ preferred OHI quality
+features were concerned, had only one feature out of ﬁve present on its
+web portal, as of the time of this research. The Ghana Medical Association, the other publicly owned web portal, had four out of ﬁve features
+available, missing out on only ‘proﬁling’. It is interesting to note that,
+none of the four web portals currently provides chatroom and tailoring
+features. This means that, as of the time of the audit, none of the portals
+was providing a means for registered users to access personalized OHI
+content or interact in real time with so-called health experts. Note that,
+coincidentally, the omissions of ‘chatrooms’ and ‘tailoring’ reﬂect the
+aversions participants expressed in the study.
+
+OHI, respondents nonetheless preferred OHI web portals that in the least
+demonstrate credibility through author trustworthiness, relevance and
+up-to-dateness of the content provided. That is, there is a cautious
+enthusiasm among respondents regarding OHI use. The result also
+demonstrates that even though OHI is not complete substitute for medical doctors, people are gradually becoming empowered in their health
+decisions to the extent of looking for second opinions on physicians’
+recommendations. Further, majority of the respondents also indicated
+that there have been occasions where online health information became
+enough to avoid consulting physicians. These afﬁrm studies by Borzekowski et al. (2006), Nwagwu (2007), Pfeiffer et al. (2014) and Hampshire et al. (2015) who studied different behaviours in online health
+choices among Africans and found that participants showed great interest
+in OHI and indicated that OHI has been reliable and very useful.
+5.3. Least preferred OHI quality criteria
+Beyond the motivation to use OHI and the apparent sophistication in
+user choices, the results in Table 2 also showed that respondents showed
+less preference for certain aspects of OHI use. For instance, signiﬁcant
+majority of the respondents indicated that the most regularly searched
+health issues were “causes and symptoms” of diseases. The other two
+options in the same question enquired whether OHI seekers use the
+internet to communicate with experts online, or complete health questionnaires, to which a few (10.18%) indicated using. This can be interpreted to mean that, most participants showed less preference for online
+health activity that store and process user data. It must be noted that most
+OHI sites capture, process and even share user data with advertising and
+third parties (Reis et al., 2013). In view of this, most study participants
+showed less preference for OHI sites that collect personally identiﬁable
+information. In the order of importance, most respondents least preferred
+the criterion, ‘disclosure’ and ‘interactivity’. Note that, even though the
+criterion, ‘disclosure’ is to prompt OHI users of web portals that collect
+user data, participants just did not like OHI sources that collect user data
+at all. As shown in Table 3, most participants also showed less preference
+for OHI portals that offer a means of interactivity such as chatrooms and
+questionnaires. This is consistent with the aversion on ‘disclosure’ since a
+means of OHI interactivity often lead to user data collection and
+processing.
+
+6. Conclusion
+The quality of online information has been called into question by
+many researchers who believe that the content is often susceptible to
+abuses (Eysenbach & Jadad, 2001; Purcell et al., 2002). Unlike information obtained from traditional media such as books, newspapers, radio
+and television, which often comes with disclaimers, author information,
+year of publication, the publisher and the target audience, online information is often published without these metadata, and therefore are
+highly susceptible to alteration. Given the above challenges, the sensitive
+nature of health information in general, and the growing trend of OHI
+portals, the study sets out to understand how the online health information seeker makes decisions on what constitutes quality information.
+We ﬁnd that, in searching for OHI, the user looks out for author credentials or their afﬁliation to determine the credibility of the OHI portal.
+To assess design quality, the OHI seeker’s closest inclination is to look out
+for an internal search functionality. Similarly, accuracy is the most
+important consideration for determining the quality of OHI content
+published on a web portal. In addition, the OHI user will prefer the
+provision of feedback as a measure of quality interactivity offered on an
+OHI web portal. Lastly, information seekers’ view of quality OHI web
+portal, is also one that gives prior notice to users on collection, use, or
+distribution of users’ data on web portals.
+While Fig. 1 provides the ideal OHI quality characteristic proﬁle that
+guides OHI seekers when accessing OHI, trade-offs were made in the
+decision-making process. This means that, should an OHI web portal for
+some reason not be in a position to provide all of the features in the
+quality characteristic proﬁle, users expect in the least that author
+
+5.4. Audit of OHI platforms
+This section sought to match respondents’ stated preferences to OHI
+features on some health web portals in Ghana. The goal was to ﬁnd out
+whether respondents’ ideal OHI features (see Fig. 1) were currently being
+provided by OHI platforms in Ghana. The OHI quality criteria audit was
+carried out from 2nd March to 3rd October 2018 on two publicly and two
+privately run OHI portals. Table 5 presents the results of the audit where
+Table 5
+Audit of 4 portals against the OHI quality criteria.
+Ghana Health Nest
+http://ghanahealthnest.com/
+
+Credibility
+Source
+Relevance
+Up-to-date
+
+✓
+£
+✓
+
+Content
+Accuracy
+Disclaimer
+
+✓
+✓
+
+Ghana Health Service
+http://www.ghanahealthservice.org/
+
+Source
+Relevance
+Up-to-date
+
+Ghana Health Online
+http://ghhealthonline.com/healthnews/
+
+Ghana Medical Association
+http://ghanamedassoc.org/
+
+Design
+Accessibility
+Navigability
+Internal Search box
+
+✓
+✓
+✓
+
+£
+£
+£
+
+Accuracy
+Disclaimer
+
+Source
+Relevance
+Up-to-date
+
+✓
+✓
+✓
+
+Source
+Relevance
+Up-to-date
+
+✓
+✓
+✓
+
+Disclosure
+Purpose of site
+Proﬁling
+
+✓
+✓
+
+✓
+£
+
+Accessibility
+Navigability
+Internal Search box
+
+Accuracy
+Disclaimer
+
+✓
+✓
+
+Accuracy
+Disclaimer
+
+✓
+£
+
+✓
+✓
+£
+
+Purpose of site
+Proﬁling
+
+Accessibility
+Navigability
+Internal Search box
+
+✓
+✓
+✓
+
+Accessibility
+Navigability
+Internal Search box
+
+✓
+✓
+✓
+
+7
+
+Interactivity
+Chatrooms
+Tailoring
+Mechanism for feedback
+
+£
+£
+✓
+
+£
+£
+
+Chatrooms
+Tailoring
+Mechanism for feedback
+
+£
+£
+£
+
+Purpose of site
+Proﬁling
+
+✓
+✓
+
+Chatrooms
+Tailoring
+Mechanism for feedback
+
+£
+£
+✓
+
+Purpose of site
+Proﬁling
+
+✓
+£
+
+Chatrooms
+Tailoring
+Mechanism for feedback
+
+£
+£
+✓
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+seekers. For instance, the audit suggests that publicly owned OHI web
+portals in Ghana need to improve signiﬁcantly in their provision of OHI.
+Stakeholders in the E-health sector in Ghana must also do more background checks on individuals and organizations behind OHI portals to
+ensure a high level of accuracy and reliability of the content produced. In
+general, the ﬁndings should serve as foundational knowledge for researchers to begin simulating how the digital health consumer responds
+to the varied digital products on offer today, especially those that are
+used outside the supervision of trained medical professionals.
+
+credentials or the afﬁliation are provided. This is a must have quality
+criteria to the OHIS seeker not to be compromised. Similarly, where the
+web portal can only provide two OHI quality criteria, users expect an
+internal search functionality to be added to the provision of author information and in this order for all of the features. The results can also be
+inferred for varied consumer behaviour of sophistication, motivation and
+aversions regarding the use of OHI. Finally, the choices as expressed by
+the study participants were used as criteria to audit four OHI portals in
+Ghana, to ascertain whether OHI features considered as relatively
+important by study participants, were being provided by these portals.
+The study also shows a growing sophistication in the behaviour of the
+online health information seeker especially in a developing economy.
+Though some progress has been made in reducing patient-to- doctor ratios in Ghana, the emergence of several technology affordances such as
+search engines, artiﬁcial intelligence, machine learning and general
+digital healthcare empower the online consumer to be independent or
+knowledgeable to an extent of asking relevant informed questions from
+medical professionals. The danger, however, is how the online health
+consumer, when not aided by health professionals, make decisions that
+are not injurious to their health and well-being. Understanding the
+choices, motivations, sophistication and aversions of the OHI seeker
+should help bring to the attention of health stakeholders, the complexity
+surrounding user decisions of quality online health information.
+Taking this into consideration, the average user would need to be
+supported with accurate information in the decision processes. Additionally, the results should also inform OHI authors, portal developers
+and institutions to tailor their content to suit stated preferences of OHI
+
+Declaration of competing interest
+The authors have no afﬁliation with any organization with a direct or
+indirect ﬁnancial interest in the subject matter discussed in the
+manuscript.
+The following authors have afﬁliations with organizations with direct
+or indirect ﬁnancial interest in the subject matter discussed in the
+manuscript:
+Acknowledgement
+We thank the Queen Elizabeth II Scholarship (QES) program hosted at
+McGill University, Canada, for the research mobility that facilitated the
+preparation of this manuscript. We also thank the University of Ghana
+Business School for the award of the research grant #04160818 that
+provided the needed funding for this research.
+
+Appendix A. Survey questionnaire. The survey questions were largely drawn based on insights from the studies in Fox and Fallows
+(2003); Silver (2015), and Chu et al. (2019)
+This questionnaire has been designed to carry out a research on the above topic for academic purposes. All information provided will be used solely
+and exclusively for academic purposes and would be treated with the necessary conﬁdentiality it deserves. Information provided would be used to make
+sound empirical analysis in order to come out with suitable recommendations that would help improve online health information access in developing
+countries.
+Section A
+Bio-data [select only one unless otherwise indicated].
+1. Gender *
+□ Female
+□ Male
+2. Age
+□ 18-24
+□ 25–34
+□ 35- 44
+□ 45- 54
+□ 55þ
+3. Student-level
+□ Undergraduate
+□ Graduate
+4. How often do you use the internet?
+□ Daily
+□ A few times in a week
+□ A few times in a month
+□ Never use it
+5. Do you use the internet to seek for health information?
+□ Yes
+□ No
+6. Which of the following health issues do you mostly search online? (select only one (the most searched))
+□ Search for causes and symptoms of a disease
+□ Communicate with health expert online
+□ Fill health related questionnaire to ascertain state of illness
+
+8
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+7. Have you ever done a (further) check on the internet regarding what your medical practitioner told you?
+□ Yes
+□ No
+8. What do you do when some online medical information turns contrary to what your medical practitioner advised?
+□ Not sure (undecided)
+□ Go with my physicians’ advice
+□ Go with online recommendation
+9. Has online health information ever been enough to avoid seeing a medical doctor?
+□ Yes
+□ No
+10. Has there ever been an adverse effect resulting from some health information you acted upon from the internet?
+□ Yes
+□ No
+□ Do not remember
+11. Which of the following would you assign as the most important reason for using online health information? (Select only one)
+□ Discomfort in long waiting times to see a doctor
+□ To conﬁrm doctor’s recommendations
+□ To understand the experiences of other patients
+□ To save money in consultation fee at the hospital
+□ To diagnose recurring symptoms
+Section B
+
+Preferences of Online Health Information Quality
+In this section, you will be shown three (3) combinations of perceived online health information quality criteria. In each instance, indicate by ticking
+(✓), which characteristics (choice) would be your best choice when accessing online health information from the internet.
+12. When accessing health information from the internet, which of these features would inform your best choice?
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Source
+Accuracy
+Internal search engine
+Purpose of site
+Chat rooms
+
+Up-to-date
+Accuracy
+Accessibility
+Proﬁling
+Tailoring
+
+Relevance
+Disclaimer
+Accessibility
+Proﬁling
+Mechanism for feedback
+
+13. When accessing health information from the internet, which of these features would inform your best choice?
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Source
+Disclaimer
+Logical organization
+(Navigability)
+Proﬁling
+Chat rooms
+
+Up-to-date
+Accuracy
+Internal search engine
+
+Relevance
+Accuracy
+Internal search engine
+
+Proﬁling
+Chat rooms
+
+Purpose of site
+Tailoring
+
+14. When accessing health information from the internet, which of these features would inform your best choice?
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Credibility
+Content
+Design
+
+Source
+Accuracy
+Accessibility
+
+Relevance
+Disclaimer
+Accessibility
+
+Disclosure
+Interactivity
+
+Purpose of site
+Mechanism for feedback
+
+Up-to-date
+Disclaimer
+Logical organization
+(Navigability)
+Purpose of site
+Tailoring
+
+15. When accessing health information from the internet, which of these features would inform your best choice?
+
+9
+
+Purpose of site
+Chat rooms
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Relevance
+Accuracy
+Logical organization
+(Navigability)
+Proﬁling
+Mechanism for feedback
+
+Up-to-date
+Disclaimer
+Internal search engine
+
+Source
+Disclaimer
+Internal search engine
+
+Purpose of site
+Mechanism for feedback
+
+Proﬁling
+Tailoring
+
+16. When accessing health information from the internet, which of these features would inform your best choice?
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Relevance
+Disclaimer
+Accessibility
+Proﬁling
+Mechanism for feedback
+
+Source
+Accuracy
+Accessibility
+Purpose of site
+Mechanism for feedback
+
+Source
+Accuracy
+Accessibility
+Proﬁling
+Tailoring
+
+17. When accessing health information from the internet, which of these features would inform your best choice?
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Relevance
+Disclaimer
+Accessibility
+Proﬁling
+Mechanism for feedback
+
+Source
+Accuracy
+Accessibility
+Purpose of site
+Mechanism for feedback
+
+Source
+Accuracy
+Accessibility
+Proﬁling
+Tailoring
+
+18. When accessing health information from the internet, which of these features would inform your best choice?
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Credibility
+Content
+Design
+
+Relevance
+Accuracy
+Internal search engine
+
+Up-to-date
+Accuracy
+Internal search engine
+
+Disclosure
+Interactivity
+
+Purpose of site
+Tailoring
+
+Relevance
+Accuracy
+Logical organization
+(Navigability)
+Proﬁling
+Mechanism for feedback
+
+Proﬁling
+Chat rooms
+
+19. When accessing health information from the internet, which of these features would inform your best choice?
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Credibility
+Content
+Design
+
+Relevance
+Disclaimer
+Accessibility
+
+Source
+Accuracy
+Internal search engine
+
+Disclosure
+Interactivity
+
+Purpose of site
+Chat rooms
+
+Proﬁling
+Chat rooms
+
+Up-to-date
+Disclaimer
+Logical organization
+(Navigability)
+Proﬁling
+Tailoring
+
+20. When accessing health information from the internet, which of these features would inform your best choice?
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Credibility
+Content
+Design
+
+Source
+Disclaimer
+Internal search engine
+
+Up-to-date
+Disclaimer
+Internal search engine
+
+Disclosure
+Interactivity
+
+Proﬁling
+Tailoring
+
+Source
+Disclaimer
+Logical organization
+(Navigability)
+Proﬁling
+Chat rooms
+
+10
+
+Purpose of site
+Mechanism for feedback
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+
+21. When accessing health information from the internet, which of these features would inform your best choice?
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Up-to-date
+Accuracy
+Accessibility
+Proﬁling
+Tailoring
+
+Relevance
+Disclaimer
+Accessibility
+Purpose of site
+Chat rooms
+
+Source
+Accuracy
+Accessibility
+Purpose of site
+Mechanism for feedback
+
+22. When accessing health information from the internet, which of these features would inform your best choice?
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Credibility
+Content
+Design
+
+Up-to-date
+Accuracy
+Internal search engine
+
+Source
+Disclaimer
+Internal search engine
+
+Disclosure
+Interactivity
+
+Proﬁling
+Chat rooms
+
+Proﬁling
+Tailoring
+
+Relevance
+Accuracy
+Logical organization
+(Navigability)
+Proﬁling
+Mechanism for feedback
+
+23. When accessing health information from the internet, which of these features would inform your best choice?
+
+Credibility
+Content
+Design
+Disclosure
+Interactivity
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Up-to-date
+Disclaimer
+Logical organization
+(Navigability)
+Purpose of site
+Tailoring
+
+Relevance
+Disclaimer
+Accessibility
+
+Source
+Accuracy
+Internal search engine
+
+Proﬁling
+Mechanism for feedback
+
+Purpose of site
+Chat rooms
+
+24. When accessing health information from the internet, which of these features would inform your best choice?
+
+Choice 1
+
+Choice 2
+
+Choice 3
+
+Credibility
+Content
+Design
+
+Up-to-date
+Disclaimer
+Internal search engine
+
+Relevance
+Accuracy
+Internal search engine
+
+Disclosure
+Interactivity
+
+Purpose of site
+Mechanism for feedback
+
+Purpose of site
+Tailoring
+
+Source
+Disclaimer
+Logical organization
+(Navigability)
+Proﬁling
+Chat rooms
+
+Basch, C. H., Ethan, D., MacLean, S. A., Fera, J., Garcia, P., & Basch, C. E. (2018).
+Readability of prostate cancer information online: A cross-sectional study. American
+Journal of Men’s Health, 12(5), 1665–1669.
+Bell, R. A., Hu, X., Orrange, S. E., & Kravitz, R. L. (2011). Lingering questions and doubts:
+online information-seeking of support forum members following their medical visits.
+Patient education and counseling, 85(3), 525–528.
+Borzekowski, D. L., Fobil, J. N., & Asante, K. O. (2006). Online access by adolescents in
+accra: Ghanaian teens’ use of the internet for health information. Developmental
+Psychology, 42(3), 450.
+Boyer, C., Selby, M., Scherrer, J. R., & Appel, R. D. (1998). The health on the net code of
+conduct for medical and health websites. Computers in Biology and Medicine, 28(5),
+603–610.
+Charnock, D., Shepperd, S., Needham, G., & Gann, R. (1999). Discern: An instrument for
+judging the quality of written consumer health information on treatment choices.
+Journal of Epidemiology & Community Health, 53(2), 105–111.
+Caiata-Zufferey, M., Abraham, A., Sommerhalder, K., & Schulz, P. J. (2010). Online health
+information seeking in the context of the medical consultation in Switzerland.
+Qualitative health research, 20(8), 1050–1061.
+Cotten, S. R., & Gupta, S. S. (2004). Characteristics of online and ofﬂine health
+information seekers and factors that discriminate between them. Social Science &
+Medicine, 59(9), 1795–1806.
+Dutta-Bergman, M. (2003). Trusted online sources of health information: differences in
+demographics, health beliefs, and health-information orientation. Journal of medical
+Internet research, 5(3), Article e21.
+
+References
+Adua, E., Frimpong, K., Li, X., & Wang, W. (2017). “Emerging issues in public health: A
+perspective on Ghana’s healthcare expenditure, policies and outcomes”. The EPMA
+Journal, 8(3), 197–206.
+Ahmed, O. H., Sullivan, S. J., Schneiders, A. G., & McCrory, P. R. (2012). Concussion
+information online: Evaluation of information quality, content and readability of
+concussion-related websites. British Journal of Sports Medicine, 46(9), 675–683.
+Akinc, D., & Vandebroek, M. (2018). Bayesian estimation of mixed logit models: Selecting
+an appropriate prior for the covariance matrix. Journal of choice modelling, 29,
+133–151.
+Alamoudi, U., & Hong, P. (2015). Readability and quality assessment of websites related
+to microtia and aural atresia. International Journal of Pediatric Otorhinolaryngology,
+79(2), 151–156.
+Alnafea, S., Fedele, S., Porter, S., & Riordain, R. N. (2017). Online information on the
+treatment of burning mouth syndrome: Quality and readability. Journal of oral &
+facial pain and headache, 31(2), 147–151.
+Ambre, J., Guard, R., Perveiler, F. M., Renner, J., & Rippen, H. (1997). Criteria for assessing
+the quality of health information on the Internet. Health Information Technology
+Institute, Agency for Health Care Policy and Research.
+Arif, N., & Ghezzi, P. (2018). Quality of online information on breast cancer treatment
+options. The Breast, 37, 6–12.
+
+11
+
+E. Afful-Dadzie, A. Afful-Dadzie
+
+Computers in Human Behavior Reports 3 (2021) 100064
+Oroszlanyova, M., Lopes, C. T., Nunes, S., & Ribeiro, C. (2018). Predicting the quality of
+health web documents using their characteristics. Online Information Review, 42(7).
+Park, C. S. (2004). The robustness of hierarchical Bayes conjoint analysis under
+alternative measurement scales. Journal of Business Research, 57(10), 1092–1097.
+Peterson, G., Aslani, P., & Williams, K. A. (2003). How do consumers search for and
+appraise information on medicines on the internet? A qualitative study using focus
+groups. Journal of Medical Internet Research, 5(4).
+Pfeiffer, C., Kleeb, M., Mbelwa, A., & Ahorlu, C. (2014). The use of social media among
+adolescents in Dar es Salaam and Mtwara, Tanzania. Reproductive Health Matters,
+22(43), 178–186.
+Purcell, G. P., Wilson, P., & Delamothe, T. (2002). The quality of health information on the
+internet: As for any other medium it varies widely; regulation is not the answer. BMJ.
+Raghavarao, D., & James, B. (2010). Wiley, and pallavi chitturi. Choice-based conjoint
+analysis: Models and designs. CRC Press.
+Rao, V. R. (2014). Applied conjoint analysis. New York, NY: Springer.
+Rao, N. R., Mohapatra, M., Mishra, S., & Joshi, A. (2012). Evaluation of dengue-related
+health information on the internet. Perspectives in Health Information Management/
+AHIMA. American Health Information Management Association.
+Redston, S., de Botte, S., & Smith, C. (2018). Resolving embarrassing medical conditions
+with online health information. International Journal of Medical Informatics, 114,
+101–105.
+Reis, S., Visser, A., & Frankel, R. (2013). Health information and communication
+technology in healthcare communication: The good, the bad, and the transformative.
+Patient Education and Counseling, 3(93), 359–362.
+Robins, D., Holmes, J., & Stansbury, M. (2010). Consumer health information on the Web:
+The relationship of visual design and perceptions of credibility. Journal of the
+American Society for Information Science and Technology, 61(1), 13–29.
+Rowley, J., Johnson, F., & Sbafﬁ, L. (2015). “Students’ trust judgements in online health
+information seeking”. Health Informatics Journal, 21(4), 316–327.
+Sbafﬁ, L., & Rowley, J. (2017). Trust and credibility in web-based health information: A
+review and agenda for future research. Journal of Medical Internet Research, 19(6),
+e218.
+Silberg, W. M., Lundberg, G. D., & Musacchio, R. A. (1997). “Assessing, controlling, and
+assuring the quality of medical information on the Internet: Caveant lector et
+viewor—let the reader and viewer beware”. Jama, 277(15), 1244–1245.
+Sillence, E., Briggs, P., Harris, P. R., & Fishwick, L. (2007). How do patients evaluate and
+make use of online health information? Social Science & Medicine, 64(9), 1853–1862.
+Staunton, P. F., Baker, J. F., Green, J., & Devitt, A. (2015). Online curves: A quality
+analysis of scoliosis videos on YouTube. Spine, 40(23), 1857–1861.
+Sun, Y., Zhang, Y., Gwizdka, J., & Trace, C. B. (2019). Consumer evaluation of the quality
+of online health information: systematic literature review of relevant criteria and
+indicators. Journal of medical Internet research, 21(5), Article e12522.
+Surman, R., & Bath, P. A. (2013). An assessment of the quality of information on stroke
+and speech and language difﬁculty web sites. Journal of Information Science, 39(1),
+113–125.
+Taki, S., Campbell, K. J., Russell, C. G., Elliott, R., Laws, R., & Denney-Wilson, E. (2015).
+Infant feeding websites and apps: A systematic assessment of quality and content.
+Interactive journal of medical research, 4(3).
+Tan, S. S. L., & Goonawardene, N. (2017). Internet health information seeking and the
+patient-physician relationship: A systematic review. Journal of Medical Internet
+Research, 19(1).
+Thatcher, A., & Goolam, S. (2005). “Deﬁning the South African internet ‘addict’:
+Prevalence and biographical proﬁling of problematic internet users in South Africa”.
+South African Journal of Psychology, 35(4), 766–792.
+Wang, J., Ashvetiya, T., Quaye, E., Parakh, K., & Martin, S. S. (2018). Online health
+searches and their perceived effects on patients and patient-clinician relationships: A
+systematic review. The American Journal of Medicine, 131(10), 1250-e1.
+Wang, C., & Blei, D. M. (2018). A general method for robust Bayesian modeling. Bayesian
+Analysis, 13(4), 1159–1187.
+Weil, M. M., & Rosen, L. D. (1995). The psychological impact of technology from a global
+perspective: A study of technological sophistication and technophobia in university
+students from twenty-three countries. Computers in Human Behavior, 11(1), 95–133.
+Winker, M. A., Flanagin, A., Chi-Lum, B., White, J., Andrews, K., Kennett, R. L., &
+Musacchio, R. A. (2000). Guidelines for medical and health information sites on the
+internet: Principles governing AMA web sites. Jama, 283(12), 1600–1606.
+Wu, D., & Li, Y. (2016). Online health information seeking behaviors among Chinese
+elderly. Library & Information Science Research, 38(3), 272–279.
+Ye, Z., Gwizdka, J., Lopes, C. T., & Zhang, Y. (2017). Towards understanding consumers’
+quality evaluation of online health information: A case study. Proceedings of the
+Association for Information Science and Technology, 54(1), 838–839.
+Zhang, J., Luo, B., & Cao, F. (2019). The antecedent and consequence of users’ satisfaction
+and dissatisfaction with information seeking in online health communities.
+Proceedings of the Association for Information Science and Technology, 56(1), 836–837.
+Zhang, Y., Sun, Y., & Xie, B. (2015). Quality of health information for consumers on the
+web: A systematic review of indicators, criteria, tools, and evaluation results. Journal
+of the Association for Information Science and Technology, 66(10), 2071–2084.
+
+Eysenbach, G., & Jadad, A. R. (2001). Evidence-based patient choice and consumer health
+informatics in the Internet age. Journal of Medical Internet Research, 3(2).
+Eysenbach, G., Powell, J., Kuss, O., & Sa, E. R. (2002). Empirical studies assessing the
+quality of health information for consumers on the world wide web: A systematic
+review. Jama, 287(20), 2691–2700.
+Fast, A. M., Deibert, C. M., Hruby, G. W., & Glassberg, K. I. (2013). Evaluating the quality
+of Internet health resources in pediatric urology. Journal of Pediatric Urology, 9(2),
+151–156.
+Finney Rutten, L. J., Blake, K. D., Greenberg-Worisek, A. J., Allen, S. V., Moser, R. P., &
+Hesse, B. W. (2019). Online health information seeking among US adults: Measuring
+progress toward a healthy people 2020 objective. Public Health Reports, 134(6),
+617–625.
+Flanagin, A. J., & Metzger, M. J. (2007). The role of site features, user attributes, and
+information veriﬁcation behaviors on the perceived credibility of web-based
+information. New media & society, 9(2), 319–342.
+Fox, S., & Duggan, M. (2013). Health online 2013. Health, 2013, 1–55.
+Gathoni, N. (2012). Enhancing access to health information in Africa: A librarian’s
+perspective. Journal of Health Communication, 17(sup2), 18–22.
+Ghana Health Service (2018) The Health Sector in Ghana Facts and Figures. Accessed on
+26 December 2019 from https://www.ghanahealthservice.org/downloads/FACTSþ
+FIGURES_2017.pdf.
+Gokcen, H. B., & Gumussuyu, G. (2019). A quality analysis of disc herniation videos on
+YouTube. World neurosurgery, 124, e799–e804.
+Hampshire, K., Porter, G., Owusu, S. A., Mariwah, S., Abane, A., Robson, E., & Milner, J.
+(2015). Informal m-health: How are young people using mobile phones to bridge
+healthcare gaps in Sub-Saharan Africa? Social Science & Medicine, 142, 90–99.
+Helm, R., Steiner, M., Scholl, A., & Manthey, L. (2008). A comparative empirical study on
+common methods for measuring preferences. International Journal of Management and
+Decision Making, 9(3), 242–265.
+Hendrick, P. A., Ahmed, O. H., Bankier, S. S., Chan, T. J., Crawford, S. A., Ryder, C. R., &
+Schneiders, A. G. (2012). Acute low back pain information online: An evaluation of
+quality, content accuracy and readability of related websites. Manual Therapy, 17(4),
+318–324.
+Hu, Y., & Shyam Sundar, S. (2010). Effects of online health sources on credibility and
+behavioral intentions. Communication Research, 37(1), 105–132.
+Jadad, A. R., & Gagliardi, A. (1998). Rating health information on the internet:
+Navigating to knowledge or to babel? Jama, 279(8), 611–614.
+Johnson, F. R., Lancsar, E., Marshall, D., Kilambi, V., Mühlbacher, A., Regier, D. A., …
+Bridges, J. F. (2013). Constructing experimental designs for discrete-choice
+experiments: Report of the ISPOR conjoint analysis experimental design good
+research practices task force. Value in Health, 16(1), 3–13.
+Jung, E. H., Walsh-Childers, K., & Kim, H. S. (2016). Factors inﬂuencing the perceived
+credibility of diet-nutrition information web sites. Computers in Human Behavior, 58,
+37–47.
+Kim, P., Eng, T. R., Deering, M. J., & Maxﬁeld, A. (1999). Published criteria for evaluating
+health related web sites. BMJ, 318(7184), 647–649.
+Lederman, R., Fan, H., Smith, S., & Chang, S. (2014). Who can you trust? Credibility
+assessment in online health forums”, Health Policy and Technology, 3(1), 13–25.
+Leira-Feijoo, Y., Ledesma-Ludi, Y., Seoane-Romero, J. M., Blanco-Carri
+on, J., Seoane, J., &
+Varela-Centelles, P. (2015). “Available web-based dental implants information for
+patients. How good is it?”. Clinical Oral Implants Research, 26(11), 1276–1280.
+Lenk, P. J., DeSarbo, W. S., Green, P. E., & Young, M. R. (1996). Hierarchical Bayes
+conjoint analysis: Recovery of partworth heterogeneity from reduced experimental
+designs. Marketing Science, 15(2), 173–191.
+Liu, Y., & Lei, X. (2019). Effect of patient online information searching on the trust in the
+doctor - a cognitive dissonance theory perspective. In 2019 Chinese control and
+decision conference (CCDC) (pp. 4254–4259). IEEE.
+Lopes, C. T., & Ribeiro, C. (2010). Context effect on query formulation and subjective
+relevance in health searches. In Proceedings of the third symposium on Information
+interaction in context (pp. 205–214).
+Lopes, C. T., & Ribeiro, C. (2013). Query behavior: The impact of health literacy, topic
+familiarity and terminology. In International Conference on human Factors in Computing
+and informatics (pp. 212–223). Berlin, Heidelberg: Springer.
+Montgomery, D. C. (2017). Design and analysis of experiments. John wiley & sons.
+Morahan-Martin, J. M. (2004). How internet users ﬁnd, evaluate, and use online health
+information: A cross-cultural review. CyberPsychology and Behavior, 7(5), 497–510.
+Nason, G. J., Tareen, F., & Quinn, F. (2013). Hydrocele on the web: An evaluation of
+internet-based information. Scandinavian journal of urology, 47(2), 152–157.
+Nwagwu, W. E. (2007). The Internet as a source of reproductive health information
+among adolescent girls in an urban city in Nigeria. BMC Public Health, 7(1), 354.
+Omotayo, B. O. (2006). A survey of Internet access and usage among undergraduates in
+an African university. The International Information & Library Review, 38(4), 215–224.
+Orlowski, J. L., Oermann, M. H., & Shaw-Kokot, J. (2013). Evaluation of heart failure
+websites for patient education. Advanced Emergency Nursing Journal, 35(3), 240–246.
+Orme, B. K. (2006). Getting started with conjoint analysis. Madison, WI: Research Publishers
+LLC.
+
+12
+
+

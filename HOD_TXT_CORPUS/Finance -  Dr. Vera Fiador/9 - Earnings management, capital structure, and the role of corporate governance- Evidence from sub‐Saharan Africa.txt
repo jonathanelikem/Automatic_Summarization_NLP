@@ -1,0 +1,3076 @@
+Received: 19 October 2020
+
+Revised: 10 February 2021
+
+Accepted: 15 February 2021
+
+DOI: 10.1002/mde.3324
+
+RESEARCH ARTICLE
+
+Earnings management, capital structure, and the role of
+corporate governance: Evidence from sub-Saharan Africa
+Sarah Anobil Okyere
+
+| Vera Fiador
+
+University of Ghana Business School, Accra,
+Ghana
+Correspondence
+Vera Fiador, PhD, University of Ghana
+Business School, PO Box LG 78, Legon, Accra,
+Ghana.
+Email: vfiador@ug.edu.gh
+
+| Emmanuel Sarpong-Kumankoma
+
+This study investigates the effect of earnings management and corporate governance
+on the capital structure decision of firms. We utilized data of non-financial firms from
+selected sub-Saharan African countries over the period 2008 to 2018. Both fixed and
+random effect regressions were the methods of analysis employed. Our findings indicate that earnings management is associated with low equity usage and by implication, high leverage levels among firms. Importantly, the presence of corporate
+governance was found to mitigate the high leverage implication of earnings management. We therefore recommend an improvement in corporate governance practices
+to minimize the occurrence of earnings management.
+
+1
+
+|
+
+I N T RO DU CT I O N
+
+of debt and equity are able to minimize their cost of capital and
+improve corporate performance. Extant studies posit that organiza-
+
+In the wake of the collapse of high-profile entities such as Enron,
+
+tions are burdened with an increased likelihood of financial distress
+
+WorldCom, Royal Ahold, Parmalat among others, the need for firms'
+
+when they fail to apportion their debt and equity in an optimal man-
+
+reported earnings to depict their economic reality and not merely
+
+ner (An, Li, & Yu, 2016; Mutairi, 2011). The capital structure decision
+
+desired earnings is of much relevance (Amidu & Kuipo, 2015). It is
+
+of firms hinges on cash flows, profitability, earnings volatility, and
+
+believed that the collapse of these organizations stemmed from the
+
+liquidity among other factors (Khémiri & Noubbigh, 2018; Ramli,
+
+absence of quality and reliable financial information required for their
+
+Latan, & Solovida, 2019). This is indicative of the fact that an entity's
+
+smooth running (Idialu, 2008; Jiraporn, Miller, Yoon, & Kim, 2008). In
+
+capital structure decision is influenced by its reported financial infor-
+
+essence, the scandal surrounding these entities can be regarded as
+
+mation. Therefore, it is crucial for financial statements to report the
+
+the aftermath of the doctoring or manipulation of their financial state-
+
+underlying economic performance since altering or manipulating
+
+ments. According to Shen, Luo, and Huang (2015), the practice of
+
+financial reports would adversely affect the optimality of capital struc-
+
+using innovative ways within the confines of the financial reporting
+
+ture decisions.
+
+framework to characterize or report assets, incomes, and liabilities in a
+
+Owing to the suboptimal implication earnings management pre-
+
+way that misleads stakeholders about the actual performance of the
+
+sents on capital structure decision, efforts have been targeted at
+
+entity is referred to as earnings management. Depending on the target
+
+attenuating the practice of earnings management among entities.
+
+to be achieved, management manipulates or misrepresents reported
+
+Some studies argue that monitoring mechanisms could check oppor-
+
+financials through, but not limited to, the deferment or untimely rec-
+
+tunistic behavior of management. These mechanisms would therefore
+
+ognition of transactions to influence earnings (Nwaobia, Kwarbai, &
+
+control the practice of earning management and enhance the quality
+
+Fregene, 2019). The practice of earnings management therefore fails
+
+of financial information (Agyekum, Aboagye-Otchere, & Bedi, 2014;
+
+to give a true reflection of firms' performance thereby compromising
+
+Elghuweel, Ntim, Opong, & Avison, 2017; Fiador, 2013; Lawal,
+
+on the capacity of financial reports in serving as a guide to optimal
+
+Nwanji, Oye, & Adama, 2018). According to Elghuweel, Ntim, Opong,
+
+corporate decisions (Amidu, Coffie, & Acquah, 2019; McNichols &
+
+and Avison (2017) and Fiador (2013), good corporate governance sys-
+
+Stubben, 2008).
+
+tems ensure that management is held accountable for their (in)actions
+
+The financing decision of firms, also referred to as capital struc-
+
+that translates into quality financial reporting. Since financial data feed
+
+ture decision, is generally concerned with the optimal debt-equity mix
+
+into capital structure decisions, credible financial data will foster the
+
+(Hackbarth, 2008). Organizations that achieve the optimal proportions
+
+making of sound financing decisions.
+
+Manage Decis Econ. 2021;1–14.
+
+wileyonlinelibrary.com/journal/mde
+
+© 2021 John Wiley & Sons, Ltd.
+
+1
+
+2
+
+OKYERE ET AL.
+
+Although earnings management presents significant implications
+on corporate decisions, to date, there exists little evidence addressing
+
+2.2 | Earnings management and capital structure
+decision
+
+its effect on the financing decisions of firms. More so, there is a lack
+of studies particularly on developing economies where the practice is
+
+Although studies have argued that earnings management presents
+
+believed to be more pervasive (He, Ng, Zaiats, & Zhang, 2017). This
+
+implications on the capital structure decisions of organizations, there
+
+study is therefore a response to the call by earlier studies for more
+
+exists scanty evidence on the issue. Carter (2013) assessed the nexus
+
+research works on earnings management and the corporate finance
+
+between capital structure, earnings management, and Sarbanes–Oxley
+
+decisions of firms (McNichols & Stubben, 2008). Moreover, the role of
+
+recommendations of firms. They found that firms that had heavily
+
+corporate governance in the earnings management–corporate finance
+
+managed their earnings prior to the promulgation of Sarbanes–Oxley
+
+decision relationship is a gray area as prior studies have neglected
+
+used less debt afterwards while firms that had slightly managed their
+
+corporate governance, which is a key mitigating factor in earnings
+
+earnings prior to the Sarbanes–Oxley maintained more debt after-
+
+management practice (Elghuweel, Ntim, Opong, & Avison, 2017;
+
+wards. Similarly, An, Li, and Yu (2016) assessed the effect of earnings
+
+Fiador, 2013). The study therefore aims to address these problems by,
+
+management on capital structure decision and how institutional
+
+first, investigating the effect of earnings management on capital
+
+environments influence the relationship existing between the two
+
+structure decision and, second, investigating the interactive effect of
+
+variables. The results from their regression reveal the existence of a
+
+earnings management and corporate governance on the capital
+
+significant, positive relationship between earnings management and
+
+structure decision of firms.
+
+leverage for firms used in the study. This implies that organizations
+with increasing earnings management record high financial leverage
+levels. It could be argued that firms managing their earnings do so to
+
+2
+
+LITERATURE REVIEW
+
+|
+
+make their books attractive to secure funds from lenders. Notably,
+their findings also revealed that the positive effect of earnings
+
+2.1
+
+|
+
+Theoretical motivation
+
+management on financing decision is mitigated in the presence of
+strong institutional environments. Ajay and Madhumathi (2015)
+
+The separation of ownership from control may give rise to conflict of
+
+postulate that earnings management has a positive and significant
+
+interest between managers and shareholders. This conflict, also
+
+effect on the capital structure of firms. This indicates that as the
+
+known as the agency conflict, is usually fueled by disparities in the
+
+manipulation of earnings increases, firms tend to use higher levels of
+
+goals of the manager and shareholder. The existence of agency con-
+
+leverage. Tahir, Sabir, and Ali (2011) found corroborating evidence of
+
+flicts has been employed to elucidate why managers occasionally
+
+a positive and significant relationship between earnings management
+
+come to a decision that is not in support of shareholders' interests
+
+and capital structure of firms. Similarly, Dang et al. (2018) documented
+
+(Booth & Schulz, 2004; Harrell & Harrisson, 1994). Scott (2003),
+
+that organizations with higher earnings management have larger
+
+explains that in light of the misalignment of the incentives of share-
+
+corporate leverage ratios, and this positive effect is less pronounced
+
+holders and managers whose responsibility is to act on behalf of the
+
+in countries with stronger institutional environments. Thus, the few
+
+principal, managers tend to use the authority given them for their
+
+studies that have investigated this issue provide evidence that
+
+own benefit to maximize their wealth. Hence, managers act in an
+
+earnings management leads to high corporate debt levels.
+
+opportunistic manner to satisfy their interests. Earnings management
+therefore provides a tool that managers utilize to push their opportunistic agenda. In essence, the severity of the agency conflicts incentivize managers to indulge in earnings management activities to satisfy
+
+2.3 | Corporate governance and capital structure
+decision
+
+their individual interest (Bartov, Gul, & Tsui, 2000). By indulging in
+earnings management, the economic reality of firms is distorted, and
+
+Owing to the crucial function of corporate governance mechanisms in
+
+this facilitates the making of suboptimal capital structure decisions.
+
+monitoring managers and ensuring smooth operation of organizations,
+
+To avoid the occurrence of such opportunistic behavior and cur-
+
+a wealth of works have investigated the effect of corporate gover-
+
+tail agency conflicts so as to safeguard the interest of shareholders,
+
+nance on the resource allocation or internal decisions of organizations.
+
+the institution of monitoring mechanisms for firms is crucial (Jensen &
+
+Wen, Rwegasira, and Bilderbeek (2002) assessed the nexus between
+
+Meckling, 1976). These monitoring mechanisms place checks on the
+
+corporate governance and capital structure decision, particularly by
+
+behavior of managers that ensures that they act with the focus of
+
+employing characteristics of the board. Their findings revealed a nega-
+
+maximizing the wealth of shareholders. This would augment share-
+
+tive effect of corporate governance on firms' leverage decisions. Thus,
+
+holders' wealth and the corporate performance of organizations.
+
+suggesting that managers of organizations with stronger corporate
+
+Essentially, corporate governance structures, which present a system
+
+governance, with respect to the board composition and CEO tenure,
+
+of practices, rules, and processes used to manage and direct the
+
+tend to utilize less financial leverage in running the firm. This implies
+
+affairs of organizations, contribute greatly in monitoring the activities
+
+that a larger portion of independent or external directors on the board
+
+of management to minimize opportunism and foster effective corpo-
+
+translates into management taking on less risk by reducing financial
+
+rate decisions (Huang, Louwers, Moffitt, & Zhang, 2008).
+
+leverage or debt financing. Hence, independent directors on the board
+
+3
+
+OKYERE ET AL.
+
+provide more rigorous monitoring that discourages management from
+
+hamper the adoption of earnings management by entities thereby
+
+using higher debt levels to avoid additional risks associated with high
+
+leading to more transparent and reliable financial reporting. Waweru
+
+leverage. Hasan and Butt (2009) also investigated the impact of cor-
+
+and Riro (2013) postulate that organizations with a larger proportion
+
+porate governance on the financing decision of entities. Their results
+
+of independent directors are less likely to partake in earnings manage-
+
+revealed that managerial shareholding and the size of boards have a
+
+ment compared with firms having fewer independent directors. They
+
+negative and significant effect on the financing decisions of firms
+
+posit that external or nonexecutive directors are able to effectively
+
+whereas an insignificant relationship was obtained with regard to the
+
+scrutinize the undertakings of management and therefore ensure
+
+duality of CEO and the proportion of independent directors. This find-
+
+quality reporting by the firm. Similarly, Mansor, Che-Ahmad, Ahmad-
+
+ing implies that corporate governance indicators, namely, managerial
+
+Zaluki, and Osman (2013) indicate that board independence, non-
+
+shareholding and board size, play important roles in determining the
+
+duality of CEO, and other auditing indicators were the mechanisms
+
+debt to equity mix of firms. Particularly, managers of firms with larger
+
+found to decrease earnings management adoption among firms.
+
+board sizes would take up less debt, and firms with more managerial
+
+Orazalin (2020) posits that earnings management is effectively con-
+
+shareholding or concentrated ownership also tend to pursue less debt
+
+strained by firms with a greater board gender diversity and larger
+
+financing.
+
+board size. El Diri, Lambrinoudakis, and Alhadab (2020) provide evi-
+
+Bokpin and Arko (2009) also provide insights pertaining to the
+
+dence that corporate governance, particularly, quality board charac-
+
+effect of corporate governance on the financing decisions of listed
+
+teristics, is effective in attenuating the practice of earnings
+
+firms. The results from their regression analysis suggest that both the
+
+management.
+
+size of the board and managerial share ownership are positively and
+
+In contrast, Klein (2002) found a significant and positive nexus
+
+significantly related with the long-term capital structure decision of
+
+between earnings management and board independence. This indi-
+
+organizations. Nonetheless, the proportion of independent directors
+
+cates that the rise in the proportion of independent members on the
+
+and CEO duality variables were found to be insignificantly related
+
+board amounts to an increase in earnings management. Rahman and
+
+with the financing decisions of firms. This implies that the use of debt
+
+Mohamed-Ali (2006) suggest that board size has a significant and pos-
+
+financing increases with the size of the board and managerial owner-
+
+itive effect on earnings management. This implies that as the board
+
+ship. Similarly, Liao, Mukherjee, and Wang (2015) document that high
+
+gets larger, inefficiencies in the oversight function is increased
+
+levels of leverage is associated with firms having better corporate
+
+thereby causing an increase in earnings management and vice versa.
+
+governance systems. These systems include a greater representation
+
+This finding is supported by Agyekum, Aboagye-Otchere, and
+
+of independent and non-executive directors, the separation of the
+
+Bedi (2014), who argue that board size presents a positive effect on
+
+CEO, and chairperson roles along with a larger institutional holding.
+
+earnings management. Thus, firms with larger boards are ineffective in
+
+Also, Agyei and Owusu (2017) posit that the size and composition of
+
+their monitoring role and consequently tend to partake more in earn-
+
+boards have significant and positive implications on the leverage
+
+ings management activities.
+
+levels of firms. Bokpin and Arko (2009) expound that corporate gover-
+
+Extant studies have also documented insignificant effects of cor-
+
+nance, with regard to board size, has a positive and significant effect
+
+porate governance on earnings management. Lawal et al. (2018)
+
+on firm leverage. This implies that directors of firms with relatively
+
+reveal that audit independence as well as board independence has no
+
+larger boards opt for debt over equity in their financing decisions.
+
+bearing on the earnings management activities of firms. This finding is
+
+Sheikh and Wang (2012) also found supporting evidence that external
+
+corroborated by Rahman and Mohamed-Ali (2006) who found that
+
+directors, board size, and ownership concentration are positively
+
+both audit committee independence and board independence have an
+
+related with firm debt levels. Altogether, the literature presents mixed
+
+insignificant effect on earnings management. The insignificant rela-
+
+results on the effect of corporate governance on capital structure
+
+tionship obtained is attributed to the ineffectiveness of the board in
+
+decisions.
+
+carrying out their monitoring role such that management tends to be
+dominant over the affairs of the board. Jamaludin, Sanusi, and
+Kamaluddin (2015) also document an insignificant relationship
+
+2.4 | Corporate governance and earnings
+management
+
+between the independence of directors and corporate earnings management. The literature therefore presents varying conclusions given
+the disparities in the effectiveness of corporate governance systems
+
+Some studies have investigated the effect of corporate governance
+on
+
+earnings
+
+management.
+
+Agyekum,
+
+Aboagye-Otchere,
+
+across firms.
+
+and
+
+Bedi (2014) found that the independence of directors presents negative implications on earnings management. Hence, independent direc-
+
+3
+
+EMP I RICAL D ES IGN
+
+|
+
+tors help in minimizing the prevalence of earnings management
+practices among entities. Bekiris and Doukakis (2011) also document
+
+3.1
+
+|
+
+Empirical model
+
+a significant and negative relationship between a multidimensional
+corporate governance index and earnings management. Thus, their
+
+For the purpose of achieving the objectives of this research, which
+
+finding supports the argument that corporate governance helps to
+
+are to investigate the effect of earnings management on capital
+
+4
+
+OKYERE ET AL.
+
+First, the Jones model discretionary accrual is estimated for the
+
+structure decision and to examine the interactive effect of earnings
+management and corporate governance on capital structure decision,
+
+entities using the model below.
+
+regression models are employed. The Hausman test was used to
+
+
+
+determine whether the fixed effect model or random effect model
+
+TAit = β0 + β1
+
+1
+
+
+
+Ait−1
+
+was appropriate for each regression. In line with Schepens (2016), the
+
++ β2 ΔSALESit + β3 PPEit + εit
+
+ð3Þ
+
+current study employed an equity ratio computed as total equity of
+the organization divided by total assets to proxy capital structure
+
+where TA is the total accruals calculated by subtracting operating cash
+
+decision. This study adapts a panel regression model from An, Li, and
+
+flows from net income; A represents total assets; ΔSALES represents
+
+Yu (2016). The general model employed is presented below:
+
+the change in sales; PPE represents property plant and equipment;
+i symbolizes the ith firm; and t denotes time t. The residual obtained
+
+CAPSTDit = β0 + β1 EMit +
+
+n
+X
+
+βj CGjit +
+
+j=2
+
+n
+X
+
+βj Xjit +
+
+j=5
+
+n
+X
+
+βj Yjt + εit
+
+ð1Þ
+
+j=8
+
+from Equation (3) is the Jones discretionary accruals. Second, the
+model is augmented by including the performance measure return on
+assets (ROA).
+
+where CAPSTD represents capital structure decision; EM refers to earn-
+
+
+
+ings management; CG represents the vector of corporate governance
+
+TAit = α0 + α1
+
+variables, namely, board size, composition of the board, gender diversity
+
+1
+
+Ait −1
+
+
++ α2 ΔSALESit + α3 PPEit + α4 ROAit + νit
+
+ð4Þ
+
+of the board, and CEO duality; X represents a vector of control variables
+namely, firm size, firm age, and operating cash flow; Y represents a
+
+ROA represents the ratio of net income divided by assets. In order to
+
+vector of country-specific control factors, namely, GDP per capita and
+
+check for heteroscedasticity, the variables are scaled by prior year
+
+inflation proxied by consumer price index; i represents the ith firm;
+
+total assets. The residual obtained from Equation (4) represents the
+
+t represents time t; n represents the number of control variables; and ε
+
+matched firm's Jones discretionary accrual. The performance-matched
+
+is the error term, which is decomposed as shown below:
+
+Jones discretionary accrual is estimated by subtracting the Matched
+firm's Jones discretionary accrual obtained in Equation (4) from the
+
+εit = αi + μt + νit
+
+Jones discretionary accrual obtained in Equation (3). Since the
+performance-matched Jones discretionary accruals are regression
+
+where α denotes the country fixed effect, μ depicts the time fixed
+
+residuals, it is expected they have an average of zero. Larger values
+
+effect, and ν symbolizes the random component, which is presumed
+
+indicate high earnings management of firms while smaller values
+
+to be independent and identically distributed.
+
+depict low earnings management of firms.
+
+To analyze the interactive effect of earnings management and
+
+The performance-matched discretionary accruals obtained from
+
+corporate governance on capital structure decision, an interaction
+
+the models above are used to proxy the earnings management vari-
+
+term of earnings management and corporate governance is incorpo-
+
+able employed in this research.
+
+rated into the model as shown below:
+n
+X
+CAPSTDit = β0 + β1 EMit + β2 CGit + β3 ðEMit  CGit Þ +
+βj Xjit
+j=4
+n
+X
++
+βj Yjt + εit
+
+ð2Þ
+
+j=7
+
+3.3
+
+|
+
+Corporate governance variables
+
+The study employs the widely used proxies for corporate governance,
+namely, board size, composition of the board, gender diversity
+of
+
+the
+
+board,
+
+and
+
+CEO
+
+duality
+
+(Bokpin,
+
+2011;
+
+Fiador
+
+&
+
+Sarpong-kumankoma, 2021; Pucheta-Martınez & Bel-oms, 2016). The
+
+3.2
+
+|
+
+Earnings-management measure
+
+board size represents the number of board members at each reporting
+date while the board composition depicts the blend of non-executive
+
+The literature presents various ways for detecting and measuring
+
+and executive directors. The non-executive directors are the board
+
+earnings management among organizations. Particularly, the discre-
+
+members who are inactively engaged in running the entity on a daily
+
+tionary accruals and discretionary revenue models have proven to be
+
+basis whereas the executive directors see to the effective running of
+
+suitable for measuring earnings management of non-financial organi-
+
+the organization. The board composition variable is estimated by the
+
+zations while financial firms have been argued to manage their earn-
+
+number of non-executive directors divided by the total number of
+
+ings through discretionary loan loss provisions. Since non-financial
+
+board members. The board gender diversity variable depicts the
+
+firms are under investigation in this research, the discretionary
+
+female representation on the boards and is measured by the portion
+
+accruals method is employed. Specifically, the Kothari, Leone, and
+
+of female directors divided by the size of the board. CEO duality, cap-
+
+Wasley (2005) performance-matched discretionary accruals method is
+
+tured by a dummy variable, also indicates if an individual plays both
+
+utilized by the study. The models for estimating the earnings manage-
+
+roles of CEO and board chair. In this case, a value of 1 is assumed and
+
+ment variable using the performance-matched discretionary accrual
+
+0 otherwise, that is, where separate individuals fill the position of
+
+method are specified below.
+
+CEO and board chair.
+
+5
+
+OKYERE ET AL.
+
+3.4
+
+Control variables
+
+|
+
+variables under investigation in this study. The results presented in
+this chapter exclude the CEO duality corporate governance variable.
+
+The study employed some firm-specific and country-specific macro-
+
+The variable was dropped because the value 0 that depicts that the
+
+economic variables that have been argued to influence the capital
+
+CEOs were separate from the Chairman of the board was recorded
+
+structure decision of firms from the literature (Huang, Boateng, &
+
+for majority of the observations; thus, incorporating this variable
+
+Newman,
+
+would not yield meaningful results.
+
+2016;
+
+Kieschnick
+
+&
+
+Moussawi,
+
+2018;
+
+Mallisa
+
+&
+
+Kusuma, 2017; M'ng, Rahman, & Sannacy, 2017). Among the firmspecific control variables are firm size, computed as the natural logarithm of total assets, firm age, computed as the firms' number of
+
+5.1
+
+|
+
+Descriptive statistics
+
+years in operation since incorporation and operating cash flow
+which is a line item found in the statement of cash flows of the
+
+Table 2 presents the descriptive statistics of all the variables per-
+
+firms. The macroeconomic controls employed were GDP per capita,
+
+taining to the sample incorporated in this research. The sample covers
+
+computed by dividing the gross domestic product by total popula-
+
+62 non-financial firms in selected sub-Saharan African regions from
+
+tion of the countries that the sampled firms operate in and inflation,
+
+the year 2008 to 2018. The mean, standard deviation, and number of
+
+measured using the consumer price index of the country in which
+
+firm-year observations are reported.
+
+the firm operates.
+
+Capital Structure Decision variable, measured by an equity ratio,
+has a mean of approximately 37%. This implies that the total assets of
+firms are financed using approximately 37% of equity thereby indicat-
+
+4
+
+|
+
+D A T A A N D SA M P L E
+
+ing that the firms finance a greater part of their assets using other
+financing options such as debt. Earnings management that was cap-
+
+The study sampled listed non-financial firms in selected sub-Saharan
+
+tured by the performance-matched discretionary accruals of firms
+
+African countries over an 11-year period from 2008 to 2018. Specifi-
+
+reported an average of 0, which was expected since they are residuals
+
+cally, the sample includes non-financial firms listed on the stock
+
+from a regression. Maximum and minimum values of approximately
+
+exchange of Ghana, Kenya, Botswana, Nigeria, Uganda, and Namibia.
+
+13% and −19%, respectively, were obtained. This implies that overall,
+
+The data were obtained solely from secondary sources; hence, infor-
+
+the firms show evidence of engaging in both upward and downward
+
+mation on earnings management, capital structure decision, corporate
+
+earnings management.
+
+governance variables, and the firm specific control variables were sou-
+
+For the corporate governance indicators, the board size variable
+
+rced from public annual reports, organizational websites, and stock
+
+has a mean of 8.36 implying that on average approximately eight
+
+exchange databases. Data on the country specific macro-economic
+
+directors make up the board of the firms sampled. Board composition
+
+control variables employed in this research were sourced from the
+
+also has a mean of approximately 66% suggesting that on average,
+
+World Development Indicators (WDI) Database. Table 1 presents the
+
+more than half of the boards consisted of non-executive directors.
+
+specific number of non-financial firms from the six sub-Saharan Afri-
+
+Board gender diversity also recorded a mean of approximately 0.15
+
+can countries employed in this research.
+
+indicating that on average, 15% of the directors on the board were
+female.
+The mean score for firm age suggests that on average, the firms
+
+5
+
+|
+
+EMPIRICAL RESULTS
+
+sampled have been in operation over a 40-year period. The mean
+score for firm size is 10.76 with a standard deviation of 1.63. The
+
+This section presents a discussion of the findings of the research. The
+
+mean score of 53% obtained for the operating cash flow variable sug-
+
+subsections that make up this chapter include the descriptive statis-
+
+gests that firms generate approximately 53% operating cash flow from
+
+tics, diagnostic results, and the regression results with regard to the
+
+their total assets. The mean score of 131% for inflation, measured by
+consumer price index, indicates that the firms sampled are operating
+in countries with high levels of inflation. Finally, the GDP per capita
+
+TABLE 1
+
+variable also recorded a mean of approximately 3373. This implies
+Sample size of listed firms
+
+that on average, each citizen has a share of $3373 of the
+nations' GDP.
+
+Country
+
+Non-financial firms
+
+Ghana
+
+11
+
+The descriptive statistics of leverage variables for the firms sam-
+
+Kenya
+
+16
+
+pled in the study were also investigated to provide some insights with
+
+Botswana
+
+16
+
+regard to the debt levels of firms. The findings are presented in
+
+Nigeria
+
+10
+
+Uganda
+
+3
+
+Namibia
+
+6
+
+Total
+
+62
+
+Table 3.
+The mean of 0.608 obtained for total debt indicates that on
+average, approximately 61% of debt is utilized in financing the
+assets of firms. This depicts that the firms sampled are highly
+levered since their capital structure is composed of a greater
+
+6
+
+OKYERE ET AL.
+
+Obs
+
+Capital Structure Decision
+
+599
+
+0.365
+
+0.307
+
+−0.433
+
+0.989
+
+Earnings Management
+
+489
+
+0
+
+0.039
+
+−0.188
+
+0.128
+
+Board Size
+
+487
+
+8.359
+
+2.723
+
+3
+
+24
+
+Board Composition
+
+485
+
+0.655
+
+0.179
+
+0
+
+1
+
+Board Gender Diversity
+
+485
+
+0.148
+
+0.143
+
+0
+
+0.667
+
+Firm Age
+
+599
+
+40.13
+
+24.64
+
+1
+
+99
+
+Firm Size
+
+599
+
+10.76
+
+1.634
+
+4.127
+
+15.574
+
+Operating Cash Flow
+
+555
+
+0.530
+
+0.420
+
+0
+
+252.28
+
+Consumer Price Index
+
+600
+
+130.93
+
+33.64
+
+75.75
+
+255.10
+
+GDP per Capita
+
+600
+
+3372.53
+
+109.56
+
+587.95
+
+8031.01
+
+TABLE 3
+
+Mean
+
+Std. Dev.
+
+Min
+
+T A B L E 2 Descriptive summary
+statistics of variables
+
+Variables
+
+5.2
+
+Descriptive statistics of leverage variables
+
+Variables
+
+Obs
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+Short-term debt
+
+553
+
+0.447
+
+0.422
+
+0
+
+3.560
+
+Long-term debt
+
+553
+
+0.161
+
+0.238
+
+0
+
+1.555
+
+Total debt
+
+553
+
+0.608
+
+0.577
+
+0
+
+4.723
+
+Max
+
+|
+
+Hausman test
+
+The Hausman test was employed to determine if the fixed effect
+model or the random effect model was appropriate for the
+regression analysis. The findings from the test indicated that the
+fixed effect model was appropriate for the model investigating
+earnings management and capital structure decision as well as
+models 1 and 2 for investigating the interactive effect of earnings
+
+proportion of debt. This is corroborated by the mean obtained for
+
+management
+
+the equity variable used in the study. Further, the descriptive statis-
+
+decision. The random effect model, on the other hand, was found
+
+and
+
+corporate
+
+governance
+
+on
+
+capital
+
+structure
+
+tics reveal a mean of 0.447 for short-term debt and a mean of
+
+to be appropriate for model 3 of the regression involving the inter-
+
+0.161 for long-term debt. This implies that on average, short-term
+
+action of earnings management and corporate governance on capital
+
+financing comprises approximately 45% of firms' total debt whereas
+
+structure decision.
+
+long-term financing contributes 16% to total debt. It can therefore
+be inferred that short-term debt presents a larger source of financing to firms sampled in the region.
+The trend of earnings management across the firms sampled in
+
+5.3 | Earnings management and capital structure
+decision
+
+the sub-Saharan African region was also assessed and presented in
+Figure 1.
+
+The empirical results obtained for the effect of earnings management
+
+Overall, the practice of both upward and downward earnings
+management by firms are observed in the region. The analysis
+
+on the capital structure decision of the entities sampled are presented
+below (Table 4).
+
+reveals that the adoption of upward earnings management occurred
+
+Earnings management was discovered to be negative and
+
+from the periods 2009 to 2013 and later in 2015 with a peak
+
+significantly related to capital structure decision at a 5% significance
+
+recorded in 2010. Although upward earnings management activities
+
+level. This indicates that earnings management negatively affects the
+
+were reported over this period, the rate seemed to be diminishing.
+
+level of adoption of equity financing which is used to proxy capital
+
+In 2014 and from the periods 2016 to 2018, it is observed that the
+
+structure decision. In other words, the practice of earnings manage-
+
+firms in the region were found practicing downward earnings
+
+ment leads to the decreased usage of equity financing by the non-
+
+management. Extant studies posit that in periods of economic
+
+financial firms thereby indicating that firms managing their earnings
+
+stress, the practice of upward or income-increasing earnings
+
+tend to use more debt in financing their business activities. This find-
+
+management
+
+&
+
+ing is corroborated by An, Li, and Yu (2016), who also found that enti-
+
+Goodacre, 2011; Charitou, Lambertides, & Trigeorgis, 2007; Filip &
+
+ties with an increased adoption of the earnings management are
+
+Raffournier, 2014). This is because such periods are associated with
+
+usually associated with higher levels of debt financing. Similarly, the
+
+lower earnings, and in an attempt to avoid devaluation in stocks,
+
+finding is supported by Carter (2013) who found that firms that man-
+
+firms are more likely to resort to earnings management to cover-up
+
+age their earnings had higher levels of leverage prior to the implemen-
+
+is
+
+more
+
+pervasive
+
+(Ahmad-Zaluki,
+
+Campbell,
+
+decreasing performance. Thus, it is evident that in the periods
+
+tation of the Sarbanes–Oxley, which subsequently controlled the
+
+where the sub-Saharan African region experienced economic stress
+
+practice of earnings management by firms. Since debt is a cheaper
+
+due to activities such as general elections, oil shocks coupled with
+
+means of financing the firms' activities compared to equity, the nega-
+
+the global financial crisis that took a toll on the economy, an
+
+tive relationship obtained with regard to capital structure decision
+
+upward trend of earnings management was observed.
+
+points to a possibility of firms using the cheaper version of external
+
+7
+
+OKYERE ET AL.
+
+F I G U R E 1 Trend of earnings management
+from 2008 to 2018
+
+TABLE 4
+
+Earnings management and capital structure decision
+
+the firm level decreases thereby indicating a rise in the use of debt
+
+Variables
+
+Capital structure decision
+
+financing. This finding could be explained by the fact that as inflation
+
+Earnings Management
+
+−0.038** (0.018)
+
+rises in the economy, it has the tendency to lower the real value of
+
+Board Size
+
+0.008 (0.018)
+
+Board Composition
+
+0.143 (0.546)
+
+Board Gender Diversity
+
+0.067 (0.384)
+
+Firm Size
+
+0.051*** (0.008)
+
+Firm Age
+
+0.321 (0.271)
+
+Operating Cash Flow
+
+0.004 (0.005)
+
+Consumer Price Index
+
+−0.885*** (0.277)
+
+GDP per Capita
+Constant
+Observations
+R2
+
+debt thereby making debt financing attractive to businesses. This
+would therefore result in high corporate leverage levels. GDP per
+capita was also identified to be significant and positively related to
+capital structure decision. This suggests that as GDP per capita
+increases, firms' profitability improves leading to the use of more
+equity financing since entities are better positioned to finance their
+activities organically.
+
+0.069* (0.040)
+9.854*** (2.332)
+327
+
+5.4 | Earnings management, corporate governance,
+and capital structure decisions
+
+0.535
+
+Note: Robust standard errors in parentheses.
+*p < 0.1. **p < 0.05. ***p < 0.01.
+
+The regression results on the interactive effect of earnings management and corporate governance on capital structure decision are presented in Table 5. Since the study incorporates three corporate
+governance indicators, three models are generated, where model (1) is
+
+capital as their earnings management activities increase. In essence,
+
+with respect to the board size variable, model (2) with respect to
+
+earnings management leads to excessive risk taking for listed firms
+
+board composition and model (3) with respect to the board gender
+
+due to the potential of debt overhang, financial distress, and bank-
+
+diversity variable.
+
+ruptcy resulting from the use of excessive leverage (Shen, Luo, &
+Huang, 2015; Wang & Lin, 2013).
+
+The interaction of earnings management and board size as
+exhibited in model (1) is positive and significantly related with capital
+
+With regard to the corporate governance indicators, the study
+
+structure decision at a 5% significance level. It can therefore be seen
+
+found that although all three indicators, namely, board size, board
+
+that the previously negative relationship between earnings manage-
+
+composition, and board gender diversity, had a positive effect on capi-
+
+ment and capital structure decision obtained in the earlier analysis is
+
+tal structure decision, this effect was insignificant, thus suggesting
+
+transformed into a positive relationship when earnings management is
+
+that the corporate governance indicators had no bearing on the capi-
+
+interacted with the board size variable. Thus, the interaction of earn-
+
+tal structure decision of firms. From the findings, it also appears that
+
+ings management and board size reshapes the negative nexus
+
+bigger firms are in a position to attract more equity capital compared
+
+between earnings management and capital structure decision thereby
+
+to firms that are smaller in size. This is evidenced by the positive and
+
+resulting in a positive effect on the capital structure decision of firms.
+
+significant relationship obtained between firm size and capital struc-
+
+This indicates that firms with larger boards are less likely to partake in
+
+ture decision. Firm age and Operating cash flow, however, were found
+
+earnings management (Khalil & Ozkan, 2016; Orazalin, 2020; Thinh &
+
+to have an insignificant effect on capital structure decision. The con-
+
+Tan, 2019). This implies that a larger board minimizes the effect of
+
+sumer price index variable that was used to proxy inflation was
+
+earnings management which results in the use of higher levels of debt
+
+detected to be negatively associated with capital structure decision.
+
+financing by firms. This causes firms to increase their usage of equity
+
+This suggests that as inflation increases, the use of equity financing at
+
+financing and decrease their debt levels. This could be attributable to
+
+8
+
+OKYERE ET AL.
+
+TABLE 5
+
+Interactive effect on capital structure decision
+
+Variables
+
+(1)
+
+(2)
+
+Earnings Management
+
+−0.194** (0.0780)
+
+Board Size
+
+0.0942** (0.0396)
+
+Board Composition
+
+(3)
+
+−0.1775* (0.0818)
+
+0.8370 (0.6136)
+−0.356 (0.406)
+
+Board Gender Diversity
+Earnings Mgmt * Board Size
+
+−4.621* (2.327)
+
+0.0197** (0.00875)
+
+Earnings Mgmt * Board Composition
+
+0.2241* (0.1176)
+
+Earnings Mgmt * Board G Diversity
+
+13.53** (6.181)
+
+Firm Age
+
+0.209 (0.310)
+
+0.1837 (0.2892)
+
+1.015 (1.543)
+
+Firm Size
+
+1.024*** (0.131)
+
+1.0381*** (0.1230)
+
+0.0445*** (0.00906)
+
+Operating Cash Flow
+
+0.0345 (0.0269)
+
+0.0471* (0.0261)
+
+0.00473 (0.00447)
+
+Consumer Price Index
+
+−1.310*** (0.461)
+
+−1.2275*** (0.4249)
+
+−0.849*** (0.281)
+
+GDP per Capita
+
+−0.844 (0.929)
+
+−1.5612* (0.7960)
+
+0.162 (0.242)
+
+Constant
+
+12.53 (9.791)
+
+15.0900** (6.7941)
+
+8.789** (3.589)
+
+Observations
+R2
+
+303
+
+327
+
+327
+
+0.595
+
+0.6018
+
+0.536
+
+Note: Robust standard errors in parentheses. Interactions: Board Size (1), Board Composition (2), and Board Gender Diversity (3).
+*p < 0.1. **p < 0.05. ***p < 0.01.
+
+the fact that a sizable board offers a larger pool of skilled and experi-
+
+be the case because females are believed to be more risk averse and
+
+enced directors who are able to effectively manage and control the
+
+hence female representation on boards will go a long way to ensure
+
+undertakings of management and improve its decisions as a result
+
+that less risky or conservative financing options such as equity financ-
+
+(Peasnell, Pope, & Young, 2005).
+
+ing are employed in financing business activities. Thus, ensuring that
+
+With reference to the interactive effect of the earnings manage-
+
+the reputation of the organization is protected from the event where
+
+ment and board composition on capital structure decision, a positive
+
+excessive debts cannot be paid (Adusei & Obeng, 2019; Dowling &
+
+relationship significant at a 10% significance level was obtained as
+
+Aribi, 2013; Orazalin, 2020; Pucheta-Martınez & Bel-oms, 2016).
+
+observed in model (2). This implies that the interaction of earnings
+
+Overall, it is evident that the presence of corporate governance con-
+
+management and board composition transforms the negative effect of
+
+trols the effects of earnings management which subsequently results
+
+earnings management on capital structure decision obtained in the
+
+in firms making improved capital structure decisions.
+
+previous analysis into a positive one. Particularly, this finding suggests
+that in the presence of a larger number of non-executive directors on
+boards of firms, the negative effect of earnings management on the
+capital structure decision is reshaped into a positive one. Therefore,
+
+5.5 | Earnings management and capital structure
+decisions (based on sectors)
+
+the presence of non-executive directors helps to enforce stringent
+and effective supervision of management activities so the business is
+
+The study also analyzed the results based on the various sectors of
+
+carried out in the best interest of shareholders through the making of
+
+the sample firms. Based on the study's data, the firms sampled were
+
+better capital structure decisions (El Diri, Lambrinoudakis, &
+
+grouped under seven sectors namely oil and gas, consumer goods,
+
+Alhadab, 2020).
+
+consumer services, residential, mining, information technology, and
+
+The interaction of earnings management and board gender diver-
+
+agriculture. The mining, information technology, and agriculture sec-
+
+sity also yielded a positive effect which was significant at a 5% signifi-
+
+tors were excluded since they had insufficient observations to per-
+
+cance level shown in model (3). Similarly, the interaction of earnings
+
+form the analysis. The oil and gas sector basically comprise firms
+
+management and board gender diversity alters the previously negative
+
+dealing in oil and petroleum, industrial gas, energy, and other chemical
+
+relationship between earnings management and the capital structure
+
+production. Firms in the production and processing of goods such as
+
+decisions of the non-financial firms. This suggests that the more the
+
+beverages, cocoa, cement, cables, food and drugs, automobiles, furni-
+
+female representation on the board increases, the more equity financ-
+
+ture, paint, and paper were categorized under the consumer goods
+
+ing is employed in financing the activities of the firm thereby implying
+
+sector. The consumer services sector is made up of firms offering
+
+that lower levels of debt financing are used in running the business.
+
+investment advisory, tourism, leisure, arts and hospitality, rental and
+
+This indicates that female directors are effective in curbing the prac-
+
+property management and other professional services. Finally, the res-
+
+tice of earnings management since they bring a stricter perspective to
+
+idential sector consists of firms involved in real estate development
+
+governance (Ye, Deng, Liu, Szewczyk, & Chen, 2019). Again, this could
+
+and building construction. Thus, the results based on the four
+
+9
+
+OKYERE ET AL.
+
+remaining sectors, that is, oil and gas (1), consumer goods (2),
+
+residential sectors were found to increase their usage of equity
+
+consumer services (3), and residential (4) are presented below.
+
+financing. Further, the increase in operating cash flow of firms in the
+
+It is observed from Table 6 that earnings management has a nega-
+
+oil and gas sector was found to lead to an increase in equity financing
+
+tive effect on the capital structure decision of firms operating in the
+
+levels whereas a decrease in the use of equity financing was obtained
+
+oil and gas sector and consumer goods sector. This negative effect
+
+in the residential sector. Inflation was also found to lead to lower
+
+however, was found to be significant only in the oil and gas sector.
+
+equity use in the oil and gas sector while GDP per capita was found to
+
+This implies that the practice of earnings management results in the
+
+have no bearing on the capital structure decision of firms in the vari-
+
+use of less equity and by implication more leverage to finance the
+
+ous sectors.
+
+activities of firms operating in the oil and gas sector. On the other
+hand, earnings management was found to have a significant and positive effect on the capital structure decision of firms belonging to the
+residential sector. This implies that firms operating in the residential
+
+5.6 | Earnings management, corporate governance,
+and capital structure decisions (based on sectors)
+
+sector tend to use more equity financing as their earnings management practice increases. It can therefore be inferred that the overall
+
+The results were further analyzed to assess the interactive effect of
+
+negative effect of earnings management on capital structure decision
+
+earnings management and corporate governance on capital structure
+
+obtained in the previous analysis is largely driven by firms operating in
+
+decision of firms with respect to the sectors in which they operate.
+
+the oil and gas sector. According to Sadiq (2015), the practice of earn-
+
+Thus, results were presented based on the three corporate gover-
+
+ings management is usually dominant among firms in the oil and gas
+
+nance variables employed namely board size, board composition, and
+
+sector and that could explain the significant effect of earnings man-
+
+board gender diversity.
+
+agement obtained in this sector.
+
+From the results presented in Table 7, it is observed that the
+
+For the corporate governance indicators, board composition was
+
+interaction of earnings management and board size presented a signif-
+
+found to have a positive and significant relationship with the capital
+
+icant and positive implication on capital structure decision. This effect
+
+structure decision of firms operating in the oil and gas sector, thereby
+
+was recorded in the consumer goods and residential sectors. From the
+
+suggesting that as the presence of non-executive directors increase
+
+previous analysis however, earnings management was found to have
+
+on the board, the use of equity financing increases as a result. Board
+
+a negative effect on capital structure decision in the consumer goods
+
+gender diversity was found to have a negative and significant effect
+
+sector and a positive and significant effect in the residential sector.
+
+on capital structure decision in the consumer services sector. This
+
+This implies that the adverse effect of earnings management on capi-
+
+implies that the increase in the female representation on boards leads
+
+tal structure decision in the consumer goods sector is mitigated in the
+
+to the decreased use of equity financing among firms in the consumer
+
+presence of a larger board. Thus, firms operating in the consumer
+
+services sector.
+
+goods sector who possess larger boards are more effective in control-
+
+With regard to the control variables employed, it was found that
+
+ling the practice of earnings management which consequently
+
+larger firms operating in the oil and gas, consumer goods, and con-
+
+improves their capital structure decision. In contrast, the presence of
+
+sumer services sectors tend to increase their use of equity financing.
+
+larger boards was found to reinforce the effect of earnings manage-
+
+Additionally, older firms belonging to the oil and gas as well as
+
+ment on capital structure decision for firms in the residential sector.
+
+TABLE 6
+
+Earnings management and capital structure decision (based on sectors)
+
+Variables
+
+(1)
+
+Earnings Management
+
+(2)
+
+(3)
+
+(4)
+
+−0.056*** (0.014)
+
+−0.039 (0.029)
+
+0.022 (0.015)
+
+0.274** (0.057)
+
+Board Size
+
+−0.032 (0.018)
+
+−0.010 (0.028)
+
+−0.009 (0.017)
+
+0.110 (0.054)
+
+Board Composition
+
+1.023*** (0.279)
+
+−0.706 (0.726)
+
+0.028 (0.393)
+
+0.601 (0.667)
+
+0.055 (0.485)
+
+−0.361 (0.762)
+
+−1.121** (0.396)
+
+−0.410 (0.885)
+
+Firm Size
+
+0.064*** (0.015)
+
+0.047*** (0.012)
+
+0.059*** (0.009)
+
+−0.030 (0.035)
+
+Firm Age
+
+2.615*** (0.222)
+
+0.640 (0.841)
+
+−0.059 (0.331)
+
+1.545*** (0.183)
+
+Board Gender Diversity
+
+Operating Cash Flow
+
+0.006*** (0.002)
+
+0.001 (0.008)
+
+0.012 (0.008)
+
+−0.112*** (0.004)
+
+Consumer Price Index
+
+−0.722*** (0.203)
+
+−0.510 (0.475)
+
+−0.478 (0.439)
+
+0.828 (0.627)
+
+GDP per Capita
+
+−0.036 (0.223)
+
+0.249 (0.296)
+
+0.497 (0.318)
+
+0.385 (0.288)
+
+Constant
+
+0.966 (2.930)
+
+6.079 (5.656)
+
+1.603 (7.212)
+
+0.404 (7.418)
+
+Observations
+R2
+
+60
+
+145
+
+75
+
+25
+
+0.883
+
+0.389
+
+0.923
+
+0.970
+
+Note: Robust standard errors in parentheses. Sectors: Oil & Gas (1), Consumer Goods (2), Consumer Services (3), Residential (4).
+*p < 0.1. **p < 0.05. ***p < 0.01.
+
+10
+
+OKYERE ET AL.
+
+TABLE 7
+
+Interactive effect of earnings management and board size on capital structure decision (based on sectors)
+
+Variables
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Earnings Management
+
+−0.000 (0.151)
+
+−0.478*** (0.106)
+
+0.027 (0.031)
+
+−1.321*** (0.132)
+
+Board Size
+
+−0.083 (0.065)
+
+0.214*** (0.061)
+
+0.008 (0.043)
+
+1.266*** (0.093)
+
+Earnings Mgmt * Board Size
+
+−0.007 (0.019)
+
+0.051*** (0.012)
+
+−0.001 (0.005)
+
+0.241*** (0.018)
+
+Firm Size
+
+0.883*** (0.226)
+
+1.257*** (0.249)
+
+0.813*** (0.200)
+
+0.563* (0.202)
+
+Firm Age
+
+2.045** (0.687)
+
+0.438 (0.689)
+
+0.223 (0.336)
+
+1.918*** (0.248)
+
+Operating Cash Flow
+
+0.012 (0.041)
+
+0.010 (0.042)
+
+0.062** (0.028)
+
+−0.573*** (0.026)
+
+Consumer Price Index
+
+−0.556 (0.755)
+
+−0.807 (0.785)
+
+−0.226 (0.904)
+
+7.464*** (0.100)
+
+GDP per Capita
+
+0.153 (0.140)
+
+−0.066 (0.153)
+
+−0.120 (0.112)
+
+0.549*** (0.026)
+
+23.697* (12.404)
+
+3.715 (17.097)
+
+−45.305* (25.721)
+
+−135.805*** (8.870)
+
+Constant
+Observations
+R
+
+2
+
+58
+
+137
+
+64
+
+22
+
+0.870
+
+0.461
+
+0.945
+
+0.999
+
+Note: Robust standard errors in parentheses. Sectors: Oil & Gas (1), Consumer Goods (2), Consumer Services (3), Residential (4).
+*p < 0.1. **p < 0.05. ***p < 0.01.
+
+TABLE 8
+
+Interactive effect of earnings management, board composition and capital structure decision (based to sectors)
+
+Variables
+
+(1)
+
+(2)
+
+(3)
+
+−0.262* (0.135)
+
+(4)
+
+Earnings Management
+
+−0.148 (0.085)
+
+−0.200 (0.162)
+
+Board Composition
+
+1.371* (0.637)
+
+1.180 (1.144)
+
+0.596 (0.926)
+
+−2.019 (1.254)
+
+Earnings Mgmt * Board Composition
+
+0.158 (0.150)
+
+0.400* (0.210)
+
+0.302 (0.217)
+
+−0.485** (0.140)
+
+Firm Size
+
+0.878*** (0.158)
+
+1.128*** (0.251)
+
+0.909*** (0.136)
+
+0.327 (0.350)
+
+Firm Age
+
+1.262 (1.215)
+
+1.049 (0.755)
+
+1.053** (0.462)
+
+0.251 (0.261)
+
+0.412** (0.089)
+
+Operating Cash Flow
+
+0.038 (0.035)
+
+0.030 (0.044)
+
+0.059 (0.037)
+
+−0.186** (0.044)
+
+Consumer Price Index
+
+−0.188 (0.230)
+
+−0.276 (0.332)
+
+0.534 (0.660)
+
+1.520** (0.420)
+
+GDP per Capita
+Constant
+
+0.000 (0.000)
+
+0.000** (0.000)
+
+0.000*** (0.000)
+
+0.000 (0.000)
+
+−4.488*** (1.348)
+
+−6.291** (2.739)
+
+−7.585** (2.670)
+
+1.034 (4.384)
+
+Observations
+R2
+
+60
+
+145
+
+75
+
+25
+
+0.848
+
+0.380
+
+0.846
+
+0.867
+
+Note: Robust standard errors in parentheses. Sectors: Oil & Gas (1), Consumer Goods (2), Consumer Services (3), Residential (4).
+*p < 0.1. **p < 0.05. ***p < 0.01.
+
+TABLE 9
+
+Earnings management, board gender diversity, and capital structure decision (based to sectors)
+
+Variables
+Earnings Management
+
+(1)
+
+(2)
+−3.523 (3.240)
+
+(3)
+
+(4)
+
+−7.261** (2.980)
+
+2.104 (1.940)
+
+15.732 (13.612)
+
+Board Diversity
+
+−0.051 (0.265)
+
+−1.048 (0.873)
+
+−1.031** (0.450)
+
+2.208*** (0.169)
+
+Earnings Mgmt * Board Diversity
+
+−31.314 (18.333)
+
+28.081** (10.765)
+
+−0.782 (4.179)
+
+−89.747 (41.727)
+
+Firm Size
+
+0.052*** (0.011)
+
+0.043*** (0.011)
+
+0.058*** (0.009)
+
+0.056*** (0.006)
+
+Firm Age
+
+16.025*** (0.671)
+
+2.603 (3.264)
+
+−0.014 (1.470)
+
+−0.637 (0.739)
+
+Operating Cash Flow
+
+0.007*** (0.002)
+
+0.001 (0.008)
+
+0.014* (0.008)
+
+−0.074 (0.034)
+
+Consumer Price Index
+
+−0.147 (0.141)
+
+−0.561 (0.458)
+
+−0.505 (0.421)
+
+0.580** (0.161)
+
+0.040 (0.141)
+
+0.260 (0.269)
+
+0.477 (0.306)
+
+0.329 (0.218)
+
+−16.205*** (1.310)
+
+4.608 (6.683)
+
+1.709 (7.352)
+
+0.732 (2.758)
+
+GDP per Capita
+Constant
+Observations
+R2
+
+60
+
+145
+
+75
+
+25
+
+0.827
+
+0.390
+
+0.923
+
+0.902
+
+Note: Robust standard errors in parentheses. Sectors: Oil & Gas (1), Consumer Goods (2), Consumer Services (3), Residential (4).
+*p < 0.1. **p < 0.05. ***p < 0.01.
+
+11
+
+OKYERE ET AL.
+
+Therefore, firms operating in the residential sector with larger boards
+
+improved to minimize the occurrence of earnings management. This
+
+are less effective in controlling the practice of earnings management
+
+would help to facilitate the making of more optimal capital structure
+
+and improving capital structure decision.
+
+decisions.
+
+With regard to the findings on the interaction of earnings management and board composition presented in Table 8, a positive
+
+DATA AVAILABILITY STAT EMEN T
+
+and significant interactive effect is recorded in the consumer goods
+
+The data that support the findings of this study are available in organi-
+
+sector whereas a negative and significant interactive effect is
+
+zational annual reports, websites, stock exchange databases, and the
+
+obtained in the residential sector. This implies that in the presence
+
+world development indicators database that are available in the public
+
+of a greater proportion of non-executive directors on the board, the
+
+domain.
+
+previous negative effect of earnings management in the consumer
+goods sector is transformed into a positive one. Likewise, the previous positive effect of earnings management in the residential sector
+is transformed into a negative effect in the presence of a larger proportion of non-executive directors on the boards. Thus, the increase
+of non-executive directors on the boards of firms in the consumer
+goods and residential sectors is able to mitigate the adoption of
+earnings management and improve the capital structure decision of
+firms.
+Finally, the interaction of earnings management and board gender
+diversity as presented in Table 9 was found to have a positive and significant effect in the consumer goods sector. This indicates that a
+larger representation of female directors on the boards of firms in the
+consumer goods sector mitigates the practices of earnings management. This as a result transforms the previous negative effect of earnings management on capital structure decision into a positive effect
+thereby improving the capital structure decision of firms in the consumer goods sector.
+
+6
+
+|
+
+C O N CL U S I O N
+
+The study set out to examine the effect of earnings management on
+the capital structure decision of non-financial listed organizations
+from selected sub-Saharan African countries. It also sought to ascertain whether corporate governance, specifically the board size, board
+composition, and board gender diversity indicators, play any mitigating or reinforcing role as far as the effect of earnings management on
+capital structure decision is concerned.
+First, the study found that the practice of earnings management
+leads to the use of less equity financing by firms and more debt
+financing thereby increasing the potential for debt overhang and
+financial distress. Second, in the presence of corporate governance
+however, the research found that the adverse effect of earnings
+management on the capital structure decisions is transformed into a
+positive one. Particularly, the high leverage implication of earnings
+management on capital structure decision is mitigated such that the
+use of equity financing increases. The analysis of the results based
+on the various sectors also revealed that the high leverage implication is more evident in the oil and gas sector. The findings therefore
+present policy implications. Since the adverse effect of earnings
+management on capital structure decision is attenuated by fully
+operational or increasing corporate governance mechanisms, the
+study recommends that corporate governance practices should be
+
+RE FE RE NCE S
+Adusei, M., & Obeng, E. Y. (2019). Board gender diversity and the capital
+structure of microfinance institutions: A global analysis. The Quarterly
+Review of Economics and Finance, 71, 258–269. https://doi.org/10.
+1016/j.qref.2018.09.006
+Agyei, A., & Owusu, A. R. (2017). The effect of ownership structure and
+corporate governance on capital structure of ghanaian listed
+manufacturing companies. International Journal of Academic Research in
+Accounting, Finance and Management Sciences, 4(1), 109–118.
+Agyekum, A. A. B., Aboagye-Otchere, F., & Bedi, I. (2014). Earnings management and corporate governance: The Ghanaian experience. International Journal of Management Practice, 7(4), 309–323. https://doi.
+org/10.1504/IJMP.2014.065229
+Ahmad-Zaluki, N. A., Campbell, K., & Goodacre, A. (2011). Earnings management in Malaysian IPOs: The East Asian crisis, ownership control,
+and post-IPO performance. The International Journal of Accounting, 46,
+111–137. https://doi.org/10.1016/j.intacc.2011.04.001
+Ajay, R., & Madhumathi, R. (2015). Do corporate diversification and earnings management practices affect capital structure ? An empirical analysis. Journal of Indian Business Research, 7(4), 360–378. https://doi.
+org/10.1108/JIBR-01-2015-0008
+Amidu, M., Coffie, W., & Acquah, P. (2019). Transfer pricing, earnings management and tax avoidance of firms in Ghana. Journal of Financial
+Crime, 26(1), 235–259. https://doi.org/10.1108/JFC-10-2017-0091
+Amidu, M., & Kuipo, R. (2015). Earnings management, funding and diversification strategies of banks in Africa. Accounting Research Journal, 28
+(2), 172–194. https://doi.org/10.1108/ARJ-07-2013-0045
+An, Z., Li, D., & Yu, J. (2016). Earnings management, capital structure, and
+the role of institutional environments. Journal of Banking and Finance,
+68, 131–152. https://doi.org/10.1016/j.jbankfin.2016.02.007
+Bartov, E., Gul, F., & Tsui, J. (2000). Discretionary-accruals model and audit
+qualifications. Journal of Accounting and Economics, 30(3), 243–460.
+Bekiris, F. V., & Doukakis, L. C. (2011). Corporate governance and accruals
+earnings management. Managerial and Decision Economics, 32(1),
+439–456.
+Bokpin, G. A. (2011). Ownership structure, corporate governance and dividend performance on the Ghana Stock Exchange. Journal of Applied
+Accounting Research, 12(1), 61–73. https://doi.org/10.1108/
+09675421111130612
+Bokpin, G. A., & Arko, A. C. (2009). Ownership structure, corporate governance and capital structure decisions of firms: Empirical evidence from
+Ghana. Studies in Economics and Finance, 26(4), 246–256. https://doi.
+org/10.1108/10867370910995708
+Booth, P., & Schulz, A. K. D. (2004). The impact of an ethical environment
+on managers' project evaluation judgement under agency problem
+conditions. Accounting, Organizations and Society, 29, 473–488.
+https://doi.org/10.1016/S0361-3682(03)00012-6
+Carter, K. E. (2013). Capital structure, earnings management, and
+Sarbanes-Oxley: Evidence from Canadian and U.S. firms. Accounting
+Horizons, 27(2), 301–318. https://doi.org/10.2308/acch-50434
+Charitou, A., Lambertides, N., & Trigeorgis, L. (2007). Earnings behaviour
+of financially distressed firms: The role of institutional ownership.
+
+12
+
+Abacus, 43, 271–296. https://doi.org/10.1111/j.1467-6281.2007.
+00230.x
+Dang, T. L., Dang, M., Le, P. D., Nguyen, H. N., Nguyen, M. N., & Henry, D.
+(2018). Does earnings management matter for firm leverage? An international analysis. Asia-Pacific Journal of Accounting & Economics, 25,
+1–25. https://doi.org/10.1080/16081625.2018.1540938
+Dowling, M., & Aribi, Z. A. (2013). Female directors and UK company
+acquisitiveness. International Review of Financial Analysis, 29, 79–86.
+https://doi.org/10.1016/j.irfa.2013.04.004
+El Diri, M., Lambrinoudakis, C., & Alhadab, M. (2020). Corporate governance and earnings management in concentrated markets. Journal of
+Business Research, 108, 291–306.Retrieved from. https://doi.org/10.
+1016/j.jbusres.2019.11.013
+Elghuweel, M. I., Ntim, C. G., Opong, K. K., & Avison, L. (2017). Corporate
+governance, Islamic governance and earnings management in Oman:
+New empirical insights from a behavioural theoretical framework. Journal of Accounting in Emerging Economies, 7(2), 190–224. https://doi.
+org/10.1108/JAEE-09-2015-0064
+Fiador, V. (2013). Corporate governance and value relevance of financial
+information: Evidence from the Ghana Stock Exchange. Corporate Governance
+(Bingley), 13(2), 208–217. https://doi.org/10.1108/
+14720701311316689
+Fiador, V., & Sarpong-kumankoma, E. (2021). Does corporate governance
+explain the quality of bank loan portfolios ? Evidence from an emerging economy. Journal of Financial Economic Policy, 13(1), 31–44.
+https://doi.org/10.1108/JFEP-06-2019-0130
+Filip, A., & Raffournier, B. (2014). The impact of the 2008–2009 financial
+crisis on earnings management: The European evidence. The International Journal of Accounting, 49(4), 455–478. https://doi.org/10.1016/
+j.intacc.2014.10.004
+Hackbarth, D. (2008). Managerial traits and capital structure decisions.
+Journal of Financial and Quantitative Analysis, 43(4), 843–882. https://
+doi.org/10.1017/S002210900001437X
+Harrell, A., & Harrisson, P. D. (1994). An incentive to shirk, privately held
+information, and managers' project evaluation decisions. Accounting,
+Organizations and Society, 19, 569–577. https://doi.org/10.1016/
+0361-3682(94)90024-8
+Hasan, A., & Butt, S. A. (2009). Impact of ownership structure and corporate governance on capital structure of Pakistani listed companies.
+International Journal of Business and Management, 4(2), 1–8.
+He, W., Ng, L., Zaiats, N., & Zhang, B. (2017). Dividend policy and earnings
+management across countries. Journal of Corporate Finance, 42,
+267–286.Retrieved from. https://doi.org/10.1016/j.jcorpfin.2016.
+11.014
+Huang, P., Louwers, T. J., Moffitt, J. S., & Zhang, Y. (2008). Ethical management, corporate governance, and abnormal accruals. Journal of
+Business Ethics, 83(3), 469–487. https://doi.org/10.1007/s10551007-9632-9
+Huang, W., Boateng, A., & Newman, A. (2016). Capital structure of Chinese
+listed SMEs: An agency theory perspective. Small Business Economics,
+47(2), 535–550. https://doi.org/10.1007/s11187-016-9729-6
+Idialu. (2008). Depreciation practices of quoted companies in Nigeria. The
+Nigerian Accountant, 41(3), 30–56.
+Jamaludin, D. N., Sanusi, M. Z., & Kamaluddin, A. (2015). Board structure
+and earnings management in Malaysian government linked companies.
+Procedia Economics and Finance, 28(1), 235–242. https://doi.org/10.
+1016/S2212-5671(15)01105-3
+Jensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial
+behaviour, agency costs and ownership structure. Journal of Financial
+Economics, 3(4), 305–306. https://doi.org/10.1016/0304-405X(76)
+90026-X
+Jiraporn, P., Miller, G. A., Yoon, S. S., & Kim, Y. S. (2008). Is earnings management opportunistic or beneficial? An agency theory perspective.
+International Review of Financial Analysis, 17(3), 622–634. https://doi.
+org/10.1016/j.irfa.2006.10.005
+
+OKYERE ET AL.
+
+Khalil, M., & Ozkan, A. (2016). Board independence, audit quality and
+earnings management: Evidence from Egypt. Journal of Emerging
+Market
+Finance,
+15(1),
+84–118.
+https://doi.org/10.1177/
+0972652715623701
+Khémiri, W., & Noubbigh, H. (2018). Determinants of capital structure:
+Evidence from sub-Saharan African firms. The Quarterly Review of Economics and Finance, 70, 150–159. https://doi.org/10.1016/j.qref.
+2018.04.010
+Kieschnick, R., & Moussawi, R. (2018). Firm age, corporate governance and
+capital structure choices. Journal of Corporate Finance, 48, 597–614.
+https://doi.org/10.1016/j.jcorpfin.2017.12.011
+Klein, A. (2002). Audit committee, board of director characteristics and
+earnings management. Journal of Accounting and Economics, 33(1),
+375–400. https://doi.org/10.1016/S0165-4101(02)00059-9
+Kothari, S. P., Leone, A. J., & Wasley, C. E. (2005). Performance matched
+discretionary accrual measures. Journal of Accounting and Economics,
+39(1), 163–197. https://doi.org/10.1016/j.jacceco.2004.11.002
+Lawal, A., Nwanji, T., Oye, O., & Adama, I. (2018). Can corporate governance mechanisms deter earnings management? Evidence from firms
+listed on the Nigerian Stock Exchange. Aestimatio, The IEB International
+Journal of Finance, 17, 220–233.
+Liao, L. K., Mukherjee, T., & Wang, W. (2015). Corporate governance and
+capital structure dynamics: An empirical study. The Journal of Financial
+Research, 38(2), 169–191.
+Mallisa, M., & Kusuma, H. (2017). Capital structure determinants and firms'
+performance: Empirical evidence from Thailand, Indonesia and Malaysia. Polish Journal of Management Studies, 16, 154–164.
+Mansor, N., Che-Ahmad, A., Ahmad-Zaluki, N., & Osman, A. (2013). Corporate governance and earnings management: A study on the
+Malaysian family and non-family owned PLCs. Procedia Economics
+and Finance, 7(1), 221–229. https://doi.org/10.1016/S2212-5671
+(13)00238-4
+McNichols, M. F., & Stubben, S. R. (2008). Does earnings management
+affect firms' investment decisions? Accounting Review, 83(6),
+1571–1603. https://doi.org/10.2308/accr.2008.83.6.1571
+M'ng, J. C. P., Rahman, M., & Sannacy, S. (2017). The determinants of capital structure: Evidence from public listed companies in Malaysia, Singapore and Thailand. Cogent Economics & Finance, 5(1), 1418609.
+https://doi.org/10.1080/23322039.2017.1418609
+Mutairi, M. A. (2011). Corporate finance decisions, governance, environmental concerns and performance in emerging markets: The case
+study of Kuwait.
+Nwaobia, A. N., Kwarbai, J. D., & Fregene, O. O. (2019). Earnings management and corporate survival of listed manufacturing companies in
+Nigeria. International Journal of Development and Sustainability, 8(2),
+97–115.
+Orazalin, N. (2020). Board gender diversity, corporate governance, and
+earnings management: Evidence from an emerging market. Gender in
+Management: An International Journal, 35(1), 37–60.
+Peasnell, K. V., Pope, P. F., & Young, S. (2005). Board monitoring and earnings management: Do outside directors influence abnormal accruals?
+Journal of Business Finance & Accounting, 32(7/8), 1311–1346. https://
+doi.org/10.1111/j.0306-686X.2005.00630.x
+Pucheta-Martınez, M. C., & Bel-oms, I. (2016). The board of directors and
+dividend policy: The effect of gender diversity. Industrial and Corporate
+Change, 25(3), 523–547. https://doi.org/10.1093/icc/dtv040
+Rahman, R. A., & Mohamed-Ali, F. H. (2006). Board, audit committee, culture and earnings management: Malaysian evidence. Managerial
+Auditing
+Journal,
+21(7),
+783–804.
+https://doi.org/10.1108/
+02686900610680549
+Ramli, N. A., Latan, H., & Solovida, G. T. (2019). Determinants of capital
+structure and firm financial performance—A PLS-SEM approach: Evidence from Malaysia and Indonesia. The Quarterly Review of Economics
+and Finance, 71, 148–160. https://doi.org/10.1016/j.qref.2018.
+07.001
+
+13
+
+OKYERE ET AL.
+
+Sadiq, K. (2015). Earnings management of publicly listed companies in Nigeria. 789 East Eisenhower Parkway, USA: University of Northern British
+Columbia.
+Schepens, G. (2016). Taxes and bank capital structure. Journal of Financial
+Economics, 120(3), 585–600. https://doi.org/10.1016/j.jfineco.2016.
+01.015
+Scott, W. R. (2003). Institutional carriers: Reviewing modes of transporting
+ideas over time and space and considering their consequences. Industrial and Corporate Change, 12(4), 879–894. https://doi.org/10.1093/
+icc/12.4.879
+Sheikh, N. A., & Wang, Z. (2012). Effects of corporate governance on capital structure: Empirical evidence from Pakistan. Corporate Governance,
+12(5), 629–641. https://doi.org/10.1108/14720701211275569
+Shen, C. H., Luo, F., & Huang, D. (2015). Analysis of earnings management
+influence on the investment efficiency of listed Chinese companies.
+Journal of Empirical Finance, 34, 60–78. https://doi.org/10.1016/j.
+jempfin.2015.08.003
+Tahir, S. H., Sabir, H. M., & Ali, S. Z. (2011). Impact of earnings management on capital structure of non-financial companies listed on (KSE)
+Pakistan. Global Business and Management Research: An International
+Journal, 3(1), 96–105.
+Thinh, T., & Tan, N. (2019). Corporate governance factors impact on the
+earnings management—Evidence on listed companies in Ho Chi Minh
+stock exchange. Studies in Computational Intelligence, 809, 719–725.
+
+Wang, H., & Lin, C. (2013). Debt financing and earnings management: An
+internal capital market perspective. Journal of Business Finance &
+Accounting, 48(7–8), 842–868.
+Waweru, N. M., & Riro, G. K. (2013). Corporate governance, firm characteristics and earnings management in an emerging economy. Journal of
+Applied Management Accounting Research, 11(1), 43–64.
+Wen, Y., Rwegasira, K., & Bilderbeek, J. (2002). Corporate governance and
+capital structure decisions of the Chinese listed firms. Corporate Governance, 10(2), 75–83. https://doi.org/10.1111/1467-8683.00271
+Ye, D., Deng, J., Liu, Y., Szewczyk, S. H., & Chen, X. (2019). Does board
+gender diversity increase dividend payouts ? Analysis of global evidence. Journal of Corporate Finance, 58, 1–26. https://doi.org/10.
+1016/j.jcorpfin.2019.04.002
+
+How to cite this article: Okyere SA, Fiador V, SarpongKumankoma E. Earnings management, capital structure, and
+the role of corporate governance: Evidence from sub-Saharan
+Africa. Manage Decis Econ. 2021;1–14. https://doi.org/10.
+1002/mde.3324
+
+APP E NDIX A. HAUSMAN TEST
+
+T A B L E A 1 Hausman test for
+earnings management and capital
+structure decision
+
+(b)
+
+(B)
+
+(b − B)
+
+sqrt (diag(V_b − V_B))
+
+fe
+
+re
+
+Difference
+
+S.E.
+
+Earnings Management
+
+−0.0327807
+
+−0.0383283
+
+0.0055476
+
+0.0028429
+
+Board Size
+
+0.0169776
+
+0.0080477
+
+0.0089299
+
+0.005225
+
+Board Composition
+
+0.0981452
+
+0.143149
+
+−0.0450038
+
+0.0846914
+
+Board Diversity
+
+−0.0829062
+
+0.0671884
+
+−0.1500946
+
+0.1125098
+
+Firm Size
+
+0.0443098
+
+0.0507804
+
+−0.0064705
+
+0.0042746
+
+Firm Age
+
+0.3145473
+
+0.3213751
+
+−0.0068279
+
+0.1548237
+
+Operating Cash Flow
+
+0.0053352
+
+0.0039138
+
+0.0014214
+
+0.001059
+
+Consumer Price Index
+
+−0.8231037
+
+−0.8854958
+
+0.0623921
+
+0.05623
+
+GDP per Capita
+
+0.1749304
+
+0.0691611
+
+0.1057693
+
+0.1308905
+
+Note: b = consistent under Ho and Ha; obtained from xtreg. B = inconsistent under Ha, efficient under
+Ho; obtained from xtreg.
+Test: Ho: difference in coefficients not systematic χ2(18) = (b − B) 0 [(V_b − V_B) ^ (−1)](b − B) = 15.90
+Prob > χ2 = 0.0395
+Since Prob > χ2 = 0.0395 is <0.05, we reject the null hypothesis that the random effect model is
+appropriate and use the fixed effect model.
+
+14
+
+TABLE A2
+
+OKYERE ET AL.
+
+Hausman test for earnings management, corporate governance, and capital structure decision—–Model (1)
+(b)
+
+(B)
+
+(b − B)
+
+sqrt (diag(V_b − V_B))
+
+fe
+
+re
+
+Difference
+
+S.E.
+
+Earnings Management
+
+−0.1978571
+
+−0.2294724
+
+0.0316153
+
+0.0180903
+
+Board Size
+
+0.120363
+
+0.1442949
+
+−0.0239319
+
+0.0142404
+
+Earnings Mgmt * Board Size
+
+0.0196837
+
+0.0213706
+
+−0.0016869
+
+0.0018629
+
+Firm Age
+
+0.6633406
+
+0.1990815
+
+0.4642591
+
+0.2668621
+
+Operating Cash Flow
+
+0.1145303
+
+0.2579045
+
+−0.1433741
+
+0.0185844
+
+Consumer Price Index
+
+−1.607651
+
+−1.866015
+
+0.2583634
+
+0.1796502
+
+GDP per Capita
+
+−0.0111628
+
+−0.0276031
+
+0.0164404
+
+0.0380611
+
+Note: b = consistent under Ho and Ha; obtained from xtreg. B = inconsistent under Ha, efficient under Ho; obtained from xtreg.
+Test: Ho: difference in coefficients not systematic χ2 ð17Þ = ðb – BÞ0 ½ðV b – V BÞ^ð − 1Þðb – BÞ = 81:37
+Prob > χ2 = 0.0000
+Since Prob > χ2 = 0.0000 is <0.05, we reject the null hypothesis that the random effect model is appropriate and use the fixed effect model.
+
+TABLE A3
+
+Hausman test for earnings management, corporate governance, and capital structure decision—Model (2)
+
+Earnings Management
+
+(b)
+
+(B)
+
+(b-B)
+
+sqrt (diag(V_b − V_B))
+
+fe
+
+re
+
+Difference
+
+S.E.
+
+−0.151465
+
+−0.1316487
+
+−0.0198163
+
+0.0123912
+
+Board Composition
+
+0.7853314
+
+0.7658836
+
+0.0194478
+
+0.1414932
+
+Earnings Mgmt * Board Composition
+
+0.1896812
+
+0.1462739
+
+0.0434074
+
+0.0204887
+
+Operating Cash Flow
+
+0.047103
+
+0.0551331
+
+−0.0080301
+
+0.0066801
+
+Firm Age
+
+0.1837308
+
+0.0021825
+
+0.1815483
+
+0.1577243
+
+Firm Size
+
+1.038074
+
+0.9931019
+
+0.0449722
+
+0.0851514
+
+Consumer Price Index
+
+−1.227464
+
+−1.45577
+
+0.2283061
+
+0.11201
+
+GDP per Capita
+
+−1.56125
+
+−0.1552667
+
+−1.405983
+
+0.659817
+
+Note: b = consistent under Ho and Ha; obtained from xtreg. B = inconsistent under Ha, efficient under Ho; obtained from xtreg.
+Test: Ho: difference in coefficients not systematic χ2 ð17Þ = ðb – BÞ0 ½ðV b – V BÞ^ð − 1Þðb – BÞ = 39:87
+Prob > χ2 = 0.0014
+(V_b − V_B is not positive definite)
+Since Prob > χ2 = 0.0014 is <0.05, we reject the null hypothesis that the random effect model is appropriate and use the fixed effect model.
+
+TABLE A4
+
+Hausman test for earnings management, corporate governance, and capital structure decision—Model (3)
+(b)
+
+(B)
+
+(b-B)
+
+sqrt (diag(V_b − V_B))
+
+fe
+
+re
+
+Difference
+
+S.E.
+
+Earnings Management
+
+−4.619532
+
+−4.352715
+
+−0.2668173
+
+0.459339
+
+Board Gender Diversity
+
+−0.3645507
+
+−0.2391378
+
+−0.1254129
+
+0.1054988
+
+Earnings Mgmt * Board G Diversity
+
+13.26072
+
+11.05108
+
+2.209636
+
+1.855708
+
+Firm Size
+
+0.0455023
+
+0.0512257
+
+−0.0057234
+
+0.0041528
+
+Operating Cash Flow
+
+0.0048164
+
+0.0041005
+
+0.0007159
+
+0.0011082
+
+Consumer Price Index
+
+−0.9033852
+
+−0.974508
+
+0.0711229
+
+0.0503857
+
+GDP per Capita
+
+0.1954286
+
+0.0416331
+
+0.1537956
+
+0.1250714
+
+Note: b = consistent under Ho and Ha; obtained from xtreg. B = inconsistent under Ha, efficient under Ho; obtained from xtreg.
+Test: Ho: difference in coefficients not systematic χ2 ð16Þ = ðb− BÞ0 ½ðV b− V BÞ^ð − 1Þðb −BÞ = 10:44
+Prob > χ2 = 0.8428
+Since Prob > χ2 = 0.8428 is >0.05, we fail to reject the null hypothesis that the random effect model is appropriate.
+
+

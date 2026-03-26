@@ -1,0 +1,1441 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/1754-2413.htm
+
+GM
+39,6
+
+778
+Received 29 March 2023
+Revised 29 December 2023
+Accepted 27 February 2024
+
+Gender of ﬁrm leadership and
+environmental, social and
+governance (ESG) reporting:
+evidence from banks listed on
+Ghana Stock Exchange
+Peter Kodjo Luh
+Department of Finance and Accounting, University of Ghana Business School,
+Accra, Ghana
+
+Miriam Arthur
+Department of Accounting, University of Ghana Business School, Accra, Ghana
+
+Vera Fiador
+Department of Finance, University of Ghana Business School, Accra, Ghana, and
+
+Baah Aye Kusi
+Department of Applied Finance and Policy Management,
+University of Education Winneba, Winneba, Ghana and
+Department of Finance, University of Ghana Business School, Accra, Ghana
+
+Abstract
+Purpose – This study aims to examine how woman corporate leadership indicators and environmental,
+social and governance (ESG) disclosure in listed banks on Ghana Stock Exchange are related.
+
+Design/methodology/approach – Data was obtained from the audited annual reports of the banks for
+the period 2006–2020. Empirical result estimation was achieved using Panel Corrected Standard Errors.
+
+Findings – The result revealed that female chief executive ofﬁcer (CEO), female board chairperson and
+board gender diversity are associated with higher disclosure of ESG issues in listed banks in Ghana in overall
+terms. However, in terms of individual disclosures, female board chairperson positively impacts social
+disclosure, whereas both female CEO and female board chairperson affect governance disclosure positively.
+Research limitations/implications – In this era of business where there is much emphasis on green
+business and investment by various stakeholders for purposes of ensuring business legitimacy, the result
+
+Gender in Management: An
+International Journal
+Vol. 39 No. 6, 2024
+pp. 778-795
+© Emerald Publishing Limited
+1754-2413
+DOI 10.1108/GM-03-2023-0110
+
+The authors express their profound gratitude to the Editor, Dr Adelina Broadbridge, the Editorial
+team and the two anonymous reviewers for their constructive comments, suggestions and guidance
+that have given the paper its current quality.
+Funding statement: The authors received no funding or ﬁnancial assistance for the development of
+the manuscript.
+Data availability statement: The data used for empirical analysis was obtained from publicly
+available documents.
+Conﬂict of interest disclosure: The authors declare that there are no issues of conﬂict of interest
+pertaining to this manuscript.
+Ethics approval statement: All ethical issues were adhered to.
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+implies that banks must consider females to occupy the positions of CEO and board chairperson since that
+can help to improve ESG performance of banks.
+Practical implications – In this era of business where there is much emphasis on green business, socially
+responsible investment and impact investment by various stakeholders, the result implies that banks must
+consider improving the representation of women in leadership since that can help to improve ESG
+performance of banks and hence ability to attract more investors.
+Originality/value – To the best of the authors’ knowledge, this is the ﬁrst study to provide empirical
+evidence from a developing country perspective in Sub-Saharan Africa that gender of bank leadership has
+implications for ESG disclosure.
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+779
+
+Keywords ESG disclosure, Female, Corporate executives, Listed, Ghana
+Paper type Research paper
+
+1. Introduction
+In the current business terrain, the subject matter of board composition and woman
+corporate leadership has received wide recognition and attention as being a key feature of
+boards (Ahn et al., 2020), and ultimately has implications for business outcomes (Chen et al.,
+2021). The discussion has largely been centred on the inclusion of women on boards to
+ensure diversity for purposes of ﬁrm value creation (Chen and Hassan, 2022; Arora, 2022).
+The argument is that a board that is gender diversiﬁed improves the intellectual capacity of
+the board, as ideas, skills, experiences, innovations and qualiﬁcations are brought on board,
+which tend to ensure quality board deliberations leading to quality organizational decisions
+and outcomes (Luh and Kusi, 2023). Thus, the presence of both males and females on boards
+is acknowledged in literature as being one of the panacea for ensuring corporate success
+(Gomez and Bernet, 2019; Hossain et al., 2021). In all these discussions regarding board
+gender diversity and woman corporate leadership, it is worthy of note that as compared to
+men, women still represent a lower proportion on boards and in top executive positions
+globally (Hamdan et al., 2022; Martínez et al., 2022).
+On the back of the supporting arguments regarding board gender diversity and the
+business case for gender diversity on boards and woman corporate leadership, a number of
+reforms have taken place around the globe. Essentially, a number of countries have legislated
+required quota for female representation on boards, key among them being France, Norway,
+Sweden and Spain (Sousa and Santos, 2022; Yu and Madison, 2021). More so, there is a global
+effort to ensure gender diversity and equality in all facets of life. This is reﬂected in the
+United Nations Sustainable Development Goal 5, which is intended and aims to achieve
+gender equality and empower all women and girls. These legislative, regulatory and global
+efforts are not ends in themselves but a means to an end. Although such legislative,
+regulatory and global efforts are gradually gathering momentum across the globe and may
+ultimately achieve some results, happenings and signals in various corporate and economic
+systems around the globe suggest that it may take quite a lengthy period of time to achieve
+such gender equality and diversity as far as business and economic life is concerned.
+Following the narrative above, there have been extensive empirical research to provide
+insight on how women in leadership and gender diversity on boards is linked with issues
+such as cost of capital (Sarang et al., 2022), earnings management (Anh and Khuong, 2022;
+Mensah and Onumah, 2023), ﬁrm proﬁtability (Luh and Kusi, 2023), intellectual capital
+efﬁciency (Sanyaolu et al., 2022), audit fee (Garcia-Blandon et al., 2023; Luh, 2024), audit
+quality (Saidu and Aifuwa, 2020; Koh et al., 2022) and ﬁrm stability/risk (Sattar et al., 2022;
+Menicucci and Paolucci, 2022a). In overall terms, what these studies have revealed is that
+gender diversity on boards and top executive management has implications for various
+organizational outcomes, which includes both ﬁnancial and non-ﬁnancial outcomes. In spite
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+780
+
+of the extensive research on how board gender diversity affects various organizational
+outcomes, empirical literature has largely been silent on how the gender of those at the helm
+of affairs in organizations affects an important issue such as environmental, social and
+governance (ESG) disclosure, particularly within the context of Africa and by extension
+Ghana, where such concept is still at a nascent stage and being embraced. Thus, the aim of
+this study is to provide answer to the question, “Does the gender of leadership matter in ESG
+disclosure” using data of listed universal banks in Ghana. Prompting this study is the call
+from prior literature (Luh and Kusi, 2023) for further studies from the context of Africa to
+empirically take stock of how gender of ﬁrm leadership inﬂuences ESG disclosure which is a
+relatively new area in the corporate terrain in Africa and now being embraced.
+The UN Global Compact (2004) and the UNEP Finance Initiative (2005) explain the
+concept of ESG to be that mechanism “that ties corporate social performance and corporate
+ﬁnancial performance together” (Lo and Kwan, 2017, p. 607). The overall argument is that
+businesses should not only be concerned about disclosures pertaining to their economic
+wellbeing but must more importantly incorporate issues pertaining to how they are
+addressing social, environmental and governance issues in their investment decisions
+(Cucari et al., 2018). That is, ESG disclosures is acknowledged as a corporate strategy which
+is believed to be a means by which ﬁrms are able to maintain good relations with its
+different stakeholders (Friede et al., 2015). Given the arguments that have been made in
+relation to ESG disclosure, the subject matter of ESG has attracted the attention of investors,
+leading to consistent scrutiny of annual reports of ﬁrms for such ESG issues (London Stock
+Exchange Group, 2018). The present study thus focuses on the issue of sustainability
+reporting given that these are set of information on the activities of a ﬁrm on society,
+environment and corporate governance that are revered and welcomed by investors in the
+current business environment for investment and economic decision-making.
+Ghana is a country located in the west part of Africa. Like many countries, it has its own
+set of culture, institutional and governance systems and beliefs. However, when it comes
+to issues of gender, it has certain commonalities with countries globally. In the period of
+colonialism, women were largely marginalized, and their labour was deemed as less valuable
+to that of men (Bosak et al., 2018). In addition, women who held key public positions during the
+colonial period were largely sidelined (Steady, 2007). Fast forward, Ghana has gone through
+several transformations post-independence in 1957. These reforms relate to social, economic
+and political issues. These transformations include increased gender equality which have been
+made possible through varied interventions. Notwithstanding the progress made, there still
+exist gender disparities in all different facets of life as far as Ghana is concerned (Bosak et al.,
+2018). In spite of women being marginalized in the pre-independence era in Ghana, in the postcolonial period, women are acknowledged as being key to nation-building and seen as persons
+who are endowed with features of beauty, grace and gentleness. Overall, just like in many
+countries around the globe, women in Ghana are acknowledged as persons who because of the
+nurturing and the social training they receive tend to adopt ethical and communal approach to
+doing things as supported by the gender socialization theory. In Ghana, the social system is
+such that women end up performing most domestic chores such as cleaning, cooking and
+childcare due to their upbringing. Overall, due to the type of training they go through, they
+often appear to exhibit tendencies of compassion and concern for others, ethics and being less
+corrupt. To buttress the aforementioned point, in a recent speech by the Attorney General of
+Ghana at the 10th Session of the Conference of States Parties to the United Nations Convention
+against Corruption (COSP 10) in Atlanta, USA, it was revealed that research done on about
+15,000 respondents highlighted that Ghanaian women were less corrupt in comparison with
+men. More so, Asomah et al. (2023) with speciﬁc reference to Ghana, empirically conﬁrmed
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+that compared to men, women are less likely to offer bribes. Clearly, from these studies, one
+could argue that women in Ghana are on average more likely to exhibit ethical behaviour as
+compared to their male counterparts. Essentially, the general notion regarding women in
+Ghana is that they are socially inclined, communal and prioritize the welfare of stakeholders
+other than pursuing just their personal interests (Kuada, 2009).
+The underlying assumption of the study is that given that women exhibit traits of
+compassion, ethics and communalism and tend to be concerned about stakeholders and
+pursue larger stakeholder interest other than personal interest only, they are likely to be
+largely concerned about sustainability issues which may have positive implications on
+sustainability reporting represented by ESG disclosures.
+Consequently, this manuscript contributes to the extant literature on gender diversity and
+ESG disclosure by showing how female board chairperson, female chief executive ofﬁcer
+(CEO) and board gender diversity contribute to ESG disclosure from a developing country
+context using data of banks listed on the Ghana Stock Exchange (GSE) for the period 2006–
+2020. More so, with the recent launch of the ESG manual guidelines by the GSE, the study
+contributes to the extant literature on ESG, by providing evidence of gender of ﬁrm
+leadership (i.e. woman corporate leadership) as a determinant of ESG disclosure in ﬁrms.
+The rest of the paper is structured into the following sections: Section 2 covers the review
+of prior literature, while Section 3 concentrates on the methods and variables used for
+empirical analysis. Section 4 is on the discussion of the empirical results, and Section 5
+provides the conclusion, implication and limitations of the study.
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+781
+
+2. Literature review – theories, empirics and hypothesis development
+2.1 Theoretical underpinnings of the study
+The study is premised on the gender social role theory and the gender socialization theory.
+The general argument pertaining to the aforementioned theories is that social roles and the
+varied models of socialization differ among males and females (Lomazzi and Seddig, 2020;
+Schneider and Bos, 2019). Overall, the indication is that when it comes to leadership, there are
+certain differences among males and females hence differences in what each gender may be
+concerned about or get attached to. From the perspective of the gender social role theorists,
+the argument is that women tend to exhibit communal qualities (i.e. generous, socially
+oriented and concern-centred) as compared to their male counterparts who are more agentic
+in nature (e.g. more ambitious and self-directed). Thus, on the basis of the communal nature
+of women, it is advanced that women are likely to engage in voluntary behaviours, hence the
+higher probability of them engaging in environmental protection and social issues than their
+male counterparts (Ahmad et al., 2021). In sum, women are acknowledged by the theorists as
+being persons who cherish long-term relationships and care more about others’ needs, and
+are kind and compassionate, which ultimately makes them more stakeholder-oriented, hence
+positive implications for sustainable accounting reporting under their watch. Drawing on the
+gender social role theory, Khatri (2023) conﬁrmed that women directors have positive effect
+on sustainability performance, and Nadeem et al. (2020) reported a positive signiﬁcant effect
+of board gender diversity (i.e. women directorship) on environmental innovation. These prior
+studies overall ascribe better sustainability performance to the values and concerns of
+women directors to stakeholders and the society as a whole.
+The gender socialization theory is similar to the social role theory. For the gender
+socialization theory, the argument is that women are raised to be nurturing and
+compassionate to others (Burkhard, 2019). Based on the aforementioned argument, it is
+advanced that women directors tend to be highly concerned and conservative in making
+decisions that pertain to sustainability issues. Furthermore, the position of the theory is that
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+782
+
+the different psychological disposition of women directors has the potential to ensure that a
+ﬁrm progresses towards sustainability practices (Issa and Fang, 2019). Overall, the
+indication is that given the sensitivity of women towards the interest of others and better
+consideration of the views and issues of multiple parties (Terjesen et al., 2009), under their
+leadership, they superintend over higher levels of sustainability performance or disclosures.
+Applying the gender socialization theory, Kamarudin et al. (2022) empirically conﬁrmed that
+ﬁrms with high board gender diversity (presence of women on boards) are associated with
+high corporate sustainability performance. The aforementioned study ascribes high levels of
+sustainability performance/reportage with the concerns, values and ethics of women
+directors to different stakeholders of a ﬁrm.
+2.2 Empirics and hypothesis development
+Despite the area of sustainability performance/reporting and women directorship being a
+relatively grey area as far as empirical research is concerned, it is worthy of note that
+empirically, the body of work on women directorship and sustainability performance/
+disclosures has seen growth in the past ten years. In overall terms, the issue of sustainability
+performance/reportage/disclosure has been represented by ESG disclosures of ﬁrms. Largely,
+the limited but growing empirical literature on the subject matter under consideration
+provides that sustainability performance/reporting/disclosures is improved in the presence of
+women directorship. In this regard, Arayssi et al. (2020) used data of Gulf Cooperation
+Council (GCC) countries and empirically conﬁrmed that higher female board representation
+results in improved social responsibility. In addition, Bhatia and Marwaha (2022) empirically
+conﬁrmed that board gender diversity has positive inﬂuence on ESG disclosures of 327 ﬁrms
+listed in India. More so, Buallay and Alhalwachi (2022) studied the environmental disclosure
+impact of board gender diversity and found that boards with woman representation between
+21% and 50% were associated with higher levels of environmental disclosure. Further
+conﬁrming the positive effect of board gender diversity on ESG performance is the study by
+Yadav and Prashar (2023), who empirically established that relatively smaller percentage of
+women on boards has little impact on ESG performance. Nonetheless, in the presence of at
+least three women, the positive effect of board gender diversity on ESG performance turned
+out to be more favourable. Shakil et al. (2021) using data of banks in the USA found that there
+is signiﬁcant positive effect of board gender diversity on ESG performance of banks. In the
+European context, Chouaibi et al. (2022) conﬁrmed that there is a positive effect of diversity
+on integrated reporting quality represented by ESG disclosures. Alkhawaja et al. (2023) used
+data of ﬁrms from 48 countries globally and reported that there is signiﬁcant positive
+relationship between gender diverse boards and ESG disclosure.
+Contrasting the ﬁndings of the earlier studies is that of Manita et al. (2018), who
+empirically demonstrated that there is no signiﬁcant relationship between board gender
+diversity and ESG disclosure in US ﬁrms. However, the study added that concept of critical
+mass is partially supported, as it turned out that below three women directors, no statistical
+signiﬁcance was found between board gender diversity and ESG disclosure.
+In the African and Ghanaian context, few studies have considered gender diversity and
+sustainability or ESG performance. Largely, the focus has been on gender diversity and
+ﬁnancial performance indicators. In this regard, Toerien et al. (2023) studied board gender
+diversity and ESG disclosure of companies in South Africa and conﬁrmed a positive
+relationship between ESG at the aggregated level and at the social disclosure level. In
+addition, Gerged et al. (2023) studied environmental disclosure and gender diversity and
+empirically conﬁrmed using quantile regression that presence of women directors on board
+results in higher corporate environmental disclosures. From the reviews, it is obvious that
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+women directors and women in leadership are drivers of ESG performance or sustainability
+reporting. However, it is worthy of note that the issue of woman leadership and gender
+diversity in relation to a non-ﬁnancial indicator like ESG disclosure in Africa and by
+extension Ghana has received no or little attention. In effect, based on the context and issue
+gaps identiﬁed and drawing inspiration from the gender socialization theory as well as
+gender social role theory, the study hypothesizes that female corporate executives
+represented by three different indicators, namely, woman CEO, woman board chairperson
+and board gender diversity, have implication for sustainable ESG reporting in Ghana.
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+783
+
+3. Study methods, data, estimation technique and variable deﬁnition and
+measurement
+The study is guided by the co-relational and non-experimental design of research which
+form the centrality of majority of quantitative research (Gill and Biger, 2013). These designs
+are deemed appropriate for the study given that the intention of the study is to investigate
+the causality between indicators of female corporate leadership/directorship and ESG
+performance in listed banks on GSE. Data used for empirical analysis is obtained from the
+audited annual reports of banks listed on the GSE. The audited annual reports were
+obtained from the database of the GSE. The inclusion of bank data for empirical analysis
+was solely based on data availability. In effect, banks that had data for ﬁve or more years
+had their data being used for empirical analysis. Using this criterion, data of nine banks
+listed on the GSE for the period 2006–2020 was used.
+For purposes of result estimation, panel data estimation technique was used. Using the
+panel data estimation technique approaches among other things comes with the advantage
+of producing more robust, convincing, reliable and accurate econometric estimates
+(Wooldridge, 2009). Thus, the application of the panel data estimation technique helps to
+counter the weaknesses that comes with using either the cross-sectional or time-series
+approaches where issues of homogeneity, simultaneity and heterogeneity tend to be a
+problem. The general panel data framework is given as follows:
+Yi;t ¼ aij þ gtj þ bXi;t þ «i;t
+
+Model 1
+
+In Model 1, i represents the entity/ﬁrm component of the data, where i ¼ 1. . .. N, and t
+represents the time/period/year/month component of the data set, where t ¼ 1. . .. . .. N. Also,
+Y connotes the predicted variable; b represents the beta (coefﬁcient) or vector of parameters
+that are estimated on the predictor variables which includes all other control variables; aij is
+the constant term for the time periods which is subject to each ﬁrm’s or entity’s ﬁxed effect;
+gtj is an indicator for the time’s ﬁxed effect, t; and «i,t is the error term. In estimating the
+empirical result for the study, the speciﬁc panel estimator used was Panel Corrected
+Standard Error (PCSE) approach. The beneﬁts associated with this estimation approach is
+that it is able to control autocorrelation, cross-sectional dependence and heteroscedasticity to
+enhance parameter efﬁciency (Nsanyan Sandow et al., 2021; Doku et al., 2019).
+The speciﬁc empirical models for testing the study’s hypothesis were developed
+following the prior works of Menicucci and Paolucci (2022b) and Aabo and Giorici (2022).
+The empirical models are given as follows:
+x
+X
+ESGDIndexi;t ¼ b0 þ b1 CEO_Fei þ b3 BChair_Fei þ b4 BGDivi;t þ b5
+Xi;t þ «i;t Model 2
+x¼7
+
+ENDIndexi;t ¼ b0 þ b1 CEO_Fei þ b3 BChair_Fei þ b4 BGDivi;t þ b5
+
+x
+X
+
+Xi;t þ «i;t Model 3
+
+x¼7
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+SODIndexi;t ¼ b0 þ b1 CEO_Fei þ b3 BChair_Fei þ b4 BGDivi;t þ b5
+
+x
+X
+
+Xi;t þ «i;t
+
+Model 4
+
+x¼7
+
+GODIndexi;t ¼ b0 þ b1 CEO_Fei þ b3 BChair_Fei þ b4 BGDivi;t þ b5
+
+x
+X
+
+Xi;t þ «i;t Model 5
+
+x¼7
+
+784
+
+Model 2 estimates the effect of woman corporate leadership indicators on overall ESG disclosure,
+whereas Models 3, 4 and 5 estimate the effect of woman corporate leadership indicators on social
+disclosure, environmental disclosure and governance disclosure, respectively.
+3.1 Variable measurement
+3.1.1 Response variable – environmental, social and governance disclosure index. To proxy
+ESG disclosure/reporting, ESG index was developed. This ESG disclosure index is obtained
+by summing scores of the three acknowledged aspects of overall ﬁrm information disclosure
+which consists of environmental disclosure, social disclosure and governance disclosure
+(Naveed et al., 2021). In arriving at the disclosure, the guideline of Global Reporting Initiative
+standards on sustainable reporting was followed (Naveed et al., 2021), where the score for
+environmental disclosure was obtained by focusing on issues such as energy disclosure,
+biodiversity disclosure, water, emission, environmental reporting, waste management,
+whereas the score for social disclosure was obtained by focusing on disclosure pertaining to
+issues such as health and safety disclosures, customer and complaints disclosure, donations
+to external communities, human rights, product quality and safety, community
+development and philanthropy. Lastly, the governance score was obtained by focusing on
+issues such as board remuneration, risk disclosures, CEO roles, leadership ethics, board
+composition, executive composition, transparency and reporting and stakeholder treatment
+disclosures. For purposes of this study, the overall ESG disclosure index and the three
+different pillars serve as the dependent variables in the model. The usage of these measures
+as sustainable reporting indicators is acknowledged in literature as valid and reliable (Luo
+et al., 2017). Consistent with prior literature (Yadav and Prashar, 2023; Naveed et al., 2021;
+Aabo and Giorici, 2022), ESG disclosure index and its three pillars are used as response
+variables (for measurement and description of variables, see Table 1).
+3.1.2 Predictor variables. Literature advances that as far as leadership is concerned,
+the traits of those in leadership tend to matter enormously when it comes to decisionmaking and ultimate organizational outcomes. Thus, literature argues that differences in
+behaviour and traits between men and women account for what they do. The predictor
+variable in the empirical model is gender of ﬁrm leadership represented by female CEO,
+female board chairperson and percentage of females on board (board gender diversity).
+Female CEO is a dichotomous variable where 1 represents a situation a ﬁrm’s CEO for a
+particular year is a woman otherwise 0. In addition, female board chairperson is a binary
+variable where 1 represents a situation a ﬁrm’s board chairperson for a speciﬁc year is a
+woman, otherwise 0. More so, board gender diversity is measured as the percentage of
+female directors on boards for a particular year. In using these variables as independent
+variables, inspiration was drawn from prior literature (Luh and Kusi, 2023; Aabo and
+Giorici, 2022).
+3.1.3 Control variables. Drawing inspiration from prior literature, the present study uses
+a number of control variables that have the potential to impact ESG disclosure aside gender
+of ﬁrm leadership. That is, bank size (Aabo and Giorici, 2022), return on assets (Aabo and
+Giorici, 2022), ﬁnancial leverage (Naveed et al., 2021), liquidity (Kamarudin et al., 2022),
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+Variables
+Explained variables
+ESG disclosure index
+(ESGDIndex)
+Environmental disclosure
+index (ENDIndex)
+Social disclosure index
+(SODIndex)
+
+Governance disclosure index
+(GODIndex)
+
+Explanatory variables
+Female CEO (CEO_Fe)
+Female board chairperson
+(BChair_Fe)
+Board gender diversity
+(BGDiv)
+Control variables
+Firm size (Bksize)
+Return on assets (ROA)
+Leverage (FinLev)
+Liquidity (Liquid)
+Board size (Bdsize)
+Board independence
+(BodIndep)
+Big Four (Big 4)
+
+Measurement
+Sustainability reporting quality measured by a disclosure index following
+the GRI guidelines (It is the summation of ESG disclosure index scores)
+Environmental disclosure index measures the amount of data on
+environmental initiatives and issues addressed by the organization (i.e.
+energy disclosure, biodiversity disclosure, water, emission, environmental
+reporting, waste management)
+Social disclosure index measures the amount of data on social initiatives
+and issues addressed by the organization as far as its external stakeholders
+are concerned (i.e. health and safety disclosures, customer and complaints
+disclosure, donations to external communities, human rights, product
+quality and safety, community development and philanthropy)
+Governance disclosure index represents the amount of data on governance
+initiatives and issues internal to the organization that are disclosed in the
+ﬁrms audited annual reports (i.e. board remuneration, risk disclosures, CEO
+roles, leadership ethics, board composition, executive composition,
+transparency and reporting and stakeholder treatment disclosures)
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+785
+
+Binary variable that takes 1 if CEO is a woman otherwise 0
+Binary variable that takes 1 if board chairperson is a woman otherwise 0
+Percentage of female directors on board
+
+Natural log of total assets
+Proﬁt before tax divided by total assets
+Total liabilities divided by total assets
+Current assets divided by current liabilities
+Number of directors on board
+Percentage of non-executive directors on board
+Dummy variable that takes 1 if ﬁrm is audited by one of the big 4 auditing
+ﬁrms, otherwise 0
+
+Source: Authors’ own work
+
+Table 1.
+Summary of
+variables
+
+board size (Kamarudin et al., 2022), board independence (Harjoto and Wang, 2020) and big
+four (Velte, 2017) as control variables in the study’s empirical model. How the control
+variables are measured and described are shown in Table 1.
+4. Empirical result and analysis
+Table 2 presents the descriptive statistics of the variables used in the study’s empirical
+model. The main outcome variables include the ESG disclosure at the aggregate and
+individual level. The input variables are the attributes of female corporate executives,
+namely, female CEO, female board chairperson and board gender diversity. The descriptive
+statistics depicted in Table 2 include mean, standard deviation, minimum and maximum
+values. The importance of the descriptive statistics is to aid in the identiﬁcation of outliers
+that may skew the study’s regression result (Choi, 2009). Given that the standard deviations
+of each individual variable are not highly dispersed from the mean of each variable, and
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+786
+
+Variable
+
+Obs
+
+Mean
+
+SD
+
+Min
+
+Max
+
+ESGDIndex
+SODIndex
+ENDIndex
+GODIndex
+CEO_Fe
+BChair_Fe
+BGDiv
+Bksize
+ROA
+FinLev
+Liquid
+Bdsize
+BodIndep
+Big 4
+
+90
+103
+90
+90
+120
+120
+120
+118
+118
+118
+108
+120
+119
+120
+
+0.731
+0.314
+0.018
+0.421
+0.042
+0.017
+16.862
+6.132
+4.167
+67.986
+1.738
+10.608
+72.496
+0.825
+
+0.252
+0.123
+0.081
+0.178
+0.201
+0.129
+9.421
+0.535
+2.262
+32.482
+2.787
+2.201
+13.711
+0.382
+
+0.26
+0
+0
+0.17
+0
+0
+0
+5.08
+3.36
+7.87
+1.02
+8
+37.5
+0
+
+1.51
+0.5
+0.5
+0.87
+1
+1
+45.45
+7.38
+9.31
+113.87
+30.16
+23
+92.31
+1
+
+Notes: For description of variables and their measurement, see Table 1. Obs = Observations; SD = Standard
+
+Table 2.
+deviation; Min = minimum value; Max = maximum value
+Descriptive statistics Source: Stata output based on data from audited annual reports
+
+following that the minimum and maximum values are within acceptable ranges, it is
+concluded that outliers do not pose a challenge to the study’s result.
+Table 3 on the other hand shows the correlation matrix of the study’s variables. The
+correlation matrix depicts the relationship and magnitude of relationship between the
+variables included in the study’s model. Aside showing the correlation and its magnitude,
+the relevance of the correlation is rooted in its ability to also reveal whether there is
+multicollinearity between the input variables of interest or not. On the basis of the
+multicollinearity threshold of 0.70 proposed by Kennedy (2008), it is concluded that there is
+no multicollinearity between the input variables of interest since the correlations between
+the explanatory variables were below 0.70.
+4.1 Regression result
+Table 4 shows how sustainability reporting represented by ESG is impacted in the presence
+of women corporate leadership using data of banks in Ghana for the period 2006–2020. For
+result estimation, PCSE estimator was used. The empirical result in Table 4 demonstrates
+that women corporate executives represented by female CEO, female board chairperson and
+board gender diversity (i.e. presence of women on boards) have signiﬁcant positive impact
+on sustainable accounting reporting proxied by ESG disclosures (see columns 1–3 in Table 4
+for estimates).
+Interestingly, at individual disclosure levels, the results reveal that women corporate
+leadership represented by female board chairperson positively impacts social disclosure (see
+column 5 in Table 4 for estimates). On the other hand, the empirical result revealed that none
+of the women corporate leadership indicators signiﬁcantly impacted environmental
+disclosure (see columns 7–9 in Table 4 for estimates).
+Finally, women corporate leadership as proxied by female CEO as well as female board
+chairperson have signiﬁcant positive impact on governance disclosure (see columns 10 and
+11 in Table 4 for estimates).
+4.1.1 Discussion of regression results. The initial regression results reveal that female
+CEO, female board chairperson and board gender diversity have signiﬁcant positive effect
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+1.000
+0.573
+0.539
+0.838
+0.230
+0.187
+0.288
+0.464
+0.081
+0.192
+0.099
+0.031
+0.472
+0.150
+
+(1)
+
+1.000
+0.145
+0.162
+0.122
+0.149
+0.307
+0.361
+0.004
+0.011
+0.019
+0.081
+0.044
+0.117
+
+(2)
+
+1.000
+0.217
+0.058
+0.036
+0.097
+0.213
+0.031
+0.022
+0.024
+0.055
+0.269
+0.058
+
+(3)
+
+1.000
+0.283
+0.197
+0.186
+0.350
+0.104
+0.258
+0.163
+0.067
+0.574
+0.256
+
+(4)
+
+1.000
+0.038
+0.339
+0.141
+0.283
+0.182
+0.040
+0.243
+0.064
+0.062
+
+(5)
+
+1.000
+0.221
+0.047
+0.017
+0.136
+0.009
+0.048
+0.079
+0.038
+
+(6)
+
+Note: For description of variables and their measurement, see Table 1
+Source: Stata output based on data from audited annual reports
+
+(1) ESGDIndex
+(2) SODIndex
+(3) ENDIndex
+(4) GODIndex
+(5) CEO_Fe
+(6) BChair_Fe
+(8) BGDiv
+(9) Bksize
+(10) ROA
+(11) Finlev
+(12) Liquid
+(13) Bdsize
+(14) Bodindep
+(15) Big 4
+
+Variables
+
+0.221
+0.047
+0.017
+0.136
+0.009
+0.048
+0.079
+0.038
+
+(7)
+
+1.000
+0.477
+0.277
+0.002
+0.214
+0.045
+0.012
+0.158
+
+(8)
+
+1.000
+0.404
+0.033
+0.097
+0.294
+0.010
+0.136
+
+(9)
+
+1.000
+0.141
+0.125
+0.143
+0.303
+0.140
+
+(10)
+
+1.000
+0.079
+0.074
+0.035
+0.346
+
+(11)
+
+1.000
+0.091
+0.159
+0.039
+
+(12)
+
+(14)
+
+1.000
+0.047
+
+(13)
+
+1.000
+0.089
+0.127
+
+1.000
+
+(15)
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+787
+
+Table 3.
+Matrix of
+correlations
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+0.4737*** (0.0639)
+0.0345*** (0.0079)
+0.0074** (0.0035)
+0.0036 (0.0055)
+0.0018 (0.0080)
+0.0074*** (0.0012)
+0.2453*** (0.0584)
+2.0691*** (0.5203)
+86
+0.6046
+
+0.5101*** (0.0652)
+0.0294*** (0.0082)
+0.0087** (0.0035)
+0.0033 (0.0049)
+0.0092 (0.0080)
+0.0070*** (0.0013)
+0.2311*** (0.0631)
+2.0391*** (0.5103)
+86
+0.5908
+
+0.2754** (0.1172)
+
+ESGDIndex
+Model 2
+
+0.0037* (0.0020)
+0.4478*** (0.0621)
+0.0304*** (0.0080)
+0.0092*** (0.0036)
+0.0050 (0.0049)
+0.0054 (0.0082)
+0.0072*** (0.0013)
+0.2525*** (0.0671)
+1.7491*** (0.4961)
+86
+0.5796
+
+ESGDIndex
+Model 3
+
+0.1670*** (0.0294)
+0.0109** (0.0044)
+0.0009* (0.0005)
+0.0003 (0.0024)
+0.0095** (0.0049)
+0.0010 (0.0007)
+0.0233 (0.0305)
+0.3699** (0.1775)
+97
+0.4069
+
+0.0272 (0.0447)
+
+SODIndex
+Model 4
+
+0.1727*** (0.0305)
+0.0105** (0.0047)
+0.0009* (0.0005)
+0.0004 (0.0027)
+0.0112** (0.0048)
+0.0012* (0.0007)
+0.0273 (0.0309)
+0.3799** (0.1854)
+97
+0.4300
+
+0.1356* (0.0779)
+
+SODIndex
+Model 5
+
+788
+SODIndex
+Model 6
+
+(continued)
+
+0.0017 (0.0013)
+0.1534*** (0.0304)
+0.0118*** (0.0045)
+0.0013** (0.0006)
+0.0012 (0.0023)
+0.0098** (0.0050)
+0.0012* (0.0007)
+0.0156 (0.0323)
+0.2841 (0.1878)
+97
+0.4192
+
+Notes: Robust standard errors in parentheses ***p < 0.01; **p < 0.05; *p < 0.1. Description and measurement of variables is presented in Table 1
+Source: Stata output based on data from audited annual reports
+
+CEO_Fe
+BChair_Fe
+BGDiv
+Bksize
+ROA
+FinLev
+Liquid
+Bdsize
+Bodindep
+Big 4
+Constant
+Observations
+R-squared
+
+ESGDIndex
+Model 1
+
+0.2421*** (0.0490)
+
+Table 4.
+The effect of
+corporate female
+leadership on ESG
+disclosure in listed
+banks in Ghana
+
+Variables
+
+GM
+39,6
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+CEO_Fe
+BChair_Fe
+BGDiv
+Bksize
+ROA
+FinLev
+Liquid
+Bdsize
+Bodindep
+Big 4
+Constant
+Observations
+R-squared
+
+Variables
+
+0.0670** (0.0315)
+0.0022 (0.0042)
+0.0005 (0.0013)
+0.0015 (0.0010)
+0.0000 (0.0040)
+0.0016*** (0.0005)
+0.0389 (0.0278)
+0.4729** (0.2114)
+86
+0.1386
+
+0.0258 (0.0251)
+
+ENDIndex
+Model 7
+
+0.0632** (0.0312)
+0.0028 (0.0039)
+0.0003 (0.0013)
+0.0015 (0.0010)
+0.0012 (0.0031)
+0.0016*** (0.0005)
+0.0404 (0.0280)
+0.4762** (0.2149)
+86
+0.1370
+
+0.0290 (0.0267)
+
+ENDIndex
+Model 8
+
+0.0001 (0.0008)
+0.0637* (0.0359)
+0.0029 (0.0039)
+0.0002 (0.0013)
+0.0014 (0.0011)
+0.0011 (0.0032)
+0.0016*** (0.0005)
+0.0410 (0.0287)
+0.4880** (0.2222)
+86
+0.1343
+
+ENDIndex
+Model 9
+
+0.2410*** (0.0368)
+0.0223*** (0.0050)
+0.0050** (0.0021)
+0.0051 (0.0042)
+0.0129** (0.0057)
+0.0069*** (0.0008)
+0.2450*** (0.0481)
+1.3485*** (0.2878)
+86
+0.7167
+
+0.2495*** (0.0413)
+
+GODIndex
+Model 10
+
+0.2737*** (0.0373)
+0.0165*** (0.0056)
+0.0068*** (0.0023)
+0.0046 (0.0035)
+0.0021 (0.0058)
+0.0066*** (0.0011)
+0.2294*** (0.0520)
+1.2629*** (0.2812)
+86
+0.6505
+
+0.1707*** (0.0649)
+
+GODIndex
+Model 11
+
+0.0018 (0.0013)
+0.2412*** (0.0405)
+0.0169*** (0.0056)
+0.0072*** (0.0022)
+0.0054 (0.0039)
+0.0041 (0.0060)
+0.0067*** (0.0011)
+0.2398*** (0.0536)
+1.1022*** (0.2903)
+86
+0.6376
+
+GODIndex
+Model 12
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+789
+
+Table 4.
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+790
+
+on ESG disclosure. What this result means is that having a woman in the position of CEO
+and board chairperson and the presence of women on boards results in higher levels of
+sustainable accounting reporting or improves the reporting and disclosure of those activities
+that relates to other stakeholders of the ﬁrm. This result is in consonance with the argument
+that generally, the nurturing and training women go through makes them ethical and
+concerned about multiple stakeholders in their approach to doing things; hence, under their
+watch and leadership, higher levels of disclosure is seen, as supported by the gender social
+role theory and the gender socialization theory (Ahmad et al., 2021, Issa and Fang, 2019). It
+would thus stand to reason that if ﬁrms and in this instance, banks want to be more
+transparent with their multiple stakeholders, the role of women in leadership cannot be
+downplayed. Overall, the indication is that though women are still largely underrepresented
+on boards and in individual corporate leadership positions, their commitment to ethical
+standards, and concerns for others and society as a whole makes them engage in higher
+disclosure or reportage of sustainability issues. The result is consistent with that of
+Alkhawaja et al. (2023), who used data of ﬁrms from 48 countries globally and reported that
+there is signiﬁcant positive relationship between gender diverse boards and ESG disclosure.
+Secondly, the results also revealed that woman board chairperson has positive effect on
+social disclosure. The interpretation is that the presence of a woman in the board
+chairperson position results in higher levels of social disclosure. In other words, it means
+that ﬁrms with female board chairpersons or ﬁrms where the board chairperson position is
+occupied by a woman are associated with an improvement in social disclosure. Overall, this
+result points to the fact that women in overall terms have a certain level of attachment to the
+society given their upbringing; hence, disclosure pertaining to the society is improved under
+their leadership (Ahmad et al., 2021; Toerien et al., 2023).
+In addition, the result shows no effect of woman leadership on environmental disclosure.
+This suggests that for the purpose of this study, woman corporate leadership is not a
+determinant of environmental disclosure. On the basis that the study used data of banks for
+estimation, the non-signiﬁcant impact of all woman leadership indicators on environmental
+disclosure is not surprising. This is because banks are largely not engaged in activities that
+have implications for the environment as a whole. That is, the presence of women on boards
+and in leadership positions does not contribute to environmental disclosure as far as this
+study is concerned. This result is consistent with the ﬁndings by Toerien et al. (2023), who
+used data of ﬁrms in South Africa and reported no signiﬁcant effect of woman corporate
+leadership on environmental disclosure.
+Finally, woman CEO and woman board chairperson have positive effect on governance
+disclosure. The clear understanding from this result is that banks where the CEO and the
+board chairperson are women, are associated with higher levels of governance disclosures
+which are largely internal governance-related issues. This result points to the fact that aside
+being concerned about external sustainability issues, women in leadership tend to be
+concerned about transparency pertaining to internal stakeholders, whose activities are
+ultimately responsible for the success or break up of the ﬁrm. That is, on the basis that
+woman corporate leadership has been identiﬁed as a key factor for enhancing ﬁrm
+governance practices (Adams and Ferreira, 2009), it would be valid to argue that improved
+disclosure of ﬁrm internal governance issues would be observed under their leadership. This
+result is congruent with that of Wasiuzzaman and Wan Mohammad (2020), who found that
+woman corporate leadership represented by presence of women on boards has positive
+effect on governance disclosure in Malaysian ﬁrms.
+Overall, what the results depict is that women on boards and in top corporate positions
+would preside over higher levels of ESG disclosure but not all of its components as
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+supported by Ardito et al. (2020), who asserted that women representation in corporate
+leadership is good for ESG disclosure in overall terms but not necessarily for its different
+components. In this study, what is observed is that women in corporate leadership are
+ultimately much more associated with higher levels of social disclosure and governance
+disclosure as compared to environmental disclosure. Nonetheless, the key contribution of the
+study to literature is that woman corporate leadership has implications for ESG disclosure
+in banks operating in the developing context of Ghana.
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+791
+
+5. Study conclusion and recommendations
+The paper investigated how woman corporate leadership indicators impact ESG disclosure
+in banks listed on the GSE for the period 2006–2020. To estimate the empirical results, PCSE
+estimator was used. The results revealed that female CEO, female board chairperson and
+presence of women on boards (board gender diversity) have signiﬁcant positive effect on
+sustainable accounting reporting represented by ESG disclosure. This implies that banks
+where the CEO and board chairperson are female and where there are women on board
+(board gender diversity), there tends to be an improvement in ESG disclosure. However, at
+the individual ESG level, only female board chairperson has signiﬁcant positive effect on
+social disclosure. This suggests that banks with female board chairperson are associated
+with an improvement in social disclosure. More so, female board chairperson and female
+CEO have a signiﬁcant positive effect on governance disclosure, suggesting that banks
+where the CEO and board chairperson are women tend to engage in higher levels of
+sustainable accounting represented by ESG disclosure.
+The result has conﬁrmed that gender of ﬁrm leadership has implications for ESG
+disclosure, which is acknowledged as a mechanism through which businesses can operate
+more competitively globally. It therefore means that organizations that intend to ensure
+more sustainability reporting have to ensure that more opportunities are created for women
+to be placed in strategic decision-making levels of organizations where they can positively
+affect decisions such as ESG disclosure. Overall, the results provide empirical evidence from
+a developing economy perspective that gender of ﬁrm leadership (i.e. woman corporate
+leadership) has implications for ESG disclosure in banks.
+In an everchanging and complex business environment, the practical implication of this
+result is that ﬁrms must ensure females are represented in top level management where they
+can positively affect decision-making such as those related to ESG disclosure. This is key
+because in the modern business environment, ESG disclosure is considered as a mechanism
+through which corporate brand building and competitive advantage can be obtained. For
+this reason, it is crucial that organizations particularly banks ensure and pay attention to the
+gender of bank leadership (i.e. woman corporate leadership) since it has implications for
+sustainability reporting as represented by ESG disclosure. In terms of social implications,
+the ﬁndings of the study go a long way to minimize the stereotyping issues against women
+as the economic and business case for women is reinforced.
+There are a number of limitations with the study. Firstly, the data used for empirical
+analysis only focused on banks listed on the GSE. It means that the results must be applied
+with some level of caution. Essentially, on the basis that it is not only banks that are listed on
+the GSE, it is recommended that further research consider data of both non-ﬁnancial and
+ﬁnancial entities and also undertake a comparative analysis between these ﬁrms to ﬁnd out
+whether any insight will be provided. Also, the study focused on only the gender of ﬁrm
+leadership in banks as determinants of ESG disclosure. It is possible that in this nexus, a
+number of moderating factors can affect how gender of ﬁrm leadership impacts ESG
+disclosure, hence the need for further study to go beyond just the gender of the ﬁrm leadership.
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+792
+
+References
+Aabo, T. and Giorici, I.C. (2022), “Do female CEOs matter for ESG scores?”, Global Finance Journal,
+Vol. 100722.
+Adams, R.B. and Ferreira, D. (2009), “Women in the boardroom and their impact on governance and
+performance”, Journal of Financial Economics, Vol. 94 No. 2, pp. 291-309.
+Ahmad, N., Ullah, Z., Arshad, M.Z., Waqas Kamran, H., Scholz, M. and Han, H. (2021), “Relationship
+between corporate social responsibility at the micro-level and environmental performance: the
+mediating role of employee pro-environmental behavior and the moderating role of gender”,
+Sustainable Production and Consumption, Vol. 27, pp. 1138-1148.
+Ahn, J.S., Assaf, A.G., Josiassen, A., Baker, M.A., Lee, S., Kock, F. and Tsionas, M.G. (2020),
+“Narcissistic CEOs and corporate social responsibility: does the role of an outside board of
+directors’ matter?”, International Journal of Hospitality Management, Vol. 85, p. 102350.
+Alkhawaja, A., Hu, F., Johl, S. and Nadarajah, S. (2023), “Board gender diversity, quotas, and
+ESG disclosure: global evidence”, International Review of Financial Analysis, Vol. 90,
+p. 102823.
+Anh, L.H.T. and Khuong, N.V. (2022), “Gender diversity and earnings management behaviours in an
+emerging market: a comparison between regression analysis and FSQCA”, Cogent Business and
+Management, Vol. 9 No. 1, p. 2101243.
+Arayssi, M., Jizi, M. and Tabaja, H.H. (2020), “The impact of board composition on the level of ESG
+disclosures in GCC countries”, Sustainability Accounting, Management and Policy Journal,
+Vol. 11 No. 1, pp. 137-161.
+Ardito, L., Dangelico, R.M. and Messeni Petruzzelli, A. (2020), “The link between female representation
+in the boards of directors and corporate social responsibility: evidence from B corps”, Corporate
+Social Responsibility and Environmental Management, doi: 10.1002/csr.2082.
+Arora, A. (2022), “Gender diversity in boardroom and its impact on ﬁrm performance”, Journal of
+Management and Governance, Vol. 26 No. 3, pp. 735-755.
+Asomah, J.Y., Dim, E.E., Li, Y. and Cheng, H. (2023), “Are women less corrupt than men? Evidence from
+Ghana”, Crime, Law and Social Change, Vol. 79 No. 1, pp. 43-61.
+Bhatia, S. and Marwaha, D. (2022), “The inﬂuence of board factors and gender diversity on the ESG
+disclosure score: a study on Indian companies”, Global Business Review, Vol. 23 No. 6, pp. 1544-1557.
+Bosak, J., Eagly, A., Diekman, A. and Sczesny, S. (2018), “Women and men of the past, present, and
+future: evidence of dynamic gender stereotypes in Ghana”, Journal of Cross-Cultural Psychology,
+Vol. 49 No. 1, pp. 115-129.
+Buallay, A. and Alhalwachi, L. (2022), “Board gender diversity and environmental disclosure: evidence
+from the banking sector”, Journal of Chinese Economic and Foreign Trade Studies, Vol. 15 No. 3,
+pp. 350-371.
+Burkhard, B. (2019), “Organisational behavior and performance: the role of cognitive biases, emotions’,
+and learning” (Doctoral dissertation, University of St. Gallen).
+Chen, C. and Hassan, A. (2022), “Management gender diversity, executives’ compensation and ﬁrm
+performance”, International Journal of Accounting and Information Management, Vol. 30 No. 1,
+pp. 115-142.
+Chen, K.C., Hsieh, F.C. and Hsiao, Y.J. (2021), “Hospital board of directors’ composition and ﬁnancial
+performance: empirical evidence from Taiwan”, Inquiry: The Journal of Health Care
+Organization, Provision, and Financing, Vol. 58, p. 469580211024897.
+Choi, S.W. (2009), “The effect of outliers on regression analysis: regime type and foreign direct
+investment”, Quarterly Journal of Political Science, Vol. 4 No. 2, pp. 153-165.
+Chouaibi, S., Chouaibi, Y. and Zouari, G. (2022), “Board characteristics and integrated reporting quality:
+evidence from ESG European companies”, EuroMed Journal of Business, Vol. 17 No. 4,
+pp. 425-447.
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+Cucari, N., Esposito De Falco, S. and Orlando, B. (2018), “Diversity of board of directors and
+environmental social governance: evidence from Italian listed companies”, Corporate Social
+Responsibility and Environmental Management, Vol. 25 No. 3, pp. 250-266, doi: 10.1002/csr.1452.
+Doku, J.N., Kpekpena, F.A. and Boateng, P.Y. (2019), “Capital structure and bank performance:
+empirical evidence from Ghana”, African Development Review, Vol. 31 No. 1, pp. 15-27, doi:
+10.1111/1467-8268.12360.
+Friede, G., Busch, T. and Bassen, A. (2015), “ESG and ﬁnancial performance: aggregated evidence from
+more than 2000 empirical studies”, Journal of Sustainable Finance and Investment, Vol. 5 No. 4,
+pp. 210-233, doi: 10.1080/20430795.2015.1118917.
+Garcia-Blandon, J., Argiles-Bosch, J.M., Ravenda, D. and Castillo-Merino, D. (2023), “Women leading the
+audit process and audit fees: a European study”, European Research on Management and
+Business Economics, Vol. 29 No. 1, p. 100206.
+Gerged, A.M., Chijoke-Mgbame, A.M., Konadu, R. and Cowton, C.J. (2023), “Does the presence of an
+environmental committee strengthen the impact of board gender diversity on corporate
+environmental disclosure? Evidence from Sub-Saharan Africa”, Business Strategy and the
+Environment, Vol. 32 No. 4, pp. 2434-2450.
+Gill, A.S. and Biger, N. (2013), “The impact of corporate governance on working capital management
+efﬁciency of American manufacturing ﬁrms”, Managerial Finance, Vol. 39 No. 2, pp. 116-132.
+Gomez, L.E. and Bernet, P. (2019), “Diversity improves performance and outcomes”, Journal of the
+National Medical Association, Vol. 111 No. 4, pp. 383-392.
+Hamdan, R., Nasrallah, N., El Khoury, R., Hamdan, A. and Alareeni, B. (2022), “Presence of women on
+boards in industrial ﬁrms: evidence from GCC countries ﬁnancial markets”, International
+Journal of Management Science and Engineering Management, Vol. 17 No. 1, pp. 37-48.
+Harjoto, M.A. and Wang, Y. (2020), “Board of directors network centrality and environmental, social
+and governance (ESG) performance”, Corporate Governance: The International Journal of
+Business in Society, Vol. 20 No. 6, pp. 965-985.
+Hossain, D.M., Alam, M.S., Mazumder, M.M.M. and Amin, A. (2021), “Gender-related discourses in
+corporate annual reports: an exploratory study on the Bangladeshi companies”, Journal of
+Accounting and Organizational Change, Vol. 17 No. 3.
+Issa, A. and Fang, H.X. (2019), “The impact of board gender diversity on corporate social responsibility
+in the Arab Gulf states”, Gender in Management: An International Journal, Vol. 34 No. 7,
+pp. 577-605.
+Kamarudin, K.A., Ariff, A.M. and Wan Ismail, W.A. (2022), “Product market competition, board gender
+diversity and corporate sustainability performance: international evidence”, Journal of Financial
+Reporting and Accounting, Vol. 20 No. 2, pp. 233-260.
+Kennedy, P. (2008). A Guide to Econometrics, John Wiley & Sons.
+Khatri, I. (2023), “Board gender diversity and sustainability performance: Nordic evidence”, Corporate
+Social Responsibility and Environmental Management, Vol. 30 No. 3, pp. 1495-1507.
+Koh, K., Li, L., Liu, X. and Wang, C. (2022), “The effect of audit partner diversity on audit quality:
+evidence from China”, Abacus, Vol. 59 No. 1.
+Kuada, J. (2009), “Gender, social networks, and entrepreneurship in Ghana”, Journal of African
+Business, Vol. 10 No. 1, pp. 85-103.
+Lo, K.Y. and Kwan, C.L. (2017), “The effect of environmental, social, governance and sustainability
+initiatives on stock value—examining market response to initiatives undertaken by listed
+companies”, Corporate Social Responsibility and Environmental Management, Vol. 24 No. 6,
+pp. 606-619, doi: 10.1002/csr.1431.
+Lomazzi, V. and Seddig, D. (2020), “Gender role attitudes in the international social survey programme:
+cross-national comparability and relationships to cultural values”, Cross-Cultural Research,
+Vol. 54 No. 4, pp. 398-431.
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+793
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+GM
+39,6
+
+794
+
+London Stock Exchange Group (2018), “Your guide to ESG reporting”, Retrieved from London,
+available at: www.lseg.com/documents/esg-guidance-report-lseg-pdf-0
+Luh, P.K. (2024), “Gender of ﬁrm leadership, audit committee gender diversity and audit quality
+through the lens of audit fee: a Ghanaian insight”, Gender in Management, Vol. 39 No. 3, doi:
+10.1108/GM-06-2022-0215.
+Luh, P.K. and Kusi, B.A. (2023), “How do females in top executive positions inﬂuence ﬁrm proﬁtability:
+new insight from nonﬁnancial ﬁrms on Ghana Stock Exchange”, Gender in Management: An
+International Journal (Ahead-of-Print), Vol. 38 No. 4.
+Luo, X.R., Wang, D. and Zhang, J. (2017), “Whose call to answer: institutional complexity and ﬁrms’
+CSR reporting”, Academy of Management Journal, Vol. 60 No. 1, pp. 321-344.
+Manita, R., Bruna, M.G., Dang, R. and Houanti, L.H. (2018), “Board gender diversity and ESG
+disclosure: evidence from the USA”, Journal of Applied Accounting Research, Vol. 19 No. 2,
+pp. 206-224.
+Martínez, M.D.C.V., Martín-Cervantes, P.A. and del Mar Miralles-Quiros, M. (2022), “Sustainable
+development and the limits of gender policies on corporate boards in Europe. A comparative
+analysis between developed and emerging markets”, European Research on Management and
+Business Economics, Vol. 28 No. 1, p. 100168.
+Menicucci, E. and Paolucci, G. (2022a), “Gender diversity and bank risk-taking: an empirical
+investigation in Italy”, Corporate Governance: The International Journal of Business in Society,
+Vol. 22 No. 2, pp. 317-339.
+Menicucci, E. and Paolucci, G. (2022b), “Board diversity and ESG performance: evidence from the
+Italian banking sector”, Sustainability, Vol. 14 No. 20, p. 13447.
+Mensah, E. and Onumah, J.M. (2023), “Women on boards, ﬁrm earnings management (EM) and
+performance nexus: does gender diversity moderate the EM–performance relationship?”,
+Corporate Governance: The International Journal of Business in Society, Vol. 23 No. 5.
+Nadeem, M., Bahadar, S., Gull, A.A. and Iqbal, U. (2020), “Are women eco-friendly? Board gender
+diversity and environmental innovation”, Business Strategy and the Environment, Vol. 29 No. 8,
+pp. 3146-3161.
+Naveed, K., Voinea, C.L., Ali, Z., Rauf, F. and Fratostiteanu, C. (2021), “Board gender diversity and
+corporate social performance in different industry groups: evidence from China”, Sustainability,
+Vol. 13 No. 6, p. 3142.
+Nsanyan Sandow, J., Duodu, E. and Oteng-Abayie, E.F. (2021), “Regulatory capital requirements and
+bank performance in Ghana: evidence from Panel Corrected Standard Error”, Cogent Economics
+and Finance, Vol. 9 No. 1, p. 2003503.
+Saidu, M. and Aifuwa, H.O. (2020), “Board characteristics and audit quality: the moderating role
+of gender diversity”, International Journal of Business and Law Research, Vol. 8 No. 1,
+pp. 144-155.
+Sanyaolu, W.A., Eniola, A.A., Zhaxat, K., Nursapina, K., Kuangaliyeva, T.K. and Odunayo, J. (2022),
+“Board of directors’ gender diversity and intellectual capital efﬁciency: the role of international
+authorisation”, Cogent Business and Management, Vol. 9 No. 1, p. 2122802.
+Sarang, A.A.A., Rind, A.A., Al-Faryan, M.A.S. and Saeed, A. (2022), “Women on board and the cost of
+equity: the mediating role of information asymmetry”, Journal of Financial Reporting and
+Accounting, Vol. ahead-of-print No. ahead-of-print, doi: 10.1108/JFRA-02-2022-0048.
+Sattar, M., Biswas, P.K. and Roberts, H. (2022), “Board gender diversity and ﬁrm risk in UK private
+ﬁrms”, Global Finance Journal, Vol. 54, p. 100766.
+Schneider, M.C. and Bos, A.L. (2019), “The application of social role theory to the study of gender in
+politics”, Political Psychology, Vol. 40 No. S1, pp. 173-213.
+Shakil, M.H., Tasnia, M. and Mostaﬁz, M.I. (2021), “Board gender diversity and environmental, social
+and governance performance of US banks: moderating role of environmental, social and
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+corporate governance controversies”, International Journal of Bank Marketing, Vol. 39 No. 4,
+pp. 661-677.
+Sousa, M. and Santos, M.J. (2022), “Gender diversity and equality in the boardroom: quota
+implementation in Europe”, The Equal Pillars of Sustainability, Emerald Publishing, Bingley,
+pp. 143-169.
+Steady, F. (2007), “African women: re-centering the issues for the 21st century”, in Mazama, A. (Ed.),
+Africa in the 21st Century: Toward a New Future, Routledge, New York, NY, pp. 133-153.
+Terjesen, S., Sealy, R. and Singh, V. (2009), “Women directors on corporate boards: a review and
+research agenda”, Corporate Governance: An International Review, Vol. 17 No. 3, pp. 320-337.
+Toerien, F., Breedt, C. and de Jager, P.G. (2023), “Does board gender diversity improve environmental,
+social and governance disclosure? Evidence from South Africa”, South African Journal of
+Business Management, Vol. 54 No. 1, p. 11.
+UN Global Compact (2004), “Who cares wins: connecting ﬁnancial markets to a changing world”,
+available at: www.unepﬁ.org/ﬁleadmin/events/2004/stocks/who_cares_wins_global_compact_
+2004.pdf
+UNEP Finance Initiative (2005), “A legal framework for the integration of environmental, social and
+governance issues into institutional investment”, available at: www.unepﬁ.org/ﬁleadmin/
+documents/freshﬁelds_legal_resp_20051123.pdf
+Velte, P. (2017), “Do women on board of directors have an impact on corporate governance quality and
+ﬁrm performance? A literature review”, International Journal of Sustainable Strategic Management,
+Vol. 5 No. 4, pp. 302-346.
+Wasiuzzaman, S. and Wan Mohammad, W.M. (2020), “Board gender diversity and transparency of
+environmental, social and governance disclosure: evidence from Malaysia”, Managerial and
+Decision Economics, Vol. 41 No. 1, pp. 145-156.
+Wooldridge, J.M. (2009), Econometrics: Panel Data Methods.
+Yadav, P. and Prashar, A. (2023), “Board gender diversity: implications for environment, social, and
+governance (ESG) performance of Indian ﬁrms”, International Journal of Productivity and
+Performance Management, Vol. 72 No. 9, pp. 2654-2673, doi: 10.1108/IJP P M-12-2021-0689.
+Yu, J.J. and Madison, G. (2021), “Gender quotas and company ﬁnancial performance: a systematic
+review”, Economic Affairs, Vol. 41 No. 3, pp. 377-390.
+
+Gender of ﬁrm
+leadership and
+ESG reporting
+
+795
+
+Further reading
+Hiebl, M.R., Gärtner, B. and Duller, C. (2017), “Chief ﬁnancial ofﬁcer (CFO) characteristics and ERP
+system adoption: an upper-echelons perspective”, Journal of Accounting and Organizational
+Change, Vol. 13 No. 1.
+MyJoyOnline (2004), “Retrieved from Ghanaian women are less corrupt than men – Attorney General
+Dame tells UN Conference - MyJoyOnline”.
+Van de Ven, A.H., Rogers, R.W., Bechara, J.P. and Sun, K. (2008), “Organizational diversity, integration
+and performance”, Journal of Organizational Behavior, Vol. 29 No. 3, pp. 335-354.
+Corresponding author
+Peter Kodjo Luh can be contacted at: Luh_peter@yahoo.com
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/gm/article-pdf/39/6/778/9506764/gm-03-2023-0110.pdf by University of Ghana, John Vanderpuye on 25
+
+

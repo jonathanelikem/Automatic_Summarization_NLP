@@ -1,0 +1,1016 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/1359-0790.htm
+
+Economic freedom, corruption and
+bank stability: evidence from
+sub-Saharan Africa
+Baba Mohammed Adam, Emmanuel Sarpong-Kumankoma and
+Vera Fiador
+
+Economic
+freedom
+
+781
+
+Department of Finance, University of Ghana Business School, Accra, Ghana
+
+Abstract
+Purpose – This study aims to examine the impact of economic freedom and corruption on bank stability in
+sub-Saharan Africa (SSA).
+
+Design/methodology/approach – This study uses 38 countries in SSA from 2008 to 2019 using system
+GMM technique.
+
+Findings – The authors found that greater economic freedom increases economic efﬁciency through
+
+improving bank stability. Besides this, the authors also ﬁnd that banks in environments with greater business
+freedom, ﬁnancial freedom, trade freedom and investment freedom are less prone to solvency. The results also
+show that corruption improves bank stability, suggesting evidence of the “grease the wheels” hypothesis.
+Practical implications – The results suggest to policymakers that a high economic freedom may be an
+appropriate policy toward enhancing bank stability. Besides this, the results also suggest to policymakers to
+prioritize addressing the core issues that encourage corruption to extort bribes.
+Originality/value – This study provides insightful discussion on whether economic freedom and its
+subcomponents and corruption have an effect on bank stability in SSA.
+
+Keywords Economic freedom, Corruption, Business freedom, Financial freedom, Trade freedom,
+Monetary freedom, Sub-Saharan Africa
+Paper type Research paper
+
+1. Introduction
+Banks are considered one of the most signiﬁcant ﬁnancial intermediaries in a country.
+Banks are important because they represent an economy’s primary source of savings and
+credit allocation (Dell’Ariccia and Marquez, 2004). Banks are important in every economy
+because they offer essential ﬁnancial services that drive development and economic growth
+(Barth et al., 2005). Consequently, Levine (2004) posited that ﬁnancial institutions promote
+economic growth by mobilizing and pooling savings, reducing information asymmetry,
+monitoring investment and facilitating the ﬁnal exchange of goods and services.
+According to Arun and Turner (2004), while the banking industry and ﬁnancial markets
+work together to allocate credit in developed economies, the story is different in developing
+economies because ﬁnancial markets are small or nonexistent in some cases. Therefore, it is
+the responsibility of the banking sector to close the gap for both surplus and deﬁcit units
+and to carry out all activities associated with the safe and proﬁtable allocation of funds.
+Because of the signiﬁcance of banks, it is unsurprising that the ﬁnancial sector has received
+far more attention. It explains why the banking industry has speciﬁcally sought special
+protection and why there is so much focus on supervision and regulation (Barth et al., 2008).
+There have been increased reforms across the globe, which have resulted in liberalization,
+with developed countries having greater liberty than developing countries.
+
+Journal of Financial Crime
+Vol. 31 No. 4, 2024
+pp. 781-794
+© Emerald Publishing Limited
+1359-0790
+DOI 10.1108/JFC-04-2023-0087
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+782
+
+Extensive literature has examined the impact of economic freedom on economic growth
+(Bergh and Bjørnskov, 2021; Bergh and Karlsson, 2009; Wiseman, 2016). Researchers have
+recently been interested in the impact of economic freedom on the ﬁnancial sector (Suﬁan
+and Habibullah, 2010; Suﬁan and Habibullah, 2014; Sarpong-Kumankoma et al., 2020;
+Sarpong-Kumankoma et al., 2018). Most of this literature has focused on either advanced or
+emerging economies (Asteriou et al., 2016; Asteriou et al., 2021; Chortareas et al., 2013). The
+study contributes to the limited literature on economic freedom in the ﬁnancial sector and is
+inspired by the latest developments in countries in sub-Saharan Africa (SSA) and the ﬁnancial
+sector and contributes to the research on this topic. The study chose ﬁve subcomponents of
+the economic freedom index (EF index) that are closely related to the ﬁnancial system, as well
+as the overall EF index. These subcomponents of the indexes are monetary freedom (MF),
+trade freedom (TF), investment freedom (IF), business freedom (BF) and ﬁnancial freedom
+(FF). Researchers (Abbas, 2021; Chortareas et al., 2013; Harkati et al., 2019; Ghosh, 2016;
+Suﬁan and Habibullah, 2010; Sarpong-Kumankoma et al., 2020) have examined these issues
+separately and in various combinations in the banking sector. To the best of our knowledge,
+this is the ﬁrst attempt to examine the relationship between the ﬁve subcomponents and bank
+performance as proxied by stability.
+Notwithstanding the body of literature on the relationship between corruption and the
+economy (Ali and Sassi, 2016; Ali and Saha, 2016; Saha and Ali, 2017; Park, 2012), there is
+limited research on the role of corruption in the performance of banks. Also, even though an
+exceedingly overwhelming majority of literature points to the adverse impacts of corruption,
+many studies suggest that it might have a positive relationship by improving capital
+allocation efﬁciency (Acemoglu and Verdier, 2000; Dreher and Gassebner, 2011; Meon and
+Sekkat, 2005). Furthermore, as far as we know, this study is the ﬁrst to provide empirical
+evidence on the simultaneous impact of economic freedom and corruption on the
+performance of banks in SSA. Studies by Asteriou et al. (2021) and Asteriou et al. (2016)
+support the simultaneous examination of the role of economic freedom and corruption on
+bank performance. The role of the banking industry in recent events ampliﬁes the
+importance of understanding how curbing corruption, economic freedom and a sound
+regulatory framework affect a bank’s ability to enhance stability.
+In this regard, the study provides an investigation into the role of economic freedom and
+corruption in the performance of banks in SSA. In doing so, the authors further seek to
+expand the economic freedom using ﬁve subcomponents of economic freedom in the
+Heritage Foundation Index to ascertain the impact of these subcomponents on bank stability
+in SSA. The selection of these ﬁve subcomponents is based on their signiﬁcance to the
+ﬁnancial system, as determined by earlier studies.
+The rest of the paper is organized as follows: Section 2 reviews relevant empirical and
+theoretical literature. Section 3 is the methodological framework used to investigate the
+impact of the various variables on bank stability. Section 4 presents the empirical results
+and a discussion of the results and Section 5 presents conclusion and policy implications.
+2. Literature review
+2.1 Corruption and bank stability
+There are two opposing views on the role of corruption in bank performance. The pioneers
+of the “grease the wheels” hypothesis (Leff, 1964; Huntington, 1968; Leys, 1965) believe that
+endemic corruption can be advantageous in the “second-best world” due to disruptions
+caused by poorly functioning organizations. Corruption can compensate for a variety
+of aspects of the bureaucracy’s dysfunction. It suggests that in countries where other
+elements and governance are overcentralized and ineffective, dishonesty is rampant and
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+bureaucracies are overly rigid, corruption may be favorable. Firms consider paying bribes to
+state institutions or ofﬁcials when the payment beneﬁts their performance and growth, and
+when not paid, ﬁrms will lose capital and resources (Boukou, 2017). As a result, the theory of
+“grease the wheels” suggests that corruption enhances rather than harms ﬁrm performance.
+On the contrary, the “sand the wheels” hypothesis is distinctive because it highlights the
+adverse effects of corruption that may emerge in a weak environmental framework.
+According to Myrdal (1968), the assertion that civil servants could perhaps speed up a slow
+procedure highlights the perk of corruption in the lack of speed. However, corrupt
+government ofﬁcials may cause slowdowns that would not be evident anyway to extort
+bribes (Myrdal, 1968). Several studies have found evidence of corruption’s “sand in the
+wheel” effect. La Porta et al. (2002) posit that economies with more banks owned by the
+government have higher levels of corruption.
+
+Economic
+freedom
+
+783
+
+2.2 Economic freedom and bank stability
+Theories on economic freedom are yet to be developed by researchers, but their impact on
+the ﬁnancial sector has been established. Asteriou et al. (2016) found a negative effect of
+economic freedom on the risk of bankruptcy; however, economic freedom is signiﬁcantly
+positive on ﬁnancial stability when measured by the ﬁnancial system soundness index.
+Again, Asteriou et al. (2021) found that the degree of economic freedom in the Eurozone has
+a positive impact on bank stability. Harkati et al. (2019) found that the degree of economic
+freedom, MF, BF and FF has a negative effect on the risk-taking behaviors of Malaysian
+banks. However, Ghosh (2016) found that a higher degree of economic freedom and its two
+subcomponents, namely, BF and MF, has a negative relationship with bank risk-taking in
+Middle East and North Africa. Abbas (2021) found that TF and IF have a direct association
+with the risk-taking of US banks. FF, however, reduces ﬁnancial risk-taking, exhibiting a
+negative relationship. Similarly, Sarpong-Kumankoma et al. (2020) found that FF has a
+negative impact on bank stability. Thus, advocating for government interference in the
+ﬁnancial activities of banks in the region to ensure the stability of banks.
+3. Methodology and data
+3.1 Data and sample
+The source of a large group of the data is the Global Financial Database, which reports
+measure bank stability for the region of interest. The economic freedom and subcomponent
+variables were sourced from the Heritage Foundation and retrieved from their webpage
+(www.heritage.org). The corruption variable was sourced from Transparency International
+and retrieved from their webpage (www.transparency.org). The macroeconomic indicators
+were obtained from the World Development Indicators and retrieved from their webpage
+(www.worldbank.org). The study originally comprised all countries in the SSA region from
+2008 to 2019. The goal of this study was to use a lot of data as a way of generalizing the
+results. Therefore, after excluding countries with missing or zero values due to data
+limitations, the study settled on 38 countries in SSA from 2008 to 2019. The ﬁnal sample
+after excluding missing or no variables for key variables is an unbalanced panel of 38
+countries in the SSA region. The countries included in the study are Burkina Faso, Sierra
+Leone, Angola, Chad, Ethiopia, Cabo Verde, Cameroon, Benin, Cote d’Ivoire, Togo,
+Botswana, Uganda, Niger, Gabon, Burundi, Liberia, South Africa, Congo Democratic
+Republic, Eswatini, Kenya, Ghana, Seychelles, Lesotho, Gambia, Mali, Nigeria, Namibia,
+Mauritius, Mozambique, Guinea, Namibia, Rwanda, Senegal, Malawi, Tanzania, Zimbabwe,
+Madagascar and Zambia. In accordance with the Economic Intelligence Unit, the countries
+included in the ﬁnal sample encompassed all the largest banking industries in SSA.
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+784
+
+3.2 Measuring bank stability indices
+The Z-score is the most widely used measure to approximate bank stability in literature.
+According to academic scholars Laeven and Levine (2009), the Z-score is the most widely
+used metric of bank soundness. According to Boyd and Runkle (1993), the Z-score has an
+inverse relationship with a bank’s solvency. The expression of the Z-score is given by:
+Z  Scoreit ¼
+
+ROAit þ EQASSit
+sð ROAÞit
+
+Here Z-Scoreit is the measure of stability, ROAAit is the return on assets, EQASSit is
+expressed as the bank equity capital divided by total assets and s(ROAA)it refers to the
+volatility of the return on assets for country i at time t. To obtain the values for the volatility
+of ROAA, this study uses a three-year rolling window (Beck et al., 2013; SarpongKumankoma et al., 2020).
+According to Laeven and Levine (2009), our measure for bank stability measures how
+distant a banking industry is from solvency. A banking system with a higher Z-score
+translates to a highly stable banking sector and a lower probability of insolvency.
+3.3 Economic freedom index
+Following recent studies like Asteriou et al. (2021) and Sarpong-Kumankoma et al. (2020),
+this study’s measure of economic freedom is proxied by the Heritage Foundation’s EF Index.
+This index encompasses 12 subcomponents related to national policies on individual
+freedom and each country’s interactions with other countries. It measures the overall
+economic freedom based on the 12 subcomponents. The Heritage Foundation’s Index is
+widely used in the literature and organized into four groups: government size, rule of law,
+open markets and regulatory efﬁciency. The 12 subcomponents are labor freedom,
+government integrity, MF, tax burden, FF, property rights, government spending, ﬁscal
+health, judicial effectiveness, IF, TF and BF.
+These 12 subcomponents are equally weighted to develop the overall EF index, with
+values ranging from 0 to 100, with a higher value indicating greater economic freedom. The
+overall score of the index is calculated by taking the equally weighted average of the 12
+factors.
+FF measures freedom from state control and interference in the banking system and
+banking efﬁciency. The government holding more equity in banks and other ﬁnancial
+intermediaries reduces the overall services available (Miller et al., 2022). A free banking
+business environment fosters competition, resulting in an efﬁcient intermediation process
+between deﬁcit and surplus units, particularly for investors and businesses. The stateimposed action that goes beyond the state’s goal of ensuring disclosure, integrity and
+transparency will almost certainly reduce contestability and efﬁciency, while raising the
+cost of ﬁnancing (Miller and Kim, 2016).
+BF measures the rights of businesses and individuals to establish and operate businesses
+without government interference. A higher score of BF means a lower regulatory barrier
+that individuals and businesses must bear and a lower cost of output. The banking territory
+is straightforward to forecast when there is greater BF as to productivity and proﬁtability.
+However, in a free market, the state only interferes in price setting or other decision-making
+(Miller and Kim, 2016).
+MF involves market-determined pricing and the stability of the currency. There is no
+universally accepted optimal monetary policy. However, modern monetary theories
+advocate for central bank independence and a low inﬂation target. Also, there is a widely
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+held belief that price controls are useful in reducing market corruption, yet they result in
+either surpluses or shortages (Miller and Kim, 2016). An expansionary monetary policy such
+as low-interest rates may lead ﬁnancial institutions to engage in hazardous activities such as
+seeking yield or boosting collateral value (Rajan, 2010; Borio and Zhu, 2012).
+IF in a free and open society maximizes the potential of entrepreneurs and creates
+incentives aimed at increasing employment, economic activity and productivity. A business
+environment where individuals and businesses have the freedom to choose where to invest
+and how to invest optimizes capital efﬁciency, allocation and ﬂow, resulting in the greatest
+form of reward. The greater an environment’s investment limitations, the lower its degree of
+entrepreneurship (Miller and Kim, 2016). A higher IF score means easier market access and,
+as a result, cost efﬁciency. However, it may push banks to take unnecessary risks.
+TF measures a country’s free exchange, the cross-border movement of goods and
+services, as well as an individual’s and business’s ability to operate willingly in the global
+marketplace as a buyer or seller. TF boosts the movement of investment and business
+activity within and outside of a country, increasing competition between ﬁnancial
+intermediaries. This, in turn, has an impact on ﬁnancial institutions’ risk-taking. Also, trade
+restrictions keep advanced-technology products and services far away from local ﬁrms, thus
+limiting their own productive development (Miller and Kim, 2016).
+
+Economic
+freedom
+
+785
+
+3.4 Corruption index
+To assess corruption, this study used Transparency International’s Corruption Perception
+Index. It is the primary proxy for corruption used in literature. Transparency International’s
+Corruption Perception Index would be addressed as the TI index going forward. As in Chen
+et al. (2015), the TI index is frequently used in literature. The index is a poll of polls and is
+the mean of results assessed from business surveys and a country’s team of analysts’
+assessments from various sources. If the errors in different surveys are independent,
+averaging the results reduces the margin of error in the measurement.
+A higher value of the Corruption Perception Index (CPI), scaled from 0 to 10, indicates
+less corruption perceived in the country.
+3.5 Control variables
+Following relevant literature, the study controls for factors like diversiﬁcation (DIV),
+expressed as noninterest income divided by total income, and the size of the banking sector.
+Based on previous literature, researchers revealed that banks beneﬁt from diversiﬁcation by
+reducing their unsystematic risk, which improves stability. Hence, diversiﬁcation is
+expected to have a positive relationship with bank stability. There is also evidence to
+support a negative relationship between diversiﬁcation and bank stability. The “dark side”
+of diversiﬁcation argues that banks with too much diversiﬁcation tend to have higher
+volatility, making them susceptible to insolvency (Stiroh and Rumble, 2006). According to
+literature, larger banks have low fragility because they may have enough proﬁt to serve as
+“capital buffers,” hence being less prone to insolvency. However, larger banks may have
+inﬂated moral hazard problems due to being “too big to fail,” which makes them more
+susceptible to insolvency.
+In this study, the models also account for macroeconomic factors that control
+business cycles and economic development within the 38 sub-Saharan countries.
+Because global economies have experienced signiﬁcant volatility in the recent decade,
+the study used two macroeconomic variables for each country’s macroeconomic
+climate. These include economic development, proxied by the log of GDP per capita
+(GDPit). The gross domestic product (GDP) is a measure of the volatility in economic
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+786
+
+activities (Agoraki et al., 2011; Asteriou et al., 2021; Asteriou et al., 2016). Researchers
+posit a direct relationship between GDP and performance. Thus, improved GDP may
+increase the demand for credit, which would consequently boost bank performance.
+However, GDP may have a negative impact on bank performance by increasing
+competition, which intends to dampen performance. Last, the models controlled for the
+inﬂation rate (INFit). Inﬂation refers to the yearly rate of change in the Corruption
+Perception Index. Researchers Waemustafa and Sukri (2015) and Athanasoglou et al.
+(2008) posit a positive correlation between inﬂation and the returns of banks. To
+explain, when the inﬂation rate increases, this leads to higher interest being charged on
+loans, which may lead to banks earning higher proﬁts. However, higher inﬂation may
+possibly have an adverse effect on the returns of banks. Thus, bank costs reprice faster
+than the bank’s assets, leading to a negative impact on bank returns when inﬂation is
+not anticipated and banks are slow to adjust their interest rates (Table 1).
+3.6 Estimating the eﬀect of economic freedom and corruption on bank stability
+Our empirical model incorporates the lag of the dependent variable to show bank stability
+persists over time, that is, the previous values affect its current value, which is given below.
+The approach is similar to relevant literature on stability, like Abbas (2021):
+ZSCORE i;t ¼ b1 ZSCORE i;t1 þ b2 EF i;t þ b3 CORRi;t þ b4 DIV i;t þ b5 ROAAi;t
+þ b6 SIZE i;t þ b7 INF i;t þ b8 LGDP i;t
+where ZSCOREi,t is the measure of banking soundness in country i during the period t, and
+is the measure for the dependent variable of our analysis by the bank stability; ZSCOREi,t1
+is the lag of Z-Score, EFi,t is overall EF Index based on the Heritage Foundation Index,
+CORRi,t is an abbreviation for corruption based on the CPI scaled from 0 to 10, DIVi,t is an
+abbreviation for diversiﬁcation, ROAAi,t is an abbreviation for Return on Average Assets,
+SIZEi,t is an abbreviation for bank size, INFi,t is an abbreviation for the inﬂation rate and
+LGDPi,t is an abbreviation for the log of GDP per capita.
+We estimate our regression using a system GMM. To increase the efﬁciency of the dynamic
+panel estimators, Anderson and Hsiao (1981), Arellano and Bond (1991), Arellano and Bover (1995)
+
+Variables
+
+Table 1.
+Variables, expected
+signs, and data
+sources
+
+Bank stability (Z-SCORE)
+Economic freedom index (EF)
+Financial freedom
+Investment freedom
+Business freedom
+Trade freedom
+Monetary freedom
+Corruption (CORR)
+Bank proﬁtability (ROAA)
+Bank size (SIZE)
+Diversiﬁcation (DIV)
+Gross domestic product (GDP)
+Inﬂation rate (INF)
+
+Expected signs
+
+
+þ/
+
+þ/
+
+þ/
+þ
+þ/
+þ/
+þ/
+þ/
+
+Source
+Global Financial Database
+The Heritage Foundation
+The Heritage Foundation
+The Heritage Foundation
+The Heritage Foundation
+The Heritage Foundation
+The Heritage Foundation
+Transparency International
+Global Financial Database
+Global Financial Database
+Global Financial Database
+World Bank
+World Bank
+
+Source: Authors’ construct (2022)
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+and Blundell and Bond (1998) proposed the GMM estimator. According to Berger et al. (2000),
+bank performance persists over time due to sensitivity to macroeconomic shocks, market
+competition barriers and information opacity. That is to say, the performance of a bank in
+previous years inﬂuences its performance this year. Furthermore, García-Herrero et al. (2009) posit
+that issues of endogeneity may occur when examining factors that inﬂuence bank performance.
+This study adopts the two-step system technique by Arellano and Bover (1995) and
+Blundell and Bond (1998) to address the endogeneity problem. The dynamic effect is used in
+this estimator by adding a lagged-dependent variable, namely, Z-score, to the predictor
+variable. Furthermore, in using the two-step system GMM, the author creates a set of
+instrumental variables for endogenous variables. To be speciﬁc, the study uses past values
+as their respective instruments to treat all potentially endogenous variables (Vallascas and
+Hagendorff, 2013).
+
+Economic
+freedom
+
+787
+
+4. Empirical results
+4.1 Descriptive statistics
+Table 2 shows a synopsis of the descriptive statistics for the variables. The Z-score reports a
+mean of 14.56% with a maximum of 27.95. The results showed that the countries under
+study during the period 2008–2009 were relatively unstable. The results show an average of
+55.59 economic freedom in SSA, indicating a mostly free level of freedom over the period
+2008–2019 for individuals and businesses to own and use their own capital. The
+subcomponents of economic freedom, namely, BF and MF, averaged 54.14 and 72.58,
+respectively. This shows that countries in the SSA region in this study over the period
+2008–2019 are mostly unfree in areas such as BF. Besides this, SSA countries are mostly
+free, measured by MF. TF and IF averaged 68.38 and 49.82, respectively. This shows that
+countries in the SSA region are moderately free, measured by TF and repressed in terms of
+the level of IF. FF averaged 42.78, indicating a repressed level of FF in SSA over the period
+2008–2019. The results show that SSA exhibited a reasonably low corruption index score,
+indicating a corrupt environment. In addition, the standard deviation for corruption was
+1.15 with an observation of 449. In such an environment, there is a strong perception of
+bribery and fraud, which may have a negative effect on performance.
+
+Variable
+Z-Score
+Economic freedom
+Business freedom
+Monetary freedom
+Trade freedom
+Investment freedom
+Financial freedom
+Corruption
+Return on assets
+Size
+Diversiﬁcation
+Inﬂation
+GDP
+
+Observations
+
+Mean
+
+Dev.
+
+Minimum
+
+Maximum
+
+425
+453
+453
+453
+453
+453
+453
+449
+420
+438
+421
+450
+359
+
+14.562
+55.594
+54.14
+72.584
+68.378
+49.823
+42.781
+3.399
+1.909
+29.904
+43.192
+7.086
+0.833
+
+5.659
+7.534
+11.564
+10.789
+9.636
+15.507
+13.245
+1.149
+1.709
+23.668
+10.649
+13.303
+0.98
+
+2.731
+21.4
+24.9
+0
+28.4
+0
+10
+1.5
+23.257
+3.931
+17.948
+3.233
+6.164
+
+27.947
+77
+83.3
+89.5
+88.9
+90
+70
+6.6
+6.778
+157.558
+82.031
+255.305
+2.894
+
+Source: Authors’ construct from data
+
+Table 2.
+Summary of
+descriptive statistics
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+788
+
+For the control variables, return on assets reports a mean of 1.91%. Generally, the results
+show banks were less proﬁtable during the period 2008–2019. With a mean of about 43.19%
+of banks in SSA, this indicates relatively diversiﬁed banks in SSA. It expresses the
+signiﬁcance of a bank’s noninterest income in relation to total income. Bank size also
+averaged 29.90. Economic development is measured as GDP, which reports an average of
+0.83%. A lower GDP may reduce bank proﬁts by lowering bank deposits by individuals and
+businesses. Also, inﬂation averaged 7.09%, which may have a positive inﬂuence on banks
+when it is anticipated and an adverse effect when it is not.
+4.2 Eﬀect of economic freedom, corruption and bank stability in sub-Saharan Africa
+Table 3 presents the regression results for the role of economic freedom and corruption on
+bank stability. The table used the two-step GMM econometric methodology to model the
+regression and reveals the outcome of the estimation of the impact of economic freedom and
+corruption on bank stability. The estimated outcome for the lagged dependent variable
+(Z-score) shows a highly signiﬁcant value of 1%, justifying this study’s use of a dynamic
+panel model in the estimation. The outcome shows a direct association between the lagged
+experimental variable and the experimental variable Z-score. The result indicates bank
+stability is highly persistent because an increase in the previous values for stability has a
+direct relationship with future stability, which is signiﬁcant. For our measure of overall
+economic freedom, the variable shows a positive relationship with bank stability, which is
+signiﬁcant at all levels. One explanation for this is greater economic freedom, which implies
+an environment that is open and where businesses have the right to own and engage in
+anything without government interference. This fuels competition, which may increase
+economic efﬁciency and turn out to be less prone to insolvency. This ﬁnding agrees with
+Asteriou et al. (2021), which revealed a direct association between economic freedom and
+bank soundness.
+Referring to the subcomponents, BF shows a positive relationship with bank soundness,
+which is signiﬁcant. One explanation for this is that greater BF removes barriers to setting
+up businesses that intend to increase competition, leading to economic efﬁciency and thus
+being less prone to insolvency. The ﬁndings support Sarpong-Kumankoma et al. (2020), who
+argue that competition enhances bank stability. MF indicates a positive relationship with
+bank stability, which is signiﬁcant. It suggests that greater (or lower) monetary policy
+independence increases (or reduces) the stability of banks in SSA countries’ banking sectors
+during the period 2008–2019. This is contrary to Ghosh (2016), who reported a negative
+association between MF and banking sector stability. TF shows a positive relationship with
+bank stability, which is insigniﬁcant. This aligns with Abbas (2021), who revealed a direct
+association between TF and bank stability. IF shows a direct effect on bank stability, which
+is signiﬁcant. This means that a greater level of IF promotes bank stability. This supports
+the results of Abbas (2021), who reported a positive association between IF and bank
+stability. FF reports a positive relationship with bank stability. Thus, a higher level of FF
+improves bank stability; however, this is insigniﬁcant. One explanation for this is that
+greater FF leads to an economy of scope and scale for banks, which in turn decreases the
+risk banks face and improves stability. This is contrary to the results of Abbas (2021), which
+reported an indirect association with bank stability. Referring to our measure of corruption
+using the Transparency International Index, corruption shows a negative relationship with
+bank stability. This suggests that banks in SSA beneﬁt from corruption. One explanation
+for this is that a highly corrupt environment allows corrupt businesses to pay bribes to
+access credit facilities due to slowness or bureaucracies, which helps banks in SSA to be
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+6.475*** (1.442)
+276
+36
+32
+24,629.4***
+2.98
+0.003
+1.46
+0.145
+26.25
+0.289
+
+0.371 (1.258)
+276
+36
+32
+11,505.2***
+3.03
+0.002
+1.29
+0.195
+28.48
+0.198
+
+0.393** (0.193)
+0.015** (0.007)
+0.871*** (0.085)
+0.001 (0.004)
+0.054** (0.023)
+0.191*** (0.041)
+
+0.353*** (0.129)
+0.017** (0.007)
+0.731*** (0.087)
+0.002 (0.005)
+0.047** (0.022)
+0.090 (0.066)
+0.043*** (0.013)
+
+2.042* (1.179)
+276
+36
+32
+29,694.9***
+2.98
+0.003
+1.31
+0.189
+30.99
+0.123
+
+0.053*** (0.011)
+
+0.820*** (0.025)
+
+0.807*** (0.025)
+
+0.823*** (0.017)
+0.127*** (0.018)
+0.228* (0.119)
+0.028** (0.011)
+0.834*** (0.080)
+0.002 (0.006)
+0.044** (0.019)
+0.124* (0.073)
+
+(3)
+ZSCORE
+
+(2)
+ZSCORE
+
+(1)
+ZSCORE
+
+1.918 (1.808)
+276
+36
+32
+19,797***
+2.90
+0.183
+1.33
+0.183
+28.97
+0.181
+
+0.002 (0.018)
+
+0.157 (0.134)
+0.007 (0.007)
+0.788*** (0.089)
+0.008 (0.005)
+0.055** (0.021)
+0.115* (0.061)
+
+0.801*** (0.026)
+
+(4)
+ZSCORE
+
+4.117*** (1.370)
+276
+36
+32
+13,288.9***
+2.90
+0.004
+1.25
+0.210
+26.69
+0.269
+
+0.081*** (0.014)
+
+0.659*** (0.223)
+0.081*** (0.014)
+0.948*** (0.117)
+0.009 (0.007)
+0.062** (0.029)
+0.111 (0.096)
+
+0.800*** (0.029)
+
+(5)
+ZSCORE
+
+0.027 (0.024)
+1.186 (1.226)
+276
+36
+32
+18,835.3***
+2.95
+0.003
+1.34
+0.180
+29.20
+0.174
+
+0.169 (0.137)
+0.009 (0.007)
+0.704*** (0.119)
+0.006 (0.005)
+0.060** (0.023)
+0.096 (0.085)
+
+0.783*** (0.025)
+
+(6)
+ZSCORE
+
+Notes: The dependent variable is the Z-score, which is our measure of bank stability, and economic freedom is the measure of the overall economic freedom index. It is scaled from 0 to
+100, where a greater number shows a higher degree of economic freedom, business freedom, monetary freedom, trade freedom, investment freedom and ﬁnancial freedom Index are all
+from the Heritage Foundation Index. Corruption is measured by the Transparency International Corruption Perception Index and rescaled from 0 to 10 where a greater score indicates
+less corruption. Return on average assets is the measure for proﬁtability which stands for the ratio of bank proﬁt after tax to total assets. Inﬂation rate measures increases in price levels;
+economic development measures the log of gross domestic product; bank size is measured as the ratio of total assets to GDP; and diversiﬁcation is measured as noninterest income
+divided by total income. The models were estimated using the two-step GMM technique. The standard errors are in parentheses and ﬁnally ***, ** and * indicate 1, 5 and 10% levels of
+signiﬁcance, respectively
+Source: Authors’ construct
+
+ZSCOREt  1
+Economic freedom
+Corruption
+Diversiﬁcation
+Return on assets
+Bank size
+Inﬂation
+Economic development
+Business freedom
+Monetary freedom
+Trade freedom
+Investment freedom
+Financial freedom
+Constant
+Observations
+Number of ids
+No. of instruments
+F-test
+AR (1)
+p-Value
+AR (2)
+p-Value
+Hansen
+p-Value
+
+VARIABLES
+
+Economic
+freedom
+
+789
+
+Table 3.
+Effect of economic
+freedom and
+corruption on bank
+stability
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+790
+
+more stable. This ﬁnding aligns with the “grease the wheels” hypothesis, which posits that
+corruption enhances performance.
+For the control variables, return on average assets (ROAA) shows a direct association
+with bank stability, which is signiﬁcant. This means that increasing bank proﬁts tend to
+reduce bank risk by improving stability. One explanation is that proﬁtable banks may
+increase the lending rate to maintain their level of proﬁtability, which intends to reduce
+their risk and improve stability over others. This aligns with recent studies by Ali et al.
+(2019) and Harkati et al. (2019), who revealed a positive association between the margin
+earned by banks and bank stability. However, the result is contrary to the “risk-return
+tradeoff,” which posits that higher proﬁt is only realized when investors or businesses are
+willing to accept more risk. Similarly, there is an inverse association between bank size
+and bank stability; however, this is insigniﬁcant. As banks increase in size, their
+systematic risk also increases as they take on more and more assets. The result is
+supported by the agency theory postulation, which posits that an increase in bank size
+increases bank risk, which dampens bank stability. This estimation outcome aligns with
+a recent study by Abbas (2021), who established an inverse association between bank
+size and bank stability. Similarly, diversiﬁcation shows a positive association with bank
+stability. That is, highly diversiﬁed banks tend to be more stable with a lower probability
+of insolvency. One explanation for this is that banks in SSA beneﬁt from diversiﬁcation
+by reducing their risk, which improves bank stability. This ﬁnding is contrary to
+Sarpong-Kumankoma et al. (2020), who reported an inverse relationship. However, this
+estimation outcome aligns with Ghosh (2016), who predicted a direct association between
+diversiﬁcation and bank soundness.
+Economic development tends to have a direct association with bank stability. One
+possible explanation for this is that higher GDP improves economic circumstances,
+which may mean an increase in credit to private individuals and businesses, which may
+increase the proﬁt of banks and serve as a capital buffer, which reduces risk improves
+bank soundness. This outcome aligns with Harkati et al. (2019), who provided a direct
+association between GDP and bank soundness. Inﬂation revealed an indirect relationship
+between bank soundness and inﬂation. This means that a higher degree of inﬂation
+harms the stability of banks. Ali et al. (2020) posit that when inﬂation rises, banks may
+signiﬁcantly increase their lending rates above and beyond their expenses and costs,
+which may involve banks in leery lending activities, increasing their risk-taking, and
+resulting in increased banking fragility. The ﬁndings align with recent studies by
+Asteriou et al. (2021) and Mavrakana and Psillaki (2019), who found a negative
+association between inﬂation and bank stability.
+5. Conclusion and policy implications
+This study analyzes the effect of economic freedom and corruption on the stability of banks
+in SSA. The data set uses a dynamic panel of 38 countries in SSA over a 12-year period from
+2008 to 2019. Using the system GMM econometric technique, our results show that economic
+freedom has a positive relationship with bank stability. This result denotes that a higher
+degree of economic freedom enhances the banking sector’s soundness. For the
+subcomponents that relate to the ﬁnancial sector, BF, MF, FF, IF and TF show a direct
+association with bank stability, denoting that a higher score on these indexes reduces risk
+and promotes bank stability. This suggests to policymakers that a higher degree of
+economic freedom in the banking sector may be an appropriate policy toward ensuring the
+stability of banks.
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+Also, corruption shows an indirect association with bank stability. This suggests that a
+lower CPI score, which signiﬁes a high perception of corruption, improves bank stability.
+This suggests that policymakers should prioritize the core issues, such as correcting an
+overcentralized and ineffective, dishonest and bureaucratic environment that encourages
+corruption to extort bribes.
+For the control variables, return on assets reveals a direct relationship with bank
+stability, denoting that a greater proﬁt boosts bank stability. Diversiﬁcation shows a
+direct relationship with bank soundness, indicating that banks with a greater portion
+of their funds diversiﬁed are more stable. Bank size revealed an inverse association
+with bank soundness. Economic development measured by GDP also shows a direct
+association with the stability of banks in SSA, indicating that countries with greater
+GDP tend to have a more stable banking system. Inﬂation also shows a negative
+relationship with bank stability. This means a higher level of inﬂation harms bank
+stability.
+
+Economic
+freedom
+
+791
+
+References
+Abbas, F. (2021), “Impact of investment, ﬁnancial and trade freedom on bank’s risk-taking”, Studies in
+Business and Economics, Vol. 16 No. 3, pp. 5-23.
+Acemoglu, D. and Verdier, T. (2000), “The choice between market failures and corruption”, American
+Economic Review, Vol. 90 No. 1, pp. 194-211.
+Agoraki, M.-E.K., Delis, M.D. and Pasiouras, F. (2011), “Regulations, competition and bank risk-taking
+in transition countries”, Journal of Financial Stability, Vol. 7 No. 1, pp. 38-48.
+Ali, M.S.B., Fhima, F. and Nouira, R. (2020), “How does corruption undermine banking stability? A
+threshold nonlinear framework”, Journal of Behavioral and Experimental Finance, Vol. 27,
+p. 100365.
+Ali, M.S.B. and Saha, S. (2016), “Corruption and economic development”.
+Ali, M.S.B. and Sassi, S. (2016), “The corruption-inﬂation nexus: evidence from developed and
+developing countries”, The BE Journal of Macroeconomics, Vol. 16 No. 1, pp. 125-144.
+Ali, M., Sohail, A., Khan, L. and Puah, C.-H. (2019), “Exploring the role of risk and corruption on bank
+stability: evidence from Pakistan”, Journal of Money Laundering Control, Vol. 22 No. 2,
+pp. 270-288.
+Anderson, T.W. and Hsiao, C. (1981), “Estimation of dynamic models with error components”, Journal
+of the American Statistical Association, Vol. 76 No. 375, pp. 598-606.
+Arellano, M. and Bond, S. (1991), “Some tests of speciﬁcation for panel data: Monte Carlo evidence and
+an application to employment equations”, The Review of Economic Studies, Vol. 58 No. 2,
+pp. 277-297.
+Arellano, M. and Bover, O. (1995), “Another look at the instrumental variable estimation of errorcomponents models”, Journal of Econometrics, Vol. 68 No. 1, pp. 29-51.
+Arun, T.D. and Turner, J. (2004), “Corporate governance of banks in developing economies: concepts
+and issues”, Corporate Governance, Vol. 12 No. 3, pp. 371-377.
+Asteriou, D., Pilbeam, K. and Tomuleasa, I. (2016), “The impact of economic freedom, business
+regulation and corruption on bank proﬁtability and bank stability: evidence from Europe”, City
+Research Online.
+Asteriou, D., Pilbeam, K. and Tomuleasa, I. (2021), “The impact of corruption, economic
+freedom, regulation and transparency on bank proﬁtability and bank stability: evidence
+from the Eurozone area”, Journal of Economic Behavior and Organization, Vol. 184,
+pp. 150-177.
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+792
+
+Athanasoglou, P.P., Brissimis, S.N. and Delis, M.D. (2008), “Bank-speciﬁc, industry-speciﬁc and
+macroeconomic determinants of bank proﬁtability”, Journal of International Financial Markets,
+Institutions and Money, Vol. 18 No. 2, pp. 121-136.
+Barth, J.R., Caprio, G. and Levine, R. (2005), Rethinking Bank Regulation: Till Angels Govern, Cambridge
+University Press, New York, NY.
+Barth, J.R., Caprio, G. and Levine, R. (2008), “Bank regulations are changing: for better or worse? - bank
+regulations are changing: for better or worse?”, Comparative Economic Studies, Vol. 50 No. 4,
+pp. 1-31.
+Beck, T., De Jonghe, O. and Schepens, G. (2013), “Bank competition and stability: cross-country
+heterogeneity”, Journal of Financial Intermediation, Vol. 22 No. 2, pp. 218-244.
+Berger, A.N., Bonime, S.D., Covitz, D.M. and Hancock, D. (2000), “Why are bank proﬁts so persistent?
+The roles of product market competition, informational opacity, and regional/macroeconomic
+shocks”, Journal of Banking and Finance, Vol. 24 No. 7, pp. 1203-1235.
+Bergh, A. and Bjørnskov, C. (2021), “Does economic freedom boost growth for everyone”, Kyklos,
+Vol. 74 No. 2, pp. 170-186.
+Bergh, A. and Karlsson, M. (2009), “Government size and growth: accounting for economic freedom and
+globalization”, Public Choice, Vol. 142 Nos 1/2, pp. 195-213.
+Blundell, R. and Bond, S. (1998), “Initial conditions and moment restrictions in dynamic panel data
+models”, Journal of Econometrics, Vol. 87 No. 1, pp. 115-143.
+Borio, C. and Zhu, H. (2012), “Capital regulation, risk-taking and monetary policy: a missing
+link in the transmission mechanism?”, Journal of Financial Stability, Vol. 8 No. 4,
+pp. 236-251.
+Boukou, J. (2017), “Corruption and ﬁrm performance: an empirical study on the impact of bribe
+payments on the performance of Chinese ﬁrms”, Masters, Lund University.
+Boyd, J.H. and Runkle, D.E. (1993), “Size and performance of banking ﬁrms: testing the predictions of
+theory”, Journal of Monetary Economics, Vol. 31 No. 1, pp. 47-67.
+Chen, M., Jeon, B.N., Wang, R. and Wu, J. (2015), “Corruption and bank risk-taking: evidence from
+emerging economies”, Emerging Markets Review, Vol. 24, pp. 122-148.
+Chortareas, G., Girardone, C. and Ventouri, A. (2013), “Financial freedom and bank efﬁciency: Evidence
+from the European Union”, Journal of Banking and Finance, Vol. 37 No. 4, pp. 1223-1231.
+Dell’Ariccia, G. and Marquez, R. (2004), “Information and bank credit allocation”, Journal of Financial
+Economics, Vol. 72 No. 1, pp. 185-214.
+Dreher, A. and Gassebner, M. (2011), “Greasing the wheels? The impact of regulations and corruption
+on ﬁrm entry”, Public Choice, Vol. 155 Nos 3/4, pp. 413-432.
+García-Herrero, S., Santabarbara, D. and Gavila, A. (2009), “What explains the low proﬁtability of
+Chinese banks”, Journal of Banking and Finance, Vol. 33 No. 11, pp. 2080-2092.
+Ghosh, S. (2016), “Does economic freedom matter for risk-taking? Evidence from MENA banks”, Review
+of Behavioral Finance, Vol. 8 No. 2, pp. 114-136.
+Harkati, R., Kassim, S. and Alhabshi, M.S. (2019), “Inﬂuence of economic freedom and its
+subcomponents on risk-taking behavior: evidence from dual banking system of Malaysia”,
+Review of Behavioral Finance, Vol. 12 No. 4, pp. 335-356.
+Huntington, S.P. (1968), Political Order in Changing Societies, Yale University Press, New Haven.
+La Porta, R., Lopez-de-Silanes, F. and Shleifer, A. (2002), “Government ownership of banks”, The
+Journal of Finance, Vol. 57 No. 1, pp. 265-301.
+Laeven, L. and Levine, R. (2009), “Bank governance, regulation and risk taking”, Journal of Financial
+Economics, Vol. 93 No. 2, pp. 259-275.
+Leff, N.H. (1964), “Economic development through bureaucratic corruption”, American Behavioral
+Scientist, Vol. 8 No. 3, pp. 8-14.
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+Levine, R. (2004), “Finance and growth: theory and evidence”, IMF Working Papers.
+Leys, C. (1965), “What is the problem about corruption”, The Journal of Modern African Studies, Vol. 3
+No. 2, pp. 215-230.
+Mavrakana, C. and Psillaki, M. (2019), “Do economic freedom and board structure matter for bank
+stability and bank performance?”.
+Meon, P.-G. and Sekkat, K. (2005), “Does corruption grease or sand the wheels of growth”, Public Choice,
+Vol. 122 Nos 1/2, pp. 69-97.
+Miller, T. and Kim, A.B. (2016), “2016 Index of economic freedom”.
+Miller, T., Kim, A.B. and Roberts, J.M. (2022), “2022 Index of economic freedom”.
+Myrdal, G. (1968), “Asian drama; an inquiry into the poverty of nations”.
+Park, J. (2012), “Corruption, soundness of the banking sector, and economic growth: a cross-country
+study”, Journal of International Money and Finance, Vol. 31 No. 5, pp. 907-929.
+Rajan, R. (2010), “Why we should exit ultra-low rates: a guest post”, The New York Times:
+Freakonomics, August, 25.
+Saha, S. and Ali, M.S.B. (2017), “Corruption and economic development: new evidence from the
+Middle Eastern and North African countries”, Economic Analysis and Policy, Vol. 54,
+pp. 83-95.
+Sarpong-Kumankoma, E., Abor, J.Y., Aboagye, A.Q.Q. and Amidu, M. (2020), “Economic freedom,
+competition and bank stability in Sub-Saharan Africa”, International Journal of Productivity and
+Performance Management, Vol. 70 No. 7, pp. 401-1741.
+Sarpong-Kumankoma, E., Abor, J., Aboagye, A.Q.Q. and Amidu, M. (2018), “Freedom, competition and
+bank proﬁtability in Sub-Saharan Africa”, Journal of Financial Regulation and Compliance,
+Vol. 26 No. 4, pp. 462-481.
+Stiroh, A.S. and Rumble, K.J. (2006), “The dark side of diversiﬁcation: the case of US ﬁnancial holding
+companies”, Journal of Banking and Finance, Vol. 30 No. 8, pp. 2131-2161.
+Suﬁan, F. and Habibullah, M.S. (2010), “Does economic freedom fosters banks’ performance? panel
+evidence from Malaysia”, Journal of Contemporary Accounting and Economics, Vol. 6 No. 2,
+pp. 77-91.
+Suﬁan, F. and Habibullah, M.S. (2014), “Economic freedom and bank efﬁciency: does ownership
+and origins matter?”, Journal of Financial Regulation and Compliance, Vol. 22 No. 3,
+pp. 174-207.
+Vallascas, F. and Hagendorff, J. (2013), “CEO bonus compensation and bank default risk: evidence
+from the US and Europe”, Financial Markets, Institutions and Instruments, Vol. 22 No. 2,
+pp. 47-89.
+Waemustafa, W. and Sukri, S. (2015), “Bank speciﬁc and macroeconomics dynamic determinants of
+credit risk in Islamic banks and conventional banks”, International Journal of Economics and
+Financial Issues, Vol. 5, pp. 476-481.
+Wiseman, T. (2016), “Economic freedom and growth in U.S state-level market incomes at the top and
+bottom”, Contemporary Economic Policy, Vol. 35 No. 1, pp. 93-112.
+
+Economic
+freedom
+
+793
+
+Further reading
+Arshad, S. and Rizvi, S.A.R. (2013), “Impact of corruption on bank proﬁtability: an analysis of
+Islamic banks”, International Journal of Business Governance and Ethics, Vol. 8 No. 3,
+pp. 195-209.
+Bolarinwa, S.T. and Soetan, F. (2019), “The effect of corruption on bank proﬁtability”, Journal of
+Financial Crime, Vol. 26 No. 3, pp. 753-773.
+Mohammad, A.R. (2019), “Impact of corruption on banking sector stability”, Academic Journal of
+Economic Studies, Vol. 5, pp. 125-132.
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+JFC
+31,4
+
+794
+
+Mohammad, A.R., Hidthiir, M.H.B. and Nor, A.B.M. (2019), “Impact of corruption on banking sector
+stability: evidence from Middle East and North African countries”, Academic Journal of
+Economic Studies, Vol. 5, pp. 125-133.
+Toader, T., Onofrei, M., Popescu, A.-I. and Andries, , A.M. (2018), “Corruption and banking stability:
+evidence from emerging economies”, Emerging Markets Finance and Trade, Vol. 54 No. 3,
+pp. 591-617.
+Yakubu, IN. (2019), “Does corruption grease or sand the wheels of bank proﬁtability in Ghana”, Cogent
+Economics and Finance, Vol. 7 No. 1, pp. 2039-2332.
+Corresponding author
+Emmanuel Sarpong-Kumankoma can be contacted at: esarpong-kumankoma@ug.edu.gh
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/jfc/article-pdf/31/4/781/9615102/jfc-04-2023-0087.pdf by University of Ghana, John Vanderpuye on 2
+
+

@@ -1,0 +1,1253 @@
+Research in International Business and Finance 42 (2017) 887–899
+
+Contents lists available at ScienceDirect
+
+Research in International Business and Finance
+journal homepage: www.elsevier.com/locate/ribaf
+
+Full length article
+
+Sovereign credit ratings and bank funding cost: Evidence from
+Africa
+
+T
+
+⁎
+
+Mary Opoku Mensaha, , Elikplimi Komla Agbloyora, Simon Kwadzogah Harveyb,
+Vera Ogeh Fiadora
+a
+b
+
+University of Ghana Business School, Ghana
+Bank of Ghana, Ghana
+
+AR TI CLE I NF O
+
+AB S T R A CT
+
+Keywords:
+Sovereign credit rating
+Credit rating agencies
+Funding cost
+
+This paper aims to examine the relationship between sovereign credit ratings and funding costs of
+banks and also the relationship between sovereign credit ratings. Using over 300 banks operating
+in Africa from 2006 to 2012, the study investigates sovereign ratings’ impact on funding cost. The
+long term domestic sovereign ratings announced by Fitch and Standard & Poor’s during the
+period under study were used. The panel made use of Generalized Method of Moments estimation
+strategy for funding cost. The ﬁndings of the study indicate that sovereign ratings upgrades have
+an inverse and statistically signiﬁcant relationship with funding costs. The ﬁndings suggest that
+sovereign rating upgrades makes it easier for banks to access funds from the capital and global
+market at a cheaper cost compared to rating downgrades. The study recommends and encourages
+emerging economies to use the services provided by credit rating agencies since these agencies
+may help improve accessibility of funds in the international markets by banks. It is recommended
+that sovereign rating should be considered as a supplement and not a substitute to our own
+perceived judgement and research.
+
+1. Introduction
+There is no economy that can function properly without the existence of vital components like ﬁnancial institutions. Financial institutions
+of which banks are the main ones in every economy because banks bring together lenders and borrowers of funds. Banks contribute to the
+development of an economy by ensuring adequate degree of capital formation through mobilization of scattered and small savings of the
+community and making the funds available for investing in productive sectors. Banks as well create value through provision of products and
+services that improves the lives of the citizens and fuel economic growth. The growth of large corporations, entrepreneurship activities,
+imports and exports will not have been possible without the intervention of banks providing them with the needed funds to carry out such
+activities. Banks will have to incur some costs one way or the other before undertaking the activities aforementioned. In the case of capital
+formation, banks mobilize funds from diﬀerent sources and lenders of funds charge interest rates on the borrowed funds. The interest rate
+which is the funding cost of banks is mostly inﬂuenced by credit ratings. If the interest rate a bank has to pay for new funding increases
+without a change in its lending rates, the proﬁts of the bank will decline (Beau et al., 2014). Sovereign credit rating over the years has been
+given considerable attention in the global ﬁnancial markets since it has become the most common way of measuring a country’s risk.
+Sovereign credit rating is the assessments of governments’ capability and readiness to service the debts of the nation as they fall due. Market’s
+
+⁎
+
+Corresponding author.
+E-mail addresses: m.opoku@ymail.com (M. Opoku Mensah), ekagbloyor@ug.edu.gh (E.K. Agbloyor), siarvey@gmail.com (S.K. Harvey),
+vsoli@ug.edu.gh (V.O. Fiador).
+http://dx.doi.org/10.1016/j.ribaf.2017.07.024
+Received 3 October 2016; Received in revised form 28 June 2017; Accepted 3 July 2017
+Available online 08 July 2017
+0275-5319/ © 2017 Elsevier B.V. All rights reserved.
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+globalization has brought about interconnection between countries and the sectors within the country making them more dependent on
+another (Berglund and Fransson, 2012). The global ﬁnancial crisis have stressed the fact that stakeholders believe there is some interconnectedness between banks and their governments (Correa et al., 2014). Investors with interest in foreign ﬁrms pay attention to the
+sovereign rating where the ﬁrm is situated as well as the ﬁrms assigned rating (Martell, 2005). A sovereign rating is of essence because it
+aﬀects the domestic market operations.
+Credit ratings are signiﬁcant in the ﬁnancial market especially when it comes to deploying of funds by ﬁrms, government and
+other institutions. This is because deposit and non-deposit ﬁnanciers would want to give to ﬁrms whose default rate is very low and
+even with that the interest rate that they expect the ﬁrms to pay on the funds might be low as juxtapose to ﬁrms with a very high
+default rate. When ﬁrms are able to raise funds at a lower interest rate, this will mean the cost of funding of that particular ﬁrm will
+be low and when the cost of funding of a bank is low it leads to better performance especially in terms of returns. Reinhart and Rogoﬀ
+(2004) document that capital ﬂowing to poor nations from the rich nations is mostly governed by the sovereign’s credit track records.
+Banks have dominated the African terrain for a while and as such they play very crucial roles in Africa’s economic development. As a
+result of their relevance in development, it must be able to access funds for undertaking viable investment projects and must also be proﬁtable
+as well. If banks are able to raise capital within and outside the continent at a cheaper cost then proﬁtability will grow. Over the years Africa
+has been struggling with funding which impedes economic growth on the continent. One way an entity can easily raise capital is consider its
+credit rating. Extant literature shows that a ﬁrm’s cost of capital and borrowing costs can be aﬀected by credit ratings (Hubbard et al., 2002;
+Johnson and Kriz, 2005; Kisgen, 2006). This is because lower credit rating hinders access to funds and ultimately increases the cost of funding
+and vice versa. Credit rating can be at the ﬁrm level or country level. A country level rating which is sovereign rating serves as the gate way in
+which funds get into the country. This means for banks to even cross boarders for funding sovereign rating is paramount in making that move.
+The focus of this study is to see how banks get access to funds from all sources at a cost that can translate to growth in proﬁtability and at the
+end bring about economic development. The Basel III accord advice banks to use credit ratings for the purposes of risk weighting and
+managing risk. For some years now there has not been extensive academic literature on determinants of funding costs of banks in Africa.
+Many studies conducted on funding cost surprisingly did not give attention to sovereign credit ratings for instance (Babihuga and Spaltro
+2014; Jibrin et al., 2015). Kroszner (2013) researched on Bank Funding Cost Diﬀerentials, Demirgü & -Kunt and Huizinga (2010) did a work
+on Bank Activity and Funding Strategies but they did not consider sovereign rating as one of the drivers to funding cost. This is relevant
+because of the role sovereign rating plays in acquiring funds internally and externally. Majority of banks in Africa are not credit rated and as
+such lenders of funds in assessing the creditworthiness of banks may refer to the sovereign credit ratings. This makes the sovereign credit
+ratings an important factor in the determination of banks’ cost of funds. Given the suppose assertion one can hypothesize that sovereign rating
+aﬀect cost of funding. For this reason, there is the need to empirically examine the impact of sovereign credit ratings on banks’ funding cost in
+Africa.
+
+2. Context of the study
+2.1. Overview of countries and banks
+This section provides a synopsis of some micro and macroeconomic variables of banks in Africa and some macroeconomic variables of
+some countries in Africa. Some key indicators such as proﬁtability, sovereign rating, GDP growth rate and funding cost are used in assessing
+the determinants of funding cost of banks in Africa. A total of 17 countries in Africa were included in this study. These countries were selected
+based on data availability from 2006 to 2012. Below is an outline of names of countries included in the study.
+
+Benin
+
+Kenya
+
+Uganda
+
+Mozambique
+
+Burkina Faso
+Cameroon
+Egypt
+Ghana
+
+Morocco
+Nigeria
+Tunisia
+Zambia
+
+Senegal
+Rwanda
+Namibia
+
+Botswana
+South Africa
+
+Source: Author (2017).
+A total of 327 Banks were selected from these countries for the study and the selection was based on data availability under the
+period of study (Fig. 1).
+Funding cost increased from 2006 to 2007 and decreased in 2008 afterwards on average the periods left recorded a consistent
+increase throughout the period (i.e. 2009-0.0736; 2010-0.0760; 2011-0.0855; 2012-0.1959) (Fig. 2).
+Sovereign rating which is the variable of interest has been volatile throughout the periods. In 2006 the average rating was 6.8784
+numerically but alphabetically B+, this indicate on average the countries studied were more vulnerable to payment of debt at the due
+date and time. On average 2007 recorded the highest rating of 10.9155 which indicates a BBB-. The BBB- indicates adequate capacity
+to payment of debt on time as it fall due. This may suggest these countries within that period were adequately prepare to pay oﬀ their
+debts on time. After 2007, the average sovereign rating on yearly basis decreased consistently to 2009 (i.e. 2008 = 10.1037-BB+;
+2009 = 7.3133-B+), after that it went up again from 2010 to 2011 and decreased again in 2012 to 8.5171-BB (Fig. 3).
+On average year on year return on average asset which measures proﬁtability has been deteriorating right from 2006 to 2009
+which then started picking up consistently through to 2012 (Fig. 4).
+888
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Fig. 1. Year on Year Funding cost.
+Source: Author (2017).
+
+There has been a consistent decreased in GDP growth from 2007 to 2009 except for 2010 which recorded an increase of 5.68%
+and decreased thereafter in 2011 and 2012 as well. A sharp decreased in 2009 however was as a result of the global ﬁnancial crises
+resulting in a retrogression in per capita GDP and this aﬀected economic development on the continent as a whole.
+
+Averages
+Country Name
+
+GDPG (%)
+
+ROAA (%)
+
+SOVR
+
+FUNDCOS (%)
+
+BENIN
+BURKINA FASO
+CAMEROON
+EGYPT
+GHANA
+KENYA
+NIGERIA
+TUNISIA
+ZAMBIA
+UGANDA
+SENEGAL
+NAMIBIA
+MOZAMIQUE
+BOTSWANA
+SOUTH AFRICA
+MOROCCO
+RWANDA
+
+3.9353
+5.8324
+3.3719
+4.9852
+8.1551
+4.6232
+6.7832
+3.9554
+6.6044
+7.2928
+3.3274
+4.8761
+6.9164
+4.5337
+3.2076
+4.5906
+7.8062
+
+−0.2211
+0.1453
+0.9860
+0.9890
+1.8503
+2.2160
+0.7029
+0.4803
+0.2958
+1.8492
+0.8424
+2.8688
+−1.0132
+1.8381
+3.1479
+1.6423
+1.6043
+
+6
+6
+5
+10
+7
+8
+9
+11
+7
+7
+7
+12
+7
+14
+15
+12
+7
+
+2.7778
+3.0815
+2.5419
+5.4062
+6.8099
+5.3477
+5.3545
+3.3580
+3.8328
+4.8984
+2.5928
+8.0769
+5.4828
+13.0441
+45.3041
+2.7169
+4.0793
+
+Source: Author (2017).
+On average South Africa banks recorded the highest funding cost of 45.3%, followed by Botswana with an average funding cost of
+13.04% with Namibia having 8.07% and Cameroon had the lowest cost of funding of 2.5% within the sample for the study. South
+Africa may have high cost of funding because the banks situated may have a very large assets base individually and as result pay more
+interest to their depositors’ funds.
+In terms of proﬁtability, South Africa banks still has the highest proﬁtability which is measured as the return on average asset
+throughout the period under study. Banks in most of the countries yielded a positive return on average assets with banks in Benin and
+Mozambique recording negative proﬁtability.
+On average South Africa has the highest rating of 15 which represents an A meaning the country has a strong capacity to meet its
+debts obligation on time. This rating for the country was recorded throughout the period under study. On the other hand Cameroon
+recorded the lowest rating throughout the study period. A numerical rating of 3 which represents CC according to Fitch and S & P
+889
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Fig. 2. Year on Year Sovereign Credit Rating.
+Source: Author (2017).
+
+implies the country is highly vulnerable to non-payment of debt.
+Regarding GDP Growth, on average Ghana recorded the highest growth rate of 8.1551% during the period under study followed
+by Rwanda and Uganda with a growth rate of 7.8062% and 7.2928% respectively. On the other hand Cameroon, Senegal and South
+Africa recorded the least growth rate of 3.3719%, 3.3274 and 3.2076 respectively during the period of study.
+
+3. Literature review
+3.1. Sovereign credit ratings
+Credit rating agencies provide diﬀerent services on credit rating but this study will be limited to long term sovereign credit rating.
+In this ever globalized dispensation where governments and corporate institutions deal with multinational corporations across the
+world, there is the need to assess how responsive governments could meet their ﬁnancial commitments. Assessment of sovereign
+ratings is very paramount not merely for the sovereign country, but for other issuers in the country such as banks, corporations and
+public sector entities and this is as a result of the sovereign ceiling above which is impossible for other borrowers situated in the
+country to raise (Ratings, 2010). With developmental projects on the minds of governments to meet the needs of their citizenry as
+well as score political points in the midst of limited access to internal funds, countries particularly developing ones of late resort to
+international borrowing from international institutions. Such institutions should therefore have a reason of giving out credits and this
+can eﬀectively be carried out with sovereign ratings. Up until the 1980’s, major sources of external credit for governments were made
+up of small group of international banks. Sovereign credit rating was ﬁrst introduced by Standard and Poor’s in 1975 for this purpose
+and have evolved to become an important credit rating agency. By far, two additionally recognized international rating agencies are
+the Moody’s and Fitch. The Credit Rating Agencies have been under pressure especially during the recent ﬁnancial crises and they
+have been accused of their inability to eﬀectively forecast rating downgrade in order to avoid the collapse (Kaminsky and Schmukler,
+2002).
+According to Bhatia (2002) the sovereign ratings by CRAs reveal the ability and readiness of rated governments to defray
+commercial debt obligations in full and on time. Bhatia indicated that the deﬁnition has two important connotations:
+
+• By obligor, the focus of the rating is extensively on government creditworthiness to provide an assessment with regard to the
+sovereign risk.
+• By obligation, the emphasis of the rating is exclusively on how credit worthy is the sovereign debt to private creditors (such as
+bank loan, treasury bills and bonds) and no provision on credit risk assessment on sovereign debt to oﬃcial creditors.
+
+A country’s credit rating is very crucial as it also aﬀects the domestic market which is made up of companies and their stock prices
+even though Credit Rating Agencies are gradually shifting from a policy of not ever rating a ﬁrm above the sovereign against the
+backdrop that sovereign ratings set a ceiling for the debt issues to domestic companies (Borensztein et al., 2007). Standard and Poor’s
+(2012) reported that 113 private issuer ratings globally exceeded their sovereign foreign-currency rating and three out of them were
+commercial banks. This implies that sovereign ratings continue to play key roles in domestic companies. A good rating tends to
+reduce the costs of funding through the issuance of public debt either foreign or local currencies while a poor rating would bring an
+increment in the interest diﬀerences over the suitable benchmark, normally the interest paid on Treasury bonds (Ratings, 2003).
+
+890
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Fig. 3. Year on Year Return on Average Asset.
+Source: Author (2017).
+
+3.2. Empirics on determinants of funding costs of banks
+Babihuga and Spaltro (2014) investigated the determinants of bank funding costs using internationally active banks for the period
+2001–2012. The study used the three-month Libor plus the ﬁve-year CDS premia as the marginal cost of funding for the dependent
+variable. They highlighted that bank speciﬁc factors such as capital variables made up of total capital ratio, quality of capital, equity
+returns and provision ratio. Macroeconomic variables used were, short term interest rate, real GDP growth, yield curve slope and a
+dummy variable for ﬁnancial crisis. The results revealed that an increase in total bank capital in the short run lead to an increase bank
+funding costs. Also, their ﬁndings suggest that higher capital quality is related to lower bank funding costs. The bank provision was
+found to be positive and statistically signiﬁcant with bank funding costs while equity returns relate negatively with bank funding
+costs. From the perspective of the macroeconomic variables, the real GDP growth result had a negative sign which suggest that an
+improvement in growth would increase bank proﬁtability which decreases bank risk and ﬁnally result to lower cost of funding. The
+yield curve spread also relate positively to bank funding cost. This suggest that short run bank funding costs increase with a steepening in the yield curve which stems from an increase in interest rates.
+Hossain and Hossain (2015) used internal factors to examine the cost of Funds of Non-Bank Financial Institutions in Bangladesh.
+The internal factors included in the study were age of business, size of business, equity contribution, proﬁtability and nature of assets.
+The results indicated that age of business and proﬁtability were found to be negatively related to cost of funds at signiﬁcant level of
+5%. This means higher earnings per share and old age non-ﬁnancial banks institutions can secure funds at lower costs while nature of
+asset and equity contribution variables were not signiﬁcant but conform to the sign expected.
+Jibrin et al. (2015) researched on Strategies for Lowering Banks’ Cost of Funds in Nigeria and investigated the determinants of
+banks’ cost of funds from the period January 2012 to March 2014. The study employed panel data regression analysis and used bankspeciﬁc, macroeconomic and industry-speciﬁc variables to determine the cost of funds. The Generalized Method of Moment (GMM)
+technique was used to solve problems of endogeneity as well as cross sectional heterogeneity. Bank speciﬁc variables were operating
+Cost, Risk Premium and overhead Costs. Industry factors were liquidity ratio and cash reserve ratio, macroeconomic variables were
+money supply and inﬂation rate. The result speciﬁed that overheads cost, risk premium, liquidity ratio, inﬂation rate and money
+supply determines banks’ cost of funding. Sovereign credit rating in the literature is found to be one of the determinants of funding
+costs and this has been discussed below.
+
+3.3. Credit rating and funding cost
+According to Beau et al. (2014) compensation that depositors and investors demand in exchange for funding a bank’s activities is
+the cost of funding. The researcher further suggested that although lower costs of funding may be generally beneﬁcial from the
+perspective of ﬁnancial stability nonetheless regulators must make sure that activities of banks are not funded in such a way that it
+will lead to excessive risk-taking. Adelino and Ferreira (2014) in their study of bank ratings and lending supply conﬁrmed that the
+shock to ratings aﬀects cost of funding of banks. They reported that ratings have directly aﬀected whether some institutional stakeholders such as insurance companies and banks are permitted to invest in a bank’s debt securities. Kisgen and Strahan (2010) show
+that credit ratings aﬀect a ﬁrm’s cost of capital. It is certainly true that some customers are paid little or no interest on their
+depositors. Those that normally receive a decent interest on their deposits are institutional or corporate depositors. Billett et al.,
+(1998) evidenced that whenever there is an increase in risk, banks raise more funds from insured deposits for their operations and as
+a result of that the market punish the banks by increasing the cost of funding for such banks. The researcher also ﬁnds that banks that
+are downgraded rely more on insured deposits and the justiﬁcation was that bank managers perceive the increased in cost of insured
+deposits to be lesser than the cost of uninsured non-deposits funds. An increased future funding cost is associated with rating
+downgrades. Banks’ cost of funding is perceived to have an impact on banks proﬁtability and since sovereign credit rating aﬀect
+funding cost it is possible to assume a connection between sovereign credit rating and bank proﬁtability.
+891
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Fig. 4. Year on Year GDP Growth Rate.
+Source: Author (2017).
+
+3.4. Sovereign credit rating and funding cost of banks
+The economic crisis that hit major economies in the world goes to suggest that investors are of the belief that banks are closely
+connected with their governments since both the governments and banks rely on domestic activity which tends to aﬀect tax revenues
+and the demand for ﬁnancial services (Correa et al., 2014). Many economically and ﬁnancially developed countries in the world have
+suﬀered downgrade ratings. The United States saw a downgrade credit rating from AAA to AA+ in August 2011, AAA to AA+ in
+January 2012 and then AA in November 2013 by Standard and Poor’s.
+Correa et al. (2014) in analyzing the composite eﬀect of expected government support to banks in 37 countries asserted that
+sovereign credit ratings have inﬂuence on bank funding within which it operates and that sovereign credit rating downgrades have a
+huge adverse eﬀect on bank stock returns for those banks that are expected to receive stronger support from their government. A
+study by Gennaioli et al. (2014) showed that sovereign defaults are likely to be preceded by falls in private credit in countries where
+banks are expected to hold a major portion of their assets in government bonds and ﬁnancial institutions that are more developed. As
+a result of a sovereign downgrade, there has been a signiﬁcant increase in wholesale debt and deposit funding costs because a portion
+of the increment is as a result of investors demanding for high compensation for taking on the country’s risk (Panetta et al., 2011).
+Sovereign credit risk stands as a major dare on the ﬁnancial stability of the world at large. The waning in sovereign credit worth
+could have a negative impact on bank funding (Panetta et al., 2011). They further proposed that Public ﬁnances in advanced
+countries have diminished as a result of ﬁnancial crisis and after a downturn which has ensued apprehensions about sovereign credit
+risk. The Eurozone has seen three of its members receiving international ﬁnancial relief and a fall of credit rating for some other
+countries in the region during 2009–2011 with a corresponding surge in funding cost. Most often than not the lenders are at the
+disadvantage concerning asymmetric information and as a result of that they intend to limit borrowers’ access to their funds (Duﬃe
+and Singleton, 2003). Adelino and Ferreira (2014) conducted a study on bank ratings and lending supply by comparing banks that
+have ratings at the bound prior to a downgrade which they referred to as the treatment group and the control group was made up of
+related banks whose ratings are lower than the sovereign bound. It was deduced that sovereign downgrades result in a greater
+decrease in the ratings of banks at the sovereign bund than ratings below the bound. With inﬂuence on loan pricing, treated banks
+tend to increase interest rates spread more than control bank as a result of a sovereign downgrade.
+Panetta et al. (2011) share similar ﬁndings with Adelino and Ferreira (2014) as the former identify four main channels through
+which a deterioration in sovereign credit worthiness could negatively aﬀect banks’ funding;
+
+• In the ﬁrst place, losses on holdings of government debt deteriorate the balance sheets of the bank and this will expose the bank to
+more risk and as a result funding becomes more costly and at times impossible to obtain.
+• Also, a decline in sovereign ratings reduces the collateral value that banks may use for wholesale funding and also in obtaining
+•
+•
+
+liquidity from the Central Banks to conﬁrm other studies (for example Acharya et al., 2013; Correa et al., 2014 Correa et al.,
+2014).
+The group added that sovereign rating downgrades at times caused domestic banks lower rating as banks are more susceptible to
+sovereign distress than other sectors. This diminishes the ﬁnancing advantages that banks get from government certiﬁcations.
+Lastly, sovereign downgrades eventually lead to high domestic banks wholesale funding costs and shrink their market access to
+funds due to downgrading. Rating also lead to margin calls on a bank that is lowly ranked. That is deterioration in the credit
+worthiness of the sovereign reduces the beneﬁt of funding that banks derive from government guarantors.
+
+892
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+4. Methodology
+The panel data framework was used to achieve the above objective. Panel data is constructed by putting together time series and
+cross sectional elements. A panel study captures the variation of what arises through time or space as well as the variation of these
+two dimensions simultaneously. This means with the panel study, a pooled regression model is tested for all the banks under the study
+through time. The study made use of an econometric model with funding cost as the dependent variable with sovereign credit rating
+and other bank speciﬁc and macroeconomic variables as explanatory variables.
+4.1. Data sources
+The study made use of bank level data which was obtained from bankscope. The frequency of the data is on annual basis and from
+the period 2006–2012 for banks in Africa where by the countries in which these banks domiciled received sovereign rating from
+either Fitch or S & P. The study used the long term local currency sovereign rating for countries in Africa that received sovereign
+rating from either Fitch or S & P during the period of the study. The sovereign credit rating data was obtained from the public website
+of Fitch and S & P. Macroeconomic data which include GDP, Inﬂation and money supply were obtained from the World Bank
+Development Indicators for the same periods the study is undertaken.
+4.2. Empirical model for funding cost
+We hypothesize that sovereign credit ratings announcement will inﬂuence the cost of funding of banks and also previous cost of
+funding has an impact on current funding cost. Hence we specify the model below; the i,j,t stands for individual banks, individual
+countries in Africa across time.
+The GMM model estimated is as follows:
+
+FUNDCOSijt = β0 + β1 FUNDCOSi, j, t − 1 + β2 SOVRjt + β3 ROAAijt + β4 CAPijt + β5 BKSFijt + β6 OVHijt + β7 GDPGjt + β8 INFjt +
+β9 M 2GDPjt + εijt
+
+4.3. Estimation strategy
+The Arellano-Bover/Blundell-Bond Generalized method of moments (GMM) approach is used to estimate the variations in the
+funding costs of bank which is made up of bank speciﬁc and macroeconomic variables. This estimation technique is an extension of
+the Arellano-Bond where past values of the independent variable are used as instruments together with some other instrumental
+variables. This estimator augments Arellano–Bond by adding another assumption that ﬁrst diﬀerences of instrument variables are not
+correlated with the ﬁxed eﬀects and it allow more instruments to be introduced which in a way would improve eﬃciency. The GMM
+technique is designed for situations where the data has a large number of individuals with each observe for a shorter period
+(Roodman, 2006). This study has a shorter time period of seven years with over three hundred banks from seventeen countries in
+Africa. The GMM approach allows the funding cost to be treated as a dynamic process, where there is a possibility that past funding
+cost inﬂuence current funding cost. To ﬁnd out the consistency of the estimates, Sargan test of overidentiﬁcation restrictions was
+employed to measure the validity of the instruments. This is suitable for the funding cost analysis because it is designed for situations
+involving a linear functional relationship, independent variables that are correlated with previous and perhaps current realizations of
+the error, autocorrelation and heteroscedasticity within individuals as well as ﬁxed individual eﬀects. The dynamic model is seen to
+be more eﬃcient than the static model in estimation of the funding cost.
+4.4. Variable deﬁnition and selection
+4.4.1. Funding cost of banks
+The dependent variable for the ﬁrst model is funding cost. The rate of interest that a bank will pay in order to obtain money
+through deposits is known as the cost of fund. This study will follow the same way as deﬁned by (Dietrich and Wanzenried, 2011).
+Funding cost is measured as interest expenses divided by the average of total deposits. Dietrich and Wanzenried (2011) further
+argued that the funding cost is mostly determined by market competition, the bank’s credit rating, market interest rates and the
+sources of funds composition.
+4.4.2. Sovereign credit rating
+In the funding cost model the sovereign rating is the main variable of interest and the others are control variables. The average
+rating for each year were computed and converted into numerical scale for instance lower numbers correspond to lower ratings and
+also higher numbers correspond to higher ratings. Example AAA = 20, AA+ = 19… CC = 1 in line with Cantor and Packer (1997)
+and Li et al., (2008). The credit worthiness of a bank does aﬀect its cost of funding. Sovereign credit rating is a contemporaneous
+variable which means the eﬀect is instantaneous and funding cost is very sensitive to its news. Babihuga and Spaltro (2014) argued
+that the credit quality of individual bank is strongly linked with lower costs of funding. A study by Correa et al. (2014) asserted that
+sovereign ratings inﬂuence the cost of funding of banks that operates within the sovereign and the impact is more with banks that
+893
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+receive support from the government. This means an upgrade in sovereign rating may lead to a lower funding cost of banks, in that
+sovereign upgrade brings certainty in the economy and with that investors will be ready to accept the interest that the banks will
+oﬀer. A negative relationship is expected. On the other hand a rating downgrade is also linked with increased costs of funding of
+banks.
+The other variable selection for this study is based on earlier empirical ﬁndings on funding cost.
+4.4.2.1. Bank size. This is a major determining factor of funding cost in the literature. It is measured as the log of total deposit. Larger
+and systemic banks enjoy some advantages regarding their total funding costs as a result of their “too-big-to-fail” status (Babihuga
+and Spaltro, 2014). Banks perceived to be “too-big-to-fail” have lower total funding costs due to funding cost subsidy they enjoy, that
+is these banks are likely to be bailed-out if they are to fail (Acharya et al., 2015; Araten and Turner, 2012; Demirgü & -Kunt and
+Huizinga, 2010). It is also possible that banks that are extremely large may solicit for more deposits to lend to their borrowers, which
+will let banks pay more interest on the deposits and as a result it may increase the cost of fund of those banks. Thus, margins on
+interest-bearing assets, or NIMs, impact more on larger banks than on smaller ones. Therefore the relationship between the size and
+costs of funding could either be positive or negative.
+4.4.2.2. Capital adequacy. This is measured as the ratio of equity to total assets. Banks that is well capitalized are perceived to be
+safer and also less risky (Dietrich and Wanzenried, 2011). When a bank is seen to be less risky, it becomes easy for such banks to raise
+capital at a cheaper cost. Babihuga and Spaltro (2014) argued that an improved capital buﬀers can cause a decline in the cost of
+funding of a bank in the long run. Therefore an inverse relationship is expected.
+4.4.2.3. Proﬁtability. In measuring funding cost, proﬁtability is considered as one of the determinants of cost of funding. Proﬁtability
+is proxied with return on average asset (ROAA) of banks where ROAA is measured as ratio of net income to average total assets.
+ROAA tells how eﬀective management is using the banks’ resources in achieving their objectives. An increase in proﬁtability should
+cause the cost of funding to fall and vice versa. Investors will be willing to give additional funds to banks that utilized its resources
+eﬀectively to earn a higher return and may also accept a lower rate of interest since they believed that those banks can easily pay their
+borrowed funds in other words assurance of safety for their funds. Contrary to that, some investors who lend funds to banks that are
+earning higher proﬁts may also expect a higher rate of returns on their funds. When investors demand that the banks pay high interest
+rate on their funds, it will lead to a rise in the funding cost. Hence, a positive or negative relationship is expected between proﬁtability
+and funding cost.
+4.4.2.4. Overhead cost. This is measured as the log of personnel expenses plus other operating expenses of banks. These costs may not
+necessarily have a direct eﬀect on the funding cost but indirectly it does impede the ﬂow of funds and ultimately the cost of fund.
+Mostly fees and other legal costs incur by banks in securing funds also aﬀect the cost of funds. As these costs increases, funding cost
+should also rise hence a positive relationship is expected. Jibrin et al. (2015) in their study mentioned overhead cost as one of the
+determinants of funding cost.
+4.4.2.5. Money supply (M2) growth. Money supply can be deﬁned as the money stock available in the economy. It is dependent on the
+monetary policy carried out by the central bank. Typically, the central bank through the use of open-market operations and bank
+reserve ratio can exert great impact on the volume of currency in the economy. Basically money supply is determined by the policy of
+the central bank. The supply of money can also be aﬀected by actions of banks and households (Suﬁan and Habibullah, 2009).
+Changes in money supply may bring about a change in the level of prices as well as the nominal GDP of a country. When there is an
+increase in money supply, interest expense falls hence a decrease in funding cost. A negative relationship is expected.
+4.4.2.6. GDP growth. The annual GDP per capita growth reﬂects current economic conditions of a country. An improvement in the
+economic conditions of a nation should reduce the riskiness of bank and as a result a lower costs of funding (Babihuga and Spaltro,
+2014). It is expected that the relationship between GDP growth and funding cost be negative.
+4.4.2.7. Inﬂation. It impacts every aspect of the economy such as cost of living, the cost of doing business as well as borrowing
+money. The consumer price index is used to measure inﬂation. If inﬂation becomes too high, it will aﬀect the economy in terms of
+borrowing funds and high cost of living and this will result in an increase in cost of funding. On the other side, if inﬂation is controlled
+at a certain level that is reasonable, it may beneﬁt the economy and all the sectors within. This will also help the banks to reduce their
+cost of borrowing. The relationship is expected to be either positive or negative.
+5. Empirical results and analysis
+5.1. Descriptive statistics
+Table 1 presents the descriptive statistics of the variables used in measuring funding cost and proﬁtability for the period
+2006–2012. What is fascinating about the descriptive statistics is that the highest rating during the period of study was 15 which
+represent an A and it means that the sovereign or nation has a strong capacity to meet its debts obligation and this was recorded in
+South Africa. The minimum sovereign credit rating was 3 which represent CC and it implies that the sovereign or nation is highly
+894
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Table 1
+Descriptive Statistics.
+Source: Author’s estimation 2017
+Variable
+
+Obs
+
+Mean
+
+Std. Dev.
+
+Min
+
+Max
+
+SWILK
+
+FUNDCOS
+SOVR
+CAP
+BKSF
+ROAA
+OVH
+GDPG
+M2GDP
+INF
+
+1397
+1228
+1678
+1510
+1668
+1447
+2317
+2261
+1985
+
+0.0903
+8.9332
+0.1587
+6.0112
+0.0141
+3.1718
+0.0529
+0.4995
+0.0882
+
+0.6829
+3.0037
+0.156
+1.9196
+0.0482
+1.5155
+0.0262
+0.2665
+0.0509
+
+0
+3
+0.9594
+0
+0.5672
+0
+0.0784
+0.1647
+0.0105
+
+24.0909
+15
+1
+11.3392
+0.3754
+8.1068
+0.1501
+1.139
+0.2624
+
+16.81***
+10.92***
+14.68***
+4.14***
+15.12***
+7.27***
+11.63***
+12.4***
+10.21***
+
+SWILK, Ho; variable is not normally distributed. Fundcos represents funding cost, sovr stands for sovereign credit ratings, cap means capital adequacy, bksf stands for
+bank size, roaa represents return on average assets, ovh represents overhead costs, gdpg means GDP growth, m2gdp stands for money supply to GDP, inf means
+inﬂation.
+*** Signiﬁcance level: 1%.
+
+vulnerable to non-payment of debt and this was recorded in Cameroon.
+5.2. Correlation matrix
+From Table 2, the highest correlation is between bank size and overhead costs which is 0.8761. Although there is multicollinearity
+between overhead cost and bank size but when VIF was conducted, all the variables were within the threshold of 10 and as a result
+the variables were kept in the same model.
+5.3. Diagnostic test
+The Table 1 in the descriptive also shows the results for the Sharpiro-Wilk test for normality in the data with the null hypothesis
+(H0): Error terms are normally distributed. From the table, the results show very signiﬁcant S-W values for all the variables which
+mean that the variables are not normally distributed and therefore we reject the null hypothesis.
+The data set was subjected to diagnostic test to detect autocorrelation. The regression model was subjected to the Arellano-Bond
+test for autocorrelation and Sargan’s test for overidentiﬁcation. There is no doubt to the result generated from the regression because
+both tests for autocorrelation and Sargan failed to reject the null hypotheses. These test can be found in Table 3 under the regression
+results. Also, for robustness check the ﬁxed and random eﬀect under the Generalized Least Square (GLS) approach were estimated
+and the Hausman test provided evidence in support of the ﬁxed eﬀect regression.
+5.4. Regression results
+The previous year’s funding cost is statistically signiﬁcant and positively related to current year’s funding cost. This suggests that
+current cost of funding by banks is aﬀected by past year’s cost incurred in raising funds for the operations of banks.
+From the table above, sovereign credit rating is found to be statistically signiﬁcant and negatively related to funding cost at 1%.
+The level of signiﬁcance is not surprising as discussed earlier on in chapter three that funding cost of bank is very sensitive to
+sovereign credit rating. A good sovereign rating will ease the banks in terms of raising funds especially outside the country. A
+Table 2
+Correlation Matrix.
+Source: Author’s estimation 2017.
+
+FUNDCOS
+SOVR
+CAP
+BKSF
+ROAA
+OVH
+GDPG
+M2GDP
+INF
+Mean VIF
+
+FUNDCOS
+
+SOVR
+
+CAP
+
+1
+0.136
+0.1077
+−0.0736
+−0.0022
+0.0652
+−0.0529
+0.0537
+−0.0253
+
+1
+0.117
+0.375
+0.134
+0.286
+−0.255
+0.729
+−0.136
+
+1
+−0.403
+0.1245
+−0.24
+0.0023
+−0.002
+0.0506
+
+BKSF
+
+1
+0.1425
+0.8761
+−0.127
+0.4454
+−0.087
+
+ROAA
+
+1
+0.1084
+0.0205
+0.0568
+−0.024
+
+OVH
+
+1
+−0.093
+0.2839
+−0.091
+
+GDPG
+
+1
+−0.309
+0.073
+
+M2GDP
+
+1
+−0.1748
+
+INF
+
+1
+
+VIF
+
+2.95
+1.48
+7.4
+1.2
+6.4
+1.29
+3.19
+1.15
+3.13
+
+VIF means Variance Inﬂation Factor, Fundcos represents funding cost, sovr stands for sovereign credit ratings, cap means capital adequacy, bksf stands for bank size,
+roaa represents return on average assets, ovh represents overhead costs, gdpg means GDP growth, m2gdp stands for money supply to GDP, inf means inﬂation.
+
+895
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Table 3
+Regression results.
+Source: Author’s estimation:
+Variable
+FUNDCOS L1
+SOVR
+CAP
+BKSF
+ROAA
+OVH
+GDPG
+M2GDP
+INF
+_cons
+Wald chi2 (9) [p-value]
+AR(1) [p-value]
+AR(2) [p-value]
+Sargan test chi2(13) [[p-value]
+Observation
+
+Coef.
+***
+
+1.1618
+−0.0652***
+−1.0980**
+−0.1838***
+1.2631***
+0.0404
+−0.7771**
+−0.0544
+−0.2997***
+1.7786
+191.8 [0.000]
+−1.2961 [0.195]
+−0.5160 [0.606]
+18.5116 [0.139]
+387
+
+Std. Err.
+
+z
+
+P > z
+
+0.1429
+0.0183
+0.4712
+0.0660
+0.4762
+0.0481
+0.3191
+0.3570
+0.0890
+0.4220
+
+8.1300
+−3.5600
+−2.3300
+−2.7800
+2.6500
+0.8400
+−2.4400
+−0.1500
+−3.3700
+4.2100
+
+0.0000
+0.0000
+0.0200
+0.0050
+0.0080
+0.4010
+0.0150
+0.8790
+0.0010
+0.0000
+
+Fundcos represents funding cost, sovr stands for sovereign credit ratings, cap means capital adequacy, bksf stands for bank size, roaa represents return on average
+assets, ovh represents overhead costs, gdpg means GDP growth, m2gdp stands for money supply to GDP, inf means inﬂation.
+** Signiﬁcance level: 5%.
+*** Signiﬁcance level: 1%.
+
+sovereign rating upgrade is an improvement in the creditworthiness of a country and investors will be willing to give their funds to
+sectors in that sovereign at a lower cost of funds. Higher sovereign ratings do not just allow for lower borrowing costs but can also be
+a magnet for other business opportunity and better terms from suppliers. Sovereign rating over time also impact on the banks’ ability
+to borrow funds in other countries. Sovereign rating upgrades enhance the nation’s reputation in terms of credit worthiness and even
+enable smaller banks to raise funds from the capital market at a lower cost and this will aid in the reduction of funding cost. Credit
+rating downgrades may compel banks to consider funds from non-traditional lenders who charge a higher interest rate on funds than
+the core depositors. A sovereign downgrade will make ﬁrms situated in the country suﬀer from persistent and simultaneous weakening in access to both wholesale funding and non-traditional sources of deposits. This will make the ﬁrms pay a high rate before
+accessing those funds and as a result will increase the cost of funding by the ﬁrms and vice versa (Karam et al., 2014). Moreover,
+Correa et al. (2014) argued that improved sovereign credit ratings has a positive inﬂuence on bank funding and that a downgrade will
+cause the funding cost of banks to go high. A paper by the Panetta et al. (2011) also revealed that sovereign downgrade bring about a
+signiﬁcant increase in wholesale debt and deposit funding costs because the risk exposure compels investors to demand high compensation on the funds invested. Our ﬁndings is also in line with Adelino and Ferreira (2014) who asserted that sovereign downgrades
+inﬂuences loan pricing which tend to increase the interest rates spread on the fund.
+The study ﬁnds a negative and signiﬁcant relationship between capital adequacy and funding cost of banks. This is in line with the
+expectation and it suggests that banks that are well-capitalized can raise funds at a cheaper cost for their operations. Also, this will
+mean that if the contribution from equity in the banks is higher than other external funds, the external funds providers will perceive
+that the risk attached to their investment is less and hence will be willing to provide funds to banks at a lower rate of return. This is
+consistent with the ﬁndings of Babihuga and Spaltro (2014).
+The size of the bank is negatively correlated with funding cost and statistically signiﬁcant. The negative relationship is expected.
+This suggests that larger and systematic banks are able to raise funds from the capital market at a lower rate compared to small banks.
+This is consistent with the ﬁndings of Demirgü & -Kunt and Huizinga (2010).
+Proﬁtability ratio was found to have a signiﬁcant and positive relationship with funding cost. This could mean that because most
+banks are earning higher proﬁts, depositors and lenders demand higher rate of interest on the funds they give to banks. When this
+happened the banks will incur higher cost before they can access these funds and as a result the cost of funds would increase.
+Overhead cost had a positive relationship with funding cost but it was not signiﬁcant.
+The relationship between the GDP growth rate and funding cost is negative and signiﬁcant but at 5%. This implies that in those
+periods in which the economy is booming, banks are able to raise funds at a lower cost since improvement in the economic conditions
+of a country will reduce the risk attached to banks in paying its debts as they fall due.
+Money supply was found to be positive and insigniﬁcantly related to funding cost of banks.
+Inﬂation was found to be negative and signiﬁcantly related to funding cost. This may suggest that high inﬂation anticipated by
+management and controlled at a certain reasonable level will reduce cost of funding by banks.
+6. Summary and conclusion
+The study examined the eﬀect of sovereign ratings announcement on funding costs of banks in Africa from 2006 to 2012.
+The result shows an inverse relationship between sovereign rating and funding cost. Sovereign rating upgrades make it easy for
+banks situated in that sovereign to raise funds at a lower cost. Banks whose sovereign receive a rating upgrade can also access funds
+896
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+from the international market at a cheaper rate compared to banks situated in a country that has been downgraded. When banks are
+able to access funds at a cheaper cost it reduces its cost of funding. Sovereign downgrades make it diﬃcult for banks to access funds
+on the market. Lenders willing to give funds to banks from a country that has been downgraded do so at a higher cost which will
+cause the cost of funding for the banks to rise.
+The study controlled for some bank speciﬁc and macroeconomics variables. The result on capital adequacy is negatively related to
+funding cost but not signiﬁcant. This suggests that well capitalized banks can raise funds for their operations at a cheaper cost. The
+bank size is signiﬁcant and negatively related to funding cost. This may mean large banks can raise funds at a lower cost. The results
+show a positive and signiﬁcant relationship between proﬁtability and funding cost. The reason may be that depositors and lenders
+demand a high interest from banks as their proﬁt grows. GDP growth rate has negative and signiﬁcant relationship with funding cost.
+This means banks are able to raise funds at a lower cost of funding when economic conditions are improved. The coeﬃcient of growth
+in money supply was positive and not signiﬁcantly associated with funding cost. Inﬂation also shows a negative coeﬃcient and
+signiﬁcantly related to funding cost.
+The study concluded that sovereign rating upgrades will reduce the cost of funding of banks. This is because sovereign rating
+upgrades lessen the burden in which the banks will have to go through in accessing funds on the capital market. The banks are able to
+access these funds at a lower rate due to the rating upgrade and this reduces the funding cost of the banks. On the other hand,
+sovereign downgrade makes it diﬃcult for these banks to access funds on the market and as a result the banks are compelled to pay a
+higher cost on the ones they can get access to. Investors would only lend to borrowers at a cheaper rate when they know the default
+rate of the borrower is less, than to a highly risky borrower who can easily default in terms of payment. In all, sovereign rating
+upgrades (downgrades) lead to a fall (rise) in funding costs.
+6.1. Policy recommendations
+The ﬁndings have policy implications and direction for emerging markets especially when these outcomes are stemming from
+emerging economies. The above result suggests that sovereign ratings have genuine economic consequences for banks. The study
+recommends and encourages emerging economies to use the services provided by credit rating agencies since these agencies may help
+improve accessibility of funds in the international markets by banks. Moreover, the study recommends that banks should pay particular attention to sovereign credit ratings announcement. This is because the Basel III accord advice banks to use solicited ratings
+for both capital requirement and risk management purposes. Since many banks in Africa are not rated sovereign ratings can be an
+option.
+Also, there are no agreed upon or standard methods to measure the credit rating accuracy by the credit rating agencies. This is
+partly because of the subjectivity nature of the ratings nonetheless the announcement of it causes market reaction. Therefore, in
+making investment and funding decisions, it is recommended that sovereign rating should be considered as a supplement and not a
+substitute to our own perceived judgement and research.
+Appendix A
+See Tables A1–A5
+
+Table A1
+Ratings Categories.
+Credit quality
+
+Fitch and S & P
+
+Numeric
+
+Highest capacity to meet ﬁnancial obligation
+Very strong payment capacity
+
+AAA
+AA+
+AA
+AA−
+A+
+A
+A−
+BBB+
+BBB
+BBB−
+BB+
+BB
+BB−
+B+
+B
+B−
+CCC
+CC
+C
+D
+
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+Strong capacity
+
+Adequate capacity
+
+Less vulnerable
+
+More vulnerable
+
+An obligor is currently vulnerable
+Currently highly- vulnerable
+Currently highly- vulnerable to nonpayment
+An obligor has failed to pay
+
+897
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Table A2
+Fisher-type unit-root test.
+
+BKSF
+CAP
+FUNDCOS
+GDPG
+OVH
+INF
+M2GDP
+ROAA
+SOVR
+
+statistics
+
+p-value
+
+2197.3148
+1804.5521
+1596.791
+1732.7743
+1380.0238
+1055.0924
+939.9266
+1519.7659
+5.2565
+
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+1.0000
+
+Table A3
+Hausman Test.
+Coeﬃcients
+
+SOVR
+CAP
+BKSF
+OVH
+GDPG
+M2GDP
+INF
+ROAA
+
+(b)
+fe
+
+(B)
+re
+
+(b-B)
+Diﬀerence
+
+sqrt(diag(V_b-V_B))
+S.E.
+
+−0.0059651
+−0.1582136
+−0.1206156
+0.1226664
+−0.2722311
+−0.2356619
+−0.1448219
+−0.0966307
+
+0.008106
+−0.10727
+−0.09908
+0.104759
+−0.32682
+0.049575
+−0.0731
+0.574034
+
+−0.0140711
+−0.0509451
+−0.0215347
+0.0179071
+0.0545883
+−0.2852366
+−0.0717212
+−0.6706643
+
+0.0121852
+0.1291184
+0.0349554
+0.033821
+0.2515324
+0.2066544
+0.0957806
+0.3461741
+
+b = consistent under Ho and Ha; obtained from xtreg.
+B = inconsistent under Ha, eﬃcient under Ho; obtained from xtreg.
+Test:Ho: diﬀerence in coeﬃcients not systematic chi2(8) = (b-B)'[(V_b-V_B)^ 13.06 (-1)](b-B) 13.06.
+Prob > chi2 = 0.1098.
+
+Table A4
+Generalized Least Square Approach.
+Variable
+
+Fixed eﬀect
+
+Random eﬀect
+
+SOVR
+
+−0.006
+(0.0078)
+−0.1582
+(0.2393)
+−0.1206
+(0.074)
+0.1227
+(0.0758)
+−0.2722
+(0.143)*
+−0.2357
+(0.2474)
+−0.1448
+(0.1058)
+−0.0966
+(0.3714)
+0.5876
+(0.3606)
+464
+0.0469
+1.36
+
+0.0081
+(0.0041)**
+−0.1073
+(0.0845)
+−0.0991
+(0.048)**
+0.1048
+(0.0517)**
+−0.3268
+(0.2982)
+0.0496
+(0.0478)
+−0.0731
+(0.1182)
+0.574
+(0.3611)
+0.2394
+(0.118)
+464
+0.2668
+
+CAP
+BKSF
+OVH
+GDPG
+M2GDP
+INF
+ROAA
+_cons
+Number of Obs
+R-square
+F(8213)
+Wald chi2(8)
+Prob > F
+
+0.2174
+
+** Signiﬁcance level: 5%.
+
+898
+
+17.5
+0.0253
+
+Research in International Business and Finance 42 (2017) 887–899
+
+M. Opoku Mensah et al.
+
+Table A5
+Variable Description.
+Classiﬁcation
+Dependent variable
+Funding cost (FUNDCOS)
+Independent variables
+Bank speciﬁc variables
+Bank Size (BKSF)
+Overhead cost (OVH)
+Macroeconomic variables
+Sovereign credit rating
+GDP Growth Rate
+Inﬂation (INF)
+Money supply Growth (M2GDP)
+
+Description
+
+Expectations
+
+The ratio of interest expense over average of total deposits
+
+Log of total deposit
+Log of personal expenses plus other operating expenses
+
+−
++
+
+Numerical score
+The yearly GDP growth
+Consumer Price Index
+
+−
+−
++/−
+−
+
+References
+Acharya, V.V., Anginer, D., Warburton, A.J., 2015. The end of market discipline? Investor expectations of implicit government guarantees. In: Investor Expectations of
+Implicit Government Guarantees. March 1, 2015.
+Adelino, M., Ferreira, M.A., 2014. Bank Ratings and Lending Supply: Evidence from Sovereign Downgrades. Available at SSRN 2376721.
+Araten, M., Turner, C.M., 2012. Understanding the Funding Cost Diﬀerences Between Global Systemically Important Banks (G-SIBs) and Non-G-SIBs in the United
+States. Available at SSRN 2226939.
+Babihuga, R., Spaltro, M., 2014. Bank funding costs for international banks. International Monetary Fund.
+Beau, E., Hill, J., Hussain, T., Nixon, D., 2014. Bank funding costs: what are they, what determines them and why do they matter? Bank Engl. Q. Bull. Q4.
+Berglund, A., Fransson, C., 2012. Sovereign Credit Rating Eﬀects on Equity Markets: Applied on US Data.
+Bhatia, M.A.V., 2002. Sovereign Credit Ratings Methodology: An Evaluation. International Monetary Fund.
+Billett, M.T., Garﬁnkel, J.A., O'Neal, E.S., 1998. The cost of market versus regulatory discipline in banking. J. Financ. Econ. 48 (3), 333–358.
+Borensztein, M.E., Valenzuela, P., Cowan, K., 2007. Sovereign Ceilings Lite? the Impact of Sovereign Ratings on Corporate Ratings in Emerging Market Economies
+(EPub). International Monetary Fund.
+Cantor, R., Packer, F., 1997. Diﬀerences of opinion and selection bias in the credit rating industry. J. Bank. Finance 21, 1395–1417.
+Correa, R., Lee, K.H., Sapriza, H., Suarez, G.A., 2014. Sovereign credit risk banks' government support, and bank stock returns around the world. J. Money Credit Bank.
+46 (s1), 93–121.
+Demirgüç-Kunt, A., Huizinga, H., 2010. Bank activity and funding strategies: the impact on risk and returns. J. Financ. Econ. 98 (3), 626–650.
+Dietrich, A., Wanzenried, G., 2011. Determinants of bank proﬁtability before and during the crisis: evidence from Switzerland. J. Int. Financ. Mark. Inst. Money 21 (3),
+307–327.
+Duﬃe, D., Singleton, K.J., 2003. Credit Risk: Pricing, Management, and Measurement Princeton Series in Finance. Princeton University Press, Princeton.
+Gennaioli, N., Martin, A., Rossi, S., 2014. Banks, government bonds, and default: what do the data say? European Corporate Governance Institute (ECGI)-Finance
+Working Paper (425).
+Hossain, M.M., Hossain, M.M., 2015. Cost of funds of non-bank ﬁnancial institutions in Bangladesh: internal factors analysis. Asian Bus. Rev. 2 (2), 29–36.
+Hubbard, R.G., Kuttner, K.N., Palia, D.N., 2002. Are there bank eﬀects in borrowers' costs of funds? Evidence from a matched sample of borrowers and banks. J. Bus. 75
+(4), 559–581.
+Jibrin, M., Okorie, G., Okoro, A., Dada, E., Chiemeke, C., Owolabi, O., 2015. CBN Working Paper Series.
+Johnson, C.L., Kriz, K.A., 2005. Fiscal institutions, credit ratings, and borrowing costs. Public Budg. Finance 25 (1), 84–103.
+Kaminsky, G., Schmukler, S.L., 2002. Emerging market instability: do sovereign ratings aﬀect country risk and stock returns? World Bank Econ. Rev. 16 (2), 171–195.
+Karam, P.D., Merrouche, O., Souissi, M., Turk, R., 2014. The Transmission of Liquidity Shocks: Evidence from Credit Rating Downgrades.
+Kisgen, D.J., Strahan, P.E., 2010. Do regulations based on credit ratings aﬀect a ﬁrm's cost of capital? Rev. Financ. Stud. hhq077.
+Kisgen, D.J., 2006. Credit ratings and capital structure. J. Finance 61 (3), 1035–1072.
+Kroszner, R.S., 2013. A Review of Bank Funding Cost Diﬀerentials. University of Chicago Booth School of Business, Chicago.
+Li, H., Jeon, B.N., Cho, S.-Y., Chiang, T.C., 2008. The impact of sovereign rating changes and ﬁnancial contagion on stock market returns: evidence from ﬁve Asian
+countries. Glob. Finance J. 19 (1), 46–55.
+Martell, R., 2005. The Eﬀect of Sovereign Credit Rating Changes on Emerging Stock Markets. Available at SSRN 686375.
+Panetta, F., Correa, R., Davies, M., Di Cesare, A., Marques, J.-M., Nadal de Simone, F., Wieland, M., 2011. The Impact of Sovereign Credit Risk on Bank Funding
+Conditions.
+Ratings, F., 2003. PPP-PFI: UK Market Trends and Fitch Rating Criteria for European PPP Transactions. New York.
+Ratings, F., 2010. Deﬁnitions of Ratings and Other Forms of Opinion. August. Available via the Internet. www.ﬁtchratings.com/web_content/ratings/ﬁtch_ratings_
+deﬁnitions_and_scales.pdf.
+Reinhart, C.M., Rogoﬀ, K.S., 2004. Serial Default and the Paradox of Rich to Poor Capital Flows. National Bureau of Economic Research.
+Roodman, D. (2006). How to do xtabond2: An introduction to diﬀerence and system GMM in Stata.
+Standard & Poor's. 2012. Ratings above the sovereign. corporate and government ratings. ratingsDirect, September.
+Suﬁan, F., Habibullah, M.S., 2009. Asian ﬁnancial crisis and the evolution of Korean banks eﬃciency: a DEA approach. Glob. Econ. Rev. 38 (4), 335–369.
+
+899
+
+

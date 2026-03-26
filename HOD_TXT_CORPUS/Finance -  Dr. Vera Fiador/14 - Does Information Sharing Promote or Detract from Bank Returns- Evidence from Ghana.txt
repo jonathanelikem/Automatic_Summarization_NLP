@@ -1,0 +1,264 @@
+
+
+African Development Review, Vol. 28, No. 3, 2016, 332–343
+
+
+Does Information Sharing Promote or Detract from Bank Returns: Evidence from Ghana
+
+Baah Aye Kusi, Elikplimi Komla Agbloyor, Vera Ogeh Fiador and Kofi Achampong Osei*
+
+
+  Abstract: This study examines the effect of information sharing through credit reference bureaus (CRBs) on the profitability of banks in Ghana. We adopt a Prais-Winsten panel regression for 25 banks across four years to examine the empirical relations. We establish that information sharing through CRBs is positively related to bank profitability. This implies that as banks use the services of CRBs (indicating information sharing) they are able to boost their profitability. This is because information sharing can lead to an increase in interest income by reducing incomplete and false information which in turn leads to a reduction in collateral constraints. Further, information sharing reduces information asymmetry by lowering the evaluation (adverse selection) and monitoring costs (moral hazard) associated with the lending proposition. The major implications of our findings are that sharing information across banks is important for the profitability of the banking system as a whole. In this regard, it would be useful to find more efficient and cost-effective ways to provide information sharing services to banks and other non-bank financial institutions. We recommend that the laws that mandate the gathering of credit information be expanded to include credit data from tax agencies, utility agencies and court rulings on financial matters.
+
+1. Introduction
+The continent of Africa in recent times has seen the emergence of credit information sharing through Credit Referencing Bureaus (CRBs), although information sharing through CRBs have long existed in most European and American countries. As at 2012, 8 out of 46 countries had established CRBs in sub-Saharan Africa, while 7 out of 19 countries had CRBs established in the middle, east and north of Africa. Also, only two countries (Ghana and Nigeria) in the West African sub-region had CRBs at the time (World Bank, 2012). CRBs are institutions that collect financial data, process the data, store it and at the request of lenders and other financial institutions, share or provide the credit worthiness status or report for lending decisions by the requesting institution. Theories and empirics suggest numerous effects of CRBs on the banks and economies as a whole. For instance, the information asymmetry theory (see Freimer and Gordon, 1965; Stiglitz and Weiss, 1981) argues that the lack of complete and accurate information leads to credit rationing and collateral requirement because banks are unable to distinguish between good and bad borrowers. That is, information asymmetry leads to low credit extension to credit worthy borrowers who cannot provide collateral. Again, credit information sharing theory (see Gehrig and Stenbacka, 2007) helps banks to reduce adverse selection and moral hazard in the credit market. This implies that banks are able to eliminate defaulters from the loan process, which increases their profitability through the interest paid by creditworthy clients.
+  Empirical studies also provide similar arguments. For instance, Brown and Zehnder (2007), Barth et al. (2009) and Powell et al. (2004) find that CRBs can help improve loan repayment, reduce bank corruption and default rates respectively. Brown et al. (2009) and Djankov et al. (2007) have also shown that CRBs improve access to finance. However, we do not cite any empirical studies that examine the impact of information sharing through CRBs on bank profitability, especially in the African context. We argue the existence of this lacuna in a number of ways. First, Stiglitz and Weiss (1981) argue that credit rationing is adopted by banks because they are unable to differentiate between good and bad borrowers because of the cost of evaluating and monitoring borrowers. Hence, banks may charge a flat interest rate for all kinds of borrowers. In view of this, we argue that credit information shared through CRBs reduces the cost of evaluating, selecting and monitoring borrowers which improves bank profitability. This
+
+*Department of Finance, University of Ghana Business School, Legon, Ghana. Corresponding author: Baah Aye Kusi, Tel: +233541558434, e-mail: baahkusi@gmail.com. We are thankful to Mr. Blankson of XDS Data Credit Referencing Bureau and Mrs. Charlotte Frempomaa Mensah of Bank of Ghana for their immense support in acquiring the needed data to complete this study.
+© 2016 The Authors. African Development Review © 2016 African Development Bank. Published by Blackwell Publishing Ltd, 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street, Malden, MA 02148, USA.
+
+
+is because CRBs are specialized institutions that gather credit data and provides creditworthiness reports on borrowers for credit or loan decision-making at a low cost. Additionally, Behr and Sonnekalb (2012), Luoto et al. (2007) and Brown and Zehnder (2007) find that the presence of CRBs pressures bank borrowers to service their loans due to the fear of future denial of loans, since default is made known to other banks. Hence, this pressure on bank borrowers enable banks to increase their loan recovery.
+  Given the arguments above, we take advantage of the introduction of information sharing in Ghana to examine its effect on bank profitability from 2010 to 2013 using 25 banks in a panel set up.
+
+2. Overview of Credit Referencing Bureaus in Ghana
+CRBs started operations in Ghana in 2010. However, the Act (Credit Reporting Act 2007: Act 726) was enacted in the latter part of 2007. The Act permitted the existence of information sharing institutions in the banking sector and defined their roles. The Banking Survey (2010) reports that bank performance in terms of credit risk and profitability were worsening. Hence, CRBs came in when the performance of the banking sector was deteriorating. Given this, the introduction of CRBs was expected to salvage the worsening situation and also to strengthen the lending proposition of banks, which was clouded with many difficulties and challenges.
+  Although the Act that permitted the existence and operations of CRBs was enacted in the later part of 2007, the first credit reference bureau company (XDS Data Credit Reference Bureau) was established in 2008 and given two years to gather and synchronize financial data from the banks so as to enhance their ability to deliver reliable, accurate and quality credit referencing services. Currently, three CRBs including XDS Data Credit Reference Bureau, Hudson Price Credit Bureau and Dun and Bradstreet Credit Bureau Limited operate in Ghana. XDS Data Credit Reference Bureau has its roots in South Africa, while the other two have a presence in America, Europe and some African countries. Until 2013, XDS Data Credit Reference Bureau enjoyed the monopoly of being the only credit referencing company in Ghana. Currently, only banks, savings and loans and microfinance institutions are mandated to submit their monthly financial statements to the three CRBs. Unlike the case of Ghana, Miller (2003) reports that in some European and American countries, CRBs source data from both the financial and non-financial institutions, including tax agencies, utility companies and from court rulings on financial matters, which makes their data comprehensive enough for accurate and reliable financial decisions.
+  Figure 1 presents the bank industry’s performance before and after the introduction of Credit Reference Bureaus in Ghana from 2006 and 2013. The figure reports the banking sector yearly average profitability (return on asset (ROA) and return on equity (ROE)). The yearly industrial ROA and ROE are measured as earnings before interest and tax divided by total assets and earnings after tax divided by total equity.
+  The figure reads from left to right and shows a sharp decline in sectoral ROE from 28.4 per cent in 2006 to 10.5 per cent in 2009. It rises in 2009 from 10.5 per cent to 16.6 per cent in 2010 when CRBs started operations in Ghana. From 2010, ROE has
+
+
+Figure 1:	Bank industry profitability before and after the introduction of CRBs
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+2006	2007	2008	2009	2010	2011	2012	2013	ROA	ROE
+Source: Computed from Bank of Ghana data.
+
+
+Table 1: Credit bureau coverage and usage in Ghana
+
+Source20102011201220132014World Development Indicators (% coverage)2.103.305.7010.4014.10XDS Data (bank frequency of usage of CRB services)13,78179,156179,496343,187369,834
+
+kept rising from 16.6 per cent to 27.5 per cent in 2013. ROA also exhibits trends comparable to ROE. ROA declined from
+3.5 per cent in 2006 to 1.4 per cent in 2009 but rose to 2.3 per cent in 2010. After 2010, when CRB started operations in Ghana, yearly sectoral ROA has seen continuous improvement from 2.3 per cent to 4.2 per cent in 2013. Has the introduction of CRBs contributed to these observed trends?
+  Table 1 provides information on CRB coverage and usage in Ghana as per World Development Indicators (WDI) and XDS Data Credit Bureau. CRB coverage is measured as the percentage of adult population covered by private credit information sharing institutions in Ghana, while usage is measured as the number of times (frequency of usage) banks use the services of CRBs in Ghana on a yearly basis.
+  From the table, the percentage of the adult population covered by CRBs in Ghana is increasing steadily. This indicates that the number of adults eligible to access banking products and services are gradually been captured by CRBs. However, the growth rate of the coverage can be improved upon. On the usage of CRB services, banks in Ghana have increased their patronage of CRB services. The trends in the yearly usage by banks show an immense continuous increase (13,781 times in 2010 to 369,834 times in 2014) in the use of CRB services by banks in Ghana. This is an indication that banks in Ghana are gradually understanding the value and benefits of using CRB services.
+
+3. Theoretical and Empirical Review
+Information sharing in the credit market is a relatively new concept in most developing or emerging markets (Luoto et al., 2007). Numerous benefits are reported to be associated with information sharing in the credit market, and one important benefit of information sharing which we argue for and explore here, is its effect on bank profitability. The study briefly highlights some key empirical studies on information sharing.
+  First, empirical studies suggest that information sharing reduces credit risk. Studies that examine the impact of information sharing on bank credit risk argue in two ways: screening and incentive effects (Brown et al., 2009; Luoto et al., 2007; Djankov et al., 2007). The screening effect suggests that information sharing enables banks to evaluate and identify clients’ ability to repay their loans, and hence to enhance the default predictive power of banks which helps to reduce adverse selection (Pagano and Jappelli, 1993). Also, the incentive effect proposes that bank clients are motivated to repay loans because of the fear of future denial of credit by lenders, because default is shared by all lenders. Hence, bank clients are pressured to perform and settle their loans because they will be denied access to credit in the future upon default (Padilla and Pagano, 2000). Empirical studies that provide evidence in support of a negative link between CRBs (information sharing) and credit risk includes Kallberg and Udell (2003), Bennardo et al. (2015), Brown and Zehnder (2007) and Luoto et al. (2007).
+  Second, information sharing and access to credit has also been in the spotlight, especially in Africa, where obstacles to credit are most pressing. Studies on information sharing and access to credit argue that sharing information helps to extend credit to the poor, but creditworthy, borrowers who do not have collateral. This can be explained by the fact that the decision to advance credit is not solely based on the borrower’s ability to provide adequate collateral in the presence of information sharing. Information sharing therefore helps to reduce collateral constraints (see Love and Mylenko, 2003; Berger and Frame, 2006; Djankov et al., 2007; Brown et al., 2009; Behr and Sonnekalb, 2012).
+
+4. Methodology
+The study utilizes panel data techniques to establish the effect of CRB usage on bank profitability in the Ghanaian banking sector. Panel data estimation presents more convincing results than the traditional time series and cross-sectional analyses, since it exploits the advantages of the time series and the cross-sectional data. Another advantage of the panel is its ability to control for
+
+
+omitted variables and bank specific effects and also allows for long- and short-run effects. This overcomes the shortcomings of the cross-sectional and time series estimations (Wooldridge, 2009).
+The general form of a panel data model is
+Y it = ai + gt + bXit + eit	(1)
+where subscript i denotes the cross-sectional dimension (bank) i = 1 .. .N and t denotes the time series dimension (time), t =1... T; Yit is the dependent variable; ai is scalar and constant term for all periods (t) and specific to a bank fixed effect (i); gt is the time fixed effect t; b is a k × 1 vector of parameters to be estimated on the independent variables; Xit is a 1× k vector of observations on the independent variables comprising independent variables in the model which include controlled variables; and eit, which is iid as the error term.
+Following the general panel data model above, the study contextualizes the bank profitability model to be estimated as:
+ROAit = b1 Bank Specif ic Variablesit + b2 Industry Specif ic Variablet + b3 Macroeconomic variablest + eit	(2)
+
+
+4.1 Empirical Estimation Approach
+To establish the effect of CRBs on bank profitability, we employed the Prais–Winsten estimation after the homoscedasticity and the normality assumptions under ordinary least squares (OLS) approach were not met. The Prais–Winsten (1954) estimates linear regressions that are corrected for panel specific serially correlated residuals and heteroscedastic panels. The Prais–Winsten generalized least squares (GLS) estimation was employed ahead of other GLS estimations like Cochrane–Orcutt for a number of reasons. First, the Cochrane–Orcutt estimator does not effectively deal with the serial correlation when it is closer to one. Second, the variance of the first observations error term is important for relative efficiencies of the estimators which the Prais–Winsten preserves. Finally, the asymptotic results suggest that the feasible Prais–Winsten estimator is the best estimator in most applied situations (see Judge, Griffiths, Hill, Lutkepohl and Lee, 1985). Hence, we estimate our bank profitability models as:
+ROAit = b1 CRBCRit + b2 CAPit + b3 SIZEit + b4 INEFFit + b5 HHILt + b6 GDPGROWHt + b7 INFLt + eit ···  (3)
+  ROA is a dependent variable which varies across bank (i) and time (t). It is used to capture bank profitability. CRBCR is a measure for CRB service usage and usage cost ratio, CAP measures capital adequacy, SIZE measures bank size and INEFF measures management quality. These variables mentioned are bank specific variables and vary across time and bank. HHIL varies across time and is a measure for bank loan concentration. GDPGROWTH and INFL are macroeconomic variables and vary across time. They represent GDP growth and inflation respectively while eit is the error term and varies across bank and time.
+
+4.2 Variable Selection and Description
+Return on Asset (ROA)
+The study employs return on assets (ROA) in the bank profitability model ahead of return on equity as a dependent variable, because ROE has a major shortcoming since it ignores financial leverage and the effect of regulation on financial leverage (Athanasoglou et al., 2008; Dietrich and Wanzenried, 2011). Given this challenge, the study adopts the use of ROA and this is measured as earnings before tax divided by total assets.
+
+Credit Referencing Bureaus (CRBE and CRBCR)
+CRBs which are mandated to share information are employed as a bank specific factor in our model. However, the variable of interest is employed using two different measures. First, it is measured as the natural log of the number of times each bank has used CRB services in a given year (represented as CRBE). Second, we divide the cost of using CRB services by the total loans
+
+
+and advances by a given bank in a particular year (CRBCR). While CRBE measures whether the frequency of CRB services usage affect bank profitability, CRBCR measures whether the willingness and ability of a bank to use CRB services affect its profitability. These two variables measure credit information sharing from a bank’s perceptive. We develop and utilize these measures because we believe it captures more accurately a bank’s use of information from a CRB. These measures are employed since some earlier studies on CRBs (information sharing) have used dummies which do not best capture the effect (see Brooks, 2008; Wooldridge, 2009). Again, the study did not use the Public Credit Registries (PCR) and Private Credit Bureaus Coverage (PCB) in the World Development Indicators for three reasons. First, PCR and PCB measure the extent of coverage (number of adult population covered by credit information sharing institutions), not patronage or usage by banks, as this study set out to examine. Second, the PCR and PCB variables measure information sharing at the country level, while this study measures information sharing at the bank level. Third, the PCR and PCB variables do not capture the cost of usage or the patronage of credit information sharing cost which affect the profitabilities of banks. Given these challenges, the study employs CRBE and CRBCR. Following the information sharing theory, we anticipate a positive impact of CRB usage on bank profitability.
+
+Capital Adequacy
+Capital adequacy is measured as total equity divided by total assets. It is a measure of how much of a bank’s assets is financed with owner’s capital and forecasts the ability of a bank to soak up losses. In line with risk-return hypothesis (see Berger, 1995), we anticipate a positive relationship between bank profitability and capital.
+
+Bank Size
+Size is measured with total assets and normalized by logging the assets to ensure consistent, efficient and unbiased estimates. The relationship between bank size and profitability has mixed findings in bank profitability studies. First, due to the fact that governments are likely not to allow big banks to fail, a risk approach to size would expect that larger banks would require lower profits (Athanasoglou et al., 2008). On the contrary, current intermediation theory foretells there are efficiency gains that relate to bank size (economies of scale) (Athanasoglou et al., 2008), especially when bigger banks have a greater share of the domestic market, and operate in a less competitive environment, lending rates may stay high and as a result larger banks may enjoy higher profits.
+
+Inefficiency
+Inefficiency is employed in the profitability model and measured as operating expenses divided by total assets (see Athanasoglou et al., 2008). Following Athanasoglou et al. (2008) an improvement in the management of these expenses will increase efficiency and consequently raise profits. This suggests a negative relationship. Alternatively, where banks are able to pass on their cost operations to their clients, a positive relationship will exist between bank inefficiency and profitability (Iannotta et al., 2007; Naceur and Omran, 2011).
+
+Concentration (HHIL)
+The Herfindahl-Hirschman (HHI) loan concentration index is employed, and measured as the sum of squares of loans and advances. This study monitors how banking market structure (using loan concentration) affect bank profitability. The relationship between bank market structure and performance is explained by the competition stability and competition-fragility hypotheses (see Zhao and Murinde, 2011; Beck et al., 2006; Turk-Ariss, 2010; Schaeck and Cihak, 2010; Keeley, 1990). That is, a negative relationship between concentration and profitability indicates the competition stability hypothesis while a positive relationship indicates the competition fragility hypothesis. Hence, the anticipated relationship is unclear.
+
+Gross Domestic Product Growth Rate
+Bank profitability is responsive to economic conditions (GDP growth) (see Athanasoglou et al, 2005). A positive relationship implies that improvement in GDP growth leads to improvement in bank profitability because, borrowers are able and willing to
+
+
+settle loan obligations when GDP growth improves (see Demirguc-Kunt and Huizinga, 1998; Athanasoglou et al., 2005; Bikker and Hu, 2002). However, the Pecking Order Theory and the loan growth analysis (Keeton, 1999) indicates a negative relationship could exist between the two. Hence, an improvement in economic conditions implies less loan demand which leads to low interest income and profitability (see Keeton, 1999).
+
+In?ation Rate
+Bank performance is responsive to macroeconomic sensitivities (Nguena and Nanfosso, 2014).The impact of the inflation rate on bank profitability depends on whether future fluctuations in inflation are completely anticipated, and in turn, it depends on the ability of banks’ management to accurately forecast future movements in the relevant control variables (Adom et al., 2015; Bourke, 1989; Demirguc-Kunt and Huizinga, 1998). Where bank management can fully anticipate changes in inflation and adequately adjust the increase rate, this will lead to higher bank profitability. However, if a bank management is sluggish to anticipate changes in inflation and accordingly to adjust the interest rate, this may also lead to lower bank profitability. Hence, the impact of inflation on bank profitability is ambiguous.
+Table 2 summarizes the variable definitions used in the study.
+
+5. Results
+This section presents the empirical results. Table 3 presents the descriptive statistics, Table 4 presents the correlation matrix and the regression results are presented in Table 5.
+  Table 3 presents summary statistics on the variables employed over the period of 2006 to 2013. However, since CBR started in 2010 in Ghana, CRBE and CRBCR cover the period from 2010 to 2013. From the table, return on assets (ROA) recorded an average of 3.26 per cent and a standard deviation of 3.89 per cent which is an indication of moderate variation in bank profitability across the banks in this study. Credit Referencing Bureau enquiry (CRBE) and cost (CRRBR) recorded a mean of
+6.58 and 0.14 per cent respectively. The 0.14 per cent of CRRBR implies that banks spend far less than 1 per cent of their total loans and advances on CRB services to ensure recovery of loans. Bank inefficiency (INEFF) was 7 per cent on the average but varied moderately across banks by 4.65 per cent. Loan concentration (HHIL) had a mean of 7.88 per cent. The mean values suggest that banks are efficient since the operating expenses form a small proportion of a bank’s assets and hence a competitive
+
+
+Table 2: Summary of variable definitions
+
+Variable	Measurement	Source
+
+Dependent variable
+ROA	Earnings before tax / Total assets	Computed from Bank of Ghana data
+
+Bank specific variables
+CRBCR
+
+Cost of bureau enquires / Total loans and advances	Computed from XDS Data records
+
+CRBE	Natural log of frequency of use of credit reference bureaus services by banks
+
+Computed from XDS Data records
+
+CAPITALTotal equity / Total assetsComputed from Bank of Ghana dataSIZENatural log of total assetsComputed from Bank of Ghana dataINEFFOperating expenses/ Total assetsComputed from Bank of Ghana dataIndustry variable
+HHIL	N  2
+i
+i=1
+
+Computed from Bank of Ghana data
+
+Macroeconomic variables
+GDPGROWTH
+
+Change in real gross domestic product / Initial real gross domestic product
+
+World Development Indicators
+
+INFL	Change in Consumer Price Index / Initial Consumer Price Index	World Development Indicators
+
+
+Table 3: Summary statistics
+
+VariableObsMeanStd. Dev.MinMaxSWILKROA1820.032600.038850.000450.3539963.5400***CRBE986.579621.739821.7917610.242462.1350**CRRBR980.001360.010080.000020.0999173.1760***CAPITAL1840.159870.119960.008920.8418138.7760***SIZE18419.828501.4023012.2639722.4714618.1800***INEFF1830.069980.046530.000050.4237236.3000***Hhil1840.078790.018560.058530.1094214.3720***Gdpgrowth1840.081270.030900.039910.1500722.1840***Infl1840.121540.035110.087270.1925127.7280***Notes: Significance level: *** 1%, ** 5%, * 10 %, SWILK Ho = Variable is not normally distributed. See Table 2 for variable definitions.
+
+
+banking. The macroeconomic variables appear to be quite stable, as the two variable measures of macroeconomic conditions (GDP growth and inflation) recorded a standard deviation of 3.09 per cent and 3.51 per cent respectively. The variables were all normally distributed under 1 per cent significance level using the Shapiro–Wilk normality test.
+  Table 4 exhibits Pearson’s correlation which serves as a check for the multicollinearity among the variables. The study set a threshold of 0.7 (following Kennedy, 2008) for Pearson’s correlation between two variables to be considered as multicollinearity. From the Pearson correlation table, we find bank size and loan concentration to be the variables that significantly influence our variable of interest (frequency of CRB product and services usage by banks and cost of usage). Again it is evident that bank capital, management inefficiency and frequency of CRB services patronage are positively correlated with bank profitability while bank size, loan concentration, real gross domestic product growth, inflation and bank’s ability and willingness to use CRB services were significantly and negatively correlated with bank profitability.
+
+5.1 Effect of CRBs on Bank Profitability
+We establish the effect of CRBs on bank profitability in three different models. In Model 1, the natural log of bank patronage (frequency of use) of CRB services is used to proxy CRB, while in Model 2 the banks’ credit referencing bureau cost ratio is to proxy CRB to capture the effect of CRBs on bank profitability. In Model 3, no CRB variables are included in the regressions. This is to establish the contribution of CRBs to explaining bank profitability.
+  From the regression results in Table 5, the frequency of CRB patronage by banks (represented as CRBE) has a positive and significant effect on bank profitability in Model 1. The results are significant at the 10 per cent level. The results imply that as
+
+Table 4: Pearson correlation matrix
+
+ROA	CRRBR	CRBE	CAPITAL	SIZE	INEFF	HHIL	Gdpgrowth	Infl
+
+ROA1CRRBR–0.03921CRBE0.176–0.16061CAPITAL0.1759**–0.0417–0.38151SIZE–0.0677–0.6467***0.5784***–0.2609***1INEFF0.6287***–0.03460.12770.1073–0.1393**1HHIL–0.05880.1681*–0.4931*–0.2187***–0.4255***0.02171Gdpgrowth–0.067–0.04470.07550.07170.1891**–0.0895–0.5778***1Infl–0.02010.0496–0.0841–0.0261–0.1582**0.04180.4555***–0.60831Notes: Significance level: *** 1%, ** 5%, * 10 %. See Table 2 for variable definitions.
+
+
+Table 5: Prais–Winsten GLS bank profitability regression
+
+ROA 1ROA 2ROA 3CRRBR0.2290(0.0854)***CRBE0.0026(0.0014)*CAPITAL0.07070.06580.0363(0.0170)***(0.0156)***(0.0155)**SIZE–0.00010.00240.0011(0.0019)(0.0015)(0.0004)**INEFF0.61920.63630.5138(0.1177)***(0.1177)***(0.0718)***HHIL–0.9341–1.3958–0.127(0.4889)*(0.3873)***(0.0549)**gdpgrowth–0.1297–0.1432–0.133(0.0661)**(0.0894)(0.0421)***infl0.35370.3220–0.081(0.1871)*(0.2468)(0.0380)**R20.810.800.66AR(1)0.06140.05220.004Prob > chi0.00000.00000.0000Waldchi2(7) = 10508.54chi2(7) = 6598.36chi2(6) = 7502.46Banks252525N9797182Notes: Significance level: *** 1%, ** 5%, * 10 %. See Table 2 for variable definitions.
+
+
+banks patronize the services of CRBs, banks’ profitability is improved. Also, Model 2 reports a positive and significant effect of CRB cost ratio on bank profitability at the 1 per cent level of significance. This indicates that as banks are willing and able to spend on CRB services, they are able to improve their predictive ability to distinguish between good and bad borrowers (see Barth et al., 2009; Kallberg and Udell, 2003; Barron and Staten, 2003) thereby increasing interest income, which in turn boosts bank profitability. We argue that in the presence of CRBs, banks tend to spend less on evaluation and monitoring borrowers (due to the pressure of denial of future credit on borrowers), hence reducing bank operating costs and increasing profitability.
+  We find capital to be positively and significantly related to bank profitability in Models 1, 2 and 3. This indicates that risk averse shareholders require higher return on investment to compensate for their risk, and hence put pressure on bank management to perform in order to meet the high compensation demand of shareholders (see Berger, 1995; Athanasoglou et al., 2005; Iannota et al., 2007; Naceur and Omran, 2011). Bank size was positively significant in Model 3 in the absence of the CRB measures. This positive relationship suggests that larger banks tend to exhibit higher margins and is consistent with models that emphasize economies of scale. This finding is consistent with Alhassan et al. (2014) and Biekpe (2011) who attest that larger banks enjoy economies of scale. We therefore argue that in the presence of CRB, bank size does not give any advantage to larger banks to make more profit than small banks.
+  Bank inefficiency reports a significant and positive relationship to bank profitability in all three models. The results suggests that banks in Ghana are able to pass on their cost of operation to depositors and lenders through the rates they charge, which increases bank profitability. However, Maudos and Fern´andez de Guevara (2004) argue that this positive relationship exists because operational inefficiency could mean higher volumes of banking activities and therefore higher profitability. Loan concentration, however, had a negative but significant effect on bank profitability in all three models. This indicates that as loans advancement concentrate in fewer banks, bank profitability decreases, implying that banks with market power (in terms of loan concentration) are unable to take advantage of the situation (see Pain, 2003; Turk-Ariss, 2010). This follows the competition- stability hypothesis which suggests that competition drives efficiency, resulting in bank stability and improves the soundness of the banking sector.
+
+
+  We find GDP growth rate to influence bank profitability negatively and significantly in Model 1 and Model 3. Contrary to Athanasoglou et al. (2005), we suggest that this finding is consistent with the Pecking Order Theory and Keeton’s (1999) analysis on loan growth. They argue that banks lower or relax lending conditions and processes to attract clients in times of economic boom (depicting GDP growth) because individual and corporate entities have a disincentive to borrow during economic boom and prefer to rely on internal funds, since they would have enough funds (following pecking order theory). Hence, relaxation or lowering of lending standards leads to reduction of bank profits, since individuals and corporate entities will be attracted, but will not have any good use for the funds borrowed to pay back the loan. It is, however, interesting to know that inflation is negatively and significantly related to bank profitability in Model 3 (absence of CRBs) but is positively related to bank profitability in Models 1 and 2. We argue from Model 1 that banks that frequently use the services of CRBs are able to eliminate the negative impact of economic conditions on their profitability. This is because bank borrowers are pushed to service their loans regardless of the macroeconomic conditions due to the fear of future denial of credit or loan upon default (see Vercammen, 1995; Padilla and Pagano, 1997, 2000; Jappelli and Pagano, 2002; Djankov et al., 2007; Bennardo et al. 2015). However, both relationships between bank profitability and inflation are consistent with previous studies. While Athanasoglou et al. (2008) report a positive relationship, Boyd et al. (2001) also report a negative effect. We further establish that CRBs explain about 17.5 per cent of the total variation in bank profitability. This was established by deducting the R squared of Model 1 and 2 from that of Model 3.
+
+5.2 Robustness Test
+We first pursued our objective with the OLS approach. However, the assumption of homoscedasticity and normality of residuals were not met. Hence, we proceeded to estimate our model with the GLS approach. We then performed the Hausman test to choose between the fixed and random effects estimations. The Hausman test suggested a fixed effects estimation. However, the fixed effect regression was tested to be heteroskedastic (using the Modified Wald test for groupwise heteroscedasticity) but all other assumptions were met. To overcome the heteroscedastic problem, we employ the Prais–Winsten GLS estimation model to correct for heteroscedasticity (see Judge et al., 1985; Prais–Winsten, 1954). We further estimated the models without including the measures for CRBs (see Model 3 in both models), as additional robust tests. The results are largely consistent with the three models estimated.
+
+6. Conclusion and Policy Implications
+To improve banking stability, central banks and other institutions mandated for such duties have instituted many policies which enhance bank stability. One of such policies is the establishment of Credit Referencing Bureaus (CRBs). Ghana resorted to credit referencing in 2007 and it important to examine if the goals of the Central Bank have been achieved. In this paper, we test the effect of information sharing on bank profitability. Our empirical model indicates a positive relationship between bank profitability and CRB usage by banks. This helps banks to reduce their evaluation and monitoring cost. Further, the presence of CRBs puts pressure on the bank clients to service their loans. Our empirical investigations support the view that bank specific, macroeconomic and industry level factors together help explain variations in bank profitability in Ghana.
+  The findings of this study have implication for CRB regulation, bank management and researchers. First, the patronage of CRB products by banks in Ghana helps banks boost their profitability. Hence, banks are advised to constantly patronize the services of CRBS so as to enable them to reduce the chances of adverse selection and moral hazard arising from incomplete or inaccurate financial data (see Brown and Zehnder, 2007; Doblas-Madrid and Minetti, 2013). It is expected that as banks continue to do this, they will be able to recover or retrieve more or all the loans and advances (principal plus interest). Second, though CRBs have a significant effect on bank profitability, there is more room for improvement since CRBs cover only about 10 per cent of the Ghanaian adult population. It is advised that policy-makers (parliament) enact laws that will increase the source of data to include insurance firms, tax agencies, utility companies and court rulings as is done in some European countries and the Americas (Barth et al., 2009; Kallberg and Udell, 2003). The study also recommends the publicity of CRBs’ presence and activities in Ghana since it forces bank borrowers to be disciplined in servicing their loans due to the potential of future denial of loans or credits upon default (see Doblas-Madrid and Minetti, 2013; Brown and Zehnder, 2007). For the purpose of future research directions, it is recommended that researchers take a look at the effect of CRBs on other performance indicators. Further, it would be important to examine factors that contribute to the efficiency and effectiveness of CRBs.
+
+References
+Adom, P., F. Zumah, A. W. Mubarik, A. B. Ntodi and C. N. Darko (2015), ‘Analysing Inflation Dynamics in Ghana’, African Development Review, Vol. 27, No. 1, pp. 1–13.
+Alhassan, A., A. Kyereboah-Coleman and C. Andoh (2014), ‘Asset Quality in a Crisis Period: An Empirical Examination of Ghanaian Banks’, Review of Development Finance, Vol. 4, No. 1, pp. 50–62.
+Athanasoglou, P. P., S. N. Brissimis and M. D. Delis (2005), ‘Bank-specific, Industry-specific and Macroeconomic Determinants of Bank Profitability’, Bank of Greece Working Paper, No. 25.
+Athanasoglou, P. P., N. B. Sophocles and M. D. Delis (2008), ‘Bank-specific, Industry-specific and Macroeconomic Determinants of Bank Profitability’, International Financial Markets, Institutions and Money, Vol. 18, No. 2, pp. 121–36.
+Banking Survey (2010), PricewaterhouseCoopers (Ghana) Limited, available at: www.pwc.com/gh/en/publications/ghana- banking-surevy-2010.jhtml (accessed 12 July 2015).
+Barron, J. M. and M. Staten (2003), ‘The Value of Comprehensive Credit Reports: Lessons from the U.S. Experience’, in
+M. Miller (ed.), Credit Reporting Systems and the International Economy, MIT Press, Cambridge, MA.
+Barth, J.R., C. Lin, P. Lin and F.M. Song (2009), ‘Corruption in Bank Lending to Firms: Cross-Country Micro Evidence on the Beneficial Role of Competition and Information Sharing’, Journal of Financial Economics, Vol. 91, No. 3, pp. 361–88.
+Beck, T., A. Demirg€ucS -Kunt, L. Laeven and V. Maksimovic (2006), ‘The Determinants of Financing Obstacles’, Journal of International Money and Finance, Vol. 25, No. 6, pp. 932–52.
+Behr, P. and S. Sonnekalb (2012), ‘The Effect of Information Sharing between Lenders on Access to Credit, Cost of Credit and Loan Performance – Evidence from a Credit Registry Introduction’, Journal of Banking and Finance, Vol. 36, No. 11,
+pp. 3017–32.
+Bennardo, A., M. Pagano and S. Piccolo (2015), ‘Multiple Bank Lending, Creditor Rights, and Information Sharing’, Review of Finance, Vol. 19, No. 2, pp. 519–70.
+Berger, A. N. (1995), ‘The Relationship between Capital and Earnings in Banking’, Journal of Money, Credit and Banking, Vol. 27, No. 2, pp. 432–56.
+Berger, A. N. and W. S. Frame (2006), ‘Small Business Credit Scoring and Credit Availability’, Journal of Small Business Management, Vol. 45, No. 1, pp. 5–22.
+Biekpe, N. (2011), ‘The Competitiveness of Commercial Banks in Ghana’, African Development Review, Vol. 23, No. 1,
+pp. 75–87.
+Bikker, J. and H. Hu (2002), ‘Cyclical Patterns in Profits, Provisioning and Lending of Banks and Procyclicality of the New Basel Capital Requirements’, Banca Nazionale del Lavoro Quarterly Review, Vol. 55, No. 221, p. 143.
+Bourke, P. (1989), ‘Concentration and other Determinants of Bank Profitability in Europe, North America and Australia’,
+Journal of Banking and Finance, Vol. 13, No. 1, pp. 65–79.
+Boyd, J. H., R. Levine and B. D. Smith (2001), ‘The Impact of Inflation on Financial Sector Performance’, Journal of Monetary Economics, Vol. 47, No. 2, pp. 221–48.
+Brooks, C. (2008), Introductory Econometrics for Finance, 2nd edn, Cambridge University Press, Cambridge.
+Brown, M. and C. Zehnder (2007), ‘Credit Reporting, Relationship Banking, and Loan Repayment’, Journal of Money, Credit, Banking, Vol. 39, No. 8, pp. 1884–918.
+Brown, M., T. Jappelli and M. Pagano (2009), ‘Information Sharing and Credit: Firm-level Evidence from Transition Countries’, Journal of Financial Intermediation, Vol. 18, No. 2, pp. 151–72.
+Demirguc-Kunt, A. and H. Huizinga (1998), ‘Determinants of Commercial Bank Interest Margins and Profitability: Some International Evidence’, World Bank Economic Review, Vol. 13, No. 2, pp. 379–408.
+
+
+Dietrich, A. and G. Wanzenried (2011), ‘Determinants of Bank Profitability Before and During the Crisis: Evidence from Switzerland’, Journal of International Financial Markets, Institutions and Money, Vol. 21, No. 3, pp. 307–27.
+Djankov, S., C. McLiesh and A. Shleifer (2007), ‘Private Credit in 129 Countries’, Journal of Financial Economics, Vol. 84, No. 2, pp. 299–329.
+Doblas-Madrid, A. and R. Minetti (2013), ‘Sharing Information in the Credit Market: Contract-level Evidence from US Firms’,
+Journal of Financial Economics, Vol. 109, No. 1, pp. 198–223.
+Freimer, M. and M. J. Gordon (1965), ‘Why Bankers Ration Credit’, Quarterly Journal of Economics, Vol. 79, pp. 397–416.
+Gehrig, T. and R. Stenbacka (2007), ‘Information Sharing and Lending Market Competition with Switching Costs and Poaching’, European Economic Review, Vol. 51, pp. 77–91.
+Iannotta, G., G. Nocera and A. Sironi (2007), ‘Ownership Structure, Risk and Performance in the European Banking Industry’,
+Journal of Banking and Finance, Vol. 31, No. 7, pp. 2127–49.
+Jappelli, T. and M. Pagano (2002), ‘Information Sharing, Lending and Defaults: Cross-country Evidence’, Journal of Banking Finance, Vol. 26, No. 1, pp. 2017–45.
+Judge, G., W. E. Griffiths, R. C. Hill, H. Lutkepohl and T. C. Lee (1985), The Theory and Practice of Econometrics, 2nd edn, Wiley, New York.
+Kallberg, J. G. and G. F. Udell (2003), ‘The Value of Private Sector Credit Information’, Journal of Banking Finance, Vol. 27, No. 3, pp. 449–69.
+Keeley, M. C. (1990), ‘Deposit Insurance, Risk, and Market Power in Banking’, The American Economic Review, Vol. 80, No. 5,
+pp. 1183–200.
+Keeton, W. R. (1999), ‘Does Faster Loan Growth Lead to Higher Loan Losses?’, Economic Review-Federal Reserve Bank Of Kansas City, Vol. 84, No. 2, pp. 57.
+Kennedy, P. (2008), A Guide to Econometrics, 6th edn, Blackwell, Oxford.
+Love, I. and N. Mylenko (2003), ‘Credit Reporting and Financing Constraints’, World Bank Policy Research Working Paper 3142.
+Luoto, J., C. McIntosh and B. Wydick (2007), ‘Credit Information Systems in Less-developed Countries: Recent History and a Test’, Economic Development and Culture Change, Vol. 55, No. 2, pp. 313–34.
+Maudos, J. and J. Fern´andez de Guevara (2004), ‘Factors Explaining the Interest Margin in the Banking Sectors of the European Union’, Journal of Banking and Finance, Vol. 28, No. 9, pp. 2259–81.
+Miller, M. J. (2003), ‘Credit Reporting around the Globe’, in M. J. Miller (ed.), Credit Reporting Systems and the International Economy, MIT Press, Cambridge, MA.
+Naceur, S. B. and M. Omran (2011), ‘The Effects of Bank Regulations, Competition and financial Reforms on Banks’ Performance’, Emerging Markets Review, Vol. 12, No. 1, pp. 1–20.
+Nguena, C. and R. T. Nanfosso (2014), ‘Banking Activity Sensitivity to Macroeconomic Shocks and Financial Policies Implications: The Case of CEMAC Sub-region’, African Development Review, Vol. 26, No. 1, pp. 102–17.
+Padilla, A. J. and M. Pagano (1997), ‘Endogenous Communication among Lenders and Entrepreneurial Incentives’, Review of Financial Studies, Vol. 10, No. 1, pp. 205–36.
+Padilla, A. J. and M. Pagano (2000), ‘Sharing Default Information as a Borrower Discipline Device’, European Economic. Review, Vol. 44, pp. 1951–80.
+Pagano, M. and T. Jappelli (1993), ‘Information Sharing in Credit Markets’, Journal of Finance, Vol. 43, No. 5,
+pp. 1693–718.
+Pain, D. (2003), ‘The Provisioning Experience of Major UK Banks: A Small Panel Investigation’, Bank of England Working Paper No. 177.
+
+
+Powell, A., G. Majnoni, M. Miller and N. Mylenko (2004), ‘Improving Credit Information, Bank Regulation, and Supervision: On the Role and Design of Public Credit Registries’, World Bank Publications, Vol. 3443.
+Prais, S. J. and C. B. Winsten (1954), ‘Trend Estimators and Serial Correlation’, Working Paper 383, Cowles Commission, available at: http://cowles.econ.yale.edu/P/ccdp/st/s-0383.pdf.
+Schaeck, K. and M. Cihak (2010), ‘Competition, Efficiency and Soundness in Banking: An Industrial Organisation Perspective’, European Banking Centre Discussion Paper No. 2010-20S.
+Stiglitz, J. E. and A. Weiss (1981), ‘Credit Rationing in Markets with Imperfect Information’, American Economic Review, 71 (3), pp. 393–410.
+Turk-Ariss, R. (2010), ‘On the Implication of Market Power in Banking: Evidence from Developing Countries’, Journal of Banking and Finance, Vol. 34, No. 4, pp. 765–75.
+Vercammen, J. A. (1995), ‘Credit Bureau Policy and Sustainable Reputation Effects in Credit Markets’, Economica, Vol. 62,
+pp. 461–78.
+Wooldridge, J. (2009), Introductory Econometrics: A Modern Approach, 4th edn. Mason, OH: South-Western Cengage Learning.
+World Bank (2012), Doing Business Indicators, World Bank, Washington DC.
+Zhao, T. and V. Murinde (2011), ‘Bank Deregulation and Performance in Nigeria’, African Development Review, Vol. 23, No. 1,
+pp. 30–43.
+
+
+
+
+
+
+
+
+
+

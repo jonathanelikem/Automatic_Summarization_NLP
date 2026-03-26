@@ -1,0 +1,459 @@
+CREDIT REFERENCING BUREAUS AND BANK CREDIT RISK: EVIDENCE FROM GHANA
+
+Baah Aye Kusi, Elikplimi Komla Agbloyor, Vera Ogeh Fiador and Kofi Achampong Osei University of Ghana Business School
+
+
+
+1. INTRODUCTION
+Over the yeaars, banks have been under serious scrutiny and have attracted considerable attention among academics and practitioners (Fujii, Managi & Matousek, 2014). This can be attributed to the fact that they play crucial and fundamental roles in various economies which may lead to the break or make of those economies (Crotty, 2008). The lending function of banks leads to one major risk exposure for banks: credit risk, which denotes the uncertainties that surround the borrower’s ability and willingness to repay the loan or credit advanced to them (Chaibi & Ftiti, 2015). Notable authors state that credit risk is one of the major risks that threaten the survival and stability of banks and other lending institutions across the globe (Mileris, 2012; Castro, 2013; Louzis, Vouldis & Metaxas, 2012).
+
+JEL Classification:
+
+Acknowledgement: We are thankful to Mr. Blankson of XDS Data Credit Referencing Bureau and Mrs. Chalotte Frempomaa Mensah of the Bank of Ghana for their immense support in acquiring the needed data to complete this study.
+
+
+Correspondence to: Baah Aye Kusi, Department of Finance, University of Ghana Business School, PO Box LG78, Legon, Ghana, Tel: +233541558434, Email: baahkusi@gmail.com/baahkusi@yahoo.com
+
+Over the years, there have been a number of empirical studies that have proven that a stable and well- functioning banking system has positive effects on an economy (Becks & Levine, 2004; Kargbo & Adamu, 2009; Gumra, 2009; Bekaert, Harvey & Lunblad, 2005). Following the 2007 global financial crisis, there is ample evidence that the crisis was caused by banks and other financial institutions as they recorded huge defaults from clients resulting in undue credit risk exposure and ultimate collapse (See Crotty, 2008; and others). The above give reason for putting in place measures to mitigate the credit risk exposure that banks are exposed to in their operations.
+
+In recent times, information sharing through CRBs, as means for controlling credit risk, has become more popular, especially in the context of African countries,. For instance as at 2012, an increasing number of countries had established credit referencing bureaus in Sub-Sarahan Africa, and in the Middle East and North Africa. While there are numerous empirical studies (including Brown and Zehnder, 2007; Brown, Jappelli and Pagano, 2009; Barron and Staten, 2003; Love & Mylenko 2003; Djankov,McLiesh & Shleifer, 2007; Brown, Jappelli & Pagano, 2009; Behr & Sonnekalb, 2012; Luoto, McIntosh & Wydick, 2007) that establish the effect of information sharing through CRBs on bank performance in the developed economies, Africa has seen very little empirical studies on the impact information sharing through CRBs on bank performance, and especially very little on bank credit risk. This study therefore takes advantage of the introduction of information sharing through CRBs in 2007 in the Ghanaian banking industry and the dearth of literature to investigate the impact of information through CRBs on bank credit risk in an African context.
+
+ The study on information sharing through CRBs in Ghana is particularly interesting for a number of reasons. First, studies on CRBs such as Brown and Zehnder (2007), Brown, Jappelli and Pagano (2009) and Barron and Staten (2003) were done in developed countries where street naming and house addressing systems are well done. Given the context gap between Ghana (marked with poor street naming and house addressing systems) and the developed countries, results and their implications could be different Secondly, Ghana is rated as a lower middle income country where the majority of citizens are considered poor and lack the ability to provide collateral. This situation could hinder the extension of credit or loans to the majority of Ghanaians and hinderthe attainment of a high income country status. In light of these, the presence of information sharing through CRBs and the potential reduction or elimination of collateral constraintsfor the poor and improved poverty reduction motivate such a study.(see Love & Mylenko 2003; Djankov et al., 2007; Brown et al., 2009) Last but not least, the study contributes to the literature by providing first time evidence of information sharing through CBRs using bank specific variables to proxy information sharing through CRBs, in contrast to earlier studies (Kusi, Agbloyor, Fiador & Osei, 2015; Behr & Sonnekalb, 2012; Luoto et al., 2007) on CRBs that employed dummies, credit information sharing coverage and trends before and after introduction of CRBs to establish the impact of CRBs on banks and other institutions.
+
+2. OVERVIEW OF THE GHANAIAN BANKING SECTOR
+The Ghanaian banking sector has witnessed many regulation and reform changes. The Central bank of Ghana (Bank of Ghana) was established in 1957 with the responsibility of overseeing, supervising and regulating the operations of banks in the country. At the time, only three banks including Barclays Bank, Standard Bank and Bank of Gold Coast were operational in Ghana. However, about fifty-eight years later , the Ghanaian banking sector is made up of twenty-seven
+(27) banks, with foreign banks dominating the sector. While fifteen (15) out of the twenty- seven (27) banks are foreign banks, the remaining twelve (12) are domestic or local banks (Bank of Ghana 2014, Pricewaterhouse Coopers, 2014). To ensure the soundness and effective operation of the banking sector, several reforms and regulations have been introduced to that effect. Notable reforms and regulation introductions include the introduction and implementation of the Basel I, II and III adoption of the universal bank, redemomination of the cedit, credit information introduction, a cheque code clearing system implementation. The Bank of Ghana successfully implemented Basel I and II in 2012 and hope to fully implement and complete Basel III by 2017. These notable events in the Ghanaian banking sector has been detailed from 2000 to 2010 in the table below.
+
+Table 1: Banking Events Summary in Ghana from 2000 to 2010
+Year	Major Reforms and Regulations Introduction Events
+Closure of three insolvent banks: Bank for Housing and Construction, Cooperative Bank and Bank of
+
+2000
+
+
+2002
+
+Credit and Commerce and the transfer of guaranteed deposits.
+Bank of Ghana Act (2002) was passed to give independence to the central bank, Bank of Ghana, making price and financial stability as its primary function.
+Introduction of Real Time Gross Settlement (RTGS) System, also known as the Ghana Interbank Settlement System.
+
+2003  The universal banking license was introduced and as a result Bank of Ghana issued a directive requiring all banks to increase their minimum stated capital requirements to GH¢7million by the end of 2006, from GH¢20thousand.
+
+Maintenance, transaction, and transfer fees charges by commercial banks were abolished.
+The Payment System Act (2003) gave explicit powers to the Bank of Ghana to oversee payment systems.
+2004	Banking Act 2004 replaced the Banking Law 1989. Bank of Ghana began to strengthen its risk based prudential supervision policies. In addition, the minimum capital adequacy ratio was increased from 6% to 10%.
+Bank of Ghana introduced a paper-based credit clearing system.
+Foreign Exchange Act 2006 – to liberalise inflows of foreign exchange into Ghana for foreign direct investment purposes.
+
+2006
+
+
+
+2007
+
+
+
+
+
+
+
+
+
+
+2008
+
+
+
+
+
+2009
+
+
+Abolition of secondary deposits reserves requirement (15%) by banks
+Banking Amendment Act 2007 – to allow Offshore banking; to enable establishment of international financial services in Ghana.
+The Credit Reporting Act (Act 726) was enacted to establish credit reference bureau to offer a legal and regulatory framework for credit reporting in Ghana.
+The International Financial Reporting Standards (IFRS) were introduced and all banks were to report their financial position and performance in accordance with IFRS.
+Implementation of risk-based supervision of banks. Re-denomination of the Cedi.
+The Anti-Money Laundering Act, 2007 (Act 749) enacted to provide the structure for criminalizing money laundering.
+The Borrowers and Lenders Act (2008) was enacted to provide a framework for full disclosure in creditor and borrower relations and in particular the role of collateral in the delivery of credit.
+Operation of a common electronic platform, the National Switch (e-zwich) and a biometric smartcard.
+The ChequeCodeline Clearing (CCC) was introduced which reduced the cheque clearing period from 5 – 8 days to 2 days throughout the country.
+Minimum capital requirement was increased from 7 million cedi to 60 million cedi in order to strengthen the capital base of the banks to enable them assume greater levels of risk. Mobile payment services were authorized and launched.
+
+2010	Commencement of electronic direct credit transfer system a component of the Automated Clearing House project.
+First Credit Reference Bureau started operations in Ghana
+Sources: Bank of Ghana Annual Reports, Ghana Banking Survey and International Monetary Fund Country Reports.
+
+2.1 Credit Referencing Bureaus in Ghana: Brief Overview
+Credit Referencing Bureaus (CRBs) started operations in Ghana in 2010, although the the Act (Credit Reporting Act 2007: Act 726) was enacted in the latter part of 2007. The Act permits the existence, licensing, operations and functioning of credit information sharing institutions in the banking sector. Ghana Banking Survery Report (2010) reveals that sectoral banking performance in Ghana in terms of credit risk and profitability were deteriorating. Hence, the emergence of CBRs at the time (2010) was relevant in the quest to avert the deteriorating performance in the banking sector of Ghana. Given this, the introduction of CRBs could not have been more perfectly timed as this. Hence, the introduction of CRBs was expected to help banks strengthen their lending proposition which was clouded with difficulties and challenges in bank credit allocation and recovery.
+
+Although the Act the permitted the existence and operations of CRBs, it was enacted in the later part of 2007, the first credit reference bureaus company (XDS Data Credit Reference Bureau) was established in 2008 and was given two years to gather and synchronize finanacial data from banks so as to enhance the delivery of good, reliable, accurate and quality credit information sharing services. As at now, there are three credit referencing bureaus operating in Ghana namely: XDS Data Credit Reference Bureau, Hudson Price Credit Bureau and Dun and Bradstreet Credit Bureau Limited. XDS Data Credit Reference Bureau originates from South Africa, while the other two have presence in America, Europe and some African countries. Till the latter part of 2013, XDS Data Credit Reference Bureau enjoyed the monopoly of being the only credit information sharing institution operating in Ghana. Currently, only banks, savings and loans companies and microfinance institutions in Ghana are mandated to submit their monthly financials to the three CRBs. However, Miller (2003) reports that in some Europe and American countries, CRBs also source data from the financial and non-financial institutions including tax agencies, utility companies and from court rulings on financial matters, which makes their data comprehensive enough for accurate and reliable financial decision taking by banks. However, this is not case in Ghana.
+
+Figure 1: Credit Risk Before and After CRBs Introduction in Ghana Source: Plotted from figures in Bank of Ghana Stability Reports (2013 and 2014)
+
+Figure 1 presents the banking credit risk trends in Ghana from 2006 to 2014, using three (3) different measures namely: non-performing loans ratio (NPL ratio), loan loss provision ratio (LLP ratio) and non-performing loans to capital ratio (NPL to Capital). The bank sectoral credit risk figures are sourced from Bank of Ghana Financial Stability Reports (2013 and 2014). The three measures for bank sectoral credit risk shows similar trends. From the above graph bank sectoral credit risk improved from 2006 to 2007 for all the credit risk measures employed. However, all three credit risk meausres continuously increased from 2007 to 2010 indicating a persistent deterioration in the quality of loans granted by banks in Ghana. From the graph, credit risk reached its highest peak for all three credit risk measures in 2010 when CRBs started operations in Ghana. However, after the introduction of CRBs in Ghana, all the three measures for credit risk has persistently improved from 2010 to 2014. These bank sectoral trends suggest tremendous improvements in bank credit risk after the introduction of credit information sharing institutions in Ghana.
+
+3. EMPIRICAL REVIEW
+3.1 Theoretical Review: Information Asymmetry, Moral Hazard, Adverse Selection and Information Sharing
+Credit information sharing in the credit market is a relatively new concept in most developing or emerging markets (Luoto et al., 2007). The information sharing theory arises from the information asymmetry theory which leads to advervse selection and moral hazard concepts. The information asymmetry theory was initiated by Freimer and Gordon (1965) and later extended by Stiglitz and Weiss (1981). They state that the credit market lacks adequate, complete and reliable credit information on the participants in the credit market (information asymmetry). Hence, due to the lack of adequate and comprehensive client details, lenders are not able to separate good borrowers from bad borrowers, resulting in allocation of credit to bad borrowers by lender (adverse selection). On the part of borrowers or credit applicants, there is a tendency to present incomplete and false information to have access to credit from lenders because lenders have no means of verifying the or tracking the information supplied by the credit applicants (moral hazard). According Freimer and Gordon (1965) and Stiglitz and Weiss (1981) these two leads to credit risk in the credit market.
+
+From the above, Stiglitz and Weiss (1981) and Bester (1985) advanced that bank should require collateral securities (physical asset) as a guarantee to protect unanticipated future eventualities in order to safeguard their lending position (Stiglitz & Weiss, 1981; Bester, 1985). However, modern information economics (see Bester 1985) suggests that when banks or lenders share information on their clients they are able to impact bank performance through the screening and incentive or motivation effects. The screening effect states that lenders that share credit information have access to more adequate and complete client information, which enables the lenders to screen bad borrowers from good borrowers, hence making lenders more robust to default rates and enhancing repayment of loans. However, the incentive or motivation effect states that information sharing serves as a discipline device that pressures borrowers to settle their credit obligations because of the fear of future denial of credit, so the default recorded with one lender is shared with other lenders. This therefore reduces the defaulting borrower’s ability to access credit in the future, hence they honour their credit obligations in the presence of credit information sharing.
+
+3.2 Empirical Studies
+Numerous benefits are reported to be associated with information sharing in the credit market and one important benefit of information sharing is argued to be a reduction in credit risk. We therefore highlight a few empirical studies that examine the effect of information sharing through CRBs on credit risk.
+
+Dierkes, Erner, Langer and Norden (2013) investigated whether and how business credit information sharing helps to better assess the default risk of German private firms from 2002 to 2005. They find that business credit information sharing substantially improves the quality of default prediction.
+
+Doblas-Madrid and Minetti (2013) also investigated the impact of lenders information sharing on firms’ performance in the credit market using contract-level data from a United States of America credit bureau.
+
+They found that information sharing reduces contract delinquencies and defaults, especially when firms are informationally opaque. They further advocated that the use of guarantees and contract conditions should be reduced.
+
+Behr and Sonnekalb (2012), however, found no evidence to support that information sharing through public credit registries affect access and cost to finance, but found evidence to support the view that information sharing improves loan performance (repayment of loans) in banks in Albania.
+
+Bennardo, Pagano and Piccolo (2009) show that over-indebtedness can be reduced through sharing of credit information among lenders and banks, as individual borrowers classified as highly indebted receive less credit and this ultimately reduces the over-indebtedness of borrowers.
+
+Brown and Zehnder (2007) empirically establish that the credit market would collapse in the absence of credit information sharing and reputational banking. Their study further suggests that information sharing encourages borrowers to honour their loans thereby allowing lenders to identify borrowers with good credit history.
+
+Luoto et al., (2007) reveal that the use of information sharing tends to move or shift the client portfolio toward better-performing clients, and the awareness treatment induces a moderate improvement in repayment performance.
+
+Berger and Frame (2006) verify that credit information sharing increases the quality and quantity of small business loans and also extends credit to marginal borrowers on the US.
+
+Kallberg and Udell (2003) also point out that historical information collated by credit bureaus have a powerful default predictive ability, hence making banks more resistant to adverse selection and in turn reducing bank credit risk.
+
+Powell, Mylenko, Miller & Majnoni (2004) utilize data from banks in Brazil and Argentina and find similar results, indicating that more credit information sharing leads to reduced default rates.
+
+4. ESTIMATION PROCEDURE
+This study opted for the use of the panel data estimation procedure to achieve the set objectives. Panel data estimation offers more convincing results than the classical time series and the cross sectional analyses (see Wooldridge, 2009). The panel estimation again helps to control for omitted variables and bank specific effects and further allows for both long and short run effects thereby overcoming the shortcomings of the cross sectional and time series estimation technique (Stock and Watson, 2001).
+
+The general form of a panel data model is Yit= ?i + ?t + ?Xit + ?it	(1)
+
+Where: Subscript i denotes the cross sectional dimension (bank) i=1. . . N and t denotes the time series dimension (time), t=1…T; Yit is the dependent variable; ?i is scalar and constant term for all periods (t) and specific to a bank fixed effect (i); ?t is the time fixed effect t; ? is a k×1 vector of parameters to be estimated on the independent variables or the factor loadings estimates for the explanatory variables; Xit is a 1× k vector of observations on the independent variables comprising independent variables in the model which includes controlled variables and ?it, which is iid, is the error term.
+
+Following the general panel data model above, the study contextualizes the bank credit risk model to be estimated as:
+
+ROAit = ?1 Bank Specific Variablesit + ?2 Industry Specific Variablet + ?3 Macroeconomic Variablest + ?it	(2)
+
+
+4.1 Empirical Model
+To establish the impact of CRBs on bank credit risk and profitability, the study employs the Prais-Winsten estimation after the homoskedasticity and the normality assumptions under the Ordinary Least Squares (OLS) approach were not met. The Prais-Winsten Generalized Least Squares (GLS) estimation was employed ahead of other GLS estimations, like Co-Chrane Orcutt, for a number of reasons. The Prais-Winsten (1954) estimates linear regressions that are corrected for panel specific serially correlated residuals and heteroskedastic panel. The Prais- Winsten Estimator (see Judge, Griffiths, Hill, Lutkepohl & Lee, 1985) is derived from the AR(1) model of the error. Whereas the Cochrane-Orcutt (1949) estimator employs lag definition and losses in the first observation in the iteration process, the Prais-Winsten estimator preserves the first observation. Hence, the Prais-Winsten estimator improves on the Cochrane-Orcutt estimator by preserving the first observation making the Prais-Winsten much more reliable and accepted in a small sample as in the case of this study. Prais-Winsten (1954) also suggests as number of reasons why the Prais-Winsten is a better estimator. First, the Cochrane-Orcutt estimator does not effectively deal with the serial correlation that is closer to one. Second, the OLS estimator is more robust in dealing with the variations in serial correlation than the first-differencing estimator. Third, the variance of the first observations error term is important for relative efficiencies of the estimators. Finally, the asymptotic results suggest that the feasible Prais- Winsten estimator is the best estimator in most applied situations. Hence, we estimate our bank credit risk and profitability models as:
+
+CRit = ?1CRBCRit+ ?2CAPit + ?3SIZEit + ?5ROEit + ?6NON-INTit + ?7HHILt + ?8GDPGROWTHt
++ ?9INFLt + ?it	(3)
+
+CR is a dependent variable that varies across bank (i) and time (t) for the bank credit model. CRBCR is measured as frequency of the CRB product and services usage and the CRB cost ratio. CAP is a measure for capital adequacy, SIZE is a measure for bank size, NON-INT is a measure for bank diversification (risk reduction) and ROE is a measure for return to equity holders. These variables vary across time and bank and said to be bank specific variables. HHIL is an industry variable that varies only across time and is a measure for bank concentration. GDPGROWTH and INFL are macroeconomic variable and vary only across time. ?it i.e. the error term varies across bank and time.
+
+4.3 Variable Selection and Description
+Bank Credit Risk (CR)
+The study employs an impaired loan ratio as a proxy for bank credit risk as a dependent variable, following Chaibi and Ftiti (2015). They argue that impaired loans ratio measured as impaired loans divided by total loans is a better representation of bank credit risk as it reflects actual credit risk or loss that pertains to a given time period. That is, other popular representations of bank credit risk like non performing loan (backward looking) and provision for bad loans or loan loss provision (forward looking) are said to be inappropriate as they do not reflect actual credit losses, but estimated or perceived credit losses.
+
+Credit Referencing Bureaus
+The study employed the variable of interest as a bank specific variable for the first time. However, the variable of interest is employed using two different measures. First, the natural log of the number of times each bank has accessed CRB services in a given year (represented as CRBE). Second, we multiply the number of times each bank has accessed CRB services and the cost incurred in accessing CRB services in a given year for a particular bank. These measures are employed (due to the fact that) because earlier studies on CRBs (Information Sharing) have used dummies which seem not to be the best (Brooks, 2008; Wooldridge, 2009). Based on earlier findings (see Brown & Zehnder, 2007; Luoto et al., 2007; Padilla & Pagano, 2000; Pagano & Jappelli, 1993; Powell et al., 2004; Barron & Staten, 2003), we anticipate that CRBs will be negatively related to bank credit risk.
+
+Capital Adequacy
+Capital adequacy is employed and measured as total equity divided by total assets. Equity-to- asset ratio is a measure of how much of bank’s assets are financed with owner’s capital and forecasts the ability of a bank to soak up losses. Following the moral hazard hypothesis (Berger & DeYoung, 1997), thinly capitalized banks generally take riskier loans, which potentially could lead to higher credit risk. Moreover, huge credit losses are budgeted using the equity available in the bank. That is, when banks incur credit losses, the credit losses are charged to or set-off against a reserved fund set up from the equity fund. That is, an inverse relationship between bank credit risk and information sharing through CRBs. However, following the pecking order theory, there could be positive relationship between credit risk and capital. The pecking order theory suggests that equity is the costliest source of funding; hence an increase in equity pressures the bank management to take riskier decisions in order to achieve the required return for equity holders.
+
+Bank Size
+Size is measured as the natural log of total assets, and has mixed findings in credit risk empirical studies. It is implicit that bigger banks have enhanced risk management systems (human and financial resources) that guarantee precise screening of loan applicants and hence a lower default rate. Conversely, it is also suggested that as banks become too large and complex, evaluation, supervision and monitoring become complicated as large banks assumes more risk. Empirical outcomes on the relationship between bank credit risk and bank size, however, remain mixed. However, following Biekpe (2011), this study anticipates a negative relationship between bank credit risk and size.
+
+Return on Equity
+Return on Equity (ROE) is employed in the credit risk model only. ROE is measured as net income divided by total equity and indicates a bank’s ability to make enough return to be paid to its equity holders. Following Berger and DeYoung (1997), an increase in ROE means more loans, and advances are recovered and hence a decrease in loans and advance loss leading to lower bank credit risk is expected. Hence a negative relationship between bank credit risk and profitability. Again, the standard asset pricing theory suggests a direct or positive relationship between risk and return; hence, a positive relation is also possible.
+
+Non-Interest Income
+However, non-interest income is used to proxy diversification which aims at reducing risk (Stiroh, 2004b; Louzis et al., 2012; Alhassan, Kyereboah-Coleman & Andoh, 2014; Chaibi & Ftiti, 2015). It is measured as ratio of non-interest income to total income. Following the above studies and the Modern Portfolio Theory (MPT), we anticipate a negative relationship between bank credit risk and non-interest income. However, a positive relationship could exist as suggested by Demsetz and Strahan (1997) and Stiroh (2004b) (‘dark sides’ of diversification). Stiroh (2004b) argues that as managers go into new businesses where they lack experience, or the bank has no or less comparative advantage, the risk exposure of the bank may increase. Demsetz and Strahan (1997) also suggests that diversification may not necessarily reduce risk. He argues that diversification reduces the resources (both human and financial resources) allocated to minimize credit risk in order to set up the new line of business. Hence, credit risk will increase due to the reduction in resources devoted to fighting credit risk.
+
+Concentration
+To use concentration in this study, the Herfindahl-Hirschman (HHI) index on loan is employed, and it is measured as the sum of squares of loans and advances. This study examines how the variations in banking market structure (employing loan concentration) impact on bank credit risk. The relationship between bank market structure and performance is explained by the competition stability and the competition-fragility hypotheses. Hence, the anticipated relationship between information sharing and bank credit risk could be positive or negative given the hypothesis stated.
+
+Gross Domestic Product Growth Rate
+Bank credit risk is responsive to macroeconomic control variables. However, there appears to be empirical evidence of an inverse relationship between the growth in real GDP and credit risk exposure of banks (Salas & Suarina, 2002; Rajan & Dhal, 2003; Fofack, 2005; Jimenez & Saurina, 2005). Also a positive relationship could exist following the Pecking Order Theory and Keeton (1999) on loan growth analysis.
+
+Inflation Rate
+The impact of the inflation rate on bank credit risk depends on whether future fluctuations in inflation are completely anticipated, and this in turn depends on the ability of banks’ management to accurately forecast future movements in the relevant control variables (Bourke, 1989; Molyneux & Thornton 1992; Demirguc-Kunt & Huizinga, 1998). Where bank management can fully anticipate changes in inflation and adequately adjust increase in the rate, this will lead to lower bank credit risk. However, if bank management is sluggish to anticipate changes in inflation and accordingly to adjust interest rate, this may as well lead to higher bank credit. Hence, the impact of inflation on bank credit risk is unclear.
+
+Table 2: Summary of Variable Definition
+
+VARIABLE	DEFINITION	MEASUREMENT	DATA SOURCE
+
+
+
+
+CRit
+
+
+
+
+
+
+
+CRBCRit
+
+
+
+
+
+CAPITALit
+
+
+This measures the credit risk exposure for each bank across different time periods
+
+This measures the cost incurred by a bank to ensure it makes the right lending decision in order to recover all its loans and advances.
+
+This measures the liquidity in terms of bankruptcy of each bank across different time periods
+
+
+Impaired loans/Total loan and advances
+
+
+
+Cost of Bureau Enquires / Total loans and advances
+
+
+
+
+Total Equity / Total Assets
+
+Computed by authors based on data from Bank of Ghana
+
+Computed by authors based on data from XDS Data
+
+Computed by authors based on data from Bank of Ghana
+
+
+
+
+
+
+
+ROEit
+
+
+
+
+
+SIZEit
+
+
+
+
+NON-INTit
+
+
+
+
+
+HHILt
+
+This measures the return earn on total equity for each bank across different time periods.ROE indicates the return to shareholders on their equity.
+
+This measures the natural log of total monetary value of the bank at a point in time.
+This measures income earned outside the main income sources (noninterest income) relative to total income for each bank across different time periods
+
+
+This measure the concentration of bank loans for each time period.
+
+
+
+Net Income / Total Equity
+
+
+
+
+
+Natural log of Total Assets
+
+
+
+Non-Interest income/Total Income
+
+
+1
+
+?????????? ????????^2
+
+
+
+
+
+Change in Real Gross
+
+Computed by authors based on data from Bank of Ghana
+
+Computed by authors based on data from Bank of Ghana
+
+Computed by authors based on data from Bank of Ghana
+
+Computed by authors based on data from Bank of Ghana
+
+World
+
+GDPGROWTH	This measures the change in GPD
+for different time periods.
+
+
+
+Inflation is the change in the
+
+Domestic Product / Initial Real Gross Domestic Product
+
+Change in Consumer Price
+
+Development Indicators
+
+World
+
+INFLt
+
+gross domestic product deflator
+
+Index / Initial Consumer Price Index
+
+Development Indicators
+
+
+
+
+5. Results
+Table 2 Summary Statistics
+VariableObsMeanStd. Dev.MinMaxSWILKCR1830.046410.073480.000020.6362571.3440***CRBE986.579621.739821.7917610.242462.1350**CRRBR980.001360.010080.000020.0999173.1760***CAPITAL1840.159870.119960.008920.8418138.7760***SIZE18419.828501.4023012.2639722.4714618.1800***ROE1780.216710.155470.001880.9231915.7910***NON-INT1840.339330.14737-0.024600.637376.2970***Hhil1840.078790.018560.058530.1094214.3720***Gdpgrowth1840.081270.030900.039910.1500722.1840***Infl1840.121540.035110.087270.1925127.7280***Significance Level*** (1%), ** (5%), * (10%), SWILK Ho= Variable is not normally distributed CR is a proxy for bank credit rsik and measured as impaired loans / Total loans advances; CRBCR is proxy for banks ability and willingness to use Credit Reference Bureau services and is measured as Cost of Bureau Enquires / Total loans and advances; CRBE is a proxy for banks frequency of patronage of Credit Reference Bureau services and is measured as Natural log of Frequency of Patronage of Credit Reference Bureaus services by Banks; CAPITAL is a proxy from bank capital adequacy and is measured as Total Equity / Total Assets; SIZE is a proxy for bank size and is measured as Natural log of Total Assets; ROE is a proxy for bank profitability and measured as Net Profit/ Total Equity; NON-INT is a proxy for diversification and is measured as Non-Interest Income / Total Income; HHIL is a proxy for bank loan concentration and is measured as the sum of squares of bank loans; GDPGROWTH is a proxy for growth in the economy is measured as Change in Real Gross Domestic Product / Initial Real Gross Domestic Product; INFL is a proxy for stability of prices and is measured as Change in Consumer Price Index.
+
+Table 2 presents the summary of statistics on the variables employed in both models over the period of 2006 to 2013. However, the variables of interest are only avaible from 2010 to 2013 since information sharing started in Ghana in 2010. From the table, bank credit risk (CR) is on the average of 4.641% over the period of the study, while ROE recorded an average of 21.67% respectively. The variation in bank credit risk was 7.35% indicating a moderate difference among the banks. However, the variations in bank profitability, measured as ROE, had standard deviations of 15.55%. Credit Referencing Bureau enquiry (CRBE) and Cost (CRRBR) recorded a mean of 6.58 and 0.14% respectively. 0.14% of CRRBR implies that banks spend far less than 1% of their total loans and advances on CRB services to ensure full recovery of loans. Loan concentration (hhil) had a mean of 7.88%, indicating that lending is diversified within the banking industry, hence a competitive banking industry. Non-interest income on the average was 33.93% indicating that the banking industry earns quite a considerable income from sources other than the main income source (interest income). The macroeconomic variables appear to be quite stable, as the two variables used to measure the macroeconomic conditions (gdpgrowth and inflation) recorded a standard deviation of 3.09% and 3.51% respectively. The variables were all normally distributed under the 1% significance level, using the Shapiro-Wilk normality test.
+
+Table 3 Pearson Correlation Matrix (Bank Credit Risk Model)
+
+Significance Level*** (1%), ** (5%), * (10%), CR is a proxy for bank credit rsik and measured as impaired loans / Total loans advances; CRBCR is proxy for banks ability and willingness to use Credit Reference Bureau services and is measured as Cost of Bureau Enquires / Total loans and advances; CRBE is a proxy for banks frequency of patronage of Credit Reference Bureau services and is measured as Natural log of Frequency of Patronage of Credit Reference Bureaus services by Banks; CAPITAL is a proxy from bank capital adequacy and is measured as Total Equity / Total Assets; SIZE is a proxy for bank size and is measured as Natural log of Total Assets; ROE is a proxy for bank profitability and measured as Net Profit/ Total Equity; NON- INT is a proxy for diversification and is measured as Non-Interest Income / Total Income; HHIL is a proxy for bank loan concentration and is measured as the sum of squares of bank loans; GDPGROWTH is a proxy for growth in the economy is measured as Change in Real Gross Domestic Product / Initial Real Gross Domestic Product; INFL is a proxy for stability of prices and is measured as Change in Consumer Price Index.
+
+Table 3 exhibits the Pearson’s correlation which serves as a test for the collinearity of each variable compared with the other variables needed to achieve the set objectives. The study set a threshold of 0.7 (following Kennedy, 2008) for the Pearson’s correlation to be considered as the existence of high collinearity between a variable and other variables and found no evidence of multicollinearity. The Variance Inflation Factor was employed to the acceptability of each variable in the model.
+
+Table 4 presents the Prais-Winsten regression results on the impact of Credit Referencing Bureaus on bank credit risk. The study employed bank credit risk as dependent variable explained by bank specific, industry and macroeconomic variables. The bank specific variables include log of credit referencing bureau enquiry (CRBE), CRB cost ratio (CRRBR), captial adequacy (capital), profitability (ROE), log of total assets (Size) and non-interest income (noninterest), while the industry and macroeconomic variables include loan concentration (hhil) and gross domestic product growth and inflation respectively. We employed three different models. Model 1 makes use of the natural log of bank patronage (frequency of use) of CRB services to proxy CRB, while Model 2 employs banks’ credit referencing the bureau cost ratio to proxy CRB in order to establish the impact of CRBs on bank credit risk. In Model 1 the cost of accessing CRB services is not included (only bank frequency of patronage) while in Model 2 we multiply the frequency of patronage to the cost per patronage of CRB services divided by total loans and advances. Model 3 excludes the information variables (CRB and CRBE variables) to establish the contribution of CRBs to explain bank credit risk.
+
+Table 4 Prais-Winsten GLS Bank Credit Risk Regression
+CRCRCR123CRBE-0.004(1.53)CRRBR-0.785(2.84)***CAPITAL-0.032-0.0320.096(1.67)*(2.33)**(2.70)***ROE0.0400.0350.098(1.43)(1.08)(3.06)***SIZE-0.002-0.007-0.002(0.84)(2.72)***(1.76)*NON-INT0.0550.0600.050(1.67)*(1.91)(1.58)Hhil-0.1340.7350.326(0.29)(1.14)*(2.10)**Gdpgrowth0.2110.2750.018(2.47)**(2.11)**(0.21)Infl0.7630.966-0.008(1.88)*(1.70)**(0.09)R20.520.530.39AR(1) p-value0.096*0.1030.000***Banks252525N9494177Source: Results in Data Analysis in Stata 13	Significance level: *(10%), **(5%), *** (1%) CR is a proxy for bank credit rsik and measured as impaired loans / Total loans advances; CRBCR is proxy for banks ability and willingness to use Credit Reference Bureau services and is measured as Cost of Bureau Enquires / Total loans and advances; CRBE is a proxy for banks frequency of patronage of Credit Reference Bureau services and is measured as Natural log of Frequency of Patronage of Credit Reference Bureaus services by Banks; CAPITAL is a proxy from bank capital adequacy and is measured as Total Equity / Total Assets; SIZE is a proxy for bank size and is measured as Natural log of Total Assets; ROE is a proxy for bank profitability and measured as Net Profit/ Total Equity; NON-INT is a proxy for diversification and is measured as Non-Interest Income / Total Income; HHIL is a proxy for bank loan concentration and is measured as the sum of squares of bank loans; GDPGROWTH is a proxy for growth in the economy is measured as Change in Real Gross Domestic Product / Initial Real Gross Domestic Product; INFL is a proxy for stability of prices and is measured as Change in Consumer Price Index.
+
+The results attest that Credit Referencing Bureau patronage by banks (represented as CRBE) has a negative but insignificant impact on bank credit risk in Model 1 and is almost negligible. However, the ratio of CRB cost to total loans and advances (CRRBR), which represents the amount banks are willing and able to spend on information sharing through CRB services to ensure they recover all their loans and advances, had a negative and a significant effect at 1% with bank credit risk (Model 2). This implies that banks reduce their credit risk by 0.785 units if ratio of CRB cost to loans and advances increases by 1unit. This finding is consist with earlier findings (Padilla & Pagano 2000; Jappelli & Pagano 2002; Luot et al., 2007 and Bennardo, Pagano & Piccolo, 2009) on information sharing through CRBs, as they argue that information sharing (through CRBs) can enhance lenders’ knowledge on borrowers (screening effect) and have a disciplinary effect (incentive effect) on borrowers to reduce adverse selection and moral hazard respectively.
+
+Bank capital measured as total equity to total assets was also negatively and significantly related to bank credit risk at 10% in Model 1, 5% in Model 2 and 1% in Model 3. This means that a unit increase in capital will lead to a 0.032 and 0.096 units decrease in credit risk in Model 1 and 2 and Model 3 respectively. This implies that well capitalized banks are able to reduce their credit risk. This result is consistent with Berger and DeYoung (1997) and hints at the Moral Hazard hypothesis which suggests that well capitalized banks have enough equity to offset credit losses, as credit losses are charged to equity reserved funds.
+
+However, ROE is only positively and significantly related to bank credit risk and only in Model 3 at 1% significant level. This indicates that as banks increase their profitability, mainly through the advancement of loans, the management of these banks have failed to deploy prudent screening and monitoring to minimize the risk that comes with the lending function (see Berrios, 2013; Boahene, Dasah & Agyei, 2012 and Gizaw, Kebede & Selvaraj, 2015). However, in Models 1 and 2 where information through CRBs is present, ROE is not a significant determinant of bank credit risk, implying that bank are able to nullify the risk associated with profits accruing from loan advancement. Bank size has a negative and significant impact on bank credit risk at 1% in Model 2 and at 10% in Model 3. This empirical finding is in accordance with earlier studies (see Salas & Saurina, 2002; Rajan & Dhal 2003). They explain this finding to mean that larger or bigger banks are more effective in screening loan applicants than smaller banks because they (larger banks) have enough resources (human and financial). That is, larger banks are able to reduce adverse selection and also to monitor borrowers to recover their money (principal plus interest) because they have sufficient resources.
+
+Non-interest income which is a measure for diversification has a positive and significant (in Model l) impact on bank credit risk. This implies that as banks diversify (enter into new businesses) with the aim of reducing risk, their risk rather increases. This result supports the finding of Demsetz and Strahan (1997) who find that diversification may not necessarily reduce risk. Hence, we argue that diversification reduces the resources (both human and financial resources) allocated to minimize credit risk in order to set up the new line of business. Hence, credit risk will increase due to the reduction in resources devoted to fighting credit risk. We explain this relationship as diversification reduces the attention of and resources bank management spend on mitigating credit risk. Hence, the study finds that banks in Ghana rather increase their credit risk exposure through diversification rather than reducing their risk exposure.
+
+Loan concentration from the results is significant and positively related to bank credit risk in Model 2 at 10 % significance level and 5% significance level in Model 3. This indicates that as loans advancements are concentrated in fewer banks, bank credit risk increases as a result of a diseconomy of scale. Since a few banks give out the majority of the loans (indicating loan concentration), these few banks become less efficient in tracking and monitoring clients to recover the huge loans advanced to borrowers (Alhassan et al., 2014). This finding again is consistent with the competition-fragility hypothesis.
+
+Significant at 5% level of significance in credit risk in Models 1 and 2, gross domestic product growth rate (gdpgrowth) was positively related to bank credit risk. This appears to be inconsistent with earlier studies (see Salas & Suarina, 2002; Rajan & Dhal, 2003; Fofack 2005; Jimenez & Suarina, 2005). These studies interpret their finding to imply that an improvement in the real economy is likely to witness a decrease in bank credit risk. However, in a booming economy (gdpgrowth), where economic activities are efficient, bank clients have a disincentive to borrow as they tend to rely on internally generated funds (Pecking Order Theory). Hence, banks in an attempt to attract borrowers in order to maximize loan profitability relax their lending processes leading to high credit risk exposure for the banks. This assertion is consistent with Keeton (1999) who argues that when banks increase their loans and advances by relaxing their lending processes, it leads to higher credit risk.
+
+Also, the inflation rate was significant at a 10% level of significance in Model 1 and 5% in Model 2. As the inflation rate is a significant determinant of credit risk, one unit increase in the inflation rate will lead to a 1.025 unit increase in credit risk. This implies that as the inflation rate goes up, borrowers’ ability to pay their credit (loans and advances) reduces (weakens purchasing power), hence an increase in credit risk exposure. Consistent with previous studies like Fofack (2005), Jimenez and Suarina (2005), Kochetkov (2012), Louzis (2012) and Chaibi and Ftiti (2015), the study finds a positive but significant association between the real inflation rate and bank credit risk. This indicates that banks in Ghana are able to adequately anticipate and adjust interest rates to pass on inflation to their clients or borrowers (see Derbali, 2011). Finally, we established that CRBs contributes 14% to the variation in bank credit risk, representing 26.42% of the total variation in bank credit risk. This was established by deducting the R squared of Model 2 (prefer model) from that of Model 3.
+
+6. ROBUSTNESS TEST
+
+We observe the five main assumptions under the regression analysis technique. However, the assumption of homoskedasticity and normality of residuals were not met under the Ordinary Least Square approach. Proceeding to the Generalized Least Square (GLS) approach, the Hausman test provided evidence in support of the random effect regression, but also did not meet the heteroskedasticity assumption using the Bruesch and Pagan Lagrangian Multiplier test for random effect homoskedasticity. To overcome the heteroskedastic problem in order to ensure BLUE estimates, we made use of the Prais-Winsten GLS Estimation model to correct for heteroskedasticity (see Judge et al., 1985; Prais-Winsten, 1954). We further estimated the models without including the measures for CRBs (see Model 3 in both models) as additional robust tests and estimates were consistent.
+
+CONCLUSION AND POLICY IMPLICATIONS
+To improve banking stability, central banks and other institutions mandated with such duties have instituted many policies and reforms which are all geared towards smoothing the operations of banks. One of such policies is the establishment of Credit Referencing Bureaus (CRBs). Ghana, like many other countries, resorted to credit referencing in 2007 in order to curtail the problems (of poor addressing and street naming system, high collateral requirements and borrower mobility) that faced the Ghanaian banking industry and its players, resulting in soaring credit risk exposure and low profitability for banks. We find that CRBs operations in Ghana from 2010 to 2013 have significantly helped reduce bank credit risk, using the Prais-Winsten panel estimation model. This is transmitted through an enhanced predictive power of banks to reduce adverse selection and pressure on borrowers to service loans due to future denial of credit. That is, in the presence of CRBs, banks become more robust to credit risk through reduced adverse selection and moral hazard (borrower mobility). We also found bank capital, size, loan concentration, the gross domestic product growth rate and the inflation rate to be significant determinants of bank credit risk. Our empirical model supports the view that bank specific, macroeconomic and industry level factors together helps explain variations in bank credit risk and profitability.
+
+We provided first time evidence of bank level variables to capture CRBs to explain the variation in bank credit risk in an emerging banking industry. The findings of this study have implication for CRBs regulation, bank management and researchers. First, banks are encouraged to religiously use the services of CRBs, since they help reduce credit risk. Second, though CRBs have significant impact on credit risk, there is more room for improvement, since CRBs cover about only 10% of the Ghanaian adult population. It is advised that policy makers (parliament) enact laws that will increase the source of data of CRBs from only universal banks, savings and microfinance institutions and rural banks to include other non banking financial institutions such as insurance firms, tax agencies, utility companies and court rulings, as done in some European countries and the Americas. A diversified source for CRBs increases banks’ predictive power, hence reduced credit. For the purpose of a future research direction, it is recommended that researchers take a look at the impact of CRBs on other areas, such as bank liquidity, access to finance, bank efficiency and factors that make CRBs’ effectiveness and efficiency more powerful, as highlighted in the literature of information sharing in the context of Europe and the Americas (see Love & Mylenko, 2003; Miller, 2003; Luoto et al., 2007).
+
+REFERENCES
+Alhassan, A. L., Kyereboah-Coleman, A., & Andoh, C. (2014). Asset quality in a crisis period: An empirical examination of Ghanaian banks. Review of Development Finance, 4(1), 50-62.
+
+Bank of Ghana. (February 2013). Financial stability report. Volume 5 no. 1/2013, Accra, Ghana. Bank of Ghana. (November 2014). Financial stability report. Volume 5 no. 2/2014, Accra, Ghana.
+
+Barron, J., & Staten, M. (2003). The value of comprehensive credit reports: Lessons from the. Beck, T., & Levine, R. (2004). Stock markets, banks, and growth: Panel evidence. Journal of Banking & Finance, 28(3), 423-442.
+
+Behr, P., & Sonnekalb, S. (2012). The effect of information sharing between lenders on access to credit, cost of credit, and loan performance–Evidence from a credit registry introduction. Journal of Banking & Finance, 36(11), 3017-3032.
+
+Bekaert, G., Harvey, C.R. and Lundblad, C. (2005). Does financial liberalization spur growth?
+Journal of Financial Economics, 77: 3-55
+
+Berger, A. N., & DeYoung, R. (1997). Problem loans and cost efficiency in commercial banks.
+Journal of Banking & Finance, 21(6), 849-870.
+
+Berger, A. N., & Frame, W. S. (2007). Small business credit scoring and credit availability*.
+Journal of Small Business Management, 45(1), 5-22.
+
+Berrios, M. R (2013). The relationship between bank credit risk and profitability and liquidity.
+International Journal of Business and Finance Research. Vol 7 (3) pp 105- 118
+
+Bester, H. (1985). Screening vs. rationing in credit markets with imperfect information. The American Economic Review, 75(4), 850-855.
+
+Biekpe, N. (2011). The competitiveness of commercial banks in Ghana. African Development Review, 23(1), 75-87.
+
+Boahene, S. H., Dasah, J. & Agyei, S. K. (2012). Credit risk and profitability of selected banks in Ghana. Research Journal of Finance and Accounting,
+
+Bourke, P. (1989). Concentration and other determinants of bank profitability in Europe, North America and Australia. Journal of Banking & Finance, 13(1), 65-79.
+
+Brooks, C. (2008). RATS Handbook to accompany introductory econometrics for finance. ??:
+Cambridge Books.
+
+Brown, M., Jappelli, T., & Pagano, M. (2009). Information sharing and credit: Firm-level evidence from transition countries. Journal of Financial Intermediation, 18(2), 151-172.
+
+Castro, V. (2013). Macroeconomic determinants of the credit risk in the banking system: The case of the GIPSI. Economic Modelling, 31, 672-683.
+
+Chaibi, H., & Ftiti, Z. (2015). Credit risk determinants: Evidence from a cross-country study.
+Research in International Business and Finance, 33, 1-16.
+
+Cochrane, D., & Orcutt, G. H. (1949). Application of least squares regression to relationships containing auto-correlated error terms. Journal of the American Statistical Association 44:32-61.
+
+Crotty, J. (2009). Structural causes of the global financial crisis: a critical assessment of the ‘new financial architecture’. Cambridge Journal of Economics, 33(4), 563-580.
+
+Demirgüç-Kunt, A., Huizinga, H., & Claessens, S. (1998). How does foreign entry affect the domestic banking market?. World Bank Policy Research Working Paper, (1918).
+
+Demsetz, R. S., & Strahan, P. E. (1997). Diversification, size, and risk at bank holding companies. Journal of Money, Credit, and Banking, 300-313.
+
+Derbali, A. (2011). Determinants of banking profitability before and during the financial crisisof 2007: The case of Tunisian banks. Interdisciplinary Journal of Contemporary research  in Business. Vol. 3, No. 3, pp 1256-1269
+
+Dierkes, M., Erner, C., Langer, T., & Norden, L. (2013). Business credit information sharing and default risk of private firms. Journal of Banking & Finance, 37(8), 2867-2878.
+
+Djankov, S., McLiesh, C., & Shleifer, A. (2007). Private credit in 129 countries. Journal of financial Economics, 84(2), 299-329.
+
+Doblas-Madrid, A., & Minetti, R. (2013). Sharing information in the credit market: Contract- level evidence from US firms. Journal of financial Economics, 109(1), 198-223.
+
+Fofack, H. (2005). Non-performing loans in sub-Saharan Africa: Causal Analysis and Macroeconomic Implications.World Bank Policy Research Working Paper No. 3769, November. Freimer, M., & Gordon, M. J. (1965). Why bankers ration credit. The Quarterly Journal of Economics, 397-416.
+
+Fujii, H., Managi, S., & Matousek, R. (2014). Indian bank efficiency and productivity changes with undesirable outputs: A disaggregated approach. Journal of Banking & Finance, 38, 41-50.
+
+Gamra, S. B. (2009). Does financial liberalization matter for emerging East Asian economies growth? Some new evidence. International Review of Economics and Finance, 18:392-403.
+
+Gizaw, M., Kebede, M. & Selvaraj S. (2015). The impact of credit risk on profitability performance of commercial banks in Ethiopia. ??? Journal??Vol 9 (2) pp 59-66
+
+Jimenez, G. and Saurina, J. (2005). Credit cycles, credit risk, and prudential regulation. Banco de Espana, January.
+
+Judge, G., Griffiths, W.E., Hill, R.C., Lutkepohl, H. & Lee, T.C. (1985). The theory and practice of econometrics. 2nd ed. New York: Wiley
+
+Kallberg, J. G., & Udell, G. F. (2003). The value of private sector business credit information sharing: The US case. Journal of Banking & Finance, 27(3), 449-469.
+
+Kargbo, S.M. and Adamu, P.A. (2009). Financial Development and Economic Growth in Sierra Leone. Journal of Monetary and Economic Integration 9 (2009) 2.
+
+Keeton, W. R. (1999). Does Faster Loan Growth Lead to Higher Loan Losses? Federal Reserve Bank of Kansas City.Economic Review, Second Quarter 1999.
+
+Kennedy, P., 2008. A guide to econometrics, 6th ed. Oxford, UK: Blackwell Publishing,
+Kusi, B., Agbloyor, E., Fiador, V., & Osei, K. (2015). Half a decade of credit reference bureaus activities in Ghana: a reflection. Africa Growth Agenda, 8-12.
+
+Louzis, D. P., Vouldis, A. T., & Metaxas, V. L. (2012). Macroeconomic and bank-specific determinants of non-performing loans in Greece: A comparative study of mortgage, business and consumer loan portfolios. Journal of Banking & Finance, 36(4), 1012-1027.
+
+Love, I., & Mylenko, N. (2003). Credit reporting and financing constraints. World Bank Policy Research Working Paper, (3142).
+
+Luoto, J., McIntosh, C., & Wydick, B., (2007). Credit information system in less- developed countries; recent history and a test. Econ. Devel. Cult. Change 55,313-334.
+
+Mileris, R. (2012). The effects of macroeconomic conditions on loan portfolio credit risk and banking system interest income. Ekonomika, 91.
+Miller, M. J. (2003). Credit reporting systems and the international economy. MIT Press. Molyneux, P., & Thornton, J. (1992). Determinants of European bank profitability: A note.
+Journal of Banking & Finance, 16(6), 1173-1178.
+
+Padilla, A. J., & Pagano, M. (2000). Sharing default information as a borrower discipline device.
+European Economic Review, 44(10), 1951-1980.
+
+Pagano, M., & Jappelli, T. (1993). Information sharing in credit markets. The Journal of Finance, 48(5), 1693-1718.
+
+Powell, A., Mylenko, N., Miller, M. & Majnoni, G. (2004). Improving credit information, bank regulation and supervision: On the role and design of public credit registries.
+
+Prais, S. J., & Winsten, C. B. (1954). Trend estimators and serial correlation (Vol. 383, pp. 1- 26). Chicago: Cowles Commission discussion paper.
+
+Rajan, R., Dhal, S.C.(2003). Non-performing loans and terms of credit of pub-lic sector banks in India: an empirical assessment. Reserve Bank India Occasional Pap. 24 (3), 81–121.
+
+Salas, V., Saurina, J., (2002). Credit risk in two institutional regimes: Spanish commercial and savings banks. J. Financial Serv. Res. 22 (3),203–224.
+Stiglitz, J. E., & Weiss, A. (1981). Credit rationing in markets with imperfect information. The American Economic Review, 71(3), 393-410.
+
+Stiroh, K. J. (2004). Diversification in banking: Is noninterest income the answer?. Journal of Money, Credit and Banking, 853-882.
+
+Stock, J. H., and Watson M. W, (2001). Vector Auto regressions. Journal of Economics Wooldridge, J. (2009). Introductory econometrics: A modern approach, 4th edition. Mason, OH: South-Western Cengage Learning.
+
+World Bank (2012). Doing business indicators in 2012. Oxford: Oxford Univ. Press.

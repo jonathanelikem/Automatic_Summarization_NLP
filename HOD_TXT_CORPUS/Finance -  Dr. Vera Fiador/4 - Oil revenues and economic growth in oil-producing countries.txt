@@ -1,0 +1,2705 @@
+Resources Policy 69 (2020) 101832
+
+Contents lists available at ScienceDirect
+
+Resources Policy
+journal homepage: http://www.elsevier.com/locate/resourpol
+
+Oil revenues and economic growth in oil-producing countries: The role of
+domestic financial markets
+Jabir Ibrahim Mohammed *, Amin Karimu , Vera Ogeh Fiador , Joshua Yindenaba Abor
+University of Ghana Business School, Department of Finance, P.O.BOX LG78, Ghana
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+JEL classification:
+O13
+O16
+O43
+Q43
+
+The study estimates the effects of oil revenues on economic growth through financial markets development
+channel. Using a Panel VAR framework, we determine the proportional contribution of government oil revenue
+investment and private oil revenue investment among a sample of 83 oil-producing countries during the period,
+1990–2015. Also, a two-step system GMM is used to estimate the effect of oil revenues on economic growth
+conditional on financial markets development. We find that government investment of oil revenues positively
+affects economic growth conditional on banking sector development but has no effect in the case of the stock
+market development except via turnover ratio. The findings further indicate that private investment of oil rev­
+enues negatively impacts economic growth conditional on banking sector development. In the case of stock
+market development, in general, we find no effect. The policy recommendation is that oil-producing countries
+should pay more attention to share of the oil rent that goes to the government and the development of their
+banking sector since this can have a positive spill over effect on the development of the economy by government
+investment of oil revenue.
+
+Keywords:
+Government oil revenue
+Private oil revenue
+Banking sector
+Stock markets
+Economic growth
+
+1. Introduction
+The question of whether natural resource wealth is a blessing or a
+curse is still not comprehensively answered in the literature. Some
+studies find evidence of a curse (Sachs and Warner, 1995, 1999; 2001;
+Gylfason and Zoega, 2002; Kim and Lin, 2017), others find evidence of a
+blessing (Van der Ploeg and Poelhekke, 2010; Cavalcanti et al., 2011;
+James, 2015).
+An important channel through which natural resource wealth may
+benefit or inhibit the growth effort of a country is how revenue (rent)
+generated from the resource is managed across time in terms of the
+amount allocated for current consumption versus that allocated for in­
+vestment. In the prior literature, most of the studies focusing on
+explaining the mechanism through which an abundant natural resource
+wealth would negatively impact growth performance tends to suggest
+corruption and institutional failures (Arezki and Brückner, 2011;
+Apergis and Payne, 2014), market failures (James, 2015) and bad
+management of resource revenues due to rent-seeking behaviour of
+some political actors (Hodler, 2006; Deacon and Rode, 2012) as the key
+reasons.
+
+In this study, we explore the management channel conditional on the
+level of financial development to explain whether abundant natural
+resource wealth will hinder or spur growth, using oil producingcountries as a case study. In particular, we explore whether the man­
+agement of the revenues from these resources could provide answers to
+the question “why some natural resource-abundant countries experience
+high growth performance and others low growth performance”.
+In providing answers to the why question, the study makes the
+following contributions to the literature. First, the literature on oil
+revenues has generally focused on the impact of oil revenues (rent) on
+economic growth (Mehrara, 2008; Eregha and Mesagan, 2016; Mor­
+adbeigi and Law, 2017). However, oil revenue impact on growth is via
+investment of the oil revenues, but there has been very little effort made
+by prior research to explore the nature of oil investment dynamics on
+growth. The success story of Norway can be attributed to the prudent
+investment of the oil revenue both into physical capital and financial
+assets, generally referred to as “the Norwegian model”. The Norwegian
+success story suggests that investment of oil revenues into physical and
+financial assets is a requirement not only to achieving growth and
+development but also its sustainability. It is within this context that this
+
+* Corresponding author. University of Ghana Business School, Department of Finance, P.O.BOX LG78, Ghana.
+E-mail addresses: jimohammed001@st.ug.edu.gh (J.I. Mohammed), nyoamink@gmail.com (A. Karimu), vsoli@ug.edu.gh (V.O. Fiador), joshabor@ug.edu.gh
+(J.Y. Abor).
+https://doi.org/10.1016/j.resourpol.2020.101832
+Received 2 January 2020; Received in revised form 27 July 2020; Accepted 9 August 2020
+Available online 1 September 2020
+0301-4207/© 2020 Elsevier Ltd. All rights reserved.
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+study contributes to the literature by focusing on the effects of the share
+of oil revenue invested by the government and that invested by the
+private sector on growth. This among other things will contribute to our
+knowledge on how government investment of the oil revenue and by the
+private sector, contributes to the mixed findings of oil revenues on
+growth.
+Another contribution is that previous studies on this theme tend to
+focus on aggregate oil revenues and the implications thereof on eco­
+nomic growth (Mehrara, 2008; Eregha and Mesagan, 2016; Moradbeigi
+and Law, 2017); how oil revenue influence specific components of
+economic development such as health and education (Cockx and
+Francken, 2014, 2016); the impact of oil revenue on growth conditional
+on physical capital (Karimu et al., 2017); aggregate oil revenue rela­
+tionship with physical capital spending (Bhattacharyya and Collier,
+2013); and the impact of oil revenue on financial development (Mor­
+adbeigi and Law, 2017; Atil et al., 2020). These studies have not
+explicitly addressed the question of oil revenue management in terms of
+the shares invested by the government and by the private sector on
+growth, this is the main focus of the study.
+The third contribution to the literature is how financial market
+development influences the impact of oil revenue investments on
+growth. We argue that a well-functioning financial market will channel
+the revenues from oil into the productive sectors of the economy, which
+propels economic growth. Oil-producing countries’ ability to translate
+investment of the oil revenue by government and the private sector is
+dependent on the quality of their financial markets. Mehrara (2008)
+argues that developing deeper capital markets is a solution to addressing
+the adverse effect of oil revenues on economic growth. We build on the
+existing literature by first introducing two layers of the financial system.
+Unlike Moradbeigi and Law (2017) who focus on credit to the private
+sector as a percentage of GDP, this study focuses on both the banking
+sector and stock market developments.
+We employ PVAR model to estimate the proportional distribution of
+oil revenues(rent) due to government investment and private revenue
+(rent) investments. We then apply a two-step system GMM estimation
+approach to estimate the effect of oil revenue management on economic
+growth via financial markets development channel. First, we find that
+the share of oil revenue invested by the government and the private
+sector and the interaction term with banking sector development are
+significant factors for economic growth, where the total effect of gov­
+ernment investment on growth is positive conditional on the level of
+banking sector development. The positive effect increases as banking
+sector development improves. In the case of private sector investment,
+the total effect is negative conditional on the level of banking sector
+development. The magnitude of the negative effect increases as the level
+of banking sector development improves, which may be explained by
+the specific structure of the oil industry in terms of capital intensity are
+skill personnel, which have to be imported for most of the oil-producing
+countries and also what efficient banking sector development entails for
+banking intermediation.
+The second important finding is that the impact of government in­
+vestment of oil revenue on economic growth conditional on the level of
+stock market development is generally insignificant and not different
+from zero for all except in the case of turnover ratio, where it is signif­
+icant at the 10 percent level of significance.
+The rest of the study is organized as follows; section 2 focuses on the
+theoretical and empirical literature review. Section 3 focuses on the data
+source and empirical specification of the model, Section 4 discusses the
+findings of the study, while section 5 provides conclusion and policy
+implications of the study.
+
+complemented with the capital scarcity and risk premium theory pro­
+posed by van der Ploeg and Vanables (2011). Various growth theories
+exist in the literature, such as the Schumpeterian theory of growth,
+Slow-Swan (Neo-classical) growth theory and the Endogenous growth
+theory. This study utilizes the endogenous growth theory to link the
+relationship between oil revenue management and economic growth
+conditional on financial markets development.
+Romer (1990) and Lucas (1988) are the group of economists who
+began to critique the neoclassical Solow growth model arguing that it
+has a poor fit when it is confronted with cross-country data because
+growth is determined outside the model. They argue that factors such as
+research and development, human capital development, innovation and
+technical progress are the most important drivers of long-run economic
+growth and development. Endogenous growth theory builds from the
+perspectives of individual utility maximization constrained by a budget
+and also firm profit maximization subject to achieving certain produc­
+tivity at the minimum cost. Endogenous growth theorists opine that an
+open society court the inflow of technology and superior ideas from
+other nations, especially relatively more developed nations, to stimulate
+growth. They also stressed the need for government’s intervention in
+investments into research and development as the private sector may not
+invest at optimal levels to boost growth. Again, endogenous growth
+theorists contend that learning-by-doing inures to the benefit and
+growth of economies. Thus, developing countries which are rich in oil
+can learn from the robust technology that will be brought to the oil
+sector for production and develop their local content with the new
+knowledge. Similarly, in a simple endogenous growth model, the gov­
+ernment share of oil revenues and multinational corporations’ share of
+oil revenues for investment can stimulate economic growth in an
+oil-producing country. Furthermore, if two countries receive an equal
+amount of oil revenues, the endogenous model predicts that the country
+with more developed financial markets will be able to convert the oil
+funds into productive investments, and better able to allocate them to
+more productive sectors of the economy to aid economic growth.
+To complement the endogenous growth theory, we employ the
+capital scarcity and risk premium theory developed by Van der Ploeg
+and Venables (2011) to manage a windfall from oil. Their theory opines
+that countries with abundance oil but weak in physical capital should
+invest the wealth from the oil into improving their physical capital
+rather than investing in Sovereign Wealth Funds (SWFs). They argue
+that countries with less abundance physical capital are likely to have
+interest rates higher than the world average rate so when such countries
+are borrowing they would borrow at a world interest rate plus a risk
+premium as compared to their counterparts with domestic interest rates
+below the world’s average interest rates. The conclusion from their
+theory is that in countries with scarcity in the capital, domestic invest­
+ment should be geared towards scaling-up their infrastructure rather
+than accumulating foreign assets. Therefore, investment of oil revenues
+in the domestic economy can scale-up infrastructure which can lead to
+economic growth in the long-run, especially in developing countries.
+2.2. Empirical literature
+There has been a plethora of research on the resource curse thesis.
+More broadly, the focus has been on natural resource on economic
+growth, natural resource and capital spending and natural resource and
+financial development. These help to explain how natural resource-rich
+countries are less developed relative to non-resource rich countries.
+However, what has not been studied in the literature is the management
+of natural resource revenues. This section surveys literature on the three
+thematic areas below and draws conclusion on the research gap.
+
+2. Theoretical and empirical literature
+
+2.2.1. Natural resource on capital spending
+Previous research has investigated the relationship between natural
+resource revenues and capital spending (Farganegan, 2011; Cockx and
+Francken, 2014, 2016; Aregbeyen and Kolawole, 2015). Others
+
+2.1. Theoretical foundation
+The growth theory is the underlying theory for this study. This is
+2
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+investigated the relationship between natural resource revenues on
+economic growth (Hamdi and Sbia, 2013; Apergis and Payne, 2014;
+Fuinhas et al., 2015). On the aspect of natural resource revenues and
+capital spending, Cockx and Francken in their studies in 2014 and 2016
+examine how natural resource revenues affect health and educational
+expenditure, respectively. Collectively, they find a negative relationship
+between natural resource revenues on health and education expendi­
+ture. Their findings suggest the need for sustainable resource manage­
+ment in developing countries. They argue that the role of the private
+sector in the extractive industry is necessary for increasing funding to­
+wards health and education by engaging in corporate social re­
+sponsibility (CSR). Similarly, using data from 31 provinces in China,
+Sun, Geng, Yang & Edziah (2019) document the impact of natural
+resource dependence on public education spending. Contrary to earlier
+studies, they find a positive relationship between natural resource and
+education spending. They also document that higher educational quality
+will enhance human capital, which will catalyse economic growth.
+Aregbeyen and Kolawole (2015) posit that government spending does
+not improve economic growth in Nigeria. They, however, maintain that
+to boost economic growth, the government should increase spending on
+capital expenditure.
+
+economic growth. Similarly, Moradbeigi and Law (2016) underscore the
+relationship between oil price and economic growth volatilities for 63
+oil-producing countries. The study finds that oil price volatility hurts
+growth volatility. Further, this negative growth volatility is dampened
+by financial development. In a related study, Moradbeigi and Law
+(2017) find that oil revenues negatively impact on economic growth but
+this negative effect can be mitigated by financial development. Finally,
+in using 20 oil-producing countries, Jarrett et al. (2019) find that
+financial institutions reduce output volatilities in oil-producing coun­
+tries and mitigate its negative effect on growth in the year that showed a
+sustained decline in oil prices. The authors conclude that finance plays
+an important role in improving energy security and provides an avenue
+for economic growth.
+Other recent studies that have examined the role of natural resource
+abundance and economic growth through financial development
+include (Shahbaz et al., 2018; Erdoğan et al., 2020; Atil et al., 2020).
+Specifically, Shahbaz et al. (2018) find education and economic growth
+to have a positive relationship with financial development. They also
+find a feedback causal relationship between natural resource abundance
+and financial development. Also, Erdoğan et al. (2020) find that the
+level of financial development is necessary to translate natural resource
+export to economic growth. They noted that, where the level of financial
+deepening is under 45%, increase in oil export does not have a signifi­
+cant effect on economic growth. On a second wave, they find that where
+financial deepening is over 45%, a unit increase in oil exports causes a
+7% increase in economic growth. Finally, Atil et al. (2020) find oil prices
+and economic growth to have a positive effect on financial development.
+This suggests that natural resource as an economic tool supports finan­
+cial development in the long run.
+In summary, we can argue that oil revenues play a crucial economic
+role in oil-producing countries. Recent evidence supports the claim that
+oil revenues can be an enemy to economic growth unless it is mitigated
+by financial development. Most of the studies have neglected the in­
+vestment of oil revenues by the private sector and government collec­
+tively into productive sectors of the economy to increase economic
+growth. Additionally, recent evidence has not considered the role
+financial market development may play in the dynamic relationship
+between investments of oil revenues by both government and the private
+sector on economic growth. This study, therefore, opens the black-box
+for this debate.
+
+2.2.2. Natural resource on economic growth
+On the account of natural resource abundance on economic growth,
+Apergis and Payne (2014) find that oil abundance in MENA countries
+show a negative relationship with economic growth during the period,
+1990–2003. This was attributed to bad institutional quality. They,
+however, find that better institutional reforms stimulate economic
+growth from 2003 onwards when those countries engaged in institu­
+tional reforms.
+Again, Hamdi and Sbia (2013) study in Bahrain find that oil revenues
+promote economic growth and also serve as a channel through which
+government finances its spending. Fuinhas, Marques and Couto (2015),
+document that the ratio of oil production to primary energy consump­
+tion exerts a positive impact on economic growth in both the short-run
+and long-run. Similarly, oil rent depresses economic growth in the short
+and long-run. This finding suggests a curse on the economies rather than
+a blessing.
+Mehrara (2008) also examines the nonlinear relationship between oil
+revenues and output growth in oil-producing countries. Using two oil
+revenues measures in a dynamic panel framework, the study finds that
+output growth is adversely affected by negative oil shocks. The study
+also finds that positive oil shocks do not stimulate economic growth. The
+study suggests that in periods where oil funds are booming, oil-rich
+countries should manage their revenues well through the setting up of
+stabilization and savings funds. This will help to support the economy in
+periods where oil revenues are low.
+
+3. Methodology
+3.1. Data and variables
+The data for the study comes from three main sources. These are the
+Global Financial Development Database (GFDD), World Development
+Indicators (WDIs) and the International Monetary Fund. The study uses
+data covering the period, 1990–2015 for 83 oil-producing countries.
+This is because key variables of interest such as oil rent, government and
+private investments of fixed capital formation for all the oil-producing
+countries used for the study had data sufficient for the period under
+study. We obtain the financial markets data from the Global Financial
+Development Database for bank-based and capital-based economies.
+This dataset covers 214 economies with about 109 indicators
+capturing various aspects of financial institutions and markets. For our
+bank-based measures, we use credit to the private sector by banks and
+other financial institutions, bank credit and money supply all as a per­
+centage of GDP. For stock markets, we use market capitalization, total
+value traded and turnover ratio. We also use comprehensive dis­
+aggregated data from the IMF (2017), which contains investment data
+for both public and private sector investments as a share of stock of
+public capital. The public investment is measured using a gross fixed
+capital formation of the general government investment in billions of
+constant 2011 international dollars. And the private investment (gross
+fixed capital formation) is also in billions of constant 2011 international
+
+2.2.3. Natural resource, finance and economic growth
+Another important issue is the link between oil revenues, finance and
+economic growth. Few studies have tried to underscore the link between
+these variables. For instance, Nili and Rastad (2007) study the rela­
+tionship between oil revenues, financial development and economic
+growth in oil economies. They find that investment in oil economies is
+supported by oil investments but financial development has dampening
+effects on investment in those economies. This negative effect might be
+championed by government dominant role in investment as opposed to
+the private sector participation in investments. Again, Samargandi et al.
+(2014) investigate the relationship between financial development and
+economic growth in Saudi Arabia. Their study reveals that financial
+sector development supports growth in the non-oil sector as opposed to
+oil-sectors of the Saudi economy.
+Similarly, Badeeb, Lean and Smyth (2016) study the oil-curse in the
+finance-growth framework in Malaysia. Their study suggests a positive
+relationship between oil rent and economic growth. They argue that the
+role of finance can support the productive sectors of the economy to aid
+3
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+dollars. This is normalized by Gross Domestic product real purchasing
+power parity in billions of constant 2011 international dollars.
+We obtain the oil rent (used interchangeably with revenue
+throughout the paper) data from World Development Indicators (WDIs)
+of the World Bank (2017). Oil rents are the difference between the value
+of crude oil production at regional prices and total costs of production.
+This data together with the public and private investment data and other
+relevant variables are used to predict the variables of interests (share of
+government oil revenues for investment and share of private oil reve­
+nues for investment). We use real GDP per capita as a measure of eco­
+nomic growth. We include other variables that are relevant for the
+growth based on the literature. These include secondary school enrol­
+ment (a proxy for human capital development), inflation, financial
+openness, population, government expenditure and polity2 index (de­
+mocracy) as our control variables. We obtain the Polity2 index from
+Polity IV project by Marshall et al. (2019) and the financial openness
+data is obtained from Chinn and Ito (2008).
+
+3.2. Control variables
+The population is measured by using the natural log of the popula­
+tion to represent the size of the country. Inflation is also included in the
+model to capture macroeconomic stability of the economy and indirectly
+capture interest rate influence on economic growth. Higher inflation
+rates reduce the real rate of return if the rate of inflation was not
+anticipated, which is a disincentive to investors. This will reduce in­
+vestments in the economy and ultimately reduce economic growth.
+Government expenditure is measured as the log of final government
+consumption expenditure. An increase in government consumption will
+lower growth if those expenses are not into investment in the economy.
+Countries that are less developed are more likely to use their oil reve­
+nues for consumption instead of investments and this will yield a
+negative effect on economic growth.
+We use the log of secondary school enrolment to measure human
+capital since human capital development is good for growth according to
+the neoclassical and endogenous growth models. We hypothesise a
+positive link between schooling and economic growth since the welleducated population can increase their productive activity. Similarly,
+we use Chinn and Ito’s (2008) measure of capital accounts openness as
+our indicator of financial openness. The indicator shows that higher
+values indicate more financial openness. The indicator is a de jure
+measure of financial openness with index ranging between − 1.83 and
++2.5. Financial openness makes it possible for oil-producing countries to
+receive foreign capital in the oil sector, which facilitates economic ac­
+tivities, hence a positive relationship is expected. Finally, we use polity2
+index to measure democracy. It ranges from − 10 to 10. This is rescaled
+to range between 0 and 1, where higher values denote strong de­
+mocracies and lower values reflect weak democracies. We argue that in
+democratic countries, there are checks and balances to ensure the
+effective utilization of oil revenues, which can help to facilitate eco­
+nomic growth.
+
+3.1.1. Oil revenues
+This is the main variable of interest, which consists of the share of oil
+revenue investment by government (GOR) and share of oil revenue in­
+vestment by the private sector (POR). We use two measures for each of
+these variables. One as a predicted variable based on a panel vector
+autoregressive regression framework and the other one as a ratio of
+government and private investments over oil rent respectively. These
+two approaches allow us to check for the robustness of our results. The
+detail methodological predictions of the government oil revenue in­
+vestment (GOR) and private oil revenue investment (POR) using PVAR
+and a variant ratio approach is presented in section 3.2 below.
+3.1.2. Financial markets development
+Here, we focus on the banking sector and stock markets measures.
+For the banking sector, we use total credit to the private sector, bank
+credit and money supply all as a percentage of GDP (Levine and Zervos,
+1998). For the stock markets, we use stock market capitalization, which
+represents the size of the market measured as the total value of the firms
+listed divided by GDP. The large market does not imply that the market
+will function properly because taxes may distort the incentive for firms
+to list on a domestic stock exchange. The total value traded, and turn­
+over ratio is the market liquidity measures of a domestic bourse. Turn­
+over measure refers to the value of shares traded in the local stock
+exchange divided by the value of listed domestic shares. Higher turnover
+ratio depicts the lower transaction cost of listed firms. A stock market
+can be large but if it is inactive it would have a lower turnover ratio since
+large stock markets do not necessarily connote liquidity. Lastly, Value
+Traded is another liquidity measure, which equals to the value of the
+trades of domestic shares on domestic exchange divided by GDP. It is
+instructive to note a small liquid market can have a higher turnover, but
+very small value traded.
+On the basis of these, the study hypothesises that oil-producing
+countries with a developed banking system have a positive effect on
+economic growth because oil revenues, which flow in would remain in
+the banks and other financial institutions, which would be used to
+provide credit to the private sector thereby stimulating growth due to
+productive investments. Similarly, oil-producing companies might list
+on the stock market, which is developed, and this would enable citizens
+to own shares in such firms. Dividend and capital gains earned will
+remain in the domestic economy for investment, which will stimulate
+economic growth. Similarly, the presence of some oil companies in the
+local bourse might make it active thereby improving the liquidity of the
+stock market. We hypothesise a positive relationship between stock
+market development and economic growth among oil-producing
+countries.
+
+3.3. Computation of oil revenue management
+This study uses a two-step estimation approach for the main objec­
+tive of the study. First, we determine the proportional distribution of oil
+revenues for government (GOR) investments and oil revenue for private
+(POR) investments using the PVAR model and a variant ratio approach,
+where we computed the ratio of government investment to oil rent and
+ratio of private investment to oil rent. The GOR and POR are used in the
+two System-GMM as the key independent variables.
+The main variable of interest is the proportion of oil rent invested by
+the public sector and the proportion of oil rent invested by the private
+sector in the domestic economy of the sampled countries in the study.
+The GOR and POR forms the management of oil revenues where oil rent
+is deemed to be converted from natural capital to physical capital. In
+general, management of oil fines goes beyond converting natural capital
+into physical and human capital to include financial assets such as
+sovereign wealth funds as documented in the Norwegian model of sus­
+tainable management of their oil resources. Our current measure of
+management of oil rent, though excludes the financial asset component,
+it covers a significant aspect of the proportion of the natural capital that
+is converted into both physical and human capital by both government
+and the private sector.
+The first approach to compute the proportional investment of the oil
+rent by government and the private firms is to predict both government
+investments (health, education, infrastructure etc.) and private invest­
+ment (fixed capital formation) via Panel Vector Autoregressive (PVAR)
+framework. This approach allows for a causal interpretation of the es­
+timates, an important requirement in computing the proportions via
+prediction.
+In the VAR framework, each variable in the system is explained by its
+lags, lagged values of the other variables, time fixed effect and unob­
+served individual effect. The PVAR can generally be specified as:
+4
+
+J.I. Mohammed et al.
+n
+∑
+
+yit =
+
+Resources Policy 69 (2020) 101832
+
+from such a model based on oil rent provides a reliable estimate of in­
+vestment (government and private) due to oil rent, where all key de­
+rivers are held constant. The predicted proportions from PVAR and the
+ratio computations are what we use as proxies for the real shares of oil
+revenue invested by the government and by the private.
+The results of the PVAR model is presented in Table A1in the ap­
+pendix whilst the stability test is presented in Table A2. To be the focus
+on the objectives of the paper, we decide to only report the diagnostics of
+the preliminary model (PVAR) results and refer the reader to the full
+results in the appendix A1. First, concerning the PVAR model fit, since
+the model estimation approach is based on a generalized method of
+moment (GMM), we perform the Hansen-J test for over-identification,
+which is more of a specification test to determine if the overidentifying restrictions are valid. The test results reported in Table A1
+in the appendix suggest that our model fit the data generation process
+(DGP) and therefore, not misspecified. Second, we also test for the sta­
+bility of the model and results reported in Table A2 indicates that the
+estimated PVAR model is stable since eigenvalues are all less than 1 as
+suggested by Hamilton (1994) and Lütkepohl (2005) for such a stability
+test.
+
+(1)
+
+βt yit− 1 + μit
+
+t=1
+
+where y is k*1 vector of k variables, βis a k*k vector of parameters to be
+estimated and μit is a composite term that is made up of time fixed effects
+(vt), unobserved individual effect (γ i) and random error term (εit), t is
+time and i is an individual unit, which in this study represents countries.
+In line with Abrigo and Love (2016), the general PVAR in equation (1) in
+specific terms for the prediction is expressed as;
+n
+∑
+
+GIit =
+
+n
+∑
+
+βgt GIit− 1 +
+t=1
+
+n
+∑
+
+βpt PIit− 1 +
+t=1
+
+βO OilRentit− 1 + βf inflatit
+t=1
+
+(2)
+
++ βGD GDPit + μGI
+it
+n
+∑
+
+PIit =
+
+αgt GIit− 1 +
+
+t=1
+
+n
+∑
+t=1
+
+αpt PIit− 1 +
+
+n
+∑
+
+αOt OilRentit− 1 + αf inflatit
+
+t=1
+
++ αGD GDPit + μPI
+it
+
+(3)
+
+OilRentit =ånt=1 θgt GIit− 1 +ånt=1 θpt PIit− 1 +ånt=1 θOt OilRentit− 1 + θf inflatit
++ θGD GDPit + μoil
+it
+
+(4)
+
+3.4. Econometric specification
+
+The three equations (2)–(4) are jointly estimated, where GI denotes
+government investment, PI is private investment, OilRent represents oil
+rent, inflat is inflation and GDP is real GDP per capita. The betas (β) are
+the coefficient to be estimated in the government investment equation,
+alphas (α) are coefficients to be estimated in the private investment
+equation and thetas (θ) are coefficients to be estimated from the oil rent
+equation (4). Inflation is to proxy macroeconomic stability such as the
+role of interest rates on the investment climate.
+Based on the coefficient estimate for oil rent (βO ) from equation (2),
+we compute the predicted government investment due to oil rent for
+each country by multiplying the oil rent coefficient (βO ) by government
+investments. Similarly, in the case of the proportion of private invest­
+ment of the oil rent, it is computed based on the coefficient estimate for
+oil rent (αO ) from equation (3) multiply by private investment for each
+country.
+A variant approach used is based on taking a ratio of government
+GIP
+investment over oil rent (GORit = OILRENT
+) to proxy the amount of oil rent
+that goes into government investment and the ratio of private invest­
+PIP
+) to proxy the share of oil rent rement over oil rent (PORit = OILRENT
+invested by the private sector in the domestic economy. The second
+approach measure government investment per unit of oil rent and pri­
+vate investment per unit of oil rent. This can be interpreted as the in­
+vestment efficiency of the oil rent in the domestic economy (government
+investment efficiency of oil rent and private investment efficiency of oil
+rent).
+Since both measures are not proxies of the real shares, we cannot rule
+out potential errors associated with these proxies relative to real pro­
+portions of oil rent invested by the public and private, respectively. Our
+interest, therefore, is to rely on the more realistic proxy and a less bias
+measure of the various proportions of investment from oil rent. Admit­
+tedly, both approaches are not perfect measures of the real proportion of
+oil rent invested, but in the absence of a real data on this, we consider
+the first approach (PVAR) to be more realistic and of a less bias estimate
+of the true proportion. This is because we fit a causal model of invest­
+ment that allows for a dynamic structure in the estimation process as
+suggested by investment theory. Moreover, it is modelled as a system,
+where the key variables in the model (government investment, private
+investment and oil rent are considered endogenous). Also, unobserved
+heterogeneity is considered in the estimation via both country fixed
+effects and time fixed effects.
+Furthermore, the PVAR accounts for macroeconomic stability via
+inflation that indirectly considers interest rate effect on investment.
+Given the system approach, the causal framework and the fact that it
+controls for the key factors for investment, the prediction of investment
+
+The computed oil revenue management variables via the PVAR and
+the ratio approaches in section 3.2 are used in model 5 below to address
+the key objectives of the study. The objective of the study is to assess the
+effect of oil rent (revenue) managements (shares between government
+and private firms) on economic growth conditional on the level of
+financial markets developments. The main model of the study is speci­
+fied as:
+ln GDPPCit =β1 ln GDPPCit− 1 + β2 ln GORit− 1 + β3 ln PORit− 1 + β4 ln FMDit− 1
++ β5 ln GORit− 1 *ln FMDit− 1 + β6 ln PORit− 1 *ln FMDit− 1 + γ’ Zit
++ μi + vt + εit
+
+(5)
+
+Where lnGDPPCit denote the log of real GDP per capita, lnGDPPCit− 1 is
+the lagged real GDP per capita, lnGORit− 1 denote the share of govern­
+ment investment of oil rent and, lnPORit− 1 denote the share of private
+investment of oil rent in the domestic economy. These were computed
+based on estimates from the PVAR model and a variant form based on
+ratio approach as outlined in section 3.2. lnFMDit− 1 is the log of financial
+markets development variables for both the banking sector and stock
+markets developments, whereas lnGORit− 1 *lnFMDit− 1 is the interaction
+term between government oil revenue and financial markets indicators.
+lnPORit− 1 *lnFMDit− 1 is the interaction between private oil revenue and
+financial markets variables. In line with growth theory and empirics, we
+include control variables relevant to our study. The control variables
+used in the model is denoted by the vector Zit , which comprises of
+population, inflation, education, government expenditure, financial
+openness and democracy (see Barro, 1997; Acemoglu et al., 2005;
+Arslanalp et al., 2010). We took the first lag of some of the variables such
+as oil revenue investments, financial markets development and the
+interaction term because investments of oil revenues and financial
+markets developments do not instantaneously affect economic growth.
+Also, it helps to take care of endogeneity issues because the variables at a
+level might be correlated with the error term and this will allow it to be
+endogenous. μi is the country fixed effects, vt is the time effect whilst the
+error term is represented by εit .
+Following, Baltagi, Demetriades and Law (2009), the total effect of
+oil revenue management on growth is obtained by taking the partial
+derivative of economic growth with respect to the oil revenue man­
+agements via equation (5), which is given below as:
+
+∂ln GDPPCit
+= β2 + β5 *ln FMDit− 1
+∂ln GORit− 1
+5
+
+(6)
+
+Resources Policy 69 (2020) 101832
+
+J.I. Mohammed et al.
+
+∂ln GDPPCit
+= β3 + β6 *ln FMDit− 1
+∂ln PORit− 1
+
+proliferated instruments cannot be trusted. Finally, the error term may
+be serially correlated in the first-order, however, the second-order must
+not be serially correlated because that could be a sign of misspecification
+of the model.
+
+(7)
+
+These equations mean that whether the effect of oil revenue man­
+agement is positive, negative or zero depends on the sign and magnitude
+of the coefficients (β2 , β3 , β5 and ​ β6 ) and the level of financial markets
+developments in each oil-producing country.
+
+4. Results and discussion
+First, we describe the summary statistics. Next, we assess the effect of
+oil revenue management on economic growth considering the role of the
+banking sector. The variables of interest here are the share of oil revenue
+invested by the government and that by the private sector, and the
+interaction terms between these variables and banking sector de­
+velopments (credit to the private sector, bank credit and money supply).
+We also assess the effect of oil revenues management on economic
+growth by considering the role of stock market development. The stock
+market development variables are (capitalization, turnover ratio and
+total value traded). Finally, we consider the different levels of financial
+markets development and the role they play in oil revenue management
+and growth nexus. Our main results are based on the predicted data
+whilst we report the results of the alternative measures of the share of oil
+rent invested by the government and the private sector (ratio of gov­
+ernment investment to oil rent and the ratio of private investment to oil
+rent respectively) in the appendix to assess whether how the shares are
+computed matter concerning the key results of interest.
+
+3.5. Estimation technique
+We estimate equation (5) using a Two-Step System Generalized
+Method of Moment (SGMM) estimator. There are two SGMM estimators;
+the one-step and the two-step estimation. We use the two-step estimator
+with Windmeijer (2005) corrected standard errors because it is asymp­
+totically more efficient than the one-step estimator. The two-step SGMM
+was introduced by Blundell and Bond (1998) designed to deal with
+higher persistent data. This replaces the difference GMM by (Arellano
+and Bond, 1991). The higher persistent data makes the instruments
+weak since the lagged endogenous regressors are likely to be correlated
+with the first difference GMM. The SGMM adds a level equation to the
+difference equation to deal with the issue of the weak internal in­
+struments as a result of the persistence of the data (Roodman, 2009). Our
+panel has gaps, so we use the orthogonal deviations to maximise sample
+size.
+We choose, the two-step SGMM for several reasons. First, the twostep SGMM approach allows us to treat growth as a dynamic process
+accounting for the initial growth level with the possibility that previous
+growth can influence future growth. Second, our number of countries
+(N) is larger than Ts (Time) making the use of the SGMM more appro­
+priate. Third, the GMM approach allows us to control for endogeneity
+and potential Nickel bias due to the dynamic structure. This is because
+natural resource studies are inherently plagued with endogeneity issues
+(Badeeb et al., 2017) and since it is difficult to find valid external in­
+struments, relying on an approach that provides internal instruments
+help reduce such endogeneity concerns.
+To check for consistency of estimates; we employ two-tests: the
+Sargan/Hansen test of overidentification restrictions and the Arellano
+and Bond test for second-order serial correlation in the error term. Ac­
+cording to Roodman (2009), the Sargan/Hansen tests measure the val­
+idity of instruments by analysing sample analogues of the moment
+conditions used in the estimation. Thus, the number of instrument count
+should not exceed the groups since research results reported from highly
+
+4.1. Descriptive statistics
+Table 1 below shows the descriptive statistics of the results. The
+average real per capita GDP for oil-producing countries over the period
+was US$18,533.56 showing higher per capita among oil-producing
+countries partly because of the inclusion of some developed countries
+and higher oil rent per capita countries.
+Over the period, share of oil revenue (rent) invested by the govern­
+ment (GOR) via the predicted approach averaged 0.23. The Share of oil
+revenue invested by the Private sector (POR) averaged 0.79. This means
+that private oil revenue investment is higher than government oil rev­
+enue investment. This is also consistent based on the variant ratio
+measure, where the mean ratio value for the private firms is higher than
+that from the government.
+This is expected because since the oil sector requires significant
+capital investment outlay, the International Oil Companies (IOCs) are
+
+Table 1
+Descriptive statistics.
+Variable
+
+Obs.
+
+Mean
+
+Std.Dev.
+
+Min
+
+Max
+
+GDP Per Capita
+Oil Revenues Management (PVAR)
+Government Oil Revenues
+Private Oil Revenues
+Variant Measure (Ratios)
+Government investment/oil rent
+Private investment/oil rent
+Banking Sector Development
+Credit to Private Sector
+Bank Credit
+Money Supply (M2)
+Stock Market Development
+Capitalization
+Turnover Ratio
+Total Value Traded
+Control Variables
+Schooling (Secondary)
+Inflation
+Government Expenditure
+Financial Openness
+Population
+Democracy
+
+2180
+
+18533.56
+
+21214.1
+
+555.42
+
+152000
+
+2182
+2182
+
+0.230
+0.790
+
+0.190
+0.440
+
+0.000
+0.020
+
+1.400
+4.190
+
+2064
+2064
+
+163.495
+588.967
+
+983.456
+2711.371
+
+0.000
+0.0154
+
+18963.04
+39214.36
+
+2039
+2017
+1837
+
+48.110
+47.350
+52.102
+
+44.350
+43.340
+35.990
+
+0.000
+0.220
+2.820
+
+221.290
+212.90
+237.35
+
+1407
+1428
+1456
+
+44.430
+49.750
+23.480
+
+42.600
+62.710
+38.380
+
+0.010
+0.040
+0.000
+
+265.560
+632.440
+331.270
+
+1656
+2032
+2096
+2078
+2181
+2155
+
+4.290
+51.740
+15.640
+0.270
+16.660
+0.650
+
+0.473
+1.470
+5.750
+1.603
+1.690
+0.480
+
+1.890
+− 3.310
+2.060
+− 1.910
+12.140
+0.000
+
+5.060
+10.080
+76.220
+2.360
+21.040
+1.000
+
+6
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+often invited to invest in the sector, and it makes sense for them to have
+significant share of the profit that accrues to the sector. This explains
+why share of investment in the private sector is significantly higher than
+the government share.
+Total credit to the private sector over the sample period averaged
+48.11 percent of GDP, that of bank credit averaged 47.35 percent of GDP
+which are individually lower than the money supply average (52.1
+percent of GDP). In considering the stock markets variables, we notice
+that total value traded averaged 23.48 percent of GDP, capitalization
+averaged 44.35 percent of GDP over the same period but lower than
+turnover ratio which formed an average of 49.75 percent of GDP.
+Schooling is the natural logarithm of secondary school enrolment
+rate averaged 4.29. Inflation is the consumer price index averaged 51.74
+percentage point over the period. The mean of government expenditure
+as a percentage of GDP is 15.64 percent. Financial openness records an
+average of 0.27, showing that few of the oil-producing countries open up
+their economies. The mean value of democracy is 0.65 indicating that
+the majority of the countries are fairly democratic.
+
+− 1.03, respectively. These estimates are all significant at the 5% level.
+The negative effect of POR on growth at the mean of banking sector
+development is from all three proxies (credit to the private sector, bank
+credit and money supply). This finding implies that strong banking
+sector development facilitates the repatriation of oil funds to the parent
+International Oil Companies (IOCs) instead of inhibiting it because of
+the nature of the extractive sector where skilled labour and capital are
+imported into the country. A strong banking sector facilitates the
+intermediation of those funds to prospect new oil wells or foreign skill
+workers sending money back home.
+Next, we turn our attention to developing countries sample to assess
+if our main result is driven by the developed countries in the sample. The
+results for the developing countries sub-sample suggest a similar pattern
+in terms of the signs but the significant levels differ for all the variables
+of interest. We also evaluate the total effects using the means of devel­
+oping countries banking sector development variables. Private credit
+(33.943), bank credit (33.43) and money supply (45.56). Our findings
+provide the positive and significant total effect of private credit and
+bank credit, respectively for the share of government oil revenue
+invested. The implication is that the development in the banking sector
+serves as a strong influence on the effect of oil revenue management on
+economic growth. Finally, we observe a negative and significant total
+effect for private sector investment of oil revenue. This implies that IOCs
+repatriate profit to their parents’ companies and this has a dampening
+effect on economic growth in oil-producing countries. This is consistent
+with Moradbeigi and Law (2016). These findings are in tandem with
+those reported in the full sample results and those reported for the
+alternative measures for the shares of government and private in­
+vestments of oil rent in Table A3 in the appendix.
+
+4.2. Oil revenues and economic growth nexus: the role of banking sector
+development
+In this section, we address simultaneously the impact of oil revenues
+management on economic growth by considering the role of the do­
+mestic banking sector. We consider the full sample and developing
+countries context as presented in Table 2. The first three columns (1–3)
+focus on full sample whilst the last three (4–6) focus on developing
+countries.1 The results are interpreted as elasticities because we take the
+natural logarithm of the variables. The lagged dependent variable of real
+GDP per capita is positive and significant across all the specifications.
+However, the coefficient of the lagged RGDP per capita is high indi­
+cating previous levels of economic activities has a significant influence
+on current economic activities among the sampled oil producing
+countries.
+Our variables of interest are the GOR and POR and its interactive
+terms with the banking sector variables. The result shows that GOR
+coefficient is negative and significant at 5% and 10%, respectively for
+the first two columns (credit to the private sector model and bank credit
+model) whilst column 3 is insignificant, which is the case for the money
+supply model. This means that government investment of oil revenues
+reduces economic growth by 2.1 percent for both private credit and
+bank credit models respectively. This finding contradicts that of Atil
+et al. (2020) who note a positive relationship. Moreover, the interaction
+term is positive and significant in both the private credit and bank credit
+models, respectively. The interaction term for the money supply model
+is however insignificant at any of the conventional significance levels.
+The total effect of GOR on economic growth evaluated at the mean of
+credit to the private sector is 0.28, which is significant even at the 1%
+level of significance. In the case of bank credit model, the total effect of
+GOR evaluated at the mean of bank credit is also 0.28 and significant at
+the 1% level. The total effect of GOR from the money supply model, on
+the other hand, is insignificant. The conclusion we can draw from these
+results is that, generally, the share of oil revenue invested by the gov­
+ernment in the domestic economy tend to promote economic growth
+given an average level of banking sector development. This positive
+effect of GOR conditional on the average banking sector development is
+from both credit provision to the private sector and bank credit
+provisions.
+In the case of the POR, the total effect evaluated at the mean of credit
+to the private sector, bank credit and money supply is − 0.62, − 0.57 and
+
+4.3. Oil revenues and economic growth: the role of stock market
+development
+In this section, we focus our attention on the effect of oil revenue
+management on economic growth by considering the role of the stock
+market development. Here, we present results for the full sample and
+developing countries sample as presented in Table 3. Our results suggest
+positive and significant effect of the lagged dependent real per capita
+GDP on economic growth across the six models reported. However, the
+lagged real GDP per capita is closed to 1 indicating high level of influ­
+ence of previous level of GDP per capita on current level in oil-producing
+countries.
+In our full sample, we observe a positive and significant relationship
+between market turnover ratio and its interactive term with a share of
+government oil revenues. The total effects indicate a 10% level of sig­
+nificance at a value of 0.176. For the developing countries context, the
+results show similar signs as those reported for the full sample except
+that there is no significant relationship among the variables of interest.
+In other words, they are not different from zero.
+The total effects also show similar signs but there are not significant
+as well. The implication could be that oil-producing developing coun­
+tries are not taking the advantage of the stock market development to
+enhance economic growth or most of them have poor stock markets and
+inflows of oil revenues are not entirely growth-enhancing. It could also
+mean that IOCs are not participating in the local burse as such, their
+activities do not support the stock market capitalization, turnover and
+stock market value traded. The insignificant nature of these findings
+could also be that most oil-producing countries (rentier states) do not
+have well-developed stock markets, as such IOCs will prefer to have
+their companies listed in the stock markets of their home countries or
+elsewhere where stock markets are buoyant. The ratio analysis shows
+consistent signs as presented in appendix A4.
+
+1
+These are country groupings as defined by the IMF World Economic
+Outlook (WEO): 1 = low income developing countries (LIDC); 2 = emerging
+markets (EM); 3 = advanced economies (AE). So, we grouped 1–2 as developing
+countries and took 3 as advanced economies in our sample.
+
+4.4. Control variables effect on economic growth
+Here, we turn our attention to the control variable used. Some of the
+7
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+Table 2
+Oil revenues, banking sector development and economic growth.
+Variables
+
+lnGDPPCt-1
+lnGORt-1
+lnPCt-1
+lnGORt-1*lnPCt-1
+lnPORt-1
+lnPORt-1*lnPCt-1
+lnBCt-1
+
+Credit to Private Sector
+Full Sample.
+0.971***
+(0.016)
+− 0.021**
+(0.011)
+0.008
+(0.008)
+0.006**
+(0.003)
+0.059***
+(0.020)
+− 0.014***
+(0.005)
+
+lnGORt-1*lnBCt-1
+lnPORt-1*lnBCt-1
+lnM2t-1
+
+Bank Credit
+
+Money
+Supply (M2)
+
+0.965***
+(0.013)
+− 0.021*
+(0.011)
+
+0.983***
+(0.016)
+− 0.032
+(0.024)
+
+0.054**
+(0.022)
+
+0.091**
+(0.042)
+
+0.011
+(0.006)
+0.006**
+(0.003)
+− 0.013**
+(0.005)
+
+lnGORt-1*lnM2t-1
+lnPORt-1*lnM2t-1
+Constant
+Total Effect (GOR)
+Total Effect (POR)
+Observations
+Groups
+Instruments
+Time Dummies
+F-Test
+AR (1)
+AR (2)
+Hansen Test
+
+0.243**
+(0.112)
+0.282**(0.125)
+− 0.624***(0.213)
+1259
+78
+60
+Yes
+10111.25
+0.004
+0.138
+0.120
+
+0.275***
+(0.104)
+0.282**(0.126)
+− 0.565**(0.228)
+1240
+78
+60
+Yes
+8676
+0.007
+0.296
+0.168
+
+Credit to Private Sector
+Developing Countries
+0.970***
+(0.021)
+− 0.023*
+(0.012)
+0.010
+(0.007)
+0.007**
+(0.003)
+0.059**
+(0.029)
+− 0.015*
+(0.00)
+
+0.005
+(0.010)
+0.008
+(0.006)
+− 0.022**
+(0.009)
+0.153
+(0.141)
+0.393(0.304)
+− 1.029**(0.452)
+1126
+71
+60
+Yes
+15531.12
+0.002
+0.241
+0.100
+
+0.248
+(0.164)
+0.211**(0.098)
+− 0.437*(0.221)
+990
+62
+60
+Yes
+10908
+0.007
+0.186
+0.135
+
+Bank Credit
+
+Money Supply
+
+0.960***
+(0.021)
+− 0.024
+(0.016)
+
+0.979***
+(0.018)
+− 0.042
+(0.029)
+
+0.066*
+(0.034)
+
+0.112*
+(0.066)
+
+0.011*
+(0.006)
+0.008*
+(0.004)
+− 0.0167*
+(0.009)
+
+0.316*
+(0.164)
+0.235*(0.134)
+− 0.492*(0.270)
+979
+62
+60
+Yes
+10431
+0.007
+0.352
+0.125
+
+0.000
+(0.011)
+0.011
+(0.008)
+− 0.027*
+(0.015)
+0.177
+(0.166)
+0.478(0.323)
+− 1.096*(0.637)
+967
+61
+60
+Yes
+10897.78
+0.003
+0.315
+0.113
+
+Note: The robust standard errors are in parenthesis with ***, ** and * denoting significance at 1%, 5% and 10% respectively. Details of variables are; lnGDPPCt-1 is the
+log of Gross Domestic Product per capita, lnGORt-1 is the log of government oil revenue investment, lnPORt-1 is the log private oil revenue investment, lnPCt-1is
+domestic credit to the private sector as a percentage of GDP, lnBCt-1is bank credit to the private sector as percentage of GDP, lnM2t-1 is the log of the money supply.
+Where lnGORt-1*lnPCt-1is the interaction between government oil revenue investment and private credit; lnPORt-1*lnPCt-1 is the interaction between private oil
+revenue investment and private credit; lnGORt-1*lnBCt-1 is the interaction between GOR and bank credit; lnPORt-1*lnBCt-1, is the interaction between POR and bank
+credit; lnGORt-1*lnM2t-1 is the interaction between GOR and money supply and lnPORt-1*lnM2t-1 between POR and money supply. We controlled for schooling,
+democracy, government expenditure, inflation, financial openness and population. See Appendix A5 for results.
+
+variables employed are schooling which represents gross secondary
+school enrolment. The highly educated population can aid the growth of
+a country since there will provide the needed human capital to facilitate
+growth. Others control variables used are inflation, government
+expenditure, financial openness, democracy and population. All these
+variables have been supported by the extant literature. These are pre­
+sented in Panel A for the banking sector and Panel B for the stock
+markets in table A5 based on the predicted shares and table A6based on
+the ratios (reported in the appendix). In Panel A we find financial
+openness and government expenditure to positively and significantly
+support economic growth. This means that more government expendi­
+ture improves on the growth of the economy whilst financial openness
+allows for the inflows of foreign capital which induces economic growth.
+In Panel B we only find democracy to be positive and significant for both
+full and developing countries sample. This means that in highly demo­
+cratic oil-producing countries the economy grows when the stock mar­
+kets are functional.
+
+development variables that have their total effects being significant at
+least at the 5 percent level. Results are shown in Figs. 1 and 2 below. In
+Fig. 1, the results of the distribution shows that at a lower level of credit
+to the private sector and bank credit, the impact of government in­
+vestment is low. However, the impact increases at the 50th, 75th and
+90th percentiles of both credit to the private sector and bank credit. This
+implies that the impact of government investment on the economy in­
+crease as the banking sector develops in terms of ability to provide credit
+to the private sector and also bank credit provisions. This finding sup­
+ports the work of (Erdoğan et al., 2020) who noted a threshold of 45
+percent financial deepening support economic growth in oil-producing
+countries for at least 7 percent at every unit of oil revenue added.
+In Fig. 2, we notice the impact of private investment of oil revenue on
+growth is negative but small at lower percentiles (25th percentile) of
+credit to the private sector, bank credit and money supply. The magni­
+tude, however, increases at higher percentiles of each of the banking
+sector development proxies. This means that countries with improved
+banking sector development, IOCs can easily take advantage of the
+financial system to repatriate their profits. This finding is driven by the
+specific nature of the extractive industry, where significant capital in­
+vestment is required. Given the political and country-specific risks,
+greater diversification is required as a risk mitigation tool, especially in
+
+4.5. Distribution of the impact of oil revenues on economic growth
+In this section, we present the distribution of the impact of oil rev­
+enues on economic growth at different percentiles of banking sector
+8
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+Table 3
+Oil revenues, stock market development and economic growth.
+Variables
+lnGDPPCt-1
+lnGORt-1
+lnCAPt-1
+lnGORt-1*CAPt-1
+lnPORt-1
+lnPORt-1*CAPt-1
+lnTURNt-1
+
+Capitalization
+Full Sample
+0.986***
+(0.012)
+0.002
+(0.009)
+− 0.0001
+(0.007)
+− 0.0003
+(0.003)
+− 0.002
+(0.011)
+0.0011
+(0.003)
+
+lnGORt-1*TURNt-1
+lnPORt-1*TURNt-1
+lnSTMVTt-1
+
+Turnover
+
+Stock Value Traded
+
+0.977***
+(0.008)
+− 0.009
+(0.007)
+
+0.983***
+(0.010)
+− 0.003
+(0.004)
+
+0.004
+(0.010)
+
+0.003
+(0.005)
+
+0.010**
+(0.005)
+0.004*
+(0.002)
+− 0.002
+(0.003)
+
+lnGORt-1*STMVTt-1
+lnPORt-1*STMVTt-1
+Constant
+Total Effect (GOR)
+Total Effect (POR)
+Observations
+Groups
+Instruments
+Time Dummies
+F-Test
+AR (1)
+AR (2)
+Hansen Test
+
+0.160*
+(0.084)
+− 0.0104(0.116)
+0.047(0.131)
+939
+59
+40
+Yes
+17198.43
+0.003
+0.269
+0.189
+
+0.277***
+(0.077)
+0.176*(0.103)
+− 0.076(0.129)
+953
+60
+60
+Yes
+22450.25
+0.002
+0.345
+0.282
+
+0.004
+(0.003)
+0.002
+(0.001)
+− 0.002
+(0.002)
+0.226**
+(0.103)
+0.0428(0.028)
+− 0.038(0.042)
+967
+60
+58
+Yes
+55248.35
+0.003
+0.239
+0.586
+
+Capitalization
+Developing Countries
+0.988***
+(0.013)
+0.004
+(0.009)
+0.0001
+(0.008)
+0.0000
+(0.003)
+− 0.0081
+(0.010)
+0.0031
+(0.003)
+
+0.088
+(0.125)
+0.006(0.115)
+0.107(0.112)
+681
+43
+40
+Yes
+49554.01
+0.004
+0.313
+0.247
+
+Turnover
+
+Stock Value Traded
+
+0.992***
+(0.012)
+− 0.008
+(0.010)
+
+0.988***
+(0.013)
+0.001
+(0.005)
+
+0.002
+(0.009)
+
+0.001
+(0.006)
+
+0.009
+(0.006)
+0.004
+(0.003)
+− 0.001
+(0.003)
+
+0.065
+(0.122)
+0.136(0.110)
+− 0.021(0.094)
+678
+44
+40
+Yes
+123747.43
+0.004
+0.480
+0.168
+
+0.004
+(0.004)
+0.001
+(0.002)
+− 0.0004
+(0.002)
+0.115
+(0.141)
+0.019(0.022)
+− 0.004(0.027)
+690
+44
+40
+Yes
+115044
+0.004
+0.339
+0.251
+
+Note: The robust standard errors are in parenthesis with ***, ** and * denoting significance at 1%, 5% and 10% respectively. Details of variables are; lnGDPPCt-1 is the
+log of Gross Domestic Product per capita, lnGORt-1 is the log of government oil revenue investment, lnPORt-1 is the log of private oil revenue investment, lnCAPt-1is the
+log of stock market capitalization as a percentage of GDP, lnTURNt-1 is the log of stock market turnover ratio as a percentage of GDP, lnSTMVTt-1is the log of stock
+market total value traded as a percentage of GDP. Where lnGORt-1*CAPt-1 is the interaction between government oil revenue investment and stock market capital­
+ization; lnPORt-1*CAPt-1 the interaction between private oil revenue investment and stock market capitalization; lnGORt-1*TURNt-1 is the interaction between GOR and
+stock market turnover ratio; lnPORt-1*TURNt-1, is the interaction between POR and stock market turnover ratio; lnGORt-1*STMVTt-1is the interaction between GOR and
+stock market total value traded and lnPORt-1*STMVTt-1 between POR and stock market total value traded. We controlled for schooling, democracy, government
+expenditure, inflation, financial openness and population. See appendix A6 for results.
+
+Fig. 1. Estimated impact of government investment of oil revenue on growth evaluated at different percentiles of credit to the private sector and bank credit.
+9
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+Fig. 2. Estimated impact of private investment of oil revenue on growth evaluated at different percentiles of credit to the private sector, bank credit and
+Money Supply.
+
+the oil industry where having several oil wells located in different lo­
+cations and countries reduces significantly the risk exposures of the oil
+drilling firms. This among other things suggest that most of the oil
+revenues will be repatriated to enable additional prospecting for wells in
+other jurisdictions to minimise risk, especially if the sector is dominated
+by foreign oil firms. In such a case a well-developed financial system
+promotes efficient intermediation to enable such huge transfers to be
+made by IOCs.
+
+spending due to oil rent does not lead to economic growth. However, its
+total effect is positive and significant via the development of the banking
+sector. This, in turn, leads to economic growth all other things being
+equal. This finding is consistent with (Moradbeigi and Law, 2017; Jarrett
+et al., 2019).
+Secondly, the results suggest a positive and significant relationship
+between the share of private oil revenues investment and economic
+growth. This means that private investment of the oil revenues may
+improve citizens’ welfare due to direct provisions of jobs. However, our
+interest is on the total effects. We find a negative but significant rela­
+tionship between the shares of private oil revenues investment condi­
+tional on banking sector development across the three proxies. This
+means that banking sector development has a direct damping effect on
+economic growth in the spirit of private sector oil revenue investment
+(Nili and Rastad, 2007). This means that repatriation of oil rent by IOCs
+to parent companies might be prevalent even in the face of banking
+sector development. This may be surprising but it is in line with the
+
+5. Discussion
+First, our results suggest that the impact of the share of government
+oil revenue investment on growth is negative. This finding could be
+attributed to the rent-seeking behaviour of political actors who may
+award a contract to political cronies whose activities may not be growthenhancing. This finding is supported by Aregbeyen and Kolawole (2015)
+and Fuinhas et al. (2015) who collectively argue that government
+10
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+structure of the extractive industry, which is generally capital intensive
+and relied heavily on skill labour, which most oil abundant countries
+lack. Suggesting that the needed capital and technical labour has to be
+imported and therefore their rewards will be sent back to their home
+countries. With a well-developed and efficient banking sector, it rather
+facilitates this process rather than inhibit it. This finding is supported by
+Nili and Rastad (2007) who noted that the activities of private sector
+investment in oil-producing countries are not beneficial to economic
+growth in the presence of financial development.
+Thirdly, the impact of government investment of oil revenues on
+economic growth conditional on stock market development is insignif­
+icant for all the proxies for stock market development except the case of
+stock market turnover ratio. Similarly, we find the private investment of
+oil revenues to be insignificant for all proxies including the total effects.
+What this means is that the stock market does not play a major role in the
+economic growth of oil-producing countries. It could probably be that
+oil firms are not listed in oil-producing countries local bourse. Addi­
+tionally, if they are listed, citizens may not be participating in the stock
+market and as such it does not improve their welfare. However, the
+provision of liquidity by the stock market can marginally translate into
+economic growth via turnover ratio. This is because businesses and in­
+dividual citizens who participate in the stock market can have access to
+their funds if they want to sell their shares and undertake other pro­
+ductive activities within the economy.
+
+invested by the government and the private sector and the interaction
+term with banking sector development are significant factors for eco­
+nomic growth, where the total government investment on growth is
+positive conditional on the level of banking sector development. The
+positive effect increase as banking sector development improves. In the
+case of private sector investment, the total effect is negative conditional
+on the level of banking sector development. The magnitude of the
+negative effect increases as the level of banking sector development
+improves.
+The second important finding is that the impact of government in­
+vestment of oil revenue on economic growth, conditional on the level of
+stock market development is generally insignificant and not different
+from zero for all except in the case of turnover ratio, where it is signif­
+icant at the 10 percent for government investment of oil revenues.
+Suggesting that, in general, the influence of stock market development
+on the effectiveness of private sector investment of oil revenue in the
+domestic economy is at best minimal.
+The findings of this study have some implications for policy. We
+observe that a strong banking sector is a necessary and sufficient con­
+dition for economic growth in oil-producing countries via government
+investment of its share of oil revenue. Oil-producing countries should
+focus on developing their banking sector. Also, there is the need for
+strong monitoring procedures for International Oil Companies (OICs)
+who work in the upstream oil-producing countries regarding the way
+they move their funds in and out of the host country since it does not
+contribute much to the economy of the host country. Finally, oilproducing countries should pay more attention to developing their
+stock markets since its development can have a potential effect on
+economic growth both in the medium to the long-term growth trajectory
+of their countries’ economies.
+
+6. Conclusion and policy implications
+In this study, we revisit the oil revenues-economic growth nexus
+literature. We contribute to the literate by moving away from studying
+the direct relationship between oil revenues and economic growth to
+include sustainable management of oil revenues by government and the
+private sector and how that contributes to economic growth. We also
+assess the potential influence of financial market development and how
+that influences the effect of oil revenue management on economic
+growth.
+Our study sourced data from Global Financial Development Data­
+base, International Monetary Fund, World Development Indicators,
+Polity IV index and others from the period 1990–2015. Using the PVAR
+framework, we determine the relative contribution of government in­
+vestment of oil rent and private investment of oil rent in the domestic
+economy in which we call oil revenue management in this study. We
+also compute alternative measures by taking the ratio of government
+and private investments to the oil rent respectively. We then use these
+shares to estimate the causal effect of oil revenue management on eco­
+nomic growth via the channel of the banking sector and stock markets
+development using a two-step system GMM model. However, our re­
+ported results and discussion are based on the predicted outcome of the
+PVAR because it is fitted as a causal model for investment that allows for
+a dynamic structure in the estimation process as suggested by invest­
+ment theory.
+We arrive at interesting findings, first, the share of oil revenue
+
+CRediT authorship contribution statement
+Jabir Ibrahim Mohammed: Conceptualization, Writing - original
+draft, Writing - review & editing. Amin Karimu: Methodology. Vera
+Ogeh Fiador: Writing - review & editing. Joshua Yindenaba Abor:
+Conceptualization.
+Declaration of competing interest
+There is no conflict of interest arising from this study.
+Acknowledgments
+Jabir Ibrahim Mohammed, is grateful to the Ghana Education Trust
+Fund (GetFund) for financial support for his PhD studies. We will also
+acknowledge the seminar participants of Department of Finance, Uni­
+versity of Ghana Business School for their inputs. We would like to thank
+the editor and the two anonymous referees who provided constructive
+comments on this paper.
+
+Appendix C. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.resourpol.2020.101832.
+
+11
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+APPENDIX A
+Table A1
+PVAR Estimates to predict the shares of government and private investment
+lnPIPt-1
+lnOilrentt-1
+lnGIPt-1
+lngdpcap
+Inflation
+Observations
+J-Stats
+P-value
+
+lnPIP
+
+lnOilrent
+
+lnGIP
+
+0.952***
+(0.049)
+0.032**
+(0.016)
+0.044
+(0.028)
+− 0.070**
+(0.034)
+− 0.005
+(0.070)
+1681
+279.820
+0.000
+
+− 0.365**
+(0.128)
+0.598***
+(0.050)
+− 0.591***
+(0.082)
+-.334**
+(0.095)
+− 0.182**
+(0.026)
+1681
+
+0.022
+(0.050)
+0.031*
+(0.017)
+0.837***
+(0.042)
+− 0.059
+(0.043)
+− 0.031**
+(0.012)
+1681
+
+Table A2
+Eigenvalue for Stability Test of the PVAR model
+Real
+
+Imaginary
+
+Modulus
+
+0.917
+0.735
+0.735
+
+0.000
+0.085
+− 0.085
+
+0.916
+0.740
+0.740
+
+Model 3
+
+Model 4
+
+Table A3
+Oil Revenue, Banking Sector Development and Economic Growth- Ratio
+Variables
+lnGDPPCt-1
+lnGORt-1
+lnPCt-1
+lnGORt-1*lnPCt-1
+lnPORt-1
+lnPORt-1*lnPCt-1
+lnBCt-1
+
+Model 1
+Full Sample
+0.948***
+(0.024)
+− 0.089**
+(0.036)
+0.038***
+(0.013)
+0.0227**
+(0.009)
+0.0817**
+(0.035)
+− 0.022**
+(0.009)
+
+lnGORt-1*lnBCt-1
+lnPORt-1*lnBCt-1
+lnM2t-1
+
+Model 2
+0.948***
+(0.023)
+− 0.073**
+(0.035)
+
+0.965***
+(0.023)
+− 0.114**
+(0.055)
+
+0.067*
+(0.034)
+
+0.118**
+(0.053)
+
+0.036***
+(0.014)
+0.019**
+(0.009)
+− 0.018**
+(0.009)
+
+lnGORt-1*lnM2t-1
+lnPORt-1*lnM2t-1
+Constant
+Total Effects (GOR)
+Total Effects (POR)
+Observations
+Groups
+Instruments
+Time Dummies
+F-Test
+AR (1)
+AR (2)
+Hansen Test
+
+0.288*
+(0.169)
+1.004**(0.410)
+− 0.955**(0.395)
+1226
+78
+60
+Yes
+3833.07
+0.006
+0.286
+0.390
+
+0.334**
+(0.164)
+0.834**(0.381)
+− 0.798**(0.371)
+1207
+78
+60
+Yes
+4737.2
+0.011
+0.513
+0.620
+
+0.034**
+(0.016)
+0.028**
+(0.013)
+− 0.029**
+(0.012)
+0.143
+(0.164)
+1.328**(0.611)
+− 1.382**(0.586)
+1084
+71
+59
+Yes
+5761.03
+0.004
+0.328
+0.220
+
+Developing Countries
+0.952***
+(0.028)
+− 0.082**
+(0.036)
+0.036***
+(0.013)
+0.020*
+(0.010)
+0.077**
+(0.034)
+− 0.020**
+(0.009)
+
+0.287
+(0.208)
+0.606*(0.310)
+− 0.606**(0.279)
+957
+62
+60
+Yes
+4794.4
+0.009
+0.331
+0.353
+
+Model 5
+
+Model 6
+
+0.926***
+(0.039)
+− 0.076
+(0.058)
+
+0.950***
+(0.041)
+− 0.130*
+(0.075)
+
+0.073
+(0.056)
+
+0.134*
+(0.072)
+
+0.046**
+(0.020)
+0.018
+(0.017)
+− 0.020
+(0.015)
+
+0.472*
+(0.265)
+0.539(0.497)
+− 0.580(0.460)
+946
+62
+60
+Yes
+3560.95
+0.018
+0.592
+0.252
+
+0.034*
+(0.019)
+0.032*
+(0.019)
+− 0.033*
+(0.017)
+0.220
+(0.288)
+1.323*(0.780)
+− 1.386*(0.720)
+925
+61
+59
+Yes
+6447.59
+0.008
+0.415
+0.202
+
+Note: The robust standard errors are in parenthesis with ***, ** and * denoting significance at 1%, 5% and 10% respectively. Details of variables are; lnGDPPCt-1 is the
+log of Gross Domestic Product per capita, lnGORt-1 is the log of government oil revenue investment, lnPORt-1 is the log private oil revenue investment, lnPCt-1is
+domestic credit to the private sector as a percentage of GDP, lnBCt-1is bank credit to the private sector as percentage of GDP, lnM2t-1 is the log of money supply. Where
+lnGORt-1*lnPCt-1is the interaction between government oil revenue investment and private credit; lnPORt-1*lnPCt-1 is the interaction between private oil revenue
+investment and private credit; lnGORt-1*lnBCt-1 is the interaction between GOR and bank credit; lnPORt-1*lnBCt-1, is the interaction between POR and bank credit;
+lnGORt-1*lnM2t-1 is the interaction between GOR and money supply and lnPORt-1*lnM2t-1 between POR and money supply. We controlled for schooling, democracy,
+12
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+government expenditure, inflation, financial openness and population. See appendix A5 for control results.
+Table A4
+Oil Revenues, Stock Market Development and Economic Growth-Ratio
+Variables
+lnGDPPCt-1
+lnGORt-1
+lnCAPt-1
+lnGORt-1*CAPt-1
+lnPORt-1
+lnPORt-1*CAPt-1
+lnTURNt-1
+
+Model 1
+Full Sample
+0.980***
+(0.012)
+− 0.035*
+(0.019)
+0.014*
+(0.007)
+0.010*
+(0.005)
+0.034*
+(0.018)
+− 0.010**
+(0.005)
+
+lnGORt-1*TURNt-1
+lnPORt-1*TURNt-1
+lnSTMVTt-1
+
+Model 2
+
+Model 3
+
+0.988***
+(0.013)
+− 0.036***
+(0.013)
+
+0.976***
+(0.018)
+− 0.012**
+(0.005)
+
+0.032***
+(0.011)
+
+0.010**
+(0.004)
+
+0.011***
+(0.004)
+0.010***
+(0.004)
+− 0.009***
+(0.003)
+
+lnGORt-1*STMVTt-1
+lnPORt-1*STMVTt-1
+Constant
+Total Effect (GOR)
+Total Effect (POR)
+Observations
+Groups
+Instruments
+Time Dummies
+F-Test
+AR (1)
+AR (2)
+Hansen Test
+
+0.151
+(0.091)
+0.393*(0.2008)
+− 0.390**(0.191)
+938
+59
+40
+Yes
+9876.07
+0.003
+0.357
+0.102
+
+0.153
+(0.112)
+0.443***(0.162)
+− 0.408***(0.138)
+952
+60
+40
+Yes
+24504.45
+0.002
+0.393
+0.145
+
+0.007*
+(0.004)
+0.004*
+(0.002)
+− 0.003**
+(0.002)
+0.274
+(0.170)
+0.071(0.044)
+− 0.066*(0.037)
+966
+60
+40
+Yes
+14667.62
+0.003
+0.27
+0.212
+
+Model 4
+Developing Countries
+0.991***
+(0.022)
+− 0.024
+(0.015)
+0.007
+(0.009)
+0.007*
+(0.004)
+0.023
+(0.014)
+− 0.007*
+(0.004)
+
+0.039
+(0.215)
+0.252*(0.143)
+− 0.238*(0.140)
+680
+43
+40
+Yes
+71891.96
+0.003
+0.361
+0.1
+
+Model 5
+
+Model 6
+
+0.995***
+(0.019)
+− 0.025*
+(0.014)
+
+0.988***
+(0.018)
+− 0.007
+(0.006)
+
+0.022**
+(0.010)
+
+0.006
+(0.004)
+
+0.007
+(0.005)
+0.008**
+(0.003)
+− 0.007**
+(0.003)
+
+0.057
+(0.193)
+0.289**(0.125)
+− 0.250**(0.100)
+677
+44
+40
+Yes
+67479.05
+0.003
+0.467
+0.168
+
+0.004
+(0.004)
+0.003
+(0.002)
+− 0.002
+(0.002)
+0.132
+(0.199)
+0.031(0.027)
+− 0.026(0.024)
+689
+44
+40
+Yes
+51554
+0.004
+0.345
+0.207
+
+Note: The robust standard errors are in parenthesis with ***, ** and * denoting significance at 1%, 5% and 10% respectively. Details of variables are; lnGDPPCt-1 is the
+log of Gross Domestic Product per capita, lnGORt-1 is the log of government oil revenue investment, lnPORt-1 is the log of private oil revenue investment, lnCAPt-1is the
+log of stock market capitalization as a percentage of GDP, lnTURNt-1 is the log of stock market turnover ratio as a percentage of GDP, lnSTMVTt-1is the log of stock
+market total value traded as a percentage of GDP. Where lnGORt-1*CAPt-1 is the interaction between government oil revenue investment and stock market capital­
+ization; lnPORt-1*CAPt-1 the interaction between private oil revenue investment and stock market capitalization; lnGORt-1*TURNt-1 is the interaction between GOR and
+stock market turnover ratio; lnPORt-1*TURNt-1, is the interaction between POR and stock market turnover ratio; lnGORt-1*STMVTt-1is the interaction between GOR and
+stock market total value traded and lnPORt-1*STMVTt-1 between POR and stock market total value traded. We controlled for schooling, democracy, government
+expenditure, inflation, financial openness and population. See Appendix A6 for control results.
+Table A5
+Controls in the growth model for both the banking sector and stock market development models based on the predictions of the shares
+Variable
+
+Full Sample
+
+Panel A: Banking Sector Development for the predicted data model
+Schooling
+0.002
+0.003
+(0.008)
+(0.007)
+Inflation
+0.000
+0.000
+(0.002)
+(0.002)
+Gov’t Expend.
+0.016
+0.023*
+(0.015)
+(0.013)
+FINOPEN
+0.006
+0.007**
+(0.004)
+(0.004)
+Democracy
+− 0.005
+− 0.006
+(0.010)
+(0.009)
+Population
+− 0.001
+− 0.001
+(0.002)
+(0.002)
+Panel B: Stock Market Development for predicted data model
+Schooling
+− 0.007
+− 0.004
+(0.006)
+(0.005)
+Inflation
+0.000
+− 0.001
+(0.002)
+(0.002)
+Gov’t Expend.
+0.009
+0.009
+(0.013)
+(0.011)
+
+Developing Countries Sample
+− 0.005
+(0.010)
+0.000
+(0.002)
+0.012
+(0.013)
+0.002
+(0.005)
+− 0.003
+(0.008)
+0.000
+(0.003)
+
+0.012
+(0.014)
+0.001
+(0.002)
+0.007
+(0.015)
+0.004
+(0.005)
+− 0.007
+(0.010)
+− 0.002
+(0.003)
+
+0.016
+(0.014)
+0.001
+(0.002)
+0.015
+(0.015)
+0.006
+(0.005)
+− 0.009
+(0.011)
+− 0.002
+(0.003)
+
+0.011
+(0.012)
+0.001
+(0.002)
+0.009
+(0.013)
+0.001
+(0.004)
+− 0.005
+(0.011)
+0.000
+(0.003)
+
+− 0.002
+(0.005)
+0.001
+(0.001)
+0.003
+(0.010)
+
+− 0.005
+(0.012)
+0.001
+(0.003)
+0.013
+(0.012)
+
+− 0.004
+(0.010)
+0.001
+()0.002
+0.005
+(0.013)
+
+− 0.007
+(0.011)
+0.002
+(0.002)
+0.009
+(0.012)
+(continued on next page)
+
+13
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+
+Table A5 (continued )
+Variable
+
+Full Sample
+
+FINOPEN
+
+0.001
+(0.004)
+0.005
+(0.005)
+0.001
+(0.002)
+
+Democracy
+Population
+
+Developing Countries Sample
+0.002
+(0.003)
+0.008*
+(0.005)
+− 0.004
+(0.002)
+
+0.002
+(0.003)
+0.004
+(0.003)
+− 0.002
+(0.003)
+
+0.001
+(0.004)
+0.006
+(0.006)
+0.003
+(0.004)
+
+− 0.001
+(0.003)
+0.007*
+(0.004)
+0.001
+(0.003)
+
+0.001
+(0.003)
+0.004
+(0.004)
+0.002
+(0.004)
+
+Table A6
+Controls in the growth model for both the banking sector and stock market development models based on the ratios
+Variable
+
+Full Sample
+
+Panel C: Banking Sector Development for Ratio Model
+Schooling
+0.004
+(0.012)
+Inflation
+0.001
+(0.003)
+Gov’t Expend.
+0.043**
+(0.021)
+FINOPEN
+0.011*
+(0.006)
+Democracy
+0.001
+(0.013)
+Population
+− 0.002
+(0.004)
+Panel D: Stock Market Development for Ratio Model
+Schooling
+− 0.007
+(0.007)
+Inflation
+0.000
+(0.002)
+Gov’t Expend.
+0.013
+(0.014)
+FINOPEN
+0.002
+(0.004)
+Democracy
+0.003
+(0.006)
+Population
+0.001
+(0.003)
+
+Developing Countries Sample
+0.001
+(0.011)
+0.000
+(0.003)
+0.040*
+(0.020)
+0.011**
+(0.005)
+0.001
+(0.012)
+− 0.003
+(0.004)
+
+− 0.001
+(0.013)
+0.001
+(0.003)
+0.032
+(0.020)
+0.008
+(0.007)
+− 0.001
+(0.009)
+0.000
+(0.003)
+
+0.008
+(0.014)
+0.002
+(0.003)
+0.027
+(0.021)
+0.007
+(0.005)
+− 0.002
+(0.012)
+− 0.003
+(0.004)
+
+0.015
+(0.025)
+0.003
+(0.004)
+0.047
+(0.028)
+0.011
+(0.007)
+− 0.007
+(0.015)
+− 0.006
+(0.006)
+
+0.019
+(0.025)
+0.002
+(0.003)
+0.035
+(0.032)
+0.010
+(0.009)
+− 0.006
+(0.012)
+− 0.002
+(0.004)
+
+− 0.006
+(0.005)
+0.000
+(0.001)
+0.005
+(0.012)
+− 0.001
+(0.003)
+0.007**
+(0.003)
+− 0.002
+(0.002)
+
+− 0.005
+(0.006)
+0.001
+(0.002)
+0.012
+(0.015)
+0.003
+(0.005)
+0.003
+(0.005)
+− 0.002
+(0.004)
+
+− 0.006
+(0.012)
+0.001
+(0.002)
+0.008
+(0.019)
+0.000
+(0.004)
+0.002
+(0.006)
+0.004
+(0.004)
+
+− 0.006
+(0.012)
+0.001
+(0.002)
+0.003
+(0.016)
+− 0.002
+(0.003)
+0.006
+(0.004)
+0.001
+(0.005)
+
+− 0.007
+(0.012)
+0.002
+(0.002)
+0.007
+(0.013)
+0.000
+(0.003)
+0.002
+(0.005)
+0.001
+(0.005)
+
+APPENDIX B. Sample Countries
+‘"Albania"’ ‘"Algeria"’ ‘"Angola"’ ‘"Argentina"’ ‘"Australia"’ ‘"Austria"’ ‘"Azerbaijan"’ ‘"Bahrain"’ ‘"Bangladesh"’ ‘"Belarus"’ ‘"Bolivia"’ ‘"Brazil"’
+‘"Bulgaria"’ ‘"Cameroon"’ ‘"Canada"’ ‘"Chad"’ ‘"Chile"’ ‘"China"’ ‘"Colombia"’ ‘"Congo, Dem. Rep."’ ‘"Congo, Rep."’ ‘"Cote d’Ivoire"’ ‘"Croatia"’ ‘"Czech
+Republic"’ ‘"Denmark"’ ‘"Ecuador"’ ‘"Egypt, Arab Rep."’ ‘"Equatorial Guinea"’ ‘"France"’ ‘"Gabon"’ ‘"Georgia"’ ‘"Germany"’ ‘"Ghana"’ ‘"Greece"’
+‘"Guatemala"’ ‘"Hungary"’ ‘"India"’ ‘"Indonesia"’ ‘"Iran, Islamic Rep."’ ‘"Iraq"’ ‘"Italy"’ ‘"Japan"’ ‘"Kazakhstan"’ ‘"Kuwait"’ ‘"Kyrgystan"’ ‘"Lithuania"’
+‘"Malaysia"’ ‘"Mauritania"’ ‘"Mexico"’ ‘"Mongolia"’ ‘"Morocco"’ ‘"Myanmar"’ ‘"Netherlands"’ ‘"New Zealand"’ ‘"Nigeria"’ ‘"Norway"’ ‘"Oman"’
+‘"Pakistan"’ ‘"Peru"’ ‘"Philippines"’ ‘"Poland"’ ‘"Qatar"’ ‘"Romania"’ ‘"Russian Federation"’ ‘"Saudi Arabia"’ ‘"South Africa"’ ‘"Spain"’ ‘"Sudan"’ ‘"Suri­
+name"’ ‘"Syrian Arab Republic"’ ‘"Thailand"’ ‘"Trinidad and Tobago"’ ‘"Tunisia"’ ‘"Turkey"’ ‘"Ukraine"’ ‘"United Arab Emirates"’ ‘"United Kingdom"’
+‘"United States"’ ‘"Venezuela, RB′′′ ‘"Vietnam"’ ‘"Yemen, Rep."’
+
+References
+
+Atil, A., Nawaz, K., Lahiani, A., Roubaud, D., 2020. Are natural resources a blessing or a
+curse for financial development in Pakistan? The importance of oil prices, economic
+growth and economic globalization. Resour. Pol. 67, 101683.
+Badeeb, R.A., Lean, H.H., Smyth, R., 2016. Oil curse and finance–growth nexus in
+Malaysia: the role of investment. Energy Econ. 57, 154–165.
+Badeeb, R.A., Lean, H.H., Clark, J., 2017. The evolution of the natural resource curse
+thesis: a critical literature survey. Resour. Pol. 51, 123–134.
+Baltagi, B.H., Demetriades, P.O., Law, S.H., 2009. Financial development and openness:
+evidence from panel data. J. Dev. Econ. 89 (2), 285–296.
+Barro, R.J., 1997. Determinants of Economic Growth: A Cross-Country Empirical Study.
+MIT Press, Cambridge, MA.
+Bhattacharyya, S., Collier, P., 2013. Public capital in resource-rich economies: is there a
+curse? Oxf. Econ. Pap. 66 (1), 1–24.
+Blundell, R., Bond, S., 1998. Initial conditions and moment restrictions in dynamic panel
+data models. J. Econom. 87, 115–143.
+Cavalcanti, T.V.V., Mohaddes, K., Raissi, M., 2011. Does oil abundance harm growth?
+Appl. Econ. Lett. 18 (12), 1181–1184.
+Chinn, M.D., Ito, H., 2008. A new measure of financial openness. J. Comp. Pol. Anal. 10
+(3), 309–322.
+Cockx, L., Francken, N., 2014. Extending the concept of the resource curse: natural
+resources and public spending on health. Ecol. Econ. 108, 136–149.
+Cockx, L., Francken, N., 2016. Natural resources: a curse on education spending? Energy
+Pol. 92, 394–408.
+
+Lutkepohl, H., 2005. New Introduction to Multiple Time Series Analysis. Springer,
+Science & Business Media, New.
+Abrigo, M.R., Love, I., 2016. Estimation of panel vector autoregression in Stata. STATA J.
+16 (3), 778–804.
+Acemoglu, D., Johnson, S., Robinson, J.A., 2005. Institutions as a fundamental cause of
+long-run growth. Handb. Econ. Growth 1, 385–472.
+Apergis, N., Payne, J.E., 2014. The oil curse, institutional quality, and growth in MENA
+countries: evidence from time-varying cointegration. Energy Econ. 46, 1–9.
+Aregbeyen, O., Kolawole, B.O., 2015. Oil revenue, public spending and economic growth
+relationships in Nigeria. J. Sustain. Dev. 8 (3), 113.
+Arellano, M., Bond, S., 1991. Some tests of specification for panel data: Monte Carlo
+evidence and an application to employment equations. Rev. Econ. Stud. 58,
+277–297.
+Arezki, R., Brückner, M., 2011. Oil rents, corruption, and state stability: evidence from
+panel data regressions. Eur. Econ. Rev. 55 (7), 955–963.
+Arslanalp, S., Bonhorst, E., Gupta, S., Sze, E., 2010. “Public capital and growth,” IMF
+working paper 10/175, july, international monetary fund, Washington, DC.
+Available online at: https://www.imf.org/external/pubs/ft/wp/2010/wp10175.pdf
+(2010).
+
+14
+
+J.I. Mohammed et al.
+
+Resources Policy 69 (2020) 101832
+Marshall, M., Gurr, T.R., Jaggers, K., 2019. Polity IV project: political regime
+characteristics and transitions, 1800-2018. dataset). Center for Systemic Peace.
+Accessed. (Accessed 20 October 2019).
+Mehrara, M., 2008. The asymmetric relationship between oil revenues and economic
+activities: the case of oil-exporting countries. Energy Pol. 36 (3), 1164–1168.
+Moradbeigi, M., Law, S.H., 2016. Growth volatility and resource curse: does financial
+development dampen the oil shocks? Resour. Pol. 48, 97–103.
+Moradbeigi, M., Law, S.H., 2017. The role of financial development in the oil-growth
+nexus. Resour. Pol. 53, 164–172.
+Nili, M., Rastad, M., 2007. Addressing the growth failure of the oil economies: the role of
+financial development. Q. Rev. Econ. Finance 46 (5), 726–740.
+Romer, P.M., 1990. Endogenous technological change. J. Polit. Econ. 98 (5), S71–S102.
+Roodman, D., 2009. How to do xtabond2: an introduction to difference and system GMM
+in Stata. STATA J. 9 (1), 86–136.
+Sachs, J.D., Warner, A.M., 1995. Natural Resource Abundance and Economic Growth (No.
+W5398). National Bureau of Economic Research.
+Sachs, J.D., Warner, A.M., 1999. The big push, natural resource booms and growth.
+J. Dev. Econ. 59 (1), 43–76.
+Sachs, J.D., Warner, A.M., 2001. The curse of natural resources. Eur. Econ. Rev. 45 (4–6),
+827–838.
+Samargandi, N., Fidrmuc, J., Ghosh, S., 2014. Financial development and economic
+growth in an oil-rich economy: the case of Saudi Arabia. Econ. Modell. 43, 267–278.
+Shahbaz, M., Naeem, M., Ahad, M., Tahir, I., 2018. Is natural resource abundance a
+stimulus for financial development in the USA? Resour. Pol. 55, 223–232.
+Sun, H.P., Sun, W.F., Geng, Y., Yang, X., Edziah, B.K., 2019. How does natural resource
+dependence affect public education spending? Environ. Sci. Pollut. Control Ser. 26
+(4), 3666–3674.
+Van der Ploeg, F., Poelhekke, S., 2010. The pungent smell of “red herrings”: subsoil
+assets, rents, volatility and the resource curse. J. Environ. Econ. Manag. 60 (1),
+44–55.
+Van der Ploeg, F., Venables, A.J., 2011. Harnessing windfall revenues: optimal policies
+for resource-rich developing economies. Econ. J. 121 (551), 1–30.
+Windmeijer, F., 2005. A finite sample correction for the variance of linear efficient twostep GMM estimators. J. Econom. 126, 25–51.
+
+Deacon, R., Rode, A., 2012. Rent. Seek. Resour. Curse (Available at: http://www.econ.
+ucsb.edu/~deacon/RentSeekingResourceCurse%20Sept%2026.pdf.
+Erdoğan, S., Yıldırım, D.Ç., Gedikli, A., 2020. Natural resource abundance, financial
+development and economic growth: an investigation on Next-11 countries. Resour.
+Pol. 65, 101559.
+Eregha, P.B., Mesagan, E.P., 2016. Oil resource abundance, institutions and growth:
+evidence from oil-producing African countries. J. Pol. Model. 38 (3), 603–619.
+Farzanegan, M.R., 2011. Oil revenue shocks and government spending behaviour in Iran.
+Energy Econ. 33 (6), 1055–1069.
+Fuinhas, J.A., Marques, A.C., Couto, A.P., 2015. Oil rents and economic growth in oilproducing countries: evidence from a macro panel. Econ. Change Restruct. 48 (3–4),
+257–279.
+Gylfason, T., Zoega, G., 2002. ‘Natural Resources and Economic Growth: the Role of
+Investment’. Working Paper 142. Chile: Central Bank of Chile.
+Hamdi, H., Sbia, R., 2013. Dynamic relationships between oil revenues, government
+spending and economic growth in an oil-dependent economy. Econ. Modell. 35,
+118–125.
+Hamilton, J.D., 1994. Time series analysis 2, 690–696.
+Hodler, R., 2006. The curse of natural resources in fractionalized countries. Eur. Econ.
+Rev. 50 (6), 1367–1386.
+James, A., 2015. The resource curse: a statistical mirage? J. Dev. Econ. 114, 55–63.
+Jarrett, U., Mohaddes, K., Mohtadi, H., 2019. Oil price volatility, financial institutions
+and economic growth. Energy Pol. 126, 131–144.
+Karimu, A., Adu, G., Marbuah, G., Mensah, J.T., Amuakwa-Mensah, F., 2017. Natural
+resource revenues and public investment in resource-rich economies in sub-saharan
+Africa. Rev. Dev. Econ. 21 (4), 107–130.
+Kim, D.H., Lin, S.C., 2017. Natural resources and economic development: new panel
+evidence. Environ. Resour. Econ. 66 (2), 363–391.
+Levine, R., Zervos, S., 1998. Stock markets, banks, and economic growth. Am. Econ. Rev.
+537–558.
+Lucas Jr., R.E., 1988. On the mechanics of economic development. J. Monetary Econ. 22
+(1), 3–42.
+
+15
+
+

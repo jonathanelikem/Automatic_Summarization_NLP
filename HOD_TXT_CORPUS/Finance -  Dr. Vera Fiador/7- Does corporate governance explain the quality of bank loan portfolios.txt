@@ -1,0 +1,850 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/1757-6385.htm
+
+Does corporate governance
+explain the quality of bank
+loan portfolios?
+
+Quality of
+bank loan
+portfolios
+
+Evidence from an emerging economy
+Vera Fiador and Emmanuel Sarpong-Kumankoma
+Department of Finance, University of Ghana Business School, Accra, Ghana
+
+Received 25 June 2019
+Revised 26 December 2019
+Accepted 23 January 2020
+
+Abstract
+Purpose – The purpose of this study is to assess the impact of corporate governance variables on the
+quality of bank loan portfolios.
+
+Design/methodology/approach – The study used a panel-corrected standard errors estimation model
+with the most recent 11-year data from 2006 to 2016 on selected Ghanaian banks.
+
+Findings – The ﬁndings indicate that corporate governance is relevant within the banking sector and plays
+a key role in improving loan quality. Having a large board with the attendant pool of expertize, boards with
+mostly non-executive members and duality of the CEO-board chair can be harnessed to improve bank loan
+quality. Female participation on boards seems to detract from good performance, creating the impression of
+tokenism in the Ghanaian banking sector.
+Originality/value – The study has important implications for board construction within the banking
+sector and the discourse on bank asset quality.
+
+Keywords Corporate governance, Asset quality, Bank loan quality, Banking sector,
+Gender diversity, Non-performing loans, NPLs, Banks, Financial institutions and services,
+Corporate ﬁnance and governance
+Paper type Research paper
+
+1. Introduction
+In recent times, non-performing loans (NPLs) have been the bane of many banks and were
+essentially the major trigger in the 2007 ﬁnancial crisis. Post the 2007 crisis as well, bank
+insolvency has been a signiﬁcant problem in many countries all over the world. One of the
+main reasons for the insolvency of banks is asset quality deterioration.
+Banks, in general, are known to be in the business of managing risks in the pursuit of
+proﬁts, and key among these risks is credit risk. An increase in the non-performing portion
+of a bank’s loan portfolio is ultimately an increase in the bank’s exposure to credit risk, and
+this exposure has, among other effects, the potential to cause a shrink in the bank’s
+willingness and capacity to generate loans and also affect the soundness of the industry.
+The ﬁnance-growth debate (Levine, 2003) makes a case for a sound banking system. In
+essence, when bank intermediation is efﬁcient, costs of capital drop within an economy with
+the ultimate effects rippling through capital accumulation to economic growth. Factors
+identiﬁed as inﬂuencing the capacity of banks to conduct efﬁcient intermediation have,
+therefore, received signiﬁcant research attention in recent decades. In the wake of the 2007
+ﬁnancial crisis particularly, corporate governance emerged to the forefront as one of the
+contributing factors to the ﬁnancial crisis. Corporate governance has, over the years, been
+touted as one very important mechanism for facilitating efﬁcient and value-maximizing
+
+Journal of Financial Economic
+Policy
+© Emerald Publishing Limited
+1757-6385
+DOI 10.1108/JFEP-06-2019-0130
+
+JFEP
+
+decisions (Bertrand and Mullainathan, 2003; Giroud and Mueller, 2010; Shleifer and Vishny,
+1997; Tirole, 2001).
+According to Levine (2003), however, the ﬁnancial opacity and tight governmental
+regulation of banks render many of the traditional mechanisms of governance weak. This
+raises the empirical question of whether the internal corporate governance structures among
+banks have any relation whatsoever with a bank’s NPL portfolio or they are just plain
+irrelevant? This question motivates the study, which seeks to establish, among other
+determinants of bank loan quality, the role of corporate governance. In other words, the
+study seeks to examine the role of corporate governance characteristics such as board size
+(BS), leadership consolidation, gender diversity (GEND) and board independence (BC) on the
+asset quality of banks. The underlying assumption of this argument is that better-governed
+banks are more likely to conduct a rigorous review of their investments, and thus, maintain
+sound loan proﬁles. It is also extremely important that banks in a developing economy
+context like Ghana are cognizant of the plausible drivers of NPLs so as to effectively manage
+the loan portfolio and to reduce the incidence of loan defaults. This is especially important
+because the Ghanaian economy is mostly bank-dependent such that any instability in the
+banking sector could prove catastrophic for the economy.
+The rest of the work is structured as follows: Section 2 reviews literature on corporate
+governance and loan portfolio management among banks along with determinants of bank
+loan quality. Section 3 addresses the methodological issues while the ﬁndings and
+discussions are presented in Section 4. Finally, Section 5 looks at the conclusions arrived at
+and the recommendations for the advancement of bank loan administration.
+2. The literature: non-performing loans, corporate governance and related
+issues
+The literature on the factors that drive NPLs in the books of banks has received widespread
+research interest in recent years. Many such studies have characterized NPL determinants
+into internal or bank-speciﬁc factors and external or macroeconomic factors (Dash and
+Kabra, 2010; Espinoza and Prasad, 2010). On the one hand, the bank-speciﬁc indicators are
+variables such as the return on assets, solvency, interest rates on deposit or loans among
+others, which are directly under the control of the bank management. On the macroeconomic and structural (systemic) side, indicators such as the growth rate, real interest rate,
+real exchange rate, inﬂation rate, unemployment rate, political climate, instances of global
+ﬁnancial depression, banks level of maturity, money supply and economic policy, also
+inﬂuence the incidence of NPLs.
+The empirical literature has also been largely supportive of certain standardized
+associations between the documented determinants of NPLs and their effects. In the area of
+macroeconomic determinants, the conventional wisdom posits that an improvement in the
+macroeconomic environment has positive implications for NPLs. Studies such as Salas and
+Saurina (2002), Fofack (2005), Jimenez and Saurina (2006) and Dash and Kabra (2010) ﬁnd
+that an improvement in economic growth and employment results in higher income, which
+ultimately reﬂects in a reduced incidence of bad debts. The interest rate effect on NPLs
+seems to be more visible under ﬂoating rate regimes, thus, an increase in interest rates
+increases interest obligations and increases the likelihood of default. Fofack (2005), with a
+focus on sub-Saharan Africa, further argues that economic growth and the real rate of
+interest are very signiﬁcant in explaining NPLs in the region and this is mainly because of
+the undiversiﬁed environment of some of the economies and their high exposure to external
+shocks. Turning to the Spanish banking sector, Jimenez and Saurina (2006) also show that
+NPLs are explained by gross domestic product (GDP) growth, real interest rates and credit
+
+conditions while Khemraj and Pasha (2009), using evidence from Guyana, ﬁnd that with an
+appreciation of the local currency the NPL portfolios of commercial banks are likely to be
+higher.
+On the side of the banking sector speciﬁcs, Louzis et al. (2010), using dynamic panel data,
+show that aside from the macroeconomic determinants, quality of bank management is also
+a signiﬁcant determinant of NPLs. Other bank-speciﬁc determinants of NPLs are bank size,
+efﬁciency, credit terms, bank market power and risk proﬁles. Hu et al. (2004) for instance
+studied the impact of size and ownership structure on NPLs. They report that government
+ownership reduces NPLs and so does bank size. Similarly, Tarchouna et al. (2017) combine
+principal component analysis and GMM estimation to determine the effects of the corporate
+governance system on NPLs of US commercial banks. They report that small banks have a
+sound corporate governance system that reduces their NPLs. On the other hand, the
+corporate governance system of medium and large US commercial banks are not sufﬁciently
+robust to protect them from excessive risk-taking that damages their loan quality, especially
+during the ﬁnancial crisis.
+The role of corporate governance as a major tool used to align corporate management
+interests to that of shareholders has been studied extensively (pioneering studies such as
+Fama and Jensen, 1983a). Corporate governance, per Mensah et al. (2003), is the set of
+arrangements through which organizations account for shareholders and the general public.
+They go further to indicate that sound corporate governance facilitates development by
+ensuring efﬁcient allocation of economic resources. Corporate governance is regarded as a
+means of addressing the agency conﬂicts between management and shareholders of the
+ﬁrm. Corporate governance issues have recently gained prominence among regulators and
+corporate society at large. At the core of the corporate governance, discussion is the
+corporate board, whose most important job is to limit managers’ self-serving behaviour in
+the event that the company’s managers and owners have conﬂicting goals (Eisenhardt,
+1989). The corporate board, therefore, serves as the link between the providers of capital and
+the users and is seen as the primary means for shareholders to exercise control on top
+management (John and Senbet, 1998). The board has the obligation to determine the ﬁrm’s
+overall strategy and to ensure that adequate controls are in place to protect shareholder
+value (Keenan, 2004).
+2.1 Corporate governance, bank loan quality and bank risky behaviour
+The effectiveness of the corporate board’s monitoring role on loan portfolio quality in banks
+has diverse beneﬁts for a number of interest groups in the particular case of banks. The
+boards of banks, like all other boards, are responsible for the management of the banks and
+being up to date on the speciﬁc types of risks associated with the banks’ decisions and
+operations.
+The importance of a responsible and participative board, as far as bank management is
+concerned, also emerges from the framework of the prudential supervision regulations
+(Basel 2, Pillar II), which qualiﬁes the board as “the apex body of the internal governance
+system”. This implies that the board may be given the task of supervising all the risks of the
+banking business. Moreover, besides the governance aspects, bank boards also have the role
+of credit risk control committees, with the task of expressing opinions on any signiﬁcant
+credit risks in the bank portfolios.
+Given the recent trends in the behaviour of operators and the current credit market
+environment, the relationship between bank governance and risk-taking has assumed
+crucial importance. Given the renewed attention on the board of governance in banks with
+the global ﬁnancial crisis, the study investigates the relevance of board structure (size,
+
+Quality of
+bank loan
+portfolios
+
+JFEP
+
+composition, GEND and CEO duality) in banks to their performance especially in relation to
+loan quality.
+2.2 Board characteristics and performance
+2.2.1 Size. There are mixed views on how BS impacts ﬁrm performance, according to
+agency theory. On one hand is the argument that a larger board of directors is beneﬁcial to
+improved performance because it boosts the collection of expertise and resources accessible
+to a ﬁrm (Dalton et al., 1999). On the other hand, Hermalin and Weisbach (2003) argue that
+the consensus in the economic literature is that a larger board will impair ﬁrm performance,
+and as Jensen (1993) argues, this is because as BS increases, the boards’ ability to monitor
+management decreases due to a greater propensity for shirking and an increase in decisionmaking time. Yermack (1996) reports that a larger board is composed of experts from
+various ﬁelds; however, an excessively large board will drag down the efﬁciency of the
+board and also the effectiveness of corporate governance mechanisms. Given the unique
+operating environment of banks, bank boards tend to be larger than boards in other
+industries. Adams and Mehran (2003, 2005) ﬁnd that banks have larger boards because of
+their complex organizational structure and presence of more committees such as lending
+and credit risk committees. Furthermore, the expectation is a positive linear relationship
+between bank BS and bank performance. It is argued that loan quality increases with BS,
+especially as a larger board might bring more expertize and increase the potential of
+establishing contacts with diverse customers and depositors. However, the relationship
+becomes negative when the board becomes too large, which might impair bank performance
+because of a lack of efﬁcient monitoring by the board and increased agency conﬂicts.
+2.2.2 Board composition. One of the central themes regarding the board’s governance
+role revolves around the independence of directors. Within the banking space, BC plays the
+role of counterbalancing the executives and management, promoting the proper functioning
+of the board and stimulating internal dialogue while reducing the areas of greater conﬂict of
+interest in the bank. Many empirical studies conﬁrm that an independent board of directors
+has fewer conﬂicts of interest when monitoring managers. Insider representation, in contrast
+to BC, is the presence of a majority of non-independent or afﬁliated directors and such
+directors are less likely to be independent of the CEO or other top executives. In the agency
+framework, the decision-making of non-independent directors is likely to be affected by
+managers, which might increase managerial entrenchment. Concerning a majority of
+insiders on the board of directors, Baysinger and Butler (1985) found that companies
+perform worse if their boards have more insider representations, and Klein (2002) found a
+lower presence of abnormal accruals when the board had more than a majority of outside
+directors. Executive members on the board, however, can also enhance performance because
+they bring internal and ﬁrm-speciﬁc knowledge to board decision-making, thus allowing for
+more tailored decisions. In fact, some past studies have documented a negative relationship
+between BC and ﬁrm performance in emerging markets, for example, in Bangladesh (Rashid
+et al., 2010) and in Pakistan (Ahmad et al., 2016). These studies typically refer to the fact that
+while independent directors increase the quality of monitoring, they may lack sufﬁcient
+knowledge of ﬁrm-speciﬁc information, leading to sub-optimal decisions. Duchin et al. (2010)
+examine whether the effectiveness of outside directors is inﬂuenced by how difﬁcult it is for
+outsiders to acquire expertize about the company. They ﬁnd that if the cost of acquiring
+information is low, performance increases when outside directors are added to the board. If
+on the other hand, the cost is high, performance deteriorates. The conclusion is, thus, as
+follows: the effectiveness of outside directors depends on the “information gap”. However,
+
+some studies have also found that BC has no impact on NPLs (Saha and Ghosh, 2019; Nyor
+and Mejabi, 2013).
+2.2.3 CEO duality. Agency theory argues that separating the roles of CEO and chairman
+of the board can mitigate agency costs. As a leader of the board, the chairman of the board
+has the responsibility for monitoring the CEO’s decision-making and overseeing the process
+of CEO hiring, ﬁring, evaluation and compensation. The combination of the two leadership
+roles of CEO and board chair would, therefore, constrain the effectiveness and objectivity of
+this monitoring role, thus promoting CEO entrenchment and intensifying agency conﬂicts.
+Beasley et al. (1999) ﬁnd that CEO duality (CEODUAL) was involved in 72 per cent of the
+frauds examined by the SEC, and Yermack (1996) ﬁnds that CEODUAL also reduces BC.
+The opacity of banks and the lack of market for control can further weaken the CEO
+discipline, which makes it more important to separate these leadership roles at banking
+ﬁrms. Duality is, thus, considered as a key driver of agency conﬂicts because of reduced
+monitoring and allowing the CEO to act in his or her own interests. The business press
+provides anecdotal evidence that the risky lending decisions were possible because of loose
+oversight and lax boards of directors. For instance, the dual role of CEO and chairman is a
+key characteristic of insider power and is considered an indicator of weak corporate
+governance (Larcker et al., 2007; Yermack, 1996). In their work on the impact of corporate
+governance, Grove et al. (2011) noted that CEODUAL exhibits a negative association with
+loan quality in the long-run.
+2.3 Macro-economic factors
+In the majority of studies that investigate the determinants of NPLs, the aggregate level of
+NPLs is considered and either macroeconomic or bank-speciﬁc determinants are used as
+explanatory variables. Exceptions include Salas and Saurina (2002), who combine
+macroeconomic and microeconomic variables to explain aggregate NPLs of Spanish
+commercial and savings banks for the period 1985-1997. They focus on the NPLs
+determinants for commercial and savings banks and ﬁnd that bank-speciﬁc determinants
+can serve as early warning indicators for future changes in NPLs. Other similar studies
+include Clair (1992) and Gonzalez-Hermosillo et al. (1997). Most empirical studies examine
+the inﬂuence of the macroeconomic environment on NPLs. Rinaldi and Sanchis-Arellano
+(2006) analyse household NPLs for a panel of European countries and provide empirical
+evidence that disposable income, unemployment and monetary conditions have a strong
+impact on NPLs. Berge and Boye (2007) ﬁnd that problem loans are highly sensitive to the
+real interest rates and unemployment for the Nordic banking system over the period 19932005. Boss et al. (2009) examine the coupling of the credit risk of the main Austrian corporate
+sectors with the business cycle.
+2.3.1 Gross domestic product. GDP is one of the key macro-economic factors that have
+the potential to impact every ﬁrm that operates within the larger economy. Lenders, in
+particular, stand to feel the effects of changes in GDP growth faster and seriously because
+they create a bigger risk exposure by lending to various customers across the entire
+economy. The European Central Bank (ECB) (2011) established that GDP growth has been
+the main driver of nonperforming loans during the past decade. One of the earliest empirical
+studies on the causes of loan losses by Keeton and Morris (1987) showed that a substantial
+part of the variation in asset quality was because of differences in economic conditions and
+unusually poor performance in sectors such as agriculture and energy. Baboucek and Jancar
+(2005) found that GDP decelerates NPLs.
+
+Quality of
+bank loan
+portfolios
+
+JFEP
+
+3. Methodology
+To explore the effect of corporate governance on the asset quality of the banking sector, the
+study uses annual data series on a panel of 26 banks[1] in Ghana over 11-year period from
+2006 to 2016. The panel is unbalanced and allows for banks to enter and exit, thus
+eliminating survivor bias from the studies. Panel data regressions were used to ascertain the
+relationship between corporate governance and bank asset quality. Panel data regressions
+usually allow for the control of omitted variable bias that may result from the exclusion of
+unobservable variables. The increased observations also provide more information, and
+hence, precision while allowing for the analysis of economic questions that cannot be
+addressed using time-series or cross-sectional data (Hsiao, 2005). To reduce survivor bias in
+the data set, cross-sectional units without complete data for the entire period were included.
+The data for the study is collected from the annual reports of the banks and the
+macroeconomic data from world development indicators. The explanatory variables used to
+explain asset quality follow the broad literature on the determinants of NPLs (Flamini et al.,
+2009; Kumar et al., 2018; Brownbridge, 1998; Ranjan and Dhal, 2003; Swamy, 2012; and
+others), which posits that NPLs are a function of both bank-speciﬁc and macroeconomic
+variables. The effect of corporate governance on loan quality is, therefore, modelled as a
+function of bank-speciﬁc governance variables and estimated using panel-corrected errors
+because of its ﬁnite sample advantages. The model to be used is speciﬁed as follows:
+AQit ¼ b 0 þ þ b 1 BSit þ b 2 CEODUALit þ b 3 BCit þ b 4 GENDit þ b 5 GDPt þ « it
+Where AQit is asset quality and is a proxied by the provisions for bad and doubtful debt to
+gross loans and NPLs to gross loans, BS represents board size, CEODUAL represents CEO
+duality, BC means proportion of non-executive board members, GEND is gender diversity,
+GDP is gross domestic product and « is the error term, i is ﬁrm and t is time.
+4. Findings and discussions
+This section presents the analysis and discussion of the study ﬁndings. This section deals
+with the summary statistics of the variables under study, the correlation matrix between the
+variables, and ﬁnally, the regression output for the various equations. Table I, which
+presents the descriptive statistics for the variables under study also allows for checking for
+outliers, which hold the potential of affecting the accuracy and consistency of the result. The
+variables exhibit no outliers.
+
+Variable
+
+Mean
+
+SD
+
+Min
+
+Max
+
+AQ1
+AQ2
+BS
+CEODUAL
+BC
+GEND
+GDP
+
+0.0406038
+0.1433603
+9.87096
+0.1004566
+0.7035771
+0.1234781
+0.068724
+
+0.0835839
+0.1041441
+3.718315
+0.3012965
+0.2403988
+0.106281
+0.028965
+
+0.0112118
+0.00017
+4
+0
+0.3
+0
+0.037219
+
+1.203051
+0.582
+23
+1
+0.92
+0.375
+0.140471
+
+Notes: AQ1 is provision for bad and doubtful debt to gross loans, AQ2 is NPLs to gross loans, BS is board
+
+Table I.
+size, CEODUAL is CEO duality, BC is the proportion of non-executive board members, GEND is female
+Descriptive statistics proportion to the full board and GDP is GDP growth
+
+4.1 Summary statistics and correlation
+From the descriptive statistics, banks in Ghana provision an average of 4 per cent of the loan
+portfolio to cater for the possibility of bad and doubtful debt. In some cases, however, this
+can go as high as crossing the entire loan portfolio and more but with others over the period
+making recoveries, and thus, reporting negative provisions. This wide gap within the
+provision statistics obviously speak to very different credit risk exposures within the
+Ghanaian banking sector. In regard to NPLs, the same set of peculiarities emerge.
+While some Ghanaian banks recorded very negligible NPLs, others had more than half
+their loan portfolios becoming non-performing. In terms of BS, the Ghanaian banking
+landscape is characterized by BS’s of 10 members on average with some having as many as
+23 members. Of these board members, approximately 70 per cent are non-executive
+members. In essence, it appears that the banking sector uses a signiﬁcant number of nonexecutive members on its boards. Leadership consolidation, that is, CEO duality, is not a
+very prevalent practice in the banking industry in Ghana. In fact, approximately only 10 per
+cent of industry players have the same person in the positions of board chair and CEO.
+GEND within the banking sector is relatively non-existent. In total, an average of 12.3 per
+cent of bank boards is made up of women. The maximum representation of women on
+banking boards in Ghana is capped at 37.5 per cent. In other words, no board has more than
+40 per cent of its membership being women. In breaking the GEND variable further, it
+emerges that approximately 29 per cent of banking boards are completely devoid of women
+with approximately 90 per cent having a quarter or fewer women representation on the
+board.
+To rule out the possibility of multi-collinearity and spurious regressions, the correlation
+among the variable was examined (Table II). From the matrix, provisions for bad and
+doubtful debts, as a measure of asset quality, are positively but insigniﬁcantly associated
+with the proportion of NPLs to the gross loans’ portfolio. This appears intriguing, given that
+provisions are a precursor to NPLs. The magnitude of association also makes for an
+interesting view of the banking landscape in Ghana. It also appears that BC is positively
+associated with the deterioration of bank asset quality, though this relationship is
+not statistically signiﬁcant. Interestingly, however, CEODUAL, which is considered a nonbest practice in terms of governance seems to be associated with a reduction in asset
+deterioration and this relation is statistically signiﬁcant. GEND appears to worsen asset
+quality while GDP growth improves asset quality in banks. These two relationships are,
+however, not statistically signiﬁcant.
+
+AQ1
+AQ2
+BS
+BC
+CEODUAL
+GEND
+GDP
+
+AQ1
+
+AQ2
+
+BS
+
+BC
+
+CEODUAL
+
+GEND
+
+GDP
+
+1.0000
+0.0519
+0.0823
+0.0188
+0.1981**
+0.1388
+0.0704
+
+1.0000
+0.0042
+0.1182
+0.0462
+0.0764
+0.0768
+
+1.0000
+0.0541
+0.0914
+0.1463
+0.0139
+
+1.0000
+0.2170**
+0.2110**
+0.0538
+
+1.0000
+0.3891***
+0.0057
+
+1.0000
+0.0223
+
+1.0000
+
+Notes: AQ1 is provision for bad and doubtful debt to gross loans, AQ2 is NPLs to gross loans, BS is board
+size, CEODUAL is CEO duality, BC is the proportion of non-executive board members, GEND is female
+proportion to the full board and GDP is GDP growth
+
+Quality of
+bank loan
+portfolios
+
+Table II.
+Correlation matrix
+
+JFEP
+
+Table II also seems to suggest that an increase in BC is likely to be associated with
+CEODUAL but negatively associated with GEND. In other words, when the board chair and
+CEO are the same people, the board is likely to be populated with non-executive members
+but not likely to have a female presence, which also presupposes that women on most bank
+boards are likely to be executive members on the board. The matrix also suggests that in the
+Ghanaian banking sector, an entrenched CEO is not likely to foster GEND on the board.
+4.2 Regression results
+The regression output is presented in Table III. The BS has a negative inﬂuence on the
+deterioration of bank asset quality. In the case of Regression 1, the relationship is
+statistically signiﬁcant, and with considerable economic impact as well. For instance, an
+increase in BS by one standard deviation (3.718) would decrease the provision for bad loans
+(AQ1) by about 0.068 points [(0.00153)  3.718/(0.0836)], all others held constant.
+This indicates that as bank boards get larger, asset quality improves. This ﬁnding seems
+to support the argument by Dalton et al. (1999), for instance, which holds that a larger board
+of directors is beneﬁcial to improved performance because it boosts the collection of
+expertise and resources accessible to a ﬁrm. Intrinsically, this ﬁnding also supports Adams
+and Mehran (2003, 2005), who ﬁnd that banks have larger boards because of their complex
+organization so that a larger board in a bank setting is beneﬁcial.
+CEODUAL, where the CEO also doubles as board chair and which is contrary to best
+practice as far as corporate governance is concerned, shows a beneﬁcial effect on bank asset
+quality across the two estimations. The magnitude of the coefﬁcients suggests that the
+results are also economically signiﬁcant. A standard deviation increase in CEODUAL (0.30)
+would lead to approximately 0.055 and 17.26 points reduction in provision for bad loans
+(AQ1) and NPLs (AQ2), respectively. The ﬁndings suggest that when the CEO and the
+board chair are one and the same person, asset quality improves as a result. In this case, it is
+possible to surmise that the industry and ﬁrm-speciﬁc knowledge that the CEO brings to the
+
+Variable
+BS
+CEODUAL
+BC
+GEND
+GDP
+CONS
+R2
+Wald
+
+Table III.
+Panel corrected
+standard errors
+estimation output
+
+Regression 1
+(AQ1)
+
+Regression 2
+(AQ2)
+
+0.0015313***
+2.67
+0.0152977***
+5.16
+0.0802337***
+4.06
+0.1460154***
+4.71
+0.0882685
+0.74
+0.061887***
+5.62
+0.0394
+30.58***
+
+0.0664048
+0.47
+5.965375***
+7.19
+10.4644*
+1.68
+20.13079***
+3.63
+13.81435
+0.19
+15.24922***
+4.54
+0.096
+273.48***
+
+Notes: Regression 1 has as its dependent variable provision for bad and doubtful debts to gross loans,
+while Regression 2 has NPLs to gross loans as the dependent variable, BS is board size, CEODUAL is CEO
+duality, BC is the proportion of non-executive board members, GEND is female proportion to full board and
+GDP is GDP growth
+
+discussion table in the capacity as chair as well translates into tailored and informed
+decision-making that beneﬁts the bank. Vafeas and Theodorou (1998), Weir et al. (2002),
+Florackis (2005) and Florackis et al. (2009), ﬁnd for the UK that there is a weak positive
+performance effect of CEODUAL and this study seems to support same. Also, the ﬁndings
+are in line with Simpson and Gleason (1999), who assert that a dual CEO-chairman of the
+board is more likely to have the opportunity to pursue his/her personal interests, and is less
+likely to be aligned with the interests of shareholders who prefer greater risk-taking by the
+ﬁrm.
+BC captured as the proportion of non-executive members on the bank’s board emerges as
+a countervailing factor that improves the loan portfolio quality of the banks. Per the results,
+it is beneﬁcial for banks if the board increases its proportion of non-executive membership.
+The coefﬁcient of non-executive members is not only statistically signiﬁcant but also
+economically signiﬁcant. A standard deviation increase in the number of non-executive
+board members (0.24) is associated with a 0.23 and 24.15 points reduction in provision for
+bad loans and NPLs, respectively. This ﬁnding obviously conforms to the standard
+literature (Beasley, 1996; Dechow et al., 1996; Peasnell et al., 2000; Klein, 2002; Davidson
+et al., 2005) on the beneﬁts of having external members on the board. As Peasnell et al. (2000)
+succinctly put it, as outside members do not play a direct role in the management of the
+company, their existence may provide an effective monitoring tool to the board, and thus,
+produce higher quality output.
+Contrary to the conventional wisdom about the positive implications of having a
+gender diverse board, the case of GEND in the banking sector seems to have
+detrimental effects on its loan portfolio quality. From the ﬁndings, it appears that as the
+board becomes more gender diverse, asset quality, whether in terms of provisions for
+bad loans or NPLs begins to deteriorate. In other words, having women on the board
+detracts from good performance. The economic signiﬁcance of this result is also
+important. For instance, a standard deviation increase in female boardroom
+representation (0.11) would lead to 0.18 and 20.52 points increase in provision for bad
+loans and NPLs, respectively. This ﬁnding, however, may be indicative of tokenism,
+where women are placed on boards for the sake of being women but not necessarily
+because of expertize. When this happens, the obvious effect is detraction from good
+performance. The study, thus, goes against the standpoint of Lu and Boateng (2018)
+and Gulamhussen and Santa (2015) that GEND is associated with improved credit risk
+management or moderate risk-taking. The increasing demand for GEND in the
+boardroom and other high levels of decision-making may lead some institutions to
+appoint women who may not have the relevant experience and commitment required
+for effective monitoring. It appears that the pool of talents from which to select
+potential female board members is rather small. Besides, as noted by Medland (2004),
+the informal social network linking directors consists primarily of men, thereby
+depriving even qualiﬁed women of accessing the corporate boardroom. Also, Liu et al.
+(2014) provide evidence that a critical mass may be needed to have the desired impact.
+For instance, they found that boards with three or more women have a greater impact
+on ﬁrm performance as opposed to those who had two or fewer women.
+In terms of how a macroeconomic variable like GDP affects asset quality in the Ghanaian
+banking sector, this study fails to ﬁnd unequivocal evidence to support the position. Across
+the two estimations, for both provisions for bad and doubtful debt and NPLs, GDP is not
+statistically signiﬁcant. This ﬁnding goes against studies such as Baboucak and Jancar
+(2005), who found that GDP decelerates NPLs.
+
+Quality of
+bank loan
+portfolios
+
+JFEP
+
+5. Conclusion and policy implications
+Asset quality has always been a very crucial ingredient in the discourse on bank
+intermediation and the stability of the ﬁnancial services sector. Indeed, the minimization of
+poor asset quality is key to the continued functioning of ﬁnancial intermediation and
+ultimately growth. A number of studies have sought to explain the drivers of deteriorating
+asset quality, especially after the global ﬁnancial crisis of 2007/2008. What has clearly
+emerged is that bank asset quality is a function of both bank-speciﬁc and macroeconomic
+variables. In this paper, the quest was to examine the role of bank-level governance
+characteristics and economic growth on bank asset quality in Ghana. The study, thus,
+examined board-level characteristics such as size, independence, GEND and CEODUAL
+together with GDP growth as determinants of asset quality, which were proxied by
+provision for bad and doubtful loans and NPLs, both scaled by the gross loan portfolio.
+The ﬁndings of the study make a clear case for the relevance of governance in the bank
+asset quality discourse, despite the proposition that bank-level governance may be
+irrelevant in the face of the stringent regulatory framework that governs the conduct of
+banks. The ﬁndings expand the debate on the implications of governance for performance.
+In essence, large boards may be beneﬁcial for banks if it pools the right expertize for the
+purposes of adding value to the bank. It is also important that external membership to
+the board is encouraged to ensure the monitoring role expected of such boards is executed to
+the fullest. The emergence of potential tokenism in the space of GEND and bank
+performance requires further interrogation to truly map out the role of gender within the
+banking sector of Ghana. The increasing demand for GEND in the boardroom may have led
+some institutions to appoint women who may not have the relevant expertize, experience
+and commitment required for effective monitoring. Also, a critical mass of women directors
+may be needed to inﬂuence decision-making in the boardroom. So, whilst the available
+literature may make a business case for GEND, it is unclear in this case whether certain
+factors must prevail to experience the value-additive effect of GEND.
+Note
+1. Full list in Appendix.
+
+References
+Adams, R.B. and Mehran, H. (2003), “Board structure, banking ﬁrm performance and the bank holding
+company organizational form”, Federal Reserve Bank of Chicago Proceedings (No. 866).
+Adams, R.B. and Mehran, H. (2005), “Corporate performance, board structure and its determinants in
+the banking industry”, EFA 2005 Moscow meetings.
+Ahmad, M., Guohui, W., Hassan, M., Naseem, M. and Rehman, R. (2016), “NPL and corporate
+governance: a case of banking sector of Pakistan”, Accounting and Finance Research, Vol. 5
+No. 2, pp. 32-41.
+Baboucek, I. and Jancar, M. (2005), “Effects of macroeconomic shocks to the quality of the aggregate loan
+portfolio”, Czech National Bank Working Paper Series, No. 1, available at: www.cnb.cz/miranda2/
+export/sites/www.cnb.cz/en/research/research_publications/cnb_wp/download/cnbwp_2005_01.pdf
+Baysinger, B.D. and Butler, H.N. (1985), “Corporate governance and the board of directors: performance
+effects of changes in board composition”, Journal of Law, Economics, and Organization, Vol. 1
+No. 1, pp. 101-124
+Beasley, M.S. (1996), “An empirical analysis of the relation between the board of director composition
+and ﬁnancial statement fraud”, Accounting Review, pp. 443-465.
+
+Beasley, M.S., Carcello, J.V. and Hermanson, D.R. (1999), “Fraudulent ﬁnancial reporting: 1987-1997: an
+analysis of US public companies.” AICPA.
+Berge, T.O. and Boye, K.G. (2007), An Analysis of Banks’ Problem Loans, Norges Bank.
+Bertrand, M. and Mullainathan, S. (2003), “Enjoying the quiet life? Corporate governance and
+managerial preferences”, Journal of Political Economy, Vol. 111 No. 5, pp. 1043-1075.
+Boss, M., Fenz, G., Pann, J., Puhr, C., Schneider, M. and Ubl, E. (2009), “Modeling credit risk through the
+Austrian business cycle: an update of the OeNb model”, Financial Stability Report, Vol. 17,
+pp. 85-101.
+Brownbridge, M. (1998), “The causes of ﬁnancial distress in local banks in Africa and implications for
+prudential policy”, United Nations Conference on Trade and Development, Geneva.
+Clair, R.T. (1992), “Loan growth and loan quality: some preliminary evidence from Texas banks”,
+Economic Review, Federal Reserve Bank of Dallas, Third Quarter, Vol. 1992, pp. 9-22.
+Dalton, D.R., Daily, C.M., Johnson, J.L. and Ellstrand, A.E. (1999), “Number of directors and ﬁnancial
+performance: a meta-analysis”, Academy of Management Journal, Vol. 42 No. 6, pp. 674-686.
+Dash, M.K. and Kabra, G. (2010), “The determinants of non-performing assets in Indian
+commercial bank: an econometric study”, Middle Eastern Finance and Economics, Vol. 7
+No. 2, pp. 94-106.
+Dechow, P.M., Sloan, R.G. and Sweeney, A.P. (1996), “Causes and consequences of earnings
+manipulation: an analysis of ﬁrms subject to enforcement actions by the SEC”, Contemporary
+Accounting Research, Vol. 13 No. 1, pp. 1-36.
+Duchin, R., Matsusaka, J.G. and Ozbas, O. (2010), “When are outside directors effective?”, Journal of
+Financial Economics, Vol. 96 No. 2, pp. 195-214.
+Eisenhardt, K.M. (1989), “Agency theory: an assessment and review”, Academy of Management Review,
+Vol. 14 No. 1, pp. 57-74.
+Espinoza, R.A. and Prasad, A. (2010), Nonperforming Loans in the GCC Banking System and Their
+Macroeconomic Effects, (No. 10-224), International Monetary Fund.
+European Central Bank (ECB) (2011), The Monetary Policy of the ECB, Frankfurt am Main.
+Fama, E.F. and Jensen, M.C. (1983), “Separation of ownership and control”, The Journal of Law and
+Economics, Vol. 26 No. 2, pp. 301-325.
+Flamini, V., Schumacher, M.L. and McDonald, M.C.A. (2009), The Determinants of Commercial Bank
+Proﬁtability in Sub-Saharan Africa, (No. 9-15). International Monetary Fund.
+Florackis, C. (2005), “Internal corporate governance mechanisms and corporate performance: evidence
+for UK ﬁrms”, Applied Financial Economics Letters, Vol. 1 No. 4, pp. 211-216.
+Florackis, C., Kostakis, A. and Ozkan, A. (2009), “Managerial ownership and performance”, Journal of
+Business Research, Vol. 62 No. 12, pp. 1350-1357.
+Fofack, H.L. (2005), Nonperforming Loans in Sub-Saharan Africa: causal Analysis and Macroeconomic
+Implications, The World Bank.
+Giroud, X. and Mueller, H.M. (2010), “Does corporate governance matter in competitive industries?” ”,
+Journal of Financial Economics, Vol. 95 No. 3, pp. 312-331.
+Gonzalez-Hermosillo, B., Pazarbas
+io
+glu, C. and Billings, R. (1997), “Determinants of banking system
+fragility: a case study of Mexico”, Staff Papers – International Monetary Fund, Vol. 44 No. 3,
+pp. 295-314.
+Grove, H., Patelli, L., Victoravich, L.M. and Xu, P. (2011), “Corporate governance and performance in the
+wake of the ﬁnancial crisis: evidence from US commercial banks”, Corporate Governance: An
+International Review, Vol. 19 No. 5, pp. 418-436.
+Gulamhussen, M.A. and Santa, S.F. (2015), “Female directors in bank boardrooms and their inﬂuence
+on performance and risk-taking”, Global Finance Journal, Vol. 28, pp. 10-23.
+
+Quality of
+bank loan
+portfolios
+
+JFEP
+
+Hsiao, C. (2005), “Why panel data?”, The Singapore Economic Review, Vol. 50 No. 2, pp. 143-154.
+Hu, J.L., Li, Y. and Chiu, Y.H. (2004), “Ownership and nonperforming loans: evidence from Taiwan’s
+banks”, The Developing Economies, Vol. 42 No. 3, pp. 405-420.
+Jensen, M. (1993), “The modern industrial revolution, exit and the failure of internal control systems”,
+The Journal of Finance, Vol. 48 No. 3, pp. 831-880.
+Jimenez, G. and Saurina, J. (2006), “Credit cycles, credit risk, and prudential regulation”, International
+Journal of Central Banking, Vol. 2 No. 2, pp. 65-98.
+John, K. and Senbet, L.W. (1998), “Corporate governance and board effectiveness”, Journal of Banking
+and Finance, Vol. 22 No. 4, pp. 371-403.
+Keenan, J. (2004), “Corporate governance in UK/USA boardrooms”, Corporate Governance, Vol. 12
+No. 2, pp. 172-176.
+Keeton, W.R. and Morris, C.S. (1987), “Why do banks’ loan losses differ?”, Economic Review, pp. 3-21.
+Khemraj, T. and Pasha, S. (2009), “The determinants of non-performing loans: an econometric case
+study of Guyana”, The Caribbean Centre for Banking and Finance Bi-annual Conference on
+Banking and Finance, St. Augustine, Trinidad.
+Klein, A. (2002), “Audit committee, board of director characteristics, and earnings management”,
+Journal of Accounting and Economics, Vol. 33 No. 3, pp. 375-400.
+Kumar, R.R., Stauvermann, P.J., Patel, A. and Prasad, S.S. (2018), “Determinants of non-performing
+loans in banking sector in small developing island states: a study of Fiji”, Accounting Research
+Journal, Vol. 31 No. 2, pp. 192-213.
+Larcker, D.F., Richardson, S.A. and Tuna, I. (2007), “Corporate governance, accounting outcomes, and
+organizational performance”, The Accounting Review, Vol. 82 No. 4, pp. 963-1008.
+Levine, R. (2003), The Corporate Governance of Banks, World Bank Policy Research Working.
+Liu, Y., Wei, Z. and Xie, F. (2014), “Do women directors improve ﬁrm performance in China?”, Journal of
+Corporate Finance, Vol. 28, pp. 169-184.
+Louzis, D.P., Vouldis, A.T. and Metaxas, V.L. (2010), “Macroeconomic and bank-speciﬁc determinants
+of non-performing loans in Greece: a comparative study of mortgage, business and consumer
+loan portfolios”, Bank of Greece, Working Paper, no. 118.
+Lu, J. and Boateng, A. (2018), “Board composition, monitoring and credit risk: evidence from the UK
+banking industry”, Review of Quantitative Finance and Accounting, Vol. 51 No. 4, pp. 1107-1128.
+Medland, D. (2004), Small Steps for Womankind, Corporate Board Member Europe, Winter.
+Mensah, S., Aboagye, K., Addo, E. and Buatsi, S. (2003), Corporate Governance and Corruption in Ghana –
+Empirical Findings and Policy Implications, African Capital Markets Forum, available at: http://info.
+worldbank.org/etools / ANTIC/docs/Resources/Country%20Proﬁles/Ghana/ACMF_Corpor
+Governance_Ghana.pdf
+Nyor, T. and Mejabi, S.K. (2013), “Impact of corporate governance on non-performing loans of Nigerian
+deposit money banks”, Journal of Business and Management, Vol. 2 No. 3, pp. 12-21.
+Peasnell, K.V., Pope, P.F. and Young, S. (2000), “Accrual management to meet earnings targets: UK
+evidence pre- and post-Cadbury”, The British Accounting Review, Vol. 32 No. 4, pp. 415-445.
+Ranjan, R. and Dhal, S.C. (2003), “Non-performing loans and terms of credit of public sector banks in
+India: an empirical assessment”, Reserve Bank of India Occasional Papers, Vol. 24 No. 3,
+pp. 81-121.
+Rashid, A., De Zoysa, A., Lodh, S. and Rudkin, K. (2010), “Board composition and ﬁrm performance:
+evidence from Bangladesh”, Australasian Accounting, Business and Finance Journal, Vol. 4
+No. 1, pp. 76-95.
+Rinaldi, L. and Sanchis-Arellano, A. (2006), “Household debt sustainability: what explains household
+non-performing loans? An empirical analysis”, ECB Working Paper, no. 570.
+
+Saha, M. and Ghosh, T. (2019), “Does corporate governance has impact on non-performing loan: a study
+on Bangladesh banking sector”, The Cost and Management, Vol. 47 No. 1, pp. 48-56.
+Salas, V. and Saurina, J. (2002), “Credit risk in two institutional regimes: Spanish commercial and
+savings banks”, Journal of Financial Services Research, Vol. 22 No. 3, pp. 203-224.
+Shleifer, A. and Vishny, R.W. (1997), “A survey of corporate governance”, The Journal of Finance,
+Vol. 52 No. 2, pp. 737-783.
+Simpson, W.G. and Gleason, A.E. (1999), “Board structure, ownership, and ﬁnancial distress in banking
+ﬁrms”, International Review of Economics and Finance, Vol. 8 No. 3, pp. 281-292.
+Swamy, V. (2012), “Impact of macroeconomic and endogenous factors on non performing bank assets”,
+Available at SSRN 2060753.
+Tarchouna, A., Jarrayab, B. and Bouric, A. (2017), “How to explain non-performing loans by many
+corporate governance variables simultaneously? A corporate governance index is built to US
+commercial banks”, Research in International Business and Finance, Vol. 42, pp. 645-657.
+Tirole, J. (2001), “Corporate governance”, Econometrica, Vol. 69 No. 1, pp. 1-35, doi: 10.1111/14680262.00177.
+Vafeas, N. and Theodorou, E. (1998), “The relationship between board structure and ﬁrm performance
+in the UK”, The British Accounting Review, Vol. 30 No. 4, pp. 383-407.
+Weir, C., Laing, D. and McKnight, P.J. (2002), “Internal and external governance mechanisms: their
+impact on the performance of large UK public companies”, Journal of Business Finance and
+Accounting, Vol. 29 No. 5/6, pp. 579-611.
+Yermack, D. (1996), “Higher market valuation of companies with a small board of directors”, Journal of
+Financial Economics, Vol. 40 No. 2, pp. 185-211.
+Further reading
+Hermalin, B. and Weisbach, M. (1991), “The effects of board composition and direct incentives on ﬁrm
+performance”, Financial Management, Vol. 20 No. 4, pp. 101-112.
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A. and Vishny, R.W. (1997), “Legal determinants of external
+ﬁnance”, The Journal of Finance, Vol. 52 No. 3, pp. 1131-1150.
+
+Quality of
+bank loan
+portfolios
+
+JFEP
+
+Appendix
+
+Banks for the study (a no. of them have been acquired or subsumed by another)
+
+Table AI.
+Descriptive statistics
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+United Bank for Africa
+First Atlantic Bank
+Société General
+Ecobank
+Zenith Bank
+Intercontinental Bank
+Agricultural Development Bank
+GCB Bank
+Trust Bank
+Universal Merchant Bank
+Unibank
+Stanbic
+Barclays
+Republic Bank
+CAL Bank
+National Investment Bank
+Sahel-Saharan Bank
+Bank of Baroda
+UT Bank
+Prudential Bank
+Access Bank
+Bank of Africa
+International Commercial Bank
+Guaranty Trust Bank
+Standard Chartered
+Fidelity Bank
+
+Corresponding author
+Vera Fiador can be contacted at: vﬁador@ug.edu.gh
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+

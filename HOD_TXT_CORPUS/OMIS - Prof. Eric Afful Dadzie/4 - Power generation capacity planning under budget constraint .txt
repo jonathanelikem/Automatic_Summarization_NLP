@@ -1,0 +1,2333 @@
+Applied Energy 188 (2017) 71–82
+
+Contents lists available at ScienceDirect
+
+Applied Energy
+journal homepage: www.elsevier.com/locate/apenergy
+
+Power generation capacity planning under budget constraint
+in developing countries
+Anthony Afful-Dadzie a,⇑, Eric Afful-Dadzie b, Awudu Iddrisu c, Joseph Kwaku Banuro a
+a
+
+University of Ghana Business School, University of Ghana, Accra, Ghana
+Faculty of Applied Informatics, Tomas Bata University in Zlin, Zlin, Czech Republic
+c
+Department of Management, Quinnipiac University, 275 Mt. Carmel Avenue, Hamden, CT 06518, USA
+b
+
+h i g h l i g h t s
+ A long term stochastic GEP model with budget constraint is developed.
+ Model suitable for analyzing GEP problems in developing countries.
+ Model determines optimal mix, size and timing of future generation capacity needs.
+ A real case study of the Ghana GEP problem was employed.
+ Insufficient budget leads to costly generation capacity expansion plans.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 16 July 2016
+Received in revised form 23 November 2016
+Accepted 25 November 2016
+Available online 8 December 2016
+Keywords:
+Generation capacity planning
+Unserved demand
+Stochastic optimization
+Scenario generation
+Budget constraint
+
+a b s t r a c t
+This paper presents a novel multi-period stochastic optimization model for studying long-term power
+generation capacity planning in developing countries. A stylized model is developed to achieve three
+objectives: (1) to serve as a tool for determining optimal mix, size and timing of power generation types
+in the face of budget constraint, (2) to help decision makers appreciate the consequences of capacity
+expansion decisions on level of unserved electricity demand and its attendant impact on the national
+economy, and (3) to encourage the habit of periodic savings towards new generation capacity financing.
+The problem is modeled using a stochastic mixed-integer linear programming (MILP) technique under
+demand uncertainty. The effectiveness of the model, together with valuable insights derived from considering different levels of budget constraints are demonstrated using Ghana as a case study. The results
+indicate that at an annual savings equivalent to 0.75% of GDP, Ghana could finance the needed generation
+capacity to meet approximately 95% of its annual electricity demand between 2016 and 2035.
+Additionally, it is observed that as financial constraint becomes tighter, decisions on the mix of new generation capacities tend to be more costly compared to when sufficient funds are available.
+Ó 2016 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+The provision of regular and sustainable supply of electricity
+sits at the heart of every country’s quest at ensuring quality of life
+for its citizenry. For many developing countries, annual real per
+capita GDP growth is known to be strongly linked to levels of electricity consumption [1,2]. Thus a developing country’s ability to
+provide constant and reliable electricity is crucial to its economic
+growth. Evidence of this statement abounds particularly in subSaharan Africa where deficiencies in the power sector regularly
+impact the region’s economic growth and competitiveness [3]. To
+⇑ Corresponding author.
+E-mail address: aafful-dadzie@ug.edu.gh (A. Afful-Dadzie).
+http://dx.doi.org/10.1016/j.apenergy.2016.11.090
+0306-2619/Ó 2016 Elsevier Ltd. All rights reserved.
+
+achieve constant and reliable power supply, developing countries
+need proper planning towards future capacity needs that takes into
+account obstacles that hinder the adoption of best practices in
+power generation capacity planning. One of such obstacles with
+significant impact is lack of financial capital. Most developing
+countries face a recurring challenge raising needed capital to
+finance new generation capacities [4]. The challenge posed by
+unavailability or insufficient financial capital stalls plans toward
+future generation capacity expansion. Unfortunately, realization
+of the inability to secure required financial capital to implement
+planned expansion often comes late. This scenario results in developing countries regularly scrambling for alternative solutions to
+prevent high levels of unserved demand [3,5–7]. In a bid to rescue
+the situation, many developing countries fall back on emergency
+
+72
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+power plans which often call for short-term leases of expensive
+power generators [3]. To avoid resorting to costly emergency plans,
+generation capacity expansion must first be determined based on
+guaranteed cash flows. Following this, plans could be made far in
+advance to cater for anticipated unserved demand. It is of this need
+that this paper proposes a capacity expansion model that explicitly
+takes into account financial constraint.
+A common practice to meeting future electricity demand in
+most developing countries has been to include capacity investment
+needs as part of annual national budget. In such circumstance, it is
+important that long term generation capacity planning models
+take into account periodic budget constraints to ensure realistic
+and applicable generation mix plans. This approach will help to
+properly project levels of anticipated energy demand that cannot
+be met, and the resulting consequences on the national economy.
+When consequences on the economy are fully known, it would
+help inform the need to increase allocated budgetary allocation
+for investment in new generation capacities. It must be noted that
+lack of funds impact the selection and timing of new generation
+plants to the extent that, plants with lower capital investment
+but higher running costs may be preferred to those with higher
+investment but lower running costs. This happens because the
+downside to waiting to secure enough funds for capital intensive
+plants is higher cost to the economy as a result of increases in
+unserved demand. This issue can however be efficiently analyzed
+by the inclusion of periodic budget constraint in the capacity planning model. Another important issue in power planning is uncertainty in demand. Electricity demand, especially in developing
+countries is highly uncertain which makes capacity planning difficult [8]. This, therefore, calls for generation capacity planning models that are specifically designed to handle demand uncertainty.
+The issues raised above are studied in this paper with a multiperiod stochastic mixed-integer linear programming (MILP) model.
+The minimizing stochastic MILP model is developed to determine
+the optimal mix, size and timing of generation plants under uncertain demand over a long planning period taking into account periodic budget constraints. The stochastic MILP model is also
+formulated in a way that encourages the habit of periodic savings
+towards financing future capacity expansion needs. This recognizes
+that in some years the allocated budget might be better utilized
+when saved for future use. This practice would be akin to the concept of sinking fund where money is saved towards a future need.
+Many scholarly works have been produced on electricity generation capacity planning using optimization techniques. A comprehensive review of optimization techniques for Generation
+Expansion Problems (GEP) can be found in [9,10]. To address issues
+of uncertainty, most notably demand and fuel price, majority of
+optimization techniques employed are stochastic in nature (see
+for instance [9,11]). Stochastic optimization models have been proven to provide superior performance than other techniques when
+uncertainties in model parameters exist [6,9,12,13]. Moreover,
+since GEP problems are typically considered over a long period of
+time, such models are also multi-period in nature, resulting in
+so-called multi-period stochastic optimization models. One of the
+early scholarly contributions that employed multi-period stochastic optimization to GEP under demand uncertainty are [12] and
+[14]. Similarly, [6] used a multi-period stochastic linear optimization model with uncertainties in future demand and fuel prices
+to determine the type and size of power plants to be constructed
+over an extended planning horizon. The paper showed that optimal
+solutions of such models are robust when the uncertain scenarios
+are reduced for model tractability. In [15], a stochastic multiperiod MILP model was developed to analyze economies of scale
+in capacity expansion cost. The approach is similar to the costbenefit analysis for examining the worthiness of an increase in
+budget allocation in this paper. A recent study in [16] considered
+
+a generation expansion problem using multi-period stochastic
+MILP model under a new scenario generation approach. The objective function included cost of unserved energy similar to what is
+used in this paper.
+A number of authors have also used multi-period stochastic
+optimization models for real world applications. A recent study
+in [17] used a multi-period stochastic optimization model to analyze the GEP problem in China taking into account non-carbon
+external cost of different power generating technologies. The result
+indicated that China would need capital equivalent of 2% of its GDP
+to finance future power expansion plans from 2015 to 2035. A similar model was employed in [18] to study power planning options
+for China taking into consideration regional variations in availabilities of resources and inter-region power transmission line capacity. In [19], a multi-period stochastic optimization model was
+applied to determine the optimal generation technologies, size,
+and timing of future expansion plans for the Greek power system.
+A sensitivity analysis was also conducted to study the influence of
+major model parameters such as fuel cost. A similar study for the
+Greek power system was conducted in [20] with an addition of
+unit commitment constraints. The work in [21] applied a multiperiod optimization framework for the optimal planning of China’s
+power sector between 2010 and 2050 with a focus on mitigating
+carbon emissions. The analysis centered on the impact of different
+levels of carbon cap and carbon price on the optimal capacity
+expansion plans. Similarly, [22] examined power capacity expansion plans for the Brazilian power sector by incorporating environmental costs associated with the construction and operation of
+power plants into the stochastic optimization model. Also, in
+[23], a stochastic MILP model for a centralized GEP problem was
+developed and applied to the Greek power system. The work in
+[23] included a sensitivity analysis to evaluate the effect of factors
+such as fuel and carbon emission prices, as well as investment capital. Other real world applications using stochastic optimization
+techniques can also be found in [24–27].
+While much research have been carried into building models
+for solving long-term capacity expansion problems, most papers
+assumed the availability of sufficient funds for financing new
+capacities. Few studies have considered capacity expansion problems under budget constraints - one of the commonest problems
+facing developing countries. In our related literature search, only
+[28,29] [considered budget constraints in a stochastic optimization
+model for capacity expansion problems. The two-stage stochastic
+optimization model in [28] was developed with the objective of
+maximizing profit for a service industry with limited budget. The
+paper incorporated uncertainty in future demand to determine
+the size, schedule, location and timing of capacity expansions
+through a Lagrangian relaxation approach.
+The model in [29] comes closest to that proposed in this paper.
+However, like in [28], the work in [29] considers a two-stage problem. The work in [30] also considered a capacity expansion problem for electricity generation in developing countries under a
+budget constraint. However, the problem was modeled through a
+systems dynamics and simulation approach and also did not consider uncertainty in demand. More importantly, [28–30] did not
+consider the practical case of periodic budget constraint but rather
+a single budget over the entire planning period.
+Many developing countries allocate a portion of their annual
+budget to investment in the power sector (including the building
+of new generation capacities to meet annual demand increases in
+electricity). Therefore, it is important that models with periodic
+budget constraints are developed to fit such practice. Periodic budget constraint is considered in [31]. However, the model is deterministic in nature and also does not allow for unused budget to
+be available in subsequent period. This paper therefore proposes
+a new long term stochastic GEP model for the analysis of capacity
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+expansion plans under periodic budget constraints. The proposed
+stochastic MILP-GEP model with periodic budget constraint, also
+allows for the carry forward of unused budget from previous periods. This approach is novel, and a contribution to literature on
+capacity expansion planning modeling with a focus on developing
+countries. Another contribution from the paper is a cost-benefit
+analysis procedure for determining the worthiness of an increase
+in periodic budget allocations through the comparison of cost of
+unserved demand to gains from budget increases.
+2. Generation expansion planning (GEP) model with periodic
+budget constraint
+Following the notations in the nomenclature shown in Fig. 1,
+the proposed multi-period stochastic MILP-GEP model for a single
+demand center is represented by equations Eqs. (1)–(10). The
+major components of the model are explained as follows.
+"
+#3
+2 I 
+S
+I
+
+X C
+X
+X
+F
+V
+I I
+U U
+Z
+C
+þ
+C
+p
+
+ðC
+þ
+P
+co2 ÞY t;s;i þ C t Et;s þ C t Et;s 7
+t;i þ
+6
+s
+t;i
+t;i
+t;i
+T 6
+X
+7
+s¼1
+i¼1
+7
+6 i¼1
+min
+7
+6
+t1
+ð1
+þ
+rÞ
+5
+4
+t¼1
+ð1Þ
+
+Subject to the following constraints
+I
+X
+
+8s; 8t
+
+Y t;s;i þ EIt;s ¼ Dt;s  EUt;s
+
+ð2Þ
+
+i¼1
+
+EIt;s 6 qt Dt;s
+
+8s; 8t
+
+W t;i ¼ Ii þ Z t;i
+
+ð3Þ
+
+8i; 8t
+
+ð4aÞ
+
+8i; 8t
+
+Z t;i ¼ Z t1;i þ W max
+Gtri ;i
+i
+Y t;s;i 6 Ht Ai W t;i
+T
+X
+Gt;i 6 Gmax
+i
+
+73
+
+and the initial installed capacity, Ii . The other decision variables
+are Y t;s;i , EIt;s , and EUt;s which are second-stage or ‘‘wait and see” decisions. These are respectively, the amount of electricity generated
+from generator type i, the total imported electricity from neighbouring countries, and the total unserved demand. The second
+stage variables are determined at any period t for every possible
+demand scenario s.
+2.2. Objective function
+The objective function for the stochastic multi-period MILP-GEP
+model is represented by Eq. (1). The objective function seeks to
+minimize the total expected cost of electricity provision over all
+possible demand scenarios throughout the planning horizon. Eq.
+(1) assumes that capital and fixed O&M costs for existing generators have been accounted for and ignored in the objective function.
+The first term of the numerator in Eq. (1) comprise of capital
+investment cost and fixed operating and maintenance (O&M) cost,
+both expressed in $/MW/yr for the new generation capacity. The
+second term is made up of cost of electricity generated, the cost
+of carbon emissions, cost of imported electricity and the cost of
+unserved demand. The cost of unserved demand can be interpreted
+as the loss of economic activity or the cost of alternative power as a
+result of unavailability of electric power from the grid. These costs
+are discounted to the starting period. Note that since candidate
+generation types have different lifespan, Eq. (1) is expressed in
+the form of an annuity for a fair comparison. By this, candidate
+plants are compared on an annual cost basis with respect to their
+lifespan. Expressing Eq. (1) in annuity form has the added advantage of avoiding running the model past the planning period in
+order to avoid sub-optimal decisions toward the end of the planning period.
+
+ð4bÞ
+2.3. Model constraints
+
+8i; 8s; 8t
+
+ð5Þ
+
+8i
+
+ð6Þ
+
+The objective function of Eq. (1) is determined subject to the
+following constraints.
+
+t¼1
+I
+X
+max
+C TC
+Gt;i þ C It EIt;s 6 Bt þ ð1 þ rÞBLt1;s
+t;i W i
+
+8s; 8t
+
+ð7Þ
+
+i¼1
+
+BLt;s ¼ Bt þ ð1 þ rÞBLt1;s 
+
+I
+X
+max
+C TC
+Gt;i  C It EIM
+t;i W i
+t;s
+
+8s; 8t
+
+ð8Þ
+
+i¼1
+I
+X
+Q i Y t;s;i 6 COlimit
+2t
+
+8s; 8t
+
+ð9Þ
+
+i¼1
+
+Gt;i ; Y t;s;i ; EIt;s ; EUt;s P 0 8i; 8s; 8t
+
+ð10Þ
+
+2.1. Decision variables
+In any period t, the capacity investment decisions are represented by the variable Gt;i , which gives the ideal number and size
+of each generation type to build as well as the timing of the construction of new generators. Together with the variables Z t ;i and
+W t ;i , these constitutes the so-called first stage or ‘‘here and now”
+decision variables because they are decided before actual demand
+realization. The ‘‘here and now” decisions are very important since
+inaccurate decisions might mean insufficient capacity to meet
+demand or idle plants due to over capacity. However, note that
+Z t ;i and W t ;i can effectively be derived from knowledge of Gt;i
+
+2.3.1. Periodic electricity demand
+Eq. (2) is the demand and supply constraint which ensures that
+the amount of electricity supplied (i.e. generation by the available
+installed capacity of all generator types plus the amount of
+imported electricity), matches exactly the demand, less the
+amount of unserved demand in any period under any scenario.
+For simplicity, it is assumed that demand values include reserve
+capacity so that this need not be explicitly modeled in the optimization problem.
+Given that neighbouring countries also sometimes suffer power
+outages as a result of insufficient generation capacity, Eq. (3) seeks
+to enforce the restriction that under any scenario of demand, the
+sum of all imported electricity cannot exceed a certain percentage
+of the total electricity demanded. For instance, this percentage is
+roughly 4% according to the Ghana electricity generation master
+plan [32].
+2.3.2. Generator and capacity constraints
+Capacity accumulation over time is tracked with Eqs. (4a) and
+(4b). Eq. (4a) tracks total available generation capacity of each generator type in a given period. For each generator type i, this is made
+up of the total existing capacity, Ii at the start of the planning period and Z t;i , which is the cumulative sum of the added capacity
+from new generator type i at time t. The Z t;i is also tracked by Eq.
+(4b) which takes into account construction lead time for new generation plants. Eq. (5) enforces the capacity constraints for each
+
+74
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+Fig. 1. Indices, sets, variables, and parameters used in the stochastic MILP-GEP model.
+
+generator type, and takes into account the expected availability of
+the plants.
+Eq. (6) puts a restriction on the number of each generator type
+that can be built within the entire planning period. For instance,
+the number of hydro plants constructed within the planning period
+cannot exceed the number of hydro opportunities available to the
+country. Likewise, the long period for obtaining permit for coal and
+nuclear plants could limit the number that can be built within the
+planning period.
+
+2.3.3. Budget constraints
+One of the important features of the proposed MILP-GEP model
+is the inclusion of periodic budget constraints. Eq. (7) is the budget
+constraint, and ensures that cost of financing new generation
+capacities and imported electricity in any period t do not exceed
+the funds available in period t. Available funds in period t comprise
+of period t’s budget allocation plus the total of unused budget
+accumulated from previous years. The budget constraint assumes
+that monies are disbursed at the end of a period. Lastly, Eq. (8)
+
+75
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+tracks the amount of accumulated unused budget from an immediate past year on the assumption that any unused budget is carried over to the next period. Any unused budget at period t is
+invested at an interest rate of r% per period. Eq. (8) is novel and
+meant to instill the practice of saving towards financing new generation capacities. The paper acknowledges that unused budgets
+are hardly rolled over to the next period. However, Eq. (8) is conceived from the idea of a sinking fund where one accumulates
+money periodically to finance a major project at a later date.
+2.3.4. Carbon emissions constraint
+The limit on carbon emissions per period is expressed by Eq. (9),
+where Q i is the tonne of carbon emitted into the atmosphere for
+each MWh of electricity generated. These values can be obtained
+from the website of Energy Information Administration (EIA) of
+the U.S Department of Energy.
+The non-negativity constraints expressed in Eq. (10) completes
+the stochastic MILP-GEP model.
+It must be noted that a simpler variant of the MILP-GEP model
+would be to replace the budget constraints of Eqs. (7) and (8) with
+one that ensures no more than a certain desired level of unserved
+demand in each period is reached. Then, after finding the optimal
+mix and timing of generator types within the planning period,
+the required capital investment for the planned generators would
+be estimated. However, the same question of sufficient funds availability to finance the planned generators arises. The capacity
+expansion plan from the proposed MILP-GEP model on the other
+hand is more realistic since it relies on funds the decision maker
+has more control over (although it may require strong will to
+implement due to the need to save any unused budget).
+3. Case study based on Ghana
+This section presents a real-world case study of the MILP-GEP
+model presented above based on the electricity sector in Ghana
+for a planning period of 20 years. Although not the main focus of
+this research, the case starts by modeling and generating the periodic uncertain electricity demands of Ghana within the planning
+period of 2016–2035. This is done using a simple yet effective
+approach that requires sampling from a triangular distribution.
+Following this, the other parameters of the model for the case
+study are presented.
+3.1. Background of the electricity sector of Ghana
+Located in West Africa, Ghana is classified as a lower middle
+income country by the World Bank. The major technical players
+in the electricity sector are the Volta River Authority (VRA), The
+Ghana Grid Company (GRIDCo), and the Electricity Company of
+Ghana (ECG) and Northern Electricity Distribution Company
+(NEDCo), respectively in charge of generation, transmission, and
+distribution. The country’s electricity generating sources are a mixture of hydro (operated by the state own power generator, VRA)
+and thermal plants of varying types operated by a number of independent power producers usually in collaboration with the state
+owned power generator, VRA. As at the end of 2015, Ghana had
+around 3857 MW of installed capacity comprising of 1580 MW of
+hydropower and 2277 MW from thermal sources. The thermal
+
+generation capacity can further be broken down into 1065 MW
+of Combined Cycle Gas Turbine (CCGT) generators, and 1212 MW
+of Open Cycle Gas Turbine (OCGT) generators. The dependable
+capacity out of the total installed is around 3415 MW. The country
+has less than 0.5% of total generation capacity coming from solar,
+and there are plans to invest in wind energy in the near future.
+There are also plans to start the construction of a 700 MW coalfired plant in 2016 with a potential to increase to 2000 MW.
+Like most developing countries, Ghana is prone to perennial
+power crisis partly due to lack of funds to finance new generation
+capacities to meet growing electricity demands. The most distressful power crisis in the country occurred from 2006 to 2007, during
+which it is estimated to have reduced the country’s GDP growth
+rate by about 1.5 percentage points [11]. The country is currently
+facing an ongoing power crisis that started in 2012. The data in
+Table 1 below gives the recorded annual electricity supply and
+the associated percentage increase from year 2003 to 2014. These
+are the electricity supplied (including losses) which are in general
+far less than actual electricity demand.
+Due to a highly subsidized price for electricity, the state owned
+power generator is unable to finance new generation capacities
+and regularly relies on the central government, and in part on Independent Power Producers (IPPs). It is not uncommon to find in the
+annual national budget, an allocation for the state owned power
+generator towards the financing of new generation capacities.
+The problem facing the state owned power generator is how to utilize the allocated budget in a manner that minimizes the level of
+unserved demand which is a cost to the national economy. Using
+the proposed MILP-GEP model above, the mix and timing of new
+generation capacity types that can be achieved with the allocated
+periodic budget, along with the level of unserved demand can be
+determined. Tracking the level of unserved demand is particularly
+necessary in order to help decision makers appreciate the consequences of their actions in terms of cost to the national economy.
+The following subsections present the model parameters starting
+with generation of demand scenarios for the case study.
+3.2. Electricity demand scenario generation
+The proposed stochastic MILP-GEP model offers solutions that
+are hedged against possible scenarios of electricity demand. These
+demand scenarios reflect the level of uncertainty in future electricity demand. In general, the scenarios could be uncountable and
+therefore it is advisable to reduce them to manageable levels for
+computational tractability. Several scenario generation techniques
+for stochastic optimization have been proposed in the literature
+(see for instance, [33–35,16]). This paper follows the Monte-Carlo
+approach in [35] in generating the demand scenarios. By this
+approach, result of each simulation run (made up of demands for
+each period in the planning horizon) is considered a scenario. Formally, let Dt;s be demand in period t under scenario s. The electricity demand forecast for period t þ 1 if scenario s were to occur is
+modeled according to Eq. (11).
+
+~ ÞDt;s
+Dtþ1;s ¼ ð1 þ x
+
+ð11Þ
+
+~ in Eq. (11) represents the expected percentThe expression x
+age increase in demand over the current period’s demand level,
+and is treated as a random variable. Data from Table 1 were used
+
+Table 1
+Annual electricity supply data of Ghana from 2003 to 2014.
+Year
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Demand (GWh)
+% Change
+
+6813.56
+0.00
+
+6833.33
+0.29
+
+7545.45
+10.42
+
+9085.71
+20.41
+
+7314.29
+-19.5
+
+8657.14
+18.36
+
+9026.32
+4.26
+
+10270.27
+13.78
+
+11297.87
+10.01
+
+12165.2
+7.68
+
+12,927
+6.26
+
+13,071
+1.11
+
+76
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+~ . In general, Eq. (11) must exhibit
+to estimate the distribution for x
+positive trend increase in conformity with the conventional thinking that electricity demand (especially in developing countries)
+typically exhibit positive trend increase from period to period. To
+~ , supply data in Table 1 were adjusted to reflect the fact
+estimate x
+that Ghana experienced major power crisis from 2006 to 2007 and
+~ was found to fol2012 to 2015. With the adjusted supply data, x
+low the triangular distribution, Triang (0.01, 0.07, 0.15) which
+reflects the lowest expected annual increase of 1%, the most likely
+annual increase of 7%, and the highest possible annual increase of
+15%.
+To generate a demand scenario, possible random percentage
+~ , are drawn from the estimated triangular
+increases of demand, x
+distribution for each period. The projected demand for a period is
+then determined using Eq. (11). A scenario in this case study is
+made up of twenty data points in line with the twenty year planning period. In all, 30 demand scenarios were generated to characterize the demand uncertainty. It should be noted that by this
+scenario generation approach, all the scenarios have equal probability of occurrence.
+The data presented in Table 2 are electricity demand forecast
+based on the assumed triangular distribution for the period
+2016–2023 from five selected scenarios. The 2015 demand needed
+for the start of each simulation run in the equation is assumed to
+be equal to the 2015 national projected electricity demand of
+17716.9 GWh [36]. This value for starting the scenario generation
+is considered appropriate for the reasons that, actual electricity
+supplied in 2014 was 13,071 GWh (including losses), and that
+12–16% of electricity demand were not met [37]. The value also
+includes an assumed reserve capacity of 10% of total available
+capacity.
+It can be seen from Table 2 that the forecasted demand data
+from the scenarios are comparable to the national demand forecast. The scenarios however, are more reflective of the uncertainty
+in future demand. As shown, the actual demand upon realization
+could be up or below that of the national average forecast. One
+of the strengths of the proposed stochastic model is its ability to
+derive a solution that performs better than one based solely on
+an average parameter such as that of the national average forecast
+shown in Table 2.
+In the next subsection, scenarios of electricity demands are used
+as inputs in the proposed stochastic MILP-GEP model to analyze
+generation capacity plans for Ghana from 2016 to 2035. To allow
+for comparison with the ideal case of sufficient fund availability,
+the first analysis imposes no budget constraint. Subsequent analysis examines the optimal generation mix (and levels of expected
+unserved demand) within the planning period at different levels
+of budgetary constraints. A discount rate of 12% per annum is
+applied to all generator types in line with the discount rate used
+in the Ghana Generation Master Plan document [32].
+
+a 150 MW OCGT plant, 125 MW and 250 MW Coal power plants,
+and a 60 MW sized Hydropower plant. These are the main generators considered in the Generation Master Plan for Ghana [32]. The
+generator types of wind, solar and nuclear plants are ignored in the
+case study analysis due to insignificant capacity, or that economic
+and/or regulatory conditions would not permit them to be constructed within the 20 year planning period. To account for construction lead time in the model, we assume it takes 4 years to
+construct a hydro or coal plant, and 2 years for a CCGT or an OCGT
+plant [38,39].
+The case also assumes a cost of $150 for every MWh of electricity imported from neighbouring countries, and a cost of $225 for
+every MWh of unserved demand for year 2016 (which is the beginning of the planning period). Literature on cost of unserved
+demand is limited with no reliable technique for estimation. For
+the case study, the cost of unserved electricity demand for Ghana
+was estimated by regressing annual domestic tax on electricity
+supply for the period 2003–2014. The true value of this cost might
+be higher when other unquantifiable factors such as quality of life
+and healthcare delivery are considered. Finally, a total of 8760 h of
+operation is assumed per year. Table 3 presents additional parameters for the case study.
+Though the objective function of Eq. (1) is expressed in annuity
+form, Eq. (12) is used to track the actual capital cost needed to construct the generation plants within the planning horizon. The
+parameter C TC
+t;i is the unit capital cost (in $/MW) of generator type
+i in period t.
+T X
+I
+X
+max
+C TC
+ti Gti W i
+
+ð12Þ
+
+t¼1 i¼1
+
+3.4. Budget constraint parameters
+In a bid to analyze the impact of budget constraint on level of
+unserved demand, the MILP-GEP model was run against selected
+budgets corresponding to a percentage of Ghana’s projected GDP.
+The 2014 GDP of Ghana amounted to $38.62 Billion [40]. Assuming
+an average annual growth rate of 4%, this amounts to $41.78 Billion
+in 2016 which is the starting year of the planning period. Similar values were derived for all years within the planning period. The MILPGEP model was then run for the cases assuming a 0.25%, 0.5%, 0.75%,
+1.0%, 1.25%, 1.5% and 1.75.0% of GDP as the budget allocation for
+capacity expansion. For purposes of comparison, the model was also
+run for the assumed case of sufficient funds availability. The model
+results for this case are placed under the term No Budget.
+3.5. Case study assumptions
+The following assumptions are made in the case study.
+(1) Any leftover budget is invested at a return of 12% per year.
+This value is based on the discount rate used in the Generation Master Plan for Ghana.
+(2) There was no budget left prior to the year 2016.
+
+3.3. Candidate generator types and parameters
+Four generator types are considered in the case study and are
+shown in Table 3. These are a 300 MW and 450 MW CCGT plants,
+
+Table 2
+Five selected scenarios of electricity demand forecast compared to the national electricity demand forecast for Ghana from 2016 to 2023. Values are in GWh.
+
+Scen-4
+Scen-7
+Scen-10
+Scen-15
+Scen-18
+National forecast
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+18339.7
+19055.4
+19489.8
+18621.6
+18320.8
+19696.1
+
+20372.9
+20031.4
+21538.2
+19091.6
+19449.9
+21040.7
+
+22821.0
+21384.1
+21896.0
+20854.6
+20325.9
+22304.1
+
+24758.9
+23026.8
+23059.1
+22435.3
+21508.8
+23573.7
+
+26816.9
+24807.0
+24356.5
+25197.4
+23605.5
+24953.4
+
+28437.8
+26109.4
+27034.5
+26461.8
+25246.4
+26424.9
+
+30751.7
+27787.2
+27483.1
+27690.6
+26479.5
+27892.9
+
+32104.5
+31208.3
+28779.6
+30081.1
+28067.2
+29481.7
+
+77
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+Table 3
+Parameter values for six candidate generation plant types for the 20 year planning period.
+Type
+
+Size
+(MW)
+
+Life time
+(Yrs)
+
+Capital cost
+($/MW)
+
+Discount
+rate (%)
+
+Availability
+factor (%)
+
+Fixed O&M cost
+($/MW)
+
+Var. O&M, fuel included
+($/MWh)
+
+Emissions cost
+($/MWh)
+
+Existing
+capacity (MW)
+
+CCGT1
+CCGT2
+OCGT
+COAL1
+COAL2
+HYDRO
+
+300
+450
+150
+125
+250
+60
+
+25
+25
+25
+35
+35
+60
+
+1,057,000
+982,000
+639,000
+2,976,000
+2,559,000
+5,000,000
+
+12
+12
+12
+12
+12
+12
+
+85
+85
+85
+85
+85
+60
+
+34,000
+32,000
+6000
+75,000
+65,000
+15,000
+
+76.80
+74.83
+95.31
+47.18
+45.16
+0.10
+
+16.57
+16.57
+20.30
+40.15
+40.15
+0.00
+
+1065
+0
+1212
+0
+0
+1580
+
+(3) Electricity demand is the sum of all demand throughout the
+entire year.
+(4) No generator (including existing ones) would be retired
+within the 20 year planning period.
+(5) There is no limit on the number of coal and thermal plants
+that can be built within the planning period. Also, only four
+hydropower plants can be constructed within the planning
+period. This conforms to the number of significant hydro
+opportunities in Ghana.
+(6) Capital, fixed and variable O&M costs as well as cost of carbon emissions, cost of imported electricity and cost of
+unserved demand increase periodically by 0.5%.
+(7) There is no limit on carbon emissions allowed each period,
+except that every MWh of electricity generated is charged
+an emission cost.
+(8) Any generator type can serve base and peak loads.
+The problem was programmed using the General Algebraic
+Modeling System (GAMS) optimization software package and
+solved using the ILOG CPLEX 12.6.0.0 solver.
+
+4. Case study results and analysis
+4.1. Number and size of recommended candidate generators
+In order to compare the results of the instances of budget constraint to the case with sufficient funding, the MILP-GEP model was
+first run without the budget constraint of Eqs. (7) and (8). The
+results for this ideal case termed No Budget and that of the budget
+constraint cases are given in Table 4. Overall, the information provided in the table indicates the optimal decision for a planner
+under allocated budget constraint. The values in the table represent the number of new generators of a particular type to build,
+with construction starting from the year the number is suggested.
+For instance, under the No Budget (i.e. sufficient funding availability) case, two 450 MW CCGT plants, two 250 MW of coal plants,
+and four 60 MW of hydro plants would have to commence construction in year 2016. Note that per their construction lead times,
+doing these will add 900 MW of capacity (i.e. 2  450 MW of CCGT
+plant) in 2018, and another 740 MW (500 MW from coal and
+240 MW from hydro) in 2020 to the existing installed capacity.
+This will result in a total of 1640 MW new additional capacity by
+the year 2020. Given the availability of funds, the model recommends that one 250 MW and two 250 MW coal plants should commence construction in year 2017 and 2018 respectively. For the
+assumed 4 years of construction period for a coal plant, a total of
+250 MW and 500 MW of new generation capacity would be added
+to the existing capacity at the beginning of years 2021 and 2022
+respectively. Similar deductions can be made for the rest of the
+planning period. The total expected cost of electricity provision
+between 2016 and 2035 would amount to $34.96 Billion.
+Observing the results under the No Budget case, it can be concluded that when funding is not an issue, the 250 MW coal plant
+is the best choice throughout the planning period with the excep-
+
+tion of the early years where a 450 MW CCGT plant is considered
+(due to its shorter construction lead time). This is true even with
+cost of carbon emissions factored in. No hydropower plant is recommended after 2016 because the maximum of four hydropower
+plants allowed within the planning period are recommended in
+2016.
+Under a periodic budget constraint of 1.75% of GDP, the model
+recommend that one 450 MW CCGT plant begins construction in
+2016. By the two year construction period, this new 450 MW
+capacity would be available at the beginning of 2018 to augment
+the power generation. Similarly, one 450 MW of CCGT and one
+60 MW of hydro would have to commence construction in 2017.
+Likewise, given the construction lead times, the new 450 MW
+and 60 MW capacities would be available in 2019 and 2021 respectively. Similar deductions can be made for the rest of the planning
+period. The total expected cost of electricity provision between
+2016 and 2035 would amount to $35.47 Billion which is comparable to the No Budget case. The generation mix and timing under the
+other budget levels can be found in Table 4.
+With a periodic budget constraint of 0.25% of GDP, there would
+not be enough funds to finance the construction of new plants until
+2019 during which enough funds would have accumulated to
+begin the construction of one 450 MW CCGT plant. The other periods where enough funds will be available for constructing new
+generation plants under 0.25% of GDP are years 2022, 2025,
+2027, 2030 during which a 450 MW unit CCGT plant would commence construction. There will also be enough funds to finance
+one 300 MW CCGT plant in 2031. Given the limited budget, and
+the need to avoid high levels of unserved demand, it is not surprising that only CCGT plants are considered throughout the planning
+period since they have shorter lead time and lower investment cost
+(compared to coal and hydro). Similar observation can be made
+under a budget constraint of 0.5% of GDP.
+Overall, it can be observed that under budget constraints less
+than 1.5% of GDP, coal plants are virtually not attractive. Note that
+this is the opposite under the No Budget case. The reason for this
+could be that, although coal might be cheaper in the long run compared to say a CCGT plant, there is not sufficient fund available to
+finance the construction of coal plants which require huge investment upfront. Periodic budget could be saved until enough money
+is realized for the construction of a coal plant. However, doing so
+will rack up more cost to the economy as a result of high levels
+of unserved demand while waiting for enough savings. This mirrors the dilemma faced by many developing countries that are typically forced to invest in generation plants with lower capital
+investment cost but higher overall running cost in order to prevent
+high levels of unserved demand. Thus, although a 450 MW CCGT
+plant is not the best of choice under a No Budget case, it is the most
+preferred under a tight budget constraint.
+The values in Table 5 are the periodic cumulative installed
+capacity equivalent to the numbers from Table 4 under the various
+cases considered. The years in Table 4 relate to the year when construction begins, and the years in Table 5 relate to end of construction period (i.e. the year when a new generation capacity becomes
+available). The plot in Fig. 2 is based on information from Table 5
+
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+
+CCGT2
+CCGT1
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+2
+0
+1
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+1
+0
+1
+0
+1
+1
+1
+1
+1
+2
+0
+2
+1
+1
+1
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+1
+2
+1
+1
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+CCGT2
+
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+1
+1
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+2
+1
+1
+2
+1
+1
+2
+2
+3
+2
+3
+2
+1
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+CCGT2
+
+but including the initial installed capacity at the beginning of the
+planning period. Since there were already an existing installed
+capacity of 3857 MW in 2016, the total expected installed capacity
+under the No Budget, 1.75%, 1.5%, 1.25%, 1.0%, 0.75%, 0.5% and 0.25%
+of GDP, are respectively 11,997 MW, 11,797 MW, 11,547 MW,
+11,297 MW, 10,277 MW, 8507 MW, and 6407 MW. These numbers
+are close particularly for No Budget, and 1.75%, 1.5%, 1.25% and 1.0%
+of GDP allocation. The closeness of these numbers suggests, it is
+probably prudent allocating only 1.0% or 1.25% of GDP to the
+financing of new capacities.
+The ability to provide information on levels of unserved demand
+given a budget constraint would be critical to budget allocation
+decisions by managers. The values in Table 6 (also presented in
+graphical form in Fig. 3) give information on the expected percentage of unserved demand as a result of the available generation
+capacity from Table 5 plus the initial capacity of 3857 MW in
+2016. It can be seen from Table 6 that given the projected electricity
+demand, annual budget allocation corresponding to 0.25% of Ghana’s GDP for capacity expansion would be inadequate, and will lead
+to high level of unserved demand throughout the planning period.
+The expected unserved demand could reach 45% of projected
+demand in 2035. The situation improves somewhat under a 0.5%
+of GDP, although there is still a high percentage of expected
+unserved demand, reaching as high as 23.91% in 2035. The level
+of unserved demand improves significantly under a 0.75% of GDP
+and even better under a 1.0% GDP mainly as a result of the availability of more funds. With the exception of the early years (i.e. 2016–
+2018) when new generators are under construction and not yet
+available, the highest expected percent of unserved demand
+throughout the planning period under the 1.0% GDP is 3.49%.
+At periodic savings of 1.75% of GDP, the level of unserved
+demand is expected to be roughly 1% per year. As portrayed in
+Table 5 and 6, and also in Figs. 2 and 3, one of the benefits of using
+the proposed model is the ability to perform what-if analysis to
+enhance the capacity expansion decision making process. This benefit can further be observed in the cost-benefit analysis provided in
+the next subsection.
+4.2. Analyzing desired level of budget allocation
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+
+0.5% of GDP
+
+CCGT1
+Hydro
+CCGT2
+
+0.75% of GDP
+1.0% of GDP
+
+Hydro
+COAL2
+CCGT2
+Hydro
+COAL2
+CCGT2
+
+1.75% of GDP
+
+COAL2
+
+Hydro
+CCGT2
+
+COAL2
+
+Hydro
+
+1.5% of GDP
+
+1.25% of GDP
+
+Hydro
+
+CCGT2
+
+0.25% of GDP
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+No budget
+
+Table 4
+Suggested number of new generation plants and their starting period of construction under different levels of budget constraints. No Budget is the case where there is an unlimited fund for new generation capacities (i.e. no budget
+constraint). The generation plants of CCGT1, CCGT2, COAL2, and Hydro have maximum installed capacities of 300 MW, 450 MW, 250 MW, and 60 MW respectively.
+
+78
+
+Results from Table 6 provide analysis on the selection of appropriate budget allocation. The level of expected unserved demand
+under 1.0%, 1.25%, 1.5% and 1.75% of GDP are very close. This presents an argument as to whether it is worthwhile increasing periodic budget allocation from say, 1.0% of GDP to 1.25% of GDP. For
+example, from Table 6, increasing budget allocation from 1.5% to
+1.75% of GDP would reduce percent of unserved demand from
+1.6% to 1.15%. Although the percent of unserved demand has
+decreased, it does not necessarily imply that the increase in budget allocation is worthwhile. To determine the optimal budget allocation would require further analysis on the worthiness of
+increasing budget from say, 1.25% of GDP to 1.5% of GDP.
+A cost-benefit analysis procedure is presented in Table 7 for
+determining the worthiness of increasing a particular level of budget allocation using the cost information provided. The values
+under the column labeled Total Cost give the objective function
+value for the MILP-GEP problem for the various budget constraints.
+Although this cost decreases with increasing budget, it cannot
+determine whether increasing a budget allocation level is worthwhile since there might be some unused budget at the end of the
+planning period.
+The content of Table 7 includes additional cost information (in
+present values) on budget left at the end of the planning period,
+total commitment, and gains from the commitment. To understand
+the information under the Total Commitment column requires first,
+determining the present value of the additional amount added
+
+79
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+Table 5
+Cumulative new installed generation capacity (MW).
+Year
+
+No budget
+
+1.75% of GDP
+
+1.5% of GDP
+
+1.25% of GDP
+
+1% of GDP
+
+0.75% of GDP
+
+0.5% of GDP
+
+0.25% of GDP
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+
+0
+0
+900
+900
+1640
+1890
+2390
+2640
+2890
+3390
+3640
+3890
+4390
+4890
+5640
+6140
+6890
+7390
+7640
+8140
+
+0
+0
+450
+900
+900
+1410
+1530
+2040
+2290
+2740
+2990
+3690
+3940
+4640
+4890
+5590
+5840
+6540
+7240
+7940
+
+0
+0
+450
+450
+900
+1020
+1470
+2040
+2490
+2940
+2940
+3640
+3890
+4340
+5040
+5490
+6190
+6640
+7340
+7790
+
+0
+0
+450
+900
+900
+900
+1470
+2040
+2490
+2940
+2940
+3390
+3840
+4540
+4990
+5440
+5890
+6790
+7240
+7690
+
+0
+0
+0
+900
+900
+1350
+1410
+1860
+1980
+2430
+2940
+3390
+3840
+4290
+5190
+5190
+6090
+6540
+6990
+7440
+
+0
+0
+0
+450
+900
+1350
+1350
+1800
+2310
+2310
+2760
+3270
+3720
+4170
+4620
+5070
+5520
+5970
+5970
+6420
+
+0
+0
+0
+450
+450
+900
+900
+900
+1800
+1800
+2250
+2700
+2700
+3150
+3600
+3900
+4350
+4650
+4650
+4650
+
+0
+0
+0
+0
+0
+450
+450
+450
+900
+900
+900
+1350
+1350
+1800
+1800
+1800
+2250
+2550
+2550
+2550
+
+Installed Generaon capacity (MW)
+
+Comparison of installed generaon capacity under diﬀerent
+budget constraints
+12000
+10000
+8000
+6000
+4000
+2000
+0
+
+Year
+No budget
+1.25% of GDP
+0.5% of GDP
+
+1.75% of GDP
+1% of GDP
+0.25% of GDP
+
+1.5% of GDP
+0.75% of GDP
+
+Fig. 2. Comparison of total installed capacity under different levels of budget constraints.
+
+Table 6
+Percent of yearly unserved demand under different levels of budget constraints.
+Year
+
+No budget
+
+1.75% of GDP
+
+1.5% of GDP
+
+1.25% of GDP
+
+1% of GDP
+
+0.75% of GDP
+
+0.5% of GDP
+
+0.25% of GDP
+
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+1.36
+8.17
+1.16
+0.36
+1.41
+0.47
+1.67
+0.74
+0.77
+0.79
+0.93
+0.20
+0.73
+0.20
+0.84
+0.43
+1.38
+0.83
+0.27
+0.24
+
+1.36
+8.21
+1.16
+6.27
+1.41
+4.20
+1.71
+0.67
+0.45
+0.37
+1.12
+0.28
+0.85
+0.86
+0.52
+0.53
+0.61
+0.65
+0.16
+0.52
+
+4.17
+9.91
+2.40
+0.59
+1.44
+6.06
+1.73
+0.68
+0.39
+0.50
+1.07
+1.02
+0.98
+0.36
+0.63
+0.63
+1.16
+0.44
+0.27
+0.82
+
+4.82
+12.17
+16.70
+0.59
+3.27
+0.93
+3.01
+1.75
+3.49
+2.43
+1.88
+1.25
+1.41
+1.05
+0.41
+1.47
+0.74
+0.83
+0.77
+1.67
+
+4.92
+12.09
+18.24
+10.04
+3.77
+1.17
+5.66
+2.53
+1.34
+4.35
+3.00
+2.64
+2.55
+2.64
+2.86
+1.94
+2.84
+3.03
+6.12
+7.42
+
+4.99
+12.17
+18.42
+10.20
+16.36
+9.85
+16.43
+21.78
+7.76
+13.49
+10.58
+9.49
+15.41
+14.35
+13.91
+15.09
+12.42
+14.64
+18.65
+23.91
+
+4.99
+12.17
+18.42
+24.23
+29.43
+22.01
+27.72
+32.35
+27.18
+31.90
+36.37
+33.30
+37.69
+35.08
+39.54
+43.20
+42.14
+41.85
+41.87
+45.28
+
+Average
+
+0.00
+
+1.15
+
+1.60
+
+1.76
+
+3.03
+
+4.96
+
+13.99
+
+31.34
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+Unserved Demand (%)
+
+80
+
+Comparison of Yearly Unserved demand under
+diﬀerent budget allocons
+
+50
+40
+30
+20
+10
+0
+
+Year
+No budget
+
+1.75% of GDP
+
+1.5% of GDP
+
+1.25% of GDP
+
+1% of GDP
+
+0.75% of GDP
+
+0.5% of GDP
+
+0.25% of GDP
+
+Fig. 3. Comparison of yearly unserved demand under different budget allocations.
+
+Table 7
+Summary of important cost estimates (in present values) over the planning period. Total Cost is the total expected cost of electricity provision over the planning horizon; Increase
+in Budget is the additional funds required to move to the next higher budget level; Budget Left corresponds to budget left over at the end of the planning period; Total Commitment
+equals Increase in Budget minus Budget Left; Cost of Unserved Demand is the opportunity cost for electricity demand not met; Cost Savings from Reduction of Unserved Demand is the
+difference in Cost of Unserved Demand between two adjacent budget levels; Net Gain equals Cost Savings from Reduction of Unserved Demand minus Total Commitment.
+Case
+
+No budget
+1.75% of GDP
+1.5% of GDP
+1.25% of GDP
+1.0% of GDP
+0.75% of GDP
+0.5% of GDP
+0.25% of GDP
+
+($millions)
+Total cost
+
+Increase in
+budget
+
+Budget
+left
+
+Total
+commitment
+
+Cost of unserved
+demand
+
+Cost savings from reduction
+of unserved demand
+
+Net gain
+
+34963.58
+35470.00
+35549.74
+35741.40
+36160.34
+36812.22
+38071.73
+41094.11
+
+–
+1130
+1130
+1130
+1130
+1130
+1130
+–
+
+–
+415.76
+374.27
+216.27
+87.54
+41.13
+3.85
+0
+
+–
+714.24
+755.77
+913.73
+1042.46
+1088.87
+1126.15
+–
+
+0
+809.85
+1160.59
+1284.20
+2207.88
+3333.58
+8458.53
+18135.76
+
+–
+350.74
+123.61
+923.68
+1125.70
+5124.95
+9677.23
+–
+
+–
+363.50
+632.16
+9.95
+83.24
+4036.08
+8551.08
+–
+
+from increasing the budget from say, 1.0% to 1.25% of GDP. These
+values are listed under the Increase in Budget column for the
+various percent GDPs. For the budget values used, the increase in
+budget is $1.13E + 09 for any 0.25% increase. Values under Budget
+Left, are the present values of unused budget left at the end of
+the planning period. The values under Total Commitment are then
+obtained by subtracting the related unused budget from the
+increase in budget allocation.
+Values under Cost of Unserved Demand list the opportunity cost
+of the level of unserved demand expected under a particular percent GDP of budget constraint. The values under the Cost Savings
+from Reduction of Unserved Demand column are the difference in
+the cost of unserved demand between two adjacent budget levels.
+For example, increasing budget allocation from 1.25% of GDP to
+1.5% of GDP will reduce the cost of unserved demand from
+$1284.20 million to $1160.59 million. That is a gain of $123.61 million. To determine whether it is worthwhile increasing the budget allocation from one level to another, values under Total
+Commitment must be compared to those under Cost Savings from
+Reduction of Unserved Demand. The values under Net Gain are
+obtained by subtracting values under Total Commitment from the
+corresponding values under Cost Savings from Reduction of Unserved
+Demand. A positive Net Gain implies the increase is worthwhile,
+and a negative Net Gain means the increase is not worthwhile.
+Therefore, it is worthwhile increasing budget allocation from
+0.25% of GDP to 0.5% of GDP. It is also worth increasing the budget
+from 0.5% to 1.0%, and from 1.0 to 1.25% of GDP. It is however not
+worth increasing the budget from 1.25% to 1.5% of GDP, and likewise from 1.5% of GDP to 1.75% of GDP. The foregoing analysis suggests that the best budget allocation is the one at which total
+financial commitment (i.e. cost) equals cost savings (i.e. benefit)
+
+from the reduction of unserved demand, or one for which Net Gain
+is zero. Thus, the ‘optimal’ budget allocation would appear to be
+somewhere between 1.25% and 1.5% of GDP for the case study on
+Ghana. This conclusion can be observed from the unserved demand
+information in Table 6. Despite the increase from 1.25% to 1.5% of
+GDP allocation, the average unserved demands over the entire
+planning period are respectively 1.7% and 1.6%, the difference of
+which is quite insignificant and not worth the increase in budget.
+Results in Table 6 can be quite informative. For example, though
+it is beneficial increasing the periodic budget allocation from 1.0
+to 1.25%, the level of unserved demand under 1.0% of GDP could
+be considered acceptable for a developing country so that the additional funds could be allocated to other important sectors of the
+economy such as health and education. In fact based on result in
+Table 6 and the assumed model parameters, it can be argued that
+perhaps an annual budget allocation of 0.75% of GDP for capacity
+expansion investment is appropriate for a relatively poor country
+like Ghana.
+
+5. Conclusion
+In this paper a multi-period stochastic mixed integer linear programming (MILP) model was developed to analyze long-term generation capacity expansion planning under periodic budget
+constraint. The model assumes savings are made periodically
+towards the financing of new capacities, and that unused savings
+are available for use in subsequent periods.
+The results from a real case study applied to Ghana indicate that
+the proposed model better characterizes the generation capacity
+expansion problems in developing countries. In particular, the
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+model allows for insightful analysis of the impact of budget constraint on optimal mix and timing of power generation types,
+and the associated level of electricity demand not met. It was
+observed that a periodic budget allocation equivalent to 0.75% of
+GDP for the financing of new generation capacity will on average,
+be sufficient to meet 95.04% of annual demand (i.e. 4.96% of
+unserved demand) from 2016 to 2035. The level of unserved
+demand reduces to 3.03% for a periodic budget allocation equivalent to 1.0% of GDP. Given that a shortfall in electricity provision
+in Ghana in 2007 resulted in nearly 1.5% decrease in GDP, dedicating a small portion of the nation’s annual GDP to capacity investment might be worthwhile.
+On the mix of generation plants, it is observed that in general
+when under tight budget, a system planner would resort to generation plants with lower capital cost but higher running cost instead
+of waiting for enough funds to accumulate to build plants with
+higher capital cost but lower overall running cost. This is warranted in order to avoid higher cost of unserved demand over the
+waiting period.
+The paper also provided a means for determining the worthiness of increasing periodic budget allocations from say, 0.75% to
+1.0% of GDP by accounting for cost of unserved demand, budget left
+after the planning period, and increase in budget. Given the
+assumed cost of unserved demand for the case of Ghana, it will
+be worthwhile increasing periodic budget allocation from 0.75%
+to 1.0%, and from 1.0 to 1.25% of GDP. However, increasing the allocated budget from 1.25% to 1.5% of GDP (though would reduce
+level of unserved demand) would lead to an economic loss since
+the total budget increase will outweigh the benefit coming from
+the reduction in cost of unserved demand to the economy.
+The foremost contribution of the paper to the literature is the
+extension of the traditional capacity expansion model by the inclusion of periodic budget constraint which fits well with practices in
+many developing countries. This budget constraint is also formulated in a way to allow for the tracking of unused budget in each
+period as well as the availability of unused budget in subsequent
+periods. In addition, the paper provides a cost-benefit analysis procedure for determining the worthiness of a planned increase in the
+periodic budget allocation. The cost-benefit analysis procedure can
+also be used to find the optimal budget allocation needed to ensure
+minimal unserved demand.
+The proposed model offers a number of practical contributions.
+First, the proposal for periodic savings when adopted can reduce
+risk of high levels of unserved demand. The new model recognizes
+that the assumption of availability of sufficient funds implied in
+traditional GEP models is too utopian (at least to developing countries) and poses more risk. Evidence suggests that such assumption
+usually leads to rush and costly decisions in the aftermath of
+unavailability of funds. Second, by including budget constraint in
+the GEP model, developing countries are better informed and
+appreciative of the consequences of the budget limit – which is
+the level of unserved demand and its attendant cost to the national
+economy. This could awaken governments to increase the allocated budget. Third, unlike the traditional GEP model, the current
+model is suitable for carrying out what-if analysis (decision scenarios) to observe changes in the level of unserved demand for corresponding allocated budget. Lastly, the periodic saving habit
+advocated by the model has the potential to help developing countries analyze the possibility of self-financing for future generation
+capacity needs.
+A potential future work would be the consideration of uncertainty in fuel price and hydro water inflows, as well as explicit representation of the daily load curve to allow for the consideration of
+base and peak load plants. Market deregulation and risk hedging in
+price and demand are good future directions and practical extensions of this paper.
+
+81
+
+References
+[1] Wolde-Rufael Y. Electricity consumption and economic growth: a time series
+experience for 17 African countries. Energy Policy 2006;34:1106–14.
+[2] Yoo SH. The causal relationship between electricity consumption and
+economic growth in the ASEAN countries. Energy policy 2006;34:3573–82.
+[3] Eberhard A, Foster V, Briceño-Garmendia C, Ouedraogo F, Camos D, Shkaratan
+M. Underpowered: the state of the power sector in Sub-Saharan Africa. 2008;
+Background paper, 6.
+[4] Bazilian M, Chattopadhyay D. Considering power system planning in fragile
+and conflict states. Energy Sustain Dev 2016;32:110–20.
+[5] Iwayemi A. Nigeria’s dual energy problems: policy issues and challenges. Int
+Assoc Energy Econ 2008;53:17–21.
+[6] Jin S, Ryan SM, Watson JP, Woodruff DL. Modeling and solving a large-scale
+generation expansion planning problem under uncertainty. Energy Syst
+2011;2:209–42.
+[7] Oseni MO. Power outages and the costs of unsupplied electricity: evidence
+from backup generation among firms in Africa. Paper for PhD thesis.
+Cambridge University; 2012.
+[8] Wolfram C, Shelef O, Gertler P. How will energy demand develop in the
+developing world? J Econ Perspect 2012;26:119–37.
+[9] Hobbs BF. Optimization methods for electric utility resource planning. Eur J
+Oper Res 1995;83:1–20.
+[10] Kagiannas AG, Askounis DT, Psarras J. Power generation planning: a survey
+from monopoly to competition. Int J Electr Power Energy Syst 2004;26:413–21.
+[11] Botterud A, Ilic MD, Wangensteen I. Optimal investments in power generation
+under centralized and decentralized decision making. IEEE Trans Power Syst
+2005;20:254–63.
+[12] Shiina T, Birge JR. Multistage stochastic programming model for electric power
+capacity expansion problem. Jpn J Ind Appl Math 2003;20:379–97.
+[13] Awudu I, Zhang J. Stochastic production planning for a biofuel supply chain
+under demand and price uncertainties. Appl Energy 2013;103:189–96.
+[14] Louveaux FV, Smeers Y. Optimal investments for electricity generation: a
+stochastic model and a test problem. In: Ermoliev Y, Wets RJB, editors.
+Numerical techniques for stochastic optimization problems. Berlin: SpringerVerlag; 1988. p. 445–52.
+[15] Ahmed S, King AJ, Parija G. A multi-stage stochastic integer programming
+approach for capacity expansion under uncertainty. J Global Optim
+2003;26:3–24.
+[16] Feng Y, Ryan SM. Scenario construction and reduction applied to stochastic
+power generation expansion planning. Comput Oper Res 2013;40:9–23.
+[17] Chen H, Tang BJ, Liao H, Wei YM. A multi-period power generation planning
+model incorporating the non-carbon external costs: a case study of China. Appl
+Energy 2016;183:1333–45.
+[18] Cheng R, Xu Z, Liu P, Wang Z, Li Z, Jones I. A multi-region optimization
+planning model for China’s power sector. Appl Energy 2015;137:413–26.
+[19] Koltsaklis NE, Dagoumas AS, Kopanos GM, Pistikopoulos EN, Georgiadis MC. A
+spatial multi-period long-term energy planning model: a case study of the
+Greek power system. Appl Energy 2014;115:456–82.
+[20] Zhang D, Liu P, Ma L, Li Z, Ni W. A multi-period modelling and optimization
+approach to the planning of China’s power sector with consideration of carbon
+dioxide mitigation. Comput Chem Eng 2012;37:227–47.
+[21] Koltsaklis NE, Georgiadis MC. A multi-period, multi-regional generation
+expansion planning model incorporating unit commitment constraints. Appl
+Energy 2015;158:310–31.
+[22] Santos HL, Legey LF. A model for long-term electricity expansion planning with
+endogenous environmental costs. Int J Electr Power Energy Syst
+2013;51:98–105.
+[23] Bakirtzis G, Biskas P, Chatziathanasiou V. Generation expansion planning by
+MILP considering mid-term scheduling decisions. Electr Power Syst Res
+2012;86:98–112.
+[24] Gorenstin BG, Campodonico NM, Costa JP, Pereira MVF. Power system
+expansion planning under uncertainty. IEEE Trans Power Syst 1993;8:129–36.
+[25] Lee GC, Höhenrieder M, Watson JP, Woodruff DL. Chance and service level
+constraints for stochastic generation expansion planning. NETNOMICS: Econ
+Res Electron Netw 2015;16:169–91.
+[26] Kim H, Sohn H, Bricker DL. Generation expansion planning using benders
+decomposition and generalized networks. Int J Ind Eng Theory Appl Pract
+2011;18:25–39.
+[27] Yuan C. Optimal generation expansion planning for a low carbon future. PhD
+dissertation, University of Bath; 2013.
+[28] Berman O, Ganz Z, Wagner JM. A stochastic optimization model for planning
+capacity expansion in a service industry under uncertain demand. Nav Res
+Logist 1994;41:545–64.
+[29] Vespucci MT, Bertocchi M, Pisciella P, Zigrino S. Two-stage stochastic mixed
+integer optimization models for power generation capacity expansion with
+risk measures. Opt Methods Softw 2016;31:305–27.
+[30] Jordan R. Incorporating endogenous demand dynamics into long-term
+capacity expansion power system models for developing countries. PhD
+thesis, MIT; 2013.
+[31] Sharma D, Bhattacharya K. A planning model for investor firms in the
+generation sector and financial analysis. In: IEEE power & energy society
+general meeting; 2009. PES’09, 1–7.
+[32] Tractabel Engineering. Generation master plan study for Ghana. GridCo.; 2011.
+<http://www.gridcogh.com/media/photos/forms/annual/2011%20GRIDCo%
+20Annual%20Report.pdf./> [accessed 6.22.15].
+
+82
+
+A. Afful-Dadzie et al. / Applied Energy 188 (2017) 71–82
+
+[33] Mitra SA. White paper on scenario generation for stochastic programming.
+Optirisk systems: white paper series; 2006. Ref. No. OPT004.
+[34] Gröwe-Kuska N, Heitsch H, Römisch W. Scenario reduction and scenario tree
+construction for power management problems. Power tech conference
+proceedings, vol. 3. IEEE Bologna; 2003. p. 7.
+[35] Breeden JL, Ingram D. Monte Carlo scenario generation for retail loan
+portfolios. J Oper Res Soc 2010;61:399–410.
+[36] Ghana Grid Company Limited. ‘‘2014 electricity supply plan”. GridCo.; 2015.
+<http://www.gridcogh.com/media/photos/forms/supplyplan/2014_
+Electricity_Supply_Plan.pdf/> [accessed 6.22.15].
+
+[37] Energy Commission, Ghana. Energy supply and demand outlook for Ghana;
+2015.
+<http://energycom.gov.gh/files/Energy%20Outlook%20for%20Ghana%
+20-%202015.pdf/>; [accessed 6.14.15].
+[38] Brinckerhoff P. Electricity generation cost model. update revision
+1. London: Department for Energy and Climate Change; 2011.
+[39] Kaplan S. Power plants: characteristics and costs. DIANE Publishing; 2011.
+[40] World Bank Group ed. World Development Indicators 2015. World Bank
+Publications;
+2015.
+<http://data.worldbank.org/data-catalog/worlddevelopment-indicators/> [accessed 10.14.16].
+
+

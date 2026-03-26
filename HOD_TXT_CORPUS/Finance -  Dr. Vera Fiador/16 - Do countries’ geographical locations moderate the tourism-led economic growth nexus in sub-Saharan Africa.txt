@@ -1,0 +1,622 @@
+
+
+
+
+
+Special Issue: Africa Rising – Tourism Economics Research in Africa
+
+
+Do countries’ geographical locations moderate the tourism-led economic growth nexus in sub-Saharan Africa?
+
+
+
+
+Tourism Economics 1–31
+ª The Author(s) 2021 Article reuse guidelines:
+sagepub.com/journals-permissions DOI: 10.1177/13548166211015512
+journals.sagepub.com/home/teu
+
+
+
+
+Francis Baidoo 
+Faculty of Business and Social Sciences, Academic City University College, Ghana Department of Finance, University of Ghana Business School, Ghana
+BOS Global Consult Limited, Ghana
+Department of Accountancy, Koforidua Technical University, Koforidua, Ghana
+Elikplimi Komla Agbloyor
+Department of Finance, University of Ghana Business School, Ghana University of Stellenbosch Business School, Stellenbosch, Western Cape, ZA
+Vera Ogeh Lassey Fiador
+Department of Finance, University of Ghana Business School, Ghana
+Nana Amaniampong Marfo
+Department of Finance, University of Ghana Business School, Ghana
+Parliamentary Committee on Trade, Industry and Tourism, Parliament House, Accra – Ghana
+
+
+
+
+
+Abstract
+Debates on the intricacies of tourism’s potential contribution to economic growth remain imperative and unsettled in sub-Saharan Africa (SSA). Employing dynamic models and multiple robust estimation techniques, this article empirically tests the tourism-led growth hypothesis (TLGH) in the case of SSA. Further investigations on how countries’ geographical locations influence the TLGH are conducted. With panel data – spanning from the year 2000 through 2016 – on 40 SSA countries, which were regrouped into coastal, landlocked and islands, the study establishes evidence in support of the TLGH for the full sample. After geographical classifications, tourism’s impact on economic growth is, however, observed to be significantly positive for only landlocked and coastal countries. Surprisingly, the impact of tourism on economic growth is sig- nificantly negative for islands within the subregion. The findings hold policy implications for the pursuit of tourism-led growth in the SSA region.
+
+
+Corresponding author:
+Elikplimi Komla Agbloyor, Department of Finance, University of Ghana Business School, P.O. Box LG 78, Legon, Ghana. Email: ekagbloyor@ug.edu.gh
+
+
+Keywords
+dynamic panel models, economic growth, sub-Saharan Africa, system generalised method of moments, tourism dynamics
+
+
+Introduction
+Tourism, an interdisciplinary sector of the world’s economy, is a significant contributor to global economic growth and development (United Nations Conference on Trade and Development (UNCTAD), 2005; United Nations World Tourism Organisation (UNWTO), 2010; World Bank, 2013a, 2013b; World Travel and Tourism Council (WTTC), 2011a). Over the past three decades, earlier studies on tourism’s economic benefits, with more focus on regions other than sub-Saharan Africa (SSA), have assessed and projected tourism as a fundamental engine of growth for China, Barbuda and Antigua, India and other European countries (see Cao et al., 2017; Schubert et al., 2011; Yazdi, Nateghian, and Rezaie, 2017). Prior to 2020 and the outbreak of COVID-19 pan- demic, tourism was responsible for 9.1% of the world’s gross domestic product (GDP), con- tributing about US$ 6 trillion (WTTC, 2011a, 2011b). Tourism accounts for 8.8% of the world’s total employment, 5.8% of the world’s total exports, coupled with a 4.5% of global investments and production capacity expansion. The WTTC estimates the contribution of tourism to job cre- ation to be 3.8 million in SSA alone, from 2013 through 2023 (WTTC, 2013).
+  Tourism in SSA has shown some resilience in the past, increasing while to other regions declined. For example, the number of tourist arrivals increased by 3.7% for SSA, even though that of the world experienced a 4.3% decline during the 2008 and 2009 economic crises (UNWTO, 2010; World Bank, 2011). The evidence suggests that tourism has promoted economic growth across major regions such as Asia, Europe, North and South America, just to mention a few, with SSA also gradually receiving its share of the global benefits from the sector (Obi et al., 2016; United Nations Conference on Trade and Development (UNCTAD), 2016a, 2017; World Tourism Organisation (WTO) Tourism Highlights, 2017). These global statistics and theoretical projections about the potential benefits of tourism to countries within the SSA region are supported by some sparse studies that have attempted to show tourism’s positive effect on economic growth in Africa and its subregions (see e.g. Fayissa et al., 2008; Nyasha et al., 2020).
+  In the presence of these theoretical claims, the sparse empirical studies on the tourism-led- growth hypothesis (TLGH), in the case of SSA, have produced mixed results. For instance, Nyasha et al. (2020) postulated that the impact of tourism development on economic growth is not obvious – and that the income levels of countries and the specific proxy used to measure tourism both influence the TLGH in SSA. Further, an examination of data from the World Development Indicators (WDI) (from the year 2000 through 2016) shows a comparatively increasing trend in International Tourism Receipts among the top ten tourism-specialised countries in SSA (see Figure 1 and Table 1). Conclusions from Table 1 indicate, among others, that receipts from international tourism form a major part of total exports for most SSA countries, with Cabo Verde, Seychelles and Mauritius recording an average of 56%, 40.31% and 31.52%, respectively, over the 17-year period. The average of international tourism receipts as a proportion of total exports stood at 7.58% for SSA over the same period. In addition, Figure 1 reveals continuous increments in the size of international tourism receipts for these tourism-specialised SSA countries. Interestingly, all the SSA countries experienced a persistent increase in this indicator, with Seychelles, Mauritius,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. A comparative trend of international tourism receipts among top 10 tourism-specialised countries in SSA, for the years 2000 through 2016. Source: Authors’ with WDI, 2018 data. Amounts are in billion US$. SSA: sub-Saharan Africa.
+
+Table 1. Top 10 tourism-specialised countries in SSA based on average of international tourism receipts as a percentage of total exports, for the period 2000 through 2016.
+
+Countries/Sub-region%Geographical locationCabo Verde56.00IslandSeychelles40.31IslandMauritius31.52IslandRwanda30.53LandlockedTanzania26.01CoastalKenya17.39CoastalNamibia14.13CoastalSouth Africa10.30CoastalBotswana9.60LandlockedZambia7.94LandlockedSSA7.58Note: SSA: sub-Saharan Africa.Source: Authors’ with WDI, 2018 data.
+Tanzania and South Africa leading with remarkable incremental trends. Kenya, despite a sudden decline in international tourism receipts from 2013 through to 2016; popularly attributed to the terrorist attacks in the year 2012, was also, not left out in the incremental trend. The data also suggest a positive correlation between international tourism receipts and GDP per capita (constant 2010 US$) for the top three tourism-specialised countries within the subregion (see Figure 2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. (a) to (c) Co-movements between international tourism receipts and GDP per capita (current US$) among top three tourism-specialised countries in SSA, for the years 2000 through 2016. Source: Authors’ with WDI 2018 data. GDP: gross domestic product; SSA: sub-Saharan Africa.
+
+  Owing to the trends and relationships in recent tourism and economic growth data, coupled with the absence of specific literature that test the intricacies of the TLGH in the case of SSA, this study, first and foremost, seeks to empirically explore the tourism-led economic growth nexus in SSA. More specifically, the study expands and repositions the work of Fayissa et al. (2008) – which only explored the TLGH for some selected African countries – by employing more recent annual data (2000 through 2016) and diverse robust estimation techniques to empirically investigate the broader impact of tourism on economic growth in a sample of 40 SSA countries.
+  Moreover, a careful review of the extant literature reveals that very few empirical studies have explored the TLGH and taken into consideration the potential moderating role of countries’ geo- graphical locations. Among such sparse studies are the works of Narayan et al. (2010) and Seetanah (2011) who jointly opined that tourism positively and significantly impacts economic growth in higher magnitudes in the case of islands and smaller countries who have specialised in the sector. Similarly, Lin et al. (2019) also postulated that the geographical area of a region influences its ability to offer diverse cultural and natural sites and monuments such as unique waterfalls, wildlife and historic forest reserves, zoos, aquaria, ancient temples and others towards the varied needs of inbound tourists. Again, literature opines that the comparative levels of natural uncommon and attractive sites among nations partly determine the extent to which they specialise in tourism and the ensuing economic benefits they derive from this multifaceted sector (Lanza and Pigliaru, 2000).
+  The foregoing suggests that the geographic location of a country matters in altering the rela- tionship between tourism and economic growth for a number of reasons. For example, UNCTAD’s Handbook of Statistics (2005) observed that landlocked countries (LLCs) in SSA are very prone to drought, evidenced by Ethiopia’s experience in 2003 which adversely affected about 15 million people and further resulted in a massive contraction of the country’s economy. Meanwhile, islands in SSA are periodically affected by cyclones, with Madagascar experiencing it twice in the year 2004 alone (UNCTAD, 2005).
+
+
+Stylised facts
+A further analysis on SSA countries, and their specific geographical locations, reveals distinctive characteristics (see Online Appendices I and II). For the purposes of these analyses, the
+
+
+geographical classifications follow that of UNCTAD Handbook of Statistics (2005) which cate- gorises SSA countries into three groups based on their closeness to the Atlantic and/or Indian Oceans. According to UNCTAD (2005), countries that share border(s) with any of these oceans are grouped as coastal countries (CC). Those that do not share border(s) in any way with these oceans are grouped as LLC. Countries that are fully located within such oceans are grouped as islands (IA). Our geographically segregated subsamples have 18 CC, 17 LLC and 5 AI as listed in Online Appendix I
+  Observations from the study data, as summarised in Online Appendix II, reveal the following differing stylised facts among the three geographical groups. (1) International tourism receipts per tourist is higher among islands, followed by CC and LLC. (2) Islands received more foreign direct investments (FDIs) than CC and LLCs. (3) Islands were more opened to international trade, fol- lowed by CCs, and lastly, LLCs. (4) Islands experienced the highest trade deficit, followed by LLCs, and lastly, CCs. (5) Islands were more politically stable, compared to CC and LLC. (6) Islands depended more on imported goods and services compared to CC and LLC. (7) Islands depended less on revenues from extractive natural resource rents compared to CC and LLCs. This may be because islands have alternative sources of national revenues that are primarily services oriented like tourism.
+  Potential reasons accounting for these observations in the data may include massive access to large natural beaches in the case of islands, followed by CCs, with LLCs having few man-made ones. Differences in direct access to international trading routes such as shipping ports that ease trading among these geographical groups could also partly explain these observations. For instance, LLCs mostly have no direct shipping routes to aid quick and one-time massive inter- national trading activities compared to coastal and island countries. Last but not least, differences in the frequency of domestic and/or international political instability, and sequel armed conflicts among these geographical regions is a potential explanatory factor. For instance, in SSA, politi- cally linked instabilities are mostly prevalent among resource-rich CC (such as Angola, Cote d’Ivoire and Congo), followed by LLC (such as Uganda), with very few similar instances or none at all occurring among islands (such as Cabo Verde, Mauritius and Seychelles).
+  Against the backdrop that differing factors influence tourism (and economic growth) across distinct terrestrial settings in SSA, this study further examines the effect of tourism on economic growth across these differing geographical settings.
+  The remaining sections of this article are arranged as follows. The second and third sections, respectively, expand on the review of related literature and the adopted methodology. The empirical findings with discussions are codified in the fourth section. The fifth section concludes the study by summarising the findings, with ensuing policy recommendations.
+
+
+Literature review
+Review of related literature on tourism and economic growth
+Since the early 1950s, the contribution of tourism to economic growth of nations has increasingly caught the interest of scholars, although the volumes of literature on the concept remarkably grew in the 21st century when the global demand for tourism goods and services increased (see Pablo-Romero and Molina, 2013). Generally, most studies, including Dritsakis (2004), Durbarry (2004), Odhiambo (2011), Oh (2005) and Webster (2007), viewed tourism as an additional route to growing a country’s exports with the aim of earning higher foreign exchanges, expanding
+
+
+local employment base as well as raising additional fiscal revenues for both host and home governments.
+  In line with this, Akinboade and Braimoh (2010) and Nowak et al. (2007) similarly argued that international tourism potentially transmits into improved economic growth through positive externalities in the form of improved competition, leading to innovations among local tourism industry players, and an increment in imported capital goods geared towards advanced local productions. This seems to confirm the argument that tourism tends to have greater impact and spill-over effects on economic growth in economies in which tourism is heavily linked to other sectoral operations such as the oil extraction, mining, manufacturing and many more (Bezic and Radic, 2017; Cao et al., 2017; Chen, 2017; Fauzel et al., 2016; Naude´ and Saayman, 2005;
+Tomohara, 2016).
+  The TLGH has been studied extensively outside SSA, and mostly at country specific levels, over the most recent decade, using a mixture of both non-econometric and robust econometric methodologies. For instance, Vanegas and Croes (2003) and Balaguer and Cantavella-Jorda´ (2002) argued in favour of the TLGH in the case of Aruba and Spain, respectively, pointing out that tourism has a positive impact on growth.
+  Many econometric methods have also been employed to explore the TLGH of specific coun- tries, economic regions and even across the globe. For example, Durbarry (2004) used time series data covering the year 1952 through 1999, and OLS and error correction model estimation tech- niques to confirm the TLGH for Mauritania. For Spain, Nowak et al. (2007) theoretically and empirically established that tourism promotes economic growth through the importation of capital goods. For Barbuda and Antigua, a study by Schubert et al. (2011), which employed the AK model to capture tourism supply, and a vector error correction model on annual data ranging from 1970 to 2008, showed that tourism demand indeed results in economic growth in both the long- and short- term periods. More recently, Pulido-Ferna´ndez and Ca´rdenas-Garc´?a (2021) confirmed a bidir- ectional relationship between tourism and economic development in 143 countries across the globe. Also, using data on 11 countries of the Economic Community of West African States and panel cointegration technique, Salifou and Haq (2017) confirmed a long-run positive relationship from tourism to economic growth.
+  However, other studies have shown an initial positive, followed by a negative, and even vice versa impact of tourism on economic growth. More specifically, Jin (2011) employed a vector autoregressive (VAR) model on Hong Kong’s quarterly data from 1974 to 2004 to establish a short-run positive impact of tourism expansion on economic growth. The study, however, could not find any long-run relationship between the two variables. Meanwhile, Akinboade and Braimoh (2010), in the case of South Africa, concluded that there exists a positive unidirectional flow from international tourism to economic growth, using annual data ranging from 1980 to 2005, and a multivariate autoregressive model. On the contrary, Brida et al. (2010) showed an initial short-run negative impact of tourism on economic growth and a positive long-run effect in the case of Trentino-Alto Adige, Northern Italy.
+  Meanwhile, Lean and Tang (2010), extending the work of Gunduz and Hatemi (2005) on Turkey, employed data spanning from January 1989 through February 2009 on Malaysia, and with the help of a VAR system and granger causality test, established the presence of a valid and a long- run stable bidirectional relationship between tourism and economic growth. This was confirmed by Schubert et al. (2011) who used the same methodology but with data ranging from 1970 through 2008 on Antigua and Barbuda.
+
+
+  Observationally, Pablo-Romero and Molina (2013) pointed out that most studies (see Bezic and Radic, 2017; Bojanic and Lo, 2016; Obi et al., 2016; Peric´ and Radic´, 2016; Rivera, 2017; Tang et al., 2007; Tomohara, 2016) focused on small islands on a principle that such settings, the islands, have peculiar features in terms of country size which in turn influences the impact of tourism on economic growth. For instance, Bojanic and Lo (2016) partly established that tourism tends to have a significantly negative impact on economic development in LLCs, islands and small island- developing states that rely heavily on the sector. This argument notwithstanding, Pablo-Romero and Molina (2013) additionally postulated from a review of extant literature on the TLGH that certain factors, other than the size of the area under review, play roles in influencing the potential impact of tourism on economic growth and that the degree of a region’s specialisation in tourism is a common moderator of the relationship for both larger and smaller economic units and subregions.
+  Various distinct internal and external economic and nature-related characteristics exhibited by countries and regions have also been documented as potential influencing factors on the TLGH. For instance, a study on SSA documented that the TLGH is not obvious but heavily depends on the income levels of participating countries within the subregion (Nyasha et al., 2020). More precisely, Nyasha et al. (2020) observed that the impact of tourism expenditure on growth is significantly mixed and inconclusive among middle-income and significantly negative for low-income coun- tries in SSA. Nyasha et al. (2020) further observed that tourism receipts positively impact eco- nomic growth in low-income countries only, with no significant impact among middle-income countries. In addition, a review of literature by Pablo-Romero and Molina (2013) documented that countries’ and regions’ sensitivity to global macroeconomic variables, state and trends of meteorological indicators, and political instability, tend to influence how tourism impacts eco- nomic growth.
+  Congruently, Lin et al. (2019) also opined that the geographical area of a region influences its ability to offer diverse cultural and natural attractions (such as year-round salubrious climates, relatively cleaned beaches and reefs, lush and verdant terrestrial environments – Milne, 1992) towards the varied needs of inbound tourists. Again, literature postulates that the comparative levels of natural resource endowment among nations determine the extent to which they specialise in tourism and the ensuing economic benefits they derive from this multifaceted sector (Lanza and Pigliaru, 2000). This is so because regions with varied tourism products attract more tourists to stay longer and inject significant capital into the local economies by spending more (Leones et al., 1998). Also, the availability of more tourist destinations within a particular region is observed to reduce the seasonal nature of the tourism industry and further sustains economic benefits from the sector in the long run, as varied sites interest tourists in different times through the year (Claver- Corte´s et al., 2007; Koenig-Lewis and Bischoff, 2005).
+  With the current increment in international tourism receipts as a percentage of total export revenues within the subregion (UNCTAD, 2016b; Authors’ own computations with WDI 2018 data, as shown in Figures 1 and 2 and Table 1), it becomes imperative to relook at the TLGH of SSA and its distinctive geographical locations. Further, and more intriguing, given that SSA is geographically segregated into coastal, landlocked and island countries, with each region being exposed to dissimilar meteorological-related conditions and economic-related activities, and unequal frequencies in political instabilities and income levels, there exists a potential possibility that the impact of tourism on growth may not be universal across the regions but rather differ across different geographical locations. Thus, we test the effect of tourism on economic growth, considering the role of countries’ geographical locations.
+
+
+Methodology
+This study employs a quantitative panel data approach on 40 SSA countries. Variables of interest on these countries are collated from the year 2000 through 2016. Owing to the practice by earlier studies (Asiedu, 2002, 2006; Brooks, 2008; Ntuli, 2014; Wooldridge, 2002, 2009), eight countries within the SSA subregion were omitted from the analysis due to lack of data. These countries are Somalia, South Sudan, Gabon, Liberia, Equatorial Guinea, Sao Tome and Principe, Mauritania and Burundi.
+  In terms of model specification, we follow Nyasha et al. (2020), Nene and Taivan (2017) and Seetanah (2011) and consider a modified dynamic panel model in the form:
+X8
+
+where ei; t = vt + µi + gi; t , with Yi,t being the outcome variable, economic growth, and Y i; t—1
+being its first lag. TRi; t also denotes tourism development.
+  Following the works of Cannonier and Burke (2019), Fauzel et al. (2016), Yazdi et al. (2017), Seetanah (2011) and Chee and Nair (2010) on the contributions of tourism industry and FDI to economic growth of Mauritius, Iran, islands and Asia and Oceania, respectively, this study employs the augmented dynamic panel model below (equation (2)) to investigate the independent impact of tourism developments on economic growth in the case of SSA and further explores whether the three identified geographical locations moderate this potential connection.
+X8
+
+where hi; t = y´t + u´i+ c¸i; t , where for all equations (1, 2, and 3), subscripts i and t connote cross- sectional country dimensions, i = 1 ... N (N = 40 countries), and time series dimensions, t = 1
+... T (T = 17 years), respectively. The composite error terms, hit, eit, and $i, t are further decomposed into country and time specific effects (µi, vt, y´t, u´i, qt, si), and the remaining dis- turbance error terms (c¸it, git and ?i, t), with an expected average of zero, and a constant and finite variance over all periods under consideration. The a’s, b’s and d’s represent the various parameters on the individual explanatory variables yet to be estimated.
+GTHi; t and GTHi; t—1 connote the natural log of GDP per capita and its lag (1), respectively, all
+measured at constant 2010 US$. This is used to proxy economic growth, following earlier scholars like Agbloyor et al. (2016) and Seetanah and Khadaro (2007). As a robustness check, this study uses GDP growth (annual %) as an additional standard proxy for economic growth.
+  Also, TRit represents the natural log of international tourism receipts which is used to proxy tourism development, following Cannonier and Burke (2019), Samimi et al. (2013), Kim et al. (2006), Sinclair (1998) and Sinclair and Stabler (2002). Again, following Cannonier and Burke (2019), Seetanah (2011) and Wang and Godbey (1994), this study uses the natural log of inter- national tourism, number of arrivals, as an additional standard proxy for tourism development, and also for robustness check.
+  Further, standard determinants of economic growth are used as controls in this study. They include FDIs, which is net FDI inflows as scaled by GDP; DCPS, domestic credit provided by financial sector (% of GDP), as a proxy for financial development; lnER, natural log of official exchange rate (local currency to US$, annual averages); INSTQUA, institutional quality
+
+
+(computed as the simple average of the six world governance indicators (WGIs)); CPIC, Consumer Price Index (as a measure of inflation); and lnNR, the natural log of natural resources (computed as the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents and forest rents).
+  To investigate, for the first time, the influence of countries’ geographical location on the TLGH in SSA, we employ two estimation strategies following extant empirical papers (Agbloyor et al., 2016; Alfaro et al., 2004; Asiedu, 2004; Kusi et al., 2017). Firstly, we segregate the 40 countries into the three major geographical groups and estimate equation (2) in turn for all the subsamples. Results from this technique are presented in Table 7. Secondly, and as a robustness check, we introduce dummy variables (‘LLC’, ‘CC’ and ‘AI’ for landlocked, coastal and island countries, respectively, all represented as ‘GLD’ in equation (3) for conciseness), which takes ‘1’ for a specific geographical group and ‘0’ otherwise. We econometrically follow Chee and Nair (2010) who recommended the exclusion of dummies ‘on their own’ in fixed effects (FE) supported models (such as system generalised method of moments (SGMM)) as time-constant regressors lead to perfect multicolinearity. Accordingly, we, in turns, interact tourism development proxies with the geographical dummy variables (while excluding the dummies ‘on their own’ in the model) to estimate the main and the geographic conditional effects of tourism development on economic growth. This second technique preserves the number of observations used in the analysis, com- pared to the sample splitting approach. Equation (3) models the latter described approach, with its results presented in Online Appendix V.
+
+
+GTHi; t = d1GTHi; t—1 + d2TRi; t + d3(TRi; t x GLDi)+ 
+
+9
+
+j=4
+
+
+d j CONTROLS i; t + $i; t	(3)
+
+where $i; t = qt +si+?i; t, and ‘GLD’ denotes geographical location dummies (LLC – Dummy, CC – Dummy and AI – Dummy).
+
+
+Justifications for the choice of control variables
+Foreign direct investments (FDIi, t). FDI is defined as the net inflows of investments to achieve control and lasting management interests of a minimum of 10% in a business primarily operating in a country apart from that of the investor. Thus, the FDI variable shows net inflows (new investment inflows less disinvestment) in the receiving economy from foreign investors, scaled by GDP, following earlier works (Agbloyor et al., 2014; Asiedu, 2002, 2006). The study expects FDIs to have a positive impact on economic growth as it serves as an additional source of financial muscle for viable investments within the subregion.
+
+Financial development (DCPSi, t). The relationship between financial development and economic growth has been extensively delved into by earlier studies. Referring to the roles of financial intermediaries as levelled by Schumpeter (1911), which include savings mobilisation, projects evaluations, risk management, monitoring of managers and transaction facilitation, it is evidenced that financial development is important for economic growth. In line with this, Agbloyor et al. (2014), Alfaro et al. (2004) and Azman-Saini et al. (2010) postulated that the level of financial development within a host country is heavily considered by foreign investors. This study proxies financial development with financial resources provided to the private sector by financial insti- tutions through loans, and trade credits and other accounts receivables, which establish liabilities. We expect the variable to impact economic growth positively.
+
+
+Exchange rate (lnERi, t). The influence of exchange rate volatilities on economic growth in the host country has been established in most empirical works (Adigwe et al., 2015; Alfaro et al., 2004; Obi et al., 2016; Oseni, 2016; Sonne et al., 2013; Yazdi, Nateghian, & Rezaie, 2017 ). It is measured as the average amount of local currency required to obtain a unit of US$. This study expects exchange rates to positively impact economic growth. We acknowledge that the impact of the exchange rate on economic growth is complex. However, a depreciation of the local currency increases exports, improves the balance of payments position and increases international competitiveness.
+
+Institutional quality (INSTQUAi, t). Strong institutions play important roles in protecting property rights and ensuring political stability, which are key to economic growth. Employing the WGIs as developed by Kaufmann et al. (2011), this study makes use of the simple average of the estimates for the six key WGIs to proxy institutional quality, in accordance with Agbloyor et al. (2016). These six main indicators consist of control of corruption, regulatory quality, governance effectiveness, political stability and absence of violence/terrorism, rule of law and voice and accountability. All other things being equal, the study expects institutional quality to impact economic growth positively.
+
+Inflation rate (CPICi, t). Inflation tends to increase the cost at which productive deficit units obtain capital from surplus units (Boateng et al., 2015; Kinuthia and Murshed, 2015; Obi et al., 2016). This, in the end, limits investment activities, thus impeding economic growth (Butler, 2010). We proxy inflation with consumer price index – CPI (see Asongu and Odhiambo, 2020; Barro, 2003) and expect a negative impact on economic growth.
+
+Natural resources (NRi, t). The effect of natural resources on growth has been a mixed one, with Asongu and Odhiambo (2018a) and Brunnschweiler (2008) projecting it as a blessing against the disfavouring resource-curse position levelled by Sachs and Warner (1995). In this study, the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents and forest rents obtained from the WDI is used to proxy natural resources, even though earlier studies like Kolstad and Wiig (2012) used only total oil rents. Owing to the mixed impacts of natural resources on economic growth, this study also expects the same. Table 2 summarises the third section.
+
+
+Descriptive statistics
+The statistical features of the panel data used for this study are summarised in Table 3. As a measure of central tendency and dispersions within the data set, the mean of each variable with their respective standard deviations is reported. SSA’s GDP growth and GDP per capita averaged 4.5% and US$1796.8, respectively, within the study period, with the Central African Republic recording GDP growth of —36.7% in the year 2013. Meanwhile, Sierra Leone recorded a remarkable GDP growth of +26.42% in year 2002. Seychelles recorded the highest GDP per capita of US$13,963.6 in the year 2016, with Ethiopia recording the least in the year 2003. Also, the minimum number of tourists hosted in a year by an SSA country (within the period under review) is 2900 (for Central African Republic in the year 2002), with South Africa recording 9,592,000 visitors, the highest, in the year 2008. Regarding the highest receiver from international tourism over the period under consideration, again South Africa, recorded US$11.2 billion, in 2012 alone, while an average US$526,720,897 was recorded among the entire sample.
+
+
+
+
+Table 2. Summary of variables.
+
+Variable nameSymbolsDefinition of variablesData sourceExpected effectEconomic growthGTHi, tAs a robustness check, we employ two standard proxiesWorld Development IndicatorsDependent
+
+
+One-year lag of economic growth
+
+for Economic growth, namely, GDP per Capita
+(measured at constant 2010 US$) [GDPPC], and GDP growth (annual %) [GDP_GROWTH]
+GTHi, t—1  Following Nyasha et al. (2020), the study expects
+immediate past year’s economic growth to influence current growth levels, thus, the adoption of dynamic panel models.
+
+(WDI) (2018)
+
+
+Authors’ from data derived from WDI (2018)
+
+variable(s)
+
+
+Positive
+
+Tourism developmentLn(TR)i, tThis comprises of two measurements, International Tourism, Receipts (current US$) (ITR), andGenerated by authors from data derived from WDI (2018)PositiveInternational Tourism, Number of Arrivals (ITN).Foreign direct
+investmentsLn(FDIi, t)Foreign direct investments are the net inflows of
+investments to acquire a lasting management interestWDI (2018)Positive(10% or more of voting stock) in an enterpriseoperating in an economy other than that of theinvestor. It is the sum of the nets of equity capital,reinvestment of earnings, other long-term capital andshort-term capital, scaled by GDP.Financial developmentsDCPSi, tThis refers to financial resources provided to the private
+sector by financial corporations through loans, andWDI (2018)Positivetrade credits and other accounts receivables, whichestablish liabilities, all scaled by GDP.(continued)
+
+
+
+
+
+
+Table 2. (continued)Variable nameSymbolsDefinition of variablesData sourceExpected effectExchange rate.Ln(ERi, t)This refers to the exchange rates reported by national regulatory bodies. It measures average amount of localGenerated by author from data derived from WDI (2018)Positivecurrency required to obtain a unit of US$. It is used toproxy exchange rate.Institutional qualityINSTQUAi, tA simple average of the six World Governance Indicators: Control of corruption, Regulatory quality,Generated by author from data derived from World GovernancePositiveGovernance effectiveness, Political Stability andIndicators (WGI) (2018)absence of violence/terrorism, Rule of law and Voiceand accountability.Inflation rateCPICi, tThis index reflects changes in the cost to the averageWDI (2018)Negative
+consumer of acquiring a basket of goods and services
+that may be fixed or changed at specified intervals, such as yearly.
+Natural resources	Ln(NRi, t)	This refers to the sum of oil rents, natural gas rents, coal
+rents (hard and soft), mineral rents and forest rents, scaled by GDP.
+
+
+
+
+Generated by authors from data derived from WDI (2018)
+
+
+
+
+Mixed
+
+
+
+Note: GDP: gross domestic product.
+Source: Authors’ with WDI 2018 data.
+
+
+
+
+
+
+
+
+
+
+
+Table 3. Descriptive statistics for variables.
+
+Variables	Obs	Units	Mean	Standard deviation	Min.	Max.
+
+GDP_GROWTH675Percentage4.49594.4295—36.700026.4173GDPPC675Constant 2010 US$1796.8012399.223193.866913963.59ITR595Current US$526720897141502173110000011200000000ITN611Number of arrivals686934130330129009592000FDI637Percentage4.14375.5531—5.977554.0621DCPS649Percentage21.121924.66660.1983160.1248ER656Local currency614.24061123.0290.04459777.72INSTQUA680Scale (—2.5 to +2.5)—0.59290.6153—1.92940.8799CPIC634Percentage93.162937.09092.9090348.992NR636Percentage11.508911.38440.001162.6926Source: Authors’ with WDI 2018 data.
+
+  Net FDI inflows, as a percentage of GDP, ranged from —5.8% to 54.1% during the period under consideration. This points to the fact that at least one SSA country experienced net outflow of funds by foreign investors to a tune of approximately 6% of GDP in a particular year. The quality of institutions within the region is also of concern, as data show an unsatisfactory average of —0.59 on a scale —2.5 to +2.5, against an observed maximum of 0.88 in the case of Botswana in the year 2003. On average, the evidence suggests that most countries within the sample still run weak institutions, despite constant efforts to improve them. Mauritius recorded the least natural resource rent scaled by GDP to a tune of 0.0011% in the year 2014, whereas Congo Republic recorded the highest, 62.69%, in the year 2000.
+
+Correlation
+Table 4 presents the Pearson’s correlation matrix among the variables. From Table 4, the most correlated variables, international tourism receipts (current US$), Ln(ITR), and international tourism, number of arrivals, Ln(ITN), recorded 0.7279***. The high correlation between these two variables shows that they measure a similar underlying variable. Consequently, both variables were not used at the same time in a single model as regressors. Apart from these two variables, there is no indication that multicollinearity is a problem in the data set (Alin, 2010; Asongu and Odhiambo, 2017; Asongu and Odhiambo, 2018a; Raheem et al., 2019). Also, none of the remaining correlation coefficients, including that between institutional quality and natural resource rents (—0.6407), among the various independent variables meet the +0.8 threshold for multi- collinearity concerns (see Asongu and Odhiambo, 2017).
+
+Diagnostic tests and estimation procedures
+With the motive of ensuring that accurate, efficient and reliable parameters are obtained through the choice of appropriate models and estimation techniques, we test for endogeneity, auto- correlation, heteroscedasticity and stationarity and report the results as follows.
+
+Fisher-type stationarity (unit root) and heteroscedasticity tests. The stationarity status for all the vari- ables is examined with the Fisher test as recommended by Choi (2001), and the results are pre- sented in Online Appendix III. The null hypothesis for this test is that all panels exhibit a unit root. Fisher’s test employs four statistical approaches: Inverse Chi-squared, Inverse Normal, Inverse Logit-t and Modified inverse Chi-squared. Given that the panel used in this study is finite, we will dwell more on the ?2 test as recommended by Choi (2001). Based on this ?2 test, lnER, DCPS, CPIC and lnNR exhibit unit root among all the variables.
+  We employ both the Breusch–Pagan/Cook–Weisberg and White’s General tests to assess whether the variance of the error term is constant or not (to ascertain the potential presence of homo- scedasticity or heteroscedasticity). The study specifically uses Breusch–Pagan/Cook–Weisberg test to capture linear sources of heteroscedasticity and further uses White’s General test to unearth possible non-linear sources of heteroscedasticity, following the works of White (1980), Berry et al. (1985), Allison (1995) and Pindyck and Rubinfeld (1998). The null hypotheses for the Breusch– Pagan/Cook–Weisberg and White’s General tests suggest the presence of constant variance (there is homoscedasticity) in the panel. At the various traditional levels of significance checks (as shown in Online Appendix IV), the null hypothesis was rejected, confirming the presence of hetero- scedasticity. As a treatment strategy, the study employs robust dynamic FE and robust dynamic
+
+
+
+
+
+
+
+
+
+Table 4. Correlation matrix.
+
+Economic growth variables	Tourism variables	Control variables
+
+GDP_GROWTH Ln(GDPPC)	Ln(ITR)	Ln(ITN)	Ln(FDI)	DCPS	Ln(ER)	INSTQUA	CPIC Ln(NR)
+
+GDP_GROWTH1.000Ln(GDPPC)—0.02841.000Ln(ITR)0.1297***0.5189***1.000Ln(ITN)0.1042***0.4569***0.7279***1.000Ln(FDI)0.1651***0.2175***0.1724***0.03231.000DCPS—0.0828**0.5601***0.5519***0.5585***—0.04191.000Ln(ER)—0.0420—0.5107***—0.3170***—0.4073***—0.1064***—0.3436***1.000INSTQUA0.0742*0.5643***0.5175***0.4503***0.1851***0.5275***—0.3466***1.000CPIC—0.03560.06070.1672***0.1759***0.0845**0.0804**0.1631***—0.02971.000Ln(NR)0.0938**—0.5489***—0.3049***—0.1819***—0.0197—0.4457***0.2915***—0.6407***0.0321	1.000Source: Authors’ with WDI 2018 data.
+***, **, *: Significance at 1%, 5% and 10%, respectively.
+
+
+Table 5. Hausman test for fixed versus random effects test.
+
+Test: Ho: difference in coefficients not Systematic	Test: Ho: difference in coefficients not systematic
+
+?2(11) = (b—B)’[(V_b—V_B)^ (—1)](b—B) = 378.58	?2(7) = (b—B)’[(V_b—V_B)^ (—1)](b—B) = 8.09 Prob > ?2 = 0.0000	Prob > ?2 = 0.3250
+
+Source: Authors’ with WDI data, 2018.
+
+random effects (RE), following the directives of Allison (1995), so as to obtain unbiased and robust standard errors. As an additional robustness check, the study follows the directives of Roodman (2006) and Arellano–Bond (1991), by employing instrumental variables estimation techniques, precisely, dynamic two-step System GMM and dynamic one-step System GMM, to obtain unbiased and consistent results even in the presence of heteroscedasticity.
+
+Hausman test for fixed versus random effects test (Durbin–Wu–Hausman (DWH) test for endogeneity). Following prior studies (see Baum et al., 2003; Yokoyama and Alemu, 2009), we conduct Durbin–Wu–Hausman (DWH) test for endogeneity for the error terms of the potential endogenous variables, as a function of the exogenous variables. This is in consonance with the directives of Davidson and MacKinnon (1993) who recommended this test as a prerequisite towards the use of instrumental variables (IV) estimation techniques. The DWH test for endogeneity in this study gave mixed results, recommending the use of FE estimation technique for some models and RE estimation technique for others. This is evident in the results as shown in Table 5, giving a p-value less than 5% for some models (for all estimated FE models), and p-values greater than 5% for some other models (for all estimated RE models). The null hypothesis that supports RE models is rejected for all estimated FE models and not rejected for all estimated RE models.
+  As stipulated by Roodman (2006a, 2006b), a model that embraces the use of FE also works for system GMM. Results from the Hausman test confirm that unobserved country-specific effects vary across the 40 countries under study thus, the presence of endogeneity in the specified models. Again, to deal with the confirmed endogeneity and its associated problems, the study partly employs system GMM estimation techniques as a strategy to further demonstrate robustness in the results.
+
+Basis for the selection and use of multiple estimation techniques
+The study employs two-step and one-step SGMM, robust FE and robust random effects (RE) as the estimation techniques. We use these multiple estimation techniques as rigorous robustness checks and to double-check the reliability and accuracy of the estimates, given that our models exhibit endogeneity (Roodman, 2007, 2009a, 2009b; Wooldridge, 2002). In addition, these employed estimation techniques are preferred for the estimation of linear dynamic functions.
+  The instrumental variable (IV) estimation techniques (two-step and one-step SGMM) also eliminate serial correlation (autocorrelation) and heteroscedasticity in dynamic panel models and correct problems that emanate from inverse causality, inadequate model specifications and simultaneity biases (see Arellano and Bover, 1995; Blundell and Bond, 1998). Lastly, given that the number of individual countries (40), i, exceeds the number of periods, t, (17) in our panel, and that there is (are) no time-invariant variable(s) in the model specified, these estimation techniques are again deemed robust. Following Roodman (2008), the study engages Hansen test to investigate
+
+Baidoo et al.	17
+
+the validity of the internal instruments employed in the SGMM estimation strategies. Jointly, the test null hypotheses that all the instruments used are valid. The model expects a p-value greater than 0.05, but not too high, for the Hansen test (Roodman, 2008) in order for the instruments to be valid, and be devoid of proliferation.
+
+Empirical results and discussions
+This section of the paper presents and discusses the empirical findings of the study. Results from the appropriate multiple estimation techniques (dynamic two-step SGMM, dynamic one-step SGMM, robust dynamic FE and robust dynamic RE) employed are shown in Tables 6 and 7, and Online Appendix V.
+  From the regression outputs, the first lag of economic growth, Lag1.Ln(GDPPC) and Lag1.GDP_GROWTH, positively and significantly impacts current economic growth levels in most of the models. This further provides support for the use of dynamic models.
+  In broader terms, the empirical results establish consistent evidence in support of the TLGH for the full SSA sample across all the robust and diverse estimation techniques employed. More precisely, the results establish that tourism positively and significantly impacts economic growth (GDP growth, and GDP per capita) for the full sample (see Table 6). Although the relationship between tourism development and GDP per capita is inelastic, the findings of this study empiri- cally postulate that an increase in tourism development leads to increment in economic growth among SSA countries. By this finding, the study confirms that the many numerous economic- related benefits that are derived from the tourism sector indeed contribute positively to economic growth within the subregion. The benefits from tourism have been earlier observed to include job creation, poverty alleviation, women empowerment (see Ashley and Mitchell, 2009), conservation of cultural and monumental heritages (see World Bank, 2001, 2011, 2013a), increase in domestic consumption in transport services, real estate and retailing (see Antonakakis et al., 2015; Akin- boade and Braimoh, 2010; Oh, 2005; Webster, 2007), just to mention a few.
+  Considering the potential moderating role of countries’ geographical locations on the TLGH, empirical evidence from this study portrays that tourism has significant negative impact on eco- nomic growth in the case of SSA countries located within the Atlantic and Indian Oceans (AI) (see Table 7 and Online Appendix V). Meanwhile, tourism’s impact on GDP growth and GDP per capita is observed to be significantly positive in the case of CC and LLC within the subregion (see Table 7 and Online Appendix V). For example, model 19 (see Online Appendix V), which employs a CC – dummy and interaction strategy, gives a marginal net effect of 0.3587% [0.4399 + (—0.0812) × (1) = 0.3587] increase in GDP growth upon a percentage increase in international tourism receipts for CCs. We derive this marginal net effect after taking a partial derivative of GTHi,t in equation (3) with respect to TRi, t, yielding equation (4) as follows:
+(@GTHi; t=@TRi; t) = d2 + d3(CCi)	(4)
+  Surprisingly, results from Cohen et al. (2003) test of significance of the difference between two slopes reveal that the magnitude of tourism’s positive impact on GDP growth and GDP per capita is not significantly different between CC and LLC. Although contrary to our expectation, but consistent with earlier studies (see Lin et al., 2019 who confirmed the TLGH among Chinese provinces with less GDP per capita), this study further postulates that tourism exerts statistically equal positive contribution to GDP growth and GDP per capita for both coastal and LLCs. Intuitively, this partly tends to project that countries such as Angola, Cameroon, Ghana, Kenya,
+
+
+South Africa, Tanzania and others that share borders with oceans (CC) experience statistically equal improvements in economic growth from the roots of tourism developments compared to their counterpart LLC such as Burkina Faso, Rwanda, Zambia and Burundi. This particular observation contradicts our expectations and claims of earlier studies such as Leones et al. (1998), given the general belief that tourism activities are more vibrant in CCs because international tourists are more likely to visit, spend more time and inject more funds into such economies than LLCs, all other things being equal. Perhaps, LLCs (despite experiencing comparatively lower average of international tourism receipts as a percentage of total exports – see Table 1, and comparatively lower average international tourism receipt per tourist – see Online Appendix II) have more vibrant adaptive capacities that allow them to translate their relatively smaller economic benefits from tourism into more growth, compared to CCs.
+  Although tourism positively and significantly contributes to economic growth in the full sample, and the CC and LLC subsamples, the relationship is inelastic in most results and similar to the findings of Nyasha et al. (2020) and Fayissa et al. (2008). However, the recorded minimal impact confirms the expectations of contemporary economic growth theories that seek to argue that sectors that are highly linked to technological advancements such as banking, insurance and manufacturing tend to have greater impact on economic growth than those that are less technology, and research and development intensive, like tourism (Sequeira and Nunes, 2008). This not- withstanding, SSA countries, especially the islands, ought to implement innovative strategies to improve the magnitude at which tourism positively impacts on economic growth. As such, national policies that seek to curb the numerous challenges, including inadequate investments and infra- structural base, currently facing the tourism sector within SSA must urgently be of priority.
+  As a matter of emphasis, the most surprising empirical output observed from this study is the finding that tourism has a significant negative impact on economic growth among islands within the SSA region. Although partly consistent with the findings of Bojanic and Lo (2016), this study postulates that SSA islands such as Cabo Verde, Mauritius and Seychelles that recorded very high international tourism receipts as a percentage of total exports (see Table 1) within the study’s period are surprisingly experiencing a significant detrimental impact on their economic growth from tourism development.
+  However puzzling this particular finding may be, it is equally important to document that if tourism development goes unmanaged, many net detrimental impacts would arise, including reduction in the attractiveness of natural, cultural and social assets on which tourism primarily depends. The World Bank’s (2013b) report on tourism in SSA recorded incidence of poorly managed and overused mountain slopes, coastal areas, small islands and fragile cultural assets. The same report indicated that most SSA countries are not maintaining and protecting their tourism-oriented assets as expected. As hinted by Milne (1990, 1992), it is possible that SSA islands that have spe- cialised in tourism are now confronted with huge environmental costs (including pollution of air, water and land, crowding and congestion, loss of land for other uses and damages and depletion of natural resources). Taking a cue from the empirical results, there is a need for stakeholders within SSA’s tourism industry to note the importance and the essence for proactive and regular maintenance exercises, as practiced elsewhere. For instance, Bhutan controls access to the country as a whole, the Galapagos Islands limit the number of boats and occupants that can visit the site, and India forbids the close proximity of vehicles to the Taj Mahal (World Bank, 2013b). All these are proactive protective measures aimed at ensuring sustenance within the tourism sector in such locations.
+  Another potential reason why tourism would be detrimental to economic growth among islands within SSA may be that these countries rely heavily on the importation of goods and services in
+
+Table 6. Impact of tourism on economic growth in SSA: Full SSA sample.
+
+Models(1)(2)(3)(4)(5)(6)EstimationDynamic two-stepDynamic one-stepRobust dynamicRobust dynamicDynamic two-stepDynamic two-steptechniquesystem GMMsystem GMMrandom effectfixed effectsystem GMMsystem GMMVARIABLESLn(GDPPC)Ln(GDPPC)Ln(GDPPC)Ln(GDPPC)GDP_GROWTHGDP_GROWTHLag1 of Ln(GDPPC)0.9929***0.9934***0.9958***0.8405***––(0.0048)(0.0063)(0.0028)(0.0235)––Lag1 of––––0.2636***0.5988***GDP_GROWTH(0.0708)(0.1815)Ln(ITR)0.0083**0.0100**––0.7974**–(0.0034)(0.0040)––(0.3385)–Ln(ITN)–	–	0.0089***0.0094*–	0.4070*–	–	(0.0018)(0.0049)–	(0.2067)Ln(FDI)0.00340.0086*0.0049***0.0035*0.02290.0447(0.0049)(0.0050)(0.0015)(0.0021)(0.3454)(0.2194)DCPS—0.0003—0.0001—0.0002*—0.00010.6633*0.4083**(0.0002)(0.0002)(0.0001)(0.0004)(0.3433)(0.1557)Ln(ER)—0.00080.0006—0.00140.0336***0.4850.3621(0.0035)(0.0054)(0.0011)(0.0116)(0.5006)(0.4670)INSTQUA0.00660.00210.00030.0727***0.01830.0178(0.0050)(0.0063)(0.0048)(0.0154)(0.0259)(0.0300)CPIC0.00010.00030.000001—0.00000010.24410.0842(0.0002)(0.0004)(0.0001)(0.0001)(0.1692)(0.3051)Ln(NR)—0.0014—0.0005—0.0020—0.00480.02290.0447(0.0019)(0.0023)(0.0016)(0.0052)(0.3454)(0.2194)Constant—0.0979—0.2076—0.0738**0.8904***0—10.4209**(0.0948)(0.1427)(0.0351)(0.1868)(0)(4.8218)(continued)
+
+
+
+
+Table 6. (continued)Models(1)(2)(3)(4)(5)(6)EstimationDynamic two-stepDynamic one-stepRobust dynamicRobust dynamicDynamic two-stepDynamic two-steptechniquesystem GMMsystem GMMrandom effectfixed effectsystem GMMsystem GMMVARIABLESLn(GDPPC)Ln(GDPPC)Ln(GDPPC)Ln(GDPPC)GDP_GROWTHGDP_GROWTHTime EffectsYesYesYesYesYesYesAR(1)0.0040.000––0.0000.032AR(2):0.1460.260––0.4110.126Hansen OIR0.1550.207––0.3100.344Wald ?2/Fisher128093.96***10218.46***343748.90***257.50***156.47***27.54***Instruments3535––3432Countries383838383838Adjusted R2–––0.9177––R2	––0.91870.9273––Observations	468468504504474474Note: Standard errors in parentheses. SSA: sub-Saharan Africa; Ln(GDPPC) is the natural log of GDP per capital (constant 2010 US$); GDP_ GROWTH is GDP growth (annual %); Ln(ITR) is natural log of International tourism, receipts (current US$); Ln(ITN) is natural log of International tourism, number of arrivals; Ln(FDI) is the natural log of net foreign direct investment inflows, as scaled by GDP; DCPS is Domestic credit provided by financial sector (% of GDP), as a proxy for Financial Development; Ln(ER) is the natural log of Official Exchange Rate (Local Currency to US$, annual averages); INSTQUA is Institutional Quality (computed as the simple average of the six world governance indicators); CPIC is Consumer Price Index (as a measure of inflation); Ln(NR) is the natural log of Natural Resources (computed as the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents, and forest rents).
+***, **, *: Significance at <0.01, <0.05 and <0.1, respectively.
+The values are bolded to give emphasis on the variables of most interest.
+
+Baidoo et al.	21
+
+serving most of their sectors including tourism. In fact, Sinclair-Maragh and Gursoy (2015) tech- nically termed such a situation as ‘economic imperialism’. This situation has been a major lasting challenge among islands, as Sinclair-Maragh and Gursoy (2015), Milne (1990, 1992), Archer (1982), Britton (1980) and Varley (1978) highlight on the resulting huge levels of monetary leakages from the local economies, leaving the incomes of locals relatively meagre compared to the total national rewards from the sector. For instance, within the period under review, data from WDIs portray that the average percentage of imports scaled by GDP for Seychelles, Mauritius, Madagascar, Comoros and Cabo Verde (which are all classified as islands) stood at 98.69%, 61.96%, 42.35%, 43.34% and 63.69%, respectively, with an average of 61.05% for the entire island subsample. These figures are very high compared to the averages recorded in the case of the landlocked (37.89%) and coastal (39.92%) subsamples. Although the importation of capital goods through tourism could potentially lead to growth, and vice versa (as argued by Nowak et al., 2007), the labour-intensive nature of the sector defuses the belief that high levels of imports in such islands are mostly capital in nature. Further, given that tourism is a key sector in these island economies, one could infer that there is an increment in reliance on imported goods and services, including foodstuffs and managerial human resources, to keep the tourism industry in such countries running and sustained. Given the sub- region’s heavy reliance on imported goods and service (see Online Appendix II), it is imperative for SSA countries, especially the islands, to increase offering local cuisines to tourists (reduce their reliance on imported goods and services) to provide authentic experience and continually encourage production and usage of local foodstuffs and expertise.
+  The observed keen competition between tourism and agriculture for major inputs in the form of land and labour among SSA islands may partly account for what appears to be the detrimental impact of tourism on their economic growth. Sinclair-Maragh and Gursoy (2015), and Nowak and Sahli (2007) convincingly argued that an increase in inbound tourists into islands naturally causes reallocation of land and labour to expand the tourism industry, usually at the expense of agriculture in particular, and to a greater extent propagating deindustrialisation. The possible sudden shift from traditional production and internationally traded sectors like agriculture is heavily associated with increased tourism demands among islands (Milne, 1992; Nowak and Sahli, 2007). As such, the empirically backed detrimental effect of tourism development on economic growth among SSA islands is a possible hint on the fact that symptoms of the ‘special Dutch Disease’, as pos- tulated by Nowak and Sahli (2007), are fuelling net welfare losses in such locations, as much attention and resources are shifted from agriculture and industrialisation to the exclusive supply of tourism products. By far, this study confirms the claim of Bojanic and Lo (2016) that islands that are heavily reliant on tourism tend to experience economic setbacks.
+  Adding to the various potential reasons for tourism’s detrimental effect on economic growth, the World Bank’s (2013b) report on tourism in SSA revealed that majority of the tourist sites and hotels in islands located within the subregion are owned wholly by expatriates who first discovered and developed the economic value of such locations. As such, a chunk of the proceeds that flow in the form of international tourism receipts may have been repatriated outside such countries by the foreign owners of such tourists and recreational sites in the form of dividends and other forms of rewards (Sinclair-Maragh and Gursoy, 2015). As a result, major parts of the proceeds, international tourism receipts, never remain in such countries to improve economic growth in the form of ‘realistic’ GDP growth and GDP per capita. This reflects the findings of Sheng and Tsui (2010) and Copeland (1991) who documented that increased foreign ownerships in tourism industry tend to reduce the sector’s true benefits for host communities, especially in small-open tourism economies like Macao. More specifically, the World Bank’s (2013b) report on tourism in SSA reiterated that
+
+
+
+Table 7. The effects of tourism on economic growth in different geographical settings within SSA.
+
+
+
+
+
+
+
+
+
+Ln(GDPPC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(continued)
+
+
+
+
+
+Table 7. (continued)LLC – SubsampleAI – SubsampleCC – SubsampleModels	(7)(8)(9)(10)(11)(12)(14)(15)(16)
+Estimation	Robust dynamic
+Robust dynamic
+Robust dynamic
+Robust dynamic
+Dynamic random
+Dynamic random
+Robust dynamicRobust dynamic
+Robust dynamictechnique	random effectrandom effectrandom effectrandom effecteffecteffectrandom effectfixed effectrandom effectConstant	0.0131—12.6657**—11.5135*1.2846**40.5956*22.3992*—12.9604***0.7248***—7.9614(0.0819)(5.9446)(6.4983)(0.5192)(23.3912)(11.9726)(4.9155)(0.1977)(5.2633)Time effects	YesYesYesYesYesYesYesYesYesCountries	161616555171818Observations	210210202696974220220224Wald ?2/	92754.13***
+Fisher
+R2	0.899248.63***
+0.103346.69***
+0.127589432.73***
+0.951038.00***
+0.430333.66**
+0.372971.50***
+0.1836–
+0.9495–
+0.1636Adjusted R2	––––––0.9439–Note: Standard errors in parentheses. SSA: sub-Saharan Africa; Ln(GDPPC) is the natural log of GDP per capital (constant 2010 US$); GDP_ GROWTH is GDP growth (annual %); Ln(ITR) is natural log of International tourism, receipts (current US$); Ln(ITN) is natural log of International tourism, number of arrivals; Ln(FDI) is the natural log of net foreign direct investment inflows, as scaled by GDP; DCPS is Domestic credit provided by financial sector (% of GDP), as a proxy for Financial Development; Ln(ER) is the natural log of Official Exchange Rate (Local Currency to US$, annual averages); INSTQUA is Institutional Quality (computed as the simple average of the six world governance indicators); CPIC is Consumer Price Index (as a measure of inflation); Ln(NR) is the natural log of Natural Resources (computed as the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents, and forest rents). We do not use GMM estimation technique for the sub-samples because the number of countries within each sub-sample are either less than, or too close to the number of years under consideration (i ? t).
+***, **, *: significance at <0.01, <0.05 and <0.1, respectively.
+The values are bolded to give emphasis on the variables of most interest.
+
+‘foreign ownership in tourism, as it is argued, is widespread, preventing pro-poor growth because of the leakages that occur and the lack of backward linkages from the investment’. Milne (1992) and Samy (1975) described this situation as very worrying for a reason that the locals only receive ‘crumbs from the table’ after being alienated by high levels of foreign owners and management. As a matter of urgency, pro-poor tourism, as recommended by the World Bank (2013b), ought to be fully embraced among SSA countries to extend the benefits of tourism to local communities.
+  Policies that seek to encourage foreign investors to continually reinvest to maintain and sustain the local tourism industry, as well as other equally viable sectors within same economies and subregion, ought to be strengthened and strictly adhered to. In addition, efforts should be made to improve forward and backward linkages between tourism and the domestic economy.
+  Contrary to results from earlier studies (Agbloyor et al., 2014, 2016), though partly in line with our own expectation and the findings of Chee and Nair (2010), FDI was found to have a significant positive impact on GDP growth and GDP per capita for the full sample, and only LLC subsample. Exchange rate recorded significant positive impact on economic growth for the full sample and AI subsample. This is partly in line with the findings of Yazdi, Salehi, and Soheilzad (2017) but contrary to that of Schubert et al. (2011). This implies that depreciation in currencies (increase in exchange rates) of SSA countries against the US$ turns to improve the subregion’s economic
+growth, perhaps, through increase in exports.
+  Financial development also surprisingly recorded a significant negative impact on GDP per capita and a significant positive impact on GDP growth in the full sample. For the CC and AI subsamples, financial development consistently had a significant negative impact on economic growth. This is in line with the results of Ayadi et al. (2015) who listed deficiencies in credit allocation as well as weak financial regulation and supervision as the potential reasons why financial development would negatively impact economic growth. This is, however, contrary to the findings of Chee and Nair (2010), who documented FDI and financial development as complementary agents of economic growth.
+  Also, economic benefits from well-organised institutions, in the light of good legal systems, ease of doing business, financial systems monitoring, accountability and reduction in corruption, good central governance and others, are confirmed in this study, as institutional quality positively impacts economic growth for the full sample, CC and AI subsamples, with the magnitude being statistically enormous for the AI subsample. This is in line with the claims of Agbloyor et al. (2016).
+  The extraction of mineral resources that brings earnings in the form of rents for land, forest and water usage is, however, confirmed to contribute negatively to GDP growth and GDP per capita in the AI subsamples, confirming the presence of the popular Dutch/beach disease among islands within SSA. Although contrary to the findings of Asongu and Odhiambo (2018b), and Brunnschweiler (2008), the finding is partly congruent with that of Sachs and Warner (1995).
+
+Conclusion
+With the use of recent annual data and diverse robust estimation techniques, this study establishes evidence in support of the TLGH in SSA. The study additionally opines that geographical locations of SSA countries moderate the impact of tourism on economic growth. More specifically, the results show that the impact of tourism on GDP growth and GDP per capita is significantly positive (tourism promotes economic growth) for only LLC and CC countries, and significantly negative (tourism is detrimental to economic growth) in the case of islands (AI) within the subregion. The results further postulate that the magnitudes of tourism’s significant positive impact on GDP growth and GDP per capita are statistically equal between LLC and CC subsamples.
+
+  Given the results of this study, a number of recommendations are worth noting, in addition to the ones documented in the fourth section. Firstly, SSA countries ought to increase and diligently implement strategic plans that seek to promote tourism as a key contributor to economic growth. For this reason, policies that lead to developments in the sector such as investment in infrastructure and national social amenities including roads, airports and harbours must be fostered by SSA countries. It is also crucial, most especially among the islands, to assist and promote locally owned and operated tourism facilities. Countries that have shown remarkable specialisation in the tourism sector, mostly AI and CC, ought to be seen pulling significantly higher contributions towards their economic growth. It is therefore necessary to implement strategies to first ‘maximise’ and, sec- ondly, ‘prudently disperse’ the economic benefits of the tourism industry within the subregion.
+  There is also the need to encourage local production to ‘feed’ the tourism sector. These tourism- oriented local outputs must include goods and services, and human capital capacity building as well. Obviously, such local productions towards the tourism industry must be comparable in quality and quantity to the sector’s existing imported standards. After satisfactorily supplying local alternatives, governments could use legislative instruments to induce local demands from the sector. In this case, the growth of tourism would be linked holistically to other sectors such as agriculture, and both vocational and formal education.
+  Also, government agencies, especially those within the islands, and responsible for tourism, may consider forming a solid and credible national database on how much tourist revenues leak out of their economies in the form of repatriated profits and tourism-related importations (both goods and service, and capital goods). Further, legislatively and economically feasible conditionalities and caps on profit repatriations could be considered, as only money reinvested into concerned economies generates local economic growth.
+  Stability and favourable movements in macroeconomic variables such as exchange rate and inflation also ought to be pursued and well managed by SSA countries as these variables tend to influence investors’ trust in SSA economies. For this reason, central banks and other regulatory bodies should consistently chart a path of making better these macroeconomic indicators than following the wishes and demands of political actors.
+  Last but not least, proper ‘value-for-money’ and ‘value-added’ natural resource extractive strategies also ought to be designed and implemented among SSA countries as revenues from natural resources still remain the region’s backbone for continuous healthy economic growth. In line with this, the subregion ought to ensure supportive and selfless institutional operations with total focus on holistic growth.
+Author’s Note
+Francis Baidoo is also affiliated with Faculty of Business and Social Sciences, Academic City University College, Ghana, BOS Global Consult Limited, Ghana, and Department of Accountancy, Koforidua Technical University, Koforidua, Ghana. Elikplimi Komla Agbloyor is also affiliated with University of Stellenbosch Business School, Stellenbosch, Western Cape, ZA.
+
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+ORCID iD
+Francis Baidoo  https://orcid.org/0000-0001-8255-2762
+
+Highlights
+? Tourism significantly and positively impacts on economic growth in sub-Saharan Africa (SSA).
+? The differing geographical locations of SSA countries moderate the impact of tourism on economic growth.
+? Thus, tourism’s impact on economic growth is observed to be significantly positive for only Landlock and Coastal countries, and significantly negative for Islands within the sub-region.
+? Meanwhile, the magnitude of tourism’s significant positive impact on economic growth is observed to be statistically equal between landlocked and coastal countries.
+
+Supplemental material
+Supplemental material for this article is available online.
+
+References
+Adigwe PK, Ezeagba CE and Udeh FNP (2015) Effect of foreign direct investment on Nigerian economic growth. European Journal of Research and Reflection in Management Sciences 3(5): 28–34.
+Agbloyor EK, Abor JY, Adjasi CKD, et al. (2014) Private capital flows and economic growth in Africa: the role of domestic financial markets. Journal of International Financial Markets, Institutions and Money 30(1): 137–152. Agbloyor EK, Gyeke-Dako A, Kuipo R, et al. (2016) Foreign direct investment and economic growth in SSA:
+the role of institutions. Thunderbird International Business Review 58(5): 479–497.
+Akinboade O and Braimoh L (2010) International tourism and economic development in South Africa: a Granger causality test. International Journal of Tourism 163: 149–163.
+Alfaro L, Chanda A, Kalemli-Ozcan S, et al. (2004) FDI and economic growth: the role of local financial markets. Journal of International Economics 64(1): 89–112.
+Alin A (2010) Multicollinearity. Wiley Interdisciplinary Reviews: Computational Statistics 2(3): 370–374. Allison PD (1995) The impact of random predictors on comparisons of coefficients between models: com-
+ment on Clogg, Petkova, and Haritou. American Journal of Sociology 100(5): 1294–1305.
+Antonakakis N, Dragouni M and Filis G (2015) How strong is the linkage between tourism and economic growth in Europe? Economic Modelling 44: 142–155.
+Archer BH (1982) The value of multipliers and the policy implications. Tourism Management 3(4): 236–241.
+Arellano M and Bond S (1991) Some tests of specification for panel data: Monte Carlo evidence and an application to employment equations. The Review of Economic Studies 58(2): 277–297.
+Arellano M and Bover O (1995) Another look at the instrumental variable estimation of error-components models. Journal of Econometrics 68(1): 29–51.
+Ashley C and Mitchell J (2009) Tourism and Poverty Reduction: Pathways to Prosperity. Abingdon: Routledge. Asiedu E (2002) On the determinants of foreign direct investment to developing countries: Is Africa different?
+World Development 30(1): 107–119.
+Asiedu E (2004) Policy reform and foreign direct investment in Africa: absolute progress but relative decline.
+Development Policy Review 22(December 2002): 41–48.
+Asiedu E (2006) Foreign direct investment in Africa: the role of natural resources, market size, government policy, institutions and political instability. World Economy 29(1): 63–77.
+Asongu SA and and Odhiambo NM (2017) Mobile banking usage, quality of growth, inequality and poverty in developing countries. Information Development 35(2): 303–318.
+Asongu S and Odhiambo NM (2018a) Drivers of growth in fast emerging economies: a dynamic instrumental quantile approach to real output and its rates of growth in BRICS and Mint countries, 2001-2011. Applied Econometrics and International Development 18(1): 5–22.
+
+Asongu SA and Odhiambo NM (2018b) Human development thresholds for inclusive mobile banking in developing countries. African Journal of Science, Technology, Innovation and Development 10(6): 735–744.
+Asongu SA and Odhiambo NM (2020) Foreign direct investment, information technology and economic growth dynamics in Sub-Saharan Africa. Telecommunications Policy 44(1): 101838.
+Ayadi R, Arbak E, Naceur SB, et al. (2015) Financial development, bank efficiency, and economic growth across the Mediterranean. In: Economic and Social Development of the Southern and Eastern Mediterra- nean Countries. Cham: Springer, pp. 219–233.
+Azman-Saini WNW, Law SH and Ahmad AH (2010) FDI and economic growth: new evidence on the role of financial markets. Economics Letters 107(2): 211–213.
+Balaguer J and Cantavella-Jorda´ M (2002) Tourism as a long-run economic growth factor: the Spanish case.
+Applied Economics 34(7): 877–884.
+Barro RJ (2003) Determinants of economic growth in a panel of countries. Annals of Economics and Finance
+4: 231–274.
+Baum CF, Schaffer ME and Stillman S (2003) Instrumental variables and GMM: estimation and testing. Stata Journal 3(1): 1–31.
+Berry WD, Feldman S and Feldman DS (1985) Multiple Regression in Practice (No. 50). Thousand Oaks, CA: Sage.
+Bezic H and Radic MN (2017) Tourism foreign direct investment led tourism gross value added: a co-integration and causality analysis of Croatian tourism. Economic Research-Ekonomska Istrazivanja 30(1): 1443–1460.
+Blundell R and Bond S (1998) Initial conditions and moment restrictions in dynamic panel data models.
+Journal of Econometrics 87(1): 115–143.
+Boateng A, Hua X, Nisar S, et al. (2015) Examining the determinants of inward FDI: evidence from Norway.
+Economic Modelling 47: 118–127.
+Bojanic DC and Lo M (2016) A comparison of the moderating effect of tourism reliance on the economic development for islands and other countries. Tourism Management 53: 207–214.
+Brida JG, Barquet A and Risso WA (2010) Causality between economic growth and tourism expansion: empirical evidence from Trentino-Alto Adige. Tourismos: An International Multidisciplinary Journal of Tourism 5(2): 87–98.
+Britton SG (1980) Tourism and economic vulnerability in small Pacific island states: the case of Fiji. In: Shand RT (ed) The Island States of the Pacific and Indian Oceans: Anatomy of Development. Monograph, Development Studies Centre, Australian National University, Australia, (23), pp. 239–263.
+Brooks C (2008) Introductory Econometrics for Finance, 2nd ed. Cambridge: Cambridge University press.
+Brunnschweiler CN (2008) Cursing the blessings? Natural resource abundance, institutions, and economic growth. World Development 36(3):399–419.
+Butler R (2010) Tourism in Africa. Journal of Travel Research 12: 1–125.
+Cannonier C and Burke MG (2019) The economic growth impact of tourism in small island developing States – evidence from the Caribbean. Tourism Economics 25(1):85–108.
+Cao Z, Li G and Song H (2017) Modelling the interdependence of tourism demand: the global vector autoregressive approach. Annals of Tourism Research 67: 1–13.
+Chee YL and Nair M (2010) The impact of FDI and financial sector development on economic growth: empirical evidence from Asia and Oceania. International Journal of Economics and Finance 2(2): 107–119.
+Chen Y (2017) China’s tourism-led foreign direct investment inflows: an empirical study. Modern Economy
+08: 39–50.
+Choi I (2001) Unit root tests for panel data. Journal of International Money and Finance 20(2):249–272. Claver-Corte´s E, Molina-Azor? JF and Pereira-Moliner J (2007) Competitiveness in mass tourism. Annals of
+Tourism Research 34(3):727–745.
+Cohen J, Cohen P, West SG, et al. (2003) Applied Multiple Regression/Correlation Analysis for the Beha- vioral Sciences, 3rd ed. Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Copeland BR (1991) Tourism, welfare and de-industrialization in a small open economy. Economica 58: 515–529.
+Davidson R and MacKinnon JG (1993) Estimation and Inference in Econometrics. New York, NY: OUP Catalogue.
+Dritsakis N (2004) Tourism as a long-run economic growth factor: an empirical investigation for Greece using causality analysis tourism as a long-run economic growth factor: an empirical investigation for Greece. Tourism Economics 10(3): 305–316.
+Durbarry R (2004) Tourism and economic growth: the case of Mauritius. Tourism Economics 10(4): 389–401.
+Fauzel S, Seetanah B and Sannassee RV (2016) Analysing the impact of tourism foreign direct investment on economic growth. Tourism Economics 23(5): 1042–1055.
+Fayissa B, Nsiah C and Tadasse B (2008) Impact of tourism on economic growth and development in Africa.
+Tourism Economics 14(4): 807–818.
+Gunduz L and Hatemi JA (2005) Is the tourism-led growth hypothesis valid for Turkey? Applied Economics Letters 12(8): 499–504.
+Jin JC (2011) The effects of tourism on economic growth in Hong Kong. Cornell Hospitality Quarterly 52(3): 333–340.
+Kaufmann D, Kraay A and Mastruzzi M (2011) The worldwide governance indicators: methodology and analytical issues. Hague Journal on the Rule of Law 3(2): 220–246.
+Kim HJ, Chen M and Jan S (2006) Tourism expansion and economic development: the case of Taiwan.
+Tourism Management 27: 925–933.
+Kinuthia BK and Murshed SM (2015) FDI determinants: Kenya and Malaysia compared. Journal of Policy Modeling 37(2): 388–400.
+Koenig-Lewis N and Bischoff EE (2005) Seasonality research: the state of the art. International Journal of Tourism Research 7(4-5):201–219.
+Kolstad I and Wiig A (2012) What determines Chinese outward FDI? Journal of World Business 47(1): 26–34.
+Kusi BA, Agbloyor EK, Ansah-Adu K, et al. (2017) Bank credit risk and credit information sharing in Africa: Does credit information sharing institutions and context matter? Research in International Business and Finance 42:1123–1136.
+Lanza A and Pigliaru F (2000) Why are tourism countries small and fast-growing? In: Tourism and Sustain- able Economic Development. Boston, MA: Springer, pp. 57–69.
+Lean HH and Tang CF (2010) Is the tourism-led growth hypothesis stable for Malaysia? A note. International Journal of Tourism Research 12(4): 375–378.
+Leones J, Colby B and Crandall K (1998) Tracking expenditures of the elusive nature tourists of Southeastern Arizona. Journal of Travel Research 36(3): 56–64.
+Lin VS, Yang Y and Li G (2019) Where can tourism-led growth and economy-driven tourism growth occur?
+Journal of Travel Research 58(5): 760–773.
+Milne S (1990) The economic impact of tourism in Tonga. Pacific Viewpoint 31(1): 24–43.
+Milne S (1992) Tourism and development in South Pacific microstates. Annals of Tourism Research 19(2): 191–212.
+Narayan PK, Narayan S, Prasad A, et al. (2010) Tourism and economic growth: a panel data analysis for Pacific Island countries. Tourism Economics 16(1): 169–183.
+Naude´ WA and Saayman A (2005) Determinants of tourist arrivals in Africa: a panel data regression analysis.
+Tourism Economics 11(3): 365–391.
+Nene G and Taivan A (2017) Causality between tourism and economic growth: evidence from sub Saharan Africa (SSA). The Journal of Developing Areas 51(2): 155–169.
+Nowak JJ and Sahli M (2007) Coastal tourism and ‘Dutch disease’ in a small island economy. Tourism Economics 13(1): 49–65.
+Nowak JJ, Sahli M and Corte´s-Jime´nez I (2007) Tourism, capital good imports and economic growth: theory and evidence for Spain. Tourism Economics 13(4): 515–536.
+
+Ntuli LCF (2014) The impact of a community-based tourism project on poverty alleviation: a case study of the Isithumba Adventure Tourism village (Doctoral dissertation), School of Policy and Development, Uni- versity of KwaZulu-Natal, Durban, South Africa.
+Nyasha S, Odhiambo N and Asongu S (2020) The impact of tourism development on economic growth in sub- Saharan Africa.The European Journal of Development Research 1–22.
+Obi P, Martin RL and Obi CG (2016) Tourism: the untapped goldmine in the Gold Coast. Tourism and Hospitality Management 22(1): 17–28.
+Odhiambo NM (2011) Tourism development and economic growth in Tanzania: empirical evidence from the ARDL Bounds testing approach. Economic Computation & Economic Cybernetics Studies and Research 45(3): 71–83.
+Oh CO (2005) The contribution of tourism development to economic growth in the Korean economy. Tourism Management 26(1): 39–44.
+Oseni IO (2016) Exchange rate volatility and private consumption in sub-Saharan African countries: a system-GMM dynamic panel analysis. Future Business Journal 2(2): 103–115.
+Pablo-Romero M and Molina JA (2013) Tourism and economic growth: a review of empirical literature.
+Tourism Management Perspectives 8: 28–41.
+Peric´ J and Radic´ MN (2016) FDI-led tourism growth hypothesis: empirical evidence from Croatian tourism.
+European Journal of Tourism, Hospitality and Recreation 7(3): 179–186.
+Pindyck RS and Rubinfeld DL (1998) Econometric Models and Economic Forecasts (Vol. 4). Boston, MA: Irwin/McGraw-Hill.
+Pulido-Ferna´ndez JI and Ca´rdenas-Garc´?a PJ (2021) Analyzing the bidirectional relationship between tourism growth and economic development. Journal of Travel Research 60(3), 583–602.
+Raheem MA, Udoh NS and Gbolahan AT (2019) Choosing appropriate regression model in the presence of multicolinearity. Open Journal of Statistics 9(2): 159–168.
+Rivera MA (2017) The synergies between human development, economic growth, and tourism within a developing country: an empirical model for ecuador. Journal of Destination Marketing and Management 6(3): 221–232.
+Roodman D (2006a) How to do xtabond2. In: North American Stata Users’ Group Meetings 2006 (No. 8).
+Stata Users Group.
+Roodman D (2006b) How to do xtabond2: an introduction to ‘difference’ and ‘system. In: GMM in STATA’, Center for Global Development Working Paper No. 103.
+Roodman D (2007) A short note on the theme of too many instruments. Center for Global Development Working Paper, 125.
+Roodman D (2008) Through the looking glass, and what OLS found there: on growth, foreign aid, and reverse causality. Center for Global Development Working Paper, (137).
+Roodman D (2009a) A note on the theme of too many instruments. Oxford Bulletin of Economics and Statistics 71(1): 135–158.
+Roodman D (2009b) How to do xtabond2: an introduction to difference and system GMM in Stata. The STATA Journal 9(1): 86–136.
+Sachs JD and Warner AM (1995) Natural Resource Abundance and Economic Growth (No. 5398). National Bureau of Economic Research, 1050 Massachusetts Avenue, Cambridge, MA 02138.
+Salifou CK and Haq IU (2017) Tourism, globalization and economic growth: a panel cointegration analysis for selected West African States. Current Issues in Tourism 20(6): 664–667.
+Samimi AJ, Sadeghi S and Sadeghi S (2013) The relationship between foreign direct investment and tourism development: evidence from developing countries. Institutions and Economies 5(2): 59–68.
+Samy J (1975) Crumbs from the table? The workers share in tourism. In: Tupounia S and Crocombe R (eds)
+The Pacific Way - Social Issues in National Development. Suva: SPSSA.
+Schubert SF, Brida JG and Risso WA (2011) The impacts of international tourism demand on economic growth of small economies dependent on tourism. Tourism Management 32(2): 377–385.
+
+Schumpeter J (1911) The Theory of Economic Development, Vol. XLVI. Harvard Economic Studies, New York.
+Seetanah B (2011) Assessing the dynamic economic impact of tourism for island economies. Annals of Tourism Research 38(1): 291–308.
+Seetanah B and Khadaroo AJ (2007) Foreign direct investment and growth: new evidences from Sub-Saharan African countries. University of Mauritius 1 – 27, Available at: http://citeseerx.ist.psu.edu/viewdoc/down load?doi=10.1.1.489.4815&rep=rep1&type=pdf (accessed on May 12, 2020).
+Sequeira TN and Nunes PM (2008) Does tourism influence economic growth? A dynamic panel data approach. Applied Economics 40(18): 2431–2441.
+Sheng L and Tsui Y (2010) Foreign investment in tourism: the case of Macao as a small tourism economy.
+Tourism Geographies 12(2): 173–191.
+Sinclair MT (1998) Tourism and economic development: a survey. Journal of Development Studies 34(5): 1–51.
+Sinclair MT and Stabler M (2002) The Economics of Tourism. London: Routledge.
+Sinclair-Maragh G and Gursoy D (2015) Imperialism and tourism: the case of developing island countries.
+Annals of Tourism Research 50: 143–158.
+Sonne J, Be´cherel L, Addo K, et al. (2013) National Tourism Development Plan (2013–2027) – Republic of Ghana. Ghanaian Ministry of Tourism, and United Nations.
+Tang S, Selvanathan EA and Selvanathan S (2007) The relationship between foreign direct investment and tourism: empirical evidence from China. Tourism Economics 13(1): 25–39.
+Tomohara A (2016) Japan’s tourism-led foreign direct investment inflows: an empirical study. Economic Modelling 52: 435–441.
+United Nations Conference on Trade and Development (UNCTAD) Handbook of Statistics (2005) Review of Regional Developments – Sub-Saharan Africa.
+UNCTAD (2016a) FDI in Tourism: The Development Dimension. New York, NY and Geneva: United Nations.
+UNCTAD (2016b) World Investment Report 2016 – Investor nationality: Policy challenges. Geneva: United Nations Publication, 1-232.
+UNCTAD (2017) FDI in Tourism: The Development Dimension. Geneva: United Nations.UNWTO (2010) Tourism Highlights, Edition 2010, Available at: www.world-tourism.org (Accessed on May 13, 2020)
+UNWTO (2017) Tourism Highlights, Edition 2017, Available at: www.world-tourism.org (Accessed on June 17, 2020)
+Vanegas M and Croes RR (2003) Growth, development and tourism in a small economy: evidence from Aruba. International Journal of Tourism Research 5(5): 315–330.
+Varley RC (1978) Tourism in Fiji: Some Economic and Social Problems (No. 12). Bangor: University of Wales Press.
+Wang P and and Godbey G (1994) A normative approach to tourism growth to the year 2000. Journal of Travel Research 33(1): 32–37.
+Webster C (2007) Measuring the impact of tourism on economic growth. Tourism Economics 13(3): 379–388. White H (1980) A heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroske-
+dasticity. Econometrica 48(4): 817–838.
+Wooldridge JM (2002) Econometric Analysis of Cross Section and Panel Data. Cambridge, MA: MIT Press.
+Wooldridge JM (2009) On estimating firm-level production functions using proxy variables to control for unobservables. Economics Letters 104(3): 112–114.
+World Bank (2001) Cultural Heritage and Development: A Framework for Action in the Middle East and North Africa. Washington, DC: Author.
+World Bank (2011) Africa Region Tourism Strategy: Transformation Through Tourism. Harnessing Tourism for Growth and Improved Livelihoods. Washington, DC: Author.
+World Bank (2013a) “New Jobs for a New Africa: A Strategy for Rapidly Scaling Up Employment in Africa.” Strategic Directions for Finance and Private Sector Development. Washington, DC: Author.
+
+World Bank (2013b) Tourism in Africa: harnessing tourism for growth and improved livelihoods. Available at: http://www.worldbank.org/afr/tourism (Accessed on June 24, 2020)
+WTTC. (2011a). Sub-Saharan Africa: Travel and Tourism. World Travel and Tourism Council, London. WTTC. (2011b). Travel and Tourism Economic Impact, 2011. World Travel and Tourism Council, London. WTTC. (2013). Sub-Saharan Africa: Travel and Tourism. World Travel and Tourism Council, London.
+Yazdi KS, Nateghian N and Rezaie SN (2017) The causality relationships between tourism development and foreign direct investment: an empirical study in EU countries. Journal of Policy Research in Tourism, Leisure and Events 9(3): 247–263.
+Yazdi KS, Salehi KH and Soheilzad M (2017) The relationship between tourism, foreign direct investment and economic growth: evidence from Iran. Current Issues in Tourism 20(1): 15–26.
+Yokoyama K and Alemu AM (2009) The impacts of vertical and horizontal export diversification on growth between sub-Saharan Africa and East Asia’s performances. Ritsumeikan International Affairs 7(3): 49–90.
+Author biographies
+Francis Baidoo (MPhil., C.A.) holds a Master of Philosophy in Finance and Bachelor of Science in Admin- istration (Accounting Option) degrees from the University of Ghana – Business School (UGBS). He is a professional chartered accountant and a member of the Institute of Chartered Accountants, Ghana (ICAG). Francis is currently a senior research fellow at BOS Global Consult Limited, Ghana, an adjunct lecturer at the School of Business, Academic City University College, Ghana, and a lecturer at the Accountancy Depart- ment, Koforidua Technical University, Koforidua, Ghana. He has also, for years, served as a research and teaching assistant at the University of Ghana, Legon. He is a lover of empirical researches with keen interest in Tourism Financing, Fiscal and Monetary Policies Analyses, Contemporary International Trade Issues, Exchange and Interest Rates, Output and Inflation Volatilities, Foreign Direct Investments (FDIs) and Eco- nomic Growth.
+Elikplimi Komla Agbloyor (PhD) is a senior lecturer in Finance at the University of Ghana Business School. He received his PhD in Finance from the University of Ghana in November 2012. Elikplimi is the first PhD graduate in finance from the University of Ghana. His research interests include tourism financing, banking, corporate governance, cross border mergers and acquisitions, economic growth and development, financial development, institutions, international capital flows (FDI, portfolio flows and debt flows) and remittances.
+Vera Ogeh Lassey Fiador (PhD) is a senior lecturer in the Department of Finance. Her core teaching area is corporate financial management at both the undergraduate and graduate levels. Vera’s research interests span a broad array of issues in the area of economic growth and development finance. Other areas of interest include earnings management and tourism financing, as well as growth and productivity effects of Govern- ment fiscal and monetary Policies. Fiador has also held a visiting scholar position at the International Monetary Fund (IMF).
+Nana Amaniampong Marfo (HON.) (MBA, MSc) is an industry expert in the field of tourism and com- mercial banking. He holds an MBA (Finance), MSc (Development Finance) and BSc Administration degrees from the University of Ghana Business School. He is also a politician and now serving his second term as a Member of Parliament for Afigya Kwabre North Constituency, Ashanti Region, Ghana. He, again, serves as the Chairperson for Parliamentary Committee for Trade, Industry and Tourism and a member of Public Accounts Committee, Ghana. His research interest centres on International Tourism Management and Public Financial Management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

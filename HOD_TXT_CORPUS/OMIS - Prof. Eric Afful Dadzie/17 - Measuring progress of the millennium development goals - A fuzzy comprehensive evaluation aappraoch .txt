@@ -1,0 +1,1298 @@
+Applied Artiﬁcial Intelligence
+An International Journal
+
+ISSN: 0883-9514 (Print) 1087-6545 (Online) Journal homepage: www.tandfonline.com/journals/uaai20
+
+MEASURING PROGRESS OF THE MILLENNIUM
+DEVELOPMENT GOALS: A FUZZY COMPREHENSIVE
+EVALUATION APPROACH
+Eric Aﬀul-Dadzie, Anthony Aﬀul-Dadzie & Zuzana Komínková Oplatková
+To cite this article: Eric Aﬀul-Dadzie, Anthony Aﬀul-Dadzie & Zuzana Komínková Oplatková
+(2014) MEASURING PROGRESS OF THE MILLENNIUM DEVELOPMENT GOALS: A FUZZY
+COMPREHENSIVE EVALUATION APPROACH, Applied Artiﬁcial Intelligence, 28:1, 1-15, DOI:
+10.1080/08839514.2014.862770
+To link to this article: https://doi.org/10.1080/08839514.2014.862770
+
+Published online: 30 Jan 2014.
+
+Submit your article to this journal
+
+Article views: 714
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=uaai20
+
+Applied Artiﬁcial Intelligence, 28:1–15, 2014
+Copyright © 2014 Taylor & Francis Group, LLC
+ISSN: 0883-9514 print/1087-6545 online
+DOI: 10.1080/08839514.2014.862770
+
+MEASURING PROGRESS OF THE MILLENNIUM DEVELOPMENT
+GOALS: A FUZZY COMPREHENSIVE EVALUATION APPROACH
+
+Eric Afful-Dadzie1 , Anthony Afful-Dadzie2 , and
+Zuzana Komínková Oplatková1
+1
+Faculty of Applied Informatics, Tomas Bata University, Zlin, Czech Republic
+2
+University of Ghana Business School (UGBS), University of Ghana, Ghana
+
+ The United Nations’ target date to achieve its Millennium Development Goals (MDGs) to
+free people from extreme poverty and multiple deprivations is 2015. As the date approaches,
+several attempts have been made to evaluate the performance of the set goals, targets, and
+indicators. Although the methodology used to measure the performance of member countries
+has been questioned by many, the ﬁercest criticism so far has been the apparent lack of data
+with which to measure progress. The subjectivity of the MDGs further increases the complexity
+of the evaluation systems, but an effective measurability of each MDG is key to the overall
+success. This study applies a fuzzy comprehensive evaluation method (FCEM) in evaluating
+the performance of individual member countries with regard to the MDGs. The result shows
+how, in the absence of data, the FCEM can be used to evaluate performance of member
+countries involved in the MDG project.
+
+INTRODUCTION
+The United Nations Millennium Declaration, signed in September
+2000 by 189 countries, brought into being an integrative set of
+developmental objectives, the ﬁrst of which aims to eradicate extreme
+levels of poverty by the year 2015. To help assess the performance of
+member countries toward these commitments, a set of 8 goals, 18 targets,
+and 48 time-bound indicators were designed and called the Millennium
+Development Goals (MDGs). Over the years, there have been debates
+over the methodology used in tracking the performance of member
+countries and concerning why all the MDGs are quantitatively evaluated.
+Address correspondence to Eric Afful-Dadzie, Tomas Bata University in Zlin, Faculty of
+Applied Informatics, Nam. T.G Masaryka 5555 760 01, Zlin, Czeck Republic; E-mail: afful@fai.
+utb.cz
+Color versions of one or more of the ﬁgures in the article can be found online at
+www.tandfonline.com/uaai.
+
+2
+
+E. Afful-Dadzie et al.
+
+For example, Clemens, Kenny, and Moss (2007) cast doubt over the
+reliability of the MDGs as a measurement framework by pointing to the
+“implausibility” of the MDGs for a greater number of countries involved.
+Further on (Easterly 2007; Vandemoortele 2009), lament on how the
+MDGs were poorly designed to measure performance and question its
+effectiveness in assessing whether a member country is on track in
+terms of meeting the set targets and goals. Fukuda-Parr, Greenstein, and
+Stewart (2013) propose an alternative measurement methodology that,
+interestingly, discovers that countries in Africa, for example, outperform
+the global averages compared with what is often reported by the UN
+and the World Bank. It is also argued (Atarran 2005) that although
+quantitative goals help in observing poverty trends, the MDGs do not
+deﬁne poverty, and poverty cannot be reduced to quantitative goals and
+indicators. Atarran further states, for example, that the health goals for
+2015 appear quantitative, but most of them have irretrievably ﬂawed
+quantiﬁcation.
+Of all these, the most signiﬁcant challenge to date has been the
+apparent lack of data to measure the MDGs. On the UN MDG website,
+there is little or no information on most of the indicators for most
+of the developing countries, a problem that the United Nations (2008)
+admits to. Because of this unavailable data, the research attempts to show
+how the fuzzy comprehensive evaluation method (FCEM) and the Delphi
+method can be combined to offer a solution for evaluating the MDGs
+while also curing the subjectivity of the MDGs.
+Currently, the standard methodology used by the UN to assess current
+trends in the indicators in relation to the deﬁned targets compares past
+levels of poverty in a country to recent levels. On the basis of the
+assessment, performance is then evaluated linguistically at the country
+level in ﬁve categories: achieved, on track, very likely to be achieved, possible
+to achieve if some changes are made, and off track (UN MDG Monitor
+2007). This study seeks, on the basis of this linguistic remark set and
+the unavailability of data, to use the FCEM to effectively assess the
+performance of member countries, particularly those for which data is
+simply not available.
+UN Millennium Development Goals, Indicators, and Targets
+In the Millennium Declaration, each goal is expected to reach speciﬁc
+sets of targets, and each target is deﬁned by sets of indicators. In
+Figure 1, the goals and targets are mapped to their indicators to show
+the relationships among them.
+
+Measuring Progress of Millennium Development Goals
+
+3
+
+FIGURE 1 Millennium Development Goals mapped to the intended targets and indicators.
+
+FUZZY COMPREHENSIVE EVALUATION MODEL (FCEM)
+The FCEM employs fuzzy mathematics to thoroughly evaluate realworld systems that are not clearly deﬁned. The advantage and suitability
+of FCEM is seen in its ability to evaluate results by analyzing and
+comparing the membership degree with the index weight of factors,
+which are often difﬁcult to be quantiﬁed. The method has been
+applied in areas such management, economics, policy, and engineering,
+among others. Yunna and Zhijun (2008) applied FCEM in construction
+businesses’ enterprise resource planning (ERP) project risk evaluations.
+Yunna and Zhijun used the variable fuzzy set method and expert
+experiences in calculating the membership degrees. FCEM is employed
+by Zhao, Guo, and Cui (2009) to evaluate the selection of project
+
+4
+
+E. Afful-Dadzie et al.
+
+managers. Zhao, Guo, and Cui attempted a comprehensive evaluation
+model for selecting candidates for a project managerial position based
+on their qualiﬁcations. The approach establishes the suitability degree
+of prospective candidates for the job position. FCEM is again used in
+equipment supply support effectiveness (Zhao, Li, and Yue 2011). The
+methodology proved useful in providing a framework for assessing the
+effectiveness of equipment supply based on the analytic hierarchy process
+(AHP) method. FCEM is used to evaluate the performance of “green”
+buildings in Sun and colleagues (2006) and in assessing the performance
+of state-owned enterprises (Chengcheng and Junhai 2010).
+Evaluation Factors and Remark Set
+The evaluation factor sets are the eight MDGs. These goals are used
+to evaluate the performance and track the progress of member countries
+in the MDG project. Because the evaluation of the MDGs involves
+a host of factors (goals), targets, and indicators, the multilevel fuzzy
+comprehensive evaluation was adopted. Each evaluation factor (Goal) is
+classiﬁed according to its targets, and each target is classiﬁed according
+to its respective indicators, as shown in Figure 1 and Table 1. The
+performance Goals are deﬁned by Equation (1), which represents the
+eight goals of the millennium declaration. The Goals are classiﬁed for
+convenience as the ﬁrst level.
+U = U1 , U2 , U3 , U4 , U5 , U6 , U7 , U8  
+
+(1)
+
+The second level focuses on the evaluation of the targets based on each
+goal as deﬁned in Equation (2).
+
+
+Ui = Ui1 , Ui2 , Ui3 ,    , Uij 
+(2)
+The third level is the evaluation of the MDG indicators assigned to each
+target as, respectively, deﬁned in Equation (3).
+
+
+Uik = Uik1 , Uik2 , Uik3 ,    , Uikj 
+(3)
+The third level is important because of the different indicators for the
+different targets. In accordance with the targets for each MDG goal, UN
+development experts assign a different ratio of importance to each goal,
+target, and indicator.
+A set of remarks for judging member countries with regard to the
+factors is deﬁned in Equation (4).
+V = V1 , V2 , V3 ,    , Vn  ,
+
+(4)
+
+5
+
+U6 : Goal 6:
+Combat HIV/AIDS,
+Malaria, and other
+diseases. (0.100)
+
+U2 : Goal 2
+Achieve universal primary
+education. (0.200)
+U3 : Goal 3
+Promote gender equality
+and empower women(0.05)
+U4 : Goal 4:
+Reduce child mortality
+(0.125)
+U5 : Goal 5:
+Improve maternal health
+(0.125)
+
+Target 6.A: (0.50)
+
+Target 5.B: (0.40)
+
+Target 5.A: (0.6)
+
+Target 4.A: (1.0)
+
+Target 3.A: (1.0)
+
+Target 2.A: (1.00)
+
+Target 1.C: (0.40)
+
+(Continued)
+
+1.1 Proportion of population below $1 (PPP) per day (0.4)
+1.2 Poverty gap ratio (0.4)
+1.3 Share of poorest quintile in national consumption (0.2)
+1.4 Growth rate of GDP per person employed (0.3)
+1.5 Employment-to-population ratio (0.2)
+1.6 Proportion of employed people living below $1 (PPP) per day (0.3)
+1.7 Proportion of own-account and contributing family workers in total employment (0.2)
+1.8 Prevalence of underweight children under ﬁve years of age (0.6)
+1.9 Proportion of population below minimum level of dietary energy consumption (0.4)
+2.1 Net enrollment ratio in primary education (0.5)
+2.2 Proportion of pupils starting Grade 1 who reach last grade of primary (0.3)
+2.3 Literacy rate of 15–24 year-olds, women and men (0.2)
+3.1 Ratios of girls to boys in primary, secondary, and tertiary education (0.4)
+3.2 Share of women in wage employment in the nonagricultural sector (0.4)
+3.3 Proportion of seats held by women in national parliament (0.2)
+4.1 Under-ﬁve mortality rate (0.5)
+4.2 Infant mortality rate (0.4)
+4.3 Proportion of 1-year-old children immunized against measles (0.1)
+5.1 Maternal mortality ratio (0.6)
+5.2 Proportion of births attended by skilled health personnel (0.4)
+5.3 Contraceptive prevalence rate (0.2)
+5.4 Adolescent birth rate (0.2)
+5.5 Antenatal care coverage (at least one visit and at least four visits) (0.3)
+5.6 Unmet need for family planning (0.3)
+6.1 HIV prevalence among population aged 15–24 years (0.3)
+6.2 Condom use at last high-risk sex (0.2)
+6.3 Proportion of population aged 15–24 years with comprehensive correct knowledge of
+HIV/AIDS (0.3)
+6.4 Ratio of school attendance of orphans to school attendance of non-orphans aged
+10–14 yrs. (0.2)
+
+Target 1A: (0.40)
+
+U1 : Goal 1
+Eradicate extreme poverty
+and hunger.
+(0.300)
+Target 1.B: (0.2)
+
+MDGs Indicators (Evaluation Index
+
+MDG Targets
+
+Evaluation Index System and the Assumed Degrees of Importance for a Country–Brazil
+
+MDGs (Evaluation Factors)
+
+TABLE 1
+
+6
+
+Continued
+
+U8 : Goal 8:
+Develop a global
+partnership for
+development (0.050)
+
+U7 : Goal 7:
+Ensure environmental
+sustainability (0.050)
+
+MDGs (Evaluation Factors)
+
+TABLE 1
+
+6.5 Proportion of population with advanced HIV infection with access to antiretroviral
+drugs (1.0)
+6.6 Incidence and death rates associated with malaria (0.1)
+6.7 Proportion of children under 5 sleeping under insecticide-treated bednets (0.2)
+6.8 Proportion of children under 5 with fever who are treated with appropriate antimalarial drugs (0.3)
+6.9 Incidence, prevalence, and death rates associated with tuberculosis (0.2)
+6.10 Proportion of tuberculosis cases detected and cured under directly observed treatment
+short course (0.2)
+7.1 Proportion of land area covered by forest (0.1)
+7.2 CO2 emissions, total, per capita and per $1 GDP (PPP) (0.2)
+7.3 Consumption of ozone-depleting substances (0.3)
+7.4 Proportion of ﬁsh stocks within safe biological limits (0.4)
+7.5 Proportion of total water resources used (0.3)
+7.6 Proportion of terrestrial and marine areas protected (0.4)
+7.7 Proportion of species threatened with extinction (0.3)
+7.8 Proportion of population using an improved drinking water source (0.7)
+7.9 Proportion of population using an improved sanitation facility (0.3)
+7.10 Proportion of urban population living in slums (1.0)
+8.1–5 Ofﬁcial development assistance (ODA) (0.3,0.3,0.2,0.1,0.1)
+8.6–9 Market access (0.2,0.3,0.2,0.3)
+8.10–12 Debt sustainability (0.4,0.2,0.3)
+8.13 Proportion of population with access to affordable essential drugs on a sustainable
+basis. (1.0)
+8.14 Fixed telephone lines per 100 inhabitants (0.3)
+8.15 Mobile cellular subscriptions per 100 inhabitants (0.4)
+8.16 Internet users per 100 inhabitants (0.3)
+
+Target 6.B: (0.1)
+
+Target 8.E: (0.30)
+
+Target 7.D: (0.10)
+Target 8A: (0.1)
+Target 8.B (0.2)
+Target 8.C (0.2)
+Target 8D: (0.2)
+
+Target 7.C: (0.30)
+
+Target 7.B: (0.2)
+
+Target 7A: (0.4)
+
+Target 6.C: (0.4)
+
+MDGs Indicators (Evaluation Index
+
+MDG Targets
+
+7
+
+Measuring Progress of Millennium Development Goals
+
+for which Vi (i = 1,2,    ,n) deﬁnes the several possible judgment results.
+This article presents a ﬁve-member remark set used by the United
+Nations MDG Monitor (UN MDG Monitor 2007) to track the progress
+of member countries. The evaluation set V is the combination of each of
+the remarks for each of the factors or goals deﬁned as follows.
+V = V1 ,V2 ,V3 ,    ,Vn 
+
+
+ Achieved (V1 ), On Track (V2 ), Very likely to be achieved (V3 ), 
+= Possible to be achieved if some changes are made (V4 ),
+
+
+Off Track (V5 )
+(5)
+Assigning Weights by the Delphi Method
+This article recommends the Delphi method (Linstone and Turoff
+2002) for the UN Development experts involved in the MDG project
+in various regions and countries in order to determine the weight of
+each factor. Expert decision should be guided by the priority of the
+Goal for each member country. This would be based on the prevailing
+developmental challenges or conditions in a speciﬁc country together
+with MDG country historical data. For example, in determining the
+degree of importance of the Goals, the Ivory Coast cannot be weighted
+the same as Brazil, because the Ivory Coast is coming out of a war
+situation in which basic infrastructures such as schools and hospitals have
+been destroyed, whereas Brazil or Ghana has had stable political climate
+for quite some time.
+Evaluation Matrix
+The evaluation is systematically organized into levels based on the
+AHP. The ﬁrst and second layers of the evaluation comprise the Goals
+and targets of the Millennium project, respectively. The third level of the
+evaluation is about the indicators. The index set of the ﬁrst layer of Goals
+is U = U1 , U2 , U3 , U4 , U5 , U6 , U7 , U8 ; W is deﬁned as the fuzzy set of U ,
+showing the degree of importance of U . The weight set of the ﬁrst-level
+evaluator is deﬁned as:
+
+
+W = W1 , W2 , W3 ,    , Wj 
+(6)
+Accordingly, the corresponding weights of the second and third layers
+of the evaluation are, respectively, deﬁned in Equations (8) and (9). Each
+set of assigned weights must be between 0 and 1 and the total equal to 1.
+
+
+Wi = Wi1 , Wi2 , Wi3 ,    , Wij ,
+(7)
+
+8
+
+E. Afful-Dadzie et al.
+
+
+
+Wik = Wik1 , Wik2 , Wik3 ,    , Wikj ,
+
+(8)
+
+satisfying 0 < Wi , Wik , Wikj <1 and
+m
+
+m
+
+Wi =
+i=1
+
+m
+
+Wik =
+
+Wikj = 1
+j =1
+
+k=1
+
+Experts’ judgements by the use of the Delphi method to determine
+the respective weights of the ﬁve-element remark set for each of the Goals
+would be expressed in the following manner. If n experts are involved in
+the scoring and m experts consider the progress of a country with respect
+to the MDGs to have attained the level of Vj for evaluation factor i, then
+the progress-track evaluation for this factor i of the MDG could be
+rij =
+
+mijk
+,
+n
+
+(9)
+
+where k = 1,2,3, represents the number of evaluation levels.
+Single-Factor Evaluation Matrix
+The result in Equation (9) is the evaluation of only a single-factor
+or Goal of the MDGs. The single-factor remark is the remark used for
+a single vector U ikj and its resultant fuzzy sets on V written as a fuzzy
+vector:
+Ri = (ri1 , ri2 , ri3 ,    , rim )(i = 1,2,…,n),
+
+(10)
+
+where Ri ∈ (V ) and the sum of the weight of the vector is 1. The singlefactor evaluation is a fuzzy mapping from U to V . For example, in line
+with the elements of the third layer, the corresponding judgment matrix
+can be attained as follows:
+
+
+rij11 rij12    rij1n
+ rij21 rij22    rij2n 
+
+
+(11)
+Rij =  
+  
+
+ 
+   
+rijm1 rijm2    rijmn
+
+Fuzzy Comprehensive Evaluation (FCEM)
+The model for the FCEM starts with the third-level evaluation
+and ﬁnishes with the ﬁrst-level evaluation. The third-level evaluation is
+expressed as Aik = Wik × Rik . Accordingly, the model for the second-level
+
+Measuring Progress of Millennium Development Goals
+
+9
+
+evaluation is expressed as: Ai = Wi × Ri The second-level evaluation is
+the evaluation of the factors of Ui = Ui1 , Ui2 , Ui3 ,    , Uij  using the singlefactor evaluation matrix of the second index. By this, the single-factor
+evaluation matrix Ai of the second-layer index Ui is evaluated as follows:
+Ai = Wi × Ri = ai1 , ai2 , ai3 ,    , aij )
+
+
+rij 11 rij 12    rij 1n
+ rij 21 rij 22    rij 2n 
+
+
+= (wi1 , wi2 , wi3 ,    , wij , )  
+ 
+
+ 
+   
+
+
+(12)
+
+rij 1 rijm2    rijmn
+
+In the same vein, in the ﬁrst-layer evaluation, the comprehensive
+evaluation result of A from the factor set U = U1 , U2 , U3 , U4 , U5 , U6 , U7 , U8 
+will be:
+ 
+A1
+ A2 
+ 
+
+(13)
+A=W × R = W 
+ A3  = (a1 , a2 , a3 , a4 , a5 )
+
+Ai
+By this, the general evaluation matrix R and subsequent fuzzy
+comprehensive evaluation based on the weights result in:
+ 
+
+a11 a12 a13 a14 a15
+A1
+ A2   a21 a22 a23 a24 a55 
+
+  
+ A3   a31 a32 a33 a34 a35 
+
+  
+ A4   a41 a42 a43 a44 a45 
+ 
+
+R=
+ A5  =  a51 a52 a53 a54 a55  and
+
+  
+ A6   a61 a62 ya63 a64 a65 
+
+  
+ A7   a71 a72 a73 a74 a75 
+A8
+a81 a82 a83 a84 a85
+
+
+a11 a12 a13 a14 a15
+ a21 a22 a23 a24 a55 
+
+
+ a31 a32 a33 a34 a35 
+
+
+ a41 a42 a43 a44 a45 
+
+
+A = (W2 , W3 , W4 , W5 , W6 , W7 , W8 ) 
+
+a
+a
+a
+a
+a
+51
+52
+53
+54
+55
+
+
+ a61 a62 a63 a64 a65 
+
+
+ a71 a72 a73 a74 a75 
+a81 a82 a83 a84 a85
+
+
+= (a1 , a2 , a3 , a4 , a5 )
+
+(14)
+
+10
+
+E. Afful-Dadzie et al.
+
+In conclusion, A = (a1 , a2 , a3 , a4 , a5 ) is the ﬁnal evaluation result.
+In accordance with the maximum membership degree principle, the
+corresponding level of the maximum number of aj is the performance
+of a member country or region as far as the MDGs are concerned.
+OFFICIAL LIST OF THE MDGs
+In Table 1, the ofﬁcial, full list of all the MDGs as shown on the
+UN website (United Nations 2008) is presented. The goals, targets, and
+the indicators have, however, been given arbitrary weights in order to
+illustrate how FCEM can be effectively used to evaluate performance
+or track progress of member countries. Tables 1 and 2 are used to
+demonstrate how the evaluation is carried out. We assume arbitrary
+weighted values for a country such as Brazil and demonstrate how Brazil’s
+progress can be tracked or evaluated.
+CASE ANALYSIS-BRAZIL
+Assuming that the estimated ﬁgures for Brazil by UN Development
+Experts are as shown in Tables 1 and 2, the comprehensive evaluation
+would be done as demonstrated in the following sections.
+Step I: Third-Level Evaluation
+The ﬁrst procedure is to perform a fuzzy comprehensive evaluation of
+each of the factors. Goal 1: Eradicate extreme poverty and hunger (U1 ) is
+evaluated in terms of each of the targets of Goal 1, namely U11 , U12 , and
+U13 . The weight assigned to the three indicators of U11 : U111 , U112 , and U113
+is W11 , = (0.4, 0.4, 0.2), and its respective fuzzy evaluation matrix is
+
+
+0.400 0.300 0.200 0.075 0.025
+(15)
+R11 =  0.500 0.300 0.100 0.075 0.025  
+0.300 0.300 0.200 0.100 0.100
+The result of the evaluation of the MDG Target 1A (U11 ) is as follows:
+
+
+0.400 0.300 0.200 0.075 0.025
+A11 = W11 × R11 = (0.4, 0.4, 0.2) ·  0.500 0.300 0.100 0.075 0.025 
+0.300 0.300 0.200 0.100 0.100
+= (0.42, 0.30, 0.16, 0.08, 0.04)
+
+(16)
+
+In similar manner, the evaluation of MDG Target 1B (U12 ) and Target
+1C (U13 ) are, respectively, computed as A12 = (0.42, 0.27, 0.15, 0.088, 0.073)
+
+11
+
+Measuring Progress of Millennium Development Goals
+TABLE 2
+
+Weighted Remark Set for an Assumed Country–Brazil
+Remark Set
+
+MDGs (Evaluation Factors)
+U1 : Goal 1
+
+Targets
+
+Indicators
+
+V1
+
+V2
+
+V3
+
+V4
+
+V5
+
+U11
+
+U111
+U112
+U113
+U121
+U122
+U123
+U124
+U131
+U132
+U211
+U212
+U213
+U311
+U312
+U313
+U411
+U412
+U413
+U511
+U512
+U521
+U522
+U523
+U524
+U611
+U612
+U613
+U614
+U621
+U631
+U632
+U633
+U634
+U635
+U711
+U712
+U713
+U714
+U721
+U722
+U723
+U731
+U732
+U741
+U811
+U812
+U813
+
+0.400
+0.500
+0.300
+0.600
+0.500
+0.400
+0.100
+0.400
+0.400
+0.500
+0.500
+0.200
+0.600
+0.200
+0.200
+0.500
+0.500
+0.400
+0.600
+0.300
+0.300
+0.500
+0.400
+0.400
+0.400
+0.500
+0.300
+0.100
+0.400
+0.500
+0.400
+0.200
+0.500
+0.300
+0.300
+0.400
+0.500
+0.400
+0.200
+0.500
+0.400
+0.400
+0.300
+0.400
+0.200
+0.100
+0.200
+
+0.300
+0.300
+0.300
+0.200
+0.300
+0.300
+0.300
+0.300
+0.300
+0.200
+0.300
+0.400
+0.200
+0.200
+0.400
+0.300
+0.300
+0.300
+0.300
+0.300
+0.200
+0.200
+0.200
+0.300
+0.300
+0.200
+0.300
+0.400
+0.200
+0.300
+0.300
+.200
+0.200
+0.200
+0.300
+0.300
+0.300
+0.300
+0.300
+0.200
+0.300
+0.300
+0.300
+0.200
+0.200
+0.300
+0.300
+
+0.200
+0.100
+0.200
+0.100
+0.100
+0.200
+0.200
+0.200
+0.200
+0.200
+0.200
+0.200
+0.100
+0.300
+0.200
+0.100
+0.100
+0.200
+0.040
+0.200
+0.300
+0.200
+0.300
+0.200
+0.200
+0.200
+0.300
+0.300
+0.300
+0.100
+0.200
+0.200
+0.200
+0.200
+0.200
+0.200
+0.100
+0.200
+0.300
+0.200
+0.200
+0.200
+0.300
+0.200
+0.200
+0.300
+0.300
+
+0.075
+0.075
+0.100
+0.050
+0.050
+0.075
+0.200
+0.075
+0.075
+0.05
+0.075
+0.100
+0.050
+0.200
+0.100
+0.050
+0.050
+0.075
+0.040
+0.100
+0.100
+0.050
+0.075
+0.075
+0.050
+0.050
+0.075
+0.100
+0.075
+0.050
+0.075
+0.200
+0.050
+0.200
+0.125
+0.075
+0.050
+0.050
+0.100
+0.100
+0.100
+0.075
+0.075
+0.100
+0.200
+0.200
+0.125
+
+0.025
+0.025
+0.100
+0.050
+0.050
+0.025
+0.200
+0.025
+0.025
+0.050
+0.025
+0.100
+0.050
+0.100
+0.100
+0.050
+0.050
+0.025
+0.020
+0.100
+0.100
+0.050
+0.025
+0.025
+0.050
+0.050
+0.025
+0.100
+0.025
+0.050
+0.025
+0.200
+0.050
+0.100
+0.075
+0.025
+0.050
+0.050
+0.100
+0.100
+0.100
+0.025
+0.025
+0.100
+0.200
+0.100
+0.075
+
+U12
+
+U13
+U2 : Goal 2
+
+U21
+
+U3 : Goal 3
+
+U31
+
+U4 : Goal 4
+
+U41
+
+U5 : Goal 5
+
+U51
+U52
+
+U6 : Goal 6
+
+U61
+
+U62
+U63
+
+U7 : Goal 7
+
+U71
+
+U72
+
+U73
+
+U8 : Goal 8
+
+U74
+U81
+
+(Continued)
+
+12
+
+E. Afful-Dadzie et al.
+
+TABLE 2
+
+Continued
+
+MDGs (Evaluation Factors)
+
+Targets
+
+Indicators
+
+V1
+
+V2
+
+V3
+
+V4
+
+V5
+
+U814
+U815
+U821
+U822
+U823
+U824
+U831
+U832
+U833
+U841
+U851
+U852
+U853
+
+0.200
+0.200
+0.400
+0.200
+0.100
+0.300
+0.200
+0.200
+0.400
+0.400
+0.400
+0.400
+0.400
+
+0.100
+0.200
+0.300
+0.300
+0.200
+0.300
+0.300
+0.300
+0.300
+0.400
+0.300
+0.300
+0.300
+
+0.400
+0.400
+0.200
+0.300
+0.200
+0.200
+0.300
+0.300
+0.200
+0.100
+0.200
+0.200
+0.200
+
+0.200
+0.100
+0.075
+0.100
+0.300
+0.100
+0.125
+0.100
+0.050
+0.050
+0.050
+0.050
+0.075
+
+0.100
+0.100
+0.025
+0.100
+0.200
+0.100
+0.075
+0.100
+0.050
+0.050
+0.050
+0.050
+0.025
+
+U82
+
+U83
+
+U84
+U85
+
+and A13 = (0.40, 0.30, 0.20, 0.075, 0.025), respectively. The fuzzy comprehensive evaluations of the remaining second-level indicators are performed
+in the same way.
+Step II: Second-Level Evaluation
+The second procedure computes the fuzzy comprehensive evaluation
+result of Goal 1 (U1 ) as:
+
+
+0.420 0.300 0.1600 0.080 0.040
+A1 = (0.4, 0.2, 0.4) ·  0.420 0.270 0.150 0.088 0.073 
+0.400 0.300 0.200 0.075 0.025
+= (0.412, 0.294, 0.174, 0.080, 0.041)
+
+(17)
+
+Again, in similar manner, the fuzzy comprehensive evaluation is carried
+out for the remaining evaluation factors as represented in Table 3.
+TABLE 3
+
+Second-Level Evaluation
+
+Goal
+
+V1
+
+V2
+
+V3
+
+V4
+
+V5
+
+U2
+U3
+U4
+U5
+U6
+U7
+U8
+
+0.44
+0.36
+0.49
+0.45
+0.345
+0.395
+0.315
+
+0.27
+0.24
+0.30
+0.272
+0.262
+0.282
+0.304
+
+0.20
+0.20
+0.11
+0.162
+0.231
+0.203
+0.203
+
+0.068
+0.12
+0.053
+0.068
+0.094
+0.78
+0.089
+
+0.053
+0.08
+0.048
+0.05
+0.069
+0.057
+0.069
+
+Measuring Progress of Millennium Development Goals
+
+13
+
+After this procedure, the matrix of the second-level comprehensive
+evaluation becomes
+
+
+0.412 0.294 0.174 0.080 0.041
+ 0.440 0.270 0.200 0.068 0.053 
+
+
+ 0.360 0.240 0.200 0.120 0.080 
+
+
+ 0.490 0.300 0.110 0.053 0.048 
+
+
+(18)
+R =
+
+0.450
+0.272
+0.162
+0.068
+0.050
+
+
+ 0.345 0.262 0.231 0.094 0.069 
+
+
+ 0.395 0.282 0.203 0.078 0.057 
+0.315 0.304 0.203 0.089 0.069
+Step III: First-Level Evaluation
+This ﬁnal step uses the weights of the Goals together with the secondlevel evaluation matrix R. The result of the performance evaluation of
+the Millennium development goals for a particular member country is
+A = W × R = (0.3, 0.2, 0.05, 0.125, 0.125, 0.1, 0.05, 0.05)
+
+
+0.412 0.294 0.174 0.080 0.041
+ 0.440 0.270 0.200 0.068 0.053 
+
+
+ 0.360 0.240 0.200 0.120 0.080 
+
+
+ 0.490 0.300 0.110 0.053 0.048 
+
+
+ 0.450 0.272 0.162 0.068 0.050 
+
+
+ 0.345 0.262 0.231 0.094 0.069 
+
+
+ 0.395 0.282 0.203 0.078 0.057 
+0.315 0.304 0.203 0.089 0.069
+= (0.417, 0.281, 0.180, 0.076, 0.052)
+
+(19)
+
+In line with the maximum membership degree principle, the largest
+number of 0.417, corresponds to “Achieved.” This implies that, through
+FCEM, we are able to establish that Brazil has achieved the MDG targets
+as far as progress is concerned.
+CONCLUSIONS
+In the absence of data on the Millennium Development Goals for
+most countries and regions and with the due date for the program
+approaching, the proposed methodology explains how UN Development
+ﬁeld experts’ opinions can be used to efﬁciently measure and track
+progress. The methodology can be very useful for developing countries
+where it is evidently clear there is difﬁculty in gathering data on
+
+14
+
+E. Afful-Dadzie et al.
+
+the MDGs. The fuzzy comprehensive evaluation method shows how
+to evaluate and track the performance of countries who have signed
+onto the MDGs. Because the Delphi survey method wasn’t carried out
+experimentally to assign the weights, the weights were assigned arbitrarily
+in order to demonstrate how the method works. The method provides
+an efﬁcient way to track the progress of member countries. It is also an
+ideal method for tracking progress of individual goals and targets. This
+approach at evaluating the performance of the MDGs would help the
+UN and all other stakeholders to effectively track progress of countries
+at any stage toward the set deadline target of 2015. The strength of this
+methodology lies in its simplicity and ability to also evaluate any one of
+the goals independently of all the goals. Future work would show how
+the panel of experts would be formed and how analysis of the Delphi
+survey method can effectively assign the weights.
+FUNDING
+This work was supported by the Internal Grant Agency of Tomas Bata
+University in Zlín under the project No. IGA/FAI/2013/042. This work
+was supported by the European Regional Development Fund under the
+project CEBIA-Tech No. CZ.1.05/2.1.00/03.0089.
+REFERENCES
+Atarran, A. 2005. An immeasurable crisis? A criticism of the Millennium development goals and
+why they cannot be measured. PLOS Medicine 2(10):955–961.
+Chengcheng, B., and M. Junhai. 2010. The application of fuzzy comprehensive evaluation
+model in the performance assessment of state-owned enterprises. In Proceedings of the
+international symposium on computational intelligence and design 3(1):96–99. Hangzhou, China:
+IEEE Computer Society.
+Clemens, M. A., C. J. Kenny, and T. J. Moss. 2007. The trouble with the MDGs: Confronting
+expectations of aid and development success. World Development 35(5):735–751.
+Easterly, W. 2007. How the Millennium development goals are unfair to Africa. World Development
+37(1):26–35.
+Fukuda-Parr, S., J. Greenstein, and D. Stewart. 2013. How should MDG success and failure be
+judged: Faster progress or achieving the targets? World Development 41(C):19–30.
+Linstone, H. A., and M. Turoff. 2002. The Delphi method: Techniques and applications. Boston, MA:
+Addison-Wesley.
+UN MDG Monitor 2007. MDG Monitor: Tracking the Millennium development goals. http://www.mdg
+monitor.org/country_progress.cfm?c=BRA&cd (accessed May 2, 2013).
+Sun, J., Y. Wu, Z. Dai, and Y. Hao. 2006. Fuzzy comprehensive evaluation model and inﬂuence
+factors analysis on comprehensive performance of green buildings. Renewable Energy Resources
+and a Greener Future 8(1):4–2.
+United Nations 2008. The ofﬁcial list of MDG indicators. http://mdgs.un.org/unsd/mdg/host.
+aspx?Content=indicators/ofﬁciallist.htm (accessed May 16, 2013)
+United Nations 2008. About the Millennium development goals indicators. http://mdgs.un.org/
+unsd/mdg/Host.aspx?Content=Indicators/About.htm (accessed April 5, 2013)
+Vandemoortele, J. 2009. The MDG conundrum: Meeting the targets without missing the point.
+Development Policy Review 27(4):355–371.
+
+Measuring Progress of Millennium Development Goals
+
+15
+
+Yunna, W., and H. Zhijun. 2008. Application of fuzzy comprehensive evaluation model based
+on variable fuzzy set method in construction enterprises’ erp project risk evaluation.
+In Proceedings of 2008 international conference on risk management & engineering management,
+466–471. Beijing, China: IEEE Computer Society.
+Zhao, L., Y. Guo, and W. Cui. 2009. The application of fuzzy comprehensive evaluation methods
+in the selection of a project manager. In Proceedings of the fourth international conference
+on computer sciences and convergence information technology, 1387–1391. Seoul, Korea: IEEE
+Computer Society.
+Zhao, X., X. Li, and Q. Yue. 2011. Application of fuzzy comprehensive evaluation method in the
+equipment supply support effectiveness evaluation. In Proceedings of the international conference
+on applied informatics and communication, Part IV, ed. J. Zhung, Communications in Computer
+and Information Science 227: 700–705. Berlin: Springer.
+
+

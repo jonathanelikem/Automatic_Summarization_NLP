@@ -1,0 +1,1115 @@
+Available online at www.sciencedirect.com
+
+ScienceDirect
+Procedia Computer Science 60 (2015) 63 – 72
+
+19th International Conference on Knowledge Based and Intelligent Information and Engineering
+Systems
+
+Selecting Start-Up Businesses in a Public Venture Capital Financing
+using Fuzzy PROMETHEE
+Eric Afful-Dadziea*, Zuzana Komínková Oplatkováa, Stephen Nabaresehb
+a
+Faculty of Applied Informatics, Tomas Bata University, T.G Masaryka 5555, 760 01, Zlin - Czech Republic
+Faculty of Management and Economics, Tomas Bata University, T.G Masaryka 5555, 760 01, Zlin - Czech Republic
+
+b
+
+Abstract
+Public Venture Capital financing often fail rigorous scrutiny in their selection of high-potential start-ups as compared to Private
+Venture capital. In some developing countries, decision making on final selection for financial support of early stage but high
+potential Small and Medium sized Enterprises (SMEs) are often ‘clouded’ by several factors including consideration of political
+party affiliations. This results in low capital recovery rate and a mischance in choosing deserving start-ups. This paper applies
+Fuzzy Preference Ranking Organization METHod for Enrichment Evaluation (Fuzzy PROMETHEE) method to evaluate and select
+early-stage but high potential start-up businesses in a government high priority area such as in Information and Communications
+Technology. A numerical example with pre-defined linguistic terms parameterized by triangular fuzzy numbers is provided. The
+framework could serve as a useful tool for decision makers in scrutinizing selection of start-ups in other government priority areas.
+© 2015
+byby
+Elsevier
+B.V.B.V.
+This is an open access article under the CC BY-NC-ND license
+2015The
+TheAuthors.
+Authors.Published
+Published
+Elsevier
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Peer-review under responsibility of KES International.
+Peer-review under responsibility of KES International
+Keywords: Public Venture Capital; Start-Up companies; Fuzzy PROMETHEE; Fuzzy MCDM; Evaluation; Ghana.
+
+1. Introduction
+According to [1], [2], [3] and [4] there is enough research evidence to show that start-up businesses that are
+supported by Venture Capital (VC) generally tend to be successful than those that do not receive VC support. Public
+Venture Capital (PVCs) financing, especially those initiated by Governments, play a key role in meeting the financial
+demands of early-stage young entrepreneurs who are often unsuccessful at securing funds through the traditional
+investment sources such as the banks [5]. PVCs are even more embraced in developing countries where lending rates
+for Small Medium Enterprises (SMEs) by the financial sector tend to be relatively high partly due to non-performing
+loans [5]. In view of this, government backed VCs are becoming increasingly popular in most developing countries in
+
+1877-0509 © 2015 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Peer-review under responsibility of KES International
+doi:10.1016/j.procs.2015.08.105
+
+64
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+
+spite of the low capital recovery rates from debtors [6]. Some of the criticisms of government led Venture Capital
+initiatives are the apparent lack of a robust selection criteria [1], lack of due diligence in the selection process [7], poor
+design and implementation challenges [8]. Additionally, it is also realized that government led VCs often fail in
+developing countries compared to developed nations partly because candidates for such capital financing schemes are
+sometimes chosen based on their political and social affiliations. To help cure some of these challenges in the selection
+of start-ups especially in developing countries, this paper first designs a selection criteria for start-ups in the
+Information Systems (IS)/Information Communications Technology (ICT) sectors. Subsequently, a decision making
+framework based on fuzzy PROMETHEE is applied in selecting potential candidates in a highly competitive but
+limited funds in government venture capital programmes. This methodological approach is considered suitable because
+in a high risk area such as public venture capital financing, selecting the right candidate can be very challenging and
+complex since most of the criteria involved are subjective or hold uncertain data. The criteria considered in this
+research which are mainly culled from [9], [10], [11] and [12], [13], [14] and [15] uses the fuzzy PROMETHEE
+approach in demonstrating how an ideal selection could be realized in a public Venture capital financing. The rest of
+the paper is organized as follows. A brief introduction of fuzzy set theory and the PROMETHEE method are presented.
+Next, relevant literature on various fuzzy PROMETHEE applications is also presented followed by a systematic
+outline with definitions and formulas of the fuzzy PROMETHEE method. Finally, a numerical example of how fuzzy
+PROMETHEE could be used to rank and select high-potential start-ups in a public venture capital is demonstrated.
+2. Modelling Uncertainty with Fuzzy Sets
+The concept of Fuzzy set theory introduced by Zadeh [16] serves as a mathematical tool that addresses issues of
+uncertainty, subjectivity, vagueness and imprecision in human judgements [17]. Fuzzy set is widely used in Multicriteria decision making (MCDM) to extend stochastic and deterministic MCDM methods into useful applications in
+situations of uncertainty. Based on the concept of relative graded membership, fuzzy set is very efficient at modeling
+human decisions and judgments [18], [19], [20]. In the following, basic operations of the fuzzy set theory are briefly
+introduced.
+2.1. Definition 1: Fuzzy Set.
+Let X be a nonempty set. A fuzzy set A in X is characterized by membership functions that map elements of an
+assigned universal set X into real numbers in the range [0, 1]. The membership function is expressed as
+P A : X o [0,1] where P A stands for the membership degree x in A denoting linguistic terms of a linguistic variable
+[21]. Fuzzy numbers are used to convey the linguistic terms between [0, 1] which captures the subjectivity, vagueness
+and imprecision of a subjective rating [20]. Triangular and Trapezoidal fuzzy numbers are the two most popular
+techniques of translating the linguistic information. This paper adopts the Triangular Fuzzy Number (TFN) as defined
+below.
+2.2. Definition 2: Triangular Fuzzy Number (TFN)
+A Triangular fuzzy number (TFN) is defined as a fuzzy set with membership function y f ( x) expressed as a
+triplet r , u, v having the form as shown in Fig. 1. In Figure 1, the value of x at u gives the maximal value of
+P A x , that is P A x 1 . The value of x at r represents the minimal grade of P A x , i.e P A x 0 . The
+constants r and v stand for the lower and upper bounds of the area data respectively and reflect the fuzziness of the
+data under consideration [17]. In Eq. 1, the membership function P A x of the triangular fuzzy number is defined.
+Subsequently in figure 2, a demonstration of how two triangular fuzzy numbers yield the arithmetic operations
+underlying TFNs is presented in Eq. 2 to 6.
+
+65
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+
+PA x
+
+x  r, x ! u
+­0
+°xr
+°
+, r d xdu
+®u  r
+°v  x
+°
+, udxdv
+¯v  u
+
+(1)
+
+A
+
+1
+
+0
+
+r
+
+u
+
+v
+
+X
+
+Fig. 1. Membership function of triangular fuzzy number
+
+A
+
+B
+
+u
+
+u1
+
+1
+
+0
+
+r
+
+r1
+
+v
+
+v1
+
+Fig. 2. Two triangular fuzzy numbers
+
+Definition 3: Arithmetic Operations of TFNs
+Let A
+
+r, u, v and B
+
+r1 , u1 , v1 be two triangular fuzzy numbers. The basic operations on these two fuzzy
+
+triangular numbers are expressed as follows:
+
+A  B (r, u, v)  (r1, u1, v1 )
+
+r  r1, u  u1, v  v1
+
+(2)
+
+A  B (r, u, v)  (r1, u1, v1 )
+
+r  v1, u  u1, v  r1
+
+(3)
+
+A u B (r, u, v) u (r1, u1, v1 )
+
+rr1, uu1, vv1
+
+(4)
+
+§r u v·
+A y B (r , u, c) y (r1 , u1 , v1 ) ¨ , , ¸
+© v1 u1 r1 ¹
+
+(5)
+
+3. Fuzzy PROMETHEE
+The Preference Ranking Organization Method for Enrichment (PROMETHEE) has become one of the most popular
+and widely accepted outranking methods in Multiple Criteria Decision Making (MCDM). Proposed by Brans and
+Vincke in 1985[22], it uses a preference function to perform a pairwise comparison of pairs of alternatives and grades
+
+66
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+
+them between a [0, 1] interval [23]. As an outranking method, the PROMETHEE method is preferred in ranking and
+selection problems because of its ability to compare the performances of pairs of alternatives and factor that into the
+composite ranking. It is widely considered a robust technique and therefore used in industry as well as in academia.
+Similar to most of the MCDM methods, fuzzy set extends the PROMETHEE technique in situations of uncertainty
+and subjectivity in data. The Fuzzy PROMETHEE has seen applications in varied areas such as health care
+management [24], information systems outsourcing [23], logistics [25], customer reviews [26], landslide susceptibility
+mapping [27] among many others. Additionally the technique has been improved with several variants, versions
+(PROMETHEE I, II, III, IV, V, VI), integrations and in some instances extensions as seen in [28], [29], [30] and [31].
+A combination of PROMETHEE I and II is used in this paper. In PROMETHEE I, a partial raking of alternatives
+is provided based on the following metrics [22], [29] and [30]. First, the sum of indices, S m, l determine the
+preference of alternative m over the rest of the alternatives considered. This is referred to as the ‘leaving flow’ I  (m)
+, and implies the relative good performance of m over the other alternatives. The alternative with the highest ‘leaving
+flow’ is adjudged the best in the evaluation. Similarly, the sum of indices, S l , m is computed to indicate the
+preferences of all other alternatives measured against m . This is also referred to as the ‘entering flow’ I  (m) , and
+implies the inferiority of alternative m in relation to the rest of the alternatives. In PROMETHEE II however, an
+introduction of a net flow I (m) which is basically the difference between the leaving and the entering flows, helps to
+achieve a complete or full ranking. At this stage, the alternative with the highest net flow is adjudged the best
+alternative.
+In the following section, a systematic outline with formulas and definitions of the fuzzy PROMETHEE
+methodology as culled from [22], [23] and [29] and [30], is presented and then used for the selection of start-up
+businesses in a Public Venture Capital (PVC) setting. The procedure outlined below would guide the study.
+Step 1: Determining linguistic Variables (criteria), linguistic terms, alternatives and decision makers
+The first in a series of stages in a typical fuzzy MCDM approach is the determination of linguistic variables and its
+associated linguistic terms; determination of the alternatives and the number of decision makers to be involved in the
+decision making process. This set of information is what is used to construct the decision matrix as shown in step 2.
+Basically, the linguistic terms which are translated into fuzzy numbers are what is used to rate the linguistic variables.
+The linguistic terms are therefore qualitative words that reflect the subjective view of an expert or decision maker
+about the criteria per each alternative under consideration [17], [18]. In this paper, the linguistic terms and their
+associated TFNs are shown in Table 1 and 2 respectively to capture the ratings of the importance criteria and the
+alternatives on a scale of 0-1.
+Step 1a: Determining Importance Criteria Weights
+In this step, decision makers rate to determine the importance or the weight of each criterion with the help of the
+linguistic terms in Table 1. In equation 6 below, w j denotes the weight of criterion C j based on the linguistic
+preference assigned by a decision maker. It is noted that each weight wkj
+
+(wkj1 , wkj 2 , wkj 3 ) is expressed as a triangular
+
+fuzzy number.
+
+W
+
+> w1, w2 ,
+
+, wn @ , j=1, 2,…, n
+
+(6)
+
+Step 2a: Constructing a fuzzy decision matrix
+In a situation where m alternatives and n criteria are presented to k decision-makers, (D1, D2, …, Dk) to choose
+the best alternative, a fuzzy MCDM problem can be expressed in a matrix format as shown in Eq. 7 below.
+
+67
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+
+D
+
+C1 C2
+A1 ª x11 x12
+A2 «« x21 x22
+«
+«
+Am ¬ xm1 xm 2
+
+Cn
+x1n º
+x2 n »» , i = 1, 2, …,m; j = 1, 2, …,n
+»
+»
+xmn ¼
+where xij is the rating ofCalternative
+Ai with respect to criterion
+j
+
+expressed in triangular fuzzy numbers(TFNs). This implies that the rating of a decision maker k is xijk
+
+(7)
+
+both
+rijk , uijk , vijk .
+
+Step 2b: Aggregating decisions
+In this step, the fuzzy weights of the criteria as well as the ratings of the alternatives are aggregated using the
+interval valued technique as defined in Eq. 8 and 9 respectively.
+
+wj
+xij
+
+1 1
+ª w j  w2j  ...,  wnj ¼º
+¬
+n
+1 1
+ª xij  xij2  ...,  xijn ¼º
+¬
+n
+
+(8)
+(9)
+
+Step 3: Normalizing decision matrix
+The next step normalizes the aggregated fuzzy decision matrix obtained from step 2b. The normalized fuzzy
+decision matrix is defined as in Eq.10.
+
+S
+
+ª¬ sij º¼ , i = 1,2,…, m; j = 1,2, …, n
+mun
+
+(10)
+
+The normalization of the fuzzy decision matrix is computed using Eq. 11 below:
+Where sij
+
+§ rij uij vij · 
+¨¨  ,  ,  ¸¸ v j
+© vj vj vj ¹
+
+max vij
+i
+
+(11)
+
+It must be noted that at this stage the normalized matrix is still a triangular fuzzy number.
+Step 4: Constructing fuzzy preference function
+In this step, the preference function Pj m, n is computed to describe the decision-makers’ preference between pairs
+of alternatives. Brans and Vincke [22] introduced six types of preference functions ranging between [0, 1]. These are
+the usual-criterion, quasi-criterion, criterion with linear preference, level-criterion, criterion with Linear Preference
+and indifference area and the Gaussian-criteria. In this paper, we used the usual-criterion function (Type I) which is
+very simple to implement and yield the needed result. The usual criterion function is defined below in Eq. 12.
+
+Pj m, n
+
+­0, smj d snj
+®
+¯ 1 smj ! snj
+
+j 1, 2,..., k
+
+(12)
+
+Step 5: Computing weighted aggregated preference function
+The next step computes the weighted aggregated preference function using Eq. 13 below.
+
+S m, l
+
+k
+
+¦ P m, n w
+j
+
+j 1
+
+j
+
+(13)
+
+68
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+
+where w j denotes the importance weight of the criteria
+Step 6: Compute the leaving, entering and net flows
+In this step, each alternative is related to ( n  1) alternatives that results in either a positive or negative flow [24],
+[31]. This approach helps to calculate both the leaving and entering flows and by extension the net flow.
+Leaving flow: I
+
+
+
+( m)
+
+Entering flow: I  (m)
+
+1
+¦ S m, l , m, l  A,
+n  1 m zl
+
+(14)
+
+1
+¦ S l, m , m, l  A,
+n  1 m zl
+
+(15)
+
+where n is the number of alternatives. As stated above, the Leaving flow measures the superiority of m over the
+other alternatives whiles the entering flow shows the weakness or the inferiority of m compared to the rest of the
+alternatives.
+Step 8: Establishing ranking
+The final step, uses PROMETHEE II to provide a complete or full ranking using the net flow as shown in Eq, 16
+Net flow: I (m)
+
+I  (m)  I  (m) , m  A .
+
+(16)
+
+4. Application
+The study uses the Government of Ghana publicly run venture capital scheme as a case study. The Venture Capital
+Trust Fund (VCTF) was established by an ACT of parliament 680 in 2004 to offer ‘low cost financing’ to start-up
+businesses to help grow, create jobs and wealth [32]. In an environment where political, social, tribal and religious
+affiliations often influence key decisions such as public allocation of funds [33], [34], this fuzzy PROMETHEE
+MCDM framework is adopted to ensure fairness and transparency in the selection of start-ups in the face of limited
+funds in the public venture capital. The relevant criteria for the evaluation process were thoroughly studied in literature
+and culled from [9], [10], [11] and [12], [13], [14] and [15]. In this paper, four sets of alternatives (start-up businesses)
+and five decision makers are used in the evaluation and selection process. In the following section, an outline of the
+evaluation procedure is presented.
+The first step involved the determination of the linguistic variables, linguistic terms, the alternatives and the
+decision makers. In Table 1, the linguistic terms for both the importance criteria and the alternative ratings are
+expressed in their TFN format. Additionally, figure 3 presents the relevant criteria used in the study of selecting startup businesses in a publicly run venture capital scheme. Lastly, the importance criteria is also computed.
+Table 1: Linguistic scale for the importance of criterion and alternative ratings
+Linguistic terms
+
+Triangular fuzzy number
+
+Ratings of Alternatives
+
+Very Low (VL)
+
+(0.0,0.1,0.3)
+
+Not Feasible (NF)
+
+Low (L)
+
+(0.1,0.3,0.5)
+
+Feasible with changes (FC)
+
+Medium(M)
+
+(0.3,0.5,0.7)
+
+Likely to be achieved (LA)
+
+High (H)
+
+(0.5,0.7,0.9)
+
+Feasible (F)
+
+Very High (VH)
+
+(0.7,0.9,1.0)
+
+Highly Achievable (HA)
+
+The importance criterion is determined by the ratings of the decision makers as shown in Table 2. The ratings for the
+determination of the important criterion is expressed by Eq. 6 and aggregated using Eq. 8. In this study, criterion 1
+(C1) was adjudged the most important criterion in the selection of start-up businesses in a public venture capital.
+
+69
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+
+The second step involved the construction of a decision matrix expressed in Eq. 7 and was subsequently aggregated
+using Eq. 9. The ratings were carried out using well-constructed sets of linguistic terms to adequately describe each
+criterion. The 5-set linguistic terms are Not Feasible (NF), Feasible with changes (FC), Likely to be achieved (LA),
+Feasible (F) and Highly Achievable (HA) to describe the potential and preparedness of each start-up business seeking
+a public venture capital support. In Table 3, the decision matrix is shown with the various ratings assigned by decision
+makers. The third step normalized the aggregated decision matrix using Eq. 11.
+Table 2: Importance Weight Criterion
+
+D1
+
+D2
+
+D3
+
+D4
+
+D5
+
+Aggregated Weight
+
+C1
+C2
+C3
+
+VH
+H
+H
+
+VH
+M
+H
+
+VH
+H
+H
+
+VH
+M
+H
+
+H
+M
+M
+
+(0.66,0.86,0.98)
+(0.38,0.58,0.78)
+(0.46,0.66,0.86)
+
+C4
+C5
+
+VL
+L
+M
+
+L
+L
+H
+
+L
+M
+M
+
+M
+M
+M
+
+L
+M
+M
+
+(0.12,0.30,0.50)
+(0.22,0.42,0.62)
+(0.34,0.54,0.74)
+
+C6
+
+The fourth step computes the preference function to describe the decision-makers’ aggregated preference between
+pairs of alternatives. This paper used the ‘usual criterion’ as expressed in Eq. 12. In table 4, the pair wise preferences
+are presented.
+
+Selecting Start-ups in a Public
+Venture Financing
+
+Product or service characteristics
+(C1)
+Employment Creation
+(C2)
+Entrepreneur / Management team
+personality (C3)
+Entrepreneur / Management team
+experience (C4)
+Market characteristics
+(C5)
+Financial characteristics
+(C6)
+
+Fig. 3. Conceptual framework for Selecting Start-ups in Public Venture Capital
+Subsequently in step five, the weighted aggregated preference function is calculated using Eq. 13 resulting in Table
+5.
+In step six, the leaving and entering flows as well as their net flows are computed using Eq. 14, 15 and 16
+respectively. This generated the ranking of the alternatives. In Table 6, the leaving, entering and net flows are
+presented. The ranking depicts alternative 4 as the best alternative.
+
+70
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+Table 3: Alternative Ratings by Decision-Makers
+Criteria
+
+Alternatives
+
+C1
+
+D1
+FC
+FC
+LA
+HA
+LA
+LA
+F
+F
+FC
+LA
+HA
+HA
+F
+F
+HA
+F
+F
+LA
+LA
+LA
+NF
+F
+F
+HA
+
+A1
+A2
+A3
+A4
+A1
+A2
+A3
+A4
+A1
+A2
+A3
+A4
+A1
+A2
+A3
+A4
+A1
+A2
+A3
+A4
+A1
+A2
+A3
+A4
+
+C2
+
+C3
+
+C4
+
+C5
+
+C6
+
+Decision-Makers
+D3
+NF
+LA
+FC
+HA
+NF
+F
+F
+HA
+FC
+LA
+HA
+HA
+LA
+F
+F
+F
+FC
+LA
+LA
+F
+FC
+F
+F
+F
+
+D2
+NF
+FC
+FC
+F
+LA
+FC
+F
+F
+F
+F
+F
+HA
+F
+LA
+F
+F
+FC
+LA
+LA
+F
+FC
+LA
+LA
+F
+
+D4
+LA
+LA
+FC
+LA
+FC
+F
+F
+F
+LA
+LA
+HA
+HA
+F
+LA
+F
+F
+FC
+LA
+LA
+LA
+LA
+F
+HA
+F
+
+D5
+LA
+LA
+LA
+F
+FC
+F
+FC
+LA
+F
+F
+HA
+F
+LA
+F
+F
+HA
+FC
+FC
+LA
+F
+FC
+LA
+LA
+HA
+
+Table 4: Pairwise Preference Functions for the Alternatives
+C1
+
+C2
+
+C3
+
+C4
+
+C5
+
+C6
+
+P(A1,A2)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+P(A1,A3)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+P(A1,A4)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+P(A2,A1)
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+P(A2,A3)
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+P(A2,A4)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+P(A3,A1)
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+P(A3,A2)
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+P(A3,A4)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+P(A4,A1)
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+P(A4,A2)
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+P(A4,A3)
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+Table 5: Weighted Aggregated Preference Function
+A1
+
+A2
+
+A3
+
+A4
+
+0
+
+A1
+A2
+
+9.1
+
+A3
+
+10.02
+
+7.52
+
+A4
+
+10.02
+
+10.02
+
+0
+
+0
+
+2.5
+
+0
+0
+
+7.12
+
+71
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+Table 6: The leaving/entering, net flows and alternatives ranking
+Leaving Flow
+
+I m
+
+Entering Flow I
+
+
+
+m
+
+Net Flow
+
+Ranking
+
+A1
+
+0
+
+9.713333
+
+-9.71333
+
+4
+
+A2
+
+3.866667
+
+5.846667
+
+-1.98
+
+3
+
+A3
+
+5.846667
+
+3.206667
+
+2.64
+
+2
+
+A4
+
+9.053333
+
+0
+
+9.053333
+
+1
+
+a
+A1
+
+A3
+
+b
+A4
+
+A2
+
+A3
+
+A2
+
+A1
+
+A4
+
+Fig. 4. (a) Partial preorder outranking; (b) Full preorder outranking
+
+5. Conclusion
+The research aimed at applying a fuzzy PROMETHEE framework to select and evaluate start-up businesses in a
+Public Venture Capital (PVC) scheme. In selection problems especially where public funds are involved, several
+peripheral considerations are sometimes made which do not inure to the benefit of the parties involved. To ensure
+fairness and transparency in the selection of start-up businesses in a publicly run venture capital, this framework seeks
+to also minimize the occurrences of low funds recovery rates as a result of selecting unsuitable candidates especially
+in a micro financing scheme. The Fuzzy PROMETHEE method was chosen primarily because of its ‘preference
+function’ approach of conducting pairwise comparison of alternatives involved in the selection process. This decision
+making framework applied in this study demonstrates how in a highly uncertain field such as venture capital schemes,
+a fuzzy PROMETHEE method can be handy in choosing businesses that have the high propensity to succeed. The
+criteria and the decision making approach could be reviewed in future and extended to evaluate start-up businesses in
+a private venture capital.
+Acknowledgements
+This work was supported by Grant Agency of the Czech Republic - GACR P103/15/06700S, further by financial
+support of research project NPU I No. MSMT-7778/2014 by the Ministry of Education of the Czech Republic and
+also by the European Regional Development Fund under the Project CEBIA-Tech No. CZ.1.05/2.1.00/03.0089.
+Further, this work was supported by Internal Grant Agency of Tomas Bata University under the project No.
+IGA/FAI/2015/054.
+References
+[1] Alperovych, Yan, Georges Hübner, and Fabrice Lobet. "How does governmental versus private venture capital backing affect a firm's
+efficiency? Evidence from Belgium." Journal of Business Venturing (2014).
+[2] Gompers, Paul Alan, and Joshua Lerner. The venture capital cycle. MIT press, 2004.
+[3] Chemmanur, Thomas J., Karthik Krishnan, and Debarshi K. Nandy. "How does venture capital financing improve efficiency in private firms?
+A look beneath the surface." Review of financial studies (2011): hhr096.
+[4] Bertoni, Fabio, Massimo G. Colombo, and Luca Grilli. "Venture capital financing and the growth of high-tech start-ups: Disentangling treatment
+from selection effects." Research Policy 40, no. 7 (2011): 1028-1043.
+[5] Nkusu, Mwanza. "Nonperforming loans and macrofinancial vulnerabilities in advanced economies." IMF Working Papers (2011): 1-27.
+
+72
+
+Eric Afful-Dadzie et al. / Procedia Computer Science 60 (2015) 63 – 72
+[6] Biekpe, Nicholas. "Financing small businesses in Sub-Saharan Africa: Review of some key credit lending models and impact of venture capital
+provision." Journal of African Business 5, no. 1 (2004): 29-44.
+[7] Baeyens, Katleen, Tom Vanacker, and Sophie Manigart. "Venture capitalists' selection process: the case of biotechnology proposals."
+International Journal of Technology Management 34, no. 1 (2006): 28-46.
+[8] Lerner, Josh. Boulevard of broken dreams: why public efforts to boost entrepreneurship and venture capital have failed--and what to do about
+it. Princeton University Press, 2009.
+[9] Fried, Vance H., and Robert D. Hisrich. "Toward a model of venture capital investment decision making." Financial management (1994): 2837.
+[10] MacMillan, Ian C., Robin Siegel, and PN Subba Narasimha. "Criteria used by venture capitalists to evaluate new venture proposals." Journal
+of Business venturing 1, no. 1 (1986): 119-128.
+[11] Hall, John, and Charles W. Hofer. "Venture capitalists' decision criteria in new venture evaluation." Journal of Business Venturing 8, no. 1
+(1993): 25-42.
+[12] Wells, William Arthur. "Venture capital decision-making." PhD diss., Carnegie-Mellon University, 1973.
+[13] Petty, Jeffrey S. "THE DYNAMICS OF VENTURE CAPITAL DECISION MAKING." In Academy of Management Proceedings, vol. 2009,
+no. 1, pp. 1-6. Academy of Management, 2009.
+[14] Mainprize, Brent, Kevin Hindle, and Ron Mitchell. "Toward the standardization of venture capital investment evaluation: decision criteria for
+rating investee business plans." In Proceedings of the 22rd Frontiers of Entrepreneurship Research conference, pp. 1-16. Babson College,
+2002.
+[15] Mainprize, Brent, Kevin Hindle, and Ron Mitchell. "Toward the standardization of venture capital investment evaluation: decision criteria for
+rating investee business plans." In Proceedings of the 22rd Frontiers of Entrepreneurship Research conference, pp. 1-16. Babson College,
+2002.
+[16] Zadeh, Lotfi A. "Fuzzy sets." Information and control 8, no. 3 (1965): 338-353.
+[17] Afful-Dadzie, Eric, Stephen Nabareseh, Anthony Afful-Dadzie, and Zuzana Komínková Oplatková. "A fuzzy TOPSIS framework for selecting
+fragile states for support facility." Quality & Quantity (2014): 1-21.
+[18] Klir, George, and Bo Yuan. Fuzzy sets and fuzzy logic. Vol. 4. New Jersey: Prentice Hall, 1995.
+[19] Wang, Li-Xin. A course in fuzzy systems. Prentice-Hall press, USA, 1999.
+[20] Afful-Dadzie, Anthony, Eric Afful-Dadzie, Stephen Nabareseh, and Zuzana Komínková Oplatková. "Tracking progress of African Peer
+Review Mechanism (APRM) using fuzzy comprehensive evaluation method." Kybernetes 43, no. 8 (2014): 1193-1208.
+[21] Asady, B., and A. Zendehnam. "Ranking fuzzy numbers by distance minimization." Applied Mathematical Modelling 31, no. 11 (2007): 25892598.
+[22] Vincke, J. P., and Ph Brans. "A preference ranking organization method. The PROMETHEE method for MCDM." Management Science 31,
+no. 6 (1985): 647-656.
+[23] Chen, Ying-Hsiu, Tien-Chin Wang, and Chao-Yen Wu. "Strategic decisions using the fuzzy PROMETHEE for IS outsourcing." Expert
+Systems with Applications 38, no. 10 (2011): 13216-13222.
+[24] Amaral, Thiago M., and Ana PC Costa. "Improving decision-making and management of hospital resources: An application of the
+PROMETHEE II method in an Emergency Department." Operations Research for Health Care 3, no. 1 (2014): 1-6.
+[25] Elevli, Birol. "Logistics freight center locations decision by using Fuzzy-PROMETHEE." Transport 29, no. 4 (2014): 412-418.
+[26] Peng, Yi, Gang Kou, and Jun Li. "A fuzzy promethee approach for mining customer reviews in chinese." Arabian Journal for Science and
+Engineering 39, no. 6 (2014): 5245-5252.
+[27] Roodposhti, Majid Shadman, Saeed Rahimi, and Mansour Jafar Beglou. "PROMETHEE II and fuzzy AHP: an enhanced GIS-based landslide
+susceptibility mapping." Natural Hazards 73, no. 1 (2014): 77-95.
+[28] Tian, Xiaojuan, Xiaodong Liu, and Lidong Wang. "An improved PROMETHEE II method based on Axiomatic Fuzzy Sets." Neural Computing
+and Applications 25, no. 7-8 (2014): 1675-1683.
+[29] Chen, Ting-Yu. "A PROMETHEE-based outranking method for multiple criteria decision analysis with interval type-2 fuzzy sets." Soft
+Computing 18, no. 5 (2014): 923-940.
+[30] Hajlaoui, Sonia, and Nesrin Halouani. "Hesitant-fuzzy-promethee method." In Modeling, Simulation and Applied Optimization (ICMSAO),
+2013 5th International Conference on, pp. 1-6. IEEE, 2013.
+[31] Li, Wei-xiang, and Bang-yi Li. "An extension of the Promethee II method based on generalized fuzzy numbers." Expert Systems with
+Applications 37, no. 7 (2010): 5314-5319.
+[32] Government of Ghana. “The Venture Capital Trust Fund (VCTF )” . http://www.venturecapitalghana.com.gh/?launch=aboutus
+[33] André, Pierre, and Sandrine Mesplé-Somps. "Politics and the geographic allocation of public funds in a semi-democracy: The case of Ghana,
+1996-2004." (2011).
+[34] Tonah, Steve. "Democratization and the Resurgence of Ethnic Politics in Ghana, 1992-2006." Ethnicity, belonging and biography:
+ethnographical and biographical perspectives 16 (2009): 63.
+
+

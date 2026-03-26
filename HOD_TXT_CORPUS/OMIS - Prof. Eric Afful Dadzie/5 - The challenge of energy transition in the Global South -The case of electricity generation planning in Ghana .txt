@@ -1,0 +1,686 @@
+Renewable and Sustainable Energy Reviews 126 (2020) 109830
+
+
+
+
+
+
+
+
+
+The challenge of energy transition in the Global South: The case of	 electricity generation planning in Ghana
+Anthony Afful-Dadzie a,*, Alexandra Mallett b, Eric Afful-Dadzie a
+a University of Ghana Business School, LG 78, Legon, University of Ghana, Accra, Ghana
+b School of Public Policy and Administration (SPPA), and Carleton Sustainable Energy Research Centre (CSERC), Carleton University, Ottawa, ON, Canada
+
+
+
+A R T I C L E I N F O 
+
+Keywords:
+Energy transition Renewable energy Renewable electricity target
+Generation expansion planning Unmet demand
+Global south
+
+A B S T R A C T 
+
+While renewable energy is making inroads in certain jurisdictions, there appears to be little enthusiasm or effort by many countries in the Global South when examining overall patterns of investment, despite numerous countries announcing renewable energy adoption goals. Various studies attribute this apparent lack of interest to a lack of legislative and regulatory instruments, promotional measures, and unattractive market structures. While these may be relevant factors, this study demonstrates that lack of interest can also stem from concerns over levels of unmet energy demand, coupled with the cost of energy generation. The influence of these two factors on the decision to invest in renewable energy is discussed and demonstrated through a case study on electricity generation planning in Ghana. The case study indicates that, given the projected levels of Ghana's electricity demand and expenses for generation capacity addition, the level of unmet demand could be as high as 18.5% if Ghana were to follow through with its 10% renewable electricity target by 2030. Correspondingly, the cost of electricity provision could increase by over US$221 Million annually - a substantial amount for any country, but particularly for those in the Global South. Results from the case study indicate some of the key reasons why Ghana is nowhere near its 10% renewable electricity target originally set for 2020, and why it is likely the new target year of 2030 will suffer a similar fate. Having highlighted these concerns, the paper then offers suggestions for increasing renewable energy in the Global South.
+
+
+
+
+
+
+
+1. Introduction
+
+   There is a growing recognition that the way in which we produce, use and transport energy require fundamental shifts to sources that have less environmental, health and social impacts. Hence, there is increasing interest and investment in renewable energy worldwide. Renewable energy is not without criticisms however, such as greenhouse gas (GHG) emissions involved in their manufacturing processes [1]; social accep- tance issues when people feel their concerns about renewables have been dismissed [2,3]; and general issues of system reliability [4]. Nonetheless, the continuous declining costs of generating electricity from renewable sources [5], coupled with the alarming impact of emissions from fossil fuel power plants, have persuaded many countries to consider investing in renewable energy technologies.
+   Renewable energy is now the world's fastest growing source of en- ergy, with consumption increasing by 3% per year [6]. It is estimated that renewables accounted for more than two-thirds of the world's total new power capacity in 2016, with almost 165 GW installed [6]. With
+
+research  projecting  renewable  energy  technologies  to  be price-competitive with fossil fuels in the near future [7] - and in some jurisdictions renewable energy options such as solar are currently cheaper than fossil fuels such as coal [8] - it is obvious the shift towards renewable energy will continue in the coming years.
+   Table 1 shows data on electricity generated from solar photovoltaic (PV) and wind, and their combined percentage relative to the total electricity generation for some selected countries in 2017. These coun- tries had at least approximately 5% of their electricity generation from solar PV and wind generators. The countries of Denmark, Uruguay, Ireland, Germany, Spain, United Kingdom, and Greece generated at least 15% of their electricity from solar PV and wind generators alone in 2017.
+   While a number of countries in Europe and North America, as well as some emerging economies such as Turkey, China, and India are making some progress towards reducing their dependence on fossil fuel-based energy, particularly with respect to electricity provision, many coun- tries in the Global South appear to be making little or no progress despite the potential to do so [9]. For example, although Africa, the Middle East,
+
+
+
+* Corresponding author.
+E-mail address: aafful-dadzie@ug.edu.gh (A. Afful-Dadzie).
+
+https://doi.org/10.1016/j.rser.2020.109830
+Received 14 September 2019; Received in revised form 6 March 2020; Accepted 17 March 2020
+Available online 30 March 2020
+1364-0321/(c) 2020 Elsevier Ltd. All rights reserved.
+
+
+
+
+
+
+
+
+Table 1
+Total electricity generation by Solar PV and Wind in selected countries in 2017.
+
+globally as reported in the most recent World Energy Outlook [14], the bulk of growth will come from the Global South where electricity de- mand is projected to double in the coming years.
+   This raises the question as to what challenges are preventing coun- tries in the Global South from embracing renewable energy. Several barriers to renewable energy adoption have been discussed in the literature, including as they relate to contexts in the Global South such as within Africa and Latin America. Notable among them are political and regulatory, technical, market-related, social-cultural, geographical, ecological, as well as financial and economic barriers [15-18]. Argu- ably, these barriers impact investment in renewable energy. However, even when attempts have been made to address these barriers, invest- ment in renewable energy has not improved for many countries in the Global South. A case in point is Ghana, one of the leading economies in West Africa, which has a renewable energy act in place that guarantees renewable electricity generators a competitive feed-in-tariff rate (US
+$0.17/kWh for wind, and US$0.15/kWh for solar PV in 2016 [19,20]), an energy purchasing agreement, and access to transmission and dis- tribution systems. The purchasing agreement demands that electricity distribution utilities and bulk customers purchase a specified amount of electricity from renewable energy generators [21]. Despite these ini- tiatives in place, Ghana achieved - as at the end of 2018 - less than 0.3% of a planned 10% renewable electricity production goal by 2020. It is worth noting that Ghana's definition of eligible renewable energy to
+
+Country	Wind (GWh)
+
+
+
+
+
+
+
+Kingdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Source [9].
+
+Solar (GWh)
+
+Total Electricity Generation by Solar PV and Wind (%)
+
+meet this goal excludes hydro plants of capacity over 100 MW [22].
+   A look across many countries in the Global South points to the establishment of similar laws for promoting renewable energy devel- opment, yet there seems to be little progress in terms of electricity being generated from renewables and/or installed capacity coming from re- newables on the ground. In addition, the argument of financial barriers requires further unpacking in so far as investments in conventional generation technologies continues. Thus, while not discounting the impact of the often cited barriers found within the literature, a more comprehensive explanation for the low investment in renewable energy in the Global South is needed. This paper aims to shed more insights into the question of why conventional energy sources remain popular, particularly for a number of countries in the Global South by discussing what we term 'challenges' that makes it extremely difficult for a number of countries in the Global South to currently invest in renewable energy. The paper argues that persistent challenges such as increasing energy demand, and insufficient financial resources, when combined with challenges associated with renewable energy technologies such as higher capital costs, and low capacity factors, leads to a higher cost of energy overall and can worsen the already low access to energy in these countries.
+Also, a number of authors often discuss the barriers to renewable
+energy investments in the Global South without presenting concrete evidence to buttress their claim, especially on a country specific basis [23-27]. This paper supports its argument by demonstrating, in quan- tifiable terms through the aid of a mathematical model applied to the context of electricity planning in Ghana, some of the potential impacts of
+
+and Latin America and the Caribbean - regions consisting mainly of countries in the Global South - are endowed with greater solar intensity, they accounted for only 2.4% of the 227 GW of the total installed solar power capacity in 2015 [10]. Similarly, for wind energy, the above re- gions in the Global South together contributed only 3.6% of the 435 GW of the total installed wind power capacity in 2015 [11]. In fact, of the estimated US$333.5 billion invested in clean energy, which includes renewable energy sources but excludes large hydro and conventional biomass such as wood and charcoal in 2017, countries in the Global South excluding China accounted for less than 16% [12], with virtually no investment occurring within the world's 47 least developed countries and 39 island developing states [13].
+   The numbers are not encouraging even if these regions generally have low electricity consumption rates compared to Europe, North America, and East Asia. This is because when examining energy demand
+
+the challenges on the decision to invest in renewable energy in the Global South. The use of a mathematical model is important as it helps to see and measure the potential combined impact in quantifiable terms of a given level of the argued challenges on the final cost of energy and the level of demand met.
+   The article contributes to literature in two important ways. First, it offers new and rarely discussed views of barriers to renewable energy adoption in the Global South - namely some of the key constraints faced by electricity planners in the Global South including major budgetary pressures concurrently with rising unmet electricity demand. Second, it offers a data-driven methodology that makes it possible to quantify the potential combined effect of these barriers for a better appreciation of the seemingly lack of interest in renewable energy by a number of countries in the Global South. The methodological approach is also a major practical contribution of the paper, in that it can be adopted by
+
+
+
+countries in the Global South to explore renewable energy targets that may be more appropriate for their contexts.
+   The rest of the paper is presented as follows. The next section pro- vides a discussion on the major challenges hindering the growth of renewable energy in the Global South. This is followed by a case study about electricity generation planning in Ghana using a mathematical model to show how these challenges together have prevented the country from achieving its renewable electricity target. The final part of the paper presents a set of recommendations to help drive renewable energy in the Global South, even in the presence of the identified challenges.
+
+2. Renewable energy investment challenges in the Global South
+
+   A number of studies have discussed ways to promote renewable energy in the Global South. Washburn & Pablo-Romero [23] have cited the setting up of renewable targets and promotion measures such as tax incentives, feed-in-tariffs, and net metering as measures for promoting renewable energy penetration. Sakah et al. [24] have also advocated for the prioritization of market driven support schemes for cost effective- ness, harmonization of renewable energy regulatory policies with do- mestic electricity pricing, and minimum government influence. In their study promoting renewable energy in Ghana, Gyamfi, Modjinou, & Djordjevic [25], advocated for the mandatory purchase of electricity generated from renewable sources, free access to distribution and transmission systems, and the creation of a renewable energy fund. Ajayi & Ajayi [26], also called for tax holidays, and low or interest free loans to utilities and individuals to encourage investment in renewable en- ergy. Alternatively, Obeng-Darko [27] calls for the enactment of legis- lative instruments to support renewable energy development, and the creation of independent institutions to oversee the regulation and enforcement of renewable energy laws and policies. Other studies also point to the important role that public authorities may have in spurring renewable energy development and deployment [28], including in emerging economies such as China [29,30].
+It is interesting to note that a number of countries in the Global South
+have taken steps to implement these recommendations, including setting up renewable energy targets [31]. Despite these developments, growth in renewable energy projects in the Global South has been minimal compared to other parts of the world. This paper argues that while these actions are necessary, two fundamental factors hindering the growth of renewable energy in the Global South - namely cost of energy generation and level of unmet demand - are largely glossed over. Although some purport that mechanisms like 'leapfrogging' (where, akin to mobile phones, people's first introduction to electricity is through smaller, distributed sources such as solar home systems and solar lanterns) [32] have led to renewable energy inroads [33], the pace and scale at which this is occurring is not enough to achieve a systemic energy transition at a timescale that addressing climate change requires. This paper demonstrates that until renewable energy performs better than conventional energy in relation to these fundamental factors (costs must be lower and must not exacerbate unmet demand), it will be difficult for many countries in the Global South to favour renewable energy over conventional energy. We begin by first discussing the challenges faced by countries in the Global South to transition their energy systems through the lens of the energy trilemma concept to better understand the fundamental factors discussed afterwards.
+
+2.1. The "Energy Trilemma" concept
+
+The apparent lack of investment in renewable energy in many
+
+countries in the Global South could be understood from the point of view of the Energy Trilemma concept. Energy Trilemma, which stands for energy security, energy equity, and environmental sustainability is a term used to define energy sustainability by the World Energy Council (WEC).1 Energy security concerns the reliability of energy supply now and in the future. Energy equity concerns the accessibility and affordability of energy, while environmental sustainability ensures that in trying to achieve energy security and equity, we do not cause substantial damage to the environment. The environmental sustainability dimension therefore suggests the adoption of energy systems that have less of an environmental footprint such as solar and wind energy. These over- arching considerations are also echoed by the World Energy Outlook [14], pointing to the need for a comprehensive approach to energy policy. The energy trilemma is a major challenge to the world, but more so in the Global South. When analyzed carefully, any country facing financial difficulties and high levels of unmet energy demand - namely energy demanded but not supplied because of a lack of generation ca- pacity and/or interruption of power supply - would have to make a trade-off between the three dimensions [34].
+   For a country facing financial difficulties, focusing on improving energy equity (i.e. increasing affordable energy options to broader swaths of the population) will mean investing in generation technologies that minimize the total cost of providing electricity. Although the cost of electricity generation from renewable energy generators is generally considered to be competitive with conventional electricity generators [35], their often higher initial and capital costs increase the cost of providing electricity in countries with limited financial resources [36]. This is because very little generation capacity can be procured with these limited funds, leading to a shortage of capacity and thus an increased level of unmet demand and its attendant economic loss. In view of this, a natural gas generator (with its relatively cheaper capital cost) might be favored over a renewable energy generator, such as solar, whose capital cost is currently more than double that of a typical natural gas generator [37]. In this case, the environmental sustainability dimension of the energy trilemma would suffer. On the other hand, energy equity would be negatively impacted if the key focus were to be on environmental sustainability, and renewable energy were favored. Given the intermittency of renewable energy sources, a focus on envi- ronmental sustainability could also affect the reliability of energy supply and thus the energy security dimension. In other words, these three pillars point to tradeoffs, which are particularly pronounced in the Global South - as one pillar is increasingly pursued, the ability to ach- ieve another is often negatively affected.
+Having said this, in a context with more financial resources avail-
+able, all three dimensions of the energy trilemma could be improved at the same time. It is thus not a surprise that countries with a higher in- come per capita are at the forefront of renewable energy penetration. Also, while some would dispute this [38], generally speaking, most of these high-income countries fare well in the two dimensions of energy equity and energy security in that people's minimum energy needs are met by the majority of the population, making it easier to focus on the third dimension of environmental sustainability. Compared to countries facing genuine financial constraints however, it is fair to say that these countries will prioritize the pillars required in energy sustainability, starting with their most pressing needs. It should not be a surprise therefore that many countries in the Global South are currently more concerned with improving energy equity than environmental sustain- ability. This remains true because while there have been major advances in electrification rates between 2000 and 2018 (e.g.in Asia, Indonesia went from 50% to 95% and Bangladesh from 20% to 80%; in Africa,
+Kenya went from 8% to 73% and Ethiopia went from 5% to 45% [39]),
+
+
+
+
+  1 The World Energy Council (WEC) Is a United Nations (UN)-accredited global energy body with governments, private firms, and non-governmental organizations (NGOs), among other parties serving as members.
+
+
+
+many populations still lack electricity. For instance, 57% of the popu- lation in Sub Saharan Africa (SSA) lack electricity, and in 15 countries within that region, their electrification rates are below 25% [14]. In sum, the energy trilemma concept allows us to better understand the current perceived lack of interest of countries in the Global South to- wards renewable energy investment and use.
+
+
+2.2. Principal factors hindering renewable energy investment in the Global South
+
+   Having discussed the energy trilemma, we next take an in depth look at the principal factors hindering investment in renewable energy in the Global South and their connection to the dimensions of the energy tri- lemma. A practical analysis examining the magnitude and impact of these factors is illustrated in section 4.
+
+2.2.1. Cost of energy generation
+   While true that fossil fuels have and continue to receive generous subsidies, with a 2017 report estimating them to be US$425 billion globally [40], some studies purport that without generous government tax incentives and feed-in tariffs, the majority of renewable energy projects worldwide would not have been financially viable when they were initiated [41]. In fact, some studies show that the substantial contribution of renewable energy generation technologies to Germany's electricity production is primarily as a result of a subsidy policy that obliged utilities to pay renewable generators at prices far exceeding the cost of electricity generation from conventional sources [42-44]. This insight is important, particularly for countries in the Global South who find it difficult to balance their national budget, and depend on foreign aid to make up the shortfall. For instance, in Ghana, net aid was about 3.5% of Gross Domestic Product (GDP) from 2010 to 2017 [45]. Jacobsson et al. [46], examined the practicality of the European Union (EU) renewable energy policy and argued that, given the substantial financial commitment needed, and the implications on the cost of electricity to consumers, not all countries ought to invest in renewable
+
+energy in such a manner. In some sense, this argument is akin to the ostensible lack of investment in renewable energy projects (except smaller renewable energy projects in remote areas which can often be the most economically viable option) by a number of countries in the Global South.
+
+2.2.2. Increasing energy demand
+   It is widely known that an increase in population and economic ac- tivities are two of the main causes of an increase in electricity demand. On record, the Global South has had high population growth [47]. Sub-Saharan Africa (SSA) for instance, had a population growth rate of 2.7% in 2018; the highest among all geographical regions [48]. Furthermore, although at present SSA is more rural, it is considered the world's fastest urbanizing region with about 4.1% annual GDP growth, compared to 2.0% globally [49], which suggests that electricity demand - often higher in cities - in the SSA region will increase in the near future. For example, the projected total electricity demand for West Africa (which is one of the regions within SSA) indicates that demand will more than double between 2020 and 2030 [50]. According to the World Bank, and as shown in Fig. 1, more than half of the population in SSA, or about 600 million people, did not have access to electricity in 2017. In Nigeria for instance, more than 80 million people were without electricity in 2017.
+   For countries like Chad, Liberia, Burundi, the Democratic Republic of Congo, Uganda, Malawi, and Niger, fewer than 25% of the population had access to electricity in 2017. The situation is even worse for rural areas where the average electricity access rate was 22.6% in 2017 [39]. Even urban areas, which had an average electricity access rate of 79.0% in 2017, experience high outages throughout the year because electricity demand far outstrips supply [51]. Struggling to meet increasing elec- tricity demand, it is understandable that countries in the Global South - particularly those in SSA where electrification rates remain low, will focus on selecting generation technologies that minimize the cost of electricity provision to improve energy equity.
+
+
+
+
+Fig. 1. Electricity access rates in Sub-Saharan Africa in 2017. Numbers are percent of population with access to electricity at the end of 2017. Source: [39].
+
+
+
+2.2.3. Capacity factor and intermittency of renewables
+   A generation plant's capacity factor is the actual energy generated by the plant to the energy equivalent of its installed capacity over a spec- ified time period. In practice, the major obstacle to conventional energy generators attaining higher capacity factors is the availability of fuel and/or the plant, as well as economic reasons, particularly fuel cost. In most cases, the plant is available except when due for maintenance. Therefore, when the availability of the fuel and its cost is not an issue to the user, capacity factors in the region of 50% and above are quite achievable. On the other hand, the major obstacle to the attainment of higher capacity factors by renewable energy generators is their source of energy. A wind turbine can produce electricity only when the wind is blowing. Likewise, a solar photovoltaic system can produce electricity only when the sun is shining. As a result, renewable energy generators tend to have lower capacity factors compared to conventional genera- tors. The 2018 average capacity factors for solar photovoltaic and wind power in the United States (US) for instance were 26.1% and 37.4% respectively, compared to 92.5%, 55.0%, and 53.6% respectively for nuclear, natural gas combined cycle, and coal plants [52]. The average capacity factors of solar and wind are even less for some countries in the Global South (such as 19.7% and 17.4% in the West African Sub-region [50]).
+In addition, as the intensity of wind and solar fluctuate during the
+day, so does the electricity generated. This occurrence creates inter- mittency in the electricity grid leading to reliability issues. This is not to say that conventional energy generators do not encounter fluctuations in their source of energy. For example, volatility in fuel price could disrupt fuel supply and therefore electricity supply. However, such disruptions generally speaking do not occur as frequently as fluctuations in elec- tricity being generated by wind and solar. Although there have been some advances in energy storage such as smaller and utility-scale battery storage options and 'intelligent' electricity systems that provide enough 'real time' and granular data to help contend with the issue of inter- mittency, they are currently not cost competitive. Other options to tackle intermittency include relying on fossil fuel backup generators and electricity imports from neighboring countries [41,53]. However, in general, these options are not practical in the Global South due to a lack of financial resources and generation capacity shortages.
+
+2.2.4. Financial constraints
+   Another important reason that could explain the lack of investment in renewable energy projects in the Global South is financial constraint. For most countries in the Global South, securing the needed capital to finance new generation capacity is a big challenge, and is the major source of high levels of unmet demand [36,54-56]. Conventional eco- nomic theory would say that the high unmet demand would serve to attract private investors. However, private investors are often not motivated to invest in energy generation in the Global South due to the lack of a stable regulatory regime and too much political interference [27]. In fact, most countries in the Global South are forced to allocate a portion of their national budget for capacity expansion investment due to the inability to generate sufficient funds from the sale of electricity as a result of subsidized electricity prices [57]. In essence, if the limited budget available for electricity generation expansion is to be invested in renewable energy generators with high investment costs rather than conventional ones, significantly less generation capacity will be avail- able to meet growing electricity demand.
+
+2.2.5. Cost of unmet energy demand
+   Availability of electricity is crucial to the wellbeing of humanity as it promotes better health and sanitation, education, and business. A country's Gross Domestic Product (GDP) can be significantly affected when industrial producers, service providers, and institutions face increasing power outages. African countries are believed to be losing 2-4% of their annual GDP due to electricity shortages [58]. It is esti- mated that Ghana for instance, lost about US$2.1 million per day during
+
+a 2014/2015 energy crisis [59], during which there was widespread load shedding due to low seasonal rainfalls and irregular gas supplies for thermal plants [60]. Thus, every unit demand of electricity not met is a cost to a country. Mindful of the cost of unmet electricity demand, it should not be a surprise if a country with limited financial resources favors generation technologies with low capital cost so that enough generation capacity will be available. Since the current capital cost of most renewable energy technologies more than double that of a natural gas plant, a renewable energy technology will likely not be the preferred option for most countries in the Global South.
+   In sum, these factors suggest that it is currently not favorable for many countries in the Global South to invest in large scale grid- connected renewable energy projects from the energy trilemma point of view. Until the cost of renewable energy becomes cheaper compared to the cost of energy produced from fossil fuel generators, and energy access improves, countries like Ghana will keep missing their renewable energy targets.
+   Having said this, it is important to acknowledge that renewable en- ergy costs are decreasing - including in the Global South - which coupled with a more favorable regulatory environment is in turn attracting investors in some countries from the Global South. For instance, in Vietnam, despite provisions that the electricity utility would only pay producers for the power it required, and a feed in tariff rate of 0.09/kWh for electricity produced, investors were keen to capitalize on the opportunity where 5 GW of solar was installed by the end of 2019 - compared to a situation where Vietnam had almost no solar power in 2017 [61]. Nevertheless, the issues highlighted above that policymakers face - particularly a situation of increasing unmet energy demand and budgetary constraints - suggest that meaningful renewable energy penetration is not guaranteed without further supports.
+   The next section advances the debate on the challenges discussed above from a quantitative point of view to put into perspective the magnitude of the challenges policy makers face and how they influence the choice of electricity generation technologies in the Global South. In doing so, we demonstrate why, Ghana is nowhere close to even 1% of the 10% renewable electricity target due in 2020, and why it is likely it might not achieve its goal in the new targeted year of 2030 unless some major changes are made.
+
+3. Case study: Examining the feasibility of Ghana's renewable electricity Target
+
+   This section advances the debate in section 2 from a quantitative point of view in a case study involving Ghana. Since investing in renewable energy technologies is ultimately meant to increase capacity to meet future electricity demand, the debate is presented from the point of view of solving a Generation Expansion Planning (GEP) problem. A GEP model (which is typically used for finding cost effective generation plants to meet future electricity demand [62]) will be solved for two cases. The first case is when a 10% renewable electricity target is enforced. The second case is when no renewable electricity target is in place. Comparisons will then be made between the two cases when faced with specific budgets for financing new generation capacity on four important issues namely: (1) the size of new generation capacity ac- quired, (2) the proportion of demand met with renewable electricity, (3) the level of unmet electricity demand, and (4) the cost of providing electricity. We first present some contextual information about Ghana. Then, we discuss the GEP model and the model parameters related to Ghana as used in the case study.
+
+3.1. Contextual profile of Ghana
+
+   Ghana is a country in West Africa with a population of about 28.83 million and a GDP of US$58.997 Billion in 2017 [63]. With respect to electricity, the country had an installed generation capacity of 4533 MW in 2018 comprising of 2906 MW thermal, 1584 MW hydroelectric, and
+
+
+
+42.5 MW solar. Ghana's total electricity generation in 2018 comprised of hydropower (39.6% from three dams), oil and natural gas-fired power plants (58.14%), electricity imports (2.26%), and renewable energy (0.2% from solar) [64]. Ghana also has one of the highest electricity access rates in SSA. The country's overall electricity access rate stood at 79% in 2017, which comprised of 90% urban and 65% rural [39]. Ghana also serves as a useful example in which the idea of unmet demand has become particularly acute at times, where as noted in section 2, a shortage in electricity supply in 2014/15 led to considerable economic losses. The case study is focused on Ghana because it has yet to achieve a 100% electricity access rate, and also because it had a 10% renewable electricity target which was set in 2006 and is due in 2020 [27]. How- ever, by the end of 2018, the country had achieved only 0.3% of the target (despite the existence of a generous feed-in-tariff [19,20]), thereby prompting a reschedule of the target to 2030. It is worth noting that Ghana's 10% renewable energy target excludes large-scale hydro- electric projects.2 According to the Ghana Renewable Energy Master Plan (REMP), the targeted renewable electricity is expected to be generated from a mix of biomass, wind, solar, and small and medium hydro plants of capacity not exceeding 100 MW [22]. Hydroelectric projects of capacity above 100 MW are excluded from Ghana's 10%
+
+constraint for a renewable energy target which is needed in order to enforce the percentage of electricity generation expected from renew- able technologies by certain dates, as well as assess the cost and benefit resulting from favoring renewable energy generators over conventional ones.
+   As in their case [36], this paper also takes the view of a central planner since this is the situation in most countries in the Global South, including Ghana as indicated above. Using the extended model, one is able to compare (1) the level of unmet energy demand, and (2) the cost of electricity provision under the two cases with and without an enforced renewable energy target.
+   This paper takes the view that these two values greatly influence the decision to invest in renewable energy in the Global South. Fig. 2 pre- sents the nomenclature detailing the meaning of the parameters and variables in the extended model represented by Equation (1) - (9). Like in typical GEP studies, the model is stochastic in order to capture the uncertainty in electricity demand.
+   Since the focus of this paper is not on the model development, readers interested in the full model explanation are directed to read section 3 of Afful-Dadzie et al. [36]. A summary explanation of the major components of the model is given as follows.
+
+
+
+
+
+XT "PI
+
+
+
+?Cc þ Cf ?Zi;t þ PS
+
+Ps hPI
+
+?Cv þ Pco2 ?Yi;s;t þ CIMEIM þ CUEU i#
+
+
+
+
+
+renewable electricity target because Ghana has exhausted all its hydro resources capable of yielding a hydropower plant of capacity over 100 MW [65].
+
+
+X Yi;s;t þ EIM 1/4 Ds;t - EU
+
+
+
+
+8s; 8t	(2)
+
+
+3.2. Generation expansion planning model with renewable electricity
+
+i1/41
+
+s;t
+
+s;t
+
+Target
+
+Yi;s;t ? HtAiWi;t	8i; 8; 8t	(3)
+
+
+   Generation Expansion Planning (GEP) models are used to determine the type, size and timing of new generation capacities needed to meet
+
+Gi;t ? Gmax
+
+8i; 8t	(4)
+
+future electricity demand in ways that minimize total electricity cost [62]. Because a traditional GEP problem does not take into account the ability of the planner to finance suggested generators, solutions from traditional GEP models hardly get implemented in lower income coun- tries such as those in the Global South. As noted by Ref. [58], electricity prices in the Global South tend to be heavily subsidized and so the public
+
+Zi;t 1/4 Zi;t-1 þ WmaxGi;t	8i; 8t	(5a)
+Wi;t 1/4 Ii þ Zi;t	8i; 8t	(5b)
+EIM ? ?Ds;t	8s; 8t	(6)
+
+N	I
+
+utility typically does not have enough financial resources to finance
+
+X Yn s k ? ?k X Yi s k	8s; 8k	(7)
+
+additional capacity needs. This places financing of additional capacity needs in the hands of the government who typically allocate a portion of
+their annual budget for such purpose. It is thus important to capture this
+
+; ;
+n1/41
+
+I
+
+; ;
+i1/41
+
+X CTCWmaxGi;t ? Bt þ ð1 þ rÞBL
+
+8t	(8a)
+
+annual budget into GEP models so that GEP decisions are more reflective of the reality on the ground where not enough funds may be available for investment in future generation capacity needs.
+We therefore employ the Stochastic Mixed Integer Linear Program-
+
+
+
+i;t  i
+i1/41
+
+
+BL 1/4 Bt þ ð1 þ rÞBL
+
+t-1
+
+
+I
+-	CTC  max  i;t	8	(8b)
+
+
+
+developing countries in Afful-Dadzie et al. [36] to analyze the four issues
+
+G ; Z ; W ; EIM; EU ; ? 0 G
+
+integer 8i; 8s; 8t	(9)
+
+enumerated under section 3.0. This model is used in particular because of its unique feature of taking into account the financial resources
+
+i; t
+
+i;t
+
+i;t
+
+s;t
+
+s;t
+
+i;t
+
+available to a country. One significant extension made to their model is a
+3.2.1. 
+Decision variables
+The decision variables in the extended stochastic GEP model are, Gi;t,
+Yi;s;t, EIM, EU , Zi;t, and Wi;t. The variable, Gi;t, is the number of new
+
+s;t	s;t
+
+  2 Hydropower plants of capacity over 100 MW are excluded from the targeted renewable electricity since Ghana has exhausted its hydro resources that can lead to hydropower plants of more than 100 MW. See page 73 of [65], and also the footnote on page iv of Ghana Renewable Energy Master Plan at
+<http://www.energycom.gov.gh/files/Renewable-Energy-Masterplan-Februa
+ry-2019.pdf.
+
+generator type i recommended to be constructed in period t. The accu- mulated size of generator type i in period t since the beginning of the planning period, is tracked with the variable Zi;t, while Wi;t is used to track the total accumulated size including that of pre-existing genera-
+tors. The variable Yi;s;t is the amount of electricity generated by
+
+
+
+Fig. 2. Nomenclature for the stochastic mixed integer linear GEP optimization model.
+
+
+generator i in time t towards meeting a demand scenario Ds;t, where s stands for scenario. The variable EIM is also the amount of electricity imported in period t, if needed, to complement Yi;s;t towards meeting
+Ds;t. The variable EU , on the other hand is the amount of electricity
+demanded but not met. Depending on the country in question, EU could be costly and is one of the major factors that could influence a country's decision to invest in renewable energy technology.
+
+3.2.2. Objective function
+   The objective function is represented by Equation (1) and seeks to minimize the total cost of electricity provision over a desired planning period that start from period t 1/4 1 to period T. The total cost is the
+present value of the sum of the capital cost, fixed operating cost, variable
+operating cost, emissions cost, cost of electricity imported, and cost incurred due to unmet demand in each period of the planning horizon. The objective function value is also one of the major factors that could influence a country's decision to invest in renewable energy technology.
+
+3.2.3. Model constraints
+   The objective function of Equation (1) is determined subject to the constraints represented by Equations (2)-(9) which respectively relates to constraint on electricity demand and supply, production and gener- ator capacity, installed capacity of (new, and new and existing) gener- ators, electricity importation limit, renewable electricity target, and budget for new capacity. Except for the renewable electricity target constraint of Equation (7), readers are referred to section 3 of Afful- Dadzie et al. [36] for detail explanation of these constraints. For the renewable electricity target constraint, a target slated to be achieved by period T (i.e. the end of the planning period) is divided into sub-targets
+to be achieved at selected periods k 1/4 1; 2; ...; K. This is done to mirror
+
+approaches to renewable energy target attainment in practice (e.g. Argentina), but also to prevent the situation where the model waits till the last period to invest in renewable energy just for the sake of meeting the renewable energy target. The left-hand-side of Equation (7) ensures that the sum total of all electricity generation coming from renewables meets the target percentage for a selected period k.
+
+3.2.4. Model parameters
+   This section presents the parameters used in running the model, beginning with annual electricity demand.
+
+3.2.4.1. Electricity demand. One of the key parameters in the model is
+Ds;t, which represents the amount of electricity demanded in time period
+t. For the case study, this represents Ghana's total electricity demand in a given year. Ghana's electricity demand, like most other countries, follows an increasing trend as can be deduced from the country's elec- tricity supply trend in Fig. 3. Although electricity demand of a nation generally exhibits an increasing trend, it is uncertain and difficult to predict. For example, no one knows the exact amount of electricity that will be demanded by the people of Ghana in 2020. This uncertainty must be taken into account in future generation expansion plans in order to minimize the problem of over and under estimation of demand [62]. This can be done by including in the model any electricity demand that is likely to occur in a given period. However, since the planning horizon for the GEP problem under consideration spans multiple time periods, a stream of possible demands, one for each time period is put together to form a so-called 'demand scenario' for the GEP problem.
+   Ghana's electricity demand for a time period is modeled in this paper using an increasing trend formula as shown in Equation (10), where Ds;t is a possible demand forecast for time period t in 'demand scenario' s,
+
+
+
+
+
+
+Fig. 3. Trend chart of annual electricity generation in Ghana. Source: ([66], page 7), and ([67], page 8).
+
+
+and w~ t is the periodic growth rate over the demand in period t - 1. The periodic growth rate in demand is uncertain and can be modeled to
+follow a probability distribution based on past demand data. Based on the data in Fig. 3, and adjusting to reflect the electricity crisis in 2003, 2007, and 2015, the best distribution fit for the annual percentage in- crease in electricity demand w~ t, was found to be the triangular distri- bution, Triangð1%; 8%; 15%Þ. This means an annual growth in electricity demand as low as 1%, mostly likely 8%, and as high as 15%.
+To generate a possible demand forecast for a period, a random draw based on the Monte-Carlo simulation approach of Breeden, and Ingram
+[68] is generated from the estimated triangular distribution and input- ted into Equation (10). The demand forecast for all the periods making up a planning horizon then forms a 'demand scenario'. The process is then repeated to generate another demand scenario, with the set of generated demand scenarios representing the uncertainty in expected demand within the planning horizon. In all, twenty demand scenarios of equal probability of occurrence were used to characterize demand un- certainty in the case study.
+   Table 2 presents five of the twenty electricity demand scenarios for the years 2019-2027 using the estimated triangular distribution in Equation (10). These demand scenarios represent the possible electricity demand of Ghana, and mimic the uncertainty in Ghana's electricity demand within the planning period. The demand scenario data was generated using the 2018 actual generation of 15,960.36 GWh [64] as the prior demand for year 2019 in Equation (10). Demand Scenario 2 in Table 2 for instance implies that electricity demand in Ghana could be 17,024.7 GWh in 2019, 17,885.0 GWh in 2020, and so forth to 27,467 GWh in 2027. Similarly, Demand Scenario-8 implies that electricity demand in Ghana could be 17605.3 GWh in 2019, 19015.9 GWh in 2020, and so forth to 29685.0 GWh in 2027. The same can be said of the remaining three demand scenarios. The data in the last row of Table 2 is the national demand forecast for the period of 2019-2027 ([64], page 62). Unlike the single national forecast, using the forecasted demand scenarios in our model captures the uncertainty in electricity demand. The calculated Mean Absolute Percentage Error (MAPE) of the demand scenarios was less than 8%, signifying a high predictive power in rela- tion to the national forecast.
+Ds;t 1/4 ð1 þ w~tÞDs;t-1	(10)
+
+3.2.4.2. Candidate generator types and parameters. Data on generator types considered in the case study are shown in Table 3. The generator types considered are Hydroelectric (HYDRO), Combined Cycle Gas Turbine (CCGT1, and CCGT2), Open Cycle Gas Turbine (OCGT), Coal (COAL1, and COAL2), Onshore Wind (WIND1 and WIND2), Solar
+
+Photovoltaic (SOLAR1, and SOLAR2), and Biomass (BIOMASS) plants. Of these, the renewable technologies that can be selected to meet the 10% renewable electricity generation target are HYDRO, WIND1, WIND2, SOLAR1, SOLAR2, and BIOMASS. The Initial Installed Capacity column of Table 3 gives the 2018 installed generation capacity of Ghana. Only hydropower plants of capacity 60 MW are considered among the candidate generation plants in the case study to reflect the electricity generation capacity potential of the remaining hydro resources in Ghana [65]. Also, currently Ghana has no wind, biomass, and coal plants in its electricity generation mix. However, wind and biomass plants are considered among the candidate generation mix since they form part of the generation mix for meeting the 10% renewable electricity target. Coal is also considered in the candidate generation mix since Ghana plans adding coal to its generation mix [36]. The capacity factor for wind and solar were taken from the International Renewable Energy Agency (IRENA)'s estimates for West African countries [50]. The Emis- sions Cost column of Table 3 gives the equivalent emissions cost of an electricity generation plant in $/MWh. The emission costs were derived based on the assumption of a $15 per ton of CO2 emission (roughly half the cost in most developed countries) to reflect the economic valuation in the Global South. Also, in order to accommodate either side of the argument for and against the notion of biomass as a carbon-neutral fuel, the emission cost of biomass was set at half that of coal.
+
+3.2.4.3. Budget constraints. Following the approach in Afful-Dadzie et al. [36], the case study assumed that Ghana allocates a percentage of its annual GDP to finance investment in new electricity generation capacity given that governments in parts of Africa typically must offset energy costs for citizens, such as through subsidies. We consider four budgetary allocations in order to drive home the advantage that a country with sufficient financial resources enjoys over those with limited finances. The four budgetary allocations considered are 0.5%, 0.75%, 1%, and 1.25%, of annual GDP of Ghana. Annual GDP was assumed to grow by 4% each year, using the 2017 GDP of US$58.997 Billion as a reference point [63]. The budget allocation of 0.75% of GDP in particular mimic Ghana's current annual spending on new electricity generation capacity additions (based on data in the annual electricity supply plan of Ghana reports). Also, as shown under section 4, a budget allocation of 1.25% of GDP is enough to ensure all demands are met even when a 10% renewable electricity target is in place.
+
+3.2.4.4. Assumed parameters. The extended model assumes that not more than four hydroelectric generators each of size 60 MW can be constructed in the planning period. This is in accordance with the esti- mated remaining hydroelectric opportunities in Ghana [65]. Also, the
+
+Excerpts of the electricity demand (in GWh) scenarios used for the case study. Demand Scenarios 2, 8, 12, 16, and 20 represent the possible demand paths for electricity in Ghana from 2019 to 2027. The 'National Forecast' data is the forecast of the possible electricity demand in Ghana from 2019 to 2027 as seen in the 2019 electricity supply plan of Ghana.
+Year201920202021202220232024202520262027Demand Scenario-217024.717885.018999.920309.421239.823039.823936.025168.727467.0Demand Scenario-817605.319015.919992.421027.222401.324213.225757.327748.629685.0Demand Scenario-1216950.517543.018746.420261.822258.124071.026178.628890.430889.0Demand Scenario-1617198.918649.419346.320301.221495.021980.222986.924582.326521.4Demand Scenario-2017845.719617.021207.522696.524858.726027.026869.728353.131131.7National Forecast17237.818249.518918.021108.322186.924931.425690.526476.127214.6
+
+Table 3
+Assumed parameter values for eleven candidate generation plants.
+GeneratorRated CapacityInitial InstalledCapacityVariable CostCapital costGenerator LifeFixed O&M costEmissions Costtype(MW)Capacity (MW)Factor($/MWh)(1000 $/MW)span (yrs)($/MW/year)($/MWh)HYDRO60136547.5%2.050006015,0000CCGT1300640.440.5%69.410572510,1006.7CCGT245096040.5%66.411042510,1006.7OCGT1501039.640.5%178.06782568708.2COAL1250050%28.738183542,10016.2COAL2350050%28.736363542,10016.2WIND150016.5%9.518772039,7000WIND2100016.5%9.516572047,4700SOLAR120019.5%0.026712023,4000SOLAR25042.519.5%0.024342022,0200BIOMASS50050%52.7383730112,1508.1Source: [50,52,64,65,69-72].
+
+
+
+Table 4
+Additional model parameters.
+Parameter	Value
+4. 
+Results and analysis
+
+   This section presents the results and analysis of the modelling exer- cise for the two cases of Target (i.e. when a renewable electricity target is
+
+Cost of unmet electricity demanda ($/MWh)
+
+225
+
+enforced), and No-Target (i.e. when no renewable electricity target is in place). Under the premise that Ghana allocates a portion of its GDP each
+
+Cost of imported electricityb ($/MWh)	150
+Size of electricity imports	At most 4% of total electricity demand Annual interest rate for discounting (%)	12
+Number of hours in a year	8760
+
+
+   a The cost of unmet electricity demand of US$225/MWh used for the current analysis was estimated from the reported losses of US$2.1 million per day by Ghana during the 2015 electricity supply crisis in Ghana [59]. However, note that cost of unmet energy demand is taken to be US$1000/MWh for a Loss of Load Probability (LOLP) of 100h/year and US$500/MWh for a LOLP of 250h/ year in the Generation Master Plan of Ghana [65].
+  b The cost of imported electricity is in agreement with the electricity impor- tation figures in the electricity supply plan of Ghana issued every year.
+
+10% renewable target is spread within the planning period. The model assumes that at least 1%, 4%, 7%, and the 10% target must be achieved by the year 2020, 2023, 2026, and 2030 respectively. In addition, the capital costs of solar and wind generators are assumed to decrease by 0.5% per year throughout the planning period. This is to reflect the continuous decline in their capital cost. On the other hand, the capital costs of the rest of the generators, as well as fixed and variable operation costs for all generators are assumed to increase by 0.5% per year to reflect the yearly increase in prices of materials and equipment sourced locally. The emissions cost is assumed to remain constant over the planning period. Table 4 gives other assumed parameters used to run the extended GEP model. In particular, the model assumes a discount rate of 12% per year which is the discount rate used in the Ghana Generation Master Plan [65]. Also, the size of electricity import is capped at 4% of demand based on historical reports in the annual electricity supply plan of Ghana. Finally, the model does not take into account the cost of new transmission lines that might be required for large-scale renewable projects sited far away from demand centers.
+
+year to finance electricity generation capacity, the analysis centers pri- marily on the level of electricity demanded but not met (i.e. unmet de- mand), and the cost of electricity provision from 2019 (the beginning of the generation expansion planning period) to 2030 (the end of the planning period). Other analyses of interest include the size of new generation capacity acquired, and the proportion of demand met with renewable electricity.
+
+4.1. Comparison of new generation capacity additions
+
+   Section 2 raised the argument that one of the major challenges that countries in the Global South face transitioning to renewable energy is the fact that many of them currently have a significant proportion of their energy demand unmet, which could exacerbate if they were to favour renewable energy generators over conventional ones. This is argued to be the case when a country has difficulty raising the needed financial capital for new electricity generation capacity investment. This sub-section looks at the impact on electricity generation capacity if Ghana enforces its planned 10% renewable electricity target when fac- ing budgetary constraints for generation capacity investment. To see the significance of the impact, a comparison is made with the case where there is no renewable electricity target in place. Tables 5 and 6 respec- tively show the size of new electricity generation capacity additions, and the percentage of this capacity coming from renewable energy genera- tors if Ghana were to enforce the 10% renewable electricity target slated for 2030 or not under different budget allocations (i.e. financial capital available) for new generation capacity investment.
+As expected, size of capacity additions increases with increasing
+budget allocation as shown in Table 5. However, overall more new generation capacity is being acquired under the No-Target case than under the Target case. For example, by the target due date of 2030,
+
+Cumulative new installed generation capacity (in MW) at target due dates when a 10% renewable electricity production target is enforced (Target), and when not enforced (No-Target) at annual capacity addition funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and when there is sufficient budget.
+0.5% of GDP	0.75% of GDP	1% of GDP	1.25% of GDP	Sufficient Budget
+YearTargetNo TargetTargetNo TargetTargetNo TargetTargetNo TargetTargetNo Target20203506008509001150120012601500444044402023120015001900240025203150309036807890789020261950270031504050409049205390566011,84011,84020302970450050006600644079808990906017,39017,390
+
+Table 6
+Percentage of new generation capacity from renewable energy technologies when a 10% renewable electricity production target is enforced (Target), and when not enforced (No-Target) at annual capacity addition funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and when there is sufficient budget.
+0.5% of GDP	0.75% of GDP	1% of GDP	1.25% of GDP	Sufficient Budget
+YearTargetNo TargetTargetNo TargetTargetNo TargetTargetNo TargetTargetNo Target202014.30.011.80.08.70.04.80.0100.0100.0202312.50.013.20.010.70.07.82.2100.0100.0202615.40.014.30.012.02.416.54.6100.0100.0203019.20.016.00.013.82.324.910.694.894.8
+
+Table 7
+Percentage of electricity production from renewable energy technologies when a 10% renewable electricity production target is enforced (Target), and when not enforced (No-Target) at annual capacity addition funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and when there is sufficient budget.
+0.5% of GDP	0.75% of GDP	1% of GDP	1.25% of GDP	Sufficient Budget
+YearTargetNo TargetTargetNo TargetTargetNo TargetTargetNo TargetTargetNo Target20201.80.41.20.41.20.41.80.444.344.320234.00.44.10.34.20.34.71.560.460.420267.00.37.00.37.12.07.33.871.971.9203010.00.210.00.210.22.110.75.973.973.9
+
+generation capacity achieved under No-Target will exceed that under Target by more than 1500 MW for budget allocations of 0.5%, 0.75%, and 1.0% of GDP. It is only when there is more money available (e.g. 1.25% of GDP) that this difference is minimal. Further, as can be seen from Table 6, there is zero capacity added from renewable energy generators at budgets levels of 0.5% and 0.75% of GDP under the No- Target case (i.e when there is no renewable electricity target in place). Even at higher budget allocations of 1.0% and 1.25% of GDP, very little capacity of renewable energy generators is acquired under the No-Target case until after 2023. One can then infer (judging by the minimal per- centages of new generation capacity) that the renewable energy tech- nologies achieved under the Target case are perhaps, procured just for the case of meeting the target. These results, in some sense, support the apparent lack of investment in renewable energy by many countries in the Global South who face significant unmet demand levels primarily due to insufficient generation capacity. This is because given the current capital cost of the candidate generators, more generation capacity can be acquired by investing in conventional generators than in renewable generators. Since the cost of unmet demand is very high compared to all other costs associated with electricity generation, the reason for wanting more generation capacity is to reduce the level of unmet demand and therefore costs to the country's economy.
+On the other hand, when there is sufficient budget (so that zero
+unmet demand is guaranteed) as shown under the Sufficient Budget column of Table 6, virtually all new capacity additions under the two cases are from renewable energy generators. This means, when there is sufficient financial resources so that any level of generation capacity needed can be acquired, renewable energy generators are seen to be more cost effective than conventional generators. Note however that, due to the low capacity factors of the renewable energy generators considered, one needs roughly twice the capacity under a 1.25% budget allocation case (which happens to be the closest capacity investment budget needed to ensure zero unmet demand if Ghana were to enforce
+
+the 10% renewable target) to make this happen. Undoubtedly, the financial commitment needed to make this happen would be unbearable for Ghana (which spent 3.62% of GDP [73] and 20.10% of government expenditure [74] on education in 2017, and 4.45% of GDP on health in 2016 [75]). It is thus not a surprise that generally speaking wealthier countries seem to be the ones making real progress in generating meaningful proportion of their electricity needs from renewable sources.
+
+4.2. Comparison of percentage of electricity demand met with renewables
+
+   With regards to the percentage of demand met with electricity from renewable generators, it can be seen from Table 7 that this is very minimal under the No-Target case for all but budget allocations of 1.25% of GDP. In fact, the minimal percentages under the No-Target case for 0.5% and 0.75% of GDP are as a result of the initial 42.5 MW capacity of solar PV (see SOLAR2 in Table 3) that existed prior to the start of the planning period of 2019. The result in Table 7 is a reflection of the result in Tables 5 and 6. Even under the Target case, it can be seen that on most occasions, the percentage of demand met with renewable electricity matches exactly the set target under all four budget allocations. Under a sufficient budget however, almost 74% of Ghana's demand is met with renewables by the renewable electricity target date of 2030 (when taking into account existing generation capacity prior to 2019).
+
+4.3. Level of unmet demand
+
+   Ghana must be prepared for significant levels of unmet demand if it cannot allocate more than 0.75% of its annual GDP for financing new generation capacities when the 10% renewable target is followed through. As shown in Table 8 and Fig. 4, under a budget allocation of 0.5% GDP, the expected percentage of unmet demand under a Target case will be more than double that under a No-Target case, reaching as high as 30% in 2030. At a budget allocation of 0.75% of GDP, the
+
+
+Table 8
+Percentage levels of unmet demand when a 10% renewable electricity production target is enforced (Target), and when not enforced (NoTarget) at annual capacity addition funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and when there is sufficient budget.
+0.5% of GDP0.75% of GDP1% of GDP1.25% of GDPYearTargetNo TargetTargetNo TargetTargetNo TargetTargetNo Target20207.02.90.90.30.00.00.00.0202317.48.53.60.71.00.00.00.0202627.210.59.51.24.80.01.10.0203030.615.518.52.35.30.00.90.0
+
+
+
+Fig. 4. Levels of unmet electricity demand at generation capacity investment budget allocations of 0.5%, 0.75%, 1.0%, and 1.25% of Ghana's GDP when a 10% renewable target is enforced (Target), versus when there is no target in place (No-Target) at sub-target years of 2020, 2023, 2026, and 2030.
+
+
+expected levels of unmet demand would be roughly 0.9%, 3.6%, 9.5%, and 18.5% respectively in the year 2020, 2023, 2026, and 2030 when
+the 10% target is enforced compared to 0.3%, 0.7%, 1.2%, and 2.3% in the same periods when the target is not enforced.
+   On the other hand, if Ghana were to allocate 1.0% of its GDP to finance new generation capacities, the level of unmet demand by 2030 under the Target case decreases significantly to 5.3% compared to 18.5% under 0.75% GDP (since more funds are now available). Overall, levels of unmet demand decrease with increasing budget allocations. However, unmet demand is less under a No-Target condition than under a Target condition.
+   In all, it can be deduced from Table 8 that Ghana would require a capacity investment not less than 1% of its annual GDP (more than the roughly 0.75% of GDP it currently spends3) to finance its generation capacity addition needs if it were to follow through with the 10%
+
+such as health and education.
+   The results in this section are important because as noted when describing the energy trilemma challenge, those with an interest in en- ergy transitions must take energy security, energy equity, and environ- mental sustainability into account. Thus, not even taking specific policies and programs to help achieve Ghana's renewable electricity target into account (e.g. a feed in tariff or subsidies for renewables), which would incur additional costs, these results suggest that Ghana's ability to achieve its renewable energy goal becomes more insur- mountable given the realities of budgetary constraints and unmet
+
+
+Table 9
+Cost of electricity provision under a 10% renewable target and a no target settings.
+
+renewable electricity target while keeping unmet demand at reasonable levels. Similarly, the country would require not less than 1.25% of GDP
+
+Total Cost (Millions of US Dollars)
+
+Extra Cost for Enforcing Target (Millions of US
+
+in new capacity investment if it enforces the 10% renewable target and				
+desires to keep unmet demand levels under 1%. That is an amount too high for a country with pressing needs in other equally important areas
+
+Dollars)
+
+
+
+
+  3 The 0.75% GDP spending was estimated based on data on new generation capacity additions provided in the annual Electricity Supply Plan of Ghana provided by the Ghana Energy Commission. See [64]
+
+
+be enough to dissuade them from transitioning to renewable energy at a large-scale any time soon. This notwithstanding, renewable technolo- gies can be very cost effective in the Global South as elsewhere, espe- cially for providing electricity to communities far from the national grid. This section discusses how countries in the Global South could increase their renewable portfolio in the nearer term, without the intended consequences discussed above.
+
+5.1. Focus on off-grid electrification
+
+
+
+
+
+
+
+
+
+Fig. 5. Plot of cost of electricity provision under a 10% renewable target and a no target policy at annual generation capacity expansion fund equivalent to 0.5%, 0.75%, 1.0%, and 1.25%, of Ghana's GDP, and at Sufficient Budget, during the planning period from 2019 to 2030.
+
+electricity demand faced by electricity planners on the ground.
+
+4.4. Cost of electricity provision
+
+   Table 9 provides data on the expected cost of providing electricity from 2019 to 2030 under the two cases of Target and No-Target. As can be seen under the caption Total Cost, and also in Fig. 5, the total cost for providing electricity is higher under the Target case than under the No- Target case for all four budget allocations. For example, at an annual capacity budget of 0.75% of GDP (roughly the amount Ghana spends on generation capacity additions each year), the cost of electricity provision is US$14,939.94 Million under the Target case to US$13,569.17 Million under the No-Target case. The cost however decreases as the budget increases, reflecting the ability to meet more demand as more funds are available to finance more generation capacities. The column headed Extra Cost for Enforcing Target, gives the difference between the total cost of electricity provision under the Target and No-Target case. For example, at an annual capacity budget of 0.75% of GDP, the extra cost for enforcing the 10% renewable electricity target between 2019 and 2030 is expected to be US$1370.76 Million. This translates to roughly US
+$221.29 Million annuity per year at the assumed 12% discount rate, a sizable amount that Ghana cannot afford to lose. At an annual genera- tion capacity budget of 1.0% of GDP, the extra cost incurred for enforcing the target is US$650.92 Million (US$105.08 Million annuity per year). The extra cost reduces at higher capacity budget allocations. Even then, the expected extra cost for enforcing the target is US$170.60 Million (US$27.54 Million annuity per year) at a capacity budget allo- cation equivalent of 1.25% of GDP. Based on these figures, it is not a surprise that Ghana could not achieve the 10% renewable electricity target originally set for 2020. Moreover, given that the country's elec- tricity demand has been increasing year on year, it is more likely it will come no closer to achieving the target in 2030 as the case study suggest unless the private sector steps in - as was the case in Vietnam [61]. In sum, it can be inferred from the result in Table 9 that at current cost
+   
+Much of the low electrification rates in the Global South is due to the fact that many settlements (especially rural communities) are scattered far away from the national grid, making it too costly to connect them to the grid. This situation however presents an opportunity for the deployment of renewable energy technologies that are decentralized electricity options; often referred to as micro-grids. Providing electricity to these far away settlements through renewables will be far cheaper in the meantime as there will be no need for investment in transmission infrastructure. Solar PV, in parts of the world with high insolation rates in particular, will be ideal in the fact that this energy source can be sited near these settlements. In addition, a number of rural settlements yet to gain electricity access have little economic activities during night time when direct solar is unavailable, thus reducing the need for expensive batteries to provide large-scale electricity supply at night. Moreover, given that the electricity demands of these settlements are generally low, their economic activities would not be impacted as much by the inter- mittency of power from solar PV. Finally, while off grid electricity op- tions were often considered the 'poor cousin' to grid connected electricity (equated to 'modernity'), now there is a growing recognition by people that what is of more interest to them is the services and not whether or not the source providing them is connected to a larger electricity grid or a micro one [76].
+
+5.2. Focus on businesses and households with attractive market instruments
+
+   While it does not appear prudent for certain countries to invest in large scale renewable projects too quickly due to the potential for high levels of unmet demand and cost, investment in renewables by house- holds has the potential to be profitable if adequate relevant measures are put in place. Measures such as Net Metering to enable the selling of extra energy to the national grid have the potential to galvanize households to invest in solar PV. A number of households' negative experiences with solar PVs have centered on system maintenance and battery durability. To this effect, market mechanisms that can relieve households from system maintenance responsibilities and cost have the potential to in- crease interest in solar projects. The success of the Pay-As-You-Go solar in Kenya [18], attest to the need for innovative market mechanisms. It is interesting to note that almost all businesses in Ghana, from banks to educational institutions have power back-ups against electricity out- ages. The practice is also common among wealthier households. How- ever, many, if not all, of the back-up generators are diesel generators [77]. With no fuel cost, no noise, no air pollution and smell, as well as the ability to sell power to the grid, coupled with market mechanisms to relieve users from maintenance responsibilities, solar PV could replace
+
+estimates for electricity generators, the extra cost incurred when
+attempting to transition from fossil fuel-based electricity to renewable electricity is manageable if a country is relatively well off, like Germany and USA. However, the cost will likely be considered too high by elec- tricity planners if a country is financially limited.
+
+5. The way forward and conclusion
+
+   The analysis from section 4 illustrates that without significant ad- vancements, for countries constrained with funds, such as those in the Global South, the threat of increased levels of unmet demand will likely
+
+diesel generators as the preferred back-up generator. The case for solar PV as the preferred back-up generator is even stronger given that most of the businesses operate during day time which will mean less need for battery storage that - although costs are decreasing - tends to be expensive.
+
+5.3. Solar research, Training, and education initiative with concurrent efforts to spur demand
+
+   The cost of renewable energy - particularly solar and wind - is cheaper in China, in particular because of the maturity of its renewable
+
+
+
+industry [78]. This is as a result of China's continuous research into renewable energy technologies, along with policies that support their use domestically (such as policies seeking to reduce air pollution), which have had knock on effects on costs globally. This has enabled the country to ramp up its investments in renewable energy projects, becoming the world leader in installed capacity of renewable energy. Similar effort could be replicated in Ghana by the establishment of solar research centers to conduct research into solar PV adaptations, usage, and market that are in agreement with unique conditions of the country. It is also imperative that efforts are made to have qualified personnel in place who are capable of installing and maintaining renewable energy tech- nologies through the introduction of specialty programs in renewable energy installation and servicing, particularly solar PV systems, in the country's technical institutions. As noted above, many businesses and households in Ghana prefer diesel generators for power back-ups due mainly to maintainability concerns. Having a well-trained homegrown installation and service workforce for small scale renewable energy options and batteries would be key to adoption decisions by households and businesses. Finally, education must be intensified on the need to adopt renewable energy over energy from fossil fuels in the future. This, coupled with the provision of supporting policies such as the subsidy of solar panels for households by the government of Ghana [59] would be needed to encourage demand, and therefore investment in renewable energy.
+
+5.4. Conclusion
+
+   This paper discussed some of the key factors that have been discussed less within the literature that currently hinder countries in the Global South from embracing renewable energy on a large scale. The research showed that the level of unmet energy demand and cost of energy generation under budgetary constraints, are the two main factors that also influence a low income country's decision to invest in renewable energy. In particular, many countries from the Global South will be hard pressed to invest in large scale renewable electricity technologies if doing so impacts negatively on those two factors. Evidence of this argument in practice was demonstrated through a case study involving a model of electricity generation planning in Ghana. The case study shows that investing in renewable generation technologies to meet the coun- try's 10% renewable electricity target at current cost levels will be too costly and will also increase Ghana's level of unmet demand. This finding helps to support why Ghana (as of the end of 2018) had not been able to achieve even 0.3% of its targeted 10% renewable electricity production by 2020.
+   Ghana's inability to meet its 10% renewable electricity target shows how difficult it is for countries in the Global South to transition from fossil fuel based energy to renewable energy. While investing in renewable energy will undoubtedly improve the environmental sus- tainability dimension of the energy trilemma concept, it will likely exacerbate the energy equity and energy security dimension for these countries, thereby affecting the government's ability to provide sus- tainable energy to its citizens.
+   This therefore calls for rethinking in the manner at which renewable energy is promoted in the Global South. First, it can be inferred from the case study that state financed large-scale renewable projects could lead to an increase in already high levels of unmet electricity demand. In that sense, these countries could focus on leveraging the advantages of renewable energy, particularly solar, to provide electricity to commu- nities off the grid in the short term. Distributed solar projects supported by market schemes such as Pay-As-You-Go Solar in rural areas and by businesses and household in urban areas could also be encouraged.
+   The foremost contribution of the paper to literature is the offering of rarely discussed views on barriers to renewable energy adoption in the Global South from the perspective of the energy trilemma. This paper also contributes to practice and research by providing a modified gen- eration expansion planning model for electricity systems that can serve
+
+as a tool for analyzing the impact of proposed renewable energy targets on level of unmet demand and cost of electricity generation. To para- phrase Harjanne and Korhonen [79] that today's energy policy of transitioning to renewable energy must be carefully done such that it does not sentence the poor to perpetual poverty, this modified GEP model can serve to guide countries in the Global South to take renewable energy initiatives that balance the need for energy security, energy eq- uity, and environmental sustainability.
+   A limitation of this research is that, as in most GEP models, fuel cost was assumed to be certain. Likewise, fuel was assumed to be available in abundant supply. However, since fuel cost and fuel availability often times are a problem for countries in the Global South, future research is encouraged to explicitly account for these in order to improve the GEP decision making process.
+
+Declaration of competing interest
+
+   The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+CRediT authorship contribution statement
+
+   Anthony Afful-Dadzie: Conceptualization, Methodology, Software, Writing - original draft, Writing - review & editing, Visualization. Alexandra Mallett: Conceptualization, Data curation, Writing - original draft, Writing - review & editing. Eric Afful-Dadzie: Conceptualization, Methodology, Software, Writing - original draft, Visualization, Data curation.
+
+Acknowledgement
+
+   We thank the Queen Elizabeth Scholarship program for Climate Change and Societal Transformation, and the host university, Carleton University, Ottawa, Canada, for the research mobility scholarship that facilitated the preparation of this manuscript. We also thank the Uni- versity of Ghana Business School, Accra, Ghana, for the award of the research grant #05570919 that provided the needed funding for this research.
+
+References
+
+[1] Evans A, Strezov V, Evans T. Assessment of sustainability indicators for renewable energy technologies. Renew Sustain Energy Rev 2009;13:1082-8.
+[2] Wüstenhagen R, Wolsink M, Bürer MJ. Social acceptance of renewable energy innovation: an introduction to the concept. Energy Pol 2007;35(5):2683-91.
+[3] Fast S. Social acceptance of renewable energy: trends, concepts, and geographies. Geo Comp 2013;7(12):853-66.
+[4] Shaner MR, Davis SJ, Lewis NS, Caldeira K. Geophysical constraints on the reliability of solar and wind power in the United States. Energy Env't Sci 2018;11 (4):914-25.
+[5] International Renewable Energy Agency (IRENA). Renewable power generation costs in 2014. 2015. https://www.irena.org/documentdownloads/publications/ir
+ena_re_power_costs_2014_report.pdf. [Accessed 15 April 2019].
+[6] International Energy Agency (IEA). Renewables 2017: analysis and forecast to 2022. 2017. https://www.iea.org/Textbase/npsum/renew2017MRSsum.pdf.
+[Accessed 15 April 2019].
+[7] International Renewable Energy Agency (IRENA). Renewable power generation costs in 2017. 2018. https://www.irena.org/media/Files/IRENA/Agency/Publicati
+on/2018/Jan/IRENA_2017_Power_Costs_2018.pdf. [Accessed 28 April 2019].
+[8] Bloomberg Quicktake. Solar energy. 2018. https://www.bloomberg.com/qui cktake/solar-energy. [Accessed 21 April 2019].
+[9] International Energy Agency (IEA). Data and statistics. 2019. https://www.iea. org/data-and-statistics/data-tables?country1/4USA&energy1/4Electricity&ye ar1/42017;. [Accessed 23 December 2019].
+[10] World Energy Council (WEC). Global solar installed capacity. 2019. https://www. worldenergy.org/data/resources/resource/solar/. [Accessed 13 April 2019].
+[11] World Energy Council (WEC). Global wind installed capacity. 2019. https://www. worldenergy.org/data/resources/resource/wind/. [Accessed 13 April 2019].
+[12] Bloomberg New Energy Finance (BNEF). Runaway 53 GW solar boom in China pushed global clean energy investment ahead in 2017. 2018. https://about.bnef. com/blog/runaway-53gw-solar-boom-in-china-pushed-global-clean-energy-invest ment-ahead-in-2017/. [Accessed 23 December 2019].
+
+
+
+[13] Vidal J. Is Clean Energy funding from the UN's Green Climate Fund and other sources going where it's needed most? Ensia. 2018. https://ensia.com/feature s/clean-energy-funding-united-nations-green-climate-fund/. [Accessed 23
+December 2019].
+[14] World Energy Outlook (WEO). International Energy Agency (IEA); 2018. Paris, France, https://webstore.iea.org/download/summary/190?fileName1/4English
+-WEO-2018-ES.pdf. [Accessed 22 April 2019].
+[15] Painuly JP. Barriers to renewable energy penetration; a framework for analysis. Renew Energy 2001;24(1):73-89.
+[16] Kariuki D. Barriers to renewable energy technologies development. The official publication of the American Energy Society; 2018. https://www.energytoday. net/economics-policy/barriers-renewable-energy-technologies-development/. [Accessed 27 December 2019].
+[17] Mallett A. Renewable energy uptake in urban Latin America: sustainable technology in Mexico and Brazil. London: Routledge; 2020.
+[18] Ockwell D, Byrne R. Sustainable Energy for All: innovation, technology and pro- poor green transformations. first ed. Routledge; 2016.
+[19] Public Utilities Regulatory Commission (PURC) of Ghana. Publication of feed-in- tariffs for electricity generated from renewable energy. 2016. http://purc.com.gh/ purc/sites/default/files/fit_2016.pdf. [Accessed 10 January 2020].
+[20] Bloomberg New Energy Finance (BNEF). Climate scope. Ghana feed-in-tariff. 2018. http://global-climatescope.org/policies/4125. [Accessed 12 May 2019].
+[21] Ghana Renewable Energy Act. The eight hundred and thirty-second act of the parliament of republic of Ghana (2011. 2011. http://energycom.gov.gh
+/files/RENEWABLE%20ENERGY%20ACT%202011%20(ACT%20832).pdf.
+[Accessed 20 December 2019].
+[22] Energy Commission, Ghana. Ghana renewable energy master plan. 2019. http://www.energycom.gov.gh/files/Renewable-Energy-Masterplan-February
+-2019.pdf. [Accessed 18 May 2019].
+[23] Washburn C, Pablo-Romero M. Measures to promote renewable energies for electricity generation in Latin American countries. Energy Pol 2019;128:212-22.
+[24] Sakah M, Diawuo FA, Katzenbach R, Gyamfi S. Towards a sustainable electrification in Ghana: a review of renewable energy deployment policies. Renew Sustain Energy Rev 2017;79:544-57.
+[25] Gyamfi S, Modjinou M, Djordjevic S. Improving electricity supply security in Ghana-the potential of renewable energy. Renew Sustain Energy Rev 2015;43: 1035-45.
+[26] Ajayi OO, Ajayi OO. Nigeria's energy policy: inferences, analysis and legal ethics toward RE development. Energy Pol 2013;60:61-7.
+[27] Obeng-Darko NA. Why Ghana will not achieve its renewable energy target for electricity. Policy, legal and regulatory implications. Energy Pol 2019;128:75-83.
+[28] Mazzucato M. The Entrepreneurial State: debunking public vs. private sector myths. New York: Anthem Press; 2013.
+[29] Sims Gallagher K. The globalization of clean energy technology: lessons from China. Cambridge, MA: MIT Press; 2014.
+[30] Lewis JI. Green innovation in China: China's wind power industry and the global transition to a low-carbon economy. Columbia University Press; 2013. New York.
+[31] International Renewable Energy Agency (IRENA). Renewable energy target setting. 2015. http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/
+IRENA_RE_Target_Setting_2015.pdf. [Accessed 10 April 2019].
+[32] Kammen D, Kirubi C. Poverty, energy and resource use in developing countries. Annals NY Aca of Sci 2008;1136(1):348-57. https://nyaspubs.onlinelibrary.wiley. com/doi/full/10.1196/annals.1425.030.
+[33] Bloomberg New Energy Finance (BNEF). Frontier power. Price and need for reliable electricity power are spurring solar sales to african businesses. 2019. https
+://about.bnef.com/blog/price-need-reliable-electricity-power-spurring-solar-sales-  african-businesses/. [Accessed 14 May 2019].
+[34] Ahuja D, Tatsutani M. Sustainable energy for developing countries. SAPIENS 2009;
+2(1). http://journals.openedition.org/sapiens/823. [Accessed 10 May 2019].
+[35] Energy Information Administration (EIA). Levelized cost and levelized avoided cost of new generation resources in the annual energy Outlook 2019. 2019. http s://www.eia.gov/outlooks/aeo/pdf/electricity_generation.pdf. [Accessed 20 April 2019].
+[36] Afful-Dadzie A, Afful-Dadzie E, Awudu I, Banuro JK. Power generation capacity planning under budget constraint in developing countries. Appl Energy 2017;188: 71-82.
+[37] Energy Information Administration (EIA). Construction cost data for electric generators installed in 2016. 2018. https://www.eia.gov/electricity/generatorco
+sts/. [Accessed 18 April 2019].
+[38] Allen E, Lyons H, Stephens JC. Women's leadership in renewable transformation, energy justice and energy democracy: redistributing power. Energy Research and Social Science 2019;57:1-11.
+[39] The World Bank. Access to electricity (% of population). 2019. https://data.worl dbank.org/indicator/eg.elc.accs.zs. [Accessed 16 June 2019].
+[40] Gerasimchuk I, Wooders P, Merrill L, Sanchez L, Kitson L. A guidebook to reviews of fossil fuel subsidies: from self-reports to peer learning. International institute for sustainable development (IISD). Winnipeg, Manitoba: Canada; 2017.
+[41] Green R, Staffell I. Electricity in Europe: exiting fossil fuels? Oxf Rev Econ Pol 2016;32(2):282-303.
+[42] Geels FW, Sovacool BK, Schwanen T, Sorrell S. The socio-technical dynamics of low-carbon transitions. Joule 2017 2017;1(3):463-79.
+[43] Zhang HL, Van Gerven T, Baeyens J, Degr?eve J. Photovoltaics: reviewing the
+European feed-in-tariffs and changing PV efficiencies and costs. Sci World J 2014: 404913.
+[44] 
+Frondel M, Ritter N, Schmidt CM, Vance C. Economic impacts from the promotion of renewable energy technologies: the German experience. Energy Pol 2010;38(8): 4048-56.
+[45] Organisation for Economic Co-operation and Development (OECD). Africa development aid at a glance. 2019. https://www.oecd.org/dac/financing-sustaina ble-development/development-finance-data/Africa-Development-Aid-at-a-Glance
+-2019.pdf. [Accessed 25 May 2019].
+[46] Jacobsson S, Bergek A, Finon D, Lauber V, Mitchell C, Toke D, Verbruggen A. EU renewable energy support policy: faith or facts? Energy Pol 2009;37(6):2143-6.
+[47] Peterson F, Wesley E. The role of population in economic growth. SAGE Open 2017;7(4):1-15.
+[48] The World Bank. A changing world population. 2018. http://datatopics.worldban k.org/world-development-indicators/stories/a-changing-world-population.html. [Accessed 13 June 2019].
+[49] Saghir J, Santoro J. Urbanization in sub-saharan Africa. Washington, D.C: Center for Strategic and International Studies (CSIS); 2018. https://csis-prod.s3.amazo naws.com/s3fs-public/publication/180411_Saghir_UrbanizationAfrica_Web.pdf? o02HMOfqh99KtXG6ObTacIKKmRvk0Owd. [Accessed 13 June 2019].
+[50] International Renewable Energy Agency (IRENA). Planning and prospects for renewable power: West Africa. Abu Dhabi: International Renewable Energy Agency; 2018. https://www.irena.org/-/media/Files/IRENA/Agency/Publication/
+2018/Nov/IRENA_Planning_West_Africa_2018.pdf. [Accessed 8 May 2019].
+[51] Blimpo MP, Cosgrove-Davies M. Electricity access in sub-saharan Africa: uptake, reliability, and complementary factors for economic impact. Africa development forum series. Washington, DC: World Bank; 2019. https://openknowledge.wor
+ldbank.org/bitstream/handle/10986/31333/9781464813610.pdf?sequence1/46&is Allowed1/4y;. [Accessed 5 February 2020].
+[52] Energy Information Administration (EIA). Electric power monthly. 2019. https:// www.eia.gov/electricity/monthly/current_month/epm.pdf. [Accessed 4 April 2019].
+[53] Hammons TJ. Integrating renewable energy sources into European grids. Int J Electr Power Energy Syst 2008;30(8):462-75.
+[54] Eberhard A, Foster V, Bricen~o-Garmendia C, Ouedraogo F, Camos D, Shkaratan M.
+Underpowered: the state of the power sector in sub-saharan Africa. Africa infrastructure country diagnostic. 2008. http://www.eu-africa-infrastructure-tf. net/attachments/library/aicd-background-paper-6-power-sect-summary-en.pdf.  [Accessed 4 May 2019].
+[55] Iwayemi A. Nigeria's dual energy problems: policy issues and challenges. Int Assoc Energy Econ 2008;53:17-21.
+[56] Oseni MO. Power outages and the costs of unsupplied electricity: evidence from backup generation among firms in Africa. Paper for PhD thesis. Cambridge University; 2012. https://pdfs.semanticscholar.org/ced6/6a3eb2d00a416
+501131cbbbf07483248c2f1.pdf. [Accessed 18 May 2019].
+[57] Coady D, Shang B. Energy subsidies in developing countries: treating the disease while symptoms abate. Vox Column; 2015. http://www.voxeu.org/article/ energy-subsidies-developing-countries. [Accessed 12 May 2019].
+[58] Africa Progress Panel. Power people planet: seizing africa's energy and climate opportunities. Africa progress report. 2015. https://reliefweb.int/sites/reliefweb. int/files/resources/APP_REPORT_2015_FINAL_low1.pdf. [Accessed 8 May 2019].
+[59] Kumi EN. The electricity situation in Ghana: challenges and opportunities. Washington, D.C: Center for Global Development; 2017. https://www.cgdev.org/s ites/default/files/electricity-situation-ghana-challenges-and-opportunities.pdf.  [Accessed 18 May 2019].
+[60] Energy Commission, Ghana (ECG). Integrated power system master plan for Ghana. 2018. http://www.energycom.gov.gh/files/Ghana%20Integrated%20Po wer%20System%20Master%20Plan%20_Volume%202.pdf. [Accessed 20 May 2019].
+[61] The Economists. Sunny spell - Vietnam grapples with an unexpected surge in solar power. 2020. https://www.economist.com/asia/2020/01/23/vietnam-
+grapples-with-an-unexpected-surge-in-solar-power. [Accessed 10 February 2020].
+[62] Jin S, Ryan SM, Watson JP, Woodruff DL. Modeling and solving a large-scale generation expansion planning problem under uncertainty. Energy Systems 2011;2 (3-4):209-42.
+[63] The World Bank. World Bank open data. 2019. https://data.worldbank.org/coun try/ghana?view1/4chart. [Accessed 14 May 2019].
+[64] Energy Commission of Ghana. The 2019 electricity supply plan for the Ghana
+power system. Ghana: The Energy Commission; 2019. http://www.energycom.gov
+.gh/files/2019%20Electricity%20Supply%20Plan.pdf. [Accessed 27 April 2019].
+[65] Ghana Grid Company (GridCo). Generation master plan study for Ghana. 2011. htt p://www.gridcogh.com/media/photos/forms/annual/2011%20GRIDCo%20Annu al%20Report.pdf. [Accessed 22 June 2015].
+[66] Energy Commission, Ghana. National energy statistics 2000-2012. The energy commission. 2013. http://www.energycom.gov.gh/files/Ghana_Energy_Statist
+ics_2012_AUG.pdf. [Accessed 20 April 2019].
+[67] Energy Commission, Ghana. National energy statistics 2008-2017. The energy commission. 2019. http://www.energycom.gov.gh/files/ENERGY_STATISTICS_
+2018_FINAL.pdf. [Accessed 11 May 2019].
+[68] Breeden JL, Ingram D. Monte Carlo scenario generation for retail loan portfolios. J Opn Res Soc 2010;61(3):399-410.
+[69] Energy Information Administration (EIA). Construction cost data for electric generators installed in 2016. 2018. https://www.eia.gov/electricity/generatorco
+sts/. [Accessed 18 May 2019].
+[70] Energy Information Administration (EIA). Capital cost estimates for utility scale electricity generating plants. 2016. https://www.eia.gov/analysis/studies/powerp lants/capitalcost/pdf/capcost_assumption.pdf. [Accessed 10 April 2019].
+
+
+
+[71] Energy Information Administration (EIA). Updated capital cost estimates for utility scale electricity generating plants. 2013. https://www.eia.gov/outlooks/capitalcos t/pdf/updated_capcost.pdf. [Accessed 14 May 2019].
+[72] International Renewable Energy Agency (IRENA). Renewable power generation costs in 2012: an overview. 2013. https://www.irena.org/-/media/Files/IRENA/ Agency/Publication/2013/Renewable_Power_Generation_Costs_in_2012_summary.  pdf?la1/4en&hash1/4548B1D4A7BEAF616A19B26D8DF07011A8B8F49E7;.
+[Accessed 18 May 2019].
+[73] The World Bank. Government expenditure on education, total (% of GDP) - Ghana, sub-saharan Africa. 2019. https://data.worldbank.org/indicator/SE.XPD.TOTL. GD.ZS?locations1/4GH-ZG. [Accessed 10 January 2020].
+[74] The World Bank. Government Expenditure on Education, total (% of government
+expenditure). 2019. https://data.worldbank.org/indicator/SE.XPD.TOTL.GB.ZS.
+[Accessed 10 January 2020].
+[75] 
+The World Bank. Current health expenditure (% of GDP) in sub-saharan Africa. 2019. https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?contextua
+l1/4max&locations1/4ZG-1W. [Accessed 10 January 2020].
+[76] Mallet A. Technology cooperation for sustainable energy: a review of pathways, vol. 2. Wiley Inter Rev: Energy and Envn't; 2013. p. 234-50. 2.
+[77] The World Bank. Diesel power generation: inventories and black and carbon emissions in Nigeria. 2014. http://documents.worldbank.org/curated/en/853381 501178909924/pdf/117772-WP-PUBLIC-52p-Report-DG-Set-Study-Nigeria.pdf. [Accessed 13 February 2020].
+[78] Lam LT, Branstetter L, Azevedo IL. A sunny future: expert elicitation of China's solar photovoltaic technologies. Env't Res Letters 2018;13(3):034038.
+[79] Harjanne A, Korhonen JM. Abandoning the concept of renewable energy. Energy Pol 2019;127:330-40.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

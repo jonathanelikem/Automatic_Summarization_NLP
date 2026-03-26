@@ -1,0 +1,1218 @@
+Enterprise Competitive Analysis and
+Consumer Sentiments on Social Media
+Insights from Telecommunication Companies
+Eric Afful-Dadzie1, Stephen Nabareseh2, Zuzana Komínková Oplatková1 and Petr Klímek2
+
+1
+Faculty of Applied Informatics, Tomas Bata University, T.G Masaryka 5555, 760 01, Zlin, Czech Republic
+Faculty of Management and Economics, Tomas Bata University, T.G Masaryka 5555, 760 01, Zlin, Czech Republic
+
+2
+
+Keywords:
+
+Sentiment Analysis, Competitive Analysis, Telecommunication Companies, Social Media, Facebook,
+Twitter.
+
+Abstract:
+
+The utilization of Social media tools in business enterprises has tremendously increased with an increased
+number of users and a corresponding upsurge in time spent online. Online social media services such as
+Facebook and Twitter are used by companies to introduce new products and services, provide various
+supports and interact with customers on daily basis. This regular interaction of businesses and consumers
+results in huge amount of customer-generated content which is becoming a source of insight in analysing
+the often erratic consumer behaviour. For companies to harness the business potential of social media to
+increase competitive advantage, sentiments behind textual data of both their customers and that of their
+competitors must be keenly monitored and analysed. This paper demonstrates how companies especially
+those in the Telecommunication industry can seize the opportunity presented by social media to mine
+textual data to gain advantage over competitors by cumulatively understanding consumer opinions,
+frustrations and satisfaction. Using Facebook and Twitter sites of the top three telecommunication
+companies in Ghana: MTN, Vodafone and Tigo the paper reveals insights from unstructured texts of
+customers of these three companies. The results show (1) the exponential growth of social media users in
+Ghana (2) impact and numbers behind active social media participation in the telecommunication industry
+(3) the power of social media opinion mining for competitive analysis (4) how business value could be
+extracted from the huge unstructured textual data available on social media and (5) the company that is
+more responsive to customer concerns.
+
+1
+
+INTRODUCTION
+
+Online social media is now an integral part of our
+lives. Recent research works by (Wollan and Smith,
+2010; Barlow and Thomas, 2011; Qualman, 2009;
+Safko, 2010) corroborate the exponential growth of
+social media as a new strategic asset for businesses.
+In particular, (Barker, 2008; Sinderen and Almeida,
+2011; Weber, 2009; Gillin and Schwartzman, 2011)
+enumerate some of the ways social media can be put
+to use by businesses. Some of these are (1)
+identifying new product ideas (2) finding new
+business opportunities (3) creating brand awareness
+(4) strengthening customer relationships and (5)
+establishing contacts with employees, partners and
+even with competitors. A recent study report by
+McKinsey (McKinsey, 2013) on how organizations
+are using social media tools also reveals a range of
+
+22
+
+benefits for business enterprises as shown in table 1.
+For example 69% of the respondents reported an
+increase in how effective marketing on social media
+has been to their companies with 52% reporting an
+increase in customer satisfaction. Despite these
+purported benefits, Harvard Business Review (HBR,
+2010) posits that though companies are aware of the
+huge business potential of social media, most of
+them are only making investments for the future
+because they still doubt or view the potential as
+hyped.
+Even as the debate on the potential of social
+media to businesses lingers on with little work from
+academia to support the discussion according to
+Jussila et al. (2014), the wealth of textual data from
+social media continues to pile up on daily basis.
+Textual data especially those expressing
+concerns, frustrations and acceptance from
+
+Afful-Dadzie E., Nabareseh S., Komínková Oplatková Z. and Klímek P..
+Enterprise Competitive Analysis and Consumer Sentiments on Social Media - Insights from Telecommunication Companies.
+DOI: 10.5220/0004991300220032
+In Proceedings of 3rd International Conference on Data Management Technologies and Applications (DATA-2014), pages 22-32
+ISBN: 978-989-758-035-2
+Copyright c 2014 SCITEPRESS (Science and Technology Publications, Lda.)
+
+EnterpriseCompetitiveAnalysisandConsumerSentimentsonSocialMedia-InsightsfromTelecommunication
+Companies
+
+Table 1: Business and Web 2.0 - Benefits from customer
+use to organizations. Source: McKinsey.
+Benefits
+Increasing effectiveness of marketing
+Reducing marketing costs
+Reducing customer support costs
+Reducing travel costs
+Increasing customer satisfaction
+Increasing revenue
+Increasing number of successful innovations
+Reducing time to markets
+
+(%)
+69
+47
+36
+47
+52
+24
+22
+28
+
+customers are rich in knowledge which needs to be
+mined for insights. The wealth of knowledge behind
+customers’ comments, posts and tweets on “wall
+pages” of companies could prove valuable in
+identifying popular brands and level of customer
+satisfaction among others (Bradley and McDonald,
+2011; Governatori and Iannella, 2011). For example
+the ‘‘like” feature on Facebook which allows users
+to approve a post can prove valuable in identifying
+types of users and their interests in a service or
+product (Lipsman et al., 2012).
+The emergence of online social media now gives
+consumers a rare but powerful influence for publicly
+expressing their opinion and thoughts on products
+and services. This brings revolution in the way
+customers and companies interact by proffering new
+ideas about customer relationship and brand
+management. To process, aggregate and gauge the
+influence of customers’ opinions, sentiment analysis
+and text mining in general are used. Feldman (2013)
+explains the role of sentiment analysis in
+organizations and how it could be employed to
+monitor the activities of customers in the various
+social media sites in real time.
+In the following sections, we briefly explained
+the concept of sentiment analysis and its related
+applications, followed by research questions posed
+for this paper. Next is the methodology including the
+samples and procedures used. A case study of the
+sentiment analysis approach is conducted using the
+top three telecommunication companies in Ghana.
+The key findings are discussed followed by how
+responsive the companies are to customer specific
+concerns.
+
+2
+
+SENTIMENT ANALYSIS
+
+Sentiment Analysis sometimes referred to as opinion
+mining often combines the study of Natural
+Language Processing (NLP), Statistics and Machine
+learning to extract and classify the sentiments of a
+textual input. There exists two basic sentiment
+
+analysis tasks namely subjectivity and polarity
+detection. In the subjectivity approach, prediction is
+made on whether an inputted text is subjective or
+otherwise whiles the polarity technique makes an
+overall prediction of whether a subjective text is
+positive, neutral or negative (Buckley and Paltoglou,
+2012). The polarity technique learns to classify the
+polarity (positive or negative) of a statement,
+comment or post and determine whether the
+sentiment behind a statement or comment is positive,
+negative or neutral (Koppel and Schler, 2006; Pang
+and Lee, 2008; Dave et al., 2003; Pang et al., 2002;
+Wiebe, 1994). In the process a document is flagged
+as positive, negative or neutral. A score of zero
+denotes a neutral sentiment.
+Sentiment analysis, unlike classical text mining
+which focusses on topical words, picks only
+sentiment signals for real time analysis (Pang and
+Lee, 2008).
+Additionally, two main approaches are used in
+the task of automatically extracting sentiments from
+text. These are text classification and the lexiconbased method. In the former approach, a classifier is
+typically built from labeled instances of texts or
+sentences in a supervised classification (Turney,
+2002). This employs the use of statistical and
+machine learning techniques. Some of the most
+popular algorithms and techniques employed in text
+classification based sentiment analysis include but
+are not limited to support vector machines, naive
+Bayes, Ada Boost, k-nearest neighbours, and
+maximum entropy (Pang et al., 2002; Cao et al.,
+2013). These techniques are used when appropriate
+with Natural language processing and statistical
+techniques.
+On the other hand, the lexicon-based approach
+works by computing the polarity of a document
+based on the semantic orientation of words or
+phrases in the document (Toboada et al, 2011;
+Vaithyanathan, 2002) In practice, the lexicon-based
+approach depends on dictionaries of words marked
+with the word’s semantic polarity in computing the
+overall polarity of a document. Some of the widely
+used dictionaries for lexicon-based approaches are
+SentiWordNet and Wordnet though a customized
+dictionary can be created (Tong, 2001) using seed
+words to expand the list of existing words as
+demonstrated by Taboada et al (2011). In this paper,
+we use the lexicon-based approach with the
+SentiWordNet (Esuli and Sebastiani, 2006)
+dictionary to generate the sentiment scores.
+Sentiment analysis has been applied to a wide
+range of domains and disciplines. Notable among
+these are in the area of consumer product and
+
+23
+
+DATA2014-3rdInternationalConferenceonDataManagementTechnologiesandApplications
+
+services reviews (Feldman, 2013) and in voter
+sentiments in politics (Pang and Lee, 2008). For
+example (Zhang and Wan, 2013) used sentiment
+analysis to find possible weaknesses of products
+from customers’ feedback. Kang and Park (2014)
+designed a new framework that uses sentiment
+analysis and VIKOR method to measure customer
+satisfaction in a mobile service. Ghiassi, Skinner and
+Zimbra (2013) also combined neural network with nngram for twitter sentiment analysis and to show that
+their proposed Twitter-specific lexicon is
+significantly more effective in classification recall
+and accuracy metrics than some of the traditional
+twitter lexicons. A sentiment analysis based on
+unsupervised and domain-independent model was
+designed by (Bagheri et al., 2013) to detect explicit
+and implicit aspects in reviews whiles (Bai, 2011)
+proposed a heuristic search-enhanced Markov
+blanket model to predict consumer sentiments from
+online text.
+The interest in sentiment analysis has brought
+about a wide range of tools both commercial and
+open source. Dyer (2013) lists some of the top 50
+sentiment analysis tools. These tools help find
+insights and patterns from unstructured textual data
+(Sashi, 2011; Zeng et al., 2012b).
+This paper used a python programming language
+module called pattern together with SentiWordNet
+to generate the sentiment scores of user comments
+for the research. In the following sections we explain
+the sentiment analysis architecture adopted, the
+methodology guiding the research and subsequently
+use a case study of consumer comments of the top 3
+Telecommunication companies in Ghana. The
+resulting sentiment scores are then used for a
+competitive analysis.
+
+3.1
+
+Research Questions
+
+Studies have shown a gradual interest in usergenerated content on social media (Feldman, 2013;
+Akehurst, 2009; Aggarwal et al., 2011). This paper
+employed opinion mining to do a competitive
+analysis using unstructured textual information on
+Facebook and Twitter sites of the top 3
+telecommunications company. The data was
+collected from 02-02-2014 to 07-03-2014. The
+following research questions guided the study.
+1. What patterns can be found from their
+Facebook and twitter sites respectively?
+2. How do customers feel about their products
+or brand?
+3. Which Telecom company is most
+competitive as far as issues of customers are
+concerned?
+
+24
+
+3.2
+
+Methodology
+
+The study was carried out in phases to help answer
+the research questions. First, descriptive quantitative
+data was collected from the respective individual
+social media sites. In particular, we collected the
+number of tweets, followers and following from
+Twitter and the likes, talking about this and notes
+features from Facebook. Relevant for the research
+were also the demographics and geographical
+location of users, number of postings from the
+companies, comments made by users, time of the
+day when most posts are made and the frequency of
+postings between 02-2014 and 02-03-2014 as shown
+in figures 2-6 respectively. Next, we applied
+sentiment analysis techniques to analyse and flag
+each user comment as negative, positive or neutral.
+This helped in discovering the sentiments behind
+each user comment, the manner and pace each
+company responds to user concerns and the general
+pattern of how the three companies have been active
+on social media in relation to their customers.
+The sentiment analysis of user comments on
+social media adopted for the competitive analysis of
+telecom companies follows the architecture shown in
+figure 1. The methodology adopted is basically
+broken into three steps below.
+Step1: Text pre-processing:
+In the pre-processing stage, we first used Repustate an online analytical tool to ‘scrape’ user comments
+from the social media sites (Facebook and Twitter)
+of the 3 top telecommunication companies. Each
+user comment, post or review extracted was treated
+as a document. The collection of documents-the
+corpus was saved in comma separated value format
+(CSV). Then the documents in the corpus were each
+converted to text and pre-processed using linguistic
+tools basically of tokenization and stemming in
+python pattern module. The pre-processed corpus
+was loaded together with the SentiWordNet
+dictionary into python for subsequent processing.
+Step2: Text processing
+The sentiment analysis approach adopted for this
+research is the lexicon-based approach. First, each
+document (e.g., post, tweet, review etc.) collected is
+tokenized into a word list. Next each token’s log
+probability is identified in the word list. The log
+probabilities of each token are then added together to
+determine the probability of each sentiment for the
+entire document. To determine a binary ‘positive’ or
+‘negative’ label with scores for each document in the
+corpus (user comment), the SentiWordNet scores are
+
+EnterpriseCompetitiveAnalysisandConsumerSentimentsonSocialMedia-InsightsfromTelecommunication
+Companies
+
+accumulated with the more subjective comment
+having a higher score.
+Step 1: Text pre-processing
+
+Facebook &
+Twitter
+
+Step 2: Text Analysis
+
+Lexical
+resources
+
+Document
+processing
+Comments extraction
+&
+Pre-Processing
+
+Corpus
+from user
+comments
+
+Document
+analysis
+
+Sentiment
+scores
+
+Figure 1: Lexicon-based sentiment analysis architecture
+for social media.
+
+Step3: Python pattern vrs other software tools
+To ascertain the effectiveness of the sentiment
+analysis techniques we adopted and subsequently the
+polarity scores for each user comment, comparison
+was made with other sentiment analysis tools
+notably RapidMiner and Python NLTK 2.0.4 text
+classification. The RapidMiner sentiment analysis
+tool detected the polarity of a document without
+sentiment scores. However the results turned out to
+be consistent with our results in terms of the polarity
+(negative, positive or neutral) assigned to each of our
+user comments. In the case of Python NLTK text
+classification, whiles almost all the polarity labels
+of ‘positive’, ‘negative’ or ‘neutral’ label for each of
+our documents were consistent, the scores assigned
+to each user comment turned out to be slightly
+different. For instance in Table 5 row 3, the
+comment “MTN not good at all” though a negative
+polarity in both Python pattern and NLTK text
+classification, was assigned a score of -0.6 in NLTK
+compared to a -1 in Python pattern module.
+
+3.3
+
+Case Study
+
+The Telecommunications Industry in Africa
+continues to grow at an unprecedented rate
+(McKinsey, 2010; Chavula, 2013; Mahmoud and
+Hinson, 2012). In Ghana, there are currently six (6)
+major operators providing wide range of services
+such as cell phone telephony, broadband internet,
+and mobile financial services among others. These
+
+are as at 2013, Expresso, Millicom Ghana known in
+the market as Tigo SCANCOM known as MTN,
+Vodafone Mobile, Airtel, and Glo Mobile. According
+to the National Communications Authority (NCA); a
+body mandated by the Government of Ghana to
+among other things, grant licenses, monitor telecom
+service quality and protect consumers; Ghana’s total
+mobile subscribership currently stands at 28,026482,
+a growth of 7.4% from 2012 (NCA-Ghana, 2013). In
+spite of the apparent growth, service quality
+continues to be a challenge for consumers prompting
+the NCA-GH to slam five (5) of the operators a total
+fine of USD 464,413.50 in 2011. The advent of
+social media has therefore provided consumers in
+Ghana, a platform to interact with telecom providers
+in real-time; venting frustrations, reviewing products
+and generally receiving customer supports.
+It is on this premise that we use sentiment
+analysis to find how telecom companies in Ghana
+competitively respond to issues of customer
+concerns and also generally delve into what
+consumers think of these companies. We use the top
+three telecom companies (by subscriber base) in
+Ghana according to (NCA-Ghana, 2013). These are
+MTN, Vodafone and Tigo respectively in the order of
+customer size. As at December 2013, MTN had a
+subscriber base of 12,929,528 users with Vodafone
+and Tigo recording 6,048,792 and 4,021,225
+respectively.
+The selection of the three (3) telecommunication
+companies for this research is necessitated by their
+strong presence on social media compared to the
+other operators. MTN, Vodafone and Tigo interact
+with their customers almost on daily basis The time
+period of Feb 2 –March 7 was also chosen because
+of two important events within this period. These
+events are Valentine’s and Independence Day
+celebrations. During these events, a lot of telephony
+activity is recorded because of the large numbers of
+people both youth and elderly who access
+telecommunication services. Our initial findings in
+this research reveal that MTN made an average of 1
+and 9 posts on their Facebook and Twitter pages
+respectively between 02-02-2014 to 07-03-2014.
+Vodafone made an average of 4 and 2 posts on
+Facebook and Twitter respectively whiles Tigo
+posted an average of 2 and 1 message respectively as
+shown in table 2 and 3.
+In figures 2 and 3, the daily trend of user
+comments posted on Twitter and Facebook is shown.
+The trend shows that within the period of the
+research, MTN users interacted more with their
+telecom operator on Facebook than Vodafone and
+TiGo users. On Twitter, TiGo users exchanged more
+
+25
+
+DATA2014-3rdInternationalConferenceonDataManagementTechnologiesandApplications
+
+Figure 2: Trend of Tweets from Feb 2 - March 7, 2014 for the 3 companies.
+
+Figure 3: Trend of Facebook posts from Feb 2 - March 7, 2014 for the 3 companies.
+
+comments and posts between them and their
+operators than as it happened on Vodafone and
+MTN.
+
+The web scraping for textual data (posts, comments,
+tweets etc.) returned valuable information about the
+social media activity of the three telecom
+companies. This included the number of posts made
+in a day, number of likes/followers, and other
+features specific to one social media such as notes,
+talking about this on Facebook and following on
+Twitter as shown in tables 2 and 3 respectively.
+The number of tweets and posts on Twitter and
+
+Facebook respectively were generated within the
+month dedicated to the research.
+The study shows that the three companies seem to
+have a strong presence on Facebook than on Twitter.
+MTN for example posted 289 messages on their
+Facebook wall compared to only 46 on Twitter in
+the same period as shown in table 2 and 3. Vodafone
+recorded 127 posts on Facebook with 89 on twitter
+whiles Tigo managed 67 posts on Facebook and 74
+on Twitter as indicated in tables 2 and 3. The trend
+showed MTN as the most active telecom company
+in Ghana on Facebook as far as posts emanating
+from the company was concerned whiles Tigo
+appeared slightly the most active on Twitter in the
+period as shown in figures 2 and 3.
+
+Table 2: Stats on Facebook Feb. 2 – Mar. 7, 2014.
+
+Table 3: Stats on Twitter from Feb 2 - Mar 2, 2014.
+
+3.4
+
+Preliminary Findings
+
+Tigo
+
+313,287
+
+No. of
+Posts
+67
+
+MTN
+
+211,649
+
+289
+
+3,179
+
+19
+
+Vodafone
+
+274,863
+
+127
+
+1,600
+
+143
+
+Likes
+
+26
+
+Talking
+about this
+6,011
+
+Notes
+13
+
+Tweets
+
+Followers
+
+Following
+
+Tigo
+
+74
+
+9,834
+
+6,084
+
+MTN
+
+46
+
+30,170
+
+3,147
+
+Vodafone
+
+89
+
+21,911
+
+1,743
+
+EnterpriseCompetitiveAnalysisandConsumerSentimentsonSocialMedia-InsightsfromTelecommunication
+Companies
+
+Table 4: Classification of sentiments on Facebook.
+Negative
+
+Positive
+
+Neutral
+
+Total
+
+Tigo
+
+161
+
+381
+
+462
+
+1004
+
+MTN
+
+101
+
+297
+
+291
+
+689
+
+Vodafone
+
+301
+
+966
+
+1721
+
+2988
+
+It can be seen in figures 2 and 3 above that the
+peak time of posts and tweets on Facebook and
+Twitter respectively did not occur at the same time
+period. A content analysis of the entire posts and
+tweets revealed that the reason for the discrepancies
+was because the three telecom companies embarked
+on different events, deals, special monthly offers
+such as discounts and incentives at different days.
+MTN for example had an SMS scam alert message
+to their fans/customers on Facebook which
+generated responses and re-posts within the period.
+The disparity in the postings and tweets was again
+evident in the times of the day that customers/fans
+interacted with their telecom providers on social
+media. In figures 4-6, an interesting pattern emerges
+on the time of the day that customers/fans were most
+active on the pages of these three companies. The
+action intelligence to be extracted from this would
+be the ideal time for the companies to target their
+customers/ fans with new products, special offers
+and important messages such as alert on scams as
+was done by MTN.
+
+4
+
+KEY FINDINGS
+
+This section briefly explains some of the key
+findings from the social media sites of the three
+telecom companies as far as business competitive
+and sentiment analysis were concerned. In table 4, a
+summary of the classification of all the textual
+information extracted from the social media sites of
+the three companies into negative, neutral and
+positive comments is presented.
+On Facebook, Vodafone had the largest number
+of interactions than MTN and Tigo within the period
+of the research. A total of 2,988 textual information
+were extracted from Vodafone’s Facebook wall.
+This number includes both posts originating from
+the company and the responses/comments generated
+as a result of the posts. The implication is that, with
+127 posts on Vodafone’s Facebook’s wall as seen in
+table 2, it elicited 2,861 responses from
+fans/customers. Competitively, it means a far
+positive customer-company interaction occurred for
+Vodafone than MTN which posted 289 posts (see
+
+table 2) but generated a paltry 654 user comments
+and responses within the period. It is also worthy to
+note that even with Tigo’s 67 posts on their wall
+within the month of February to March, customer
+generated comments/responses and posts (1004) was
+more than that of MTN.
+
+4.1
+
+Sentiment Analysis on Facebook
+
+The sentiment analysis architecture adopted
+generated sentiment scores of -1 to +1 indicating
+most negative to most positive comments to classify
+the sentiments behind the textual data on the three
+companies. As shown in table 4, Vodafone had 301
+negative comments representing 10.07%, 966
+positives (32.33%) and 1,721 (57.60%) neutral
+comments out of the total of 2,988 texts generated.
+The classification generated 161 negative comments
+on Tigo representing (16.03%), 381 (37.95%)
+positives and 462 (46.02%) neutral comments. MTN
+on the other hand had 101 negative comments
+representing 14.66%, 297 positives (43.10%) and
+291 (42.20%) neutral comments.
+Whereas a cursory analysis of table 4 does not
+reveal any disturbing trend for any of the three
+companies as far as the numbers recorded for the
+total negative comments is concerned, content
+analysis of the actual individual comments and their
+relative sentiment scores shown in tables 5-7 is
+telling on the performance of the companies and
+their brands in Ghana.
+The individual sentiments from the three companies
+in tables 5-7 reveal gravely dissatisfied customers
+with strong statements of dissatisfaction. For
+instance comments like “Airtime s**kers. Can't even
+browse for 30mins with 2gh airtime” for MTN, “tigo is
+the most useless network in Ghana. bought the ghc39.99
+bundle its too slow. I can't even open common google. you
+have just lost a customer and I will never” for Tigo and “a
+disappointing network, in Takoradi but yet barely able to
+
+connect. would not recommend” for Vodafone
+signify discontent. To gain competitive advantage,
+the companies must respond positively and quickly
+to these comments to have an edge over their
+competitors. In-depth content analyses of the
+positive comments on Facebook reveal interesting
+responses by the three companies to specific
+customer queries or enquiries. Tables 8-10 are some
+specific responses to enquiries by their customers.
+Customers feel more relaxed and cared for if
+they are being identified by name on specific and
+direct responses to their concerns (Mittal and Lassar,
+1996; Peppers and Rogers, 1995). From our content
+analysis and as can be seen in table 8, MTN
+
+27
+
+DATA2014-3rdInternationalConferenceonDataManagementTechnologiesandApplications
+
+Table 5: Some selected MTN negative comments.
+1
+2
+3
+4
+5
+
+Comment
+Airtime s**kers. Can't even browse for 30mins with 2gh airtime.
+Its annoying if as at now you call yourselves best network in Ghana and still we can't get good
+network to make calls for browsing, don't wanna talk, I know what to do. :(
+MTN not good at all
+MTN, Like seriously, u r the most useless and disgraceful network I've ever experienced in my life... I
+regret the day I bought ur chip. I'm porting straight to vodafone and I
+so..when..would..u..stop..stealing..my..airtime.?
+
+Score
+-1
+-1
+-1
+‐1
+-1
+
+Table 6: Some selected Tigo negative comments.
+1
+2
+3
+4
+5
+
+Comment
+tigo is the most useless network in Ghana. bought the ghc39.99 bundle its too slow. I can't even open
+common google. you have just lost a customer and I will never
+In fact ur internet network is the poorest in Ghana, what network be this?. What it pains me koraa
+is....I persuaded my galfriend to port her favorite MTN to Tigo, further on to
+masa if u think we re goin to encounter netwrk problems den dont let us activate internet bundles and
+later on we cnt use dem.#Poorservice "#Frown uv got tigo"
+Tigo Ghana your internet service is really killing me guys, I have a deadline today and I can't even
+get anything done. Your Internet is soo slow I can't even open a single page.
+hw3 all u pple do is brag. ur service is v.slow. on and off lyk ecg. 0278686875. i will b leaving soon if
+u guys dnt gt serious
+
+Score
+‐1
+‐1
+‐1
+‐1
+‐1
+
+Table 7: Some selected Vodafone negative comments.
+1
+2
+3
+4
+5
+
+Comment
+too bad network.. my interent isnt workn again! bomb! im even usin difrnt ntwrk
+stupid network Vodafone for how long will it take your stupid company to fixed my problem my
+broadband problem . what the f**k is wrong you with you guys you sick, see
+And ur internet service has been down for 3 months now.. unbelievable
+a disappointing network, in Takoradi but yet barely able to connect. would not recommend
+And as a company what do you do?when there is a problem.6days of no browsing and nothing has
+been.Tweaaaaaaaaaaaaaa what an incompetent data provider
+
+Score
+-1
+-1
+-1
+-1
+-0.4883
+
+Table 8: Some selected MTN positive comments.
+1
+2
+3
+
+Comment
+Y'ello Emmanuel, As per our discussion,kindly visit any MTN office with an ID and relevant
+documents to prove ownership of the number. Thank you.
+Y'ello Vida, Sorry for your experience. Kindly provide your number to enable us investigate your
+complaint. Thank you
+Y'ello Bridget, Thank you for your suggestion,Kindly be informed that it is well noted. Thank you
+
+Score
+0.5421
+1
+1
+
+Table 9: Some selected Tigo positive comments.
+1
+2
+3
+
+Comment
+We sincerely apologize for any inconvenience caused.
+Kindly confirm your number and current location for assistance.
+Kindly elaborate on your issue to enable us assist you.
+
+Score
+1
+0.56801
+0.68644
+
+Table 10: Some selected Vodafone positive comments.
+1
+2
+3
+
+28
+
+Comment
+Dial 255 for expert medical advice between 4:00pm and 10:00pm daily.
+In the spirit of love, telecom operator, Vodafone Ghana, has settled the medical bills of over 180
+patients who were struggling to raise funds to pay their medical bills through
+Music doesn't lie. If there is something to be changed in this world, then it can only happen through
+music.
+
+Score
+0.38518
+0.35094
+0.30982
+
+EnterpriseCompetitiveAnalysisandConsumerSentimentsonSocialMedia-InsightsfromTelecommunication
+Companies
+
+addresses specific customer concerns and directly
+mentions the name of each customer in the response.
+It was also realized in one response that MTN takes
+on suggestions of customers and acknowledges the
+customer for the input.
+Tigo also addresses
+customers per their concerns. Scanning through the
+content, there was some deficiency in Vodafone’s
+responses to customer specific queries/enquiries.
+The company provided Omnibus statements that
+were meant to address general customer issues. To
+gain competitive advantage, companies must be seen
+to be more responsive to customers concerns.
+Companies who personalize customers concerns turn
+to retain such customers and increase its competitive
+urge over rivals. It can be inferred that MTN has an
+urge in terms of responses to customer concerns per
+extracted comments on Facebook under the period
+of study.
+
+4.2
+
+Sentiment Analysis on Twitter
+
+Adopting the same sentiment analysis score of -1 to
++1 representing most negative to most positive
+comments respectively, content analysis of the
+actual individual comments and their relative
+sentiment score on twitter for the three companies
+for randomly selected customers are shown in tables
+11-13. Negative comments on twitter for the three
+companies are similar to that of Facebook. The
+choice of words indicates that these customers are
+disgruntled and desire specific response to their
+
+concerns. Content analysis of the positive responses
+on twitter was similar to that of Facebook. However,
+there were more omnibus statements from the three
+companies on twitter as compared to Facebook.
+
+5
+
+LIMITATION
+
+Since the word list in SentiWordNet is not
+comprehensive and does not contain vernacular
+words some sentiments would not be classified in
+the analysis. This affects the accuracy of the
+classification. We will therefore develop a wordlist
+in future to embody local Ghanaian vernacular
+words for a comprehensive analysis.
+
+6
+
+CONCLUSIONS
+
+The explosion of data on social media leaves no
+business enterprise with a focus on customer
+satisfaction and expansion to be complacent. The
+emergence of social media presents businesses with
+a rare chance of analysing publicly available data of
+their customers/fans and even more importantly that
+of their competitors for business advantages. Such
+data driven analysis could help businesses to identify
+their weaknesses and exploit the weaknesses of their
+competitors as far as customer retention and brand
+management is concerned It would also help to.
+
+Table 11: Some selected MTN negative comments.
+1
+2
+3
+
+Comment
+Some stupid networks we have in our country @MTNGhana fire burn u all
+u dont care about the plight of Ghanians at all...and also why does it keep sooo long for attendants to
+pic calls of customers?
+u people y?? U pple dey take ma credit small small. I haven't subscribed for any service aside internet
+bundles wai. Will port oo
+
+Score
+-1
+-1
+-0.8334
+
+Table 12: Some selected Tigo negative comments.
+1
+2
+3
+
+Comment
+Everyday for the last 2months “@Wiredu_: Thou sucketh today @TigoGhana”” << it's becoming
+too much. Fix it tiGo
+massa, ur internet service dey bore.wk on it den shon dey talk trash.
+bt i tot u said 24hrs unlimited. rather 14hrs, such a shame
+
+Score
+‐0.4674
+‐0.8820
+
+Table 13: Some selected Vodafone negative comments.
+1
+2
+3
+
+Comment
+too bad network.. my interent isnt workn again! bomb! im even usin difrnt ntwrk
+stupid network Vodafone for how long will it take your stupid company to fixed my problem my
+broadband problem . what the fuck is wrong you with you guys you sick, see
+And ur internet service has been down for 3 months now.. unbelievable
+
+Score
+-1
+-1
+-0.7765
+
+29
+
+DATA2014-3rdInternationalConferenceonDataManagementTechnologiesandApplications
+
+consolidate strengths and identify new opportunities
+and threats in the competitive market. In Ghana and
+Africa as a whole, social media competitive analysis
+may be a new thing but as our research shows, the
+numbers of social media users in Africa keep
+growing at exponential rates (Deloitte and Touche,
+2012; United Nations (UN), 2010).
+This study demonstrated how businesses could
+take advantage of social media data to improve upon
+customer relationship and maintain a competitive
+urge over rivals. Using a case study of the top three
+Ghanaian Telecom companies, we demonstrated
+with sentiment analysis, the general feeling of
+telecom users in Ghana. The use of sentiment
+analysis is one of the potent ways in attempting to
+understand customer behaviour.
+The results show how active the three telecom
+companies are on social media and how they engage
+with their customers/fans on daily basis. Content
+analysis of the textual information we extracted
+reveal a number insights about how customers
+perceive the services of the three companies. Some
+of the key patterns and trends we identified are the
+following:
+(1) Response to User Comments
+The study revealed that to stay in touch with their
+customers, the three Telecom companies have
+specific staff assigned to addressing daily customer
+complaints. They use the social media platform to
+launch new products and listen to their feedback on
+services and products. In responding to customer
+concerns, two of the companies were seen to be
+giving omnibus answers to complaints. MTN was
+innovative in the way they addressed customers by
+name and proffered real-time solutions to concerns.
+
+(3) Service Quality
+Though some of the posts and comments from
+customers were not business related, majority (60%)
+of them were about criticizing or hailing one
+company or the other about their service or product
+as shown in Tables 5-13. With mobile number
+portability service in place in Ghana where users can
+port their telephone numbers from one company to
+the other for free, competition has become keen
+among the various operators about maintaining their
+core customer base and capitalizing on the number
+portability service to snatch users from their
+competitors. In spite of this, some service
+complaints were not satisfactorily addressed
+prompting others to threaten to port their numbers to
+other companies as shown for example by one
+comment in Table 11 row 3.
+(4) Freebies
+We also realized that almost all the Telecom
+companies engage in giving out free phone credits to
+their customers on social media. Some of these
+freebies came in the form of answering simple
+questions about their products and services. Some
+also came in the form of purchasing tickets to major
+entertainments programs for customers who got
+some questions rightly answered.
+In all MTN seemed to have a slight competitive
+urge over their rivals in terms of how the company
+engages with customers on social media. A
+company’s relative responsiveness to customer
+concerns such as MTN makes consumers advocate
+of their brand and therefore increase brand referrals
+culminating in increased profits and market
+visibility.
+
+(2) Unusual Posts and Tweets
+It was also realized in the content analysis that not
+every posts or tweets by the company was related to
+their service, products or meant to address a
+customer complaint. Some of the companies, TiGo
+in particular made several casual postings about
+topical issues on their pages to engage their fans in
+the day. Most of the topics centered on relationships,
+security tips and upcoming entertainment events in
+the cities and towns in the country. Though most of
+these casual posts yielded lots of responses, we
+could not determine their impact on brand awareness
+and therefore the competitive urge it gives to such
+companies over their competitors.
+
+30
+
+ACKNOWLEDGEMENTS
+This work was supported by Internal Grant Agency of
+Tomas
+Bata
+University
+IGA/FAI/2014/037,
+IGA/FAI/2014/007 and by the European Regional
+Development Fund under the project CEBIA-Tech No.
+CZ.1.05/2.1.00/03.0089.
+
+REFERENCES
+Aggarwal, R., Gopal, R., Sankaranarayanan, R., & Singh,
+P. V., 2012. Blog, blogger, and the firm: Can negative
+employee posts lead to positive outcomes?
+Information Systems Research, 23(2), 306–322.
+
+EnterpriseCompetitiveAnalysisandConsumerSentimentsonSocialMedia-InsightsfromTelecommunication
+Companies
+
+Akehurst, G., 2009. User generated content: The use of
+blogs for tourism organizations and tourism
+consumers. Service Business, 3(1), 51–61.
+Bagheri, A., Saraee, M., De Jong, F., 2013. Care more
+about customers: Unsupervised domain-independent
+aspect detection for sentiment analysis of customer
+reviews. Knowledge-Based Systems, 52, 201-213.
+Barker, P., 2008. How social media is transforming
+employee communications at Sun Microsystems.
+Global Business and Organizational Excellence,
+27(4), 6–14.
+Barlow, M., Thomas, D. B., 2010. The executive's guide to
+enterprise social media strategy: how social networks
+are radically transforming your business (Vol. 42).
+John Wiley & Sons.
+Bradley, A. J., McDonald, M. P., 2011. The Social
+Organization: How to Use Social Media to Tap the
+Collective Genius of Your Customers and Employees.
+Harvard Business Press.
+Chavula, H. K. 2013. Telecommunications development
+and economic growth in Africa. Information
+Technology for Development, 19(1), 5-23.
+Dave, K., Lawrence, S., Pennock, D. M., 2003. Mining the
+peanut gallery: Opinion extraction and semantic
+classification of product reviews. In Proceedings of
+the 12th international conference on World Wide Web
+(pp. 519-528). ACM.
+Deloitte, Touche, 2012. Social Media Africa. Africa
+Frontiers Forum
+Dyer, P., 2013. Top Tools for Social Media Monitoring,
+Analytics, and Management. Retrieved from:
+http://socialmediatoday.com/pamdyer/1458746/50top-tools-social-media-monitoring-analytics-andmanagement-2013
+Esuli, A., Sebastiani, F., 2006. SentiWordNet: A publicly
+available lexical resource for opinion mining. In
+Proceedings of LREC (Vol. 6, pp. 417-422).
+Essoungou, A.M., 2010. A social media boom begins in
+Africa. United Nations, Africa Renewal. Retrieved
+from:http://www.un.org/africarenewal/magazine/dece
+mber-2010/social-media-boom-begins-africa
+Feldman, R., 2013. Techniques and applications for
+sentiment analysis. Communications of the ACM,
+56(4), 82-89.
+Ghiassi, M., Skinner, J., Zimbra, D., 2013. Twitter brand
+sentiment analysis: A hybrid system using n-gram
+analysis and dynamic artificial neural network. Expert
+Systems with Applications, 40(16), 6266-6282.
+Gillin, P., Schwartzman, E., 2011. Social marketing to the
+business customer: Listen to your B2B market,
+generate major account leads, and build client
+relationships, John Wiley & Sons. New Jersey, 1st
+edition.
+Governatori, G., Iannella, R., 2011. A modeling and
+reasoning framework for social networks policies.
+Enterprise Information Systems, 5(1), 145–167.
+Harvard Business Review, 2010. The New Conversation:
+Taking Social Media from Talk to Action. SAS
+Institute. Harvard.
+
+Jussila, J. J., Kärkkäinen, H., Aramo-Immonen, H., 2014.
+Social media utilization in business-to-business
+relationships of technology industry firms. Computers
+in Human Behavior, 30, 606-613.
+Kang, D., Park, Y., 2014. Review-based measurement of
+customer satisfaction in mobile service: Sentiment
+analysis and VIKOR approach. Expert Systems with
+Applications, 41(4), 1041-1050.
+Koppel, M., Schler, J., 2006. The importance of neutral
+examples for learning sentiment. Computational
+Intelligence, 22(2), 100-109.
+Lipsman, A., Mudd, G., Rich, M., Bruich, S., 2012. The
+power of ‘‘like”: How brands reach (and influence)
+fans through social-media marketing. Journal of
+Advertising Research, 52 (1), 40–52
+Mahmoud, M. A., Hinson, R. E., 2012. Market orientation,
+innovation and corporate social responsibility
+practices in Ghana's telecommunication sector. Social
+Responsibility Journal, 8(3), 327-346.
+Mittal, B., Lassar, W. M., 1996. The role of
+personalization in service encounters. Journal of
+retailing, 72(1), 95-109.
+NCA-Ghana, 2013. Review of mobile and fixed network
+services statistics for the year 2013. Retrieved from:
+http://www.nca.org.gh/73/34/News.html?item=357
+Pang, B., Lee, L., 2008. Opinion mining and sentiment
+analysis. Foundations and trends in information
+retrieval, 2(1-2), 1-135.
+Pang, B., Lee, L., Vaithyanathan, S., 2002. Thumbs up?:
+sentiment classification using machine learning
+techniques. In Proceedings of the ACL-02 conference
+on Empirical methods in natural language processingVolume 10 (pp. 79-86). Association for Computational
+Linguistics.
+Peppers, D., Rogers, M., 1995. A new marketing
+paradigm: share of customer, not market share.
+Managing Service Quality, 5(3), 48-51.
+Qualman, E., 2009. Socialnomics: how social media
+transforms the way we live and do business. Wiley
+John & Sons, Inc. Hoboken, 2nd edition.
+Safko, L., 2010. The Social media bible: tactics, tools, and
+strategies for business success. John Wiley & Sons.
+Hoboken, New Jersey, 2nd edition.
+Sashi, C. M., 2011. Customer engagement, buyer-seller
+relationships and social media. Management Decision,
+50(2).
+Sinderen, M. V., Almeida, J. P. A., 2011. Empowering
+enterprises
+through
+nextgeneration
+enterprise
+computing. Enterprise Information Systems, 5(1), 1–8.
+Taboada, M., Brooke, J., Tofiloski, M., Voll, K., Stede,
+M., 2011. Lexicon-based methods for sentiment
+analysis. Computational linguistics, 37(2), 267-307.
+Thelwall, M., Buckley, K., Paltoglou, G., 2012. Sentiment
+strength detection for the social web. Journal of the
+American Society for Information Science and
+Technology, 63(1), 163-173.
+Tong, R. M., 2001. An operational system for detecting
+and tracking opinions in on-line discussion. In
+Working Notes of the ACM SIGIR 2001 Workshop on
+Operational Text Classification, Vol. 1, pp. 6.
+
+31
+
+DATA2014-3rdInternationalConferenceonDataManagementTechnologiesandApplications
+
+Turney, P. D., 2002. Thumbs up or thumbs down?:
+semantic orientation applied to unsupervised
+classification of reviews. In Proceedings of the 40th
+annual meeting on association for computational
+linguistics (pp. 417-424).
+Weber, L., 2009. Marketing to the social web: How digital
+customer communities build your business, John
+Wiley & Sons. Hoboken, NJ, 2nd edition.
+Wiebe, J. M., 1994. Tracking point of view in narrative.
+Computational Linguistics, 20(2), 233-287.
+Wollan, R., Smith, N., Zhou, C., 2010. The social media
+management handbook: everything you need to know
+to get social media working in your business. John
+Wiley & Sons. Hoboken, 1st edition.
+Zeng, L., Li, L., Duan, L., 2012. Business intelligence in
+enterprise computing environment. Information
+Technology & Management, 13(4), 297–310.
+Zhang, W., Xu, H., Wan, W., 2012. Weakness Finder:
+Find product weakness from Chinese reviews by using
+aspects based sentiment analysis. Expert Systems with
+Applications, 39(11), 10283-10291.
+
+32
+
+

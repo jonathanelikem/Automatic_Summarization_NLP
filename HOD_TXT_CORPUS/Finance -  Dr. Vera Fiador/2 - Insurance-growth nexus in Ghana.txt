@@ -1,0 +1,1969 @@
+Available online at www.sciencedirect.com
+
+ScienceDirect
+Review of Development Finance 4 (2014) 83–96
+
+Insurance-growth nexus in Ghana: An autoregressive distributed lag bounds
+cointegration approach
+Abdul Latif Alhassan a,∗ , Vera Fiador b,1
+a Graduate School of Business, University of Cape Town, Cape Town, South Africa
+b Department of Finance, University of Ghana Business School, University of Ghana, P.O. Box LG 78, Legon, Accra, Ghana
+
+Abstract
+This paper examines the long-run causal relationship between insurance penetration and economic growth in Ghana from 1990 to 2010. Using
+the autoregressive distributed lag (ARDL) bounds approach to cointegration by Pesaran et al. (1996, 2001), the study finds a long-run positive
+relationship between insurance penetration and economic growth which implies that funds mobilized from insurance business have a long run impact
+on economic growth. A unidirectional causality was found to run from aggregate insurance penetration, life and non-life insurance penetration to
+economic growth to support the ‘supply-leading’ hypothesis. The findings have implications for insurance market development in Ghana.
+© 2014 Africagrowth Institute. Production and hosting by Elsevier B.V. Open access under CC BY-NC-ND license.
+JEL classiﬁcation: C22 ;G22 ;O11 ;O16
+Keywords: Insurance; Economic growth; ARDL; Causality; Ghana; Africa
+
+1. Background of the study
+The importance of insurance business is not only limited to
+risk absorption, allocation and transfer but also the mobilization
+of funds for use by financial markets to induce investment and
+growth. Despite the obvious benefits of the insurance businesses
+to an economy, insurance penetration among African countries2
+still remain very low.3 This does not only hinder the continent
+from optimizing the benefits of insurance activities to businesses
+and individuals but also results in the loss in the ability of these
+developing countries to mobilize the funds from insurance busi-
+
+∗ Corresponding author. Tel.: +27 718491066/+233 243326567.
+
+E-mail addresses: lateef85@yahoo.com, alhabd004@myuct.ac.za
+(A.L. Alhassan), vsoli@ug.edu.gh (V. Fiador).
+1 Tel.: +233 264766174.
+2 Excluding South Africa.
+3 Insurance penetration in Africa was 1.2% in 2011 (Swiss Re, 2012).
+Peer review under responsibility of Africagrowth Institute.
+
+1879-9337 © 2014 Africagrowth Institute. Production and hosting by Elsevier
+B.V. Open access under CC BY-NC-ND license.
+http://dx.doi.org/10.1016/j.rdf.2014.05.003
+
+ness for the usage by financial markets. The growth in global
+insurance premiums by 82%4 between 1997 and 2004 was driven
+by emerging markets with growth rate of 57% compared to 27%
+for industrialized countries (Arena, 2008). This underlines the
+growing importance of the insurance industry globally and more
+importantly in emerging markets as a means for capital accumulation. This has accordingly shifted the focus of academic
+researchers to the examination of the impact of insurance market development on economic growth from authors such as Ward
+and Zurbruegg (2000), Webb et al. (2002), Liedtke (2007) and
+Arena (2008).
+With the long held proposition that finance has a major role
+to play in economic growth, little is known empirically on the
+impact of insurance on the growth of African economies. The
+transmission mechanism between the finance-growth nexus has
+been hypothesized to be either ‘supply leading’ which asserts
+that economic growth is caused by developments in the financial
+sector or ‘demand following’ where financial development is
+granger caused by economic growth. The impact of banking and
+stock market developments on economic growth has received
+enormous attention in finance-growth nexus literature (King and
+
+4 104% and 60% growth in the life and non-life businesses, respectively.
+Computations were based on data from Swiss Re.
+
+84
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+Levine, 1993a,b; Levine, 1999; Levine and Zervos, 1998; Beck
+and Levine, 2004; Adjasi and Biekpe, 2006; Seetanah et al.,
+2009) in both developed and developing countries.
+Similar to studies on the banks and stock markets, the
+causality between insurance penetration and growth still remain
+inconclusive. While some studies have found causality running
+from insurance to growth (Ward and Zurbruegg, 2000; Ghosh,
+2013; Chang et al., 2013) others have found causality from
+growth (Horng et al., 2012; Chang et al., 2013) with some finding
+evidence of bi-directional causality between insurance penetration and growth (Ward and Zurbruegg, 2000; Lee, 2011; Chang
+et al., 2013). Other studies have also found no evidence of causality (Chang et al., 2013). Despite the importance of insurance to
+the stability of financial systems5 through the provision of risk
+management services, little is known of its linkage with growth
+in Africa. The studies examining insurance-growth nexus have
+mainly been based on data from developed economies (Kugler
+and Ofoghi, 2005; Han et al., 2010; Lee, 2011). Most studies examining the finance-growth nexus in Africa (Adjasi and
+Biekpe, 2006; N’Zue, 2006; Odhiambo, 2007; Seetanah, 2009;
+Ahmed and Wahid, 2011; Kagochi et al., 2013) have focused on
+bank and stock market development. Although few studies have
+been carried out on the insurance industry in Ghana (Akotey
+et al., 2011, 2013; Ansah-Adu et al., 2012; Akotey and Abor,
+2013), they have mostly focused on micro level characteristics.
+None of the studies has thus far explored the relationship with
+economic growth let alone the causal link between the two. This
+study therefore pioneers the study on insurance markets at the
+macro level in Ghana. While the insurance-growth nexus has
+varied in the developed country studies, to the best of author’s
+knowledge, no study has explored the causality between insurance and growth in an African context. This study therefore
+seeks to fill this obvious gap in empirical literature by providing
+further evidence on causal link between insurance penetration
+and economic growth from a developing African country.
+In recognition of the need for this study, the autoregressive
+distributed lag (ARDL) bounds approach to cointegration was
+employed to test for the existence of level relationship between
+insurance penetration and economic growth as well as estimating both short-run and long-run relationships. Additionally, the
+fully modified ordinary least squares (FMOLS) of Phillips and
+Hansen (1990) was also employed to test the robustness of the
+of the long-run ARDL estimates. These two techniques have
+been found to be reliable for small sample sizes estimations as
+employed in this study. Finally, causality test was employed to
+test the ‘demand-following’ and ‘supply-leading’ for insurancegrowth in Ghana.
+The main results of this study indicate that aggregate insurance consumption has long-run positive impact on economic
+growth whereas non-life insurance activities contributes to
+higher economic growth compared to life insurance activities in
+the long-run. Additionally, causality test finds evidence in support of the ‘supply-leading’ hypothesis in respect of aggregate
+insurance consumption, life and non-life insurance consump-
+
+5 Skipper (1997).
+
+tion to imply that developments in insurance markets precedes
+economic growth in Ghana.
+The rest of the paper is organized as: Section 2 provides an
+overview of insurance penetration in Ghana, Section 3 examines
+the theoretical basis and empirical studies on insurance-growth
+nexus. Section 4 outlines the methodology on the ARDL
+approach to cointegration. Section 5 discusses the empirical
+results while Section 6 focuses on conclusions and policy implications of the findings.
+2. Overview of insurance in Ghana
+The Royal Guardian Enterprise Insurance6 was established in
+1924 to pioneer insurance business in Ghana. Subsequently, the
+Gold Coast Insurance Company, General Insurance Company
+and Cooperative Insurance Society were established in 1955,
+1957 and 1958, respectively. A merger between Coast Insurance
+Company and Cooperative Insurance Society in 1962 led to the
+birth of the State Insurance Company (SIC). Currently, there are
+25 Non-Life companies, 18 Life companies, 2 Reinsurance companies, 54 Brokerage companies, 1 Loss Adjuster, 1 Reinsurance
+Broker and about 4000 insurance agents (http://www.nicgh.org).
+First regulated under the Insurance Law 1989 (PNDC Law 227)
+and currently operating under the Insurance Act, 2006 (Act 724),
+the industry is regulated by the National Insurance commission (NIC). In the new Act, an upward review of the minimum
+capital requirement for an insurance company from the current
+cedi equivalent of US$1 million to the cedi equivalent of US$5
+million. Table 2.1 presents the premium growth for both Life
+and non-life businesses from 2003 to 2011. While the nonlife insurance business continues to generate more premium
+income compared to the life business, the share exhibited continuous decline. In 2003, total non-life insurance was 80.12%
+of gross insurance premiums compared to the life business of
+19.88%. By end of 2011, the share of non-life business had
+fallen to 57.01% while that of the life business had rising
+up to 42.99% from 19.88% in 2003. This attest to growing
+importance of the life insurance sub-sector within the insurance
+industry.
+As shown in Table 2.1, non-life premium income grew by
+32.3% in 2011 whiles that of the life sector premium income
+grew by 44.2% in 2011 backing a trend of consistent growth from
+2003 as depicted in the table. Overall, the growth in the life subsector has consistently out-grown the non-life sub-sector. The
+growth in the life businesses is attributed to high rate of product
+innovation and development in the life sub-sector which has
+shifted the focus of life policies from policies to cover for death
+to include includes endowment, funeral and other policies which
+serves as savings plans for policy holders.
+In analyzing the investment portfolio of the industry over
+a snap shot period from 2010 to 2011, Table 2.2 shows that
+both life and non-life businesses has more short-term investments compared to their long-term investments. Life businesses
+however held more short investments compared to long-term
+
+6 Currently known as Enterprise Insurance Company Limited.
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+85
+
+Table 2.1
+Premium growth by insurance sub-sectors (2003–2011).
+Years
+
+Life (% of gross premiums)
+
+Growth rate (%)
+
+Non-life (% of gross premiums)
+
+Growth rate (%)
+
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+
+19.88
+24.11
+25.57
+30.24
+32.23
+32.79
+35.65
+40.89
+42.99
+
+–
+57.4
+40.1
+58.7
+38.7
+35.1
+34
+53.2
+44.2
+
+80.12
+75.96
+74.51
+69.85
+67.77
+67.21
+64.35
+59.11
+57.01
+
+–
+29.7
+32.1
+34.2
+28.2
+31.6
+18
+22.6
+32.3
+
+Source: National Insurance Commission (2003–2011).
+
+investments. Most of the life long-term investments are held
+in equity securities, with investments in listed companies
+accounting for 61.03% and 41.47% of long-term investments
+in 2010 and 2011 respectively whereas equity investments in
+non-listed firms accounts for 28.43% and 19.11% in 2010 and
+2011, respectively. With respect to short-term investments, both
+life and non-life businesses also hold more in treasury bills and
+fixed deposits.
+The life insurance sub-sector has more short-term investments compared to their long-term investments. This implies
+indicates while they may be more liquid in the short term,
+the sustainability of the business in the long term could be
+endangered due inadequate long-term investments to cater for
+the long-term liabilities commonly associated with the business
+structure. Comparing investment across both sectors, while nonlife businesses hold longer-term investments compared to life
+businesses, the life business had more short-term investments
+compared to the non-life sub-sector.
+Fig. 2.1 examines the trend of aggregate insurance penetration, life insurance penetration and non-life from 1990 to 2010.
+All the three indicators of insurance activity in Ghana exhibTable 2.2
+Investment structure of insurance industry (2010–2011).
+Life
+
+Non-life
+
+2011
+
+2010
+
+2011
+
+2010
+
+Quoted shares (%)
+Unquoted shares (%)
+Government bonds (%)
+Others (%)
+Corporate bonds (%)
+Short-term investmentsb
+Treasury bills (%)
+Fixed deposits (%)
+Call accounts (%)
+Unit trusts (%)
+Bonds (%)
+
+41.57
+19.11
+26.12
+5.19
+8.00
+
+61.03
+28.43
+4.64
+5.61
+0.30
+
+57.13
+40.17
+1.02
+1.68
+
+81.04
+14.46
+1.45
+1.87
+1.17
+
+17.95
+80.74
+–
+0.01
+1.31
+
+18.58
+79.24
+1.71
+0.48
+–
+
+51.97
+47.20
+0.67
+–
+0.15
+
+41.31
+56.48
+0.57
+–
+1.64
+
+Long-term investments (% of TI)
+Short-term investments (% of TI)
+
+36.55
+63.45
+
+30.33
+69.67
+
+42.08
+57.92
+
+47.08
+52.92
+
+Long-term investmentsa
+
+Source: Author’s Computation from NIC (2011) report.
+TI represents total investments (short-term and long-term investments).
+a All figures are expressed as percentage of long-term investments.
+b All figures are expressed as percentage of short-term investments
+
+ited a rising trend with some breaks which points to existence
+underwriting cycles.7 Table 2.3 depicts insurance penetration in
+six (6) selected African countries from 2005 to 2010. With the
+exception of South Africa, insurance penetration in the other
+African countries remains very low. Insurance premiums in
+South Africa averaged 13.146% of its gross domestic product from 2005 to 2010 making South Africa the country with
+one of the highest insurance penetration in the world. Ghana
+lags behind with insurance penetration accounting for less than
+one percent of its gross domestic product over the 6-year
+period.
+3. Theoretical review of ﬁnance-growth nexus
+Theoretical literature has proposed three schools of thought
+on the transmission mechanism between finance and growth.
+The first school of thought known as the ‘demand-following’
+hypothesis posits that the growth in the real economy stimulates the demand for financial services and that an expanding
+economy creates the demand for financial services (Robinson,
+1952; Romer, 1990). As real income rises, households and firms
+demand for financial services increases, hence the development
+of the financial sector through the creation financial assets and
+liabilities.
+However, ‘supply-leading’ hypothesis argues that well developed financial markets provides avenue for efficient utilization
+of funds from surplus spending units to deficit spending units
+to propel growth (Patrick, 1966). Through financial systems,
+the cost of acquiring information is reduced to ensure effective
+allocation of resources.8 This would enable easy access to information on the performance of investment portfolios, facilitate
+funds transfer between deficit and surplus spending units and
+risk diversification. These functions of financial systems help to
+maximize resource usage, leading to increased investments and
+growth. The third school of thought, known as the “feedback”
+hypothesis posits that causality runs from both directions. It is
+argued that well-developed financial systems promote economic
+
+7 The underwriting cycle refers to periods of high and low supply of insurance
+services.
+8 The ability of investors to invest in profitable firms depends largely on their
+access to good information about market conditions. This information is costly
+for individual investors to access without financial markets.
+
+86
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+1990
+
+19 95
+
+20 00
+
+INSURANCE PENETRATION
+NON-LIF E INSURANCE PEN ET RATION
+
+20 05
+
+2010
+
+LIFE INSURANCE PENETRATION
+
+Fig. 2.1. Insurance penetration in Ghana (1990–2010).
+Source: Author’s Computation based on GFD Database, 2013.
+Table 2.3
+Insurance penetration in selected African countries (2002–2010).
+
+Cote D’ Ivoire
+Ghana
+Malawi
+Nigeria
+Tunisia
+South Africa
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Average
+
+1.207
+1.264
+1.476
+0.538
+1.409
+12.315
+
+1.212
+0.878
+1.517
+0.508
+1.476
+14.193
+
+1.239
+0.905
+1.658
+0.504
+1.491
+13.087
+
+1.346
+0.922
+1.757
+0.638
+1.489
+13.491
+
+1.325
+0.933
+2.005
+0.754
+1.484
+14.195
+
+1.433
+0.563
+1.052
+0.682
+1.663
+11.595
+
+1.294
+0.911
+1.578
+0.604
+1.502
+13.146
+
+Source: Author’s Computation based on GFD database, 2013.
+
+expansion through technological changes, product and services
+innovation (Schumpeter, 1912) which stimulates demand for
+financial services (Levine, 1997). In responding to the demands
+for financial services, growth is also enhanced resulting in the
+feedback causality (Luintel and Khan, 1999).
+The insurance industry, as a financial intermediary, provides
+risk management services to businesses and household. Through
+this function, funds mobilized on premium generation are made
+available to other agents of the financial system for investments
+purposes. Additionally, the risk management functions of insurance business ensure business continuity which is necessary to
+promote enterprise and business growth. However, growth in
+real economy could also have direct impact on insurance consumption. Higher incomes and profits by businesses will tend
+to stimulate their demand for insurance products. As individual
+earn higher salaries through economic expansion, their ability to
+purchase insurance products is enhanced. For businesses, as the
+growth in the real economy leads to greater expansion in their
+operations, so does their risk levels increases. Hence, the need
+for risk transfers in the form insurance consumption.
+
+3.1. Insurance-growth nexus: related studies
+The application of the finance-growth nexus to insurance
+data has received scant attention in empirical literature. Ward
+and Zurbruegg (2000) examined the insurance-growth nexus for
+OECD countries from 1961 to 1996. Through cointegration analysis, uni-directional causality was found to run from insurance
+consumption to economic growth in Canada and Japan whereas
+
+a weaker bi-directional relationship was found for Italy. There
+was however no evidence of causality for the other countries.9
+However, Kugler and Ofoghi (2005) find a long-run relationship between insurance market development and economic
+growth for most components using Johansen’s cointegration
+tests. The author’s analysis was based premium classification
+for all business lines. This result was inconsistent with Ward and
+Zurbruegg (2000) which the authors attributed to an aggregation
+problem.
+Arena (2008) in examining the causality between insurance
+consumption and economic growth employed the generalized
+method of moments (GMM) on a panel data of 55 countries
+from 1976 to 2004. The author finds that insurance consumption
+to have significant positive causal effect on economic growth
+to be driven by high-income countries for life insurance consumption whereas non-life insurance consumption was caused
+by both high-income and developing countries drive the results.
+In examining the historical relationship between bank lending,
+insurance and growth in Sweden using annual time-series data
+from 1830 to 1998, Adams et al. (2009) conclude that insurance
+consumption granger caused both economic growth and bank
+lending which could be attributed to capital accumulation.
+Han et al. (2010) analyzed the effect of insurance consumption on economic growth on a dataset of 77 developing and
+developed countries from 2004 to 2005. By separating aggregate insurance penetration into life and non-life density, they
+estimated a system GMM with both developing and devel-
+
+9 Australia, Austria, France, Switzerland, UK and USA.
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+oped country samples. They found the coefficients of insurance
+density (life and non-life) to be significantly higher for developing countries compared to developed countries underlying the
+importance of insurance to growth in developing countries. By
+employing panel cointegration techniques, Lee (2011) examined
+the relationship between insurance consumption and growth
+for selected OECD countries from 1979 to 2006. The author
+finds bi-directional long-run and short-run relationship between
+insurance consumption and economic growth. However, by
+disaggregating insurance consumption into life and non-life
+insurance consumption, non-life penetration was found to have
+greater impact on growth compared to life insurance penetration.
+Azman-Saini and Smith (2011) also employed a panel data
+on 51 developed and developing countries from 1981 to 2005
+to examine the impact of insurance market development on
+economic growth. The authors found that a positive relationship between insurance development and economic growth
+which they explained is transmitted through improvements
+in productivity for developed countries whereas the channel
+for developing countries was through capital accumulation for
+investments. Horng et al. (2012) employed the Vector Autoregressive on Taiwanese data from 1961 to 2006 to examine
+the insurance-growth nexus by testing the demand-following
+hypothesis versus supply-leading hypothesis. The authors found
+short-run causality running from economic growth to insurance demand to support the ‘demand-following’ hypothesis. In
+employing the returns on insurers stock to proxy for insurance
+market activity, Zhou et al. (2012) examined the linkage between
+insurance penetration and economic growth as well as how law
+environment and governance quality moderates the insurancegrowth nexus. Through a dynamic panel estimation, the authors
+find that well defined law environment and governance quality improves the impact of insurance penetration in promoting
+economic growth with the effect more pronounced in developed
+markets than developing markets. Their results also support that
+the supply leading hypothesis.
+More recently, Chang et al. (2013) applied the bootstrap panel
+Granger causality test in investigating the link between insurance penetration and economic growth for 10 OECD countries10
+from 1979 to 2006. Evidence of uni-directional causality running from insurance to growth was found for some countries11
+with causality from growth to insurance also found for Canada,12
+Italy13 and the USA.14 Bi-directional causality was only found
+for USA with no evidence of causality found for Belgium,15
+Canada,16 Italy17 and Sweden.18 Ghosh (2013) also examined
+the insurance-growth nexus from the life insurance penetration
+
+10 France, Japan, Netherlands, Switzerland, UK, Canada, Italy, USA, Sweden
+and Belgium.
+11 For France, Japan, Netherlands, Switzerland, and UK.
+12 From only life insurance penetration to growth.
+13 From total and life insurance penetration.
+14 From aggregate and non-life insurance.
+15 For all forms of insurance (aggregate, life and non-life insurance).
+16 Aggregate and non-life insurance consumption.
+17 Non-life insurance consumption.
+18 Life insurance consumption.
+
+87
+
+in India to establish long-run causal relationships. By employing vector autoregressive model, the author finds the existence
+of level relationship between life insurance penetration and economic growth as well as a uni-directional causality running from
+life insurance penetration to economic growth.
+In a survey of 85 on the insurance-growth nexus, Outreville
+(2013) identified 15 studies that explored the causal link between
+insurance penetration and economic growth with most of the
+studies applying a panel data analysis. The few time series studies were carried on in insurance markets in UK, Singapore,
+Sweden and Malaysia. In summary, both theory and empirical
+studies remain inconclusive on the direction of causality between
+finance and economic growth, more so on the relationship
+between insurance and economic growth which has received
+little attention especially in Africa. Against this backdrop, this
+paper contributes to existing literature by examining the causality between insurance penetration and economic growth from a
+developing country’s perspective. This study adds to scant literature on the insurance-growth nexus by finding an answer to the
+question, is insurance market development in Ghana ‘demandfollowing’ or ‘supply-leading’ or both?
+4. Methodology
+4.1. Data
+This study employs annual time-series data on aggregate,
+life and non-life insurance penetration, GDP growth, trade volume, gross fixed capital formation and consumer price index
+as a proxy for inflation from 1990 to 2010. Data on insurance
+penetration were sourced from the global financial development database (GFDD) from the World Bank website while the
+other macroeconomic variables were sourced from the world
+development indicators (WDI) database. The study period was
+influenced by the starting period for the data on the insurance
+penetration from 1990 in the database.
+4.2. Empirical model
+In estimating the empirical relationship between insurance
+penetration and economic growth in Ghana, the linear timeseries model of Han et al. (2010), Horng et al. (2012) and
+Ghosh (2013) was used. The control variables namely gross capital formation,19 inflation and trade volume were adopted from
+Adjasi and Biekpe (2006) and Enisan and Olufisayo (2009) studies on stock market development and economic growth in Africa.
+The three variables were used as control since their omission
+could bias the results of the causality and cointegration analysis and lead to simultaneity bias (Gujarati, 1995). Inflation is
+employed because of its role in influencing aggregate demand.
+Trade, which captures openness of an economy, is important
+in stimulating growth through the extension of the market, the
+
+19 Gross capital formation used instead of gross fixed capital formation as
+employed by Adjasi and Biekpe (2006) due data unavailability for Ghana over
+the study period.
+
+88
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+Table 4.1
+Variables description.
+Variables
+
+Measurement
+
+Symbol
+
+Economic growth
+Insurance penetration
+Life insurance
+penetration
+Non-life insurance
+penetration
+Investments
+Inflation
+Trade
+
+log(GDPt )
+log(total insurance premium/GDP)
+log(life insurance premium/GDP)
+
+growth
+ln ip
+ln lip
+
+log(non-life insurance premium/GDP)
+
+ln nlip
+
+log(gross capital formation)
+log(CPIt )
+log(exports + imports)/GDP
+
+ln gcap
+inf
+ln trd
+
+labour division improved and the productivity increased. Gross
+capital formation reflects the stock of wealth accumulation for
+investments to enhance economic growth.
+The functional form of the model is specified below
+growtht = β IPt + γXt + εt
+
+(1)
+
+where growtht is economic growth in year t, IPt is the insurance
+penetration (further decomposed into life and non-life insurance
+penetration) in year t, X is a vector of controls (gross capital
+formation, inflation and trade) and εt is a disturbance term. The
+variables in Eq. (1) are transformed by their logarithm to make
+for easy interpretation of regression coefficients in standardized
+form of percentage to form Eq. (2).
+growtht = α0 + α1 ln ipt + α2 ln gcapt + α3 ln ft
++ α4 ln trdt + εt
+
+(2)
+
+According to Kugler and Ofoghi (2005), the risk transfer
+and indemnification functions of insurance is captured by its
+non-life component whereas the financial intermediation aspect
+is reflected in the life insurance business. The components of
+aggregate insurance are thus used to model Eqs. (3) and (4)
+below to capture their respective relationships with economic
+growth.
+growtht = β0 + β1 ln lipt + β2 ln gcapt + β3 inft
++ β4 ln trdt + ∈ t
+
+(3)
+
+growtht = α0 +
+
+p
+
+
+θi growtht−1 +
+
+p
+
+
+i=1
+
++
+
+p
+
+
+πi  ln gcapt−1 +
+
+i=0
+
++
+
+p
+
+
+μi  ln ipt−1
+
+i=0
+p
+
+
+δi inft−1
+
+i=0
+
+ϕi  ln trdt−1 + λ0 growtht−1
+
+i=0
+
++ λ1 ln ipt−1 + λ2 ln gcapt−1 + λ3 inft−1
++ λ4 ln trdt−1 + εt
+
+(5)
+
+where  is the difference operator while εt is white noise error
+term. The level relationships between the model variables can
+be conducted based on the F-statistic by imposing restrictions
+on the estimated long-run coefficients of one period lagged level
+of the variables equal to zero, stated below as:
+H0 : λ0 = λ1 = λ2 = λ3 = λ4 = 0,
+
+No level relationship
+
+Against the alternative hypothesis as:
+
+growtht = γ0 + γ1 ln nlipt + γ2 ln gcapt + γ3 inft
++ γ4 ln trdt + μt
+
+the bounds approach to cointegration to relatively small sample sizes.20 Although the ARDL of Pesaran et al. (1996, 2001)
+does not require any order of integration since the procedure is
+suitable for either I(0) or I(1) or mixed integration (Pesaran and
+Pesaran, 1997), the presence of I(2) makes the ARDL unsuitable
+for such series. Hence in order to test for the stationarity of the
+variables to make sure the series are free of I(2) variables, the
+study employed the Augmented Dickey-Fuller (DF) (1979) test
+and the Phillips-Perron (PP) (1988) test. The null hypotheses in
+both the ADF and the PP tests are that the series is unit root. To
+reject the null hypotheses, the computed test statistics should be
+greater than the critical value. The key focus of the PP test is the
+modification of the t-ratio so that the asymptotic distribution of
+the test statistic is not affected by serial correlation.
+Under the bounds test, the asymptotic distribution for the Fstatistic is non-standard under the null hypothesis of no level
+relationship between the variables. The null hypothesis of no
+level relationship is rejected if the F-statistic is higher than the
+upper boundary I(1). With respect to Eq. (1), the ARDL framework for examining the insurance-growth nexus is specified as
+
+(4)
+
+where εt , ∈t and ␮t are the error terms for Eqs. (2), (3) and (4),
+respectively. The description of the model variables is presented
+in Table 4.1.
+4.3. Unit root and ARDL cointegration test
+In testing for level relationship, the autoregressive distributed
+lag (ARDL) bounds test proposed by Pesaran et al. (1996,
+2001) was employed to primarily deal with the small sample
+size used in the study which makes it impossible to use other
+cointegration procedures of Johansen and Juselius (1990) and
+Johansen (1991). The employment of the ARDL technique is
+well grounded on several empirical studies that have applied
+
+H0 : λ0 =
+/ λ1 =
+/ λ2 =
+/ λ3 =
+/ λ4 =
+/ 0,
+
+Level relationship
+
+The resulting F computed is compared with the simulated
+critical values from Narayan (2005) generated specifically for
+such a small sample data employed in this study. If the computed F statistics is below the lower bound value I(0), the
+null hypothesis of no level relationship cannot be rejected.
+However, the computed F statistics is higher than the upper
+bound value I(1), the null hypothesis of no level relationship is
+rejected implying that economic growth and its determinants are
+
+20 Pattichis (1999) – 20 observations, Mah (2000) – 17 observations, Narayan
+and Smyth (2004) and Narayan (2004) – 31 observations, Tang and Nair (2002)
+and Narayan and Narayan (2004) – 29 observations, and Enisan and Olufisayo
+(2009) – 24 observations.
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+89
+
+Table 5.1
+Descriptive statistics.
+
+Mean
+Median
+Maximum
+Minimum
+Std. Dev.
+Skewness
+Kurtosis
+Jarque–Bera
+Probability
+
+growth
+
+ip
+
+lip
+
+nlip
+
+gcap
+
+inf
+
+trade
+
+0.047
+0.045
+0.081
+0.032
+0.012
+1.202
+4.354
+6.341
+0.042
+
+0.761
+0.798
+1.264
+0.432
+0.254
+0.312
+1.945
+1.252
+0.535
+
+0.153
+0.100
+0.333
+0.053
+0.107
+0.533
+1.594
+2.593
+0.273
+
+0.607
+0.607
+0.943
+0.379
+0.169
+0.479
+2.150
+1.365
+0.505
+
+9.254
+9.179
+9.791
+8.912
+0.252
+0.732
+2.481
+2.008
+0.366
+
+0.202
+0.171
+0.467
+0.096
+0.100
+1.150
+3.725
+4.845
+0.089
+
+0.759
+0.719
+1.161
+0.402
+22.013
+0.154
+2.012
+0.892
+0.640
+
+Note: growth = log(GDPt ), ln ip = log(total insurance penetration/GDP), ln lip = log(life insurance penetration/GDP), ln nlip = log(non-life insurance penetration/GDP). ln trd = log(trade/GDP), ln gcap = log(gross capital formation), inf = log(CPIt ).
+
+cointegrated, hence long-run equilibrium. The test of level relationship is inconclusive if the F statistics lies between the lower
+and upper bound values. After providing evidence of level
+relationship, both long run and short run error correction are
+estimated based on the specification below:
+growtht = α0 +
+
+m
+
+
+ω1 growtht−1 +
+
+i=1
+
++
+
+z
+
+
+q
+
+
+5. Results and discussion
+
+ω2 ln ipt−1
+
+i=0
+
+ω3 ln gcapt−1 +
+
+p
+
+
+ω4 inft−1
+
+i=0
+
+i=0
+
++
+
+n
+
+
+ω5 ln trdt−1 + μt
+
+(6)
+
+i=0
+
+growtht = α0 +
+
+m
+
+
+ω1 growtht−1 +
+
+i=1
+
++
+
+z
+
+i=0
+
++
+
+q
+
+
+correlation problems as well the sample size bias. Based on
+Pesaran and Pesaran (2009), we employ the Parzen lag window
+over Bartlett and Turkey lag windows in the estimation of the
+FMOLS.
+
+ω3  ln gcapt−1 +
+
+n
+
+
+ω2  ln ipt−1
+
+i=0
+p
+
+
+ω4 inft−1
+
+i=0
+
+ω5  ln trdt−1 + υt ECTt−1 + μt
+
+Presented in Table 5.1 is a descriptive of the variables used
+in the regression model. Over the study period, the aggregate
+average insurance penetration was 0.7605% indicating that the
+contribution of the insurance sectors in terms of premium mobilization was less than 1% of gross domestic product. This is
+predominantly driven by non-life insurance consumption which
+accounted for 0.6071% of gross domestic product whereas the
+life sector accounted for a meagre 0.1534%. This implies that
+the non-life business drives the insurance industry in Ghana by
+accounting for about 80% of gross insurance premiums. Also
+presented is the descriptive statistics of control variables with
+average economic growth rate of 4.7% within a range of 3.2%
+and 8.1%.
+
+(7)
+
+i=0
+
+where μt the error is term and υt represents the coefficient of the
+error correction term ECTt−1 which is the speed of adjustment
+into long-run equilibrium from the short run. The presence of
+cointegration from the bounds test results indicates that causality
+exists at least in one direction (Engle and Granger, 1987). Therefore, causality test is performed within the vector error correction
+model (VECM) framework to examine the causal relationship
+between insurance penetration and economic growth.
+The fully modified ordinary least squares (FMOLS) estimation of Phillips and Hansen (1990) was also employed
+in providing robustness to the ARDL estimation as well as
+its suitability for small sample data as employed in this
+study. The FMOLS method developed by Phillips and Hansen
+(1990) is for the estimation of long-run estimates of I(1)
+variables. The FMOLS21 deals with endogeneity and serial
+21 For the mathematical modelling of the FMOLS, see Phillips and Hansen
+(1990).
+
+Table 5.2
+ADF test and PP unit root tests.
+Variables
+
+T-statistic
+I(0)
+
+growth
+ln ip
+ln lip
+ln nlip
+ln gcap
+inf
+ln trd
+
+I(1)
+
+ADF
+
+PP
+
+ADF
+
+PP
+
+−0.359
+−1.462
+0.191
+−1.632
+0.209
+−2.680*
+−1.959
+
+−0.323
+−1.463
+0.080
+−1.588
+0.491
+−2.810*
+−1.961
+
+−4.074***
+−3.755**
+−4.252***
+−5.003***
+−5.801***
+−5.025***
+−3.872***
+
+−3.930***
+−3.780**
+−4.256***
+−4.991***
+−5.631***
+−5.096***
+−3.905***
+
+growth = log(GDPt ),
+ln ip = log(total
+insurance
+penetration/GDP),
+ln lip = log(life insurance penetration/GDP), ln nlip = log(non-life insurance penetration/GDP), ln trd = log(trade/GDP), ln gcap = log(fixed capital
+formation), inf = log(CPIt ). The asterisks indicate the rejection of the null
+hypothesis of unit root.
+* Significance at 10%.
+** Significance at 5%.
+*** Significance at 1%.
+
+90
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+Table 5.3
+Bounds results for level relationship.
+k=4
+
+90%
+I(0)
+2.3224
+
+F-stat
+FG (G/(ln ip, ln gcap, inf, ln trd))
+FG (G/(ln lip, ln gcap, inf, ln trd))
+FG (G/(ln nlip, ln gcap, inf, ln trd))
+
+95%
+I(1)
+3.6294
+
+I(0)
+2.9872
+
+I(1)
+4.5385
+
+10.279***
+11.312***
+6.652***
+
+Note: G = log(GDPt ), ln ip = log(total insurance penetration/GDP), ln lip = log(life insurance penetration/GDP), ln nli = log(non-life insurance penetration/GDP),
+ln trd = log(trade/GDP), ln gcap = log(fixed capital formation), inf = log(CPIt ). I(0) and I(1) represent lower and upper bounds, respectively. Critical values are
+extracted from Narayan (2005); k is number of regressors.
+*** Rejection of null hypothesis of no cointegration relationship at 1%.
+Table 5.4
+Long run estimates.
+Dependent variable: economic growth
+Autoregressive distributed lag (ARDL)
+Model 2
+ln ip
+ln lip
+ln nlip
+ln gcap
+inf
+ln trd
+Constant
+
+Model 3
+
+Fully modified ordinary least squares (FMOLS)
+Model 4
+
+Model 2
+
+0.068***
+
+Model 4
+
+0.063*
+0.025***
+
+0.005***
+−0.014
+−0.022***
+−0.048*
+
+Model 3
+
+0.003***
+−0.018**
+−0.007**
+−0.04
+
+0.019*
+0.045**
+0.007***
+−0.017
+−0.030***
+−0.055 *
+
+0.035***
+−0.016
+−0.784**
+−0.076
+
+0.009
+−0.012
+−0.027*
+0.034
+
+0.031*
+0.030***
+−0.008
+−0.047**
+−0.161***
+
+growth = log(GDPt ), ln ip = log(total insurance penetration/GDP), ln lip = log(life insurance penetration/GDP), ln nli = log(non-life insurance penetration/GDP).
+ln trd = log(trade/GDP), ln gcap = log(fixed capital formation), inf = log(CPIt ). ARDL(1,1,0,0,1) selected for Model (1), ARDL(1,1,0,0,1) for (2) and
+ARDL(1,0,0,0,0) for Model (3) based on the Schwarz Bayesian Criterion. FMOLS estimation was based on the Parzen lag window.
+* Significance at 10%.
+** Significance at 5%.
+*** Significance at 1%.
+
+5.1. Unit root and bound test results
+The ADF test and the PP unit root tests results at levels I(0)
+and first differenced I(1) are presented in Table 5.2. The results
+indicate that all the variables exhibit unit root per the ADF and
+PP tests at I(0) except inflation albeit at only 10%. At I(1) in both
+ADF and PP tests, all the variables are stationary at 1% except
+aggregate insurance penetration which is stationary at 5%.
+The ARDL bounds cointegration test results are presented
+in Table 5.3. The computed F statistics for all the three models are greater than I(1), hence the null hypothesis of no
+level relationship is rejected to imply the existence of long-run
+level relationship between insurance penetration and economic
+growth. This is consistent with the findings of Ward and
+Zurbruegg (2000), Kugler and Ofoghi (2005), Arena (2008),
+Adams et al. (2009) and Han et al. (2010) in examining the
+insurance-growth nexus whereas N’Zue (2006) and Odhiambo
+(2007) also found long-run relationship between other forms
+financial development and growth in a sample of African
+countries.
+The results of the bounds test results provides evidence of
+a causal link22 between insurance penetration and economic
+
+22 According to Engle and Granger (1987), causality must exist in at least one
+direction if there is evidence of long-run relationship.
+
+growth in Ghana and that any distortions in the short-run is
+corrected for an error correction term in the long-run.
+5.2. Long run estimates
+From Table 5.4 the long-run estimates in the ARDL estimation, aggregate insurance penetration was found to have
+significant positive relationship with economic growth at 1%.
+The coefficient of 0.068 implies that a percentage increase in
+insurance penetration will lead to a 0.068% growth in the real
+economy. For the FMOLS estimation, the positive long-run relationship between aggregate insurance penetration and economic
+growth was significant at 10% with a coefficient of 0.063. This
+result imply that through its function of savings mobilization
+and risk transfer, insurance markets stimulates growth in the
+real economy in the long-run. This result is consistent with
+the findings of Azman-Saini and Smith (2011) who found the
+transmission from insurance penetration to economic growth in
+developing countries results through capital accumulation.
+Although both life and non-life insurance penetration have
+significant long-run positive impact on growth at 1% in the
+ARDL models 2 and 3 respectively, the non-life insurance penetration was found to have greater long-run impact on economic
+growth as indicated by the coefficient of 0.045 for the non-life
+model compared to the coefficient of 0.025 in the life model. In
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+91
+
+Table 5.5
+Short-run error correction models.
+Dependent variable: economic growth
+Model 2
+ln ip
+ln lip
+ln nlip
+ln gcap
+inf
+ln trd
+ECTt−1
+Model diagnostics
+F statistics
+R-squared
+Adj. R-squared
+DW stat
+AR: F
+FORM: F
+HET: F
+Chow: F
+
+Model 3
+
+Model 4
+
+0.024 [1.967]*
+−0.4075 [−1.301]
+0.044 [5.584]***
+−0.028 [−1.425]
+−0.052 [−2.323]**
+−0.6271 [−4.495]***
+
+−.0767 [−1.327]
+0.2249 [0.832]
+−1.6883 [−3.057]***
+−0.6568 [−4.426]***
+
+0.104 [3.640]***
+0.0317 [5.303]***
+−0.0127 [−0.532]
+−0.1044 [−4.156]***
+−0.5150[−7.169]***
+
+35.683***
+0.9225
+0.8772
+2.645
+0.1375 (0.717)
+2.075 (0.175)
+0.5381 (0.473)
+0.24599 (0.933)
+
+35.373***
+0.9279
+0.8819
+1.927
+2.0419 (0.187)
+0.5193 (0.489)
+0.4642 (0.505)
+0.4807 (0.783)
+
+13.279***
+0.7798
+0.7211
+2.3818
+0.8201 (0.383)
+0.0026 (0.960)
+0.1932 (0.665)
+0.3085 (0.898)
+
+Note: T-ratios are in squared brackets and P values in parentheses. DW = Durbin Watson statistics, AR = autocorrelation test, FORM = functional form,
+HET = heteroskedasticity test, Chow = Chow’s 2nd test of predictive failure.
+* Significance at 10%.
+** Significance at 5%.
+*** Significance at 1%.
+
+the FMOLS estimation, both life and non-life insurance penetration had significant positive relationship with economic growth
+at only 10%. In line with the ARDL estimation, the coefficient of
+non-life insurance penetration was higher compared to life insurance penetration. This implies that for every premium generated
+on writing both life and non-life insurance business, funds mobilized from non-life insurance activities translates into higher
+economic growth compared to funds generated from life insurance activities in the long-run. This study postulates that the high
+level of long-term investments23 by non-life companies compared to life companies accounts for the differences. By this, the
+non-life insurance consumption has taken over the long-term
+capital accumulation functions of the life insurance consumption in Ghana. The high non-life insurance penetration compared
+to the life insurance penetration also explains why non-life business has greater impact on economic growth compared to the life
+business.24
+Gross capital formation was found to have significant positive
+relationship with economic growth under both the ARDL and
+FMOLS estimations. Inflation was negatively related to growth
+but only significant in model 2 at 5% under ARDL. Trade was
+also negatively related to economic growth at significance levels
+ranging between 5% and 1% in the ARDL estimations and significant at 5% models 1 and 3 and 10% in model 2 under FMOLS.
+The negative relationship between economic growth and trade
+is consistent with the findings of Adjasi and Biekpe (2006) in a
+panel study on selected Sub-Saharan African countries.
+
+23 Table 2.2 shows that non-life businesses hold more long-term investments
+compared to life businesses.
+24 Similar results are also found by Ward and Zurbruegg (2000), Beck and
+Webb (2002) and Lee (2011).
+
+5.3. Short run estimates and diagnostics
+Consistent with the long-run results, aggregate insurance and
+non-life insurance penetration exhibited significant positive relationship with economic growth in the short-run at 10% and 1%
+respectively. However, life insurance penetration exhibited negative but insignificant relationship with growth in the short run.
+Gross capital formation exhibited significant positive relationship with growth at 1% with coefficients of 0.044 and 0.0317
+in models 2 and 4 respectively. Although both inflation and
+trade volume had negative relationship with growth in the short
+run, only trade volume exhibited statistical significance. The
+coefficients of ECTt−1 are all negative and significant at the
+1% level. Short-run disequilibrium is corrected in the long run
+equilibrium at a rate of 62.71% in the following period in the
+model with aggregate insurance penetration (model 2). However, the model with non-life insurance penetration (model 4)
+achieves slower convergence to long-run equilibrium at a rate of
+51.50% compared to the model with life insurance penetration
+(model 3) which converges to long-run equilibrium at a rate of
+65.68%. This indicates that life insurance translates into faster
+economic growth compared to non-life insurance in the long-run
+(Table 5.5).
+All the estimated short-run elasticities were subjected to diagnostics test for the reliability of the estimated coefficients under
+both the Langrange multiplier (LM) version and F-version tests.
+Although both versions of the test have the same asymptotic
+distribution, the F version is preferred to the LM version in
+small samples on the basis of Monte Carlo simulations (Pesaran
+and Pesaran, 1997). As applied by Pattichis (1999) to a small
+sample (20 observations), the F version was reported in this
+study. At a 5% significance level, the F-test gives no evidence of serial correlation, functional form misspecification and
+
+92
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+Table 5.6
+Granger causality within VECM.
+Null hypothesis
+
+χ2
+
+Decision on H0
+
+ln lip does not granger cause growth
+ln lip does not granger cause growth
+ln nlip does not granger cause growth
+growth does not granger cause ln lip
+growth does not granger cause ln lip
+growth does not granger cause ln nlip
+
+7.715***
+
+Reject
+Reject
+Reject
+Do not reject
+Do not reject
+Do not reject
+
+4.499**
+6.018**
+2.181
+0.0015
+0.502
+
+run from life and non-life insurance penetration to economic
+growth. These results imply that developments of insurance
+markets promote economic growth in Ghana through the accumulation of funds (Azman-Saini and Smith, 2011), risk transfer
+and indemnification to support the ‘supply-leading’ hypothesis. These results are also in conformity with the findings of
+N’Zue (2006) and Odhiambo (2007)30 and Ahmed and Wahid
+(2011) that finance-growth nexus in some African countries is
+‘supply-leading’.
+
+** Significance at 5%.
+*** Significance at 1%.
+
+heteroskedasticity. Additionally, since the small sample size and
+the number of explanatory variables employed could impact on
+the predictive ability of the models, the Chow’s (1960) second
+test for predictive failure was examined to test the predictive
+ability of the regression models. From the model diagnostics,
+the insignificance of the F-test provides evidence no structural
+breaks which affirms the predictive adequacy of all models.
+Chow’s (1960) forecast test25 test of parameter constancy also
+supports the Chow’s test results.
+Further stability tests using the cumulative sum of recursive
+residuals (CUSUM) and cumulative sum of squares of recursive residuals (CUSUMQ) plots of Brown et al. (1975) for the
+three models are shown in Appendix Fig. A1. The movements of
+the CUSUM or CUSUMSQ outside the critical lines of 5% significance level denotes parameter instability. As depicted in the
+graphs (Appendix Fig. A1), since both CUSUM and CUSUMSQ
+lie within the 5% critical lines, the model coefficients are stable. All the F statistics are significant at 1% and adjusted
+R-squared’s of 0.8772, 0.8819 and 0.7211 for models 2, 3 and
+4 respectively imply that higher variations in growth are significantly explained by the models estimated. A correlation
+matrix attached as appendix (Table A2) indicates the absence
+of multicollinearity.26
+5.4. Causality test
+Table 5.6 presents the results of testing of the ‘demandfollowing’ and ‘supply-leading’ hypotheses. The null hypothesis
+of insurance penetration does not “granger-cause” economic
+growth is rejected at 1% for aggregate insurance and 5% for
+both life and non-life insurance. However, the null hypothesis of economic growth does not “granger-cause” insurance
+penetration cannot be rejected. This indicates a uni-directional
+short-run causality from aggregate insurance penetration to economic growth in Ghana. This is in line with the findings of Ward
+and Zurbruegg (2000),27 Adams et al. (2009), Lee (2011) and
+Chang et al. (2013).28 Consistent with Chang et al. (2013),29
+and Ghosh (2013) uni-directional causality is also concluded to
+25 The test results are available on request.
+26 According to Kennedy (2008), the correlation coefficient of less than 0.70
+does not reflect multicollinearity.
+27 Canada.
+28 France, Japan, Netherlands, Switzerland, and UK.
+29 France, Japan, Netherlands, Switzerland, and UK.
+
+6. Conclusion and policy implications
+This paper examined the causal relationship between insurance penetration and economic growth in Ghana on an annual
+time series data from 1990 to 2010. Due to the small sample
+size, the ARDL bounds approach to cointegration by Pesaran
+et al. (1996, 2001) was employed to test for the existence of
+long-run relationship between insurance penetration and economic growth. The bounds test found a cointegrated relationship
+between economic growth and insurance penetration in Ghana
+re-enforcing the importance of insurance activities in stimulating
+economic growth in the long run through capital accumulation.
+The FMOLS was also employed to test for the robustness for
+the long-run relationships because of its reliability and robustness for small sample data. Consistent across both estimation
+techniques, aggregate insurance penetration was found to have
+positive long-run relationship with economic growth. While
+both life and non-life insurance penetration exhibited positive
+long-run relationships with economic growth, non-life insurance
+penetration was found to have had a greater impact on economic
+growth compared to life insurance penetration. Disequilibrium
+in the short-run model with aggregate insurance penetration
+was corrected at a faster rate as indicated by the error correction term of rate of 62.71%. The speed of adjustment to long
+run equilibrium was 65.68% and 51.50% for models with life
+and non-life insurance penetration respectively. Uni-directional
+causality was found to run from aggregate insurance penetration, life and non-life insurance penetration to economic growth
+to support the ‘supply-leading’ hypothesis. This study thus concludes that development of the insurance sector is an important
+factor in propelling the growth in the real economy. The evidence provided for the ‘supply-leading’ hypothesis makes a
+strong case for researchers to delve into the determinants of
+insurance consumption in developing countries. These factors
+when identified would inform policy decisions on reforms of
+the insurance market to position the industry to drive economic
+growth. We further recommend for strategies aimed at strengthening the regulatory framework of insurance operations. Finally,
+the promotion of educational programmes aimed at creating the
+awareness on the benefits of insurance consumption and consumer interest in insurance should also be the focus of both
+government and regulatory authority. The inherent limitation of
+this study is the small sample size used which limited the ability
+
+30 Found a uni-directional causality from financial development to economic
+growth in Tanzania.
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+of employing other co-integration techniques which requires
+larger sample sizes to provide robustness to the bounds cointegration technique. However, various statistical test carried out
+attest for both the predictive ability and stability of the regression
+coefficients.
+
+93
+
+draft of the paper. The valuable comments of two anonymous
+reviewers as well as Dr. Simon Harvey and Co-Guest Editor Prof.
+Joshua Abor greatly improved the paper. All normal caveats
+apply.
+
+Acknowledgements
+The authors are very grateful for the assistance of Uztarz
+Yazidu and Matthew Ntow-Gyamfi for proof reading an initial
+
+Appendices.
+
+Table A1
+ARDL equation.
+
+growth (−1)
+ln ip
+ln lip (−1)
+ln lip
+ln lip (−1)
+ln nlip
+ln gcap
+inf
+ln trd
+ln trd (−1)
+
+ARDL(1,1,0,0,1)
+Model 2
+
+ARDL(1,1,0,0,1)
+Model 3
+
+ARDL(1,0,0,0,0)
+Model 4
+
+−0.713 (−2.916)***
+0.015 (0.767)
+0.043 (2.401)**
+
+−1.159 (−4.458)***
+
+−0.369 (−1.578)
+
+−0.062 (−0.805)
+0.234 (2.613)**
+0.022 (4.447)***
+−0.023 (−1.048)
+−0.004 (−0.107)
+−0.083 (−2.048)*
+6.43***
+0.7480
+0.6316
+
+F-stat
+R-squared
+R-bar-squared
+
+0.061 (2.461)**
+0.023 (4.241)***
+−0.024 (−0.864)
+−0.095 (−3.057)***
+
+0.017 (4.637)***
+−0.039 (−2.218)**
+0.050 (1.445)
+−0.088 (−2.738)**
+9.19***
+0.8213
+0.7319
+
+5.27***
+0.5842
+0.4734
+
+T-statistics are in parenthesis.
+* Significance at 10%.
+** Significance at 5%.
+*** Significance at 1%.
+
+Table A2
+Correlation matrix.
+
+growth
+ln ip
+ln lip
+ln nlip
+ln gcap
+inf
+ln trd
+
+growth
+
+ln ip
+
+ln lip
+
+ln nlip
+
+ln gcap
+
+inf
+
+ln trd
+
+1.000
+0.335
+0.618***
+0.272
+0.746***
+−0.467**
+0.046
+
+1.000
+0.926***
+0.949***
+0.487**
+−0.402*
+0.446***
+
+1.000
+0.779***
+0.476***
+−0.484**
+0.515**
+
+1.000
+0.366
+−0.366
+0.358***
+
+1.000
+−0.414*
+0.204
+
+1.000
+−0.097
+
+1.000
+
+* Significance at 10%.
+** Significance at 5%.
+*** Significance at 1%.
+
+94
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+Plot of Cumulative Sum of Squares of Recursive Residuals
+
+Plot of Cumulative Sum of Recursive Residuals
+1.4
+
+20
+
+1.2
+1.0
+10
+
+0.8
+0.6
+
+0
+
+0.4
+0.2
+
+-10
+
+0.0
+-0.2
+
+-20
+1991
+
+1996
+
+2001
+
+2006
+
+2009
+
+-0.4
+1991
+
+1996
+
+2001
+
+2006
+
+2009
+
+The straight lines represent critical bounds at 5% significance level
+
+The straight lines represent critical bounds at 5% significance level
+
+Plot of Cumulative Sum of Recursive Residuals
+
+Plot of Cumulative Sum of Squares of Recursive Residuals
+
+20
+
+1.4
+1.2
+1.0
+
+10
+
+0.8
+0.6
+0
+0.4
+0.2
+-10
+
+0.0
+-0.2
+
+-20
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+The straight lines represent critical bounds at 5% significance level
+
+1995
+
+2000
+
+2005
+
+2010
+
+The straight lines represent critical bounds at 5% significance level
+
+Plot of Cumulative Sum of Recursive Residuals
+
+20
+
+-0.4
+1990
+
+1.4
+
+Plot of Cumulative Sum of Squares of Recursive Residuals
+
+1.2
+1.0
+10
+0.8
+0.6
+0
+
+0.4
+0.2
+
+-10
+
+0.0
+-0.2
+
+-20
+1990
+
+1995
+
+2000
+
+2005
+
+The straight lines represent critical bounds at 5% significance level
+
+2010
+
+-0.4
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+The straight lines represent critical bounds at 5% significance level
+
+Fig. A1. Plots of CUSUM and CUSUM square.
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+References
+Adams, M., Andersson, J., Andersson, L.F., Lindmark, M., 2009. Commercial
+banking, insurance and economic growth in Sweden between 1830 and 1998.
+Account. Bus. Financ. Hist. 19 (1), 2138.
+Adjasi, C.K., Biekpe, N., 2006. Stock market development and economic
+growth: the case of selected African countries. Afr. Dev. Rev. 18 (1),
+144–161.
+Ahmed, A.D., Wahid, A.N.M., 2011. Financial structure and economic growth
+link in African countries: a panel cointegration analysis. J. Econ. Stud. 38
+(3).
+Akotey, J.O., Abor, J., 2013. Risk management in the Ghanaian insurance industry. Qual. Res. Financ. Mark. 5 (1), 26–42.
+Akotey, J.O., Sackey, F.G., Amoah, L., Manso, R.F., 2013. The financial performance of life insurance companies in Ghana. J. Risk Finance 14 (3),
+286–302.
+Akotey, J.O., Osei, K.A., Gemegah, A., 2011. The demand for microinsurance
+in Ghana. J. Risk Insurance 12 (3), 182–194.
+Ansah-Adu, K., Andoh, C., Abor, J., 2012. Evaluating the cost efficiency of
+insurance companies in Ghana. J. Risk Finance 13 (1), 61–76.
+Arena, M., 2008. Does insurance market activity promote economic growth?
+A cross-country study for industrialized and developing countries. J. Risk
+Insurance 75 (4), 921–946.
+Azman-Saini, W.N.W., Smith, P., 2011. Finance and growth: new evidence on
+the role of insurance. S. Afr. J. Econ. 79, 2.
+Beck, T., Webb, I., 2002. Economic, demographic and institutional determinants
+of life insurance consumption across countries. World Bank Econ. Rev. 17
+(1), 51–88.
+Beck, T., Levine, R., 2004. Stock Markets, Banks, and Growth: Panel Evidence.
+Journal of Banking and Finance 28 (3), 423–442.
+Brown, R.L., Durbin, J., Evans, J.M., 1975. Techniques for testing the constancy
+of regression relations over time. J. R. Stat. Soc. B 37, 149–192.
+Chang, T., Lee, C.-C., Chang, C.-H., 2013. Does insurance activity promote economic growth? Further evidence based on bootstrap panel Granger causality
+test. Eur. J. Finance, http://dx.doi.org/10.1080/1351847X. 2012.757555.
+Chow, G.C., 1960. Tests of equality between sets of coefficients in two linear
+regressions. Econometrica 52, 211–222.
+Dickey, D.A., Fuller, W.A., 1979. Distributions of the estimators for autoregressive time-series with a unit root. J. Am. Stat. Assoc. 75, 427–831.
+Enisan, A.A., Olufisayo, O., 2009. Stock market development and economic
+growth: Evidence from seven sub-Saharan African countries. Journal of
+Economics and Business 61, 162–171.
+Engle, R.F., Granger, C.W.J., 1987. Co-integration and error correction: representation, estimation, and testing. Econometrica 55 (2), 251–276.
+Ghosh, A., 2013. Does life insurance activity promote economic development
+in India: an empirical analysis. J. Asia Bus. Stud. 7 (1), 31–43.
+Gujarati, D., 1995. Basic Econometrics. Mcgraw-Hill, New York.
+Han, L., Li, D., Moshirian, F., Tian, Y., 2010. Insurance development and
+economic growth. Geneva Papers 35, 183–199, http://dx.doi.org/10.1057/
+gpp.2010.4.
+Horng, M.-S., Chang, Y.-W., Wu, T.-Y., 2012. Does insurance demand or financial development promote economic growth? Evidence from Taiwan. Appl.
+Econ. Lett. 19 (2), 105–111.
+Johansen, S., Juselius, K., 1990. Maximum likelihood estimation and inference
+on cointegration with applications to the demand for money. Oxf. Bull. Econ.
+Stat. 52, 169–210.
+Johansen, S., 1991. Estimation and hypothesis testing of cointegration vectors
+in Gaussian vector autoregressive models. Econometrica 59, 1551–1580.
+Kagochi, J.M., Omar, M., Al Nasser, O.M., Kebede, E., 2013. Does financial
+development hold the key to economic growth? The case of sub-Saharan
+Africa. J. Dev. Areas 47 (2), 61–79.
+Kennedy, P., 2008. A Guide to Econometrics, 6th ed. Blackwell Publishing,
+Oxford, UK.
+King, R.G., Levine, R., 1993a. Finance and growth: Schumpeter might be right.
+Q. J. Econ. 108, 717–737.
+King, R.G., Levine, R., 1993b. Finance entrepreneurship, and growth: theory
+and evidence. J. Monet. Econ. 32, 513–542.
+
+95
+
+Kugler, M., Ofoghi, R., 2005. Does Insurance Promote Economic Growth?
+Evidence from the UK, Available at: http://repec.org/mmfc05/paper8.pdf
+Lee, C.-C., 2011. Does insurance matter for growth: empirical evidence
+from OECD countries. B. E. J. Macroecon. 11 (1), http://dx.doi.org/
+10.2202/1935-1690.2080.
+Levine, R., 1997. Financial development and economic growth: views and
+agenda. J. Econ. Lit. 35, 688–726.
+Levine, R., 1999. Law finance, and economic growth. J. Financ. Intermed. 8
+(12), 8–35.
+Levine, R., Zervos, S., 1998. Stock markets, banks, and economic growth. Am.
+Econ. Rev. 88 (2), 537–558.
+Liedtke, P.K., 2007. What’s insurance to a modern economy? Geneva Papers
+Risk Insurance–Issues Pract. 32, 211–221.
+Luintel, K.B., Khan, M., 1999. A quantitative reassessment of the
+finance—growth nexus: evidence from a multivariate VAR. J. Dev. Econ.
+60, 381–405.
+Mah, J.S., 2000. An empirical examination of the disaggregated import demand
+of Korea: the case of information technology products. J. Asian Econ. 11,
+237–244.
+N’Zue, F.F., 2006. Stock market development and economic growth: evidence from Cote D’Ivoire. Afr. Dev. Rev. 18 (1), http://dx.doi.org/10.1111/
+j.1467-8268.2006.00135.x.
+Narayan, P.K., 2005. The saving and investment nexus for China: evidence from
+cointegration tests. Appl. Econ. 37, 1979–1990.
+Narayan, P.K., Smyth, K., 2004. Attendance and pricing at sporting events:
+empirical results from Granger causality tests for the Melbourne Cup. Appl.
+Econ. 35 (15), 1649–1657.
+Narayan, P.K., 2004. Fiji’s tourism exports: an ARDL model. Tourism Econ. 10
+(2), 193–206.
+Narayan, S., Narayan, P.K., 2004. Determinants of demand for Fiji’s exports: an
+empirical investigation. Dev. Econ. 42 (1), 95–112.
+NIC, 2010. National Insurance Commission Annual Report.
+NIC, 2011. National Insurance Commission Annual Report.
+Odhiambo, N.M., 2007. Supply-leading versus demand-following hypothesis:
+empirical evidence from three SSA countries. Afr. Dev. Rev. 19 (2).
+Outreville, J.F., 2013. The relationship between insurance and economic development: 85 empirical papers for a review of the literature. Risk Manage.
+Insurance Rev. 16 (1), 71–122.
+Patrick, H.T., 1966. Financial development and economic growth in underdeveloped countries. Econ. Dev. Cult. Change 14, 174–189.
+Pattichis, C.A., 1999. Price and income elasticities of disaggregated import
+demand: results from UECMs and an application. Appl. Econ. 31 (9),
+1061–1071.
+Pesaran, M.H., Pesaran, B., 1997. Working with Microfit 4.0”, Interactive Econometric Analysis. Oxford University Press.
+Pesaran, M.H., Shin, Y., Smith, R.J., 1996. Testing for the ‘Existence of a LongRun Relationship.’ Department of Applied Economics Working Paper no.
+9622. University of Cambridge, Cambridge.
+Pesaran, M.H., Shin, Y., Smith, R.J., 2001. Bounds testing approaches to the
+analysis of level relationships. J. Appl. Econ. 16, 289–326.
+Pesaran, H., Pesaran, B., 2009. Time Series Econometrics using Microfit 5.
+Oxford University Press, Oxford.
+Phillips, P.C.B., Perron, P., 1988. Testing for a unit root in time series regression.
+Biometrica 75, 335–346.
+Phillips, P.C.B., Hansen, B.E., 1990. Statistical inference in instrumental
+variables regression with I(1) processes. Rev. Econ. Stud. 57 (1), 99–
+125.
+Robinson, J., 1952. The generalization of the general theory. In: The Rate of
+Interest, and Other Essays. Macmillan, London, pp. 67–142.
+Romer, P.M., 1990. Endogenous technological change. J. Polit. Econ. 98,
+S71–S102.
+Schumpeter, J., 1912. The Theory of Economic Development, Leipzig: Dunker
+and Humblot 1912. Harvard University Press, Cambridge, MA, pp. 1934
+(translated by Redevers Opie).
+Seetanah, B., Ramessur, S.T., Rojid, S., 2009. Financial development and economic growth: New evidence from a sample of island economies. Journal
+of Economic Studies 36 (2), 124–134.
+
+96
+
+A.L. Alhassan, V. Fiador / Review of Development Finance 4 (2014) 83–96
+
+Seetanah, B., 2009. Financial development and economic growth: an ARDL
+approach for the case of the small island state of Mauritius. Appl. Econ.
+Lett. 15 (10), 809–813.
+Skipper Jr., H.D., 1997. Foreign insurers in emerging markets: issues and concerns. Int. Insurance Found. Occasional Paper, 16, 24.
+Swiss Re, 2012. Insurance in Sub-Saharan Africa, Gearing for Growth, Sigma
+Report.
+Tang, T.C., Nair, M., 2002. A cointegration analysis of Malaysian import demand
+function: reassessment from the bonds test. Appl. Econ. Lett. 9 (5), 293–296.
+
+Ward, D., Zurbruegg, R., 2000. Does insurance promote economic development? Evidence from OECD countries. J. Risk Insurance 67 (4), 489–
+507.
+Webb, I.P., Grace, M.F., Skipper, H.D., 2002. The Effect of Banking and Insurance on the Growth of Capital and Output. Center for Risk Management
+and Insurance Working Paper 02-1. Robinson College of Business, Georgia
+State University, Atlanta, GA.
+Zhou, C., Wu, C., Li, D., Chen, Z., 2012. Insurance stock returns and economic
+growth. Geneva Papers 37, 405–428, http://dx.doi.org/10.1057/gpp.2012.22.
+
+

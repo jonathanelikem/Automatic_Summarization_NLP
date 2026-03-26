@@ -1,0 +1,1474 @@
+The current issue and full text archive of this journal is available at
+www.emeraldinsight.com/1086-7376.htm
+
+SEF
+25,2
+
+Fiscal policy, private investment
+and economic growth: the case
+of Ghana
+
+112
+
+Vera Ogeh Soli and Simon Kwadzogah Harvey
+Department of Finance, University of Ghana Business School, Accra, Ghana, and
+
+Edmond Hagan
+Department of Economics, Methodist University College, Accra, Ghana
+Abstract
+Purpose – This paper aims to examine the relationships between disaggregated government fiscal
+policy variables; private capital investment and economic growth in Ghana, as well as the similarities
+and differences in the impact of these variables on private investment (PI) and economic growth.
+Design/methodology/approach – Cointegration and an error-correction models are used, with
+time series properties of the variables investigate using augmented Dickey-Fuller test and
+cointegration of the variables tested using Engel-Granger two step procedure.
+Findings – The findings indicate that changes in government recurrent expenditure, current
+government capital expenditure and international trade taxes are significant for growth while changes
+in tax on domestic goods and services, tax on international trade and tax on income and property
+matter for private capital investment. The major difference between the impact of fiscal policy on PI
+and economic growth, however, lies in the direction of impact.
+Practical implications – Based on the findings of this study, it is recommended that different
+policies be pursued in the promotion of PI and economic growth. Also, given the low correlation
+between PI and economic growth, it is recommended that the Ghanaian private sector be focused on
+and fully developed in order for it to perform its role as an engine of growth.
+Originality/value – Growth has been shown to be influenced by government expenditure and
+international trade taxes while private capital investment is influenced by taxes on domestic goods and
+services, international trade and on income and property. Fiscal policy authorities will find these useful.
+Keywords Investments, Economic growth, Financing
+Paper type Research paper
+
+Introduction
+One of the central tenets of macroeconomics is that fiscal policy can be effective in
+stimulating aggregate demand, reviving a stagnant economy and promoting economic
+growth. Economic growth, according to Garfield (1995), is created over the long-run by
+a labour force which possesses the incentive to work and produce, and by
+entrepreneurs who have incentives to invest in capital stock. In other words, pursuing
+government polices to further these incentives translate into economic growth.
+The importance of fiscal policy in growth economics has received a lot of research
+interest in recent decades. This deep-seeded belief that taxation, public investment and
+other aspects of fiscal policy can contribute to growth miracles as well as to enduring
+Studies in Economics and Finance
+stagnation has been articulated in the context of growth models. As Easterly and
+Vol. 25 No. 2, 2008
+Rebelo (1993) adequately put it, any economist, when asked to explain the growth
+pp. 112-130
+q Emerald Group Publishing Limited performance of any economy is likely to mention fiscal policy as being a very
+1086-7376
+DOI 10.1108/10867370810879438
+important determinant.
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+Ghana, like many other African countries, has tried many approaches to achieving
+acceptable rates of growth and development. With this goal in mind, the various
+governments have pursued various fiscal policies aimed at attaining this sustainable
+level of economic growth. The quest began with a push for rapid industrialization in
+the 1960s, with a variety of control measures and state intervention. When that line of
+action failed to achieve the desired results, the private sector became the targeted
+engine of growth. It is no secret, however, that Ghana’s economy has not grown much
+since the early 1960s and has also not had an enabling environment with respect to
+private investment (PI). Over the years, the economic status of the country steadily
+deteriorated, especially during the 1970s and 1980s, culminating in the implementation
+of the Economic Recovery Programme (ERP) in 1983.
+The main objective of the ERP, according to Ewusi (1987), was to carry out a
+comprehensive revision of economic policies to ensure efficient allocation of resources
+within the economy. Some of the sub-objectives of ERP were to:
+.
+increase the role of the market mechanism in the economy;
+.
+increase public revenues and improve the buoyancy of the tax system;
+.
+ensure increased effectiveness of public investment; and
+.
+encourage private sector savings and investment among other things.
+
+Fiscal policy,
+PI and economic
+growth
+113
+
+The ultimate goal was to set the Ghanaian economy and its vital growth drivers on the
+path to recovery and attaining a sustainable level of economic growth. Consequently,
+taxes were increased in order to generate enough revenue to offload the large accrued
+deficits that had resulted from the over-expansionary fiscal policy of the early 1960s.
+Having attempted to reduce the deficits by generating more tax revenue and failing,
+the focus turned to the reduction of government expenditure as opposed to increased
+taxation. This move to reduce government expenditure was also not too successful,
+with recurrent expenditure rising instead and doing so at the expense of development
+expenditure. This trend had the effect of starving key public utilities of funds and also
+slowing down capital formation in the public sector – a sector that not only owned the
+infrastructure, but also controlled a large portion of the nation’s assets. Government
+revenue, on the other, hand continued to lag considerably behind expenditures and
+more so due to the adverse terms of trade for the country’s exports.
+A review of macroeconomic variables since 1984 and after gives indications that the
+policy of improving fiscal management (embodied in the ERP) has been broadly on
+track, with a marked improvement in the government’s fiscal position. Despite this
+fiscal prudence, the country has not witnessed sustainable levels of PI and economic
+growth. For this reason, there is the need to empirically find out why and inform policy
+makers as to which components of government fiscal policy actually engender or
+hinder private capital accumulation and sustainable economic growth in a developing
+country like Ghana. The study also seeks to establish the relationships (positive or
+negative) that exist between government fiscal policy variables and PI and economic
+growth, determine whether PI and economic growth are correlated and influenced by
+the same variables and to the same degree and also determine which of the expenditure
+and revenue variables have the most significant influences (favourable or
+unfavourable) on PI and economic growth.
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+114
+
+Literature review
+Theoretical literature
+According to McKay (2002), fiscal policy can be defined as covering the many different
+types of public expenditure and different ways of financing this public outlay. Generally,
+fiscal policy encompasses the changes in government spending and tax collections
+designed to achieve non-inflationary domestic output (McConnell and Brue, 1999).
+Barro (1990) and Barro and Sala-i-Martin (1992) classify these fiscal policy instruments
+into:
+.
+distortionary taxation, which weakens the incentives to invest in
+physical/human capital, hence reducing growth: tax on income and profits, tax
+on payrolls and workforce, property tax and social security contributions;
+.
+non-distortionary taxation, which does not affect the above incentives, therefore
+growth, due to the nature of the utility function assumed for the private agents:
+tax on domestic goods and services;
+.
+productive expenditures that influence the marginal product of private capital
+and hence boost growth: social security benefits, expenditure on public
+order-safety, expenditure on education, expenditure on health, expenditure on
+housing and community amenities and expenditure on transport and
+communication; and
+.
+unproductive expenditures that do not affect the private marginal product of
+capital and consequently growth, such as expenditure on agriculture and
+expenditure on defense, due to the fact that they end up in the utility function and
+not the production function.
+Effects of fiscal policy
+According to Mitchell (2005), economic theory does not automatically generate
+strong conclusions about the impact of government out-lays on economic
+performance. Indeed, almost every economist would agree that there are
+circumstances in which lower levels of government spending would enhance
+economic growth and other circumstances in which higher levels of government
+spending would be desirable. If government spending is zero, presumably, there will
+be very little economic growth because enforcing contracts, protecting property,
+and developing an infrastructure would be very difficult due to the absence of
+a government. In other words, some government spending is necessary for the
+successful operation of the rule of law. Economic activity is generally very low or
+nonexistent in the absence of government but jumps dramatically as core functions
+of government are financed. This does not mean that government costs nothing, but
+that the benefits outweigh the costs.
+Positive implications of government intervention
+In traditional Keynesian macroeconomics, many kinds of public expenditures, even
+of a recurrent nature, can contribute positively to economic growth. High levels of
+government consumption are likely to increase employment, profitability and
+investment via multiplier effects on aggregate demand. Thus, according to Keynesian
+macroeconomics, government spending raises aggregate demand, leading to increased
+output depending on the size and effectiveness of expenditure multipliers.
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+Negative implications of government intervention
+First and foremost, the higher taxes or the further borrowing that is required to finance
+growing government expenditures inhibit growth. These are expected to influence
+economic growth negatively, because they serve as disincentives for households to
+invest, take risks and find jobs. Borrowing can also affect PI negatively since
+government accesses funds that could otherwise have been invested in the private
+sector, thus crowding out PI (Gallaway and Vedder, 1998).
+Secondly, a large government sector increases potential profits from rent-seeking
+activities; this might lead to a movement of resources into more unproductive use
+(Fölster and Henrekson, 1997). Rent-seeking occurs when people try to obtain income
+by having government transfers to themselves rather than providing goods and
+services to others. Rent-seeking benefits, the recipient but drains the economy as a
+whole and economic growth suffers.
+Also, continuous expansions of the government moves expenditure into less and
+less productive activities. Eventually, the government becomes too large and carries
+out activities for which it is ill-suited. When this happens, negative returns set in and
+retard economic growth. When government provides private goods such as food, there
+is no reason to expect the provision or allocation to be done more efficiently than the
+market sector (Sjöberg, 2003).
+The purpose of the government intervention through government spending or
+taxing is to make the economy more stable. The overall impact therefore depends on
+the trade-offs between the productivity of public expenditure and the distortionary
+effects of taxes.
+
+Fiscal policy,
+PI and economic
+growth
+115
+
+Private investment and economic growth
+PI is one of the major contributors to economic growth in both developed and
+developing countries. This is because through investment, new technology is adopted,
+employment opportunities are created, and incomes grow and these ultimately lead to
+economic growth (Matwang’A Lusambili, 2000). According to Kweka and Morrissey
+(1999), government activity may directly or indirectly increase total output through its
+interaction with the private sector. Literature in general posits that changes in public
+spending and taxation affect corporate profits, and thus PI. Changes in public spending
+however, have a bigger impact than tax changes (Balls, 2005). Ramirez (1994) also
+reports that when the public capital stock is productive and complements the private
+capital stock, ceteris paribus, increases in public investment would have overall
+positive effects on factor productivity and output and ultimately, economic growth.
+Empirical evidence
+The effect of fiscal policy on economic growth is still an unresolved issue theoretically
+as well as empirically. Although, the theoretical positions on the subject are quite
+diverse, the conventional wisdom is that large government spending is a source of
+economic instability or stagnation. Empirical research, however, does not conclusively
+support the conventional wisdom and has yielded conflicting results.
+Many studies have aimed at estimating the effects of public expenditure on
+economic growth (Barro, 1991; Gwartney et al., 1998; Fölster and Henrekson, 2000;
+Al-Yousif, 2000; Gallaway and Vedder, 1998). A few of such studies (Easterly and
+Rebelo, 1993; M’Amanja and Morrissey, 2004) report positive and significant relation
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+116
+
+between government spending and economic growth, while several others find
+significantly negative (Barro,1991; Cashin, 1995, among others) or no relation (Poot,
+2000; Kormendi and Meguire, 1985; Diamond, 1989).
+On the whole, however, studies of the relationship between aggregate public
+expenditure and economic growth have not yielded robust results, with the results of
+many being sensitive to small changes in model specification (Levine and Renelt, 1992;
+Nijkamp and Poot, 2002). Another failing of the empirical research in this area is the
+failure to recognize the budget constraint and as such factor the implicit costs of
+financing government outlays into the studies. This failing, according to Benos (2004)
+results in bias in the coefficient estimates.
+Methodology
+The deductive approach is used for this study. This approach allows for the
+development of a theory (theories) and hypothesis (hypotheses) and designing of a
+research strategy to test these as well as the anticipation of phenomena and prediction of
+their occurrence (Saunders et al., 2000). Given that the purpose of this research is to
+assess the impact of government fiscal policy on PI and economic growth, fiscal policy is
+disaggregated into its expenditure and revenue (mainly tax) components and regressed
+on economic growth (growth in real gross domestic product – GDP) and PI (as a
+percentage of GDP). Following Barro and Sala-i-Martin (1992), the fiscal policy variables
+are categorised as productive or non-productive for expenditure and distortionary or
+non-distortionary for tax revenue. The productive expenditure is expected to enter into
+the production function of the private sector, increase returns to investment and thereby
+foster economic growth. Government expenditure that fall into this category includes
+spending on roads, machinery and equipment and law and order.
+On the other hand, non-productive spending comprises of spending on the wage and
+salary bill of the public services and purchases of goods and services by the
+government. Wages and salaries of the public sector, the major component of
+non-productive expenditure, serve to put upward pressure on wages in the private
+sector thereby reducing returns to investment and thus affecting economic growth
+negatively. The major difference between productive and non-productive spending is
+that while productive spending ends up in the production function of the private sector,
+non-productive spending only ends up in the utility function.
+Recognising the budget constraint implies taking cognizance of the financing of
+these expenditure. Where tax serves as a disincentive to saving, especially in a useful
+form, it is considered distortionary and exerts a negative influence on economic
+growth. However, if the tax encourages savings (investment) for level consumption
+in the future, it is considered non-distortionary and exerts a positive influence on
+economic growth (Table I).
+
+Table I.
+The independent
+variables and the
+expected signs
+
+Variable
+
+Expected sign
+
+Government recurrent expenditure
+Government capital investment
+Tax on income and property
+Tax on domestic goods and services
+Tax on international trade
+
+Negative (2 )
+Positive (þ)
+Negative (2 )
+Positive (þ)
+Positive (þ)/negative (2)
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+Data type and sources
+The study makes use of time series data spanning 34 years for which data are available
+(1964-1998). The data are secondary in nature and collected from the Ministry of
+Finance and Economic Planning and the Statistical Service of Ghana. The data used
+are annual values of real GDP growth rates, government current expenditure,
+government capital expenditure, tax on income and property (TIP), tax on domestic
+goods and services (VAT, formerly sales tax) and tax on international trade. All the
+variables, including PI, are expressed as percentages of GDP.
+
+Fiscal policy,
+PI and economic
+growth
+117
+
+The model
+Conceptual framework. Economists and policymakers alike, in line with endogenous
+growth theory, have long believed that government tax and spending policies can have
+important impacts on long-run economic growth. In other words, the general view
+among many economists is that fiscal policy has an important role in stimulating
+investment and economic growth. Recent studies using endogenous growth models
+have also served to buttress the role of fiscal policy as a key determinant of long-run
+growth (Barro, 1990; Barro and Sala-i-Martin, 1992; Easterly and Rebelo, 1993).
+The early empirical literature on fiscal policy and growth focused on the
+relationship between growth and the size of government activity. In particular, it was
+conjectured that government spending and its associated levels of taxation would
+result in a reduction in the long-run rate of growth by reducing the return on
+investment. A relatively recent view, however, also holds that with the right mixture of
+taxation and spending policies, the government can increase the quantity and
+productivity of aggregate investment – human and physical capital, research
+and technology – and thus overall economic growth (Ram, 1986; Barro, 1990; Barro
+and Sala-i-Martin, 1992; Easterly and Rebelo, 1993).The usual approach to testing these
+conjectures was to regress the rate of growth of real GDP on measures of the average
+level of government spending or tax.
+In view of the fact that this study seeks to eliminate coefficient bias, the government
+budget constraint is recognized and as such both government expenditure and tax are
+regressed on real GDP growth and PI to assess the impact of government policy,
+specifically fiscal policy, on PI and economic growth in Ghana. The major assumption
+for the study is that the dependent and independent variables are related in a linear
+manner. To accomplish the purpose of the study, real GDP growth and PI, in
+accordance with the endogenous growth theory, are modeled as functions of
+government expenditure and tax revenue (equations (1) and (5)):
+DGDPt ¼ FðGCURR; GCAP; DTAX; TIP; TINTRÞ
+
+ð1Þ
+
+where DGDP – growth in real GDP; GOVCURR – government recurrent expenditure;
+GOVCAP – government capital expenditure; TAXIP – tax on income and property;
+DOMTAX – tax on domestic goods and services; TAXINTR – tax on international
+trade.
+In order to measure, the extent of coefficient biases arising from omission of
+variables, the dependent variables (growth in real GDP and PI) are regressed on the
+expenditure variables and revenue variables separately and jointly. Simply put,
+economic growth is first regressed on government expenditure, second, on government
+revenue and lastly on both government expenditure and revenue. The study employs
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+118
+
+ordinary least squares and the regression function (for economic growth) for the study
+is thus specified as:
+DGDPt ¼ b0 þ b1 GCURRt þ b2 GCAPt þ 1t ;
+
+ð2Þ
+
+DGDPt ¼ b0 þ b1 DTAXt þ b2 TIPt þ b3 TINTRt þ 1t :
+
+ð3Þ
+
+Putting equations (2) and (3) together, we arrive at equation (4):
+DGDPt ¼ b0 þ b1 GCURR þ b2 GCAP þ b3 DTAX þ b4 TIP þ b5 TINTR þ 1t : ð4Þ
+PI is also modeled as a function of government fiscal policy variables the function
+therefore specified as:
+PIt ¼ FðGCURR; GCAP; DTAX; TIP; TINTRÞ
+
+ð5Þ
+
+where, PI – private investment as a percentage of GDP.
+The regression equation is also specified as:
+PIt ¼ b0 þ b1 GCURRt þ b2 GCAPt þ 1t ;
+
+ð6Þ
+
+PIt ¼ b0 þ b1 DTAXt þ b2 TIPt þ b3 TINTRt þ 1t :
+
+ð7Þ
+
+Putting equations (6) and (7) together, we arrive at equation (8):
+PIt ¼ b0 þ b1 GCURRt þ b2 GCAPt þ b3 DTAXt þ b4 TIPt þ b5 TINTRt þ 1t :
+
+ð8Þ
+
+Unit root test and cointegration analysis
+Standard econometric theory requires that the variables be stationary, if inferences
+from regressions are to be non-spurious. The null hypothesis for this test requires that,
+the coefficient of the auto-regressive parameter of the variable be equal to one and the
+alternate hypothesis states that it is less than one. Where non-stationarity is
+established using the augmented Dickey-Fuller (ADF) (Dickey and Fuller, 1981) test,
+the variables must be differenced (d ) times to make them stationary and thus said to be
+integrated to the order (d ). The variables are also tested for cointegration using the
+ADF (Dickey and Fuller, 1981) test and if the variables are found to be cointegrated, an
+error correction model is estimated with OLS without generating spurious results.
+Test of robustness
+According to Bose et al. (2003), failure to recognise the budget constraint in growth
+regressions may give rise to biases in coefficient estimates. In the light of this, only the
+independent variables that remain significant and maintain their signs after the third
+regression, using equations (4) and (8) are certified as having a robust relationship with
+economic growth or PI.
+Empirical results and analysis
+Test of unit root
+The test for stationarity of these variables is done using ADF test. The choice between
+intercept and trend for the test was informed by visual inspection of line graphs of the
+data and Akaike Information Criteria (AIC). The implication of non-stationarity of the
+variables in levels means standard regression analysis may produce spurious results.
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+Generally, most series are made stationary by differencing the data in the first
+instance. Once the variables are stationary (after first differences in this case) OLS
+estimation may be carried out without generating spurious results. The drawback to
+this approach, however, is the possibility of losing long-run information in the
+variables.
+According to Girijasankar and Chowdhury (2002), this loss of long-run information
+by estimating in first differences can be overcome by applying the cointegration
+technique, which shows the long-run relationship between two or more non-stationary
+variables. Enders (1995) posits that for the variables to be cointegrated, the two or more
+sequences must be integrated of the same order and have a stationary residual
+sequence. In dealing with variables integrated of different orders, Hendry (2005) states
+that if the underlying economic theory is correct, then the variables in the levels part
+must be cointegrated and therefore a linear combination of the I(1) levels of the
+variables must be I(0). The study variables, though integrated of different orders, are
+thus estimated without fear of generating spurious results (Table II).
+
+Fiscal policy,
+PI and economic
+growth
+119
+
+Cointegration analysis
+Cointegration represents the tendency of variables to drift together over time, implying
+the existence of a long-run relationship. To test for cointegration, the ADF test of unit
+root is conducted on the residuals of the various equations under study estimated in
+their levels. The results indicated that the residuals of the GDP, GCAP and GCURR,
+DTAX, TINTR and TIP are cointegrated both separately and jointly. The residuals of
+the GDP, GCAP and GCURR regression are stationary at 5 per cent level of significance
+with an ADF statistic of 2 3.613261 against a critical value of 2 2.9527 while the GDP,
+DTAX, TINTR and TIP residuals are stationary at 1 per cent with an ADF statistic of
+2 4.397962 against a critical value of 2 3.6422. When the variables are estimated
+jointly, the residuals still retain their cointegrating relationship with an ADF test
+statistic of 2 5.270800 compared to a critical value of 2 3.6422 at 1 per cent.
+
+Variable
+
+ADF (level)
+
+ADF (1st difference)
+
+Order of integration
+
+GDP
+DGDP
+PI
+DPI_2
+GCAP
+DGCAP
+GCURR
+DGCURR_2
+DTAX
+DDTAX_2
+TINTR
+DTINTR_2
+TIPa
+DTIP_2
+
+23.751230
+23.67422 * * *
+20.334661
+22.6148 *
+21.974600
+23.2109 *
+22.280921
+22.6148
+20.479266
+21.6211 *
+22.480459
+22.6148 *
+0.402532
+21.6211 *
+
+–
+
+I(0)
+
+24.816763
+23.6496 * * *
+25.258478
+24.2712 * * *
+25.856649
+23.6496 * * *
+25.258478
+23.6496 * * *
+23.762989
+23.6496 * * *
+22.327987
+21.9517 * *
+
+I(1)
+I(1)
+I(1)
+I(1)
+I(1)
+I(1)
+
+Notes: aTest of unit root conducted with neither intercept nor trend. Significance at: *10; * *5; * * *1
+per cent, respectively
+
+Table II.
+Results of the unit root
+tests for the dependent
+and independent
+variables
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+120
+
+Parsimonious error-correction modeling of GDP function
+According to Engle and Granger (1987), cointegrated variables must have an
+error-correction representation. Kweka and Morrissey (2000) support this in their
+assertion that the existence of cointegration allows for the analysis of short-run models
+that identify adjustment to the equilibrium level through the error-correction model (ECM)
+representation. To arrive at a parsimonious model, a systematic step-by-step model
+reduction was carried out in which insignificant variables were dropped until the AIC and
+SBC began to rise, indicating that the remaining variables are important in explaining the
+dependent variables even though some may still be individually insignificant.
+Thus, the error-correction specification of the GDP function is now given as:
+DGDPt ¼ b0 þ b1 GCURRt þ b2 GCAPt þ E_ECMGt ð21Þ þ 1t ;
+DGDPt ¼ b0 þ b1 DTAXt þ b2 TIPt þ b3 TINTRt þ R_ECMGð21Þ þ 1t ;
+DGDPt ¼ a0 þ a1 GCURR þ a2 GCAP þ a3 DTAX þ a4 TIP þ a5 TINTR
+þ a6 F_ECMGt ð21Þ þ 1t :
+
+ð9Þ
+ð10Þ
+ð11Þ
+
+In estimating the GDP-expenditure function (equation (9)), three lags of the independent
+variable were included alongside the short variables (represented by the first
+differences). This lag length was considered appropriate for this study as lag lengths
+beyond this only resulted in loss of data but added no significant value to the model.
+To arrive at a parsimonious model, all the variables that served to affect the
+appropriateness of the model (inferred from a lower AIC and SBC) were omitted. The
+variables were omitted until the AIC and SBC began to rise after omission of a variable.
+The regression output shows that approximately 71 per cent of variations in real
+GDP growth can be explained by government expenditure. Except for government
+capital at lag 3, all the variables did not have the expected signs. From the output
+(Table III), changes in government short-run capital expenditure exhibits a negative
+relationship with growth rate of real GDP, though this is not significant at any of the
+conventional levels. This negative relationship could be attributed to the possibility of
+short-run government expenditure being utilised for non-profitable ventures or the
+expenditure being expended on activities that are not capable of stimulating demand in
+the appropriate sectors of the economy. The DW statistic of 2.103370 also suggests
+strongly that there is no autocorrelation among the residuals.
+According to Keynesian macroeconomics, government spending boosts economic
+growth by stimulating aggregate demand. This proposition can be said to hold for this
+study considering that growth in government current expenditure at lag 3 (expected to
+be growth retarding) exhibits a positive relationship. From the regression output,
+
+Table III.
+Results of the ECM of the
+GDP-expenditure
+function
+
+Variable
+
+Coefficient
+
+Std. error
+
+t-Statistic
+
+Prob.
+
+C
+D(GCAP)
+D(GCURR(22))
+D(GCAP(2 3))
+E_ECMG(21)
+R2
+Durbin-Watson statistic
+
+0.535057
+20.738661
+1.344244
+1.501402
+20.848842
+0.709368
+2.10337
+
+0.759158
+0.612775
+0.386213
+0.476436
+0.147199
+F-statistic
+Prob. (F-statistic)
+
+0.704803
+21.20544
+3.480577
+3.151318
+25.76664
+15.86508
+0.000001
+
+0.4872
+0.2389
+0.0018
+0.0041
+0.0000
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+a 1 per cent change in the growth rate of government current expenditure (as a share
+of GDP) at lag 2 results in a 1.3 per cent change in the rate of growth in real GDP at
+1 per cent significance level.
+The F-statistic indicates that government current and capital jointly determine real
+GDP growth and this is so at 1 per cent. From Table III, the absolute value of the
+speed of adjustment (denoted by E_ECMG(2 1)) is approximately 0.85, implying that
+85 per cent of whatever deviations occur in government expenditure in the past year
+would return to the long-run equilibrium level in the current year and that this
+correction pattern is stable, with stability being inferred from the less than unity value
+of the coefficient of the E_ECMG(2 1). This finding is also significant at 1 per cent.
+In estimating the GDP-revenue function (equation (10)), five lags are used. This is in
+line with the researches that have been conducted in the area of fiscal policy that posit
+that it takes an average of five years for all effects of fiscal policy to dissipate. The
+output from equation (10) (Table IV) indicates that about 77 per cent of variations in
+GDP is explained by the share of taxes with respect to GDP. The F-statistic is
+significant at 1 per cent, signifying the power of the variables, jointly, in determining
+the variations in the real GDP growth rate.
+Though TIP has the expected negative sign, it is not significant at any of the
+conventionally acceptable levels. This can be looked from the perspective that a
+sizeable number of the nation’s population are in the informal sector and for that
+matter are not captured by TIP. This could account for the statistical non-significance
+despite the correct theoretical sign.
+Tax on international trade exhibits all two signs as expected. The positive sign is
+significant at 5, 10 and 10 per cent in the short-run and at lags of three and four,
+respectively. At lag of five, the sign turns negative, and is significant at 10 per cent.
+Barro and Sala-i-Martin (1992) classify tax on international trade as other revenues,
+the implication being that its effect on economic growth is not clear-cut. Depending on
+which components of international trade are taxed, the effect can be positive or
+negative. When the tax is on imported durable goods, it distorts prices and serves to
+discourage acquisition of durable physical capital and the net effect is negative.
+On the other hand, when the tax is on consumables, the effect is similar to the effect of
+indirect taxes; consumers save more in the current period to maintain the same level of
+consumption in the next period. The negative coefficient of the tax on international
+trade at lag 5 could also be indicative of the time it takes for consumers and producers
+to adjust to any unfavourable changes in taxes on international trade.
+Variable
+
+Coefficient
+
+Std. error
+
+t-Statistic
+
+Prob.
+
+C
+D(TINTR)
+D(TIP(2 1))
+D(TINTR(2 3))
+D(TINTR(2 4))
+D(DTAX(2 5))
+R_ECMG(21)
+R2
+Durbin-Watson statistic
+
+20.211111
+1.593159
+21.824472
+1.173831
+1.210314
+1.896308
+21.15136
+0.771607
+1.656315
+
+0.816341
+0.687714
+1.505249
+0.606177
+0.656442
+0.798506
+0.179205
+F-statistic
+Prob. (F-statistic)
+
+20.25861
+2.316603
+21.212074
+1.936451
+1.843749
+2.374821
+26.4248
+10.13527
+0.000016
+
+0.7985
+0.0307
+0.2389
+0.0664
+0.0794
+0.0272
+0
+
+Fiscal policy,
+PI and economic
+growth
+121
+
+Table IV.
+Results of the ECM of the
+GDP-revenue function
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+122
+
+Table V.
+Results of the ECM of the
+fiscal policy-GDP
+function
+
+Taxes on domestic goods and services exhibit a very positive relationship with growth.
+The coefficient is almost two and significant at 5 per cent. The output indicates that a
+1 per cent change in the rate of growth of the share of consumption taxes to GDP
+causes real GDP growth rate to change by 1.896 per cent. This, however, is in the
+long-run at lag 5.
+The coefficient for the error-correction term for equation (10) is significantly
+negative and has an absolute value greater than one. The negative sign can be inferred
+as confirming the existence of a long-run relationship but also indicative of an unstable
+error-correction pattern for taxes due to the greater than unity value.
+Equation (11) is also modeled using error-correction. Equation (11) is the joint
+estimation of the expenditure and revenue functions. Lags of three were used for both
+sets of variables on the detection of autocorrelation among the residuals when lags
+beyond three are used.
+From Table V, the R 2 shows that approximately 92 per cent of variations in real GDP
+growth are attributable to changes in the growth of the share of government intervention
+in the economy. In this equation, government capital exhibits a negative and statistically
+significant relationship with economic growth. This situation holds for the short-run
+and at lag 2 and when it does exhibit the expected positive sign (at lag 3), it is statistically
+insignificant. As indicated previously, this result could be an indication that the money
+is not expended on removing existing bottlenecks in the economy and thus promoting
+investment and economic growth. The negativity of the coefficients of changes in
+government capital expenditure in the short-run and at lag 2 could also be indicative on
+the time it takes for capital spending to show itself in the output and profit function of the
+productive sectors of the economy. It can therefore be concluded, from the output, that
+government capital spending constitutes a diversion of funds from profitable private
+production to non-productive sources, with the net effect being negative.
+Government recurrent expenditure has the expected negative sign for the short-run
+and at lag 1 but a positive sign at lag 3. The negative sign as posited by theory is the
+result of government spending putting upward pressure on wages in the private sector
+Variable
+
+Coefficient
+
+Std. error
+
+t-Statistic
+
+Prob.
+
+C
+D(GCAP)
+D(GCURR)
+D(GCURR(21))
+D(GCAP(2 2))
+D(GCURR(22))
+D(GCAP(2 3))
+D(DTAX)
+D(TINTR)
+D(TIP)
+D(TIP(2 1))
+D(TIP(2 2))
+D(TINTR(2 3))
+FI_ECMG(2 1)
+R2
+Durbin-Watson statistic
+
+20.038289
+21.187368
+20.796334
+20.877368
+21.046462
+1.411608
+0.778000
+1.608138
+2.536608
+21.860701
+3.174610
+23.427386
+1.132753
+20.891809
+0.917424
+1.927012
+
+0.516086
+0.561879
+0.248271
+0.378281
+0.363868
+0.408301
+0.501351
+0.632572
+0.542859
+0.994045
+1.329451
+1.477472
+0.511892
+0.168653
+F-statistic
+Prob. (F-statistic)
+
+20.074192
+22.113209
+23.207522
+22.319355
+22.875942
+3.457276
+1.551808
+2.542220
+4.672685
+21.871848
+2.387910
+22.319764
+2.212873
+25.287835
+14.52858
+0.000001
+
+0.9417
+0.0497
+0.0052
+0.0331
+0.0105
+0.0030
+0.1391
+0.0210
+0.0002
+0.0785
+0.0288
+0.0331
+0.0409
+0.0001
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+thereby reducing returns to private production and retarding economic growth. Other
+studies also indicate that though government current expenditure is generally
+expected to have a negative sign, the sector in which this expenditure is concentrated
+may matter for its net effect on growth. According to Poot (2000), government
+expenditure on education, even of a recurrent nature is positive on growth since it
+constitutes investment in human capital, one of the most important determinants of
+growth. The positive coefficient at lag 3 could also be indicative of the time it takes for
+enough knowledge to be acquired in order to yield positive dividends.
+On the revenue side, TIP has the expected sign in the short-run and at lag 2 and a
+contrary sign at lag 1. The differences in the coefficient signs over the short,
+intermediate and long-run may be the result of the adjustment process in PI decision
+making. Tax on domestic goods and services exhibits a short-run relationship with real
+GDP growth rate. It has the expected positive sign and is significant at 5 per cent.
+Tax on international trade has a positive sign and is significant at 1 and 5 per cent for
+the short- and long-run (lag 3), respectively. This could be an indication that most
+of the taxes on international trade are levied on consumables as opposed to durables,
+thus netting the effect similar to that of indirect taxes.
+The error-correction term in this function is significant at 1 per cent. The negative
+coefficient confirms the long-run relationship between changes in the real GDP growth
+rate and changes in government fiscal policy. From the output Table V, it can be
+inferred that 89 per cent of all disequilibrium in the previous period is adjusted for in
+the current period and this adjustment process is stable.
+
+Fiscal policy,
+PI and economic
+growth
+123
+
+Test of robustness of relationship between variables
+In order to test for the robustness of the estimated relationship, each group of
+independent variables (expenditure and tax revenue) were modeled separately and
+jointly. The test of the strength of the relationship is based on the coefficients
+maintaining their signs and statistical significance when modeled separately and
+jointly to changes in the rate of growth of real GDP. On the basis of this criterion,
+changes in short-run government capital expenditure, government recurrent
+expenditure at lag 2, short-run changes in tax on international trade can be said to
+exhibit very robust relationships with the rate of real GDP growth.
+Estimating the private investment (PI) function
+Cointegration analysis. The ADF test is conducted on the residuals generated from the
+regression equation of the variables in levels. The test statistics indicate that the
+residuals of the PI-revenue equation are stationary, i.e. I(0) at 5 per cent with a test
+statistic of 2 2.317312 as against a critical value of 2 1.9514, while the residuals of
+the PI-expenditure and PI-fiscal policy equations are not stationary. The ECM is
+therefore invoked in the estimation of the PI-revenue equation. On the other hand, the
+PI-expenditure and PI-fiscal policy equations are estimated in their first difference with
+lags of the independent variables (three in this case) but with no error-correction term.
+The equations are thus specified as (Table VI):
+ð12Þ
+DPIt ¼ b0 þ b1 DGCURRt þ b2 DGCAPt þ 1t ;
+DPIt ¼ d0 þ d1 DDTAXt þ d2 DTIPt þ d3 DTINTRt þ d4 R_ECMPð21Þ þ 1t ;
+
+ð13Þ
+
+DPIt ¼ a0 þ a1 DGCURRþ a2 DGCAPþ a3 DDTAXþ d4 DTIPþ a5 TINTRþ1t : ð14Þ
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+124
+
+Table VI.
+Results of the short-run
+parsimonious model of
+PI-expenditure function
+
+Table VII.
+Results of the
+parsimonious ECM of
+PI-revenue function
+
+The estimated coefficients of equation (12) show gross inconsistencies with respect to
+the expected signs. Government capital expenditure is consistently negative in all three
+coefficients, though it is only significant in one, at lag 3. At lag 3, it is significant at
+5 per cent. The consistently negative relationship may be due to the long-term nature of
+responses to capital outlays. Government recurrent expenditure is no different with
+respect to the inconsistencies. This type of government expenditure exhibits both
+positive and negative coefficients in the same equation. The expected negative sign is
+however not significant at any of the conventional significance levels. The significant
+positive coefficient of recurrent government expenditure only serves to buttress the
+proposition by traditional Keynesian macroeconomics that recurrent government
+expenditure stimulates aggregate demand and impacts growth positively in the
+long-run. Though the F-statistic is significant, implying that government capital and
+recurrent expenditure jointly determine changes in PI, at 33 per cent, the explanatory
+power (R 2) of the independent variables is less than satisfactory and so is the value of
+the F-statistic. It can thus be inferred that government spending, both capital and
+recurrent, do not have a strong association with PI (Table VII).
+The output from the estimation of equation (13) shows an explanatory power of
+55 per cent. It can be inferred then that about 55 per cent of variations that occur in
+changes in PI is attributable to changes in the amount of tax collected as a share of GDP.
+The Durbin-Watson statistic shows that there is no autocorrelation among the residuals.
+The tax variables jointly determine the changes in the PI share of GDP. A 1 per cent
+change in the short-run share of tax on domestic goods and services causes PI to change
+by a rate of 0.905 per cent. A 1 per cent change in tax on international trade on the other
+hand serves to decrease the rate of growth of PI by 0.62 per cent. The error-correction
+
+Variable
+
+Coefficient
+
+Std. error
+
+t-Statistic
+
+Prob.
+
+C
+D(GCAP)
+D(GCURR(21))
+D(GCAP(2 2))
+D(GCURR(22))
+GCAP(2 3)
+R2
+Durbin-Watson statistic
+
+2.149059
+20.660819
+0.509847
+20.450988
+20.344702
+20.519129
+0.328049
+2.626709
+
+0.985147
+0.396621
+0.246021
+0.326513
+0.227626
+0.236720
+F-statistic
+Prob. (F-statistic)
+
+2.181461
+21.666124
+2.072373
+21.381224
+21.514332
+22.193007
+2.538662
+0.053382
+
+0.0384
+0.1077
+0.0483
+0.1790
+0.1420
+0.0374
+
+Variable
+
+Coefficient
+
+Std. error
+
+t-Statistic
+
+Prob.
+
+C
+D(DTAX)
+D(TIP(2 1))
+D(TINTR(2 3))
+D(TIP(2 3))
+R_ECMP(21)
+R2
+Durbin-Watson statistic
+
+0.254490
+0.905819
+2.174705
+20.619788
+1.181223
+20.075612
+0.550975
+1.983276
+
+0.362688
+0.300461
+0.702185
+0.269839
+0.701263
+0.121927
+F-statistic
+Prob. (F-statistic)
+
+0.701677
+3.014762
+3.097053
+22.296883
+1.684423
+20.620140
+6.135243
+0.000772
+
+0.4894
+0.0058
+0.0048
+0.0303
+0.1045
+0.5408
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+term is not statistically significant even though it has a negative coefficient and the
+absolute value is less than one (Table VIII).
+Approximately, 66 per cent of changes in the rate of growth of PI can be explained by
+changes in government tax and expenditure share in GDP. The DW indicates the
+absence of serial correlation among the residuals. The power of the independent
+variables to jointly determine rate of growth of PI, the F-statistic, is significant at
+1 per cent. Except for TIP, all the variables have the expected coefficient signs. That
+notwithstanding, most of the expenditure variables were not significant at any of the
+conventionally accepted significance level. Except for government capital at lag 3 which
+was significant at 10 per cent, all the others were ambiguous. Of the revenue variables,
+TIP also has a coefficient sign contrary to what was expected. However, since the
+positive sign and statistical significance are retained across specification, it will thus
+be inferred that TIP is favourable to PI. This could because the population falling within
+the income and property tax net are indifferent to tax with respect to their investment
+decisions. An alternative inference could be that tax rate in the country are relatively low
+thus they do not serve as disincentives to capital accumulation. Tax on international
+trade is significant at 10 per cent and has a negative coefficient. Ghana is a country that
+imports a significant proportion of machinery to aid its manufacturing sector. Taxes on
+these could well distort their cost functions and make the indigenous producers
+relatively uncompetitive in the market. The resultant effect will be losses to the
+producers and subsequently, a reduction in capital accumulated.
+
+Fiscal policy,
+PI and economic
+growth
+125
+
+Test of robustness of relationship
+As per the criterion given in the third section, tax on domestic goods and services, TIP
+and taxes on international trade were found to have a very robust association with PI.
+Tax on domestic goods and services and TIP were significantly positive across the
+separate and joint estimations while tax on international trade at lag 3 was consistently
+negative and significant across the separate and joint estimations.
+Comparative analysis of GDP and private investment
+A look at the correlation matrix (Table IX) shows that for Ghana, the relationship between
+PI and economic growth (real GDP growth), though positive, is relatively weak at about
+0.318278. Given this correlation, it is not surprising to note that across all the estimations,
+the two do not exhibit any similarities in terms of independent variable influence.
+Variable
+
+Coefficient
+
+Std. error
+
+t-Statistic
+
+t-Prob.
+
+C
+D(GCURR)
+D(GCAP(2 1))
+D(GCURR(22))
+D(GCAP(2 3))
+D(DTAX)
+D(TIP(2 1))
+D(DTAX(2 3))
+D(TINTR(2 3))
+R2
+Durbin-Watson statistic
+
+0.164898
+2 0.174193
+0.392324
+2 0.309802
+0.467707
+0.990089
+2.358485
+0.578564
+2 0.839867
+0.658202
+2.21638
+
+0.346573
+0.137216
+0.326807
+0.208804
+0.269812
+0.327653
+0.672943
+0.300037
+0.289783
+F-statistic
+Prob. (F-statistic)
+
+0.475797
+2 1.26949
+1.200475
+2 1.4837
+1.733458
+3.021757
+3.504732
+1.928307
+2 2.89827
+5.295697
+0.000881
+
+0.6389
+0.2175
+0.2427
+0.1521
+0.097
+0.0063
+0.002
+0.0668
+0.0083
+
+Table VIII.
+Results of the estimation
+of the PI-fiscal policy
+function in first
+differences
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+Table IX.
+Correlation matrix of
+dependent (GDP, PI) and
+independent variables
+0.318278
+1.000000
+0.231420 * * *
+0.213549
+0.657877
+0.126133
+0.533789
+20.094768
+0.231420
+1.000000
+0.585125 * * *
+0.138812
+0.625283
+0.163669
+
+GCURR
+
+Notes: Significance at: *10; * *5 and * * *1 per cent, respectively
+Source: Computed from data collected
+
+1.000000
+0.318278 *
+2 0.094768
+2 0.037175
+0.209812
+0.187362
+0.043271
+
+PI
+20.037175
+0.213549
+0.585125
+1.000000
+20.164242 * * *
+0.741673
+0.497660
+
+GCAP
+
+0.209812
+0.657877
+0.138812
+20.164242
+1.000000
+20.215327
+0.233768 *
+
+DTAX
+
+0.187362
+0.126133
+0.625283
+0.741673
+2 0.215327
+1.000000
+0.390177 * *
+
+TINTR
+
+126
+
+GDP
+PI
+GCURR
+GCAP
+DTAX
+TINTR
+TIP
+
+GDP
+
+0.043271
+0.533789
+0.163669
+0.497660
+0.233768
+0.390177
+1.0000
+
+TIP
+
+SEF
+25,2
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+In instances, where some of the independent variables have been significant across the
+two dependent variables, their signs are in opposite directions. This is further buttressed
+by some of the figures in Table IX. A case of interest is government expenditure. While
+GDP exhibits a negative relationship with all forms of government expenditure, PI is of
+the opposite direction and of a different magnitude. This difference in magnitude seems
+to hold across all the variables except for tax on international trade, even then, the
+regression output (Tables III, V, VI and VIII) indicate divergent directions in the
+long-run thereby serving to weaken the postulated relationship.
+
+Fiscal policy,
+PI and economic
+growth
+127
+
+Summary of major findings
+PI and economic growth were found to have a positive relationship. However, this
+relationship was far from being perfectly correlated. In other words, policies to
+encourage PI may not necessarily be growth enhancing (the correlation coefficient was
+0.318278).
+Moreover, these two variables were also not influenced in a similar manner, be it the
+mathematical sign or the size of the coefficients of the significant explanatory variables.
+For instance, in the third equation (the joint specification), which is also the test of
+robustness, the rate of real GDP growth was influenced in a negative manner by the rate
+of change in all forms of government spending in the current period. After two years, the
+effect still remained negative for government capital expenditure but positive for
+government recurrent expenditure. After three years, the effect of government capital
+expenditure becomes insignificant. The net effect that was deduced was that
+government capital spending has a negative influence on economic growth and instead,
+government recurrent expenditure has a positive effect, though not immediate but after
+two years.
+For PI, the effect of government recurrent spending becomes insignificant after two
+years while changes in capital expenditure are insignificant in the short-run and turn
+significantly positive only after three years. This impact is almost a complete reversal
+of the impact of government spending on economic growth.
+On the revenue side also, there were differences in the impact of taxes, especially tax
+on international trade: the impact was significantly positive for economic growth but
+significantly negative for PI, all at lag 3. Another difference between these two
+macroeconomic variables stems from the existence of a long-run relationship between
+government fiscal policy variables and the rate of economic growth but not between
+the rate of change in private capital investment and the rate of growth of government
+fiscal policy variables. All in all, it cannot be concluded that one set of policies be
+engineered to concurrently promote both PI and economic growth.
+Policy recommendations
+In light of the differing effects of government fiscal policy, variables on PI and
+economic growth and the far from perfect positive correlation between the two
+dependent variables under study, policies to enhance economic growth, for example,
+must be different from though not inimical to PI and vice versa.
+From the study, it can be concluded that government capital spending is not done in
+profitable areas of the economy or as Wetzel (2000) put it, the spending is not done to
+remove existing bottlenecks in the economy and improve productivity with regards
+to capital investment. Moreover, some empirical studies have also shown that
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+128
+
+government capital expenditure in infrastructure has the highest impact (positive) on
+private capital investment since it increases returns to private capital (Moshi and
+Kilindo, 1999). Based on this perspective, government capital spending in Ghana
+should be geared towards infrastructure development: improving property rights,
+maintaining law and order and restructuring the justice system in order to favour and
+protect productive investments as it could also be growth enhancing in the long-run.
+The findings of the study also indicate that changes in government capital
+expenditure does not impact immediately but rather has a positive significant impact
+only after three years with all such spending in periods before being insignificant.
+The policy recommendation therefore is that government must not pursue ad hoc
+policies aimed at appeasing the electorate in the immediate period since overspending
+on such projects only diverts resources away from productive sectors and causes a
+decline in the economy as a whole.
+Government recurrent spending, on other hand, is negative and insignificant for PI.
+Without taking the statistical insignificance into consideration, the negativity of the
+coefficients could be because the public sector is overly large and inefficient, thus
+consuming a large amount of the nation’s resources but not returning enough to make
+up. Consequently, government must pursue policies to prune the public sector and
+make it more efficient so as to reduce its negative effect on PI.
+Tax on international trade, made up on taxes on imports and exports, has a negative
+effect on PI. This could be attributed to the negative effect of tax on imports of durable
+or capital goods: the tax serves to discourage investment in durable goods as
+the investors are “penalized” (taxed). For this reason, the taxation of international trade
+must be restructured in order to encourage the importation of manufacturing plants
+and equipment. This however, may not have a significant influence on long-run
+economic growth because the sign and impact of this variable is not the same with
+respect to the rate of real GDP growth; in this case it is positive and statistically
+significant. Taxes on income and property had a positive effect on PI. The non-linear
+relationship postulated by Hermes and Lensink (2001) could be at work here.
+According to Hermes and Lensink (2001), TIP has a humped shape with PI. The import
+of this is that the effect of income tax on PI is positive up to a maximum point after
+which higher taxes exert a negative influence. It can thus be said that TIP is still below
+this maximum point, as such the policy recommendation is that government can
+increase taxes and widen the tax net to the point where the extra revenue harnessed is
+totally offset by the costs of high taxes. This must however be done with an eye out
+for the negative influence this might have on long-run economic growth. In the
+meantime, tax on domestic goods and services can be increased since the economy
+seems to have the capacity to absorb whatever shock that may arise thereof.
+References
+Al-Yousif, Y. (2000), “Do government expenditures inhibit or promote economic growth: some
+empirical evidence from Saudi-Arabia”, The Indian Economic Journal, Vol. 48 No. 2.
+Balls, A. (2005), “How government spending slows growth”, available at: www.nber.org/digest/
+jan00/w7207.html
+Barro, R.J. (1990), “Government spending in a simple model of endogenous growth”, Journal of
+Political Economy, Vol. 98.
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+Barro, R. (1991), “Economic growth in a cross-section of countries”, Quarterly Journal of
+Economics, April, pp. 407-44.
+Barro, R.J. and Sala-i-Martin, X. (1992), “Public finance in models of economic growth”, Review of
+Economic Studies, Vol. 59.
+Benos, N. (2004), “Education policies and economic growth”, University of Cyprus Working
+Papers in Economics 4-2004, Department of Economics, University of Cyprus, Cyprus.
+Bose, N., Haque, M.E. and Osborn, D.R. (2003), Public Expenditure and Economic Growth:
+A Disaggregated Analysis for Developing Countries, University of Wisconsin, Madison, WI.
+Cashin, P. (1995), “Government spending, taxes and economic growth”, IMF Staff Paper, Vol. 42
+No. 2.
+Diamond, J. (1989), “Government expenditure and economic growth: an empirical study.
+Economic development and cultural change and some evidence from cross-sectional and
+time series data”, American Economic Review.
+Dickey, D.A. and Fuller, W.A. (1981), “Likelihood ratio statistics for autoregressive time series
+with a unit root”, Econometrica, Vol. 49, pp. 1057-72.
+Easterly, W. and Rebelo, S. (1993), “Fiscal policy and growth: an empirical investigation”, Journal
+of Monetary Economics, Vol. 32.
+Enders, W. (1995), Applied Econometric Time Series, Wiley, New York, NY.
+Engle, R.F. and Granger, C.W.J. (1987), “Co-integration and error correction: representation,
+estimation and testing”, Econometrica, Vol. 55, pp. 251-76.
+Ewusi, K. (1987), Structural Adjustment and Stabilisation Policies in Developing Countries,
+ISSER, University of Ghana, Accra.
+Fölster, S. and Henrekson, M. (1997), “Growth and the public sector: a critique of the critics”,
+The Research Institute of Industrial Economics, Working Paper No. 492.
+Fölster, S. and Henrekson, M. (2000), “Growth effects of government expenditure and taxation in
+rich countries”, Working Paper No. 391, Stockholm School of Economics, Stockholm, June.
+Gallaway, L. and Vedder, R. (1998), Government Size and Economic Growth, Joint Economic
+Committee, Washington, DC.
+Garfield, R. (1995), “Government spending and economic growth, economics untangled”,
+Congress Committee Report.
+Girijasankar, M. and Chowdhury, A. (2002), “Inflation, government expenditure and real income
+in the long-run”, Journal of Economic Studies, Vol. 29 No. 3, pp. 240-51.
+Gwartney, J., Holcombe, R. and Lawson, R. (1998), “The scope of government and the wealth of
+nations”, Cato Journal, Vol. 2.
+Hendry, D.F. (2005), Dynamic Econometrics, Oxford University Press, Oxford.
+Hermes, N. and Lensink, R. (2001), “Fiscal policy and private investment in less developed
+countries”, Discussion Paper No. 2001/32, UNU/WIDER.
+
+Fiscal policy,
+PI and economic
+growth
+129
+
+Kormendi, R. and Meguire, P. (1985), “Macroeconomic determinants of growth: cross country
+study”, Journal of Monetary Economics, Vol. 16.
+Kweka, J.P. and Morrissey, O. (1999), Government Spending and Economic Growth: Empirical
+Evidence from Tanzania, CREDIT and School of Economics, University of Nottingham,
+Nottingham.
+Kweka, J. and Morrissey, O. (2000), “Government spending and economic growth in Tanzania,
+1965-1996”, CREDIT Research Paper 00/06, University of Nottingham, Nottingham.
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+SEF
+25,2
+
+130
+
+Levine, R. and Renelt, D. (1992), “A sensitivity analysis of cross-country growth regressions”,
+American Economic Review, Vol. 82.
+McConnell, C.R. and Brue, S.L. (1999), Microeconomics, 14 ed., McGraw-Hill, London.
+McKay, A. (2002), “Assessing impact of fiscal policy on poverty”, Discussion Paper No. 2002/43.
+UNU/WIDER.
+M’Amanja, D. and Morrissey, O. (2004), Fiscal Aggregates, Aid and Growth in Kenya, School of
+Economics, University of Nottingham, Nottingham.
+Matwang’A Lusambili, F. (2000), “Determinants and constraints to private investment: the case
+of Kenya”, June.
+Mitchell, D.J. (2005), “The impact of government spending on economic growth”, available at:
+www.heritage.org/research
+Moshi, H.P.B. and Kilindo, A.A.L. (1999), “The impact of government policy on macroeconomic
+variables: a case study of private investment in Tanzania”, Working Papers from African
+Economic Research Consortium.
+Nijkamp, P. and Poot, J. (2002), “Meta-analysis of the impact of fiscal policies on long-run
+growth”, Tinbergen Institute Discussion Paper, TI 2002-028/3.
+Poot, J. (2000), “A synthesis of empirical research on the impact of government on long-run
+growth”, Growth and Change, Vol. 31, pp. 516-46.
+Ram, R. (1986), “Government size and economic growth: a new framework and some evidence
+from cross-sectional and time series data”, America Economic Review, Vol. 76 No. 1.
+Ramirez, J.L. (1994), “Reference rover: the hesitant patron’s best friend”, College & Research
+Libraries News, Vol. 55, pp. 354-7.
+Saunders, N.K.M., Lewis, P. and Thornhill, A. (2000), Research Methods for Business Students,
+FT Prentice-Hall, Harlow.
+Sjöberg, P. (2003), Government Expenditures on Economic Growth: The Case of Sweden, Luleal
+University, Luleal.
+Wetzel, D.J. (2000), Fiscal Decentralization in Former Socialist Economies: Progress and
+Prospects, World Bank, Washington, DC.
+Further reading
+Gemmell, N. (2001), “Fiscal policy in a growth framework”, WIDER Discussion.
+Corresponding author
+Vera Ogeh Soli can be contacted at: vsoli@ug.edu.gh
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+Downloaded from http://www.emerald.com/sef/article-pdf/25/2/112/2257107/10867370810879438.pdf by University of Ghana, John Vanderpuye on 25 Marc
+
+

@@ -1,0 +1,1803 @@
+Government Information Quarterly 34 (2017) 244–255
+
+Contents lists available at ScienceDirect
+
+Government Information Quarterly
+journal homepage: www.elsevier.com/locate/govinf
+
+Open Government Data in Africa: A preference elicitation analysis of
+media practitioners
+Eric Afful-Dadzie a,⁎, Anthony Afful-Dadzie b
+a
+b
+
+Faculty of Applied Informatics, Tomas Bata University in Zlin, Czech Republic
+University of Ghana Business School, University of Ghana, Accra, Ghana
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 27 May 2016
+Received in revised form 14 February 2017
+Accepted 15 February 2017
+Available online 2 March 2017
+Keywords:
+Open Government Data (OGD)
+The media
+Web portal
+Preference modelling
+Developing countries
+Conjoint analysis
+
+a b s t r a c t
+Open Government Data (OGD) continues to receive considerable traction around the world. In particular, there
+have been a growing number of OGD establishments in the developed world, sparking expectations of similar
+trends in growing democracies. To understand the readiness of OGD stakeholders in Africa especially the
+media, this paper (1) reviews current infrastructure at OGD web portals in Africa and (2) conducts a preference
+elicitation analysis among media practitioners in 5 out of the 7 OGD country centers in Africa regarding desired
+structure of OGD in developing countries. The analysis gives a view of the relative importance media practitioners
+ascribe to a selected set of OGD attributes in anticipation of a more functional OGD in their respective countries.
+Using conjoint analysis, the result indicates that media practitioners put premium on ‘metadata’ and ‘data format’
+respectively in order of importance. Results from the review also reveal that features of current OGD web portals
+in Africa are not consistent with the desired preferences of users. Overall, the study provides a general insight into
+media expectations of OGD in Africa, and also serves as a foundational knowledge for authorities and practitioners to manage expectations of the media in connection with OGD in Africa.
+© 2017 Elsevier Inc. All rights reserved.
+
+1. Introduction
+Open Government Data (OGD) is gradually resonating with governments around the world (Gonzalez-Zapata & Heeks, 2015;
+Krishnamurthy & Awazu, 2016; US Gov., 2016). For instance, as of
+2015, 52 countries and 164 regions (cities and districts) around the
+world have functioning OGD centers (US Gov., 2016). This development
+is welcoming especially given the fact that, public data had for a long
+time been the exclusive reserve of the state (Yiu, 2012). Besides the individual country initiatives, major global development-oriented organizations have also been advocating for a broader acceptance of OGD by its
+member countries. Some of such organizations are the World Bank, The
+Organization for Economic Co-operation and Development, International
+Monetary Fund, United Nations, Bank of International Settlements,
+European Central Bank, African Development Bank, the statistical ofﬁce
+of the European Union (EUROSTAT) and the European Commission
+(OECD, 2014; AfDB, 2011; AfDB, 2014; World Bank, 2015).
+Despite the growing acceptance and interest in OGD, the deﬁnition,
+scope, expectations and preferences among key stakeholders such as
+politicians, civil society groups, funding agencies, public sector ofﬁcials
+⁎ Corresponding author.
+E-mail addresses: afful@fai.utb.cz (E. Afful-Dadzie), atosarsah@gmail.com
+(A. Afful-Dadzie).
+
+http://dx.doi.org/10.1016/j.giq.2017.02.005
+0740-624X/© 2017 Elsevier Inc. All rights reserved.
+
+and the media have been varied (Gonzalez-Zapata & Heeks, 2015).
+However, whiles the deﬁnitional differences and the seeming discrepancies in the scope of OGD are not surprising, the logistics, standards and
+methodologies are expected to be synchronized. In particular, standardizing the technical requirements is key to guiding OGD adaptations around
+the world. In addition to achieving consistency in technical requirements,
+understanding preferences and expectations of key actors is also viewed
+as a positive step to successfully localizing the OGD concept in various
+regions around the world (Martin, Kaltenböck, Nagy, & Auer, 2011).
+According to Stoneman (2015), one key actor conspicuously missing in
+most OGD discourses is the media - professional practicing journalists
+including those in the print and electronic media (radio and TV), as
+well as online journalists such as bloggers. For instance, whiles the
+media's role in Freedom of Information (FOI), otherwise known as
+Right to Information (RTI) is well recognized (Burgess, 2015; Giannone
+& De Frutos, 2016; Stoneman, 2015), its role in OGD has not been welldeﬁned or discussed. Stoneman (2015) posits that the media is both a
+beneﬁciary and an agent of OGD. As beneﬁciaries, the media stands to
+gain in a functional OGD, by having ready access to data for its work. In
+addition, media practitioners also stand to beneﬁt by using OGD to
+hone their skill sets in data journalism or precision journalism (Lewis &
+Usher, 2013; Stoneman, 2015). As an agent of information channel and
+dissemination, the media has the capacity to create and shape public
+opinion on the usefulness of OGD (Sambrook, 2013; Martin et al., 2011;
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+Network, 2013; Stoneman, 2015). In view of this and to facilitate the role
+of the media in OGD, it is imperative to understand their preferences and
+expectations.
+This paper therefore conducts a preference elicitation analysis of
+media practitioners in 5 out of the 7 OGD country centers in Africa to determine preferences of media practitioners regarding features of an
+ideal OGD web portal. The preference model employed also allows for
+the determination of the relative importance of the preferred features
+by the media practitioners. Since the conception and the formal launch
+of OGD, several studies ranging from deﬁnitional challenges among different stakeholders (Gonzalez-Zapata & Heeks, 2015; Vetrò et al., 2016),
+perceived beneﬁts, myths and challenges (Martin, 2014; Janssen,
+Charalabidis, & Zuiderwijk, 2012; Robinson, Yu, Zeller, & Felten, 2009),
+standards and frameworks (Bennett & Harvey, 2009; Herzog, 2014), to
+policy issues (Martin, 2014; Yiu, 2012; Zuiderwijk & Janssen, 2014)
+have been authored. Though some works have focused on reporting
+on initiatives made over the years in some countries (Attard, Orlandi,
+Scerri, & Auer, 2015; Krishnamurthy & Awazu, 2016; Ubaldi, 2013;
+Huijboom & Van den Broek, 2011; Rahemtulla, Kaplan, Gigler, Cluster,
+Kiess & Brigham, 2011; Ohemeng & Ofosu-Adarkwa, 2015), none so
+far has conducted a technical infrastructural audit of OGD web portals
+in accordance with established standards and requirements. Furthermore, none of the previous works on OGD, has attempted to understand
+preferences and expectations of stakeholders in speciﬁc regions around
+the world, with a view to understanding the adequacy of current standards and methodologies. The study therefore ﬁlls theory and research
+gaps in two folds: First, an audit is conducted of the current infrastructure used at OGD centers in Africa. The audit, reviews the current web
+services infrastructure offered on each country's OGD web portal,
+grouped mainly into web portal functionalities and contents. The second
+contribution of the paper focused on understanding media practitioners' preferences of ideal OGD features or characteristics. The traditional conjoint analysis method was deemed appropriate for building
+the preference and elicitation model. Further, relative importance
+assigned by media practitioners are segmented based on their sociodemographic characteristics.
+The rest of the paper is structured as follows. First, a brief description
+of current state of the art at OGD centers in Africa is provided. This is
+followed by the methodology, where the mathematical theory, the design and implementation of conjoint analysis are presented. The results,
+discussion, recommendations and conclusion are further presented.
+2. State of the art of Open Government Data centers in Africa
+The growth of OGD centers in Africa has generally slowed in spite of
+the high expectations since its launch in 2011 (Kassen, 2014; Cretu &
+Manolea, 2013). According to Open Government Partnership, the
+pioneering organization responsible for the global OGD launch, there
+are 11 countries in Africa out of 69 in the world that have signed the
+OGD declaration as of 2016 (OGP, 2016). However, only 7 out of the
+11 countries comprising of Ghana, Sierra Leone, Tunisia, Morocco,
+South Africa, Kenya and Tanzania have functioning OGD web portals
+(US Gov., 2016).
+To understand the level of progress made in Africa, this section
+reviewed the OGD setup, tools and standards currently implemented
+on the various OGD web portals for the seven African countries. In particular, the examination focused on the technical capacity (web content
+and functionalities), revealing features (standards) currently available
+and those missing across the various OGD country web portals.
+2.1. OGD portal audit strategy
+The World Wide Web Consortium's (W3C) benchmarks for publishing OGD data (Bennett & Harvey, 2009) and the World Bank's Technical
+option guide (Herzog, 2014), spell out technical requirements necessary
+for establishing efﬁcient and modern OGD data centers. Together, the
+
+245
+
+two standards among other things, emphasize on (1) that public
+datasets are as much as possible published in their raw state rather
+than in an analyzed form, (2) that each dataset is accompanied by a
+well-documented metadata and (3) that data is stored in a range of
+formats – both human and machine-readable. Based on these technical
+requirements, as well as observing OGD web features on wellestablished OGD centers such as the US, UK and Australia, a range of
+OGD web characteristics were selected for the audit study. Table 1 explains the selected OGD features and the audit strategy used to establish
+the availability or unavailability of an OGD feature. The characteristics
+for the audit were conveniently divided into two broad categories of
+‘OGD portal content’ and ‘OGD portal functionalities’ as shown in
+Table 1. Lower level categories under OGD portal content included
+total datasets (as at the time of this research), number of data categories,
+links to external data sites, data currentness (monthly), metadata and data
+format. Similarly, lower level categories under the ‘OGD portal functionalities’ classiﬁcation, were data search, data visualization, social media
+plugins and social media availability.
+Consistent with the guidelines, the study sought to determine how
+each country measures up on these metrics. A web content analysis
+(feature analysis) approach was used in the inventory audit by scanning
+through the web pages to identify relevant features. Most of the features
+such as data search, links to external sites, social media plugins, data
+visualization, data currentness and number of data categories, could easily
+be identiﬁed on each OGD website. However, the other features
+required thorough search through all the web pages. Table 2 presents
+the results of the OGD portal content and functionality audit ﬁndings.
+Apart from some measurable properties such as total datasets and
+number of data categories (subject areas), the rest of the metrics sought
+binary answers regarding the availability or otherwise of OGD features.
+If a feature is available, it is assigned the symbol (✓) and when not
+available, the symbol (x) is used. If the feature happens to be present
+on the webpage but not functioning, it is assigned the symbol (✓x).
+
+2.2. Audit ﬁndings
+This section summarizes the ﬁndings of the OGD web content and
+functionality audit (Table 2) giving an insight into the progress and deﬁciencies at OGD centers in Africa. In all, Kenya had the most datasets
+(about 8 times more than what the second highest country provided
+on it portal). Sierra Leone had the least number of datasets (as of the
+time of this research). On categories of data, Tunisia provides as many
+as 17 different categories of datasets though the country only provides
+three formats for its datasets – PDF, CSV and XLS(X). Some of the
+commonest data categories observed across all data portals were education, agriculture, health, environment, governance, construction, energy and
+ﬁnance. Some data categories were on subjects such as state property,
+social affairs, real property, commerce and vocational training which
+could have been classiﬁed under some higher categories.
+Sierra Leone, Tanzania and Morocco do not provide links to external
+datasets stored on other publicly accessible servers. However, with the
+exception of Sierra Leone, all other countries were found to be providing
+up-to-date datasets. It is quite interesting that metadata which is one of
+the key features emphasized in the W3C benchmarks and the World
+Bank OGD technical guide have received no attention. Only Kenya provides data in a metadata form. Even that, Kenya provides only descriptive metadata without structural and administrative formats. There
+are mixed results on data formats. Tanzania provides data in only one
+format – comma separated value (CSV) whiles South Africa and Tunisia
+provide only two data formats. Kenya however, provides as many as 8
+different data formats to ease data access, whiles Sierra Leone provides
+ﬁve different data formats. Technical guidelines dictate that OGD centers do not become just data repositories, but offer data in machine
+readable formats such as JSON, XML, API, RSS, RDF etc. In this regard,
+Kenya stands out among the 7 countries.
+
+246
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+Table 1
+OGD Web content and functionality audit strategy.
+
+Feature
+
+Total no. of datasets
+
+OGD web portal content
+
+Links to external sites
+
+No. of data categories
+
+The inclusion of this feature was to find out the total number of datasets stored on respective
+country's OGD servers since 2011(the year all the 7 countries joined OGD). Here datasets
+from the various subject categories were aggregated to arrive at the final value. Column 2 of
+Table 2, shows the total count of datasets recorded on each OGD web portal as of the time.
+This OGD characteristic is a requirement captured in the World Bank Technology option
+guide for publishing OGD. Here, the audit strategy sought to identify instances where an
+OGD portal provided external links to datasets that are stored on different publicly accessible
+servers. For instance, due to copy right issues, where a dataset is not owned by an OGD
+portal, it is expected to provide a direct link to where the data can be located.
+This characteristic measured the variety of data categories stored on each country's OGD
+portal. Open government partnership recommends that OGD portals store as many datasets
+covering variety of subjects as possible.
+
+Data currentness (30
+days)
+
+This feature measured the ‘up-to-dateness’ of datasets stored on each OGD portal. The audit
+strategy was to check the date on which the most current dataset was published. If the date is
+more than 30days, then the feature is considered ‘not available’.
+
+Metadata
+
+This characteristic checks whether datasets come with requisite information that adequately
+describes the data. This is a key requirement by OGD advocates. The audit strategy manually
+checked whether datasets were provided with metadata.
+
+Data formats
+
+Data search
+
+OGD portal functionalities
+
+Audit strategy
+
+Social media plugins
+
+Social media
+availability
+
+Data visualization
+
+Another key requirement of OGD portals is the provision of data in both human and machinereadable non-proprietary formats such as CSV, XML, PDF, RDF JSON etc. to facilitate easy
+access by the public. The audit strategy sought to find whether an OGD portal had as many
+data formats covering various data types as possible. For instance, it is expected that data in
+the form of documents are stored in either PDF, doc(x) or Excel etc. and geographical data
+are stored in Keyhole Markup Language (KML) or their equivalent alternatives. The array of
+data formats as seen in Table 2 were selected from the World Wide Web Consortium (W3C)
+and the World Bank Technology guide for publishing OGD. The search for the data formats
+was easier on some OGD portals as they could easily be identified on the websites. However,
+for others, another search through their html codes was necessary to locate the data formats.
+This characteristic focused on looking for a ‘search box’ feature on OGD webpages that
+allows users to easily locate specific information through a search term. This is a requirement
+by the World Wide Web Consortium (W3C) for publishing OGD.
+Embedding social media plugins in the OGD portal design is a requirement in the World
+Bank Technology guide for publishing OGD. The essence of this feature is to engage data
+users to share their experiences and suggest new datasets through comments. The audit
+strategy focused on identifying at least one social media site integrated in the web design.
+Particularly, we looked for the presence of Facebook, Twitter or Google+.
+This feature is a follow up to the ‘social media plugin’ characteristic. Here, the strategy was
+to ascertain whether the social media plugins actually direct users to a functioning social
+media portal. Keys to Table 2 further explains it.
+This feature is also a requirement by OGD advocates who emphasize that OGD portals
+provide a functionality to help users visualize the data. Visualization features come in various
+forms including tables, graphs, maps etc. The audit strategy checked whether the OGD portals
+provided this feature in the design or not.
+
+On the measures of data visualization and data search under OGD
+portal functionalities, all the countries with the exception of Tunisia
+possessed these features on their web portals. Finally, the Technology
+option in the World Bank guide for publishing OGD recommends that
+OGD centers also build strong social media presence to engage the public on data access and use. Here the study did not only check whether
+OGD portals integrated social media site plugins in the web design,
+but also further clicked on those links to ascertain whether their social
+media portals were functioning and were current (at least a month
+old activity). The audit ﬁndings revealed that whiles South Africa and Sierra Leone like the rest of the countries had social media plugins on their
+
+web pages, it was not operational. Kenya and Tunisia were by far the
+only countries with an active and current OGD social media presence.
+Social media platforms considered in the study were Facebook, Twitter
+and Google+.
+Overall, Kenya favourably sits at the top in terms of the technical
+richness of its OGD web portal. In fact, OGD portal Kenya, possesses a
+state of the art data repository with advanced features that are almost
+similar to data portals of OGD pioneering countries such as the UK
+(https://data.gov.uk/) and the US. (http://www.data.gov/open-gov/).
+This demonstrates Kenya's strong commitment to making public data
+free and easily accessible.
+
+x
+x
+x
+x
+x
+x
+x
+
+✓
+✓
+✓
+✓
+✓
+x
+✓
+
+✓
+✓
+✓
+✓
+✓
+✓
+✓
+
+✓
+✓
+✓*
+✓*
+x
+✓
+✓
+
+✓* inactive
+✓
+x
+x
+x
+✓
+✓*
+
+It is important that the design of any OGD web portal encourages
+easy accessibility and use by those it purports to serve. This requires
+that preferences of the eventual users are taken into account in the
+OGD design. The section ﬁrst presents a brief introduction to the methodology of the preference modelling technique employed in this paper.
+This is then used to determine the ideal characteristics of OGD among
+media practitioners in 5 African countries surveyed.
+Preference (utility) elicitation in utility theory is widely deﬁned as the
+process of assessing and extracting relevant information in user preferences with the view to achieving optimum decisions (Braziunas, 2006;
+Chen & Pu, 2004; Chajewska, Koller, & Parr, 2000). Whiles several utility
+methods have been proposed over the years, conjoint analysis (CA) and
+the analytical hierarchy process (AHP) are two methods widely used in
+user preference measurement (Helm, Steiner, Scholl, & Manthey, 2008).
+In this study, conjoint analysis (CA) method was deemed the appropriate
+method for revealing media practitioners' stated preferences and expectations regarding features they wish to see in an ideal OGD center. This
+is because in situations of incorporating trade-offs in preference elicitations, the CA technique performs better at revealing respondents' hidden
+utilities than AHP (Helm et al., 2008; Louviere, Hensher, & Swait, 2000). In
+what follows, an introduction to the conjoint analysis method employed
+for the preference modelling is presented.
+
+x
+✓
+x
+x
+x
+x
+x
+✓
+✓
+✓
+✓
+x
+✓
+✓
+
+3.1. Methodology
+Conjoint Analysis (Green & Rao, 1971; Green & Srinivasan, 1978) was
+originally designed to be used in marketing research to predict
+consumers' buying decisions. Over the years however, the concept has
+found widespread use in many other disciplines such as health, transportation, ﬁnancial services, recruitments, hotel industry among many
+others (Gustafsson, Herrmann, & Huber, 2013; Rao, 2014). CA works
+by decomposing user preference data into a so-called part-worth utilities
+(Green, Krieger, & Wind, 2001). The aggregated value of the part-worth
+utilities culminate into the relative importance respondents assign to
+‘stimuli’ attributes and their levels. Attribute levels that are assigned
+large part-worth utilities, are deemed the most preferred among respondents. On the other hand, small part-worth utilities indicate a relatively
+least preferred attribute and levels (Kuhfeld, 2005). Conceptually, the
+CA method can be described as a simple-effects analysis of variance
+(ANOVA) where specialized outputs are obtained (Kuhfeld, 2005). To
+model preferences and expectations with CA, ﬁrst Eq. (1) determines a
+respondent's stated preference regarding a set of attributes measured
+at various levels in a factorial design.
+yx1 x2 :::xn ¼ μ þ
+
+x
+✓
+x
+x
+x
+x
+x
+✓
+✓
+✓
+x
+x
+✓
+x
+
+✓
+✓
+✓
+x
+✓
+✓
+✓
+
+✓
+✓
+✓
+✓
+✓
+x
+✓
+
+x
+✓
+x
+✓
+x
+x
+x
+
+x
+✓
+x
+x
+x
+x
+x
+
+x
+✓
+x
+✓
+x
+x
+x
+
+✓
+✓
+✓
+✓
+x
+✓
+✓
+
+x
+x
+x
+x
+x
+x
+x
+
+n
+X
+
+βAxii þ
+
+Ghana (http://data.gov.gh/)
+Kenya (https://opendata.go.ke/)
+South Africa (http://data.gov.za)
+Sierra Leone (http://opendata.gov.sl)
+Tanzania (http://opendata.go.tz)
+Tunisia (http://data.gov.tn)
+Morocco (http://data.gov.ma/)
+
+118
+903
+106
+64
+84
+140
+116
+
+12
+11
+10
+16
+4
+17
+8
+
+i¼1
+
+✓ - feature is available.
+✓* - feature is available but non-functional (inactive).
+x - feature is unavailable.
+
+Social media
+plugins
+Data
+search
+Data
+visualization
+RSS
+XLS(X)
+RDF
+XML
+JSON
+
+Data formats
+
+CSV
+
+Metadata
+Data currentness
+(30 days)
+Links to
+external sites
+No. of data
+categories
+Total
+datasets
+
+OGD portal functionalities
+Country
+
+Table 2
+Inventory of current infrastructure at Open Government Data web portals in Africa.
+
+247
+
+3. Preference and elicitation modelling of media practitioners
+
+PDF
+
+SDMX
+
+API
+
+OGD web portal content
+
+Availability on social
+media (monthly)
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+n
+X
+
+AA
+
+βxiix jj þ
+
+i; j ¼ 1
+i≠ j
+
+n
+X
+
+AA A
+
+βxiix jjxkk þ :::
+
+ð1Þ
+
+i; j; k ¼ 1
+i≠ j≠k≠i
+
+:::An
+þ βAx11xA22 :::x
+þ εx1 x2 :::xn ;
+n
+
+where μ is the general mean; βxiAi is the effect of attribute Ai at the level xi;
+βxixjAiAj is the interaction effect of attributes Ai and Aj at levels xi and xj respectively; and εx1,x1, …xn is the error term. The attributes of the stimuli
+characterize the independent variables, the preferences represent the
+dependent variable (yx1 ,x2 … xn), and the β′s are the part-worth utilities
+that signify the parameter estimates from the ANOVA model (Rao,
+2014). Following this, the total utility of an attribute which is the aggregated part-worth utilities of all respondents is computed. In Eq. (2), an
+individual respondent's utility U assigned to an attribute Ai in an additive
+format is computed.
+m mj
+
+U ðAi Þ ¼ ∑ ∑ βij Gij
+i¼1 j¼1
+
+ð2Þ
+
+248
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+Table 3
+Relevant attributes in Open Government Data preference modelling.
+Attribute
+
+C1: data quality
+
+C2: data format
+(cost to access)
+
+C3: metadata
+
+C4: data availability
+
+C5: data integrity
+
+Deﬁnition
+
+Literature support
+
+This attribute examines key characteristics that make data reliable and
+useful for its intended application and subsequent decision making. There
+are several characteristics used in measuring quality of data. This study
+focused on currentness, relevance and accuracy
+
+Vetrò et al. (2016); Lathrop and Ruma (2010); Wang and Strong (1996);
+Batini, Cappiello, Francalanci, and Maurino (2009); Batini and Scannapieca
+(2006); Wang, Storey, and Firth (1995); Haug, Zachariassen, and Van
+Liempd (2011)
+
+Maali, Cyganiak, and Peristeras (2010); Robinson et al. (2009); Huijboom and
+The concept of OGD largely hinges on provision of easy access, re-use and
+Van den Broek (2011); Bauer and Kaltenböck (2011); Zuiderwijk et al. (2012)
+distribution of data. For users (especially a basic user) to make the most out
+of the data and documents they access, the format of the data is a key
+consideration. This is because, the format determines whether the data can be
+accessed at a cost, opened later or redistributed. The levels under this attribute
+inquire whether media practitioners prefer non-proprietary (e.g. CSV, XML,
+etc.) or proprietary (e.g. EXCEL) data formats in a trade-off setting.
+Public data that is not accompanied by a well-documented metadata is to a
+greater extent, useless to many especially those with no domain knowledge
+of the area. In particular, our focus group (media practitioners) are traditionally
+not statisticians, data scientists or information systems analysts. The utility of a
+metadata is measured using the 3 main types namely descriptive, structural and
+administrative metadata.
+
+Berners-Lee (2006); Kleijen (1999); Bretz (1998); Gupta and Schonberg
+This attribute addresses the issue of whether users accessing OGD datasets
+from the web portals, have instant access from every location at any time. Data (1993).
+availability is a key metric in several information systems standards including
+information assurance (IA) and storage service providers (SSPs).
+The integrity of data, particularly to our focus group (media practitioners) Robinson et al. (2009); Vetrò et al. (2016); Batini and Scannapieca (2006);
+cannot be overemphasized. To measure the weight practitioners place on Wang and Strong (1996)
+data integrity the levels used are high, medium and low.
+
+where βij expresses the part-worth utility estimate on a j-th level of
+an i-th factor (i = 1, 2, …, n and j = 1, 2, …, m), and Gij indicates the
+presence of the j-th level of the i-th attribute or criteria.
+One of the aims of conjoint analysis is the determination of the relative importance of attribute-levels. The relative importance is computed
+as weights in percentages using Eq. (3).
+
+Wj ¼
+
+Reiche and Hoﬁg (2013); Maali et al. (2010); Attard et al. (2015); Mark
+and Roussopoulos (1987); Hönle, Käppeler, Nicklas, Schwarz, and
+Grossmann (2005); Greenberg (2005); National Information Standards
+Organization (US) (2004)
+
+ 
+ 
+Max βij −Min βij
+
+
+
+   100
+t
+∑ j¼1 Max βij −Min βij
+
+(2) generating scenario combination (proﬁle set) to be ranked or rated
+(3) questionnaire design and (4) the preference modelling. The following section explains the steps especially as used in this study.
+3.2.1. Selection of attributes and levels
+The audit ﬁndings of the OGD infrastructure, relevant information
+systems evaluation requirements (literature) and expert knowledge
+aided the selection of ﬁve attributes for the preference and elicitation
+modelling. It must be noted that not all the ﬁndings in the audit were
+relevant for the preference modelling. For instance, features such as
+‘total datasets’, ‘no. of data categories’ were not deemed relevant attributes or sub-attributes in the preference modelling. Further, the study
+was also guided by the need to create limited but relevant set of proﬁles
+suitable for preference modelling of OGD web features. This was to ensure that respondents were not unnecessarily saddled with many attributes and levels that would result in long unrealistic questionnaires
+(Orme, 2010).
+Data format and metadata were directly taken from the audit ﬁndings. Similarly, there was the need to create data quality as an attribute
+for the OGD features of data currentness and data visualization. Data
+availability and integrity were added as information systems security
+
+ð3Þ
+
+In Eq. (3), Wj is the relative importance of attribute (Aj); Max(βij)
+represents the maximum utility of the attribute which signiﬁes the
+most preferred attribute level (Aj) among respondents and Min(βij)
+represents the minimum utility which means the least preferred level
+in attribute Aj (Green & Srinivasan, 1978).
+3.2. Stimuli construction
+According to Rao (2014), a number of steps are typically followed in
+conjoint analysis stimuli design. These are (1) attribute-levels selection
+
+Table 4
+Scenario combinations of attributes and their levels in an ideal Open Government Data portal.
+Observation
+
+Data Quality
+
+Data format
+
+Metadata
+
+Availability
+
+Integrity
+
+Respondent 1
+
+Respondent 198
+
+Proﬁle1
+Proﬁle2
+Proﬁle3
+Proﬁle4
+Proﬁle5
+Proﬁle6
+Proﬁle7
+Proﬁle8
+Proﬁle9
+Proﬁle10
+Proﬁle11
+Proﬁle12
+
+Currency
+Accuracy
+Currency
+Currency
+Accuracy
+Currency
+Accuracy
+Accuracy
+Relevance
+Relevance
+Relevance
+Relevance
+
+Proprietary
+Nonproprietary
+Nonproprietary
+Proprietary
+Nonproprietary
+Nonproprietary
+Proprietary
+Proprietary
+Proprietary
+Nonproprietary
+Proprietary
+Nonproprietary
+
+Administrative
+Structural
+Structural
+Structural
+Administrative
+Descriptive
+Structural
+Descriptive
+Structural
+Structural
+Administrative
+Descriptive
+
+Occasionally available
+Occasionally available
+Occasionally available
+Always be available
+Always be available
+Always be available
+Always be available
+Occasionally available
+Always be available
+Occasionally available
+Occasionally available
+Always be available
+
+High
+Medium
+High
+Low
+Low
+Medium
+High
+Low
+Medium
+Low
+Medium
+High
+
+7
+3
+4
+12
+11
+2
+6
+10
+9
+5
+8
+1
+
+8
+1
+4
+12
+11
+2
+6
+10
+9
+5
+7
+3
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+Table 5
+Demographic proﬁle of respondents.
+Proﬁle of respondents
+
+Frequency Percentage
+(%)
+
+249
+
+and social media availability features which are not directly related to
+data access were excluded. Table 3 presents the relevant attributes
+used in the preference modelling along with their deﬁnition and literature support.
+
+Gender
+Male
+Female
+Age (yrs.)
+18–24
+25–34
+35–44
+45+
+Country of practice
+Ghana
+Kenya
+Sierra Leone
+South Africa
+Tanzania
+Highest educational level
+High school
+Professional certiﬁcate
+Bachelor's degree
+Master's degree
+Doctoral degree
+Which of the following media do you most contribute to?
+Print media
+Television
+Radio
+Internet (e.g. blogger)
+Other
+Had you heard of Open Government Data before this
+questionnaire?
+Yes
+No
+Have you ever visited your country's open data website
+before?
+Yes
+No
+Have you accessed data from the website for your peruse
+before?
+Yes
+No
+
+87
+111
+
+43.90
+56.1
+
+45
+102
+34
+17
+
+22.7
+51.6
+17.2
+8.59
+
+66
+48
+32
+36
+16
+
+33.3
+24.3
+16.2
+18.2
+8.09
+
+2
+22
+112
+62
+0
+
+1.01
+11.1
+56.5
+31.3
+0
+
+56
+23
+32
+68
+19
+
+28.31
+11.61
+16.17
+34.31
+9.6
+
+77
+121
+
+38.89
+61.11
+
+58
+140
+
+29.29
+70.71
+
+46
+152
+
+23.23
+76.77
+
+attributes (Palmius, 2007; Borglund, 2005). This was because, as an
+information system, data on OGD portals are expected to be available,
+reliable and consistent (not altered) when media practitioners access
+it. Since the preference modelling primarily sought to ﬁnd out from
+media practitioners what features could help make data useful and
+easily accessible for them on OGD web portals, the social media plugin
+
+3.2.2. Generating scenario combination (proﬁle set)
+In conjoint analysis, a survey is designed comprising sets of limited
+scenarios for respondents to rank or rate their preferences. To select the
+number of scenarios in the experimental design (proﬁles), the fractional
+factorial design was used instead of a full proﬁle design. It must be noted
+that fractional factorial provides optimal results not different from a full
+factorial design. However, because a full factorial design burdens respondents and often results in unreliable results, the fractional factorial design
+is preferred. For example, in this study, the 5 attributes and their levels
+would have resulted in a combined total of (3 × 2 × 3 × 2 × 3) = 108
+possible sets of scenarios. To lessen the burden on respondents, a smaller
+but optimized set of 12 proﬁles satisfying orthogonality among attribute
+levels, was used as shown in Table 4. Given these proﬁles, each respondent was asked to rank the proﬁles in the order of importance based on
+their preference on a likert scale of 1 (least preferred) to 12 (most preferred). For example, Respondent 1 and Respondent 198 respectively
+ranked Proﬁle1 as 7th most preferred and 8th most preferred.
+3.3. Survey data
+Media practitioners in 5 out of the 7 functioning OGD centers in Africa
+formed the study sample. The criterion for the selection of respondents
+was primarily to choose those in Sub-Saharan Africa who tend to have
+similar structures in governance, economic growth and development as
+well as political and social conﬁgurations (Ahlerup, Baskaran, & Bigsten,
+2016). In addition, since the questionnaire was solely designed in English,
+only countries who use English as either their ofﬁcial language or their
+second language were considered. These two criteria automatically eliminated Morocco and Tunisia who are both non-English speaking countries
+and are outside the sub Saharan region.
+3.3.1. Sampling and questionnaire design
+The study employed convenience non-probability sampling method.
+This was because of the peculiarity of the population (media practitioners) and in particular the focus on only practitioners in 5 out of
+the 7 OGD centers in Africa. Table 5 presents the socio-demographic
+proﬁles of the respondents.
+An online questionnaire was distributed to various media houses in
+each country mainly through emails, social media (where some national
+
+Table 6
+Part-worth utilities and relative importance of attributes and levels.
+Attribute (criteria)
+
+A1: data quality
+
+A2: data format (cost to access)
+
+A3: metadata
+
+A4: data availability
+
+A5: data integrity
+R2 = 0.986.
+
+Levels
+
+Part-worth utilities
+
+Standard Error
+
+A11: currentness
+A12: relevance
+A13: accuracy (understandability)
+
+0.0813
+0.1518
+−0.2331
+
+0.0964
+0.1164
+0.1172
+
+A21: nonproprietary (e.g. CSV, XML, JSON)
+A22: proprietary (e.g. EXCEL, PDF)
+
+0.9558
+−0.5316
+
+0.1119
+0.1174
+
+A31: descriptive
+A32: administrative
+A33: structural
+
+1.2279
+−1.8860
+0.6581
+
+0.1121
+0.1183
+0.0883
+
+A41: must always be available
+A42: occasionally available
+
+−0.9773
+0.9773
+
+0.0723
+0.0723
+
+A51: high
+A52: medium
+A53: low
+
+−0.0170
+0.0170
+−0.4242
+
+0.0755
+0.0755
+0.0943
+
+Relative importance weight (%)
+
+20.34
+
+23.43
+
+28.82
+
+15.96
+
+11.45
+
+250
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+Table 7
+Average relative importance of open government attributes based on demographic proﬁles of media practitioners (%).
+Proﬁle of respondents
+Gender
+Male
+Female
+Age (yrs.)
+18–24
+25–34
+35–44
+45+
+Country of practice
+Ghana
+Kenya
+Sierra Leone
+South Africa
+Tanzania
+Highest educational level
+High school
+Professional certiﬁcate
+Bachelor's degree
+Master's degree
+Doctoral degree
+Which of the following media do you most contribute to?
+Print media
+Television
+Radio
+Internet (e.g. blogger)
+Other
+Had you heard of Open Government Data before this questionnaire?
+Yes
+No
+Have you ever visited your country's open data website before?
+Yes
+No
+Have you accessed data from the website for your peruse before?
+Yes
+No
+
+Data quality
+
+Data format
+
+Metadata
+
+Data availability
+
+Data integrity
+
+21.4
+19.6
+
+24.3
+23.6
+
+29.3
+32.7
+
+14.8
+12.5
+
+10.2
+11.6
+
+19.4
+21.7
+23.2
+24.6
+
+23.9
+23.5
+22.3
+21.1
+
+27.5
+25.7
+28.9
+29.9
+
+16.9
+15.5
+14.9
+14.2
+
+12.3
+13.6
+10.7
+10.2
+
+20.2
+23.8
+21.7
+20.2
+20.8
+
+25.2
+19.4
+28.4
+22.4
+27.0
+
+28.4
+30.6
+22.1
+29.9
+22.6
+
+14.6
+14.5
+17.4
+15.6
+16.6
+
+11.6
+11.7
+10.4
+11.9
+13.0
+
+21.4
+19.8
+21.9
+23.2
+24.6
+
+29.1
+23.6
+28.4
+22.3
+21.1
+
+23.5
+32.9
+23.4
+28.9
+29.8
+
+13.8
+12.1
+14.9
+14.9
+14.2
+
+12.2
+11.6
+11.4
+10.7
+10.2
+
+24.1
+19.0
+21.4
+22.4
+21.6
+
+21.4
+24.2
+21.4
+26.3
+22.1
+
+29.3
+30.7
+21.4
+25.1
+29.9
+
+10.8
+14.5
+21.4
+15.2
+16.2
+
+14.4
+11.6
+21.4
+11.0
+10.2
+
+22.3
+24.6
+
+24.2
+23.1
+
+27.9
+26.1
+
+15.3
+14.6
+
+10.3
+11.6
+
+21.2
+18.6
+
+22.3
+25.1
+
+30.9
+29.9
+
+12.9
+16.2
+
+12.7
+10.2
+
+19.2
+24.6
+
+26.5
+21.4
+
+28.7
+29.6
+
+14.9
+11.9
+
+10.7
+12.5
+
+media houses were contacted) and through individual referrals. For example, through individual contacts with practicing journalists in each
+country, the questionnaire was referred to colleague media practitioners to complete. Contacts were also made with secretariats of national media associations in each country through e-mails and on
+social media to help distribute the questionnaire to members. Each respondent was ﬁrst giving an undeclared pre-test (not informing respondents that they were answering a pre-test). The error rate after the
+undeclared pre-test was about 26%. Most of the errors were detected
+in the scenario combinations (proﬁle set) meant to be ranked by respondents. Following the ﬁrst pre-test, test difﬁculties were addressed
+and the actual test was administered. The error rate of the subsequent
+test reduced signiﬁcantly to 8.3% most of which were uncompleted
+responses.
+3.3.2. Data collection
+At the end of a 3-month administration of the questionnaire (between January–March 2016), 216 had responded, out of which 198
+were complete responses. A quick preview of respondents' demographic proﬁle in Table 5 indicated that more women (56.1%) responded to
+the questionnaire than men (43.90%). Majority of the journalists (respondents) were nationals from Ghana (33.3%) and Kenya (24.3%). It
+can also be seen that as many as 56.5% of the respondents were ﬁrst degree holders whiles 34.31% indicated that they were working as online
+journalists (e.g. bloggers, content writers for their various media outlets,
+etc.). On the type of media respondents mostly contribute to, 9.6% chose
+the option ‘other’ and assigned reasons for their choice. Majority of
+these indicated working as freelance journalists and photojournalists
+(with no attachment to a particular media house). Quite tellingly,
+61.11% of the respondents had not heard of OGD before the
+
+questionnaire was administered. The ﬁgure increased to 70.71% and
+76.77% respectively as respondents who have never visited their country OGD websites before and never accessed data from the country
+web portals.
+4. Results
+The central theme in conjoint analysis as explained in Section 3, is its
+ability to uniquely model user preferences into utility scores. These utility scores (part-worth utility) are aggregated to represent the relative
+importance (weight) assigned to attributes and their respective levels.
+The estimation method used was the Monotonic Analysis of Variance
+(MONANOVA) which generates relatively better part-worth utility
+scores than other estimation methods (Orme, 2010). The XLSTAT software (Addinsoft, 2014) was used in generating and analyzing the results. In Table 6, the most preferred levels under each attribute are
+those with large part-worth utility values (*bolded in column 3 of
+Table 6). The utility score and the relative importance of the attributes
+express respondents' value system regarding their preferred ideal characteristics (in a trade-off setting) on an OGD portal. The result indicates
+that, media practitioners in the 5 OGD countries in Africa view metadata
+(28.82%) favourably as the most important factor in a functioning OGD.
+This is followed closely by data format (23.43%), and data quality
+(20.34%). The relative importance of the rest of the attributes are data
+availability (15.96%), and data integrity (11.45%).
+The results in Table 6 is further broken down to reveal media practitioners' most preferred levels in each of the attributes. A high positive
+part-worth utility value of an attribute level, is an indication of the
+level of preference by respondents (bolded in column 3 of Table 6)
+whiles a negative part-worth utility explains less preference level. For
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+example, under Data Quality, respondents prefer relevance to currentness. They also prefer currentness to accuracy. That is to say, data could
+be accurate but it will be useless if it is not relevant and also less useful
+if not current. Likewise, respondents highly preferred nonproprietary
+(0.9558) to proprietary (−0.5316) data format. Note that, just because
+proprietary received a negative utility value (−0.5316) does not mean
+that this level was unattractive. Proprietary may have been acceptable
+to some respondents. However, compared to nonproprietary (with a
+utility of 0.958), it fared worse. The standard error values explain the reliability of the sample mean (the relative importance) as reﬂecting on
+the actual mean of the population. The various preferred attribute levels
+(bolded in column 3 of Table 6) can be combined to give a picture of the
+ideal characteristic proﬁle preferred by the respondents. It can be
+inferred in view of this that, media practitioners' ideal characteristic
+proﬁle of an OGD portal is one with the following characteristics:
+dataset deposited on web portal should be of ‘relevance’ (A12) to the
+matter at hand or the subject area, the data format should be ‘nonproprietary’ (A21), the metadata should at least be ‘descriptive’(A31), the data
+should at least be ‘occasionally available’ (A42) and the data integrity, at
+least at a ‘medium’ (A52). It must be noted that this proﬁle set is arrived
+at after respondents have traded-off several attribute-level characteristics to settle on this ‘ideal’ proﬁle. There was a high internal consistency
+in respondents' preferences as indicative of an R-squared value of 0.986.
+The study further segmented the utility scores to reveal how respondents' demographic background inﬂuenced the scores or otherwise. In
+Table 7, it is instructive to note that though the most important attribute
+was adjudged to be the metadata, attributes such as data format and
+data quality were highly preferred by some demographics.
+For example, at the country level, Tanzania and Sierra Leone considered ‘data format’ as an important attribute than metadata (the most important attribute) in their ideal OGD portal. Similarly, in terms of highest
+education attained, respondents with a bachelor's degree preferred data
+format over metadata in terms of the average importance of the attributes to the study. Internet journalists were almost divided over the
+choice of metadata and data format. Though they preferred data format,
+they also preferred metadata as much. In all the demographic groups, respondents generally assigned least importance to data integrity and data
+availability though between the two, the preference also differed among
+some demographic groups.
+5. Discussions
+5.1. Discussion on OGD audit and preference elicitation
+The OGD web content and functionality audit revealed several deﬁciencies as well as progress made at most of the OGD web portals in Africa. The preference and elicitation analysis also further gave an insight
+into what media practitioners actually want in OGD features at their
+various country portals. In the following section, a link is established between the OGD audit ﬁndings and results from the preference elicitation
+modelling. Attributes in the preference modelling and the OGD features
+are discussed further across the various countries.
+5.1.1. Data quality
+Two of the OGD features that directly come under the ‘data quality’
+attribute were data currentness and data visualization. It was observed
+in Table 2 that all 5 countries used in the preference modelling provided
+data visualization tools. Similarly, the rest of the countries with the exception of Sierra Leone had up-to-date datasets. Though almost all the
+countries were providing these two features as seen in the OGD audit,
+data quality was only the third most preferred feature by media practitioners in the preference modelling. At the country level, Kenya weighted data quality as it second most important attribute whereas Sierra
+Leone, Ghana, South Africa and Tanzania weighted it their third most
+important feature.
+
+251
+
+5.1.2. Data format
+The gap between the audit ﬁndings on data format as a web portal
+content, and data format as a preference attribute is obvious. This is because, though data format was considered a very important feature by
+media practitioners, current OGD portals in Africa with the exception
+of Kenya are not committed to providing the range of required data formats. As shown in Table 2, most countries currently have data in only
+CSV or XLS(X) format. It is possible that data providers in these countries ﬁnd CSV and XLS(X) easier to manage or do not have the skill
+sets or the capacity to provide more data formats. It is therefore not surprising for example, that Tanzania which provided the least range of
+data formats as seen in Table 2, weighted data formats as its most preferred OGD attribute (see Table 7). This clearly could mean that media
+practitioners in Tanzania are calling for support in the provision of adequate range of data formats beyond CSV and XLS(X). In view of this, it is
+imperative that authorities employ personnel with the requisite skills to
+revamp OGD portals in Africa to meet international and contemporary
+standards of publishing OGD datasets.
+5.1.3. Metadata
+Metadata, the aggregate most preferred OGD attribute was found to
+be conspicuously missing on all except the Kenyan OGD portal. Overall,
+media practitioners in three countries namely Ghana, Kenya and South
+Africa weighted metadata as the most important attribute. However,
+media practitioners in Sierra Leone and Tanzania chose data formats
+over metadata as their most preferred OGD attribute.
+5.1.4. Data availability
+This attribute was the second least preferred among media practitioners in the trade-off setting. This however does not mean the attribute is not important to media practitioners. With a relative
+importance weight of 15.96%, this means data availability is also an important feature overall. However, in the event of limited resource, it will
+be a lesser priority compared to metadata and data format.
+5.1.5. Data integrity
+The audit ﬁndings indicated a genuine attempt by all the countries to
+use social media to address data users' concerns particularly those that
+bother on the integrity of datasets. On Kenya's social media platform
+(Facebook and Twitter), we observed how social media was being
+used to respond to user comments as well as providing relevant information on some datasets. This helps to quickly dismiss any doubts
+about the integrity of datasets. Though data integrity was the least preferred attribute among media practitioners, data providers are making
+the effort to use social media to achieve some intimacy between themselves and users.
+Overall, the preference modelling results mirror core constructs in
+the Technology Acceptance Model (TAM) describing how media practitioners in OGD countries in Africa are warming up to the concept of
+OGD. In TAM (Davis, Bagozzi, & Warshaw, 1989), two perceived factors
+that have an inﬂuence on whether users would accept or reject a new
+technology are perceived usefulness (PU) and perceived ease-of-use
+(PEOU). Consistent with the study results, media practitioners (majority) who had not heard of the concept of OGD, never visited their
+country's data portal nor had accessed data on the OGD web portal before, placed premium (importance) on attributes of OGD that would
+help enhance their work with little effort. In view of this, the choice of
+metadata as the most important attribute could be explained to mean
+an afﬁrmation of PU by the media practitioners. This is because, for
+media practitioners who are yet to embrace the concept of OGD, a
+well-documented descriptive metadata would enhance their understanding of what to make out of datasets sourced from the OGD web
+portals. Similarly, the attribute, data format, coincidentally happens to
+be media practitioners' second most important OGD attribute. The
+choice of data format and in particular, a non-proprietary version also
+
+252
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+seems to be consistent with the perceived ease-of-use (PEOU) dimension
+in TAM.
+5.2. Recommendations
+The web portal audit carried out in this paper can be used to inform
+the OGD community about the state of OGD in Africa. This will help ensure that countries that are lagging behind or are deﬁcient in some principal OGD features are supported or directed on how to meet basic
+requirements. The overall success of OGD especially in Africa would
+not only beneﬁt Africans, but international development partners who
+often struggle obtaining relevant data on Africa (Sanga, 2011;
+Kiregyera, 2015). In this regard, the provision of adequate data formats
+and metadata would ensure that data on Africa are accessed effortlessly
+by citizens and country development partners. It is assuring that most of
+the countries in Africa are already providing CSV (which is non-proprietary) as default data format for table structured datasets. However,
+other non-propriety data formats such as XML, JSON and RDF should
+be encouraged to make it easier for data interchange and migration.
+Similarly, OGD countries in Africa must also be encouraged to provide
+in addition to descriptive metadata format, metadata in structural and
+administrative formats. In addition, since OGD portals do not currently
+use live interactive web features to communicate with users, the social
+media plugins should be encouraged to continue reaching out to the
+public as a medium to answering concerns of data users.
+Both the OGD audit and the preference elicitation analysis should
+provide adequate information for the next OGD action plan in Africa
+and help track progress of OGD member countries. In particular, the
+ﬁndings of this study can be used to serve as a guide to the open government partnership group to be aware of speciﬁc OGD standards to emphasis when new African countries declare their intention to join the
+OGD community.
+6. Limitations
+In this research, an attempt was made to link the OGD features
+observed in the audit to the attributes used in the preference elicitation modelling. However, to effectively elicit preferences in a
+trade-off setting, the use of limited sets of attribute proﬁles
+meant not all the features could be used. In addition, attributes
+such as data format and metadata could be treated as sub-attributes of data quality. However, the research sought to maintain
+the order of OGD attributes as prescribed by authoritative bodies
+such as the World Wide Web Consortium (W3C) and the World
+Bank's Technical option. The decision to also stick to standardized
+OGD attributes was because data quality for example, tends to
+have many different deﬁnitions and criteria for evaluation (Cai &
+Zhu, 2015).
+
+7. Conclusion
+This paper audited the OGD web portals, and also investigated the
+preferred and desirable qualities an OGD portal should possess from
+the perspective of media practitioners in ﬁve African countries. The
+OGD web portal audit showed a number of disparities among the
+ﬁve countries in terms of progress towards an open data society.
+Overall, though in Africa, unlike in the developed world, OGD advocacy has largely been at the bidding of the state, with very little
+civil society involvement (Ohemeng & Ofosu-Adarkwa, 2015), the
+countries observed in this study are seen to be making measurable
+progress.
+The elicitation of media practitioners' preferences should help
+bring to the attention of OGD stakeholders; politicians, civil servants, public ofﬁcials, donor agencies, academics and international
+organizations, that the media should be seen and welcomed as a
+key ally to the course of data liberation. Preferences of the media
+particularly in a developing continent like Africa, should be a
+good starting point for authorities to review existing OGD structures to reﬂect the views of various data users. This also means
+OGD implementation in Africa should not only be at the behest of
+central governments. Civil society groups and the media should
+take keen interest to ensure that government and its agencies do
+not pick and choose which datasets would be deposited on OGD
+platforms.
+It is the expectation that the state of OGD as presented in this study,
+and the preference elicitation results would ignite more discussions on
+enriching OGD web portals in Africa with internationally accepted standards for publishing open data. The focus as demonstrated in this paper,
+is for countries to not be obsessed with liberating data, but also ensure
+that the free publicly available data comes in formats that will aid distribution and easy access. This would hasten progress on the broader open
+data ecosystem including ﬁscal transparency, judicial openness, enterprise openness, citizen engagement among others on the African
+continent.
+Future work would explore preferences among other OGD key
+stakeholders and compare their utility scores with media practitioners.
+Acknowledgement
+This work was supported by Grant Agency of the Czech Republic
+– GACR P103/15/06700S, further by ﬁnancial support of research
+project NPU I no. MSMT-7778/2014 by the Ministry of Education
+of the Czech Republic and also by the European Regional Development Fund under the Project CEBIA-Tech no. CZ.1.05/2.1.00/
+03.0089. Further, this work was supported by Internal Grant Agency
+of Tomas Bata University under the project no. IGA/CebiaTech/
+2016/007.
+
+Appendix A
+Open Government Data
+This questionnaire is designed to carry out a research on Media expectations of Open Government Data. All information provided will be
+used solely and exclusively for academic purposes and would be treated with the necessary conﬁdentiality it deserves. Information provided
+would be used to make sound empirical analysis in order to come out with suitable recommendations that would help Improve Open Government Data in Africa.
+Background: what is Open Government Data (OGD)?
+Is the concept of “Making public sector information freely available in open formats and ways that enable public access and facilitate exploitation”
+(Kalampokis, Tambouris, & Tarabanis, 2011). In simple terms, open means anyone is free to access, use, reuse and redistribute government data. Currently 6 African countries have ofﬁcially signed to the Open Government Data though not fully operational in most cases. These countries are Ghana,
+Sierra Leone, Kenya, South Africa, Tunisia and Morocco.
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+253
+
+Expectations (preferences)
+Admittedly, OGD is not fully functional in most of the six countries above. As media practitioners, this questionnaire is to sample
+your opinion and preferences of what you wish to see on an ideal Open Government Data website. To do this, you are to rank the proﬁles composing of features you prefer on an ideal open government data.
+
+254
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+
+Your preferences of an ideal OGD features
+The following information is to help you adequately answer question 10.
+Note: metadata refers to information that accompanies the data you download and describes the data (e.g. how the data was acquired, unit of measurement, author, title etc.). There are basically three types as explained below.
+Administrative metadata: Provides information on when a ﬁle was created, the type, who can access it etc.
+Descriptive metadata: This helps for discovery and identiﬁcation. Examples are title, abstract, author, and keywords.
+Structural metadata: Information about the internal structure of data resources including table of contents, page, indexes, “Currency” under data
+quality refers to how ‘up-to-date’ the data should be.
+10. On a scale of 1 to 12, with 1 indicating high preference and 12 indicating low preference, rank your preferences of the following proﬁles of
+Open Government Data features you wish to see on your government's open data website. For example, if you rank Proﬁle6 as 1 (the most
+preferred), you are essentially saying that you prefer your government open data centre to have up-to-date data (currency), a non-proprietary ﬁle (e.g. CSV, XML), prefer a descriptive meta data, the data must always be available (to be accessed) and must have at least a medium
+level of integrity.
+
+Observation
+
+Data quality
+
+Data format
+
+Metadata
+
+Availability
+
+Integrity
+
+Proﬁle1
+Proﬁle2
+Proﬁle3
+Proﬁle4
+Proﬁle5
+Proﬁle6
+Proﬁle7
+Proﬁle8
+Proﬁle9
+Proﬁle10
+Proﬁle11
+Proﬁle12
+
+Currency
+Accuracy
+Currency
+Currency
+Accuracy
+Currency
+Accuracy
+Accuracy
+Relevance
+Relevance
+Relevance
+Relevance
+
+Indifferent (e.g. EXCEL is OK)
+Nonproprietary format (e.g. CSV, XML)
+Nonproprietary format (e.g. CSV, XML)
+Indifferent (e.g. EXCEL is ok)
+Nonproprietary format (e.g. CSV, XML)
+Nonproprietary format (e.g. CSV, XML)
+Indifferent (e.g. EXCEL is OK)
+Indifferent (e.g. EXCEL is OK)
+Indifferent (e.g. EXCEL is OK)
+Nonproprietary format (e.g. CSV, XML)
+Indifferent (e.g. EXCEL is OK)
+Nonproprietary format (e.g. CSV, XML)
+
+Administrative
+Structural
+Structural
+Structural
+Administrative
+Descriptive
+Structural
+Descriptive
+Structural
+Structural
+Administrative
+Descriptive
+
+Occasionally available
+Occasionally available
+Occasionally available
+Must always be available
+Must always be available
+Must always be available
+Must always be available
+Occasionally available
+Must always be available
+Occasionally available
+Occasionally available
+Must always be available
+
+High
+Medium
+High
+Low
+Low
+Medium
+High
+Low
+Medium
+Low
+Medium
+High
+
+References
+Addinsoft (2014). XLSTAT 2014, data analysis and statistics with Microsoft EXCEL. (Paris,
+France).
+AfDB (2011). Open data platform for Africa data submission & dissemination tool user manual v
+1.0. (http://www.afdb.org/ﬁleadmin/uploads/afdb/Documents/GenericDocuments/
+Open_Data_Platform_for_Africa_-_User_Manual.PDF).
+AfDB (2014). Open data for Africa. (http://www.afdb.org/en/knowledge/statistics/opendata-for-africa/).
+Ahlerup, P., Baskaran, T., & Bigsten, A. (2016). Government impartiality and sustained
+growth in sub-Saharan Africa. World Development, 83, 54–69.
+Attard, J., Orlandi, F., Scerri, S., & Auer, S. (2015). A systematic review of Open Government
+Data initiatives. Government Information Quarterly, 32(4), 399–418.
+Batini, C., & Scannapieca, M. (2006). Data quality: Concepts, methodologies and techniques.
+Berlin: Springer.
+Batini, C., Cappiello, C., Francalanci, C., & Maurino, A. (2009). Methodologies for data quality assessment and improvement. ACM computing surveys (CSUR), 41(3), 16.
+Bauer, F., & Kaltenböck, M. (2011). Linked open data: The essentials. (Edition mono/
+monochrom, Vienna).
+Bennett, D., & Harvey, A. (2009). Publishing open government data. World wide web
+consortium (https://www.w3.org/TR/gov-data/).
+Berners-Lee, T. (2006). Linked data-design issues. (http://www.w3.org/DesignIssues/
+LinkedData.html).
+Borglund, E. (2005). Operational use of electronic records in police work. Information
+Research, 10(4), 236.
+Braziunas, D. (2006). Computational approaches to preference elicitation. Tech. Rep.Department of Computer Science, University of Toronto.
+Bretz, R. (1998). SETAC LCA workgroup: Data availability and data quality. The
+International Journal of Life Cycle Assessment, 3(3), 121–123.
+Burgess, M. (2015). Freedom of Information: A practical guide for UK journalists. Routledge.
+Cai, L., & Zhu, Y. (2015). The challenges of data quality and data quality assessment in the
+big data era. Data Science Journal, 14, 2.
+Chajewska, U., Koller, D., & Parr, R. (2000). Making rational decisions using adaptive utility elicitation. AAAI/IAAI. (pp. 363–369).
+Chen, L., & Pu, P. (2004). Survey of preference elicitation methods. (EPFL Technical Report
+IC/2004/67, Switzerland).
+Cretu, V., & Manolea, B. (2013). The inﬂuence of the Open Government Partnership (OGP) on
+the open data discussions. (EPSI (No. 2013/10). Topic Report).
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1989). User acceptance of computer
+technology: A comparison of two theoretical models. Management Science,
+35(8), 982–1003.
+
+Rank
+
+Giannone, D., & De Frutos, R. (2016). Measuring Freedom of Information: Issues and opportunities from an expert survey. International Journal of Communication, 10, 31.
+Gonzalez-Zapata, F., & Heeks, R. (2015). The multiple meanings of open government data:
+Understanding different stakeholders and their perspectives. Government Information
+Quarterly, 32(4), 441–452.
+Green, P. E., Krieger, A. M., & Wind, Y. (2001). Thirty years of conjoint analysis: Reﬂections
+and prospects. Interfaces, 31(3), 56–73.
+Green, P. E., & Rao, V. R. (1971). Conjoint measurement for quantifying judgmental data.
+Journal of Marketing Research, 355–363.
+Green, P. E., & Srinivasan, V. (1978). Conjoint analysis in consumer research: Issues and
+outlook. Journal of Consumer Research, 5(2), 103–123.
+Greenberg, J. (2005). Understanding metadata and metadata schemes. Cataloging and
+Classiﬁcation Quarterly, 40(3–4), 17–36.
+Gupta, M., & Schonberg, E. (1993). A framework for exploiting data availability
+to optimize communication. Languages and compilers for parallel computing.
+(pp. 216–233)Berlin Heidelberg: Springer.
+Gustafsson, A., Herrmann, A., & Huber, F. (2013). Conjoint measurement: Methods and applications. Springer Science & Business Media.
+Haug, A., Zachariassen, F., & Van Liempd, D. (2011). The costs of poor data quality. Journal
+of Industrial Engineering and Management, 4(2), 168–193.
+Helm, R., Steiner, M., Scholl, A., & Manthey, L. (2008). A comparative empirical study on
+common methods for measuring preferences. International Journal of Management
+and Decision Making, 9(3), 242–265.
+Herzog, T. (2014). Technology options for Open Government Data platforms. (World Bank
+Working paper. http://opendatatoolkit.worldbank.org/en/technology.html).
+Hönle, N., Käppeler, U. P., Nicklas, D., Schwarz, T., & Grossmann, M. (2005). Beneﬁts of integrating meta data into a context model. Pervasive computing and communications workshops. 2005. PerCom 2005 workshops. Third IEEE International Conference. (pp. 25–29).
+Huijboom, N., & Van den Broek, T. (2011). Open data: An international comparison of
+strategies. European Journal of ePractice, 12(1), 1–13.
+Janssen, M., Charalabidis, Y., & Zuiderwijk, A. (2012). Beneﬁts, adoption barriers and
+myths of open data and open government. Information Systems Management, 29(4),
+258–268.
+Kalampokis, E., Tambouris, E., & Tarabanis, K. (2011). A classiﬁcation scheme for open
+government data: Towards linking decentralised data. International Journal of Web
+Engineering and Technology, 6(3), 266–285.
+Kassen, M. (2014). Globalization of e-government: open government as a global
+agenda; beneﬁts, limitations and ways forward. Information Development,
+30(1), 51–58.
+Kiregyera, B. (2015). The emerging data revolution in Africa: Strengthening the statistics, policy and decision-making chain. African Sun Media.
+
+E. Afful-Dadzie, A. Afful-Dadzie / Government Information Quarterly 34 (2017) 244–255
+Kleijen, J. P. C. (1999). Validation of models: statistical techniques and data availability. Simulation Conference Proceedings, 1999 Winter, 1. (pp. 647–654)
+(IEEE).
+Krishnamurthy, R., & Awazu, Y. (2016). Liberating data for public value: The case of Data.
+gov. International Journal of Information Management. http://dx.doi.org/10.1016/j.
+ijinfomgt.2016.03.002.
+Kuhfeld, W. F. (2005). Marketing research methods in SAS. Experimental design, choice, conjoint, and graphical techniques. TS-722. (Cary, NC, SAS-Institute).
+Lathrop, D., & Ruma, L. (2010). Open government: Collaboration, transparency, and participation in practice. O'Reilly Media, Inc.
+Lewis, S. C., & Usher, N. (2013). Open source and journalism: Towards new frameworks
+for imagining news innovation. Media, Culture & Society, 35(5), 602–619.
+Louviere, J., Hensher, D., & Swait, J. (2000). Conjoint preference elicitation methods in the
+broader context of random utility theory preference elicitation methods. Conjoint
+measurement. (pp. 279–318)Berlin Heidelberg: Springer, 279–318.
+Maali, F., Cyganiak, R., & Peristeras, V. (2010). Enabling interoperability of government data
+catalogues. Electronic government. (pp. 339–350)Berlin Heidelberg: Springer,
+339–350.
+Mark, L., & Roussopoulos, N. (1987). Meta-data management. College Park, MD: Department of Computer Science, University of Maryland.
+Martin, C. (2014). Barriers to the Open Government Data agenda: Taking a multi-level
+perspective. Policy & Internet, 6(3), 217–240.
+Martin, M., Kaltenböck, M., Nagy, H., & Auer, S. (2011). The Open Government Data stakeholder survey. OKCon.
+National Information Standards Organization (US) (2004). Understanding metadata. NISO
+Press.
+Network, O. (2013). The media and open government: Partners or adversaries. (An independent report into the Open Government Partnership http://www.
+opengovpartnership.org/sites/default/ﬁles/OGP-Media-Council-Report.PDF).
+OECD (2014). Digital government. (http://www.oecd.org/gov/digital-government/opengovernment-data.htm).
+OGP (2016). Open Government Data participating countries. (Open Government Partnership (http://www.opengovpartnership.org/countries)).
+Ohemeng, F. L., & Ofosu-Adarkwa, K. (2015). One way trafﬁc: The open data initiative project and the need for an effective demand side initiative in Ghana. Government
+Information Quarterly, 32(4), 419–428.
+Orme, B. (2010). Getting started with conjoint analysis: Strategies for product design and
+pricing research (2nd ed.). Madison, WI: Research Publishers LLC.
+Palmius, J. (2007). Criteria for measuring and comparing information systems.
+Proceedings of the 30th Information Systems Research Seminar in Scandinavia IRIS.
+(pp. 1).
+Rahemtulla, H., Kaplan, J., Gigler, B. S., Cluster, S., Kiess, J., & Brigham, C. (2011). Open Data
+Kenya: case study of the underlying drivers, principle objectives and evolution of one
+of the ﬁrst open data initiatives in Africa. http://ifap-is-observatory.ittk.hu/node/855
+Rao, V. R. (2014). Applied conjoint analysis. New York, NY: Springer, 56.
+Reiche, K. J., & Hoﬁg, E. (2013). Implementation of metadata quality metrics and application on public government data. Computer Software and Applications Conference
+Workshops (COMPSACW), 2013 IEEE 37th Annual. (pp. 236–241) (IEEE).
+
+255
+
+Robinson, D., Yu, H., Zeller, W., & Felten, E. (2009). Government data and the invisible
+hand. Yale Journal of Law and Technology, 11, 160–175.
+Sambrook, R. (2013). The media and open government: Partners or adversaries? An independent report into the open government partnership. San Francisco, CA: Open Government Partnership (Available at: http://www.opengovpartnership.org/sites/default/
+ﬁles/OGP-Media-Council-Report.PDF).
+Sanga, D. (2011). The challenges of monitoring and reporting on the millennium development goals in Africa by 2015 and beyond. African Statistical Journal, 12.
+Stoneman, J. (2015). Does open data need journalism? (Working paper) Reuters Institute
+for the Study of Journalism, Oxford University.
+Ubaldi, B. (2013). Open government data. (OECD Library).
+US Gov. (2016). Open Government - Data.gov. (https://www.data.gov/open-gov/).
+Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. (2016). Open
+data quality measurement framework: Deﬁnition and application to Open Government Data. Government Information Quarterly, 33(2), 325–337.
+Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data
+consumers. Journal of Management Information Systems, 12(4), 5–33.
+Wang, R. Y., Storey, V. C., & Firth, C. P. (1995). A framework for analysis of data quality research. IEEE Transactions on Knowledge and Data Engineering, 7(4), 623–640.
+World Bank (2015). Open data gaining momentum in Africa. (http://www.worldbank.org/
+en/news/feature/2015/09/29/open-data-gaining-momentum-in-africa).
+Yiu, C. (2012). A right to data: Fulﬁlling the promise of open public data in the UK. (Policy
+Exchange Research Note).
+Zuiderwijk, A., & Janssen, M. (2014). Open data policies, their implementation and impact: A framework for comparison. Government Information Quarterly, 31(1), 17–29.
+Zuiderwijk, A., Janssen, M., Choenni, S., Meijer, R., Alibaks, R. S., & Sheikh Alibaks, R.
+(2012). Socio-technical impediments of open data. Electronic Journal of
+eGovernment, 10(2), 156–172.
+Eric Afful-Dadzie is a Lecturer at the OMIS Dept., University of Ghana Business School. He
+holds a Ph.D. in Informatics and an M.Sc. degree in Systems Engineering and Informatics.
+Dr. Afful-Dadzie's current research focuses on open data technologies, social media analysis, enterprise competitive analysis, and decision aiding methodologies. His other interests
+include Data Analytics for Business Decisions and Health Informatics.
+Anthony Afful-Dadzie is a Lecturer at the Department of Operations Management and Information Systems at the University of Ghana Business School. He holds a Ph.D. in Industrial and Systems Engineering, an M.A. in Economics from The Ohio State University, and
+an MPhil degree in industrial systems, manufacturing, and management from University
+of Cambridge (UK.). His main research interest broadly falls within the ﬁelds of operations
+research and management science, operations and supply chain management, decision
+analysis, business simulation, applied business and economics and data analytics.
+
+

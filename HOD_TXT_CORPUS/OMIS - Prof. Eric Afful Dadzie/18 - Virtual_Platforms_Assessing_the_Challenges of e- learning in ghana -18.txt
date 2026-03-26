@@ -1,0 +1,637 @@
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Virtual Platforms: Assessing the
+Challenges of E-Learning in Ghana
+Completed Research
+
+Natasha Narh
+University of Ghana Business School
+nnarh001@st.ug.edu.gh
+
+Richard Boateng
+University of Ghana Business School
+richboateng@ug.edu.gh
+
+Eric Afful-Dadzie
+University of Ghana Business School
+eafful-dadzie@ug.edu.gh
+
+Acheampong Owusu
+University of Ghana Business School
+aowusu@ug.edu.gh
+
+Abstract
+This paper investigates virtual platforms (VPs) and how they are used for e-learning. It assesses the
+challenges students face when they use VPs for e-learning from the perspectives of student capacity,
+institutional perspectives, and external factors, such as the environment or context. Students in Ghana who
+are engaged in e-learning through external universities outside Ghana were targeted as respondents for this
+study. It is generally established that different types of computer systems have been adopted by students
+engaged in e-learning. Two types of computer systems were adopted by the respondents in this study: Open
+edX and Latitude Learning systems. Three sets of challenges are identified: 1) institutional challenges
+(ineffective orientation of students by service providers, systems failures, and speaking patterns); 2)
+student-technological challenges (poor computer skills and self-efficacy, inadequate knowledge and skills
+in the use of online handles, and poor time management by students); and 3) environmental factors (poor
+Internet connections, lack of advanced ICT technologies to support e-learning.
+Keywords
+Virtual Platforms, E-learning, Ghana, Learning Innovations
+
+Introduction
+Human activities are becoming increasingly easier in the wake of global technological advancement.
+Likewise, the rapid development of software and computer tools has generated new teaching and learning
+spaces (Gamage, Tretiakov, and Crump 2011). Virtual reality (VR) technologies have been applied to many
+sectors, such as medicine, industry, education, video games, and tourism (Martín-Gutiérrez et al. 2017). For
+instance, Statista (2019) predicts that revenues from the global VR market will reach $21.5 billion USD in
+2020. Research conducted at Indiana University has shown that the use of virtual platforms (VPs) for
+teaching and learning has created unique challenges for both Indiana University store owners and the
+Napier University consumers. It also provides student with a centered and problem-oriented learning
+environment through which students can experience e-commerce in real time. Choi, Dailey-Hebert, and
+Estes (2016) highlighted the effect of new tools on the learning outcomes of students in contemporary
+classrooms. Shen and Eder (2009) also acknowledged the relevance of virtual worlds in enhancing several
+activities, including teaching and learning. They found that the perceived ease of use of virtual technologies
+affects users’ intentions to adopt virtual technologies due to its perceived usefulness. It was also revealed
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+1
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+that computer self-efficacy and playfulness are significant antecedents to perceived ease of use in virtual
+worlds.
+Research has shown that social engagement among learners and facilitating a learning community are
+relevant factors for successful learning on VPs, such as e-learning (Shen, Hiltz, and Bieber, 2006). These
+studies demonstrate the potential for VPs to enhance technology-enabled learning through VPs of which ebusiness teaching and learning is no exception. Moreover, there is a clear gap in research on VPs, and
+teaching and learning about these platforms is rare in Ghana. Therefore, it is necessary to identify issues
+related to teaching e-business through VPs as well as research, practices, and policies that are relevant to elearning in Ghana. Moreover, researchers claim that VPs and online courses are not considered in the
+educational process (Amado-Salvatierra et al. 2016). As pointed out by Fowler (2015), the use of VR
+technologies for creating learning environments holds great promise but also many challenges. Therefore,
+this paper seeks to explore the challenges that emerge when providing e-learning platforms in Ghana.
+The remainder of this paper is presented as follows: Sections 1–3 provide a broad overview of VPs and
+elearning through an introduction, review of the virtual platform literature, and a theoretical foundation.
+Sections 4 and 5 explain the methodology of the research and present the findings, respectively. Finally,
+Sections 6 presents conclusions and Section 7 summarizes the findings and suggests implications for future
+research, practice, and policy.
+
+Review of Related Literature
+Defining VPs and E-learning
+This section defines the concepts that are relevant to this study, including VPs and e-learning. These
+definitions are intended to help the reader understand the research, provide a focus for the discussion, and
+serve as a guide for discussing the findings presented in this paper.
+
+Virtual Platforms
+VR technology can range from bedside learning to computerized tools that are accessed exclusively online
+(Duff, Miller, and Bruce 2016). A number of studies have considered VR environments from educational
+and business points of view (Fowler 2015; Huang et al. 2013; Schaffer 2017). VR can be described as a
+software-based system through which a target activity is facilitated using a chip and or board as a medium.
+Classroom activities can be communicated through the virtual platform software-based systems. Therefore,
+e-learning facilitates communication, sharing of information, and dissemination of knowledge, as well as
+interaction and communication between people in different locations. However, VR is dependent on
+technology. Leupers et al. (2012) define VPs as a technology-supported system that is developed to address
+the needs of society through information communication technology (ICT). Thus, it is a system-based
+technology that allows access to information and services while facilitating interactions between people.
+The authors further posit that VPs remain an extremely interesting and quickly developing topic in terms
+of both academic research and new business directions. However, researchers must address fundamental
+technical issues, such as speed, abstraction, parallelization, reuse, and interoperability.
+
+E-learning
+VPs allow users to access desired services and information from anywhere in the world. Kishimoto et al.
+(2009) posit that VPs involves network, data, and application services. A study conducted by Benta and
+Bologa (2014) revealed the importance of using e-learning platforms in higher education. Their research
+showed that the benefits of VPs for e-learning include: user choice, access to personalized services that are
+delivered electronically, increased market reach, and enhanced efficiency. Other researchers have also
+established that e-learning provides the flexibility and convenience of learning without having to travel
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+2
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+(Zhang et al. 2006). This suggest that e-learning affords people convenient options of study, as well as a
+cost-effective learning opportunity for people who could not otherwise afford higher education (Zhang et
+al. 2006). In line with these findings, Algahtani (2011) finds that the potential benefits of e-learning are
+much greater than traditional learning, as long as e-learning is conducted properly and efficiently. Closely
+related is a study by Brown et al. (2008), which shows that teachers who instruct on e-learning platforms
+adopt various teaching methods to address the needs of different types of students. E-learning provides
+flexibility in terms of time and location, while allowing students to interact with other students and
+eliminate barriers to participation, such as fear of talking in front of the class (Smedley 2010; and Wagner
+et al. 2008). Therefore, e-learning has several benefits that should encourage universities and institutions
+of higher learning to adopt virtual platforms (Arkorful and Abaidoo 2014). It was noted that VPs have
+provided more options for innovative academic teaching and learning over the past two decades (Leupers
+et al. 2012).
+However, learning centers and institutions that adopt advanced technology for e-learning require students
+to have efficient and effective ICT skills in order to take advantage of these benefits (Judahil et al. 2007).
+Several barriers are associated with e-learning using the VPs, such as the cost of developing frameworks to
+promote efficient e-learning. Bagarukayo and Kalema (2015) found that e-learning usage and adoption
+varied between universities. Their study specifically revealed a number of factors that hinder the adoption
+and delivery of e-learning in South Africa, including training and support for ICT, content-creation skills,
+policy, cost, technological barriers, giving access to diverse populations, large class sizes, infrastructure and
+technical issues, instructor motivation, and job security. Isabirye and Dlodlo (2014) also found the following
+challenges: lack of institutional support, non-integration of elearning business strategy, lack of e-learning
+culture, exclusion of academics from e-learning development programs, instructor attitudes, technological
+challenges, lack of pedagogical strategies, cost, quality, lack of policies, lack of training, lack of motivation,
+lack of incentives to participate; under-preparedness, unsupportive work environment, logistical issues,
+lack of management, and lack of ICT support.
+There are also challenges related to legal issues and the privacy of those who use VPs. Moreover, the
+technologies available in many parts of the world are almost obsolete and unable to support effective and
+efficient e-learning activities (Mitchell 2003). A study conducted by Shen and Eder (2009) revealed some
+challenges and constraints related to the use of VPs for e-learning. The study found that poor network speed
+is a challenge for e-learning. As a results of weak Internet networks, the students faced difficulties with
+connecting to VPs, while others tried and failed to connect using wireless network facilities. Others faced
+difficulties creating and accessing their study accounts even when they succeeded in connecting to the
+Internet. VPs for learning require very high Internet speeds to support access to virtual classrooms.
+Computer self-efficacy is also required to ensure that teachers and students can use the VPs to teach and
+engage in e-learning activities. A study by Shen and Eder (2009) also shows that significant numbers of
+people encounter challenges when using VPs, especially for e-learning and e-business, because they have
+inadequate skills and lack the skills to engage meaningfully within online communities.
+
+Theoretical and Conceptual Framework
+This section presents the theoretical and conceptual framework upon which the analysis is hinged. Several
+theories could be adopted to explain reality. After conducting a thorough literature review, the researcher
+identified technological, organizational, and environmental factors (Table 1); therefore, the technical,
+organizational and environmental (TOE) framework was selected as the best fit for this study. This
+framework, which was developed by Tornatzky and Fleischer (1990), assumes that the process by which a
+firm adopts and implements technological innovations is influenced by technological, organizational, and
+environmental factors.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+3
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Construct
+
+Individual factors
+
+References
+
+Technical challenge
+
+Speed
+Interoperability
+Lack of framework
+Hardware
+Software
+Security
+Connectivity problems
+Institutional
+Administrative implementation
+Financial
+Time-management
+
+Alali & Xanthidis 2014;
+Bagarukayo and Kalema 2015;
+Dillon, Wu, and Chang 2010;
+Ibrahim, Hamlyn-Harris, and
+Grundy 2016; Leupers et al.
+2012)
+
+Stakeholder involvement
+Participation
+Culture
+
+Islam, Beer, and Slack 2015;
+Kebaetse, Nkomazana, and
+Haverkamp, 2014
+
+Organizational challenges
+
+Environmental challenges
+
+Alali and Xanthidis 2014;
+Bagarukayo and Kalema 2015
+
+Table 1. Technological, organizational, and environmental factors.
+
+Technology
+The technological context describes the internal and external technologies that are relevant to the firm.
+Therefore, it includes existing technologies inside the firm, as well as the pool of available technologies in
+the market (Zhu et al. 2004; Picoto, Bélanger, and Palma-dos-Reis 2014). The technological and
+infrastructural challenges (Alali and Xanthidis 2014; Bagarukayo and Kalema 2015; Dillon et al. 2010;
+Ibrahim et al. 2016; Leupers et al. 2012) can be broken down into speed interoperability, lack of framework,
+hardware, software, and connectivity problems.
+
+Organization
+Previous studies have examined the organizational factors that affect the size and scope of a firm (Gibbs and
+Kraemer 2004; Zhu et al. 2002; Racherla and Hu 2008), managerial structures (Pan and Jang 2008), and
+amount of extra resources available (Baker 2012; Zhu et al. 2002). However, the literature review revealed
+additional organizational factors that affect e-learning and VPs, including institutional and administrative
+challenges (Alali and Xanthidis 2014; Bagarukayo and Kalema 2015), implementation challenges, financial
+challenges, and time management challenges (Islam et al. 2015; Kebaetse et al. 2014).
+
+Environment
+The environmental context includes the size and structure of the industry, the firm’s competitors, the
+macroeconomic context, and the regulatory environment (Tornatzky and Fleisher 1990; Iacovou, Benbasat,
+and Dexter 1995; Zhu et al. 2002). Previous studies on environmental factors have looked at competitive
+pressure, the regulatory environment, and consumer readiness (Scott 2007; Zhu et al. 2004; Gibbs and
+Kraemer, 2004). Additional factors that relate to e-learning and VPs include stakeholder involvement,
+stakeholder participation (Kebaetse et al. 2014) and cultural influences (Islam et al. 2015).
+Based on the above discussion, a Conceptual framework for e-learning and VPs, to be used in this study is
+outlined in Figure 1.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+4
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Organisation
+
+Environment
+฀
+฀
+฀
+
+Stakeholder
+,
+Involvement
+Participation
+Culture
+eLearning and
+VPs
+
+Institutional
+฀ Institutional
+Administrative
+฀ Administrative
+Implementation
+฀ Financial
+Implementation
+฀ Time
+Financial
+management
+฀ Time Management
+
+Technology
+฀Speed
+Speed
+฀Interoperability
+Interoperability
+฀Lack
+Lack
+of Framework
+of framework
+฀Usability
+Usability
+฀Software
+Software
+฀Security
+Security
+฀ Connectivity
+
+Connectivity
+
+Figure 1 Conceptual Framework for e-learning and VPs
+Source: Tornatzky and Fleischer (1990) and factors identified in the literature.
+
+Study Methodology
+Critical realism is a stream of research and philosophy that suggests society would exist without our
+knowledge or experiences of it. This philosophy is increasingly accepted as an alternative option to
+interpretive and positivist paradigms because it leverages the benefits and weaknesses of these two theories,
+making it the best alternative theory to study social sciences (Bhaskar 1978).
+This study also employed the quantitative method of study. The main methods used in this study were:
+Internet searches and interviews with people who have engaged in e-learning programs or are still learning
+through e-learning platforms, including those living abroad and in Ghana. The aim was to identify the
+challenges and limitations associated with delivering e-learning in Ghana. The sample size was 40 students
+engaged in online learning through VPs. A semi-structured questionnaire was also used as a qualitative
+component to this study. Sampling of the questionnaire relied on snowballing to identify and generate
+information from 40 respondents.
+
+Data-Collection Methods
+A quantitative data-collection method was used in this study in order to identify people in Ghana who were
+engaged in e-learning courses, as well as those who had past experience with e-learning through a VP. Forty
+respondents from these two categories were identified and interviewed.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+5
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Data Analysis and Results
+The data were analyzed using IBM SPSS 21 computer software. The analysis relied on descriptive statistics,
+such as tables, percentages, and frequencies, coupled with qualitative descriptions of the results and
+findings in this study. The following sections present the results of this study, which cover demographic
+characteristics, use of VPs for e-learning, challenges associated with the use of VPs for e-learning, and
+implications for policy and research.
+
+Findings
+Forty valid responses were gathered during this study. Out of these respondents, 60% (24) were male and
+40% (16) were female. Furthermore, 75% (30) were within the ages of 25–35 years, 10% (4) were between
+the ages of 36–46years, and 15% (6) people were between the ages of 47–57 years. With regards to ICT
+skills, 40% (16) possessed above-average computer skills, 40% (16) had average skills, and 40% (16) had
+lower-than-average skills. The results for Internet familiarity and use of internet VPs showed that 80%
+(32) of respondents had difficulties with using the internet efficiently.
+The respondents were asked what types of online systems they used to access the VPs for their e-learning
+courses. Table 1 presents the results.
+Types of virtual systems
+
+Frequency
+
+Percentages (%)
+
+Cross Knowledge Learning Suite
+
+0
+
+-
+
+Open edX
+
+26
+
+65%
+
+Adobe Captivate Prime
+
+0
+
+-
+
+Latitude Learning
+
+8
+
+20%
+
+G-Cube LMS
+
+0
+
+-
+
+Can’t remember
+
+6
+
+15%
+
+I don’t know
+
+0
+
+-
+
+Total
+
+40
+
+100%
+Table 1. Usage of VPs.
+
+The results of this study show that 65% of respondents identified Open edX as the system used in their elearning programs. Another 20% identified Latitude Learning, and 15% said they could not remember the
+type of system they used. Therefore, different types of computerized technological systems are adopted by
+e-learning service providers. This study also sought to establish the various activities were undertaken
+required to access the technological systems in the VPs. It was established that students were required to
+create an account with their identity code and password.
+Activities Involved in the use of VPs in E-learning: The responses vary when the respondents were
+asked about whether they were familiar with using the internet and how regularly they used the internet.
+Sixty percent of respondents said they were not very familiar with the online system used for their e-learning
+course. They received little training on how to use their student accounts and engage with their classmates.
+The remaining 40% said they were quite familiar with the online system.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+6
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Institutional Challenges: Organizational factors, according to literature on the TOE framework,
+influences e-learning and virtual platforms. This section of the study presents the results related to
+institutional challenges that affect the use of the VPs for e-business learning and activities. The respondents
+were asked to identify various challenges they felt were institutionally oriented and that constrained their
+effective use of the VPs during their e-business activities. In other words, these challenges were attributed
+to the educational institutions and were beyond the control of the users. Table 2 presents the results.
+Types of challenges
+
+Frequency
+
+Percentages
+
+Ineffective orientation
+
+12
+
+30%
+
+Systems failures
+
+36
+
+90%
+
+Speaking pattern of the teacher
+
+22
+
+55%
+
+Table 2. Institutional Challenges.
+Table 2 shows that 90% (36) of respondents identified systems failure prevented them from using the VPs
+for e-business learning. Another 30% (12) said ineffective orientation inhibited their ability to familiarize
+themselves with the online systems, and 55% (22) said the speaking pattern of the teacher made it difficult
+to understand the subject matter. Therefore, systems failures, ineffective orientation, and the speaking
+pattern of the teacher affected the respondents’ use of the VPs for teaching and learning e-business.
+Student-Related Challenges: Technological factors that influence e-learning and virtual platforms
+was described to include usability and Interoperability. This set of challenges identified by the
+respondents were personal in nature. This category of challenges is associated with the capacities of the
+student using the VPs for ebusiness teaching and learning. Table 3 presents the results.
+Types of challenges
+
+Frequency
+
+Percentages
+
+Poor computer skills
+
+28
+
+70%
+
+Inadequate knowledge of Internet handles
+
+26
+
+65%
+
+Lack of time management skills
+
+31
+
+77.5%
+
+Table 3. Student-related challenges with VPs.
+Table 3 shows that 70% (28) of respondents identified poor computer skills as a factor that constrained
+their efficient use of VPs for e-learning. Another 65% (26) said weak knowledge of internet handles was a
+factor that hampered their efficient use of the VPs. Finally, 77.5% (31) identified poor time management as
+a challenge when using VPs for e-business learning. Therefore, poor computer skills, weak knowledge of
+Internet handles, and lack of time management were factors that constrained students’ efficient use of the
+VPs for e-business learning.
+Environmental Challenges: Finally, the respondents were asked to identify other factors that affected
+their efficient use of the VPs but were not personal in nature or attributable to the educational institution.
+Table 4 presents the results.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+7
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Types of challenges
+
+Frequency
+
+Percentages
+
+Poor Internet speeds in Ghana
+
+40
+
+100%
+
+Lack of advanced ICT technologies to support e-learning
+
+36
+
+90%
+
+Time change difficulties
+
+16
+
+40%
+
+Table 4. External factors. Source: Field data, 2019.
+Table 4 shows the external factors identified by the respondents. One hundred percent (40) of the
+respondents noted poor internet speeds in Ghana as an inhibiting factor, and another 90% (36) identified
+lack of advanced ICT technologies to support e-learning activities. Meanwhile, 40% (16) indicated time
+change difficulties as a factor that hindered their efficient use of the VPs for e-business teaching and
+learning in Ghana.
+
+Discussion
+This section discusses the results of this study in order to draw conclusions, inform public policy, and
+provide directions for future research. This study established that 65% of respondents used the Open edX
+VP system, 20% used the Latitude Learning system, and 15% could not remember what type of system they
+used for their e-learning studies. Shen and Eder (2009) have acknowledged the relevance of virtual worlds
+for enhancing teaching and learning, and Fowler (2015) has also emphasized the importance of virtual
+communities in teaching and learning. The results of this study suggest that deliberate actions are required
+to create opportunities to adopt e-learning as a means to boost human resource capacity of universities in
+Ghana.
+The results of this study also established the types of challenges that affect students’ efficient use of VPs.
+The institutions that provide e-learning services were blamed for some of these challenges, including
+ineffective orientation on the use of the e-learning facilities (30%), systems failures (90%), and pattern of
+communication by the instructors (55%). According to Bagarukayo and Kalema (2015), institutional
+challenges also hinder the effectiveness of e-learning. This study showed general inadequacies of the
+teaching and learning institutions to train students on how to use the VPs. It is likely that the teachers
+realized that there were different types of online systems used for e-learning, which could explain the
+assumption that students would understand how to use the systems. Finally, the speaking pattern of the
+teacher and systems failures should be monitored to avoid adverse effects on the students.
+This study also revealed that 70% of the respondents had poor computer skills and self-efficacy, while 65%
+had inadequate knowledge of internet handles, and another 77.5% lacked time management skills.
+These results align with previous studies by Judahil et al. (2007) who found that students must possess
+certain levels computer and ICT skills to be able to engage in e-learning, and they must have self-discipline
+to be effective students in an e-learning environment.
+Finally, this study presented results on external challenges that are beyond the control of the students and
+the service provider. All of the respondents (100%) indicated that poor internet speeds in Ghana were
+responsible for their effective use of e-learning. This aligns with studies by Shen and Eder (2009), which
+show that poor network connectivity has a negative effect on e-learning. Poor internet speeds are a major
+challenge in Ghana, which likely explains why some institutions of higher learning have not adopted elearning strategies. This problem should be addressed at the national level. Furthermore, 90% of the
+respondents demonstrated that the level of technological development in Ghana is still inadequate to
+support effective e-learning. This suggests that Ghana has much work to do when it comes to adopting
+advanced technologies that can facilitate e-learning. Consistent with these findings is the report by the
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+8
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+International Telecommunication Authority (ITU,2016), noting that internet penetration in Ghana is only
+28.4%. This highlighted gap in infrastructural inequality is evident in this study with 90% of respondents
+attesting to the negative effect of system failures on their educational experience. There is reasonable
+evidence to suggest that efforts are being made to improve and better facilitate e-learning in Ghana. For
+instance, University of Ghana was operating on a bandwidth of 10mbps in 2010. This was increased to
+310mbps in 2013 and further increased to 1000mbps in 2018 by Vodafone (UG, 2018).
+
+Conclusion
+This study aimed to address challenges that limit the efficient use of VPs as means of teaching and learning.
+The study focused on students in Ghana who were engaged in e-learning through universities outside
+Ghana. It has been established that six types of computer systems exist for e-learning, and two of these were
+adopted by the respondents in this study: Open edX and Latitude Learning. Three categories of challenges
+are associated with these systems are: 1) institutional (ineffective orientation for students, systems failures,
+and teachers’ speaking patterns), 2) personal (poor computer skills, inadequate knowledge of Internet
+handles, and lack of time management skills), and 3) external (poor Internet speeds, lack of advanced
+technologies to support e-learning, and time differences). Efficient Modern and up-to-date ICT is required
+for efficient development and transition to learning through VPs.
+This study also revealed that the respondents lacked the capacity to use computers efficiently. From the
+discussions, it can be summed that some strategies need to be in place to ensure the success of e-learning
+on virtual platforms in Ghana. These should include, but not limited to, the provision of a well-structured
+and effective orientation program before embarking on the e-learning journey. A prerequisite computer
+literacy class to equip students or exams to assess computer literacy prior to course commencement. These
+strategies are not exhaustive and further research is needed to ascertain the strategies needed to sustain or
+facilitate continuous usage and advancement in the use of virtual platforms for e-learning in Ghana.
+
+References
+Alali, A. S., and Xanthidis, D. 2014. "An exploratory study of eLearning challenges and opportunities in
+the GCC," Computer Applications & Research (WSCAR), 2014 World Symposium pp. 1–6. IEEE.
+Amado-Salvatierra, H. R., Hilera, J. R., Tortosa, S. O., Rizzardini, R. H., and Piedra, N. 2016. "Towards a
+Semantic Definition of a Framework to Implement Accessible e-Learning Projects," J. UCS (22:7),
+pp. 921–942.
+Bagarukayo, E., and Kalema, B. 2015. "Evaluation of elearning usage in South African universities: A
+critical review," International Journal of Education and Development Using ICT, (11:2), pp. 168183.
+Bhaskar, R. 1978. A Realist Theory of Science, Brighton.
+Choi, D. H., Dailey-Hebert, A., and Estes, J. S. 2016. Emerging tools and applications of virtual reality in
+education. Information Science Reference.
+Campus News, N. 2018. UGCS soon to allocate data bandwidth to students - Radio Univers 105.7FM.
+Retrieved April 22, 2019, from https://www.universnewsroom.com/news/ugcs-soon-to-allocatedata-bandwidth-to-students/
+Dillon, T., Wu, C., and Chang, E. 2010. "Cloud computing: issues and challenges," Advanced Information
+Networking and Applications (AINA), 2010 24th IEEE International Conference on, pp. 27–33.
+IEEE.
+Duff, E., Miller, L., and Bruce, J. 2016. "Online virtual simulation and diagnostic reasoning: A scoping
+review," Clinical Simulation in Nursing, (12:9), pp. 377–384.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+9
+
+VPs: Assessing the Challenges of E-Learning in Ghana
+
+Fowler, C. 2015. "Virtual reality and learning: Where is the pedagogy?" British Journal of Educational
+Technology, (46:2), pp. 412–422.
+Gamage, V., Tretiakov, A., and Crump, B. 2011. "Teacher perceptions of learning affordances of multi-user
+virtual environments," Computers & Education, (57:4), pp. 2406–2413.
+Huang, Y-C., Backman, S. J., Backman, K. F., and Moore, D. 2013. "Exploring user acceptance of 3D
+virtual worlds in travel and tourism marketing," Tourism Management (36), pp. 490– 501.
+Ibrahim, A. S., Hamlyn-Harris, J., and Grundy, J. 2016. "Emerging security challenges of cloud virtual
+infrastructure," ArXiv Preprint ArXiv:1612.09059.
+International Telecommunications Authority (2016). Internet Users by Country (2016) - Internet Live
+Stats. www.InternetLiveStats.com. Retrieved April 22, 2019, from
+http://www.internetlivestats.com/internet-users-by-country/
+Islam, N., Beer, M., and Slack, F. 2015. "E-learning challenges faced by academics in higher education,"
+Journal of Education and Training Studies, (3:5), pp. 102–112.
+Kebaetse, M. B., Nkomazana, O., and Haverkamp, C. 2014. "Integrating eLearning to Support Medical
+Education at the New University of Botswana School of Medicine," Electronic Journal of ELearning, (12:1), pp. 43–51.
+Leupers, R., Martin, G., Plyaskin, R., Herkersdorf, A., Schirrmeister, F., Kogel, T., and Vaupel, M. 2012.
+VPs: Breaking new grounds. In Design, Automation & Test in Europe Conference & Exhibition
+(DATE), 2012 pp. 685–690. IEEE.
+Martín-Gutiérrez, J., Mora, C. E., Añorbe-Díaz, B., and González-Marrero, A. 2017). Virtual technologies
+trends in education. EURASIA Journal of Mathematics Science and Technology Education, (13:2),
+pp. 469–486.
+Schaffer, V. 2017. Enhancing learning to diverse cohorts via immersive visualization. Journal of
+Hospitality, Leisure, Sport & Tourism Education (21), pp. 46–54.
+Shen, J., Hiltz, S. R., and Bieber, M. 2006. "Collaborative online examinations: Impacts on interaction,
+learning, and student satisfaction," IEEE Transactions on Systems, Man, and Cybernetics-Part A:
+Systems and Humans, (36:6), pp. 1045–1053.
+Statista. 2019. Virtual Reality (VR) - Statistics & Facts. Retrieved April 22, 2019, from
+https://www.statista.com/topics/2532/virtual-reality-vr/
+Tornatzky, L. G., Fleischer, M., and Chakrabarti, A. K. 1990. "The processes of technological innovation.
+Issues in organization and management series," Lexington Books. Retrieved from http://www.
+Amazon. Com/Processes-Technological-Innovation-Organization/Management/Dp/0669203483.
+Accessed June, 10, 2013.
+
+Twenty-fifth Americas Conference on Information Systems, Cancun, 2019
+
+10
+
+

@@ -1,0 +1,2532 @@
+(2023) 9:9
+Christian et al. BMC Nutrition
+https://doi.org/10.1186/s40795-022-00667-9
+
+BMC Nutrition
+
+RESEARCH
+
+Open Access
+
+Infant and young child feeding practices
+are associated with childhood anaemia
+and stunting in sub‑Saharan Africa
+Aaron Kobina Christian1*, Eric Afful‑Dadzie2 and Grace S. Marquis3
+
+Abstract
+Background The co-occurrence of anaemia and stunting (CAS) presents acute development and morbidity chal‑
+lenges to children particularly in sub-Saharan Africa (SSA). Evidence on the effect of child feeding recommendations
+on CAS is scarce.
+Methods We used data from 22 recent Demographic and Health Surveys in SSA countries to examine the associa‑
+tion between caregivers’ implementation of recommendations on infant and young child feeding and the CAS in their
+6- to 23-mo-old children.
+Results Overall, in multiple logistic regression models, child feed index score, high wealth of household, increas‑
+ing household size, household head with at least secondary school education, improved sanitation of household,
+an increase in caregiver’s age and caregiver’s with at least secondary education were associated with lower odds of
+CAS (i.e., AOR: 0.86; 95% CI; 0.84 – 0.88: 0.75; 0.69 – 0.82: 0.98, 0.98 – 0.99: 0.76, 0.70 – 0.83: 0.81, 0.74 – 0.87: 0.87, 0.81
+– 0.94: 0.69, 0.62 – 0.77 respectively). Having a diarrhoea in the past 2 weeks and having fever in the past month were
+associated with higher odds of CAS (AOR:1.1, 95% CI; 1.0 – 1.2: 1.1, 1.0 – 1.2, respectively). Results from the decision
+tree analysis showed that the educational level of women was the most important predictor of CAS, followed by child
+feeding score, the level of education of the family head and state of drinking water.
+Conclusion The results buttress the importance of interventions aimed at improving feeding practices and parental
+educational as a vehicle to improve children’s nutritional status.
+Keywords Anaemia, Stunting, Co-occurrence of anaemia and stunting: feeding practice, Decision tree
+Introduction
+Anaemia is defined as having low haemoglobin concentration or red blood cell mass as resulting from either
+nutritional factors (e.g., deficiencies of iron, folic acid,
+*Correspondence:
+Aaron Kobina Christian
+akchristian@ug.edu.gh
+1
+Regional Institute for Population Studies, University of Ghana,
+Legon‑Accra, Accra, Ghana
+2
+Department of Operations and Management Information Systems,
+University of Ghana Business School, Accra, Ghana
+3
+School of Human Nutrition, McGill University, Montreal, QC, Canada
+
+vitamin ­B12 and vitamin A), infections (e.g., soil-transmitted helminths, malaria, tuberculosis and HIV/AIDS)
+and/or due to genetic factors (e.g., thalassemia) [1].The
+global prevalence of anaemia in 2010 was estimated at
+32.9% with sub-Saharan Africa (SSA) among the hardest hit regions alongside South Asia [2]. According to the
+World Health Organization (WHO), an estimated 273.2
+million children aged 6–59 months were anaemic in 2011
+[3]. Stunting on the other hand is assessed by measuring
+child’s length or height and interpretating the measurement by comparing them with an acceptable set of standard values per the child’s sex and age category. Stunting
+
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/. The Creative Commons Public Domain Dedication waiver (http://​creat​iveco​
+mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+is considered as the best indicator for assessing children’s
+well-being. Over the past two decades whereas global
+numbers of stunted children have decreased in most
+regions, SSA has witnessed an increase [4].
+Child growth was captured as a key indicator of development by the Millennium Development Goals [5] and
+subsequently within the Sustainable Development Goals
+(SDGs) [6]. The SDG Target 2.2. aims to end all forms of
+malnutrition, including stunting in children. Conversely,
+childhood anaemia influences under five years mortality, delayed motor development, reduced mental capacity and poor educational attainment [7] and substantial
+economic burden [8, 9]. The consequence of stunting
+includes low educational performance, suboptimal function later in life and, for pregnant women, adverse effects
+such as restricted uterine blood flow and growth of the
+uterus, placenta, and foetus [10].
+Most undernutrition problems share overlapping risk
+factors, especially with respect to their proximate determinants [15, 16]. Factors such as poor socioeconomic
+status, inadequate health service utilization, suboptimal
+childcare practices and poor water and sanitation often
+serve as correlates of multiple health conditions including malnutrition outcomes [11, 12]. Given the overlapping causes of anaemia and stunting, their co-occurrence
+would be expected to occur particularly in poor childcare
+settings [13].
+There have been several adaptations of the oft-cited
+United Nations Children’s Fund conceptual framework
+that speaks to the correlates of childhood nutritional status. An example of such a framework is the WHO framework that gives importance to inadequate complimentary
+child feeding practices -poor quality food, low dietary
+diversity and intake of food, infrequent and inadequate
+feeding, and insufficient frequency of feeding[14, 15]. It is
+generally agreed that appropriate infant and young child
+feeding (IYCF) is likely to increase child survival and promote optimal growth and development and has the most
+impact on children between six months and two years. In
+2002, the WHO and UNICEF adopted a global strategy
+for IYCF aimed at bringing global attention to the impact
+of feeding practices. The WHO has since introduced a
+set of indicators for complementary feeding among children aged 6 to 23 months to track and encourage optimal
+feeding practices [16].
+Although research on the effect of single feeding practice on nutritional outcomes is critical, it does not permit
+the examination of child feeding practices on children’s
+health and nutrition outcome [17]. Apart from a study
+by Gebremedhin (2019), pooled indicators for IYCF
+practices across the entire SSA have not been published.
+Additionally, critically missing is the adequate scholarship examining the relationship between IYCF practices
+
+Page 2 of 13
+
+and childhood nutrition outcomes (including anaemia,
+stunting, and the co-occurrence of anaemia and stunting
+(CAS)), which was the primary reason for which the indicators were generated. The aim of the current study is to
+use the most recent nationally representative data across
+the SSA to examine the relationship between IYCF practices and CAS in 6- to 23-months-old children. The key
+research questions addressed in this analysis are (1) Does
+IYCF predict CAS and (2) what is the relative importance
+of the association of other covariates to CAS in sub-Saharan Africa?
+
+Methods
+Data sources and procedures
+
+We used data from the most recent Demographic and
+Health Surveys (DHS) of selected sub-Saharan Africa
+countries (SSA) provided by the Integrated Public Use
+Microdata Series (IPUMS) (Minnesota Population Centre). The DHS employs a stratified two-stage cluster
+sampling technique to select census enumeration based
+on probability (proportional to area size), then a random selection of households from a listing of households
+within the selected enumeration area. These surveys
+collect household and individual information on a wide
+range of themes, using comparable questionnaires across
+study countries. For selected households, a member who
+is usually the household head answers general questions
+on household socioeconomic and demographic characteristics through a face-to face interview.
+All consenting women within the reproductive age
+bracket (i.e., 15 to 49 years old) are also interviewed
+on questions such as their reproductive health, their
+children’s dietary intake and their child feeding practices. Caregivers also provide information on the index
+children (i.e., children between 6 to 59 months) in the
+selected households. Children’s length/height and weight,
+and haemoglobin concentration are also assessed. The
+surveys also gather information on the household members and characteristics of the household.
+IPUMS DHS was established in 2012 to support
+comparative over-time and international research with
+the DHS [18]. IPUMS provides added value to nationally represented survey and census data by coding
+variables consistently across different countries and
+over time. IPUMS also provides a systems integration
+and documentation which enables researchers to easily merge information from different countries and
+across different data types [19]. Interested variables
+and samples (i.e., countries) were selected on IPUMS
+data request portal and submitted. The pooled data us
+then downloaded automatically. The following were
+the inclusion criteria for selecting surveys for the current analysis: (i) only sub-Saharan African countries,
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+Page 3 of 13
+
+(ii) survey period between 2008 and 2017, and (iii)
+included children’s anaemia and stunting status. The
+DHS is a nationally representative cross-sectional
+household survey that is conducted approximately
+every 5 years. All DHS follow standardised procedures
+in the survey design and data collection across study
+countries [20].
+Ethical considerations
+
+Ethical clearances for the DHS studies are sought from
+the Ethics Committee of ORC Macro Inc. and from
+the Institutional Review Boards and Ethics Boards of
+partner institutions (e.g., Ministries of Health) of the
+studied countries. Protocols adopted for the DHS
+ensure that standards for the protection of respondents’ privacy and confidentiality are strictly adhered
+to. The Inner-City Fund International ensures that the
+survey conforms with the regulations for the respect
+of human subjects as stipulated by the United States
+Department of Health and Human Services. All procedures were performed in accordance with guidelines in
+accordance with the ethical standards as laid down in
+the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. As this study
+used data from the DHS provided through IPUMS, no
+further ethical approval or consideration was required.
+Additional information concerning protocols and
+ethical standards of the DHS can be found at https://​
+dhspr​o gram.​com/​m etho​d ology/​P rote​c ting- ​t he-​P riva​
+cy-​of-​DHS-​Survey-​Respo​ndents.​cfm ( accessed on
+
+­2nd November 2022). Written informed consent was
+obtained from all study participants.
+Measures
+Main outcome
+
+Childhood anaemia was defined as having a haemoglobin
+(Hb) level of < 11.0 mmol/L in children 6 to 59 months
+old, based on WHO classification [3]. The length/heightfor-age Z-scores (LAZ/HAZ) for children were calculated
+based on child sex, age, and length (if aged < 2 years) or
+height (if aged ≥ 2 years) using WHO Anthro software
+version 3.2 [21]. Children with a LAZ/HAZ less than –2
+were considered stunted. Thus, CAS was considered as
+having both a Hb level < 11.0 mmol/L and LAZ/HAZ < -2.
+Main independent variable‑IYCF practice
+
+An IYCF index was created for this study based on agespecific (6 to 8 months, 9 to 23 months) feeding recommendations (Table 1). Breastfeeding is recommended
+for at least 24 months [22]; 2 points were given for children in all age categories who were breastfed and 0 if not
+breastfed. Use of bottles are discouraged [23]; 1 point was
+given for not using a bottle and 0 if a bottle was used.
+Dietary diversity was evaluated based on the number
+of food groups a child ate in the past 24 h using a list of
+seven food groups: grains, roots and white tubers; legumes; nuts and seeds; dairy products; flesh foods (meat,
+poultry, fish, and offal); eggs; pro-vitamin A-rich foods
+(yellow and orange-fleshed roots and tubers, orangefleshed fruits, and dark green leafy vegetables); and other
+fruits and vegetables [24]. A published scoring scheme
+
+Table 1 Variables and scoring system used to create the child feeding index for 6 to 23 months old children, by age group
+Age category
+Variables
+
+6 to 8 months
+
+9 to 23 months
+
+Rationale for scoring
+
+Is breastfed
+
+No = 0; Yes = 2
+
+No = 0; Yes = 2
+
+Breast milk provides at least half of the energy requirements for children 6 to
+12 months and one third for those between 12 to 24 months. Reduces risk of acute
+disease and chronic diseases provides long-term coronary health (Brown et al., 1990;
+Kathyrn Dewey, 2008)
+
+Uses bottle
+
+No = 1; Yes = 0
+
+No = 1; Yes = 0
+
+Bottle feeding is linked to unhygienic conditions increasing the risk of illness and
+mortality (Boone et al., 2016; Muhammad et al., 2018)
+
+0=0
+1 to 3 = 1
+≥4=2
+
+Having a more diverse diet is a proxy for adequate micronutrient-dense foods. Con‑
+sumption from at least 4 food groups over 24 h. is considered adequate and likely
+to contain at least one fruit or vegetable and one animal source food in addition to
+a staple food, usually cereals or other starchy staples (Working Group on Infant and
+Young Child Feeding Indicators, 2006)
+
+For past 24 h
+Dietary diversity ­scorea 0 = 0
+1 to 3 = 1
+≥4=2
+Meal frequency
+
+Maximum score
+a
+
+0 meals/d = 0
+0 meals/d = 0
+1 meal/d = 1
+1 to 2 meals/d = 1
+≥ 2 meals/d = 2 ≥ 3 meals/d = 2
+7 points
+
+The required meal frequency for children is dependent on their energy requirement
+(Kathyrn Dewey, 2008)
+
+7 points
+
+Dietary diversity from 24-h recall; maximum score of 7 when a child consumes food items from all 7 food groups: grains and tubers, legumes, dairy, flesh (red meat,
+fish, offal), eggs, vitamin A rich fruits, fruits and vegetables
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+for diet diversity was modified and used as part of a feeding index as follows: for all age categories, a score of 2
+points for eating from 4 or more food groups, 1 point was
+awarded to those who ate from 1- 3 food groups, and 0
+was assigned to children who did not eat from any food
+group over the past 24 h. Based on the recommended
+meal frequency, 6- to 8-mo-old and 9- to 23-mo-old children who were fed at least twice and thrice times, respectively, were given 2 points. One point was given for fewer
+meals and 0 for no meals. Taking cue from previous studies a final IYCF index was generated as a summation of
+the scores obtained for each variable described [25]. The
+feeding scores were categorized as ‘Low’ and ‘High’ based
+on computation of the ­50th percentile.
+Other covariates
+
+Selection of covariates was guided by the UNICEF framework for childhood malnutrition and the WHO framework that gives importance to inadequate complimentary
+child feeding practices [26] and other socio-demographic
+characteristics that known to have an influence on childhood malnutrition. Household characteristics such as
+wealth status, total number of people (i.e., household
+size), access to improved sanitation and drinking water
+were included [27]. The following were considered as
+improved water sources: piped water, boreholes, or tube
+wells, protected dug wells, protected springs, rainwater,
+and packaged or delivered water and the unimproved
+sources were unprotected dug well, unprotected spring,
+river, dam, lake, pond, stream, canal, and irrigation canal.
+Improved sanitation facilities were flush/pour flush to
+piped sewer systems, septic tanks, or pit latrines; ventilated improved pit latrines, composting toilets, or pit
+latrines with slabs with pit latrines without a slab or
+platform, hanging latrines or bucket latrines and open
+defecation considered as unimproved facilities. Child
+characteristics that were selected included having experienced diarrhoea and fever of a specified period [28].
+Whether or not a child was given either vitamin A or iron
+supplements within the past 6 months was also assessed.
+Statistical analysis
+
+Factoring in the sampling design of the DHS data, sampling weights were calculated to account for differential
+probabilities of selection and participation of households
+across countries. Weighted proportions and 95% confidence intervals (CI) were calculated with STATA version
+14.2 (Stata, College Station, TX, USA). The svyset command in STATA was used to describe the sample design.
+The svy: prefix is used before commands for running
+models such as regress or logistic. Chi-square was used to
+test the association between child feeding index terciles
+(low, medium, and high) and CAS in a bivariate analysis.
+
+Page 4 of 13
+
+For individual countries, binary logistic regression was
+used to test whether the magnitude and statistical significance of the association between the child feeding index
+and CAS remained after controlling for other covariates
+noted to influence anaemia and stunting.
+We further used decision tree analysis to comprehensively understand the weight of the factors that influenced CAS observed, that is to examine correlates with
+respect to the extent of their importance in predicting
+the outcome of interest. A decision tree is a non-parametric supervised learning method used for both classification and predictive analysis problems. The goal is
+to create a model that concurrently predicts and classifies the value of a dependent variable (in this case CAS)
+by learning simple decision rules inferred from the data
+attributes [29]. Visually, it is an inverted tree where each
+node represents a given data attribute, each branch a
+decision rule (condition) and each leaf represent an outcome (categorical or continuous value). In each node
+of the tree, a splitting rule (referred to as a condition) is
+applied to determine which class a datum should belong
+for a specific attribute that has a property of data associated with the node [30]. The algorithm has an added
+power of inferring the dominant attributes most important to the prediction. In this instance, the condition of
+the node which is closest to the root of the tree is considered the most influential or the most important as far as
+the prediction is concerned.
+To obtain the tree and nodes, we employed the gain
+ratio methodology as the criterion on which attributes
+were selected for splitting. The gain ratio criterion is a
+variant of information gain used in measuring how well a
+given attribute separates the training examples based on
+their target classification. The goal for the decision tree
+analysis was to identify relatively important factors that
+predict CAS. Automatic feature selection was performed
+in the RapidMiner 2018 software (RapidMiner, Boston)
+to select only attributes that contributed significantly to
+the prediction of CAS. Criteria for selection included (1)
+attributes (variables and the categories of that variable)
+that had a strong relationship with the outcome variable
+(CAS) and (2) independent variables that had very low
+correlation between themselves.
+
+Results
+Characteristics of the study sample
+
+The final analytic sample for assessing the association
+of child feeding index with CAS was 33,846 caregiverchild dyads across all the selected 22 SSA countries. The
+heads of the households were mostly men (79%), and
+only about 28% of the household heads had more than a
+secondary level of education. In terms of household conditions, slightly more than half of the households (56%)
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+had improved water source, and 45% had improved toilet facilities. The mean household size was 7.2 (4.6 SD).
+Over half of the countries (12/22, 55%) had less than 20%
+of women attaining secondary or higher education. Fifteen out of the twenty-two countries had 20% or more of
+mothers indicating that their children had diarrhoea or
+fever over the two weeks prior to the survey. There was
+no vitamin A supplementation in Angola, no iron supplementation in Zimbabwe, South Africa, Rwanda, Namibia,
+and Lesotho. The household, caregiver, and child characteristics that may influence the nutritional outcome of
+the children varied widely across the countries (Table 2).
+The prevalence of households with improved water
+source and access to improved sanitation facility was
+lowest in Madagascar (31%) and highest in Malawi (80%).
+Both maternal and head of household education varied
+greatly across the SSA countries. Burkina Faso and Niger
+had the lowest and South Africa had the highest educational achievement.
+Nutritional status of children and child feeding practices:
+Prevalence of anaemia, stunting and CAS
+
+Overall, the prevalence of anaemia, stunting and the
+CAS among the sample children were 76%, 32% and 25%,
+respectively. More than half of the study countries had
+over 80% of mothers breastfeeding their 6- to 23-monthsold children (Table 3). South Africa was the only country
+with less than half of mothers breastfeeding. In Burkina
+Faso, breastfeeding was close to universal (94%) and bottle feeding almost non-existent (1%) for this age group.
+Overall, only 16% of the children consumed from at least
+four food groups.
+Child feeding practices and its association with nutritional
+outcome
+
+Figure 1 shows bivariate associations between feeding
+practices and CAS for each country. Overall, a lower proportion of children with CAS was associated with having
+a high compared to a low score on the IYCF score. There
+were however some country variations in this pattern.
+After adjusting for other covariates in the pooled data
+set, child feeding index significantly predicted CAS (See
+Table 4). That is, overall higher child feeding index score
+was associated with a lower odds of children being both
+stunted and anaemic (p ≤ 0.001). There were countryspecific differences in the models results after adjusting
+for other covariates (Supplementary Table 1).
+The decision tree analysis offered an alternative means
+of identifying the level of relevance of attributes predicting CAS. Overall, the caregiver’s educational level was
+the most important predictor of CAS, followed by child
+feeding index score, the household head’s educational
+level, and access to improved water source for drinking
+
+Page 5 of 13
+
+(Fig. 2). A further breakdown of the tree through the
+nodes revealed that, where caregivers had no education at all or terminated at the primary level, there was
+73.1% of CAS and 26.9% of no CAS. However, where the
+level of education was secondary school and above, the
+most important predictor towards CAS was the child
+feeding index score. A feeding index score greater than
+five resulted in 84.4% chance of no CAS. However, if the
+child feeding score was less than five, the level of education of the family head was the most important predictor of CAS. If the household head’s level of education was
+below primary school, this resulted in CAS. However, if
+the level of education was secondary and above, state of
+drinking water (i.e., having an improved water source)
+was the predictor to focus on. Where there was improved
+water source, there was no CAS, however, all households
+without improved water source had CAS.
+Other covariates associated CAS
+
+In the pooled analysis, a lower odds of CAS was also
+associated with greater household wealth, larger family
+size, higher level of education of the household head and
+the mother, improved sanitation, and older mothers (See
+Table 4). Children with recent diarrhoea or fever had a
+higher odds of CAS. There were country-specific differences in how sociodemographic variables were related to
+CAS. For example, after controlling for other predictors,
+more caregiver formal education was associated with
+a lower odd of a child being both anaemic and stunted
+only in six countries. Not all countries showed a negative
+association between wealth and CAS. Improved sanitation was protective against CAS (decreased odds) in Burkina Faso, Burundi, Niger, and Senegal Faso. Having had
+childhood diarrhoea recently was a predictor of CAS in
+Angola, Cameroon, and Zimbabwe.
+
+Discussion
+This study aimed to examine the relationship between
+IYCF recommend practices and the co-occurrence of
+anaemia and stunting. Arguably, this study provides the
+most comprehensive up-to-date evidence of the association of IYCF practice on CAS in children 6 to 23 months
+of age, using nationally representative samples across
+sub-Saharan African countries. Based on the WHO
+classification for assessing severity of malnutrition [31],
+approximately 64% of countries in the current sample
+had very high prevalence of stunting (≥ 30%). Conversely,
+the prevalence of childhood anaemia was severe [3] for all
+the countries in the study (i.e., above 40%). A quarter of
+the children (25%) were anaemic and stunted at the same
+time. Overall, the child feeding index was associated
+with CAS, and the decision tree analysis showed maternal education as the most important predictor of CAS in
+
+Angola
+
+38.5
+61.7
+
+   Access to improved water source (Yes)b
+
+   Access to improved sanitation (Yes)c
+
+33.2
+
+   Attained at least secondary education (Yes)
+
+37.6
+29.5
+
+Anaemia (Yes)e
+
+Stunted (Yes)f
+
+CAS (Yes)g
+
+85.5
+22.7
+31.3
+5.3
+
+   Attained at least secondary education (Yes)
+
+   Access to improved water source for drinking
+(Yes)b
+
+   Access to improved sanitation (Yes)c
+
+6.0 ± 2.5
+
+2008
+
+  Male (Yes)
+
+Household head
+
+Household size (#)
+
+Household
+
+Year of survey
+
+78.7
+
+Iron supplement in past 7 d (Yes)
+
+25.0
+
+37.8
+
+67.4
+
+39.3
+
+50.2
+
+16.3
+
+13.3
+
+14.2
+
+75.4
+
+91.3
+
+2012
+
+Mali
+
+29.1
+
+30.6
+
+94.2
+
+8.3
+
+67.4
+
+30.5
+
+23.1
+
+5.5
+
+66.8
+
+33.2
+
+35.8
+
+23.4
+
+40.8
+
+23.5
+
+72.2
+
+5.9
+
+92.1
+
+37.4
+
+57.8
+
+10.5
+
+79.2
+
+85.9
+
+21.3
+
+27.5
+
+73.6
+
+9.9
+
+51.7
+
+35.3
+
+33.8
+
+34.0
+
+60.3
+
+39.7
+
+32.9
+
+19.0
+
+48.1
+
+53.1
+
+60.4
+
+42.1
+
+19.6
+
+40.1
+
+19.3
+
+72.3
+
+5.8 ± 2.4
+
+2011
+
+35.9
+
+71.0
+
+62.5
+
+47.3
+
+6.7 ± 3.3
+
+2013
+
+Mozambique Namibia
+
+36.8
+
+52.9
+
+69.3
+
+7.7
+
+72.4
+
+47.9
+
+37.8
+
+11.4
+
+74.4
+
+25.6
+
+35.6
+
+22.0
+
+42.4
+
+52.2
+
+78.3
+
+12.9
+
+7.9 ± 4.2
+
+19.0
+
+63.1
+
+6.8
+
+85.7
+
+7.6 ± 3.7
+
+2012
+
+Niger
+
+23.8
+
+27.2
+
+86.5
+
+16.5
+
+61.7
+
+34.6
+
+27.2
+
+9.7
+
+62.3
+
+37.7
+
+35.8
+
+21.2
+
+43.0
+
+42.0
+
+59.0
+
+21.2
+
+84.4
+
+7.8 ± 4.5
+
+2011
+
+Ethiopia
+2016
+
+87.0
+
+24.1
+
+32.9
+
+72.0
+
+7.8
+
+42.7
+
+20.1
+
+19.4
+
+7.6
+
+72.1
+
+27.9
+
+32.9
+
+23.3
+
+43.9
+
+9.8
+
+50.2
+
+13.5
+
+2017
+
+Ghana
+
+80.6
+
+69.6
+
+65.1
+
+11.3
+
+74.0
+
+66.4
+
+46.2
+
+17.1
+
+Guinea
+
+19.9
+
+22.5
+
+85.1
+
+10.1
+
+38.1
+
+37.5
+
+23.0
+
+10.9
+
+64.7
+
+35.3
+
+33.5
+
+19.6
+
+46.9
+
+36.8
+
+69.8
+
+20.3
+
+85.5
+
+8.5 ± 4.5
+
+2012
+
+Lesotho
+
+20.8
+
+29.2
+
+61.0
+
+0.0
+
+72.5
+
+19.9
+
+23.5
+
+56.6
+
+48.6
+
+51.5
+
+33.3
+
+25.2
+
+41.5
+
+69.9
+
+62.3
+
+36.3
+
+70.8
+
+6.0 ± 2.5
+
+2014
+
+2016
+
+45.7
+
+68.9
+
+60.9
+
+86.0
+
+69.4
+
+47.0
+
+18.2
+
+82.9
+
+7.2 ± 4.4
+
+2015
+
+58.1
+
+64.4
+
+75.6
+
+62.7
+
+5.5 ± 2.4
+
+2015
+
+South Africa Tanzania Zimbabwe
+
+12.0
+
+14.6
+
+77.7
+
+22.9
+
+70.1
+
+15.5
+
+16.1
+
+53.0
+
+74.8
+
+25.2
+
+37.1
+
+19.7
+
+43.3
+
+66.2
+
+63.3
+
+66.6
+
+75.8
+
+5.5 ± 2.6
+
+2014
+
+5.1 ± 1.8 14.3 ± 8.5 6.3 ± 3.0
+
+2014
+
+Rwanda Senegal
+
+22.6
+
+34.0
+
+68.1
+
+15.6
+
+68.7
+
+37.7
+
+31.2
+
+39.1
+
+67.9
+
+32.1
+
+35.9
+
+18.7
+
+45.4
+
+38.8
+
+40.5
+
+70.6
+
+78.6
+
+6.8 ± 3.0 5.9 ± 2.1
+
+2013
+
+Cameron Cote d’Ivoire DRC
+2011
+
+(2023) 9:9
+
+81.0
+
+80.0
+
+35.7
+
+72.5
+
+5.3 ± 2.0 7.2 ± 3.5
+
+2016
+
+Madagascar Malawi
+
+0.0
+11.1
+
+Vitamin A in past 6 mo (Yes)
+
+26.1
+20.1
+
+Had diarrhea in past 2 wk (Yes)
+
+Had fever in past 2 wk (Yes)
+
+Child
+
+41.7
+58.3
+
+   24 to 49
+
+Age (y)
+
+   15 to 24
+
+24.6
+
+32.5
+
+43.5
+
+Female caregiver
+
+Highest
+
+21.7
+
+38.5
+18.0
+
+Low
+
+Middle
+
+45.7
+
+31.9
+
+67.2
+
+21.8
+
+85.5
+
+71.2
+53.9
+
+5.7 ± 2.1
+
+2016
+
+Burkina Faso Burundi
+2010
+
+6.5 ± 3.2 7.5 ± 3.8
+
+  Male (Yes)
+
+Wealth ­tertilesd
+
+Benin
+2011
+
+6.2 ± 2.8
+
+2015
+
+   Attained at least secondary education (Yes)
+
+Household head
+
+Household size (#)
+
+Household
+
+Year of survey
+
+Table 2 Sociodemographic characteristics and health and nutrition indicators for the study sample population, by c­ ountrya
+
+Christian et al. BMC Nutrition
+Page 6 of 13
+
+20.6
+
+   Attained at least secondary education (Yes)
+
+62.4
+48.2
+31.2
+
+Iron supplement in past 7 d (Yes)
+
+Anaemia (Yes)e
+
+Stunted (Yes)e
+
+CAS (Yes)g
+27.3
+
+32.9
+
+80.9
+
+11.4
+
+67.6
+
+36.9
+
+37.3
+
+23.1
+
+54.7
+
+Mali
+
+44.0
+
+47.3
+
+47.6
+
+36.9
+
+18.6
+
+37.0
+
+52.2
+
+0.0
+
+82.4
+
+25.1
+
+21.9
+
+13.7
+
+75.0
+
+25.0
+
+41.2
+
+21.9
+
+46.4
+
+Wealth quintiles were calculated from an asset-based wealth index using assigned asset weights from a principal components analysis to create standardized asset scores.
+
+Anemia:hemoglobin concentration of < 110 mmol/L.
+
+Stunted: length/height-for-age Z-score < –2
+
+CAS: haemoglobin level < 11.0 mmol/L and length/height-for-age Z-score < -2
+
+e
+
+f
+
+g
+
+14.4
+
+16.3
+
+83.6
+
+2.9
+
+57.4
+
+28.5
+
+27.8
+
+18.1
+
+70.3
+
+29.7
+
+34.3
+
+19.3
+
+d
+
+Improved water source: piped household water connection, public standpipe, borehole, protected dug well, protected spring and rainwater
+
+33.6
+
+38.9
+
+86.4
+
+10.5
+
+60.4
+
+22.8
+
+28.0
+
+6.4
+
+72.4
+
+27.6
+
+31.0
+
+21.4
+
+2017
+
+Rwanda Senegal
+2014
+
+Improved sanitation: ventilated improved pit latrines and pit latrines with a slab or covered pit.
+
+11.3
+
+17.9
+
+63.8
+
+0.0
+
+86.5
+
+33.2
+
+35.1
+
+72.2
+
+64.2
+
+35.8
+
+33.1
+
+19.6
+
+Niger
+2012
+
+c
+
+34.3
+
+41.5
+
+79.3
+
+21.0
+
+69.6
+
+17.2
+
+18.3
+
+12.0
+
+60.4
+
+39.6
+
+37.6
+
+18.4
+
+2013
+
+Mozambique Namibia
+2011
+
+Sample includes only households with complete data on children’s height, age, and haemoglobin level. Values represent mean ± standard deviation or percentage
+
+27.5
+
+30.5
+
+88.6
+
+18.7
+
+53.0
+
+13.6
+
+13.4
+
+9.1
+
+67.7
+
+32.3
+
+31.8
+
+19.9
+
+48.3
+
+2012
+
+b
+
+a
+
+DRC Democratic Republic of the Congo, CAS co-occurrence of anaemia and stunting
+
+43.2
+1.6
+
+Vitamin A in past 6 mo (Yes)
+
+16.2
+14.5
+
+Had diarrhoea in past 2 wk (Yes)
+
+Had fever in past 2 wk (Yes)
+
+Child
+
+42.2
+57.9
+
+   24 to 49
+
+Age (y)
+
+   15 to 24
+
+45.3
+
+34.7
+
+31.5
+
+Female caregiver
+
+  Highest
+
+20.5
+
+49.1
+19.4
+
+  Middle
+
+44.9
+
+2016
+
+Madagascar Malawi
+2008
+
+  Low
+
+Wealth ­tertilesd
+
+Year of survey
+
+Table 2 (continued)
+
+47.0
+
+25.7
+
+33.3
+
+68.7
+
+0.0
+
+78.9
+
+26.1
+
+18.8
+
+90.0
+
+65.4
+
+34.6
+
+32.3
+
+20.7
+
+24.6
+
+32.2
+
+75.3
+
+1.4
+
+43.1
+
+22.6
+
+21.5
+
+17.3
+
+62.3
+
+37.7
+
+35.8
+
+18.8
+
+45.4
+
+2015
+
+14.9
+
+26.4
+
+55.7
+
+0.0
+
+76.5
+
+17.5
+
+30.9
+
+65.7
+
+63.1
+
+36.9
+
+34.9
+
+17.7
+
+47.4
+
+2015
+
+South Africa Tanzania Zimbabwe
+2016
+
+Christian et al. BMC Nutrition
+(2023) 9:9
+Page 7 of 13
+
+15.8
+
+85.6
+2.1
+
+Uses bottle
+
+4.1 ± 1.2
+
+2.2 ± 1.3
+3.8 ± 1.1
+
+2.0 ± 1.1
+
+1.4 ± 1.1
+
+1.0 ± 1.2
+
+14.6
+
+59.5
+
+25.9
+
+4.9
+
+85.1
+
+3.6 ± 1.3
+
+2.8 ± 1.6
+
+2.5 ± 1.5
+
+2.2 ± 1.7
+
+26.9
+
+59.4
+
+13.7
+
+77.1
+
+83.0
+
+Mozambique
+
+4.2 ± 1.1
+
+2.3 ± 1.1
+
+2.2 ± 1.0
+
+1.8 ± 1.0
+
+11.4
+
+75.4
+
+13.2
+
+11.5
+
+91.8
+
+Burundi
+
+3.6 ± 1.3
+
+2.5 ± 1.3
+
+2.0 ± 1.3
+
+1.7 ± 1.4
+
+24.6
+
+57.3
+
+18.1
+
+35.4
+
+59.1
+
+Namibia
+
+3.6 ± 1.2
+
+1.3 ± 1.7
+
+1.4 ± 1.6
+
+1.3 ± 1.5
+
+22.1
+
+67.2
+
+10.7
+
+7.7
+
+67.7
+
+Cameron
+
+4.2 ± 1.2
+
+3.0 ± 1.7
+
+2.5 ± 1.7
+
+1.7 ± 1.6
+
+7.4
+
+69.7
+
+22.9
+
+2.4
+
+86.5
+
+Niger
+
+3.9 ± 1.2
+
+2.5 ± 1.2
+
+1.8 ± 1.3
+
+1.4 ± 1.4
+
+9.7
+
+74.3
+
+16.0
+
+4.5
+
+75.1
+
+Cote d’Ivoire
+
+4.2 ± 1.1
+
+2.6 ± 0.9
+
+2.3 ± 1.0
+
+1.3 ± 1.2
+
+11.5
+
+72.9
+
+15.6
+
+5.1
+
+93.3
+
+Rwanda
+
+4.0 ± 1.2
+
+2.3 ± 1.2
+
+2.0 ± 1.3
+
+1.7 ± 1.2
+
+10.0
+
+70.3
+
+19.7
+
+5.6
+
+87.4
+
+DRC
+
+4.0 ± 1.2
+
+2.2 ± 1.2
+
+1.6 ± 1.2
+
+1.2 ± 1.2
+
+21.0
+
+63.9
+
+15.1
+
+4.8
+
+80.3
+
+Senegal
+
+3.9 ± 1.2
+
+2.4 ± 1.5
+
+2.1 ± 1.4
+
+1.5 ± 1.5
+
+10.9
+
+64.8
+
+24.3
+
+14.8
+
+88.3
+
+Ethiopia
+
+3.3 ± 1.3
+
+2.0 ± 1.0
+
+2.0 ± 1.1
+
+1.8 ± 1.3
+
+38.2
+
+54.0
+
+7.8
+
+48.1
+
+43.1
+
+South Africa
+
+4.1 ± 1.2
+
+2.5 ± 1.2
+
+1.9 ± 1.2
+
+1.7 ± 1.4
+
+16.1
+
+72.4
+
+11.6
+
+12.1
+
+83.2
+
+Ghana
+
+4.0 ± 1.1
+
+2.5 ± 1.2
+
+2.2 ± 1.1
+
+1.8 ± 1.2
+
+19.9
+
+75.7
+
+4.4
+
+7.7
+
+68.7
+
+Zimbabwe
+
+3.8 ± 1.1
+
+2.3 ± 1.6
+
+1.5 ± 1.3
+
+1.0 ± 1.3
+
+6.6
+
+68.8
+
+24.7
+
+4.9
+
+89.1
+
+Guinea
+
+4.3 ± 1.1
+
+2.4 ± 0.9
+
+2.2 ± 1.1
+
+1.9 ± 1.0
+
+16.6
+
+77.5
+
+5.9
+
+4.4
+
+81.3
+
+Tanzania
+
+4.0 ± 1.3
+
+3.2 ± 1.7
+
+2.6 ± 1.7
+
+2.7 ± 1.7
+
+11.5
+
+80.3
+
+8.2
+
+22.5
+
+64.4
+
+Lesotho
+
+Child Feeding Index: A child feeding index was created based on age-specific (6 to 8 months, 9 to 23 months) feeding recommendations on breastfeeding, use of feeding bottle, diet diversity, and meal frequency
+(Kramer, 2012 [22]; Ruel and Menon, 2002 [17]; WHO, 2010 [21, 24])
+
+b
+
+3.2 ± 0.8
+
+0.2 ± 0.7
+
+2.1 ± 1.1
+
+1.6 ± 1.1
+
+19.6
+
+69.7
+
+10.7
+
+5.6
+
+86.2
+
+Mali
+
+3.9 ± 1.0
+
+2.5 ± 1.3
+
+1.9 ± 1.3
+
+1.0 ± 1.3
+
+2.9
+
+68.7
+
+28.4
+
+1.3
+
+93.7
+
+Burkina Faso
+
+Sample includes only households with complete data on children’s height, age, and haemoglobin levels. Values represent mean ± standard deviation or percentage
+
+DRC Democratic Republic of the Congo
+
+Child feeding indexb
+
+12 to 23 mo old children
+
+9 to 11 mo old children
+
+6 to 8 mo old children
+0.2 ± 0.7
+
+10.4
+
+Consumed from 4—7 food groups
+0.2 ± 0.8
+
+80.7
+
+Consumed from 1—3 food groups
+
+Meal frequency
+
+8.8
+
+Consumed from no food group
+
+Dietary diversity for past 24 h
+
+a
+
+Malawi
+
+3.7 ± 1.4
+
+Madagascar
+
+3.9 ± 1.4
+
+2.5 ± 1.6
+
+1.9 ± 1.7
+
+1.3 ± 1.5
+
+24.6
+
+52.0
+
+23.5
+
+14.9
+
+72.9
+
+Benin
+
+2.2 ± 1.4
+
+Breastfeeding
+
+Currently...
+
+Child feeding indexb
+
+12 to 23 mo old children
+
+9 to 11 mo old children
+
+6 to 8 mo old children
+2.0 ± 1.4
+
+26.0
+
+Consumed from 4—7 food groups
+1.8 ± 1.5
+
+57.8
+
+Consumed from 1—3 food groups
+
+Meal frequency
+
+16.2
+
+Consumed from no food group
+
+Dietary diversity for past 24 h
+
+77.6
+
+Uses bottle
+
+Angola
+
+Breastfeeding
+
+Currently...
+
+Table 3 Feeding practices reported by caregivers, by ­countrya
+
+Christian et al. BMC Nutrition
+(2023) 9:9
+Page 8 of 13
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+Page 9 of 13
+
+Fig. 1 Bars show the observed prevalence of co-occurrence of anemia and stunting (CAS) by child feeding index and country, among children
+aged 6 to 23 months (n = 33,846) in 22 sub-Saharan African countries (pooled data, Demographic and Health Survey data sets, 2008 to 2017). Stars
+above bars indicate significant difference (P < 0.05) in the prevalence of CAS within levels of child feeding scores (i.e., High, Medium, and Low)
+
+SSA followed by child feeding index. Result of the influence of child feeding practices on comorbid malnutrition,
+corroborates with earlier research conducted in other
+global regional blocks [32, 33]. IYCF score was associated
+with the decreased likelihood of stunting and CAS, but
+rather the increased odds of children being anaemic.
+The Lancet series on child survival identified IYCF
+practice as a major factor in children survival [34, 35].
+This analysis buttresses the importance of infant and
+young child feeding practices in child nutritional status
+and growth. There is a need for continued interventions
+such as counselling of caregivers about benefits of appropriate or adequate child feeding practices. In the first two
+years of life, appropriate breastfeeding and complimentary feeding techniques are channels for optimal nutrition that provide defence against poor growth and boost
+immunity against illnesses.
+That IYCF was associated with anaemia but not in the
+expected direction. This may be because that there are
+several other factors such as non-iron deficiency (other
+micronutrients), infections and blood disorders that
+contributes significantly to anaemia in the sub-Saharan
+African region. The causes of childhood anaemia are
+multifaceted and intricately related to one another. There
+are many non-dietary factors, such as intestinal parasites like soil-transmitted helminths (STH) and Schistosoma; malaria; HIV infection; and chronic diseases like
+sickle cell disease, in addition to dietary factors (such as
+iron deficiency, other micronutrient deficiencies such as
+folate, vitamin B12, and vitamin A), that may be linked
+to IYCF.
+The role mother’s formal education plays in the overall well-being and specifically children’s nutrition and
+growth has long been documented [36]. Generally, higher
+educational status of caregivers reflects an improved
+
+socioeconomic status that in-turn affects the proximate
+determinants of health and, either directly or indirectly,
+affect the health and nutritional status of children [37].
+This is however influenced by other socio-environmental
+factors [38]. An analysis of the effect of parent education on children nutritional status from 56 developing
+countries, concluded that formal education of the parent
+might have greater impact on nutrition when the education directly improved nutritional knowledge of parents
+[39].
+Overall, type of water and sanitation were also important predictors of CAS. This finding would suggest support of interventions that addressed environmental
+enteric dysfunction an underlying cause of both stunting
+and anaemia, particularly among people living in conditions of poor water, sanitation, and hygiene [40]. However, the SHINE study in Zimbabwe yielded no additional
+benefit with respect to reduction in stunting and anaemia. The association of sanitation and the presence of
+fever in children with the CAS reinforces the important
+role infections play in child growth. Infections causing
+illnesses such as malaria and diarrhoea result in anaemia
+and growth faltering in children [41, 42]. Child nutrition
+and infections have a bidirectional relationship. Whereas
+frequent infections can lead to diarrhoea and/or impair
+absorption of needed nutrients thus resulting in malnutrition among children, a malnourished child is also
+more susceptible to infections. Generally, this study also
+revealed the disadvantage of poor socio-demographics
+(via wealth) on the nutrition outcomes, here CAS. This
+finding is also consistent with previous studies conducted
+in other global regional blocks [43, 44].
+In addition to food security and health care services,
+the UNICEF conceptual framework considers the importance of immediate determinants such as adequate
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+Page 10 of 13
+
+Table 4 Logistic regression results showing the overall relationship between child feeding index and Childhood anaemia and
+stunting and their Co-occurrence among children 6 to 23 ­monthsa
+Indicator of malnutrition
+Anaemia
+
+Stunted
+
+CAS
+
+1.08***
+
+0.83***
+
+0.86***
+
+(1.049—1.108)
+
+(0.805—0.848)
+
+(0.836—0.884)
+
+0.91**
+
+0.76***
+
+0.75***
+
+(0.833—0.987)
+
+(0.696—0.824)
+
+(0.690—0.824)
+
+1.04***
+
+0.97***
+
+0.98***
+
+(1.034—1.054)
+
+(0.960—0.974)
+
+(0.978—0.992)
+
+1
+
+0.92*
+
+0.92
+
+(0.915—1.092)
+
+(0.851—1.004)
+
+(0.837—1.006)
+
+0.83***
+
+0.78***
+
+0.76***
+
+(0.754—0.910)
+
+(0.718—0.849)
+
+(0.696—0.836)
+
+Improved water source for drinking (Yes)d
+
+0.99
+
+0.99
+
+1.02
+
+(0.921—1.069)
+
+(0.930—1.064)
+
+(0.949—1.091)
+
+Improved sanitation (Yes)e
+
+0.90***
+
+0.82***
+
+0.81***
+
+Child feeding ­indexb
+High wealth (Yes)c
+Household size (#)
+Household head (Male)
+Household head’s education (At least secondary)
+
+(0.831—0.972)
+
+(0.764—0.885)
+
+(0.745—0.869)
+
+Caregiver’s age (1 = 25 to 49 y; 0 = 15 to 24 y)
+
+0.75***
+
+0.94*
+
+0.87***
+
+(0.699—0.811)
+
+(0.880—1.006)
+
+(0.813—0.938)
+
+Caregiver’s education (At least secondary)
+
+0.72***
+
+0.73***
+
+0.69***
+
+(0.656—0.794)
+
+(0.666—0.810)
+
+(0.616—0.767)
+
+1.03
+
+1.13***
+
+1.13***
+
+(0.945—1.116)
+
+(1.047—1.216)
+
+(1.040—1.230)
+
+1.34***
+
+1.01
+
+1.12***
+
+(1.230—1.453)
+
+(0.941—1.090)
+
+(1.037—1.213)
+
+1.07
+
+1.01
+
+1.01
+
+(0.939—1.214)
+
+(0.906—1.130)
+
+(0.898—1.134)
+
+29,408
+
+29,408
+
+29,408
+
+Child had diarrhoea in past 2 wk. (Yes)
+Child had fever in past 2 wk. (Yes)
+Child given iron tablet in past 6 mo (Yes)
+Observations
+a
+
+CAS: Co-occurrence of anaemia (haemoglobin level < 11.0 mmol/L) and stunting (length/height-for-age Z-score < -2). Values are odds ratios (95% confidence
+intervals) from logistic regression models. Adjusted models are multiple logistic regression with CAS as the dependent variable controlling for all covariates shown;
+***p < 0.001, **p < 0.05
+
+b
+
+Child Feeding Index: A child feeding index was created based on age-specific (6 to 8 months, 9 to 23 months) feeding recommendations on breastfeeding, use of
+feeding bottle, diet diversity, and meal frequency (Kramer, 2012 [22]; Ruel and Menon, 2002 [17]; WHO, 2010 [21, 24])
+
+c
+Wealth quintiles were calculated from an asset-based wealth index using assigned asset weights from a principal components analysis to create standardized asset
+scores
+d
+
+Improved water source: piped household water connection, public standpipe, borehole, protected dug well, protected spring and rainwater
+
+e
+
+Improved sanitation: ventilated improved pit latrines and pit latrines with a slab or covered pit; NB: There is no data on wealth for South Africa
+
+caregiving practices, including IYCF, to ensure the optimal growth of children. This study’s findings demonstrated the impact of IYCF and its importance in a child’s
+development. The effects of some underlining determinations in the framework, such as health (which includes
+diarrheal status), education, and sanitation, on children’s
+nutritional status are also buttressed in the current study
+[45].
+With respect to policy, countries are urged by the
+Global Strategy on Infant and Young Child Nutrition to
+create and put into effect comprehensive IYCF guidelines that safeguard, encourage, and promote breastfeeding and complementary feeding [46]. While efforts to
+
+improve child feeding practices among caregivers continue, as a policy recommendation there is an increased
+need for early childhood educators to be educated on
+appropriate child feeding practices. This is necessary as
+we see an increasing number of young children attending day care centres and prekindergarten programs. The
+WHO and others rightly acknowledge the role these early
+childhood educators play in optimal infant and child
+health [47, 48].
+A major strength of this work is that the current analysis was drawn from twenty-two nationally representative large samples. Additionally, to our knowledge, this is
+the first analysis using representative data across SSA to
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+Page 11 of 13
+
+Fig. 2 A summary of the decision tree analysis showing the three most important correlates of co-occurrence of anaemia and stunting (CAS)
+1
+Improved water source: piped household water connection, public standpipe, borehole, protected dug well, protected spring and rainwater
+
+investigate the effect of the WHO’s recommended infant
+and young children feeding practices on the co-occurrence of stunting and anaemia at the individual level. This
+notwithstanding, the study is not without some limitations. First, it uses cross-sectional data occurring at different time periods in different countries and that the
+nutrition outcomes of interest, that is childhood anaemia and stunting could be influenced by prevailing some
+country-specific microeconomic variables which are not
+captured in the DHS, thus not included in our current
+models. Information on the use of micronutrients supplements and/or other drugs by children that could influence their anaemia status in children were not accounted
+for in the DHS thus could not be controlled for in our
+models.
+Another probable limitation of our estimation technique, particularly in the logistic regression may be that
+the child feeding index (score) variable may be endogenous to our model, in that it may be influenced by
+some covariates that also influenced the co-occurrence
+of stunting and anaemia. The existence of such an issue
+(endogeneity) could lead to having biased estimates
+[49]. This concern is often addressed using instrumental
+variables and a two-stage least squares methods. Thus,
+future studies could explore identifying a variable that is
+
+associated with the endogenous variable being predicted
+in the first stage equation but not associated with CAS.
+This may ensure better estimates. Unfortunately, after
+much exploration we found no such variable or variables
+in the DHS dataset.
+
+Conclusions
+Although there is no “silver bullet” that could solve the
+CAS, these results strengthen the argument for the
+improvement of IYCF and maternal formal education
+may serve as a pathway to the improvement of childhood
+nutrition. Interventions aimed at addressing the burden
+of stunting and anaemia and their co-occurrence are
+in synchrony with the Sustainable Development Goals
+aimed at reducing hunger and improving the wellbeing of
+the populace, particularly women and children.
+Supplementary Information
+The online version contains supplementary material available at https://​doi.​
+org/​10.​1186/​s40795-​022-​00667-9.
+Additional file 1: Supplementary Table 1. Logistic regression results
+showing the relationship between child feeding index and CAS among
+children 6 to 23 months by study countries.
+Acknowledgements
+The authors are grateful to IPUMS and DHS for granting access to the data.
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+Authors’ contributions
+A.K.C. and E.A.D. conceptualized, extracted dataset, and conducted the analy‑
+sis for the study. G.S.M. provided oversight with the conception of study and
+interpretation or results. All authors reviewed the manuscript. The author(s)
+read and approved the final manuscript.
+Funding
+This research received no specific grant from any funding agency, commercial
+or not-for-profit sectors.
+Availability of data and materials
+All data generated or analysed during this study are included in this published
+article [and its supplementary information files].
+
+Declarations
+Ethics approval and consent to participate
+The study was carried out according to the guidelines and regulations laid
+down in the declaration of Helsinki. The DHS Program uses protocols reviewed
+and approved by the ICF Institutional Review Board (IRB). In addition, IRBs
+in study countries review country-specific DHS survey protocols to make
+sure they comply with local laws on the inclusion of respondents, including
+minors and adults, in its surveys. In accordance with the ethics of conducting
+research with human subjects, voluntary consent to participate in the survey
+was sought from respondents after a clear description of the study, procedure,
+duration, possible risks and benefits of the study was explained for each study
+respondent.. Written informed consent was obtained from all study partici‑
+pants. IPUMS DHS granted access to the data.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 1 December 2021 Accepted: 28 December 2022
+
+References
+1. Subramanian SV, Balarajan Y, Ramakrishnan U, Özaltin E, Shankar AH.
+Anaemia in low-income and middle-income countries. The Lancet.
+2011;378:2123–35.
+2. Kassebaum NJ, Jasrasaria R, Naghavi M, Wulf SK, Johns N, Lozano R, et al.
+A systematic analysis of global anemia burden from 1990 to 2010. Blood.
+2014;123(5):615–24.
+3. WHO. Haemoglobin concentrations for the diagnosis of anaemia and
+assessment of severity. 2011.
+4. UNICEF. Levels and trends in child malnutrition UNICEF-WHO-World Bank
+Group joint child malnutrition estimates: Key findings of the. New York,
+NY: UNICEF, WHO & World Bank Group; 2019.
+5. Oruamabo RS. Child malnutrition and the Millennium Development
+Goals: Much haste but less speed? Arch Dis Child. 2015;100(Suppl
+1):S19-22.
+6. United Nations. About the Sustainable Development Goals - United
+Nations Sustainable Development. 2015. Available from: https://​www.​
+un.​org/​susta​inabl​edeve​lopme​nt/​susta​inable-​devel​opment-​goals/. [cited
+2019 Dec 8].
+7. Walter T. 4 Effect of iron-deficiency anaemia on cognitive skills in infancy
+and childhood. Baillieres Clin Haematol. 1994;7(4):815–27.
+8. Horton S. Chapter 2.1 The Economics of Poor Nutrition: Patterns, conse‑
+quences and costs. In: Good Nutrition: Perspectives for the 21st Century.
+2016. p. 83–91.
+9. Horton S, Ross J. The economics of iron deficiency. Food Policy.
+2003;28(1):51–75.
+10. Dewey KG, Begum K. Long-term consequences of stunting in early life.
+Matern Child Nutr. 2011;7(Suppl. 3):5–18.
+
+Page 12 of 13
+
+11. Allali S, Brousse V, Sacri AS, Chalumeau M, de Montalembert M. Anemia
+in children: prevalence, causes, diagnostic work-up, and long-term conse‑
+quences. Expert Rev Hematol. 2017;10(11):1023–8.
+12. Gosdin L, Martorell R, Bartolini RM, Mehta R, Srikantiah S, Young MF. The
+co-occurrence of anaemia and stunting in young children. Matern Child
+Nutr. 2018;14(3):e12597.
+13. Mohammed SH, Larijani B, Esmaillzadeh A. Concurrent anemia and stunt‑
+ing in young children: prevalence, dietary and non-dietary associated
+factors. Nutr J. 2019;18(1):10.
+14. Piwoz EG, Huffman SL, Quinn VJ. Promotion and advocacy for improved
+complementary feeding: Can we apply the lessons learned from breast‑
+feeding? Food Nutr Bull. 2003;24(1):29–44.
+15. Daelmans B, Mangasaryan N, Martines J, Saadeh R, Casanovas C, Arabi M.
+Strengthening actions to improve feeding of infants and young children
+6 to 23 months of age: Summary of a recent World Health Organization/
+UN ICEF technical meeting, Geneva, 6–9 October 2008. Food Nutr Bull.
+2009;30(2). Available from: www.​thela​ncet.​com/​journ​als/​lancet/​artic​le/​
+PIIS0​140-.[cited 2022 Sep 30].
+16. WHO. World health statistics 2016: monitoring health for the SDGs sus‑
+tainable development goals. 2016.
+17. Ruel MT, Menon P. Child feeding practices are associated with child
+nutritional status in Latin America: innovative uses of the demographic
+and health surveys. J Nutr. 2002;132(6):1180–7.
+18. Boyle EH, King ML, Garcia S, Culver C, Bourdeaux J. Contextual data in
+IPUMS DHS: physical and social environment variables linked to the
+Demographic and Health Surveys. Popul Environ. 2020;41(4):529–49.
+19. Vollmer S, Wójcik J. The Long-Term Consequences of the Global 1918
+Influenza Pandemic: A Systematic Analysis of 117 IPUMS International
+Census Data Sets. 2017. Available at SSRN: https://​papers.​ssrn.​com/​sol3/​
+papers.​cfm?​abstr​act_​id=​30835​84 or https://​doi.​org/​10.​2139/​ssrn.​30835​
+84.
+20. DHS. The DHS Program - Demographic and Health Survey (DHS).
+2020. Available from: https://​dhspr​ogram.​com/​what-​we-​do/​survey-​
+Types/​dHs.​cfm. [cited 2020 May 22].
+21. WHO. Anthro for personal computers, version 3.1, 2010: software for
+assessing growth and development of the world’s children. Geneva:
+WHO; 2010. p. 2010.
+22 Kramer M. Optimal duration of exclusive breastfeeding. Cochrane Data‑
+base Syst Rev. 2012;2012(8):CD003517.
+23. WHO J, Organization WH, UNICEF undefined. Joint WHO/UNICEF Meeting
+on Infant and Young Child Feeding, Geneva 9–12 October 1979: state‑
+ment, recommendations, list of participants. 1981.
+24. WHO. Indicators for assessing infant and young child feeding practices:
+part 2: measurement. 2010.
+25. Kim SS, Rawat R, Mwangi EM, Tesfaye R, Abebe Y, Baker J, et al. Exposure
+to Large-Scale Social and Behavior Change Communication Interven‑
+tions Is Associated with Improvements in Infant and Young Child Feeding
+Practices in Ethiopia. PLoS One. 2016;11(10):e0164800. Available from:
+https://​journ​als.​plos.​org/​ploso​ne/​artic​le?​id=​10.​1371/​journ​al.​pone.​01648​
+00. [cited 2022 Sep 9].
+26. UNICEF. Strategy for Improved Nutrition of Children and Women in
+Developing Countries. A UNICEF Policy Review. 1990.
+27. Dangour AD, Watson L, Cumming O, Boisson S, Che Y, Velleman Y, et al.
+Interventions to improve water quality and supply, sanitation and
+hygiene practices, and their effects on the nutritional status of children.
+Cochrane Database of Systematic Reviews. 2013;2013(8). Available from:
+https://​www.​cochr​aneli​brary.​com/​cdsr/​doi/​10.​1002/​14651​858.​CD009​
+382.​pub2/​full. [cited 2022 Dec 20].
+28. Brown KH. Diarrhea and Malnutrition. J Nutr. 2003;133(1):328S-332S
+https://​acade​mic.​oup.​com/​jn/​artic​le/​133/1/​328S/​46875​65. [cited 2022
+Dec 20].
+29. Song Y, Psychiatry LYS archives of, 2015 U. Decision tree methods:
+applications for classification and prediction. Shanghai Arch Psychiatry.
+2015;27(2):130–5.
+30. Tong W, Hong H, Fang H, Xie Q, Perkins R. Decision forest: Combining the
+predictions of multiple independent decision tree models. J Chem Inf
+Comput Sci. 2003;43(2):525–31.
+31. WHO. Global Database on Child Growth and Malnutrition. 2012 [cited
+2019 Oct 20]. Available from: https://​www.​who.​int/​nutgr​owthdb/​about/​
+intro​ducti​on/​en/​index5.​html.
+
+Christian et al. BMC Nutrition
+
+(2023) 9:9
+
+Page 13 of 13
+
+32. Hashmi AH, Nyein PB, Pilaseng K, Paw MK, Darakamon MC, Min AM,
+et al. Feeding practices and risk factors for chronic infant undernutrition
+among refugees and migrants along the Thailand-Myanmar border: a
+mixed-methods study. BMC Public Health. 2019;19(1):1586.
+33. Hipgrave DB, Fu X, Zhou H, Jin Y, Wang X, Chang S, et al. Poor comple‑
+mentary feeding practices and high anaemia prevalence among infants
+and young children in rural central and western China. Eur J Clin Nutr.
+2014;68:916.
+34. Bryce J, El Arifeen S, Pariyo G, Lanata CF, Gwatkin D, Habicht JP. Reducing
+child mortality: Can public health deliver? Lancet. 2003;362(9378):159–64
+Elsevier Limited.
+35 Black R, Allen L, Bhutta Z, Caulfield L, Lancet MDOT, 2008 U. Maternal and
+child undernutrition: global and regional exposures and health conse‑
+quences. The Lancet. 2008;371(9608):243–60.
+36. Caldwell JC. Education as a factor in mortality decline an examination of
+Nigerian data. Population studies. 1979;33(3):395-413.
+37. Makoka D. The impact of maternal education on child nutrition : evi‑
+dence from Malawi,Tanzania and Zimbabwe. DHS Working Papers; 2013.
+38 Reed BA, Habicht JP, Niameogo C. The Effects of Maternal Education on
+Child Nutritional Status Depend on Socio-Environmental Conditions. Int J
+Epidemiol. 1996;25(3):585–92.
+39. Alderman H, Headey DD. How important is parental education for child
+nutrition? World Dev. 2017;1(94):448–64.
+40. Humphrey JH, Jones AD, Manges A, Maluccio JA, Mbuya MN, Moulton
+LH, et al. The sanitation hygiene infant nutrition efficacy (SHINE) trial:
+rationale, design, and methods. Clin Infect Dis. 2015;61(7):S685-702.
+41. Kateera F, Ingabire CM, Hakizimana E, Kalinda P, Mens PF, Grobusch
+MP, et al. Malaria, anaemia and under-nutrition: Three frequently coexisting conditions among preschool children in rural Rwanda. Malar J.
+2015;14(1):440.
+42. Danaei G, Andrews KG, Sudfeld CR, Fink G, McCoy DC, Peet E, et al. Risk
+Factors for Childhood Stunting in 137 Developing Countries: A Compara‑
+tive Risk Assessment Analysis at Global, Regional, and Country Levels.
+PLoS Med. 2016;13(11):e1002164.
+43. Khan JR, Awan N, Misu F. Determinants of anemia among 6–59 months
+aged children in Bangladesh: Evidence from nationally representative
+data. BMC Pediatr. 2016.
+44. Singh MB, Fotedar R, Lakshminarayana J, Anand PK. Studies on the nutri‑
+tional status of children aged 0–5 years in a drought-affected desert area
+of western Rajasthan. India Public Health Nutr. 2006;9(8):961–7.
+45. UNICEF Conceptual Framework on Maternal and Child Nutrition - Google
+Scholar. [cited 2022 Dec 20]. Available from: https://​schol​ar.​google.​com/​
+schol​ar?​hl=​en&​as_​sdt=0%​2C5&q=​UNICEF+​Conce​ptual+​Frame​work+​
+on+​Mater​nal+​and+​Child+​Nutri​tion&​btnG=.
+46. WHO G. Global strategy for infant and young child feeding. 2003 [cited
+2022 Oct 14]; Available from: https://​agris.​fao.​org/​agris-​search/​search.​do?​
+recor​dID=​XF201​50380​78
+47. World Health Organization. Report of the commission on ending child‑
+hood obesity. Geneva: World Health Organization; 2016.
+48. Organization WH. Global strategy for infant and young child feeding.
+2003. Available from: https://​apps.​who.​int/​iris/​bitst​ream/​handle/​10665/​
+42590/​92415​62218.​pdf. Cited 1 Oct 2022.
+49. Ruel M, Haddad L. The natural history of growth failure: importance of
+intrauterine and postnatal periods. 2012.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+lished maps and institutional affiliations.
+
+Ready to submit your research ? Choose BMC and benefit from:
+
+• fast, convenient online submission
+• thorough peer review by experienced researchers in your field
+• rapid publication on acceptance
+• support for research data, including large and complex data types
+• gold Open Access which fosters wider collaboration and increased citations
+• maximum visibility for your research: over 100M website views per year
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+
+

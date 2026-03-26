@@ -1,0 +1,819 @@
+Energy for Sustainable Development 59 (2020) 83-96
+
+
+
+
+
+
+
+
+
+
+Renewable electricity generation target setting in developing countries: Modeling, policy, and analysis
+Anthony Afful-Dadzie a, Eric Afful-Dadzie a,?, Nii Asafoatse Abbey a, Bright Ansah Owusu a, Iddrisu Awudu b
+a University of Ghana Business School, LG 78, Legon, University of Ghana, Accra, Ghana
+b Department of Management, Quinnipiac University, 275 Mt. Carmel Avenue, Hamden, CT 06518, USA
+
+
+
+a r t i c l e	i n f o
+
+Article history:
+Received 15 February 2020
+Revised 20 June 2020
+Accepted 6 September 2020
+Available online 5 October 2020
+
+Keywords:
+Generation capacity planning Renewable energy Renewable electricity target Unmet demand
+Budget constraints Developing countries
+
+a b s t r a c t
+
+Many countries have set renewable energy targets in their electricity supply mix to encourage investments in re- newable energy technologies. In developing countries, however, many of such targets are either abandoned or fall far short of the target date, primarily due to issues of ?nancing, cost of electricity, and level of unmet demand. This paper presents a Generation Expansion Planning model that can be used to assess such issues when setting a renewable electricity generation target. In particular, the model can be used by developing countries to set re- newable electricity generation targets that are in line with their ?nancial ability and thus, stand a higher chance of being achieved. Additionally, the analysis offered can inform developing countries of the cost and bene?ts of a renewable electricity generation target policy. The usefulness of the model is demonstrated using Ghana as a case. The results indicate that Ghana will need a budget of not less than 1% of its GDP for generation capacity in- vestment if it desires to achieve its 10% renewable electricity generation target by 2030 while keeping unmet de- mand at reasonable levels. If Ghana however enforces the target at its current capacity investment levels, it risks raising unmet demand levels by an average of 4% per year and cost of electricity provision by about US$224 mil- lion annually between 2019 and 2030 when compared to the absence of a renewable electricity generation target.
+
+(c) 2020 International Energy Initiative. Published by Elsevier Inc. All rights reserved.
+
+
+
+
+Introduction
+
+   The growing call to reduce carbon dioxide emissions along with cost of electricity generation from renewable sources becoming more com- petitive (IRENA, 2015a) have energized many countries to set renew- able electricity targets in their electricity supply mix. According to the International Energy Agency (IEA, 2017), renewables are now the fastest growing source of world energy, with consumption growing by 3% per year. Data from the IEA reveal that renewable energy accounted for more than two-thirds of the world's 165 GW of new electricity gen- eration capacity installed in 2016 (IEA, 2017). The IEA further estimates that the increasing growth in renewable energy penetration is expected to continue given the technological advances and the continuous de- cline in capital cost. As a result of these developments, there is a renewed interest by many countries to increase the amount of electric- ity generated from renewable energy sources. Many countries have thus been setting targets to serve as a motivation to focus and direct re- sources to meet such renewable energy goals. For example, as of 2015,
+
+
+? Corresponding author.
+    E-mail addresses: aafful-dadzie@ug.edu.gh (A. Afful-Dadzie), eafful-dadzie@ug.edu.gh (E. Afful-Dadzie).
+
+there were as many as 164 (four times the number in 2005) countries setting at least one type of renewable energy target. A sizable number
+(131) of these countries are from developing or emerging economies. Almost all the 28 EU countries have renewable energy targets set for 2020. (Klessmann et al., 2011). The United Kingdom for instance has a target of achieving 30% renewable content of its electricity generation mix by 2020 (IRENA, 2015b). China has set a target of 30% renewable electricity consumption by 2030 (IRENA, 2015b). Developing countries are not left out. Ghana has set a target of 10% renewable content of its electricity generation by 2030 - originally set for 2020 (BFT, 2017; Obeng-Darko, 2019). Table 1 lists some countries, their renewable elec- tricity targets, and their due dates.
+   However, while countries such as China, India, Germany, and U.S.A have made substantial progress (IRENA, 2017), and are stepping up their renewable energy targets, others are either abandoning or revising down their targets. Australia announced to abandon its renewable en- ergy target in favour of coal power generation (Smyth, 2017). Ghana's target of 10% electricity production from renewable electricity (exclud- ing existing large hydroelectric plants) had to be rescheduled to 2030 because, less than 0.3% had been achieved as at the end of 2018 (ECG, 2019c). A number of EU member states such as Ireland, Netherland, and Poland are likely to miss their 2020 renewable energy targets (Hassel et al., 2017; Oyewunmi et al., 2019).
+
+
+https://doi.org/10.1016/j.esd.2020.09.003
+0973-0826/(c) 2020 International Energy Initiative. Published by Elsevier Inc. All rights reserved.
+
+
+
+Table 1
+Selected countries and their renewable electricity generation target and due Date. Source: Adapted from IRENA (2015b, Page 25).
+
+
+Region	Country	Target (%)	Due Date
+
+EuropeIceland1002020-2021Denmark502020-2021Germany352020-2021United Kingdom302020-2021Italy252020-2021Ukraine112020-2021North AmericaMexico˜302023-2025Costa Rica1002020-2021Cuba242030-2032Dominican Republic252020-2021South AmericaChile202023-2025Brazil852023-2025Argentina202025AfricaSouth Africa152030-2032Morocco
+Burkina Faso25
+˜482020-2021
+2030-2032Cape Verde502020-2021AsiaChina India Japan30
+˜15
+˜232020-2021
+2020-2021
+2030-2032Indonesia152023-2025Philippines402020-2021OceaniaAustralia202020New Zealand902025Fiji802020-2021
+
+   A number of reasons could explain a country's need to abandon, or its failure to meet a proposed renewable energy target. First, although the cost of electricity over the lifespan (i.e. Levelized Cost of Electricity (LCOE)) of some renewable energy technologies is now competitive to that of some conventional generators, their capital cost still remains high (EIA, 2018; Green & Staffell, 2016; Sawin et al., 2018; Tang et al., 2012). This fact is particularly important in the context of developing countries, since it potentially discourages investment in large-scale re- newable technologies. This is because, planning for electricity capacity in developing countries sometimes demands that a generator with cheaper capital but relatively higher running cost is favored over a gen- erator with high capital but lower running cost, even if the latter has a lower LCOE than the former. The reason for this stems from the fact that, sinking limited fund for capacity investment in a generator with high investment cost, could lead to capacity shortage in future due to lack of funds (Afful-Dadzie et al., 2017). Shortage in generation capacity in turn leads to high levels of unmet demand, which could be costly to an economy (Africa Progress Panel, 2015; Eberhard et al., 2008). It is es- timated that Ghana for instance, lost about $2.1 million per day during a 2014/2015 electricity crisis (Kumi, 2017). Thus, the need to have suf?- cient generation capacity available to avoid high levels of unmet de- mand might mean avoiding renewable energy technologies with higher capital cost.
+Second, it is a fact that without generous government tax incentives
+and feed-in tariffs, majority of renewable energy projects, worldwide, would not be ?nancially viable (Green & Staffell, 2016). Germany's re- newable energy success for instance, is largely attributed to a subsidy policy which required utilities to buy electricity from renewable gener- ators at prices far above the cost of electricity generation from conven- tional sources. Such tax incentives and feed-in-tariffs would be unaffordable to most governments in developing countries and can dis- suade investment in renewable energy technologies (Frondel et al., 2010; Geels et al., 2017; Zhang et al., 2014). Third, whereas thermal plants can provide electricity at virtually any time, the same cannot be said of some renewable energy technologies such as wind and solar, which tend to be intermittent in intensity. To overcome the intermit- tency of renewable energy sources, the practice has been to rely on
+
+electricity imports from neighbouring countries and backup generators (Green & Staffell, 2016; Hammons, 2008). However, most developing countries already face capacity shortages (Batinge et al., 2019) and can- not afford to spend much needed funds on back-up generators. Fourth, most renewable generators require that they are sited at speci?c places with signi?cant concentration of wind or solar. This would require sig- ni?cant investment in new transmission lines if such places are far away from existing transmission lines (Schaber et al., 2012).
+   Given the reasons above, it is not surprising that Ghana for instance, has barely made any progress in achieving its renewable electricity gen- eration target. This also means that for a renewable energy target to be realistic, it must be factored into the long-term planning of energy sup- ply. For electricity systems, this means including such target policies in Generation Expansion Planning (GEP) models so that its impact on elec- tricity supply, particularly, on levels of unmet demand, cost of electric- ity, and capacity investment needed in meeting demand is analyzed and taken note of. Such models can serve several purposes. First, they are useful in analyzing impact on levels of unmet demand as well as cost of electricity if a renewable electricity target policy were to be ad- hered. It can also be used to search for a target that meets a desired goal in relation to levels of unmet demand and cost of electricity, given one's ?nancial position. Further, it can as well be used to deter- mine the ?nancial commitment in new generation capacity needed to achieve a proposed renewable electricity target.
+   This research therefore proposes an enhanced GEP model that can be used to study the purposes listed above when a percentage of a country's electricity generation is to be realized from renewable sources by a speci?c date. The model is useful especially in an era where the set- ting of renewable energy target is the norm. In addition, the model is also designed with a focus on peculiarities in developing countries, most especially on dif?culties in raising ?nancial resources to fund gen- eration capacities, and concerns about access to electricity. Traditional GEP models in general are solved to determine the optimal time, size, and type of power generators to procure, as well as the electricity to be supplied by each generator, in order to minimize the cost of electric- ity supply. The traditional GEP model is typically solved subject to elec- tricity demand, generator capacity, and operational constraints. The proposed model augments the traditional GEP model with two impor- tant constraints - renewable energy target and generation capacity in- vestment budget constraints. In particular, the generation capacity investment budget constraint is added in order to take into account the ?nancial strength of a country in meeting its renewable electricity target and ultimately, the electricity demand.
+   The proposed GEP model is developed in the form of a multi-period stochastic mixed-integer linear program (MILP) in order to capture the time period within which the renewable electricity generation target is to be met, as well as uncertainty in some of the model parameters. Sto- chastic MILP approach is appropriate since solutions from stochastic op- timization models have proven to be superior to other techniques when uncertainties in model parameters exist (Awudu & Zhang, 2013; Feng & Ryan, 2013; Jin et al., 2011; Shiina & Birge, 2003). This has led to a num- ber of authors applying stochastic optimization techniques to electricity generation capacity planning. Shiina and Birge (2003) developed a multi-stage stochastic linear integer programming for analyzing elec- tricity generation capacities under uncertainty. Jin et al. (2011) analyzed a long-term GEP problem with uncertainties in future demand and fuel prices based on a multi-period stochastic linear optimization model to determine the type and size of power plants to be constructed over an extended planning horizon. Feng and Ryan (2013), also studied a GEP problem based on a multi-period stochastic linear optimization model under a new scenario generation approach. A GEP model that best describes peculiar conditions faced by electricity generation planners in developing countries is presented in Afful-Dadzie et al. (2017). The authors solved a long-term GEP problem with a budget con- straint designed to take into consideration the ?nancial capacity of a country.
+
+
+
+   Though a number of studies have considered GEP problems with a renewable energy dimension, the focus has not been on electricity pro- duction target. Oree et al. (2017) provided a review of GEP techniques with environmental considerations and highlighted the emerging chal- lenges presented by the intermittent nature of some renewable energy sources on power systems. Muis et al. (2010) presented an MILP model for optimal planning of electricity generation schemes to meet a nation's speci?ed CO2 emission target. Their work is quite different from the renewable electricity production target considered in this work because they focus on selecting generation plants to achieve a cer- tain level of CO2 emission, whereas we select generation plants to achieve a certain level of electricity production from renewable energy sources. Muis et al. (2010) also did not consider budget constraint and uncertainty in electricity demand and fuel price.
+Nomenclature Indices
+i	index for generator type, i = 1, 2, ..., I
+t	index for time period (in years), t = 1, 2, ..., T
+k	index for sub-target period (in years), k = 1, 2, ..., K n	index for renewable generator type, n = 1, 2, ..., N
+s	index for scenario, s = 1, 2, ..., S
+
+Parameters
+
+CTC	capital cost of generator type i in period t [$/MW]
+Cf	annualized ?xed cost of generator type i in period t [$/MW/
+
+Zi, t	total of new installed capacity of generator type i at time
+t [MW]
+EIM	total imported electricity under scenario s in period t [MWh]
+EU	total unmet demand under scenario s in period t [MWh]
+   In their work, Arnette and Zobel (2012) provided a multi-objective linear programming (MOLP) model to determine the optimal mix of re- newable energy generation technologies and existing fossil fuel facilities on a regional basis. Their model was formulated to enable a decision maker to minimize both annual electricity generation costs and level of greenhouse gas emissions, but with no focus on achieving a desired level of electricity generation from renewable energy sources.
+   In our related literature search, only Knopf et al. (2015) explicitly consider renewable electricity target in their study. Their model was formulated to ?nd the cost-effective shares of electricity from renew- able energy sources to meet the EU's 27% renewable energy target in ?nal energy consumption by 2030. However, their formulation implic- itly assumes the availability of adequate capital needed to ?nance the recommended capacity decision. Note that many developing countries struggle to raise funds to ?nance generation capacity expansions, and therefore failure to take this into account when setting renewable elec- tricity targets has the tendency to render such targets virtually useless. It is no wonder that for instance, Ghana has achieved only 0.3% of its 10% renewable electricity target with less than a year left to the target date (Obeng-Darko, 2019). Ghana's failure could be attributed to the fact that, the target was set with little consideration to the country's ?- nancial ability. Perhaps, the strength of the proposed model over that of Knopf et al. (2015) lies in the fact that it can be used to determine a tar- get and the related ?nancial commitment needed to meet a desired
+
+yr]
+CIM	cost of imported electricity in period t [$/MWh]
+
+level of electricity demand and cost.
+This paper contributes to the literature on energy transition (partic-
+
+Pco2	CO
+
+emissions cost per MWh of electricity generated by gen-
+
+ularly with regards to developing countries) by providing a unique GEP
+
+i, t
+
+2
+erator i in period t [$/MWh]
+
+model for the setting and evaluation of a renewable electricity genera-
+
+Ai	capacity factor of generator type i [%]
+Ht	total hours in year t [hours]
+?t	proportion of electricity demand in period t that can be served through imports
+Bt	budget for additional generation capacity investment in pe- riod t [$]
+Mi, t	minimum amount of electricity generation from generator i
+in period t.
+Cc	annualized capital cost of generator type i in period t [$/MW/
+
+tion target policies. The paper also contributes to practice by helping de- veloping countries set realistic renewable electricity target that is commensurate to their ?nancial position. The rest of the paper is orga- nized as follows. The next section presents the proposed GEP model with renewable electricity generation target. This is followed by a case study on Ghana's proposed 10% renewable electricity generation target by 2030, an extensive analysis and discussion of the case study results, and conclusion of the study.
+
+yr]
+Wmax	maximum installed capacity of a new generator type i [MW]
+CU	cost of unmet demand in period t [$/MWh]
+Gmax	number of generator type i that can be built over the entire
+
+Generation expansion planning model with renewable electricity generation target
+
+The proposed GEP model with renewable electricity generation tar-
+
+planning period
+r	periodic discount rate [%]
+?k	renewable energy target in period k [%]
+
+get is represented by Eqs. (1)-(8). The de?nitions of the parameters and variables of the model are also presented in the nomenclature. A brief explanation of the major components of the model is provided next.
+
+Ii	initial (i.e. t = 1) installed capacity of generator type i [MW]
+
+2?I
+
+ C c
+
+C f )Z
+
+?S  P ?I
+
+ Cv
+
+Pco )Y
+
+
+CIMEIM
+
+CUEU )3
+
+ft	rated capacity degradation factor
+BL	total of past periods unused budget in period t [$]
+
+Uncertain parameters
+
+Minimize?t1/414
+
+i1/41
+
+i,t þ
+
+i,t
+
+i,t þ
+
+s1/41 s
+
+i1/41  i,s,t þ i,t 2
+ð1 þ rÞt-1
+
+i,s,t þ t
+
+s,t þ
+
+t, s,t
+5
+ð1Þ
+
+
+ps	probability of the occurrence of scenario s
+
+
+?I  Yi,s,t þ EIM 1/4 Ds,t-EU ?s, ?t	ð2Þ
+
+Cv	marginal cost of generation of generator type i under scenario
+
+i1/41
+
+s,t
+
+s,t
+
+s in period t [$/MWh]
+Ds, t	electricity demand under scenario s in period t [MWh]
+
+Decision variables
+
+Gi, t	number of new generator type i to build in period t
+Wi, t	total installed capacity of generator type i available in period
+t [MW]
+
+Yi,s,t=HtAiWi,tð1-ft Þ?i, ?s, ?t	ð3aÞ
+
+Yi,s,t=Mi,t?i, ?s, ?t	ð3bÞ
+
+EIM=?Ds,t?s, ?t	ð4Þ
+
+Yi, s, t	total electricity generated by generator type i under scenario s in period t [MWh]
+
+Zi,t 1/4 Z
+
+
+i,t-1
+
+þ WmaxGi,t
+
+?i, ?t	ð5aÞ
+
+
+
+Wi,t 1/4 Ii þ Zi,t?i, ?t	ð5bÞ
+
+electricity imported is modelled with Eq. (4). Although in some cases electricity can be imported from neighbouring countries, this is usually
+
+?N  Yn,s,k=? ?I
+
+Yi,s,k?s, ?k	ð6Þ
+
+limited. Eq. (4) is thus designed to account for this restriction.
+
+n1/41
+
+k	i1/41
+
+
+Generation capacity
+
+?I  CTC WmaxG
+
+=Bt þ ð1 þ rÞBL
+
+?t	ð7aÞ
+
+The available generation capacity of the generators is modelled with
+
+i1/41
+
+
+BL
+
+i,t	i
+
+i,t
+
+
+L
+
+t-1
+
+
+I	TC
+
+
+
+
+
+max
+
+Eqs. (5a) and (5b). The cumulative capacity of new generators installed since the start of the planning period is tracked with Eq. (5a), whilesEq. (5b) does the same as Eq. (5a) but includes capacity that
+
+t 1/4 Bt þ ð1 þ rÞBt-1-?i1/41 Ci,t Wi  Gi,t?t	ð7bÞ
+
+Gi,t, Zi,t, Wi,t, Yi,s,t, EIM, EU , =0, Gi,t integer?i, ?s, ?t	ð8Þ
+
+Decision variables
+
+   The major variables of interest in the proposed multi-period GEP model are Gi, t, Yi, s, t, EIM, and EU t. In any period, the GEP model is solved
+
+existed before the start of the planning period.
+
+Renewable electricity target
+   The renewable electricity generation target to be achieved is repre- sented by Eq. (6), which ensures that total electricity generation from renewable energy sources at the target due date, meets the target. For practical purposes, a target due in period T (i.e. the end of the planning period) is divided into sub-targets due at selected periods k = 1, 2, ..., K. For example, Argentina aims to achieve a 20% renewable energy pene- tration in 2025. However, this target is divided into sub-targets of 12%
+
+to determine Gi, t, the number of new generator type i to build in period
+t. The variable Yi, s, t, is the electricity generated by generator i in a par- ticular uncertain scenario (e.g. demand and fuel price) in period t, whereas EIM, is the amount of electricity imported from neighbouring countries in scenario s in period t. In case the total electricity generated, and the amount imported are not enough to meet the periodic demand Ds, t, the unmet demand is tracked using the variable EU t. The remaining variables of the model are Zi, t, and Wi, t which are respectively used to track the accumulated capacity of new and installed generators since the beginning of the planning period.
+
+Objective function
+
+   The objective function of the model which seeks to minimize the cost involved in the provision of electricity over a planned period starting from period t =1 to period T, is represented by Eq. (1). It rep- resents the total of the present value of the several costs incurred over the planning period. The ?rst term of the numerator captures the capital cost and the ?xed operating cost for new generation plants built within the planning period. The second term captures the cost incurred in the production of actual electricity. This cost is determined by a generator's
+marginal cost of electricity generation Cv  , emissions cost Pco2, and the
+
+by 2019, 16% by 2021, 18% by 2023 and 20% by 2025 (Pink, 2018). The left-hand-side of Eq. (6) ensures that the sum total of all electricity gen- eration coming from renewable technologies meet the target percent- age for a selected period k. One could replace Eq. (6) with Eq. (9) below, if the focus of the target is on generation capacity, and speci?c megawatts of capacity are to be achieved for individual renewable en- ergy technologies at targeted periods. Here, Wn, k, and Fn, k are respec- tively, the actual attained megawatts, and the targeted megawatts capacity from renewable energy technology n in targeted period k. For example, while Ghana has set an overall renewable electricity genera- tion target of 10% by 2030, its renewable energy master plan has speci?c capacity target for each renewable technology.
+
+Wn,k=Fn,k?n, ?k	ð9Þ
+
+
+Capacity investment budget constraints
+   The ability of a country to ?nance additional generation capacity needed in period t is modelled with Eq. (7a). The equation ensures that at any period t, the money spent on new generators is within the
+allocated budget for that period. The total budget available in any period
+
+i, s, t	i, t
+
+amount of electricity generated Yi, s, t. The third and fourth terms respec- tively represent the cost of electricity imported from neighbouring countries, and the indirect cost to a country's economy of any level of demand not met.
+
+Model constraints
+
+   The objective function of Eq. (1) is determined subject to the follow- ing constraints.
+
+Electricity demand and supply
+   Constraints on electricity demand and supply are modelled using Eq. (2). The left-hand-side is the electricity available for meeting period t demand, and is made up of actual generation and imported electricity from neighbouring countries. Some demand will not be met if electricity demanded is greater than the available supply. The right-hand-side is thus the demand met, which is the difference between the actual elec- tricity demanded, Dt, s, and demand not met, EU s. Electricity produced with generators owned by the planner is represented by Eqs. (3a) and (3b). Eq. (3a) ensures that for each generator type i, the total electricity produced at any period t is within the maximum possible electricity it can produce. Eq. (3b) helps to enforce generation from ?rm and non- ?rm power plants and enforces a minimum level of production on cer- tain power plants. For example, almost all existing hydro units in the Ghanaian power system produce at a minimum level. The amount of
+
+consists of the planned budget for the period and the unused funds in the previous period. The unused funds are tracked with Eq. (7b) and as- sumed to earn interest each period at a rate of r%. The integer and non- negativity constraints expressed in Eq. (8) complete the proposed GEP model.
+   The proposed GEP model is unique in the sense that, in addition to the usual GEP output, it can be used to determine the ?nancial commit- ment needed to bring to fruition a desired renewable target that meets an acceptable level of unmet demand and cost of electricity provision. On the other hand, the model can be used to determine a target that ac- commodates a country's ?nancial ability, and the tolerance level of unmet demand and electricity generation cost. Most importantly, given a country's ?nancial ability, it can be used to analyze the impact on electricity supply (in terms of cost of electricity and levels of unmet demand) should a target be adhered to. We note here that the proposed GEP model only focuses on the generation side of the electric power sys- tem and does not consider transmission constraints and investment.
+
+Case study on Ghana's 10% renewable electricity generation target policy
+
+   We begin the case study with an overview of the electricity genera- tion sector of Ghana in relation to current installed and dependable gen- eration capacity, electricity generation trend, and a brief information of the country's renewable energy master plan.
+
+Imports 139.7
+
+
+
+
+Thermal 9803.15
+
+
+
+
+
+ Hydro 6017.36
+
+
+smaller hydro and wave plants, 741.3 MWp from solar, 327 MWp from wind, and 122 MWp from biomass technologies. In the master plan, the country expects to have in place a total of 194.74 MWp of re- newable energy capacity by 2020, 936.64 MWp by 2025, and 1353.63 MWp by 2030 towards electricity generation. More than 80% of the planned capacity is targeted at utility scaled renewable technologies, whereas at least 8% is targeted at rooftop solar installations. However, as at the end of 2018, less than 1% (42.5 MWp) of the country's installed capacity came from renewable generators (excluding existing large hy- droelectric plants). In fact, out of the 15,906.36 GWh of electricity gen- erated in 2018, there was virtually no contribution from renewable energy technologies that quali?es under the renewable energy target1 (ECG, 2019c). The meager renewable energy capacity achieved so far,
+
+Fig. 1. Electricity generation in Ghana by Source in 2018. (Source: ECG (2019c)).
+
+
+Generation capacity
+
+   Ghana is a developing country with an electricity generation sector made up of both public and private companies. The public companies consist of two authorities, namely Volta River Authority (in charge of the Akosombo hydroelectric dam, and government owned thermal plants), and Bui Power Authority, in charge of the Bui hydroelectric dam. The private companies consist of a vibrant group of Independent Power Producers (IPP), currently commanding about 32% of the country's installed generation capacity. IPPs usually sell electricity to the country on Take-Or-Pay contract, where the government is obliged to buy a stipulated amount of electricity within an agreed period from the IPP or pay the IPP a penalty. Electricity generated is transmitted to consumers by the Ghana Grid Company Limited (GridCo). As at the end of 2018, the country had an installed and dependable generation ca- pacity totaling 4533 MW and 4048 MW respectively (ECG, 2019c). The installed capacity comprises of 2906 MW thermal, 1584 MW hydroelec- tric, and 42.5 MW solar. As shown in Fig. 1, about 58.14% of the 15,960.3 GWh of electricity generated by Ghana in 2018 came from thermal, followed by hydroelectric with 39.6%, and 2.26% by imports (ECG, 2019c). There is also a total of 530 MW of dependable committed capac- ity of combined circle gas turbines for 2019 (ECG, 2019c). Plans are far advanced for the construction of a 700 MW coal-?red plant with a po- tential to be increased to 2000 MW.
+
+Electricity demand trend
+
+   The annual electricity generated in Ghana from 2001 to 2017 is as shown in Fig. 2. Altogether, the average annual growth rate of electricity generated within the stated period stood at roughly 4.4%. However, this data does not include demand not met, especially during the major elec- tricity crisis in 2003, 2007, and 2015 when the annual growth rates were negative. The average annual growth rate is 10.52% if one excludes data from 2003, 2007, and 2015. Also, this data does not include the fre- quent load shedding and blackouts experienced whenever demand ex- ceeds supply. Adding demand not met, and the fact that 17.5% of the population did not have access to electricity in 2016, the average annual growth rate could be far higher. In fact, the 2018 projected demand growth rate by the national grid operator was 15.01% (GridCo, 2017).
+
+The Ghana renewable energy master plan
+
+   Ghana has set a target to generate at least 10% of its electricity from renewable technologies by 2030 (originally by 2020). This target fo- cuses mainly on solar, wind, and biomass technologies as well as smaller hydroelectric plants. To achieve the 10% target, the country has drawn up an ambitious renewable energy master plan (as presented in Table 2) that aims to add about 200 MegaWatt-peak (MWp) from
+
+prompted the government to extend the 10% renewable electricity gen- eration target to the year 2030.
+
+Model parameters
+
+   This section presents the parameters used in running the model for the case study, starting with data on electricity demand, followed by in- formation on candidate generators, costs, budget for additional capacity investment, and assumed parameters.
+
+Electricity demand
+   Electricity demand exhibits an increasing trend over time mainly due to population and economic growth. The demand trend is modelled using the trend formula in Eq. (10), where demand in period t, Ds, t, is a wt percentage increase over Ds, t-1, the demand in period t - 1. The pa-
+rameter wt is the percentage increase in demand from period t - 1 to
+period t. In practice, wt is unknown and captures the uncertainty in elec- tricity demand. Although unknown, it is usually modelled with a prob- ability distribution based on past data. Based on Ghana's electricity generation from 2000 to 2017, and adjusting to account for the electric power crisis in 2003, 2007, and 2015, the best ?tted distribution for wt was a triangular distribution of Triang (1%, 7%, 15%). This is interpreted to mean that the annual percentage increase in electricity demand is most likely to be 7%, but could be as low as 1%, and as high as 15%. To capture the uncertainty in the electricity demand data over the planning period, we follow the Monte-Carlo approach in Breeden and Ingram (2010) to generate demand forecast. To do this, and for each period, a random draw is taken from Triang (1%, 7%, 15%) for wt which is then used in Eq. (10) to obtain a demand forecast. The set of demand forecast for each period together forms one scenario. The process is repeated several times depending on the number of scenarios needed to charac- terize the uncertainty. This case study used 20 scenarios with equal probability of occurrence to characterize the demand uncertainty. The Mean Absolute Percentage Error (MAPE) of the scenarios was less than 8% signifying a highly accurate forecast in relation to the national forecast.
+Ds,t 1/4 ð1 þ we tÞDs,t-1	ð10Þ
+   Table 3 presents ?ve electricity demand scenarios from 2019 to 2027. These were determined using the recorded actual electricity sup- ply of 15,960.36 GWh in 2018 as found in ECG (2019c) as the starting value for Ds, t-1. Also shown in the last two columns of Table 3 are the national annual average forecasts for 2019-2027 (ECG, 2019c, page
+62-63). The 2019 national annual average forecast of 17,237.8 GWh is a base case demand forecast representing a percentage growth of 8% over that of 2018. The corresponding high case forecast is 18,013.96 GWh, representing a growth rate of 12.9%. As shown in Table 3, the gen- erated scenarios show a reasonable deviation from the national average
+
+   1 The 10% electricity generation target excludes hydro generators of 100 MW and above, as well as all existing hydro generators. See the footnote on page iv of the Ghana Renew- able Energy Master Plan (ECG, 2019a).
+
+Electricity Generation Trend in Ghana
+15,000
+
+13,000
+
+11,000
+
+9,000
+
+7,000
+
+5,000
+2000	2002	2004	2006	2008	2010	2012	2014	2016	2018
+
+Year
+
+Fig. 2. Trend chart of annual electricity generation in Ghana. Source: ECG (2013, page 7), and ECG (2019b, page 8).
+
+Table 2
+Electricity generation capacity expansion plan for renewable energy technologies in Ghana. Source: ECG (2019a).
+
+TechnologyProjectUnits2015202020252030Cumulative (2030)SolarUtility scaleMWp22.5130195100447.5Distributed Solar PVMWp21880100200Standalone Solar PVMWp285520Solar Street/Community lightingMWp3441425Solar irrigationMWp2.86202048.8WindUtility scaleMWp0027550325Standalone Wind SystemsMWp0.010.10.912BiomassUtility-scale/co-generationMWp0072072Waste-to-Energy Utility ScaleMWp0.10302050.1Small/Medium Hydro PlantsMWp00.038070150.03Hydro/Wave PowerWave PowerMWp0504550Hybrid Mini- GridMini/Micro-gridMWp---1212TotalMWp32.41171.13761.94371402.43
+
+annual forecast, and better capture uncertainty in expected demand compared to the two national forecasts. In other words, any of the 20 scenarios is likely to occur. The strength of the proposed stochastic model approach is that all 20 scenarios are used to derive a solution that is better suited to the demand uncertainty present.
+
+Generator technical information
+   The types of electric generators considered in the case study along with their technical and cost data are presented in Table 4. Seven differ- ent kinds of generators were considered. These were hydroelectric (HYDRO), Combined Circle Gas Turbine (CCGT1 and CCGT2), Open Cir- cle Gas Turbine (OCGT), Coal (COAL1 and COAL2), Onshore Wind
+
+
+Table 3
+Example forecast of possible electricity demand for Ghana. Data under Scen-3, Scen-7, Scen-11, Scen-16, and Scen-19 are possible electricity demand path for Ghana from 2019 to 2027. Data under 'National (Base)' and 'National (High)' are the of?cially reported base and high demand case scenarios from the 2019 Ghana electricity supply plan issued by the Ghana Energy Commission (ECG, 2019c).
+
+(WIND1 and WIND2), Solar (SOLAR1 and SOLAR2), and biomass (BIO- MASS), for a total of eleven generator types. Out of these, only HYDRO, WIND1, WIND2, SOALR1, SOLAR2, and BIOMASS are eligible to be se- lected to meet the 10% renewable electricity target. The model assumes not more than four hydro generators of size 60 MW each, can be con- structed in the planning period. This is in accordance with the remain- ing signi?cant hydroelectric opportunities in Ghana. To account for this assumption, Eq. (11) was added to the proposed model for the case study. Although Ghana currently has thermal capacities of various sizes from as low as 22 MW to as high as 470 MW, we considered only the capacity sizes of 300 MW and 450 MW for the Combined Circle Gas Turbines and 150 MW for the Open Circle Gas Turbines to re?ect the recent capacity investment trend. For this reason, existing CCGT plants of capacities less than 300 MW were grouped together under CCGT1 and those above under CCGT2. Note that the Dependable capacity in Table 4 include committed capacity of 190 MW and 340 MW respec- tively for CCGT1 and CCGT2 for 2019 (ECG, 2019c). The capacity factor for the hydro and thermal plants were estimated based on supply data from ECG (2019c), while that of wind and solar were taken from
+
+		IRENA (2018), and biomass from EIA (2019b).
+
+T
+? GHYDRO,t=4?i, ?t	ð11Þ
+t1/41
+
+
+
+Capital, ?xed operating and maintenance (O&M), and emissions costs
+   The Capital, Fixed O&M, and Emissions costs for the generators at the beginning of the planning period (i.e. 2019) are presented in Column 6 to 8 of Table 4. With the exception of capital cost for WIND1, WIND2,
+
+
+Table                                                                           4  Parameters for the beginning period (2019) of the GEP planning horizon for eleven candidate generation plants. These include dependable committed capacity of 190 MW for CCGT1 and 340 MW for CCGT2.
+Source: (GridCo, 2011; EIA, 2019; EIA, 2019b; EIA, 2018; EIA, 2016; EIA, 2013; IRENA, 2018; IRENA, 2012; ECG, 2019c).
+
+Generator typeRated CapacityDependable CapacityCapacity FactorGenerator LifeCapital cost (1000Fixed O&M costEmissions CostVariable O&M Cost, excluding fuelGenerator Degradation(MW)(MW)span (yrs)$/MW)($/MW/year)($/MWh)($/MWh)FactorHYDRO60136547.5%60500015,000020.003CCGT130088840.5%25105710,1006.720.003CCGT2450130040.5%25110410,1006.720.003OCGT1501039.640.5%2567868708.210.70.003COAL1250050%35381842,10016.24.60.003COAL2350050%35363642,10016.24.60.005WIND150016.5%20187739,70009.50.005WIND2100016.5%20165747,47009.50.016SOLAR12042.519.5%20267123,400000.016SOLAR250019.5%20243422,020000.005BIOMASS50050%303837112,1508.15.60.005
+
+
+SOLAR1, and SOLAR2, the values for the rest of the planning period (i.e. 2020-2030) for these costs were determined by increasing that of an immediate past year by 0.5%. On the other hand, the capital cost for the periods after 2019 for WIND1, WIND2, SOLAR1, and SOLAR2 were determined by decreasing that of the immediate past year by 0.5%. The decrease in this case is to re?ect the continuous decline in investment cost of wind and solar plants. The emission cost is based on the assumption of a $15 per ton of CO2 emission (roughly half of what is charged in most high income countries). This is set to re?ect the economic valuation in developing countries relative to developed countries. Also, the emission cost of biomass is set at half that of coal to accommodate either side of the argument for and against the notion of biomass as a carbon-neutral fuel.
+
+Marginal cost of generation
+   The marginal cost of generation is dependent on the amount of elec- tricity generated, which is made up of two parts namely, marginal cost of fuel, and variable O&M cost. The Variable O&M cost for the generators in the beginning of the planning period is given in column 9 of Table 4. The Variable O&M cost for the subsequent periods after the beginning period were determined in the same way as that of the other costs by increasing the immediate past year's cost by 0.5%. The variable O&M cost for onshore wind in 2019 is given as $9.5/MWh according to data in the generation master plan of Ghana (GridCo, 2011), and similar es- timates as found in (IRENA, 2012).
+   The marginal cost of fuel component is assumed to be uncertain for the generators. However, that of generator types WIND1, WIND2, SOLAR1, and SOLAR2 are assumed to have a marginal fuel cost of $0/ MWh, while that of HYDRO is set at $2/MWh based on data from the op- erator of the largest hydroelectric dam in Ghana. Table A.1 in Appendix A gives a breakdown of how the marginal fuel cost for CCGT1, CCGT2, OCGT, COAL1, COAL2, and BIOMASS were generated.
+
+Capacity investment budget constraint
+   It is assumed that the ?nancial resource available for investment in new generation capacity is limited. This assumption is important, other- wise achieving a renewable target is trivial. Public utility companies in developing countries are hardly able to ?nance new generation capacity
+
+
+Table 5
+Additional model parameters.
+
+ParameterValueCost of unmet energy ($/MWh)225Cost of imported electricity ($/MWh)150Annual interest rate for discounting (%)12Number of hours in a year8760
+
+through revenues from electricity generated because of low electricity prices to make electricity affordable to the populace. As a result, these public utilities are generally supported by the government each year in the ?nancing of new generation capacity. We assume that a portion of the country's annual GDP is allocated for the ?nancing of new gener- ation capacity. GDP values are assumed to increase each year over the planning period by 4% based on Ghana's 2017 GDP value of $58.99 Bil- lion. Four different types of budget constraints are considered in order to analyze the impact of budget limitation on the level of unmet de- mand and cost of electricity provision. These are budgets equivalent to 0.5%, 0.75%, 1.0%, and 1.25% of Ghana's annual GDP. It is worth noting that currently, Ghana spends around 0.75% of its GDP on new genera- tion capacity investment.2
+
+Other assumptions
+   The model assumes that the 10% renewable target is spread within the planning period, and that at least 1%, 4%, 7%, and 10% of total elec- tricity production in 2020, 2023, 2026, and 2030 respectively should come from renewable energy sources, as is done in practice. The re- maining assumed parameters used to run the GEP model are given in Table 5. The cost of unmet demand at the beginning of the planning pe- riod is set at a moderate value of $225/MWh. However note that this cost could be higher given that Ghana lost an estimated $2.1 million a day during the 2014/2015 electricity crisis (Kumi, 2017). In fact, the Ghana Energy Commission estimates the cost of unmet demand at
+$1000/MWh (GridCo, 2011). Also, Ghana and Ivory Coast trade electric- ity with each other when the need arises. We assume the amount of electricity imported cannot exceed 4% of Ghana's annual demand. This percentage is in agreement with the annual importation ?gures in the electricity supply plan of Ghana. Electricity is imported at an assumed cost of $150/MWh.
+   We also assume that existing hydro generators operates exclusively as base plants (as is primarily the case in Ghana) and sets the minimum production at 80% of the total energy equivalent to the right hand side of Eq. (3a). Also, OCGT plants are assumed to be peaking plants. In addi- tion, it is assumed that no generator (including existing ones) would be retired within the planning period. Lastly, electricity demand is the sum of all demand throughout the entire year.
+
+Case study results and analysis
+
+   The stochastic MILP-GEP model with renewable electricity produc- tion target was programmed using the General Algebraic Modelling
+
+   2 The 0.75% GDP spending was estimated based on data on new generation capacity ad- ditions provided in the annual Electricity Supply Plan of Ghana provided by the Ghana En- ergy Commission. See (page 27, Table 22 of ECG, 2019c).
+
+
+
+System (GAMS) optimization software and solved using the ILOG CPLEX
+12.6.0.0 solver. The result of the case study is presented next, starting with new generation capacity additions and percentages of electricity generation from renewable energy generators, followed by levels of unmet demand, and lastly total cost of electricity provision. The results are provided for both the case of when a renewable electricity produc- tion target policy is in place (Target), and when there is no target policy in place (No Target). We consider four budgetary policies for new gener- ation capacity investment, with the aim of understanding the impact of budget constraint on installed generation capacity, levels of unmet de- mand and cost of electricity provision. We also consider the imaginary case where there is suf?cient ?nancial resource to put into perspective the advantage richer countries have over poorer countries in the energy transition process.
+
+
+New generation capacity additions
+
+   When available generation capacity is not enough to meet demand, the resulting demand not met leads to economic loss to a country. As such, the impact of a renewable electricity generation target policy on generation capacity must be analyzed, especially when a country is constrained ?nancially in what it can allocate for new generation capac- ity investment. Table 6 presents the result on cumulative new installed generation capacity within the planning period for four different capac- ity ?nancing budget allocations and the case when there is suf?cient budget under both Target and No Target policies. In general, unless dur- ing or prior to a due date of a sub-target, there is more generation capac- ity available under the No Target policy than under the Target policy. Also, and as expected, generation capacity in a given period increases with increasing budget.
+   Fig. 3a-c also gives a breakdown of the cumulative new installed ca- pacity for the selected generator types at the sub-targets dates under both Target and No Target policies for different capacity ?nancing budget allocations. As shown in Fig. 3a, under the No Target policy, no renewable energy generator is considered for new generation capacity at budget allocations of 0.5% and 0.75% of GDP. It can also be seen in Fig. 3b that even at higher budget allocations of 1% and 1.25% of GDP, the size of renewable energy generation capacity recommended as part of the required new generation capacity under the No Target policy is quite insigni?cant when compared to non-renewable generation ca- pacity. This is a clear sign that under current conditions, non- renewable energy generators are perceived to be more cost-effective than renewable energy generators when a country faces challenges raising the needed ?nancial resource for new generation capacity in- vestment. This conclusion is supported by the recommended genera- tion mix under the Target case in Fig. 3a and b, where the renewable
+
+energy generators recommended are mainly for the purpose of meeting the renewable electricity target and nothing more.
+   Looking closely at Fig. 3a and b also reveals that the size of renewable energy generators (albeit insigni?cant) increases with increasing budget allocations under both the Target and No Target cases. This leads to an interesting observation when there is suf?cient budget for capacity ?nancing as shown in Fig. 3c. In this case, virtually all new gen- eration capacities come from the renewable energy generation plant, SOLAR2, whether under the Target or No Target policy. Note also that the generation capacity needed in this case is almost twice that needed under the 1.25% budget allocation which is the closest budget needed to ensure all demand is met when a renewable electricity tar- get is enforced. This is not unusual given the low capacity factor of solar plants. However, the total capital cost needed to ?nance such size of generation capacity will be enormous, and quite frankly impractical.
+   The preference for renewable energy generators under a suf?cient budget in Fig. 3c also gives an indication that renewable energy genera- tors are not favored under the other four budget allocations purely be- cause of ?nancial constraint. This goes to support the argument that at current cost estimates, some renewable energy technologies are cost ef- fective if one is not constrained ?nancially. On the other hand, if one is constrained ?nancially, then given the current high capital cost of re- newable technologies, very little capacity will be available to satisfy de- mand if renewable generators are preferred over conventional generators.
+   Result in Fig. 3a-c can be used as a guide in selecting the cost effec- tive renewable energy generators to ful?l a planned renewable electric- ity target when facing a budget constraint. In general, the optimal decision under the Target policy when facing generation capacity in- vestment budget of 0.5% and 0.75% of GDP is to go for biomass. Just like the Ghana Renewable Energy Master (REMP) plan, a mix of bio- mass, wind, solar and small hydro is recommended at relatively higher budget allocations of 1.0% and 1.25% of GDP for new capacity invest- ment. When there is suf?cient ?nancial resources available however (see Fig. 3c), solar appears to be the best option among all renewable energy generators.
+
+Percentage of electricity generated
+
+   The pattern in the generation capacity additions is also re?ected in the percentage of electricity generation coming from renewable energy generators as seen in Table 7. It can be observed under the Target policy that, under all four budget allocations, renewable energy generators ap- pear to be procured mainly for the sake of meeting the target. This state- ment is supported by the fact that only the sub-target year of 2020 appears to have had a renewable electricity content signi?cantly more
+
+
+Table 6
+Cumulative new installed generation capacity (in MW) within the planning period when a 10% renewable electricity generation target is enforced (Target), and when not enforced (No Target) at annual capacity investment funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and when there is suf?cient budget. The sub-target due dates are 2020, 2023, 2026, and 2030.
+Year0.5% of GDP0.75% of GDP1.0% of GDP1.25% of GDPSuf?cient BudgetTargetNo TargetTargetNo TargetTargetNo TargetTargetNo TargetTarget	No Target201900000000219021902020503004003003506007007503240324020213506007009001100120014501500419041902022800900130013501700180023502250539053902023900120014501950187025502530300065406540202412001650205024002620330032803240809080902025150019502500300032204050409041409790979020261670225027003600344045604590504010,94010,94020271970285033004200419050705490594012,19012,19020282420330039004800499058206540689014,14014,14020292520375040605420544067206990764015,19015,19020302670422043106170569076207540864016,74016,740
+
+
+than what is desired under the Target policy. Much of the renewable en- ergy content attained in 2020 is due to the 42.5 MW of solar capacity that existed before the start of the planning period. Also, the percentage of renewable electricity achieved under any Target policy in Table 7 ap- pears to be roughly the same even when the allocated budget increases (from 0.5% to 1.25% of GDP), which is an indication that renewable elec- tricity is only considered just for the sake of meeting the target.
+   The percentage of renewable electricity achieved under a No Target policy in Table 7 appears quite insigni?cant. However, though small, it can be seen that the content appears to increase with increasing budget allocations. For example, the renewable electricity percentage under a No Target policy is 1.1% under a budget allocation of 1.0% of GDP compared to 3.7% under a 1.25% GDP budget in the year 2026. Sim- ilarly, it is 1.5% under a 1.0% GDP budget but 4.7% under a 1.25% GDP budget in the year 2030 under a No Target policy.
+   In line with the fact that virtually only renewable generators are con- sidered for new capacity additions when there is suf?cient budget for generation capacity investment (see Fig. 3c), the percentage of renew- able electricity increases drastically within the planning period under the Suf?cient Budget case, whether under a Target or the No Target policy (from 33.1% in 2020 to as high as 72.8% in 2030).
+
+Level of unmet demand
+
+   The percentage of unmet demand (i.e. electricity demanded but not met due to insuf?cient generation capacity) under Target and No Target policies for the different budget allocations are given in Table 8. As a 
+
+direct effect of the results on capacity additions from Sub-section 4.1, level of unmet demand is generally higher under the Target case than under the No Target case. For example, at budget allocation of 0.5% of GDP under the Target policy, the level of unmet demand is 6.2% in 2020, reaching 32.2% in 2030 (which is the target due date). Simi- larly, the level of unmet demand is 3.4% in 2020 and rises to 14.0% by 2030 under the Target policy for a budget allocation of 0.75% of GDP. In contrast, the level of unmet demand reduces by more than half under the No Target policy for the same budget allocations of 0.5% and 0.75% of GDP from 2021 to 2030. From capacity investment levels of 1.0% of GDP onwards, the level of unmet demand reduces drastically as more generation capacity becomes available. Even then, the levels under the Target policy are still more than under the No Target policy.
+Graphs comparing levels of unmet demand between the Target and
+the No Target policies at the sub-target due dates are shown in Fig. 4. In conclusion, Table 8 and Fig. 4 make it clear that in order to keep unmet demand at a reasonable level, Ghana might need to have in place an amount of not less than 1% of GDP towards ?nancing new generation capacity if it were to follow through with its 10% renewable electricity target policy. Note that without the renewable target in place, an equiv- alent budget allocation of 0.75% of GDP guarantees reasonably low levels of unmet demand comparable to a developing country such as Ghana. The 0.75% GDP is of particular interest since it closely matches the required investment for the trend of additional generation capacity needs reported in the annual electricity supply plan of Ghana (based on investment cost of a natural gas generation plant).
+
+
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3. a. Cumulative capacities of recommend new generator types during the sub-target years of 2020, 2023, 2026, and 2030 under both Target and No Target policies for generation capacity investment equivalent of 0.5% and 0.75% of Ghana's annual GDP. b. Cumulative capacities of recommend new generator types during the sub-target years of 2020, 2023, 2026, and 2030 under both Target and No-Target policies for generation capacity investment equivalent of 1.0%, and 1.25% of Ghana's annual GDP. c. Cumulative capacities of recommend new generator types during the sub-target years of 2020, 2023, 2026, and 2030 under suf?cient budget for generation capacity investment. The graph is the same under both Target and No Target policies.
+
+
+b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 (continued).
+
+
+Cost of electricity provision
+
+   The total cost of providing electricity within the planning period under both the Target and the No Target policies for the four budget allocations, and when there is suf?cient budget are presented in Table 9. The term Total Cost gives the total cost of electricity provision (including cost of unmet demand) for the Target and No Target policies. The annual ex- penses for capacity investment was not considered in the Total Cost anal- ysis since it is meant (in theory) to be recovered by the end of the plant's life through the capacity charge component in the objective function. A
+
+plot of the total costs for the selected budget allocations, and under suf?- cient budget is shown in Fig. 5. It can be seen that total cost of electricity provision is higher under the Target policy than under the No Target policy under all budget allocations, signifying an increase in cost for the 10% elec- tricity generation target policy. The term Extra Cost for Enforcing the Target gives the difference between the total cost of electricity provision under the Target and No Target policies. These are extra cost incurred for enforcing the renewable target policy. The extra cost in an annual basis using the discounted rate of 12% per year is also given in column 5 of Table 9. It can be observed that the extra costs are signi?cant enough to
+
+
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 (continued).
+
+
+Table 7
+Percentage of electricity generation from renewable generators at sub-target due dates when a 10% renewable electricity generation target is enforced (Target), and when not enforced (No Target) at annual capacity addition funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP.
+
+Year0.5% of GDP0.75% of GDP1.0% of GDP1.25% of GDPSuf?cient budgetTarget achieved (%)Target achieved (%)Target achieved (%)Target achieved (%)Target achieved (%)TargetNo targetTargetNo targetTargetNo targetTargetNo targetTargetNo target20201.70.41.30.41.70.41.20.433.133.120234.00.34.10.34.50.34.20.350.350.320267.00.37.00.37.21.17.23.766.166.1203010.00.310.10.310.31.510.64.772.872.8
+
+
+
+Table                                8  Percentage levels of unmet demand when a 10% renewable electricity generation target is enforced (Target), and when not enforced (No Target) at annual generation capacity addi- tion funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP.
+
+Year0.5% of GDP0.75% of GDP1% of GDP1.25% of GDPTargetNo targetTargetNo targetTargetNo targetTargetNo target20191.01.01.01.01.01.01.01.020206.23.73.43.73.42.62.52.120215.62.82.40.80.50.40.20.120225.84.41.30.80.00.00.00.0202319.16.55.31.41.50.41.00.0202413.17.94.52.21.00.10.10.1202513.78.64.01.50.70.00.00.0202627.010.811.31.83.90.51.80.2202718.29.45.41.31.10.00.00.0202820.011.66.41.81.20.00.00.0202923.512.49.32.31.90.00.00.0203032.214.614.02.34.00.00.60.0
+discourage a developing country from attempting to increase the renew- able content of its electricity consumption. However, it can also be seen that the total cost (and also extra cost) decreases with increasing budget allocations.
+   The last row of Table 9 gives the cost of electricity provision when there is suf?cient ?nancial resource to ?nance new generation capacity additions. In this case, the cost of electricity provision is the same under both the Target and No Target policies. However, this cost is less than that of 1.25% GDP budget allocation. The difference is as high as US
+$1396.9 Billion and US$1167.6 Billion when under the Target and No Target policies respectively over the planning period. This translates to a savings of US$225.5 Million and US$188.5 Million annually over the 1.25% GDP budget allocation. These savings are realized partly from the zero operational cost of the massive renewable energy generators recommended under suf?cient budget. However, note that this can only be realized if one can source the enormous ?nancial resources needed to purchase the needed capacity to meet the expected demand. In 2020 for instance, the capacity ?nancing required will be almost US
+$2.54 Billion, roughly 3.8% of Ghana's projected GDP used in this study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 4. Comparison of percentage levels of unmet demand when a 10% renewable electricity generation target is enforced (Target), and when not enforced (No Target) at annual capacity addition ?nancing budget of 0.75%, 1.0%, 1.25%, and 1.5% of Ghana's GDP during the sub-target years of 2020, 2023, 2026, and 2030.
+
+
+
+Table                                   9 Cost of electricity provision when a 10% renewable electricity generation target is enforced (Target), and when not enforced (No Target) at annual capacity addition funds of 0.50%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and at suf?cient budget, during the planning period from 2019 to 2030.
+
+
+
+competitive with conventional energy generators. This is in agree- ment with the current Levelized Cost of Electricity (LCOE) estimates from the International Renewable Energy Agency (IRENA). However, this is only true when there is suf?cient ?nancial resource available to fund the needed generation capacity. Otherwise, if unable to
+
+Annual capacity
+?nancing
+
+Total cost (millions)	Extra cost for enforcing
+target (millions)
+
+	
+
+raise such funds, one risk facing high levels of unmet demand (due to capacity shortages), as well as increase in cost of electricity provi-
+
+Target	No target	From 2019 to
+2030
+
+Annual
+
+sion when factoring in economic losses due to unmet demand. In the case of Ghana, it might need to allocate at least 1.0% of its GDP (which is approximately 25% increase of current annual capacity addition expenses) to capacity ?nancing in order to meet its 10% renewable electricity generation target by 2030. This is the only way possible if it wishes to keep levels of unmet demand and cost of electricity provision at reasonable levels. Sticking to current expenditure levels while attempting to achieve the target can lead to levels of unmet
+
+   In summary, and according to current cost ?gures, the cost incurred for transitioning from conventional energy to renewable energy is man- ageable if a country has suf?cient ?nancial resources for generation ca- pacity investment. This is not a surprise, since the main hindrance to renewable energy adoption is capital cost. This also supports the evi- dence on the ground where (perhaps with the exception of Brazil and India), it appears that the countries making signi?cant headways in the energy transition process are those having relatively stronger econ- omies (e.g. Germany, United States, China, and countries from the European Union).
+
+Conclusion and policy implications
+
+   This paper developed an electricity Generation Expansion Plan- ning (GEP) model for the setting of renewable electricity generation target in developing countries. To do this, two important constraints in the form of a target on the percentage of electricity generation from renewable energy sources, and a limit on funds for new gener- ation capacity investments were incorporated into a standard GEP model. The model was developed in the form of a multi-period sto- chastic mixed integer linear program (MILP) to allow for long-term planning as well as to account for uncertainty in model parameters (electricity demand and fuel price). Additionally, the objective func- tion was designed to help determine cost of electricity provision, in- cluding cost of unmet demand when a renewable electricity target is adhered to.
+   Applying the model to the case of Ghana's 10% renewable electricity target policy, revealed insightful lessons. First and foremost, the cost of electricity from some renewable generators are on the whole cost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 5. Plot of cost of electricity provision under a 10% renewable electricity generation target and under a no target policy at annual generation capacity addition ?nancing budget equivalent to 0.5%, 0.75%, 1.0%, and 1.25% of Ghana's GDP, and at suf?cient budget, during the planning period from 2019 to 2030.
+
+demand that could be as high as 14% in 2030, and cost of electricity provision rising by as much as $224 million per year. It is therefore not a surprise that Ghana has not been able to achieve even 0.3% of its original 10% target set for 2020 (now scheduled to 2030). In sum, any developing country contemplating on increasing the share of renewable electricity in its electricity supply mix must be adequately prepared to increase the amount it spends on ?nancing new generation capacity additions.
+   The second insight follows from the ?rst, which is that, without enough ?nancial resources the only way for developing countries to improve their already low electricity access rate, as well as meet the increasing growth in electricity demand is to, rather unfortu- nately, continue to use conventional energy sources. This places de- veloping countries at a disadvantage in the world's quest to transition from fossil fuel based energy to renewable energy.
+   This paper contributes to literature, particularly in the research area of energy transition by providing a unique GEP model for the setting and evaluation of a renewable electricity generation target policies. The paper also provides a cost-bene?t analysis procedure for estimating the additional cost or bene?t related to the cost of electricity provision for a proposed renewable electricity production target.
+   The proposed GEP model also offers a number of practical contribu- tions. The model can be used to search for the reasonable target that is commensurate to a country's ?nancial position, and the level of unmet electricity demand and extra cost it is willing to tolerate. Such a target will have a high chance of being achieved. Similarly, for a proposed tar- get in mind, the model will allow for the assessment of the ?nancial commitment needed, and the expected level of unmet electricity de- mand and cost of electricity provision. The special features of the pro- posed model not only ?ts electricity planning practices in developing countries, but also brings to bare matters of greater concern in these countries as far as energy transition is concerned - the inclusion of a budget constraint captures the struggle to raise the needed capital for new generation capacity, whereas the provision for the estimation of level of unmet energy helps to foresee the impact on the already dire levels of unmet demand. Finally, the model's output in terms of the rec- ommended generator types, their size, and timing will serve as a guide for cost-effective electricity planning towards the achievement of a planned renewable electricity target.
+   A limitation of this research is that due to the unavailability of local cost data, most plant costs were taken from international reports such as the Energy Information Administration of the U.S. Plant costs data such as capital cost, ?xed cost, and operational cost tend to be higher in developing countries than in the U.S., and could lead to higher elec- tricity cost overall. Yet, we also note that renewable energy auctions in some countries such as South Africa have led to the procurement of renewable energy capacities at competitive and at times, much lower costs than previously assumed (Eberhard, 2013). Thus, obtaining credi- ble local plant cost data is important for policy analysis using the pro- posed model.
+
+
+
+   A potential related future work could look into directly modeling the intermittency of the energy sources for the renewable generators to estimate the level of back-up capacity needed to prevent system failure.
+
+
+Declaration of competing interest
+
+   The authors declare that they have no known competing ?nancial interests or personal relationships that could have appeared to in?u- ence the work reported in this paper.
+
+Acknowledgement
+
+   We thank the Queen Elizabeth Scholarship program for Climate Change and Societal Transformation, the host university, Carleton Uni- versity, Ottawa, Canada, and the Centre for Climate Change and Sustain- ability Studies (C3SS) at the University of Ghana, for the research mobility scholarship that facilitated the preparation of this manuscript. We also thank the University of Ghana Business School for the award of the research grant #05570919 that provided the needed funding for this research.
+
+Appendix A. A description of the estimation of the marginal cost of fuel for electricity generation, and plots of cumulative capacities of recommend new generator types for electricity generation
+
+Table A.1
+Summary of electricity price estimation for coal, natural gas, and biomass.
+
+Fuel	Price estimation	Explanation and conversion to $/MWh
+
+Arnette, A., & Zobel, C. W. (2012). An optimization model for regional renewable energy development. Renewable and Sustainable Energy Reviews, 16(7), 4606-4615.
+Awudu, I., & Zhang, J. (2013). Stochastic production planning for a biofuel supply chain under demand and price uncertainties. Applied Energy, 103, 189-196.
+Batinge, B., Musango, J. K., & Brent, A. C. (2019). Sustainable energy transition framework for unmet electricity markets. Energy Policy, 129, 1090-1099 (23).
+BFT (2017, June). Government shifts renewable energy target; 10 percent target shifted to 2030. The Business & Financial Times Online. <https://www.ghanaweb.com/Ghana HomePage/business/Government-shifts-renewable-energy-target-10-percent-ta rget-shifted-to-2030-544475> [accessed 03.18.19].
+Breeden, J. L., & Ingram, D. (2010). Monte Carlo scenario generation for retail loan portfo- lios. Journal of the Operational Research Society, 61(3), 399-410.
+E4tech (2010, January). Biomass prices in the heat and electricity sectors in the UK. Doc- ument prepared for the Department of Energy and Climate Change. http://www. e4tech.com/wp-content/uploads/2016/01/100201Biomass_prices.pdf> [accessed 01.15.19].
+Eberhard, A. (2013). Feed-in tariffs or auctions? Procuring renewable energy supply in South Africa. Viewpoint. Public policy for the private sector. Note, (338). http:// documents.albankaldawli.org/curated/ar/990081468305682402/pdf/  779710BRI0Box300Tariffs0or0Auctions.pdf [accessed 06.16.2020].
+Eberhard, A., Foster, V., Briceño-Garmendia, C., Ouedraogo, F., Camos, D., & Shkaratan, M. (2008). Underpowered: The state of the power sector in Sub-Saharan Africa.
+ECG (2013). National energy statistics 2000-2012. Ghana: The Energy Commissionhttp:// www.energycom.gov.gh/?les/Ghana_Energy_Statistics_2012_AUG.pdf [accessed 04.
+20.19].
+ECG (2019a). Ghana Renewable Energy Master Plan. Ghana: The Energy Commissionhttp:// www.energycom.gov.gh/?les/Renewable-Energy-Masterplan-February-2019.pdf [accessed 04.27.19].
+ECG (2019b). National energy statistics 2008-2017. Ghana: The Energy Commissionhttp:// www.energycom.gov.gh/?les/ENERGY_STATISTICS_2018_FINAL.pdf [accessed 04.11.
+19].
+ECG (2019c). The 2019 electricity supply plan for the Ghana power system. Ghana: The En- ergy Commissionhttp://www.energycom.gov.gh/?les/2019%20Electricity%20Supply
+%20Plan.pdf [accessed 04.27.19].
+EIA (2013, April). Updated Capital Cost Estimates for Utility Scale Electricity Generating Plants. Energy Information Administrationhttps://www.eia.gov/outlooks/capitalcost/ pdf/updated_capcost.pdf(Accessed 14 May 2019). .
+EIA (2016, November). Capital cost of utility scale electricity generating plants. Energy Infor- mation Administrationhttps://www.eia.gov/analysis/studies/powerplants/capita lcost/pdf/capcost_assumption.pdf [accessed 05.12.19].
+
+Coal prices ($/tonne)
+
+
+
+
+
+
+
+
+
+
+Gas prices ($/MMBtu)
+
+27 + 101 * BETA
+(0.655, 0.848)
+
+
+
+
+
+
+
+
+
+
+
+Market Price: 2 + GAMMA (1.89,
+1.28)
+Delivery: 4.8
+
+There is a proposed 700 MW coal plant project between government of Ghana and Shenzhen Energy group of China. A Chinese company will build the proposed coal plant: therefore, coal price (in $/tonne) data from 2000 to 2016 were obtained from the BP Statistical Review of World Energy (2017) using the China Qinhuagdao coal prices (which includes delivery price). Using the Arena Input Analyzer, the best distribution ?t for coal price was a Beta distribution of
+the form 27 + 101 * BETA (0.655, 0.848). This
+value is then converted to $/MWh by multi- plying by 0.538.
+The natural gas price is made up of two components; market price and delivery cost. The market price component was derived based on the Henry Hub monthly natural gas prices from 1997 to 2017 (EIA, 2017). Using the Arena Input Analyzer, and the annual average of the monthly prices, the best distribution ?t for the market price was a Gamma distribution of the form 2 + GAMMA (1.89, 1.28). The delivery cost is based on data from the Ghana Energy Commission and was taken to be $4.8/MMBtu. The total estimated price was then converted to
+$/MWh by multiplying by an amount of 6.6.
+
+EIA (2017, October). Henry Hub Natural Gas Spot Prices. https://www.eia.gov/dnav/ng/ hist/rngwhhdm.htm [accessed 20.10.17].
+EIA (2018, August). Construction cost data for electric generators installed in 2016. En- ergy Information Administration. <https://www.eia.gov/electricity/generatorcosts/
+> [accessed 04.13.19].
+EIA (2019, January). Cost and performance characteristics of new generating technolo- gies. energy information administration, Annual Energy Outlook 2019. <https:// www.eia.gov/outlooks/aeo/assumptions/pdf/table_8.2.pdf/> [accessed 03.18.19].
+EIA (2019b). Electric power monthly. https://www.eia.gov/electricity/monthly/current_ month/epm.pdf; 2019. [accessed 4 April 2019].
+Feng, Y., & Ryan, S. M. (2013). Scenario construction and reduction applied to stochastic power generation expansion planning. Computers & Operations Research, 40(1), 9-23. Frondel, M., Ritter, N., Schmidt, C. M., & Vance, C. (2010). Economic impacts from the pro- motion of renewable energy technologies: the German experience. Energy Policy, 38
+(8), 4048-4056.
+Geels, F. W., Sovacool, B. K., Schwanen, T., & Sorrell, S. (2017). The socio-technical dynam- ics of low-carbon transitions. Joule, 1(3), 463-479.
+Green, R., & Staffell, I. (2016). Electricity in Europe: exiting fossil fuels? Oxford Review of Economic Policy, 32(2), 282-303.
+GridCo (2011). Generation master plan study for Ghana. Ghana Grid Company Limited Re- trieved from http://www.gridcogh.com/media/photos/forms/annual/2011% 20GRIDCo%20Annual%20Report.pdf.
+GridCo (2017, January). Electricity supply plan for the Ghana power system. Ghana Grid Company Limitedhttp://www.gridcogh.com/media/photos/forms/supplyplan/2018_ Electricity_Supply_Plan.pdf [accessed 23.03.19].
+Hammons, T. J. (2008). Integrating renewable energy sources into European grids.
+International Journal of Electrical Power & Energy Systems, 30(8), 462-475.
+Hassel, A., Egenhofer, C., Nicolescu, R., Nica, A., & Elisei, S. (2017). Ful?lment of National Ob- jectives under the Renewable Energy Directive: State of play and projections. CEPS policy
+
+Biomass prices ($/MWh)
+
+
+
+
+References
+
+NORM (50, 5)	Biomass prices were assume to follow a
+normal distribution with a mean of
+$50/MWh and a standard deviation of
+$5/MWh based on projected imported biomass feedstock prices for the UK heat sector (E4tech, 2010).
+
+insights no. 2017/04, February 2017.
+IEA (2017, October). Renewables 2017: Analysis and forecast to 2022. International Energy Agencyhttps://www.iea.org/Textbase/npsum/renew2017MRSsum.pdf [accessed 04.
+16.19].
+IRENA (2012). Renewable energy technologies: Cost analysis series (wind power). Inter- national Renewable Energy Agency (IRENA) Working Paper Series 5(5). <https:// www.irena.org/documentdownloads/publications/re_technologies_cost_analysis- wind_power.pdf> [accessed 04.12.19].
+IRENA (2015a). Renewable power generation costs in 2014. International Renewable En- ergy Agency (IRENA)https://www.irena.org/documentdownloads/publications/ irena_re_power_costs_2014_report.pdf [accessed 04.18.19].
+
+Afful-Dadzie, A., Afful-Dadzie, E., Awudu, I., & Banuro, J. K. (2017). Power generation ca- pacity planning under budget constraint in developing countries. Applied Energy, 188, 71-82.
+Africa Progress Panel (2015). Power people planet: Seizing Africa's energy and climate opportunities. Africa Progress Report, 2015.
+
+IRENA (2015b). Renewable energy target setting. International Renewable Energy Agency (IRENA)http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/  IRENA_RE_Target_Setting_2015.pdf [accessed 04.23.19].
+IRENA (2017). Renewable capacity statistics 2017. International Renewable Energy Agency (IRENA), Abu Dhabi. Retrieved April 20 2019 from https://www.irena.org/
+
+
+
+DocumentDownloads/Publications/IRENA_RE_Capacity_Statistics_2016.pdf [accessed 04.10.19].
+IRENA (2018). Planning and prospects for renewable power: West Africa. Abu Dhabi: Inter- national Renewable Energy Agencyhttps://www.irena.org/-/media/Files/IRENA/ Agency/Publication/2018/Nov/IRENA_Planning_West_Africa_2018.pdf   2018.
+[accessed 8 May 2019].
+Jin, S., Ryan, S. M., Watson, J. P., & Woodruff, D. L. (2011). Modeling and solving a large- scale generation expansion planning problem under uncertainty. Energy Systems, 2 (3-4), 209-242.
+Klessmann, C., Held, A., Rathmann, M., & Ragwitz, M. (2011). Status and perspectives of renewable energy policy and deployment in the European Union-what is needed to reach the 2020 targets? Energy Policy, 39(12), 7637-7657.
+Knopf, B., Nahmmacher, P., & Schmid, E. (2015). The European renewable energy target for 2030-an impact assessment of the electricity sector. Energy Policy, 85, 50-60.
+Kumi, E. N. (2017). The electricity situation in Ghana: Challenges and opportunities. Wash- ington, DC: Center for Global Development.
+Muis, Z. A., Hashim, H., Manan, Z. A., Taha, F. M., & Douglas, P. L. (2010). Optimal planning of renewable energy-integrated electricity generation schemes with CO2 reduction target. Renewable Energy, 35(11), 2562-2570.
+Obeng-Darko, N. A. (2019). Why Ghana will not achieve its renewable energy target for electricity. Policy, legal and regulatory implications. Energy Policy, 128, 75-83.
+Oree, V., Hassen, S. Z. S., & Fleming, P. J. (2017). Generation expansion planning optimisa- tion with renewable energy integration: a review. Renewable and Sustainable Energy Reviews, 69, 790-803.
+
+Oyewunmi, T., Heffron, R. J., & Crossley, P. (2019). OGEL special issue on "energy law and regulation in low-carbon and transitional energy markets". Oil, Gas & Energy Law Journal (OGEL), 17(1).
+Pink, R. M. (2018). The climate change crisis: Solutions and adaption for a planet in peril.
+Springer.
+Sawin, J. L., Rutovitz, J., & Sverrisson, F. (2018). Renewables 2018 global status report
+(2018th ed.). Paris: Canadian Electronic Library.
+Schaber, K., Steinke, F., & Hamacher, T. (2012). Transmission grid extensions for the inte- gration of variable renewable energies in Europe: who bene?ts where? Energy Policy, 43, 123-135.
+Shiina, T., & Birge, J. R. (2003). Multistage stochastic programming model for electric power capacity expansion problem. Japan Journal of Industrial and Applied Mathematics, 20(3), 379-397.
+Smyth, J. (2017, October 17). Australia to Abandon Clean Energy Target. Financial Timeshttps://www.ft.com/content/37854ff0-b2fd-11e7-a398-73d59db9e399    [accessed 01.18.19].
+Tang, A., Chiara, N., & Taylor, J. E. (2012). Financing renewable energy infrastructure: Formulation, pricing and impact of a carbon revenue bond. Energy Policy, 45, 691-703.
+Zhang, H. L., Van Gerven, T., Baeyens, J., & Degrève, J. (2014). Photovoltaics: reviewing the European feed-in-tariffs and changing PV ef?ciencies and costs. The Scienti?c World Journal, 2014.
+
+
+
+

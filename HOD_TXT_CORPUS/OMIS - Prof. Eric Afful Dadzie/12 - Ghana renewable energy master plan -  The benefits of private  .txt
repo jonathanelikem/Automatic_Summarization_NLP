@@ -1,0 +1,1828 @@
+Scientiﬁc African 17 (2022) e01353
+
+Contents lists available at ScienceDirect
+
+Scientiﬁc African
+journal homepage: www.elsevier.com/locate/sciaf
+
+Ghana renewable energy master plan: The beneﬁts of private
+sector participation
+Anthony Afful-Dadzie, Stephen Kobby Mensah, Eric Afful-Dadzie∗
+University of Ghana Business School, University of Ghana, LG 78, Legon, Accra, Ghana
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 18 May 2022
+Revised 24 July 2022
+Accepted 30 August 2022
+
+Editor DR B Gyampoh
+Keywords:
+Energy transition Renewable energy
+Developing economies Financial constraints
+Private sector
+
+a b s t r a c t
+This paper assesses the beneﬁts of private sector participation in the Ghana Renewal Energy Master Plan (REMP) using a stylized Generation Expansion Planning model and concludes with a discussion on a ﬁnancial incentive that could be offered to private investors
+to encourage their participation in the REMP. Using cost of electricity provision and level
+of demand unmet, the paper argues that there is signiﬁcant beneﬁt in incentivizing the
+private sector to participate in the REMP especially when the government faces budgetary
+constraint and unable to meet all electricity demands. Based on its 2016 feed-in-tariff for
+renewable energy generators and going by its annual investment levels in new generation
+capacity, Ghana stands to save on average, as much as US$265 million per year in cost of
+electricity provision along with a reduction in unmet demand by an average of 6.5% if it
+could attract private investors to participate in the REMP at desired levels. This potential
+cost savings can serve as the basis for a ﬁnancial incentive scheme aimed at attracting
+private sector participation. This research has the tendency to unlock the conundrum of
+attracting private ﬁnancing towards energy transition in similar developing economies.
+© 2022 The Authors. Published by Elsevier B.V. on behalf of African Institute of
+Mathematical Sciences / Next Einstein Initiative.
+This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Introduction
+The world has ﬁnally woken up to the realization of the importance to transition from fossil fuel-based energy to renewable and clean energy. Indeed, efforts are already underway. The 2019 UN Environment Programme (UNEP) report on
+trends in renewable energy investment indicates that over US$2.6 trillion were invested in renewable energy initiatives
+worldwide during the period from 2010–2019 [5]. However, much of this investment came from richer countries, primarily
+China, USA, Japan, Brazil, and those in the European Union such as Germany, UK, and Denmark [16,17], with virtually no
+investment coming from emerging and developing economies. Afful-Dadzie [2] paints a stark picture, noting that even the
+marginal progress in renewable energy investment in developing economies appears to come from few countries. In Africa
+for instance, just four countries, South Africa, Egypt, Morocco and Tunisia, accounted for 80% of Africa’s share of 1.27% of
+the global solar installation in 2019 [2].
+It is not that emerging and developing economies are unconcerned about energy transition. Of the 164 countries which
+had in place a renewable energy target in 2015, 131 were emerging and developing economies [18]. In fact, aside the docu∗
+
+Corresponding author.
+E-mail address: aafful-dadzie@ug.edu.gh (E. Afful-Dadzie).
+
+https://doi.org/10.1016/j.sciaf.2022.e01353
+2468-2276/© 2022 The Authors. Published by Elsevier B.V. on behalf of African Institute of Mathematical Sciences / Next Einstein Initiative. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Nomenclature
+Indices
+i
+n
+k
+g
+t
+q
+s
+
+index for conventional generator type
+index for renewable generator type
+index for private renewable generator type
+index for government renewable generator type
+index for time period
+index for target period
+index for scenarios
+
+Decision variables
+Gt,i
+number of generator i to be built in period t
+Gt,g
+number of generator g to be built in period t
+Gt,k
+number of generator k to be built in period t
+Yt,s,i
+electricity generated from conventional generator i under scenario s in period t [MWh]
+Yt,s,g
+electricity generated from government generator g under scenario s in period t [MWh]
+Yt,k
+electricity generated from private generator k in period t [MWh]
+Zt,i
+newly installed capacity for generator i in period t [MW]
+Zt,g
+newly installed capacity for generator g in period t [MW]
+Zt,k
+newly installed capacity for generator k in period t [MW]
+Wt,i
+available capacity of conventional generator i in period t [MW]
+Wt,g
+available capacity of government renewable generator g in period t [MW]
+Wt,k
+available capacity of private renewable generator k in period t [MW]
+Wq,g
+available capacity of government renewable generator g in target year q [MW]
+Wq,k
+available capacity of private renewable generator k in target year q [MW]
+EIMt,s
+amount of electricity imported under scenario s in period t [MWh]
+EUt,s
+unmet demand under scenario s in period t [MWh]
+Parameters
+AVi
+capacity factor for conventional generator i
+AVg
+capacity factor for government renewable generator g
+AVk
+capacity factor for private renewable generator k
+Gmax
+maximum number of conventional generator i that can be built in period t
+i
+Gmax
+maximum number of government renewable generator g that can be built in period t
+g
+Gmax
+maximum number of private renewable generator k that can be built in period t
+k
+Ps
+probability of electricity demand scenario s occurring
+Wimax
+rated capacity of conventional generator i [MW]
+Wgmax
+rated capacity of government renewable generator g [MW]
+Wkmax
+rated capacity of private renewable generator k [MW]
+CIMt
+price of imported electricity in period t [$/MWh]
+CUt
+penalty for unmet demand [$/MWh]
+TC
+Ct,i
+capital cost of conventional generator i in period t [$/MW]
+TC
+Ct,g
+c
+Ct,i
+c
+Ct,g
+v
+Ct,i
+v
+Ct,g
+
+capital cost of government renewable generator g in period t [$/MW]
+annualized Capital cost for conventional generator i in period t [$ per MW/yr]
+annualized Capital cost for government renewable generator g in period t [$ per MW/yr]
+variable operation cost for conventional generators i in period t [$/MWh]
+variable operation cost for government renewable generators g in period t [$/MWh]
+
+f
+Ct,i
+
+ﬁxed cost for conventional generator i in period t [$/MW]
+
+f
+Ct,g
+Bt
+BtL
+Dt,s
+Ii
+Ig
+Ik
+T Gt
+r
+ht
+
+ﬁxed cost for government renewable generator g [$/MW]
+budget for capacity investment in conventional and government renewable generators in period t [$]
+budget leftover in period t [$]
+electricity demand under scenario s in period t [GWh]
+initial installed capacity of conventional generator i [MW]
+initial installed capacity of government renewable generator g [MW]
+initial installed capacity of private renewable generator k [MW]
+total renewable energy capacity in target period q [MW]
+assumed annual discount rate
+number of hours in a year
+
+2
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Fig. 1. Total energy consumption by fuel in Ghana from 20 0 0 to 2021.
+
+α
+Ft,k
+
+factor for limit on imported electricity
+feed in tariff for private renewable generator k in period t [$/MWh]
+
+mented challenges to energy transition in developing economies including lack of legislation and regulatory instrument, as
+well as unattractive market structures [25], the lacklustre pace in energy transition in developing economies can in some
+sense be justiﬁed. Aside energy transition, developing economies also face the equally important challenge of increasing
+energy access to the citizenry and meeting increasing energy demand for those already having access [3]. For example only
+18% of people in Sub-Saharan Africa had access to clean fuels and technology for cooking, while less than 50% had access to
+electricity in 2020 [28]. Indeed, both energy transition and energy access are very important, but both demand substantial
+amount of capital, and developing economies cannot afford both. It is tempting to think that energy access could be better
+achieved through energy transition since energy from renewable technologies is now seen to be competitive and, in some
+jurisdictions, even cheaper than energy from conventional generators [14]. However, not having the necessary ﬁnancial resource pushes developing economies to consider energy generation technologies with better capacity factor, and of which
+the initial capital outlay leads to more available generation capacity. In fact, current capacity factor and initial capital cost
+of energy generators [13], compel developing economies to favour non-renewable energy generation technologies, thereby
+hurting energy transition.
+A case in point is Ghana which could not generate even 0.5% of its energy needs from renewable energy sources (excluding large hydro) having targeted at least 10% by 2020 [7], and which is struggling to make meaningful progress on its
+new renewable energy target set for 2030. Fig. 1 shows a time series plot of the total ﬁnal energy consumption of Ghana
+from the year 20 0 0 to 2021 and why Ghana is seeking to raise the percentage of renewable energy in its energy mix. Oil
+and biomass (in the form of wood for charcoal and ﬁrewood) dominated Ghana’s sources of energy until 2015 when usage
+of natural gas (primarily for electricity generation) started increasing. Though, Ghana has a respectable size of energy from
+hydro sources, it is not counted as part of the country’s renewable energy portfolio as it comes from large scale hydro generators considered of legacy status. Unable to meet its 2020 renewable energy target, and still desirous to improve the content
+of renewable energy in its energy mix, Ghana drafted a new modest renewable energy target, the REMP, to be achieved by
+2030. The government of Ghana expects at least 80% of the ﬁnancing of the REMP to be provided by the private sector [7].
+Sadly however, the level of private sector participation in the REMP to date is far below expectation. This is despite Ghana
+having enacted a renewable energy act that provides a conducive environment for attracting renewable energy investment,
+including an obligation for utility companies to purchase speciﬁc percentage of electricity from renewable energy generators
+and a competitive feed-in-tariff [12].The progress of the REMP implementation so far suggest it will meet the same fate as
+that of the ﬁrst renewable energy target if nothing is done to attract more private investors. Of the roughly 3.5% of the
+REMP achieved so far (which is far less than the 14% expected), more than 90% is from the private sector which suggest the
+crucial role of the private sector to the attainment of the REMP.
+Ghana’s experience suggests that without the private sector providing the needed ﬁnancing, energy transition will be
+diﬃcult to achieve in developing economies. One clear beneﬁt of private investment in the energy sector is that it allows
+governments the freedom to channel their constrained ﬁnancial resources to other troubled areas of the economy and help
+transfer the risks associated with ﬁnancing and operation of energy projects.
+Despite the clear demand for energy, and the potential for making proﬁt, private investors have not been ﬂocking to
+developing economies. Several issues account for this lukewarm attitude of the private sector, including lack of a liberalized
+3
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+market, currency instability, weak banking and capital markets, creditworthiness of counterparties, and non-availability of
+commercial arrangement that supports predictable revenue. In the presence of these issues, a private investor will have
+to be motivated to consider investing in renewable energy projects. Many studies have waded into the debate of offering
+incentives for attracting private ﬁnancing in the energy sector in developing economies (see, for instance Lam and Law [21],
+Keeley and Matsumoto [19], Michalena et al. [23]). However, these have largely been advisory and do not provide a means
+to quantify the incentive to offer.
+The main objective of this paper is to underlie the importance of the private sector to the achievement of energy transition in Ghana and for that matter, similar developing economies. A second objective is to argue for a ﬁnancial incentive that
+could be offered private investors to attract investment in energy transition in Ghana and thus similar developing economies.
+Speciﬁcally, this paper offers a mechanism for governments in developing economies to determine the beneﬁt of involving
+the private sector in energy transition as compared to doing it alone. Such beneﬁt, if any, could form the basis upon which
+to incentivize and attract the private sector into investing in the energy transition effort of the country.
+These objectives are achieved from two viewpoints. The ﬁrst looks at how much it will cost for a government to undertake its energy transition target without private sector participation especially when facing ﬁnancial constraint. The second
+objective explores how much it will cost if the energy transition agenda of the government is supported by the private
+sector. From these two viewpoints, the paper then determines a so-called Value Of Private Participation (VOPP), which can
+serve as a basis to provide an incentive to entice private investors to support a developing economy’s energy transition
+drive. Thus, we assume throughout the analysis that a private investor can only engage in renewable energy projects. The
+methodology for achieving the two objectives of the paper are derived based on the construction of the Renewable Energy
+Master Plan (REMP) target of the government of Ghana which bares resemblance to the renewable energy targets of most
+developing economies. Using a Generation Expansion Planning (GEP) model over a planning period from 2021 to 2030, the
+paper examines the total cost of electricity provision in Ghana, the level of unmet electricity demand, and the level of the
+REMP achieved when the government of Ghana attempts to achieve the REMP target with and without the private sector.
+A comparison of the two scenarios of with and without private sector participation in the REMP then helps to address the
+two objectives of the paper. Since except biomass to cookstove, all the renewable energy generators considered in the REMP
+will generate electricity, the REMP problem is analyzed from the point of view of electricity generation planning.
+In the following sections, we present a brief overview of the Ghana electricity sector, as well as the REMP, followed by
+the model, and the parameters used for carrying out the analysis with and without private sector involvement in the Ghana
+REMP. This is followed by a discussion of the analysis, and a conclusion.
+Overview of the Ghana electricity sector
+The Ghana electricity sector is made up of four major institutions. They are the Ministry of Energy which the remaining
+three are answerable to; the Energy Commission which enforces the sector regulations and undertakes energy planning for
+Ghana; electricity generation authorities - Volta River Authority (VRA), Bui Power Authority (BPA), and Independent Power
+Producers (IPPs); the transmission authority - Ghana Grid Company Limited (GRIDCo); and the distribution authorities Electricity Company of Ghana (ECG) in charge of the southern part of Ghana, and Northern Electricity Distribution Company
+(NEDCo) in charge of the northern part of Ghana. There is also the Public Utility Regulatory Commission in charge of setting
+tariffs for both the electricity generation and the distribution entities.
+As at the end of 2021, the country had an installed and dependable generation capacity totaling 5488.82 MW and
+4975.25 MW, respectively [11]. The installed capacity as at the end of 2021 comprised of 3753 MW thermal, 1584 MW
+hydroelectric, and 144 MW from other renewable energy sources (that excludes large hydro). Fig. 2 shows the annual electricity generation of Ghana. It can be observed that the sector is dominated by hydro and thermal plants. The share of the
+annual electricity generation from thermal overtook that of hydro in 2016. The share of the electricity generation in 2021
+stood at 65% thermal, 34% hydro, and 0.55 renewable [11]. Though in truth Ghana generates more than 30% of its electricity needs from large hydro which should count towards the share of renewables in the annual electricity generation, the
+country discounts the existing large hydro plants as legacy projects and does not include them in its energy transition drive.
+To promote the development of renewable energy in Ghana, the government enacted the Renewable Energy Act 2011,
+which among other things guarantees renewable energy generators, the uptake of the renewable energy generated, an import tax exemption for solar PV system, as well as competitive feed-in-tariff rate [12]. The act was in large part, to support
+the drive to achieve at least 10% of the country’s energy needs from renewables by 2020 which was a precursor to the
+REMP. The next section highlights the Ghana REMP.
+The Ghana Renewable Energy Master Plan (REMP)
+The government of Ghana aims to generate at least 10% of its energy from renewable technologies by 2030 [1]. In support
+of this aim, the government set out the Renewable Energy Master Plan (REMP) of Ghana which was launched in 2019 with
+the aim of increasing the renewable energy capacity of the country from 42.5 MW in 2019 to about 1390 MW by 2030 [7].
+The REMP if undertaken is estimated to cost US$5.6 billion and focuses on investment in solar, wind, biomass, and small
+hydro technologies. A cumulative summary of the Ghana REMP in the form of the generator types considered in this study
+is reproduced in Table 1. In all, the REMP aims to add at least 741.3 MegaWatt-peak (MWp) from solar, 327 MWp from
+4
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Fig. 2. Annual electricity generation of Ghana by technology type.
+Table 1
+Summary of the Ghana Renewable Energy Master Plan (REMP).
+Renewable energy master plan
+Target Cumulative Capacity (MWp)
+Generator Type
+Solar
+Wind
+Biomass
+Hydro
+Total Capacity
+
+2020
+198.3
+0.11∗
+0.1∗
+0∗
+198.3
+
+2025
+502.3
+276.0
+102.1
+85.0
+965.4
+
+Capacity in 2030 (%)
+2030
+741.3
+327.0
+122.1
+200.0
+1390.4
+
+53.3
+23.5
+8.8
+14.4
+100
+
+Source: ECG (2019).
+Note: Values with the sign (∗ ) in Table 1 are insigniﬁcant and set to zero in 2020. Also, values are rounded to one
+decimal place.
+
+wind, 122 MWp from biomass, and 200 MWp from smaller hydro and wave plants to Ghana’s generation capacity by 2030.
+The total renewable energy capacity expected in the years 2020, 2025, and 2030 are, respectively, 198.3 MWp, 965.44 MWp,
+and 1390.44 MWp.
+The government of Ghana rightly acknowledges it cannot do this alone and envisages at least 80% of the ﬁnancing to
+come from the private sector. As at the end of 2020, just 42.5 MWp of the planned 198.3 MWp by 2020 had been achieved.
+Clearly, Ghana is far behind its REMP target, and it appears the anticipated private sector participation has not materialized,
+raising the question as to what can be done to attract more private sector participation.
+One way to do this is to provide incentives to the private sector. Often, the offering of an incentive receives public
+backlash as lacking justiﬁcation. One approach to justify such an incentive is to show the beneﬁt that could be attained
+through the participation of the private sector. In the next section, the paper presents a means for analyzing the value of
+private sector participation in the Ghana REMP. This value, if any, then serves as a basis for the provision of an incentive for
+attracting the private sector.
+Estimating the beneﬁts of the Ghana Renewable Energy Master Plan (REMP)
+The model for assessing the beneﬁts of private sector participation in the Ghana REMP is derived from the viewpoint of
+electricity Generation Expansion Planning (GEP). This is justiﬁed since electricity demand planning requires the selection of
+relevant generation technologies in a manner that minimizes generation cost of meeting current and future demand. As such,
+this research employs a stylized GEP model for the analysis. The GEP model is cast in the form of a Mixed Integer Linear
+Program (MILP) to capture both the integer and non-integer variables of the problem. In addition, the model is formulated
+to account for uncertainty in future electricity demand. The proposed model is thus referred to as a Stochastic MILP-GEP
+model. Stochastic optimization models have been found to have superior performance compared to other techniques when
+uncertainties in model parameters exist [6,15]. Most importantly, the model is constructed to take into consideration the
+pertinent issues involving electricity generation in Ghana, and for that matter, developing economies.
+Since in the presence of insuﬃcient funds, there will be a trade-off between achieving a renewable energy target and
+meeting energy demand, the GEP model is formulated to account for the cost of electricity demanded but not supplied. The
+proposed Stochastic MILP-GEP model is similar to that of Afful-Dadzie et al. [3]. However, unlike in Afful-Dadzie et al. [3],
+5
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+the proposed model explicitly considers the involvement of the private sector, and the use of feed-in tariff for electricity
+produced by renewable energy generators owned by private investors.
+The next section presents the Stochastic MILP-GEP model with brief explanations for the components of the model. The
+deﬁnition of the decision variables, parameters, and indices used in the model can also be found under the nomenclature
+provided in Section 3.1.
+The stochastic MILP-GEP model
+The stochastic MILP-GEP model formulation for evaluating the value of private sector participation is as follows:
+I
+
+
+Minimize
+
+T
+
+
+i=1
+
+(Cct,i + Cft,i )Zt,i +
+
+G
+
+g=1
+
+(Cct,g + Cft,g )Zt,g +
+
+S
+
+
+
+Ps
+
+s=1
+
+I
+
+i=1
+
+Cvt,i Yt,s,i +
+
+G
+
+g=1
+
+
+Cvt,g Yt,s,g + EUt,s ∗CUt + EIMt,s ∗CIMt +
+
+K
+
+k=1
+
+Ft ,k Y t ,k
+
+(1 + r )t−1
+
+t=1
+
+(1)
+Demand-supply balance
+I
+
+
+Yt,s,i +
+
+G
+
+
+Yt,s,g +
+
+g=1
+
+i=1
+
+K
+
+
+Yt,s,k + EIMt,s = Dt,a − EUt,s ∀t, ∀s
+
+(2)
+
+k=1
+
+Electricity generation
+
+Yt,s,i ≤ ht ∗AVi ∗Wt,i ∀t, ∀s, ∀i
+
+(3)
+
+Yt,s,g ≤ ht ∗AVg ∗Wt,g ∀t, ∀s.∀g
+
+(4)
+
+Yt,k ≤ ht ∗AVk ∗Wt,k ∀t, ∀s, ∀k
+
+(5)
+
+Generator limit
+
+Gt,i ≤ Gmax
+∀t, ∀i
+i
+
+(6)
+
+Gt,g ≤ Gmax
+∀t, ∀g
+g
+
+(7)
+
+Gt,k ≤ Gmax
+∀t, ∀k
+k
+
+(8)
+
+New capacity of generator type
+
+Zt,i = Zt−1,i + Gt,i ∗Wmax
+∀t, ∀i
+i
+
+(9)
+
+Zt,g = Zt−1,g + Gt,g ∗ Wmax
+∀t, ∀g
+g
+
+(10)
+
+Zt,k = Zt−1,k + Gt,k ∗ Wmax
+∀t, ∀k
+k
+
+(11)
+
+Total installed capacity of generator type
+
+Wt,i = Zt,i + Ii ∀t, ∀i
+
+(12)
+
+Wt,g = Zt,g + Ig ∀t, ∀g
+
+(13)
+
+Wt,k = Zt,k + Ik ∀t, ∀k
+
+(14)
+
+Renewable energy master plan target
+G
+
+g=1
+
+Wq,g +
+
+K
+
+
+W q , k ≥ TG q ∀ q
+
+(15)
+
+k=1
+
+Capacity ﬁnancing of government owned generators
+I
+
+i=1
+
+max
+CTC
+∗Gt,i +
+t,i ∗ Wi
+
+G
+
+
+max
+CTC
+Gt,g ≤ Bt + BLt−1 (1 + R )∀t
+t,g ∗ Wg
+
+g=1
+
+6
+
+(16)
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Leftover budget
+
+BLt = BLt−1 (1 + R ) −
+
+I
+
+i=1
+
+max
+CTC
+∗Gt,i −
+t,i ∗ Wi
+
+G
+
+
+max
+CTC
+Gt,g ∀t
+t , g ∗ Wg
+
+(17)
+
+g=1
+
+Importation limit
+
+EIMt,s ≤ α ∗Dt,s ∀t, ∀s
+
+(18)
+
+Non-negativity Gt,i , Gt,g , Gt,k , Ys,t,i , Ys,t,g , Ys,t,k , Zt,i , Zt,g , Zt,k ,
+Wt,i , Wt,g , Wt,k , Wq,g , Wq,k , EIMs,t , EUs,t , BLt ˃ 0
+
+Gt,i , Gt,g , Gt,k , Integer
+
+(19)
+
+The proposed model has two types of decision variables namely, ﬁrst stage decision variables and second stage decision
+variables. The ﬁrst stage decision variables are the deterministic (investment) component, and second stage is the stochastic
+(operational) component. The ﬁrst stage decision variables are, respectively, Gt,i , Gt,g , and Gt,k representing number of conventional generator type i, government renewable generator type g, and privately owned renewable generator type k to be
+built in period t; Zt,i , Zt,g , and Zt,k representing newly installed capacity of conventional generator type i, government renewable generator type g, and privately owned renewable generator type k to be built in period t; Wt,i , Wt,g , and Wt,k , representing available capacity of conventional generator type i, government renewable generator type g, and privately owned
+renewable generator type k to be built in period t; and Wq,g Wq,k representing available capacity of government renewable
+generator type g and privately owned renewable generator type k in target year q.
+The main second stage decision variables are Yt,s,i , Yt,s,g , and Yt,s,k which are the electricity generated from conventional
+generators, government owned renewable energy generators, and privately owned renewable energy generators, respectively.
+The rest are EIMt,s , the amount of electricity imported, and EUt,s , the amount of electricity demanded but not met.
+The model seeks to minimize Eq. (1), the present value of the expected cost of providing electricity over a T planning
+period, subject to constraints (2)–(18). The expected cost of Eq. (1) comprise of ﬁxed operating and maintenance cost, variable operating cost of the generators owned by the government, cost of renewable electricity generated by the private sector
+(through feed-in-tariff), cost of unmet electricity demand, and cost of electricity imported. The Eq. (2) models the relationship between supply and demand. Any demand not met by supply is tracked through the unmet demand variable EUt,s . The
+Eqs. (3)–(5) ensure that electricity generated by a particular generator is within its dependable capacity. The Eqs. (6)–(8)
+put a limit on the number of a particular generator that can be constructed in a year. This is done to ensure that a realistic
+number of generators are prescribed to be constructed in a particular year. The Eqs. (9)–(11) track the new capacity of a
+generator accumulated to date since the start of the planning period, whereas Eqs. (12)–(14) track the total accumulated
+capacity of a generator to date (including installed capacity before the start of the planning period). The REMP target is
+modeled through Eq. (15) and ensures that the targeted total renewable energy generation capacity in a particular period
+is met. Of greater importance is Eq. (16) which ensures that investment in new generators from the government side in a
+particular period does not exceed the fund available. This fund is made up of allocated budget for the current period and
+the unused allocated budget from the previous period. The Eq. (17) tracks the amount of unused budget in a period, while
+Eq. (18) puts a limit on the level of electricity that could be imported from neighbouring countries. The Eq. (19) is the nonnegativity constraints of the model. The model was coded and solved using the General Algebraic Modeling System (GAMS)
+version 24.2.1 with the ILOG CPLEX solver.
+Model parameters
+The sub-sections that follow present the data related to the electricity sector in Ghana and the government’s REMP. Data
+on costs, such as ﬁxed and maintenance cost, and variable operating cost are taken from international sources such as the
+Energy Information Administration of the U.S. government due to unavailability of local cost data.
+Generator types
+The study considers both conventional (non-renewable) and renewable generators. The conventional generators comprise
+of Open Cycle Gas Turbine (OCGT), and Combined Cycle Gas Turbine (CCGT1, and CCGT2). The renewable generators include
+Small Hydro, Solar PV, On-shore Wind, and Biomass. We assume the private sector is allowed to invest in only renewable
+generators. In addition, only the government is allowed to invest in hydro generators.
+Table 2 shows information on the generator types used in the case study. Aside the distinction based on ownership
+(government or private sector), the generators were separated into different types based on capacity size. Hence, there are
+two types of generators each for CCGT, Solar and Wind (i.e. CCGT1, CCGT2, SOLAR1, SOALR2, WIND1, WIND2). Each of these
+generators have different capacities. With regards to duration of use in a period, the study assumes a total of 8760 h (i.e.
+24 h for 365 days) of use in a year. The analysis ignores emissions cost as it is generally not seen as a major factor in most
+developing economies. Following Afful-Dadzie et al. [4], the analysis also assumes a penalty cost of US$225 /MWh for unmet
+demand. Note also that the capacity factor values are annual averages just as demand is also taken to be in an annual form.
+7
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Table 2
+Generator types and parameters used for the study.
+
+Generator
+
+Capacity
+(MW)
+
+Lead Time
+(Years)
+
+Capacity
+Factor (%)
+
+Life Span
+(years)
+
+Existing
+Capacity
+(MW)
+
+Committed
+Capacity for
+2021 (MW)
+
+Variable
+Cost
+($/MWh)
+
+CapitalCost
+(10 0 0$/MW)
+
+Fixed O&M
+Cost2
+($/MW/Year)
+
+Feed In
+Tariff
+($/MWh
+
+HYDRO
+CCGT1
+CCGT2
+OCGT
+SOLAR1
+SOLAR2
+WIND1
+WIND2
+BIOMASS
+
+50
+300
+450
+150
+20
+50
+50
+100
+50
+
+4
+3
+3
+2
+1
+1
+2
+2
+4
+
+47.5
+40.5
+40.5
+40.5
+19.5
+19.5
+16.5
+26.5
+50
+
+60
+25
+25
+25
+20
+20
+20
+20
+30
+
+1365
+960
+1270
+1039.6
+72.253
+0
+0
+0
+0.1
+
+60
+249
+30
+0
+51
+0
+0
+0
+0
+
+2
+69.4
+66.4
+178
+0
+0
+9.5
+9.5
+52.7
+
+5000
+1057
+1104
+678
+2671
+2434
+1877
+1657
+3837
+
+15,000
+10,100
+10,100
+6870
+23,400
+22,020
+39,700
+47,470
+112,150
+
+–
+–
+–
+–
+143
+143
+156.35
+156.35
+165.50
+
+Source: EIA [13]; ECG [9], Afful-Dadzie et al. [3], and PURC [29].
+2
+This is the ﬁxed operating and maintenance cost
+3
+The existing installed capacity of SOLAR1 is 30 MW for government and 42.25 MW for the private sector for a total of 72.25 MW. When running
+the model without private sector participation, all the 72.25 MW is taken as the total existing capacity at the beginning of the planning period.
+
+Demand estimation
+Electricity demand is stochastic and generally increases each year in most developing economies due to several reasons
+including population increase and economic growth. To model this behaviour, Eq. (20) as used in Afful-Dadzie et al. [4] is
+employed, where Dt,s represents electricity demand scenario s in period t. Electricity demand is assumed to increase each
+year, with ω representing the percentage increase in demand between the current period and the next period. The variable
+ω is random and assumed to follow a triangular distribution of the form, Triangular (0.01, 0.07, 0.14) representing a minimum
+increase of 1%, an average increase of 7% and a maximum increase of 14% over a period. This was estimated using past data
+on electricity supplied in Ghana in ECG [10]. The demand used for 2020 is 19716.59 GWh which is the actual total energy
+consumed (including losses) in Ghana in 2020 as per the 2021 Ghana Electricity Supply Plan. The consumption in 2020 was
+a 10.23% increase over that of 2019 and can be regarded as largely unaffected by covid-19 since it is within the average
+annual increment of roughly 11% recorded since 2015.
+
+Dt+1,s = (1 + ω ) Dt,s ∀t, ∀s
+
+(20)
+
+The simulated demand forecast for the planning period was compared to the national demand forecast of Ghana from
+the 2020 Ghana Electricity Supply Plan [8]. This comparison yielded a mean absolute percentage error (MAPE) of 4.5% which
+is below 8%, and hence an acceptable margin of error. In all, 20 demand scenarios for each year in the planning period were
+simulated and used in the model. By its design, the model uses all 20 demand scenarios to determine an optimal solution
+that is more robust to the uncertainty present.
+Appendix A shows an instance of four scenarios of electricity demand generated using Eq. (20) and compared with
+the national base case forecast shown in the last row of Appendix A. The scenarios of demand capture the uncertainty in
+electricity demand in practice. The ability to capture such uncertainty in generation expansion plans leads to solutions that
+perform better compared to the single national forecast [6].
+Budget allocation
+It is assumed that Ghana allocates a portion of its yearly Gross Domestic Product (GDP) to ﬁnance new generation capacity additions, and that the GDP increases by 4% per year (based on average GDP growth from 1973–2019). Three budget
+allocations will be considered for the purposes of analysing the impact on electricity cost and unmet demand, and as well to
+understand the government’s approach to electricity provision when faced with ﬁnancial constraints on investment in generation capacity. These allocations are 0.50% of GDP, 0.75% of GDP, and 1.0% of GDP. The budget allocations were estimated
+using the 2019 GDP of Ghana which was US$68.34 Billion [27]. In general, annual investment towards new generation capacity in Ghana is estimated to be roughly 0.75% of Ghana’s GDP based on reports from the annual electricity supply plans
+of Ghana [3]. The model also assumes that if any budget allocated is not exhausted, the leftover is invested at an interest
+rate of 12% per year and added to the next period’s budget for the ﬁnancing of new generation capacity. Also, all cash ﬂows
+are discounted at a rate of 12% per year in accordance with the discount rate used in the Ghana generation master plan.
+Results and discussion
+To assess the beneﬁts of private sector participation in the Ghana REMP, the proposed model was run for two cases one where the government undertakes the REMP alone, and the other where the private sector participates in the REMP.
+The two cases were run under three budget allocations of 0.5%, 0.75%, and 1.0% of GDP for investment in new generation
+capacity by the government. In each of the cases, the REMP capacity achieved, the level of demand unmet if any, and the
+total cost of electricity provision are tracked. In addition, the results from the two cases are compared to ascertain the
+beneﬁt derived from involving the private sector in the REMP. Also, in line with the government of Ghana Act 2011 which
+8
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Table 3
+Renewable generation capacity (in MW) achieved at each target year when government undertakes the REMP with private sector participation at
+budget allocations of 0.5%, 0.75%, and 1% of GDP.
+Cumulative Renewable Generator Capacity Achieved (in MW)
+2021
+
+2025
+
+2030
+
+Budget
+
+Generator Type
+
+Private Sector
+
+Government
+
+Private Sector
+
+Government
+
+Private Sector
+
+Government
+
+0.5% of GDP
+
+Solar
+Wind
+Biomass
+Hydro
+Total RE Capacity
+% from Private Sector
+Solar
+Wind
+Biomass
+Hydro
+Total RE Capacity
+% from Private Sector
+Solar
+Wind
+Biomass
+Hydro
+Total RE Capacity
+% from Private Sector
+
+322.25
+400
+50
+–
+772.25
+96.26%
+322.25
+300
+50
+–
+672.25
+95.73%
+322.25
+0
+0
+–
+322.25
+86.57%
+
+30
+0
+0
+0
+30
+–
+30
+0
+0
+0
+30
+–
+50
+0
+0
+0
+50
+–
+
+1442.25
+400
+150
+–
+1992.25
+93.87%
+482.25
+300
+150
+–
+932.25
+87.76%
+322.25
+300
+50
+–
+672.25
+63.29%
+
+30
+0
+0
+100
+130
+–
+30
+0
+0
+100
+130
+–
+190
+0
+100
+100
+390
+–
+
+2392.25
+400
+150
+–
+2942.25
+92.75%
+672.25
+350
+150
+–
+1172.25
+81.28%
+372.25
+300
+50
+–
+722.25
+50.01%
+
+30
+0
+0
+200
+230
+–
+70
+0
+0
+200
+270
+–
+370
+50
+100
+200
+720
+–
+
+0.75% of GDP
+
+1% of GDP
+
+almost guarantees a Pay-or-Take contract for private renewable energy investors, Eq. (5) was set to equality. Note that this
+holds particularly for solar and wind technologies, since unlike conventional generators which have signiﬁcant operational
+cost, solar and wind have virtually zero operational cost, and would be better to utilize them even when demand is low
+than to pay (capacity charges) without utilizing it.
+Renewable generation capacity achieved
+The renewable generation capacity achieved with and without private sector participation, and when the Government of
+Ghana (GOG) allocates 0.5%, 0.75%, and 1% of its annual GDP for investment in new generation capacity (for both renewable
+and non-renewable generators) is shown in Fig. 3.
+It can be seen from Fig. 3, that at the lower budget of 0.5% of GDP, a bit more renewable energy capacity is attained
+when the private sector participates in the REMP than when the government does it alone. The reason for this is because,
+at lower budget allocation, the government looks to the private sector to provide capacity even more than is required in the
+REMP to meet as much demand as possible. Indeed, it can be noticed that when there is no private sector participation at
+0.5% of GDP, the renewable generation capacity achieved is barely above the required limit.
+On the other hand, the government only uses the private sector to achieve the REMP target when it has bigger budget
+at 0.75% and 1% of GDP and concentrate on using the available budget to procure more conventional capacity to ensure
+as much demand is met. Note that investing in conventional generators allows the government to acquire more generation capacity due to their cheaper capital cost which helps reduce levels of unmet demand and the associated cost to the
+economy.
+In general, very little attempt is made to obtain more renewable generation capacity above the REMP target even when
+there is substantial amount of demand left to be served. This is especially true at higher budget allocations of 0.75% and 1%
+of GDP. This is an indication that, at current cost rates, the government sees renewable generators to be expensive and is
+only willing to meet the target it has set for itself. Thus, the government only uses the private sector to either achieve the
+target it has set for itself or to help drive down unmet demand when it is seriously constrained ﬁnancially. In other words,
+the government is rational and chooses the best option at any point in time. This agrees with ﬁndings in Afful-Dadzie et al.
+[3]. It is therefore not surprising that up to date, little progress is made in achieving the Ghana REMP.
+A breakdown in terms of the renewable energy generator types when there is private sector participation in the REMP
+is also presented in Table 3. The result shows that much of the renewable energy capacity is provided by the private sector,
+which accounts for more than 90% of the capacity, at the lower budget allocation of 0.5% of GDP. (Fig. 3)
+The level of private sector participation however decreases as government budget increases, since now the government
+has more money and would seek to cut down cost by increasing its share in the REMP. Note that due to the need to make
+proﬁt, the feed-in-tariff paid to private investors is generally higher than the levelized cost of electricity of the renewable
+energy generators. The result in Table 3 can also serve as an implementation plan for the REMP by ensuring that the right
+level of participation of the private sector is followed. For example, at budget allocation of 1% of GDP, the optimal participation level of the private sector should be 63.29% and 50.01% in 2025 and 2030, respectively, in order to minimize cost of
+electricity provision. An expanded form of Table 3 with the result for all generator types (both renewable and non-renewable
+9
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Fig. 3. Renewable generation capacity achieved at each target year under budget allocation of 0.50%, 0.75%, and 1% of GDP when the REMP is undertaken
+with and without the participation of the private sector.
+
+generators) is provided in Appendix B. A careful look at Appendix B reveals how the government increases its investment
+in non-renewable generation generators at the expense of renewable energy generators.
+Appendix C also gives results on generation capacity when the model is run without budget constraint under the REMP
+and with private sector participation to put into perspective the generation capacity needed when the government is forced
+to meet all demands. Note that this scenario assumes that there is suﬃcient budget available, and thus Eqs. (16) and (17) are
+ignored. It can be observed from Appendix C that when there is suﬃcient budget, the government will not allow private
+sector participation in the REMP at the current feed-in-tariff. This is not surprising since the government believes it can
+do it cheaper than the private sector at the current feed-in-tariff. Note that the 42.25 MW is capacity that exist before
+the planning period. Also note that there is more capacity under this scenario than under a 1% of GDP budget since more
+capacity is needed to meet all demands.
+Level of unmet electricity demand
+Ghana currently does not track levels of electricity demanded but not met, although blackouts and load shedding occur
+throughout the year. The level of electricity supply reliability in households is estimated to be around 42% [24] which gives
+an indication that the level of electricity demand not met is signiﬁcant. A power reliability assessment in 2010 revealed
+that Ghana losses between 2 and 6% of its annual GDP to inadequate and unreliable power supply [26]. It is estimated that
+Ghana lost about $2.1 million per day during a 2014/2015 electricity crisis [20]. These statistics give credence to the fact that
+a signiﬁcant level of electricity demand annually is not met in Ghana. It is likely that achieving the 10% renewable energy
+target could increase demand not met, since it could lead to a reduction in investment in conventional energy generators. It
+is therefore important that expected levels of unmet demand due to the enforcement of the REMP is analyzed.
+10
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Table 4.
+Levels of unmet demand when the REMP target is undertaken with the private sector, and when without the private sector at annual generation
+capacity expansion funds of 0.50%, 0.75%, and 1.0% of Ghana’s GDP.
+Level of demand unmet in a targeted year under budget constraint (in %)
+0.5% of GDP
+
+0.75% of GDP
+
+1% of GDP
+
+Year
+
+With Private
+Sector
+
+Without Private
+Sector
+
+With Private
+Sector
+
+Without Private
+Sector
+
+With Private
+Sector
+
+Without Private
+Sector
+
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Average
+
+0.3
+0.3
+0.2
+0.5
+1.7
+1.6
+2.7
+2.3
+3.6
+6.5
+2.0
+
+7.2
+13.7
+17.0
+20.7
+21.7
+19.6
+20.1
+21.3
+23.3
+26.7
+19.1
+
+0.4
+0.0
+0.0
+0.0
+0.1
+0.0
+0.2
+0.1
+0.5
+1.1
+0.3
+
+2.4
+1.3
+3.6
+7.0
+10.3
+9.0
+8.9
+7.0
+7.2
+10.7
+6.7
+
+0.06
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.0
+
+0.9
+0.1
+0.0
+0.5
+1.9
+1.1
+0.4
+0.1
+0.3
+0.8
+0.6
+
+Fig. 4. Total cost of electricity provision under budget allocations of 0.50%, 0.75%, 1.0% of GDP when government of Ghana undertakes the REMP with and
+without the private sector.
+
+The levels of demand not met within the planning period at the three budget allocations are shown in Table 4. In
+general, the level of unmet electricity demand is signiﬁcantly less with private sector participation than without private
+sector participation. This is true even at higher budget levels of 0.75% and 1.0% of GDP, where there seems to be little
+difference in generation capacity attained in the REMP with and without private participation. Under a budget allocation of
+0.5%, 0.75%, and 1% of GDP, the support provided by the private sector helps the government to reduce the level of unmet
+demand by an average of 17.1 pp1 , 6.7 pp, and 0.6 pp, respectively. As explained earlier, this occurs because when there is
+private sector participation, the government can now use the funds that hitherto would have been invested in the REMP to
+procure more generation capacity to meet as much demand as possible, particularly when it faces a smaller budget. This is
+a strong indication that there is beneﬁt in encouraging the private sector to participate in the Ghana REMP.
+Cost of electricity provision
+The total cost of electricity provision under the two cases of with and without private sector participation in the
+REMP is presented in Fig. 4. The total cost of electricity provision without private sector participation is US$18.07 billion,
+US$14.92 billion, and US$12.63 billion under allocated budget of 0.5%, 0.75%, and 1% of GDP, respectively.
+On the other hand, the total cost of electricity provision with private sector participation is US$15.36 billion, US$13.42 billion, and US$12.28 billion under allocated budget of 0.5%, 0.75%, and 1% of GDP, respectively. It should be noted that there
+was some budget left at the end of the planning period. The present value of the leftover budget at the end of the planning period (i.e. 2030) is US$3.76 million, US$0.692 million, and US$2.4 million at the budget allocation level of 0.5%, 0.75%,
+and 1.0% of GDP, respectively, when there is private sector participation. The values are US$0.067 million, US$0.051 million,
+and US$2.33 million, respectively, for budget allocations of 0.5%, 0.75%, and 1.0% of GDP when there is no private sector
+
+1
+
+pp implies percentage point.
+11
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+participation. These values are so minimal to make any difference even when accounted for in the total cost of electricity
+provision.
+Overall, the cost of electricity provision decreases as budget allocation increases regardless of the participation of the
+private sector. This is because of the government having the ability to ﬁnance more generation capacity to reduce levels of
+unmet demand when allocated budget increases. However, cost of electricity provision is noticeably lower when there is
+private sector participation in the REMP than when there is not under all three budget allocations. Even though, the tariff
+paid to private investors should generally be higher than what a government run renewable generator would charge (due
+to the need to make proﬁt), the participation of the private sector enables the government to meet its REMP target, and as
+well, allows it to use the allocated budget to procure more capacity to meet demand, thereby reducing the cost associated
+with unmet demand. Note that the cost of unmet demand is a signiﬁcant part of the total cost of electricity provision.
+This result implies that involving the private sector in the government of Ghana’s REMP leads to cost savings in electricity
+provision from 2021 to 2030 of about US$2.71 billion, US$1.50 billion, and US$0.35 billion at budget allocations of 0.5%,
+0.75%, and 1% of GDP, respectively. This clearly demonstrates that there is beneﬁt in involving the private sector in the
+REMP. It is therefore important that the government of Ghana put in place measures to enable it to attract the levels of
+private sector participation shown in Table 3. On a side note, assuming there is suﬃcient ﬁnancial resource available to
+enable the government meets every electricity demand whiles achieving the REMP, the total cost of electricity provision
+would amount to US$10.84 billion. This is a decrease of US$1.44 over that under the 1.0% of GDP budget allocation and
+shows the advantage that countries that are able to muster the needed ﬁnancing for meeting their electricity needs have
+those who cannot.
+Financial incentive analysis
+One of the reasons for the slow progress of the Ghana REMP is lack of adequate incentives to attract private sector
+investments [22]. One way to address this is for governments to device incentive packages to attract the private sector.
+Such incentive when backed by a well justiﬁed reason receives public backing and survives even when there is a change in
+government.
+This section discusses such possible ﬁnancial incentive based on the cost savings derived from the values shown in Fig. 4.
+We deﬁne the Value of Private Participation (VOPP) in energy transition as the annualized value of the difference between
+the total cost of electricity provision when the government undertakes the energy transition initiative alone and when it
+does so with the involvement of the private sector. Intuitively, VOPP is the cost savings the government makes from not
+using its own money. If such cost savings exist, then it is a double win for the government as it gets the chance to utilize
+its budget in other equally important sectors of the economy whiles getting its energy transition aspirations achieved at an
+even cheaper cost. A portion of the VOPP can however be used to incentivize the private sector into investing in renewable
+energy projects in line with a government’s energy transition goals such as the government of Ghana’s REMP.
+The expected cost savings in the Ghana’s REMP with the participation of the private sector, translates into a VOPP of
+about US$479.6 million, US$265.5 million, and US$61.9 million per year at budget allocations of 0.5%, 0.75%, and 1% of GDP,
+respectively. This VOPP is as a result of many factors including a reduction in the amount of unmet demand, which is
+penalized at US$225 /MWh in this analysis, and the chance to invest in more thermal generation capacity with the funds
+which hitherto would have been spent on renewable energy generators to achieve the REMP target.
+The VOPP of US$ 265.5 million per year at 0.75% of budget allocation is of interest as available data suggest Ghana tends
+to commit on average about 0.75% of its GDP to new generation capacity each year [3]. A portion of this amount could be
+used to provide ﬁnancial incentive to private investors. Such ﬁnancial incentive could be in the form of an increased feedin-tariff, or an amount paid in relation to size of installed capacity. A ﬁnancial incentive based on size of installed capacity
+is particularly straight forward. For example, a 0.5% of the US$ 265.5 million amounts to roughly US$ 1.33 million. With an
+estimated 1172.25 MW of renewable energy generation capacity to be provided by the private sector by 2030 at the current
+feed-in-tariff, a capacity payment of roughly US$1132 /MW per year could be offered as an incentive for attracting private
+investors.
+Conclusion
+Developing economies face genuine ﬁnancial challenge with regards to energy transition and need support from the
+private sector. Unfortunately, these countries ﬁnd it diﬃcult attracting private investors to support their energy transition
+aspirations. This paper examines the beneﬁt of private sector participation in energy transition investment in developing
+economies that face ﬁnancial challenges and propound an argument for a ﬁnancial incentive for attracting private investors.
+This is done through a comparison of the cost of electricity provision when a government undertakes a planned energy
+transition target with and without private investors.
+Using a generation expansion planning model formulated as a stochastic mixed integer linear program in a case study
+involving Ghana’s Renewable Energy Master Plan (REMP), the result indicates that there is signiﬁcant beneﬁt (in terms
+of cost savings and demand served) in involving the private sector in the energy transition drive in Ghana, even if the
+government of Ghana has suﬃcient funds to do it alone. The beneﬁts are signiﬁcantly higher when the government is
+ﬁnancially constrained, which is often the case for developing economies. Going by its annual expenses in new generation
+12
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+capacity, cost of electricity provision could reduce by as much as US$265 million per year, whereas levels of unmet demand
+could reduce by an average of 6.5% if Ghana could attract private investors at desired levels to support its REMP target slated
+for 2020–2030. Part of the cost savings could potentially be used to incentivize private investors in an attempt to attract
+them.
+The contribution of this paper to literature is three –fold. In the ﬁrst, it illustrates the crucial role of private investors
+in the energy transition aspirations of developing economies. In the second, it provides a means to determine the beneﬁt
+of involving the private sector in the energy transition drive of developing economies. In the third, it provides a simple
+mechanism for determining a ﬁnancial incentive to attract private investors in the energy transition drive based on the cost
+savings derived from private sector participation.
+A limitation of this research is that the various costs for the different types of electricity generators were assumed to
+be certain. In practice, these costs will exhibit uncertain features over the planning period which could have an impact on
+the result. Future research that takes into account the uncertainty in these costs is encouraged. A future study to determine
+the ﬁnancial incentive using an optimal approached is also encouraged. Also, most of the plant costs were taken from
+international reports such as the Energy Information Administration of the U.S. since local data was not available. In practice,
+plant costs tend to be lower in the U.S. than in developing economies, and could lead to higher electricity cost.
+Finally, it must be noted that the proposed tariff incentive cannot be a long-term solution to attracting private sector
+investment in renewable energy projects. The root cause hampering private sector participation such as market liberation,
+supporting regulation, stable government, and prompt payment if addressed would reduce the need for future incentive
+programs.
+
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial interests or personal relationships that could have
+appeared to inﬂuence the work reported in this paper.
+
+Acknowledgment
+We thank the University of Ghana Business School for the research grant that provided the needed funding for this
+research.
+
+Appendix A. Excerpts of the 20 simulated future electricity demand (in GWh) compared to the single national
+forecast of electricity demand (GWh) from 2021 to 2029, where for example Scen-5 and Scen-20 correspond to the
+demand scenario 5 and demand scenario 20, respectively. The proposed model uses all 20 demand scenarios in the
+analysis to better reﬂect the uncertainty in demand
+
+Year
+Scenario
+Scen-5
+Scen-10
+Scen-15
+Scen-20
+National forecast
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+20,737
+22,249
+21,604
+21,814
+20,773
+
+22,365
+24,421
+22,248
+23,276
+23,085
+
+23,779
+26,556
+23,889
+24,230
+24,363
+
+26,309
+28,337
+26,110
+27,127
+27,534
+
+28,179
+30,912
+28,653
+29,760
+28,560
+
+29,548
+32,658
+30,383
+32,361
+32,697
+
+32,100
+34,707
+34,158
+34,496
+36,863
+
+35,055
+37,072
+37,498
+35,230
+38,230
+
+37,885
+41,432
+40,708
+36,857
+39,698
+
+13
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+Appendix B. Generation capacity by all generators (in MW) at each target year when government undertakes the
+REMP with private sector participation at budget allocations of 0.5%, 0.75%, and 1% of GDP. Hydro++ refers to large
+hydro considered of legacy generators and not counted as part of Ghana’s renewable energy portfolio. Hydro+ refers
+to small hydro plant and part of the generators under the Ghana REMP
+
+Cumulative Generator Capacity (in MW)
+2021
+
+2025
+
+2030
+
+Budget
+
+Generator Type
+
+Private sector
+
+Govern- ment
+
+Private sector
+
+Govern- ment
+
+Private Sector
+
+Govern- ment
+
+0.5%
+of
+GDP
+
+Solar
+Wind
+Biomass
+Hydro+
+Hydro++
+CCGT
+OCGT
+Total Capacity
+Total RE Capacity
+Solar
+Wind
+Biomass
+Hydro+
+Hydro++
+CCGT
+OCGT
+Total Capacity
+Total RE Capacity
+Solar
+Wind
+Biomass
+Hydro+
+Hydro++
+CCGT
+OCGT
+Total Capacity
+Total RE Capacity
+
+322.25
+400
+50
+–
+-–
+-–
+–
+772.25
+772.25
+322.25
+300
+50
+–
+–
+–
+–
+672.25
+672.25
+322.25
+0
+0
+–
+–
+–
+–
+322.25
+322.25
+
+30
+0
+0
+0
+1425
+2809
+1039.6
+5303.6
+30
+30
+0
+0
+0
+1425
+2809
+1039.6
+5303.6
+30
+50
+0
+0
+0
+1425
+3109
+1039.6
+5623.6
+50
+
+1442.25
+400
+150
+–
+–
+–
+–
+1992.25
+1992.25
+482.25
+300
+150
+–
+–
+–
+–
+932.25
+932.25
+322.25
+300
+50
+–
+–
+—
+–
+672.25
+672.25
+
+30
+0
+0
+100
+1425
+3859
+1039.6
+6453.6
+130
+30
+0
+0
+100
+1425
+4909
+1039.6
+7503.6
+130
+190
+0
+100
+100
+1425
+5209
+1039.6
+8063.6
+390
+
+2392.25
+400
+150
+–
+–
+–
+-–
+2942.25
+2942.25
+672.25
+350
+150
+–
+–
+–
+–
+11,72.25
+1172.25
+372.25
+300
+50
+–
+–
+–
+722.25
+722.25
+
+30
+0
+0
+200
+1425
+5659
+1039.6
+8353.6
+230
+70
+0
+0
+200
+1425
+7759
+1039.6
+10,493.6
+270
+370
+50
+100
+200
+1425
+8809
+1039.6
+11,993.6
+720
+
+0.75%
+of
+GDP
+
+1%
+of
+GDP
+
+Appendix C. Generation capacity by all generator types (in MW) at each target year when government is forced to
+meet all demand. This is also under the assumption that there is suﬃcient ﬁnancial budget available to carry it
+through. As such, Eqs. (16) and (17) which relate to budget constraint are taken out when running the model.
+
+Generator Capacity (MW)
+Year
+
+Generator Type
+
+Private
+
+Government
+
+Total
+
+2021
+
+SOLAR
+WIND
+BIOMASS
+HYDRO+
+HYDRO++
+CCGT
+OCGT
+Total
+SOLAR
+WIND
+BIOMASS
+HYDRO+
+HYDRO++
+CCGT
+OCGT
+Total
+SOLAR
+WIND
+BIOMASS
+HYDRO+
+HYDRO++
+CCGT
+OCGT
+Total
+
+42.25
+0
+0
+–
+–
+–
+–
+42.25
+42.25
+0
+0
+–
+–
+–
+–
+42.25
+42.25
+0
+0
+–
+–
+–
+–
+42.25
+
+170
+0
+0
+200
+1425
+4309
+1039.6
+7143.6
+470
+300
+150
+200
+1425
+6109
+1039.6
+9693.6
+870
+350
+150
+200
+1425
+9559
+1039.6
+13,593.6
+
+212.25
+0
+0
+200
+1425
+4309
+1039.6
+7185.85
+512.25
+300
+150
+200
+1425
+6109
+1039.6
+9735.85
+912.25
+350
+150
+200
+1425
+9559
+1039.6
+13,635.85
+
+2025
+
+2030
+
+14
+
+A. Afful-Dadzie, S.K. Mensah and E. Afful-Dadzie
+
+Scientiﬁc African 17 (2022) e01353
+
+References
+[1] B. Aboagye, S. Gyamﬁ, E.A. Ofosu, S. Djordjevic, Status of renewable energy resources for electricity supply in Ghana, Sci. Afr. 11 (2021) e00660.
+[2] A. Afful-Dadzie, Global 100% energy transition by 2050: a ﬁction in developing economies? Joule 5 (7) (2021) 1641–1643.
+[3] A. Afful-Dadzie, A. Mallett, E. Afful-Dadzie, The challenge of energy transition in the global south: the case of electricity generation planning in Ghana,
+Renew. Sustain. Energy Rev. 126 (2020) 109830.
+[4] A. Afful-Dadzie, E. Afful-Dadzie, I. Awudu, J.K. Banuro, Power generation capacity planning under budget constraint in developing countries, Appl.
+Energy 188 (2017) 71–82.
+[5] Ajadi, T., Cuming, V., Boyle, R., Strahan, D., Kimmel, M., Logan, M., & McCrone, A. (2020). Global trends in renewable energy investment 2020. https:
+//www.fs- unep- centre.org/wp- content/uploads/2020/06/GTR_2020.pdf
+[6] I. Awudu, J. Zhang, Uncertainties and sustainability concepts in biofuel supply chain management: a review, Renew. Sustain. Energy Rev. 16 (2) (2012)
+1359–1368.
+[7] ECG (2019a)Ghana Renewable Energy Master Plan, The Energy Commission, Ghana, 2019a http://www.energycom.gov.gh/ﬁles/
+Renewable-Energy-Masterplan-February-2019.pdf.
+[8] ECG (2019b). 2020 Electricity supply plan for Ghana. https://energycom.gov.gh/ﬁles/2020%20Supply%20Plan%20Mid%20Year%20Review.pdf.
+[9] ECG (2020). 2021 Electricity supply plan for Ghana. https://energycom.gov.gh/ﬁles/2021%20Electricity%20Supply%20%20Plan_Final.pdf.
+[10] ECG (2020). National energy statistics 20 0 0–2019. http://energycom.gov.gh/ﬁles/2020%20ENERGY%20STATISTICS-revised.pdf
+[11] ECG (2022). The 2022 national energy statistics. https://energycom.gov.gh/ﬁles/2022%20Energy%20Statistics.pdf.
+[12] ECG (2011). Renewable energy act 2011. http://energycom.gov.gh/ﬁles/RENEWABLE%20ENERGY%20ACT%202011%20(ACT%20832).pdf.
+[13] EIA (2021). Cost and performance characteristics of new generating technologies, annual energy outlook 2021. https://www.eia.gov/outlooks/aeo/
+assumptions/pdf/table_8.2.pdf
+[14] EIA (2019). Levelized cost and levelized avoided cost of new generation resources in the annual energy outlook 2019. https://www.eia.gov/outlooks/
+aeo/pdf/electricity_generation.pdf.
+[15] S. Jin, S.M. Ryan, J.P. Watson, D.L. Woodruff, Modeling and solving a large-scale generation expansion planning problem under uncertainty, Energy
+Syst. 2 (3) (2011) 209–242.
+[16] IRENA, Renewable CapacityStatistics 2020, International Renewable Energy Agency (IRENA), Abu Dhabi, 2020a.
+[17] IRENARenewable Power Generation Costs in 2019, International Renewable Energy Agency, Abu Dhabi, 2020b.
+[18] IRENA (2015). Renewable energy target setting. Retrieved from: http://www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/IRENA_RE_Target_
+Setting_2015.pdf
+[19] A.R. Keeley, K.I. Matsumoto, Investors’ perspective on determinants of foreign direct investment in wind and solar energy in developing economies–Review and expert opinions, J. Clean. Prod. 179 (2018) 132–142.
+[20] E.N. Kumi, in: The Electricity Situation in Ghana: Challenges and opportunities, Center for Global Development, Washington, DC, 2017, p. 30.
+[21] P.T. Lam, A.O. Law, Financing for renewable energy projects: a decision guide by developmental stages with case studies, Renew. Sustain. Energy Rev.
+90 (2018) 937–944.
+[22] M. Mahama, N.S.A. Derkyi, C.M. Nwabue, Challenges of renewable energy development and deployment in Ghana: perspectives from developers,
+GeoJournal 86 (3) (2021) 1425–1439, doi:10.1007/s10708- 019- 10132- z.
+[23] E. Michalena, V. Kouloumpis, J.M. Hills, Challenges for Paciﬁc Small Island developing states in achieving their nationally determined contributions
+(NDC), Energy Policy 114 (2018) 508–518.
+[24] P. Nduhuura, M. Garschagen, A. Zerga, Impacts of electricity outages in urban households in developing countries: a case of Accra, Ghana, Energies 14
+(12) (2021) 3676.
+[25] N.A. Obeng-Darko, Why Ghana will not achieve its renewable energy target for electricity. Policy, legal and regulatory implications, Energy Policy 128
+(2019) 75–83.
+[26] PSEC (2010). Ghana wholesale power reliability assessment 2010. http://www.ecowrex.org/system/ﬁles/repository/2010_ghana- wholesale- powerreliability- assessment- gridco.pdf. [Accessed 20 July 2022].
+[27] The World Bank (2022). GDP (current US$) - Ghana. Retrieved on July 20, 2022 from: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=
+GHH.
+[28] The World Bank (2022). Access to clean fuels and technologies for cooking (% of population) - sub-Saharan Africa. https://data.worldbank.org/indicator/
+EG.CFT.ACCS.ZS?locations=ZG [Accessed 20 July 2022].
+[29] PURC (2016), Publication of Feed-in-Tariffs for Electricity Generated from Renewable Energy Sources. https://www.purc.com.gh/attachment/
+302019-20210309110342.pdf.
+
+15
+
+

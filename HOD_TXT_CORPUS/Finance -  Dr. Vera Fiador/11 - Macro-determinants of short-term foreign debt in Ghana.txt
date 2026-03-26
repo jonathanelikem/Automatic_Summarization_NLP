@@ -1,0 +1,1597 @@
+Cogent Economics & Finance
+
+ISSN: 2332-2039 (Online) Journal homepage: www.tandfonline.com/journals/oaef20
+
+Macro-determinants of short-term foreign debt in
+Ghana
+William Gabriel Brafu-Insaidoo, Ferdinand Ahiakpor, Fiador Vera Ogeh &
+Cantah William G. |
+To cite this article: William Gabriel Brafu-Insaidoo, Ferdinand Ahiakpor, Fiador Vera Ogeh &
+Cantah William G. | (2019) Macro-determinants of short-term foreign debt in Ghana, Cogent
+Economics & Finance, 7:1, 1630161, DOI: 10.1080/23322039.2019.1630161
+To link to this article: https://doi.org/10.1080/23322039.2019.1630161
+
+© 2019 The Author(s). This open access
+article is distributed under a Creative
+Commons Attribution (CC-BY) 4.0 license.
+Published online: 20 Jun 2019.
+
+Submit your article to this journal
+
+Article views: 2279
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=oaef20
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+FINANCIAL ECONOMICS | RESEARCH ARTICLE
+
+Macro-determinants of short-term foreign debt
+in Ghana
+William Gabriel Brafu-Insaidoo1, Ferdinand Ahiakpor1, Fiador Vera Ogeh2 and Cantah William G.1*
+Received: 05 December 2018
+Accepted: 28 May 2019
+First Published: 17 June 2019
+*Corresponding author: William
+G. Cantah, Department of Data
+Science and Economic Policy,
+University of Cape Coast, Ghana
+E-mail: william.cantah@ucc.edu.gh
+Reviewing editor:
+David McMillan, University of Stirling,
+Stirling, United Kingdom
+Additional information is available at
+the end of the article
+
+Abstract: This study tests the validity of the hypothesis that the regulatory and
+macroeconomic environments and the disparity between domestic and international
+interest rates are important determinants of short-term foreign debt stock in
+a developing economy like Ghana. This study employs a time series econometric analysis
+of annual secondary data covering the period 1970 to 2012. More specifically, the bounds
+testing approach is used to estimate the impact of potential determinants—identified in
+the theoretical and empirical literature—on the real stock of short-term foreign debt in
+Ghana. The study finds that a reduction in regulatory restrictions on external borrowing,
+a widening of the disparity between domestic and international interest rates, economic
+growth performance and domestic financial deepening lead to increases in the shortterm foreign debt stock in both the long and short run, respectively. The short-term
+foreign debt stock reduces in response to an increase in trade openness in the short run,
+and to international debt relief initiatives by multilateral development institutions in the
+long run.
+Subjects: Macroeconomics; International Finance; Public Finance
+Keywords: capital accounts liberalization; short-term foreign debt; foreign borrowing
+Subjects: F2; F3; F20; F21; F23; F34
+
+ABOUT THE AUTHORS
+
+PUBLIC INTEREST STATEMENT
+
+Dr. William G. Brafu-Insaidoo Senior Lecturer,
+Department of Data Science and Economic
+Policy, University of Cape Coast, Ghana.
+Research Interests are in the area of Public
+Sector Economics and Monetary Economics.
+Dr. Ferdinand Ahiakpor Senior Lecturer,
+Department of Data Science and Economic
+Policy, University of Cape Coast, Ghana.
+Research Interests are in the areas of Labour
+Economics and Monetary Economics.
+Dr. William G. Cantah Lecturer, Department of
+Data Science and Economic Policy, University of
+Cape Coast, Ghana. Research Interests are in
+the areas of International Economics, Finance
+and Monetary Economics.
+Vera Ogeh Fiador Senior Lecturer, Department
+of Finance, University of Ghana Business School,
+Ghana, Research Interest is in the areas of
+Financial Economics.
+
+The study sought analyses the extent to which
+regulatory restrictions, differences in the interest
+rate in Ghana and the rest of the world as well as
+Ghana’s macroeconomic environment affect
+Ghana’s short-term foreign debt stock. The study
+finds that a reduction in regulatory restrictions on
+external borrowing, a widening of the disparity
+between domestic and international interest
+rates, economic growth performance and
+domestic financial deepening lead to increases in
+the short-term foreign debt stock in Ghana. The
+short-term foreign debt stock reduces as Ghana
+increases its trade with the rest of the world.
+
+© 2019 The Author(s). This open access article is distributed under a Creative Commons
+Attribution (CC-BY) 4.0 license.
+
+Page 1 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+1. Introduction
+One of the focal points of the ongoing discussions about international financial integration has to
+do with measures to extend the maturity of foreign debt, as short-term debt is considered to be
+unstable. High shares of short-term debt may expose countries to risks of sudden capital flow
+reversals; to speculative currency attacks and to banking crises, which eventually leave the
+domestic economy with high costs of recessionary readjustments (Buch & Lusinyan, 2000).
+A number of studies, such as Furman and Stiglitz (1998) provide empirical support linking high
+short-term external debt ratios (and excessive build-up of short-term debt) to crises in a number of
+emerging markets. As a result of the possibility of the occurrence of crises from excessive shortterm debt accumulation, a number of countries in sub-Saharan Africa are making efforts to
+encourage long-term investments. Ghana is one of the exemplary cases of countries in subSaharan Africa that has been making efforts to lengthen the maturity of foreign capital through
+limited and selective capital accounts liberalization (Ishii & Habermeier, 2002). According to the
+World Bank’s World Development Indicators 2012 however, the country’s share of short-term debt
+in total foreign debt, and its share of short-term debt in total international reserves, has not only
+increased but also fluctuated over time (see Table 1 and Figure 1). This development has the
+tendency to increase the country’s susceptibility to sudden reversals in capital flows and exposure
+to external financial shocks. In addition, the rising trend in the share of short-term debt stock
+could mean that maintaining limited and selective external capital controls may not adequately
+cause a reduction in the more volatile short-term foreign debt. The policy challenge then is how to
+put in place measures that can reduce short-term debt and lengthen the maturity of foreign debt.
+Another challenge is the extent to which the external capital accounts should be liberalized.
+So far, very little work has been identified on the basic causes of rising shares of short-term
+external debt. The theoretical works include those by Broner, Lorenzoni, and Scmukler (2013),
+Balta, Fernandez, and Ruscher (2013), Kose and Prasad (2010), Makin (2004), Schmukler and
+Vesperoni (2006), Broner, Lorenzoni, and Scmukler (2004) and Mama (Mama, 2008). Different
+authors mention different factors as potential determinants of short-term foreign debt, and
+there is generally no consensus regarding the most important factors influencing short-term
+foreign debt or the maturity of foreign debt. Also, there are differences in the arguments on how
+each of the mentioned factors affects short-term foreign debt stock. Factors mentioned in the
+literature as potential determinants include information asymmetry, risks and uncertainties, term
+premium, economic growth, domestic financial development, trade, interest rate differentials and
+foreign borrowing regulations.
+
+Table 1. Unit root test results
+Augmented Dickey-Fuller
+(ADF)
+Variable
+
+Level form
+
+Debttst
+
+−0.6200
+
+libt
+IRDt
+
+First
+difference
+
+Phillip-Perron (PP)
+Level form
+
+First
+difference
+
+Order of
+integration
+I(d)
+
+−2.1723**
+
+−0.6355
+
+−6.8310**
+
+I(1)
+
+−0.1232
+
+−6.4979***
+
+−0.4181
+
+−6.5163***
+
+I(1)
+
+−1.7222
+
+−6.3158***
+
+−1.7829
+
+−6.3153***
+
+I(1)
+
+M2Qt
+
+−1.9997
+
+−6.0701***
+
+−1.8184
+
+−6.0722***
+
+I(1)
+
+TQt
+
+−3.5157*
+
+−5.3981***
+
+−2.2481
+
+−5.3981***
+
+I(1)
+
+Qpcgt
+
+−5.6726***
+
+drelt
+
+−0.1012
+
+−6.3157***
+−6.4251***
+
+−0.0870
+
+I(0)
+−6.5892***
+
+I(1)
+
+Note: ***, ** and * represent significance at the 1%, 5% and 10% level of significance, respectively. The computed test
+statistics were compared to the respective MacKinnon (1996) one-sided critical values for 1%, 5% and 10%. The
+existence of trend and intercept was assumed
+
+Page 2 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Schmukler and Vesperoni (2006), on one hand, contend that the relationship between capital
+account liberalization and the maturity of foreign debt is ambiguous and depends on a number of
+conditions. These conditions include the adequacy of information available to creditors and
+borrowers, the attitude of lenders towards risk, the adequacy of prudential regulations, the
+liquidity and quality of investments, growth opportunities, and the degree of development of
+domestic financial systems relative to international financial markets. Buch and Lusinyan (2003)
+and Schmukler and Vesperoni (2006) further argue that although advanced financial markets are
+characterized by a high degree of sophistication that creates incentives for short-term lending due
+to reduced costs in rolling over short-term debt, they may also create an opportunity for long-term
+lending as a result of better institutions. Zafar and Butt (2008), Tambunan and Indonesia (2006)
+and Buch and Lusinyan (2000; 2003) discuss the relationship between international trade and
+short-term foreign debt. They argue that although increased trade activities are normally associated with increased short-term foreign debt due to the fact that trade finance usually entails
+projects of a shorter duration, increased trade earnings could reduce the short-term debt stock of
+the exporting country due to the country’s improved capacity to service its external debt. Hence,
+the relationship between trade openness and the short-term debt stock of a country is ambiguous.
+The disparity between the domestic interest rate and the international rate is also mentioned in
+the literature as one of the causes of changes in a country’s short-term foreign debt stock. For
+instance, Makin (2004) explains that domestic interest rates in small open economies are usually
+higher than international rates due to uncertainties and country risk factors in the domestic
+economy. Broner et al. (2013; 2004) similarly maintain that emerging and developing economies
+borrow short-term due to the higher risk premium charged by international capital markets on
+long-term debt, changes in the bondholder’s risk aversion and in the country’s expected repayment capacity. Mama, 2008) likewise suggests that a small open economy borrower that has lower
+growth prospects is more willing to choose a short-term debt contract, which gives rise to an
+increase in its short-term indebtedness. In addition, a collection of studies by the International
+Monetary Fund in 2008 contend that the immediate impact of international debt relief initiatives is
+to reduce the level of debt stocks of beneficiary countries, especially the long-term debt stock.
+However, foreign lenders are willing to provide more long-term funds than short-term loans to the
+borrowing country because the reduced debt stock arising from the debt relief reduces the
+borrowing country’s risk of debt distress and creates additional room for fiscal spending and
+borrowing (refer to IMF, 2008a, 2008b).
+Empirical studies on the determinants of short-term foreign debt are also very few. These
+include Broner et al. (2013), Schmukler and Vesperoni (2006), Dasgupta and Ratha (2000) and
+Mama, 2008). The identified studies confirm the importance of the previously mentioned host of
+factors in the surveyed theoretical works. The identified studies similarly do not provide any
+conclusive evidence on the issue. The lack of consensus points to the obvious differentials in
+terms of the number of countries covered and the analytical approaches adopted in the studies.
+In addition, most of these studies are panel and cross-country studies.
+The lack of a consensus in both theory and empirical literature concerning the key determinants
+of short-term debt in emerging and developing economies necessitates case-by-case (countryspecific) studies to unravel the actual determinants of short-term foreign debt. One of the few
+identified country-specific studies is Rana (1998), which identified a liberal capital accounts regime
+coupled with a vast magnitude of sterilization measures as the primary cause of an upsurge in
+short-term debt in Chile and Colombia in the early 1990s. In addition, while related studies abound
+for Latin America, Asia and Europe (for example, see Dasgupta & Ratha, 2000; Rana, 1998;
+Cárdenas & Barreras, 1997; Mama, 2008) this is not necessarily the case for countries in subSaharan Africa. Moreover, country-specific studies in sub-Saharan Africa, such as an empirical
+investigation into the determinants of short-term foreign debt in Ghana, are yet to be identified.
+This study fills the research gap by investigating the long- and short-run determinants of shortterm foreign debt in Ghana. It focuses on examining the effect of changes in the regulatory
+Page 3 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+environment, interest rate disparity, and the domestic macroeconomic and financial environments
+on short-term foreign debt in Ghana. To achieve this objective, this study uses a time series
+econometric analysis technique. The intention is to provide evidence that can inform public policy
+on foreign debt in the country. The focus of the study is justified on the grounds that the foreign
+debt stock has contributed an average of 66.2% of total external financial liabilities of Ghana, and
+has constituted about 63.1% of overall GDP in the country during the period 2000 to 2011. In
+addition, the share of short-term debt in total foreign debt has risen sharply from 8.4% in 2001 to
+36% in 2006, and declined only marginally to 24.7% in 2011. The contribution of this study to
+research is that the selective or discriminatory liberalization of direct regulations on foreign
+borrowing, a widening of the disparity in interest rates, financial deepening and higher growth
+prospects increase the short-term foreign debt stock, whilst the international debt relief initiatives
+and increased trade openness reduce that stock in Ghana.
+
+2. Empirical model
+This section presents the empirical model to be estimated. From early discussions on the potential
+determinants of the real stock of short-term foreign debt derived from existing literature, the
+equation to be estimated is presented as follows:
+Debtst
+t ¼ β0 þ β1 libt þ β2 IRDt þ β3 M2Qt þ β4 TQt þ β5 Qpcgt þ þβ6 drelt þ ut
+
+(1)
+
+where:
+Debtst
+t = logarithm of the real stock of short-term foreign debt (in US$ million). Real stock of
+short-term foreign debt is calculated by deflating the nominal values with GDP deflator index
+(2000 =100; US$ series).
+libt = an index for intensity of restrictions on overseas borrowing is used as a proxy measure of
+external financial liberalization. The value ranges from ‘0ʹ to ‘4ʹ; with ‘0ʹ denoting outright prohibition,
+‘1ʹ representing existence of quantitative restrictions and requiring official approval from relevant
+authority, ‘2ʹ signifying the elimination of some quantitative restrictions, but the requirement for
+official approval is maintained, ‘3ʹ indicating no requirement of official approval, but authorities
+must be notified and some quantitative restrictions are maintained, and ‘4ʹ representing no requirement for official approval and no quantitative restrictions apply (see Appendix, Table A2 for information on chronology). The expected sign of its estimated coefficient is negative.
+IRDt = interest rate differential, measured by computing the disparity between the average
+6–12-month domestic Treasury bill rates and the average 6–12-month Treasury securities rates
+of the Group of 7 countries (the United States of America, Canada, the United Kingdom, France,
+Germany, Italy and Japan).
+M2Qt = domestic financial sector development/depth measured as broad money supply
+expressed as a share of GDP.
+TQt = international trade openness, measured as the sum of imports and exports expressed as
+a share of GDP.
+Qpcgt = GDP per capita growth (%).
+drelt = an index for international debt relief initiatives. The value reflects the number of debt
+relief initiatives the country has benefitted from. The value ‘0ʹ indicates that the country has not
+benefitted from any debt relief initiative, ‘1ʹ shows that the country has benefitted from one debt
+relief initiative, and the value ‘2ʹ means that the country has benefitted from two such initiatives.
+Ghana benefitted from the HIPC initiative between 2002 and 2005, and also from an additional
+debt relief, the MDRI, between 2006 and 2010.
+
+Page 4 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+The subscript “t” = 1, 2, T, where T = 43 years, spanning the sample period 1970 to 2012. The
+intercept β0 is the intercept and ut denotes the error term, indicating the unexplained component
+of the regression with respect to the real stock of short-term foreign debt.
+In view of the fact that inflation constitutes one of the reasons for the increase in the nominal
+values of external debt, the GDP deflator index (2000 =100; US$ series) was used to deflate the
+nominal values of short-term external debt to obtain an indicator for short-term external debt
+expressed in real terms. The objective of this empirical investigation is to provide estimates of the
+long-run relationships and short-run dynamics of Equation 1. To do this, we use the autoregressive
+distributed lag model approach.
+
+2.1. ARDL model specification
+The use of the autoregressive distributed lag (ARDL) model has several small sample econometric
+advantages over other techniques. One of the key advantages is that the bounds testing procedure
+does not require the pre-testing of the variables to establish their order of integration, in contrast
+with other techniques such as the Johansen and Juselius. (1990) approach. It is applicable and
+relevant irrespective of whether the series are integrated of order one (that is I(1)), of order zero
+(that is I(1)) or mutually cointegrated. A second advantage is that it produces more efficient and
+robust estimation results for small or finite sample data sizes. Another advantage of the ARDL
+approach is that the long-run coefficients is very consistent. The ARDL approach facilitates simultaneous testing for both short- and long-run relationships.
+Following Pesaran, Shin, and Smith (2001), the bounds testing procedure was conducted by respecifying Equation 1 as follows:
+st
+ΔDebtst
+t ¼ α0 þ c1 Debtt1 þ c2 libt1 þ c3 IRDt1 þ c4 M2Qt1 þ c5 TQt1 þ
+q
+
+q
+
+q
+
+c6 Qpcgt1 þ c7 drelt1 þ ∑i¼1 δi ΔDebtst
+ti þ ∑i¼1 θi Δlibti þ ∑i¼1 i ΔIRDti þ
+
+(2)
+
+∑qi¼1 Ψi ΔM2Qti þ ∑qi¼1 ηi ΔTQti þ ∑qi¼1 #i ΔQpcgti þ ∑qi¼1 Zi Δdrelti þ ut
+The notation Δ denotes the first difference of the variable. Prior to testing for the existence of
+a long-run relationship, a unit root test of the series was conducted to determine if they are
+integrated of order zero or one. The unit root test results indicated that some of the series are I(0)
+(that is integrated of order zero) whilst other series are I(1) (that is integrated of order one).
+Detailed results of the unit root tests are presented in Table 1. Consequently, we proceeded to
+conduct ARDL bounds testing for the existence of a long-run relationship among the series. The
+first stage of the bounds testing procedure involved testing for the existence of a long-run
+relationship in Equation 2 using the ordinary least squares (OLS) method, taking into consideration
+the optimum-lag-length order of each short-run variable. Given the existence of a long-run
+relationship, the following conditional ARDL long-run model is estimated using OLS.
+p
+
+q1
+q2
+q3
+q4
+st
+Debtst
+t ¼ α0 þ ∑i¼1 c1 Debtti þ ∑i¼0 c2 libti þ ∑i¼0 c3 IRDti þ ∑i¼0 c4 M2Qti þ ∑i¼0 c5 TQti
+q5
+
+q6
+
+þ ∑i¼0 c6 Qpcgti þ ∑i¼0 c7 drelti þ ut
+
+(3)
+
+All variables are as previously defined. This involved selecting the orders of the ARDL (p, q1, q2, q3,
+q4, q5, q6) model in the seven variables using the Akaike information criteria (AIC) and SchwartzBayesian criterion.
+The third stage involved estimating an error-correction model associated with the long-run
+estimates and based on identifying the optimum lag length of each variable. The estimated
+error correction model (ECM) is as follows:
+q
+
+q
+
+q
+
+q
+
+st
+ΔDebtst
+t ¼ v þ ∑i¼1 δi ΔDebtti þ ∑i¼1 θi Δlibti þ ∑i¼1 i ΔIRDti þ ∑i¼1 Ψi ΔM2Qti
+q
+q
+q
+þ ∑i¼1 ηi ΔTQti þ ∑i¼1 #i ΔQpcgti þ ∑i¼1 Zi Δdrelti þ λecmt1 þ ut
+
+(4)
+
+Page 5 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Here v is the unrestricted intercept; δ, θ, , Ψ, η, # and Z are the short-run dynamic coefficients, and
+λ is the speed of adjustment towards the equilibrium.
+
+2.2. Data sources
+Annual time series (secondary) data collected from various sources were used for the study. These
+sources include the External Resource Mobilization Division of the Ministry of Finance and
+Economic Planning, Bank of Ghana’s Quarterly Bulletin (various issues), the World Bank’s World
+Development Indicators, and International Debt Statistics database. Qualitative information on
+direct domestic regulations on foreign borrowing was sourced from various IMF publications
+including the Annual Reports on Exchange Arrangements and Exchange Restrictions (various
+issues). The study period is from 1970 to 2012.
+
+3. Results and interpretation
+This section presents and discusses the estimation results. The analysis tests the validity of the
+hypothesis that risk and uncertainty factors and the regulatory environment are important determinants of short-term foreign debt.
+
+3.1. Pre-estimation test results
+This study reports research findings based on the estimation of the short-term foreign debt
+equation. The analysis begins with an investigation of the time series properties of the data
+used in the estimation exercise. This is followed by a test for (weak) exogeneity to enable us to
+draw an inference about causality.
+
+3.2. Time series properties of data
+Table 1 reports the results of the test for a unit root (non-stationary) null hypothesis (H0) against
+a stationary alternative (H1). All the variables are either I(0) or I(1). The series for domestic output
+growth is I(0) whilst the series for short-term foreign debt, liberalization, interest rate differential,
+domestic financial depth, external trade openness and debt relief are I(1). Consequently, the
+pretest results support the choice of the ARDL bounds test approach.
+
+3.3. Weak exogeneity test
+The model specification of the estimation equation suggests that, with the exception of the domestic
+credit to the private sector ratio, all the independent variables are at least weakly exogenous. To test
+the validity of this assumption, this study used EViews econometric software to conduct the pairwise
+Granger causality test on the individual independent variables of the estimation equation at a 5%
+significance level (Granger & Hyung, 2004). This is used in testing for strong exogeneity. We tested for
+strong exogeneity because the presence of strong exogeneity necessarily implies that weak exogeneity also exists (Johnston & DiNardo, 1997). The F-statistics and their corresponding probability
+values shown in Table A1 indicate that the dependent variable does not Granger-cause any of the
+independent variables. This reveals that Ghana has not experienced strong feedback effects from:
+short-term foreign debt to liberalization of direct regulations on foreign borrowing, the interest rate
+differential, domestic financial deepening trade openness, domestic output growth and an international debt relief initiative. Thus, the assumption of strong exogeneity is validated.
+The next stage involved the times series analysis, comprising the bounds testing for the existence of a long-run relationship between the dependent variable, short-term foreign debt and the
+independent variables, namely the liberalization index for direct regulations on foreign borrowing,
+the interest rate differential, domestic financial depth indicator, trade openness indicator, domestic output growth rates and an indicator for an international debt relief initiative.
+
+3.4. ARDL bounds testing
+The error-correction form of the ARDL model for the relevant equation was estimated in two stages.
+First, using the unrestricted Vector Auto-Regression (VAR) approach and the minimum lag order
+criteria, the Schwarz Bayesian Criteria (SBC) lag order selection process identified the one-period lag
+Page 6 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Table 3. Estimated long-run coefficients using the ARDL approach
+Equation 3: ARDL (1, 0, 0, 0, 0, 0, 0) selected based on Schwarz Bayesian Criterion. Dependent
+variable is Debttst
+Regressor
+
+Coefficient
+
+Standard error
+
+T-ratio
+
+T-probability
+
+−2.477
+
+1.268
+
+−1.954
+
+0.059
+
+α
+lib
+
+1.975
+
+0.825
+
+2.395
+
+0.022
+
+IRD
+
+0.166
+
+0.070
+
+2.375
+
+0.023
+
+TQ
+
+−0.061
+
+0.038
+
+−1.585
+
+0.122
+
+M2Q
+
+0.182
+
+0.091
+
+1.999
+
+0.054
+
+Qpcg
+
+0.146
+
+0.085
+
+1.716
+
+0.095
+
+drel
+
+−1.129
+
+0.647
+
+−1.744
+
+0.090
+
+as appropriate for variables for the short-term foreign debt equation. Results of the computed Wald’s
+F-test statistics on the null hypothesis of no-cointegration between the lagged level variables
+(Ho : c1 ¼ c2 ¼ c3 ¼ c4 ¼ c5 ¼ c6 ¼ c7 ¼ 0) were compared to specific asymptotic critical values
+bounds as in Table C1(iii) of Pesaran et al. (2001, pp. 303) to determine one of three possible outcomes.
+The computed F-statistic was found to be above the upper-bound critical values at a 10% level
+of significance. The computed F-tests for the joint significance of lagged levels of variables in
+Equation 2 are recorded in Table 2. There is strong evidence of co-integration because the
+computed F-statistic is 3.0325, which is greater than the critical value of the upper limit of the
+bound at the 10% level of significance for the short-term foreign debt function. Thus, there is
+a long-run relationship between Debtst
+t , libt , IRDt , Qpcgt , TQt , M2Qt and drelt .
+
+3.5. Long-run estimates
+Given the existence of a long-run relationship, the ARDL approach was used to compute the longrun estimates. The SBC determined a maximum-order lag length of one for the level variables to
+minimize the loss in the degree of freedom. Results of the estimated long-run elasticities for
+Equation 3 are reported in Table 3. With the exception of the trade openness indicator, all
+independent variables have statistically significant coefficients in the long-run model. The estimated coefficients for the liberalization index, interest rate differential, domestic financial depth
+and domestic output growth are statistically significant at the 10% level and have a positive sign,
+whilst the estimated coefficient for the international debt relief initiative indicator is also statistically significant at the 10% level, but has a negative sign.
+A 1% increase in the liberalization index leads to an approximate 1.98% increase in short-term
+foreign debt. The estimated results suggest that the liberalization of direct restrictions on foreign
+borrowing increases the short-term debt stock. The results are consistent with the findings of
+Schmukler and Vesperoni (2006) for 7 Latin American and South East Asian countries, that liberalization
+leads to more short-term debt. A possible explanation for the finding could be the absence of adequate
+macroeconomic and financial policies, such as prudent fiscal policies, to support the liberalization effort.
+A 1% increase in the interest rate differential causes an increase in short-term foreign debt by
+approximately 0.17%. This suggests that an increase in the domestic interest rate relative to the
+global interest rate causes an increase in the short-term debt stock. A plausible explanation for
+this is that the increase in the domestic interest rate relative to the international rate makes the
+cost of borrowing from domestic sources more costly than from foreign sources, hence creating an
+incentive for the borrowing country to borrow from foreign sources. The estimation result is
+consistent with the findings by Verma and Prakash (2011) for India that an increase in the interest
+rate differential induced a rise in external commercial borrowing.
+
+Page 7 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Table 2. Results of bound test
+Dependent
+variable
+
+Independent variables
+
+F-Statistic
+
+Probability
+
+Debttst
+
+M2Qt , TQt , libt , Qpcgt , IRDt , drelt
+
+3.0325
+
+0.017
+
+TQt ,
+
+Debttst , M2Qt , libt , Qpcgt , IRDt , drelt
+
+2.0043
+
+0.092
+
+M2Qt
+
+Debttst , TQt , libt , Qpcgt , IRDt , drelt
+
+1.9903
+
+0.094
+
+libt
+
+Debttst , M2Qt , TQt , Qpcgt , IRDt , drelt
+
+1.2402
+
+0.316
+
+Qpcgt
+
+Debttst , M2Qt , TQt , libt , IRDt , drelt
+
+4.3656
+
+0.002
+
+IRDt ,
+
+Debttst , M2Qt , TQt , libt , Qpcgt , drelt
+
+0.8775
+
+0.537
+
+drelt
+
+Debttst , M2Qt , TQt , libt , Qpcgt , IRDt
+
+3.0603
+
+0.017
+
+Bounds critical value
+Critical value
+
+Lower bound
+
+Upper bound
+
+1%
+
+2.595
+
+3.909
+
+5%
+
+2.003
+
+3.199
+
+10%
+
+1.718
+
+2.837
+
+Notes: Asymptotic critical values are obtained from Pesaran and Pesaran (2009: 564); Table B1 of case II: No trend and
+no intercept for K = 7.
+
+Contrary to expectation, the estimated coefficient for financial deepening is also statistically
+significant and has a positive sign. A 1% increase in the financial deepening indicator leads to an
+approximate 0.15% rise in the stock of short-term foreign debt. This means that as domestic
+financial markets become deeper the stock of short-term external debt increases. The result is
+similar to the findings by Mama (2008) and Rodrik and Velasco (1999) for 33 emerging economies
+and 32 emerging-market economies, respectively, that financial deepening increases short-term
+debt stock due to increased financial sophistication which increases the demand and supply for
+maturity-transformation services.
+The estimated coefficient for domestic output growth is also statistically significant at 10% and
+has a positive sign. A 1% increase in the rate of output growth causes a rise in the stock of shortterm foreign debt by approximately 0.15%. The result contradicts the finding by Mama (2008) for
+33 emerging economies that a country with a lower growth rate faces comparatively greater
+certainty and hence greater certainty over future resources and, therefore, is less willing to opt for
+short-term debt. A plausible explanation could be that, in the case of Ghana, higher growth rates
+are associated with greater certainty in the price of financial instruments and, consequently, more
+certainty in future resources. A persistently higher output growth rate is therefore perceived to
+mean higher future growth prospects and returns.
+The estimated coefficient for the international debt relief initiative indicator is also statistically
+significant at 10%, but has a negative sign. A 1% increase in debt relief causes a reduction in the
+short-term debt stock by 1.13%. The result confirms the expectation that the immediate impact of
+debt relief is to reduce the level of debt stock of the beneficiary country.
+Most surprisingly, this study does not find any significant relationship between trade openness
+and short-term debt. The estimated coefficient has a negative sign, suggesting that more open
+economies tend to borrow less in the short term. This contradicts the idea that short-term
+borrowing is driven in part by trade credits. A possible explanation is that increased openness to
+international trade tends to make the borrowing country more creditworthy based on the fact that
+they have more to lose from defaulting on their debt, can readily provide collateral to their
+creditors and, consequently, tend to be less credit-rationed in the market for long-term finance.
+Page 8 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+As such, the borrowing small open economy tends to have lower levels of short-term debt and
+higher levels of long-term debt. The obvious conclusion is that the levels of short-term debt that
+are observed in the country are only weakly, if at all, related to international trade in the long run.
+The estimated result for trade openness is similar to the findings by Rodrik and Velasco (1999).
+
+3.6. Analysis of short-run dynamic model
+The estimation results for the error correction representation for the selected ARDL model specified in Equation 4 are presented in Table 4. The signs of the short-run dynamic impacts of the
+independent variables are maintained in the long run. The liberalization and interest rate differential variables are significant at the 10% and 1% levels, respectively, supporting the findings that
+the easing of regulatory restrictions on overseas borrowing and the widening of the disparity
+between domestic and international interest rates increase the accumulation of short-term foreign
+debt. The results are consistent with the findings of Schmukler and Vesperoni (2006) for seven
+Latin American and South East Asian countries, and Verma and Prakash (2011) for India.
+Trade openness has a significant short-run effect on short-term foreign debt stock but contradicts the assertion that short-term borrowing is in part driven by trade credit and is not consistent
+with the finding by Buch and Lusinyan (2000) that international trade drives up short-term foreign
+debt through increased trade credit. A possible explanation is that increased trade openness
+improves the capacity of the country to service its external debt obligations and, consequently,
+reduces the country’s short-term external indebtedness in the short run. The coefficient for
+domestic financial depth is statistically significant at the 5% level and has a positive sign,
+suggesting that an increase in domestic financial deepening also leads to the accumulation of
+short-term foreign debt in the short run. The result is similar to the findings by Mama (2008) and
+Rodrik and Velasco (1999) for 33 emerging economies and 32 emerging-market economies,
+respectively.
+The estimated coefficient for change in domestic output growth is statistically significant at the
+5% level and has a positive sign. Despite the statistical significance, the economic significance is
+small. The result suggests that an increase in domestic output growth contributes significantly to
+the accumulation of short-term foreign debt in Ghana and contradicts the finding by Mama (2008),
+which suggests that short-term foreign debt is negatively correlated with economic growth for 33
+emerging economies. The indicator for international debt relief is not statistically significant in the
+short-run model, but maintains the sign of impact in the long run. A possible reason could be the
+Table 4. Error correction representation for selected ARDL model
+ARDL (1, 0, 0, 0, 0, 0, 0) selected based on SBC. Dependent variable is ΔDebttst
+Regressor
+
+Coefficient
+
+Standard error
+
+T-ratio
+
+T-probability
+
+v
+
+−0.893
+
+0.448
+
+−1.991
+
+0.055
+
+Δlib
+
+0.712
+
+0.368
+
+1.932
+
+0.062
+
+ΔIRD
+
+0.060
+
+0.021
+
+2.885
+
+0.007
+
+ΔTQ
+
+−0.022
+
+0.011
+
+−2.026
+
+0.051
+
+ΔM2Q
+
+0.066
+
+0.027
+
+2.932
+
+0.022
+
+ΔQpcg
+
+0.053
+
+0.025
+
+2.140
+
+0.040
+
+Δdrel
+
+−0.407
+
+0.251
+
+−1.620
+
+0.114
+
+ecmt1
+
+−0.361
+
+0.120
+
+−3.000
+
+0.005
+
+ecm = Debtst + 0.060526*TQ—0.18,201*M2Q—1.9751*lib—0.1463*Qpcg—0.1663*IRD + 1.1287*drel + 2.4771*α
+R-squared = 0.373 Adj. R-squared = 0.244 F-stat. (7, 34) = 2.894[0.017]
+SER = 0.604 RSS = 12.397 DW-statistic = 2.062
+Akaike Info. Criterion = −41.970 Schwarz Bayesian Criterion = −48.921
+
+Page 9 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Table 5. ARDL-ECM model diagnostic tests
+Test statistics
+
+LM version
+
+F version
+
+Serial correlation
+
+χ2 (1) = 0.104[0.747]
+
+F(1, 33) = 0.08191[0.777]
+
+Functional form
+
+χ2 (1) = 0.1726[0.678]
+
+F(1, 33) = 0.13,613[0.715]
+
+Normality
+
+χ2 (2) = 3.6544[0.161]
+
+Heteroscedasticity
+
+χ2 (1) = 0.0589[0.808]
+
+F(1, 40) = 0.056[0.814]
+
+fact that the immediate expected impact of international debt relief is to reduce the long-term
+debt stock of beneficiary countries and hence may not impact on the short-term debt of the
+beneficiary country’s foreign debt stock. The respective coefficient of the error correction term is
+negative and significant at the 1% level of significance, implying a fairly high speed of adjustment
+to equilibrium after a shock. About 41% of the deviations or disequilibria from the previous year’s
+shock (that is, whenever short-term foreign debt overshot its long-run equilibrium values) were
+corrected in the current year or converge with the long-run equilibrium in the current year.
+The regression for the underlying ARDL Equation 2 passes the diagnostics tests against serial
+correlation, functional form misspecification, non-normal errors and heteroscedasticity. This suggests that the underlying ARDL equation is a good fit. The results of the diagnostic tests for the
+underlying ARDL equation are presented in Table 5. The cumulative sum (CUSUM) and cumulative
+sum of squares (CUSUMQ) plots from a recursive estimation of the model, shown as Figures A1 and
+A2, and also indicate stability in the coefficients over the sample period.
+
+4. Conclusions and policy recommendations
+As part of a broad macroeconomic and financial sector reform strategy, Ghana has liberalized its
+external capital account transactions since the mid-1990s. The process of liberalization has been
+gradual and well-sequenced, and has included the reduction in regulatory restrictions on overseas
+borrowing. However, due to concerns for vulnerability to shocks, some restrictions have been kept,
+suggesting that the liberalization of the capital account transactions has been partial with some
+selective controls remaining, which include direct restrictions on the minimum length of maturity of
+government debt securities and money market instruments purchased and held by foreign residents.
+In addition, the liberalization of the capital account transactions has been carried out alongside
+a successful completion of a macroeconomic stabilization programme, an improvement in the country’s creditworthiness through debt relief and debt reduction, and wide-ranging institutional reform
+measures. Although one of the aims for these measures is to reduce the short-term end of foreign
+capital, the past two decades has witnessed a rise in the contribution of short-term debt to the total
+foreign debt stock in Ghana and are at levels higher than those of the 1970s and 1980s. This raises the
+question of whether reducing regulatory restrictions on foreign borrowing and pursuing complementing reform measures to improve the macroeconomic environment are prudent measures for managing and influencing the length of maturity of foreign capital in the country.
+
+4.1. Conclusions and implications
+In this study, an effort has been made to analyze the nature of the impact of liberalization of
+overseas borrowing and interest rates on short-term foreign debt in Ghana. An effort has also been
+made to examine the contributions of domestic financial depth, external trade openness and
+economic performance to the levels and accumulation of short-term external debt in Ghana. This
+was achieved by adopting a robust times series approach to quantitatively determine the nature of
+the impact of reductions in overseas borrowing regulations on short-term foreign debt in Ghana.
+Overall, the findings of the study fail to confirm the hypothesis that a selective liberalization of
+restrictions on the capital account transactions that entail easing restrictions on long-term capital
+
+Page 10 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+but maintaining some restrictions on short-term capital leads to a reduction in short-term foreign
+debt. In both the short- and long-run scenarios, liberalization leads to an increase in the stock of
+short-term foreign debt in Ghana. The findings of the study point to the difficulties with disaggregating short-term foreign debt. Even though the maintenance of some restrictions on shortterm borrowing is targeted at the minimum maturity of central government debt, the difficulty
+with determining the exact composition of short-term debt distorts the possibility of knowing the
+specific impact of the selective restrictions on specific aspects of short-term foreign debt. This is
+especially so when central government short-term debt may just be a fraction of the total public
+sector short-term foreign debt. The maintenance of some restrictions on short-term foreign debt,
+namely that foreign residents are not allowed to purchase money market instruments and
+government securities with a maturity of less than three years, applies to and may directly reduce
+short-term foreign borrowing of the central government. However, its impact on other public
+sector short-term borrowing and private sector short-term borrowing is not clear. For instance,
+commercial banks and other credit institutions, importers and exporters, among other resident
+organizations, also borrow from overseas. It is not clear how much of their foreign borrowing
+activities form part of the total short-term foreign debt profile of the country. The implication of
+this is that easing restrictions on long-term capital and maintaining some restrictions on shortterm borrowing (which apply to central government borrowing via the minimum maturities of
+Treasury bills and Government securities) may be effective in reducing short-term government
+foreign debt but may not be effective in reducing other short-term public sector foreign debt and
+short-term private sector foreign debt.
+The finding of the study confirms the hypothesis that a widening of the interest rate differential
+increases the short-term foreign debt stock. In the short- and long-run, an increase in the
+domestic interest rate relative to international rates leads to an increase in short-term foreign
+debt in Ghana. An increase in the domestic interest rate relative to international rates leads to
+lower costs of borrowing from overseas. Domestic borrowers find it cheaper to borrow from
+overseas and hence substitute foreign borrowing for domestic loans, whilst foreign lenders
+demand higher interest rates on domestic currency-denominated debt instruments from the
+borrowing economy as a condition for meeting the foreign borrowing requirements of domestic
+borrowers. Consequently, the actual amount of foreign borrowing increases when the domestic
+interest rate is in excess of the international interest rate.
+The study also finds that increased trade openness leads to a reduction in the short-term foreign
+debt stock in the short run. A possible explanation is that increased trade openness improves the
+country’s capacity to service its short-term external debt obligations. Furthermore, the analysis
+suggests that increased domestic financial deepening causes an increase in the short-term foreign
+debt stock of the country. The increase in domestic financial depth could just be a reflection of
+increased trade volumes in the domestic financial market and an expansion of the domestic
+financial market dominated by financial institutions that deal more in short-term assets and
+liabilities, and consequently engage in short-term external borrowing. In addition, an increase in
+domestic output growth causes a rise in the level and accumulation of short-term foreign debt
+stock in Ghana. An increase in domestic output growth causes growth in the short-term foreign
+debt stock possibly by increasing aggregate expenditure with high import content, leading to an
+increase in demand for foreign exchange which in part may lead to an increase in short-term
+foreign borrowing to finance the rising imports. This could be a reason why increased trade
+openness leads to a reduction in short-term foreign debt in the short run but does not have any
+significant impact in the long run. Lastly, the debt relief initiative reduces the country’s short-term
+external debt in the long run, probably due to the overall reduction in the country’s external debt
+stock and subsequent reduction in debt-related risks, which in turn attracts longer-term
+investments.
+
+Page 11 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+4.2. Policy recommendations
+From the results, a policy suggestion for the management of short-term foreign debt in Ghana will
+be to impose indirect “market-based” regulations, such as introducing unremunerated reserve
+requirements or some form of levy, on other public sector and private sector short-term foreign
+borrowing. This will raise the transaction costs of short-term foreign borrowing, limit their attractiveness and thereby discourage and reduce the volume of such transactions. The imposition of
+direct restrictions on the minimum maturity of money market instruments and government bonds
+purchased and held by non-residents is not an adequate measure to effectively reduce the shortterm foreign debt stock of the country.
+In the case of the interest rate differential, government or the relevant authorities must pursue
+measures that help to improve the domestic investment environment to the extent that they reduce
+country risk factors such as high rates of inflation and the rapid accumulation of government domestic
+debt. Regarding the impact of increased trade openness, measures to promote greater international
+trade could help to improve the country’s capacity to reduce its short-term external indebtedness
+through increased exports. On the subject of the impact of domestic financial deepening, policy
+measures must be directed at developing and strengthening the bonds and equities markets to
+encourage financial institutions to increase their dealings in longer-term assets and make the holding
+of shorter-term assets more costly. Measures that also help to further improve the liquidity and
+efficiency of the markets and enhance the quality of the institutional and regulatory framework are
+also recommended. This recommendation is premised on the finding that short-term foreign debt
+increases with domestic financial deepening in the short- and long-run when we consider an indicator
+for financial deepening as the only variable for financial development in the model. An increase in
+domestic output growth can lead to reduction in short-term foreign debt if measures can be taken to
+reduce the high import content of rising aggregate expenditures, for instance by making competitive
+consumer imports more costly and encouraging local substitutes.
+Acknowledgement
+I, the first author, (William Gabriel Brafu-Insaidoo), wishes
+to express my deep appreciation to African Economic
+Research Consortium (AERC) for the financial support to
+carry out this research.
+I am also grateful to the resource persons and members of AERC’s thematic group B for various comments
+and suggestions that helped the evolution of this study
+from its inception to completion. I am indebted to the
+anonymous referees who reviewed the paper and provided comments and suggestions that helped in shaping
+and improving the overall quality of the paper. The findings made and opinions expressed in this paper are exclusively those of the author(s). The authors are also solely
+responsible for content and any errors.
+Funding
+The authors received no direct funding for this research.
+Author details
+William Gabriel Brafu-Insaidoo1
+Ferdinand Ahiakpor1
+E-mail: fahiakpor@ucc.edu.gh
+Fiador Vera Ogeh2
+E-mail: vsoli@ug.edu.gh
+Cantah William G.1
+E-mail: william.cantah@ucc.edu.gh
+1
+Department of Economics, University of Cape Coast,
+Cape Coast, Ghana.
+2
+Department of Finance, University of Ghana Business
+School, Legon-Accra, Ghana.
+Authors’ Statement
+The research focus of the authors are in the area of
+macroeconomic policy and modelling, public debt analysis, monetary policy and international Finance.
+
+Citation information
+Cite this article as: Macro-determinants of short-term
+foreign debt in Ghana, William Gabriel Brafu-Insaidoo,
+Ferdinand Ahiakpor, Fiador Vera Ogeh & Cantah William
+G., Cogent Economics & Finance (2019), 7: 1630161.
+Correction
+This article has been republished with minor changes.
+These changes do not impact the academic content of
+the article.
+References
+Balta, N., Fernandez, I. V., & Ruscher, E. (2013, June).
+Assessing the impact of uncertainty on consumption
+and investment. Quarterly Report on the Euro Area,
+12(2), 7–16.
+Broner, A., Lorenzoni, G., & Scmukler, S. L. 2004. Why do
+emerging economies borrow short term? Policy
+Research Working Paper Series 3389. Washington, D.
+C: The World Bank.
+Broner, A., Lorenzoni, G., & Scmukler, S. L. (2013). Why do
+emerging economies borrow short term? Journal of
+European Economic Association, 11(S1), 67–100.
+doi:10.1111/j.1542-4774.2012.01094.x
+Buch, C., & Lusinyan, L. 2000. Determinants of short-term
+debt. Kiel Working Paper No. 994. Kiel Institute of
+World Economics, Kiel.
+Buch, C., & Lusinyan, L. (2003). Determinants of
+short-term debt: A note. Journal of International
+Financial Markets, Institutions, and Money, 13,
+157–170. doi:10.1016/S1042-4431(02)00042-2
+Cárdenas, M., & Barreras, F. (1997). On the effectiveness
+of capital controls: The experience of Colombia during the 1990s. Journal of Development Economics, 54,
+27–57. doi:10.1016/S0304-3878(97)00028-X
+
+Page 12 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Dasgupta, D., & Ratha, D. 2000. What factors appear to drive
+private capital flows to developing countries? And how
+does official lending respond? World Bank Working
+Paper No. 2392. Washington, D.C: World Bank.
+Furman, J., & Stiglitz, J. E. (1998). Economic crises: Evidence
+and insights from East Asia. Brookings Papers on
+Economic Activity, 2, 1–135. doi:10.2307/2534693
+Granger, C. W. J., & Hyung, N. (2004). Occasional structural
+breaks and long memory with an application to the S&P
+500 absolute stock returns. Journal of Empirical Finance,
+11, 399–421. doi:10.1016/j.jempfin.2003.03.001
+International Monetary Fund. (2008a, April). Regional
+economic outlook: Sub-Saharan Africa. In World
+economic and financial surveys. Washington, D.C.
+International Monetary Fund. 2008b. Ghana: Selected issues.
+IMF Country Report No. 08/332. Washington, D.C: Author.
+Ishii, S., & Habermeier, K. 2002. Capital account liberalization and financial sector stability. IMF Occasional Paper
+211. Washington, D.C: International Monetary Fund.
+Johansen, S., & Juselius., K. (1990). Maximum likelihood estimation and inference on cointegration – With application
+to the demand for money. Oxford Bulletin of Economics
+and Statistics, 52, 169–210. doi:10.1111/j.14680084.1990.mp52002003.x
+Johnston, J., & DiNardo, J. (1997). Econometric methods
+(4th ed.). Columbus: McGraw-Hill publishers
+Kose, M. A., & Prasad, E. (2010, November). Emerging
+markets: Resilience and growth amid global turmoil.
+Washintin, D.C.: Brookings Institution.
+MacKinnon, J. G. (1996). Numerical distribution functions for unit root and cointegration tests. Journal
+of Applied Econometrics, 11, 601–618.
+doi:10.1002/(ISSN)1099-1255
+Makin, A. J. (2004, March). Decomposing interest rate
+differentials: An international borrowing and lending
+approach. Journal of Economic Integration, 19(1),
+192–203. doi:10.11130/jei.2004.19.1.192
+
+Mama, A. T. (2008, December). On the maturity structure
+of foreign debt contracts in emerging countries.
+Choice of contract maturity with applications to
+international and mortgage lending, Thesis presented to the Faculty of Social Sciences for the award
+of PhD in Economic Sciences, Chapter 3(pp. 62–89).
+Canada: University of Montreal.
+Pesaran, B., & Pesaran, H. M. (2009). Time series econometrics
+using microfit 5.0. Oxford: Oxford University Press.
+Pesaran, H. M., Shin, Y., & Smith, R. J. (2001). Bounds
+testing approaches to the analysis of level
+relationships. Journal of Applied Econometrics, 16,
+289–326. doi:10.1002/jae.616
+Rana, P. B. 1998. Controls on short-term capital inflows –
+the Latin American experience and lessons for DMCs.
+EDRC Briefing Notes 2, September (Asian
+Development Bank Economics and Development
+Resource Centre).
+Rodrik, D., & Velasco, A. 1999. Short-term capital
+flows. NBER Working Paper 7364. National Bureau
+of Economic Research (NBER), Cambridge, MA.
+Schmukler, S., & Vesperoni, E. (2006). Financial globalization and debt maturity in emerging economies.
+Journal of Development Economics, 79, 183–207.
+doi:10.1016/j.jdeveco.2004.12.006
+Tambunan, T., & Indonesia, K. (2006). Trade and debt
+interlinkages: What are the real problems in
+Indonesia? Retrieved from www.kadinindonesia.or.
+id/en/doc/opini/Trade_And_Debt_Interlinkages.pdf
+Verma, R., & Prakash, A. 2011. Sensitivity of capital flows
+to interest rate differentials: An empirical assessment for India. RBI Working Paper WPS(DEPR): 7/
+2011. Reserve Bank of India, Mumbai. May.
+Zafar, S., & Butt, M. S. 2008. Impact of trade liberalization
+on external debt burden: Econometric evidence from
+Pakistan. MPRA Paper No. 9548. Munich: Personal
+RePEc Archive.
+
+Appendix
+
+Table A1. Pairwise Granger causality test
+Null Hypothesis Obs Chi-squared Probability
+1. libt does not granger cause Debttst
+
+45
+
+2. Debttst does not granger cause libt
+3. IRDt does not granger cause Debttst
+
+0.1520
+
+45
+
+10.7393
+
+0.0010
+
+0.1703
+
+0.6799
+
+45
+
+5.9011
+
+0.0151
+
+0.5052
+
+0.4772
+
+3.5621
+
+0.0591
+
+6. Debttst does not granger cause TQt
+M2Qt does not granger cause Debttst
+
+45
+
+Debttst does not granger cause M2Qt
+Qpcgt does not granger cause Debttst
+
+1.7919
+
+0.1807
+
+45
+
+0.0155
+
+0.9011
+
+0.0030
+
+0.9561
+
+45
+
+0.3595
+
+0.5488
+
+2.5076
+
+0.1133
+
+Debttst does not granger cause Qpcgt
+drelt does not granger cause Debttst
+
+0.0589
+
+2.0521
+
+4. Debttst does not granger cause IRDt
+5. TQt does not granger cause Debttst
+
+5.5677
+
+Debttst does not granger cause drelt
+Source: Computed by author using EViews 5.0 econometric software
+
+Page 13 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Indicators
+Table A2. Chronology of regulatory restrictions on foreign borrowing
+
+Non-residents’ purchase
+of domestic bonds or
+other debt securities
+domestically
+
+Before 1994
+
+1994 to 2005
+
+Since 2006
+
+There is prohibition on
+sale or issue of securities
+in Ghana or abroad by
+Ghana residents to nonresidents (Dec. 1970
+through Dec. 1994)
+
+(a) Non-residents have
+the option to purchase corporate
+bonds but within confined limits.
+Nonetheless, existing
+regulations prohibit
+them from purchasing government securities (Dec. 1995)
+
+Non-residents are allowed
+to purchase bonds or other
+debt securities
+domestically or invest in
+debt securities with
+maturities of three years or
+more (since Dec. 2006)
+
+(b) Purchase of bonds or
+other debt securities
+domestically by nonresidents require
+prior approval by the
+BOG (Dec. 1998 to
+Dec. 2005)
+Residents’ sale or issue of
+domestic bonds or other
+debt securities abroad
+
+There is prohibition on sale
+or issue of securities in
+Ghana or abroad by Ghana
+residents to non-residents
+(Dec. 1970 to Dec. 1994)
+
+Sale or issue of bonds or
+other debt securities
+abroad by residents
+require the prior approval
+of the Bank of Ghana (Dec.
+1995 through Dec. 2005)
+
+Residents are allowed to
+sell or issue bonds or
+other debt securities
+abroad. However, banks
+are obliged to report
+these transactions to the
+BOG (since Dec. 2006)
+
+Non-residents’
+investment in or purchase
+of domestic money
+market instruments (BOG
+and government
+securities)
+
+There is prohibition on
+sale or issue of securities
+in Ghana or abroad by
+Ghana residents to nonresidents (Dec. 1970 to
+Dec. 1994)
+
+Existing regulations forbid
+non-residents from
+bringing in foreign
+exchange for investing in
+money market
+instruments (BOG and
+government securities).
+Nonetheless, non-residents
+having local currencies can
+invest in the instruments
+with maturity of three
+years or more (Dec. 1995 to
+Dec. 2005)
+
+Existing regulations allow
+non-residents to bring in
+foreign exchange for
+investing only in debt
+instruments with
+maturity of three years or
+more. However, nonresidents having local
+currencies can invest in
+any money market
+instrument (since Dec.
+2006)
+
+Residents’ sale or issue of
+domestic money market
+instruments
+
+Existing regulations do
+not allow residents to sell
+or issue money market
+instruments abroad (Dec.
+1970 to Dec. 2005)
+
+Overseas borrowing by
+commercial banks and
+other credit institutions
+
+Overseas borrowing by
+the private sector and
+commercial banks require
+the approval of the Bank
+of Ghana. Foreign
+borrowing by Ghanaian
+nationals is conditional on
+meeting certain
+government guidelines
+(Dec. 1970 to Dec. 1995)
+
+No restrictions apply to
+the sale or issue of
+domestic money market
+instruments by residents.
+Previously, existing
+regulations did not allow
+residents to sell or issue
+money market
+instruments abroad (since
+Dec. 2006)
+Purchase of bonds or
+other debt securities
+domestically by nonresidents require the prior
+approval of the BOG (Dec.
+1998 to Dec. 2005)
+
+Requires Bank of Ghana
+notification
+
+(Continued)
+
+Page 14 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Commercial and financial
+credits from nonresidents to residents
+
+Before 1994
+
+1994 to 2005
+
+Private import credits for
+machinery and
+equipment valued at US
+$100,000 and above
+require the approval of
+the Bank of Ghana (Dec.
+1970 to Dec. 1994)
+
+Commercial credits from
+non-residents to residents
+require the approval of
+BOG, must be channelled
+through the banking
+system and must be
+supported by appropriate
+documents. Also, financial
+credits from non-residents
+to residents also require
+the approval of BOG (Dec.
+1995 to Dec. 2006)
+
+Since 2006
+
+Source: International Monetary Fund’s Annual Reports on Exchange Arrangements and Exchange Restrictions, various
+issues 1988–2011 and other IMF databases
+
+1. Non-residents’ purchase of domestic bonds or other debt securities domestically
+2. Residents’ sale or issue of domestic bonds or other debt securities abroad
+3. Non-residents’ investment in domestic money market instruments
+4. Residents’ sale or issue of domestic money market instruments
+5. Overseas borrowing by commercial banks and other institutions
+6. Commercial and financial credits from non-residents to residents
+
+Measures
+Scores range from 0 to 4.
+0—if outright prohibition
+1—if quantitative limits are set and require official approval from relevant authority
+2—if some quantitative limits are eliminated but official approval is required
+3—if no official approval is required but authorities must be notified and some quantitative limits
+are maintained
+4—if no official approval is required and no quantitative limits apply
+The average score represents the value for the liberalization index.
+
+Page 15 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+Figure A1. Plot of cumulative
+sum of recursive residuals.
+
+10.0
+7.5
+5.0
+2.5
+0.0
+-2.5
+-5.0
+-7.5
+-10.0
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+CUSUM
+
+Figure A2. Plot of cumulative
+sum of squares of recursive
+residuals.
+Note: The straight lines represent critical bounds at the 5%
+significance level.
+
+2008
+
+2009
+
+2010
+
+2011
+
+2010
+
+2011
+
+2012
+
+5% Significance
+
+1.6
+
+1.2
+
+0.8
+
+0.4
+
+0.0
+
+-0.4
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+CUSUM of Squares
+
+2008
+
+2009
+
+2012
+
+5% Significance
+
+Page 16 of 17
+
+Brafu-Insaidoo et al., Cogent Economics & Finance (2019), 7: 1630161
+https://doi.org/10.1080/23322039.2019.1630161
+
+© 2019 The Author(s). This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license.
+You are free to:
+Share — copy and redistribute the material in any medium or format.
+Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+No additional restrictions
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Cogent Economics & Finance (ISSN: 2332-2039) is published by Cogent OA, part of Taylor & Francis Group.
+Publishing with Cogent OA ensures:
+•
+
+Immediate, universal access to your article on publication
+
+•
+
+High visibility and discoverability via the Cogent OA website as well as Taylor & Francis Online
+
+•
+
+Download and citation statistics for your article
+
+•
+
+Rapid online publication
+
+•
+
+Input from, and dialog with, expert editors and editorial boards
+
+•
+
+Retention of full copyright of your article
+
+•
+
+Guaranteed legacy preservation of your article
+
+•
+
+Discounts and waivers for authors in developing regions
+
+Submit your manuscript to a Cogent OA journal at www.CogentOA.com
+
+Page 17 of 17
+
+

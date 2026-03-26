@@ -1,0 +1,794 @@
+Corporate governance and value relevance
+of financial information: evidence from the
+Ghana Stock Exchange
+Vera Ogeh Fiador
+
+Abstract
+
+Vera Ogeh Fiador is based
+at the Business School,
+University of Ghana, Legon,
+Ghana.
+
+Purpose – This study aims to look at how corporate governance, specifically internal mechanisms of
+corporate governance, affects the value relevance of reported accounting earnings of listed firms on the
+Ghana Stock Exchange.
+Design/methodology/approach – The study used the Ohlson valuation model with a panel dataset,
+employing pooled regression analysis with random effects.
+Findings – The findings indicate that net asset value per share is value relevant on the Ghanaian
+market, and even more so when the board size is small or the CEO also doubles as the board chair.
+Board independence as captured by the percentage of non-executive directors on the board is
+relatively irrelevant in the market valuation of shares, and when relevant has a negative effect.
+Originality/value – The value relevance of accounting information on the Ghanaian financial market, by
+implication, requires that the necessary rules and supervision regarding financial reporting must be
+provided to ensure that the information that reaches the investing public is therefore a true reflection of
+the underlying economic value of firms, so that capital allocation decisions based on these sources will
+be efficient.
+Keywords Value relevance, Boards of directors, Corporate governance, Accounting information, Ghana
+Paper type Research paper
+
+1. Introduction
+Agency theory posits that the separation of ownership and management as enshrined in the
+act of incorporation usually comes along with a myriad of agency problems. This conflict of
+interests between management and shareholders has given rise to many tools in a bid to
+control the opportunistic behaviour of corporate managers. Corporate governance has, over
+time, become one of the major tools used in aligning corporate management interests with
+those of shareholders (Fama and Jensen, 1983a).
+Corporate governance, according to Mensah et al. (2003), is the set of arrangements
+through which organisations account to shareholders and the general public. Mensah et al.
+(2003) go on to indicate that sound corporate governance facilitates development by
+ensuring the efficient allocation of economic resources. One of the pillars that supports
+corporate governance in the efficient allocation of investable funds is adequate information,
+both financial and non-financial. Financial information from the accounting statements of
+listed firms has for decades been the main mode of communication for firms seeking to
+attract investors in search of investment avenues. Financial reports usually provide data on a
+firm’s liquidity, solvency, profitability, efficiency and wealth creation positions.
+Corporate governance awareness in Ghana can be described as being in its incipient
+stages (World Bank, 2005). Regulations relating to disclosure are adequate. Enforcement,
+however, especially with respect to related-party transactions, is non-existent (World Bank,
+2005). In terms of internal governance characteristics, corporate boards are usually
+
+Received December 2010
+Accepted March 2011
+
+PAGE 208
+
+j
+
+CORPORATE GOVERNANCE
+
+j
+
+VOL. 13 NO. 2 2013, pp. 208-217, Q Emerald Group Publishing Limited, ISSN 1472-0701
+
+DOI 10.1108/14720701311316689
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+single-tier, i.e. they include both executive and non-executive members, with a third of board
+members being up for re-election every year. There is no law to regulate effectively the
+composition and independence of these boards, though for listed companies the
+requirement leans towards more non-executive members. On the whole, Ghana’s rating in
+terms of observance of the various codes in relation to corporate governance ranges from
+being partially observed through materially not being observed to not being observed at all,
+except for the principle of shareholders being allowed to consult with one another and the
+principle to promote performance-enhancing mechanisms, which are fully observed.
+The rules governing financial reporting mainly stem from the Companies Code, Act 179. The
+Act provides for the preparation and publication of financial statements, disclosures and
+auditing, among other provisions. Nonetheless it fails to stipulate the standards for the
+preparation of such reports such as the International Accounting Standards or the Ghana
+National Accounting Standards. In 2007, however, the country has officially adopted the
+International Financial Reporting Standards for all listed companies, with full compliance
+expected of small and medium-sized enterprises (SMEs) by 2009.
+Financial statements across the globe, Ghana included, are usually generated from a
+multitude of inputs, namely legal, regulatory, industry and firm-specific elements (Ragab
+and Omran, 2006). Given the importance of financial statements in communicating firm
+details to shareholders and the public at large, the issue of value-relevance becomes an
+important factor that is worth researching. The value-relevance of financial information has
+generally been captured as the ability of financial data to summarise firm value or to reflect
+information that affects stock market measures, i.e. stock returns and stock turnover.
+Pursuant to one of the tenets of good corporate governance, which states that there must be
+full disclosure of all material facts to all stakeholders, is the question of whether corporate
+governance has any influence whatsoever on the value-relevance of a firm’s financial
+reports.
+The study is motivated from the point-of-view that alternative sources of information such as
+earnings forecasts or firm performance ratings for investor analysis are scanty if not
+completely non-existent on the Ghanaian financial market. The significance of the study
+therefore lies in the fact that the value-relevance or otherwise of financial statements of listed
+firms as well as the influence of corporate governance on such value-relevance will help in
+the necessary policies to ensure that accounting information, if it has predictive power, can
+be improved upon and can be relied upon as an accurate reflection of firm value and an aid
+to the efficient allocation of economic resources.
+This study seeks to determine the relationship between corporate governance and the
+value-relevance of accounting information. Specifically, the study seeks to determine the
+value-relevance of accounting information of Ghanaian listed companies and also to assess
+the influence that corporate governance lends to the degree of value-relevance of
+accounting information in Ghana.
+The rest of the paper is structured as follows: the next section reviews literature relevant to
+the study followed by the method employed, the results of the study, the conclusion and
+policy implications.
+
+2. Literature review
+2.1 Corporate governance
+This section reviews literature on the concepts relevant to the study, i.e. corporate
+governance, financial reporting standards and value-relevance. In terms of definition, there
+is no universally accepted definition for corporate governance, although it has been defined
+broadly as the set of private and public institutions, including laws, regulations and
+accepted business practices, that, in a market economy, govern the relationship between
+corporate managers (‘‘corporate insiders’’) on one hand, and those who invest resources in
+corporations on the other (Oman, 2001). Other writers define corporate governance as ‘‘an
+umbrella term that includes specific issues arising from interactions among senior
+
+j
+
+j
+
+VOL. 13 NO. 2 2013 CORPORATE GOVERNANCE PAGE 209
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+management, shareholders, boards of directors, and other corporate stakeholders’’ (see
+Cochran and Wartick, 1988). Agency theory (Jensen and Meckling, 1976) posits that
+managers are opportunistic shirkers who must be controlled if their actions are to be aligned
+with the interests of shareholders. As per the agency paradigm, corporate governance
+through an independent corporate board is a key way of controlling opportunistic
+managerial behaviour. The operation of corporate governance generally encompasses both
+internal and external mechanisms. Internal corporate mechanisms include such measures
+as the board of directors, internal auditors, and executive compensation. The most dominant
+of these measures of internal corporate governance is the corporate board, which is usually
+charged with overseeing the strategic management of the company (Keenan, 2004). Its
+most important role is to ensure that shareholders’ interests are upheld in all situations. The
+strength of the board in executing its most important role is dependent on its characteristics,
+namely size, composition and CEO duality.
+The influence of the size of the board on its ability to deliver has received significant research
+interest over the years. The consensus is that board size is significant in influencing the
+effectiveness of the board, although the relationship is assumed to be non-linear (see
+Agoraki et al., 2009; Karamanou and Vafeas, 2005; Pye, 2000; John and Senbet, 1998;
+Yermack, 1996; Jensen, 1993). According to Boone et al. (2007), Raheja (2004) and Harris
+and Raviv (2006), the size of the board usually reflects the trade-off between the
+firm-specific benefits of monitoring and the costs associated with such monitoring. The
+driving force behind the size of the board is usually economic, specifically the firm’s
+competitive environment and its managerial team.
+Board composition, usually used as a measure of board independence, captures the ratio of
+non-executive directors on the board. It is generally accepted that a board is more
+independent and efficient the higher the ratio of external directors (Yermack, 1996). In other
+words, the more external directors there are on a corporate board, the more effective it is in
+performing its wealth maximisation duties to shareholders through its capacity to monitor
+and control inefficient managerial behaviour. Others (see Hermalin and Weisbach, 1991; Pi
+and Timme, 1993; Adams and Mehran, 2008; Belkhir, 2006) are of the view, however, that
+board composition has no bearing whatsoever on wealth maximisation. This implies that a
+haphazard selection of executive and non-executive board members is of no consequence
+in the quest for value creation.
+CEO duality, where the CEO of the firm also doubles as the board chair, has received
+significant research attention in recent times due to the pursuit of higher codes of
+governance. In general, CEO duality is perceived as a constraint on the independence of the
+board. Put simply, when the CEO also doubles as the board chair, the performance of the
+board in terms of effectiveness and efficiency in maximizing shareholders wealth is
+compromised (Bliss, 2010). This is based on the reasoning that too much power in the hands
+of one person results in non-value maximizing and inefficient behaviour. It is on this
+reasoning that the South African King Report, one of the codes for best practices in
+corporate governance, clearly delineates the two powers and requires that they be vested in
+two persons. The goals of corporate governance include, among other things:
+B
+
+the quest to create a balance between economic and social goals, and individual and
+communal goals;
+
+B
+
+to ensure the efficient use of resources;
+
+B
+
+accountability in the use of power; and
+
+B
+
+aligning the interests of individuals, corporations and society (Okeahalam and
+Akinboade, 2003).
+
+The goal of ensuring the efficient allocation of resources is dependent on the available
+financial information, usually reported via accounting statements.
+Empirical evidence relating corporate governance to value-relevance of accounting
+information seems to indicate a higher value relevance of accounting information for firms
+with strong governance structures, although this finding is not consistent across studies (see
+
+j
+
+j
+
+PAGE 210 CORPORATE GOVERNANCE VOL. 13 NO. 2 2013
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+Vafeas, 2000; Habib and Azim, 2008; Dimitropoulos and Asteriou, 2010). For example, in a
+study of firms in Greece, Dimitropoulos and Asteriou (2010) revealed that the
+informativeness of annual accounting earnings is positively related to the fraction of
+outside directors serving on the board, but not related to board size. They also found that
+firms with a higher proportion of outside directors report earnings of higher quality compared
+to firms with a low proportion of outside directors. Hashim and Devi (2008), on the other
+hand, find board independence and managerial ownership to have no value-relevance for a
+study conducted in Malaysia, but instead found evidence in favour of family ownership.
+Vafeas (2000) also found board composition to be inconsequential with reference to the
+value-relevance of accounting information, but found the size of the board to be
+value-relevant. It is obvious from the empirical data available that, although corporate
+governance matters for the value relevance of accounting information, the specific
+governance variables that can be manipulated to improve information quality in different
+settings call for individualized country studies. This study seeks to make such an attempt.
+
+2.2 Financial reporting standards, opacity and value-relevance
+The vital role played by published financial information in the capital market in the face of
+globalisation cannot be over-emphasised. Published financial data serve the purpose of
+providing information to facilitate capital flow from international investors as well as showing
+management’s stewardship of the resources entrusted to it (Van Greuning, 2009). It is
+precisely this function of published financial data that has resulted in most countries
+adopting financial reporting standards that provide meaningful information to local and
+foreign investors alike. Compliance with the International Financial Reporting Standards
+ensures that the data are relevant, have predictive value, constitute a faithful representation
+of material facts, are free from bias, and are verifiable (Van Greuning, 2009).
+Corporate governance, together with the requirements of the financial reporting standards,
+seeks to create a safe environment for stakeholders through a culture of transparency.
+Transparency results from making information on existing conditions, decisions, and actions
+accessible, visible and understandable to all market participants. Earnings opacity may be
+easily defined as a measure that reflects how little information there is in a firm’s earnings
+number about its true, but unobservable, economic performance (Bhattacharya et al.,
+2002). Financial opacity therefore stands to reduce the predictive power of financial
+reporting while constraining the efficient allocation of resources within the economy.
+Bhattacharya et al. (2002) identify three channels by which earnings opacity, which
+ultimately results in lack of value relevance, may affect the cost of equity. According to them,
+better financial accounting information, through reducing estimation risk, distinguishing
+between good and bad managers and thereby reducing agency costs, and reducing the
+level of information asymmetry, invariably helps investors to distinguish between good and
+bad investments and ultimately reduces the cost of equity. Whilst Bhattacharya et al. (2002),
+suggest that earnings opacity is not necessarily good for the cost of equity capital and the
+financial market, Fan and Wong (2002), believe that in a competitive market environment,
+earnings opacity may be a good strategy as it may prevent the leakage of proprietary
+information to competitors.
+One way or the other, corporate governance is inexorably linked with the quality and value of
+accounting information. In general, corporate governance seeks to improve the value of
+accounting information, reveal managerial efficiencies and reduce manipulation of earnings
+by management through the enforcement of appropriate standards (de Almeida et al.,
+2009).
+
+3. Methodology
+This section details the sample, data sources and model for the study. It also discusses the
+conceptual framework on which the econometric model is built.
+
+j
+
+j
+
+VOL. 13 NO. 2 2013 CORPORATE GOVERNANCE PAGE 211
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+3.1 Sample and source of data
+The study uses all non-financial companies listed on the Ghana Stock Exchange from 1997
+to 2006, given that financial data after this period was reported using the International
+Financial Reporting Standards, which differ from the reporting standards used prior to 2007.
+The data was collated from the published financial statements and other reports on the listed
+companies.
+3.2 Model estimation
+Panel data regressions were used to ascertain the relationship between stock prices,
+accounting values and corporate governance. Panel data regressions allow for the control of
+omitted variable bias that may result from the exclusion of unobservable variables. The
+increased observations also provide more information and hence precision while allowing for
+the analysis of economic questions that cannot be addressed using time series or
+cross-sectional data (Hsiao, 2003). The model for the study is based on a modified Ohlson
+(1995) earnings model of stock valuation. As per this concept, the earnings reported by a firm
+and the net asset value (book value) are a priori indicators of firm value. This is on the
+assumption that, ceteris paribus, accounting records of value should ultimately be linked to
+the market valuation of shares. In line with this proposition, the model for the study is given as:
+P it ¼ b0 þ b1 EPSit þ b2 NAVit þ b3 BCit þ b4 BS2it þ b5 CEOit þ mit . . . ;
+
+ð1Þ
+
+P it ¼ b0 þ b1 EPSit þ b2 NAVit þ b3 BCit þ b4 BS2it þ b5 CEOit þ b6 BC*EPSit
+þ b7 BSit *EPSit þ b8 CEOit *EPSit þ mit . . . ;
+
+ð2Þ
+
+P it ¼ b0 þ b1 EPSit þ b2 NAVit þ b3 BCit þ b4 BS2it þ b5 CEOit þ b6 BC*NAVit
+þ b7 BSit *NAVit þ b8 CEOit *NAVit þ u it . . . :
+
+ð3Þ
+
+where Pit, the dependent variable, is the end-of-year share price of firm i in period t. The
+explanatory variables include earnings per share (EPSit), which is defined as end-of-year
+earnings after tax divided by shares outstanding (capturing the income statement) and net
+asset value per share (NAVit), which is defined as total assets minus total liabilities of firm i in
+period t divided by the number of shares outstanding (capturing the status of the balance
+sheet). There are three internal governance measures in this model:
+1. board composition (BCit), defined as the percentage of external directors on the board;
+2. board size (BSit), which refers to the number of members constituting the board and is
+also squared to capture its posited non-linear behaviour; and
+3. CEOit, for CEO duality, which is a dummy taking a value of 1 if the CEO doubles as the
+board chair and 0 otherwise.
+The interaction terms are included to capture the influence that corporate governance lends
+to the value relevance of these accounting measures of value.
+Price and net asset value per share were logged for standardisation. Breusch-Pagan LM
+tests returned significant values, and thus the models were estimated using the random
+effects approach.
+
+4. Discussion of findings
+This section presents the analysis and discussion of study findings. This section deals with
+the summary statistics of the variables under study, the correlation matrix between the
+variables and finally the regression output for the various equations.
+4.1 Summary statistics
+Table I indicates that the average price of shares on the Ghana Stock Exchange is 1.12
+cedis, with some prices as low as 0.0038 cedis and others as high as 30 cedis. In terms of
+earnings per share (EPS), the values ranged from negative 16,353 cedis to positive 6,717.5
+
+j
+
+j
+
+PAGE 212 CORPORATE GOVERNANCE VOL. 13 NO. 2 2013
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+Table I Descriptive statistics
+Variable
+
+Mean
+
+SD
+
+Minimum
+
+Maximum
+
+Price
+EPS
+NAV
+BS
+BC
+CEO
+
+1.123645
+375.1246
+20,067.937
+8.46
+0.7651333
+0.7266667
+
+4.30218
+1,768.961
+4,379.62
+1.971713
+0.110822
+0.4471636
+
+0.0038
+216,353.45
+30
+5
+0.6
+0
+
+30
+6,717.5
+39,539
+13
+0.91
+1
+
+cedis, recording an average value of 375.1246 with the net asset value over the period
+averaging approximately 20,067.937 cedis, recording a minimum value of 30 cedis and a
+maximum value of 39,539 cedis.
+The average board size is 8.46 members and boards are composed mainly of non-executive
+directors. Both of these characteristics are in line with best practices. As many as 73 per
+cent of the corporate boards of listed firms have the same person as CEO and board chair. In
+general, the board members are independent of the CEO (approximately 77 per cent of
+board directors of the listed firms are non-executive), a structure in conformity with the
+requirements of the stock exchange and also as posited by Fama (1980), Weisbach (1988)
+and Cotter et al. (1997) to result in value maximisation due to their ability to monitor and
+control the CEO and insiders effectively.
+As per Table II, share prices are positively correlated with earnings per share, net asset
+value, board size, CEO duality and the square of the board size, but negatively correlated
+with the composition of the board. Earnings per share are positively correlated with net asset
+value per share and CEO duality but negatively correlated with board composition. However,
+earnings per share are not correlated with board size or its square. Net asset value per share
+is negatively correlated with board composition and positively correlated with CEO duality,
+while board size is positively correlated with board composition and CEO duality. Board
+composition is negatively correlated with CEO duality, which in turn is positively correlated
+with the square of the board size. In general, the composition of the board is negatively
+correlated with all of the variables except the board size, while CEO duality is significantly
+positively correlated with all the variables except board composition.
+4.2 Regression results
+The output from the regressions provides evidence for the value relevance of accounting
+information in favour of net asset value per share. Net asset value per share is highly and
+significantly positively related to share prices in equations (1) and (2) but is only marginally
+significant positively and significantly related to share prices in equation (3). However,
+earnings per share, the major indicator of firm performance, is insignificant across all
+regressions. From the regression output (see Table III), it would appear that investor
+valuation of shares on the Ghanaian market is highly dependent on net asset values but
+without regard to the earnings reported by listed firms.
+Table II Correlation matrix of study variables
+
+Price
+EPS
+NAV
+BS
+BC
+CEO
+BS2
+
+Price
+
+EPS
+
+NAV
+
+BS
+
+BC
+
+CEO
+
+BS2
+
+1.0000
+0.3314***
+0.4144***
+0.5522***
+20.1817**
+0.4962***
+0.5800***
+
+1.0000
+0.3459***
+0.0859
+20.2018**
+0.2736***
+0.0731
+
+1.000
+20.0373
+20.1771**
+0.3708***
+20.0520
+
+1.0000
+0.1464*
+0.4100***
+0.9905***
+
+1.0000
+20.3548***
+0.0997
+
+1.000
+0.4010***
+
+1.000
+
+Note: *, **, ***, significant at 10 per cent, 5 per cent and 1 per cent, respectively
+
+j
+
+j
+
+VOL. 13 NO. 2 2013 CORPORATE GOVERNANCE PAGE 213
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+Table III Regression output
+Variable
+
+Regression 1
+
+Regression 2
+
+Regression 3
+
+EPS
+
+EPS*BS
+
+0.0000302
+(0.555)
+0.3297441
+(0.000)***
+22.743288
+(0.177)
+20.096504
+(0.860)
+0.0307228
+(0.000)***
+–
+
+0.0000301
+(0.561)
+0.8479021
+(0.094)*
+21.50279
+(0.731)
+23.65093
+(0.001)***
+0.0674139
+(0.000)***
+–
+
+EPS*BC
+
+–
+
+EPS*CEO
+
+–
+
+LNAV*BS
+
+–
+
+20.0005481
+(0.589)
+0.2975786
+(0.000)***
+23.158494
+(0.070)*
+20.1533279
+(0.734)
+0.033064
+(0.000)***
+20.0001879
+(0.083)*
+0.0021445
+(0.076)*
+0.0009906
+(0.007)***
+–
+
+LNAV*BC
+
+–
+
+–
+
+LNAV*CEO
+
+–
+
+–
+
+0.5717
+52.82
+(0.0000)
+
+0.6433
+86.33
+(0.0000)
+
+LNAV
+BC
+CEO
+BS2
+
+Overall R 2
+Wald x 2, probability
+
+–
+–
+20.1036582
+(0.000)***
+0.0867883
+(0.893)
+0.6033822
+(0.001)***
+0.6664
+133.92
+(0.0000)
+
+Notes: *, **, ***, significant at 10 per cent, 5 per cent and 1 per cent, respectively
+
+The value-relevance of net asset value is not surprising given that other sources of
+information in relation to securities on the Ghanaian financial markets such as analyst
+forecasts are non-existent, thus making the accounting earnings report the only source of
+information available to the investing public. What is surprising, though, is the irrelevance of
+earnings per share in investor valuation of traded shares. It may be inferred that market
+participants consider earnings as unreliable sources on which to base a valuation of shares.
+This finding is in support of the findings by Collins et al. (1999), who document that book
+value played two roles in equity valuation, i.e. it provided information about both expected
+future normal earnings and about abandonment/liquidation value, thus making the book
+value of equity especially value-relevant in the presence of negative earnings.
+The square of the board size, the proportion of outsiders on the board and CEO duality were
+included on the premise that measures of good corporate governance ultimately influence the
+market valuation of shares through the perception of efficient monitoring and control of
+managers in favour of shareholders (Bai et al., 2004). The square of the board size was
+included to capture its posited non-linear effect. The coefficient for the square of the board size
+was positively and significantly related at 1 per cent to share price across all three regressions.
+This finding provides evidence for larger boards, as suggested by Dalton et al. (1999) based
+on the proposition that larger boards bring diverse expertise and efficient decisions to the
+boardroom, thus resulting in favourable performance and ultimately a favourable market
+valuation. This finding, in favour of larger board sizes, is a contradiction of the evidence in
+favour of smaller boards (Yermack, 1996), which is predicated on the argument that fewer
+board members are able to share ideas more easily due to their reduced numbers, thus leading
+to faster decision-making and ultimately higher performance and market valuation.
+The composition of the board is insignificant in regressions 1 and 3 and only marginally
+negatively related at 10 per cent to share prices in regression 2. The relative insignificance of
+board composition within this study is interesting, given that listed firms in Ghana, as per the
+regulations for listing, are encouraged to have more non-executive directors on the board. It
+would appear that the compliance of listed firms with this requirement (approximately 77 per
+
+j
+
+j
+
+PAGE 214 CORPORATE GOVERNANCE VOL. 13 NO. 2 2013
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+cent of board of directors of listed non-financial firms are outsiders) holds relatively no value
+for the investing public. This finding, however, is consistent with the findings of Hermalin and
+Weisbach (1991), Pi and Timme (1993), Adams and Mehran (2008) and Belkhir (2006), who
+found no benefits from having non-executive director dominance on corporate boards.
+CEO duality is also insignificant in the first two regressions but turns highly significant, albeit
+with a negative sign, in the regression 3. It would appear that the Ghanaian market does not
+factor CEO duality into the valuation of shares, but when it does the effect is negative. This
+finding is in consonance with expectations as regards agency theory, which requires the
+separation of power between the CEO and the board chair, since such a situation vests too
+much authority in one person and does not augur well for firm performance. Bugshan (2005)
+and Kyereboah-Coleman (2007) support this finding by documenting negative effects of
+CEO duality on value relevance of accounting information for Australia and Tobin’s Q for
+Kenya, respectively.
+The regression output from the second equation as per Table III incorporates the interaction
+terms between corporate governance variables and the accounting measures of value.
+From the output, earnings per share become value relevant in the presence of corporate
+governance, albeit with a negative sign as regards the board size. The negative effect of the
+interactive term between board size and earnings per share seems to imply that as the
+board gets larger earnings per share loses its value relevance. On the other hand, earnings
+per share relate positively to share price when the board is composed of more independent
+directors and has the CEO as the chair. This finding seems to imply that, in Ghana, the
+market has a higher valuation of shares when the earnings per share reported also tie in with
+smaller corporate boards composed of mostly independent directors with the CEO acting as
+the board chair.
+The third regression also incorporates interactive terms between the governance variables
+and net asset value per share. The findings seem to indicate that net asset value is
+negatively related to share prices as the board gets larger, providing more evidence in
+favour of smaller boards. Board composition, however, does not help the value relevance of
+the book value of equity in any way, as it is insignificant. CEO duality, on the other hand,
+improves the value-relevance of net asset value per share, suggesting that when the CEO
+also doubles as the board chair, the investing public considers net asset value per share to
+be relevant in the valuation of shares.
+
+5. Conclusion and implications for policy
+From the findings of the study, it can be posited that accounting measures of value,
+specifically net asset values per share, are important in explaining share prices. In essence,
+increases in net asset values translate to a higher market valuation. This is not surprising,
+given that all things being equal, an increase in net asset values implies an increase in the
+size of the pie that goes to the shareholder. The value irrelevance of earnings per share in its
+own right, inferred from its relative insignificance in market valuation of shares, may be
+inferred as implying a perception by the investing public of opportunistic managerial
+earnings manipulation with the goal of achieving higher market valuations for their own
+purposes. Policy makers must therefore seek to ensure that the main sources of information
+to the investing public, and also those that seem to influence the security valuation process,
+should reflect the true underlying values and not be ‘‘cooked’’ for the purposes of deceiving
+or misleading the market, as this would result in the allocation of scarce resource on the
+financial market to inefficient businesses.
+
+References
+Adams, R. and Mehran, H. (2008), ‘‘Corporate performance, board structure and their determinants in
+the banking industry’’, Staff Report No. 330, Federal Reserve Bank of New York, New York, NY.
+Agoraki, M.-E., Delis, M.D. and Staikouras, P. (2009), ‘‘The effect of board size and composition on bank
+efficiency’’, MPRA Paper No. 18548, available at: http://mpra.ub.uni-muenchen.de/18548/MPRA
+
+j
+
+j
+
+VOL. 13 NO. 2 2013 CORPORATE GOVERNANCE PAGE 215
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+Bai, C.-E., Liu, Q., Lu, J.Z., Song, F.M. and Zhang, J.J. (2004), ‘‘Corporate governance and market
+valuation in China’’, Journal of Comparative Economics, Vol. 32 No. 4, pp. 599-825.
+Belkhir, M. (2006), ‘‘Board structure, ownership structure, and firm performance: evidence from
+banking’’, Working Paper 02, Laboratoire d’Economie d’Orléans, Orléans.
+Bhattacharya, U., Daouk, H. and Welker, M. (2002), ‘‘The world price of earnings opacity’’, unpublished
+working paper, Indiana University, Bloomington, IN.
+Bliss, M.A. (2010), ‘‘Does CEO duality constrain board independence? Some evidence from audit
+pricing’’, Accounting & Finance, Vol. 51 No. 2, pp. 361-80.
+Boone, A.L., Field, L.C., Karpoff, J.M. and Raheja, C.G. (2007), ‘‘The determinants of corporate board
+size and composition: an empirical analysis’’, Journal of Financial Economics, pp. 66-101.
+Bugshan, T. (2005), ‘‘Corporate governance, earnings management, and the information content of
+accounting earnings: theoretical model and empirical tests’’, PhD thesis, Faculty of Business, Bond
+University, Gold Coast.
+Cochran, P. and Wartick, S. (1988), ‘‘Corporate governance: a review of the literature’’, Financial
+Executives Research Foundation, Morristown, NJ.
+Collins, D., Pincus, M. and Xie, H. (1999), ‘‘Equity valuation and negative earnings: the role of book value
+of equity’’, The Accounting Review, Vol. 74, pp. 29-61.
+Cotter, J.F., Shivdasani, A. and Zenner, M. (1997), ‘‘Do independent directors enhance target
+shareholder wealth during tender offers?’’, Journal of Financial Economics, Vol. 43, pp. 195-218.
+Dalton, D.R., Daily, C.M., Johnson, J.L. and Ellstrand, A.E. (1999), ‘‘Number of directors and financial
+performance: a meta-analysis’’, The Academy of Management Journal, Vol. 42, pp. 674-86.
+de Almeida, J.E.F., de Lima, G.A.S.F. and Lima, I.S. (2009), ‘‘Corporate governance and ADR effects on
+earnings quality in the Brazilian capital markets’’, Corporate Ownership and Control, Vol. 7 No. 1.
+Dimitropoulos, P.E. and Asteriou, D. (2010), ‘‘The effect of board composition on the informativeness and
+quality of annual earnings: empirical evidence from Greece’’, Research in International Business and
+Finance, Vol. 24 No. 2, pp. 190-205.
+Fama, E. (1980), ‘‘Agency problems and the theory of the firm’’, Journal of Political Economy, Vol. 88,
+pp. 288-307.
+Fama, E.F. and Jensen, M.C. (1983a), ‘‘Separation of ownership and control’’, Journal of Law
+& Economics, Vol. 26 No. 2, pp. 301-25.
+Fan, J. and Wong, T. (2002), ‘‘Corporate ownership structure and the informativeness of accounting
+earnings in East Asia’’, Journal of Accounting and Economics, Vol. 33, pp. 401-26.
+Habib, A. and Azim, I. (2008), ‘‘Corporate governance and the value-relevance of accounting
+information: evidence from Australia’’, Accounting Research Journal, Vol. 21 No. 2, pp. 167-94.
+Harris, M. and Raviv, A. (2006), ‘‘A theory of board control and size’’, Review of Financial Studies, Vol. 21
+No. 4, pp. 1797-832.
+Hashim, H.A. and Devi, S. (2008), ‘‘Board characteristics, ownership structure and earnings quality:
+Malaysian evidence’’, in Tsamenyi, M. and Uddin, S. (Eds), Corporate Governance in Less Developed
+and Emerging Economies, Research in Accounting in Emerging Economies, Vol. 8, Emerald Group
+Publishing, Bingley, pp. 97-123.
+Hermalin, B. and Weisbach, M. (1991), ‘‘The effects of board composition and direct incentives on firm
+performance’’, Financial Management, Vol. 20, pp. 101-12.
+Hsiao, C. (2003), Analysis of Panel Data, 2nd ed., Cambridge University Press, Cambridge.
+Jensen, M. (1993), ‘‘The modern industrial revolution, exit, and the failure of internal control systems’’,
+Journal of Finance, Vol. 48, pp. 831-80.
+Jensen, M.C. and Meckling, W.H. (1976), ‘‘Theory of the firm: managerial behaviour, agency costs and
+ownership structure’’, Journal of Financial Economics, Vol. 3, pp. 308-60.
+John, K. and Senbet, L. (1998), ‘‘Corporate governance and board effectiveness’’, Journal of Banking
+and Finance, Vol. 22, pp. 371-403.
+
+j
+
+j
+
+PAGE 216 CORPORATE GOVERNANCE VOL. 13 NO. 2 2013
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+Karamanou, I. and Vafeas, N. (2005), ‘‘The association between corporate boards, audit committees,
+and management earnings forecasts: an empirical analysis’’, Journal of Accounting Research, Vol. 43
+No. 3, pp. 453-86.
+Keenan, J. (2004), ‘‘Corporate governance in UK/USA boardrooms’’, Corporate Governance:
+An International Review, Vol. 12, pp. 172-6.
+Kyereboah-Coleman, A. (2007), ‘‘Corporate governance and firm performance in Africa: a dynamic
+panel approach’’, paper presented at the International Conference on Corporate Governance in
+Emerging Markets, Sabanci University, Istanbul, November.
+Mensah, S., Aboagye, K., Addo, E. and Buatsi, S. (2003), ‘‘Corporate governance and corruption in
+Ghana – empirical findings and policy implications’’, African Capital Markets Forum, available at:
+http://info.worldbank.org/etools/ANTIC/docs/Resources/Country%20Profiles/Ghana/ACMF_Corpor
+Governance_Ghana.pdf
+Ohlson, J. (1995), ‘‘Earnings, book values and dividends in security valuation’’, Contemporary
+Accounting Research, Vol. 11 No. 2, pp. 661-88.
+Okeahalam, C.C. and Akinboade, A.O. (2003), ‘‘A review of corporate governance in Africa: literature,
+issues and challenges’’, paper presented at the Global Corporate Governance Forum, 15 June.
+Oman, C.P. (2001), ‘‘Corporate governance and national development’’, Working Paper No. 180, OECD
+Development Centre, Organisation for Economic Co-operation and Development, Paris.
+Pi, L. and Timme, S.G. (1993), ‘‘Corporate control and bank efficiency’’, Journal of Banking and Finance,
+Vol. 17, pp. 515-30.
+Pye, A. (2000), ‘‘Corporate boards, investors and their relationships: accounts of accountability and
+corporate governing in action’’, Corporate Governance: An International Review, Vol. 9 No. 3,
+pp. 186-95.
+Ragab, A.A. and Omran, M.M. (2006), ‘‘Accounting information, value relevance, and investors’
+behavior in the Egyptian equity market’’, Review of Accounting and Finance, Vol. 5 No. 3, pp. 279-97.
+Raheja, C.G. (2004), ‘‘Determinant of board size and composition: a theory of corporate boards’’,
+Journal of Financial and Quantitative Analysis, Vol. 40 No. 2, pp. 283-306.
+Vafeas, N. (2000), ‘‘Board structure and the informativeness of earnings’’, Journal of Accounting and
+Public Policy, Vol. 19, pp. 139-60.
+Van Greuning, H. (2009), International Financial Reporting Standards: A Practical Guide, World Bank
+Publications, Washington, DC.
+Weisbach, M. (1988), ‘‘Outside directors and CEO turnover’’, Journal of Accounting and Economics,
+Vol. 20, pp. 431-60.
+World Bank (2005), World Bank Report on Observance of Standards and Codes – Country Report,
+Ghana, World Bank, Washington, DC.
+Yermack, D. (1996), ‘‘Higher market valuation of companies with a small board of directors’’, Journal of
+Financial Economics, Vol. 40, pp. 185-211.
+
+Corresponding author
+Vera Ogeh Fiador can be contacted at: vsoli@ug.edu.gh
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+j
+
+j
+
+VOL. 13 NO. 2 2013 CORPORATE GOVERNANCE PAGE 217
+
+Downloaded from http://www.emerald.com/cg/article-pdf/13/2/208/209691/14720701311316689.pdf by University of Ghana, John Vanderpuye on 25 March 2026
+
+
