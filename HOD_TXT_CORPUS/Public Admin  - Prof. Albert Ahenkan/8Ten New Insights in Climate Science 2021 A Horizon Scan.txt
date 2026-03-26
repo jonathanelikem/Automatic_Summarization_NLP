@@ -1,0 +1,715 @@
+Global Sustainability
+
+cambridge.org/sus
+
+
+
+Review Article
+Cite this article: Martin MA et al. (2021). Ten new insights in climate science 2021: a horizon scan. Global Sustainability 4, e25, 1-20. https:// doi.org/10.1017/sus.2021.25
+
+Received: 13 July 2021
+Revised: 4 October 2021
+Accepted: 6 October 2021
+
+Key words:
+adaptation and mitigation; Earth systems (land; water and atmospheric); ecology
+and biodiversity; economics; policies; politics and governance
+
+Author for correspondence:
+Maria A. Martin,
+E-mail: martin@pik-potsdam.de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) The Author(s), 2021. Published by Cambridge University Press. This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.
+
+Ten new insights in climate science 2021: a horizon scan
+
+Maria A. Martin1 , Olga Alcaraz Sendra2, Ana Bastos3, Nico Bauer1,
+Christoph Bertram1, Thorsten Blenckner4, Kathryn Bowen5,6, Paulo M. Brando7, Tanya Brodie Rudolph8, Milena Büchs9, Mercedes Bustamante10,
+Deliang Chen11 , Helen Cleugh12, Purnamita Dasgupta13, Fatima Denton14, Jonathan F. Donges1,4, Felix Kwabena Donkor15, Hongbo Duan16, Carlos
+M. Duarte17,18, Kristie L. Ebi19, Clea M. Edwards20 , Anja Engel21,
+Eleanor Fisher22, Sabine Fuss23,24 , Juliana Gaertner1, Andrew Gettelman25, Cécile A.J. Girardin26, Nicholas R. Golledge27, Jessica F. Green28, Michael
+R. Grose29, Masahiro Hashizume30, Sophie Hebden31, Helmke Hepach32,
+Marina Hirota33, Huang-Hsiung Hsu34, Satoshi Kojima35, Sharachchandra Lele36, Sylvia Lorek37,38, Heike K. Lotze39, H. Damon Matthews40, Darren McCauley41, Desta Mebratu8,42, Nadine Mengis21, Rachael H. Nolan43,44 , Erik Pihl31 , Stefan Rahmstorf1, Aaron Redman20 , Colleen E. Reid45, Johan Rockström1,46, Joeri Rogelj47,48, Marielle Saunois49, Lizzie Sayer50, Peter Schlosser20, Giles
+B. Sioen51,52, Joachim H. Spangenberg37, Detlef Stammer53, Thomas
+N.S. Sterner54, Nicola Stevens26, Kirsten Thonicke1, Hanqin Tian55, Ricarda Winkelmann1,46 and James Woodcock56
+
+1Potsdam Institute for Climate Impact Research (PIK), Member of the Leibniz Association, Potsdam, Germany; 2Universitat Politècnica de Catalunya, Barcelona, Spain; 3Max Planck Institute for Biogeochemistry, Jena, Germany; 4Stockholm Resilience Centre, Stockholm University, Stockholm, Sweden; 5Melbourne Climate Futures, Melbourne Law School, Parkville, Victoria, Australia; 6Melbourne School of Population and Global Health, University of Melbourne, Parkville, Victoria, Australia; 7University of California, Irvine, CA, USA; 8South Africa Centre for Sustainability Transitions (CST), University of Stellenbosch, Stellenbosch, South Africa; 9University of Leeds, School of Earth and Environment, Leeds, UK; 10University of Brasilia, Brasilia, Brazil; 11Department of Earth Sciences, University of Gothenburg, Gothenburg, Sweden; 12WCRP Joint Scientific Committee (JSC), Canberra, Australia; 13International Centre for Integrated Mountain Development, Lalitpur, Nepal; 14United Nations University, Institute for Natural Resources in Africa, Accra, Ghana; 15Faculty of Social Sciences, Department of Geography, University of Education-Winneba, Winneba, Ghana; 16School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China; 17Red Sea Research Center (RSRC), and Computational Biosciences Research Center (CBRC), King Abdullah University of Science and Technology (KAUST), Thuwal, Kingdom of Saudi Arabia; 18Arctic Research Centre, Aarhus University, Aarhus, Denmark; 19Center for Health and the Global Environment (CHanGE), University of Washington, Washington, USA; 20Global Futures Laboratory, Arizona State University, Tempe, AZ, USA; 21GEOMAR Helmholtz Centre for Ocean Research Kiel, Kiel, Germany;
+22Nordic Africa Institute, Uppsala, Sweden; 23Mercator Research Institute on Global Commons and Climate Change
+(MCC), Berlin, Germany; 24Humboldt University of Berlin, Berlin, Germany; 25National Center for Atmospheric Research (NCAR), Boulder, CO, USA; 26University of Oxford, Oxford, UK; 27Antarctic Research Centre, Victoria University of Wellington, Wellington, New Zealand; 28University of Toronto, Toronto, ON, Canada; 29CSIRO, Canberra, Australia; 30University of Tokyo, Bunkyo-ku, Tokyo, Japan; 31Future Earth Global Secretariat, Stockholm, Sweden; 32Climate Service Center Germany (GERICS), Helmholtz-Zentrum Hereon, Hamburg, Germany; 33Federal University of Santa Catarina, Florianopolis, Brazil; 34Anthropogenic Climate Change Center, Research Center for Environmental Changes, Academia Sinica, Taipei, Taiwan; 35Institute for Global Environmental Strategies, Miura- gun, Hayama, Japan; 36Centre for Environment & Development, ATREE, Bengaluru, India; 37Sustainable Europe Research Institute, Cologne, Germany; 38ZOE Institute for Future-Fit economies, Cologne, Germany; 39Dalhousie University, Halifax, Nova Scotia, Canada; 40Concordia University, Montreal, Canada; 41Erasmus University of Rotterdam, The Netherlands; 42Addis Ababa University Institute of Technology, Addis Ababa, Ethiopia; 43Hawkesbury Institute for the Environment, Western Sydney University, Sydney, Australia; 44NSW Bushfire Risk Management Research Hub, Wollongong, NSW 2522, Australia; 45University of Colorado Boulder, Boulder, CO, USA; 46University of Potsdam, Potsdam, Germany; 47Imperial College London, London, UK; 48International Institute for Applied Systems Analysis, Laxenburg, Austria; 49Laboratoire des Sciences du Climat et de l'Environnement, LSCE- IPSL (CEA-CNRS-UVSQ), Université Paris-Saclay, Gif sur Yvette, France; 50International Science Council, Paris, France; 51Future Earth Global Secretariat, Tokyo, Japan; 52National Institute for Environmental Studies, Tsukuba, Japan; 53University of Hamburg, Hamburg, Germany; 54University of Gothenburg, Gothenburg, Sweden; 55International Center for Climate and Global Change Research, School of Forestry and Wildlife Sciences, Auburn University, Auburn, AL, USA and 56MRC Epidemiology Unit, University of Cambridge, Cambridge, UK
+
+
+
+
+
+
+1. Introduction
+Since 2017, the 10 new insights in climate science (hereafter 10NICS) annually summarize a set of the most critical aspects of Earth's complex climate system - including physical, biogeochem- ical and socioeconomic/sociocultural dimensions. Staying well below 2 °C of global warming above preindustrial temperatures and aiming to not exceed 1.5 °C are the principal goals of the 2015 Paris Agreement. These thresholds have since been reinforced by a number of large-scale science assessments (IPCC, 2018, 2019b, 2019a, 2021; Pörtner et al., 2021). The new insights presented here, based on scientific literature since January 2020, emphasize the urgent need for meaningful mitigation and adaptation.
+   The 10NICS topics are not intended to form a comprehensive scientific assessment. Intentionally limited to 10, each insight is succinct and does not try to cover entire fields. The 10NICS are presented in (a) an academic article for a scholarly audience (this publication) and (b) a policy report for policymakers and the general public.
+  Here we detail the methods used for the selection of the 10 insight topics, and then give a concise summary of each insight, briefly setting the background, elaborating on some recent devel- opments in the field, and putting the new research insights into context with climate change scenarios or climate policies. In the concluding section, we develop and discuss a wider-scope scien- tific synthesis of the 10 insights.
+
+2. Methodology
+Each year the three hosts of the 10NICS - Future Earth, the Earth League and the World Climate Research Programme
+
+(WCRP) - invite the global science community to submit their proposals for new climate science insights in an open call. To qualify as a candidate topic, the proposals are required to be based on at least two to three peer-reviewed publications since January of the preceding year. The three hosts select an editorial board, which oversees the overall scientific quality and coherence of the output (academic article and policy report).
+  The 2021 call for topics was broadly and globally distributed via different channels (such as websites, social media accounts or mailing lists associated with the hosts and connected institu- tions, as well as via individual invitations), directly reaching over 8500 people. In total, 96 people responded to the call (Figure 1(a)). The 168 suggested topics (underpinned by 425 references, 332 of which qualified as recent from 2020/2021) were sorted and merged into 27 candidate insights. The editorial board extracted a list of 10 NICS from the 27 candidates.
+  Each insight was written by a team of three to five experts and one coordinating author. The experts were selected for each insight according to their discipline and scientific reputation, with the goal of promoting diversity in terms of gender, geog- raphy and scientific discipline (Figure 1(b)). The coordinating authors were staff appointed by the hosts.
+
+3. New insights
+3.1 Insight 1: Can global warming still be kept to 1.5 °C, and if yes, how?
+The Paris Agreement aims to hold global warming to well below 2 °C and to pursue limiting it to 1.5 °C. As of 2020, human-caused global temperature increase had reached 1.2 °C above 1850-1900 levels (www.globalwarmingindex.org). Due to natural variability, an individual year's temperature statistically may exceed 1.5 °C within the next five years (World Meteorological Organization, 2021). But warming in a single year is not how to assess whether limits set by the Paris Agreement are met as they refer to long- term, global averages (Rogelj et al., 2017).
+Updates in historical temperature datasets now estimate about
+0.1 °C higher historical warming as a result of improved interpret- ation of temperature observations from the early-industrial period (Kadow et al., 2020; Morice et al., 2021; Rohde & Hausfather, 2020; Vose et al., 2021). Targeting 1.5 °C of warming above 1850-1900 levels using these updated temperature datasets there- fore results in a shorter temperature distance between today and
+1.5 °C, and thus a lower remaining carbon budget than implied at the time of the Paris Agreement.
+   A new uncertainty analysis (using this updated estimate of histor- ical warming) concluded that in order to have even odds of not exceeding 1.5 °C, the atmospheric carbon uptake would have to be capped at 440 GtCO2 from 2020 onwards (Matthews et al., 2021). The associated remaining carbon budget estimate applies to total future emissions until net-zero CO2 emissions are achieved, given the current understanding of climate sensitivity and carbon cycle responses to a typical 1.5 °C-compatible emission scenario (Matthews et al., 2020, 2021) (Figure 2). If at that point CO2 emissions remain at net-zero, warming could remain largely stable (MacDougall et al., 2020). However, this carbon budget estimate is contingent on concomitant stringent and unprecedented reductions in non-CO2 emissions such as methane from agriculture (Rogelj et al., 2019), land use changes, and on intact natural carbon sinks and stores, among other assumptions. Recent literature suggests that many of these assumptions may be overly optimistic (Leahy et al., 2020).
+
+
+
+
+
+Figure 1. Classification of (a) call respondents and (b) authors (including invited experts, coordinating authors and editorial board members) in terms of scientific discipline and geography (affiliation based, for details about the geography definitions, see Supplement material). Gender composition among call respondents was 37/59 (female/male); among authors it was 31/31. The call respondents' classification was made based on their responses; the authors' classification was individually confirmed.
+
+
+
+  At the same time, the COVID-19 pandemic has had a pro- found effect on global CO2 emissions. In the year 2020, global CO2 emissions decreased by about 7% compared with 2019 (Friedlingstein et al., 2020). A single-year reduction has only neg- ligible long-term effects (Forster et al., 2020), but sustaining a similar level of annual decrease (2 GtCO2/year or 5% of 2019 emissions), would bring us to net-zero around 2040, in line with about even odds of limiting warming to 1.5 °C (Matthews et al., 2021).
+  The emissions reductions due to COVID-19 were largely because of changes in demand, while the structure of the econ- omy remained unchanged. However, structural reductions in car- bon intensity have been shown to multiply the effect of small demand reductions (Bertram et al., 2021). Furthermore, contin- ued progress in solar and wind energy technologies suggests that additional low-carbon generation might soon be sufficient
+
+
+to meet new power demand (Whiteman et al., 2021) if deployed in conjunction with demand-side reductions (see Insight 6). If policies and recovery investments are aligned with efficiency and low-carbon energy technologies (Pianta et al., 2021), the needed drastic structural emissions reductions could be achieved. Studies of deep decarbonization pathways show that the power sector offers many opportunities for deep decarbonization by the middle of the century, including in China (Duan et al., 2021), making electrification vital (Victoria et al., 2020). Direct electrifi- cation is preferable as it increases efficiency (Madeddu et al., 2020), but hydrogen-based fuels could play a role where electrifi-
+cation is not feasible (Ueckerdt et al., 2021).
+  The deep and immediate emissions reductions required to keep warming to 1.5 °C indicate that all mitigation levers need to be employed at their most ambitious scales (IEA, 2021; IPCC, 2018; Warszawski et al., 2021). Residual emissions from
+
+
+
+
+
+Figure 2. Heading towards net-zero CO2 emissions and the 1.5 °C target. The x-axis shows cumulative CO2 emissions from 2020 until net-zero emissions are reached, with the associated likelihood of limiting peak warming to 1.5 °C on the left y-axis (based on the distribution of the 1.5 °C remaining carbon budget from Matthews et al., 2021). The right y-axis marks the year that net-zero CO2 emissions would be reached assuming a constant linear decrease from 2020 onwards, with the colours indicating the associated annual emissions decrease. Even odds limiting warming to 1.5 °C would require cumulative emissions of 440 GtCO2 from 2020 onwards and require annual emission reductions of 2 GtCO2/year.
+
+
+existing and proposed infrastructures will very likely exceed the remaining carbon budget for 1.5 °C (Tong et al., 2019), necessitat- ing either the early retirement of economically viable infrastruc- ture, or the large-scale deployment of carbon removal options. If near-term emissions are not sufficiently reduced, the window of opportunity to limit peak warming to 1.5 °C will close. Net negative emissions could return temperatures below this threshold after an overshoot (Tokarska et al., 2019), but this would require huge economic effort and strong regulations (Strefler et al., 2021) as well as potentially crossing critical tipping points (see Insight 4). Broad portfolios of different carbon removal options could potentially increase total removal, while limiting the exces- sive use of individual options and their associated negative side effects (Fuhrman et al., 2020; Strefler et al., 2021).
+
+
+3.2 Insight 2: impact of non-CO2 factors on global warming
+Climate warming is driven by human activities that produce both positive and negative climate forcing. About 46% of current cli- mate warming (21% of net warming) is caused by factors other than carbon dioxide (CO2) that include greenhouse gases, their pre- cursors or warming aerosols such as black carbon (IPCC, 2021, table AIII.3). Cooling factors, such as sulphate and nitrate aerosols and albedo changes due to land-use change, offset 20-50% of anthropo- genic warming. These 'non-CO2 factors' are the largest source of uncertainty in the remaining carbon budget (IPCC, 2018, Chapter 2).
+  The net impact of non-CO2 factors has increased from zero to an increasing warming effect over the past 20 years (Mengis & Matthews, 2020), linked to both increasing methane and nitrous oxide emissions from agricultural and land-use activities, and reductions in aerosol emissions.
+  Substantial progress in our understanding of aerosol radiative forcing provides higher confidence in the significant cooling effect of aerosols from human activities since 1850 (two chances out of three for a 0.6-1.6 W/m2 cooling) (Bellouin et al., 2020), domi- nated by aerosol interactions with clouds.
+  
+The COVID-19 pandemic lockdowns in 2020 were anunintended experiment illustrating the impact of reductions in aerosol and other short-term climate-forcing agents. Aerosol emissions from fossil fuel combustion, especially from the transport sector, reduced dramatic- ally and increased global mean temperatures by 0.03 °C within a few months, with regional effects as high as 0.3 °C in May 2020 (Gettelman et al., 2021). Aerosol reductions had a larger effect than reductions in CO2, ozone or aeroplane contrails on timescales of months to a year; however, the combined effects of the 2020/2021 reductions in greenhouse gases and aerosols on temperature become negligible in the long term (Forster et al., 2020).
+  Methane (CH4) atmospheric concentrations continue to increase rapidly with a record high in 2020, reaching concentra- tions 6% higher than in 2000 (NOAA (AGGI), 2021). Increasing anthropogenic emissions over the last two decades are likely the dominant cause, with agriculture and waste sectors contributing in southern and South-eastern Asia, South America and Africa, and fossil fuel sectors contributing in China and the United States (Jackson et al., 2020; Saunois et al., 2020).
+  Methane represents one of the greatest opportunities to address climate change. Readily available measures could reduce more than 45% of projected anthropogenic methane emissions by 2030. Low-cost reductions by reducing fossil fuel leaks and waste treatment would deliver about 0.3 °C of avoided warming by the 2040s (UNEP, 2021).
+  Nitrous oxide (N2O) is accumulating in the atmosphere at an increasing rate, with global emissions 10% greater in 2016 than in the 1980s, faster than all scenarios used by the Intergovernmental Panel on Climate Change (IPCC). The use of nitrogen fertilizers in agriculture, including organic fertilizer from livestock manure, caused over 70% of global N2O emissions in the recent decade (2007-2016) with the largest growth coming from emerging econ- omies, particularly Brazil, China and India (Tian et al., 2020).
+  Growing demand for food and animal feed will further increase global N2O and CH4 emissions (NOAA (AGGI), 2021; Tian et al., 2020; Yao et al., 2020). Some mitigation options in the agriculture sector are available for immediate deployment,
+
+
+
+
+
+
+Figure 3. Current anthropogenic climate forcing (based on IPCC AR5 datasets) parti- tioned based on their respective sources of emissions contributions from land-use and agricultural activities (left) and fossil fuel combustion activities (right). The partitioning for the non-CO2 greenhouse gas-forcing factors has been done based on Mengis and Matthews (2020); the partitioning of CO2 is based on cumulative emissions of 395 giga- tonnes of carbon (GtC) and 200 GtC (FFC and LUC, respectively) between 1850 and 2014 from Friedlingstein et al., 2020. Uncertainty whiskers to the right of the bars show forcing uncertainties of the respective contributions as reported by AR5. CO2, carbon dioxide; N2O, nitrous oxide; CH4, methane; tr. O3, tropospheric ozone; BC, black carbon aerosol from fossil fuel and biofuel; OC, primary and secondary organic aerosols; SOx, sulphate aerosols; NOx, nitrogen oxides; LUC, land-use changes.
+
+including increasing the efficiency of nitrogen use, promoting lower meat consumption and reducing food waste. Many of these mitigation actions will also improve water and air quality, benefiting both human health and ecosystems.
+  Anthropogenic climate-forcing factors can be partitioned into land-use and agricultural activities, and fossil fuel combustion activities (Figure 3). Non-CO2 factors from land-use and agricul- tural activities produce a net positive forcing, whilst from fossil fuel combustion they generate a net negative forcing (Mengis & Matthews, 2020). This has important implications: future reductions infossilfuelcombustionas wellas airqualityimprovements will elim- inate a large part of the negative forcing from co-emitted aerosols. At the same time, the positive forcing from land-use and agricultural activities is likely to increase with the projected increase in food demand in most scenarios (IPCC, 2018, Chapter 2). These two effects could lead to a substantial increase in non-CO2 climate forcing (Mengis & Matthews, 2020). The aerosol effects are accounted for in most scenarios; the land-use changes are often not (Rogelj et al., 2018). If non-CO2 greenhouse gases continue to increase, this will reduce the remaining carbon budget as it will cause continuous cli- matewarming (Mengis & Matthews, 2020). Opportunitiestomitigate non-CO2 greenhouse gases need to be developed and adopted.
+
+3.3 Insight 3: climate change forces fire extremes to reach new dimension with drastic impacts
+Wildfires are an intrinsic feature of many ecosystems around the world, but new scientific advances are showing that human-induced
+
+climate change is intensifying fire regimes. There has been an increase in fire extent, intensity and the duration of the fire season, and a change in the quality and quantity of the fuel and frequency of fires.
+  Recently, formal attribution studies of fire conditions have been produced with higher confidence due to two reasons: the methods and practices for this study continue to evolve and gain rigour (e.g. Swain et al., 2020), and significant fire and mega- fire events have more clearly contained a human fingerprint (e.g. Abram et al., 2021). These studies focus on fire weather (hot, dry, windy conditions), ignition sources (dry lightning events) and seasonal climate conditions that precondition the landscape for fire. Evidence for human influence is found in fire seasons of unprecedented magnitude in the modern era in regions as diverse as California (Goss et al., 2020), the Mediterranean basin (e.g. Ruffault et al., 2020), Canada (Kirchmeier-Young et al., 2019), the Arctic and Siberia (McCarty et al., 2020) and Chile (Bowman et al., 2019). Assessments of this attribution can now assign at least medium confidence to human influence not only on trends in fire weather but also on fire events (e.g. van Oldenborgh et al., 2021). The extreme heatwave that precondi- tioned western North America for wildfires in summer 2021 undoubtedly was more likely and more severe due to climate change (world weather attribution).
+  Megafires produce large carbon and aerosol emissions, for example, the 2019-20 Australian fires produced pyrocumulonim- bus smoke plumes that circumnavigated the globe (Kablick et al., 2020) and emitted approximately between 670 (310-1030) (Bowman et al., 2021) and 715 (517-876) Mt CO2 in total (van der Velde et al., 2021). These megafires affected entire biomes in southern and eastern Australia with unprecedented impacts on flora and fauna (Gallagher et al., 2021; Ward et al., 2020), including those that usually tolerate fire, threatening the fire- sensitive World Heritage-listed Gondwana rainforests (Nolan et al., 2020). In the Arctic circle and Siberia, amplification of arctic temperatures and dry lightning caused large areas to burn, affect- ing Arctic tundra, bogs, fens and marshes (McCarty et al., 2020). They released about 175 MtCO2 in 2019 and nearly 250 MtCO2 in 2020, while in California and Oregon, wildfires led to an excess carbon of at least 30 MtCO2 in a single year. In the world's largest wetland, the Brazilian Pantanal, extreme drying permitted a five- fold increase in burned areas, with emissions of 524 tonnes of fine particulate matter (PM2.5) and 115 MtCO2 to the atmosphere (Copernicus Atmosphere Monitoring Service (CAMS), ECMWF 2021). Regeneration of affected biomes is at risk given the high number of negatively affected species, including many endemics, and there are unclear prospects of vegetation regrowth to recover lost carbon stocks (Bowman et al., 2021; Nolan et al., 2020; Pickrell & Pennisi, 2020), with changing climatic conditions and potentially reduced forest biomass in the future (Brando et al., 2020).
+  Recent fires have likely caused significant impacts on human health. Wildfire smoke is known to impact respiratory health, and there is growing evidence of impacts on cardiovascular health (Jones et al., 2020), mortality (Magzamen et al., 2021), birth out- comes (Abdo et al., 2019; Mueller et al., 2021) and mental health (Silveira et al., 2021). Smoke from wildfires also affects local and distant air quality (the 2019-2020 Australian wildfires affected New Zealand and South America) (Nguyen et al., 2021), and smoke from Siberian fires has affected North America (Johnson et al., 2021). The full health impact of the 2019-2020 wildfires will not be known for some time due to lags in the availability
+
+
+
+of health data, but current assessments estimate around 90 increased deaths in Washington State (Liu et al., 2021) in 2020, and over 400 additional deaths and a few thousand increased hospitalizations from the 2019-2020 bushfires in Australia (Borchers Arriagada et al., 2020). Because these studies rely on concentration-response functions from non-wildfire air pollution studies, we would expect the number of deaths related to wildfire smoke to rise when using a potentially steeper concentration-response function for wildfire smoke (Aguilera et al., 2021; Kiser et al., 2020).
+   As climate changes, the occurrence of megafires may not be constrained to fire-prone ecosystems alone. Fire regimes are expected to change in the future. A change in tropical forests' moisture, for instance, may promote much larger fires (Brando et al., 2020), with important consequences for the world's bio- diversity, regional human health and global climate system.
+
+3.4 Insight 4: interconnected climate tipping elements under increasing pressure
+Tipping elements are parts of the climate system that, in response to global warming and fuelled by self-reinforcing effects - can undergo nonlinear transitions into a qualitatively different state, often irreversibly. Such transitions are triggered once a critical threshold in the global temperature level is crossed - the system has reached a tipping point. The transition process can unfold over centuries to millennia (when ice sheets melt or disintegrate), over decades to centuries (when ocean currents slow down or reshape) or years to decades (especially when direct human inter- ference additionally drives a transition, like deforestation in the Amazon rainforest).
+  Tipping processes are afflicted with high uncertainties (in terms of likelihood or timing, or both), but also associated with large potential impacts on societies and biosphere integrity (e.g. Berenguer et al., 2021; Gatti et al., 2021; Golledge et al., 2019; IPCC, 2021, Chapter 12; Ritchie et al., 2020; Sun et al., 2020). Therefore, they can be classified as high-impact, high uncertainty risks (Lenton et al., 2019).
+
+3.4.1 New evidence of change
+Several climate tipping elements, a subset of which - selected for their interaction - is discussed in this brief review, show signifi- cant individual changes already today.
+   Recent observations from Antarctica have shown that the rate at which the Antarctic Ice Sheet (AIS) may respond to environ- mental changes is affected by the amount of ice sheet damage (fracturing, crevassing), which itself is linked to the rate of ice dis- charge (Lai et al., 2020; Lhermitte et al., 2020). It is therefore pos- sible for a positive mass loss feedback to develop, leading to hysteresis behaviour of the AIS (Garbe et al., 2020). Also, bedrock rebound following AIS loss may then exacerbate long-term sea- level rise by expelling water from submarine basins (Pan et al., 2021).
+  The Greenland Ice Sheet (GIS) is losing mass at accelerating rates, due to meltwater runoff and ice discharge at outlet glaciers. Surface melt will continue to increase with further atmospheric warming. While ice discharge is 14% greater now than during the 1985-1999 period, the reasons for this increase differ from region to region, making it difficult to project future develop- ments (King et al., 2020).
+  There is increasing evidence from paleoclimate proxies as well as modern sea level and salinity observations that the Atlantic
+
+Meridional Overturning Circulation (AMOC) has significantly weakened in past decades and is at its weakest in at least a millen- nium (Caesar et al., 2021; Piecuch, 2020; Zhu & Liu, 2020). Recent statistical analyses of sea-surface temperature and salinity obser- vations give rise to the concern that this decline may be a sign of an ongoing loss of stability of the circulation, rather than just a temporal weakening (Boers, 2021).
+   Although rainfall changes have been driving plant compos- itional changes within the Amazon (Esquivel-Muelbert et al., 2019), basin-wide dieback is judged as unlikely to occur due to projected climate change alone (Chai et al., 2021). However, as forest degradation is higher than previously quantified (Matricardi et al., 2020; Qin et al., 2021), reaching up to 17% of the Amazon basin, and additionally 18% of the area is already deforested (Bullock et al., 2020), interactions between direct human-induced and climate changes may lead to regime shifts in parts of the Amazon rainforests (e.g. Longo et al., 2020). Events such as the 2015/2016 El Niño caused an extreme and pro- longed drought, which fuelled extensive and damaging fires. This has been putting some regions of the Amazon under such pres- sure that plant mortality rates remained elevated for 2-3 years after the event - particularly where forests had already been modi- fied by human activities (Berenguer et al., 2021). The southeastern part of the Amazon basin has turned into a net source of carbon to the atmosphere, not even taking the effect of fires into account (Gatti et al., 2021).
+
+3.4.2 New evidence of interaction
+These are examples of tipping elements subject to different types of interactions (Gaucherel & Moron, 2017): For instance, new research has re-emphasized the importance of ice-sheet-climate interactions, showing that at times in the past, meltwater from the GIS raised global mean sea level, directly influencing AIS retreat (Gomez et al., 2020). Increased freshwater flux into the North Atlantic from Greenland meltwater can lead to a weakening of the AMOC (Rahmstorf et al., 2015). Large-scale inter- hemispheric heat redistribution caused by AMOC slowdown could alter precipitation patterns over the Amazon (Ciemer et al., 2021), with regional differences - rainfall can be enhanced or reduced. Therefore, stabilizing and destabilizing effects are both possible, and the overall effect remains uncertain.
+
+3.4.3 The risk of cascades
+In addition to the risks from individual tipping processes, an overarching, additional layer of risk has emerged: Interactions among tipping elements can produce cascading non-linear transi- tions, that is, one tipping event actually leading to the tipping of another element (Brovkin et al., 2021; Lenton et al., 2019; Rocha et al., 2018; Steffen et al., 2018; Thomas et al., 2020).
+   Recent modelling efforts have quantitatively addressed this risk of cascades arising from interacting tipping elements such as (Figure 4) GIS and West Antarctic Ice Sheet (WAIS), the AMOC, and the Amazon rainforest (Dekker et al., 2018; Lohmann et al., 2021; Wunderling et al., 2021). Interactions between these four tipping elements could effectively lower crit- ical temperature thresholds, hence, their overall effect on Earth's climate is destabilizing, even when taking into account the consid- erable uncertainties in critical threshold temperatures, interaction strengths and directions. This additional risk from emerging tip- ping cascades is found to increase strongly between 1 and 3 °C of global warming - adding to the risk from individual tipping
+
+
+
+
+
+Figure 4. Physical interactions between four of the key climate tipping elements already under stress today by anthropogenic global warming: Greenland and West Antarctic Ice Sheets, Atlantic Meridional Overturning Circulation and Amazon rainforest. Arrows indicate directed stabilizing ('+' symbol), destabilizing ('-' symbol) effects and those with so far unclear direction ('±' symbol). Critical threshold temperatures and their uncertainty ranges of individual climate tipping elements are also indicated. Adapted from Wunderling et al. (2021).
+
+
+elements - with potentially critical impacts on human societies, biosphere integrity and overall Earth system stability.
+
+3.5 Insight 5: global climate action must be just
+Global climate action must be designed to tackle existing and anticipated inter- and intranational inequalities and injustices related to climate change. Fairer climate policies are likely to be more widely acceptable, increasing the potential for effective implementation. In this vein, climate action in the pursuit of just outcomes must respond to four dimensions of climate change inequality: impacts, responsibility, cost and capacity (Rockström et al., 2021; van den Berg et al., 2020).
+  Action on climate change is a matter of intra- and intergenera- tional justice, because climate change impacts already have affected and continue to affect vulnerable people and countries who have least contributed to the problem (Taconet et al., 2020). Contribution to climate change is vastly skewed in terms of wealth: the richest 10% of the world population was responsible for 52% of cumulative carbon emissions based on all of the goods and services they consumed through the 1990-2015 period, while the poorest 50% accounted only for 7% (Gore, 2020; Oswald et al., 2020).
+  A just distribution of the global carbon budget (a conceptual tool used to guide policy) (Matthews et al., 2020) would require the richest 1% to reduce their current emissions by at least a factor of 30, while per capita emissions of the poorest 50% could increase by around three times their current levels on average
+
+(UNEP, 2020). Rich countries' current and promised action does not adequately respond to the climate crisis in general, and, in particular, does not take responsibility for the disparity of emissions and impacts (Zimm & Nakicenovic, 2020). For instance, commitments based on Nationally Determined Contributions under the Paris Agreement are insufficient for achieving net-zero reduction targets (United Nations Environment Programme, 2020).
+  Much more needs to be done to minimize the unfair distribu- tion of the costs of climate action. Climate policies that increase the cost of basic goods tend to have regressive distributional effects, hitting people on low incomes harder than richer people in relative terms (Inoue et al., 2021; Okonkwo, 2021; Pianta & Lucchese, 2020). Resources for low-carbon technologies such as batteries and solar photovoltaic panels are often mined in poorer countries with detrimental environmental and social effects (Sovacool et al., 2021). Recent studies show that a redistribution of resources through a global cap-and-trade system, combined with financial transfers from rich to poor countries, can avoid regressive effects (Bauer et al., 2020). Further, global equal per capita revenue sharing can reduce global poverty (Soergel et al., 2021).
+  While unfair distribution of costs for climate change mitiga- tion in rich countries needs to be addressed, we must generally avoid a focus on 'compensating' societies in high-polluting regions (Sovacool et al., 2021; Tarekegne, 2020).
+  Radical climate action could slow down increases in living standards in the lower- to middle-income countries (Taconet
+
+
+
+et al., 2020) while poorer countries and people have less capacity to act on climate change. Most developing countries, as in sub-Saharan Africa, are faced with huge infrastructural deficits. These deficits, on the other hand, give them the opportunity to leapfrog to resource-efficient and climate-resilient infrastructure systems (AESA, 2021), drawing on all transitional levers for a managed exit from the high emissions development pathway. Justice requires disruption of the status quo, transforming sys- temic inequalities and the power relations that maintain them, towards a political economy supportive of countries with lower capacity to balance mitigation, adaptation and development pri- orities. International climate ambition can and must ensure co-benefits for vulnerable societies, simultaneously ensuring that
+(a) systems of distribution do not negatively interfere with peo- ple's access to basic goods; and (b) past, present and future rights derived from carbon budgets are protected (Lacey-Barnacle et al., 2020; McCauley et al., 2019; Newell et al., 2020).
+
+3.6 Insight 6: The oft overlooked potential of demand-side solutions as vehicles of climate mitigation
+Households contribute to a large share of the global carbon foot- print, providing an avenue for effective action (Dubois et al., 2019; Hertwich & Peters, 2009). Yet, the role of households is not given adequate attention in present climate change policies where the focus is largely on supply-side solutions (Creutzig et al., 2016). A more holistic approach that highlights both demand- and supply-side solutions is needed (Creutzig et al., 2018). This holis- tic approach has been described as 'production-consumption sys- tems' (Mathai et al., 2021). Recent research emphasized the potential of the consumption (i.e. demand) side of this system, recognizing that, through the lens of equity, there are distinct implications for different contexts.
+  To achieve '1.5 °C lifestyles', which aim to reduce household carbon footprints to compatibility with the Paris Agreement while improving quality of life, global per capita emissions need to halve by 2030 (Ivanova & Wood, 2020) with the rest being eliminated in the subsequent decade (refer to Insight 1). For high- emitting consumers in North America and Europe as well as con- sumer elites elsewhere, reductions will have to be far steeper both because their consumption patterns have a dramatically higher impact and to ensure a just transition that does respect develop- ment needs in lower income contexts (refer to Insight 5 for more on the just distribution of the global carbon budget). In fact, as Nielsen et al. pointed out (Nielsen et al., 2021), high socio- economic individuals with their outsized impacts should be a pri- mary target of mitigation efforts.
+   The most significant areas for action include reducing individ- ual car mobility and flying, switching to plant-based diets, and housing (e.g. location and size) (Ivanova et al., 2020). These changes will not happen on their own and there is a growing body of work on what works to bolster behaviour changes by indi- viduals (Khanna et al., 2021). Additionally, given the differential carbon footprints from the micro (e.g. household) to the macro (e.g. national) scales, responsibility for demand-side measures must also be differentiated.
+  Achieving 1.5 °C lifestyles will require the implementation of mutually reinforcing systems by the public and business sectors to support behavioural change and modification of individuals' value systems. This would foster virtuous cycles - in which house- holds call for supporting measures from the public and business sectors - whose measures enable households to adopt further
+
+changes that enhance the quality of life (Newell et al., 2021). Additionally, this would provide the necessary political economy for the creation of sustainable production-consumption systems (Mathai et al., 2021). These virtuous cycles are necessary if demand-side strategies are going to result in the needed drastic emissions reductions. Further, it is expected that these processes would be a trigger of tipping dynamics that are key to materializ- ing fast-spreading processes of social and technological change towards a decarbonized society (Otto et al., 2020).
+  Debunking common assumptions, 1.5 °C lifestyles do not pre- clude a 'good life' (Millward-Hopkins et al., 2020), and even abso- lute energy reductions would not impede human well-being (Steinberger et al., 2020). Fulfilling basic needs requires minimum levels of consumption while the carbon budget (Insight 1) (among other reasons) requires drawing an upper line of con- sumption. The spaces between necessary minimum and max- imum acceptable consumption are 'consumption corridors' where individuals may choose their lifestyle (Defila & Di Giulio, 2020). Moving the entire global population into this space would greatly improve life for billions while requiring significant changes to wealth, high-consuming elites. Consumption corridors are intended as a guide for those whose consumption exceeds the acceptable maximum, and they need to be established through democratic processes that embrace social equity ideals (Fuchs et al., 2021), so that those suffering most from climate change do not additionally carry the main burden of demand-side (price) policies.
+  The shift in consumer behaviour in response to COVID-19 pandemic containment measures points to the possibility of facili- tating 1.5 °C lifestyles. The lockdowns increased interest in local market solutions (Sharma et al., 2020) and social solidarity appeared to be a useful tool in many impoverished communities facing supply shocks (Mishra & Rath, 2020). Yet these changes resulted in a drop in emissions that would have to be repeated every year for two decades (Insight 1) while there is no evidence that the changes wrought by the pandemic will be permanent.
+  Fostering demand-side solutions would greatly facilitate meet- ing the Paris goals. They require behavioural change as well as actions by the public and business sectors to trigger tipping dynamics for deep systemic structural transformations. Democratic processes are needed to establish equitable minimum and maximum levels of consumption ensuring that basic needs are fulfilled for all.
+
+3.7 Insight 7: political challenges impede the effectiveness of carbon pricing
+Carbon pricing policies now cover roughly 22% of global emis- sions (The World Bank, 2021), yet carbon emissions continue to rise. While the economic logic of carbon pricing has been widely advocated, prices have so far been too low to have a signifi- cant effect on CO2 emissions (Green, 2021; Rafaty et al., 2020; The World Bank, 2021). This raises questions about political accept- ability and the political economy of carbon pricing.
+  Though economically rational, carbon pricing faces political obstacles that may limit its effectiveness (Rosenbloom et al., 2020). First, carbon pricing creates upfront costs to individuals and economic agents, while promising distant climate benefits. This approach can create a political backlash (Rabe, 2018). Second, carbon pricing, and particularly taxes, are often regres- sive, though there is variation across policies (Ohlendorf et al., 2021). Without careful design (see, e.g. Cronin et al., 2019),
+
+
+
+regressive pricing can produce further backlash or opposition from lower-income groups. The redistribution of revenues can make carbon pricing more politically acceptable to the public at large (Jagers et al., 2021). However, progressive policies can also spur backlash from average- or upper-income groups, who are required to pay more in accordance with their consumption (Wetts, 2020).
+  Some have recommended a universal carbon price through linked carbon markets or a global carbon price floor (Carattini et al., 2019; Keohane et al., 2017; Mehling et al., 2018). Yet, the difficulties in finalizing the rules for Article 6 of the Paris Agreement are evidence of the political challenges of this approach. Sectoral carbon prices and border tax adjustments could help overcome some resistance. However, the EU-proposed border tax adjustment policy will raise new political and economic challenges for trade (Evans et al., 2020), particu- larly for some low- and middle-income countries, which are increasingly home to emissions-intensive production. Moreover, there are important equity implications of border-tax adjustments (Aylor et al., 2020).
+  These political obstacles have impeded the efficacy of carbon pricing. For instance, the received wisdom has been that carbon prices should start low and rise over time, but because of political and economic dynamics, the price levels have generally remained low. Sharp short-term increases are needed to significantly con- tribute to the Paris targets (Strefler et al., 2021), but these would likely incur political resistance. Time remains a problem: Krausmann et al. (2020) show that the majority of emissions come from maintenance and use of infrastructures, leading to low price elasticity. Regulatory capacity also contributes to effect- ive implementation (Levi et al., 2020). Moreover, carbon pricing may drive efficiency improvements and fuel switching but have a limited effect on decarbonization (Green, 2021). The extensive and persistent subsidies for fossil fuels create a countervailing negative price that undermines price signals created by carbon pricing (Coady et al., 2019). And finally, the use of carbon offsets in emissions trading systems may diminish reductions due to pro- blems with additionality (Cullenward & Victor, 2020; Haya et al., 2020).
+   To address the political obstacles that have beset carbon pri- cing, we recommend the following measures:
+
+(1) Rather than seeking a global carbon price, sectoral-based car- bon pricing can offer a first step towards expanding the scope of carbon pricing, by addressing potential competition, and therefore political challenges. The diversity of economic and political circumstances should be acknowledged (Verbruggen & Brauers, 2020).
+(2) Tax revenues should be used in a transparent and fair manner (including to lower other taxes, fund public goods and climate investment), or be refunded, to avoid regressive effects and to increase acceptance (Hagem et al., 2020).
+(3) To drive transformative decarbonization, carbon pricing should be complemented by other approaches in 'bundles' of climate policy instruments and sequenced appropriately (Pahle et al., 2018). Policy should include large domestic investments in renewable energy production and infrastruc- ture and adaptation measures as well as non-market-based policies such as standards and regulations (Bergquist et al., 2020; Cullenward & Victor, 2020). These should target both demand for and supply of fossil fuels (Green & Denniss, 2018).
+(4) 
+Carbon prices should be applied to a larger share of global emissions and be sufficiently high to drive substantial decarbonization.
+(5) The use of offsets should be carefully controlled (Cullenward & Victor, 2020; Green, 2017), and fossil fuel subsidies reduced as quickly as possible (IEA, 2021).
+
+3.8 Insight 8: nature-based solutions can form a meaningful part of the pathway to Paris but look at the fine-print
+Nature-based solutions (NbS) involve working with nature to address societal challenges such as climate change, biodiversity loss and social equity. They are actions that protect, restore and better manage natural or modified ecosystems (Seddon et al., 2020). NbS involve a wide range of ecosystems, both aquatic and on land. A prominent, but by far not the only example are forests, where measures include reducing deforestation, forest res- toration and managing farm and timber lands better. Among carbon-rich natural ecosystems with high rates of conversion are peatlands and mangroves. Recent scientific debate around NbS focused on their role in climate change mitigation and adap- tation, equitable implementation, and financing and governance needs.
+
+3.8.1 Nbs can contribute to climate mitigation and adaptation Reaching net-zero emissions by 2050 requires rapid reductions of fossil fuel emissions complemented by some carbon dioxide removal (CDR) for very hard-to-abate emissions (Fuss et al., 2020). Compared with other CDR options, NbS are cost-effective, technology-ready and can offer a multitude of local benefits when appropriately implemented. These include climate change adapta- tion and risk mitigation, for example, flood control, biodiversity preservation, socio-economic development and co-benefits to human health and well-being (see Insight 10 for more on co-benefits from NbS) (Chausson et al., 2020; Seddon et al., 2021). Massive new monoculture plantations do not fall under the conditions set for NbS.
+  NbS can provide mitigation benefits in the short term, and can play a limited but important role in the transition to net-zero in the coming decades (Fuss et al., 2020; Girardin et al., 2021) - more about the potential scale is expected to be assessed in the upcoming IPCC AR6 report from Working Group III. However, feedbacks in the Earth System and climatic risks to ecosystem sta- bility make the potential of NbS for mitigation beyond 2050 uncertain (Anderegg et al., 2020; Koch et al., 2021). Hence, NbS for climate change mitigation need to supplement, and cannot replace, decarbonization efforts, which remain key to limit global warming to 1.5 °C (IPCC, 2019a).
+  Importantly, scenarios that limit warming to 1.5 °C simultan- eously assume: (1) net zero CO2 emissions by 2050 and net zero greenhouse gas (GHG) emissions in the 2060s; (2) shifts away from GHG-intensive food systems; (3) CDR; and (4) maintained resilience in natural ecosystems (IPCC, 2018). However, imple- menting NbS requires using the right approaches and metrics (for climate, biodiversity and livelihoods) in order to reap the full benefits of a range of Sustainable Development Goals (Seddon et al., 2020).
+
+3.8.2 Equity and procedural justice are central to implementing NbS
+Much of the carbon-saving potential of NbS is located in the Global South (Strassburg et al., 2020). Regulation and institutional
+
+
+
+support are critical to overcome barriers and ensure equitable out- comes and procedural justice. Using NbS without a just distribu- tion of the remaining carbon budget unfairly shifts the North's emission reduction burden onto the South (Fleischman et al., 2020). Areas with the biggest NbS potential in the South are largely occupied by indigenous and marginalized communities, whose rights remain predominantly unrecognized (RRI and McGill University, 2021). Recognizing local rights and knowledge (specifically respecting the condition that communities must give Free Prior Informed Consent to any changes in land use, includ- ing over changes to customary lands), ensuring decentralized gov- ernance, generating local benefits (Erbaugh et al., 2020) and using a range of financial instruments that ensure the additionality of NbS to decarbonization measures can ensure fair and sustainable outcomes.
+
+3.8.3 Nbs need integrated financing and governance structures NbS have a significant contribution to make to global emissions reductions, yet have been receiving only a small fraction of climate mitigation financing (Dasgupta, 2021).
+  Finance structures for net-zero aligned, sustainable and just NbS require: (1) performance metrics measuring multiple benefits (e.g. for genuine GHG reductions, biodiversity and local liveli- hoods); (2) science-informed and transparent monitoring, report- ing and verification (MRV), enabling the matching of large-scale carbon finance from governments, businesses and philanthropists to sustainable NbS; and (3) improvements in governance to ensure the efficient and just allocation of finance and administra- tion (Hourcade et al., 2021).
+   Many experiences have been gained on the governance and MRV challenges of managing NbS. Reduced Emissions from avoided Deforestation and land Degradation (REDD+), for example, is a results-based payment scheme for the conservation and restoration of forest carbon, providing lessons learned for managing NbS. REDD+ has not yet delivered at scale on its prom- ise for quick and low-cost emissions reductions, partially due to the slow rate of political, economic and regulatory transforma- tions needed to ensure compliance (Rajão et al., 2020).
+
+3.8.4 Possible guidelines for just and sustainable NbS
+The above insights are reflected in a growing consensus on four high-level guidelines that ensure NbS interventions will be eco- logically sound, net-zero aligned and socially just. NbS should:
+(1) not be seen as an alternative to decarbonization; (2) involve a wide range of ecosystems (see also Insight 9); (3) be designed with local communities while respecting indigenous and other rights; and (4) meaningfully support biodiversity (Pörtner et al., 2021; Seddon et al., 2021).
+
+3.9 Insight 9: building resilience of marine ecosystems is achievable by climate-adapted conservation and management, and global stewardship
+Marine biodiversity is the key foundation for the structure and functioning of ocean ecosystems that provide essential services and benefits supporting human well-being on local to global scales. Yet, marine ecosystems are exposed to manifold impacts of climate change and other anthropogenic pressures that are accelerating in magnitude and extent (Jouffray et al., 2020). This includes ocean warming, acidification, deoxygenation and extreme events, as well as exploitation, mining, pollution (eutrophication, toxins, organic waste, plastics, litter), habitat
+
+destruction, unsustainable fishing and aquaculture, invasive spe- cies and shipping (Bates & Johnson, 2020; Boyce et al., 2020; Glibert, 2020; Heinze et al., 2021). Today, more than 1300 marine species are threatened with extinction (Figure 5a), 34.2% of fish stocks are overexploited, most ocean areas experience the men- tioned anthropogenic impacts cumulatively, and 33-50% of vul- nerable habitats have been lost (Duarte et al., 2020).
+   New evidence suggests that substantial restoration across many components of marine ecosystems by 2050 is challenging but achievable, although climate change poses new threats that require rethinking of conservation, management and governance efforts (Duarte et al., 2020; O'Hara et al., 2021). For example, due to warming and an excessive nutrient input, the oceanic oxygen con- tent has demonstrably declined since around 1960, leading to an expansion of deep sea oxygen minimum zones and more frequent hypoxia in coastal systems (Oschlies, 2021). Deoxygenation accel- erates the emission of greenhouse gases such as nitrous oxide and methane, reduces habitat quantity and quality for many species, elevates vulnerability to fishing, for example, for the ocean's wid- est ranging sharks (Vedor et al., 2021) and threatens ocean ecosys- tem services at large. Warming waters shift species distributions and reduce biomass across trophic levels, and heat waves threaten, for example, the survival of coral reefs and possibly temperate kelp forests. Healthy ocean ecosystems are more resilient to cli- mate change and can help to mitigate climate change effects by acting as blue carbon sinks via marine sediments, algae, vegetated habitats and large animals (Atwood et al., 2020; Filbee-Dexter & Wernberg, 2020). The sustainable management of fish stocks (which account for 17% of global meat consumption) could sus- tain and even increase their current contribution to meet the increasing global food demand (Costello et al., 2020).
+  Effective biodiversity protection and ecosystem recovery require coordinated inclusive and adaptive governance across all levels that sets clear targets and strong actions in a global steward- ship context. Successful recovery and restoration actions have included exploitation bans and restrictions, endangered species legislation, habitat protection and restoration, and invasive species and pollution controls. Yet stressors often interact with each other, requiring cumulative-impact assessment and climate-adapted and ecosystem-based management (Franke et al., 2020; Tittensor et al., 2019). The current fragmented ocean governance system is often insufficient for managing this complexity and the cross- sectoral challenges.
+  Climate-smart conservation can build resilience into the global marine protected area (MPA) network (Sala et al., 2021) by including climate refugia with little projected change, high species turnover areas with rapid evolution potential, hotspots of threa- tened biodiversity, but also proper representation of diverse habi- tats and biomes, and corridors ensuring connectivity (Figure 5b). Protecting blue carbon areas is an important NbS to climate change mitigation with co-benefits for biodiversity protection. Carbon sequestration and storage in mangroves, seagrass beds and saltmarshes can be highly effective, but kelp forests are often overlooked. With their global distribution and large stand- ing biomass, they store substantial carbon (e.g. 30% of blue car- bon in Australia (Filbee-Dexter & Wernberg, 2020)) but are threatened by ocean warming. Marine sediments are also globally important carbon sinks, which are disturbed by expanding sea- floor trawling and seabed mining. The lack of protection (only approximately 2% of sediment carbon stocks are in fully protected areas) makes marine carbon stocks highly vulnerable to human disturbances, amounting to an estimated 1.47 Pg of aqueous
+
+
+
+
+
+Figure 5. Major current threats and climate-adapted solutions to marine biodiversity conservation. (a) Percentage of all vulnerable, endangered or critically endan- gered marine species that are threatened by different anthropogenic impacts including climate change (redrawn from Luypaert et al., 2020, with updated IUCN data from May 2021). (b) Percentage of common climate-change adaptation strategies employed in the design of existing or future marine protected areas (MPAs) either as a single measure (dark shade) or in conjunction with other strategies (light shade) out of n = 27 case studies (redrawn from Wilson et al., 2020).
+
+
+CO2 emissions (equivalent to 15-20% of atmospheric CO2 absorbed by the ocean each year) (Atwood et al., 2020).
+   To overcome these limitations, a new ocean governance system should be coherent, reflexive and responsive to rapidly shifting ocean dynamics in time and space to facilitate decision-making in deep uncertainty (Figure 6) (Brodie Rudolph et al., 2020; Haas et al., 2021). Governance efforts should be shaped by context-specific evidence-based solutions and need to consider underlying socio-ecological pathways and connect ocean health to human health. Currently, national and international efforts, bolstered by the United Nations (UN) Decade of Ocean Science, aim to expand the global network of MPAs from 7.7 to 30% and to reach Aichi biodiversity targets and UN Sustainable Development Goals by 2030. Overall, the push towards a blue economy brings many challenges as well as opportunities. With effective, globally and regionally coordinated protection, the ocean offers triple benefits: preserving unique biodiversity, sea- food provision and carbon storage. Efforts must be informed by marine spatial planning, climate and ecosystem-based manage- ment, and multi-functional conservation to deal with accelerating pressures, and balance resource use with the protection of bio- diversity and ocean health.
+
+3.10 Insight 10: costs of climate change mitigation can be justified by the benefits to the health of humans and nature
+Estimates of the health co-benefits of mitigation policies indicate that the economic value of avoiding and postponing hospitaliza- tions and premature deaths, while excluding climate change benefits, is larger than the costs of climate mitigation (Hess et al., 2020). Not investing in mitigation efforts means continued detrimental health effects that could be prevented before climate benefits are apparent (Chang et al., 2017). Furthermore, there is
+
+a need to accelerate these investments to prevent exacerbating injustice because the impacts of climate change on the health of both humans and nature are disproportionately felt by communi- ties that are socially, politically, geographically and/or economic- ally marginalized (Pörtner et al., 2021).
+
+3.10.1 Mitigation options in key sectors
+The three main changes to the transport sector that would benefit mitigation and both the health of human and nature are: (1) switching to electric vehicles powered by clean energy, thereby reducing air pollution; (2) reducing travel distances through urban planning and remote work, thereby reducing traffic injur- ies, noise and air pollution; and (3) switching to walking, cycling and public transport, with physical activity benefits (Brand, 2021; Glazener et al., 2021). Tools are now available to estimate carbon and health economic co-benefits of active travel using a measure called the Value of Statistical Life (Götschi et al., 2020).
+  Critical for agriculture, forestry and food sectors, nature pro- vides significant benefits for human health by supporting climate change mitigation and increasing resilience (Johnson & Gerber, 2021); however, only in limited cases have these been valued in economic terms (Fisher et al., 2021; Lawler et al., 2020). Biodiversity losses due to climate change lead to reductions in ser- vices provided by nature to society (reduced crop yields and nutri- tion, fish catches, losses from flooding and erosion, and loss of potential new sources of medicine (Applequist et al., 2020; Ebi et al., 2021; OECD, 2021)), with implied significant welfare costs running into billions of USD.
+  The energy sector also plays an important role. Across differ- ent scenarios, depending on the scale and context, bioenergy, car- bon capture and storage and nuclear power have quantified health co-benefits that exceed mitigation costs (Sampedro et al., 2020). Health co-benefits also outweigh mitigation costs in county-level
+
+
+
+
+
+Figure 6. Increasing recognition of the need for multi-level governance of marine ecosystems to allow for adaptive responses to systemic changes in the ocean. Emergent adaptive responses occur as a result of commons-oriented global ocean stewardship that is guided by science, supported by regional collaboration and informed by local conditions and innovations.
+
+
+studies conducted in the US (Perera et al., 2020; Sergi et al., 2020) and South Korea (Kim et al., 2020) up to 2050.
+  Mitigation techniques in the industry sector, including changes in material flows, improved efficiency, and changes in production methods and technologies, are associated with health economic co-benefits (IPCC, 2014, Chapter 10).
+Changing people's lifestyles can provide health co-benefits to
+nature. For example, reducing meat and dairy intake can reduce the environmental impact of food production (Jarmul et al., 2020; Volta et al., 2021). The 'syndemic' of obesity, undernutrition and climate change (Swinburn et al., 2019) acknowledges common drivers and solutions, and the overconsumption and inequitable distribution of resources that have contributed to these overlapping health threats.
+
+3.10.2 The way forward
+Accounting for co-benefits from the health of nature (Taillardat et al., 2020) and humans is needed (OECD, 2021) and increases the incentive for climate mitigation. NbS, as discussed in Insight 8, can provide such co-benefits with biodiversity conser- vation (Griscom et al., 2020; Lenton, 2020) or restoration efforts, although restoration is costlier than conservation (Dasgupta, 2021). As an example, a recent scenario analysis showed that
+
+prevention costs for 10 years can be as low as 2% of the cost of the pandemic posits (Dobson et al., 2020). Even though research on the origins of the pandemic is still in its infancy, the economics are encouraging.
+  Well-designed mitigation interventions can thus promote healthy nature, lower public health risks, and save costs globally while minimizing trade-offs. Notwithstanding that careful consid- eration is needed for policies to incorporate issues of justice and the distribution of benefits. In addition, raising awareness on the economics for co-benefits to the health of humans and nature can serve as motivation in all sectors to increase climate change mitigation investments in low-, middle- and high-income countries.
+
+
+4. Discussion and perspectives
+The COVID-19 pandemic has been a powerful example of how the combination of short-term shocks and long-term stressors can have extreme impacts. COVID-19 has revealed elements of governance, markets, inequities and the environment that illus- trate how the climate crisis could impact the planet and the global society. As with the impacts of climate change, injustices within communities and across the world have become inescapably
+
+
+
+apparent, with dramatically greater burdens and mortality rates among non-white people and women, and lower-income groups and countries more generally.
+   Due to climate change, ecosystems and people are confronted with unprecedented, often locally new, climate-forced impacts, with humanitarian crises looming as a result of degrading living conditions and the potential for cascading risks across various scales.
+   The path to achieving the Paris Agreement's 1.5 °C target is
+very narrow - just and targeted measures are needed urgently at all levels: structural, political and individual
+  Approximately the same annual reduction in greenhouse gas emissions as in 2020 in response to COVID-19 would be neces- sary every year to achieve net-zero emissions by the middle of the century. This is in line with a roughly 50% chance of limiting warming to 1.5 °C - potentially even higher when taking into account the uncertainty surrounding non-CO2 factors. COVID-19 has provided a glimpse of what a 7% overall reduction in emissions worldwide would require in terms of reduced mobil- ity and industrial activity, given the current infrastructure. But the pandemic has come as a shock. In contrast, a prudent combin- ation of measures, integrated into a well-planned transformation and including the use of technology, fiscal or policy levers, and the communication of new narratives of the good life - each with its own advantages and challenges - will be necessary to achieve the imperative reductions.
+  Specific types of mitigation measures, be it carbon pricing, accounting for non-CO2 emissions, NbS or demand-side solu- tions, are sometimes singled out as silver bullets in the combat against global warming. None of them, however, can stand alone. And all of them need to be well designed to be effective and carefully implemented in order to avoid trade-offs.
+  Just and inclusive climate mitigation efforts across every sector will yield direct benefits to the health of humans and nature, cap- tured by the term 'co-benefits'. It should be clear that, irrespective of climate policy, the measures proposed are in and of themselves part of a policy package in service of society and the environment. We are not limited by our knowledge of the problem or of measures available, but by other obstacles - structural and cul- tural, but especially political - which inhibit the pace and scale of implementation that are needed to achieve the goals of the
+Paris agreement
+  The urgency to act is indisputable, rooted in abundant evi- dence produced across disciplines and sectors with benefits for both ecosystems and humans. The COVID-19 pandemic has shown us the painful and inequitably distributed impacts of a global crisis. Stopping and reversing the degradation and loss of continental and marine ecosystems, rich in biodiversity, product- ivity and carbon, and of great importance to livelihoods and cul- tural identity, remains one of the highest priority actions. Implementation, however, lags behind its potential. Bolstered by the most up-to-date science on climate change, leadership around the world and coordinated and forward-thinking is needed now.
+Supplementary material. The supplementary material for this article can be found at https://doi.org/10.1017/sus.2021.25
+Acknowledgements. Our thanks for advice and support go to Wendy Broadgate, Ria Lambino, Mike Sparrow and Camilo Tello.
+Author contributions.
+MB, DC, HC, FD, KLE, EF, HHH, JohR, LS, PS and DS constituted the Editorial Board, conceiving and designing the study and providing editorial oversight. MAM led and coor- dinated the overall writing. CME, JG, SRH, HH, MAM, AR, EP and GBS performed
+
+investigations and writing, as well as coordinated the insight author teams. MB, KB, JFD, CAJG, JFG, HKL, RN and NS led the writing teams. OAS, AB, NB, CB, TB, KB, PMB, TBR, MB, PD, JFD, FKD, HD, CMD, KLE, AE, SF, AG, CAJG, NRG, JFG, MRG, MasH, MarH, SK, SharL, SylL, HKL, HDM, DarM, DesM, NM, RHN, SR, CER,
+JoerR, MS, JHS, TNNS, NS, KT, HT, RW and JW performed investigations and writing of the insights.
+
+Financial support. This work was supported by the Deutsche Forschungsgemeinschaft (R.W., grant number Wl4556/3-1); the ERC Consolidation Grant GLASST (J.W.); the European Research Council Advanced Grant project ERA (Earth Resilience in the Anthropocene) (J.F.D., grant number ERC-2016-ADG-743080); the European Space Agency (S.H.); the European Union's Horizon 2020 research and innovation pro- gramme (R.W., grant numbers 820575, 869304) (T.B., grant number 820989) (Joer.R., grant number 820829) (C.B., grant number 821471); FORMAS (T.B.); the German Federal Ministry (BMBF) as a Research for Sustainability initiative (FONA) (R.W); the H2020 FirEUrisk (K.T., grant number  101003890);  the  H2020  JUSTNORTH  (D.M.);  the  H2020
+PROBONO and NWO (D.M.); the KR Foundation, Denmark (L.S.); the Leibniz Association project DominoES (J.F.D.) (R.W.); the Natural Sciences and Engineering Research Council of Canada (H.K.L., grant number NSERC RGPIN-2021-02395)  (H.D.M.,  grant  number  RGPIN-2017-04159);  the
+National Science Foundation of China (H.D., grant numbers 71874177, 72022019); the NERC_Formas-DBT project 'Nature4SDGs' (S.L., grant num- ber BT/IN/TaSE/73/SL/2018-19); the New South Wales Department of Planning, via the NSW Bushfire Risk Management Research Hub (R.H.N.); the Oxford Martin School funding (C.G.); the PalMod project (R.W., grant number FKZ: 01LP1925D); the Royal Society Te Aparangi (N.R.G., grant number RDFVUW1501); the Serrapilheira Institute (M.H., grant number Serra-1707-18983); the Swedish national priority research areas BECC and MERGE (D.C.); the Trapnell Fund (University of Oxford) (N.S.); the UK Centre for Research on Energy Demand Solutions (M.B., grant number EP/ R035288/1)
+Conflict of interest. MAM supports JohR in his role as editor in chief with Global Sustainability. The remaining authors declare none.
+Research transparency and reproducibility. All potential additional resources such as data, materials, protocols and software code (if not refer- enced in the manuscript or provided in the Supplementary material) can be requested via e-mail to the corresponding author.
+
+
+References
+Abdo, M., Ward, I., Dell, K. O., Ford, B., Pierce, R., Fischer, E. V., & Crooks, J.L. (2019). Impact of wildfire smoke on adverse pregnancy out- comes in Colorado, 2007-2015. International Journal of Environmental Research and Public Health, 16(19), 1-16. https://doi.org/10.3390/ ijerph16193720.
+Abram, N. J., Henley, B. J., Sen Gupta, A., Lippmann, T. J. R., Clarke, H.,
+Dowdy, A. J., Sharples, J. J., Nolan, R. H., Zhang, T., Wooster, M. J., Wurtzel, J. B., Meissner, K. J., Pitman, A. J., Ukkola, A. M., Murphy, B. P., Tapper, N. J., & Boer, M. M. (2021). Connections of climate change and variability to large and extreme forest fires in southeast Australia. Communications Earth & Environment, 2(1), 8. https://doi.org/10.1038/ s43247-020-00065-8.
+AESA (2021). Setting priorities for climate change and development in Africa.
+ASP.
+Aguilera, R., Corringham, T., Gershunov, A., & Benmarhnia, T. (2021). Wildfire smoke impacts respiratory health more than fine particles from other sources: Observational evidence from Southern California. Nature Communications, 12(1493), 1-8. https://doi.org/10.1038/s41467-021-
+21708-0.
+Anderegg, W. R. L. L., Trugman, A. T., Badgley, G., Anderson, C. M., Bartuska, A., Ciais, P., Cullenward, D., Field, C. B., Freeman, J., Goetz, S. J., Hicke, J. A., Huntzinger, D., Jackson, R. B., Nickerson, J., Pacala, S., & Randerson, J.
+T. (2020). Climate-driven risks to the climate mitigation potential of forests.
+Science, 368(6497), 1-9. https://doi.org/10.1126/science.aaz7005.
+
+
+
+Applequist, W. L., Brinckmann, J. A., Cunningham, A. B., Hart, R. E., Heinrich, M., Katerere, D. R., & Van Andel, T. (2020). Scientists warning on climate change and medicinal plants. Planta Medica, 86(1), 10-18. https://doi.org/10.1055/a-1041-3406.
+Atwood, T. B., Witt, A., Mayorga, J., Hammill, E., & Sala, E. (2020). Global patterns in marine sediment carbon stocks. Frontiers in Marine Science, 7, 1-9. https://doi.org/10.3389/fmars.2020.00165.
+Aylor, B., Gilbert, M., Lang, N., McAdoo, M., Öberg, J., Pieper, C., Sudmeijer, B., & Voigt, N. (2020). How an EU Carbon Border Tax Could Jolt World Trade | BCG. Bcg, (June).
+Bates, N. R., & Johnson, R. J. (2020). Acceleration of ocean warming, salinifi- cation, deoxygenation and acidification in the surface subtropical North Atlantic Ocean. Communications Earth & Environment, 1(33), 1-12. https://doi.org/10.1038/s43247-020-00030-5.
+Bauer, N., Bertram, C., Schultes, A., Klein, D., Luderer, G., Kriegler, E., Popp, A., & Edenhofer, O. (2020). Quantification of an efficiency-sovereignty trade- off in climate policy. Nature, 588(7837), 261-266. https://doi.org/10.1038/ s41586-020-2982-5.
+Bellouin, N., Quaas, J., Gryspeerdt, E., Kinne, S., Stier, P., Watson-Parris, D., Boucher, O., Carslaw, K. S., Christensen, M., Daniau, A. L., Dufresne, J. L., Feingold, G., Fiedler, S., Forster, P., Gettelman, A., Haywood, J. M., Lohmann, U., Malavelle, F., Mauritsen, T., ... Stevens, B. (2020). Bounding global aerosol radiative forcing of climate change. Reviews of Geophysics, 58, 1-45. https://doi.org/10.1029/2019RG000660.
+Berenguer, E., Lennox, G. D., Ferreira, J., Malhi, Y., Aragão, L. E. O. C., Rodrigues Barreto, J., Del Bon Espírito-Santo, F., Figueiredo, A. E. S., França, F., Gardner, T. A., Joly, C. A., Palmeira, A. F., Quesada, C. A., Rossi, L. C., Moraes de Seixas, M. M., Smith, C. C., Withey, K., & Barlow, J. (2021). Tracking the impacts of El Niño drought and fire in human-modified Amazonian forests. Proceedings of the National Academy of Sciences of the USA, 118(30), 1-8. https://doi.org/10.1073/ pnas.2019377118.
+Bergquist, P., Mildenberger, M., & Stokes, L. C. (2020). Combining climate, economic, and social policy builds public support for climate action in the US. Environmental Research Letters, 15(5), 1-9. https://doi.org/10. 1088/1748-9326/ab81c1.
+Bertram, C., Luderer, G., Creutzig, F., Bauer, N., Ueckerdt, F., Malik, A., & Edenhofer, O. (2021). COVID-19-induced low power demand and market forces starkly reduce CO2 emissions. Nature Climate Change, 11(3), 193-
+196. https://doi.org/10.1038/s41558-021-00987-x.
+Boers, N. (2021). Observation-based early-warning signals for a collapse of the Atlantic Meridional Overturning Circulation. Nature Climate Change, 11 (8), 680-688. https://doi.org/10.1038/s41558-021-01097-4.
+Borchers Arriagada, N., Palmer, A. J., Bowman, D. M. J. S., Morgan, G. G., Jalaludin, B. B., & Johnston, F. H. (2020). Unprecedented smoke-related health burden associated with the 2019-20 bushfires in eastern Australia. Medical Journal of Australia, 213(6), 282-283.
+Bowman, D. M. J. S., Moreira-Munoz, A., Kolden, C. A., Chavez, R. O., Munoz, A. A., Salinas, F., Gonzalez-Reyes, A., Rocco, R., de La Barrera, F., Williamson, G. J., Borchers, N., Cifuentes, L. A., Abatzoglou, J. T., & Johnston, F. H. (2019). Human-environmental drivers and impacts of the globally extreme 2017 Chilean fires. Ambio, 48(4), 350-362. https://doi. org/10.1007/s13280-018-1084-1.
+Bowman, D. M. J. S., Williamson, G. J., Price, O. F., Ndalila, M. N., & Bradstock, R. A. (2021). Australian forests, megafires and the risk of dwin- dling carbon stocks. Plant Cell and Environment, 44(2), 347-355. https:// doi.org/10.1111/pce.13916.
+Boyce, D. G., Lotze, H. K., Tittensor, D. P., Carozza, D. A., & Worm, B. (2020). Future ocean biomass losses may widen socioeconomic equity gaps. Nature Communications, 11(1), 1-11. https://doi.org/10.1038/s41467-020-15708-9. Brand, C. (2021). Active travel's contribution to climate change mitigation:
+research summary and outlook. Active Travel Studies.
+Brando, P. M., Soares-Filho, B., Rodrigues, L., Assuncao, A., Morton, D., Tuchschneider, D., Fernandes, E. C. M., Macedo, M. N., Oliveira, U., & Coe, M. T. (2020). The gathering firestorm in southern Amazonia. Science Advances, 6(2), 1-9. https://doi.org/10.1126/sciadv.aay1632.
+Brodie Rudolph, T., Ruckelshaus, M., Swilling, M., Allison, E. H., Osterblom, H., Gelcich, S., & Mbatha, P. (2020). A transition to sustainable ocean
+
+governance. Nature Communications, 11(1), 1-14. https://doi.org/10.1038/ s41467-020-17410-2.
+Brovkin, V., Brook, E., Williams, J. W., Bathiany, S., Lenton, T. M., Barton, M., DeConto, R. M., Donges, J. F., Ganopolski, A., McManus, J., Praetorius, S., de Vernal, A., Abe-Ouchi, A., Cheng, H., Claussen, M., Crucifix, M., Gallopín, G., Iglesias, V., Kaufman, D. S., ... Yu, Z. (2021). Past abrupt changes, tipping points and cascading impacts in the Earth system. Nature Geoscience, 14(8), 550-558. https://doi.org/10.1038/s41561-021-
+00790-5.
+Bullock, E. L., Woodcock, C. E., Souza, C., & Olofsson, P. (2020). Satellite- based estimates reveal widespread forest degradation in the Amazon. Global Change Biology, 26(5), 2956-2969. https://doi.org/10.1111/GCB.15029.
+Caesar, L., McCarthy, G. D., Thornalley, D. J. R., Cahill, N., & Rahmstorf, S. (2021). Current Atlantic Meridional overturning circulation weakest in last millennium. Nature Geoscience, 14, 118-120. https://doi.org/10.1038/ s41561-021-00699-z.
+Carattini, S., Kallbekken, S., & Orlov, A. (2019). How to win public support for a global carbon tax. Nature, 565(7739), 289-291. https://doi.org/10.1038/ d41586-019-00124-x.
+Chai, Y., Martins, G., Nobre, C., von Randow, C., Chen, T., & Dolman, H. (2021). Constraining Amazonian land surface temperature sensitivity to precipitation and the probability of forest dieback. NPJ Climate and Atmospheric Science, 4(1), 1-7. https://doi.org/10.1038/s41612-021-00162-1. Chang, K. M., Hess, J. J., Balbus, J. M., Buonocore, J. J., Cleveland, D. A.,
+Grabow, M. L., Neff, R., Saari, R. K., Tessum, C. W., Wilkinson, P., Woodward, A., & Ebi, K. L. (2017). Ancillary health effects of climate miti- gation scenarios as drivers of policy uptake: A review of air quality, trans- portation and diet co-benefits modeling studies. Environmental Research Letters, 12, 1-17. https://doi.org/10.1088/1748-9326/aa8f7b.
+Chausson, A., Turner, B., Seddon, D., Chabaneix, N., Girardin, C. A. J. J., Kapos, V., Key, I., Roe, D., Smith, A., Woroniecki, S., & Seddon, N. (2020). Mapping the effectiveness of nature-based solutions for climate change adaptation. Global Change Biology, 26(11), 6134-6155. https://doi. org/10.1111/gcb.15310.
+Ciemer, C., Winkelmann, R., Kurths, J., & Boers, N. (2021). Impact of an AMOC weakening on the stability of the southern Amazon rainforest. The European Physical Journal Special Topics, 2021, 1-9. https://doi.org/ 10.1140/EPJS/S11734-021-00186-X.
+Coady, D., Parry, I., Le, N.-P., & Shang, B. (2019). Global fossil fuel subsidies remain large: An update based on country-level estimates. IMF Working Papers, 19(89), 1. https://doi.org/10.5089/9781484393178.001.
+Costello, C., Cao, L., Gelcich, S., Cisneros-Mata, M. A., Free, C. M., Froehlich,
+H. E., Golden, C. D., Ishimura, G., Maier, J., Macadam-Somer, I., Mangin, T., Melnychuk, M. C., Miyahara, M., Moor, C. L. de, Naylor, R., Nostbakken, L., Oea, E., O'Reilly, E., Parma, A. M., ... Lubchenco, J. (2020). The future of food from the sea. Nature, 588(7836), 95-+. https://doi.org/10.1038/ s41586-020-2616-y.
+Creutzig, F., Fernandez, B., Haberl, H., Khosla, R., Mulugetta, Y., & Seto, K. C. (2016). Beyond technology: Demand-side solutions for climate change miti- gation. Annual Review of Environment and Resources, 41, 173-198. https:// doi.org/10.1146/annurev-environ-110615-085428.
+Creutzig, F., Roy, J., Lamb, W. F., Azevedo, I. M. L., Bruine De Bruin, W., Dalkmann, H., Edelenbosch, O. Y., Geels, F. W., Grubler, A., Hepburn, C., Hertwich, E. G., Khosla, R., Mattauch, L., Minx, J. C., Ramakrishnan, A., Rao, N. D., Steinberger, J. K., Tavoni, M., Ürge-Vorsatz, D., & Weber,
+E. U. (2018). Towards demand-side solutions for mitigating climate change.
+Nature Climate Change, 8(4), 268-271. https://doi.org/10.1038/s41558-018-
+0121-1.
+Cronin, J. A., Fullerton, D., & Sexton, S. (2019). Vertical and horizontal redis- tributions from a carbon tax and rebate. Journal of the Association of Environmental and Resource Economists, 6(S1), S169-S208. https://doi. org/10.1086/701191.
+Cullenward, D., & Victor, D. G. (2020). Making climate policy work. Polity Press.
+Dasgupta, P. (2021). The economics of biodiversity: The Dasgupta review. HM
+Treasury. https://doi.org/10.2458/jpe.2289.
+Defila, R., & Di Giulio, A. (2020). The concept of 'Consumption corridors' meets society: How an idea for fundamental changes in consumption is
+
+
+
+received. Journal of Consumer Policy, 43(2), 315-344. https://doi.org/10. 1007/s10603-019-09437-w.
+Dekker, M. M., von der Heydt, A. S., & Dijkstra, H. A. (2018). Cascading tran- sitions in the climate system. Earth System Dynamics, 9(4), 1243-1260. https://doi.org/10.5194/esd-9-1243-2018.
+Dobson, A. P., Pimm, S. L., Hannah, L., Kaufman, L., Ahumada, J. A., Ando,
+A. W., Bernstein, A., Busch, J., Daszak, P., Engelmann, J., Kinnaird, M. F., Li, B. V., Loch-Temzelides, T., Lovejoy, T., Nowak, K., Roehrdanz, P. R., & Vale, M. M. (2020). Ecology and economics for pandemic prevention. Science, 369(6502), 379-381. https://doi.org/10.1126/science.abc3189.
+Duan, H., Zhou, S., Jiang, K., Bertram, C., Harmsen, M., Kriegler, E., van Vuuren, D. P., Wang, S., Fujimori, S., Tavoni, M., Ming, X., Keramidas, K., Iyer, G., & Edmonds, J. (2021). Assessing China's efforts to pursue the 1.5 °C warming limit. Science, 372(6540), 378-385. https://doi.org/10. 1126/science.aba8767.
+Duarte, C. M., Agusti, S., Barbier, E., Britten, G. L., Castilla, J. C., Gattuso, J.-P. P., Fulweiler, R. W., Hughes, T. P., Knowlton, N., Lovelock, C. E., Lotze, H. K., Predragovic, M., Poloczanska, E., Roberts, C., & Worm, B. (2020). Rebuilding marine life. Nature, 580(7801), 39-51. https://doi.org/10.1038/ s41586-020-2146-7.
+Dubois, G., Sovacool, B., Aall, C., Nilsson, M., Barbier, C., Herrmann, A., Bruyère, S., Andersson, C., Skold, B., Nadaud, F., Dorner, F., Richardsen Moberg, K., Ceron, J. P., Fischer, H., Amelung, D., Baltruszewicz, M., Fischer, J., Benevise, F., & Sauerborn, R. (2019). It starts at home? Climate policies targeting household consumption and behavioral decisions are key to low-carbon futures. Energy Research and Social Science, 52 (February), 144-158. https://doi.org/10.1016/j.erss.2019.02.001.
+Ebi, K. L., Anderson, C. L., Hess, J. J., Kim, S.-H., Loladze, I., Neumann, R. B., Singh, D., Ziska, L., & Wood, R. (2021). Nutritional quality of crops in a high CO 2 world: An agenda for research and technology development. Environmental Research Letters, 16(6), 1-13. https://doi.org/10.1088/1748- 9326/abfcfa.
+Erbaugh, J. T., Pradhan, N., Adams, J., Oldekop, J. A., Agrawal, A., Brockington, D., Pritchard, R., & Chhatre, A. (2020). Global forest restoration and the importance of prioritizing local communities. Nature Ecology and Evolution, 4(11), 1472-1476. https://doi.org/10.1038/s41559-020-01282-2.
+Esquivel-Muelbert, A., Baker, T. R., Dexter, K. G., Lewis, S. L., Brienen,
+R. J. W., Feldpausch, T. R., Lloyd, J., Monteagudo-Mendoza, A., Arroyo, L., Álvarez-Dávila, E., Higuchi, N., Marimon, B. S., Marimon-Junior, B. H., Silveira, M., Vilanova, E., Gloor, E., Malhi, Y., Chave, J., Barlow, J., ... Phillips, O. L. (2019). Compositional response of Amazon forests to climate change. Global Change Biology, 25(1), 39-56. https://doi.org/10.1111/gcb. 14413.
+Evans, S., Mehling, M. A., Ritz, R. A., & Sammon, P. (2020). Border carbon adjustments and industrial competitiveness in a European Green Deal. 21 (3), 307-317. https://doi.org/10.1080/14693062.2020.1856637.
+Filbee-Dexter, K., & Wernberg, T. (2020). Substantial blue carbon in over- looked Australian kelp forests. Scientific Reports, 10(1), 12341. https://doi. org/10.1038/s41598-020-69258-7.
+Fisher, B., de Wit, L. A., & Ricketts, T. H. (2021). Integrating economics into research on natural capital and human health. Review of Environmental Economics and Policy, 15(1), 95-114. https://doi.org/10.1086/713024.
+Fleischman, F., Basant, S., Chhatre, A., Coleman, E. A., Fischer, H. W., Gupta, D., Güneralp, B., Kashwan, P., Khatri, D., Muscarella, R., Powers, J. S., Ramprasad, V., Rana, P., Rodriguez Solorzano, C., & Veldman, J. W. (2020). Pitfalls of tree planting show why we need people-centered natural climate solutions. BioScience, 70, 947-950. https://doi.org/10.1093/biosci/ biaa094.
+Forster, P. M., Forster, H. I., Evans, M. J., Gidden, M. J., Jones, C. D., Keller, C. A., Robin D., Lamboll, R. D., Le Quéré, C., Rogelj, J., Rosen, D., Schleussner, C.-F., Richardson, T. B., Smith, C. J., & Turnock, S. T. (2020). Current and future global climate impacts resulting from COVID-19. Nature Climate Change, 10(10), 913-919. https://doi.org/10.1038/s41558-020-0883-0.
+Franke, A., Blenckner, T., Duarte, C. M., Ott, K., Fleming, L. E., Antia, A., Reusch, T. B. H., Bertram, C., Hein, J., Kronfeld-Goharani, U., Dierking, J., Kuhn, A., Sato, C., van Doorn, E., Wall, M., Schartau, M., Karez, R., Crowder, L., Keller, D., ... Prigge, E. (2020). Operationalizing ocean health: Toward integrated research on ocean health and recovery to achieve ocean
+
+sustainability. One Earth, 2(6), 557-565. https://doi.org/10.1016/j.oneear.
+2020.05.013.
+Friedlingstein, P., O'Sullivan, M., Jones, M. W., Andrew, R. M., Hauck, J., Olsen, A., Peters, G. P., Peters, W., Pongratz, J., Sitch, S., Le Quéré, C.,
+Canadell, J. G., Ciais, P., Jackson, R. B., Alin, S., Aragão, L. E. O. C., Arneth, A., Arora, V., Bates, N. R., ... Zaehle, S. (2020). Global carbon bud- get 2020. Earth System Science Data, 12(4), 3269-3340. https://doi.org/10. 5194/ESSD-12-3269-2020.
+Fuchs, D., Sahakian, M., Gumbert, T., Di Giulio, A., Maniates, M., Lorek S., & Graf, A. (2021). Consumption corridors - living a good life within sustain- able limits.
+Fuhrman, J., McJeon, H., Patel, P., Doney, S. C., Shobe, W. M., & Clarens, A. F. (2020). Food-energy-water implications of negative emissions technologies in a +1.5 °C future. Nature Climate Change 2020 10:10, 10(10), 920-927. https://doi.org/10.1038/s41558-020-0876-z.
+Fuss, S., Canadell, J. G., Ciais, P., Jackson, R. B., Jones, C. D., Lyngfelt, A., Peters, G. P., & Van Vuuren, D. P. (2020). Moving toward net-zero emis- sions requires new alliances for carbon dioxide removal. One Earth, 3(2), 145-149. https://doi.org/10.1016/j.oneear.2020.08.002.
+Gallagher, R. V., Allen, S., Mackenzie, B. D. E. E., Yates, C. J., Gosper, C. R.,
+Keith, D. A., Merow, C., White, M. D., Wenk, E., Maitner, B. S., He, K., Adams, V. M., & Auld, T. D. (2021). High fire frequency and the impact of the 2019-2020 megafires on Australian plant diversity. Diversity and Distributions, 27(7), 1166-1179. https://doi.org/10.1111/ddi.13265.
+Garbe, J., Albrecht, T., Levermann, A., Donges, J. F., & Winkelmann, R. (2020). The hysteresis of the Antarctic ice sheet. Nature, 585(7826), 538-544. https://doi.org/10.1038/s41586-020-2727-5.
+Gatti, L. V., Basso, L. S., Miller, J. B., Gloor, M., Gatti Domingues, L., Cassol,
+H. L. G., Tejada, G., Aragão, L. E. O. C., Nobre, C., Peters, W., Marani, L., Arai, E., Sanches, A. H., Corrêa, S. M., Anderson, L., Von Randow, C., Correia, C. S. C., Crispim, S. P., & Neves, R. A. L. (2021). Amazonia as a carbon source linked to deforestation and climate change. Nature, 595 (7867), 388-393. https://doi.org/10.1038/s41586-021-03629-6.
+Gaucherel, C., & Moron, V. (2017). Potential stabilizing points to mitigate tip- ping point interactions in Earth's climate. International Journal of Climatology, 37(1), 399-408. https://doi.org/10.1002/JOC.4712.
+Gettelman, A., Lamboll, R., Bardeen, C. G., Forster, P. M., & Watson-Parris, D. (2021). Climate impacts of COVID-19 induced emission changes. Geophysical Research Letters, 48, 1-10. https://doi.org/10.1029/2020GL091805.
+Girardin, C. A. J., Jenkins, S., Seddon, N., Allen, M., Lewis, S. L., Wheeler, C. E., Griscom, B. W., & Malhi, Y. (2021). Nature-based solutions can help cool the planet - if we act now. Nature, 593(7858), 191-194. https://doi. org/10.1038/d41586-021-01241-2.
+Glazener, A., Sanchez, K., Ramani, T., Zietsman, J., Nieuwenhuijsen, M. J., Mindell, J. S., Fox, M., & Khreis, H. (2021). Fourteen pathways between urban transportation and health: A conceptual model and literature review. Journal of Transport and Health, 21(June 2020), 101070. https://doi.org/10. 1016/j.jth.2021.101070.
+Glibert, P. M. (2020). Harmful algae at the complex nexus of eutrophication and climate change. Harmful Algae, 91, 1-5. https://doi.org/10.1016/j.hal. 2019.03.001.
+Golledge, N. R., Keller, E. D., Gomez, N., Naughten, K. A., Bernales, J., Trusel,
+L. D., & Edwards, T. L. (2019). Global environmental consequences of twenty-first-century ice-sheet melt. Nature, 566(7742), 65-72. https://doi. org/10.1038/s41586-019-0889-9.
+Gomez, N., Weber, M. E., Clark, P. U., Mitrovica, J. X., & Han, H. K. (2020). Antarctic ice dynamics amplified by Northern Hemisphere sea-level forcing. Nature, 587(7835), 600-604. https://doi.org/10.1038/s41586-020-2916-2.
+Gore, T. (2020). Confronting carbon inequality: Putting climate justice at the heart of the COVID-19 recovery. Oxfam.
+Goss, M., Swain, D. L., Abatzoglou, J. T., Sarhadi, A., Kolden, C. A., Williams,
+A. P., & Diffenbaugh, N. S. (2020). Climate change is increasing the likelihood of extreme autumn wildfire conditions across California. Environmental Research Letters, 15(9), 1-14. https://doi.org/10.1088/1748- 9326/ab83a7.
+Götschi, T., Kahlmeier, S., Castro, A., Brand, C., Cavill, N., Kelly, P., ...
+Racioppi, F. (2020). Integrated impact assessment of active travel: Expanding the scope of the health economic assessment tool (HEAT) for
+
+
+
+walking and cycling. International Journal of Environmental Research and Public Health, 17(20), 1-21. https://doi.org/10.3390/ijerph17207361.
+Green, F., & Denniss, R. (2018). Cutting with both arms of the scissors: The economic and political case for restrictive supply-side climate policies. Climatic Change, 150(1), 73-87. https://doi.org/10.1007/s10584-018-2162-x. Green, J. F. (2017). Don't link carbon markets. Nature, 543(7646), 484-486.
+https://doi.org/10.1038/543484a.
+Green, J. F. (2021). Does carbon pricing reduce emissions? A review of ex-post analyses. Environmental Research Letters, 16(4), 43004. https://doi.org/10. 1088/1748-9326/abdae9.
+Griscom, B. W., Busch, J., Cook-Patton, S. C., Ellis, P. W., Funk, J., Leavitt, S.
+M., Lomax, G., Turner, W. R., Chapman, M., Engelmann, J., Gurwick, N. P., Landis, E., Lawrence, D., Malhi, Y., Schindler Murray, L., Navarrete, D., Roe, S., Scull, S., Smith, P., ... Worthington, T. (2020). National mitigation potential from natural climate solutions in the tropics. Philosophical Transactions of the Royal Society B: Biological Sciences, 375(1794), 1-11. https://doi.org/10.1098/rstb.2019.0126.
+Haas, B., Mackay, M., Novaglio, C., Fullbrook, L., Murunga, M., Sbrocchi, C., McDonald, J., McCormack, P. C., Alexander, K., Fudge, M., Goldsworthy, L., Boschetti, F., Dutton, I., Dutra, L., McGee, J., Rousseau, Y., Spain, E., Stephenson, R., Vince, J., ... Haward, M. (2021). The future of ocean gov- ernance. Reviews in Fish Biology and Fisheries. https://doi.org/10.1007/ s11160-020-09631-x.
+Hagem, C., Hoel, M., & Sterner, T. (2020). Refunding emission payments: Output- based versus expenditure-based refunding. Environmental and Resource Economics, 77(3), 641-667. https://doi.org/10.1007/s10640-020-00513-1.
+Haya, B., Cullenward, D., Strong, A. L., Grubert, E., Heilmayr, R., Sivas, D. A., & Wara, M. (2020). Managing Uncertainty in Carbon Offsets: Insights from California's Standardized Approach, 20(9), 1112-1126. https://doi.org/10. 1080/14693062.2020.1781035.
+Heinze, C., Blenckner, T., Martins, H., Rusiecka, D., Döscher, R., Gehlen, M., Gruber, N., Holland, E., Hov, O., Joos, F., Matthews, J. B. R., Rodven, R., & Wilson, S. (2021). The quiet crossing of ocean tipping points. Proceedings of the National Academy of Sciences of the USA, 118(9), 1-9. https://doi.org/ 10.1073/pnas.2008478118.
+Hertwich, E. G., & Peters, G. P. (2009). Carbon footprint of nations: A global, trade-linked analysis. Environmental Science and Technology, 43(16), 6414- 6420. https://doi.org/10.1021/es803496a.
+Hess, J. J., Ranadive, N., Boyer, C., Aleksandrowicz, L., Anenberg, S. C., Aunan, K., Belesova, K., Bell, M. L., Bickersteth, S., Bowen, K., Burden, M., Campbell- Lendrum, D., Carlton, E., Cissé, G., Cohen, F., Dai, H., Dangour, A. D., Dasgupta, P., Frumkin, H., ... Ebi, K. L. (2020). Guidelines for modeling and reporting health effects of climate change mitigation actions. Environmental Health Perspectives, 128(11), 1-10. https://doi.org/10.1289/ EHP6745.
+Hourcade, J. C., Glemarec, Y., de Coninck, H., Bayat-Renoux, F., Ramakrishna, K., & Revi, A. (2021). Scaling up climate finance in the context of Covid-19. South Korea.
+IEA (2021). Net zero by 2050 - A roadmap for the global energy sector.
+International Energy Agency.
+Inoue, N., Matsumoto, S., & Morita, M. (2021). Inequalities in the impact of the carbon tax in Japan. In T. H. Arimura, & S. Matsumoto (Eds.), Economics, law, and institutions in Asia Pacific carbon pricing in Japan (pp. 217-234). Springer. https://doi.org/10.1007/978-981-15-6964-7.
+IPCC. (2014). AR5 - Working Group 3, mitigation of climate change -
+Contribution of Working Group III. In Cambridge University Press.
+IPCC. (2018). IPCC special report 2018. In global warming of 1.5 °C. An IPCC special report on the impacts of global warming of 1.5 °C above pre- industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to eradicate poverty. Cambridge University Press.
+IPCC. (2019a). Climate chance and land. In climate change and land: an IPCC special report on climate change, desertification, land degradation, sustain- able land management, food security, and greenhouse gas fluxes in terres- trial ecosystems. Cambridge University Press.
+IPCC. (2019b). The ocean and cryosphere in a changing climate. A special report of the Intergovernmental Panel on Climate Change. In Intergovernmental Panel on Climate Change. Cambridge University Press.
+
+IPCC. (2021). Climate change 2021: The physical science basis. Contribution of Working Group I to the sixth assessment report of the Intergovernmental Panel on Climate Change (V. Masson-Delmotte, P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, ... B. Zhou, Eds.). Cambridge University Press. In Press.
+Ivanova, D., Barrett, J., Wiedenhofer, D., Macura, B., Callaghan, M., & Creutzig, F. (2020). Quantifying the potential for climate change mitigation of consumption options. Environmental Research Letters, 15(9), 1-19. https://doi.org/10.1088/1748-9326/ab8589.
+Ivanova, D., & Wood, R. (2020). The unequal distribution of household carbon footprints in Europe and its link to sustainability. Global Sustainability, 3, 1-12. https://doi.org/10.1017/sus.2020.12.
+Jackson, R. B., Saunois, M., Bousquet, P., Canadell, J. G., Poulter, B., Stavert, A. R., Bergamaschi, P., Niwa, Y., Segers, A., & Tsuruta, A. (2020). Increasing anthropogenic methane emissions arise equally from agricultural and fossil fuel sources. Environmental Research Letters, 15(7), 071002. https://doi.org/ 10.1088/1748-9326/AB9ED2.
+Jagers, S. C., Lachapelle, E., Martinsson, J., & Matti, S. (2021). Bridging the ideological gap? How fairness perceptions mediate the effect of revenue recycling on public support for carbon taxes in the United States. Canada and Germany. Review of Policy Research, 38(5), 529-554. https:// doi.org/10.1111/ropr.12439.
+Jarmul, S., Dangour, A. D., Green, R., Liew, Z., Haines, A., & Scheelbeek, P. F.
+D. (2020). Climate change mitigation through dietary change: A systematic review of empirical and modelling studies on the environmental footprints and health effects of 'sustainable diets.'. Environmental Research Letters, 15(12), 1-47. https://doi.org/10.1088/1748-9326/abc2f7.
+Johnson, J. A., & Gerber, J. (2021). The economic case for nature : A global earth-economy model to assess development policy pathways (p. 158). World Bank.
+Johnson, M. S., Strawbridge, K., Knowland, K. E., Keller, C., & Travis, M. (2021). Long-range transport of Siberian biomass burning emissions to North America during FIREX-AQ. Atmospheric Environment, 252, 1-15. https://doi.org/10.1016/j.atmosenv.2021.118241.
+Jones, C. G., Rappold, A., Vargo, J., Cascio, W. E., Kharrazi, M., McNally, B., & Hoshiko, S. (2020). Out-of-hospital cardiac arrests and wildfire-related par- ticulate matter during 2015-2017 California wildfires. Journal of the American Heart Association, 9(8), 1-14. https://doi.org/10.1161/JAHA.
+119.014125.
+Jouffray, J.-B., Blasiak, R., Norstrom, A. V., Osterblom, H., & Nystrom, M. (2020). The blue acceleration: The trajectory of human expansion into the ocean. One Earth, 2(1), 43-54. https://doi.org/10.1016/j.oneear.2019.12.016. Kablick, G. P. I., Allen, D. R., Fromm, M. D., & Nedoluha, G. E. (2020). Australian PyroCb smoke generates synoptic-scale stratospheric anticy- clones. Geophysical Research Letters, 47(13), 1-9. https://doi.org/10.1029/
+2020GL088101.
+Kadow, C., Hall, D. M., & Ulbrich, U. (2020). Artificial intelligence recon- structs missing climate information. Nature Geoscience, 13(6), 408-413. https://doi.org/10.1038/s41561-020-0582-5.
+Keohane, N., Petsonk, A., & Hanafi, A. (2017). Toward a club of carbon mar- kets. Climatic Change, 144(1), 81-95. https://doi.org/10.1007/s10584-015- 1506-z.
+Khanna, T. M., Baiocchi, G., Callaghan, M., Creutzig, F., Guias, H., Haddaway,
+N. R., Hirth, L., Javaid, A., Koch, N., Laukemper, S., Löschel, A., del Mar Zamora, M. Dominguez, & Minx, J. C. (2021). A multi-country meta- analysis on the role of behavioural change in reducing energy consumption and CO2 emissions in residential buildings. Nature Energy, 6(9), 925-932. https://doi.org/10.1038/s41560-021-00866-x.
+Kim, S. E., Xie, Y., Dai, H., Fujimori, S., Hijioka, Y., Honda, Y., Hashizume, M, Masui, T., Hasegawa, T., Xu, X., Yi, K., & Kim, H. (2020). Air quality co-benefits from climate mitigation for human health in South Korea. Environment International, 136(June 2019), 1-10. https://doi.org/10.1016/ j.envint.2020.105507.
+King, M. D., Howat, I. M., Candela, S. G., Noh, M. J., Jeong, S., Noël, B. P. Y., van den Broeke, M. R., Wouters, B., & Negrete, A. (2020). Dynamic ice loss from the Greenland Ice Sheet driven by sustained glacier retreat. Communications Earth & Environment, 1(1), 1-7. https://doi.org/10.1038/ s43247-020-0001-2.
+
+
+
+Kirchmeier-Young, M. C., Wan, H., Zhang, X., & Seneviratne, S. I. (2019). Importance of framing for extreme event attribution: The role of spatial and temporal scales. Earths Future, 7(10), 1192-1204. https://doi.org/10. 1029/2019EF001253.
+Kiser, D., Metcalf, W. J., Elhanan, G., Schnieder, B., Schlauch, K., Joros, A., Petersen, C., & Grzymski, J. (2020). Particulate matter and emergency visits for asthma: A time-series study of their association in the presence and absence of wildfire smoke in Reno, Nevada, 2013-2018. Environmental Health, 19(1), 1-12. https://doi.org/10.1186/s12940-020-00646-2.
+Koch, A., Brierley, C., & Lewis, S. L. (2021). Effects of Earth system feedbacks on the potential mitigation of large-scale tropical forest restoration. Biogeosciences, 18(8), 2627-2647. https://doi.org/10.5194/bg-18-2627-2021. Krausmann, F., Wiedenhofer, D., & Haberl, H. (2020). Growing stocks of buildings, infrastructures and machinery as key challenge for compliance with climate targets. Global Environmental Change, 61(May 2019), 1-10.
+https://doi.org/10.1016/j.gloenvcha.2020.102034.
+Lacey-Barnacle, M., Robison, R., & Foulds, C. (2020). Energy justice in the developing world: A review of theoretical frameworks, key research themes and policy implications. Energy for Sustainable Development, 55, 122-138. https://doi.org/10.1016/j.esd.2020.01.010.
+Lai, C. Y., Kingslake, J., Wearing, M. G., Chen, P. H. C., Gentine, P., Li, H., Spergel, J. J., & van Wessem, J. M. (2020). Vulnerability of Antarctica's ice shelves to meltwater-driven fracture. Nature, 584(7822), 574-578. https://doi.org/10.1038/s41586-020-2627-8.
+Lawler, J. J., Rinnan, D. S., Michalak, J. L., Withey, J. C., Randels, C. R., & Possingham, H. P. (2020). Planning for climate change through additions to a national protected area network: Implications for cost and configur- ation. Philosophical Transactions of the Royal Society B: Biological Sciences, 375(1794), 1-8. https://doi.org/10.1098/rstb.2019.0117.
+Leahy, S., Clark, H., & Reisinger, A. (2020). Challenges and prospects for agri- cultural greenhouse gas mitigation pathways consistent with the Paris Agreement. Frontiers in Sustainable Food Systems, 4(May), 1-8. https:// doi.org/10.3389/fsufs.2020.00069.
+Lenton, T. M. (2020) Tipping positive change. 375 Philosophical Transactions of the Royal Society B: Biological Sciences § (2020). Royal Society Publishing.
+Lenton, T. M., Rockström, J., Gaffney, O., Rahmstorf, S., Richardson, K., Steffen, W., & Schellnhuber, H. J. (2019). Climate tipping points - too risky to bet against. Nature, 575(7784), 592-595. https://doi.org/10.1038/ d41586-019-03595-0.
+Levi, S., Flachsland, C., & Jakob, M. (2020). Political economy determinants of carbon pricing. Global Environmental Politics, 20(2), 128-156. https://doi. org/10.1162/glep_a_00549.
+Lhermitte, S., Sun, S., Shuman, C., Wouters, B., Pattyn, F., Wuite, J., Berthier, E., & Nagler, T. (2020). Damage accelerates ice shelf instability and mass loss in Amundsen Sea Embayment. Proceedings of the National Academy of Sciences of the USA, 117(40), 24735-24741. https://doi.org/10.1073/pnas. 1912890117.
+Liu, Y., Austin, E., Xiang, J., Gould, T., Larson, T., & Seto, E. (2021). Health impact assessment of the 2020 Washington state wildfire smoke episode: Excess health burden attributable to increased PM2.5 exposures and poten- tial exposure reductions. GeoHealth, 5(5), 1-11. https://doi.org/10.1029/ 2020GH000359.
+Lohmann, J., Castellana, D., Ditlevsen, P. D., & Dijkstra, H. A. (2021). Abrupt climate change as a rate-dependent cascading tipping point. Earth System Dynamics, 12(3), 819-835. https://doi.org/10.5194/esd-12-819-2021.
+Longo, M., Saatchi, S., Keller, M., Bowman, K., Ferraz, A., Moorcroft, P. R., Morton, D. C., Bonal, D., Brando, P., Burban, B., Derroire, G., dos- Santos, M. N., Meyer, V., Saleska, S., Trumbore, S., & Vincent, G. (2020). Impacts of degradation on water, energy, and carbon cycling of the Amazon tropical forests. Journal of Geophysical Research: Biogeosciences, 125(8), 1-27. https://doi.org/10.1029/2020JG005677.
+Luypaert, T., Hagan, J. G., McCarthy, M. L., & Poti, M. (2020). Status of marine biodiversity in the Anthropocene. Youmares 9 - the oceans: Our research, our future (pp. 57-82). Springer. https://doi.org/10.1007/978-3-030-20389-4_4.
+MacDougall, A. H., Frölicher, T. L., Jones, C. D., Rogelj, J., DamonMatthews, H., Zickfeld, K., Arora, V. K., Barrett, N. J., Brovkin, V., Burger, F. A., Eby, M., Eliseev, A. V., Hajima, T., Holden, P. B., Jeltsch-Thömmes, A., Koven,
+
+C., Mengis, N., Menviel, L., Michou, M., ... Ziehn, T. (2020). Is there warm- ing in the pipeline? A multi-model analysis of the Zero Emissions Commitment from CO2. Biogeosciences, 17(11), 2987-3016. https://doi. org/10.5194/bg-17-2987-2020.
+Madeddu, S., Ueckerdt, F., Pehl, M., Peterseim, J., Lord, M., Kumar, K. A., Krürger, C., & Luderer, G. (2020). The CO2 reduction potential for the European industry via direct electrification of heat supply (power-to-heat). Environmental Research Letters, 15(12), 124004. https://doi.org/10.1088/ 1748-9326/abbd02.
+Magzamen, S., Gan, R. W., Liu, J., O'Dell, K., Ford, B., Berg, K., Bol, K.,
+Wilson, A., Fischer, E. V., & Kenny, B., & Pierce, J. R. (2021). Differential car- diopulmonary health impacts of local and long-range transport of wildfire smoke. GeoHealth, 5(3), 1-18. https://doi.org/10.1029/2020GH000330.
+Mathai, M. V., Isenhour, C., Stevis, D., Vergragt, P., Bengtsson, M., Lorek, S., Mortensen, F. L., Coscieme, L., Scott, D., Waheed, A., & Alfredsson, E. (2021). The political economy of (un)sustainable production and consump- tion: A multidisciplinary synthesis for research and action. Resources, Conservation and Recycling, 167(June 2020), 105265. https://doi.org/10. 1016/j.resconrec.2020.105265.
+Matricardi, E. A. T., Skole, D. L., Costa, O. B., Pedlowski, M. A., Samek, J. H., & Miguel, E. P. (2020). Long-term forest degradation surpasses deforest- ation in the Brazilian Amazon. Science, 369(6509), 1378-1382. https://doi. org/10.1126/SCIENCE.ABB3021.
+Matthews, H. D., Tokarska, K. B., Nicholls, Z. R. J. J., Rogelj, J., Canadell, J. G., Friedlingstein, P., Thomas, L., Frölicher, T. L., Forster, P. M., Gillett, N. P., Ilyina, T., Jackson, R. B., Jones, C. D., Koven, C., Knutti, R., MacDougall, A. H., Meinshausen, M., Mengis, N., Séférian, R.,& Zickfeld, K. (2020). Opportunities and challenges in using remaining carbon budgets to guide climate policy. Nature Geoscience, 13(12), 769-779. https://doi.org/10.1038/s41561-020-
+00663-3.
+Matthews, H. D., Tokarska, K. B., Rogelj, J., Smith, C. J., MacDougall, A. H., Haustein, K., Mengis, N., Sippel, S., Forster, P. M., & Knutti, R. (2021). An integrated approach to quantifying uncertainties in the remaining car- bon budget. Communications Earth & Environment, 2(1), 1-11. https:// doi.org/10.1038/s43247-020-00064-9.
+McCarty, J. L., Smith, T. E. L., & Turetsky, M. R. (2020). Arctic fires re-emerging. Nature Geoscience, 13(10), 658-660. https://doi.org/10.1038/ s41561-020-00645-5.
+McCauley, D., Ramasar, V., Heffron, R. J., Sovacool, B. K., Mebratu, D., & Mundaca, L. (2019). Energy justice in the transition to low carbon energy systems: Exploring key themes in interdisciplinary research. Applied Energy, 233-234, 916-921. https://doi.org/10.1016/j.apenergy.2018.10.005.
+Mehling, M. A., Metcalf, G. E., & Stavins, R. N. (2018). Linking heterogeneous climate policies (Consistent with the Paris agreement). Environmental Law, 48(4), 647-698.
+Mengis, N., & Matthews, H. D. (2020). Non-CO2 forcing changes will likely decrease the remaining carbon budget for 1.5 °C. NPJ Climate and Atmospheric Science, 3, 1-7. https://doi.org/10.1038/s41612-020-0123-3.
+Millward-Hopkins, J., Steinberger, J. K., Rao, N. D., & Oswald, Y. (2020). Providing decent living with minimum energy: A global scenario. Global Environmental Change, 65(April), 102168. https://doi.org/10.1016/j.gloenv- cha.2020.102168.
+Mishra, C., & Rath, N. (2020). Social solidarity during a pandemic: Through and beyond Durkheimian Lens. Social Sciences & Humanities Open, 2(1), 100079. https://doi.org/10.1016/j.ssaho.2020.100079.
+Morice, C. P., Kennedy, J. J., Rayner, N. A., Winn, J. P., Hogan, E., Killick, R.
+E., Dunn, R. J. H. H., Osborn, T. J., Jones, P. D., & Simpson, I. R. (2021). An updated assessment of near-surface temperature change from 1850: The HadCRUT5 data set. Journal of Geophysical Research: Atmospheres, 126 (3), 1-28. https://doi.org/10.1029/2019JD032361.
+Mueller, W., Tantrakarnapa, K., Johnston, H. J., Loh, M., Steinle, S., Vardoulakis, S., & Cherrie, J. W. (2021). Exposure to ambient particulate matter and biomass burning during pregnancy: Associations with birth weight in Thailand. Journal of Exposure Science and Environmental Epidemiology, 31(4), 672-682. https://doi.org/10.1038/s41370-021-00295-8. Newell, P., Daley, F., & Twena, M. (2021). Changing our ways? Behaviour change & the climate crisis. The Cambridge sustainability commission on
+scaling behaviour Change (73 pages). Cambridge University Press.
+
+
+
+Newell, P., Srivastava, S., Naess, L. O., Torres Contreras, G. A., & Price, R. (2020). Towards transformative climate justice: Key challenges and future directions for research. IDS Working Paper 540.
+Nguyen, H. D., Azzi, M., White, S., Salter, D., Trieu, T., Morgan, G., Rahman,
+M., Watt, S., Riley, M., Chang, L. T., Barthelemy, X., Fuchs, D., Lieschke, K., & Nguyen, H. (2021). The summer 2019-2020 wildfires in east coast Australia and their impacts on air quality and health in New South Wales, Australia. International Journal of Environmental Research and Public Health, 18(7), 1-27. https://doi.org/10.3390/ijerph18073538.
+Nielsen, K. S., Nicholas, K. A., Creutzig, F., Dietz, T., & Stern, P. C. (2021). The role of high-socioeconomic-status people in locking in or rapidly reducing energy-driven greenhouse gas emissions. Nature Energy, 4, 145-153. https:// doi.org/10.1038/s41560-021-00900-y.
+NOAA (AGGI). (2021). The NOAA annual greenhouse gas index (AGGI).
+Retrieved from https://gml.noaa.gov/aggi/aggi.html.
+Nolan, R. H., Boer, M. M., Collins, L., Resco de Dios, V., Clarke, H., Jenkins, M., Kenny, B., & Bradstock, R. A. (2020). Causes and consequences of east- ern Australia's 2019-20 season of mega-fires. Global Change Biology, 26(3), 1039-1041. https://doi.org/10.1111/gcb.14987.
+OECD. (2021). Biodiversity, natural capital and the economy: A policy guide for finance, economic and environment ministers. https://doi.org/10.1787/ 1a1ae114-en.
+O'Hara, C. C., Frazier, M., & Halpern, B. S. (2021). At-risk marine biodiversity
+faces extensive, expanding, and intensifying human impacts. Science, 372
+(6537), 84-+. https://doi.org/10.1126/science.abe6731.
+Ohlendorf, N., Jakob, M., Minx, J. C., Schröder, C., & Steckel, J. C. (2021). Distributional impacts of carbon pricing: A meta-analysis. Environmental and Resource Economics, 78(1), 1-42. https://doi.org/10.1007/s10640-020-00521-1.
+Okonkwo, J. U. (2021). Welfare effects of carbon taxation on South African households. Energy Economics, 96(C), 1-12. https://doi.org/10.1016/j. eneco.2020.1049.
+Oschlies, A. (2021). A committed fourfold increase in ocean oxygen loss. Nature Communications, 12(1), 1-8. https://doi.org/10.1038/s41467-021-22584-4.
+Oswald, Y., Owen, A., Steinberger, J. K., Yannick, O., Owen, A., & Steinberger,
+J. K. (2020). Large inequality in international and intranational energy foot- prints between income groups and across consumption categories. Nature Energy, 5(3), 231-239. https://doi.org/10.1038/s41560-020-0579-8.
+Otto, I. M., Wiedermann, M., Cremades, R., Donges, J. F., Auer, C., & Lucht,
+W. (2020). Human agency in the Anthropocene. Ecological Economics, 167, 106463. https://doi.org/10.1016/j.ecolecon.2019.106463.
+Pahle, M., Burtraw, D., Flachsland, C., Kelsey, N., Biber, E., Meckling, J., Edenhofer, O., & Zysman, J. (2018). Sequencing to ratchet up climate policy stringency. Nature Climate Change, 8(10), 861-867. https://doi.org/10.1038/ s41558-018-0287-6.
+Pan, L., Powell, E. M., Latychev, K., Mitrovica, J. X., Creveling, J. R., Gomez, N., Hoggard, M. J., & Clark, P. U. (2021). Rapid postglacial rebound amp- lifies global sea level rise following West Antarctic Ice Sheet collapse. Science Advances, 7(18), 1-9. https://doi.org/10.1126/sciadv.abf7787.
+Perera, F., Cooley, D., Berberian, A., Mills, D., & Kinney, P. (2020). Co-benefits to children's health of the U.S. regional greenhouse gas initiative. Environmental Health Perspectives, 128(7), 1-9. https://doi.org/10.1289/ EHP6706.
+Pianta, M., & Lucchese, M. (2020). Rethinking the European green deal: An industrial policy for a just transition in Europe. Review of Radical Political Economics, 52(4), 633-641. https://doi.org/10.1177/0486613420938207.
+Pianta, S., Brutschin, E., van Ruijven, B., & Bosetti, V. (2021). Faster or slower decarbonization? Policymaker and stakeholder expectations on the effect of the COVID-19 pandemic on the global energy transition. Energy Research & Social Science, 76, 102025. https://doi.org/10.1016/j.erss.2021. 102025.
+Pickrell, J., & Pennisi, E. (2020). Record U.S. and Australian fires raise fears for many species. Science, 370(6512), 18-19. https://doi.org/10.1126/science.
+370.6512.18.
+Piecuch, C. G. (2020). Likely weakening of the Florida current during the past century revealed by sea-level observations. Nature Communications, 11 (3973), 1-13. https://doi.org/10.1038/s41467-020-17761-w.
+Pörtner, H. O., Scholes, R. J., Agard, J., Archer, E., Arneth, A., Bai, X., Barnes,
+D., Burrows, M., Chan, L., Cheung, W. L., Diamond, S., Donatti, C., Duarte,
+
+C., Eisenhauer, N., Foden, W., Gasalla, M. A.., Handa, C., Hickler, T., Hoegh-Guldberg, O., ... Ngo, H. T. (2021). IPBES-IPCC co-sponsored workshop report on biodiversity and climate change. Bonn. https://doi. org/10.5281/zenodo.4782538.
+Qin, Y., Xiao, X., Wigneron, J.-P., Ciais, P., Brandt, M., Fan, L., Li, X., Crowell,
+S., Wu, X., Doughty, R., Zhang, Y., Liu, F., Sitch, St., & Moore III, B. (2021). Carbon loss from forest degradation exceeds that from deforestation in the Brazilian Amazon. Nature Climate Change 2021 11:5, 11(5), 442-448. https://doi.org/10.1038/s41558-021-01026-5.
+Rabe, B. G. (2018). Can we price carbon? The MIT Press.
+Rafaty, R., Dolphin, G., & Pretis, F. (2020). Carbon pricing and the elasticity of CO2 emissions. Institute for New Economic Thinking Working Paper Series (140), 1-84. https://doi.org/10.36687/inetwp140.
+Rahmstorf, S., Box, J. E., Feulner, G., Mann, M. E., Robinson, A., Rutherford, S., & Schaaernicht, E. J. (2015). Exceptional twentieth-century slowdown in Atlantic Ocean overturning circulation. Nature Climate Change, 5, (March), 475-480. https://doi.org/10.1038/NCLIMATE2554.
+Rajão, R., Soares-Filho, B., Nunes, F., Börner, J., Machado, L., Assis, D., Oliveira, A., Pinto, L., Ribeiro, V., Rausch, L., Gibbs, H., & Figueira, D. (2020). The rotten apples of Brazil's agribusiness. Science, 369(6501), 246LP-24248. https://doi.org/10.1126/science.aba6646.
+Ritchie, P. D. L., Smith, G. S., Davis, K. J., Fezzi, C., Halleck-Vega, S., Harper, A.
+B., Boulton, C. A., Binner, A. R., Day, B. H., Gallego-Sala, A. V., Mecking, J. V., Sitch, S. A., Lenton, T. M., & Bateman, I. J. (2020). Shifts in national land use and food production in Great Britain after a climate tipping point. Nature Food, 1(1), 76-83. https://doi.org/10.1038/s43016-019-0011-3.
+Rocha, J. C., Peterson, G., Bodin, Ö, & Levin, S. (2018). Cascading regime shifts within and across scales. Science, 362(6421), 1379-1383. https://doi. org/10.1126/science.aat7850.
+Rockström, J., Gupta, J., Lenton, T. M., Qin, D., Lade, S. J., Abrams, J. F., Jacobson,
+L., Rocha, J. C., Zimm, C., Bai, X., Bala, G., Bringezu, S., Broadgate, W., Bunn,
+S. E., DeClerck, F., Ebi, K. L., Gong, P., Gordon, C., Kanie, N., ... Winkelmann,
+R. (2021). Identifying a safe and just corridor for people and the planet. Earth's Future, 9(4), 1-7. https://doi.org/10.1029/2020ef001866.
+Rogelj, J., Forster, P. M., Kriegler, E., Smith, C. J., & Séférian, R. (2019). Estimating and tracking the remaining carbon budget for stringent climate targets. Nature, 571(7765), 335-342. https://doi.org/10.1038/s41586-019-1368-z.
+Rogelj, J., Popp, A., Calvin, K. V., Luderer, G., Emmerling, J., Gernaat, D., Fujimori, S., Strefler, J., Hasegawa, T., Marangoni, G., Krey, V., Kriegler, E., Riahi, K., Van Vuuren, D. P., Doelman, J., Drouet, L., Edmonds, J., Fricko, O., Harmsen, M., ... Tavoni, M. (2018). Scenarios towards limiting global mean temperature increase below 1.5 °C. Nature Climate Change, 8 (4), 325-332. https://doi.org/10.1038/s41558-018-0091-3.
+Rogelj, J., Schleussner, C. F., & Hare, W. (2017). Getting it right matters: Temperature goal interpretations in geoscience research. Geophysical Research Letters, 44(20), 10662-10665. https://doi.org/10.1002/2017GL075612. Rohde, R. A., & Hausfather, Z. (2020). The Berkeley earth land/ocean tempera- ture record. Earth System Science Data, 12(4), 3469-3479. https://doi.org/
+10.5194/essd-12-3469-2020.
+Rosenbloom, D., Markard, J., Geels, F. W., & Fuenfschilling, L. (2020). Why carbon pricing is not sufficient to mitigate climate change - and how 'sus- tainability transition policy' can help. Proceedings of the National Academy of Sciences of the USA, 117(16), 8664-8668. https://doi.org/10.1073/pnas. 2004093117.
+RRI and McGill University. (2021). Status of legal recognition of Indigenous peoples', local communities' and Afro-descendant peoples' rights to carbon stored in Tropical lands and forests.
+Ruffault, J., Curt, T., Moron, V., Trigo, R. M., Mouillot, F., Koutsias, N., Pimont, F., Martin-StPaul, N., Barbero, R., Dupuy, J., Russo, A., & Belhadj-Khedher, C. (2020). Increased likelihood of heat-induced large wildfires in the Mediterranean Basin. Scientific Reports, 10(1), 13790. https://doi.org/10.1038/s41598-020-70069-z.
+Sala, E., Mayorga, J., Bradley, D., Cabral, R. B., Atwood, T. B., Auber, A., Cheung, W., Costello, C., Ferretti, F., Friedlander, A. M., Gaines, S.D., Garilao, C., Goodell, W., Halpern, B. S., Hinson, A., Kaschner, K., Kesner-Reyes, K., Leprieur, F., McGowan, J., ... Lubchenco, J. (2021). Protecting the global ocean for biodiversity, food and climate. Nature, 592, 397-402. https://doi.org/10.1038/s41586-021-03371-z.
+
+
+
+Sampedro, J., Smith, S. J., Arto, I., González-Eguino, M., Markandya, A., Mulvaney, K. M., Pizarro-Irizar, C., & Van Dingenen, R. (2020). Health co-benefits and mitigation costs as per the Paris Agreement under different technological pathways for energy supply. Environment International, 136, 1-12. https://doi.org/10.1016/j.envint.2020.105513.
+Saunois, M., Stavert, A. R., Poulter, B., Bousquet, P., Canadell, J. G., Jackson, R. B., Raymond, P. A., Dlugokencky, E. J., Houweling, S., Patra, P. K., Ciais, P., Arora, V. K., Bastviken, D., Bergamaschi, P., Blake, D. R., Brailsford, G., Bruhwiler, L., Carlson, K. M., Noce, S., ... Zhuang, Q. (2020). The global methane budget 2000-2001. Earth System Science Data, 12, 45. https:// doi.org/10.5194/essd-12-1561-2020.
+Seddon, N., Chausson, A., Berry, P., Girardin, C. A. J. J., Smith, A., & Turner,
+B. (2020). Understanding the value and limits of nature-based solutions to climate change and other global challenges. Philosophical Transactions of the Royal Society B: Biological Sciences, 375(1794), 1-12. https://doi.org/ 10.1098/rstb.2019.0120.
+Seddon, N., Smith, A., Smith, P., Key, I., Chausson, A., Girardin, C., House, J., Srivastava, S., & Turner, B. (2021). Getting the message right on nature- based solutions to climate change. Global Change Biology, 27(8), 1518- 1546. https://doi.org/10.1111/gcb.15513.
+Sergi, B. J., Adams, P. J., Muller, N. Z., Robinson, A. L., Davis, S. J., Marshall, J. D., & Azevedo, I. L. (2020). Optimizing emissions reductions from the U.S. power sector for climate and health benefits. Environmental Science and Technology, 54(12), 7513-7523. https://doi.org/10.1021/acs.est.9b06936.
+Sharma, A., Gupta, P., & Jha, R. (2020). COVID-19: Impact on health supply chain and lessons to be learnt. Journal of Health Management, 22(2), 248-
+261. https://doi.org/10.1177/0972063420935653.
+Silveira, S., Kornbluh, M., Withers, M. C., Grennan, G., Ramanathan, V., & Mishra, J. (2021). Chronic mental health sequelae of climate change extremes: A case study of the deadliest Californian wildfire. International Journal of Environmental Research and Public Health, 18(4), 1-15. https://doi.org/10.3390/ijerph18041487.
+Soergel, B., Kriegler, E., Leon Bodirsky, B., Bauer, N., Leimbach, M., & Popp,
+A. (2021). Combining ambitious climate policies with efforts to eradicate poverty. Nature Communications, 12(2342), 1-12. https://doi.org/10.1038/ s41467-021-22315-9.
+Sovacool, B. K., Turnheim, B., Hook, A., Brock, A., & Martiskainen, M. (2021). Dispossessed by decarbonisation: Reducing vulnerability, injustice, and inequality in the lived experience of low-carbon pathways. World Development, 137, 105116. https://doi.org/10.1016/j.worlddev.2020.105116. Steffen, W., Rockström, J., Richardson, K., Lenton, T. M., Folke, C., Liverman, D., Summerhayes, C. P., Barnosky, A. D., Cornell, S. E., Crucifix, M., Donges, J. F., Fetzer, I., Lade, S. J., Scheffer, M., Winkelmann, R., & Schellnhuber, H. J. (2018). Trajectories of the Earth system in the Anthropocene. Proceedings of the National Academy of Sciences, 115(33),
+8252-8259. https://doi.org/10.1073/pnas.1810141115.
+Steinberger, J. K., Lamb, W. F., & Sakai, M. (2020). Your money or your life? The carbon-development paradox. Environmental Research Letters, 15(4), 1-9. https://doi.org/10.1088/1748-9326/ab7461.
+Strassburg, B. B. N. N., Iribarrem, A., Beyer, H. L., Cordeiro, C. L., Crouzeilles, R., Jakovac, C. C., Braga Junqueira, A, Lacerda, E., Latawiec, A. E., Balmford, A., Brooks, T. M., Butchart, S. H. M., Chazdon, R. L., Erb, K., Brancalion, P., Buchanan, G., Cooper, D., Díaz, S., Donald, P. F., ... Visconti, P. (2020). Global priority areas for ecosystem restoration. Nature, 586(7831), 724-729. https://doi.org/10.1038/s41586-020-2784-9.
+Strefler, J., Kriegler, E., Bauer, N., Luderer, G., Pietzcker, R. C., Giannousakis, A., & Edenhofer, O. (2021). Alternative carbon price trajectories can avoid excessive carbon removal. Nature Communications, 12(1), 1-8. https://doi. org/10.1038/s41467-021-22211-2.
+Sun, S., Pattyn, F., Simon, E. G., Albrecht, T., Cornford, S., Calov, R., Dumas, C., Gillet-Chaulet, F., Goelzer, H., Golledge, N. R., Greve, R., Hoffman, M. J., Humbert, A., Kazmierczak, E., Kleiner, T., Leguy, G. R., Lipscomb, W.H., Martin, D., Morlighem, M., ... Zhang, T. (2020). Antarctic ice sheet response to sudden and sustained ice-shelf collapse (ABUMIP). Journal of Glaciology, 66(260), 891-904. https://doi.org/10.1017/jog.2020.67.
+Swain, D. L., Singh, D., Touma, D., & Diffenbaugh, N. S. (2020). Attributing extreme events to climate change: A new frontier in a warming world. One Earth, 2(6), 522-527. https://doi.org/10.1016/j.oneear.2020.05.011.
+
+Swinburn, B. A., Kraak, V. I., Allender, S., Atkins, V. J., Baker, P. I., Bogard, J. R., Brinsden, H., Calvillo, A., De Schutter, O., Devarajan, R., Ezzati, M., Friel, S., Goenka, S., Hammond, R. A., Hastings, G., Hawkes, C., Herrero, M., Hovmand, P. S., Howden, M., ... Dietz, W. H. (2019). The global syn- demic of obesity, undernutrition, and climate change: The Lancet commis- sion report. The Lancet, 393(10173), 791-846. https://doi.org/10.1016/ S0140-6736(18)32822-8.
+Taconet, N., Méjean, A., & Guivarch, C. (2020). Influence of climate change impacts and mitigation costs on inequality between countries. Climatic Change, 160, 15-34. https://doi.org/10.1007/s10584-019-02637-w.
+Taillardat, P., Thompson, B. S., Garneau, M., Trottier, K., & Friess, D. A. (2020). Climate change mitigation potential of wetlands and the cost- effectiveness of their restoration. Interface Focus, 10(5), 1-12. https://doi. org/10.1098/rsfs.2019.0129.
+Tarekegne, B. (2020). Just electrification: Imagining the justice dimensions of energy access and addressing energy poverty. Energy Research and Social Science, 70, 101639. https://doi.org/10.1016/j.erss.2020.101639.
+The World Bank. (2021). State and trends of carbon pricing 2021. In state and trends of carbon pricing 2021. https://doi.org/10.1596/978-1-4648-1728-1. Thomas, Z. A., Jones, R. T., Turney, C. S. M., Golledge, N., Fogwill, C., Bradshaw, C. J. A., Menviel, L., McKay, N. P., Bird, M., Palmer, J., Kershaw, P., Wilmshurst, J., & Muscheler, R. (2020). Tipping elements and amplified polar warming during the last interglacial. Quaternary Science Reviews, 233,
+106222. https://doi.org/10.1016/J.QUASCIREV.2020.106222.
+Tian, H., Xu, R., Canadell, J. G., Thompson, R. L., Winiwarter, W., Suntharalingam, P., Davidson, E. A., Ciais, P., Jackson, R. B., Janssens- Maenhout, G., Prather, M. J., Regnier, P., Pan, N., Pan, S., Peters, G. P.,
+Shi, H., Tubiello, F. N., Zaehle, S., Zhou, F., ... Yao, Y. (2020). A compre-
+hensive quantification of global nitrous oxide sources and sinks. Nature, 586, 248-256. https://doi.org/10.1038/s41586-020-2780-0.
+Tittensor, D. P., Beger, M., Boerder, K., Boyce, D. G., Cavanagh, R. D., Cosandey-Godin, A., Crespo, G. O., Dunn, D. C., Ghiffary, W., Grant, S. M.,
+Hannah, L., Halpin, P. N., Harfoot, M., Heaslip, S. G., Jeffery, N. W.,
+  Kingston, N., Lotze, H. K., McGowan, J., McLeod, E., ... Worm, B. (2019). Integrating climate adaptation and biodiversity conservation in the global ocean. Science Advances, 5(11), 1-16. https://doi.org/10.1126/sciadv.aay9969. Tokarska, K. B., Schleussner, C. F., Rogelj, J., Stolpe, M. B., Matthews, H. D., Pfleiderer, P., & Gillett, N. P. (2019). Recommended temperature metrics for carbon budget estimates, model evaluation and climate policy. Nature
+Geoscience, 12(12), 964-971.https://doi.org/10.1038/s41561-019-0493-5.
+Tong, D., Zhang, Q., Zheng, Y., Caldeira, K., Shearer, C., Hong, C., Qin, Y., & Davis, S. J. (2019). Committed emissions from existing energy infrastructure jeopardize 1.5 °C climate target. Nature, 3(May), 373-377. https://doi.org/ 10.1038/s41586-019-1364-3.
+Ueckerdt, F., Bauer, C., Dirnaichner, A., Everall, J., Sacchi, R., & Luderer, G. (2021). Potential and risks of hydrogen-based e-fuels in climate change mitigation. Nature Climate Change, 11(5), 384-393. https://doi.org/10. 1038/s41558-021-01032-7.
+UNEP. (2021). Global methane assessment: Benefits and costs of mitigating methane emissions.
+United Nations Environment Programme. (2020). The emissions gap report 2020. Nairobi: United Nations Environment Programme.
+van den Berg, N. J., van Soest, H. L., Hof, A. F., den Elzen, M. G. J., van Vuuren,
+D. P., Chen, W., Drouet, L., Emmerling, J., Fujimori, S., Höhne, N., Kõberle,
+A. C., McCollum, D., Schaeffer, R., Shekhar, S., Vishwanathan, S. S., Vrontisi, Z., Blok, K., Berg, N. J., Soest, H. L., ... Blok, K. (2020). Implications of vari- ous effort-sharing approaches for national carbon budgets and emission pathways. Climatic Change, 162(4), 1805-1822. https://doi.org/10.1007/ s10584-019-02368-y.
+van der Velde, I. R., van der Werf, G. R., Houweling, S., Maasakkers, J. D., Borsdorff, T., Landgraf, J., Tol, P., van Kempen, T. A., van Hees, R., Hoogeveen, R., Veefkind, J. P., & Aben, I. (2021). Vast CO2 release from Australian fires in 2019-2020 constrained by satellite. Nature, 597(7876), 366-369. https://doi.org/10.1038/s41586-021-03712-y.
+van Oldenborgh, G. J., Krikken, F., Lewis, S., Leach, N. J., Lehner, F., Saunders,
+K. R., van Weele, M., Haustein, K., Li, S., Wallom, D., Sparrow, S., Arrighi, J., Singh, R. P. K., van Aalst, M. K., Philip, S. Y., Vautard, R., & Otto, F. E. L. (2021). Attribution of the Australian bushfire risk to anthropogenic climate
+
+
+
+change. Natural Hazards and Earth System Sciences, 21(3), 941-960. https:// doi.org/10.5194/nhess-21-941-2021.
+Vedor, M., Queiroz, N., Mucientes, G., Couto, A., da Costa, I., Dos Santos, A. A., Vandeperre, F., Fontes, J., Afonso, P., Rosa, R., Humphries, N. E., & Sims, D. W. (2021). Climate-driven deoxygenation elevates fishing vulner- ability for the ocean's widest ranging shark. ELife, 10, 1-29. https://doi.org/ 10.7554/eLife.62508.
+Verbruggen, A., & Brauers, H. (2020). Diversity disqualifies global uniform carbon pricing for effective climate policy. Environmental Science and Policy, 112, 282-292. https://doi.org/10.1016/j.envsci.2020.04.014.
+Victoria, M., Zhu, K., Brown, T., Andresen, G. B., & Greiner, M. (2020). Early decarbonisation of the European energy system pays off. Nature Communications, 11(1), 6223. https://doi.org/10.1038/s41467-020-
+20015-4.
+Volta, M., Turrini, E., Carnevale, C., Valeri, E., Gatta, V., Polidori, P., & Maione, M. (2021). Co-benefits of changing diet. A modelling assessment at the regional scale integrating social acceptability, environmental and health impacts. Science of the Total Environment, 756(March 2017), 143708. https://doi.org/10.1016/j.scitotenv.2020.143708.
+Vose, R. S., Huang, B., Yin, X., Arndt, D., Easterling, D. R., Lawrimore, J. H., Menne, M. J., Sanchez-Lugo, A., & Zhang, H. M. (2021). Implementing full spatial coverage in NOAA's global temperature analysis. Geophysical Research Letters, 48(4), 1-9. https://doi.org/10.1029/2020GL090873.
+Ward, M., Tulloch, A. I. T., Radford, J. Q., Williams, B. A., Reside, A. E., Macdonald, S. L., Mayfield, H. J., Maron, M., Possingham, H. P., Vine, S. J., O'Connor, J. L., Massingham, E. J., Greenville, A. C, Woinarski, J. C. Z., Garnett, S. T., Lintermans, M., Scheele, B. C., Carwardine, J., Nimmo, D. G.,
+... Watson, J. E. M. (2020). Impact of 2019-2020 mega-fires on Australian
+fauna habitat. Nature Ecology & Evolution, 4(10), 1321-+. https://doi.org/10. 1038/s41559-020-1251-1.
+
+Warszawski, L., Kriegler, E., Lenton, T. M., Gaffney, O., Jacob, D., Klingenfeld, D., Koide, R., Costa, M. M., Messner, D., Nakicenovic, N., Schellnhuber, H. J., Schlosser, P., Takeuchi, K., Van Der Leeuw, S., Whiteman, G., & Rockström, J. (2021). All options, not silver bullets, needed to limit global warming to 1.5 °C: A scenario appraisal. Environmental Research Letters, 16 (6), 64037. https://doi.org/10.1088/1748-9326/abfeec.
+Wetts, R. (2020). Models and morals: Elite-oriented and value-neutral dis- course dominates American organizations' framings of climate change. Social Forces, 98(3), 1339-1369. https://doi.org/10.1093/sf/soz027.
+Whiteman, A., Akande, D., Elhassan, N., Escamilla, G., Lebedys, A., & Arkhipova, I. (2021). Renewable capacity statistics 2021.
+Wilson, K. L., Tittensor, D. P., Worm, B., & Lotze, H. K. (2020). Incorporating climate change adaptation into marine protected area planning. Global Change Biology, 26(6), 3251-3267. https://doi.org/10.1111/gcb.15094.
+World Meteorological Organization. (2021). WMO global annual to decadal climate update.
+Wunderling, N., Donges, J., Kurths, J., & Winkelmann, R. (2021). Interacting tipping elements increase risk of climate domino effects under global warm- ing. Earth System Dynamics Discussions, 12, 601-619. https://doi.org/10. 5194/esd-2020-18. www.globalwarmingindex.org. (n.d.).
+Yao, Y., Tian, H., Shi, H., Pan, S., Xu, R., Pan, N., & Canadell, J. G. (2020). Increased global nitrous oxide emissions from streams and rivers in the Anthropocene. Nature Climate Change, 10, 138-142. https://doi.org/10. 1038/s41558-019-0665-8.
+Zhu, C., & Liu, Z. (2020). Weakening Atlantic overturning circulation causes South Atlantic salinity pile-up. Nature Climate Change, 10, 998-1003. https://doi.org/10.1038/s41558-020-0897-7.
+Zimm, C., & Nakicenovic, N. (2020). What are the implications of the Paris Agreement for inequality? Climate Policy, 20(4), 458-467. https://doi.org/ 10.1080/14693062.2019.1581048.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

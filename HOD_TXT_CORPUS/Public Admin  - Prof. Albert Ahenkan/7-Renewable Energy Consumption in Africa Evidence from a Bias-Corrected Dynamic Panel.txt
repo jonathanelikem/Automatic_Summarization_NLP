@@ -1,0 +1,421 @@
+Science of the Total Environment 766 (2021) 142583
+
+
+
+
+
+
+
+
+
+
+Renewable energy consumption in Africa: Evidence from a bias corrected dynamic panel
+Richmond Silvanus Baye a,?, Allesandro Olper a, Albert Ahenkan b, Issa Justice Musah-Surugu b,
+Samuel Weniga Anuga b, Samuel Darkwah c
+a University of Milan, Italy
+b University of Ghana, Ghana
+c Mendel University, Czechia
+
+
+
+H I G H L I G H T S
+
+• The study explores the drivers of renew- able energy consumption in Sub- Saharan Africa.
+• Corrected least squares dummy variable estimator for 32 African countries
+• We abstract two groups of countries- Carbon Ef?cient and Least Carbon ef?- cient countries.
+• We ?nd that economic, environmental and socio-economic factors promote re- newable energy consumption in the region.
+
+
+
+a r t i c l e	i n f o
+
+Article history:
+Received 11 April 2020
+Received in revised form 12 September 2020 Accepted 23 September 2020
+Available online 30 September 2020
+
+Editor: Damia Barcelo
+
+Keywords:
+Renewable energy consumption Sub-Saharan Africa
+Least squares dummy variable corrected
+
+G R A P H I C A L A B S T R A C T 
+
+
+
+
+a b s t r a c t
+
+Our study investigates the determinants of renewable energy consumption in Sub-Sahara Africa. We explore the driving factors of renewable energy consumption in the context of carbon intensity for 32 Sub-Saharan African countries from 1990 to 2015. Using carbon emission intensity to identify group-speci?c heterogeneity, we recog- nize carbon-ef?cient and least carbon-ef?cient countries in the region. By relying on the corrected least squares dummy variable estimator (LSDVC), we provide evidence on the driving factors of renewable energy consump- tion in Sub-Saharan Africa. Consequently, the ?ndings point to varying degrees of impact on renewable energy consumption in the region. For instance, we observe advancement in technology, quality of governance, economic progress, biomass consumption, and climatic conditions in?uence renewable energy consumption. With a com- mon occurrence across all groups, the implications indicate environmental, socio-economic, and climatic factors playing an important role in renewable energy consumption. The study further shows that urbanization and eco- nomic globalization depress efforts towards renewable energy consumption. Apart from these common factors, other controlling variables including; GDP per capita, environmental awareness, and biomass affect each group differently. We conclude that, policy implications can be drawn from common factors towards harmonization of clean energy markets and developing a policy mix that combines environmental, economic, and social factors in attaining the Sustainable Development Goals.
+
+(c) 2020 Elsevier B.V. All rights reserved.
+
+
+
+
+
+
+
+? Corresponding author.
+E-mail address: richmondbaye@outlook.com (R.S. Baye).
+1. 
+Introduction
+
+   Environmentalists and policymakers are clear on climate change and global warming, having severe implications on the earth's survivability.
+
+
+https://doi.org/10.1016/j.scitotenv.2020.142583 0048-9697/(c) 2020 Elsevier B.V. All rights reserved.
+
+
+
+Also, they pointed to the trade-off between economic growth and sus- tainable development as one of the main factors (Marques and Fuinhas, 2011). As such, global multilateral environmental agreement, most especially, the United Nations Convention on Climate Change (1992), the Kyoto protocol (1998), and the Paris agreement (2015), re- quire countries to enhance the reduction in carbon emitted per unit of a good produced, while also scaling up clean energy consumption by 2050. In response, there has been call to decouple economic growth from fossil fuel energy (International Energy Agency, 2016). Conse- quently, renewable forms of energy such as solar, wind, hydro, geother- mal, tidal, and biomass have gained attention in policy reforms towards renewable energy consumption.
+   Despite the widespread support, the general momentum towards renewable energy consumption is still at the incipient stage in most countries. As of 2016, at the global level, the share of renewable energy consumed from the total primary energy remains well below 18%, while the share of advanced clean energy stays below 11% (International Energy Agency, 2016). Given the growth in renewable micro-grids in many African countries, declining prices of solar-photovoltaic, environ- mental awareness and policy towards increasing energy mix, this trend is expected to change (Ike et al., 2020; Niyonteze et al., 2020; Dobrotkova et al., 2018). According to Pillot et al. (2019), the share of re- newable energy consumption is expected to double over the next 30 years. Nevertheless, this growth in consumption is expected to vary across regions and countries (Szabó et al., 2016). At the regional level, country-speci?c factors such as economic growth, environmental factors, population growth and urbanization, political factors, techno- logical progress and trade policies will play a critical role in driving the change (Balcilar et al., 2018).
+   Currently, Sub-Sahara Africa lags in energy production and con- sumption despite the increasing global trend (Hafner et al., 2018). Thus, a situation many scholars have described as energy poverty. En- ergy poverty is re?ected in consumption trends as the region consumes 3.3% of total world primary energy. In the view of Szabó et al. (2016), over 600 million people are without access to stable, reliable, and af- fordable energy supply. Moreover, in the energy economics literature, many factors cited explain energy poverty in Africa and by extension, the low levels of clean renewable energy consumption in the region de- spite the enormous and diverse energy resource in the region.
+   Our study builds on existing literature and ascribes some of the rea- sons to underinvestment in clean energy sources (Alola et al., 2019; Klagge and Nweke-Eze, 2020). Other factors include: political will and policy decisions towards adoption and consumption (Linnerud et al., 2014), lack of needed capital investment (Maji et al., 2019), off-grid solar powered infrastructure (Baurzhan and Jenkins, 2016), and high population growth and urbanization. Further, under-developed nature of the regional markets does not promote energy sharing among coun- tries (Szabo et al., 2011). To gain an understanding into these intricate phenomena, we explore these driving factors at the regional level before drilling into group-speci?c differences and similarities.
+Presently, these studies (Oppong et al., 2020; Nathaniel and Iheonu,
+2019; Maji et al., 2019; Olanrewaju et al., 2019; Ergun et al., 2019; Da Silva et al., 2018; Attiaoui et al., 2017; Aïssa et al., 2014) examines the determinants of renewable energy consumption in Africa by either rely- ing on a Panel ARDL approach or using a static panel estimator. We pres- ent our ?ndings using a dynamic panel estimator that is robust to small sample bias and second order - serial correlation. The dynamic panel es- timator allows the ?exibility of estimating the evolving nature of envi- ronmental and economic relationships. Besides, our study explores the drivers through the lens of carbon emissions per unit of a good pro- duced. Based on this selection, we abstract two groups of renewable en- ergy consumers in the region. One group is carbon-ef?cient and the other group is the least carbon-ef?cient. We argue, by selecting coun- tries based on carbon emission intensity, we are able to exploit the amount of carbon emitted per unit of goods produced and group coun- tries based on similar carbon intensities. On this account, the study
+
+contributes to the literature in threefold: (1) add to literature and en- hance our understanding on renewable energy consumption in SSA,
+(2) using a wider time frame and countries, (3) using a bias correcting dynamic estimation approach.
+   The study reveals that current levels of renewable energy consump- tion are contemporaneously correlated with past levels of renewable energy consumption. In brief, this is true for the two broad categories and the full sample. Moreover, we observe a positive relationship be- tween CO2 emissions per capita and renewable energy consumption. We show that human development improves renewable energy con- sumption in the full sample. Thus, con?rming the importance of income and general wellbeing for renewable energy consumption. As expected, urbanization diminished renewable energy consumption. We also ob- serve a positive relationship between biomass (forest area) and renew- able energy consumption. Highlighting the importance of climatic indicators, we show that hydro-electric power and solar energy have in- duced renewable energy consumption in the region. Considering that most of the energy consumed in the zone is from hydro-powered plants, our indicators were absolute.
+   Moving on to the carbon-ef?cient group, the dynamic assessment of renewable energy consumption is still relevant to present energy con- sumption. Interestingly for this group, there is a negative relationship between income per capita, trade openness, and wood-derived biomass on the outcome variable. The implications point out that perhaps ?nan- cial ?ows through trade into renewable energy is still lacking in these countries. Arguably, we agree on the same terms that the share of wood-derived biomass from renewable sources of power dominates the share. Hence, as income increases, we expect a lower portion of the energy consumed from renewable sources. This same connection highlights the negative relationship between biomass use and renewable energy use for these countries. In the case of the least carbon-ef?cient group, GDP per capita, and biomass (forest area) drive renewable energy consumption. In summary, these ?ndings af?rm his- toric precedents, present policy relevance, and future implications on renewable energy consumption in SSA.
+
+2. Literature review
+
+   As a result of the constant threat of climate change due to Green House Gas emissions, there has been a general call towards the produc- tion of carbon-resilient sources of energy and the reduction in the con- sumption of fossil-based energies (Marques and Fuinhas, 2011). As such, scores of empirical studies have emerged to examine the develop- ment and consumption of renewable energy. For instance, Sadorsky (2009), points to the investigation of the relationship between renew- able energy consumption, CO2 emissions, and Oil prices for the G7 coun- tries. The study provides evidence that CO2 per capita and GDP per capita increased renewable energy consumption. Adding to the evi- dence, Apergis and Payne (2010) af?rmed a long-run relationship be- tween GDP and renewable energy consumption. On the determinants of renewable energy consumption with evidence from 64 countries be- tween the years 1990 and 2011, Omri and Nguyen (2014) showed that oil price affects renewable energy consumption. According to the afore- mentioned, they documented that changes in GDP in?uence renewable energy use in high and Low-income countries. In the case of the full sample, trade openness positively drives renewable energy consump- tion. Other studies that modeled similar relationships include: (Bhattacharya et al., 2016; Fang, 2011; Omri et al., 2014; Salim and Ra?q, 2012; Sinha et al., 2018). What is striking in these ?ndings is the link between renewable energy consumption and economic growth, trade openness, carbon emissions.
+   Apergis and Payne (2012) employed a panel time-series model to establish bidirectional causality among selected variables in their model. From this exercise, seven Central American countries showed a positive relationship between CO2 emissions and renewable energy consumption. Energy prices also positively affected renewable energy
+
+
+
+consumption. Again, in an extensive study, Nguyen and Kakinaka (2019) showed a positive association between renewable energy con- sumption and CO2 emissions for low-income countries. Similarly, Ohler and Fetters (2014) noted bidirectional causality amid economic growth and renewable energy consumption. Marques and Fuinhas (2011) applied a dynamic panel estimation technique for 24 European countries. Findings from the study showed a contemporaneous effect of lagged energy use on current energy use. They provide evidence in support of urbanization, CO2 emissions, and economic growth in moti- vating renewable energy consumption in the selected countries. In con- trast to these ?ndings, Ocal and Aslan (2013) show that renewable energy consumption does not lead to economic growth but indicates a positive or negative relationship is time or country dependent.
+   The literature on renewable energy in Africa mainly focused on bio- mass and ?re wood consumption. For instance (Adewuyi and Awodumi, 2017; Sulaiman et al., 2017) have documented that countries in Africa rely heavily on combustible biomass for heating and cooking. As yet, empirical studies that examine the share of renewable energy from total primary energy consumption spans Da Silva et al. (2018). In their work, they used a Panel ARDL approach to examine the determinants of renewable energy growth in Sub-Saharan Africa. Evidence selected in 17 SSA countries from 1990 to 2014 noted the relevance of economic growth to renewable energy growth in the region. On the relationship between CO2 and renewable energy consumption, Nathaniel and Iheonu (2019) showed a negative relationship between these two var- iables in their study. Olanrewaju et al. (2019) ?nds a negative
+
+relationship between carbon intensity and renewable energy consump- tion in Africa. Added to this, Oppong et al. (2020) show a long run granger causality between GDP, CO2 and renewable energy consump- tion for countries in Africa. This corroborates the ?ndings of Attiaoui et al. (2017). In similar evidence, Nathaniel and Iheonu (2019) used an Augmented Mean Group estimation technique to document a uni- directional causality from renewable energy to CO2 emissions for 19 countries in Africa. Contrary to these ?ndings, Maji et al. (2019) used a panel dynamic ordinary least squares estimation technique to show that between 1995 and 2014, renewable energy consumption did not promote economic growth but rather slowed down economic progress for 15 West African countries. Ergun et al. (2019) used a static panel es- timation technique for 21 African countries for the period 1990 and 2013 to argue that because most forms of renewable energy use is from biomass, economic progress or increases in GDP per capita may translate into lower levels of renewable energy consumption.
+
+3. Material and method
+
+3.1. Source of data and variable description
+
+   In investigating the key driving factors of renewable energy con- sumption in SSA, the study sourced data from the World Bank's World Development Indicators (WDI), the Quality of Governance database, and the KOF Swiss economic institute. The data spans from the period of 1990 to 2015 for selected 32 SSA countries. Fig. 1 shows a map of
+
+
+
+
+Fig. 1. Selected countries used for the study.
+
+
+Table 1
+Summary statistics.ObsSt. devMinMaxKurtosisSkewnessREN83122.04210.63498.3433.662-1.274CO2 emissions per capita8001.6370.0179.97919.1953.97Oil price83232.95712.983107.2721.9720.715GDP per capita8322263.661164.33711,937.68.322.344HDI7790.3871.032.7192.3810.51Urban population growth8321.731-1.47717.49913.3841.315Trade openness8320.40102.0782.8170.479Economic globalization83210.11715.74685.1854.3610.477Biomass829294,0003821,600,00015.7823.393Rainfall83241.6739.168236.5633.1530.412Temperature8322.69217.38129.5412.413-0.085Governance6500.1270.0830.8983.9680.298Technology8294.829031.06719.613.882
+
+
+the chosen countries- speci?c carbon intensities. The selection of coun- tries is limited to the availability of data for the variables selected in the study. Therefore, Table 1 provides a summary of the reported descrip- tive statistics of the variables, including the mean, standard deviation, minimum, maximum, kurtosis and Skewness of the distribution. From the table, the kurtosis of all the variables remains greater than +1; indi- cating a very peaked distribution with most of the variables having heavier tails than a normal distribution.
+
+3.1.1. Environmental variables
+   As part of the covariates, we source spot oil price measured in $ per bbl from the yearly statistical reviews of British petroleum. As a measure of environmental awareness, we use CO2 emissions per capita. We ex- pect higher levels of CO2 emissions to give rise to calls for environmental protection, which in turn drives renewable energy consumption (Marques and Fuinhas, 2011). We de?ne climatic effects as average an- nual temperature and mean annual rainfall. We anticipate either a pos- itive or a negative impact on the outcome variable. From a hydroelectric generating point of view, there is the likelihood of high average rainfull needed to ?ll up water bodies for hydro-electricity generation. On the temperature side, a high yearly average temperature could signal po- tential investment into solar infrastructure, but this can potentially con- strict hydro-electricity generation.
+
+3.1.2. Economic variables
+   For the economic variables, we use GDP per capita to re?ect eco- nomic progress, with the data taken from the World Development Indi- cators (WDI). Chang et al. (2009) demonstrate that higher-income countries are likely to consume from renewable sources than those with low income per capita. To complement the economic indicators, we use HDI to measure general economic well-being. Additionally, we also de?ne economic globalization and trade openness as a conduit, through which investment and technological innovation diffuse to countries with lower technological capacity. The study expects either a positive or negative effect on the outcome variable. In the view of Omri and Nguyen (2014), trade openness facilitates the cross-border movement and exchange of goods, which is inherently energy reliant. Added to this, the advent of technology could either push or drag re- newable energy consumption in the region.
+
+3.1.3. Socio-economic variables
+   We anticipate a direct effect of urbanization on energy use and by extension, renewable energy consumption. For instance, Chen (2018) shows that in urban areas where energy demand is high, urbanization could increase the demand for alternative sources of energy. Next, as a proxy for wood-derived biomass, the study anticipates a positive rela- tionship between forest areas and energy consumption in the region. The argument remains that, SSA countries use wood derived biomass for cooking and heating. In another context, Gan and Smith (2011)
+
+
+posit that countries endowed with renewable resources effectively pro- duce and consume such resources. The reverse also holds but on the condition of developing a high-level technology to harness the opportu- nities. We also include the quality of governance indicator to re?ect in- stitutional policies towards renewable energy consumption in the region. Here, we expect countries with higher quality of governance to in?uence renewable energy consumption positively.
+
+3.2. Empirical models
+
+   Following Omri and Nguyen (2014), the study develops an empirical model that augments standard empirical models by including tempera- ture, rainfall, urbanization, technology, governance, and biomass as part of the controls. Expressly, in an econometric form, the determinants of renewable energy consumption for the full sample and group-speci?c cases is stated as follows:
+RECit 1/4 ß0 þ ß1CO2per capit þ ß2HDIit þ ß3Eco - globit þ ß4tempit þ ß5Rainit þ ß6urbanit þ ß7Biomassit
+þ ß8Technologyit þ ß9Governanceit þ uit	ð1aÞ
+RECit 1/4 ß0 þ ß1CO2per capit þ ß2GDP per capitait þ ß3Eco-globit þ ß4tempit þ ß5Rainit þ ß6urbanit þ ß7Biomassit
+þ ß8Technologyit þ ß9Governanceit þ uit	ð1bÞ
+where, REC represents renewable energy consumption, which is a func- tion of; CO2 emissions, HDI, GDP per capita, trade openness, rainfall, temperature, urbanization, and biomass, technology and governance. Therefore, applying a panel data dimension to the function in Eqs. (1a) and (1b) yields the following equation:
+RECit 1/4 ß0 þ ßi,t S CVi,t þ uit:	ð2Þ
+where CV captures all the covariates mentioned in Eqs. (1a) and (1b). ui t is a function of the ?xed effects and the unobserved white noise.
+
+3.3. Estimation method
+
+   Estimating panel models require certain assumptions: First, the co- variates should not correlate with each other. Next, the model should be free from serial correlation. The variables should be exogenous; whiles the distribution remains normal. In our model, variables like GDP per capita, CO2 emissions per capita, and urban population growth change over time. This means, to be able to correctly predict the out- come of a model, time varying factors should be taken into consider- ation. Hence using OLS or the ?xed effects model may produce biased coef?cients and imprecise standard errors.
+   One such approach to correcting these measurement errors and un- observed heterogeneities in static panels is to include dummy variables or taking ?rst differences. However, a problem with these approaches is the persistence of a correlation between the lagged term (RECit-1) and
+
+
+
+the error term (uit). Blundell and Bond (1998) solved this by proposing the System GMM estimator. However, recent literature suggests that the system GMM estimator performs poorly (small sample bias prob- lem) when the sample is characteristically small.
+   Our cross-sectional element of the data consists of 16 countries in each group for a period of 25 years. Given the small size of our panel, es- timating this with a system GMM regression could lead to a small sam- ple bias problem. As such, Bruno (2005) proposes a model that corrects this problem by extending the work of Kiviet et al. (1999) to accommo- date unbalanced panels. Unlike the conventional system GMM estima- tor, Bruno (2005) posits that the LSDVC estimator is ef?cient in bias correction under unbalanced panels characterized by missing observa- tions (Flannery and Hankins, 2013). Under a strictly exogenous assump- tion of parameter selection, Bruno (2005) shows that the LSDVC is a preferred estimator as compared to the system GMM estimator when the panel is short. Similar to the case of our full sample, Buddelmeyer et al. (2008) showed that even when T= 5 and N= 20, the LSDVC yields consistent and reliable estimates. On this ground, the study implements the LSDVC estimator with ?xed effects that is robust in the presence of unbalanced panels; second-order serial correlation; and unobserved heterogeneity in a dynamic panel setting. Our study estimates LSDVC estimator initialized by a dynamic panel estimate, which relies on a re- cursive bias correction up to N-1 T-2 with time ?xed effects following 100 bootstrapped replications to check the statistical signi?cance of the coef?cients (Bruno, 2005). The empirical strategy for the LSDVC es- timator is reported in the Eq. (3).
+RECi,t 1/4 aiRECi,t-1 þ ßiCVit þ f i þ ui,t	ð3Þ
+
+where RECi,t is the outcome variable over space and time (REC); RECi,t-1 is the lagged dependent variable with a ?rst-order autoregressive pro- cess. Also, the inclusion of ?xed effects fi is to control for observations that are not randomly selected. CVit encapsulates the exogenous factors driving renewable energy consumption in the region. In addition, the Uit is the error term independent of the fi term.
+
+4. Empirical results
+
+4.1. Correlation analysis
+
+   Table 2 shows the correlation coef?cient of the variables in the model. Starting with the urbanization coef?cient, we observe that the elasticity of urbanization is positively related to renewable energy consumption in all groups. Also, we observe a signi?cant negative corre- lation between technology, trade openness and renewable energy con- sumption across all groups. The outcome indicates low levels of
+
+
+Table 2
+Correlation table.
+
+investment in renewable energy in the region. However, economic globalization and wood derived biomass are positive and signi?cant for the full sample and the carbon-ef?cient group. Governance is signif- icantly negative for the full sample and the least carbon ef?cient group. In the case of the full sample and the least carbon-ef?cient group, we show a positive correlation between temperature, rainfall and renew- able energy consumption. Also, in the carbon-ef?cient group, we ob- serve a negative correlation.
+
+4.2. Fisher unit root test
+
+   Because panel data combines both elements of time series and cross- sectional data, we need to check the stationarity of the variables to as- certain that they don't ?uctuate the mean. Additionally, the results from the model may be spurious with nonstationary models and this could lead to unintended conclusions. Hence, to implement a station- arity check, we employ the Fisher Unit root test with an Augmented Dickey-Fuller option under the null hypothesis; all panels have a unit root, as against the alternative of no unit root. Also, Table 3 presents the results of the Fisher unit root on the variables used in this study. For instance, the test result at levels con?rms, some variables are sta- tionary (Urban population growth, biomass, economic globalization, governance, rainfall, and temperature). Using the ?rst difference, we transformed non-stationary variables at levels (CO2 emissions per cap, oil price GDP per cap, and technology) to stationary variables. Meaning the order of integrations is one.
+
+4.3. Pre-testing of the model
+
+   Before estimating the dynamic panel, we ?rst present the drivers of renewable energy consumption in a static lens thus, estimating a pooled OLS and ?xed effects regression. Our results presented in Table 8 reports consistent but inef?cient outcomes. To show this, we performed several diagnostic checks. First, to ascertain the suitability of variables in the model, we performed a test of collinearity of the covariates in the model. Table 4 reports the output of the VIF test for multicollinearity. As a rule of thumb, none of the reported values were greater than 10. Hence, one can be con?dent of no perfect collinearity in the model. We further test for cross-sectional dependence in the model using the Pesaran test for cross-sectional dependence for the full sample (T < N) and the Breusch Pagan test (T > N) for the groups. To demonstrate, our results in Table 8, the full sample document no cross sectional de- pendence among the variables. The group speci?c cases however report the presence of cross-sectional dependence. As a ?nal step, we per- formed the Wooldridge test for serial correlation in the model. At this point, our result reports the presence of serial correlation in the model that may cause the standard errors to be bias and the estimates to be less ef?cient. As such, using the pooled OLS and the ?xed effect result
+
+
+REN_full sample
+
+
+REN_carbon ef?cient
+
+
+REN_least carbon ef?cient
+
+
+Table 3
+Fisher unit root test.
+
+
+CO2 emissions per cap	-0.61***	-0.81***	-0.64*** Oil price	-0.12***	-0.16***	-0.12**
+
+Levels	First difference
+
+	
+Statistic	P-value	Statistic	P-value
+
+GDP per cap	-0.59***	-0.73***	-0.54***		
+HDI-0.49***-0.18***-0.45***REC55.78160.7582323.95970.0000urban population0.38***0.24***0.44***CO2 emissions per capita60.2060.6114680.30120.0000growthOil price27.36541.0000884.45310.0000Trade openness-0.37***-0.22***-0.37***GDP per cap74.43270.175400.73110.0000Economic globalization0.07**0.21***0.05Urban pop219.33790.0000403.51890.0000Biomass0.28***0.31***0.30***Trade openness46.15730.9548547.40450.0000Rainfall0.11***-0.28***0.35***Biomass323.17090.0000Temperature0.16***-0.32***0.43***Temp245.50090.00001267.8370.0000Governance-0.23***0.22***-0.46***Rainfall680.22980.00001733.87930.0000Technology-0.75***-0.77***-0.74***Economic glob114.07640.0000794.97130.0000N832416416Governance84.78500.0015320.12690.0000***, **, * indicates 1, 5, and 10 percent level of signi?cance.Technology53.01490.8347574.93510.0000
+
+
+Table 4
+Test for multicollinearity using VIF.
+
+Full sample	Carbon ef?cient  Least carbon
+ef?cient
+
+VariableVIF1/VIFVIF1/VIFVIF1/VIFCO2 emissions per cap2.180.4594413.890.2605313.760.265764HDI1.900.5256033.040.3292092.010.496525Log rainfall1.610.6228144.100.2436502.990.334741Log Temperature2.050.4889123.340.2997183.730.268315Governance1.990.5037042.410.4147853.360.297423Economic globalization1.570.6377323.600.2775692.000.500003Urban Population growth1.500.6654951.860.5363771.370.731201Log Biomass1.250.8015652.010.4986311.260.794723Log Technology3.130.3196862.820.3354385.170.193595Mean VIF2.052.432.36
+
+may not be ideal for a causal interpretation due to biased standard er- rors, small sample bias problem and the dynamic nature of relation- ships. Hence, we use the LSDVC estimator which is robust to second- order serial correlation, unobserved heterogeneity, corrects the prob- lem of small sample bias and robust to gaps in unbalanced panels for our analysis.
+
+4.4. Estimation for the full sample
+
+   Firstly, we seek to present the dynamic effect of the determinants of renewable energy consumption for the whole sample. Secondly, there is a discussion on the carbon-ef?cient group and the least carbon-ef?cient group. To sum up, by employing the corrected LSDV estimator, we show the key factors driving renewable energy consumption in SSA.
+   The estimator controls for the dynamic effect by including the ?rst lag of the dependent variable as an independent variable in the model and the variables assumes a strictly exogenous assumption. Moreover, concerning the robustness of the result, we bootstrapped the standard errors to 100 replications to ensure an accurate prediction of the out- comes (Bruno, 2005). Approximately, the accuracy of the bias is up to O (1/NT 2) and initialized with the Blundell and Bond (BB) estimator. Further, using this adjustment ensures the consistency and ef?ciency
+
+of the results. We report our discussion for the full sample in Table 5. From the results, the ?rst lag of the dependent variable is positive and signi?cant which implies that current levels of renewable energy con- sumption is dependent on past patterns of renewable energy consump- tion. This af?rms the appropriateness of using the dynamic panel estimator. It also validates the idea that changes in consumption pat- terns take time. All things considered, the study underscores that in- cluding the lag of the dependent variable in the model improves the explanatory power of control variables.
+   Column 9 of Table 5 reports the preferred regression output. Also, Columns (1-8) report the parsimonious regression with various de- grees of controls. Moreover, an elaborative way to capture the true ef- fect on the dependent variable in a dynamic panel setting is to capture country-speci?c factors that do not change over time. We achieve this by controlling for time effects in all the speci?cations. The ?rst column which is our baseline regression examines the role of CO2 emissions per capita on renewable energy consumption and using HDI as control. Here, our result documents a positive and signi?cant relationship be- tween CO2 emissions per capita and renewable energy consumption. However, with the inclusion of several classes of control variables in the model, the size of the effect diminishes and loses statistical signi?- cance in column (9). Therefore, we interpret the outcome in column
+(7) as (e0.042-1)*100 = 4.29% increase in renewable energy consump- tion when CO2 emissions per capita increase by a unit. Our result cor- roborates the ?ndings of (Apergis and Payne, 2014; Sadorsky, 2009, Salim and Ra?q, 2012). An important note of caution is, as we control for technological progress and governance, the coef?cient - CO2 per capita losses its signi?cance in explaining renewable energy consump- tion in the region.
+   The role of human development is positive in column 9. Our coef?- cient of regression shows that a marginal improvement in human de- velopment drives renewable energy consumption in the region. In terms of elasticity, we show that the partial elasticity of HDI on renew- able energy consumption is 15.5%. Our coef?cient shows that human development is prominent for renewable energy consumption and that continuous improvement in economic development is necessary for renewable energy consumption. This outcome is consistent with (Chen, 2018).
+
+
+
+
+Table 5
+Regression results full sample.LSDVc_1LSDVc_2LSDVc_3LSDVc_4LSDVc_5LSDVc_6LSDVc_7LSDVc_8LSDVc_9L.log REN2.236***2.519***2.486***2.552***2.483***2.521***2.648***2.347***2.227***(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)CO2 emissions per cap0.109***0.099***0.097***0.088***0.080***0.084***0.042*0.020-0.020(0.021)(0.021)(0.021)(0.021)(0.021)(0.021)(0.022)(0.023)(0.028)HDI-0.221***-0.139*-0.124*-0.119*-0.087-0.099-0.0190.0670.155*(0.070)(0.072)(0.074)(0.072)(0.071)(0.072)(0.074)(0.070)(0.085)Urban pop growth-0.113***-0.113***-0.118***-0.119***-0.120***-0.131***-0.118***-0.111***(0.011)(0.011)(0.011)(0.011)(0.010)(0.011)(0.013)(0.017)Trade openness-0.014(0.017)Economic globe-0.003***-0.003***-0.002***-0.004***-0.004***-0.004***(0.001)(0.001)(0.001)(0.001)(0.001)(0.001)Log Biomass0.081**0.092**-0.002-0.078*0.161**(0.039)(0.039)(0.040)(0.044)(0.065)Log Rainfall-0.0100.0360.045*0.067**(0.023)(0.026)(0.027)(0.033)Log Temp2.190***1.770***1.306**(0.450)(0.471)(0.604)Log Technology0.0060.020*(0.007)(0.011)Governance0.277*(0.153)N326326326326326326326323243
+
+
+   In contrast to these ?ndings (Salim and Sha?ei, 2014; Ding and Li, 2017), our empirical results show a negative relationship between ur- banization and renewable energy consumption in the region. Our coef- ?cient of regression shows a 0.11% reduction in renewable energy consumption in the region. A cautious explanation of this outcome may be required. A possible reason could be that the growth rate of urbanization in Nigeria and South Africa may have in?uenced the overall outcome. Another reason could be due to rapid urbanization coupled with rising demand for energy. As such, governments in the region focus more on fossil-based sources of energy than renewable forms of energy.
+   Given that combustible biomass is consumed excessively in the re- gion, our results are unsurprising as the consumption of biomass (forest area) increases renewable energy consumption in the region. We do not expect a long term relationship between these two variables due to the exhaustible nature of forest resources. Based on this result, we interpret this outcome through the lens of wood-derived biomass consumption. Further, our coef?cient of regression shows a percentage increase in wood-derived biomass drives renewable energy consumption by 0.16%. Moving on to climatic stress, we present evidence in support of the growth in solar energy consumption in this region. Our results show that when daily temperature increases by one (1) degree Celcius, renewable energy consumption will increase by 1.31%, which is also true for hydro-forms of energy in region. As hydro-electricity is the dominant form of energy production in the region, it is not surprising that the effect on renewable energy consumption improved by 0.067%. From an economic point of view, our result signals the enormous poten- tial in solar energy generation in the region. Another possible reason for the positive impact is the signi?cant drop in solar-PV prices in the world market, which has driven off-grid solar investment in the region. Con- sidered alongside the variables in the model, economic globalization is signi?cant and has a negative effect on renewable energy consumption. What this means is that the share of investment into renewable energy, is dominated by the share of investment into fossil-based fuels.
+   Moving on, other factors such as technological progress and the quality of governance could have a direct effect on renewable energy
+
+consumption in the region. As shown in column 9 of Table 5, our result con?rms, the conjecture that technological progress is paramount to re- newable energy consumption in the region. The coef?cient of the re- gression output point to a 0.02 improvement in renewable energy consumption when technology improves by 1%. In recent times, due to advancement in technological innovations over the past decade, prices of solar-pv has dropped signi?cantly in the world market leading massive investment in solar energy in the region in recent times. The ef- fect of governance on renewable energy consumption is undeniable. We expected a positive association with renewable energy consumption when the quality of governance improves. This is exactly what we ob- serve. The coef?cient of the regression show an improvement in renew- able energy by 28% when quality of governance improves by 1%. An implication from this ?nding is; when environmental concerns are em- bedded in long term development plans of countries, a 100% green economy is achievable in the region.
+
+4.5. Estimation for the carbon ef?cient group
+
+   In this section, we discuss the factors that promote renewable en- ergy consumption among the carbon-ef?cient group of countries. Table 6 reports the estimated effect on the outcome variable with a focus on the result reported in column 10. The ?rst point of interest is evidence of the previous level of renewable energy consumption on cur- rent levels of renewable energy consumption. Our ?ndings unveil strong statistical signi?cance, which reveals persistence. Moreover, per- sistence implies that renewable energy consumption is sustainable over the years. Next, we show that the partial elasticity of CO2 emissions per capita improves renewable energy consumption by about 25%. Our co- ef?cient suggests that environmental awareness promotes renewable energy consumption. This ?nding is consistent with empirical literature (Sadorsky, 2009), documenting that environmental concerns are im- portant in driving renewable energy consumption.
+   Moving on to GDP per capita, the expectation is that as countries progress, standards of living improves that could translate into better decisions on environmental quality and protection. Hence, one would
+
+
+Table 6
+Regression results carbon ef?cient countries.
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)LSDVc_2LSDVc_2LSDVc_3LSDVc_4LSDVc_5LSDVc_6LSDVc_7LSDVc_8LSDVc_9LSDVc_10L.log REN5.084***5.427***6.055***6.176***4.400***5.292***4.877***3.711***3.823***5.233***
+Log Oil price
+
+Co2 emissions per cap(0.000)*
+-0.103*** (0.020)(0.000)
+
+
+0.838***(0.000)
+
+
+0.726***(0.000)
+
+
+0.685***(0.000)
+
+
+0.671***(0.000)
+
+
+0.748***(0.000)
+
+
+0.649***(0.000)
+
+
+0.539***(0.000)
+
+
+0.564***(0.000)
+
+
+0.245***(0.058)(0.062)(0.065)(0.066)(0.067)(0.068)(0.067)(0.063)(0.088)Log GDP per capita-0.693***-0.479***-0.498***-0.349***-0.560***-0.488***-0.396***-0.379***-0.524***(0.039)(0.051)(0.050)(0.044)(0.046)(0.047)(0.047)(0.050)(0.130)Urban population-0.157***-0.163***-0.106***-0.094***-0.086***-0.070***-0.080***-0.162***Trade openness Economic globalization(0.016)(0.015)
+-0.069** (0.029)(0.015)
+
+
+0.004***(0.015)
+
+
+0.006***(0.015)
+
+
+0.005***(0.015)
+
+
+0.002**(0.015)
+
+
+0.002***(0.022)
+
+
+0.010***
+Log Biomass(0.001)(0.001)
+-0.546*** (0.038)(0.001)
+-0.477*** (0.039)(0.001)
+-0.327*** (0.040)(0.001)
+-0.240*** (0.051)(0.001)
+-0.116
+(0.108)Log rainfall-0.0390.0420.068**0.147**
+Log temp
+Log Technology Governance(0.032)(0.033)
+3.492*** (0.424)(0.027)
+4.035*** (0.502)
+0.021*** (0.008)(0.063)
+5.346*** (0.672) 0.029** (0.012)
+1.375***
+(0.288)Obs.189173173173173173173173170114Year DummyYesYesYesYesYesYesYesYesYesYes
+
+
+expect a higher share of renewable energy consumption as countries progress economically. Our result however, portrays a negative rela- tionship between GDP per capita and renewable energy consumption. We join Ergun et al. (2019) in arguing that most of the countries in this category consume a larger fraction of their share of renewable en- ergy from the "traditional source". As such, as these countries develop we expect a negative relationship. Another explanation of this outcome is because countries are expected to grow in order to improve on the quality of life of its citizens, fossil fuels which come as a cheaper alterna- tive to cleaner forms of renewable energy consumption will be inten- sively used to drive development (Ergun et al., 2019). The estimated impact reveals that renewable energy consumption declines by 0.52% when GDP per capita increases by a percentage.
+   Moving on to economic globalization, our ?ndings reveal that a 1% improvement in trade improves renewable energy consumption by 1%. This result supports earlier empirical works (Chen, 2018). Indeed, our ?nding shows that investment into the renewable sector in these countries is gaining momentum. From another angle, the impact of trade on renewable energy consumption could imply that the techno- logical possibilities for the development of the renewable sector assess- able for both off-grid and grid installation. We see this impact as the regression result for technological innovation improves renewable energy consumption by 0.03%.
+   In what follows, we discuss the role of socio-economic factors on renewable energy consumption. Focusing on urbanization, we show that urban growth depresses renewable energy consumption by 0.16%. This ?nding highlights the damaging impact of urbanization on renewable energy consumption in these countries. Also, we argue that perhaps due to existing energy poverty, national governments are forced to rely on non-renewable sources, which are relatively cheaper to produce and distribute. However, a prudent policy action from national government could promote renewable energy consumption. The ?nding in our estimate shows exactly that. That is, quality of gover- nance improves renewable energy consumption. Our regression model further focused on wood-derived biomass. Here we point out that renewable energy consumption declines by about 0.16%. We show
+
+that the natural resource base pushes for less consumption of cleaner forms of renewable energy. Probably, the dependence on biomass which is cheaper and readily available does not encourage cleaner forms of renewable energy consumption. All in all, our climatic controls (temperature and rainfall) show a positive effect on renewable energy consumption. The strongest of the effect is seen in solar energy (tem- perature), which highlights the potential for greater renewable energy consumption in these countries.
+
+4.6. Estimation for the least carbon ef?cient group
+
+   We note that in the preferred regression reported in column 10 of Table 7, we controlled for time effects in all cases. First of all, as ex- pected, the lag effect of renewable energy consumption on the outcome variable is persistent and signi?cant. Our estimates con?rm that CO2 emissions depress renewable energy consumption for these countries. This outcome is not surprising as environmental concerns are perhaps not paramount in the development plans of these countries. The coef?- cient of CO2 emissions per capita shows that renewable energy con- sumption declines by 7% when CO2 emissions per capita increase by a metric ton.
+   With our primary focus on the results reported in column 10 of Table 7, we show that GDP per capita contributes to renewable energy consumption among these countries. An obvious implication is ?nancial development and economic growth is a pre-condition for renewable en- ergy consumption for this group of countries. Also, the marginal effect reveals a 0.32% increase in renewable energy consumption when GDP per capita increases by 1%. Next, we show that urban population growth deters renewable energy consumption. The partial elasticity coef?cient of urban population growth on renewable energy consumption is ap- proximately 28%. Considering the magnitude of the decline, it remains imminent that there is already a depressing energy situation in the region which has been exacerbated by population growth and urbaniza- tion. Trade openness and economic globalization does not contribute to renewable energy consumption for the select group of countries. Going further, our results reveal a negative relationship between economic
+
+
+Table 7
+Regression results for least carbon ef?cient countries.
+
+(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)LSDVc_2LSDVc_2LSDVc_3LSDVc_4LSDVc_5LSDVc_6LSDVc_7LSDVc_8LSDVc_9LSDVc_10L.log REN2.566***2.780***3.136***3.088***3.149***3.281***3.407***3.392***3.249***5.411***(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)(0.000)Log oil price0.457***(0.081)CO2 emissions per cap0.077***0.051*0.0430.0420.0340.0370.020-0.017-0.077***(0.026)(0.027)(0.027)(0.027)(0.027)(0.026)(0.026)(0.038)(0.028)Log GDP per cap0.550***0.418***0.473***0.412***0.437***0.458***0.465***0.371***0.320***(0.083)(0.085)(0.092)(0.086)(0.086)(0.086)(0.087)(0.083)(0.089)Urban population growth-0.232***-0.226***-0.225***-0.259***-0.268***-0.262***-0.289***-0.284***(0.020)(0.020)(0.020)(0.020)(0.020)(0.020)(0.019)(0.021)Trade openness-0.053**(0.023)Economic globalization-0.005***-0.004**-0.004***-0.004**-0.003**-0.009***(0.001)(0.001)(0.001)(0.001)(0.001)(0.001)Log biomass0.535***0.560***0.552***0.400***0.932***(0.073)(0.073)(0.075)(0.077)(0.064)Log rainfall-0.096***-0.072**-0.0590.088**(0.034)(0.037)(0.047)(0.044)Log temp1.359**0.5640.079(0.633)(0.606)(0.884)Log Technology0.061***0.077***(0.018)(0.017)Governance0.600***(0.189)Obs.193177177177177177177177174151Year DummyYesYesYesYesYesYesYesYesYesYes
+
+Table 8
+Pre-testing of the panel.
+
+DEP VARFull modelCarbon ef?cientLeast carbon ef?cientOLSFEOLSFEOLS	FECO2 emissions per cap-0.114***-0.123***-0.431***0.127**-0.0895***	-0.0956***(0.00662)(0.0127)(0.102)(0.0506)(0.0054)	(0.0138)HDI0.04370.201***0.01320.743***0.316***	0.0655(0.0325)(0.0456)(0.0202)(0.0828)(0.0292)	(0.0595)Urban population growth0.0154*0.003050.0106*0.003980.0440***	0.0247***(0.00836)(0.00416)(0.00543)(0.00453)(0.0104)	(0.00565)Economic globalization0.00209**-0.00011-0.00464***-0.00232***0.00733***	0.00240***(0.00085)(0.00059)(0.00073)(0.00065)(0.00122)	(0.00085)Log Biomass0.0201***-0.150***0.0396***0.525***0.0642***	-0.0993**(0.00577)(0.0336)(0.0045)(0.0844)(0.00678)	(0.0388)Log rainfall0.191***-0.0228-0.107***0.01270.227***	-0.0423(0.0225)(0.0243)(0.0161)(0.0335)(0.0265)	(0.0298)Log temp0.252**-0.246-0.442***-0.05680.612***	-0.353(0.125)(0.352)(0.0979)(0.448)(0.121)	(0.449)Log Technology-0.0816***-0.0349***-0.0191**0.0131-0.133***	-0.0885***(0.0146)(0.00732)(0.00738)(0.00807)(0.0177)	(0.0121)Governance-0.00084-0.117***0.134**0.0449-0.586***	-0.199***(0.0973)(0.0435)(0.0627)(0.0517)(0.131)	(0.0677)Constant2.271***6.553***5.957***-2.92-0.0809	6.353***(0.54)(1.245)(0.369)(2.073)(0.45)	(1.543)Panel serial correlation246.184***62.875***235.623***Observations569569245245324	324R-squared0.7630.4470.7590.5410.906	0.603Mean VIF2.052.432.36Cross Sectional Dependence0.70650.0000.000Year Fixed EffectsYESYESYESYESYES	YESRobust standard errors in parenthesis. ***, **, * indicates 1, 5, and 10 percent level of signi?cance.
+
+
+
+globalization and renewable energy consumption. The regression coef- ?cient show a decline in renewable energy consumption by 9% owing to intensifying economic globalization. However, technological progress induces renewable energy consumption for these countries. We show that as technology advances, renewable energy consumption improves by about 0.08%. Our ?nding for this group of countries is af?rmed as huge in?ows of ?nancial investment has been received in the coal, pe- troleum and gas sector of these countries over the past decade. Our work af?rms the ?nding of Amri (2017).
+We now turn our attention to the socio-economic implication of re-
+newable energy consumption for these countries. The coef?cient of re- gression for urbanization is negative and statistically signi?cant, which means that ecological civilization was likely not included in the national development plans of these countries. In column 10, renewable energy consumption reduces by about 28% when the urban population grows by 1%. Here, we show that people are not aware of the effect of urban population growth on sustainable energy consumption in the region. This has further implication on land use change in the era of major structural change. On climatic shocks, we observe an improvement in renewable energy consumption by 0.09% when hydro-power is im- proved in the region. As expected, wood-derived biomass induces re- newable energy consumption in a positive direction. Our result shows a 0.9% increase in renewable energy consumption in the region. We argue again that this outcome is expected given that biomass remains one of the most consumed form of renewable sources of energy. On quality of governance, the outcome in this category is no different from the full sample and the carbon ef?cient group. This signi?es an im- portant reason to include good institutional reforms towards achieving the sustainable development goals.
+
+5. Conclusion and policy implication
+
+   The study aimed at identifying the key factors that drive the con- sumption of energy from renewable sources. Using a dynamic estimator which is robust to second-order serial correlation, heteroscedasticity, and Nickel bias, the study estimated the determinants of renewable
+
+energy consumption for 32 Sub Saharan African countries. Further, the study de?ned two broad classes of renewable energy consumers in SSA because of cross country differences in carbon emissions per unit of a good produced. Emerging questions from the categorization sought to understand what factors contribute to the similarities and differences in the determinants of renewable energy consumption in SSA. For in- stance, dwelling on the commonalities, the study observes common fac- tors such as; quality of governance, technological innovation, and climatic factors drive renewable energy consumption in both carbon ef?cient and least carbon ef?cient countries. Our study also show urban- ization depresses renewable energy consumption for both groups and further points to the relevance of green growth in urban cities in Africa. Aside from the common factors, our study identi?ed factors such as environmental awareness (Co2 emissions per cap), GDP per capita, and economic globalization to having different impacts on renewable en- ergy consumption in the region. Of ?rst order importance, the study found that whereas carbon ef?cient show strong environmental con- cerns leading to increases in renewable energy consumption, the least carbon ef?cient countries show a negative association for environmen- tal concerns with renewable energy consumption. The stark difference between these two groups implies that environmental awareness is country and region dependent. Next, our results show that globaliza- tion and GDP per capita have different effects on renewable energy consumption. A focus on the carbon ef?cient group shows that eco- nomic globalization is paramount to renewable energy consumption. Perhaps, under them being carbon ef?cient signals to development partners into investing in renewable forms of energy in these countries. Shifting focus to the least carbon ef?cient group, we observe that economic globalization does not promote renewable energy consump- tion in these countries. Another important difference is the role of income per capital on renewable energy consumption. Evidently, in the case of the carbon ef?cient group, economic progress does not promote renewable energy consumption; rather discourages renew- able energy consumption. Moreover, the results indicate income is nec- essary to decouple carbon emissions from economic growth from the lenses of the carbon ef?cient group. In other words, the positive
+
+
+
+relationship af?rms the hypothesis that economic growth is needed for renewable energy consumption.
+   From general observations, a critical look at the results showed cli- matic conditions playing an impactful role on renewable energy con- sumption. This outcome is consistent across all groups with varying degrees of impact. More particularly, our results show that the effect on renewable energy consumption is stronger for the carbon ef?cient group than the least carbon-ef?cient. It is innocuous to argue that cli- matic conditions positively impact renewable energy consumption through investment in solar energy and hydro-electricity. The study also documents the nexus between wood-derived biomass (forest area) and renewable energy. As an important carbon sink, forested areas has provided societies with wood for energy consumption. Our study shares this insight into the least carbon intensive countries. We show that countries belonging to this category are heavily reliant on tra- ditional bioenergy for cooking and heating. Our result support the no- tion that perhaps, this countries overwhelmingly rely on biomass for their daily livelihood. For the carbon-intensive group, our result did not ?nd any relationship between traditional biomass and renewable energy consumption.
+   In conclusion, we can glean several policy implications from the ?ndings. First, given that some similarities exist on the drivers of renew- able energy consumption, national governments should build a com- mon environmental policy to regulate and foster renewable energy consumption in the region. For instance, the building of energy markets where grid sharing is encouraged could improve renewable energy con- sumption in other African countries, as well as, ending the energy pov- erty in the region. Also, on account that GDP per capita improves renewable energy consumption for the whole sample implies economic progress, is a precondition for renewable energy consumption. Knowing that material use will increase as countries grow, policy implementers in the region, should look into long term impacts of economic growth on environmental degradation. Again, as with urban city development, policy implementers need to encourage environmental protection through sustainable land-use practices; minimizing biomass consump- tion at the local level. Likewise, there should be off-grid solar infrastruc- ture in rural and urban areas and encourage localization of energy markets in the region. Further, since economic globalization promotes renewable energy consumption in the region, governments should fos- ter investments into green technologies, and the management of green technologies to encourage sustainability in the least carbon ef?cient regions.
+
+CRediT authorship contribution statement
+
+   Conceptualization: Alessandro Olper; Samuel Weniga Anuga. Acqui- sition of data: Richmond Baye. Analysis and/or interpretation of data: Richmond Baye. Drafting the manuscript: Richmond Baye. Revising the manuscript critically for important intellectual content: Samuel Darkwah; Issa Justice Musah-Surugu; Albert Ahenkan.
+
+
+Declaration of competing interest
+
+   The authors declare that they have no known competing ?nancial interests or personal relationships that could have appeared to in?u- ence the work reported in this paper.
+
+References
+Adewuyi, A.O., Awodumi, O.B., 2017. Biomass energy consumption, economic growth and carbon emissions: fresh evidence from West Africa using a simultaneous equation model. Energy 119, 453-471.
+Aïssa, M.S.B., Jebli, M.B., Youssef, S.B., 2014. Output, renewable energy consumption and trade in Africa. Energy Policy 66, 11-18.
+Alola, A.A., Bekun, F.V., Sarkodie, S.A., 2019. Dynamic impact of trade policy, economic growth, fertility rate, renewable and non-renewable energy consumption on ecolog- ical footprint in Europe. Sci. Total Environ. 685, 702-709.
+
+Amri, F., 2017. Intercourse across economic growth, trade and renewable energy con- sumption in developing and developed countries. Renew. Sust. Energ. Rev. 69, 527-534.
+Apergis, N., Payne, J.E., 2010. Renewable energy consumption and economic growth: ev- idence from a panel of OECD countries. Energy Policy 38 (1), 656-660.
+Apergis, N., Payne, J.E., 2012. Renewable and non-renewable energy consumption-growth nexus: evidence from a panel error correction model. Energy Econ. 34 (3), 733-738. Apergis, N., Payne, J.E., 2014. Renewable energy, output, CO2 emissions, and fossil fuel prices in Central America: evidence from a nonlinear panel smooth transition vector
+error correction model. Energy Econ. 42, 226-232.
+Attiaoui, I., Toumi, H., Ammouri, B., Gargouri, I., 2017. Causality links among renewable energy consumption, CO 2 emissions, and economic growth in Africa: evidence from a panel ARDL-PMG approach. Environ. Sci. Pollut. Res. 24 (14), 13036-13048.
+Balcilar, M., Ozdemir, Z.A., Ozdemir, H., Shahbaz, M., 2018. The renewable energy con- sumption and growth in the g-7 countries: evidence from historical decomposition method. Renew. Energy 126, 594-604.
+Baurzhan, S., Jenkins, G.P., 2016. Off-grid solar PV: is it an affordable or appropriate solu- tion for rural electri?cation in Sub-Saharan African countries? Renew. Sust. Energ. Rev. 60, 1405-1418.
+Bhattacharya, M., Paramati, S.R., Ozturk, I., Bhattacharya, S., 2016. The effect of renewable energy consumption on economic growth: evidence from top 38 countries. Appl. En- ergy 162, 733-741.
+Blundell, R., Bond, S., 1998. Initial conditions and moment restrictions in dynamic panel data models. J. Econ. 87 (1), 115-143.
+Bruno, G.S., 2005. Estimation and inference in dynamic unbalanced panel-data models with a small number of individuals. Stata J. 5 (4), 473-500.
+Buddelmeyer, H., Jensen, P.H., Oguzoglu, U., Webster, E., 2008. Fixed Effects Bias in Panel Data Estimators (Available at SSRN 1136288).
+Chang, T.H., Huang, C.M., Lee, M.C., 2009. Threshold effect of the economic growth rate on the renewable energy development from a change in energy price: evidence from OECD countries. Energy Policy 37 (12), 5796-5802.
+Chen, Y., 2018. Factors in?uencing renewable energy consumption in China: an empirical analysis based on provincial panel data. J. Clean. Prod. 174, 605-615.
+Da Silva, P.P., Cerqueira, P.A., Ogbe, W., 2018. Determinants of renewable energy growth in sub-Saharan Africa: evidence from panel ardl. Energy 156, 45-54.
+Ding, Y., Li, F., 2017. Examining the effects of urbanization and industrialization on carbon dioxide emission: evidence from China's provincial regions. Energy 125, 533-542.
+Dobrotkova, Z., Surana, K., Audinet, P., 2018. The price of solar energy: comparing com- petitive auctions for utility-scale solar PV in developing countries. Energy Policy 118, 133-148.
+Ergun, S.J., Owusu, P.A., Rivas, M.F., 2019. Determinants of renewable energy consumption in Africa. Environ. Sci. Pollut. Res. 26 (15), 15390-15405.
+Fang, Y., 2011. Economic welfare impacts from renewable energy consumption: the China experience. Renew. Sust. Energ. Rev. 15 (9), 5120-5128.
+Flannery, M.J., Hankins, K.W., 2013. Estimating dynamic panel models in corporate ?- nance. J. Corp. Finan. 19, 1-19.
+Gan, J., Smith, C., 2011. Drivers for renewable energy: a comparison among OECD coun- tries. Biomass Bioenergy 35 (11), 4497-4503.
+Hafner, M., Tagliapietra, S., de Strasser, L., 2018. Prospects for renewable energy in Africa.
+Energy in Africa. Springer, Cham, pp. 47-75.
+Ike, G.N., Usman, O., Alola, A.A., Sarkodie, S.A., 2020. Environmental quality effects of in- come, energy prices and trade: the role of renewable energy consumption in g-7 countries. Science of The Total Environment 137813.
+International Energy Agency, 2016. Decoupling of global emissions and economic growth con?rmed. Retrieved from. https://www.iea.org/news/decoupling-of-global-emis- sions-and-economic-growth-con?rmed.
+Kiviet, J.F., et al., 1999. Expectations of Expansions for Estimators in a Dynamic Panel Data Model; Some Results for Weakly Exogenous Regressors.
+Klagge, B., Nweke-Eze, C., 2020. Financing large-scale renewable-energy projects in Kenya: investor types, international connections, and ?nancialization. Geogra?ska Annaler: Ser. B Hum. Geogr. 102 (1), 61-83.
+Linnerud, K., Andersson, A.M., Fleten, S.E., 2014. Investment timing under uncertain re- newable energy policy: an empirical study of small hydropower projects. Energy 78, 154-164.
+Maji, I.K., Sulaiman, C., Abdul-Rahim, A.S., 2019. Renewable energy consumption and eco- nomic growth nexus: a fresh evidence from West Africa. Energy Rep. 5, 384-392.
+Marques, A.C., Fuinhas, J.A., 2011. Drivers promoting renewable energy: a dynamic panel approach. Renew. Sust. Energ. Rev. 15 (3), 1601-1608.
+Nathaniel, S.P., Iheonu, C.O., 2019. Carbon dioxide abatement in Africa: the role of renew- able and non-renewable energy consumption. Sci. Total Environ. 679, 337-345.
+Nguyen, K.H., Kakinaka, M., 2019. Renewable energy consumption, carbon emissions, and development stages: Some evidence from panel cointegration analysis. Renew. En- ergy 132, 1049-1057.
+Niyonteze, J.D.D., Zou, F., Asemota, G.N.O., Bimenyimana, S., Shyirambere, G., 2020. Key technology development needs and applicability analysis of renewable energy hybrid technologies in off-grid areas for the Rwanda power sector. Heliyon 6 (1), e03300.
+Ocal, O., Aslan, A., 2013. Renewable energy consumption-economic growth nexus in Turkey. Renew. Sust. Energ. Rev. 28, 494-499.
+Ohler, A., Fetters, I., 2014. The causal relationship between renewable electricity genera- tion and GDP growth: a study of energy sources. Energy Econ. 43, 125-139.
+Olanrewaju, B.T., Olubusoye, O.E., Adenikinju, A., Akintande, O.J., 2019. A panel data anal- ysis of renewable energy consumption in Africa. Renew. Energy 140, 668-679.
+Omri, A., Nguyen, D.K., 2014. On the determinants of renewable energy consumption: in- ternational evidence. Energy 72, 554-560.
+
+
+
+Omri, A., Nguyen, D.K., Rault, C., 2014. Causal interactions between CO2 emissions, fdi, and economic growth: evidence from dynamic simultaneous-equation models. Econ. Model. 42, 382-389.
+Oppong, A., Jie, M., Acheampong, K.N., Sakyi, M.A., 2020. Variations in the environment, energy and macroeconomic interdependencies and related renewable energy transi- tion policies based on sensitive categorization of countries in Africa. J. Clean. Prod. 255, 119777.
+Pillot, B., Muselli, M., Poggi, P., Dias, J.B., 2019. Historical trends in global energy policy and renewable power system issues in sub-Saharan Africa: the case of solar PV. Energy Policy 127, 113-124.
+Sadorsky, P., 2009. Renewable energy consumption and income in emerging economies.
+Energy Policy 37 (10), 4021-4028.
+Salim, R.A., Ra?q, S., 2012. Why do some emerging economies proactively accelerate the adoption of renewable energy? Energy Econ. 34 (4), 1051-1057.
+
+Salim, R.A., Sha?ei, S., 2014. Urbanization and renewable and non-renewable energy con- sumption in OECD countries: an empirical analysis. Ecol. Model. 38, 581-591.
+Sinha, A., Shahbaz, M., Sengupta, T., 2018. Renewable energy policies and contradictions in causality: a case of next 11 countries. J. Clean. Prod. 197, 73-84.
+Sulaiman, C., Abdul-Rahim, A.S., Mohd-Shahwahid, H.O., Chin, L., 2017. Wood fuel con- sumption, institutional quality, and forest degradation in sub-Saharan Africa: evi- dence from a dynamic panel framework. Ecol. Indic. 74, 414-419.
+Szabo, S., Bódis, K., Huld, T., Moner-Girona, M., 2011. Energy solutions in rural Africa: mapping electri?cation costs of distributed solar and diesel generation versus grid extension. Environ. Res. Lett. 6 (3), 034002.
+Szabó, S., Moner-Girona, M., Kougias, I., Bailis, R., Bódis, K., 2016. Identi?cation of advan- tageous electricity generation options in sub-Saharan Africa integrating existing re- sources. Nat. Energy 1 (10), 1-8.
+
+
+
+
+
+
+
+
+
+
+
+

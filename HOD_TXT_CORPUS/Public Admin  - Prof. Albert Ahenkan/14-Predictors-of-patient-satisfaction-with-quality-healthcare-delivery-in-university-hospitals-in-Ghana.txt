@@ -1,0 +1,517 @@
+﻿http://www.jhpr.ir
+Hosp Pract Res. 2017 Feb;2(1):9-14 doi 10.15171/hpr.2017.03
+
+HPR Original Article
+Hospital Practices and Research
+
+Predictors of Patient Satisfaction With Quality of 
+Healthcare in University Hospitals in Ghana 
+Albert Ahenkan1*, Kofi Aduo-Adjei1
+
+1Department of Public Administration and Health Service Management, Business School, University of Ghana, Accra, Ghana
+
+*Corresponding Author: Albert Ahenkan, Ph.D., Senior Lecturer, Department of Public Administration and Health Service 
+Management, Business School, University of Ghana, Accra, Ghana.  Tel: 233024695518, Email: aahenkan@ug.edu.gh
+
+Received November 27, 2016; Accepted January 24, 2017; Online Published February 19, 2017
+
+Abstract
+Background: For over 2 decades, Ghana’s Ministry of Health (MOH) has been resolved to continuously improve the quality 
+of healthcare in a cost-effective manner. Strategies have been adopted to enhance client satisfaction with healthcare services 
+and delivery. 
+Objective: The current study examined patient satisfaction with the quality of healthcare in Ghana by comparing healthcare 
+services at the University of Ghana Hospital (UGH) and the University of Cape Coast Hospital (UCH).
+Methods: This cross-sectional study was conducted in 2014-2015 with primary data collected from patients at UGH and 
+UCH. Structured questionnaires were administered based on the stratified and convenience sampling methods to select 
+patients receiving healthcare at the outpatients departments of the 2 hospitals. Descriptive statistics and linear regression 
+analysis were used to analyze the data with the help of SPSS version 20. 
+Results: The findings indicated that empathy (β = .14, P = .003), communication (β = .26, P = .00), culture (β = .17, P = .008), 
+tangibles (β = .12, P = .040), and priority (β = .18, P = .002) are significant predictors of patient satisfaction.
+Conclusion: Management at the 2 studied hospitals should streamline their quality healthcare policies based on the 
+dimensions of effective communication, empathy, culture, tangibles, and priority to enhance patient satisfaction. 
+Keywords: Healthcare, Hospitals, Patients, Satisfaction
+
+1. Background inadequate priority. In lieu of this, there have been efforts 
+In recent years, findings of studies in developed countries to research quality of healthcare services, of which patient 
+on the quality of healthcare delivery have increasingly satisfaction is an indicator, and the institutionalization of 
+influenced developing nations in assessing the quality quality assurance in Ghanaian healthcare facilities.8,9
+
+of their healthcare systems. Outcomes from these In Ghana, many of the studies on healthcare quality 
+findings have received special prominence as a measure have focused on quality award dimensions.10-13 Studies 
+of quality healthcare.1 Assessing outcomes has merit conducted in public hospitals over the years have provided 
+both as an indicator for the effectiveness of different substantive evidence that the quality of healthcare services 
+health interventions and as part of a monitoring system is inadequate both by objective measures in the opinions 
+directed at improving the quality of care and detecting of patients and by healthcare providers.14,15 Moreover, 
+its deterioration.2,3 Quality assessment studies over three research on quality healthcare has generally reported poor 
+decades usually measure one of three types of outcomes: service delivery through long waiting times, frequent 
+costs, medical outcomes, or patient satisfaction.4,5 Patient shortages of drugs, and the poor attitudes of healthcare 
+satisfaction has gained greater importance specifically in providers as factors militating against patient satisfaction 
+developing countries. It is both a service quality indicator with healthcare in Ghana.9,13
+
+and a quality component. Strong healthcare systems enable In view of this, the continuous monitoring and evaluation 
+healthcare providers to deliver better quality and value to of policyholders’ views on the quality of healthcare is 
+patients.6,7 necessary for quality improvement purposes; it will provide 
+
+Over the years, Ghana’s Ministry of Health (MOH) has some kind of feedback for healthcare professionals and 
+been concerned about quality of care, which has a strong policymakers. An extensive empirical search revealed that 
+resultant effect on client satisfaction. However, the pace of a single study has been conducted on patient satisfaction 
+improvements in quality of care has been slow, partially with quality healthcare using a comparative approach with 
+because quality improvement activities have received focus on institutional facilities (university hospitals) in 
+
+Copyright © 2017 The Hospital Practices and Research. This is an open-access article distributed under the terms of the Creative Commons 
+Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided the original work is properly cited.
+
+
+
+Ahenkan and Aduo-Adjei
+
+Ghana.16 representativeness of all units in the two hospitals. Dellande 
+A modified SERVQUAL model was used to aid the et al22 revealed that stratified sampling helps researchers 
+
+understanding of the context in which this study was carried strategically avoid biases in the selection of study units. The 
+out. The study concentrated on patient perception only; 2 facilities have 8 clusters: patients at the records section, 
+thus, the expectations were removed from the modified pharmacy, maternal and child health, X-ray, physiotherapy, 
+model suited for the study. This is congruent with the fact laboratory, and ENT and consultancy services. From each 
+that perceptions are usually a good measure of patient cluster, patients were conveniently selected based on the 
+satisfaction with the quality of healthcare delivery.17-19 After existing survey approach (where patients, after assessing 
+defining the concept of service quality, the researchers the service, could best explain and analyze the quality of 
+needed a model for measuring the quality level of services. the service delivered). The study selected 218 patients 
+The model was expected to determine the attributes that (100 at UGH; 108 at UCH) based on the Fisher exact 
+require improvement in order to enhance quality, identify test calculator for determining sample size. All patients 
+the degree or amount of improvement required, and assess attending outpatient services in the various clusters of 
+the impact on service quality.20 This model can be used on the UGH and UCH were sampled for the study. Inclusion 
+a regular basis to track patients’ perceptions of healthcare criteria included a maintained willingness to participate in 
+quality at a hospital compared with its competitors. Once the study given the non-severity of the patient’s illness. This 
+the data has been analyzed, it can be visually presented process was adopted to ensure representativeness of the 
+so that it becomes easy to identify the hospital’s strengths sample population. Patients in a severe medical condition 
+and weaknesses relative to its competition. Moreover, it seeking services at the Out-Patients’ Department (OPD)
+provides the opportunity for a hospital to assess its service section as well as admitted patients were excluded from 
+performance on the basis of each individual dimension as the study. The study adopted structured questionnaires 
+well as the overall dimensions of service quality (Figure 1). to assist the researcher in accessing vital information 
+
+about what patients defined as quality in healthcare in 
+2. Objective order to critically discuss the patients’ perspectives on 
+The novelty of this study is the assessment of patient quality healthcare. The questionnaires were based on 
+satisfaction with the university’s healthcare services the SERVQUAL scale modified to suit the study. These 
+(university hospital) which is emergent in healthcare dimensions were decomposed into (a) tangibility, (b) 
+provision in Ghana. This comparative study examined reliability, (c) responsiveness, (d) assurance, (e) empathy, 
+patient satisfaction with the quality of healthcare at the (f) accessibility and affordability, (g) priority, (h) culture, 
+University of Ghana Hospital (UGH) and University and (i) communication. A 5-point Likert scale with 
+of Cape Coast Hospital (UCH) in Ghana. The study scores of Strongly Disagree = 1.0–1.49, Disagree = 1.50–
+further tested the following hypothesis in the model: 2.49, Neutral = 2.50–3.49, Agree = 3.50–4.49, Strongly 
+Communication, empathy, and priority are significant Agree  = 4.50–5.0 was used in this survey. This format has 
+predictors of patient satisfaction. Tangibles and culture been recommended for healthcare surveys.23-25 Data was 
+are relevant predictors of patient satisfaction in university collected by researchers with the assistance of 2 trained 
+hospitals in Ghana. research assistants who administered the questionnaires. 
+
+These assistants had a good understanding of the language 
+3. Methods spoken (TWI) and could well articulate the language for 
+A quantitative approach with a cross-sectional study design effective communication with patients. Questionnaire 
+was adopted for the current study. A 2-stage sampling administration took a minimum of 15 minutes with each 
+procedure based on stratified and convenient sampling patient. Completed questionnaires were collected for data 
+techniques was employed. Using the stratified sampling inputting and coding. Data generated from the structured 
+procedure for the first phase was helpful because of the questionnaires was analyzed with SPSS (version 20). 
+stratification of the already existing units in the various Descriptive statistics such as frequency tables were used 
+facilities. Stratified sampling procedures ensured a uniform to present the demographic information of patients. The 
+
+ Service Quality 
+ Dimensions 
+ Tangibles 
+ Responsiveness 
+ 
+
+Perceived  Reliability 
+ 
+
+Service Empathy Patient  
+ Culture 
+
+Quality Satisfaction 
+ Assurance 
+ Communication 
+ Priority 
+ Affordability & 
+ Accessibility 
+ 
+
+Figure  1. Conceptual Framework for Measuring the Quality of Healthcare Adapted From the SERVQUAL Model.21
+
+Figure 1. Conceptual Framework for Measuring the Quality of Healthcare 
+10 Hospital Practices and Research 2017A;2d(1a):p9t-e1d4 From the SERVQUAL Model.21 
+
+ 
+ 
+2. Objective 
+The novelty of this study is the assessment of patient satisfaction with the university’s 
+healthcare services (university hospital) which is emergent in healthcare provision in 
+Ghana. This comparative study examined patient satisfaction with the quality of healthcare 
+at the University of Ghana  Hospital (UGH) and University of Cape Coast Hospital (UCH) 
+in Ghana. The study further tested the following hypothesis in the model: Communication, 
+empathy, and priority are significant predictors of patient satisfaction. Tangibles and 
+culture are relevant predictors of patient satisfaction in university hospitals in Ghana. 
+ 
+3. Methods 
+A quantitative approach with a cross-sectional study design was adopted for the current 
+study. A 2-stage sampling procedure based on stratified and convenient sampling 
+techniques was employed. Using the stratified sampling procedure for the first phase was 
+helpful because of the stratification of the already existing units in the various facilities. 
+Stratified sampling procedures ensured a uniform representativeness of all units in the two 
+hospitals. Babie [22] revealed that stratified sampling helps researchers strategically avoid 
+biases in the selection of study units. The 2 facilities have 8 clusters: patients at the records 
+section, pharmacy, maternal and child health, X-ray, physiotherapy, laboratory, and E.N.T. 
+and consultancy services. From each cluster, patients were conveniently selected based on 
+the existing survey approach (where patients, after assessing the service, could best explain 
+and analyze the quality of the service delivered). The study selected 218 patients (100 at 
+UGH; 108 at UCH) based on the Fisher exact test calculator for determining sample size. 
+All patients attending outpatient services in the various clusters of the UGH and UCH were 
+sampled for the study. Inclusion criteria included a maintained willingness to participate in 
+the study given the non-severity of the patient’s illness. This process was adopted to ensure 
+representativeness of the sample population. Patients in a severe medical condition seeking 
+services at the OPD section as well as admitted patients were excluded from the study. The 
+study adopted structured questionnaires to assist the researcher in accessing vital 
+
+ 3 
+
+
+
+Predictors of Patient Satisfaction With Quality of Healthcare
+
+t test was used to compare means of various predictors of Table 1. Socio-Demographic Characteristics of Patients (N = 218)
+patient satisfaction. Principal component analysis (PCA) Demographic 
+was used to reduce the dataset for factor analysis using the Categories Number Percent
+
+Variable 
+varimax rotation method. This enabled the study to have UCH 110 49.5
+
+Hospitals
+full control of the key dimensions that relate to service UGH 108 50.5
+
+quality in a regression model and to know the effects of Male 102 46.8
+Gender
+
+the various independent variables (dimensions) on patient Female 116 53.2
+
+satisfaction (the dependent variable). None 13 6.0
+
+To ensure ethical standards, informed consent was sought Primary 15 6.9
+
+from patients to voluntarily take part in the study. Patients Educational Junior high/JSS 33 15.1
+level
+
+were assured of anonymity, privacy and confidentiality. Senior high/middle school 93 42.7
+Tertiary 63 28.9
+
+Furthermore, ethical approval and clearance was obtained Other 1 0.5
+for this study from the management and ethical review Unemployed 33 15.1
+boards of the university hospitals. Trader/businessman 37 17.0
+
+ Farmer 31 14.2
+4. Results Employment 
+
+Government employee 32 14.7
+The results indicated a sample size of 218 patients was Status
+
+Private sector employee 25 11.5
+suitable for this study. Females constituted a larger Student 45 20.6
+proportion of the sample size (53.2%; n = 116) than Other specify 15 6.9
+males (46.8%; n = 102). The results indicated that 42.7% 18-28 years 83 38.1
+of respondents (n = 93) were middle/senior high school 29-39 years 57 26.1
+graduates, 28.9% (n = 63) were in tertiary institutions, Age 40-50 years 40 18.3
+
+and 15.1% (n = 33) were in junior high school. The results 51-61 years 23 10.6
+
+further revealed that 6.9% (n = 15) and 6.0% (n = 13) of the 62 years and above 15 6.9
+
+total sample size had primary and non-formal educations, 2-4 times 162 74.3
+Number of 
+
+respectively. The demographic results indicated that 20.6% 5-7 times 41 18.8
+visits
+
+(n = 45) of respondents were students while 17% (n = 37) 8 times and more 15 6.9
+Source: Field data (2014).11
+
+and 15.1% (n = 33) were businessmen and unemployed, 
+respectively. Farmers constituted 14.2% (n = 31) of 
+respondents, and 14.7% (n = 32) were government loadings greater than 0.50.26 This criterion was included 
+employees. A total of 82.5% (n = 80) of respondents were in the analysis. Cronbach alpha was used to examine the 
+aged between 18-50 years, 10.6% (n = 23) were within the reliability of the employed scale and the extent to which the 
+ages of 51-61 years, and 6.9% (n = 15) were 62 years of variables contributed to explaining a factor. The results are 
+age or older. A greater percentage of respondents (74.3%; presented in Table 2.
+n = 164) had utilized the hospital 2-4 times, 18.8% (n = 41) Empathy was the first factor (Factor I) of healthcare 
+had visited 5-7 times, and 6.9% (n = 15) had utilized the service quality measured and comprised issues such as 
+facilities more than 8 times (Table 1). weakness in staff welcoming of patients, staff has patients’ 
+
+interests at heart, staff are responsive, staff understand 
+4.1. Dimensions of Service Quality and Patient Satisfaction patients’ specific needs, and staff are caring toward patients. 
+To extract relevant dimensions as good predictors of This factor accounted for the highest variation with an 
+overall service quality, an exploratory factor analysis was eigenvalue of 10.6, which is equivalent to 38.2% of the total 
+performed. The principal component analysis with varimax variance. Factor II concerned issues of communication of 
+rotation was employed to ensure the factorability of the staff to patients with factor loadings including doctors’ 
+data. Factor analysis (FA) was consequently performed on willingness to answer patients’ questions, patients are 
+32 variables and the output is presented in Table 2. As a given adequate information about their treatments and 
+prelude to employing FA in this study, sampling adequacy conditions, and patients receive adequate information 
+and factorability of data were examined to ensure that about tests they must undergo. This factor accounted for 
+all assumptions were met. The Bartlett test of sphericity an eigenvalue of 1.87, which amounts to 6.68% of the 
+and Kaiser-Meyer-Olkin (KMO) measures of sampling total variance. The third factor (Factor III) was culture, 
+adequacy were examined. According to Tabachnick and a key dimension to patient satisfaction with healthcare 
+Fidell,26 the Bartlett test of sphericity should be significant service quality at the university hospitals. Items examined 
+at (P < .05) for the FA to be considered appropriate, while under this factor were staff uses language that patients 
+the KMO index ranges from 0-1, with 0.6 recommended understand, staff do not discriminate based on religion, 
+as the minimum value for a good FA. For this study, the and the location is accessible to patients of different 
+Bartlett test of sphericity was found to be very significant ethnic and cultural backgrounds. This factor accounted 
+(P = .00), and the KMO index of 0.919 confirmed the for an eigenvalue of 1.60, which represents 5.74% of the 
+suitability of the data for FA. The criteria for selecting total variance. Factor IV, the dimension of tangibles, 
+relevant factors for the regression analysis was based on determined patient satisfaction with quality healthcare 
+an eigenvalue greater than 1.00 and items with factor in the university hospitals. Factors that loaded on this 
+
+                                           Hospital Practices and Research 2017;2(1):9-14 11
+
+
+
+Ahenkan and Aduo-Adjei
+
+Table 2. Dimension of Service Quality on Patient Satisfaction
+
+Eigen  % of variance Cronbach 
+Factor Statements Loadings
+
+values explained alpha
+I Empathy 
+
+Staff welcome patients’ weaknesses 0.78
+Staff have patients’ interests at heart 0.72 10.6 38.2 .84
+Staff respond immediately when called by patients 0.70
+Staff understand patients’ specific needs at the hospital 0.66
+Staff at hospital are caring 0.63
+
+II Communication 
+Doctors are willing to answer questions related to illness 0.79
+Patients are given adequate information about their treatment 0.77 1.87 6.68 .85
+Patients are given adequate information about their health condition 0.72
+Patients receive adequate explanations of tests undertaken 0.68
+
+III Culture 
+Staff use language patients understand 0.75
+Staff do not discriminate based on religion 0.74 1.60 5.74 .75
+Staff do not discriminate based on ethnic background 0.66
+Location of the hospital is accessible 0.55
+
+IV Tangibles 
+Hospital has modern facilities 0.80
+Hospital has modern-looking equipment 0.70 1.45 5.17 .70
+
+V Priority 
+University workers and students do not join queues to seek healthcare 
+
+0.84
+services
+University workers and students are given special care 0.68 1.25 4.48 .71
+Total Variance Explained 60.3
+
+dimension included hospital had up-to-date facilities as priority are significantly good service quality predictors of 
+well as modern equipment. This factor explained 1.45 of patient satisfaction with services at the 2 studied hospitals.
+the variance, which represents 5.17% of the total variance. As seen in the table, the order of significance for 
+The last factor (Factor V) measured issues related to the effects of predictors of service quality on patient 
+priority. The individual loadings here included university satisfaction is communication (β = .26, P = .00), followed 
+workers and students do not join queues to seek healthcare by priority (β = .18, P = .002), culture (β = .17, P = .008), 
+services, and university workers and students are given empathy (β = .14, P = 003), and tangibles (β = .12, P = .040).
+special care at the hospital. This factor accounted for 1.25 
+of the eigenvalue, which is equivalent to 4.48% of the total 4.3. Comparison of Patient Perceptions of Service Quality
+variance. An independent t test was used to compare patient 
+
+perceptions of satisfaction with dimensions in the quality 
+4.2. Effects of Service Quality Dimension Predictors on of service at the UGH and UCH. Results (shown in Table 
+Patent Satisfaction 4) indicated that there were significant differences between 
+A multiple linear regression model was used to determine the mean perception of patients of UGH and UCH on 
+the predictive effect of the 5 dimensions of service quality empathy, tangibles, and priority at P = .005; however, 
+(independent variables) from the factor analysis on the mean perception of patients on communication and 
+patient satisfaction (dependent variable) using P < .05 as culture were not significantly different at P = .005.
+a statistical criterion. Multiple linear regression has the 
+ability to explore the relationship between one continuous 5. Discussion
+dependent variable and a number of independent variables As a backdrop to every empirical study, socio-demographic 
+or predictors (usually continuous).22,23 The model exhibited information is key in determining the context of the study 
+an adjusted R-square value of 0.56. Thus, this model is units. Evidence from this paper suggests that most patients 
+fitted in explaining 56% of variations of the dimensions of utilizing healthcare services at UGH and UCH are female 
+service quality on patient satisfaction. Consequently, all 5 compared to their male counterparts. This phenomenon 
+variables were good predictors of patient satisfaction with has been explained by some scholars who have indicated 
+service quality in the university hospitals, and their t-values that women are more concerned with issues of health 
+indicated that these dimensions are strong predictors of than males.18,20 Furthermore, it is an established fact that 
+patient satisfaction. Results shown in Table 3 indicate that educational level influences rate of use of healthcare 
+empathy (β = .09) is statistically a significant predictor of services. This is also evident in the current findings; the 
+patient satisfaction at both university hospitals since its P higher the level of education of an individual was, the more 
+value (.003) does not exceed a significant P value of (.05). such person was concerned about his/her health. This 
+Furthermore, communication, culture, tangibles, and influenced the higher rate of use of a service by patients 
+
+12 Hospital Practices and Research 2017;2(1):9-14
+
+
+
+Predictors of Patient Satisfaction With Quality of Healthcare
+
+Table 3. Multiple Linear Regression on Dimensions of Service reflects the idea that patients’ satisfaction with healthcare 
+Quality for Patient Satisfaction delivery is influenced by language, religion, and ethnic 
+
+Patient Satisfaction background. Studies have confirmed that patients share 
+Predictors
+
+B SE B t Value P the view that healthcare service that is culturally sensitive 
+Empathy 0.18 0.09 0.14 2.01 .003* to their healthcare needs ensures satisfaction and promotes 
+Communication  0.31 0.07 0.26 4.14 .000* quality healthcare delivery.10,12 Moreover, prioritizing 
+Culture 0.26 0.09 0.17 2.66 .008* healthcare based on patients’ needs is relevant to ensuring 
+
+healthcare delivery. Previous studies on patient satisfaction 
+Tangibles 0.15 0.07 0.12 2.06 .040*
+
+have revealed that priority care is fundamental to the 
+Priority 0.17 0.05 0.18 3.12 .002* assessment of service quality at hospitals.10,23 University 
+Constant 0.31 0.41 0.77 .437 hospitals need to embrace this action as a policy design, 
+
+R2 = 0.58; Adjusted R2 = 0.56; F-value = 26.17; P = .00, P ≤.05 thereby providing the mechanism to prioritize healthcare 
+*Significance level. services for university staff and students. 
+
+Findings of the comparison of the UGH and UCH 
+Table 4. Independent T Test Results Comparing Patient Perceptions of 
+Service Quality Dimensions That Clearly Predict Patient Satisfaction suggest differences in dimensions such as empathy, 
+With Service at UGH and UCH tangibles, and priority. The former (empathy) is seen to 
+
+be a strong determinant of patient satisfaction at UCH. 
+Predictors/ UGH UCH 
+
+P Value
+Dimension Mean ± SD Mean ± SD This is attributed to the fact that staff members at UCH are 
+Empathy 3.41 ± 0.83 4.52 ± 0.73 .004* empathetic towards patients, given that the hospital serves 
+Communication 3.83 ± 0.89 3.84 ± 0.83 .958 the university community and the settler communities 
+Culture  4.11 ± 0.70 3.41 ± 0.86 .580 around the university campus. This predictor is strictly 
+Tangibles 3.39 ± 0.83 4.56 ± 0.81 .050* ensured to strengthen the healthcare-seeking behavior of 
+
+neighboring towns, given their backgrounds in agrarian 
+Priority 3.04 ± 1.06  4.51 ± 0.97 .000*
+
+and fishing activities. 
+*Significance level. Furthermore, patients revealed that the physical 
+with higher and tertiary educational attainment. Moreover, infrastructure and medical equipment at UCH do not 
+the location of these hospitals on university campuses meet modern standards. They share the view that using 
+influenced healthcare use by patients with higher levels of non-modern equipment hinders the efficient delivery 
+education. The majority of patients who access healthcare of healthcare. Tangibility (physical infrastructure 
+services at university hospitals are young adult students and surrounding) has been extensively discussed in 
+within the age range of 18-28 years who are normally the empirical literature as a key predictor of patient 
+characterized with medical risks based on risky behaviors satisfaction and quality healthcare delivery.23,25 It is rated as 
+associated with their youthful age.20,21,23 an instrumental predictor of patients’ welfare and ensures 
+
+Patient satisfaction is fundamental to healthcare wellbeing in assessing healthcare services. However, at 
+delivery, since healthcare services aim to serve the UGH, priority remains a strong determinant of healthcare 
+expectations of patients who utilize them. This study service. Patients at UGH highlighted that special attention 
+observed that empathy on the part of medical staff is a is given to university staff and students during healthcare 
+significant predictor of patient satisfaction. This has been delivery. Thus, giving special services to both senior and 
+discussed extensively in the healthcare literature.15,16,23 junior members of the university in all forms of medical 
+Patients believe in emotional attachments, and being able services ensures the maximum satisfaction of patients. 
+to share their pain makes them satisfied with the medical It has been evidenced that priority care in the healthcare 
+process. Patients are comfortable when medical staff show process greatly influences patient satisfaction.
+emotional concern toward their needs. In addition, it The limitation of this study is its focus on changes in 
+is arguably noted that provider-patient communication patients’ satisfaction over time; therefore, using a cross-
+is essentially important in providing quality healthcare sectional study design may not be appropriate for tracking 
+services at the UGH and UCH. The seemingly high level the best predictors for long-term policy implications. 
+of education among patients who access healthcare at Furthermore, patient satisfaction with university hospitals 
+university hospitals suggests that the majority of patients can be influenced by the inclusion of variables other than 
+are literate and will be expecting staff to explain medical those presented in this paper. 
+prognoses to them during consultations. The building 
+environment has been identified as instrumental to patient 6. Conclusion
+satisfaction with the quality of healthcare in university University healthcare service management and 
+hospitals. The current study revealed that patients are policymakers should streamline their plans of action 
+more comfortable in a serene environment, and this speeds and policies to ensure the staff welcomes the weaknesses 
+up recuperation. Existing empirical evidence indicates that of patients and has their interests at heart. Institutional 
+a less noisy environment and modern recreational facilities efforts should be tailored to strengthening provider-
+help patients recover in a timely manner.12,25 patient communication, given the high literacy level of 
+
+The significant contribution of culture to patient’s patients who utilize their healthcare services. Respect for 
+satisfaction at university hospitals is very interesting. It ethnic differences should be upheld to ensure satisfaction 
+
+                                           Hospital Practices and Research 2017;2(1):9-14 13
+
+
+
+Ahenkan and Aduo-Adjei
+
+among patients of UGH and UCH. Improvements to Research Highlights
+the physical infrastructure and medical equipment are 
+relevant in ensuring quality healthcare delivery and patient What Is Already Known?
+satisfaction, particularly at UCH. Finally, the special In Ghana, the patients’ charter specifies procedures 
+services granted to university staff and students should be for quality healthcare. To achieve optimum quality, 
+improved to achieve high levels of patient satisfaction. strict adherence to the charter is maintained by 
+
+service providers. However, there are administrative 
+Authors’ Contributions and professional challenges to maintaining patient 
+All authors contributed significantly towards the successful satisfaction in university hospitals. This study provides 
+completion of this publication. a fundamental predictor guide to ensuring patients’ 
+
+satisfaction with the quality of healthcare in university 
+Conflict of Interest Disclosures hospitals in Ghana. 
+None declared. What This Study Adds?
+
+Key results of the study revealed that priority and 
+Ethical Approval cultural factors are essential to providing quality 
+The authors sought and obtained ethical approval to healthcare and to patient satisfaction in Ghana. The 
+conduct this study from the management of the 2 university study further highlighted that empathy, priority, and 
+hospitals and from the Ethics Committee at the University tangibility are instrumental in maintaining patient 
+of Ghana. satisfaction with the quality of healthcare.. 
+Acknowledgments
+The authors are grateful for the time and energy spent by 
+patients in assisting with the data collection process. The the national delivery exemption policy in Ghana. Glob Health 
+authors further express their appreciation to the hospital Action. 2009;2. doi:10.3402/gha.v2i0.1881.
+staff for their assistance during the study period. 13.	 Ayimbillah Atinga R, Abekah-Nkrumah G, Ameyaw Domfeh K. 
+
+Managing healthcare quality in Ghana: a necessity of patient 
+satisfaction. Int J Health Care Qual Assur.  2011;24(7):548-563. 
+
+References doi:10.1108/09526861111160580.
+1.	 World Health Organization. Patient safety research: a guide for 14.	 Agyepong IA, Adjei S. Public social policy development and 
+
+developing training programmes. Geneva: WHO; 2012. implementation: a case study of the Ghana National Health 
+2.	 Epstein A. Sounding board: the outcomes movement, will it get Insurance scheme. Health Policy Plann. 2008;23(2):150-160.
+
+us where we want to go? N Engl J Med. 1990;323(4):266–269. 15.	 Ministry of Health. Quality Healthcare Delivery Assessment 
+doi:10.1056/NEJM199007263230410. Report. Accra: Ministry of Health; 2007.
+
+3.	 Blumenfeld SN. Quality assurance in transition. Papua N 16.	 Essiam JO. Service quality and patients satisfaction with 
+Guinea Med J. 1993;36(2):81-89. healthcare delivery: empirical evidence from patients of the 
+
+4.	 Turkson PK. Perceived quality of healthcare delivery in a rural out patient department of a public university hospital in Ghana. 
+district of Ghana. Ghana Med J. 2009;43(2):65-70. Eur J Bus Manag. 2013;5(28):52-59.
+
+5.	 Aldana JM, Piechulek H, Al-Sabir A. Client satisfaction and 17.	 Pakdil F, Harwood TN. Patient satisfaction in a preoperative 
+quality of health care in rural Bangladesh. Bull World Health assessment clinic: an analysis using SERVQUAL dimensions. 
+Organ. 2001;79(6):512-517. Total Quality Management & Business Excellence. 
+
+6.	 Vemula R, Assaf RR,  Al-Assaf AF. Making patient safety and 2005;16(1):15-30.
+quality improvement act of 2005 work. J Healthc Qual. 18.	 Naidu A. Factors affecting patient satisfaction and healthcare 
+2007;12(4):12-25. doi:10.1111/j.1945-1474.2007.tb00199.x. quality. Int J Health Care Qual Assur. 2009;22(4):366-381.
+
+7.	 Camgöz-Akdag H, Zineldin M. Quality of health care and 19.	 Drain M. Quality improvement in primary care and the 
+patient satisfaction: an exploratory investigation of the 5Qs importance of patient perceptions. J Ambul Care Manage. 
+model at Turkey. Clinical Governance: An International Journal. 2001;24(2):30-46.
+2010;15(2):92-101. doi:10.1108/14777271011035031 20.	 World Health Organization. Global status report on alcohol 
+
+8.	 Sarpong N, Loag W, Fobil J, et al. National health insurance and health. Geneva: WHO; 2014.
+coverage and socio‐economic status in a rural district of Ghana. 21.	 Berry LL, Parasuraman A, Zeithaml VA. The service-quality 
+Trop Med Int Health. 2010;15(2):191-197. doi:10.1111/j.1365- puzzle. Bus Horiz. 1988;31(5):35-43.
+3156.2009.02439.x. 22.	 Dellande S, Gilly MC, Graham JL. Gaining compliance and 
+
+9.	 Turkson AH. Utilization of teaching space in Cape Coast Poly- losing weight: The role of the service provider in health care 
+technic. http://ir.ucc.edu.gh/handle/123456789/311?mode=full. services. J Mark. 2004;68(3):78-91.
+
+10.	 Ghana. Statistical Service, Noguchi Memorial Institute for 23.	 Elbeck M. An approach to client satisfaction measurement as 
+Medical Research, ORC Macro. MEASURE/DHS+ (Programme). an attribute of health service quality. Health Care Manage Rev. 
+Ghana demographic and health survey, 2003. Ghana Statistical 1987;12(3):47-52.
+Service; 2004. 24.	 Steiber SR. Preventing pitfalls in patient surveys. Health Care 
+
+11.	 Aduo-Adjei KO. Patients Satisfaction with Quality Healthcare Strateg Manage. 1989;7(5):13-16.
+in Ghana: A Comparative Study between University of Ghana 25.	 Scales J, Terry Jr R, Torres RM. Are teachers ready to integrate 
+and University of Cape Coast Hospitals [dissertation]. Ghana: science concepts into secondary agriculture programs? J Agric 
+University of Ghana;  2015. Educ. 2009;50(2):102-113.
+
+12.	 Witter S, Adjei S, Armar-Klemesu M, Graham W. Providing 26.	 Tabachnick BG, Fidell LS, Osterlind SJ. Using Multivariate 
+free maternal health care: ten lessons from an evaluation of Statistics. Needham, MA: Allyn and Bacon; 2001.
+
+14 Hospital Practices and Research 2017;2(1):9-14

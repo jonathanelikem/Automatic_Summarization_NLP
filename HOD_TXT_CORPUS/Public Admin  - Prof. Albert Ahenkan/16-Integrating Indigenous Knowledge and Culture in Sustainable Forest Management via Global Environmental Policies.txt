@@ -1,0 +1,1237 @@
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+
+Integrating indigenous knowledge and culture in sustainable
+forest management via global environmental policies
+Scholastica Akalibey1, Petra Hlaváčková2* , Jiří Schneider3, Jitka Fialová1,
+Samuel Darkwah4, Albert Ahenkan5
+1
+
+Department of Landscape Management, Faculty of Forestry and Wood Technology,
+Mendel University in Brno, Brno, Czech Republic
+2
+Department of Forest and Wood Product Economics and Policy, Faculty of Forestry and Wood
+Technology, Mendel University in Brno, Brno, Czech Republic
+3
+Department of Environmental Science and Natural Resources, Faculty of Regional Development
+and International Studies, Mendel University in Brno, Brno, Czech Republic
+4
+Department of Area Studies, Faculty of Regional Development and International Studies,
+Mendel University in Brno, Brno, Czech Republic
+5
+Department of Public Administration, University of Ghana Business School, Accra, Ghana
+*Corresponding author: petra.hlavackova@mendelu.cz
+
+Citation: Akalibey S., Hlaváčková P., Schneider J., Fialová J., Darkwah S., Ahenkan A. (2024): Integrating indigenous knowledge and culture in sustainable forest management via global environmental policies. J. For. Sci., 70: 265–280.
+
+Abstract: This research investigates the intricate connection between indigenous knowledge and sustainable forest
+management, with two main objectives. It seeks to explore and outline indigenous knowledge, elements, and practices that support sustainable forest management (SFM). It aims to uncover the invaluable traditional insights and
+practices that have helped preserve and ensure the responsible use of forest ecosystems. Also, it investigated global environmental policies that support indigenous knowledge since the inception of the Convention on Biological Diversity
+(CBD). A narrative review method was employed to review and analyse peer-reviewed contents and reports to deduce
+ancestral or traditional wisdom, knowledge, practices, and beliefs from existing studies. The paper extracted data from
+existing literature from scholarly peer-reviewed journals. It aims to provide useful information for policy-makers, forest
+managers, and indigenous communities, to promote SFM and the sustainable development goals related to a sustainable
+environment. The study found that indigenous knowledge (IK) which includes ethnobotanical knowledge and plant selection, mixed land use, seed banks, and cultural beliefs such as sacred groves and taboos are some traditional practices,
+beliefs, and cultural knowledge that support SFM and can be integrated into international and national environmental
+management policies which the two-eyed seeing framework (TESF) seeks to promote. The framework highlights the
+potential of implementing IK into SFM. Also, the Akwé: Kon Guidelines, the United Nations Declaration on the Rights
+of Indigenous Peoples (UNDRIP), and the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem
+Services (IPBES), are some global environment policies that recognise traditional people and indigenous knowledge
+since the commencement of the CBD in the nineties. The paper recommends, for a future study, investigating the applicability of the Akwé: Kon Guidelines in international and national projects and programs that impact traditional
+sacred lands, forests and rivers, and indigenous people. Also, the United Nations Framework Convention on Climate
+Change (UNFCCC) and the Paris Agreement need to fully acknowledge the supporting role of indigenous knowledge
+and people in climate change mitigation and adaptation solutions, especially in Africa, since the majority of the world's
+population constitutes indigenous people who inhabit healthy standing forests and ecosystems.
+Keywords: ecological knowledge; ecosystem services; environmental management; forestry; human well-being
+
+© The authors. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+
+265
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+Forests are significant ecosystems that provide countless benefits and essential resources
+to support biodiversity (Kok et al. 2017; Verkerk
+et al. 2022; Guegan et al. 2023) and help in climate change mitigation and adaptation strategies.
+They also enable the interplay between biodiversity
+and the health of indigenous peoples (Robinson
+et al. 2024). Studies show that a substantial portion of the Earth's terrestrials is made up of forests and that they contribute to global ecological
+balance and human well-being all over the Earth
+(Boles Fassler 2017; Soe, Yeo-Chang 2019; Cimatti
+et al. 2023; Dong, Huang 2023).
+The complex ecosystems provide ecological services which include e.g. biodiversity conservation,
+carbon sequestration (Verkerk et al. 2020), and clean
+water while supporting community livelihoods, especially at the local level (Anderegg et al. 2020; Heilmayr et al. 2020; De Frenne 2021). Forests also provide
+indigenous people with cultural and spiritual values
+and non-timber forest amenities (e.g. biodiversity, wildlife harvests for meat and fur, berries, etc.),
+whose values can be satisfied by maintaining a certain amount of mature, old-growth tree stands (van
+Kooten et al. 2019; Moloise et al. 2024). However,
+these ecosystems face multiple challenges, such
+as deforestation, habitat degradation, and climate-related problems (Tong et al. 2020; Dubale et al. 2023).
+Knowing the values and priceless advantages of forests and the numerous environmental complexities
+threatening the existence of forests and other natural
+resources, there is a dire need for policy-makers, research, science, and practices to consider traditional
+forest management knowledge, wisdom, and cultural
+belief systems that support, promote and ensure sustainable forest management (SFM). The recent enormous loss of plant non-wood timber forest products
+(NWFPs), especially in developing countries, coupled with the erosion of indigenous forest management practices that can be used to manage them
+sustainably, increases the need to find ways to stimulate, preserve, or improve indigenous management
+practices (Chukwuone et al. 2020).
+Traditional local knowledge forest management
+(TLKFM) has garnered high recognition over the
+years for its inherent sustainability and harmonious
+coexistence with nature (Rakatama, Pandit 2020;
+Moloise et al. 2024). Indigenous knowledge, ingrained in the collective wisdom of local communities, encompasses a profound understanding
+of forest ecosystems, ecological dynamics, season266
+
+al variations, and the intricate relationships that
+connect humanity with mother nature (Messerschmidt 2019; Wangchuk et al. 2021). This wisdom
+and knowledge are embedded in culture, norms, and
+belief systems that are deeply interwoven with cultural practices and passed down from one generation to another generation over time; which
+indicates the need to incorporate this ancient forest
+management knowledge and wisdom into current
+strategies, measures, policies, and regulations toward the creation of sustainable forests and forest
+resources. In this sense, there has been a recognition of the invaluable role that indigenous knowledge can play in contemporary forest management
+efforts (Ludwig, El-Hani 2020; Alule et al. 2023).
+While indigenous forest management practices
+may not conform to the conventional model of scientific forestry, they have been used effectively
+by local people in managing forests and conserving forest resources for many years. They are used
+in both communally owned and family/individually owned forests. Indigenous people often modify
+and adjust these practices in such a way as to adapt
+to changes they observe in their forests (Chukwuone et al. 2020).
+The integration of local knowledge into mainstream conservation policies, decisions, and practices is seen as a promising avenue to improve
+the sustainability of forest ecosystems (Lazdinis
+et al. 2019; Mansourian et al. 2020) by coupling
+traditional knowledge and wisdom with modern
+science and conservation strategies, to bolster the
+resilience of forests, promote biodiversity conservation, and enhance climate change mitigation initiatives. Aside the ensuring sustainable
+forest management, it also touches on cultural
+preservation, community empowerment, and the
+recognition of indigenous locals' rights (Ludwig,
+El-Hani 2020; Mansourian et al. 2020).
+SFM is a global interest that demands the involvement of diverse stakeholders, including indigenous communities who often possess rich indigenous
+knowledge systems related to forest ecosystems.
+Despite the potential of integrating traditional
+knowledge and practices into policies, there remains the need to identify these indigenous practices and cultural belief systems which this paper
+aims to address by exploring and outlining the
+indigenous knowledge, its elements and practices
+that support SFM in Africa, in order to uncover
+the invaluable traditional insights and practices
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+
+that have helped preserve and ensure the responsible use of forest ecosystems. The study also investigates the global environmental policies that
+support indigenous knowledge since the inception
+of the Convention on Biological Diversity (CBD).
+Primary objectives. The primary objectives
+of this paper are: (i) To explore and outline the indigenous knowledge, elements, and practices that
+support SFM in Africa and other developing regions; (ii) to identify the global environmental policies that support indigenous knowledge since the
+inception of the Convention on Biological Diversity
+(CBD); and (iii) to identify the possibilities of innovative implementation of indigenous knowledge
+into traditional European SFM planning.
+This paper contributes to the growing body
+of knowledge on the importance of indigenous people and traditional knowledge in SFM and presents
+some cultural beliefs and insights into traditional
+practices that can be incorporated into international and national sustainable environmental policies, strategies, and measures by policy-makers,
+experts, and international organisations as well
+as in the European Union or European countries.
+The article also demonstrates the potential of indigenous knowledge and modern science working
+together to address environmental issues.
+Local knowledge (Gómez-Baggethun 2022, Hallberg-Sramek et al. 2023) is described as a 'cumulative body of knowledge, practice, and belief handed
+down through generations by cultural transmission'. In European countries with traditional, developed forest management and forest economic
+planning, this local knowledge is often incorporated into national principles of economic planning.
+Or, if the results of this local knowledge did not
+correspond to economic goals, it is reflected either
+in nature protection or at least in research activities in the protection and promotion of biodiversity. However, in developing countries, including
+Africa, forest management planning is in its infancy
+or completely absent. This greatly complicates the
+implementation of traditional indigenous knowledge into sustainable forest management. In Europe,
+for a change, indigenous knowledge is not usually
+discussed in connection with forest management,
+although there are exceptions, e.g. Hallberg-Sramek
+et al. (2023). Nevertheless, there may be insights
+into the use and management of forests according
+to indigenous knowledge in developing countries
+useful in formulating SFM planning principles.
+
+LITERATURE REVIEW
+Overview of sustainable forest management.
+The concept of sustainability in forestry has gained
+global recognition due to its enormous contributions to addressing environmental problems.
+The idea of sustainable forest management has
+a long history. Early methods of managing forests
+were primarily concerned with preserving biodiversity, water supplies, and local inhabitants' rights
+and needs. There is no universally agreed definition for SFM, but various definitions share keywords and phrases such as sustainable ecological
+conservation of ecosystems, responsible forest
+resources management, sustainable biodiversity
+preservation and conservation, and forest stewardship. SFM is the sustainability aspect of managing
+forests to ensure that both present and future generations benefit from the eco-services of forests.
+Jhariya et al. (2019) defined SFM as an integrated
+approach to sustainable management and conservation of natural resources. Angelstam et al. (2019)
+explained that SFM is an agreed international explicit grand policy vision for the sustainable use
+and governance of forest resources such as landscapes' goods, services, and values. Similarly,
+Innes (2016) also posited the deliberate and responsible management of forests for the provision of goods and services. It seeks to reconcile
+trade-offs between the economic benefit of forest resources and the conservation of biodiversity
+(Laakkonen et al. 2019).
+In a nutshell, SFM is a comprehensive strategy
+to foster and promote forest stewardship to create
+a balance between social, economic, and environmental goals. Forests offer a range of ecological
+functions and resources necessary for human wellbeing. The major products of forests for human
+survival have been food, fuel, and plant medicines,
+among others, over the years and the present and
+will be in the future. When environmental concerns became more prevalent in the late 20th century, SFM began to take off. From being primarily
+concerned with production, forestry has expanded to include wider ecological and social objectives. The 1992 Earth Summit, the adoption of the
+Rio Declaration, and Agenda 21 are all significant
+turning points of SFM.
+Importance of indigenous ecological knowledge (IEK) or traditional ecological knowledge
+(TEK). According to Ford et al. (2020) 'indigenous
+267
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+knowledge' refers to the knowledge, abilities, and
+ideologies developed by communities with a long
+history of interacting with society and nature. It encompasses the understandings and competencies
+that people have acquired in relation to their location. Berkes et al. (2000) also defined TEK as a cumulative body of knowledge, practice, and belief,
+evolving by adaptive processes and handed down
+through generations by cultural transmission,
+about the relationship of living beings (including
+humans) with one another and their environment.
+Tiu (2007) explained further that IEK is the relationship of indigenous people with their landscape
+and the way they are cared for and connected to the
+landscape. Minahan continued to elucidate that
+IEK does not create segregation and silos of ecology like some other areas of science.
+IEK is place-based knowledge and differs between each tribe and geographical location. It refers to place-based knowledge generated over
+the years within myriad specific cultural contexts
+(Richmond 2021). It is different from science, and
+citizen science in that it goes beyond direct observation and interaction with plants, animals,
+and ecosystems but entails a broad spectrum
+of cultural and spiritual knowledge and values
+that underpin human-environment relationships
+(Berkes et al. 2000). IEK is often augmented with
+contemporary observations and experiences that
+refine accumulated knowledge and allow for flexibility and adaptability in the context of environmental and social change. It is accumulated and
+modified by generations, not static or outmoded as perceived (Asselin 2015; Richmond 2021).
+In other words, before the introduction of scientific or Western knowledge, communities had the
+wisdom and strategies to manage and preserve
+the ecology and ecosystems for survival and wellbeing. The keywords running through the various
+scholarly definitions of IEK include geographically
+specific, or placed-based, transfer from generation
+to generation, locally developed over the years, and
+timely tested and proven effective. Local adages
+make relevant and timely contributions to inform
+the restoration and conservation of forests. This
+knowledge and wisdom were not only ecologically
+driven but spiritually and culturally developed.
+Daniel (2022) opined that IEK is a body of observations, oral and written knowledge, innovations,
+practices, and beliefs that promote sustainability
+and the responsible stewardship of cultural and
+268
+
+natural resources through relationships between
+humans and their landscapes. Indigenous knowledge cannot be separated from the people inextricably connected to that knowledge.
+In a time of serious environmental problems, indigenous knowledge becomes paramount in adaptation strategies and policies developed to address
+existing environmental complexities, including
+the conservation of forests (Alule et al. 2023; Kakiso 2023; Moloise et al. 2024). For instance, forestry plays a very significant role in climate change
+mitigation. A study conducted by IPCC (2022)
+indicates that indigenous and local knowledge
+shapes how climate change risk is understood
+and experienced, and therefore helps in developing place-based climate change solutions and
+governance systems that match the expectations
+of various stakeholders.
+In Asselin's (2015) study titled 'Indigenous
+Knowledge' the contributions of IEK to forest management were discussed extensively. To mention
+but a few of IEK's roles in forest management, they
+include providing biological information and ecological insight, offering alternative management
+practices, promoting biodiversity conservation and
+environmental ethics principles, and ensuring environmental monitoring and assessment for social
+development. Studies have revealed forest indigenous knowledge provides detailed biological and
+ecological information that would be hard to reach
+using quantitative scientific research methods.
+Due to the significant role indigenous people play
+in sustaining forests and ecosystems (Kakiso 2023),
+the Forest Steward Council (FSC) recognises and
+respects indigenous people's rights and encourages and advocates for forest agencies and organisations to do the same (FSC 1996). However, even
+the FSC is proof that indigenous knowledge is undervalued in Europe or largely has no justification
+at the moment. For example, the Czech National
+FSC Standard states that 'According to the definition by the United Nations, there are no indigenous
+people in the Czech Republic that would feel or define themselves as such. Therefore, the principle
+in this form is not applicable' (FSC 2024).
+Two-eyed seeing framework (TESF). The study
+is grounded by the two-eyed seeing framework
+(TESF), developed by Elder Albert Marshall (Marshall, Bartlett 2004). The framework explains the
+need to consider and value indigenous and scientific knowledge and integrate it into solving societal
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+
+problems holistically. TESF seeks to focus one eye
+on the indigenous perspective while the other
+eye views reality through a Western lens to embrace
+a diverse understanding (Arsenault et al. 2018).
+Mullen (2022) applied this framework to investigate what it means to develop and designate Indigenous Protected and Conserved Areas
+(IPCAs) in Canada and identified common challenges. Mullen found that the success or failure
+of IPCA development and designation depends
+on collaboration between government, industries,
+and indigenous communities.
+Arsenault et al. (2018) also used the TESF to examine the significance of utilising indigenous research methodologies to address current water
+issues affecting First Nations in Canada. Similarly,
+Wright et al. (2019) evaluated how the two-eyed
+seeing framework can be used in an integrative approach to indigenous research.
+Mckeon (2012) also employed the TESF as an integrative framework to argue that current key
+ideas in environmental education, such as systems
+theory, ecological literacy, biophilia, and placebased education, can benefit from and connect
+with foundational values of indigenous education.
+The framework underscores the cultural relevance
+of knowledge and acknowledges that indigenous
+wisdom and practices are deeply rooted in the cultural, spiritual, and historical context of local geographical areas.
+This framework is suitable for this paper
+as it promotes and combines both IEK and scientific knowledge in sustainable forestry management.
+This integration provides a comprehensive understanding of forest ecosystems and supports community well-being. It allows for a holistic approach
+to forest management for sustainable development.
+In a nutshell, the two-eyed seeing framework provides a valuable guiding philosophy for this study,
+emphasising the importance of integrating indigenous wisdom, respecting cultural context, and promoting sustainability and community well-being.
+MATERIAL AND METHODS
+A qualitative method was employed for the
+study relying on secondary data only. The narrative review methodology was employed to review
+and analyse a range of materials (academic papers,
+reports, policy documents, articles, and any other
+written materials related to the study objectives)
+
+gathered from search engines such as Google
+Scholar, ProQuest, PubMed, ScienceDirect, Emerald Insight, Research Gate, and Google. Besides
+the academic literature, other official documents
+such as indigenous community records, historical records, and other written materials relevant
+to the objectives and providing insights into indigenous knowledge and its integration into forest management were also reviewed to obtain data
+for the study. Various contents in relation to the
+phenomenon under study were analysed with
+content analysis methodology to allow the researcher to review secondary data to discover indigenous practices and beliefs and to gain a deeper
+understanding of how indigenous wisdom contributes to sustainable forest management and
+community well-being.
+The two-eyed seeing framework was used to justify the need for the integration of IEK into scientific and policy solutions toward sustainable
+ecological management. The data obtained from
+the secondary source were grouped or categorised
+into key themes according to the study objectives,
+analysed, and discussed in relation to the two-eyed
+seeing framework. The findings confirmed the need
+for integrating traditional knowledge into existing
+scientific knowledge, as the two-eyed seeing indicates to ensure effective collaboration and effective
+implementation of SFM policies. The next methodological step was a review of global environmental
+policies that have supported local knowledge since
+the time of the Convention on Biological Diversity.
+RESULTS AND DISCUSSION
+Just as in other countries, Africa has rich cultural
+beliefs, knowledge, and practices that promote sustainable forestry which should be recognised and
+promoted. The discussion was categorised into
+sub-themes according to the study objectives.
+Indigenous or traditional practices that promote
+SFM in Africa
+Indigenous or traditional practices that promote SFM in Africa, as examples of developing regions with low levels of forestry planning, include
+a wide range of activities, depending on the natural conditions, level of technological development
+of communities or regions, and level of traditional
+knowledge about local natural sources of ecosystem services. Traditions also have a strong social
+269
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+character; however, they are not purely economic
+or management activities. These practices are:
+– mixed land use;
+– hunting or game management;
+– using raw materials;
+– ethnobotanical knowledge and plant selection;
+– seed banks;
+– cultural values and beliefs;
+– sacred groves and taboos.
+This list is not all-inclusive. There are no written
+records of many traditional activities, and therefore they are very little researched. An example
+is the natural regeneration dynamics (MacFarlane
+et al. 2015) of the coastal dry forest Zanzibar-Inhambane, managed by local communities. Along
+with climate change, African traditional knowledge
+of environmental change is also gaining importance.
+Based on the perceived vulnerability of indigenous
+communities, many scholars tend to argue generically for the integration of indigenous knowledge
+into climate change policies and implementation
+(Makondo, Thomas 2018). A wealth of studies has documented how traditional ecological
+knowledge has contributed to forest conservation (e.g. Boafo et al. 2016; Osei-Tutu 2017; Mavhura, Mushure 2019; Sinthumule, Mashau 2020;
+Alule et al. 2023; Dubale et al. 2023). Chukwuone
+et al. (2020) found out that some indigenous practices like controlled harvesting, selective weeding,
+enrichment planting, indigenous protective mechanisms, and fire breaks complement each other and
+are also useful in the management of some nonwood forest products (NWFPs).
+Mixed land use. Indigenous people practice
+mixed land use where a piece of land is used for
+different purposes simultaneously, which helps
+provide food, maintain tree cover, and livestock
+rearing, which also enhances soil fertility with livestock dung. Instead of clearing forests to create
+space for other activities, forests are reserved, and
+available spaces are managed efficiently for multiple purposes. It is common in African countries
+like Ghana, Nigeria, Ethiopia, and Kenya among
+several other countries.
+For instance, the Nashua (a conservation reserve
+in Masi Mara, Kenya) integrates people and wildlife
+into the same ecosystem. Humans and wildlife live
+together in the same space to protect their landscape and ecosystems for the Nashua community
+and wildlife (Muriithi 2022; UNDP 2021). They
+build fences to prevent aggressive and unfriendly
+270
+
+wildlife from attacking the community. These ecosystems are being driven and led by the community itself. Also, in Kericho County, the 47th county
+in Kenya, and Ghana, mixed land use is practised
+among farmers. This practice goes beyond the reservation of forests but concerns the entire ecosystem
+at large. Local people are also interested in protecting their ecosystems to pass them on to the next
+generation; integrating these people in decisions
+will help to develop community-owned policies
+that will be easy to implement.
+Traditional hunting and gaming (Pattiselanno et al. 2011; Bongmba, Talla 2020). Traditional
+hunting and gaming have been used as a method
+of ecological management by traditional societies and indigenous communities over centuries
+(Krause 2019). It is deeply embedded in local cultures and has ecological benefits when practised
+appropriately and effectively. Hunting and gaming
+practices are typically sustainable and promote environmental stewardship. For instance, indigenous
+hunting practices promote biodiversity conservation. Instead of targeting a single species, they
+rotate their focus to different species of animals
+over time, allowing some species to recover while
+keeping others in check. It is also used to control
+certain species through selective hunting of specific animals, which helps to control overpopulation that may lead to habitat degradation and
+depletion of resources. By hunting certain species,
+indigenous communities can help maintain the
+balance within ecosystems. For example, predation on herbivores can prevent overgrazing and
+habitat destruction.
+This practice has cultural and spiritual significance where local communities have rituals and
+traditions associated with hunting and gaming,
+which instil a sense of environmental responsibility
+and virtues in people. Just to mention but a few African countries that practise hunting and gaming,
+let us name Ghana, Zimbabwe, Namibia, Tanzania,
+Zambia, Botswana, and South Africa. Gaming and
+hunting are also practised in some parts of Europe
+even till the present day, e.g. in the Czech Republic,
+England, and Austria, among several others.
+Despite the significance of this practice, it is crucial to note that the ecological benefits of hunting
+and gaming practices depend on responsible and
+sustainable management as over-hunting, habitat
+destruction, and illegal or unsustainable practices
+may cause ecological harm.
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+
+Integrating traditional hunting and gaming into
+ecological knowledge with contemporary conservation and management efforts and policies
+is critical to sustainable forestry; this integrative
+approach is termed 'biocultural conservation'.
+It seeks to combine the strengths of traditional and
+scientific knowledge for more effective ecological
+management and conservation.
+Ethnobotanical knowledge and plant selection (Shrestha, Medley 2017; Ahoyo et al. 2024).
+In Africa, the use of plant species for medicinal
+(herbalism, phytomedicine, or phytotherapy) purposes is very common. Most indigenous communities possess detailed knowledge of plant species
+used for medicine, food, nutrition security (Olowo
+et al. 2022; Dubale et al. 2023; Tamene et al. 2023),
+and rituals. For example, indigenous people with
+ethnobotanical knowledge are called 'abibiduro'
+in Ghana; South Africans call it 'sangoma' or 'inyanga'; in Tanzania, it is 'shaman' or 'mugwenu';
+'nga:nga' or 'godobor' in Zambia; 'shaman' or 'laibon' in Kenya, and 'tilizat', 'dibia', or 'boka' in Nigeria.
+Examples of these medicinal plants in Africa include but are not limited to bitter leaf (Vernonia
+amygdalina), Moringa oleifera, scent leaf (Ocimum
+gratissimum), bitter kola (Garcinia kola), Prunus
+africana, cashew (Anarcadium occidentale), African bush mango (Irvingia gabonensis), yellow yam
+(Dioscorea bulbifera), baobab (Adansonia digitata),
+and Hibiscus sabdariffa (zobolo). This knowledge
+guides sustainable harvesting, ensuring that valuable plant resources are not depleted. Some communities only depend on and believe strongly in the
+effectiveness of herbals hence preserving such plants
+and ecosystems by ensuring the continuity of such
+species for other generational benefits. The plant
+selection is done by identifying and using specific
+tree species for various purposes, such as medicinal
+plants, food, and construction materials.
+Ethnobotanical indigenous knowledge is very
+important not only for local communities but also
+for the geopolitical North as a knowledge pool for
+the pharmaceutical industry and as an alternative
+source of medicine. Therefore, as the two-eyed
+seeing framework suggests, integrating ethnobotanical knowledge into policies and science will
+encourage local people to accept and support such
+policies since they are in line with their traditions,
+fundamental practices, and sources of their health.
+Seed banks. Traditional communities have long
+practised seed saving and traditional seed banks,
+
+preserving native tree species and promoting reforestation efforts. These types of indigenous knowledge and wisdom vary across different African
+regions and communities. They highlight the holistic and sustainable approaches that indigenous peoples have developed over generations to manage
+and conserve their forested environments. Recognising and integrating these practices into modern
+forestry management can contribute significantly
+to sustainable forest conservation in Africa.
+Cultural values and beliefs. African beliefs and
+cultures have rich traditions of forest conservation
+rituals that mirror their deep spiritual and cultural
+connections to the natural worldview. Many indigenous cultures have deep-rooted spiritual and
+cultural connections to the land and forests. These
+values often lead to practices that promote the preservation and conservation of ecosystems. These
+rituals are mostly performed to seek blessings and
+protection and ensure the enforcement of sustainable resource management. Some of these include
+sacred groves and taboos.
+Sacred groves and taboos. In Africa, some indigenous or traditional people designate certain
+forests as sacred groves, where access and resource use or harvesting are restricted. These forests are associated with diverse taboos to prevent
+people from going into these forests. The main
+purpose of the taboos associated with these areas is to help conserve biodiversity and maintain
+ecosystem integrity.
+These sacred groves can be found in India,
+Asia, Latin and North America, Canada, Europe,
+Germany, and several parts of the world (Jaryan
+et al. 2010), but Africa is the focus of this study.
+In Africa, these groves can be found in Zimbabwe,
+Kenya, Ivory Coast, Sierra Leone, Benin, Nigeria,
+and Ghana. For instance, groves in Ghana include
+Boaben-Fiema and Tafi, Esukwakwa Forest Reserve and its Anweam sacred grove, Ntwokom sacred grave, Tafi Atome sacred grove, Asantemanso
+and Nananom Mpow. It is forbidden to enter the
+sacred forests of these communities. These forests
+are said to be the abode of ancestral spirits and gods
+and, therefore, must be protected by the community chief and leaders. Chiefs are also buried in these
+sacred forests as part of the community's spiritual
+reincarnation belief systems, where it is believed
+that the spirit of the departed will continue to live
+in these forests. With this, special sacrifices are
+performed before anyone can enter such a forest
+271
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+to bury another deceased. Following this practice,
+forests and rivers in these areas remain untouched
+and the ecosystem is protected because no one
+is allowed to tamper with such reserves.
+Local communities have positive attitudes toward the conservation of the local sacred forests.
+They do not harvest fuel wood or hunt in them because they show respect for these groves and fear
+being punished by the gods, chiefs, and other significant elders of the communities (Sinthumule,
+Mashau 2020).
+Most of these forests are very thick; people do not
+go into these forests to engage in thoughtless deforestation and illegal activities, and no hunting
+or logging of trees is allowed here. At times, some
+part of the forest or the entire forest is dedicated
+to some spirits or some deities. These sacred groves
+or landscapes are practically worshipped. Nobody
+enters these forests except ritual men, chiefs, and
+leaders who visit the forest to perform sacrifices
+as and when there is a need. Sacred forests, rivers, and lands are forms of African ancient forest
+conservation methods or strategies. Aside from the
+sacred groves, there are also evil forests, where evil
+people are buried, or community outcasts are sent.
+Typical examples of sacred forest ritual and worship include the Bakas in Congo's Central African
+rainforests, who perform rituals that seek harmony
+with the forest and its spirits. They believe that pacifying and honouring the forest spirits through music, dance, and offerings ensures a bountiful harvest
+and sustainable hunting and gathering. Like the
+Baka indigenous people, the Bagyeli people from
+Southern Cameroon areas adjacent to Gabon and
+Equatorial Guinea celebrate the guardian of their
+forest called the 'Ekila' spirit. During such celebrations, they offer food, drinks, and dances to show
+gratitude and request protection and abundance
+from the forest for years ahead and to also ensure
+sustainable harvest. The Yoruba culture in Nigeria
+is deeply connected to nature, and rituals. These
+involve appeasing forest deities, such as 'Osun,' the
+goddess of water and fertility, and 'Ogun,' the god
+of iron and the forest. Offerings are made to these
+deities to ensure the well-being of the forest and its
+resources. The San people of Southern Africa from
+Basarwa communicate with ancestral spirits and
+gain insight into hunting and gathering strategies
+through dancing.
+In addition to the above, the Aka people of the
+Congo Basin maintain balance in their forest
+272
+
+through rituals, believing that proper rituals and
+ceremonies are critical in preserving forest spirits. The Samburu celebrate the 'Nganyiet tree' believing it to be the protector of their cattle. These
+rituals underscore the importance of tree and forest conservation in their pastoral needs. The 'Gule
+Wamkulu' ceremony of the Chewa people of Malawi involves masked dancers who embody spirits
+representing different aspects of nature and the interconnectedness of humans and the environment.
+The Tamberma people of Togo celebrate the 'Damba' festival to honour the spirits of their forest and
+ancestors through offerings and prayers to protect
+the environment and ensure the continuity of their
+belief system, traditions, and practices.
+Finally, the Yaka people of the Democratic Republic of Congo also celebrate 'Kanhungwe,' a ceremony dedicated to the spirits of the forest. They
+believe that these spirits influence the success
+of their agricultural and hunting activities.
+These rituals and beliefs in Africa reinforce the
+importance of sustainable forestry and resource
+management. They demonstrate the profound respect and reverence that many African cultures
+have for the natural world and emphasise the importance of maintaining harmony with the environment and preserving the forest's resources
+for future generations. These beliefs have proven
+to be effective in forest management in the sense
+that most standing and healthy forests today are
+inhabited by local people. The present generation
+is benefiting from the works of indigenous people
+which need to be transferred to future generations.
+Indigenous or traditional practices implemented
+in SFM in Central Europe
+All the above-mentioned practices of traditional
+ecological knowledge are part of the utilisation
+of forest resources even in Central Europe. The extent of some is limited to negligible (sacred groves
+and taboos). Others are now an integral part of landscape management through legislation (mixed land
+use, seed banks, traditional hunting and gaming,
+cultural values and beliefs). Ethnobotanical knowledge and plant selection have their societal potential. For example, in the Czech Republic, besides
+traditional mushroom picking, the gathering and
+use of wild garlic (Allium ursinum L.) by the public is increasingly expanding. Traditional ecological
+knowledge also includes care for forest springs. For
+example, as part of the forest Slavín in the territo-
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+
+ry of the School Forest Enterprise Masaryk Forest
+Křtiny, managed by the Mendel University in Brno.
+
+into sustainable forest management (SFM) and also
+its economic profitability.
+
+The two-eyed seeing framework
+The two-eyed seeing framework, as mentioned,
+advocates the need for scientific knowledge
+to be mainstreamed or blended with these kinds
+of local strategies and methods to develop ecosystem management policies and decisions for the
+benefit of all stakeholders. The reason is to ensure
+that SFM policies are developed with the inclusion
+of all stakeholders and also to enable local people
+to own these policies and support their implementation – only then can a sustainable environment
+be achieved successfully around the globe. Besides, studies show that indigenous people own
+a larger part of existing forests today. To integrate
+the traditional beliefs and practices, traditional
+communities need to be given a fair hearing and
+an environment where they can form SFM policy
+decisions from their own local or geographical
+context, knowledge, and experience. Only then
+will indigenous people reflect scientific knowledge
+and support the sustainable environment course
+of action (Hallberg-Sramek 2023). There is a need
+to also value indigenous practices such as those
+discussed, to promote environmental stewardship
+and to instil environmental virtues in individuals,
+communities, and the world at large.
+Also, indigenous people constitute many societies in Africa, and so achieving a sustainable forest
+and environment largely depends on them. Science, policy-makers, and international organisations need their support in SFM decision-making,
+policy formulations, and implementation; without
+them, there is the possibility of policy failure.
+Paradoxically, a similar problem exists to a certain extent with the implementation of indigenous knowledge into forest management planning
+in Central Europe. Although forest management
+plans or forest management certifications commonly address cultural ecosystem services or local
+community values, greater integration into forest
+cultivation practices is still lacking. In particular,
+it is necessary to mention the potential that indigenous knowledge has in increasing the resilience of forest stands and human society to climate
+change. However, to redirect the attention of forestry professionals in this direction, it is necessary to scientifically demonstrate the effectiveness
+of this implementation of indigenous knowledge
+
+Examples of global international policies and conventions, describing traditional indigenous knowledge as a tool for sustainable forest management
+Global environmental policies in support of local knowledge since the inception of the Convention on Biological Diversity (CBD). In 1992, the
+United Nations Convention on Biological Diversity
+(a legally binding treaty) was opened for signature
+at the United Nations Conference on Environment
+and Development in Rio de Janeiro and entered
+into force in 1993. The three main objectives of the
+treaty are biodiversity or biological diversity conservation, sustainable use of biodiversity components, and fair and equitable sharing of the benefits
+arising out of the utilisation of genetic resources.
+The state parties to the multilateral treaty are
+to implement decisions made by the Conference
+of the Parties (COP). Article 8(j) of the CBD recognises the importance of traditional knowledge,
+innovations, and practices of indigenous and local communities. The study reviewed the literature
+to identify the global environmental policies that
+conform with Article 8(j) of the CBD.
+The review shows that some sustainable environment global policies have acknowledged the
+critical role of local knowledge in biodiversity
+conservation, sustainable resource management,
+and environmental protection since the establishment of the CBD. These policies include the Akwé:
+Kon Guidelines, the United Nations Declaration
+on the Rights of Indigenous Peoples (UNDRIP),
+the Intergovernmental Science-Policy Platform
+on Biodiversity and Ecosystem Services (IPBES),
+the Sendai Framework for Disaster Risk Reduction, the United Nations Development Programme
+(UNDP), the World Bank and Indigenous Peoples'
+Programs, and Global Environmental Facility (GEF)
+Indigenous Peoples' Program (Recio, Hestad 2022).
+Similarly, Aichi Targets (Target 18) recognised indigenous communities all over the world, their traditional ecological knowledge, and their immense
+contributions to achieving the strategic plan for biodiversity 2011–2020 (Sinthumule, Mashau 2020).
+Akwé: Kon Guidelines. As indicated earlier
+about sacred groves, the Akwé: Kon Voluntary
+Guidelines is a framework used to conduct environmental, cultural, and social impact assessments towards developmental proposed projects
+273
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+and activities that are meant to be undertaken
+or are likely to impact sacred sites or groves [such
+as lands and waters traditionally occupied and used
+by indigenous and local communities (Secretariat
+of the Convention on Biological Diversity 2004)].
+It was adopted by the Conferences of Parties (COP)
+to the CBD treaty in their seventh meeting in 2000.
+The Akwé: Kon provides ten steps to guide governments, policy-makers, and parties on how to involve indigenous people in existing and future
+assessment procedures. The main aim of these
+guidelines is to encourage stakeholders to incorporate cultural, environmental, biodiversity-related,
+and social considerations of indigenous and local
+communities into new or existing impact-assessment procedures, and to also inform indigenous
+people of the impact of development proposed
+on their lands, forests, and rivers as well as the impact on the people. The guidelines present ten steps
+to follow in conducting the social, environmental,
+and cultural assessment to inform development
+initiatives in local communities.
+The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services
+(IPBES), introduced in 2012, assesses the state
+of the earth's biodiversity and ecosystems and their
+benefits to humans. It recognises the role of indigenous and local knowledge in the assessments and
+promotes the inclusion of traditional knowledge
+holders in its processes and initiatives (Löfmarck,
+Lidskog 2017).
+Nagoya Protocol on Access and Benefit-Sharing (a supplementary to the CBD) supports the
+CBD objective three (3). In 2010, the Nagoya Protocol adopted part of the CBD, which aims at addressing the fair and equitable sharing of benefits
+arising from the utilisation of genetic resources.
+It supports and promotes the role of indigenous
+knowledge in the conservation and sustainable
+use of biological diversity (Schabus 2017; Recio,
+Hestad 2022).
+The United Nations Declaration on the Rights
+of Indigenous Peoples (UNDRIP) stresses the need
+to obtain free, prior, and informed consent from indigenous people for projects that affect their lands
+and resources. It was adopted in 2007 to acknowledge indigenous people's rights, which include the
+right to maintain, control, protect, and develop
+their cultural heritage, traditional knowledge, and
+traditional cultural practices and belief systems
+(UNDRIP 2007).
+274
+
+Sendai Framework for Disaster Risk Reduction
+(2015–2030), which also supports the role of indigenous knowledge in disaster risk reduction and
+management. It recognises the value of traditional
+practices and local wisdom in building resilience.
+United Nations Development Programme
+(UNDP). The UNDP supports various projects and
+initiatives that involve the documentation and integration of local and indigenous knowledge into
+sustainable development and environmental management programs (UNDP 2015).
+World Bank and Indigenous Peoples' Programs.
+The World Bank has policies and programs that
+recognise the vital role of indigenous knowledge
+and the rights of indigenous peoples. It supports
+programs and projects that involve indigenous
+communities and local knowledge in sustainable
+development (Davis 2021).
+Although indigenous people are already widely
+acknowledged as the most vulnerable to the impacts of climate change, their unique knowledge
+and experience remain largely under-utilised
+by interventions that aim to reduce vulnerability
+or increase adaptation to new circumstances. Intergovernmental Panel on Climate Change (IPCC)
+Working Groups do realise the importance of indigenous knowledge and make attempts to include
+this knowledge (Makondo, Thomas 2018).
+Global Environmental Facility (GEF) Indigenous Peoples' Program. Finally, the GEF Indigenous
+Peoples' Program is a financial mechanism of the
+CBD. It established the Indigenous Peoples' Program to advance indigenous peoples and local
+communities' participation in projects related
+to biodiversity conservation, climate change, and
+sustainable land management.
+These global policies and programs, among others, are in support of indigenous knowledge and
+acknowledge the paramount role of indigenous
+people in sustainable forestry and ecosystem management. However, it was interesting to know
+that the United Nations Framework Convention on Climate Change (UNFCCC) marginalises indigenous knowledge in climate discussions
+(Comberti et al. 2016). Also, the 2015 Paris Agreement does not fully recognise the need to further integrate indigenous peoples' knowledge
+and practices in climate change mitigation and
+adaptation. Meanwhile, indigenous lands constitute 80% of the world's biodiversity – they occupy
+most of the standing forest in developing coun-
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+Table 1. Activities needed to implement indigenous knowledge or traditional ecological knowledge into sustainable
+forest management in Europe and to promote indigenous knowledge through sustainable forest management in Africa
+Type of action
+
+Africa
+
+Europe
+
+–
+
+Identification and definition
+of 'traditional ecological knowledge'
+in the use of forest resources.
+
+IK → SFM
+
+–
+
+The inclusion of 'traditional ecological
+knowledge' among the principles of using
+target forest ecosystem services,
+especially as a part of adaptation measures,
+supporting the resilience of society.
+
+IK → SFM
+
+–
+
+Support of small traditional craft production,
+based on the use of forest resources.
+
+SFM → IK
+
+Scientific and professional EU–African
+cooperation in the implementation
+of forest management planning and sharing
+of good forestry practices.
+
+–
+
+SFM → IK
+
+Use international programs,
+such as forest certification systems or REDD,
+to support forest management planning.
+
+–
+
+SFM → IK
+
+Categorisation of forest stands according
+to the degree of anthropogenic influence,
+ecological stability, and target ecosystem services
+(including indigenous knowledge).
+
+–
+
+SFM → IK
+
+Classification and use of forestry technologies
+in terms of suitability for indigenous knowledge.
+
+–
+
+SFM → IK
+
+Acceptance of forest management planning
+as a part of national forestry policies
+and legislation.
+
+–
+
+IK → SFM
+
+IK → SFM – integration of indigenous knowledge into sustainable forest management; SFM → IK – support of indigenous
+knowledge through sustainable forest management; REDD – Reducing Emission from Deforestation and Forest Degradation in Development Countries
+
+tries, especially in Africa (Frechette et al. 2016).
+Table 1 lists the activities required for the implementation of indigenous knowledge or traditional ecological knowledge into sustainable forest
+management in Europe. Indigenous people have
+unique knowledge systems and practices that promote sustainable resource management including
+forestry, which plays a very critical role in climate
+change mitigation. A guardian accented at the
+COP26 conference that indigenous people have
+done more than any government in the climate
+space but international and national policies and
+laws do not recognise and support their collective
+rights (Tauli-Corpuz et al. 2020).
+
+CONCLUSION
+The study highlighted the significant role of indigenous people in sustainable forest management,
+indicating some traditional knowledge and practices such as mixed land use, seed banks, hunting
+and gaming, ethnobotanical knowledge, and cultural beliefs like sacred graves and taboos that promote sustainable ecosystem management. Some
+global policies towards sustainable environment
+management since the inception of the CBD were
+reviewed. It was discovered that UNFCCC and the
+Paris Agreement policies do not fully recognise
+the role and usefulness of indigenous knowledge
+275
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+in climate mitigation and adaptation policies and
+efforts. Studies also show that the environmental
+policies in Africa are yet to consider the integration of indigenous traditional knowledge into environmental policies (FAO/FAOLEX 1995; Boafo
+et al. 2016; Antwi 2020).
+Indigenous knowledge (or perhaps in this case
+better 'traditional ecological knowledge') can
+be inspiring even for sustainable forest managers
+in Europe. This has three necessary conditions: the
+identification of adequate traditional ecological
+knowledge, its implementation in forest economic
+planning through ecosystem services, and a framework for public education and education of forest
+managers on this topic.
+The implementation of indigenous knowledge
+into sustainable forestry management does not
+mean a change in scientifically and for many decades practically proven forest cultivation practices.
+However, it expands existing practices towards
+more diverse production and utilisation of ecosystem services. In Central European conditions, this
+could, for example, entail the preservation of the
+associated (middle) forest or the current exploration of possibilities offered by agroforestry. Indigenous knowledge is also part of a set of approaches
+that support, through the extensive use of forest
+ecosystems, not only their inner resilience but primarily societal resilience to climate change. However, in this area, there is still a lack of sufficiently
+significant and replicable examples.
+RECOMMENDATION
+The study recommends future research to examine how the Akwé: Kon Voluntary Guidelines are
+employed by international and national organisations to implement development projects that
+impact sacred land, forests and rivers in Africa.
+Secondly, parties, governments, and international and national organisations need to recognise
+and respect indigenous people's knowledge and
+best practices that promote sustainable development, and incorporate this knowledge in policies,
+strategies, and measures meant to address environmental problems around the globe. Also, indigenous people constitute a majority of the African
+population and inhabit vast land and rich forests.
+Hence, their support in addressing climate change
+is not replaceable or cannot be overemphasised.
+The UNFCCC, the Paris Agreement and other or276
+
+ganisations need to treat indigenous participation
+as significant as other key stakeholders.
+This study based on the two-eyed seeing framework requests that the Convention on Biological Diversity, Forest Stewardship Council, UNEP (United
+Nations Environment Programme), and other international organisations consider the culture and
+beliefs of indigenous people in local communities
+and find out how sustainable environmental policy
+frameworks, regulations, strategies, and measures
+can be integrated with IEK or TEK to achieve sustainable development holistically. African countries need to revise their environmental policies
+to integrate traditional ecological knowledge, practices, and beliefs to develop holistic environmental
+policies with all significant stakeholders included.
+In addition, national environmental policies
+and legislation should integrate IEK into the implementation. It is important to implement the
+forest management planning (FMP) tool for a successful linking of traditional ecological knowledge
+and SFM. Forest management planning is a crucial
+tool for effective long-term SFM. Therefore, the
+study recommends SFM planning, which is common in Europe but not in the developing world,
+especially in Africa. Forest management certifications (e.g. FSC) support principles of forest management planning. The FMP in African countries
+might not be as comprehensive as in Europe, where
+it is built on decades of forestry research and forest management records. However, this would
+help in the long-term coordination of forest care,
+which would correspond to the long-term life
+cycle of forests and forest management. Institutions responsible for forest management should
+be strengthened to plan and monitor SFM and
+to also ensure enforcement of laws to protect forest
+reserves in Africa.
+REFERENCES
+Ahoyo C.C., Houéhanou T.D., Yaoitcha A.S., Akpi B.P.,
+Natta A., Houinato M.R.B. (2024): How do plant demographic and ecological traits combined with social
+dynamics and human traits affect woody plant selection
+for medicinal uses in Benin (West Africa)? Journal of Ethnobiology and Ethnomedicine, 20: 1–13.
+Alule J.R., Nuwategeka E., Oriangi G., Lajul W. (2023): Relevance of indigenous knowledge in sustainable management
+of forest resources in the 21st century Uganda. East African
+Journal of Environment and Natural Resources, 6: 277–296.
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+Anderegg W.R.L., Trugman A.T., Badgley G., Anderson C.M.,
+Bartuska A., Ciais P., Cullenward D., Field C.B., Freeman J.,
+Goetz S.J., Hicke J.A., Huntzinger D., Jackson R.B., Nickerson J., Pacala S., Randerson J.T. (2020): Climate-driven
+risks to the climate mitigation potential of forests. Science, 368: eaaz7005.
+Angelstam P., Elbakidze M., Axelsson R., Khoroshev A.,
+Pedroli B., Tysiachniouk M., Zabubenin E. (2019): Model
+forests in Russia as landscape approach: Demonstration projects or initiatives for learning towards sustainable forest management? Forest Policy and Economics,
+101: 96–110.
+Antwi J.K. (2020): Indigenous ecological knowledge and the
+environment: The Akan perspective. Journal of MotherTongue Biblical Hermeneutics and Theology, 2: 58–69.
+Arsenault R., Diver S., McGregor D., Witham A., Bourassa C.
+(2018): Shifting the framework of Canadian water governance through indigenous research methods: Acknowledging the past with an eye on the future. Water, 10: 49.
+Asselin H. (2015): Indigenous forest knowledge. In: Peh K.S.H.,
+Corlett R.T., Bergeron Y. (eds): Routledge Handbook of Forest Ecology. London, Routledge: 586–596.
+Berkes F., Colding J., Folke C. (2000): Rediscovery of traditional ecological knowledge as adaptive management.
+Ecological Applications, 10: 1251–1262.
+Boafo Y.A., Saito O., Kato S., Kamiyama C., Takeuchi K.,
+Nakahara M. (2016): The role of traditional ecological
+knowledge in ecosystem services management: The case
+of four rural communities in Northern Ghana, International Journal of Biodiversity Science, Ecosystem Services
+and Management, 12: 24–38.
+Boles Fassler A.M. (2017): Effects of Eastern hemlock (Tsuga
+canadensis) decline on forest floor characteristics and
+macrofungal communities at two sites in western Massachusetts. [BA Thesis.] Northampton, Smith College.
+Bongmba E., Talla T.R. (2020): Environmental sustenance and
+indigenous hunting practices amongst the Wimbum people,
+North West Region, Cameroon. In: Green M.C., Haron M.:
+Law, Religion and the Environment in Africa. Stellenbosch,
+African Sun Media: 243–257. Available at: https://www.
+researchgate.net/publication/341906056_Environmental_
+sustenance_and_indigenous_hunting_practices_amongst_
+the_Wimbum_people_North_West_Region_Cameroon
+Chukwuone N.A., Adeosun K.P., Chukwuone C.A. (2020):
+Socioeconomic factors affecting households' use of indigenous forest management practices in managing nonwood forest products: Evidence from forest communities
+in Nigeria derived savannah. Heliyon, 6: e05281.
+Cimatti M., Chaplin-Kramer R., Di Marco M. (2023): The role
+of high-biodiversity regions in preserving Nature's Contributions to People. Nature Sustainability, 6: 1385–1393.
+
+Comberti C., Thornton T., Korodimou M., Shea M.,
+Riamit K.O. (2016): Adaptation and resilience at the
+margins: Addressing indigenous peoples' marginalisation
+at international climate negotiations. Environment: Science and Policy for Sustainable Development, 61: 14–30.
+Daniel R.A., Wilhelm T.A., Case-Scott H., Goldman G., Hinzman L. (2022): What is 'Indigenous Knowledge' and Why
+Does It Matter? Integrating Ancestral Wisdom and Approaches into Federal Decision-Making. Washington, D.C.,
+The White House. Available at: https://www.whitehouse.
+gov/ostp/news-updates/2022/12/02/what-is-indigenousknowledge-and-why-does-it-matter-integrating-ancestralwisdom-and-approaches-into-federal-decision-making/
+Davis S.H. (2021): The World Bank and indigenous
+peoples. In: Koch-Weser M., Guggenheim S. (eds):
+Social Development in the World Bank. Cham, Springer: 191–204. Available at: https://link.springer.com/chapter/10.1007/978-3-030-57426-0_13
+De Frenne P., Lenoir J., Luoto M., Scheffers B.R., Zellweger F.,
+Aalto J., Ashcroft M.B., Christiansen D.M., Decocq G.,
+De Pauw K., Govaert S., Greiser C., Gril E., Hampe A.,
+Jucker T., Klinges D.H., Koelemeijer I.A., Lembrechts J.J.,
+Marrec R., Meeussen C., Ogée J., Tyystjärvi V., Vangansbeke P., Hylander K. (2021): Forest microclimates and climate
+change: Importance, drivers and future research agenda.
+Global Change Biology, 27: 2279–2297.
+Dong L., Huang Z. (2023): Some evidence and new insights
+for feedback loops of human-nature interactions from
+a holistic Earth perspective. Journal of Cleaner Production, 432: 139667.
+Dubale S., Abdissa N., Kebebe D., Debella A., Zeynudin A.,
+Suleman S. (2023): Ethnomedical review of plants and
+associated indigenous knowledge for the treatment of different infectious diseases in Ethiopia. Journal of Herbal
+Medicine, 40: 100669.
+FAO/FAOLEX (1995): Ghana's National Environmental
+Policy. Food and Agriculture Organization of the United
+Nations: 30. Available at: https://leap.unep.org/countries/
+gh/national-legislation/national-environmental-policy
+Ford J.D., King N., Galappaththi E.K., Pearce T., McDowell G.,
+Harper S.L. (2020): The resilience of Indigenous peoples
+to environmental change. One Earth, 2: 532–543.
+Frechette A., Reytar K., Saini S., Walker W. (2016): Toward
+a Global Baseline of Carbon Storage in Collective Lands.
+Washington, D.C., Rights and Resources Initiative: 12.
+Available at: https://rightsandresources.org/wp-content/
+uploads/2016/10/Toward-a-Global-Baseline-of-CarbonStorage-in-Collective-Lands-November-2016-RRIWHRC-WRI-report.pdf
+FSC (1996): FSC International Standard. FSC Principles and
+Criteria for Forest Stewardship. FSC-STD-01-001 EN (ver-
+
+277
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+sion 4-0). Bonn, Forest Stewardship Council: 13. Available
+at: https://open.fsc.org/items/30d33ec2-c6e4-4404-a8c14a6c941b1714
+FSC (2024): The FSC Forest Stewardship Standard for the
+Czech Republic. FSC-STD-CZE-02-2024 EN. Bonn, Forest Stewardship Council: 113. Available at: https://open.
+fsc.org/server/api/core/bitstreams/42e21075-4979-40298880-f1b773943327/content
+Gómez-Baggethun E. (2022): Is there a future for indigenous and local knowledge? The Journal of Peasant Studies, 49: 1139–1157.
+Guegan J.F., de Thoisy B., Gomez-Gallego M., Jactel H. (2023):
+World forests, global change, and emerging pests and
+pathogens. Current Opinion in Environmental Sustainability, 61: 101266.
+Hallberg-Sramek I., Nordström E.M., Priebe J., Reimerson E.,
+Mårald E., Nordin A. (2023): Combining scientific and local
+knowledge improves evaluating future scenarios of forest
+ecosystem services. Ecosystem Services, 60: 101512.
+Heilmayr R., Echeverría C., Lambin E.F. (2020): Impacts
+of Chilean forest subsidies on forest cover, carbon and
+biodiversity. Nature Sustainability, 3: 701–709.
+Innes J.L. (2016): Sustainable forest management: From
+concept to practice. In: Innes J.L. (ed.): Sustainable Forest
+Management. London, Routledge: 21–52.
+IPCC (2022): Climate change 2022: Impacts, adaptation and vulnerability. In: Pörtner H.Ö., Roberts D.C.,
+Tignor M., Poloczanska E.S., Mintenbeck K., Alegría A., Craig M., Langsdorf S., Löschke S., Möller V.,
+Okem A., Rama B. (eds): Contribution of Working
+Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change. Cambridge, Cambridge University Press: 3056.
+Jaryan V., Uniyal S.K., Gopichand Singh R.D., Lal B., Kumar A., Sharma V. (2010): Role of traditional conservation
+practice: Highlighting the importance of Shivbari sacred
+grove in biodiversity conservation. The Environmentalist,
+30: 101–110.
+Jhariya M.K., Yadav D.K., Banerjee A., Raj A., Meena R.S.
+(2019): Sustainable forestry under changing climate.
+In: Jhariya M., Banerjee A., Meena R., Yadav D. (eds):
+Sustainable Agriculture, Forest, and Environmental Management. Singapore, Springer: 285–326.
+Kakiso T. (2023): Endangered indigenous knowledge:
+Assessing locally adopted tree conservation practices
+in Aleta Wondo district, Sidama regional state, Ethiopia.
+Heliyon, 9: e15401.
+Kok M.T., Kok K., Peterson G.D., Hill R., Agard J., Carpenter S.R. (2017): Biodiversity and ecosystem services require
+IPBES to take novel approach to scenarios. Sustainability
+Science, 12: 177–181.
+
+278
+
+Krause T. (2019): Why indigenous hunting is essential to forest sustainability. The Revelator. Available at: https://
+therevelator.org/indigenous-hunting-forest-sustainability/
+Laakkonen A., Hujala T., Pykäläinen J. (2019): Integrating
+intangible resources enables creating new types of forest
+services-developing forest leasing value network in Finland. Forest Policy and Economics, 99: 157–168.
+Lazdinis M., Angelstam P., Pülzl H. (2019): Towards sustainable forest management in the European Union through
+polycentric forest governance and an integrated landscape
+approach. Landscape Ecology, 34: 1737–1749.
+Löfmarck E., Lidskog R. (2017): Bumping against the boundary: IPBES and the knowledge divide. Environmental Science and Policy, 69: 22–28.
+Ludwig D., El-Hani C.N. (2020): Philosophy of ethnobiology:
+Understanding knowledge integration and its limitations.
+Journal of Ethnobiology, 40: 3–20.
+MacFarlane D.W., Kinzer A.T., Banks J.E. (2015): Coupled human-natural regeneration of indigenous coastal dry forest
+in Kenya. Forest Ecology and Management, 354: 149–159.
+Makondo C.C., Thomas D.S. (2018): Climate change adaptation: Linking indigenous knowledge with western science for effective adaptation. Environmental Science and
+Policy, 88: 83–91.
+Mansourian S., Parrotta J., Balaji P., Bellwood-Howard I.,
+Bhasme S., Bixler R.P., Boedhihartono A.K., Carmenta R.,
+Jedd T., de Jong W., Lake F.K., Latawiec A., Lippe M.,
+Rai N.D., Sayer J., Van Dexter K., Vira B., VisserenHamakers I., Wyborn C., Yang A. (2020): Putting the
+pieces together: Integration for forest landscape restoration implementation. Land Degradation and Development, 31: 419–429.
+Marshall A., Bartlett C. (2004): Two-Eyed Seeing for Environmental Sustainability. Sydney, Integrative Science: 85.
+Mavhura E., Mushure S. (2019): Forest and wildlife resourceconservation efforts based on indigenous knowledge:
+The case of Nharira community in Chikomba district,
+Zimbabwe. Forest Policy and Economics, 105: 83–90.
+McKeon M. (2012): Two-eyed seeing into environmental education: Revealing its 'natural' readiness to indigenize. Canadian Journal of Environmental Education, 17: 131–147.
+Messerschmidt D.A. (2019): Conservation and society in Nepal: Traditional forest management and innovative development. In: Little P.D., Horowitz M., Nyerges A.E. (eds):
+Lands at Risk in the Third World: Local-Level Perspectives.
+New York, Routledge: 373–397.
+Moloise S.D., Matamanda A.R., Bhanye J.I. (2024): Traditional
+ecological knowledge and practices for ecosystem conservation and management: The case of savanna ecosystem
+services in Limpopo, South Africa. International Journal
+of Sustainable Development and World Ecology, 31: 29–42.
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+
+Review
+
+https://doi.org/10.17221/20/2024-JFS
+Mullen J.L.L. (2022): The (in)ability to develop indigenous
+protected and conserved areas in Canada: A literature review. [MSc. Thesis.] Saskatoon, University of Saskatchewan.
+Available at: https://harvest.usask.ca/server/api/core/bitstreams/dd2713c7-5565-4f4e-afba-affaf01839dc/content
+Muriithi J.K. (2022): Role of conservancy-based tourism in the management of natural ecosystem services
+in the Maasai Mara, Kenya. In: Gowreesunkar V.G.B.,
+Maingi S.W., Mogambi Ming'ate F.L. (eds): Management of Tourism Ecosystem Services in a Post Pandemic Context. London, Routledge: 11–29. Available at:
+https://www.taylorfrancis.com/books/mono/10.4324/
+b23145/management-tourism-ecosystem-services-postpandemic-context?refId=1c2754cf-2d50-4cae-af1fba1cf3bf0d84&context=ubx
+Olowo S.F., Omotayo A.O., Lawal I.O., Ndhlovu P.T.,
+Aremu A.O. (2022): Ethnobotanical use-pattern for
+indigenous fruits and vegetables among selected communities in Ondo State, Nigeria. South African Journal
+of Botany, 145: 501–511.
+Osei-Tutu P. (2017): Taboos as informal institutions of local
+resource management in Ghana: Why they are complied
+with or not. Forest Policy and Economics, 85: 114–123.
+Pattiselanno F., Yohana D.A., Arobaya S. (2011): Subsistence
+indigenous hunting in Papua: Does it sustainable? Media
+Konservasi, 16: 95–100. Available at: https://core.ac.uk/
+download/pdf/297827655.pdf
+Rakatama A., Pandit R. (2020): Reviewing social forestry
+schemes in Indonesia: Opportunities and challenges. Forest
+Policy and Economics, 111: 102052.
+Recio E., Hestad D. (2022): Indigenous Peoples: Defending
+an Environment for All. Earth Negotiations Bulletin, Policy
+Brief: 10. Winnipeg, International Institute for Sustainable
+Development: 10. Available at: https://www.iisd.org/articles/
+deep-dive/indigenous-peoples-defending-environment-all
+Richmond E.S. (2021): Engaging ecological narratives: An inquiry into place-based knowledge and disaster risk reduction in Gozo, Malta. [BA Thesis.] Portland, Portland State
+University. Available at: https://pdxscholar.library.pdx.edu/
+honorstheses/1045/
+Robinson J.M., Breed A.C., Camargo A., Redvers N.,
+Breed M.F. (2024): Biodiversity and human health: A scoping review and examples of underrepresented linkages.
+Environmental Research, 246: 118115.
+Schabus N. (2017): Traditional knowledge. In: Morgera E.,
+Razzaque J. (eds): Biodiversity and Nature Protection Law.
+Cheltenham, Edwards Elgar Publishing: 264–279.
+Secretariat of the Convention on Biological Diversity (2004):
+Akwé: Kon Voluntary Guidelines for the Conduct of Cultural, Environmental and Social Impact Assessment Regarding Developments Proposed to Take Place on, or which
+
+are Likely to Impact on, Sacred Sites and on Lands and
+Waters Traditionally Occupied or Used by Indigenous
+and Local Communities. Montreal, Secretariat of the
+Convention on Biological Diversity: 25.
+Shrestha S., Medley K.E. (2017): Integrating ecological
+and ethnobotanical knowledge to promote collaborative
+conservation planning in the Nepal Himalaya. Mountain
+Research and Development, 37: 97–107.
+Sinthumule N.I., Mashau M.L. (2020): Traditional ecological
+knowledge and practices for forest conservation in Thathe
+Vondo in Limpopo Province, South Africa. Global Ecology
+and Conservation, 22: e00910.
+Soe K.T., Yeo-Chang Y. (2019): Perceptions of forest-dependent communities toward participation in forest conservation: A case study in Bago Yoma, south-central Myanmar.
+Forest Policy and Economics, 100: 129–141.
+Tamene S., Negash M., Makonda F.B., Chiwona-Karltun L.,
+Kibret K.S. (2023): Ethnobotanical study on medicinal
+plant knowledge among three ethnic groups in peri-urban
+areas of south-central Ethiopia. Journal of Ethnobiology
+and Ethnomedicine, 19: 55.
+Tauli-Corpuz V., Alcorn J., Molnar A., Healy C., Barrow E.
+(2020): Cornered by PAs: Adopting rights-based approaches to enable cost-effective conservation and climate
+action. World Development, 130: 104923.
+Tiu S.A. (2007): The role of indigenous knowledge in biodiversity conservation: Implications for conservation
+education in Papua New Guinea. [Ph.D. Thesis.] Hamilton,
+The University of Waikato.
+Tong X., Brandt M., Yue Y., Ciais P., Rudbeck Jepsen M.,
+Penuelas J., Wigneron J.P., Xiao X., Song X.P., Horion S.,
+Rasmussen K., Saatchi S., Fan L., Wang K., Zhang B.,
+Chen Z., Wang Y., Li X., Fensholt R. (2020): Forest management in southern China generates short term extensive
+carbon sequestration. Nature Communications, 11: 129.
+UNDP (2015): UNDP and Indigenous Peoples: A Policy
+of Engagement. New York, United Nations Development
+Programme: 12. Available at: https://www.undp.org/
+sites/g/files/zskgke326/files/publications/UNDP_Policy_
+of_Engagement_with_Indigenous_Peoples.pdf
+UNDP (2021): Nashulai Maasai Conservancy, Republic
+of Kenya. Equator Initiative Case Study Series. New York,
+United Nations Development Programme: 12. Available at: https://www.equatorinitiative.org/wp-content/
+uploads/2021/12/Nashulai-Case-Study-English-FNL.pdf
+UNDRIP (2007): United Nations Declaration on the Rights
+of Indigenous Peoples: Resolution Adopted by the
+General Assembly on 13 September 2007. New York,
+United Nations: 30. Available at: https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/
+sites/19/2018/11/UNDRIP_E_web.pdf
+
+279
+
+Review
+
+Journal of Forest Science, 70, 2024 (6): 265–280
+https://doi.org/10.17221/20/2024-JFS
+
+UNESCO (2018): UNESCO Policy on Engaging with Indigenous Peoples. Paris, United Nations Educational, Scientific and Cultural Organization: 37. Available at: https://
+unesdoc.unesco.org/ark:/48223/pf0000262748
+Van Kooten G.C., Nijnik M., Bradford K. (2019): Can carbon
+accounting promote economic development in forestdependent, indigenous communities? Forest Policy and
+Economics, 100: 68–74.
+Verkerk P.J., Costanza R., Hetemäki L., Kubiszewski I.,
+Leskinen P., Nabuurs G.J., Potočnik J., Palahí M. (2020):
+Climate-smart forestry: The missing link. Forest Policy
+and Economics, 115: 102164.
+Verkerk P.J., Delacote P., Hurmekoski E., Kunttu J., Matthews R., Mäkipää R., Mosley F., Perugini L., Reyer C.P.O.,
+
+Roe S., Trømborg E. (2022): Forest-based climate change
+mitigation and adaptation in Europe. From Science
+to Policy 14. Yliopistokatu, European Forest Institute: 77.
+Available at: http://hdl.handle.net/10138/351975
+Wangchuk J., Choden K., Sears R.R., Baral H., Yoezer D.,
+Tamang K.T.D., Choden T., Wangdi N., Dorji S., Dukpa D., Tshering K., Thinley C., Dhendup T. (2021):
+Community perception of ecosystem services from
+commercially managed forests in Bhutan. Ecosystem
+Services, 50: 101335.
+Wright A.L., Gabel C., Ballantyne M., Jack S.M., Wahoush O.
+(2019): Using two-eyed seeing in research with indigenous
+people: An integrative review. International Journal
+of Qualitative Methods, 18: 1609406919869695.
+Received: March 1, 2024
+Accepted: April 15, 2024
+Published online: June 12, 2024
+
+280
+
+

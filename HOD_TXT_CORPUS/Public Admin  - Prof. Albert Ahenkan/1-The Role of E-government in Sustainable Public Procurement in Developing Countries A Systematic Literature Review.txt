@@ -1,0 +1,2039 @@
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+Contents lists available at ScienceDirect
+
+Resources, Conservation & Recycling
+journal homepage: www.elsevier.com/locate/resconrec
+
+Full length article
+
+The role of e-government in sustainable public procurement in developing
+countries: A systematic literature review
+
+T
+
+Peter Adjei-Bamfo , Theophilus Maloreh-Nyamekye, Albert Ahenkan
+⁎
+
+Department of Public Administration and Health Services Management, University of Ghana Business School, P.O. Box LG. 78, Legon, Accra, Ghana
+
+ARTICLE INFO
+
+ABSTRACT
+
+Keywords:
+e-Government
+Public sector e-procurement
+Sustainable public procurement
+Sustainable development
+Developing countries
+Systematic literature review
+
+Despite their relatively lower national income, studies suggest that developing countries have consistently advanced their e-government structures. However, there is little knowledge on how governments’ deployment of
+electronic and internet technologies may be leveraged to stimulate sustainable supply chain management,
+particularly Sustainable Public Procurement (SPP) practices. From a Systematic Literature Review (SLR), this
+paper affirms such allusions by scholars and reports that government deployment of electronic and internet tools
+indeed promotes SPP towards the bigger agenda of sustainable development (SDG 12.7). In this paper, 68 articles of heterogeneous research methods published in peer-review journals since 2001–2017 are systematically
+reviewed. This paper concludes that efforts in building a robust ICT infrastructure, online portals, and human
+capacity to use ICT offer developing countries inter alia an informative platform for sharing and communicating
+SPP requirements. E-government also facilitates a wider sample for market readiness assessment and an integrated e-procurement system towards effective SPP monitoring and evaluation. This study has significant
+implications for promoting sustainability in the downstream supply chain practices in public sector organizations in the developing country context.
+
+1. Introduction
+“…meeting multi-faceted sustainability challenges, governments are
+… increasingly using open data and data analytics to improve accuracy in forecasting citizens’ demand of public utilities or to screen
+for irregularities in public procurement to lower its risks” [United
+Nations Department of Economic and Social Affairs (UNDESA),
+2014, p. 14].
+As part of global efforts to promote sustainable development, public
+procurement practices are being reviewed in line with the United
+Nations sustainable development outcomes such as promoting social
+justice, environmental sustainability and minimising economic inequalities. Particularly in the case of business production and consumption behaviours, governments use public procurement policy to
+ensure that operations of suppliers are environmentally and socially
+friendly whilst promoting sound economic wellbeing (Kusi-Sarpong and
+Sarkis, 2017). This is enforced through national Sustainable Public
+Procurement (SPP) policies and strategies developed in accordance
+with national priorities. Whilst there are some prior studies on the topics, available knowledge appears fragmented.
+Earlier studies (Thai, 2001; World Bank, 2012) emphasize public
+
+⁎
+
+procurement as major economic activities of governments, as it constitutes about 15%–20% of national revenues globally. However, these
+figures range 20%–70% among developing economies (World Bank,
+2012). It is through this that, governments provide for their citizens
+several varieties of public services and goods towards national development. Notwithstanding, most governments often fail to do due diligence in the process leading to inefficiencies and risks such as hash
+environmental and socio-economic impacts (Walker and Brammer,
+2012; Preuss, 2009), corruption (Myint, 2000; Lio et al., 2011) and
+legal losses. These irregularities culminate to loss of value to the citizens and impede national development. Hence, the numerous reforms
+observed in government purchasing practice globally.
+Contemporary public procurement is used as a tool for promoting
+the quality of public service, good governance and sustainable development (Preuss, 2009; Osei‐Kojo, 2017). International reports including
+that of the World Bank argues “…public procurement reform can contribute directly to improving a country’s business, investment, and social environments” (World Bank, 2012, p. 6). Reports on e-government
+also suggest that information and communication technology (ICT) may
+be used to forecast demand for public utilities and to control irregularities, risks, and challenges involved in the process (United Nations
+Department of Economic and Social Affairs (UNDESA), 2014). Hence,
+
+Corresponding author.
+E-mail addresses: bamfopeter@gmail.com (P. Adjei-Bamfo), tmnyamekye@ug.edu.gh (T. Maloreh-Nyamekye), aahenkan@ug.edu.gh (A. Ahenkan).
+
+https://doi.org/10.1016/j.resconrec.2018.12.001
+Received 8 May 2018; Received in revised form 29 November 2018; Accepted 3 December 2018
+Available online 11 December 2018
+0921-3449/ © 2018 Elsevier B.V. All rights reserved.
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+the main research question:
+
+reforms in emerging economies. Specifically, e-government may help to
+control public procurement risks, irregularities, and to promote favourable environmental and social outcomes termed sustainable public
+procurement (United Nations Department of Economic and Social
+Affairs (UNDESA), 2014).
+
+RQ 1. What role has e-government in promoting sustainable
+procurement in the public sector of developing countries?
+Governments’ use of ICT and the integration of environmental and
+socio-economic criteria into procurement practices continue to attract
+attention in the literature (Walker and Brammer, 2012; Hall and
+Purchase, 2006; Shakya, 2012; Preuss, 2009). For instance, Walker and
+Brammer (2012) argue that both practices have a tendency of promoting sustainable development, which has manifested in Switzerland
+and the United Kingdom (UK) among other developed regions (see also
+Kopp, 2011). However, there is a paucity of knowledge on how ICT
+facilitates sustainable purchasing and Supply Chain Management (SCM)
+practices in public sector organizations, particularly, from the developing country context (see Kusi-Sarpong and Sarkis, 2017; Walker and
+Brammer, 2012; Bai et al., 2017; Walker et al., 2012). This study contributes to the Virtual Special Issue on sustainable supply chains and
+emerging economies published in Resources, Conservation and Recycling.
+Filtering from the overarching research question, this paper addresses
+two other sub-questions:
+
+2.2. Sustainable public procurement (SPP)
+Since the launch of the global 10-year framework for action on
+sustainable consumption and production by the Johannesburg implementation plan in 2002, there has been clarion calls to consider
+long-term economic, social and environmental impacts of governments’
+procurement practices (Preuss, 2009; Walker and Brammer, 2012).
+These calls, which seek to promote public procurement practices that
+are sustainable also emphasizes the world’s effort to achieving goal 12
+and target 7 of the Sustainable Development Goals (SDGs) of encouraging SPP practices that are consistent with national priorities. SPP
+is defined as “… the act of integrating a concern for broader social and
+environmental impacts within procurement undertaken by government
+or public sector bodies” (Brammer & Walker, 2011, p.455). SPP promotes government procurement that optimizes the welfare of citizens
+and minimises the use of exhaustible resources in general (Witjes and
+Lozano, 2016). The environmental aspect of SPP is sometimes termed
+green procurement (see Ho et al., 2010).
+This practice has become popular in the light of the major adjustments in the global corporate social responsibility (CSR) and supply
+chain debates (Warner and Ryall, 2001; Witjes and Lozano, 2016;
+Preuss, 2009). Lund-Thomsen and Costa (2011, p. 56) claim that while
+most public sector organizations have facilitated private sector engagement in CSR initiatives, they are now themselves examining whether “…they are abiding by socially and environmentally responsible
+purchasing principles in their own supply chains”. This SLR attempts to
+establish the role of e-government in promoting SPP in developing
+countries by examining prior studies.
+
+RQ 2. What are the drivers of SPP in developing countries?
+RQ 3. What is the state of e-government in developing countries?
+Whilst question 2 examines the factors informing the adoption of
+SPP practices, question 3 explore the current state of the e-government
+literature and how its adoption has enhanced sustainable development
+in developing countries. This study argues that government adoption of
+electronic services can contribute significantly to promoting the SPP
+practice. A Systematic Literature Review (SLR) approach is employed to
+answer the above research questions. This study reviews relevant
+journal articles from 2001 to 2017 that focus on developing countries
+towards building an original and larger body of evidence (Rousseau
+et al., 2008; Seuring and Gold, 2012; Seuring et al., 2005).
+The rest of the paper is presented as follows. Constructs of the study
+are foremost defined. The next section outlines the SLR methodology
+used to answer the research questions of this study. A nuanced report
+and the discussion of findings from the exhaustive SLR follows.
+Conclusions and implications for research and practice from the review
+are subsequently discussed. The last section offers directions for future
+research.
+
+3. Material and methods
+3.1. Design
+A systematic literature review approach was adopted to synthesize
+the existing literature to answer the research questions of this study.
+Thus, the study conducts an analysis of prior theoretical and empirical
+evidence drawn from articles published in credible peer-review journals
+(based on Durach et al., 2017; Seuring et al., 2005). Although exhausting, this method is also exhaustive as it provides large evidence on
+a phenomenon across wide settings and empirical methods whilst reducing literature biases (Denyer and Tranfield, 2009; Durach et al.,
+2017).
+
+2. Definition of constructs and terminologies
+2.1. Electronic governance
+Electronic governance aims at improving information and service
+delivery of public sector institutions. E-governance refers to “the use of
+ICTs, and particularly the internet, as a tool to achieve better government” (Organization for Economic Co-operation and Development,
+2003 cited in Bonsón et al., 2012, p. 123). It simply involves the use of
+online or several digital mediums for public services delivery and information sharing to citizens, businesses, and among its agencies. In a
+broader sense, Gartner (2000) defines the e-governance as a “continuous optimization of service delivery, constituency participation,
+and governance by transforming internal and external relationships
+through technology, the internet and new media” (cited in Fang, 2002,
+p. 3). E-governance presents an era of modernity, innovation, and
+flexibility towards efficient and quality public service delivery
+(Dunleavy et al., 2006; Osei‐Kojo, 2017).
+Scholars from both developed and developing economies argue that
+e-governance hones citizen involvement in the decision-making process
+and make governments more transparent, accountable and effective
+while enhancing the quality of service delivery (Boateng, 2013;
+Osei‐Kojo, 2017). Similarly, Basu (2004) and Asogwa (2013) suggest
+that e-government offer momentous opportunities for public sector
+
+3.2. Search method
+From the research questions, researchers were assisted by two institutional librarians to develop six phrases which were also reframed
+into questions and searched in ten popular databases: Oxford Academic,
+Emerald Insight, ScienceDirect, Springer, Sage, Elsevier, Taylor and
+Francis, Wiley Online Library, JSTOR, and Google Scholar. These
+phrases include ‘e-government in developing countries’, ‘e-government
+and sustainable public procurement’, ‘sustainable public procurement
+in developing countries’, ‘e-procurement and public sector in developing countries’, ‘green procurement in developing country’, and ‘egovernment and sustainable development’.
+3.3. Search outcomes
+The initial search generated a total of 614 articles, which were
+further screened using the inclusion criteria in Table 1. The titles and
+190
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+Table 1
+Inclusion criteria for e-government – SPP systematic review.
+Inclusion criteria
+
+Rationale
+
+Articles published from 2001 to 2017
+
+2001 was selected because this was when the UN EGDI was first published. The
+SPP literature also began budding this same year (see Walker and Brammer, 2012).
+Articles published in peer-reviewed journals are of high quality than non-peerreviewed articles.
+The English language dominates the field of purchasing and SCM research. English
+is also the common language of these researchers.
+Developing countries are the unit of analysis. These resource constraint economies
+have high levels of inequalities and vulnerability to climate change. SPP is most
+desired in these regions.
+This aim to gather relevant evidence that reflects the relationships between
+constructs of the framework to facilitate the SLR in gathering evidence on the role
+of e-government in implementing SPP.
+This helps to draw on the relevant themes to establish the link between egovernment and SPP variables.
+The public sector is the unit of analysis of this study.
+This SLR minimises literature biases by synthesising various studies of different
+methods.
+
+Published in peer-reviewed journals
+Publications in the English language
+Focus on developing countries based on UN (2017) classificationa. But also consider articles
+that compare evidence from developing countries with those from developed countries.
+E-government articles that discuss areas e-procurement and human capacity, legal and
+telecommunication infrastructure issues related to the use of government online and eservices. E-government articles with social and green focus are also selected.
+SPP articles should discuss economic, green or social procurement issues and/or ICT.
+Public sector sustainable procurement and e-procurement practice
+Consider articles of different methods: empirical (qualitative and quantitative), theoretical,
+among others
+a
+
+United Nations (2017). World Economic Situation and Prospects 2017. ISBN: 978-92-1-109175-5.
+
+context/setting, and journal of the articles (see Appendix A). The forms
+were developed in excel to ease the analysis of data and the production
+of results presented in figures and tables.
+3.6. Synthesis
+The analysis keenly centered on e-government as a tool for enhancing SPP in developing countries and how e-government could facilitate
+enforcement and compliance with SPP in these resource constraint
+economies. Hence, e-government is conceptualized into three independent variables based on the United Nations E-Government
+Development Index (EGDI): government online services (OSI), national
+telecommunication infrastructure (TII), and human capacity to use ICT
+(HCI) (United Nations Department of Economic and Social Affairs
+(UNDESA), 2014) along the Marrakech Task Force (MTF) framework
+for implementing SPP (see Fig. 2).
+Emerging themes from the 68 studies of heterogeneous methods and
+of different national focus were independently identified by two researchers and integrated to enhance the evidence base of this review
+(Rousseau et al., 2008).
+
+Fig. 1. Flow diagram of the screening process.
+
+abstracts were initially screened for relevance. Duplicate articles were
+subsequently deleted. Full text of the remaining articles was screened to
+ensure that each of the synthesis sample meets all the inclusion criteria.
+A total of 68 relevant articles were finally reviewed (see Fig. 1).
+
+4. Descriptive analysis of the E-government and SPP literature
+4.1. Publication year
+
+3.4. Validity and inclusion criteria
+
+The SLR reveals that there are more studies on e-government from
+developing countries than SPP. Although e-government practice in
+
+To enhance validity, reliability, robustness and minimise biases in
+this study, synthesized articles were searched, selected and analysed
+based on Durach et al. (2017). Inclusion criteria in Table 1 was used to
+select the synthesis sample. Data from selected articles were triangulated with each other and then with articles from other sources (Yin,
+2003): published peer-reviewed articles, unpublished articles and institutional publications comprising policy documents and evaluation
+reports relevant to the study.
+3.5. Data extraction
+Two researchers independently extracted data from the synthesis
+sample using standardized data extraction forms based on Durach et al.
+(2017) and Tranfield et al. (2003) for purposes of consistency. The
+forms captured of basic characteristics: specific and general information
+from the synthesis sample for coding. Whilst the general information
+comprised title, publication date, and author (s) details, the specific
+information covered research objectives and findings, the method used,
+
+Fig. 2. A conceptual framework of the role of E-Government for SPP.
+Source: Adapted from United Nations Environmental Programme (UNEP)
+(2011, p. 51) and United Nations Department of Economic and Social Affairs
+(UNDESA) (2014, p. 14)
+191
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+Fig. 3. Publication year of synthesized articles based on focus.from 2001 to 2017.
+
+developing countries gained scholarly attention in 2003, this attention
+has increased significantly since 2008 (see Fig. 3). However, very few of
+these studies focus specifically on e-procurement. Fig. 3 shows that SPP
+and e-procurement are not frequently studied. The review further indicates that no article from the developing country context has examined the role of e-government in promoting SPP. Only Walker and
+Brammer (2012) from the developed country context explore this relationship.
+4.2. Research methods
+Fig. 5. Proportion of methods used for SPP literature on DCs.2001–2017.
+
+Regarding research methodology, about 39% of the synthesized
+articles used the conceptual approach (see Figs. 4 and 5). This is informed by the large number of descriptive, theoretical, and review
+studies on the complexities of e-government adoption, prospects, success factors and challenges in developing countries (see Alshawi and
+Alalwany, 2009; Basu, 2004; Gao et al., 2013; Elsheikh et al., 2008;
+Zarei et al., 2008). Fig. 4 shows that about 12% of these studies adopted
+qualitative case studies and 29% used quantitative surveys to analyse
+public officials and citizens’ perceptions and intentions to use e-government services. Whilst other 15% relied on the strength of both
+methods, about 5% of the e-government studies employed the content
+analysis approach to analyse the quality of government websites. In the
+case of SPP, however, over 60% of the articles used the qualitative and
+quantitative approaches mostly in the form of case studies whilst 30%
+employed the conceptual approach (see Fig. 5).
+
+theories and frameworks originating from different disciplines. Some of
+such theories include the rent-seeking framework (Schwerin and Prier,
+2013), unified theory of acceptance and use of technology (UTAUT)
+model (Ahmad et al., 2013), technology acceptance model and principal-agent theory (Neupane et al., 2012a;b), theory of planned behaviour (Waheduzzaman and Miah, 2015; Aboelmaged, 2010), and the
+inducement contribution theory (Neupane et al., 2014a,b) among
+others. This implies that no particular set of theories can conclusively
+explain the intricate, dynamic and multi-disciplinary nature of purchasing and SCM in the private and public sectors. According to Durach
+et al. (2017), this situation, however, poses a major challenge to
+knowledge development in the field as different theoretical lenses influence interpretation of findings of a phenomenon.
+
+4.3. Theoretical foundation
+
+4.4. Journals of the synthesis sample
+Forty-two journals mainly from the fields of information systems
+(IS), public administration and SCM published the 68 articles. Whilst 34
+journals published the e-government articles, eight published the SPP
+articles. Of the 68 articles, ten journals published more than one article.
+Transforming Government: People, Process and Policy published majority
+(9) of the e-government articles and Government Information Quarterly
+published eight articles. Both journals account for about 30% of the egovernment publications. Journal of Purchasing and Supply Management
+and Journal of Environmental Management also published about 40% of
+the reviewed SPP articles (see Figs. 6 and 7).
+
+Explaining their findings, the synthesized studies employed various
+
+4.5. Geographic focus
+The SLR reveals that e-government has presence in several developing countries. The reviewed articles highlighted 37 countries from 13
+sub-regions. However, Fig. 8 shows that whilst some of the synthesis
+sample focused on specific developing countries within a sub-region,
+
+Fig. 4. Proportion of methods used for E-Gov’t literature on DCs.2001–2017.
+192
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+Fig. 6. Statistics of journal publication on E-Gov’t in DCs.
+
+others compared e-government services or SPP practices within and
+across regions. Asian countries like China, India and Malaysia recorded
+the majority (70%) of SPP articles followed by Brazil and South Africa
+in Southern America and Africa respectively. In the case of e-government, countries from the Middle East and South Asia tops the list accounting for about 34% of e-government articles.
+
+5. Content analysis of the e-government and SPP literature
+Using the constructivist and interpretivist techniques, the thematic
+content analysis of the synthesis sample included in the portfolio focused on the state of e-government adoption and the SPP practice in
+developing countries, the nature of e-procurement service used in the
+public sector and the role of e-government in mainstreaming the SPP
+practice in developing countries.
+
+4.6. Level and unit of analysis
+
+5.1. The state of e-government in developing countries
+
+Table 2 shows that these articles also analysed the adoption of these
+digital services and sustainability practices at various levels: international, national, central and local government levels with diverse units
+of analysis. However, the synthesis sample largely concentrated on the
+national and central government levels accounting for 81% of the total
+articles. They mostly analysed the responses of public officials (34%)
+from the selected central government agencies and across the country.
+30% of the articles also analysed policies and practices with other 32%
+examining citizens’ and suppliers’ perception and willingness to conform to these practices. Only 4% analysed websites. However, nine out
+of the 68 article had multiple units of analysis.
+
+The SLR affirms United Nations Department of Economic and Social
+Affairs (UNDESA), (2014) that despite the relatively lower national
+income, some developing countries have seen the digital era as a
+window of opportunity in pursuit of a service-sector driven economy
+(see Fig. 9). The review suggests that e-government has proven potent
+in improving public services in developing countries (Asogwa, 2013;
+Bwalya and Mutula, 2016; Lim & Tang, 2008; Osei‐Kojo, 2017; Nkwe,
+2012). Digitization of public services has undeniably enhanced governments’ interaction with its stakeholders through numerous mediums: Government-to-Citizen (G2C), Government-to-Employee (G2E),
+
+Fig. 7. Statistics of journal publication on SPP in DCs.
+193
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+Fig. 8. Cross-tab analysis between focus and region of synthesis sample.from 2001 to 2017.
+
+Government-to-Business (G2B), Government-to-Non-Profit (G2N), and
+Government-to-Government (G2G) (Basu, 2004; Ray and Mukherjee,
+2007; Zarei and Ghapanchi, 2008).
+The review also indicates that these forms of interaction have informed various types of system applications ranging e-health (Ray and
+Mukherjee, 2007), e-procurement (Neupane et al., 2014a,b;
+Gunasekarana and Ngai, 2008), e-education and e-library (Mutula and
+Mostert, 2010), e-parliament, e-justice, e-immigration and e-policing
+(Zhou, 2004) inter alia. Among these systems, e-procurement was noted
+as exceptional Government-to-Business (G2B) platform for improving
+effectiveness, transparency, and accountability in contracting and procurement processes (Neupane et al., 2012a,b; Vaidya et al., 2006).
+
+technology responds to the inefficiencies associated with the manual
+process of supply chain and procurement management such as delays,
+lack of transparency and corruption (Myint, 2000; Lio et al., 2011;
+Neupane et al., 2014a,b).
+5.3. E-government and e-procurement benefits
+Analysis of the themes reveals that government’s use of ICT in
+public service delivery increases efficiency, reduces cost of operation
+(Asogwa, 2013), enhances accountability and transparency (Basu,
+2004), provides adequate information and reduces corruption (Myint,
+2000; Lio et al., 2011; Shakya, 2012; Neupane et al., 2014a,b). Digital
+services also enhance access to services and customer satisfaction
+(Bwalya and Mutula, 2016; Osei‐Kojo, 2017).
+
+5.2. Public sector e-procurement
+
+5.3.1. Service quality and customer satisfaction
+ICT used for public service delivery promote service quality and
+customer satisfaction (Sharma et al., 2015; Osei‐Kojo, 2017). Osei‐Kojo,
+(2017)found in his analysis of interview responses gathered from selected public sector organizations in Ghana that e-government has
+significantly reduced the time and procedures involved in clearing
+goods from the port and aviation among other sectors. In Pakistan,
+Ahmad et al (2013) also explore factors that influence citizens’ use of eservices. From an online survey of 115 responses, a statistical descriptive analysis using the UTAUT model found that effort expectancy,
+performance expectancy, and social influence inform citizens’ willingness to use e-government services.
+
+From the SLR, specific studies on public e-procurement from developing countries were largely published in Transforming Government:
+People, Process and Policy and other IS and public administration journals than active journals in the purchasing and SCM field such as
+Journal of Public Procurement and Journal of Purchasing and Supply
+Management. This implies that public sector e-procurement practices in
+developing countries are yet to gain the attention of core SCM scholars.
+Vaidya et al. (2006) for instance, define electronic procurement as a
+procurement act that relies on internet-based technologies that integrate and automate the acquisition process from upstream suppliers
+in the supply chain. In the public sector, however, it is the “…end-toend digitization of public procurement processes, from the sourcing
+phase (pre-award: before the supplier is selected) to the purchases
+phase (post-award: after the supplier is selected)” (Cattaneo, 2012, p.
+2). It involves governments’ use of electronic processing when tendering public work or acquiring goods and services. E-procurement
+involves e-auction, e-tendering, e-catalog, e-ordering and electronic
+invoicing among others (Rotchanakitumnuai, 2013; Vaidya et al.,
+2006). According to Neupane et al., 2012a,b, e-procurement improves
+efficiency, quality, and transparency in government procurement. The
+
+5.3.2. Transparency in public procurement
+The use of e-procurement in the public sector improves transparency and openness in public procurement (Basu, 2004; Neupane et al.,
+2014a,b; Rotchanakitumnuai, 2013). With this system, there is increased spend visibility. Adequate information regarding public procurement such as tender adverts, evaluation and selection results are
+available to stakeholders. Such visibility and openness enhance
+
+Table 2
+Frequency of level and unit of analysis.
+Level
+
+Frequency
+
+Percentage
+
+Unit
+
+Frequency
+
+Percentage
+
+International
+National
+Central government
+Local government
+
+8
+27
+28
+5
+
+12
+40
+41
+7
+
+Total
+
+68
+
+100
+
+Public officials/agencies
+Business/suppliers
+Citizens
+Policies & practices
+Websites
+Total
+
+26
+11
+14
+23
+3
+77
+
+34
+14
+18
+30
+4
+100
+
+194
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+Fig. 9. EGDI and National Income (GNI per capita), Lower Middle-Income Countries.
+Source: United Nations Department of Economic and Social Affairs (UNDESA) (2014, p. 20).
+
+Mutula, 2016; Mutula and Mostert, 2010; Ahmad et al., 2013; Sharma
+et al., 2015; Asogwa, 2013; Elsheikh et al., 2008). These frustrate public
+administration. Hence, the curiosity of scholars and practitioners to find
+plausible measures to address obstacles and to promote smooth implementation of e-services.
+Asogwa (2013), for instance, revealed in Nigeria that although egovernment has lowered the cost of administering public services, the
+technology has largely failed to achieve its intended outcome of enhancing public services. According to Alshawi and Alalwany (2009) and
+Nkwe (2012) the situation is due to some critical factors like infrastructural constraints, weak security and privacy management systems,
+lack of collaboration and partnership, resistance to change to e-systems,
+lack of strategic plans and low knowledge about the e-government
+projects (see also Bwalya and Mutula, 2016). Other studies (Aladwani,
+2016) also argue that the excessive corruption in the region stifles administrative systems leading to e-government failure. In Oman,
+Sarrayrih and Sriram (2015) also add that the success of e-government
+is hampered by limited awareness coupled with lack of capacity to use
+available e-services.
+
+accountability in procurement management and deter potential collusion and opportunism by government officials and bidders (Neupane
+et al., 2014a,b).
+5.3.3. Reducing procurement corruption
+Neupane et al., (2014a,b) found that public sector e-procurement
+removes the human interaction in administering public procurement,
+which often would serve as the basis for corruption in Nepal. Through
+the internet, prospective tenderers are able to access all terms and
+conditions including deadlines and application procedures without
+physically contacting procurement entities. According to Gunasekarana
+and Ngai (2008) and Bhuiyan (2011), these e-services reduce personal
+interaction with public entities and make it impossible to offer bribes to
+both procurement and evaluation officers prior to evaluation and selection processes.
+5.3.4. Reduced transaction cost
+E-government and e-procurement reduce transaction cost often incurred in the procurement process (Asogwa, 2013). E-procurement
+saves huge government budget which was previously used to advertise
+calls for participation and tenders in print media including other
+mediums like the television and radio platforms (Asogwa, 2013; Basu,
+2004).
+
+5.5. E-Government readiness and maturity models
+To better assess the extent of e-government adoption, some of the
+synthesis sample propose various maturity models (Zarei et al., 2008;
+Sangki, 2017) and success factors (Gunasekarana and Ngai, 2008; Al
+Nagi and Hamdan, 2009; Waheduzzaman and Miah, 2015; Mnjama and
+Wamukoya, 2007) for assessing e-government readiness. Although
+these studies played a major role in developing unique methodologies
+to promote e-government adoption, Zarei et al. (2008) and Basu (2004)
+argue that these models are incomplete, as government provision of eservice cannot solely depend on the number, functionalities and quality
+of online services. Hence, Zarei et al. (2008) proposed a nine-stage
+model consistent with the United Nation’s EGDI for the Iranian context.
+The model extends beyond online services to infrastructural, institutional and socio-cultural elements, which stimulate citizen interaction.
+Similarly, Waheduzzaman and Miah (2015) discuss how important
+social-cultural factors like the capacity to use ICT, trust, social networks
+and the attitudes of public officials administering these e-services affect
+successful outcomes. According to them, these elements play a critical
+role in determining readiness for the new digital governance
+(Waheduzzaman and Miah, 2015).
+
+5.3.5. Increased tender participation
+Information concerning tender advertisement also reaches a wider
+scope including small or local enterprises as well as the global market.
+Information asymmetries are minimised and promote competition by
+eliminating the possibility of discrimination (Shakya, 2012; Ghosh Roy
+and Upadhyay, 2017). Barahona and Elizondo (2014) and Karjalainen
+and Kemppainen (2008) suggest that countries that have properly implemented this system have observed a higher involvement of local
+small-scale enterprises (SMEs) because of the enhanced access to
+market and consequent fall in marketing costs.
+5.4. Implementation challenges
+Notwithstanding the potential benefits of e-government, a significant proportion of the reviewed articles suggest that e-government
+adoption is affected by infrastructural challenges, unfavorable user-interface and high cost of internet user fee among others (see Bwalya and
+195
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+and the social objectives of public procurement. For example, in his
+article titled “Using public procurement to achieve social outcomes”,
+McCrudden (2004) maps the history and the present use of public
+procurement for social purposes. With examples drawn from both developed and the developing countries, he identify human rights, ethnic,
+racial and gender equality as the main social outcomes promoted by
+public procurement. In addition, Mansi (2015) suggests that through
+SPP, governments respond to matters of waste reduction, efficient use
+of renewable resources, competition and effective participation of
+SMEs. Although the global SPP literature suggests several positive impacts, prior studies have largely focused on developed countries
+(Walker and Brammer, 2012), while studies with specific focus on developing country context appear limited (Geng and Doberstein, 2008;
+Lund-Thomsen and Costa, 2011; Schwerin and Prier, 2013). More empirical testing of postulated impacts of SPP in the developing country
+contexts is recommended.
+
+Fig. 10. Cross-tab analysis between research focus and issue of orientation.
+
+5.6. Issues of orientation
+Therefore, based on the conceptual framework proposed by this
+study, the synthesis sample was assessed for their orientation to issues
+of social, environmental, human capacity, telecommunication and legal
+infrastructure and online services. About 24% majority of the articles
+concentrated on government online services (OSI) whilst 22% and 19%
+focused on telecommunication infrastructure (TII) and human capacity
+(HCI) issues respectively (see Fig. 10). 82% of the SPP articles were
+limited to environmental issues and the rest on social issues (see Jones,
+2011). Among the e-government articles, only 2.7% explored environmental issues whilst 15% were oriented at social issues.
+Although the review suggests that investment in ICT infrastructure
+in developing countries has increased in recent years leading to several
+government websites and online services, Bwalya and Mutula (2016)
+observe that most government websites in Botswana neither are integrated nor allow interaction with citizens. Nurmandi and Kim (2015)
+also explore the implementation of e-procurement in local government
+administration in Indonesia. With a mixed method approach, their
+study argues that human resource is a critical factor that determines the
+performance of e-procurement in three cities of Indonesia (Nurmandi
+and Kim, 2015).
+This SLR also indicate that e-government growth has helped to
+address some other social issues like corruption and increased stakeholder participation in public policy processes (Gao et al., 2013;
+Waheduzzaman and Miah, 2015). The synthesis sample highlights how
+some socio-cultural factors affect e-government implementation.
+However, only Lim and Tang (2007) and Soni et al. (2017) assessed
+how e-government influence environmental management practices.
+Thus, Lim and Tang (2008) employ the content analysis approach to
+examine the impact of e-government on the perceived performance of
+environmental decision-making. They found that IT leadership of senior
+management, decision intelligence, website quality and speed are key
+factors that engender performance in environmental decision-making
+(Lim & Tang, 2008). Soni et al. (2017) therefore used the Grey System
+Theory to recommend that e-government should also be extended to the
+climate change and environmental sectors.
+
+5.8. SPP drivers in developing countries
+In the developing country context, Geng and Doberstein (2008) and
+Zhu et al. (2013) investigate green public procurement (GPP) practices.
+Whilst Geng and Doberstein (2008) found that reforming environmental laws and training suppliers helps to build capacity to produce
+and supply green products and services, Zhu et al (2013) underscore
+regulations, rewards and stakeholder pressure as drivers for SPP
+adoption. Although GPP laws are available in South Africa, they are
+limited and scattered in stand-alone documents (Agyepong and Nhamo,
+2017). McMurray et al. (2014) also examine the extent of SPP practices
+amongst procurement managers in the public and private sectors of
+Malaysia. Combining the focus group discussion method with a survey
+of procurement directors from public and private organizations,
+McMurray et al. (2014) found a wide variation of SPP adoption across
+sectors with the private sector in the lead. Improved working conditions, SPP disclosure, religion and sense of humanity of employees,
+organizational image, organizational efficiency and transparency also
+inform SPP (Mansi, 2015; McMurray et al., 2014).
+In these economies, more weight is however placed on the environmental aspect than social issues in the SPP agenda (Geng and
+Doberstein, 2008; Bai et al., 2017). McCrudden (2004) alludes the situation to lack of standardization of social procurement criteria. For
+example, while the environmental aspect demands that organizations
+assess the environmental effect of goods and services through the whole
+lifecycle in the procurement process (Schwerin and Prier, 2013; Ho
+et al., 2010), SPP also concerns social issues such as creating opportunity for small and local firm and promoting employees’ work and safety
+(Jones, 2011; McMurray et al., 2014). This SLR examines the link between e-government and SPP in developing countries.
+5.9. The role of e-government in promoting SPP
+Despite the numerous studies on e-government in developing
+countries, the review found no study on the role of e-government in
+promoting SPP. Only Walker and Brammer (2012) attempted to explore
+this link but with a survey from 20 developed countries. However, this
+SLR offers evidence on how developing countries may use ICT to bolster
+SPP implementation among resource constraint economies who face a
+high level of inequality and vulnerability to climate change. Thus, while
+the MTF framework serves as an implementation plan for SPP, the EGDI
+of the United Nations Department of Economic and Social Affairs
+(UNDESA), (2014) echoes the strength and weaknesses of e-government
+development in a country (see in Fig. 2).
+
+5.7. The state of SPP in developing countries
+This SLR identified only 10 articles on SPP, the majority of which
+are of environment orientation (commonly known as green procurement) and largely on countries from Asia (see Fig. 8). From this review,
+the term SPP is referred to the act of spending taxpayers’ monies on
+products, services, and events that uphold the tenets of sustainable
+development (Schwerin and Prier, 2013; McMurray et al., 2014).
+Hence, prior studies focused on environmental or green procurement
+
+196
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+5.9.1. Assessing sustainability status in current procurement practice
+From Fig. 2, the MTF framework requires an initial assessment of
+existing sustainability requirements in public procurement along the
+economic, social and environmental dimensions and analysis of market
+readiness. Assessing SPP status helps to identify areas of success and to
+set national priorities for further sustainability procurement prioritizations. Kjöllerström (2008) suggests that providing online assessment tools through government online services (OSI) is essential as part
+of the task force’s operational plan to assist stakeholders with an easy
+start towards a successful assessment. Such online assessment tools may
+include online questionnaires for assessing the presence of the three
+dimensions of sustainability. Therefore, economies with high telecommunication infrastructure (TII) and OSI can make these questionnaires accessible online with access at all levels (Kopp, 2011) and
+sectors of government. This will, however, require improving HCI such
+that procurement officers and other stakeholders of public organizations may understand the SPP assessment.
+According to Asogwa, (2013), employing the e-government tool for
+the assessment and analysis of responses makes the process easy, faster
+and less costly to the government compared to managing printed
+questionnaires. Further, OSI will help increase the sample size of procurement practitioners needed to participate in credible, reliable and
+conclusive findings of the SPP status assessment. Such credible conclusions are therefore essential to inform aspects of national procurement regime and policy review processes.
+Notwithstanding, Bwalya and Mutula (2016) and Nkwe (2012)
+observe that internet access in most developing economies is hampered
+by high user charges. In Zambia for instance, Bwalya and Mutula
+(2016) found that although over 50% of a sample of 408 respondents
+had access to the internet, constraints such as expensive user fees,
+limited ICT infrastructure and absence of native language options
+challenged universal access. The high cost of internet user-fee was also
+established in Batswana as an impediment to the demand for e-government services (Nkwe, 2012). Hence, the need to address these hindrances to ensure success in SPP assessment.
+
+United Nations Environmental Programme (UNEP) (2011) only a few
+developing countries of the Marrakech Task Force for SPP have either
+completed or in the process of completing this stage.
+5.9.3. Analysing market readiness
+After reviewing existing legal documents, the framework requires
+an assessment of the market readiness to respond to demands for SPP
+products and services. Governments can take advantage of the digital
+era by undertaking simulation exercises. This exercise may advertise
+and invite suppliers to tender for common products and services or
+works that contain SPP requirements using OSI and major public procurement websites. In their global survey sampling 280 procurement
+practitioners from 20 countries, Walker and Brammer (2012) argue
+that greater communication between buyers and suppliers regarding
+desired SPP requirement enhances SPP implementation. With a multiple regression, they found a strong relationship between public sector
+use of e-procurement and SPP – particularly with labour health and
+safety and environmental but a weaker link with the participation of
+SMEs who are limited by e-resources (Walker and Brammer, 2012).
+With the traditional paper process, there are often information gaps
+in distributing and sharing procurement information to suppliers. This
+situation leads to information asymmetry, giving rise to public procurement corruption. In addition, information gaps on SPP may thwart
+the tenets of public procurement: competition, transparency, and value
+for money (Neupane et al., 2014a,b). However, public sector organizations can publish tender adverts with SPP requirements across the
+country using e-government tools like a dedicated e-procurement
+website to ensure equal access to procurement information irrespective
+of the geographic location of suppliers.
+A sufficient and affordable TII is necessary for encouraging and
+monitoring the participation of smaller indigenous firms that are not eenabled is crucial (Walker and Brammer, 2012). Understanding how
+indigenous suppliers - both larger and small-scale enterprises respond
+to likely calls for SPP tenders, as well as their ability to meet the present
+and future trends of SPP requirements, will help provide the needed
+support to boost their participation in SPP.
+
+5.9.2. Reviewing procurement regimes
+During the review stage, stakeholders of public procurement including buyers at the various public agencies, suppliers and the legislature are guided by experts to scrutinize and evaluate existing procurement regimes. Here, legal and regulatory frameworks are reviewed
+to determine whether they support and how SPP principles may be
+integrated. This is to establish the extent to which the various existing
+laws describe social and environmental issues which are relevant for
+governments procurement activities. Bonsón et al. (2012) and Fang
+(2002) assert that a universal and robust TII is critical for facilitating
+the review process by collating views and comments from a wide group
+of stakeholders and among government agencies through diverse digital
+platforms, such as social media and institutional websites among other
+interactive systems. The Government-to-Government (G2G) model of egovernment may greatly facilitate this (Ray and Mukherjee, 2007; Zarei
+and Ghapanchi, 2008). Governments of similar procurement sustainability focus may collaborate and share best practices through OSI and
+an improved human capacity to use ICT (HCI), which in the end limits
+unnecessary expenditures that would otherwise be incurred in international travels and capacity building programs.
+This relationship may exist among sovereign states of common trade
+agreements, common foreign policies, or with mutual social and economic agenda. All procurement stakeholders may easily submit their
+inputs for consolidation by a designated authority. According to the
+
+5.9.4. Planning the SPP policy
+An SPP implementation plan is subsequently drafted based on the
+outcome of the first three activities of the framework. This plan provides a mandate and a clear direction for the SPP policy. This stage
+involves harmonization of the respective responsibilities and commitment of politicians, legislatures and other stakeholders like officials of
+public procurement entities, evaluation boards, and standardization
+authorities. In this light, Mansi (2015) and Geng and Doberstein (2008)
+view that SPP presents government with a complex decision-making
+process of developing new metrics for enforcing SPP and assessing the
+impacts of its products and production behaviours of suppliers. This
+often attracts additional administrative cost to the purchaser, which
+explains their resistance (Walker and Brammer, 2012). An SPP policy
+also requires redesigning of business models (Witjes and Lozano, 2016),
+which has implications on value and affects the relationship between
+suppliers and procurers.
+Witjes and Lozano (2016) classify the redesign process into three elements: technological (improved material and energy efficiency and the use
+of renewable resources); social (adopting a stewardship role in service delivery); and organizational (focus on society and environment and maximizing outcomes). The government may however, leverage OSI, TII and
+HCI to control the potential cost of developing and administering these SPP
+metrics (Lim & Tang, 2008; Geng and Doberstein, 2008; Asogwa, 2013).
+
+197
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+For instance, HCI helps stakeholders to synthesize several similar
+policies of other countries with similar market characteristics and also
+receive inputs which are in line with national priorities from citizens.
+An interoperable and integrated system hinged on a strong TII may be
+used to forecast citizens’ demand and provide the relevant data for
+analysing the progress of the SPP implementation. In this vein, Zarei
+et al. (2008) strongly highlighted infrastructural development and stimulation of institutional and citizen interaction inter alia in their ninestage model of e-government proposed for the Iranian context.
+
+resources to respond to SPP tenders through e-procurement
+(Karjalainen and Kemppainen, 2008; Walker and Brammer, 2012).
+With an e-procurement system, all activities pertaining to public
+procurement are integrated and automated. Basu (2004) argues in his
+overview of e-government in developing countries that such integration
+is relevant for collaboration of the wider group of SPP stakeholders and
+government departments to prevent duplication of efforts and to provide the public with G2C and G2B interactive models at a single
+counter. Functions may be completed with minimal time (Vaidya et al.,
+2006), limited personnel interaction with suppliers, and at low cost.
+This reduces procurement corruption (Neupane et al., 2014a,b) and
+promotes transparency and efficiency in the process.
+The automated platform will help communicate standard SPP criteria for common products (Bai et al., 2017), advertise SPP tenders,
+access tender documents, submit bids, receive tenders, evaluate tenders
+base on SPP criteria, announce results and award contracts, and pay
+contractors all via the digital system (Walker and Brammer, 2012).
+Particularly, LCC assessment is easy. The e-procurement system will
+calculate for relevant products and services based on information provided by suppliers (Walker and Brammer, 2012). This ensures that
+products and services of minimal long-term economic cost, low environmental and social impacts are purchased with public funds at low
+risk to suppliers and public sector agencies alike.
+
+5.9.5. Training and sensitization on SPP
+The framework also requires the development of a training programme which ensures that important stakeholders such as policymakers, suppliers and procurement officers are familiar with the implementation of SPP and with the requisite capacity to train others.
+Kopp (2011) emphasizes that e-learning elements can be used to complement face-to-face and written documents in this process. According
+to Walker and Brammer (2012), such tools will ensure equitable distribution of information at all levels either to train public procurement
+decision makers to develop and enforce SPP criteria or sensitize suppliers about desired criteria.
+Some of these e-learning elements may include training resources,
+smart tools for calculating Life-Cycle-Cost (LCC), help menus on government websites and an integrated national e-procurement system
+(Neupane et al., 2014a,b). Although most government websites in developing economies are merely informative and offer low interactive
+features (Boateng, 2013), the high HCI of these economies is the outcome of increased national investments in human capital for ICT and
+high social media presence. It is therefore plausible to suggest that this
+process augment government’s effort of providing formal ICT training
+particularly to its staff and local businesses.
+To facilitate SPP training, relevant information should be provided
+via new media to educate all stakeholders and the public (Fang, 2002).
+Such social media handles may include Facebook, YouTube, WhatsApp,
+Twitter among others. In these economies, however, Nkwe (2012) establish a gap between ICT knowledge and citizens’ acceptance of egovernment services. Davis (1989) explains this situation with the
+‘perceived ease of use’ (PEOU) and ‘perceived usefulness’ (PU) of such
+services. In addition, Bwalya and Mutula (2016) used the Technology
+Acceptance Model (TAM) in Zambia and established that there is lack of
+awareness campaigns to educate users on expected benefits of the respective e-government projects. The social media may mitigate this.
+
+6. Discussion
+This paper has taken stock of the existing literature on e-government and SPP, and how e-government could facilitate the SPP practice.
+Through an SLR, we have analysed the evolution and state of the literature on these topics. In this section, we discuss the findings as per the
+research questions of this study.
+In addressing the first research question, our analysis of prior literature found that e-government may hone the implementation of SPP
+in varied ways, in line with Fig. 2. Based on the evidence presented in
+the descriptive and content analysis, e-government provides online
+assessment tools for examining existing SPP elements as well as determining SPP market readiness (Kjöllerström, 2008). E-government
+makes the SPP readiness assessment process easy, faster and less costly
+to the government (Asogwa, 2013). This SLR also found that e-government infrastructure is critical in reviewing procurement regimes
+towards SPP. The evidence suggests that e-government facilitates the
+review process by collating the views of wider stakeholder groups including government agencies, through diverse digital platforms (Ray
+and Mukherjee, 2007; Bonsón et al., 2012; Fang, 2002). E-government
+also helps policymakers to strategically develop SPP policy. Although
+SPP presents government with a complex decision-making process of
+developing SPP standards, enforcing SPP, and assessing its impacts
+(Mansi, 2015; Geng and Doberstein, 2008), efforts of stakeholders are
+coordinated and made easier with e-government tools. Regarding SPP
+training, e-learning components of e-government systems complement
+face-to-face and printed manuals. Therefore, a fully functioning government e-procurement system is essential to automate and communicate SPP standards for common products (Zarei et al., 2008; Bai et al.,
+2017).
+Regarding the second research question, we explore the drivers of
+SPP in developing countries. The SLR found that although the SPP literature on developing countries only gained scholarly attention since
+the last decade, studies from these economies are still nascent. From the
+available studies, SPP is driven by the presence of effective social and
+environmental laws, SPP training for stakeholders, stakeholder pressure, and rewards and recognition associated with compliance (Geng
+
+5.9.6. Implementing SPP
+Today, most business processes are accomplished with internet or
+digitally enabled intra- and inter-organizational information technology (Zarei et al., 2008; Walker and Brammer, 2012). These processes
+involve building information systems that link suppliers, buyers, manufacturers and other functions of business together to enable organizational value in addition to physical assets. The government through
+its strong TII may acquire an integrated e-procurement system also
+known as Enterprise Resource Plan (ERP) software to implement SPP.
+However, Walker and Brammer (2012) note that government use of the
+e-procurement service in facilitating SPP requirements hinder buying
+from local SMEs that are not e-enabled. In this light, several efforts are
+made to improve the participation of indigenous firms in public procurement. For example, while some developing countries like India
+assign a quota of public contracts to local firms, Community Information Center (CICs) with free access are being built (National Information
+Technology Agency (NITA), 2016). At a reduced cost, these CICs will
+promote equal participation and capacity of SMEs with limited e-
+
+198
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+and Doberstein, 2008; Zhu et al., 2013; McMurray et al., 2014; Mansi,
+2015). For instance, SPP training helps to build suppliers’ capacity and
+sensitize them towards environmental protection and social equity in
+their production processes. In highly religious countries, sense of
+humanity of employees and organizational reputation in addition to
+SPP disclosure, organizational efficiency, and transparency inform SPP
+(Mansi, 2015; McMurray et al., 2014). However, the SLR revealed that
+the environmental aspect of SPP is more emphasized than social issues
+due to limited standardization of social procurement criteria in developing countries (McCrudden, 2004).
+Our third research question relates to the state of e-government in
+developing countries. The review suggests that ICT remains a central
+force in transforming contemporary public administration in developing countries. Hence, the numerous forms of service applications
+including e-procurement (Choi et al., 2016; Choudrie et al., 2017).
+Existing literature indicate that e-government is widely practiced.
+These studies agree that e-government increases the efficiency of public
+service delivery, reduces cost of administration, enhances transparency
+and accountability, provides adequate procurement information and
+reduces public sector corruption (Asogwa, 2013; Basu, 2004; Myint,
+2000; Lio et al., 2011; Shakya, 2012; Neupane et al., 2014a,b). However, some challenges were also noted. High user charges, lack of integration and collaboration among state agencies, resistance to change
+to e-systems, limited awareness of e-services and lack of e-strategic
+plans hampered e-government success in developing economies
+(Bwalya and Mutula, 2016; Nkwe, 2012; Sarrayrih and Sriram, 2015).
+The excessive corruption in these economies also stifles administrative
+systems leading to e-government failure (Aladwani, 2016). Considering
+the significant prospects of e-government, there is, therefore, the need
+to identify more sustainable ways of addressing these challenges toward
+e-government success and to mainstream SPP in developing counties.
+
+government has the potential to facilitate the mainstreaming of SPP at
+various levels of public sector institutions. Procurement managers and
+policymakers may employ this as a tool to complement other traditional
+forms of training materials to sensitize suppliers and procurement officers about the SPP practice. Lastly, the SLR revealed several challenges of e-government services mainly constituting technological, social and institutional complexities defining public administration
+systems in developing countries. These findings have significant implications for shaping the process-oriented management of e-government and e-procurement projects to promote SPP outcomes.
+The main research contribution of this study is the analysis of the
+relationship between e-government and SPP using an SLR towards
+conceptual clarity. We examined and synthesized existing literature on
+e-government and e-procurement and their linkages with SPP in developing countries. The study presents a number of research implications regarding the state of existing literature on the topic. First, our
+SLR synthesis found that various models have been used to analyse the
+state of e-government adoption in developing countries. However, these
+models were largely focused on website and online service functionalities. These models present a narrow view of assessing the state of egovernment adoption. Our SLR suggests that other important variables
+such as national ICT infrastructure and human capacity cannot be
+overlooked. Secondly, e-government studies dedicated to e-procurement is also limited in the context of developing economies. Lastly, the
+review indicates that there is little knowledge of SPP among developing
+countries as a result of limited peer-review contributions to the SPP
+literature. Thus, their empirical benefits, success factors, challenges and
+social criteria are unknown. This study stimulates the discourse on the
+role of e-government in SPP implementation in the sustainability purchasing and supply literature.
+8. Limitations and future research agenda
+
+7. Conclusion and implications for research and practice
+
+Notwithstanding the rigorous SLR approach used by this study, its
+findings and implications discussed above, a number of limitations
+confronted it. First, the study was limited to publications within a 17year period gathered from 10 databases. Secondly, the synthesized articles were restricted to only articles published in peer-review journals
+although references were made to evidence from other sources to reduced bias. Lastly, the review strictly focused on e-government and its
+role in facilitating SPP implementation in developing countries.
+However, the value of this study lies within its robust and exhaustive
+methodology of synthesizing a large body of evidence from prior studies on the topic for easy comprehension (Denyer and Tranfield, 2009).
+Areas for future research are highlighted. Future studies are encouraged to empirically test theoretical benefits and drivers of SPP in
+developing countries towards enhancing SPP implementation.
+Considering the limited studies on process-oriented e-government
+management, future studies are also directed at developing universal
+and holistic methodologies for assessing the state and managing the egovernment implementation process in developing countries. Besides
+enhancing access to market and consequent fall in operational costs
+(Karjalainen and Kemppainen, 2008), what are the impacts of the
+public sector e-procurement system and SPP practice on local SMEs.
+Future studies should also explore these impacts and outline their implications for SPP in developing countries. Lastly, future studies should
+develop standardized SPP criteria apt for the developing country context (Geng and Doberstein, 2008; McCrudden, 2004).
+
+In a nutshell, the concept e-government offers various opportunities
+to improve public service delivery including SPP. The study concludes
+that public sector agencies could complement traditional forms of
+training techniques with online assessment tools and training materials
+towards enhancing SPP capacity of stakeholders and enforcement of
+SPP criteria in developing countries, albeit in a convenient manner.
+This study contributes to the limited public sector purchasing and
+supply chain management literature in the context of sustainability in
+developing countries by stressing the overarching role of e-government
+in stimulating SPP practice towards the current global development
+agenda (SDG goal 12.7). This SLR highlights the significance of sociocultural elements in e-government adoption as they influence the attitudes and behaviour of suppliers and procurement officials. It also
+contributes to the MTF framework by revealing the complex political
+and socio-culturally unrestrained elements within the administrative
+systems of developing countries in e-government and SPP implementation. Significant implications for research and practice are
+discussed.
+The study further reveals that e-government has a significant role in
+SPP mainstreaming especially in developing countries. First, the proliferated government online portals and high investment into ICT infrastructure and human capacity offer a platform for a wide variety of
+SPP information including standardizing SPP requirements for common
+products and services purchased by the government. Secondly, e-
+
+199
+
+Year
+
+2010
+2013
+2009
+2016
+2009
+2009
+2011
+2013
+2016
+2014
+2004
+2008
+2011
+2016
+2016
+2016
+2017
+2012
+2009
+2013
+2008
+2013
+2008
+2017
+2017
+2017
+2008
+2008
+2007
+2016
+2010
+2014
+2012
+2014
+2012
+2015
+
+Author
+
+Aboelmaged, 2010
+Ahmad et al., 2013
+Al Nagi and Hamdan, 2009
+Aladwani, 2016
+Al-Busaidy and Weerakkody, 2009
+Alshawi and Alalwany, 2009
+Aman and Kasimin, 2011
+Asogwa, 2013
+Athmay et al., 2016
+Barahona and Elizondo, 2014
+Basu, 2004
+Belwal and Al-Zoubi, 2008
+Bhuiyan, 2011
+Bwalya and Mutula, 2016
+Choi et al., 2016
+Chomchaiya and Esichaikul, 2016
+Choudrie et al., 2017
+Concha et al., 2012
+Córdoba-Pachón and Orr, 2009
+Elkadi, 2013
+Elsheikh et al., 2008
+Gao et al., 2013
+Gunasekarana and Ngai, 2008
+Gupta et al., 2017
+Kurfalı et al., 2017
+Lallmahomed et al., 2017
+Lau et al., 2008
+Lim and Tang, 2007
+Mnjama and Wamukoya, 2007
+Mohammed et al., 2016
+Mutula and Mostert, 2010
+Neupane et al., 2014a,b
+Neupane et al., 2014a,b
+Neupane et al., 2014a,b
+Nkwe, 2012
+Nurmandi and Kim, 2015
+
+200
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+Exp
+
+X
+
+X
+X
+
+X
+X
+
+Pre
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Int
+
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+Quant
+
+Des
+
+Con
+
+Nor
+
+Method3
+
+Epistemological Orientation2
+
+X
+
+X
+
+Qual
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Mix
+
+X
+
+CA
+
+Appendix A. Coding schema for SLR analysis – exemplar table (based on Durach et al., 2017)
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+Con
+
+X
+
+X
+
+X
+
+Int
+
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+X
+
+X
+
+Nat
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+
+X
+X
+X
+X
+
+X
+X
+
+CG
+
+Level of analysis4
+
+X
+
+X
+
+X
+
+LG
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+
+X
+
+PO
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Bus
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Cit
+
+Unit of analysis5
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+
+P&P
+
+X
+
+Web
+E-proc't
+E-gov’t
+E-gov't
+E-gov't
+E-gov't
+E-gov’t
+E-proc't
+E-gov’t
+E-gov't
+E-proc't
+E-gov’t
+E-gov't
+E-gov't
+E-gov’t
+E-proc't
+E-proc't
+E-gov't
+E-proc't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-proc't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-proc't
+E-proc't
+E-proc't
+E-gov’t
+E-proc't
+
+Focus
+
+UAE
+Pakistan
+Jordan
+Dev. countries
+Oman
+Dev. countries
+Malaysia
+Nigeria
+UAE
+Costa Rica
+Dev. countries
+Jordan
+Bangladesh
+Zambia
+Indonesia
+Thailand
+Nigeria
+Latin America, the Caribbean
+Colombia
+Egypt
+Jordan
+China
+Hong Kong
+India
+Turkey
+Mauritius
+Argentina, Brazil, Mexico
+Korea
+Dev. Countries
+Yemen
+South Africa
+Dev. countries
+Nepal
+Nepal
+Botswana
+Indonesia
+
+Focal nation
+
+P. Adjei-Bamfo et al.
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+201
+
+2017
+2017
+2013
+2007
+2010
+2013
+2017
+2017
+2015
+2009
+2015
+2016
+2010
+2017
+2015
+2009
+2008
+2015
+2011
+2008
+2008
+2004
+2017
+2008
+2010
+2011
+2011
+2015
+2014
+2013
+2017
+2013
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+
+X
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+3
+
+Con: Conceptual, Nor: Normative, Des: Descriptive, Exp: Exploratory, Pre: Prescriptive, Int:Instrumental.
+Quant: Quantitative, Qualitative: Mix: Mixed, CA: Content analysis, Con: Conceptual.
+4
+Int: International, Nat: National, CG: Central government, LG: Local government.
+5
+PO: public offTaicials/agencies, Bus: business/suppliers, Cit: citizens, P&P: policies & practices, Web: websites.
+
+2
+
+Ojha and Pandey, 2017
+Osei‐Kojo, 2017
+Paroški et al., 2013
+Ray and Mukherjee, 2007
+Rorissa and Demissie, 2010
+Rotchanakitumnuai, 2013
+Ghosh Roy and Upadhyay, 2017
+Sangki, 2017
+Sarrayrih and Sriram, 2015
+Schuppan, 2009
+Sharma et al., 2015
+Siddiquee, 2016
+Singh et al., 2010
+Soni et al., 2017
+Sorn-In et al., 2015
+Teoa et al., 2009
+Tseng et al., 2008
+Waheduzzaman and Miah, 2015
+Weerakkody et al., 2011
+Zarei and Ghapanchi, 2008
+Zarei et al., 2008
+Zhou, 2004
+Agyepong and Nhamo, 2017
+Geng and Doberstein, 2008
+Ho et al., 2010
+Jones, 2011
+Lund-Thomsen and Costa, 2011
+Mansi, 2015
+McMurray et al., 2014
+Schwerin and Prier, 2013
+Wittman and Blesh, 2017
+Zhu et al., 2013
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
+X
+X
+
+X
+X
+
+X
+
+X
+
+E-gov't
+E-gov’t
+E-gov't
+E-gov't
+E-gov't
+E-proc't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-gov't
+E-proc't
+E-gov't
+E-gov’t
+E-gov't
+E-gov't
+E-gov’t
+E-gov't
+SPP
+SPP
+SPP
+SPP
+SPP
+SPP
+SPP
+SPP
+SPP
+SPP
+
+India
+Ghana
+Serbia
+India
+Africa
+Thailand
+India
+Korea
+Oman
+Kenya, Tanzania, Ghana
+Oman
+Bangladesh
+India, Fiji, Ethiopia
+India
+Thailand
+Singapore
+Taiwan
+Bangladesh
+Qatar
+Iran
+Iran
+China
+South Africa
+China
+Asia
+East Asia
+Developing countries
+India
+Malaysia
+China
+Brazil
+China
+
+P. Adjei-Bamfo et al.
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+
+References
+Included studies in synthesis
+
+Malaysian organizations: practices, barriers and opportunities. J. Purch. Supply
+Manage. 20 (3), 195–207.
+Mnjama, N., Wamukoya, J., 2007. E-Government and records management: an assessment tool for e-records readiness in government. Electron. Libr. 25 (3), 274–284.
+Mohammed, F., Ibrahim, O., Ithnin, N., 2016. Factors influencing cloud computing
+adoption for e-government implementation in developing countries: instrument development. J. Syst. Inf. Technol. 18 (3), 297–327.
+Mutula, S.M., Mostert, J., 2010. Challenges and opportunities of e-government in South
+Africa. Electron. Libr. 28 (1), 38–53.
+Neupane, A., Soar, J., Vaidya, K., 2012a. Evaluating the anti‐corruption capabilities of
+public e‐procurement in a developing country. Electron. J. Inf. Syst. Dev. Ctries. 55
+(1), 1–17.
+Neupane, A., Soar, J., Vaidya, K., 2014a. An empirical evaluation of the potential of
+public e-procurement to reduce corruption. Australas. J. Inf. Syst. 18 (2), 21–44.
+Neupane, A., Soar, J., Vaidya, K., Yong, J., 2014b. Willingness to adopt e-procurement to
+reduce corruption: results of the PLS path modeling. Transform. Gov. People Process
+Policy 8 (4), 500–520.
+Nkwe, N., 2012. E-government: challenges and opportunities in Botswana. Int. J.
+Humanit. Soc. Sci. 2 (17), 39–48.
+Nurmandi, A., Kim, S., 2015. Making e-procurement work in a decentralized procurement
+system: a comparison of three Indonesian cities. Int. J. Publ. Sect. Manage. 28 (3),
+198–220.
+Ojha, S., Pandey, I.M., 2017. Management and financing of e-Government projects in
+India: does financing strategy add value? IIMB Manage. Rev. 29 (2), 90–108.
+Osei‐Kojo, A., 2017. E‐government and public service quality in Ghana. J. Publ. Aff. 17
+e1620.
+Paroški, M., Konjović, Z., Surla, D., 2013. Implementation of e-government at the local
+level in underdeveloped countries: the case study of AP Vojvodina. Electron. Libr. 31
+(1), 99–118.
+Ray, S., Mukherjee, A., 2007. Development of a framework towards successful implementation of e-governance initiatives in health sector in India. Int. J. Health Care
+Qual. Assur. 20 (6), 464–483.
+Rorissa, A., Demissie, D., 2010. An analysis of African e-Government service websites.
+Gov. Inf. Q. 27 (2), 161–169.
+Rotchanakitumnuai, S., 2013. The governance evidence of e-government procurement.
+Transform. Gov. People Process Policy 7 (3), 309–321.
+Sangki, J., 2017. Vision of future e-government via new e-government maturity model:
+based on Korea’s e-government practices. Telecomm. Policy 1–12 in press.
+Sarrayrih, M.A., Sriram, B., 2015. Major challenges in developing a successful e-government: a
+review on the Sultanate of Oman. J. King Saud Univ.-Comput. Inf. Sci. 27 (2), 230–235.
+Schuppan, T., 2009. E-Government in developing countries: experiences from subSaharan Africa. Gov. Inf. Q. 26 (1), 118–127.
+Schwerin, E., Prier, E., 2013. Rent-seeking obstacles to changing environmental practices
+and sustainable public procurement in China. Environ. Pract. 15 (3), 240–252.
+Sharma, S.K., Govindaluri, S.M., Gattoufi, S., 2015. Understanding and predicting the
+quality determinants of e-government services: a two-staged regression-neural network model. J. Model. Manage. 10 (3), 325–340.
+Siddiquee, N.A., 2016. E-Government and transformation of service delivery in developing countries: the Bangladesh experience and lessons. Transform. Gov. People
+Process Policy 10 (3), 368–390.
+Singh, G., Pathak, R.D., Naz, R., Belwal, R., 2010. E-Governance for improved public
+sector service delivery in India, Ethiopia and Fiji. Int. J. Publ. Sect. Manage. 23 (3),
+254–275.
+Soni, V., Dey, P.K., Anand, R., Malhotra, C., Banwet, D.K., 2017. Digitizing grey portions
+of e-governance. Transform. Gov. People Process Policy 11 (3), 419–455.
+Sorn-In, K., Tuamsuk, K., Chaopanon, W., 2015. Factors affecting the development of egovernment using a citizen-centric approach. J. Sci. Technol. Policy Manage. 6 (3),
+206–222.
+Teoa, T.S., Lin, S., Lai, K.H., 2009. Adopters and non-adopters of e-procurement in
+Singapore: an empirical study. Omega 37 (5), 972–987.
+Tseng, P.T., Yen, D.C., Hung, Y.C., Wang, N.C., 2008. To explore managerial issues and
+their implications on e-government deployment in the public sector: lessons from
+Taiwan’s Bureau of Foreign Trade. Gov. Inf. Q. 25 (4), 734–756.
+Waheduzzaman, W., Miah, S.J., 2015. Readiness assessment of e-government: a developing country perspective. Transform. Gov. People Process Policy 9 (4), 498–516.
+Weerakkody, V., El-Haddadeh, R., Al-Shafi, S., 2011. Exploring the complexities of egovernment implementation and diffusion in a developing country: some lessons
+from the State of Qatar. J. Enterp. Inf. Manage. 24 (2), 172–196.
+Wittman, H., Blesh, J., 2017. Food sovereignty and fome zero: connecting public food
+procurement programmes to sustainable rural development in Brazil. J. Agrar.
+Chang. 17 (1), 81–105.
+Zarei, B., Ghapanchi, A., 2008. Guidelines for government-to-government initiative architecture in developing countries. Int. J. Inf. Manage. 28 (4), 277–284.
+Zarei, B., Ghapanchi, A., Sattary, B., 2008. Toward national e-government development
+models for developing countries: a nine-stage model. Int. Inf. Libr. Rev. 40 (3),
+199–207.
+Zhou, X., 2004. E-Government in China: a content analysis of national and provincial web
+sites. J. Comput. Mediat. Commun. 9 (4), JCMC948.
+Zhu, Q., Geng, Y., Sarkis, J., 2013. Motivating green public procurement in China: an
+individual level perspective. J. Environ. Manage. 126, 85–95.
+
+Aboelmaged, M.G., 2010. Predicting e-procurement adoption in a developing country: an
+empirical integration of technology acceptance model and theory of planned behaviour. Ind. Manage. Data Syst. 110 (3), 392–414.
+Agyepong, A.O., Nhamo, G., 2017. Green procurement in South Africa: perspectives on
+legislative provisions in metropolitan municipalities. Environ. Dev. Sustain. 19 (6),
+2457–2474.
+Ahmad, M.O., Markkula, J., Oivo, M., 2013. Factors influencing e-government adoption
+in Pakistan. Transform. Gov. People Process. Policy 7 (2), 225–239.
+Al Nagi, E., Hamdan, M., 2009. Computerization and e-Government implementation in
+Jordan: challenges, obstacles and successes. Gov. Inf. Q. 26 (4), 577–583.
+Aladwani, A.M., 2016. Corruption as a source of e-government projects failure in developing countries: a theoretical exposition. Int. J. Inf. Manage. 36 (1), 105–112.
+Al-Busaidy, M., Weerakkody, V., 2009. E-government diffusion in Oman: a public sector
+employees’ perspective. Transform. Gov. People Process Policy 3 (4), 375–393.
+Alshawi, S., Alalwany, H., 2009. E-government evaluation: citizen’s perspective in developing countries. Inf. Technol. Dev. 15 (3), 193–208.
+Aman, A., Kasimin, H., 2011. E-procurement implementation: a case of Malaysia government. Transform. Gov. People Process Policy 5 (4), 330–344.
+Asogwa, B.E., 2013. Electronic government as a paradigm shift for efficient public services: opportunities and challenges for Nigerian government. Libr. Hi Tech 31 (1),
+141–159.
+Athmay, A.A.A.Al, Fantazy, K., Kumar, V., 2016. E-government adoption and user’s satisfaction: an empirical investigation. EuroMed J. Bus. 11 (1), 57–83.
+Barahona, C.J., Elizondo, M.A., 2014. Introducing a disruptive service innovation: a national dilemma in e-procurement. Manage. Decis. 52 (9), 1782–1800.
+Basu, S., 2004. E‐government and developing countries: an overview. Int. Rev. Law
+Comput. Technol. 18 (1), 109–132.
+Belwal, R., Al-Zoubi, K., 2008. Public centric e-governance in Jordan: a field study of
+people’s perception of e-governance awareness, corruption, and trust. J. Inf.
+Commun. Ethics Soc. 6 (4), 317–333.
+Bhuiyan, S.H., 2011. Modernizing Bangladesh public administration through e-governance: benefits and challenges. Gov. Inf. Q. 28 (1), 54–65.
+Bwalya, K.J., Mutula, S., 2016. A conceptual framework for e-government development in
+resource-constrained countries: the case of Zambia. Inf. Dev. 32 (4), 1183–1198.
+Choi, H., Park, M.J., Rho, J.J., Zo, H., 2016. Rethinking the assessment of e-government
+implementation in developing countries from the perspective of the design–reality
+gap: applications in the Indonesian e-procurement system. Telecomm. Policy 40 (7),
+644–660.
+Chomchaiya, S., Esichaikul, V., 2016. Consolidated performance measurement framework for government e-procurement focusing on internal stakeholders. Inf. Technol.
+People 29 (2), 354–380.
+Choudrie, J., Zamani, E.D., Umeoji, E., Emmanuel, A., 2017. Implementing E-government
+in Lagos State: understanding the impact of cultural perceptions and working practices. Gov. Inf. Q. 34 (4), 646–657.
+Concha, G., Astudillo, H., Porrua, M., Pimenta, C., 2012. E-Government procurement
+observatory, maturity model and early measurements. Gov. Inf. Q. 29, S43–S50.
+Córdoba-Pachón, J.R., Orr, K., 2009. Three patterns to understand e-government: the case
+of Colombia. Int. J. Publ. Sect. Manage. 22 (6), 532–554.
+Elkadi, H., 2013. Success and failure factors for e-government projects: a case from Egypt.
+Egypt. Inf. J. 14 (2), 165–173.
+Elsheikh, Y., Cullen, A., Hobbs, D., 2008. E-Government in Jordan: challenges and opportunities. Transform. Gov. People Process Policy 2 (2), 83–103.
+Gao, X., Song, Y., Zhu, X., 2013. Integration and coordination: advancing China’s fragmented e-government to holistic governance. Gov. Inf. Q. 30 (2), 173–181.
+Geng, Y., Doberstein, B., 2008. Greening government procurement in developing countries: building capacity in China. J. Environ. Manage. 88, 932–938.
+Ghosh Roy, S., Upadhyay, P., 2017. Does e-readiness of citizens ensure better adoption of
+government’s digital initiatives? A case based study. J. Enterp. Inf. Manage. 30 (1),
+65–81.
+Gunasekarana, A., Ngai, E.W., 2008. Adoption of e-procurement in Hong Kong: an empirical research. Int. J. Prod. Econ. 113 (1), 159–175.
+Gupta, K.P., Bhaskar, P., Singh, S., 2017. Prioritization of factors influencing employee
+adoption of e-government using the analytic hierarchy process. J. Syst. Inf. Technol.
+19 (1/2), 116–137.
+Ho, L.W., Dickinson, N.M., Chan, G.Y., 2010. Green procurement in the Asian public
+sector and the Hong Kong private sector. Nat. Resour. Forum 34 (1), 24–38.
+Jones, D.S., 2011. Recent reforms to promote social responsibility procurement in East
+Asian States: a comparative analysis. J. Publ. Procure. 11 (1), 61–94.
+Kurfalı, M., Arifoğlu, A., Tokdemir, G., Paçin, Y., 2017. Adoption of e-government services in Turkey. Comput. Human Behav. 66, 168–178.
+Lallmahomed, M.Z., Lallmahomed, N., Lallmahomed, G.M., 2017. Factors influencing the
+adoption of e-government services in mauritius. Telemat. Inf. 34 (4), 57–72.
+Lau, T.Y., Aboulhoson, M., Lin, C., Atkin, D.J., 2008. Adoption of e-government in three
+latin American countries: Argentina, Brazil and Mexico. Telecomm. Policy 32 (2),
+88–100.
+Lim, J.H., Tang, S.Y., 2007. Urban e-government initiatives and environmental decision
+performance in Korea. J. Publ. Adm. Res. Theory 18 (1), 109–138.
+Lund-Thomsen, P., Costa, N., 2011. Sustainable procurement in the United Nations. J.
+Corp. Citizsh. 42, 55–72.
+Mansi, M., 2015. Sustainable procurement disclosure practices in central public sector
+enterprises: evidence from India. J. Purch. Supply Manage. 21 (2), 125–137.
+McMurray, A.J., Islam, M.M., Siwar, C., Fien, J., 2014. Sustainable procurement in
+
+Other cited articles
+Bai, C., Kusi-Sarpong, S., Sarkis, J., 2017. An implementation path for green information
+technology systems in the Ghanaian mining industry. J. Clean. Prod. 164,
+
+202
+
+Resources, Conservation & Recycling 142 (2019) 189–203
+
+P. Adjei-Bamfo et al.
+1105–1123.
+Boateng, R., 2013. The challenge of taking baby steps in E-governance in West Africa,
+extended. Proceedings of the 1st Business and Development in Africa: Determining
+New Frontiers April 8-9. University of Ghana Business School, Accra, Ghana.
+Bonsón, E., Torres, L., Royo, S., Flores, F., 2012. Local e-government 2.0: social media and
+corporate transparency in municipalities. Gov. Inf. Q. 29, 123–132.
+Cattaneo, G., 2012. Will public administrations overcome their own inertia before EC
+mandatory regulation will force them to? Proceedings of the 1st International
+EIBURS-TAIPS TAIPS Conference on “Innovation in the Public Sector and the
+Development of E-Services”. University of Urbino, Urbino April 2012.
+Davis, F.D., 1989. Perceived usefulness, ease of use, and user acceptance of information
+technology. Mis Q. 13 (3), 319–339.
+Denyer, D., Tranfield, D., 2009. Producing a systematic review. In: Buchanan, D., Bryman,
+A. (Eds.), The Sage Handbook of Organizational Research Methods. Sage Publications
+Ltd, London, pp. pp.671–89.
+Dunleavy, P., Margetts, H., Bastow, S., Tinkler, J., 2006. New public management is deadlong live digital-era governance. J. Publ. Adm. Res. Theory 16 (3), 467–494.
+Durach, C.F., Kembro, J., Wieland, A., 2017. A new paradigm for systematic literature
+reviews in supply chain management. J. Supply Chain. Manage. 53 (4), 67–85.
+Fang, Z., 2002. E-Government in digital era: concept, practice, and development. Int. J.
+Comput. Internet Manage. 10 (2), 1–22.
+Hall, M., Purchase, D., 2006. Building or bodging? Attitudes to sustainability in UK public
+sector housing construction development. Sustain. Dev. 14 (3), 205–218.
+Karjalainen, K., Kemppainen, K., 2008. The involvement of small and medium sized enterprises in public procurement: impact of resource perceptions, electronic systems
+and enterprise size. J. Purch. Supply Manage. 14, 230–240.
+Kjöllerström, M., 2008. Public procurement as a tool for promoting more sustainable
+consumption and production patterns. Sustain. Dev. Innov. Briefs 1 (5), 1–12.
+Kopp, A., 2011. Marrakech Task Force on Sustainable Public Procurement Led by
+Switzerland: Activity Report. Swiss Federal Office for the Environment (FOEN).
+Kusi-Sarpong, S., Sarkis, J., 2017. Virtual special issue on sustainable supply chains and
+emerging economies: call for papers. Resour. Conserv. Recycl. A6–A7.
+Lio, M.C., Liu, M.C., Ou, Y.P., 2011. Can the internet reduce corruption? A cross-country
+study based on dynamic panel data models. Gov. Inf. Q. 28 (1), 47–53.
+McCrudden, C., 2004. Using public procurement to achieve social outcomes. Nat. Resour.
+Forum 28, 257–267.
+Myint, U., 2000. Corruption: causes, consequences and cures. Asia-Pac. Dev. J. 7 (2),
+33–58.
+National Information Technology Agency (NITA), 2016. One Stop-Service Center (OSSC):
+The Concept of CICs. Accessed: 21/05/2017. From. http://ossc.gov.gh/index.php/
+cics.
+Neupane, A., Soar, J., Vaidya, K., Yong, J., 2012b. Role of public e-procurement
+
+technology to reduce corruption in government procurement. Proceedings of the 5th
+International Public Procurement Conference (IPPC5) 304–334.
+Preuss, L., 2009. Addressing sustainable development through public procurement: the
+case of local government. Supply Chain Manage.: Int. J. 14 (3), 213–223.
+Rousseau, D.M., Manning, J., Denyer, D., 2008. Evidence in management and organizational science: assembling the field’s full weight of scientific knowledge through
+syntheses. Acad. Manage. Ann. 2 (1), 475–515.
+Seuring, S., Müller, M., Westhaus, M., Morana, R., 2005. Conducting a literature review –
+the example of sustainability in supply chains. In: Kotzab, H., Seuring, S., Müller, M.,
+Reiner, G. (Eds.), Research Methodologies in Supply Chain Management. PhysicaVerlag HD.
+Seuring, S., Gold, S., 2012. Conducting content-analysis based literature reviews in supply
+chain management. Supply Chain. Manage.: Int. J. 17 (5), 544–555.
+Shakya, R.K., 2012. Procurement governance framework: Success to e-government procurement (E-GP) system implementation. Proceedings of the 5th International Public
+Procurement Conference (IPPC5) (pp. 17–19.
+Thai, K.V., 2001. Public procurement re-examined. J. Publ. Procure. 1 (1), 9–50.
+Tranfield, D., Denyer, D., Smart, P., 2003. Towards a methodology for developing evidence-informed management knowledge by means of systematic review. Br. J.
+Manage. 14, 207–222.
+United Nations, 2017. World Economic Situation and Prospects 2017. ISBN: 978-92-1109175-5. Accessed: 5/09/2018. From. https://sustainabledevelopment.un.org/
+content/documents/25012017wesp_full_en.pdf.
+United Nations Department of Economic and Social Affairs (UNDESA), 2014. EGovernment Survey 2014. E-Government for the future we want. United Nations.
+United Nations Environmental Programme (UNEP), 2011. Paving the Way for Sustainable
+Consumption and Production: the Marrakech Process Progress Report. UNEP, Paris.
+Vaidya, K., Sajeev, A.S.M., Callender, G., 2006. Critical factors that influence e-procurement implementation success in the public sector. J. Publ. Procure. 6 (1&3),
+70–99.
+Walker, H., Brammer, S., 2012. The relationship between sustainable procurement and eprocurement in the public sector. Int. J. Prod. Econ. 140 (1)), 256–268.
+Walker, H., Miemczyk, J., Johnsen, T., Spencer, R., 2012. Sustainable procurement: past,
+present and future. J. Purch. Supply Manage. 18 (4), 201–206.
+Warner, K.E., Ryall, C., 2001. Greener purchasing activities within UK local authorities.
+Corp. Soc. Responsib. Environ. Manage. 8 (1), 36–45.
+Witjes, S., Lozano, R., 2016. Towards a more Circular Economy: proposing a framework
+linking sustainable public procurement and sustainable business models. Resour.
+Conserv. Recycl. 112, 37–44.
+World Bank, 2012. Why Reform Public Procurement? World Bank, Washington DC.
+Yin, K., 2003. Case Study Research: Design and Methods, third ed. SAGE, London.
+
+203
+
+

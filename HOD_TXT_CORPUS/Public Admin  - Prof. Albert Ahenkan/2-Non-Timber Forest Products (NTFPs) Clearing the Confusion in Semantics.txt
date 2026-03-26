@@ -1,0 +1,880 @@
+© Kamla-Raj 2011
+
+J Hum Ecol, 33(1): 1-9 (2011)
+
+Non-Timber Forest Products (NTFPs):
+Clearing the Confusion in Semantics
+Albert Ahenkan1 and Emmanuel Boon2
+Human Ecology Department, Vrije Universiteit Brussel, Belgium
+E-mail: 1<aahenkan@vub.ac.be>, 2<eboon@vub.ac.be>
+KEYWORDS Cultivation. Domestication. Ecology. Forestry. Forest Resources. Non-Timber Forest Products
+ABSTRACT Though a significant volume of information has been documented on the importance and potential of NTFPs’
+utilisation and its impacts on poverty reduction, livelihoods improvement and environmental sustainability, a lot of confusion
+is still associated with NTFPs semantics and terminologies. NTFPs have proved to be difficult to clearly define because of the
+blurred boundaries between timber and non-timber products and the underlying difficulty in defining a forest. The overabundance
+of terminologies relating to a single term having a range of interpretations, and none of which is universally recognised is at the
+heart of the NTFPs semantic confusion. Consequently, the meaning of “NTFPs” has generated a lot of controversy. In other
+words, there is no universally accepted operational definition of NTFPs. Various definitions proposed in literature tend to
+expound on specific species, aspects and products according to different authors’ focal interests. The increasing realisation of
+the importance of all forest resources makes the dichotomisation of forest resources into “timber” and “non-timber” overly
+simplistic. The lack of a common definition, terminologies as well as the multiplicity of interest, constitutes a real hindrance to
+research on and development of NTFPs. Through an extensive and critical review of literature and consultations with experts,
+this paper examines the semantics and the difficulties in defining NTFPs, the ensuing confusion and the consequences for
+research, and development and promotion of these products.
+
+1. INTRODUCTION
+The past decade has witnessed a rapid growth
+of interest in non-timber forest products (NTFPs)
+among conservation and development
+organisations (Arnold and Ruiz Pérez 1998;
+Wollenberg and Ingles 1998; Neumann and
+Hirsch 2000; Marshall et al. 2003). There are a
+number of reasons for the general spread and
+upsurge in global interest in NTFPs. It is believed that the promotion of sustainable use of
+NTFPs could lead to a win-win situation for
+poverty reduction and bio-diversity conservation (FAO 1995; Shiva and Verma 2002; Golam
+et al. 2008). This is due to the increasing recognition that NTFPs can contribute significantly
+to the livelihoods of forest dependent communities (Clendon 2001; Belcher et al. 2005;
+Marshall et al. 2005; Ros-Tonen and Wiersum
+2005; FAO 2006; Ahenkan and Boon 2010);
+household food security and nutrition (FAO
+1995; Falconer 1997; Clark and Sunderland
+2004; Shacleton and Shackleton 2004; Ahenkan
+and Boon 2008); generate additional employment and income (Peters 1996; Ros-tonen 1999;
+Andel 2000; Marshall et al. 2003); and offer
+opportunities for NTFP based enterprises
+(Shackleton and Shackleton 2004; Subedi 2006).
+Moreover, NTFPs are more accessible to the poor
+(Saxena 2003); contribute to foreign exchange
+earnings (Andel 2000; Shiva and Verma 2002);
+
+and support biodiversity and other conservation
+objectives (FAO 1995; Arnold and Ruiz Pérez
+1998; Marshall et al. 2005; Charlie and Sheona
+2004). Furthermore, NTFPs can be harvested
+with relatively little impact on the forest environment (Myers 1988; Neumann and Hirsch
+2000; FAO 2008).
+The significance of NTFPs effectively captured the imagination of conservationists around
+the world when an article by Peter et al. (1989)
+published in ‘Nature’ claimed that more money
+could be earned from tropical forests by collecting these products than from logging
+(Choudhury 2007). Since then, the importance
+of NTFPs has moved to the centre stage of the
+global development agenda. The Food and Agriculture Organisation (FAO) of the United Nations was one of the first agencies to promote
+NTFPs through their programme on non-wood
+forest products. Over the past 20 years, other
+international agencies such as the World Bank,
+Canadian International Development Agency
+(CIDA), International Development Research
+Centre (IDRC), Center for International Forestry
+Research (CIFOR), International Union for the
+Conservation of Nature (IUCN) and the Biodiversity Support Programme (BSP), among others, have incorporated the concept of NTFPs into
+their research and development programmes.
+The concept of NTFPs, therefore, became an
+economically acceptable ecological option of
+
+2
+
+ALBERT AHENKAN AND EMMANUEL BOON
+
+development. There was also an as-sumption,
+often implicit (Belcher 2003), that making forests more valuable to local users can encourage
+forest conservation and poverty reduction
+(Plotkin and Famolare 1992; Schreckenberg et
+al. 2006; Ahenkan and Boon 2008; Mbuvi and
+Boon 2008).
+NTFP-based development was, therefore, born
+as a new development paradigm (Choudhury
+2007) capable of accommodating many conflicting needs of forest depending communities.
+Within the context of emerging new international commitments to address rural poverty,
+such as the Millennium Development Goals
+(MDGs), the commercialisation of NTFPs is
+recognised as having the potential to achieve
+dual conservation and development goals by
+increasing the value of forest resources to local
+communities for poverty reduction and human
+development (FAO 1995; Wollenberg and Ingles
+1998; Neumann and Hirsch 2000; Marshall et
+al. 2003; Wunder and Angelsen 2003; Sunderland and Ndoye 2004). Globally, inter-national trade in NTFPs is estimated at USD 11billion annually (Ndoye and Ruiz Pérez 1998;
+Shiva and Verma 2002; Marshall et al. 2005;
+Ahenkan and Boon 2010). These products provide a “green social security” to billions of
+people in the form of low-cost building materials, income, fuel, food supplements and traditional medicines. In some cases, the revenues
+earned from NTFPs are the only source of cash
+income, which increases the dependency of
+people on commercially interesting NTFPs resources (Andel 2000; Sheil and Wunder 2002;
+Marshall et al. 2005).
+2. DEFINING NTFPS AND THE
+CONFUSION IN SEMANTICS
+Despite the surge in importance of NTFPs
+and the significant global interest surrounding
+them, a number of basic definition and conceptual issues remain unresolved. The term
+“NTFPs” has proved difficult to define amongst
+forest experts, conservationists, development
+organisations and the pioneers of the concept
+due to some of the blurred boundaries between
+timber and non-timber products, the underlying difficulty in defining a forest and the evolving nature of the concept and the potential to
+bring together a diverse set of interests and experiences to the idea of integrated forest man-
+
+agement. Consequently, the term “NTFPs” has
+generated a lot of controversy as regards its
+meaning (Arnold and Ruiz-Perez 1998; RosTonen et al. 1998; Shiva and Verma 2002;
+Belcher 2003). The debate on the definition of
+NTFPs has raged on since the term was coined
+during the early 1980s by authors like Posey,
+Peters, de Beer and McDermott (Neumann and
+Hirsch 2000; Jean-Laurent and Patrick 2002;
+Belcher 2003). Though significant information
+has been documented on the socio-economic
+importance and potential of NTFPs utilization
+and their impacts on poverty reduction, livelihood improvement and environmental sustainability, little progress has been made to clear
+the accruing confusing in terminology and semantics. There is an overabundance of terminologies which has been used interchangeably
+by various authors and organisations with terms
+such as ‘‘non-wood forest products, minor forest products”, “forest biological resources”, special forest products”, “non-wood forest benefits”
+“non-wood goods and services”, “forest garden
+products”, “wild products”, “natural products”,
+“non-timber forest products”, “by-products of
+forests”, “secondary forest products” “minor
+forest products’’, and ‘‘hidden harvest’’
+(Chandrasekharan 1995; FAO 1999; Wunder
+and Angelsen 2003; FAO 2006).
+In 1995, FAO attempted a first step towards
+a harmonised definition of NTFPs by organising
+the “International Expert Consultation on NonWood Forest Products” in Indonesia to agree on
+a common definition. Unfortunately, there is still
+no universally accepted definition of NTFPs and
+the confusion over the definition and scope of
+‘NTFP’ continues. There is still no agreement
+on universally acceptable terminology to describe the product (FAO 1999; Wong 2000; Bih
+2008). It has become very difficult to distinguish
+between NTFPs from natural forests and those
+from human-influenced systems and the fact that
+the study of non-timber forest products has been
+dealt with by people from varied fields of study
+such as forestry, ethnobiology, economic botany,
+social development, natural resource economics, conservation biology, protected area management, agro-forestry, marketing, commercial
+development, ecological anthropology, cultural
+geography and human ecology has complicated
+the problem (Bih 2008; Ahenkan and Boon
+2010).
+Even the terms ‘forest’ and ‘product’ are
+
+3
+
+NON-TIMBER FOREST PRODUCTS
+
+debatable (FAO 2001; Ahenkan and Boon 2010).
+Literally, NTFPs includes all products that are
+derived from forests with the exception of timber. In practice, various products and production environments are included or excluded depending on the objectives of the author (Belcher
+et al. 2005). The lack of a common definition
+and terminology and the multiplicity of interest
+are been regarded as hindrances to research and
+development of NTFPs (Belcher 2003). The difficulty in harmonising the definition of NTFPs
+also makes comparison of studies and statistics
+on NTFPs very difficult particularly because of
+the different definitions and classifications used
+by the different authors and in which some products are included while others are excluded. It
+has further limited the creation of a comprehensive and consistent classification system on
+NTFPs (Belcher and Ruiz-Pérez 2001), which
+can only be based on an agreed terminology including clear definitions. Belcher et al. (2005)
+note that the discussion has been confounded
+by ambiguous and inconsistent definitions of the
+term ‘‘NTFP’’ and by the very different approaches that have been followed to research
+and develop NTFPs. This has hindered the understanding of the role and potential of NTFPs
+for livelihood improvement and conservation
+(Belcher et al. 2005).
+Nevertheless, several attempts have been
+made by different authors and international institutions to find an “acceptable norm” for defining NTFPs (de Beer and McDermott 1989;
+Peters 1989; Chandresekharan 1995; FAO 1995;
+Ros-Tonen et al. 1995; Peters 1996; FAO 1999;
+Wong 2000; Shiva and Verma 2002; Marshall
+and Schreckenberg 2005; Ahenkan and Boon
+2008). However, most of the NTFPs definitions
+proposed in the literature also tend to expound
+on specific species, aspects and products in line
+with different authors’ focal interests (FAO
+1995; Morris and Bay 2002; Mbuvi and Boon
+2008).
+As has already been mentioned, the important elements of the debate over the concept of
+NTFP depend on the interests and priorities of
+the proponents and are usually centred on five
+main issues;
+• The Nature of the Product – inclusion/
+exclusion of non-industrial timber and
+other wood products (Jean and Patrick
+2002; Belcher 2003),
+• The Source of the Product – inclusion/
+
+Box 1: Definition of NTFPs
+De Beer and McDermott (1989)
+The term “Non Timber Forest Products” (NTFPs) encompasses all biological materials other than timber, which
+are extracted from forests for human use.
+Chandresekharan (1995)
+Non-wood forest products include all goods of biological origin, as well as services, derived from forest or any
+land under similar use, and exclude wood in all its forms:
+Ros-Tonen et al. (1995, 1998)
+“all tangible animal and plant products from the forest,
+other than industrial wood” In 1998, they slightly modified this definition to include
+“....all tangible animal and plant forest products other
+than industrial wood, coming from natural forests, including managed secondary forests and enriched forests.
+Mathur and Shiva (1996)
+All products obtained from plants of forest origin and
+host plant species yielding products in association with
+insects and animals or their parts and items of mineral
+origin except timber, may be defined as Minor Forest
+Products (MFP) or Non-Wood Forest Products (NWFP)
+or Non-Timber Forest Products (NTFP).
+M. P. Shiva (1998)
+All usufructs/utility products of plant, animal and mineral origins except timber obtainable from forests or afforested / domesticated land areas are termed as NonTimber Forest Products (NTFP) or Non-Wood Forest
+Products (NWFP)/Minor Forest Products (MFP).
+FAO (1999)
+Non wood forest products (NWFP) are defined as ‘goods
+of biological origin other than wood derived from forests, other wooded lands and trees outside forests’ (FAO
+1999).
+Wong(2000)
+‘...all products derived from biological resources found
+on forest land but not including timber, fuelwood, or medicinal plants harvested as whole plants’
+Source: Rajesh Rajchal 2006; Pfund and Patrick Robinson
+2002
+
+exclusion of forest/tree plantations, managed forest, grassland, managed agroforestry systems within agricultural land,
+• The Nature of Production of the Product–
+gathered only from the wild, or include those that are domesticated (e.g. rubber, mushrooms, snails, oil palm and other industrial
+tree plantation crops) (Belcher 2003),
+• The Scale of Production – capital intensive,
+industrial scale versus small scale mixed
+systems,
+• The Ownership and Distribution of Benefits
+(Ros-Tonen 1999; Belcher 2003; Marshall
+et al. 2005).
+The debate also centres on the expected contribution of NTFPs to poverty reduction, health,
+conservation as well as on their current and
+potential benefits to the poor communities versus their further impoverishment (FAO 1995;
+Peters 1996; Pfund and Patrick Robinson 2002).
+
+4
+At the centre of the debate over NTFPs is
+whether or not to include woody plant material
+and products in the definition, the question of
+whether the product or service is produced in a
+forest environment; what exactly is a forest; and
+the more problematic question of whether an
+NTFP is really an NTFP if it is cultivated. Some
+argue that if the product has been domesticated
+and produced outside a forest environment, then
+it is no longer a ‘forest product’. An important
+question that has been raised is whether nontimber forest products are only those biological
+resources that originate from within natural forests (Ros-Tonen 1999; Belcher 2003; Rajesh
+Rajchal 2006). This raises a whole different set
+of questions as to how a natural forest is defined and whether the concept of NTFP should
+be tied to such a definition. Intractable and
+thorny questions include whether products such
+as honey, mushrooms, medicinal plants and
+fruits harvested from the forest and the ones
+domesticated or under managed regimes should
+all be classified as NTFPs. Should grass-cutters
+and snails from the forest and the ones produced
+under managed regimes be included as NTFPs
+or a chanterelle harvested from a planted jack
+pine plantation from a natural regeneration,
+post-fire jack pine stand is included? (Belcher
+2003; Ros-Tonen 2000).
+The controversy about whether or not to include cultivated products of forest origin in the
+definition of NTFPs is as old as the term itself.
+According to de Beer and McDermott (1989),
+who were among the pioneers writers on the
+subject, NTFP “encompasses all biological materials other than timber which are extracted
+from forests for human use”. They defined ‘forest’ as a natural ecosystem in which trees are a
+significant component. However, forest products
+are derived not only from trees, but also from
+all plants, fungi and animals (including fish)
+for which the forest ecosystem provides habitat.
+Clark et al. (2004) argue that products such as
+Gnetum occur naturally in forest openings, but
+are also found in secondary forests, fallow fields
+and sometimes in mixed crop fields. Thus, there
+is a continuum from ‘wild’ or ‘forest’ resources
+to cultivated and domesticated ones. In other
+words, it is often difficult to decide whether a
+resource should be described as an NTFP or as
+an agricultural product.
+This controversy has led to some of the
+NTFPs pioneers, including Ros-Tonen et al.
+
+ALBERT AHENKAN AND EMMANUEL BOON
+
+(1995) and Belcher (2003), attempt to redefine
+the term NTFP in order to distinguish between
+forest products collected from the ‘wild’ and
+domesticated products of forest origin. For instance, Ros-Tonen et al. (1995) defined non-timber forest products as “all tangible animal and
+plant products from the forest, other than industrial wood”. But in 1998, they slightly modified this definition to include “all tangible animal and plant forest products other than industrial wood, coming from natural forests, including managed secondary forests and enriched
+forests (Ros-Tonen et al. 1998) because in practice, the distinction between ‘wild’ and semicultivated products is often difficult to make
+(Ros-Tonen et al. 1998; Belcher 2003).
+The fact is that many items that are being
+marketed as NTFPs originate both from natural
+forests and from man-made vegetation types and
+domestication. Economically successful NTFPs
+in particular tend to be domesticated (Homma
+1992). Van Dijk, J. Wiersum (1999) note that a
+high proportion of the NTFPs exploited in
+Southern Cameroon are not collected from natural forests, but harvested from vegetation types
+modified by man and domestication. In the transition from ‘wild’ to cultivated products, several NTFPs may come from both natural forests
+and home gardens or plantations. The best
+known example is that of rubber from Hevea
+brasiliensis, which is collected from natural forests in Brazil, while in Indonesia it comes from
+plantations. The same occurs within one and
+the same country with gum Arabic from Acacia
+senegal in Sudan and rosin and turpentine made
+of the oleoresin of Pinus merkusi in Indonesia
+(Coppen 1999). When such products appear on
+the market, they bear no label to clarify their
+origin.
+The problem of the concept of NTFPs also
+lies in the fact that the distinction between natural and human-modified forest ecosystems and
+products cannot always be easily drawn. There
+is often a gradual transition from the collection
+of ‘wild’ products in natural forests to enrichment planting in secondary forest and intensively managed home garden production (RosTonen et al. 1995). Belcher (2003) also argues
+that, from the perspective of a forest user and
+from a development perspective, even the distinction between timber and non-timber products is false because within systems where communities have control over forest resources,
+
+5
+
+NON-TIMBER FOREST PRODUCTS
+
+people manage forest products that are most
+valuable to them. By creating such a distinction
+between wood and non-wood products could
+have negative consequences in terms of both
+conservation and development, because it contains and supports the implicit assumption that
+timber is for the rich and that NTFPs are for the
+poor (Belcher 2003).
+Various studies, including Tropenbos (1999),
+also raise this problematic and Hammen and
+Rodríguez (1996) illustrate how indigenous
+people in the Colombian Amazon region manipulate forest succession in order to promote
+the growth of such useful species as the
+chontaduro palm (Bactris gasipaes) and the
+guamo fruit tree (Inga spp.). De Jong et al.
+(2000) provide an example of the evolution of a
+man-made vegetation type in West Kalimantan,
+which appears to be a match for natural forest
+in biological diversity. Some authors prefer to
+restrict the use of the term NTFPs to products
+from natural forest systems, whether they are
+modified by human intervention or not (RosTonen 2000). The reason for doing so lies in
+the fact that the term was coined in relation to
+strategies for the conservation of biodiversity
+in natural forests (Ros-Tonen 1998). Several
+alternative terms have been suggested for products from man-made vegetation types, such as
+forest garden products (Senanayake 1999), nontimber plantation products (Ros-Tonen 2000) or
+agroforestry products (Ottens 1999). Others too
+restrict the category to ‘‘extractive’’ products that
+are collected from the wild (natural regeneration), while others include managed or cultivated products. Some restrict their discussion
+to plants, while some include animals. Planted
+forests, grasslands, or other environments may
+or may not be included. As a result, generalisations about NTFPs are confusing at best, and
+can lead to the formulation of inappropriate
+policies. Belcher et al. (2005) note that if we
+take the perspective of forest-dwelling people,
+we might even consider replacing the term
+NTFPs with “community-exploited forest products”, even if this might be confusing in relation to FAO statistics, in which forest products
+mostly refer to wood products. From a local perspective, the real issue is not whether these locally exploited products are timber or non-timber, but how they can be managed so that they
+contribute optimally to people’s livelihoods and
+can be harvested with minimal damage to the
+
+forest. Ros-Tonen et al. (1998) note that the transitions are so gradual and the products remain
+the same, why should we bother about the terminology?
+World-wide, NTFPs are produced and harvested under a broad range of management regimens, ranging from strictly wild harvested,
+semi-domesticated and more intensively managed systems (CNTR 2006). Harvesting options
+range from gathering from the wild through to
+intensive cultivation (Ros-Tonen and Wiersum
+2003; Ahenkan and Boon 2010). Belcher et al.
+(2005) therefore proposes a sub-division of the
+NTFPs continuum into three main categories:
+wild, managed, and cultivated. The wild products are gathered from fallow, secondary forests or mature forests, with little transformation of forest structure due to the extraction of
+NTFPs. Regeneration often depends on natural
+processes, and forests are left by and large to
+natural successional stages. Managed products
+are produced in forests that are partially transformed through treatments such as weeding
+or crown opening to encourage the production
+of preferred species. Target species regenerate
+through natural processes, and natural succession still operates, allowing for multiple uses
+of the forest and maintaining relatively high
+biodiversity. Cultivated NTFPs are those deliberately planted as seeds or seedlings or breeding stocks such as grass-cutters and snails. For
+example, Dacryodes edulis (safou fruit) and
+Irvingia gabonensis (‘bush mango’) have been
+included as NTFPs. These fruit trees grow in
+natural forest areas but are also widely cultivated, and in many areas, the majority of fruits are
+harvested from cultivated trees (Schreckenberg
+et al. 2006).
+3. CLASSIFICATION OF NTFPS
+A globally applicably standard classification
+system for NTFPs does not exist (Shiva and
+Verma 2002). However, NTFPs can be classified in many different ways: according to end
+use (medicine, food, drink, etc), by the part used
+(roots, leaves, barks, etc); or in accordance with
+major international classification systems such
+as the Harmonized Community Description and
+Coding System developed under the auspices of
+the Customs Cooperation Council (Shiva and
+Verma 2002). For the purpose of this research,
+NTFP are classified according to their end uses
+as indicated in Table 1.
+
+6
+
+ALBERT AHENKAN AND EMMANUEL BOON
+
+Table 1: Categories of non- timber forest products
+Plant products
+Categories
+
+Description
+
+Food
+
+Vegetal foodstuff and beverages provided by
+fruits, nuts, seeds, roots
+Fodder
+Animal and bee fodder provided by leaves,
+fruits etc.
+Medicines
+Medicinal plants (e.g.leaves, bark, roots) used
+in traditional medicine and/or by pharmaceutical companies
+Perfumes and Aromatic plants providing essential (volatile)
+cosmetics
+oils and other products used for cosmetic
+purposes
+Dying and
+tanning
+Utensils,
+handicrafts
+Construction
+materials
+Ornamentals
+Exudates
+
+Animals and animal products
+Categories
+Living animals
+Honey,beeswax
+Bushmeat
+
+Description
+Mainly vertebrates such as mammals,
+birds, reptiles etc.
+Products provided by bees.
+Meat provided by vertebrates, mainly
+mammals
+
+Other edible
+Mainly edible in vertebrates such as
+animal products insects (e.g. caterpillars), crabs and other
+“secondary” products of animals (e.g.
+eggs, nests)
+Plant material (mainly barkand leaves) proHides, skins
+Hide and skin of animals used for various
+viding tannins and other plant parts (especially
+purposes
+leaves and fruits) used as colorants
+Heterogeneous group of products including
+Medicine
+Entire animals or parts of animals such
+thatch, bamboo, rattan, wrapping leaves, fibres
+as various organs used for medicinal
+(e.g. Arouma, Bwa Flo, Silk cotton floss, Screw
+purposes (e.g. caterpillars, crab legs,
+pine)
+snake oil)
+thatch, bamboo, fibres,
+Entire plants (e.g. orchids, ferns, philodendron) Colorants
+Entire animals or parts of animals such
+andparts of the plants (e.g. potsmade from
+as various organs used as colorants
+roots) used forornamental purposes
+Substances such as gums(water soluble),
+Other nonedible e.g. bones used as tools
+resins (water insoluble) and latex (milky or
+animal products
+clear juice), released from plants by exudation
+
+Source: Adapted from FAO 1995; Shiva and Verma 2002
+
+4. IMPACT OF NTFPS EXTRACTION
+ON FOREST RESOURCES
+It is often assumed that NTFPs are
+sustainably harvested and that this “green social security” will always be available to resource users. This is not always the case. The
+early interest in NTFPs was encouraged by t
+he belief that NTFP commercialisation that
+added sufficient value to forest products could
+contribute to forest conservation (Nepstad and
+Schwartzman 1992). Where NTFPs are harvested in a sustainable manner, this may indeed
+be the case (Sunderland et al. 2004; Belcher and
+Schreckenberg 2007). Several scientists have
+stressed that NTFPs can be harvested without
+much destruction of the forest, while maintaining essential environmental functions and preserving biological diversity (Anderson 1990;
+Plotkin and Famolare 1992; Peters 1996). The
+extraction of NTFPs is considered sustainable
+if it has no long-term deleterious effect on the
+regeneration of the harvested population, and
+when the yield remains more or less constant
+throughout the years (Cunningham 2000). Nevertheless, uncontrolled extraction due to population increases, high demand for NTFPs and
+
+low prices has caused species extinction and
+forest degradation in many countries (Browder
+1992; Ahenkan and Boon 2010). Unsustainable
+harvesting of NTFPs does have a number of
+ecological impacts, including a gradual reduction in the vigour of harvested plants, animals,
+as well as decreasing rates of seedling establishment of harvested species, potential disruption of local animal populations and nutrient
+loss from harvested material (Peters 1996).
+There was ample evidence of over-harvesting
+even at the time that NTFP exploitation was
+promoted as nature conservation strategies according to Sunderland et al. (2004).
+5. THE NEED FOR NTFPS FARMING
+In many parts of the world, local people are
+losing access to valued plant and animal species either through overexploitation and habitat destruction or loss of access as former harvesting areas are included within national parks
+or forest reserves. Achieving sustainable NTFPs
+harvest and forest conservation relies entirely
+on the ability to reconcile ecosystem productivity with human exploitation (Marshall et al.
+2005). Higher demand increases pressure on the
+
+7
+
+NON-TIMBER FOREST PRODUCTS
+
+resource and as resources become depleted, three
+main strategies are employed to militate against
+shortfalls in supply: travel further to find the
+product, substituting the particular product with
+a similar product or to develop a more intensive
+or cultivated sources of supply (Cunningham
+2000; Ahenkan and Boon 2010). As a result of
+the recognition that the extraction of NTFPs
+from natural forests has limited potential for
+improving household economies, several scholars began to question whether the objective of
+enhancing forest-based livelihoods through
+NTFPs could not be better fulfilled by optimising
+NTFPs production through domestication
+(Kusters et al. 2001; Arnold and Ruiz Pérez
+2001; De Jong 2002). Ros Tonen (1999) and
+Ahenkan and Boon (2008) state that it is incorrect to suggest that NTFPs can be harvested indefinitely without proper management practices
+and domestication to sustain their yield and
+therefore call for the need for intensification of
+management and semi-domestication of these
+products of forest origin, including honey, mushrooms, snails, grass-cutters, medicinal and aromatic plants and fruits. The contribution of
+NTFPs to improving livelihoods can best be assured through a process of gradual domestication of NTFPs in human-modified (agro) forest
+types. Rajesh Rajchal (2006) notes that intensified management and domestication of NTFPs
+may be an important means of improving livelihood of poor through higher yields, improved
+and more consistent quality and control over the
+timing of harvests and reduce pressure on wild
+and presumably endangered resources. The
+study by De Jong (2000) of forest products and
+local forest management in three Bidayuh villages in West Kalimantan also confirms the coexistence of several NTFP exploitation systems
+involving various types of managed natural forests and domestication types.
+6. CONCLUSION
+From the discourse above, it is clear that the
+term “NTFPs” has proved difficult to define in
+a universally acceptable way. The definition and
+scope of the concept still remain a major challenge to research on and the development, and
+promotion of NTFPs. Conflicting interests and
+objectives have also subjected the terminology
+and usage of the term to a lot of ambiguity and
+inconsistencies. Nevertheless, the original con-
+
+servation/development proposition in the NTFP
+debate since its inception has been subjected to
+various discussions and revisions. Consequently,
+the concept is gradually evolving from a resource focus only on natural forests to include
+cultivation of products of forest origin. Most of
+the products that are being marketed as NTFPs
+originate both from natural forests, managed
+vegetations and domestication. In practice, the
+distinction between ‘wild’, semi or cultivated
+products will continue to be difficult. The transitions are so gradual and the products remain
+the same at the market level and therefore the
+terminology is unnecessary. NTFPs cannot be
+harvested indefinitely without proper management and domestication practices to sustain their
+yield. The products are being depleted at an
+alarming rate and forest dependent communities continue to lose them, either through overexploitation or habitat destruction. Since the
+objective of NTFPs is to improve livelihoods and
+conservation of forest resources, these resources
+can best be assured through a process of gradual
+domestication in human-modified systems. Unless urgent measures are taken to reverse the
+current trend of harvesting NTFPs from the wild,
+most of these products will disappear before they
+are documented and the term NTFPs will eventually be a myth. However, there is the need for
+sub-division of the NTFPs continuum into natural, managed, and cultivated in order to enhance
+their research development, and promotion.
+ACKNOWLEDGEMENT
+Our heartfelt gratitude goes to the Vlaamse
+Interuniversesitaire Raad (VLIR) for supporting the PhD of Mr. Albert Ahenkan at Vrije Universiteit Brussel (VUB), Belgium. We also sincerely thank Prof. Kwame Ameyaw Domfeh for
+reviewing this article. We thank staff of the International Centre for Enterprise and Sustainable Development (ICED), Accra, for assisting
+us during the literature review and data collection.
+REFERENCES
+Ahenkan A, Boon E 2010. Commercialization of non-timber
+forest products in Ghana: Processing, packaging and
+marketing. Food Agric and Env, 8: 962-969.
+Ahenkan A, Boon E 2008. Enhancing food security, poverty
+reduction and sustainable forest management in Ghana
+through Non-Timber Forest Products farming: Case
+study of Sefwi Wiawso District, published online by
+
+8
+GRIN Publishing at www.grin.com/de/preview/.html
+(Retrieved August, 8, 2010)
+Anderson AB 1990. Extraction and forest management by
+rural inhabitants in the Amazon estuary, In: AB
+Anderson (Ed.): Alternatives to Deforestation: Steps
+Towards Sustainable Use of the Amazon Rain Forest.
+New York: Columbia University Press, pp. 65-85.
+Arnold JEM, Ruiz Perez M 1998. The role of non-timber
+forest products in conservation and development. In: E
+Wollenberg, A Ingles (Eds.): Incomes from the Forest:
+Methods for the Development and Conservation of
+Forest Products for Local Communities. Bogor,
+Indonesia: CIFOR / IUCN, pp. 17–42.
+Arnold JEM, Ruiz Pérez M 2001. Can non-timber forest
+products match tropical conservation and development
+objectives? Ecol Econs, 39: 437-447.
+Andel TR van 2000. Non-timber Forest Products of the
+North-West District of Guyana Part II, A Field Guide.
+Tropenbos-Guyana Series 8. pp. 12-81
+Belcher B, Ruiz-Pérez M 2001. An international comparison
+of cases of forest product development: overview,
+description and data requirements. Center for
+International Forestry Research (CIFOR) Working
+Paper 23. Bogor, Indonesia: CIFOR.
+Belcher BM 2003. What isn’t a NTFP? International
+Forestry Review, 2: 161–168.
+Belcher B, Ruiz Pérez M, Achdiawan R 2005. Global patterns
+and trends in the use and management of commercial
+NTFPs: Implications for livelihoods and conservation.
+World Development, 9: 1435–1452.
+Belcher B, Schreckenberg K 2007. Commercialisation of nontimber forest products: A reality check. Development
+Policy Review, 3: 355-377.
+Bih F 2008. Assessment Methods for Non-Timber Forest
+Products in Off-Reserve Forests. Case Study of Goaso
+District, Ghana. PhD Thesis. Freiburg, Germany: der
+Albert-Ludwigs-Universität.
+Browder J O 1992. Social and economic constraints on the
+development of market-oriented extractive reserves in
+Amazon rain forests. Advances in Econ Botany, 9: 3341.
+Centre for Non-Timber Resources (CNTR) 2006. A future
+beneath the trees. An International Symposium on NonTimber Forest Products, Community Economic
+Development and Forest Conservation, Royal Roads
+University, Victoria, BC, pp. 2-12.
+Chandrasekharan C 1995. Terminology, definition and
+classification of forest products other than wood. In:
+Report of the International Expert Consultation on
+Non-Wood Forest Products. Yogyakarta, Indonesia.
+17-27 January 1995. Non-wood forest products No.
+3. Rome: FAO, pp. 345-380.
+Charlie S, Sheona S 2004. The importance of Non-Timber
+Forest Products in rural livelihood security and as safety
+nets: A review of evidence from South Africa. South
+Africa J of Science, 100: 58-664.
+Choudhury PR 2007. Forest-route to poverty alleviation Myths and realities: Analysis of NTFP-livelihood
+Linkages in some Indian states. A poster presented in
+the RRI Conference in Bangkok, 4-7 September 2007.
+Clark LE, Sunderland TCH 2004. The key Non-Timber
+Forest Products of central Africa. State of the
+knowledge. Technical Paper Number 122. Office of
+Sustainable Development, Bureau for Africa,
+Washington D.C.: USAID.
+Clark LE, Asaha S, Ndam N, Blackmore P 2004. Eru
+(Gnetum africanum and G. buchholzianum). In: LE
+Clark , TCH Sunderland (Eds.): The Key Non-Timber
+Forest Products of Central Africa: State of the
+Knowledge. Technical Paper No. 122, Washington
+
+ALBERT AHENKAN AND EMMANUEL BOON
+D.C.: USAID, pp. 37-62. URL: http://pdf.dec.org/
+pdf_docs/PNADA851.pd (Retrieved May 25, 2010).
+Clendon K 2001.The Role of Forest Food Resources in
+Village Livelihood Systems: A Study of Three Villages
+in Salavan Province. Lao PDR, Vientiane: IUCN/
+NAFRI Project
+Coppen J 1999. Can NTFPs come from a plantation? NTFP
+Biocultural Digest. IGC. Cited in Ros-Tonen MAF
+1999. Refining concepts, objectives and research
+questions for NTFP research. In: MAF Ros-Tonen
+(Ed.): Seminar Proceedings. NTFP Research in the
+Tropenbos Programme: Results and Perspectives, 28
+January 1999. Wageningen: The Tropenbos Foundation.
+Cunningham AB 2000. People, Wild Plant Use and
+Conservation. Applied Ethno-botany. London:
+Earthscan.
+de Beer JH, McDermott M 1989. The Economic Value of
+Non-Timber Forest Products in South- East Asia.
+Amsterdam, The Netherlands Committee for IUCN
+de Jong W, Campbell BM, Schroder JM 2000. Sustaining
+incomes from non- timber forest products: Introduction
+and synthesis. Int Tree Crops Journal, 4: 267-275.
+Dove MR 1994. A revisionist view of tropical deforestation
+and development. Env Cons, 1: 17-56.
+Falconer J 1997. Developing Research Frames for NonTimber Forest Products: Experience from Ghana: In:
+M Ruiz Pérez, JEM Arnold (Eds.): Current Issues in
+Non-timber Forest Products Research. Bogor,
+Indonesia: Centre for International Forestry Research,
+pp. 143-160.
+Food and Agriculture Organisation of the United Nations
+(FAO). 1995. Non Wood Forest Products for Rural
+Income and Sustainable Forestry. Rome: FAO NWFPs
+7.
+Food and Agriculture Organisation (FAO) 1999. An
+Overview of Non Timber Forest Products in the
+Mediterranean Region. Rome: FAO, pp. 1-9.
+Food and Agriculture Organisation (FAO) 1999. FAO
+Forestry – Towards a Harmonised Definition of NonWood Forest Products. Unasylva– No. 198, Vol. 50.
+Food and Agriculture Organisation (FAO) 2001. Trees
+Outside Forests - Towards Rural and Urban
+Integrated Resources Management Contribution to
+the Forest Resources Assessment 2000 Report. Rome:
+FAO.
+Food and Agriculture Organization (FAO) 2006. Can NonWood Forest Products Help Contribute to Achieving
+The Millennium Development Goals? Rome: FAO, pp.
+2-14.
+Food and Agricultural Organization (FAO) 2008. An
+Information Bulletin on Non-Wood Forest Products.
+Non-Wood News, FAO, Vol 17, Rome, pp. 12-21.
+Golam R, Madhav K, Ram PS 2008.The role of non-timber
+forest products in poverty reduction in India: Prospects
+and problems. Development in Practice, 6: 779 – 788.
+Hammen MC, van der Rodríguez CA 1996. Manipulation
+of forest succession by the Yukuna and Matapí Indians
+of the Colombian Amazon. Tropenbos Newsletter, 12:
+2-4.
+Homma AKO 1992. The dynamics of extraction in Amazonia:
+A historical perspective. Adv in Econ Botany, 9: 2331.
+Jean-Laurent P, Patrick R 2002. Non- Timber Forest
+Products: In: P Jean-Laurent, R Patrick (Eds): Between
+Poverty Alleviation and Market Forces. Bern,
+Switizerland: Trees and Forests in Development
+Cooperation, pp. 4-36.
+Kaimowitz D, Scherr SJ, White A 2004. A New Agenda for
+Forest Conservation and Poverty Reduction: Making
+
+NON-TIMBER FOREST PRODUCTS
+Markets Work for Low Income Producers. Washington,
+D.C.: Forest Trends.
+Marshall E, Schreckenberg K, Newton A 2003. Commercialization of non-timber forest products: First steps in
+analyzing the factors influencing success. Int Fores Rev,
+2: 128-137.
+Marshall E, Newton AC, Schreckenberg K 2005. Commercialization of Non-Timber Forest Products: First Steps
+in Analysing the Factors Influencing Success, Int Fores
+Rev, 5: 128-135
+Mathur RB, Shiva MP 1996. Standard NTFP classification
+and documentation manual. Dehra Dun: Khanna
+Bandhu, pp. 1-40.
+Mbuvi D, Boon E 2008. The livelihood potential of nonwood forest products: The case of Mbooni Division in
+Makueni District, Kenya, Envi Dev Sust, 11: 989–1004.
+Morris J, Bay A (Eds.) 2002. An overview of the NTFP Subsector in Vietnam. Forest Science Institute of Vietnam.
+Vietnam: NTFP Research Centre, pp. 4-12.
+Myers N 1988. Tropical forests: Much more than stocks of
+wood. J Trop Ecol, 4: 209–221.
+Ndoye O, Ruiz Pérez M, Eyebe A 1998. The markets of nontimber forest products in the humid forest zone of
+Cameroon. Overseas Development Institute, London:
+ODI Rural Development. Forestry Network Paper No.
+22c.
+Nepstad DC, Schwartzman S 1992. Non-timber products
+from tropical forests: evaluation of a conservation and
+development strategy. Advances in Economic Botany,
+9: vii–xii.
+Neumann R P, Hirsch E 2000. Commercialization of NonTimber Forest Products:Review and Analysis of
+Research. Bogor: Center for International Forestry
+Research and Rome: FAO.
+Peters CM 1996. The ecology and management of non-timber
+forests resources. World Bank Technical Paper Number
+322. Washington, DC: The World Bank.
+Peters CM, Gentry AH, Mendelsohn RO 1989. Valuation of
+an Amazonian. Forest Nature, 339: 655-656
+Plotkin M, Famolare L (Eds.) 1992. Sustainable Harvest
+and Marketing of Rain Forest Products. Washington
+D.C.: Conservation International. Island Press.
+Posey D 1982. The keepers of the forest. Garden, 6: 18–24.
+Rajesh R 2006. Analytical Review of the Definitions of Non
+Timber Forest Product. http://www.forestrynepal.org/
+article/rrajchal/456 (Retrieved May 25, 2010)
+Ros-Tonen MAF, Lammerts B EM, Dijkman W 1995.
+Commercial and Sustainable Extraction of NonTimber Forest Products. Towards a Policy and Management Oriented Research Strategy. Wageningen, the
+Netherlands: The Tropenbos Foundation.
+Ros-Tonen MAF, Andel T, Assies W, Dijk JFW, Duivenvoorden JF, Hammen MC, Jong W, Reinders M,
+Rodríguez Fernández CA, Valkenburg JLC 1998.
+Methods for Non-Timber Forest Products research.
+The Tropenbos Experience. Wageningen, The Netherlands: Tropenbos Documents 14.
+Ros-Tonen MAF 1999. Refining concepts, objectives and
+research questions for NTFP research. In: MAF RosTonen (Ed.): Seminar Proceedings. NTFP Research
+in the Tropenbos Pro-gramme: Results And Perspectives. Wageningen: The Tropenbos Foundation.
+Ros-Tonen MAF 2000. The role of non-timber forest products
+in sustainable tropical forest management. Europe J
+Wood and Wood Products, 3: 196-201
+Ros-Tonen MAF, Wiersum FK 2003. The Importance
+of Non-Timber Forest Products for Forest Based
+Rural Livelihoods: An Evolving Research Agenda.
+Amsterdam Research Institute for Global Issues and
+
+9
+Development Studies (AGIDS), The Netherlands,
+University of Amsterdam.
+Ros-Tonen MAF, Wiersum K F 2005. The scope of improving
+rural livelihoods through Non-Timber Forest Products:
+An evolving research agenda. Forests, Trees and
+Livelihoods, 15(2):129-148.
+Ruiz Perez M, Byron N (Eds.) 1999. A methodology to
+analyse divergent case studies of Non-Timber Forest
+Products and their development potential. Forest
+Science, 45(1): 1–14.
+Saxena NC 2003. Livelihood Diversification and NonTimber Forest Products in Orissa: Wider Lessons on
+the Scope for Policy Change? ODI Working Paper No.
+223. London, UK: Overseas Development Institute.
+Senanayake 1999. Can NTFPs come from a Plantation?
+NTFPs Biocultural Digest. IGC.
+Shackleton CM, Shackleton SE 2004. The importance of nontimber forest products in rural livelihood security and
+as safety nets: A review of evidence from South Africa.
+South African J Science, 100: 658-664.
+Sheil D, Wunder S 2002. The Value of Tropical Forest to
+Local Communities: Complications, Caveats and
+Cautions. Cons Ecology. 2: 1-9.
+Schreckenberg K, Awono A, Degrande A, Mbosso C, Ndoye
+O, Tchoundjeu Z 2006. What do non-timber products
+mean for forest conservation? IUCN Bulletin, 3: 1315.
+Shiva MP, Verma SK 2002. Approaches to Sustainable
+Forest Management and Biodiversity Conservation:
+With Pivotal Role of Non-timber Forest Products.
+Dehra Dun: Centre for Minor Forest Products, Valley
+Offset Printers.
+Subedi BP 2006. Linking Plant-based Enterprises and Local
+Communities to Bio-diversity Conservation in Nepal
+Himalaya. New Delhi: Adroit Publishers.
+Sunderland T, Ndoye O 2004. Forest Products, Livelihoods
+and Conservation. Case Studies of Non-Timber Forest
+Products Systems. Vol. 2 - Africa. Bogor: CIFOR, pp.
+1-55.
+Sunderland TCH, Harrison ST, Ndoye O 2004. Commercialisation of non-timber forest products in Africa:
+history, context and prospects. In: T Sunderland, O
+Ndoye (Eds.): Forest Products, Livelihoods and
+Conservation: Case Studies of Non-Timber Forest
+Product Systems. Volume 2: Africa. Bogor: CIFOR,
+pp. 1-24.
+Tropenbos 1999. NTFP Research in the Tropenbos Programme: Results and Perspectives. Wageningen:
+Tropenbos Foundation.
+van Dijk J, Wiersum F 1999. An assessment of non-wood
+forest product resources for the development of sustainable commercial extraction. In: TCH Sunderland,
+LE Clark, P Vantomme (Eds.): Non-wood Forest
+Products of Central Africa: Current Research Issues
+and Prospects for Conservation and Management.
+Rome: FAO, pp. 37-50.
+Wollenberg E, Ingles A (Eds.) 1998. Incomes from the forest.
+Methods for the development and conservation of forest
+products for local communities. CIFOR: IUCN.
+Wong Jenny LG 2000. The biometrics of Non-Timber Forest
+Product resource assessment: A review of current
+methodology. Report commissioned under the ZF0077
+pre-project of the Forest Research Programme of the
+United Kingdom Department for International
+Development. www.etfrn.org/etfrn/workshop/ntfp/
+download.html (Accessed June 2010)
+Wunder S, Angelsen A 2003. Exploring the forest-poverty
+link: Key concepts, issues and research implications.
+CIFOR Occasional Paper No. 40.
+
+

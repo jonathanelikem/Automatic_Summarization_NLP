@@ -1,0 +1,554 @@
+
+
+
+IJCCSM 10,1
+
+
+178
+
+Received 7 March 2017 Revised 7 May 2017 Accepted 8 May 2017
+
+Migrants' remittances
+A complementary source of financing adaptation to climate change at the local level in Ghana
+Issah Justice Musah-Surugu, Albert Ahenkan and Justice Nyigmah Bawole
+University of Ghana, Legon, Ghana, and
+Samuel Antwi Darkwah
+Mendel University in Brno, Brno, Czech Republic
+
+Abstract
+Purpose - The much-trumpeted Green Climate Fund and several other of?cial ?nancial mechanisms for ?nancing adaptation to climate change under the UN Framework Convention on Climate Change have fallen short in meeting adaptation needs. Many poorer people are still grappling with the scourge of climate change impacts. Consequently, there has been a dominant research focus on climate change ?nancing emanating from of?cial development assistance (ODA), Adaptation Fund, public expenditure and private sector support. However, there has been little attempt to examine how migrants' remittances can close adaptation ?nancing gaps at the local level, ostensibly creating a large research gap. This paper aims to argue that migrants' remittances provide a unique complementary opportunity for ?nancing adaptation and have a wider impact on those who are extremely vulnerable to climate change.
+Design/methodology/approach - The paper is aligned to the qualitative research approach. Both secondary and primary data acquired through interviews and focus group discussions were used for the study. Multiple sampling methods were also used to select the respondents.
+Findings - The ?ndings show that remittances are used to ?nance both incremental costs of households' infrastructure and consumption needs, as well as additional investment needs to be occasioned by ongoing or expected changes in climate.
+Originality/value - In the wake of dwindling government/public revenue, ODA and poor commitment of Annex II countries to ful?l their ?nancial obligations, the study makes the following recommendations: First, the ?nancial infrastructure underpinning money transfers in both sending and recipient countries should be improved to make transfers attractive. Second, signi?cant steps should be taken to reduce the fees on remittance services, especially for the small transfers typically made by poor migrants. Finally, adequate climatic information should be made available to local people to ensure that remittances are applied to the right adaptation option to avoid maladaptation.
+Keywords Migration, Climate change, Adaptation, Remittances, Financing
+Paper type Research paper
+
+
+
+
+
+
+
+
+International Journal of Climate Change Strategies and Management     Vol. 10 No. 1, 2018
+pp. 178-196
+Emerald Publishing Limited 1756-8692
+DOI 10.1108/IJCCSM-03-2017-0054
+
+(c) Issah Justice Musah-Surugu, Albert Ahenkan, Justice Nyigmah Bawole and Samuel Antwi Darkwah. Published by Emerald Group Publishing Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may reproduce, distribute, translate and create derivative works of this article (for both commercial & non-commercial purposes), subject to full attribution to the original publication and authors. The full terms of this licence may be seen at http://creativecommons.org/licences/by/4.0/legalcode
+
+
+
+
+1. Introduction
+Many people doubt the commitment of Annex II countries towards the much-trumpeted Paris agreement that sought to provide US$100bn ?nancial supports to developing countries to ?nance adaptation to climate change. This subsequent doubt is predicated on the likely complexities that may surround access to the fund and past experiences with the previous of?cial ?nancial pledges (obligations) under the UN Framework Convention on Climate Change (UNFCCC). Experiences show that a signi?cant amount of ?nancial commitments for adaptation by Annex II countries under previous climate change agreements were not ful?lled (Bendandi and Pauw, 2016; OECD, 2016; World Bank, 2015). The regrettable failure to ful?ll ?nancial commitments has resulted in signi?cant adaptation ?nancing gaps in many critical areas of the world (Olhoff et al., 2015; Ayers and Huq, 2009). The adaptation ?nance gap can be de?ned as the difference between the costs of meeting a given adaptation target and the amount of funding available to do so (OECD, 2016; World Bank, 2015; IPCC, 2014). Private sources of ?nancing in the form of remittances provide another signi?cant window for bridging this undesirable gap in adaptation ?nancing. This is possible because the value of remittances to developing countries is expected to increase roughly threefold more than the size of of?cial development assistance (ODA) to developing countries in 2017, supposedly demonstrating prominence for poorer households to diversify climate risk (OECD, 2016; World Bank, 2015).
+   While mounting evidence shows that migrants' remittances are valuable ?nancial resources owing to their propensity to reach the most vulnerable households directly than public ?nance ?ow, studies in the academic literature hardly discuss how migrants' remittances help close climate change ?nancing gaps at the local level (Bendandi and Pauw, 2016). Existing studies on adaptation ?nancing have only examined central government, donor ?nancing, foreign direct investment (FDI) and other private sector ?nancing (e.g weather-based insurance), neglecting that of migrants' remittances (Pauw, 2015; Olhoff et al., 2015; Pauw et al., 2015; Pauw et al., 2013; Ayers and Huq, 2009). The skewness of research has ostensibly created knowledge gaps on the role of remittances in ?nancing adaptation. Meanwhile, previous research evidence reveals that remittances have been a shock absorber for the poorest of the poor in many sub-Saharan African (SSA) countries that experienced climate-related perturbations (Couharde and Generoso, 2015; World Bank, 2015; Findley, 1994). Similarly, migrants' remittances can help fund adaptation-related investments ranging from short-term priorities such as purchasing essential irrigation equipment to longer-term goals related to health and education (Couharde and Generoso, 2015). Indeed, remittances have proved to be very resilient in supporting poorer households in times of shock since the onset of the global ?nancial crisis (World Bank, 2015). It is, therefore, imperative to examine how remittances re?ect adaptation ?nancing in developing countries, as remittances to the region are projected to peak at US$500bn by 2017, more than three times the size of ODA (Figure 1) (World Bank, 2015). This paper, therefore, investigates: First, the extent to which remittances have been used to ?nance climate change adaptation among rural households in Ghana. Second, the types/forms of investment often made from remittances by rural households and how such investments support climate change risk diversi?cation.
+   Despite inconclusive evidence on the micro and macro impact of migrants' remittances on economic development, many researchers have put forward a stunning argument that remittances are indispensable for households' climate risk management strategies (Couharde and Generoso, 2015; Findley, 1994). Their perspective is supported by the numerous studies initiated by the new economics of labour migration (NELM), which espouses the relative strength of remittances in general environmental risk management
+  
+Migrants' remittances
+
+
+179
+
+
+
+
+
+IJCCSM 10,1
+
+
+180
+
+
+
+Figure 1. Projections of remittance ?ow to developing countries
+
+
+
+
+(Lucas and Stark, 1985). Research ?ndings evince that for decades, many households have solely depended on remittances to survive during catastrophic environmental perturbations (Betzold, 2015; Couharde and Generoso, 2015; Ebeke and Combes, 2013; Findley, 1994). For example, during the great drought in the mid-1980s, large proportions of rural agricultural households in Mali depended on remittances for survival (Couharde and Generoso, 2015; Findley, 1994). The argument often made in support of remittances is that it helps poorer people to access ?nancial resources needed to create assets that would enable them to deal with both known and unexpected environmental challenges (Barnett and Webber, 2009). Conventionally, climatic shocks are more likely to disproportionately affect the poorest of the poor (vulnerable households), and it is expected that remittances would contribute to building their adaptive capacities to accommodate the stress, recover early or retreat successfully.
+   Migrants' remittances are crucial in climate change adaptation discourse in Ghana because they play a signi?cant role in the rural household economy. Ghana faces signi?cant challenges of adverse impacts of climate change which directly or indirectly affect its ecology, economy and society. It has been estimated that 4 per cent of internal migration in Ghana is driven by climate change-related impact (GLSS, 2014). The scope of the impact of climate change on an individual is dependent on the type of economic sectors the person belongs to and other demographic characteristics. As a result, many rural Ghanaians by their geographic location, poverty levels, occupation and gender are confronted with harsh realities of climate change impacts. The analysis of two decades of rainfall records from 22 synoptic weather stations in six agro-ecological areas in Ghana depicted a variable rate of change in observed precipitation. The projected mean temperature for Ghana shows that mean temperatures are likely to increase in the near future (2040) by 3.8 per cent (1.02°C) (GoG, 2015). Similarly, Ghana's third communication to the UNFCCC concludes that rainfall will continue to be uncertain and dif?cult to predict, while temperature would continue to increase. This suggests that the rural economy, which is climate-sensitive and coincidentally employs majority of people, would suffer the most. This article, therefore, attempts to interrogate the nexus between remittances and adaptation to climate change ?nancing, focusing on those households that are often hard-hit or likely to suffer the most from climatic change. The study concludes that remittances, in particular, can contribute
+
+
+
+
+substantially to adaptation ?nancing. However, remittances should not be seen as a substitute for public investments in adaptation ?nancing.
+
+2. Conceptual framework
+2.1 Migration, remittances and adaptation ?nancing: some theoretical evidence
+This part presents a condensed literature on the economics of migration, motives for migration, how migrants' remittances can help build adaptive capacity and, ?nally, the
+  
+Migrants' remittances
+
+
+181
+
+relative strength of remittances as complementary sources of ?nancing adaptation to 	
+climate change.
+   2.1.1 Does migration in?uence migrants' home country development? Though in the 1990s, pessimistic views pervaded the migration literature, with many scholars arguing that migration would at best have no positive impact on development (Lewis, 1986; Lipton, 1980), later treatise had a contrasting opinion (Lucas and Stark, 1985). Earlier studies posited that migration was less likely to reduce poverty but more likely to reinforce rural inequality (Lipton, 1980; Stahl, 1982). Furthermore, they argued that migration provokes the withdrawal of local human capital and the breakdown of stable local economies and creates undesirable intrusion of alien taste and non-productive and remittance-dependent communities. However, the NELM with an optimistic opinion opined that remittances tend to improve the welfare of poorer rural households and bridged the ?nancial inclusion gap (Betzold, 2015; Scheffran et al., 2012; Lucas and Stark, 1985; Adams, 1991). The later "migration optimist" therefore believed that migration could help reduce ?nancial exclusion margins of migrants' families and increase their local productive investments and risk diversi?cation portfolio. As evidenced in studies conducted by Tacoli (2011) across different locations, those who do not receive remittances from migrant relatives are the ones most vulnerable to environmental changes. Barnett and O'Neill (2012) concur, as they put forward that successful migrants affect origin communities positively. The reasons for migration include complex social, economic, political, environmental, cultural and technological factors (Black et al., 2011). Despite these complex reasons, Black et al. (2011) agree that environmental perturbations of the "Anthropocene" will increasingly in?uence migration.
+   2.1.2 The impact of migrants' remittances on recipients' adaptive capacity. Both the "altruistic" and "sel?sh" reasons (for further and better explanation, see Lucas and Stark, 1985) from remitting affect how those left behind respond to both ongoing and expected environmental changes (Scheffran et al., 2012; Black et al., 2011). Studies covering a larger sample of countries have found evidence that remittances tend to lower poverty levels and increase resilience (Tacoli, 2011; Adams and Page, 2005). According to Scheffran et al. (2012), remittances directly in?uence the resource base, economic well-being and environmental resilience of the recipient community. Large existing empirical evidence shows that remittances create a robust automated welfare system that conveniently transfers purchasing power from relatively better individuals to the core poor (Tacoli, 2011; Adams, 2006). The argument has been that remittances reduce poverty, smoothen consumption, affect labor supply and provide working capital for those that are cut off from the imperfect capital market. Although, many scholars are of the view that a sizeable portion of remitted funds are equally spent on conspicuous consumption or what some critics called non-productive investments. However, this notion has been greatly criticised on grounds that consumption, especially on food, household assets and welfare, constitutes adaptation strategies that eventually reduce either short or long-term exposure to environmental risk (see also, Table I for categories of adaptation according to IPCC, 2014) (Ngoma and Ismail, 2013). Even those who spend their funds on the so-called "non-productive investment" derive instantaneous result vital for immediate survival.
+
+
+
+
+IJCCSM 10,1
+
+
+
+    Adaptation including incremental & transformational adjustments financed from remittances Categories	Remittance-induced adaptation approaches	Sources
+
+Human development
+
+Improved access to education, nutrition, health facilities, energy, safe housing and settlement structures
+
+IPCC (2014), Tacoli (2011), Adams (2006), Ngoma and Ismail (2013), Ratha (2007)
+
+182
+
+Poverty alleviation	Improved access to and control of
+productive local resources; purchasing weather-based insurance schemes
+Livelihood security	Consumption smoothing; livelihood
+diversi?cation; improved infrastructure; access to technology; increased decision- making power; changed cropping, livestock and aquaculture practices
+
+Black et al. (2011), IPCC (2014),
+Tacoli (2011), Adams and Page (2005), Ratha (2007)
+IPCC (2014), Agrawala and Fankhauser (2008), Leliveld (1997), Quartey and Blankson (2004), World Bank (2015), Ratha (2007), Scheffran et al. (2012)
+
+Disaster risk management
+
+Spatial or land-use planning
+
+Early warning systems technologies; diversifying water resources; improved drainage; ?ood management infrastructure Construction of resilient house facility, other home infrastructure and services
+
+IPCC (2014), Agrawala and Fankhauser (2008), Ngoma and Ismail     (2013) Agrawala and Fankhauser (2008), IPCC (2014), Lucas and Stark (1985), Ratha (2007)
+
+
+
+Table I.
+
+Structural/physical	Technological options: new crop and animal
+varieties; technologies; water-saving technologies; food storage and preservation facilities
+
+Agrawala and Fankhauser (2008), IPCC (2014), Couharde and Generoso, 2015
+
+Possible adaptation
+
+Ecosystem-based options: seed banks	Lucas and Stark (1985), IPCC (2014)
+
+approaches which can attract remittance-based investment and
+
+Services: food banks, non-farm practices; small-scale sustainable enterprises
+
+Agrawala and Fankhauser (2008), IPCC (2014), Fonta et al. (2015),
+Webb and Reardon, 1992, Couharde and Generoso, 2015
+
+expenditure	Source: Adapted from IPCC (2014) and other sources listed in the "Sources" column
+
+
+
+2.1.3 Why are remittances a promising complementary adaptation ?nancing window? The cost of ?nancing adaptation to climate change in SSA is enormous, despite dif?culties in estimating the actual cost of adaptation. However, various estimates show that tens of billions of dollars would be required annually (Ayers, 2009; Müller, 2008; Agrawala and Fankhauser, 2008). Arguably, there are three main avenues for meeting these costs: ?nancing scheme under UNFCCC, private sector funds including FDI and public expenditure. Relying on these sources for funding micro-level adaptation needs is unlikely to meet the required levels of funding, particularly given that contributions are meant to supplement (additional to) existing public expenditure, development commitments and corporate social responsibilities (Ayers, 2009). Remittances could therefore constitute a complementary adaptation ?nancing window to the existing but ailing ?nancing stream for several reasons.
+   The ?rst reason according to Bendandi and Pauw (2016) is that remittances meet the ten international criteria for adaptation ?nance (see Pauw et al., 2015 for the ten criteria). Second, remittances are more stable than FDI (OECD, 2016). As argued by Gupta et al. (2009) and Ratha (2007), remittances are less volatile to both of?cial aid and FDI, which constitute a larger chunk of public ?nancing of adaptation in developing countries. Third, remittances conspicuously increase in times of economic distress in migrants' home countries, given the altruistic motivation of migrants to remit (Quartey and Blankson, 2004). Fourth, remittances
+
+
+
+
+straightforwardly penetrate vulnerable communities where the need for adaptation measures has always been higher but often hard to be reached by public and traditional private sector investment (Bendandi and Pauw, 2016). Finally, but not least, projected volume of remittance ?ow to developing countries is expected to increase more than other public and private investment in developing economies (OECD, 2016; World Bank, 2015; Bendandi and Pauw, 2016). Undoubtedly, these factors make remittances a promising complementary ?nancing window if not an alternative to the traditional adaptation ?nancing system. For example, adaptation practices of households in rural areas have been linked to multiples forces, among which remittances constitute great sources of ?nancial resources required to boost adaptive capacity (Suleri and Savage, 2006).
+   2.1.4 Adaptation strategies that predominantly attract remittance-based investments. The ?uidity of the concept of adaptation has inherently created a theoretical debate on what constitutes adaptation (Smith and Hitz, 2002). It is not surprising that most de?nitions take a macro perspective. Such de?nitions often favour "hard" (irrigation, sea walls and dykes) and "soft" (information sharing, capacity building and insurance) measures (Kumamoto and Mills, 2012). The macro perspective woefully fails to account for micro-level adaptation practices/investments such as increasing land holding, holding multiple farms in different locations, intensi?cation, consumption smoothing, infrastructural renovations, human capital development, risk diversi?cation, healthcare investment, expansion of livelihood opportunities, undertaking off-farm investment, resettlement, etc. With a micro perspective, adaptation in this study is seen as "stock" and "?ow" household strategies and adjustments taken as a response to ongoing or expected climate variability. Given this de?nition, it is essential to ?nd out if remittances could provide a funding window for such micro-level adaptation strategies. Despite the limited empirical studies to respond to this question, the motivations for remitting and the nature of households' adaptation investment needs at the local level can provide a lead. A review of the literature on adaptation strategies at the household level has been succinctly presented in Table I. The table con?rms that household adaptation strategies in developing countries cover different categories of issues such as human development, poverty alleviation, livelihood security, disaster management, spatial planning and structural strategies. These issues present incremental infrastructural, consumption and investment needs at the household level which could be ?nanced from alternative sources, including remittances, as clearly depicted in Figure 2.
+   According to Lucas and Stark (1985), the motivation for remitting includes both self- interest and pure altruism, such as the need to care for those left behind, invest in asset holdings back at home, erect residential facility to aid return, etc. Indeed, these motives for remitting create the opportunity for the recipient to have access to funds to take care of climate change-induced incremental cost and investment opportunities. Previous studies have con?rmed that remittances have been used to support most of the households' adaptation strategies mentioned in Table I. For example, using large data, the World Bank (2015) con?rmed that households in Burkina Faso and Senegal spend a large proportion of their remittances received on the incremental cost of household consumption owing to changing temperature and precipitation. This ?nding concurs with several previous studies that conclude that remittances are spent on food, education, health and physical investments that build adaptive capacity of people vulnerable to climate change (Scheffran et al., 2012; Ratha, 2007; Lucas and Stark, 1985; Leliveld, 1997; Gustafsson and Makonnen, 1993; Quartey and Blankson, 2004).
+   In the seminal works of Lucas and Stark (1985), they concluded that remittances are a signi?cant ?nancial stream for recipients to build their adaptive capacity against extreme
+  
+Migrants' remittances
+
+
+183
+
+
+
+
+
+IJCCSM 10,1
+
+
+184
+
+
+
+
+
+
+
+
+Remittances
+
+
+Uses	Likely Implication
+
+
+
+
+High impact
+
+
+
+
+
+Figure 2. Remittance-induced adaptation expenditure and investment
+
+
+
+
+
+
+Note: Conceptual framework by author, 2016
+
+
+Low impact
+
+
+environmental risk. The capacity of remittances to support poorer households to maintain a relative stable level of consumption and productive investments lead to their conclusion (Couharde and Generoso, 2015). In other empirical studies conducted across SSA (Lesotho, Ghana, Mali, etc.), remittances enhance household food security (Scheffran et al., 2012; Leliveld, 1997; Gustafsson and Makonnen, 1993; Quartey and Blankson, 2004). There is also a wealth of literature that shows agreement that remittances are used to boost household investments. Such studies include Adams' (2002) studies in Pakistan, where he found that households receiving remittances have a greater savings propensity than households bene?ting from a pension. There are equally other research works arguing that remittances support migrant families back home to undertake off-farm investment when crops fail or livestock dies (Barrett et al., 2001). In the mid-1980s, rural folk's ability to cope with drought in Burkina Faso was strongly associated with the extent of their non-farm diversi?cation patterns (Webb and Reardon, 1992). For instance, Fonta et al. (2015) observed in their study that about 3.4 per cent of remittances are used for investment into small businesses.
+   There is also evidence that many recipients used their remittances to access improved farm technologies. This assertion is highly supported by Lucas and Stark (1985), who indicated that remittances help rural farmers to improve their cereal production and livestock accumulation simply because their ?nancial inclusion has helped them acquire new technologies that boost productivity. Equally important are those who invest their funds in hiring extra labour for their farm work and to dig wells and canals to improve irrigation, while others have also used their funds to construct stronger housing infrastructure to weather heavy winds, rains and storms. Given these uses of remittances, it is clear to conclude that remittances can provide a complementary window for ?nancing climate change adaption. The evidence adduced from the literature has therefore been used to develop a clear and concise conceptual framework that provides different options of adaption strategies that attract remittance investment. Figure 2 provides a framework that demonstrates that remittances are principally used for three major but interrelated adaptation-driven investments covering all the major categories of adaptation needs at the household level identi?ed in Table I. These include ?nancing incremental investment needs of households, which is more likely to have a long-term impact compared to other options; infrastructure needs, which are also likely to have a medium-term effect on households' adaptive capacity; and, ?nally, consumption needs, which are likely to have the least multiplier effect on adaptation.
+
+
+
+
+3. Research methodology and ?eld work
+The data in this study are from a qualitative ?eld study conducted in six selected communities from six different local governments in Ghana. The ?eld study took place between February and September 2016 as part of a larger study focusing on climate change adaptation at the local level in Ghana. Qualitative research method was considered the most appropriate procedure for understanding the extent to which remittances in?uence household's capacity to ?nance adaptation to climate change. Also, the qualitative research approach offered the opportunity to extract the perspectives and thoughts of remittance- receiving households in an in-depth manner that represented the reality of how they use remittances to ?nance adaptation to climate change. The six local governments selected for the study were from the three ecological zones of Ghana that are highly affected by climate change:
+(1) the Coastal Savanna (Accra Metropolitan Assembly and the Ga West Municipal Assembly);
+(2) the Transitional Zone (Ejural Municipal and Techiman Municipal Assembly); and
+(3) the Guinea Savanna (Bole-Bamboi and Sawla-Tuna Kalba District).
+These ecological zones were chosen based on the recommendation of Ghana's third communication to the UNFCCC (2014) that they are vulnerable to the impact of climate change.
+   Using the multi-stage sampling method, the ?eldwork involved 84 individuals, of which 18 were principally remittance-receiving households. Out of the 18 remittance-receiving respondents, three each came from the six selected districts. These 18 participants indicated that they receive remittances from family members who have migrated to other parts of Ghana or abroad for greener pastures. In the views of Creswell (2011, p. 209), a qualitative research typically aims at studying few individuals or a few cases. Similarly, Guest et al. (2006) argue that data saturation can occur within the ?rst 12 interviews in a qualitative research and after that very few new phenomena are likely to emerge. Given these circumstances, we believe that the sample provides a scienti?c basis for the study. As a qualitative research, documentary analysis and semi-structured interviews were the main data collection instruments used. Both secondary and primary data were used. The secondary data were derived from literature review. The primary data came from focus group discussions with 84 people and key informants who were purposively selected. The focus group had seven members each for 12 different groups. In all, two focus group discussions were conducted in each local government, consisting of both different male and female groups.
+   Out of the focus group discussions, we discovered those who have been receiving remittances from migrants using the snowballing sampling method. The 18 key informant interviews included ten female and eight male participants. The interviews were done in local Ghanaian languages and English, depending on which language the participants were familiar with. The interviews were verbal and face-to-face and were recorded and transcribed subsequently. Transcribed data were read on several occasions to deduce themes for effective analysis and discussion. The various interviews explored in detail the effects of climate change on households' livelihood, adaptation practices and the effects of remittances on ?nancing adaptation. These interviews provided a greater insight into the diverse "stories" of remittance-receiving households, and how remittances are used for risk diversi?cation towards successful climate change adaptation. The multiple sources of information were used to triangulate the data to ensure reliability and consistency. As this
+  
+Migrants' remittances
+
+
+185
+
+
+
+
+
+IJCCSM 10,1
+
+
+186
+
+study was a qualitative study, there was no attempt to select a statistically representative sample of remittance-receiving households. To avoid biases, remittance-receiving households were purposively drawn throughout the six local governments from the three vulnerable ecological zones through a snowballing approach. This gave a broader representation of the six selected local governments within the three ecological zones. The surveys included quantitative data on household income, expenditure, assets, remittance usage, adaptation practices, climate change risk and, ?nally, the changes experienced by the
+
+	 household as a result of receiving remittances.
+
+4. Data analysis
+4.1 Perceptions of climate variability and impact at the local level
+The ?eld data con?rmed that the evidence of climate change is unanimous among the study respondents. Not only do the study participants believe that precipitation, temperature, clouds, humidity, wind speed and sunshine have changed dramatically over the past decades, but also there are evidences of extreme events and uncertainties. A point made by a respondent below conveys the perception of local people on climate change:
+It's only a child that doesn't know that our climate has changed dramatically within the last four decades. The various seasons for farming, ?shing, hunting etc. has also changed exponentially since most of these activities are climatic sensitive. The sad aspect of the change is the signi?cant levels of uncertainties. It's very di?cult to say for sure that it would rain or not using our indigenous knowledge.
+There is ample evidence from the data collected that climate change is affecting smallholder farmers and ?shermen with regard to many human development metrics. Just as reported by the Gardian (2016), respondents from the coastal savanna, which was part of the study area, indicated that worsening sea level rise and coastal and riverine erosion have con?scated many of their homes and livelihood sources. Opinion leader reports:
+Some ?shing communities along our coast are disappearing at a signi?cant speed. The level at which the sea level is rising coupled with massive tidal waves continues to push wet sand into our homes. Most of our properties which were once miles away from the sea are now found some meters deep into the sea.
+Similarly, some respondents from the transitional and Guinea Savannah ecological zone also highlighted the evidence of ongoing climatic change and indicated that there are shorter rainfall seasons in recent years than it used to be. Others also reported that the distribution of rainfall has changed dramatically, while strange pests that survive in high temperatures have been introduced into their farms. One respondent stated the following:
+In time past we had precise knowledge of every season (raining and Harmattan) which aided e?cient households' decision making on farming, roo?ng of houses, harvesting, travelling, etc., but in recent times we are unable to plan systematically because rainfall and temperatures could no longer be predicted.
+The respondents mentioned several directly and indirectly impacts of climate change affecting livelihood, con?rming ?ndings of previous studies (Yaro, 2013; Tachie-Obeng et al., 2013). Major ones among these have been summarised in Table II. Given the level of uncertainties and reported impact of climate change by the respondents across all the study areas, it is instructive for local climatic information to drive various adaptation options likely to be taken by people in these areas. A study caried out by Tachie-Obeng et al. (2013) supports this assertion because their ?ndings were that in the savanna zone of Ghana, a six- week delay in sowing was the most suitable way to offset the adverse effects of potential
+
+
+
+
+climate variability, which could increase yields of 8.2 per cent. However, the local farmer (local people) has limited access to climate information that would inform optimal adaptation strategies.
+
+4.2 Coping with climate change at the local level
+The study reveals the use of different adaptation strategies to cope with both expected and ongoing catastrophic impacts of climate variability. Respondents highlighted the uses of
+  
+Migrants' remittances
+
+
+187
+
+indigenous strategies and other unconventional adaptation methods. The ?eld data further 	
+demonstrate that respondents used indigenous knowledge systems such as observing the appearance of seasonal birds, migration direction of certain birds, animal mating periods and the ?owering of particular ?ora as a signal of change in season and the expected levels of temperature and precipitation. This concurs with the literature that traditional people often use the stock of knowledge acquired in their immediate environment to build their adaptive capacity against climatic change (Salick and Byg, 2007). While some respondents have adopted multi-cropping as a traditional adaptation strategy, others have resorted to off-farm or off-?shing activities such as trading, manual labour work, hunting, weaving, etc. Evidence of traditional adaptation strategy is reported by a respondent below:
+I have constructed huge barrels for my wives. They use this to store enough water for the house. In the past, these big barrels were not necessary because there was su?cient water in our wells and water tributaries throughout the year.
+There was also evidence of gradual adoption of the modern adaptation techniques. Modern adaptation techniques were generally using climatic information received from weather stations, agricultural extension of?cers and other non-state agency out?ts to plan. Respondents were unanimous in their opinion that modern adaptation techniques were motivated by both government and non-state actors. Modern adaptation methods received from local development agencies include agroforestry management, seed production, energy saving, bush?re management, soil water conservation, soil fertility management, etc. Our interaction with respondents and observations from their farms showed that some farmers had received training on how to nurse, transplant and graft seeds. Farmers have also been educated on planting trees around their farms and households for the purpose of protection against storm surges. According to the study participants, these trainings have improved yields marginally, despite observed changes in rainfall and temperature. Here is a statement from a study participant alluding to the bene?ts of modern adaptation strategies:
+We have been using new methods to adapt to climate change. We have been thought of many ways to improve our farm production through residue management and composting practices.
+
+
+
+Farmers	Fishermen
+
+Poor crop yield	Low ?sh stock
+High storms	High tidal waves
+Flooding	Sea level rise
+High temperature	Low ?sh stock
+Unpredictable raining season	Destruction of canoes by strong tidal waves
+Long drought season	Con?scation of playgrounds Poor rainfall distribution
+Strange insets
+Source: Field data, 2016
+
+
+
+
+
+
+         Table II. Respondent's views on the most common impacts of climate
+change
+
+
+
+
+
+
+
+IJCCSM 10,1
+
+
+188
+
+The total harvest from this farm is four times more than what I used to harvest before practising these conventional farming methods.
+
+4.3 Perceived cost of adaptation and the role of remittances
+The study noted that the cost of adaptation among the respondents was signi?cantly high. Farmers and ?sherfolks measure the cost of climate change based on the direct impacts of perceived climate change. Respondents provided numerous lists of perceived climate change cost. Major among them are the cost of relocation, the impact of bush?re on their farm products, the cost of rebuilding perceived climate change-induced property destruction, the cost of expanding farms, the cost of holding different farms in different locations, the cost of spending several days ?shing, etc. In general, the perceived incremental cost of individual trade or livelihood constituted the cost of climate change. The majority of the respondents demonstrated the lack of required resource-sets to adapt to climate change effectively. One respondent described the cost of climate change to his household as follows:
+If you want to know the cost of climate change to my household then you need to take your time and write the following: the cost of planting and replanting three time for the same purpose due to rains, eventual poor harvest, rebuilding storage facilities destroyed by heavy storms, construction of water harvesting facility, depletion of my animal stock, cost of heat-related diseases and many others.
+In an attempt to ascertain how respondents ?nanced these perceived climate-induced costs using remittances, the 18 respondents who were remittance recipients were asked about the various uses of remittances received. On average, each remittance-receiving household used their funds for three major different but interrelated risk diversi?cation activities. Largely, remittances are used to procure basic needs to improve the household's welfare. Commonly purchased basic needs include food, housing material and other consumer goods. It was noted that remittances had a substantial impact on households' nutrition and health, as most of the rural farmers had some cereals but did not have any supporting ingredient to ensure an appropriate balanced diet. Remittances provided them with income to purchase off-farm nutritional items to support feeding. One respondent stated the following:
+For me, I principally use my money to buy ingredients for soup and other food items for breakfast. If not because of the small money I receive from my brother in Accra my family and I would always eat the same kind of food throughout the day. The challenge for us in this village is that we do not make any extra income apart from our farm products. In the past, I was able to harvest enough maize and yam and therefore sell some to earn extra income which was meant for purchasing items we don't produce. But recently, yields from the farms have not been encouraging. Thanks to my brother.
+It was noted that remittances were used to purchase new ?shing nets and for repairing canoes, digging wells, building water harvesting containers/tanks and buying fertiliser, which aided in building the adaptive capacities of the respondents. Others also used their remittances to acquire technologies such as mobile phones that could support their farming activities. One farmer stated the following:
+My brother, I am sure you know for several years ago we farmers have long relied on traditional weather indicators to predict rains and prepare our farm lands for planting. For example, my parents have often used periods that weaver bird builds its nest, trees blooming, behavior of plants and animals to ?gure out when and what crops to grow. However, these ancestral weather forecasting methods have become unreliable a?ecting our work as farmers. However, with the ?nancial assistance of my nephew in the city, I have bought a mobile phone that provides me
+
+
+
+
+whether information from a local weather station. Now I plant at the right time, I don't lose my seeds, and I harvest enough then in the past when I sole relied on traditional weather forecasting.
+A large proportion of remittances received is spent on climate change impact relief activities than preparedness. This apparently does not make the recipient self-reliant. Self-reliance or stronger adaptive capacities could only be built if a major part of remittances is spent on climate risk preparedness such as investment in climate-resistant income streams and infrastructure. Figure 3 shows that out of the 18 respondents, 12 use their remittances for procuring household consumable goods, while 6 use received remittances to provide other basic needs. It appears that such adaptation ?nancing strategies (purchasing of consumable products) are mostly recovery in nature (often referred to as "?ow" adaptation), as against preparedness-driven strategies (often referred to as "stock" adaptation) that have sustainable resilience implications.
+
+4.4 Sources of remittances that support households' adaptation ?nancing
+Remittances received by the various households came from varied sources. The sources included both local and international streams distributed across formal and informal sectors. As indicated on Figure 4(a), 61.1 and 11.1 per cent of remittances received came from domestic sources but were sent by individuals outside and within the district/region of the recipients, respectively. Also, Figure 4(a) further con?rms that 11.1 per cent of total remittances received came from abroad but were transferred by people living outside West Africa. The remaining 16.7 per cent again came from abroad but were sent by those living within West Africa. On the other hand, Figure 4(b) indicates that 44 and 56 per cent of remittances received came from the formal and the informal sector, respectively. The data clearly show that most of the migrants who remitted were semi-skilled labourers and therefore apply their trade within the informal economy. It further con?rms the literature that most people from SAA migrate within the sub-region. Finally, the data show clearly that there are larger volumes of remittances moving across the informal economy. The statement below from one respondent from the Guinea Savannah ecological zone further
+  
+Migrants' remittances
+
+
+189
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Figure 3. How remittances were spent by recipients
+
+
+
+
+
+
+
+IJCCSM 10,1
+
+
+190
+
+
+
+
+Figure 4. Geographical and sectorial distribution of remittances received
+
+
+
+
+
+highlights the signi?cance of the informal economy in remittances and ?nancing adaptation to climate change:
+In this household, we have four family members working in Accra and Kumasi as "kayaye" (head porters) who send us monthly money for consumption and investment into livestock. One of them refurbished the building in which we sit today.
+
+4.5 The share of remittances in household's income for adaptation to climate change
+In many poorer countries, remittances represent a signi?cant proportion of household's income. It was evident across all the 18 key informants that remittances were major sources of income for ?nancing adaptation to climate change. It was observed that remittances directly supplemented income from agriculture, ?shing, off-farm employment and livestock. For few of the households, remittances were the signi?cant source of income contributing almost 90 per cent. It was also observed that remittances had indirect and indirect sustainable income ?ow allegedly coming from the investment that recipients make with their funds. One respondent explained as follows:
+I have a lot of cashews today not because I am a cashew farmer. However, I often use part of my remittances I received from my son to hedge for cashew. Many of the cashew farmers come to me for loans and promise to pay back with extra kilos of cashew. This provides me with huge ?nancial returns during the cashew harvesting season.
+
+4.6 Discussion of data
+4.6.1 Financing climate change-induced incremental cost related to consumption. The data gathered support the claims that in times of environmental shocks, remittances provide a
+
+
+
+
+signi?cant ?nancial buffer for poorer people (Couharde and Generoso, 2015; World Bank, 2015; Quartey and Blankson, 2004; Findley, 1994). It was noted throughout the interviews with remittance-recipient households that incomes from their traditional occupation are extremely inadequate to provide them with the necessary household needs, and on most occasions, they have largely depended on remittances. It was noted that without remittances, most of these families would face an extreme level of food insecurity and would also be exempted from accessing healthcare, education and vital services considered as "stock adaptation" strategies. The use of remittances for consumptive purposes by families hard-hit by climate change con?rms Couharde and Generoso's (2015) ?ndings that remittances have a signi?cant impact on the West African economies that are highly sensitive to rainfall shocks. Finally, the data again con?rm the argument that a large proportion of remittances are spent on consumption, which has relatively minimal impact on long-term adaptation goals, as over 50 per cent of remittances were largely utilised on consumption-related expenditure.
+   4.6.2 Undertaking precautionary saving and investment as insurance against climate risk. Using remittances for precautionary savings and investment could increase the risk- bearing capacity of vulnerable households against climate change shocks (Couharde and Generoso, 2015). This is because access to remittances helps rural households to diversify their income tributaries to include non-farm or non-?shing activities. Such diversi?cation is based on anticipation of possible failures in their traditional revenue streams owing to climatic variability. For many rural dwellers, investment helps them to maintain a range of income activities that protect them against expected poor agricultural or ?shing season. In SSA, agricultural activities are seasonal and environmental changes are full of uncertainty. As a result, many rural households tend to reduce risk by diversifying into activities with lower covariate risk to make consumption and incomes less volatile. It was also observed within the transitional and Guinea ecological zones of the study area that many non-farming income activities tend to peak during the dry seasons when there is a decline in farm activities, which forces smallholder farmers to diversify their labour. However, it is remittance-recipient households that are more capable of engaging in other income- generating activities such as livestock rearing and marketing and retailing during the off- season. The use of remittances to invest in various productive activities such as risk diversi?cation mechanism also con?rms some previous studies that are of the opinion that remittances can be counter-cyclical, which could be used to invest in physical and human capital (Cooray and Mallick, 2013).
+   4.6.3 Financing climate change-induced incremental cost related to infrastructure. Remittance recipients' households have on many occasions used their funds to improve or reconstruct their ageing houses and canoes or build new infrastructure in an attempt to boost their adaptive capacity against the impact of climate change. It has been reported that an effectively globalised communication system and lived experiences have provided good climate knowledge to farmers and ?sherfolks in Africa (Mertz et al., 2009; Yaro, 2013). As a result, farmers and ?sherfolks usually devise means to adapt to expected impacts of climate change and therefore invest some of their income (e.g. remittances) in activities that could boost their adaptive capacity. The data from the respondents show that the decision to invest part of remittances in sustainable activities was based on their awareness of climate change. This ?nding is consistent with previous studies which show that rural people in SSA have good knowledge of climate change and its related impacts (Mertz et al., 2009; Mortimore and Adams, 2001). Similarly, surveying 11 countries from SAA, Maddison (2007) noted that signi?cant numbers of rural people are aware that climate is changing and therefore ?nd a way to
+  
+Migrants' remittances
+
+
+191
+
+
+
+
+
+IJCCSM 10,1
+
+
+192
+
+adapt, accommodate or retreat. Evidence from the data also con?rms that successful transition from hard-hit disaster homes to a healthy and resilient home in the study areas largely depended on access to remittances. This con?rms King et al.'s (2014) claim that remittances support households to reduce their exposure to ?ood risk by building a ?ood-resistant infrastructure or relocating to a safer area.
+
+5. Conclusion and recommendations
+
+	 In summary, a large proportion of scholarly evidence posits that the marginal effects of anthropogenic climate change are signi?cant and likely to soar over time. The poor are likely to bear the highest risk owing to their limited adaptive capacity. Invariably, SAA countries with deeply rooted levels of poverty would be disproportionately affected, as they constitute half of the world's indigent (World Bank, 2015). The often-contentious and inconclusive debates at the various conferences of parties that sought to propose funding for climate change show that ?nancing the cost of adaptation among the world's poor continues to be a nightmare of many development stakeholders. Past global efforts aimed at providing suf?cient resources for adaptation have fallen short of expectation. Indeed, disappointing experiences with previous adaptation ?nancing regimes cast doubt on the effectiveness of the highly touted 100 billion new pledge that emerged from Paris in 2015. Similarly, given the level of corruption and institutional failure in many parts of SAA, there are likelihoods that proceeds from the US$100bn and other similar public ?nancial resources aimed at tackling adaptation to climate change are likely not to reach those who critically need adaptation support. It is, therefore, relevant to look into other private sources of ?nancing that have a greater propensity to reach the poorest of the poor.
+   In this study, it is clear that remittances present reasonable complementary funding opportunity at the local level in Ghana. In comparison to government microeconomic stabilisation policies and other ?scal reforms, remittances could offer faster and cost- effective means of adapting to climatic shocks given that government-led programmes often take a post-climate shock approach. Speci?cally, this study found that signi?cant parts of remittances are used for consumptive purposes compared to investment in stock adaptation projects (infrastructure and investment portfolios). Additionally, it noted that household that invest remittance income in climate resilient enterprises is more likely to reduce their exposure to climate risk over an extended period compared to those that pend their on smotthing their consumption. The study further found that remittances could help close the ?nancial exclusion gaps given the fact that some recipients save their funds with micro?nance institutions. Again, there is evidence that remittances absorb part of the economic losses owing to climate-related natural disasters, thereby lessening relief service required from local and central government.
+   Despite the fact that remittances offer a signi?cant window for ?nancing adaptation at the micro level, it is not enough to undertake large-scale interventions that could have greater marginal social bene?ts. Consequently, remittances should perform an auxiliary funding role and not be seen as a sole replacement for public investment. The study, therefore, recommends that both the national government and the international community should re-examine how other non-traditional sources of income to poorer households could be improved. Also, it is important that the medium for remitting and associated costs (at national and international level) are reviewed to make remitting more attractive. Furthermore, the evidence that remittances signi?cantly support adaptation should provoke a new global debate on climate refugees, as these migrants are more likely to contribute to building the adaptive capacities of many households
+
+
+
+
+that for some reasons decide to accommodate the impacts of climate change and not retreat (migrate). As clearly argued by Scheffran et al. (2012), migration creates new opportunities, resources and networks that can build social resilience in migrants' home country. Finally, climate information services providers should ensure that adequate and timeous climatic information is made available to inform remittance-induced adaptation decisions, so as to avoid maladaptation.
+
+References
+Adams, R. (2006), "Remittances, poverty and investment in Guatemala", International Migration, Remittances and the Brain Drain, World Bank, Washington, DC, pp. 53-80.
+Adams, R.H. (2002), "Precautionary saving from different sources of income: evidence from rural Pakistan", Policy Research Working Paper No. 2761, World Bank, Washington, DC.
+Adams Jr, R.H. (1991), "The economic uses and impact of international remittances in rural Egypt",
+Economic Development and Cultural Change, Vol. 39 No. 4, pp. 695-722.
+Adams, R.H. and Page, J. (2005), "Do international migration and remittances reduce poverty in developing countries?", World Development, Vol. 33 No. 10, pp. 1645-1669.
+Agrawala, S. and Fankhauser, S. (Eds) (2008), Economic Aspects of Adaptation to Climate Change: Costs, Bene?ts and Policy Instruments, OECD, Paris.
+Ayers, J. (2009), "Financing urban adaptation", in Bicknell, J. (Ed.), Adapting Cities to Climate Change, Earthscan, London.
+Ayers, J.M. and Huq, S. (2009), "Supporting adaptation to climate change: what role for of?cial development assistance?", Development Policy Review, Vol. 27 No. 6, pp. 675-692.
+Barnett, J. and O'neill, S.J. (2012), "Islands, resettlement and adaptation", Nature Climate Change, Vol. 2 No. 1, pp. 8-10.
+Barnett, J. and Webber, M. (2009), "Accommodating migration to promote adaptation to climate change", The Commission on Climate Change and Development, available at: www. ccdcommission.org
+Barrett, C., Little, P.D., Smith, K., Cellarius, B.A. and Coppock, D.L. (2001), "Avoiding disaster: diversi?cation and risk management among East African herders", Development and Change, Vol. 32 No. 3, pp. 401-433.
+Bendandi, B. and Pauw, W.P. (2016), "Remittances for adaptation: an 'alternative source' of international climate ?nance", in Warner, K., Cascone, N., Schraven, B. and Milan, A. (Eds), Migration, Risk Management and Climate Change: Evidence and Policy Responses, Springer, Berlin.
+Betzold, C. (2015), "Adapting to climate change in small island developing states", Climatic Change, Vol. 133 No. 3, pp. 481-489.
+Black, R., Bennett, S.R., Thomas, S.M. and Beddington, J.R. (2011), "Climate change: migration as adaptation", Nature, Vol. 478 No. 7370, pp. 447-449.
+Cooray, A. and Mallick, D. (2013), "International business cycles and remittance ?ows", The BE Journal of Macroeconomics, Vol. 13 No. 1, pp. 515-547.
+Couharde, C. and Generoso, R. (2015), "The ambiguous role of remittances in West African countries facing climate variability", Environment and Development Economics, Vol. 20 No. 4, pp. 493-515.
+Creswell, J.W. (2011), "Controversies in mixed methods research", The Sage Handbook of Qualitative Research, Vol. 4, pp. 269-284.
+Ebeke, C. and Combes, J.L. (2013), "Do remittances dampen the effect of natural disasters on output growth volatility in developing countries?", Applied Economics, Vol. 45 No. 16, pp. 2241-2254.
+  
+Migrants' remittances
+
+
+193
+
+
+
+
+
+IJCCSM 10,1
+
+
+194
+
+Findley, S.-E. (1994), "Does drought increase migration? a study of migration from rural Mali during the 1983-1985 drought", International Migration Review, Vol. 28 No. 3, pp. 539-553.
+Fonta, W.M., Ayuk, E.T., Chukwu, J.O., Onyukwu, O.E., Agu, C.C. and Umenwa, I.O. (2015), "Dynamics of remittance utilization by Nigerian households", Progress in Development Studies, Vol. 15 No. 4, pp. 343-357.
+GLSS (2014), "Ghana statistical service report on Ghana's living standard survey 6", available at: www.statsghana.gov.gh/doc?les/glss6/GLSS6_Main%20Report.pdf/www.worldbank.org/ en/topic/migrationremittancesdiasporaissues/brief/migration-remittances-data   (accessed 20 December 2016).
+GoG (2015), "Ghana's third national communication to the United Nation Framework Conventionon Climate Change (UNFCCC)", available at: http://unfccc.int/resource/docs/natc/ghanc3.pdf accessed on 20/12/2016.
+Guest, G., Bunce, A. and Johnson, L. (2006), "How many interviews are enough? An experiment with data saturation and variability", Field Methods, Vol. 18 No. 1, pp. 59-82.
+Gupta, S., Pattillo, C.A. and Wagh, S. (2009), "Effect of remittances on poverty and ?nancial development in Sub-Saharan Africa", World Development, Vol. 37 No. 1, pp. 104-115.
+Gustafsson, B. and Makonnen, N. (1993), "Poverty remittances in Lesotho", Journal of African Economies, Vol. 2 No. 1, pp. 49-73.
+IPCC (2014), "Summary for policymakers", Climate Change 2014: impacts, Adaptation, and Vulnerability. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, Cambridge, pp. 1-32.
+King, D., Bird, D. and Haynes, K. (2014), "Voluntary relocation as an adaptation strategy to extreme weather events", International Journal of Disaster Risk Reduction, Vol. 8, pp. 83-90, doi: 10.1016/j. ijdrr.2014.02.006.
+Kumamoto, M. and Mills, A. (2012), "What African countries perceive to be adaptation priorities: results from 20 countries in the Africa adaptation programme", Climate and Development, Vol. 4 No. 4, pp. 265-274.
+Leliveld, A. (1997), "The effects of restrictive South African migrant labor policy on the survival of rural households in Southern Africa: a case study from rural Swaziland", World Development, Vol. 25 No. 11, pp. 1839-1849.
+Lewis, J.R. (1986), "International labour migration and uneven regional development in labour exporting countries", Tijdschrift voor Economische en Sociale Geogra?e, Vol. 77 No. 1, pp. 27-41.
+Lipton, M. (1980), "Migration from rural areas of poor countries: the impact on rural productivity and income distribution", World Development, Vol. 8 No. 1, pp. 1-24.
+Lucas, R.E.B. and Stark, O. (1985), "Motivations to remit: evidence from Botswana", Journal of Political Economy, Vol. 93 No. 5, pp. 901-918.
+Maddison, D.J. (2007), "The perception of and adaptation to climate change in Africa", World Bank Policy Research Working Paper, 4308.
+Mertz, O., Mbow, C., Reenberg, A. and Diouf, A. (2009), "Farmers' perceptions of climate change and agricultural adaptation strategies in rural Sahel", Environmental Management, Vol. 43 No. 5,
+pp. 804-816.
+Mortimore, M.J. and Adams, W.M. (2001), "Farmer adaptation, change and 'crisis' in the Sahel", Global Environmental Change, Vol. 11 No. 1, pp. 49-57.
+Müller, B. (2008), International Adaptation Finance: The Need for an Innovative Strategic Approach. Background Policy Paper for the Climate Strategies Project on Post-2012 Policy Framework: Options for the Tokyo G8 Summit, Oxford Institute for Energy Studies, Oxford.
+Ngoma, A.L. and Ismail, N.W. (2013), "Do migrant remittances promote human capital formation? Evidence from 89 developing countries", Migration and Development, Vol. 2 No. 1, pp. 106-116.
+
+
+
+
+OECD (2016), "Project-level data for every climate-related development ?nance project in 2013-14", available at: www.oecd.org/dac/stats/climate-change.htm (accessed 21 January 2016).
+Olhoff, A., Bee, S. and Puig, D. (2015), The Adaptation Finance Gap Update-with Insights from the INDCs, United Nations Environment Programme.
+Pauw, W.P. (2015), "Not a panacea: private-sector engagement in adaptation and adaptation ?nance in developing countries", Climate Policy, Vol. 15 No. 5, pp. 583-603.
+Pauw, W.P., Klein, R.J.T., Vellinga, P. and Biermann, F. (2015), "Private ?nance for adaptation: do
+  
+Migrants' remittances
+
+
+195
+
+private realities meet public ambitions?", Climatic Change, Vol. 134, No. 4, pp. 489-503.		
+Pauw, W.P., Klein, R.J.T., Vellinga, P., Biermann, F., Pereira, J., Orenstein, K. and Chan, M. (2013), Pro- Poor Climate Finance: Is There a Role for Private Finance in the Green Climate Fund?, Friends of the Earth and PanAfrican Climate Justice Alliance, Washington, DC, available at: www.foe.org/ news/archives/2013-04-pro-poor-climate-?nance-is-there-a-role-for-private
+Quartey, P. and Blankson, T. (2004), "Do migrant remittances minimize the effect of macro-volatility on the poor in Ghana?", available at: www.gdnet.org/pdf2/gdn_library/global_research_projects/ macro_low_income/Quartey.pdf
+Ratha, D. (2007), "Leveraging remittances for development", Migration Policy Institute Policy Brief, Federal Reserve Bank of Dallas, Dallas.
+Salick, J. and Byg, A. (Eds) (2007), Indigenous Peoples and Climate Change, Tyndall Centre for Climate Change Research, Oxford.
+Scheffran, J., Marmer, E. and Sow, P. (2012), "Migration as a contribution to resilience and innovation in climate adaptation: social networks and co-development in Northwest Africa", Applied Geography, Vol. 33, pp. 119-127.
+Smith, J.B. and Hitz, S. (2002), "Background paper: estimating global damages from climate change", Environment Directorate, Environment Policy Committee, OECD, Paris, ENV/ EPOC/GSP(2002)12.
+Stahl, C.W. (1982), "Labor emigration and economic development", International Migration Review, Vol. 16 No. 4, pp. 869-899.
+Suleri, A. and Savage, K. (2006), Remittances in Crises: A Case Study from Pakistan, HPG Background Paper, ODI, London.
+Tachie-Obeng, E., Akponikpe, P.B.I. and Adiku, S. (2013), "Considering effective adaptation options to impacts of climate change for maize production in Ghana", Environmental Development, Vol. 5,
+pp. 131-145.
+Tacoli, C. (2011), Not Only Climate Change: Mobility, Vulnerability and Socio-Economic Transformations in Environmentally Fragile Areas in Bolivia, Senegal and Tanzania-28, IIED, London.
+Webb, P. and Reardon, T. (1992), "Drought impact and household response in East and West Africa",
+Quarterly Journal of International Agriculture, Vol. 31, p. 230.
+World Bank (2015), "Mainstreaming climate action within ?nancial institutions ?ve voluntary principles", Washington, DC, available at: www.worldbank.org/content/dam/Worldbank/ document/Climate/5Principles.pdf (accessed April 2016).
+Yaro, J.A. (2013), "The perception of and adaptation to climate variability/change in Ghana by small- scale and commercial farmers", Regional Environmental Change, Vol. 13 No. 6, pp. 1259-1272.
+
+Further reading
+Adaawen, S.A. and Boabang, O. (2013), "North-South migration and remittances in Ghana", African Review of Economics and Finance, Vol. 5 No. 1, pp. 29-45.
+Adams, R.H. and Cuecuecha, A. (2010), "Remittances, household expenditure and investment in Guatemala", World Development, Vol. 38 No. 11, pp. 1626-1641.
+
+
+
+
+IJCCSM 10,1
+
+
+196
+
+Banerjee, S. (2011), "Remittances: a key to adaptation? Perspectives from communities exposed to water stress in the Himalayan region", Labour Migration, 24, available at: http://lib.icimod.org/record/ 26969/?les/attachment_767.pdf#page=26 (accessed 25 October 2016).
+Quarmyne, N. (2016), "Ghana villages destroyed climate change", The Guardian Newspaper, available at: www.theguardian.com/global-development-professionals-network/gallery (accessed 20 February 2017).
+
+Corresponding author
+Issah Justice Musah-Surugu can be contacted at: musah123@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+

@@ -1,0 +1,976 @@
+﻿Community Development
+
+ISSN: 1557-5330 (Print) 1944-7485 (Online) Journal homepage: www.tandfonline.com/journals/rcod20
+
+Stakeholder participation in community
+development projects: an analysis of the
+quadripartite model of the International Centre
+for Enterprise and Sustainable Development
+(ICED) in Ghana
+
+Emmanuel Boon, Justice Nyigmah Bawole & Albert Ahenkan
+
+To cite this article: Emmanuel Boon, Justice Nyigmah Bawole & Albert Ahenkan (2013)
+Stakeholder participation in community development projects: an analysis of the quadripartite
+model of the International Centre for Enterprise and Sustainable Development (ICED) in
+Ghana, Community Development, 44:1, 38-54, DOI: 10.1080/15575330.2011.651729
+
+To link to this article:  https://doi.org/10.1080/15575330.2011.651729
+
+Published online: 01 Feb 2012.
+
+Submit your article to this journal 
+
+Article views: 2945
+
+View related articles 
+
+Citing articles: 3 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rcod20
+
+
+
+Community Development, 2013
+Vol. 44, No. 1, 38–54, http://dx.doi.org/10.1080/15575330.2011.651729
+
+Stakeholder participation in community development projects:
+an analysis of the quadripartite model of the International Centre for
+Enterprise and Sustainable Development (ICED) in Ghana
+
+Emmanuel Boona, Justice Nyigmah Bawoleb* and Albert Ahenkana
+
+aHuman Ecology Department, Vrije Universiteit Brussels, Laarbeeklaan 103, B1090 Jette
+Brussels, Belgium; bInstitute for Development Policy and Management, The University of
+Manchester, Oxford Road, Manchester M13 9PL, UK
+
+The increasing importance of stakeholders in project design, implementation, and
+evaluation requires mechanisms to ensure their effective participation to enhance
+project success. As a national non-governmental organisation (NGO) engaged in
+the design and implementation of community development projects, International
+Centre for Enterprise and Sustainable Development (ICED) adopts a quad-
+ripartite project participation model (QPPM) that facilitates the participation of
+project stakeholders. This article analyzes the model and its implication for
+managing community development projects in Ghana. The article adopts an
+action research strategy relying on the experiential knowledge of the authors in
+the application of the model. The results of the analysis indicate that although
+stakeholder participation in community development projects can be very
+challenging, the application of the model reduces the tensions that often
+characterize stakeholder participation. The model helps to spread project
+responsibilities, obligations, and rights equitably amongst project stakeholders.
+
+Keywords: community development; Ghana; ICED; project management teams;
+stakeholder participation; quadripartite model
+
+Introduction
+
+There is a high degree of consensus among development actors and project managers
+on the need for active participation of stakeholders in project design and imple-
+mentation in order to ensure high project implementation success. Participation is
+inextricably linked to sustainable development and without a plurality of actors and
+approaches it cannot be realized (Green & Chambers, 2006). Stakeholder parti-
+cipation in project management has been identified as one of the cardinal principles
+of good project management and good governance in recent times (Bingham,
+Nabatchi, & O’Leary, 2005; Osti, 2004; Woods, 2000). Participation is touted to be
+one of the best ways of attracting and sustaining the interest of stakeholders. How-
+ever, many writers have indicated the role of stakeholder participation in enhancing
+project design and implementation, many often mention the problems in passing
+
+*Corresponding author. Email: justice.bawole@postgrad.manchester.ac.uk
+International Centre for Enterprise and Sustainable Development (ICED) is the pseudo name
+for the case study organization.
+
+ 2013 Community Development Society
+
+
+
+Community Development 39
+
+(Ruud, 2007). As development actors continue to rely on stakeholders to enhance
+project success, it is important to signpost, from a practical point of view, not only
+benefits but also the challenges in stakeholder participation in community
+development project design and implementation.
+
+This article presents an analysis of stakeholder participation in community
+development projects using ICED’s quadripartite model as a case study. The article
+presents the project management model adopted by ICED to engage its stakeholders
+in the design and implementation of community development projects in Ghana.
+Specifically, the article seeks to analyze the key elements of the model and highlights
+its strengths and weaknesses, opportunities, and threats. While the article is limited
+due to its reliance on a single organization, its strengths lie in the practical nature of
+the model and its ability to engage various levels of stakeholders and the oppor-
+tunities offered for each stakeholder to interface with others freely. It also provides
+an insight on how both insider and outsider (Krashinsky, 1997) stakeholders can
+collaborate for project success.
+
+To accomplish the objective, this article has been structured as follows: Section
+‘Stakeholder participation’ introduces the issues and concepts, section ‘Conceptual
+framework’ presents the conceptual framework, and section ‘Approach’ outlines the
+approach. Section ‘The case organization’ presents a short description of the ICED
+organization, section ICED’s quadripartite project participation model’ gives an
+exposé of the case study quadripartite model, and section ‘A SWOT analysis of
+stakeholder participation in fun projects’ presents the SWOT of stakeholder
+participation in the ICED’s projects. Section ‘Implications of the model for project
+management’ analyzes the implication of the model for project management, section
+‘Challenges of the model’ examines the challenges presented by the model and the
+last section provides recommendations and a conclusion.
+
+Stakeholder participation
+
+Development projects are designed and implemented by and for people. These actors
+hold various interests in various aspects of the project. These actors otherwise known
+as the project stakeholders can either contribute to the success or failure of one or all
+components of the project. A stakeholder then is one (or group) who has a certain
+interest in a project (Fleming, 2009; Glicken, 2000; Overseas Development Adminis-
+tration [ODA], 1995). In general terms, people who constitute stakeholders include
+those who can get affected or can affect the development, design, and implementa-
+tion of a project or activity (Smith, 2003). The concept of stakeholder participation
+has been variously conceived to include a process by which interested parties affect
+and take part in the control of development initiatives and the decisions and
+resources that influence them (World Bank, 1996). By proactively and systematically
+working towards improving the levels of participation in the various stages of a
+project, the outcomes are more likely to suit local circumstances, ensure community
+ownership, and increase the sustainability of a project, enhance societal harmony,
+and increase social learning. It keeps communities better informed, increases trust,
+understanding, and support for a project (Enserink & Koppenjan, 2007; Munt, 2002;
+Brody, 2003).
+
+Participation in project management could involve the identification of problems,
+the design and application of solutions, the monitoring of results, or the evaluation of
+performance (Agenda 21, Chapter 23). Indeed, knowing who is to be involved, and
+
+
+
+40 E. Boon et al.
+
+what that involvement may be, can form a strong basis for identifying and includ-
+ing all the stakeholders. Ngowi and Mselle (1998) have argued that community
+participation may be thought of as an instrument of empowerment, building bene-
+ficiary capacity in relation to a project, effectiveness in project design and imple-
+mentation, and leads to a better match of project services with beneficiary needs and
+constraints, enables costs sharing, and improved project efficiency. Stakeholders can
+participate in project management in various forms, including what Smith (2003) calls
+the traditional forms of participation. He identifies publications, public meeting, open
+house, advisory committee/task force, workshops, target briefings, focus groups,
+bilateral meetings, toll-free phone line, interviews, surveys, and public hearings as the
+key forms of stakeholder participation.
+
+Although participation may seek in the final analysis to empower community
+members to take initiative, whether this really happens in practice has been
+challenged. Zimmerman (1990) in his model of Learned Hopefulness argues that
+although participation directly reduces alienation, it also directly affects empower-
+ment, which, in turn, reduces alienation. This assertion is refuted by Reid’s (2002)
+argument that of all the empowerment principles, active citizen participation is
+perhaps the most important. He asserts that not only does it lead to developing true
+democratic processes; it also leads to higher rates of resource acquisition and use,
+better results, higher levels of volunteerism, and a brighter community spirit. For
+Reid (2002), participation is the soul of an empowered community. He argues
+further that development should not make the people marginalized and at the mercy
+of external agents.
+
+Participation is a basic human right, and could increase confidence, enhance self-
+esteem, and the skills learned through participation enabled the participants to act
+more effectively within the wider society. Development should mean the develop-
+ment of local people and their organizations and networks as well as the
+development of better physical and economic conditions. However, it is difficult to
+decide who among the different groups of the population can participate (Chanan,
+1999). Under such circumstances, stakeholder analysis is used to identify who
+participates and to what extent, who does not and why (Yang, Shen, Bourne, Ho, &
+Xue, 2011).
+
+A caveat on stakeholder participation in project management
+
+Although stakeholder participation has been touted to enhance project implementa-
+tion, it must be noted that it comes with its own problems. Ruud (2007) states that
+although most authors recognize the limits or pitfalls for participation, they tend to
+step over them just as quickly as they mention them. Stakeholder participation in
+project evaluation is not problem-free and some of the problem areas include
+differing philosophical concepts and theoretical approaches; differing understandings
+of the purpose of evaluation and accompanying expectations, cultural differences,
+competing organizational goals, political agendas, and the history of the project and
+entry point of evaluators (Berger-Bartlett & Craig, 2002). Munt (2002) concedes that
+developing and maintaining the participation of stakeholders can often be a
+challenge requiring various strategies and considerations.
+
+Stakeholder participation may also be very expensive, particularly the cost of
+delays in preparation and implementation arising from the need to consult and
+negotiate with the other stakeholders. In terms of administrative and advisory
+
+
+
+Community Development 41
+
+resources, it may be cost ineffective and it may also have human and financial
+implications. It is, therefore, important to note that after the initial stakeholder
+analysis and preliminary consultations, a selective approach is necessary as all
+projects may not be equally participatory (ODA, 1995). Clearly, participation
+involves getting entangled in the web of actors and their idiosyncrasies. According to
+the World Bank (1996), though it argues that all stakeholders must work colla-
+boratively to advance development projects, it recognizes that different stakeholders
+have different levels of power, interests, and resources. It, therefore, warns that
+consensus building and reconciling key stakeholder differences is not always easy; it
+may entail risks, such as generating or aggravating conflicts among groups with
+competing interests and priorities. The argument then is that stakeholder participa-
+tion does not necessarily improve project implementation success (Brody, 2003).
+
+In spite of the above, stakeholder participation in community development
+projects remains key to project success. In Ghana, a number of community projects
+initiated by government (both central and local) have either been opposed by com-
+munity members or have never been used after completion. Toilet facilities, market
+structures, and boreholes, among others, have been abandoned due to little or no
+stakeholder participation. The above caveat is therefore worthy of note but it is
+important to indicate that stakeholder participation does not mean other key
+elements of project success such as competent project management, planning, and
+scheduling should be ignored.
+
+Box 1 typifies the challenges of non-involvement and involvement. If a project
+organizer has not decided whether to involve or not means that the organizer will
+not anticipate any of these challenges and prepare to handle them. This lack of
+preparedness could be suicidal for project management.
+
+Box 1. Stakeholder participation quagmire.
+
+Yao is a youth leader in a village in Ghana. He has won a district’s agricultural awards and
+considers himself an important opinion leader in the community. He has been involved in
+planning a couple of national farmers’ day celebrations at the district level. His organizational
+abilities cannot be doubted. Yao was not included in the LPMT of a community project
+because he was not selected by the various constituents. This infuriated him and he started
+inciting community members against ICED and her projects. He alleged that ICED keeps a
+larger share of the project funds for itself and refuses to let the community get the full picture
+of the funding situation of the projects. He argues that money for the project should have been
+kept in the community’s accounts in a local bank and members of the community made
+signatories to the account. LPMT members and the chiefs have expressed anger at him but
+this did not stop him. The LPMT decided to make Yao a LPMT member so as to prevent him
+from spreading false information about the implementation of project. He immediately sought
+to be allowed to handle monies assigned for communal work. When he was refused, he started
+telling the youth to adopt a ‘‘go slow’’ attitude towards communal work as a protest to demand
+more funds from the project leaders. This created some challenges with the community’s
+commitment. NPMT members had to make several visits and spend lots of time managing the
+commitment of the community.
+
+Stakeholder analysis and project management
+
+As a result of the key roles of stakeholders in project management, and their diverse
+interests and respective powers to influence project success, stakeholder analysis is
+considered a credible way to manage the involvement of various stakeholders in a
+
+
+
+42 E. Boon et al.
+
+project (Clulow, 2005). Stakeholder analysis involves identification and evaluation
+of interested parties of a project, their key attributes and their relationships with
+other stakeholders and project organizers (Bunn, Savage, & Holloway, 2002; Pan
+African Health Organization [PAHO], 2008). Who and how they should be involved
+has always been a difficult puzzle to work out (Byrd, 2007). The key essence of
+stakeholder analysis is to ensure that stakeholders are allowed to participate in a
+project depending on their interest, power, and potential contribution to the success
+of the project.
+
+The selection of stakeholders at any particular stage of any particular project can
+be challenging (Prell, Hubacek, & Reed, 2009) and should be a balancing act that
+must be done with skill. To do this well requires the consideration of several factors
+including proximity to project sites, economic gain, or loss depending on the
+relationship to the new project, use of project or limit to use of project resources,
+social implications of the project, and impact of the project on the values of a group
+of people. It could also include geographic location, sector, impact, or interest
+(Hansen & Mäenpää, 2008; Smith, 2003).
+
+In community development project management, a lot of complexities emerge
+during stakeholder analysis which must be managed well. These include cultural and
+ethnic complexes, group dynamics and influences, and knowledge of the local
+community which can all work against the success of a project (Munt, 2002).
+However, managing these complexities should be within the framework that project
+participants must feel a sense of personal competence and must be capable to
+participate in useful way. It is, therefore, important for the analysis to provide
+indications of who get involved, when and how (Yang et al., 2011).
+
+Conceptual framework
+
+Different frameworks have been adopted for analyzing participation. These are so
+diverse but Green and Hunton-Clarke (2003) intimate that Arnstein’s (1969)
+framework is perhaps the first to try to classify stakeholder participation. The type of
+framework to adopt will depend on several factors, the most critical among them
+being the milieu or context of the project under consideration. Although different
+frameworks for participation have been proposed, this study adopts Vernooy’s
+(2005) framework in analyzing ICED’s quadripartite model. This framework is built
+upon Biggs’ (1989) four stage participation framework. The choice of the framework
+is considered appropriate as it provides a multi-layered approach to participation
+and a multi-layered ownership of initiatives in participation which coincides with
+ICED’s model. The essential elements of the framework are synthesized in Table 1.
+
+Approach
+
+This article adopts qualitative action research as its preferred method, evoking
+many of its elements and strategies when appropriate. Action research stresses on
+participative research, knowledge-in-action, practical orientedness, evolving nature
+of knowing, and human development as its key tenets (Reason & Bradbury, 2006). It
+depicts knowledge creation as a social construction that takes place through the
+interaction between researcher and subjects (Crotty, 1998; Reason & Bradbury,
+2006). The article relies heavily on the experiential knowledge approach tapping into
+the experiences of the two former project managers and the chair of a national NGO
+
+
+
+Community Development 43
+
+Table 1. Vernooy’s framework of participation and its implications for ICED’s quadripartite
+model.
+
+Type of Implications for ICED’s
+participation Key features quadripartite model
+
+Contractual . One stakeholder has sole decision- . FUN adopts this mostly in the
+making power over most decisions project conceptualization and
+
+. Stakeholder deemed ‘‘owner’’ of planning stage when the project
+the project idea is largely generated by ICED’s
+
+. Stakeholder defines roles for others community diagnostic team
+
+. Others formally or informally . Opinion leaders provide
+‘‘contracted’’ to provide services information. Later, LPMTs
+and support. provide information and support
+
+guided by the NPMT
+. IPMT informed to seek funders
+for project idea.
+
+Consultative . Most key decisions made by one . ICED consults extensively
+stakeholder with the LPMTs in the selection
+
+. Stakeholder consults and gathers of beneficiaries
+information from others . Inputs made by LPMTs
+
+. Other stakeholders help identify . The selection of suppliers of
+constraints and opportunities, some project equipment
+priority setting and/or evaluation. . Type and quantity of equipment
+
+done by LPMTs and NPMTs.
+Collaborative . Different stakeholders collaborate . ICED adopts this in dealing with
+
+. Stakeholders deemed equally partner organizations, e.g. local
+important government, community water,
+
+. Stakeholder linkage through and sanitation agency, Business
+knowledge sharing Advisory Center, and District
+
+. Sharing of decision-making power Directorates of Agriculture
+during the innovation process. . Representatives of partner
+
+organisations are active members
+of the LPMTs and directly
+participate in decision making.
+
+Collegiate . Stakeholders work together as . ICED adopts donors and partner
+colleagues or partners organisations abroad
+
+. Ownership and responsibility are . LPMTs, NPMT, and IPMT
+equally distributed distribute the project
+
+. Decisions made by consensus. implementation responsibilities
+. Adopted when communities
+initiate a project and ask for the
+intervention of ICED or vice versa.
+
+in Ghana. The article analyzes the project management approach adopted over a
+period of a decade and distils the elements into a quadripartite model. Various
+aspects of the model have undergone review as it got applied from project to project.
+A series of meetings were held to deliberate upon and evaluate the various aspects of
+the model. The outputs of such meetings formed the basis of this article.
+
+The case organization
+
+The ICED is a national NGO established in Ghana in 1993 for the purpose of
+facilitating the development and promotion of small and medium scale enterprises
+(SMEs), sustainable trade, gender empowerment, environmental management,
+capacity building, and sustainable development in Ghana and Sub-Saharan Africa
+
+
+
+44 E. Boon et al.
+
+(SSA). ICED’s activities are mainly in the areas of research, training and capacity
+building, and the delivery of extension services through community development
+projects. During the last decade, ICED has implemented a number of community
+development projects in 10 districts in six regions in Ghana. Table 2 contains the
+main projects implemented by ICED between 2000 and 2010. The case study model
+was adopted and used in these projects. As part of the assurance for sustainability of
+projects, the model is strategically adopted to enhance project success and to build
+capacity, transfer knowledge, and learn experiences from stakeholders.
+
+ICED’s Quadripartite Project Participation Model
+
+ICED adopts a Quadripartite Project Management Model (QPPM) in the
+management of all its projects. The model consists of a three-tier management
+structure comprising local project management teams (LPMTs), national project
+management teams (NPMTs), and international project management teams (IPMTs)
+with a transversal advisory quality assurance team (QAT). The logical frame of the
+model is presented in Figure 1. The roles, responsibilities, obligations, and rights of
+these management levels are described in the next sub-sections.
+
+ICED promotes effective communication which enhances the quality of work
+of each level of the management structure. As Figure 1 illustrates, there is a two
+way information exchange between the IPMT and the NPMT. While funding
+mechanisms and contracts issues are vigorously promoted by the IPMT, the NPMT
+develops project proposals that reflect the real needs of local communities on the
+basis of which the IPMT assists in searching for funding sources. A constant
+interaction and exchange of ideas exist between the NPMT and the LPMT and this
+facilitates effective planning, implementation, monitoring, and evaluation of
+projects. Weary of the problems communities could pose to the implementation of
+project activities, occasional public hearings with the local communities are jointly
+organized by the NPMT and the LPMT. These fora constitute great opportunities
+for assessing the effectiveness of the communication between the LPMTs and the
+communities. The LPMTs have ample opportunities to meet and interact with the
+IPMT members during project monitoring and evaluation missions. This provides
+them with the opportunity to discuss their views and appreciation about the
+implementation of the projects with the NPMT and the IPMT.
+
+Elements of the model
+
+Local project management teams (LPMTs)
+
+Project beneficiaries in the local communities are key stakeholders in community
+development projects. Their inputs in all forms are critical for the success or
+otherwise of community projects. To mobilize the members of local communities,
+ICED constitutes a LPMT in each of its project communities to be in charge of the
+local management and coordination of project activities.
+
+Members of the LPMTs are selected through a transparent, participatory, and
+democratic process. On entering a community with an approved project, a forum of
+opinion leaders and various stakeholders is called and the idea of a LPMT discussed.
+The criteria for selecting members of the LPMT are discussed and the modalities for
+selection of members agreed upon. The membership usually includes a chief to
+represent the traditional authority because of the influence they wield in the
+
+
+
+Community Development 45
+
+Table 2. A SWOT analysis of participation in some projects implemented by ICED, 2000–2010.
+
+Participation SWOT
+
+Name of project Location Donor Strengths Weaknesses Opportunities Threats
+
+(1) Provision of Oyarifa and Flemish community . FUN experience in . New project sites . Expert involvement in . Uncooperating district
+Potable Water Gyadam of Belgium similar projects project planning assemblies
+2008–2010 . Capable project manager . Peri-urban community
+
+. Receptive NPMT may not avail itself for
+community service
+
+. Gyadam youth interests
+in mining activities
+
+(2) Sustainable food Hohoe and Sefwi Social fund of the . Organization higher . Size of project . Active community . Chieftaincy problems
+production, income Wiawso food industry on learning curve after . Cost of participation involvement . Sectional interest and
+generation, and of Belgium implementing earlier, very high . Active individual problems
+poverty reduction similar projects . Participation delayed participation
+in Ghana (SIP) . Transparent operations some decisions . Vibrant women and
+
+Through non-timber . Capable project manager youth groups
+forest resources . Receptive NPMT . Active involvement of
+farming 2004–2008 district agriculture unit
+(3) Environmental Sefwi Wiawso Groenhart Vzw . Active IPMT involvement . IMPT disagreements . Available local materials . Uncooperating timber
+
+information and district and Flemish . Committed NPMT on time lines . Supportive local firms
+education center community of . Community active participation government . Illegal logging by some
+and forest Belgium through . Supportive Forestry community members
+conservation Flemish fund For commission
+tracks in Sui, tropical forests
+Ghana. 2006–2009
+
+(4) Support for Hohoe and Sefwi Flemish community . Active IPMT involvement . Participation delayed . Cooperating school . Uncooperating district
+basic education Wiawso government of . Committed NPMT some decisions and teachers education office
+2006–2009 Belgium implementation . Cooperating community . Uncooperating
+
+in Sefwi Wiawso community in Hohoe
+
+(continued)
+
+
+
+46 E. Boon et al.
+
+Table 2. (Continued).
+
+Participation SWOT
+
+Name of project Location Donor Strengths Weaknesses Opportunities Threats
+
+(5) Sustainable food Sissala east and CIDA-FARMER . Very active donor . Over expectations . Cooperating assemblies . No community labor
+production, income west districts project involvement and interest for local partners and communities
+generation, and . Very active NPMT . Very active involvement
+poverty reduction . Very active collaborators of district agriculture
+in Ghana (SIP) development unit
+through . Strong local leadership
+modernized for project activities
+Guinea-fowl and
+pig production.
+2006–2008
+
+(6) Water, health and Sefwi Wiawso TMVW water . Very active donor . None . Cooperating district . None
+sanitation project and Damongo company of involvement and interest assemblies
+2008–2010 districts Belgium . Very active NPMT . Cooperating partners
+
+. Very active collaborators . Very active community
+participation
+
+
+
+Community Development 47
+
+Figure 1. The structure of ICED’s quadripartite project participation model.
+
+community; a representative of the youth, women, farmers, religious organizations,
+NGOs (if any), teachers, and any other identifiable groups in the community. The
+selection of the representatives of these groups is the responsibilities of the various
+groups. The qualification for selection includes selfless and committed devotion to
+the cause of the group and the ability to command the trust of the community
+members. As Munt (2002) advices, these people need to be known by the community
+and have a good grasp of cultural complexities, mores and protocols.
+
+The LPMTs perform functions jointly decidedwith theNPMT. The functions of the
+LPMTs, with slight variations depending on the type of project and the community,
+include the mobilization of community members for communal work; the management
+and coordination of project activities at the local level; the selection of beneficiary
+community members; collection of community contributions; the operation of project
+bank accounts; selection of artisans and local professionals for the provision of technical
+services; participating in negotiation of fees for artisans; monitoring and evaluating
+project progress; trouble shooting project implementation; recommending remedial
+actions; and providing periodic reports to project site supervisors.
+
+National project management team (NPMT)
+
+The NPMT is located at ICED’s head office in Accra headed by the Projects
+Manager. Other members of the team include the Accountant, the Research Fellow,
+
+
+
+48 E. Boon et al.
+
+the Marketing and Information Manager, and the Project Site Supervisors. The
+Chairman of ICED is a patron and advisor to the team. The NPMT has the
+responsibility for general management of project activities at the various project
+sites. Specifically, the NPMT ensures that effective plans exist for the rollout of
+project activities; procurement of project equipment; regular monitoring of project
+progress, evaluation of project activities and preparation of project reports for
+submission to donors, and other stakeholders. The NPMT is responsible for doing
+community diagnosis, needs assessment and proposing appropriate interventions.
+Project proposal development is one of the key functions of the NPMT, usually with
+inputs from the other stakeholders.
+
+International project management teams (IPMT)
+
+The IPMT is made of the Chairman of ICED, representatives of partner
+organizations abroad, representatives of donor agencies, and representatives of the
+QAT. The IPMT basically deals with policy issues, including the signing of con-
+tracts, agreements and memoranda of understanding, receiving and reviewing
+project reports, conducting mid-term and end of term project evaluations, nego-
+tiating for funding for new projects, and performing trouble shooting in events of
+imminent risk during project implementation.
+
+Quality assurance team (QAT)
+
+ICED’s program areas are so diverse including projects in agriculture, water,
+education, forestry, and sanitation. To receive professional and expert advice on
+project design, implementation, and evaluation, ICED constitutes the QAT for
+each project. ICED has developed a pool of experts in each project area who
+are relied upon to provide technical advice in the course of the project life. The
+IPMT and project donors are often given the opportunity to appoint indepen-
+dent QAT for mid-term and decommissioning evaluation of projects. The QAT
+interacts with the NPMT and the LPMTs and offer their expert advice on project
+milestones.
+
+A SWOT analysis of stakeholder participation in ICED projects
+
+Stakeholder participation in project management is contextual. In the case of
+ICED, the context of participation included the management of several factors
+and variables. These include the cooperation of other partners and stake-
+holders, whether the community to be engaged is a new or old one, whether the
+community is urban or rural, and the learning experience of ICED itself. Other
+factors include the project budget, the time frame for executing project activities,
+and the proactiveness of the leadership of the beneficiary community. As can be
+gleaned from the Table 2, a number of factors were identified under the SWOT
+analysis.
+
+Strengths
+
+A number of variables were identified as the strengths of the stakeholder
+participation in ICED’s project participation framework. These include the
+
+
+
+Community Development 49
+
+learning curve of ICED as the lead implementing agency after implementing several
+projects. ICED has acquired some experiences that are contributing to the success-
+ful implementation of projects. The receptive nature of the NPMT also facilitated
+project implementation as this created the confidence in other partners especially
+the LPMTs to cooperate with ICED. The adoption of transparent mechanisms
+such as the active involvement of LPMTs and NPMTs and the periodic pre-
+paration of reports created another impetus for project success. The active
+involvement of collaborating agencies and partners equally helped to enhance
+participation.
+
+Weaknesses
+
+ICED had a number of weaknesses, the absence of which will have contributed to
+higher project results. ICED occasionally secured projects with very small budgets
+which often prevented her from embarking upon capacity building for her partners,
+especially the LPMTs. With such small projects, the average cost of participation is
+often substantial. New project sites also presented very different challenges and
+managing some of them calls for great ingenuity. ICED had some challenges with
+logistics especially project vehicles. The distance between Accra and most project
+sites and the bad nature of the roads brought a lot of strain on the few project
+vehicles.
+
+Opportunities
+
+ICED’s broad base consultation has led to an assembly of experts in various areas of
+project management. The technocrats have often been keenly involved in project
+planning, implementation, and evaluation. One such key organ is the transversal
+QAT which provides the technical backstopping in all project activities. Community
+involvement including the role of vibrant women and youth groups has been very
+useful. Community involvement has often been translated into active LPMTs and
+support for their operation. District agents such as District Agriculture Development
+Unit, Forestry Commission, and Business Advisory Centre among others often
+provided great leverage for project activities.
+
+Threats
+
+Several factors also acted as threats to the participatory system adopted by ICED.
+Projects being implemented in urban and peri-urban centers suffered greatly from
+community participation. Similarly, district assemblies with many urban centers
+have been very uncooperating in participating in project activities. There is very
+great difference in the attitude of district assemblies in the northern, middle, and
+southern sectors of Ghana. Districts in the north were more cooperating than their
+colleagues in the middle and southern sectors. Communities with sharply divided
+sectional interest such as chieftaincy posed a lot of difficulties for participatory
+project management. The quadripartite model affords an opportunity for the
+harmonization of the synergies of all partners and stakeholders and contributes to
+reducing the cacophony of stakeholder participation. The building of bridges
+ensures that each partner or stakeholder is able to reach to the unique strengths of
+the others.
+
+
+
+50 E. Boon et al.
+
+Implications of the model for project management
+
+Stimulation of authentic participation
+
+The model stimulates real and authentic participation by all stakeholders in
+project implementation and management process. Project partners, donors, and
+the project beneficiary communities actively participate in all phases of project
+implementation. Project partners from abroad visit Ghana and the project sites
+at least once a year during the period under discussion. Partners either come
+as a combined entourage or as individual project monitors and evaluators.
+Partners produce assessment reports which are circulated to all project
+stakeholders.
+
+Project beneficiary communities have demonstrated keen interest in project
+activities. For instance, during the implementation of the water projects, com-
+munities with the exception of Wli were readily available to provide communal
+labor for the laying of pipes and assisting in constructing other infrastructure.
+Community groups are scheduled to work on specific days and are led by their
+leaders. Defaulters are usually sanctioned, especially in Sui in the Sefwi Wiawso
+District.
+
+Consensus building
+Decisions on project implementation are often arrived at in a democratic way and
+through consensus building. Project reports are submitted bi-annually and feedback
+is received from all project partners regarding the progress achieved and other
+concerns that partners might have. In arriving at decisions at the local level, a
+consensus is built to enable all parties represented in the LPMT to have their say.
+Occasionally, open market meetings or fora are organized to explain issues bothering
+on project implementation to the members of the beneficiary communities. For
+instance, the LPMTs decide the fees to charge for drawing water from the pipes
+provided and deposit the money into a bank. The money is used for maintaining the
+water facilities or financing other development projects. The model creates an avenue
+for fair representation and active involvement of all segments of the local com-
+munity. In Wli for instance, the community together with their LPMT had decided
+to charge lower fees for drawing water against the recommendation of the Com-
+munity Water and Sanitation Agency, the national body in charge of managing rural
+water supplies.
+
+Shared costs
+Another positive implication of the model is that it facilitates cost reduction in
+project implementation. The model provides members of the communities the
+opportunity to contribute communal labor, creating more value for idle labor,
+especially during the off-farming seasons. LPMTs provide their inputs at various
+stages of the project lifecycle and this contributes to avoiding duplication, waste,
+and delays. It also contributes to a reduction in the number of trips to project
+sites; information required by the NPMT is often provided by the LPMT. It helps
+to reduce staff costs since no project staff of ICED is stationed at any of the
+project sites. The model enables early detection of problems and their effective
+mitigation.
+
+
+
+Community Development 51
+
+Capacity building
+The model is an effective instrument for building the organizational and managerial
+capacity of local communities. Capacity building programs are organized on a
+regular basis for community members and the LPMTs. For example, they are
+trained in project management, leadership skills, group dynamics, book keeping,
+business management, entrepreneurship, and resource mobilization methods. The
+involvement of the communities in project activities and the practical field trips to
+showcase project implementation realities are probably some of the best capacity
+building opportunities offered to LPMT members.
+
+Fostering networks and partnerships
+
+The model also stimulates and activates the formation of farmer-based organizations
+(FBOs) in the beneficiary communities. This provides members with opportunities
+to lobby for more development projects for their communities. The establishment of
+the non-timber Forest Resources Farmers Association (NTFRFA) as an umbrella
+organization and the formation of sub-associations such as Grasscutter Farmers
+Associations, Mushroom Farmers Association, and Beekeepers Association, among
+others, have strengthened the lobbying capacity and negotiation powers of the local
+farmers. The National Board for Small Scale Industries (NBSSI) in Sefwi Wiawso
+has consistently relied on these associations for implementing their programs. The
+board has succeeded in liaising with rural banks to provide credit to these
+associations.
+
+Challenges of the model
+
+Although the quadripartite model has worked very well, its applications revealed
+some challenges. In most rural communities, the members are so ‘‘hungry’’ for
+development interventions that, once a project idea is discussed, pressure is brought
+to bear on the organizers to commence implementation even when the project is yet
+to receive approval and funding. Consequently, new projects ideas are often not
+discussed in detail with communities and this tends to affect broad base consulta-
+tions and participation by the population. This is consistent with the assertion that
+after the initial stakeholder analysis and preliminary consultations, a selective
+approach to who participates and at what level may be appropriate. This is to ensure
+the participation of specific stakeholders whose participation will enhance project
+success (ODA, 1995; Brody, 2003). ICED has therefore been very careful in enlisting
+the participation of stakeholders in her community development interventions. In
+dealing with this challenge, ICED adopts Biggs (1989) contractual–consultative–
+collaborative–collegiate model of participation which enables her to engage
+stakeholders in different ways. For instance, during project initiation phase, ICED
+applies the contractual participation where she assumes the role of a social actor in
+the decision-making process. Certain stakeholders are encouraged to participate if
+their inputs are considered informative at this stage.
+
+Another challenge of the model relates to the management of the varied interests
+especially in the project design phase. During this stage of the project life cycle, there
+is a high level of lobbying by communities and stakeholders. This usually poses a
+problem for proper need diagnostic as all parties try to paint a picture of dire need
+and justify why they must be included in the decision-making process. One group of
+
+
+
+52 E. Boon et al.
+
+the latent agenda pushers are the local politicians who are usually the first to be
+consulted due to their special positions. However, ICED has tried to insulate herself
+from political affiliations because they have the tendency to destroy community
+initiatives and projects. Consultative participation is adopted where the process is
+driven by ICED with stakeholders being consulted and asked to provide
+inputs, especially for identifying priority activities as well as constraints and
+opportunities.
+
+In most of the communities, who gets selected into the LPMT sparks some inter-
+personal and inter-stakeholder conflicts. Initial speculation over potential personal
+benefits and group stakeholder power have been the main reasons for competition to
+sit on the LPMT. However, the NPMT often succeeded in resolving such conflicts
+with the explanation that membership is voluntary and without any financial
+compensation. In some cases, this assurance did not resolve the problem of the
+struggle for membership of the LPMTs as most community members consider their
+association with project organizers as a prestigious position. Once the LPMT is
+constituted to oversee the implementation of the activities, collaborative participa-
+tion is often adopted. Here, the LPMTs are considered collaborators where they do
+not just provide information but are also offered opportunity to share knowledge
+contribute to the decision-making process (Biggs, 1989).
+
+Donor requirements for community contribution have been difficult to manage,
+especially if the said contribution is cash-based. In most cases, local communities
+provide communal manual labor as their contribution to community development
+project. A project responsibility matrix usually identifies the roles of each stake-
+holder. Collegiate participation is adopted where the different stakeholders work
+together as colleagues or partners and decisions are made by agreement or consensus
+by all actors.
+
+Recommendations and conclusion
+
+Managing community development projects in the midst of numerous stakeholders
+requires trained sensitivity and a curious orientation. This is mainly because stake-
+holders come to the project management table with varied interests and expectations.
+It is therefore recommended that project managers and teams adopt a ‘‘system’s
+approach’’ to project management built on proper structure and opportunities for
+the various stakeholders to contribute to personal and community advancement.
+This will help to make project management very effective and efficient and avoid the
+kind of conflicts that participation engenders.
+
+Project managers must decide before hand what kind of participation they want
+to give to their project management regime. Taking project stakeholders on board
+your project management train is an expensive venture, ignoring them is even more
+expensive but not deciding whether to involve or not can be suicidal. For reasons of
+empowerment, transparency, and sustainability of community projects, project
+management teams cannot avoid to ignore stakeholders in their project management
+infrastructure.
+
+Further, for ethical reasons and the conscience of project organizers, stake-
+holders must be made to participate in the management of community development
+projects. If NGOs are altruistic and seek the welfare of communities they work in,
+with and for, it is only ethical that the communities to be affected by the project
+activities are participants of the project activities. Another ethical reason for
+
+
+
+Community Development 53
+
+stakeholder participation in community development projects is to allow donors to
+participate in deciding on what they are funding.
+
+Effective monitoring of and reporting on the implementation of project activities
+are key to effective participation. Stakeholders’ interest change over time and must
+be managed through an effective monitoring, evaluation, and reporting system.
+Agreed protocols will only be adhered to if stakeholders know that they will be
+required to provide an account of their stewardship. Monitoring ensures that costs
+are kept within budgetary limits and that local actors do not assume and arrogate to
+themselves critical decisions, especially on financial matters without the consent of
+the other stakeholders.
+
+It is also important to note that the development of participation takes time.
+There are no quick fixes and NGOs and development agents must develop the
+capacities of communities rather than throw their hands in the air in despair.
+Capacity building and training must be offered to stakeholders to equip them with
+the dynamics of engaging other stakeholders in mutual partnership. In the final
+analysis, to involve or not involve stakeholders and local community members in
+project management and implementation is not a difficult decision to make. The
+most difficult thing to do is who to involve, how to involve them, and what to involve
+them in. To manage community development projects successfully requires a well
+carved strategy. ICED’s quadripartite model has proved to be most effective in
+managing her relationships and communication with her partners and stakeholders.
+The model enables an efficient exchange of information and accords stakeholders
+the opportunity to input into the project management process. The model is worth
+adopting by development actors operating at the community level.
+
+References
+
+Arnstein, S. (1969). A ladder of citizen participation. AIP Journal, 35, 216–224.
+Berger-Bartlett, H., & Craig, T. (2002). The challenges of stakeholder participation: Examples
+
+of evaluation projects from the youth justice context. Paper presented at the 2002
+Australasian Evaluation Society International Conference October/November 2002,
+Wollongong, Australia. Retrieved from www.aes.asn.au
+
+Biggs, S.D. (1989). Resource-poor farmer participation in research: A synthesis of experiences
+from nine national agricultural research systems. OFCOR Comparative Study Paper
+ISNAR. The Hague: International Service for National Agricultural Research, 3–37.
+
+Bingham, L.B., Nabatchi, T., & O’Leary, R. (2005). The new governance: Practices and
+processes for stakeholder and citizen participation in the work of government. Public
+Administration Review, 65, 547–558.
+
+Brody, D.S. (2003). Measuring the effects of stakeholder participation on the quality of local
+plans based on the principles of collaborative ecosystem management. Journal of Planning
+Education and Research, 22, 407–419.
+
+Bunn, M.D., Savage, G.T., Holloway, B.B. (2002). Stakeholder analysis for multi-sector
+innovations. Journal of Business and Industrial Marketing, 17, 181–203.
+
+Byrd, T.E. (2007). Stakeholders in sustainable tourism development and their roles:
+Applying stakeholder theory to sustainable tourism development. Tourism Review, 62,
+6–13.
+
+Chanan, G. (1999). Local community involvement: A handbook for good practice. European
+Foundation for the Improvement of Living and Working Conditions, Dublin. Retrieved
+from http://www.eurofound.europa.eu/pubdocs/1998/73/en/1/ef9873en.pdf
+
+Crotty, M. (1998). The foundations of social research: Meaning and perspectives in the research
+process. Los Angeles: SAGE Publications.
+
+Clulow, V. (2005). Futures dilemmas for marketers: Can stakeholder analysis add value?
+European Journal of Marketing, 39, 978–997.
+
+
+
+54 E. Boon et al.
+
+Enserink, B., & Koppenjan, J. (2007). Public participation in China: Sustainable urbanization
+and governance.Management of Environmental Quality: An International Journal, 18, 459–
+474.
+
+Fleming, B. (2009). Participation is the key to empowerment. In P. Bartle (Ed.), Participation
+in Appraisal; Community Empowerment Collective. Retrieved from http://www.scn.org/
+cmp/modules/par-ben.htm
+
+Glicken, J. (2000). Getting stakeholder participation ‘right’: A discussion of participatory
+processes and possible pitfalls. Environmental Science & Policy, 3, 305–310.
+
+Green, A.O., & Hunton-Clarke, L. (2003). A typology of stakeholder participation for com-
+pany environmental decision-making. Business Strategy and the Environment, 12, 292–299.
+
+Green, J.F., & Chambers, W.B. (Eds.). (2006). The politics of participation in sustainable
+development governance. Tokyo: United Nations Universities Press.
+
+Hansen, H.S., & Mäenpää, M. (2008). An overview of the challenges for public participation
+in river basin management and planning. Management of Environmental Quality: An
+International Journal, 19(1), 67–84.
+
+Krashinsky, M. (1997). Stakeholder theories of the non-profit sector: One cut at the economic
+literature. Voluntas, 8, 149–161.
+
+Munt, R. (2002). Building community participation. Stronger Families Learning Exchange
+Bulletin, 2, 3–5.
+
+Ngowi, A.B., & Mselle, P.C. (1998). Community participation in facility management.
+Facilities, 16, 314–318.
+
+Osti, R. (2004). Forms of community participation and agencies’ role for the implementation
+of water-induced disaster management: protecting and enhancing the poor. Disaster
+Prevention and Management, 13(1), 6–12.
+
+Overseas Development Administration. (1995). Note on enhancing stakeholder participation in
+aid activities. Retrieved from: http://www.euforic.org/gb/stake2.htm
+
+Pan African Health Organisation. (2008). Manual, chapter 12: Community participation.
+Retrieved from http://www.who.or.id/eng/contents/aceh/wsh/books/es/ES12CD.pdf
+
+Prell, C., Hubacek, K., & Reed, M. (2009). Stakeholder analysis and social network analysis in
+natural resource management. Society & Natural Resources, 22, 501–518.
+
+Reason, P., & Bradbury, H. (2006). Introduction. In P. Reason & H. Bradbury (Eds.).
+Handbook of action research (Concise Paperback Edition). London: SAGE Publications
+Ltd.
+
+Reid, J.N. (2002). Community participation: How people power brings sustainable benefits to
+communities. USDA Rural Development Office of Community Development. Retrieved
+from http://www.rurdev.usda.gov/rbs/ezec/Pubs/commparticrept.pdf
+
+Ruud, van der Helm. (2007). Ten insolvable dilemmas of participation and why foresight has
+to deal with them. Foresight, 9, 3–17.
+
+Smith, L.B. (2003). Public policy and public participation engaging citizens and community in the
+development of public policy. Retrieved from http://www.phac-aspc.gc.ca/canada/regions/
+atlantic/pdf/pub_policy_partic_e.pdf
+
+Vernooy, R. (2005). The quality of participation: Critical reflections on decision making,
+context and goals. In J. Gonsalves, T. Becker, A. Braun, D. Campilan, H. De Chavez, E.
+Fajber, M. Kapiriri, J. Rivaca-Caminade & R. Vernooy (Eds.), Participatory research and
+development for sustainable agriculture and natural resource management: A sourcebook.
+Volume 1: Understanding participatory research and development. International Potato
+Center-Users’ Perspectives with Agricultural Research and Development, Laguna,
+Philippines and International Development Research Centre, Ottawa, Canada. Retrieved
+from http://www.idrc.ca/openebooks/181-7/
+
+Woods, N. (2000). The challenge of good governance for the IMF and the world bank
+themselves. World Development, 28, 823–841.
+
+World Bank. (1996). The world Bank participation sourcebook. Retrieved from http://www.
+worldbank.org/wbi/sourcebook/sb0100.htm
+
+Yang, J., Shen, P.Q., Bourne, L., Ho, C.M.-F., & Xue, X. (2011). A typology of operational
+approaches for stakeholder analysis and engagement. Construction Management and
+Economics, 29, 145–162.
+
+Zimmerman, M.A. (1990). Toward a theory of learned hopefulness: A structural model
+analysis of participation and empowerment. Journal of Research in Personality, 24, 71–86.

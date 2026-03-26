@@ -1,0 +1,461 @@
+
+Information Technology for Development
+
+
+
+
+
+
+ISSN: 0268-1102 (Print) 1554-0170 (Online) Journal homepage: www.tandfonline.com/journals/titd20
+
+An e-government framework for assessing readiness for public sector e-procurement in a lower-middle income country
+
+Peter Adjei-Bamfo, Kwame Ameyaw Domfeh, Justice Nyigmah Bawole, Albert Ahenkan, Theophilus Maloreh-Nyamekye, Stephanie Adjei-Bamfo & Samuel Antwi Darkwah
+
+To cite this article: Peter Adjei-Bamfo, Kwame Ameyaw Domfeh, Justice Nyigmah Bawole, Albert Ahenkan, Theophilus Maloreh-Nyamekye, Stephanie Adjei-Bamfo & Samuel Antwi Darkwah (2020) An e-government framework for assessing readiness for public sector e- procurement in a lower-middle income country, Information Technology for Development, 26:4, 742-761, DOI: 10.1080/02681102.2020.1769542
+To link to this article: https://doi.org/10.1080/02681102.2020.1769542
+
+
+
+ Published online: 24 May 2020.  Submit your article to this journal
+
+ Article views: 1784
+ View related articles  View Crossmark data
+
+ Citing articles: 16 View citing articles
+
+
+
+
+        Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=titd20
+
+INFORMATION TECHNOLOGY FOR DEVELOPMENT 2020, VOL. 26, NO. 4, 742-761
+https://doi.org/10.1080/02681102.2020.1769542
+
+
+
+An e-government framework for assessing readiness for public sector e-procurement in a lower-middle income country
+Peter Adjei-Bamfo	a, Kwame Ameyaw Domfeha, Justice Nyigmah Bawolea,
+Albert Ahenkana, Theophilus Maloreh-Nyamekyea, Stephanie Adjei-Bamfob and Samuel Antwi Darkwahc
+aDepartment of Public Administration and Health Services Management, University of Ghana Business School, Accra,
+Ghana; bGa West Municipal Hospital, Amasaman, Ghana; cFaculty of Regional Development and International Studies, Mendel University, Brno, Czech Republic
+
+KEYWORDS
+E-government; public sector e-procurement; e- government development index; institutional and economic theory; qualitative case study; Ghana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+In contemporary public administration, service delivery has seen a signi?cant shift from Weber's (1947) standard procedures and structures towards an era of information and communication tech- nologies (ICT) associated with modernity, ?exibility, innovation, e?ciency and quality in service deliv- ery (Osei-Kojo, 2016). The practice, which is conceptually known as e-government encourages accountability, transparency, citizen participation in the decision-making process and e?ective gov- ernance towards socio-economic development (see Kottemann & Boyer-Wright, 2010; Neupane et al., 2014). Other studies also hold that this innovation reduces transaction cost and corruption in public administration (Klabi et al., 2018; Lio et al., 2011; Osei-Kojo, 2016) and promotes privacy, security, inte- gration, re-engineering, ubiquity, and interoperability in public sector management (Fang, 2002; Kot- temann & Boyer-Wright, 2010; Neupane et al., 2014).
+   These bene?ts have consequently resulted in its application to several government services and operations. Amidst the numerous e-government solutions, e-procurement is noted with exceptional implications for improving government operations (Hardy & Williams, 2008; Vaidya et al., 2006; World
+
+CONTACT Peter Adjei-Bamfo  p.adjeibamfo@ecu.edu.au Department of Public Administration and Health Services Man- agement, University of Ghana Business School, P. O. Box LG. 78, Legon, Accra, Ghana
+Arlene Bailey is the accepting Associate Editor for this manuscript
+(c) 2020 Commonwealth Secretariat
+
+
+Bank, 2012) and convenience for suppliers (Seo et al., 2018). According to Vaidya et al. (2006), e-pro- curement is an inter-organizational information system, which automates various parts of the public procurement process towards e?ciency and transparency. Although initiated by the private sector, e- procurement automates procurement processes by allowing ?rms to use internet resources for pro- curing goods and services from suppliers in the supply chain. With this, potential suppliers are ident- i?ed and interacted with at e-marketplaces and with e-payment modes (Standing et al., 2007).
+   Governments, particularly, lower and lower-middle income countries (LMICs) are also leveraging on the ICT growth to improve their procurement practice, which is estimated to constitute about 10% to 20% of national expenditure (Thai, 2001; UNDP, 2006; World Bank, 2012). Notwithstanding their relatively lower national income, e-government survey by the United Nations Department of Economic and Social A?airs (UNDESA) (2014, p. 20) reveals that India, Ghana, Bolivia, Vietnam, and the Philippines among others have clearly advanced their e-government structures which dissent from Kottemann and Boyer-Wright (2010). Despite the growing presence of e-procurement in the public sector, there is a global disparity in the extent of its application (Chu et al., 2004; Dunleavy et al., 2005; World Bank, 2016). Thus, while procurement entities of some countries only apply e-pro- curement to particular procurement-related activities such as procurement planning, tender invita- tions, and publishing awards, others extend it to bid submission and evaluation. Even with bid submission - whilst some countries use the digitized process for only particular types of procurement (services, goods, and works), others limit it to either emails or online application platforms (World Bank, 2016). What then drives a complete e-procurement system?
+  With the narrative of Ghana, this paper attempts to answer the question: what factors determine readiness for a full public sector e-procurement system? Notwithstanding the burgeoning literature on public sector e-procurement from LMICs, this research question has been overlooked by prior studies which have focused on the role of e-procurement in implementing sustainable public pro- curement (Adjei-Bamfo et al., 2019), how e-procurement reduce corruption (Neupane et al., 2014), and exploring critical success factors for successful e-procurement implementation (Vaidya et al., 2006). Hence, there is a paucity of knowledge on the disparity in the extent of e-procurement use. Such knowledge is relevant for shaping the process of managing e-procurement project towards socio-economic development (Lapsley, 2009; Yildiz, 2007) in LMICs with unique socio-cultural context (Schuppan, 2009). The purpose of this paper is therefore to provide a framework to guide the implementation of end-to-end e-procurement systems in the public sector of resource-poor con- texts. Drawing on the United Nations E-Government Development Index (EGDI) and Kottemann and Boyer-Wright (2010), this paper argues that implementing a national e-procurement system does not solely depend on availability and functionalities of online services, but also on certain institutional and socio-technical elements. This paper o?ers signi?cant policy and practical implications for lever- aging public sector e-procurement for socio-economic development.
+  The rest of the paper is divided into four sections. A conceptual overview of the study and the theoretical framework are foremost outlined. The next section presents the research methodology whilst the subsequent section discusses the unique ?ndings of this study. Conclusion, implications for policy and practice, as well as directions for future research are o?ered in the last section.
+
+Literature review
+New public management, e-government, and public service quality
+Public administration has observed a number of transformations aimed at solving emerging organ- izational and social problems. Thus, from the Weberian rationalized way of administering public ser- vices in the 1940s to the New Public Management (NPM) era where private management style gained focus. Today, public administration is presented with a digital era (Dunleavy et al., 2005) where several forms of public services are being delivered with the aid of ICT. Through this transition, some public administration scholars in their advocacy for the NPM approach have criticized the
+
+
+application of Weber's bureaucratic theory as non-performing and over-formalization of policy systems (Raadschelders, 2014).
+  The NPM, which was quite popular in the United Kingdom around the 1980s was later conceptu- alized by Hood as the adoption of management principles common to private sector organizations by public managers (Hood, 1995). However, some scholars see the NPM initiative as policy disasters with minimal control of governments' e?ectiveness (Dunleavy et al., 2005; Lapsley, 2009). While its elements (incentivization, disaggregation, and competition) were meant to maximize the welfare of citizens, policies, and programs designed along these themes were unintegrated with other gov- ernment agencies - increasing administrative cost (Lapsley, 2009). Upon a critical evaluation of the impact of modern Information Technology (IT) systems had on a repertoire of government endea- vors, Dunleavy et al. (2005) announce e-governance as the next round of systemic change in public administration and refer to the practice as Digital Era Governance.
+   ICT remains key to development by transforming contemporary public administration (Bertot et al., 2016; Lapsley, 2009). Prior studies have established many prospects including accountability, transparency, and citizen participation in the governance process (Alshawi & Alalwany, 2009; Boateng, 2013; Hardy & Williams, 2008). Others (Fang, 2002; Kottemann & Boyer-Wright, 2010) also suggest that the innovation promotes privacy, security, integration, re-engineering, ubiquity, and interoperability in public sector management. These prospects have informed e-government adop- tion in health, procurement, immigration, and education services among others.
+
+The concept of public sector e-procurement
+Among the numerous e-services, e-procurement is noted as one of the rapid and major reforms observed globally (Hardy & Williams, 2008; Seo et al., 2018; Vaidya et al., 2006; World Bank, 2016). Initially popular in the private sector, e-procurement is a type of e-business system where automation of the procurement procedures permit organizations to use the internet resources for procuring ser- vices and goods by foremost identifying and interacting with suppliers at e-marketplaces in a supply chain (Walker & Brammer, 2012). In the public sector, Cattaneo (2012, p. 2) de?nes e-procurement as '
+... end-to-end digitization of public procurement processes, from the sourcing phase (pre-award: before the supplier is selected) to the purchases phase (post-award: after the supplier is selected)'. Governments use the electronic process when tendering public work or acquiring goods and services. E-procurement often requires an inter-organizational information system that automates the procure- ment process for the purposes of improving e?ciency, quality, and transparency of government procure- ment (Vaidya et al., 2006). For the purpose of this study, however, the term public sector e-procurement will be de?ned as full digitization of the public procurement functioning by the government.
+   This system reduces the information gap between government and suppliers, and consequently promote transparency and accountability in the public procurement process (Chu et al., 2004; Neupane et al., 2014; Transparency International, 2011). In their empirical study, which also corrobo- rates Lio et al. (2011), Neupane et al. (2014) found that adopting an electronic public procurement technology reduces the risk of corruption as the system minimizes the discretion of public o?cials. To suppliers, Seo et al. (2018) also found that the presence of three types of failures: infor- mation, function, and system failures negatively inform suppliers' satisfaction and evaluation of service convenience. Although public sector e-procurement has been extensively studied in the infor- mation systems (Hardy & Williams, 2008; Neupane et al., 2014) and IT for development literature (Seo et al., 2018), empirical studies to explain the extent and disparities of its adoption appear limited. This study explores readiness determinants for a full public sector e-procurement system in an LMIC.
+
+Public sector e-procurement in LMICs
+LMICs have a Gross National Income per capita of up to $3,895 according to the recent World Bank (2018) country classi?cation. Prior studies suggest that e-procurement has a growing presence in
+
+
+most LMICs including India (Panda et al., 2010), Ghana (Adjei-Bamfo et al., 2019; Tutu et al., 2019) and Indonesia (Nurmandi & Kim, 2015; Seo et al., 2018). Majority of these studies mainly examined its pro- spects and challenges, complexities of its adoption, critical success factors, and its e?ectiveness in controlling public procurement corruption (Adjei-Bamfo et al., 2019). Particularly, estimates of public procurement corruption from sub-Saharan Africa constitute over 70% of public contracts with a 30% price rise (Mawenya, 2008). Corruption hinders national development by weakening national institutions, erodes public trust, increases business costs, as well as discouraging external investment (Neupane et al., 2014). Neupane et al. (2014) propose that public sector use of e-procure- ment may address this menace. They argue that e-procurement improves spending visibility while minimizing human interaction (often engendering corruption) in the administration of the public procurement services. With this system, there is adequate information regarding public procurement such as tender adverts, evaluation, and selection results for stakeholders. Such visibility and openness enhance accountability in procurement management and deter potential collusion and opportunism by government o?cials and suppliers (Neupane et al., 2014). Hence, the increasing adoption of the technology among LMICs (Makosa & Mwangangi, 2018; Pitso et al., 2018).
+   In an analysis of three Indonesian cities, Nurmandi and Kim (2015) for instance observe that e-pro- curement has reduced transaction cost previously incurred in the traditional procurement process. The e-procurement technology saves huge government budget which was previously used to adver- tise calls for participation and tenders in print media among other mediums (Asogwa, 2013; Basu, 2004). Through the internet, tender information reaches a large pool of suppliers including small and local enterprises - increasing their participation. Countries that have properly implemented the e-procurement system have observed a higher involvement of local small and medium enter- prises (SMEs) because of the enhanced access to market and consequent fall in marketing costs (Bar- ahona & Elizondo, 2014; Karjalainen & Kemppainen, 2008; Seo et al., 2018). Particularly, in Ghana's case, the few studies on e-procurement in the public sector (Tutu et al., 2019) and in educational insti- tutions (Azanlerigu & Akay, 2015) focuses on the bene?ts and challenges a?ecting e-procurement adoption. Amid the growing presence of e-procurement in LMIC public sectors, Adjei-Bamfo et al. (2019) and the World Bank (2016) suggest that the extent of its application di?ers in terms of the stages in the procurement process, type of procurement, procurement method being used, and tech- nology available. However, knowledge on the disparity in the extent of e-procurement use begs for more understanding (Adjei-Bamfo et al., 2019; Neupane et al., 2014). Hence, the objective of this paper.
+
+Public sector e-procurement adoption and dynamics
+Notwithstanding the prospects of public sector e-procurement service delivery, factors such as infra- structural constraints, weak security and privacy management systems, lack of strategic plans, and resistance to change often hinder smooth implementation (Alshehri & Drew, 2010; Layne & Lee, 2001; Nurmandi & Kim, 2015). This often renders ICT adoption problematic and chaotic in public pro- curement. Hence, informing scholarship on the topic since the last decade (see Adjei-Bamfo et al., 2019). In their attempt to propose solutions to challenges confronting e-procurement adoption in the public sector, prior studies (Chomchaiya & Esichaikul, 2016; Concha et al., 2012; Kottemann & Boyer-Wright, 2010; Layne & Lee, 2001; Zarei et al., 2008) have explored critical factors and o?ered various frameworks to facilitate the smooth implementation of e-procurement across governmental agencies. For instance, Layne and Lee (2001) and Gartner Group (2000) proposed a four-stage model focused on government online services and functionalities. Even though these studies played a major role, they seem incomplete, as the success of electronic governance services does not solely depend on online functionalities (Concha et al., 2012; Groznik & Trkman, 2009). Therefore, the need for a more conclusive approach for assessing public sector e-procurement adoption.
+   Concha et al. (2012) and Kottemann and Boyer-Wright (2010) extend the discussion further. Concha et al. (2012) o?er an observatory maturity model for public sector e-procurement. Their
+
+
+model considers regulatory and institutional management issues in addition to technological issues like electronic tendering system and security (Concha et al., 2012). In the context of e-government for development, Kottemann and Boyer-Wright (2010) also suggest that quality of legal system, techno- logical innovativeness, quality of internet infrastructure, and level of income of a country enhances e- procurement implementation and adoption. Whilst Zarei et al. (2008) discusses socio-cultural context by emphasizing citizen interaction as a part of their nine-stage model, the United Nations E-Govern- ment Development Index (EGDI) extends beyond online functionalities to consider human capacity and ICT infrastructure. For instance, human capacity emerged as the most pivotal factor for determin- ing the performance of e-procurement across Indonesia's local government systems (Nurmandi & Kim, 2015). Recommending stakeholder capacity building for e-procurement, Nurmandi and Kim (2015) reveals that low human capacity underlines poor e-procurement use and adoption. In this paper, we adapt the United Nations EGDI and draw on Kottemann and Boyer-Wright (2010) towards developing a holistic framework for determining public sector e-procurement readiness in Ghana (an LMIC).
+
+Theoretical framework
+In the IT for development literature, prior studies (see Kottemann & Boyer-Wright, 2010; Seo et al., 2018) have examined Government-to-Business (G2B) relationship and how this enhances social and economic development. For instance, whilst Seo et al. (2018) statistically explored factors a?ecting satisfaction of suppliers' use of e-procurement services in developing countries, Kottemann and Boyer-Wright (2010) also tests for e-readiness associated with e-business and e-government development. Extending the strand of this literature, this present study draws on the UN EGDI and the institutional and economic theory (Furubotn & Richter, 2005) to explain the disparities in the extent of public sector e-procurement adoption. Whilst the latter explains economic development as an overlap between politics, society, and law, the former is used to assess e-government adoption among UN member states.
+   The United Nations in 2001 developed the EGDI, which has since been used for its biennial surveys to assess the e?orts to enhance government electronic services among its member states. The frame- work provides a holistic view of e-government development and a solution to the limitation of the prior stage models (Gartner Group, 2000; Layne & Lee, 2001 cited in Fath-Allah et al., 2014). Thus, beside traditional advancement in online services, the EGDI also assesses human capacity to use ICT and availability of ICT infrastructure (see Figure 1). Whilst the online service index, on the one hand, assess government provision of online services and such information regarding the e-procure- ment service to businesses and citizens, the telecommunication infrastructure index on the other hand, looks at country e?ort to improve ICT infrastructure towards e?ective and quality e-procure- ment services. The human capital index also assesses country e?orts in building the capacity of users including business and other stakeholders as well as guiding their behavior to use the e-pro- curement service conveniently.
+  Highlights of the 2014 e-government survey indicate that telecommunication infrastructure index was the least performing component, which a?ected the global average index of member states, fol- lowed by the online service index. The survey, however, noted that the human capital index was the lead - probably due to its capacity as a major factor for achieving the Millennium Development Goals (MDGs) and poverty reduction targets (Schuppan, 2009; UNDESA, 2014). Yet, empirical studies like Kottemann and Boyer-Wright (2010) which also draw on the institutional and economic theory was unsuccessful in developing statistical measures for this human variable. They, therefore, limited their measure of e-readiness to institutional maturity (quality of legal systems), technological innovativeness, quality of internet infrastructure [internet service provider (ISP) competition] and national income levels. In the context of economic and social inequalities, Bertot et al. (2016) draw on the EGDI to propose a universal and contextualized framework for digital public services that are responsive to all citizens irrespective of their social and economic status. For the purposes of
+
+
+
+
+Figure 1. E-government framework for public sector e-procurement readiness. Source:Adapted from UNDESA (2014; 2016) and Kottemann and Boyer-Wright (2010).
+
+this study, readiness for a full public sector e-procurement system are explored along with the EGDI variables. It is argued that certain e-readiness factors drawn from the institutional and economic theory by Kottemann and Boyer-Wright (2010) which are also embedded in the three components of the EGDI account for the disparities in the extent of public sector e-procurement adoption.
+
+Methodology
+Research design
+The case study design of qualitative research approach was employed to answer the question: what factors determine readiness for a full public sector e-procurement system? Based on Yildiz's (2007, p. 659) process-oriented category of e-government research, a case study design is suitable as it o?ers this study greater insight into the intricacies and dynamics of implementing an e-procurement system for socio-economic development. Case study design is also suitable for building and extend- ing theories as they explore variables for future statistical testing (see Ellram, 1996; Walker & Brammer, 2012; Yin, 2003). An LMIC is selected for two main reasons: i) to verify prior assertions (Kot- temann & Boyer-Wright, 2010; UNDESA, 2014) about the relationship between national income level and e-government development; and ii) to understand how they are advancing their e-services amid lower national income. For the purposes of rigor, multiple cases are studied from Ghana's public sector (see Yin, 2003). A purposive sampling technique was used to select seven (7) public procure- ment entities. These cases were mainly selected because they are currently piloting e-procurement and implementing other e-government services according to Ghana's Public Procurement Authority (PPA) and the National Information Technology Agency (NITA). These cases represent three of the six categories of entities under the Public Procurement Amendment Act 914. Table 1 shows the detailed characteristics of interviewees and cases.
+
+
+Data collection procedure
+The data collection process involved three stages: i) a pilot stage where preliminary data was col- lected, ii) a comprehensive data collection through interviews recorded with permission, and iii) further data collected via telephone for consolidating ?ndings during the analysis. Primary data com- prised twenty-two (22) in-depth elite interviews from management information systems (MIS) per- sonnel and other o?cials who are directly involved in procurement decisions in accordance with the composition of Entity Tender Committees (ETCs) based on the ?rst and second Schedules of Act 914 (GOG, 2003). Interviews lasted about 25 min to an hour using both face-to-face and tele- phone methods (see the open-ended interview guide in Appendix A). Other secondary data, which provided useful background for this study were gathered from relevant journal articles, policy documents, and evaluation reports (Miles & Huberman, 1994). Both primary and secondary data sources were gathered under strict adherence to all ethical norms of qualitative research (Yin, 2003).
+
+
+Data analysis and validity
+After transcribing audio data into text, case report for each case was ?rst written and approved by respective entities. Each case was analyzed and then triangulated against the other for external val- idity (Pratt, 2008, p. 496). Data were analyzed in a thematic manner using open/?rst-order and axial coding (Miles & Huberman, 1994; Pratt, 2008). Thus, common themes were generated to categorize the data. We further conducted an iterative and careful study of the categorized data and common themes to generate sub-themes. Emerging ?ndings were further triangulated with secondary data for construct validity and analyzed with an interpretivist paradigm, which allowed for co-creation of knowledge (Ellram, 1996; Miles & Huberman, 1994). For purposes of ecological validity (Pratt, 2008;
+
+
+Table 1. Background information of interviewees.
+Case
+studiesa	Brief description of cases
+AF	A local government responsible for improving the quality of life and socio-economic wellbeing through the provision of basic services and facilities.
+
+
+Designation of respondents
+Senior Manager MIS O?cer Expenditure O?cer Legal O?cer Procurement O?cer
+
+BC	A mineral regulatory agency mandated to grant mineral rights to mining companies.	MIS O?cer
+Finance O?cer Legal O?cer Procurement O?cer
+Administrative O?cer
+
+CC	Mandated to provide public ?nancial management services to the government and the general public through e?cient, skilled, well-motivated and dedicated sta?, using the most appropriate technology.
+
+Procurement O?cer 1
+Procurement O?cer 2 MIS O?cer
+
+DB	The ICT policy implementing arm of communications Ministry.	Application Systems O?cer
+Procurement O?cer
+
+
+EB	Oversight agency for public procurement and facilitates implementation of national public procurement law
+
+MIS O?cer Operations O?cer Procurement O?cer
+
+FB	Improve the health status of all people in Ghana.	Procurement O?cer 1 Procurement O?cer 2
+GC	A public tertiary institution.	Procurement O?cer
+MIS O?cer
+Source: Authors' construct (2020).
+aIndices B, C and F indicate three of the six categories of selected entities under the Public Procurement Amended Act 914: B - a Central Government Ministry or a State Owned Enterprise; C - a Subvented Agency; F - a Metropolitan Assembly.
+
+
+Schuppan, 2009), readiness determinants for implementing an end-to-end public e-procurement are discussed along with the elements of the proposed conceptual framework in Figure 1.
+
+Discussion of ?ndings
+In this section, key ?ndings accounting for the state of Ghana's public sector e-procurement adoption are discussed. Based on these, a holistic framework for assessing readiness for a full public sector e- procurement system is presented.
+
+Ghana's partial e-procurement process
+The study found that the current public sector e-procurement process in Ghana was partly electronic. Unlike the full public e-procurement system in Taiwan (Chu et al., 2004) and other countries, Ghana's e-procurement combines paper processes at certain stages. The initial processes of public procure- ment involve procurement planning and budgeting. While plans of all procurement entities are uploaded onto the Public Procurement Authority's (PPA's) online portal at the beginning of every year for scrutiny and transparency purposes, the Ghana Integrated Financial Management Infor- mation System (GIFMIS) is used to prepare public budgets, including that of public procurement. Enti- ties also access standard tender documents (STDs) of common products and services from the PPA website as a guide for preparing tender documents and based on the relevant procurement methods, they simultaneously advertise tender invitations on the same website (at a fee) and in any one daily newspaper of nationwide coverage (according to section 47 of the PPA Act 914).
+Oh yes. It's not solely 'e'. We do it partially. For instance, with our procurement plan, we post it online. Then our supplier database too, we always update it online. With competitive tendering, although we advertise the tenders online, from the portion of submission through evaluation and payment, it is done manually. Except publishing of the evaluation of the result or report which is also online. (Procurement O?cer 2, FB)
+However, tender submission, evaluation, and selection of successful candidates are done manually. The digital process is resumed after evaluation - when successful suppliers/contractors have been selected. Notice of selection and evaluation results are then published on the PPA website. After suc- cessful suppliers/contractors have been invited to o?cially accept the o?er of contract, a commit- ment is made in the GIFMIS on their behalf based on the terms agreed upon (see Figure 2).
+Internally, we prepare the Local Purchase Order (LPO) after we have identi?ed the suppliers. But when the goods come, they are accompanied by a waybill which is given to the Accounts unit. Stores also prepare Store Received Advice (SRA) as con?rmation that the speci?cations of the LPO have been delivered. Payment Voucher (PV) is pre- pared and ?nally, suppliers are electronically paid. (Procurement O?cer, DB)
+Although the GIFMIS was programed to facilitate digital ?nancial transactions in the public sector, it is used by entities based on the proportion of their budget allocation committed in the GIFMIS appli- cation for public procurement. Hence, electronic payments are used alongside cheques. However,
+
+
+
+Figure 2. The partial e-government procurement process. Source: Authors' construct (2020).
+
+
+with the launch of the Ghana Electronic Procurement System (GHANEPS) on 30th April 2019, the gov- ernment seeks to digitize all public procurement related activities for e?ciency, transparency, and value for money.
+
+
+Readiness for public sector e-procurement
+Based on the experience from the numerous e-services for enhancing the quality of public services and the perspective of procurement entities piloting e-procurement, a checklist of readiness deter- minants were also found. These require the attention of all public procurement stakeholders ahead of plans to embark on a full e-procurement system. Whilst these elements facilitate e?ective administration of the e-procurement service between governments and businesses toward optimizing procurement service delivery (Kauppi & Van Raaij, 2015; Neupane et al., 2014), transparency and accountability principles of public procurement are also enhanced.
+
+
+Existing online services in Ghana
+In 2003, the Ghana government o?cially accepted ICT as a tool for growth and development upon launching the ICT for Accelerated Development (ICT4AD) policy. This was followed by the Ghana e- Government Interoperability Framework (e-GIF) in 2007. The e-GIF program aimed at constructing websites for all Ministries, Departments and Agencies (MDAs). Consequently, in 2008, the National Information Technology Agency (NITA) was established to be the implementer of national ICT pro- grams. Table 2 shows some major e-services that are currently under implementation/pilot towards improving the quality of public services. They are categorized into citizen, non-citizens, business, and government on the e-service portal of NITA - whose responsibility it is to enforce the Electronic Transactions Act 2004 (Act 772).
+you see that when you go to most of the agencies now and at the 'one-stop-shop' at Circle, you'll see that they have listed all the procedures for you to acquire every permit that is being issued by the agencies because the law says that you should gazette it. (Application Systems O?cer, DB)
+Section 26 of the Electronic Transactions Act 2004 (Act 772) mandates and regulates all e-services in Ghana. It prescribes the manner in which all government institutions and public agencies are to digi- tize their services. This includes the manner in which the electronic records shall be ?lled, created, retained and issued. These processes are gazetted and published on NITA's website and in other newspaper publications with national coverage. Gartner Group's (2000) four stages model was used to assess the functionalities embedded in these websites. Thus, the extent to which the selected entities websites interact with citizens and clients, whether they support transactions, and how inte- grated they are with other websites and portals of other public institutions were explored.
+   Web presence: NITA, an agency under the Ministry of Communications is mandated to provide all MDAs and Metropolitan, Municipal and District Assemblies (MMDAs) with websites to facilitate e?ective delivery of public services. These websites ensure that the public has access to all the e-ser- vices upon following the government of Ghana website and established procedures. The websites hosted by NITA provide basic information about their activities: mission, scope of operation, pro- cedures to use the e-services, its management, and basic publications among others. For instance, procurement plans of entities, tender adverts, and evaluation reports are also uploaded on the PPA website.
+When we are doing the adverts, we use our internal notice boards. Apart from that, we put a copy on the PPA website. We also publish in newspapers of nationwide coverage. (Administrative O?cer, BC)
+He added:
+Well, I don't know who is building these things but sometimes they are down for the most parts. They are not well run and all that. They are also not updated regularly. (Administrative O?cer, BC)
+
+Table 2. Some existing e-government systems for public service delivery in Ghana.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+plant operators
+
+
+accommodation/catering institutions
+
+
+and catering services at tourist locations in a convenient and e?cient manner.
+
+Mining Cadastral Administration System and online licensing
+
+Online request for mineral rights by mining companies.  Conveniently o?er mining companies
+information about available mining ?elds.
+
+Minerals Commission (MINCOM)
+
+Online business, marriage and industrial property registration
+
+National Digital property addressing system
+
+Ghana Community Network (GCNet) and the Ghana Customs Management System (GCMS)
+
+Government  Ghana Integrated Financial
+Management Information Systems (GIFMIS)
+
+Source: Authors' construct (2020).
+
+Online application form for registering businesses, industrial properties, marriages, estates among others.
+Provide digital addresses for parcels of land and properties. With a unique code, the system seeks to ensure the delivery of e?cient services.
+Online submission, processing, approval and distribution of trade-related documents by MDAs. Users can interact with relevant MDAs in their clearing process for supporting documents and to track progress.
+GIFMIS involves i) ?nancial management and controls;
+ii) the program based budget reform; iii) human resource management information systems.
+
+Convenience in ensuring e?cient and e?ective administration of entities towards accurate data for national development planning.
+To improve the operations of business activities in the country.
+
+For e?cient and e?ective cargo clearance at the ports of Ghana, by reducing unnecessary delays and malfeasance among other related bureaucratic processes.
+
+The use of ERP for an integrated and e?ective public ?nancial management in Ghana.
+
+Registrar General's Department (RGD)
+
+Ghana Post
+
+Ghana Revenue Authority
+
+
+
+Controller and Accountant General's Department (CAGD), Public Services Commission (PSC) & Ministry of Finance (MoF)
+
+Ironically, most of these websites are rarely updated. This causes information asymmetry in the public procurement process, which could impair the decision of prospective suppliers and the outcomes of procuring agencies (Kauppi & Van Raaij, 2015).
+   Interaction: Regarding the level of interaction of these websites, not all provide interactive tools like search engine, live chat, and easy links to emails and other social media platforms. Whilst the websites of government ministries and state agencies provide stakeholders and citizens easy access to these additional services, that of the local government agencies do not allow these although they all have downloadable documents under either the 'publication' or 'media' menu.
+... because I am the technical person in charge, it will prompt me that a customer is requesting for a particular service from a particular o?cer. Then if I see that the response time is elapsing and the o?cer is not attending to it, I remind the said o?cer that a particular customer needs a particular service. (MIS O?cer, BC)
+Another added:
+when you go to our website, we have forms, STDs, tender opportunities and all other information like the e-bulletin we post on our website every two months. For now, tenders cannot be submitted through the website. So, if the public has any comments on some of these things, they put it on the website and we take it up. (MIS O?cer, EB)
+Although there are some interactive tools on public websites, they are limited to the central govern- ment and its agencies at the expense of the MMDAs. Again, the websites of procurement entities do not allow direct interactions with suppliers. This ?nding a?rms earlier study by Boateng (2013) that public websites in Ghana o?er little room for interaction between citizens and government, as they are mostly informative in nature.
+Transaction: Contemporary websites support all kinds of activities including online transactions.
+This study identi?ed an integrated payment gateway system, which allows several forms of online payment options on the various government websites for users. While websites of some procure- ment entities support online payments through the mobile phone, others do not. At the minerals licensing agency, it was found that various application forms could be bought online including that of mineral rights application forms. These services may be paid electronically via VISA and debit cards or mobile cash payment modes as in the case of online marriage license application at the local government and online passport application at the Foreign A?airs Ministry.
+... after the transaction, it will generate a transaction pin for you like an invoice code then you pay based on the code and it will re?ect the service you are paying for. Then you are either given access to ?ll or download the ?le. (MIS O?cer, AF)
+Concerning public procurement, the various websites of procurement entities are yet to be built to support online transactions. Thus, authorities and stakeholders are currently in the process of devel- oping the revenue models, the payment methods and the policy guide to validate electronic procure- ment transactions (Concha et al., 2012). Coordination with stakeholders including those at the upstream is necessary towards electronic transactions ahead of government' e-procurement system (Groznik & Trkman, 2009).
+   Transformation: Whilst the NITA and PPA websites are connected to all procurement entities irre- spective of whether or not they are providing e-services, all central government and few local gov- ernment agencies (under pilot) are connected to the GIFMIS platform which is used for public ?nancial management activities including public procurements (Bawole & Adjei-Bamfo, 2019b, 2019a). This is probably because they are the main implementation and oversight agencies of the e-government, public procurement, and public ?nancial management policies respectively. With the transformation to an integrated service, public institutions can directly access certain information from the PPA, NITA, and CAGD websites or even refer their clients to them.
+Now you can apply for all the online services through the NITA website. They are all linked to our websites. (MIS O?cer, BC)
+
+Another added:
+the HRMIS has information on sta?, so for every month, the controller forwards the details to us to validate before salary payments are made ... so I just update the records and send it to Finance. Then Finance will intend forward it to the Coordinating Director who gives the ?nal approval. (Senior Manager, AF)
+On the PPA website, however, procurement o?cers post their procurement plans at the beginning of each year for approval and/or monitoring purposes in addition to news items like tender invitations and bi-monthly e-bulletin for all stakeholders - chie?y, procurement entities.
+
+Telecommunication infrastructure
+Over the years, Ghana has improved its ICT infrastructural facilities tremendously, as manifested in the various software applications acquired to improve the delivery of public services (see Table 2). In addition, the government through NITA has built 200 Community Information Centers (CICs) with 10 regional coordinating centers across the country and a model of the One-Stop-Service Center in Accra (NITA, 2016). Access to these CICs, which are being managed by the District Assem- blies, is free. Government is, however, taking advantage of the available telecommunication infra- structure to initiate e-procurement, which is accessible and convenient to suppliers. The CICs will enhance equal participation among small and medium scale enterprises (SMEs) who are often disad- vantaged by such public sector reforms due to their e-resource constraint (Karjalainen & Kemppainen, 2008; Walker & Brammer, 2012). In addition, a user-friendly application system software with high- level security features; a strong, reliable and nationwide internet service (see Bankole et al., 2015); and data analytic tools are key to facilitate a robust e-procurement service. Integrating this system with all public procurement stakeholders will generate public value (Yýldýz & Saylam, 2013).
+   E-procurement application system: Regarding the e-procurement software, the Ghana govern- ment in collaboration with the World Bank has launched a full e-procurement system called GHANEPS, which seeks to transform all public procurement management processes. The new system anticipates taking away all human and physical interactions, unnecessary administrative cost and detecting collusive behaviors common in the existing procurement practice. Although necessary for developing and implementing sustainable procurement initiatives (Adjei-Bamfo et al., 2019; Gelderman et al., 2015), the use of discretion by government and procurement managers to advance their political interests and opportunistic agenda may be controlled (Bawole & Adjei- Bamfo, 2019a; Eisenhardt, 1989).
+... what we worked on is supposed to be like there wouldn't be any physical or face to face interaction when it comes to procurement. Yeah, we've selected the company already. It was a World Bank project. So having done our part, the remaining is with them. (Applications Systems O?cer, DB)
+Another added:
+They are taking time because of the procurement processes involved - availability of funds and the piloting. (Pro- curement O?cer, GC)
+From NITA and PPA, GHANEPS will be piloted in six (6) public entities: Volta River Authority, Ghana Health Service, Koforidua Technical University, Ghana Cocoa Board, Tema Municipal Assembly, and the Department of Feeder Roads. These entities were selected due to their high revenue generation and nature of spending (see PPA, 2017). Currently, all the necessary software con?gurations of GHANEPS have been completed but awaiting training and piloting.
+   Internet connectivity: In addition, an e-procurement system also relies on quality internet service to operate e?ectively. In sub-Saharan Africa, Bankole et al. (2015) inform that Nigeria and South Africa accounts for about 80% of broadband internet subscription. In Ghana, there is a high level of internet penetration with about 52 private internet service providers (ISPs) (NCA, 2016). The study established that NITA provides internet services to the MDAs and MMDAs to facilitate the delivery of the existing e-services due to high cost of private ISPs. However, internet access in the various MDAs and MMDAs
+
+is challenged as the NITA network is slow and sometimes unavailable. The situation was common in all selected entities with respondents concerned about its impact on work?ow.
+Sometimes the net is down and you can't render services to clients. Sometimes, two ... three days. Sometimes one week, the system is down. You can't do anything. (Procurement O?cer 1, FB)
+Another respondent added:
+... so when you have a challenge like that, you don't enjoy the speed with which it should work. With such system, if the manual is even faster than it is, people will naturally develop a dislike for such a platform. Due to this, we are not able to use it as fast as it is required. (MIS, AF)
+Notwithstanding NITA's e?ort of providing some basic internet connectivity to over 90% of MDAs and MMDAs, internet connectivity remains a challenge. Due to the non-reliability and sluggish connectivity, management of some entities use private ISPs (although expensive) and the NITA network in parallel. This ?nding oppose prior studies (see Kottemann & Boyer- Wright, 2010) which argue that competitive ISP increases the quality of internet service and decreases service cost. In Ghana's context, there is high cost and poor quality of internet service for e-procurement amid NCA's (2016) report of about 52 internet service providers. This may have a negative implication on suppliers' participation and entities' use of the e-pro- curement service.
+Data capturing tools: A proper data collection and capturing system is also essential to track the
+success of the public sector e-procurement service. In line with Klabi et al. (2018) for example, the e- procurement system may be used to gather and analyze data on the direct and indirect reputation of suppliers. They conclude that an integration of suppliers' reputation with price variable lowers gov- ernments' risk and cost of procurement (Klabi et al., 2018). Therefore, failing to consider such elements in Ghana's e-procurement system may hamper and challenge the policy's success as it is not immune to these risks.
+Assuming you undertake a transaction which is not won by a local supplier when it comes to capturing of their details, it's not in that data. How do I go about this? You understand. But with the manual, whoever comes, you prepare and pay the person whether the person belongs to our suppliers' data or not. (MIS O?cer, CC)
+Vaidya et al. (2006) posit that key performance indicators must foremost be de?ned in the early stages of the reform to enable tracking of expected bene?ts. Doing so explicitly declares the main interest of the procurement entity as a guide and basis for evaluating suppliers. Hence, there is the need for a secured system with a mechanism for capturing relevant data targeted at improving the e?ectiveness and success of government e-procurement process. The data gathering may be facilitated by integrating all registered local and international suppliers/contractors of procurement entities. Such an end-to-end e-procurement system may be integrated with the Registrar Generals Department (for data on suppliers' legitimacy to participate in public procurement), the Ghana Revenue Authority (to verify tax compliance), the Social Security and National Investment Trust (for payment of employees' social security contributions), and the Environmental Protection Agency (for suppliers' environmental impact assessment certi?cations) among other relevant insti- tutions for compliance purposes.
+
+
+Human capital for ICT
+The level of ICT capacity of all stakeholders including suppliers and members of the tender evaluation teams of procurement entities is also imperious to a robust public sector e-procurement system. To implement an end-to-end e-procurement in the public sector, all stakeholders particularly procure- ment managers must therefore be trained to understand why the shift towards an electronic procure- ment process, its prospects, and how it works (Kauppi & Van Raaij, 2015).
+   Capacity of stakeholders: Procurement o?cers and personnel serving on various levels of evalu- ation committees require knowledge of ICT tools, particularly why and how they should and can
+
+respectively use the electronic procurement services (Vaidya et al., 2006). This makes the existing low capacity of local and indigenous suppliers at the upstream supply chain a great concern (Groznik & Trkman, 2009; Karjalainen & Kemppainen, 2008). In Ghana's public sector, this group of stakeholders were found to lack the capacity to respond to the demands of the electronic procurement process. Procurement o?cials from all the sampled entities were apprehensive about the situation and cau- tioned that until a rigorous training and sensitization on e-procurement are carried-out, the Ghana government is not ready to adopt a full e-procurement system. There is, therefore, the need to thoroughly train and educate procurement o?cers at all levels with knowledge on the electronic system towards public value (Yýldýz & Saylam, 2013). Without this training, public procurement may even delay, become complex, and attract high administrative cost and many procurement dis- putes from suppliers just as Lapsley terms elements of NPM 'cruelest invention of the human spirit' (2009:, p. 17).
+... even though the portals that are being used, most of us don't know about the portals of government. There must be better promotion and education so that the people will understand how they can use these portals and apply it when it comes to these services. (Legal O?cer, AF)
+when it comes to international competitive bidding, you ?nd the national companies wanting. They can't compete with the external ones, in terms of ICT infrastructure and literacy. So the moment we go e-procurement, it means the nationals are totally cut o?. Only a few of them will be able to compete. You understand?. (Finance O?cer, BC)
+However, another respondent informed:
+... as part of the evaluation that we did to select a vendor for the e-procurement software, we were looking at the training program or schedule for the MDAs. So we don't think even training management and procurement o?cers in one month is enough time. (Procurement O?cer, DB)
+According to Dr. Mahamadu Bawumiah, the Vice President of Ghana speaking at the launch of GHANEPS, phases of training programs are yet to commence to enhance stakeholder capacity to use the system. Fortunately, aggregated data from the last six biannual e-government survey by the UN reveals an optimistic trend. Thus, Ghana's (including other LMICs) human capacity to use ICT, although declining, has rather been consistently higher than available online services and level of telecommunication infrastructure facilities (see Figure 3). The situation may allude to the high rate of self-learning and social media presence associated with the increasing broadband sub- scription by citizens. For Yýldýz and Saylam (2013) and Bankole et al. (2015), this creates an avenue for contributing to policy debates like adopting e-procurement in the public sector. It is, therefore, essen- tial for government to leverage on the high presence on the new media as a tool to augment its e?orts of providing e-procurement training to all stakeholder and to harness this socio-technical change for development (Bertot et al., 2016; Hardy & Williams, 2008; Williams & Hardy, 2005).
+   This ?nding con?rms Chu et al.'s (2004) study in Taiwan, which revealed that the intention and the use of the electronic tendering system are enhanced by increased knowledge and skills of users. With such capacity, users will be able to hold the government accountable with the support of civil society organizations whilst procurement entities also hold suppliers accountable (Adjei-Bamfo & Maloreh- Nyamekye, 2019).
+   Clear policy guide: A policy framework or guide clearly outlining the procedures for the electronic procurement to ensure smooth enforcement and compliance towards the intended goals of the digital transformation is also critical. There is a need for a broad consultation among stakeholders including procurement sta? to develop an implementation strategy for e-procurement (Vaidya et al., 2006). In Ghana's case, there is no policy guide or manual gazetted to regulate the e-procure- ment process. Such guidelines are essential as they provide a stepwise approach to undertake and enforce the e-procurement process in all procurement entities.
+... in the recently amended act, you cannot see any guidelines on e-procurement there for procurement o?cers. There is nothing in the act guiding the e-procurement. (Procurement O?cer 2, CC)
+
+In publications about the recent amendment of the previous Public Procurement Act 2003 (Act 663), the government justi?ed among other reasons that the amendment was to support the adoption of e-procurement to enhance transparency in public sector procurement practice. Yet, the amended Act 914 in 2016 presents limited information concerning e-procurement than was expected. According to Vaidya et al. (2006), the availability of a clear e-procurement policy guideline and strategy developed in consultation with key stakeholders will largely facilitate commitment and compliance with the e- procurement service. Although such legal instruments serve as controls against opportunistic beha- viors by government o?cials and suppliers (Adjei-Bamfo & Maloreh-Nyamekye, 2019; Bawole & Adjei- Bamfo, 2019a), Ibrahim et al. (2017) argue that the presence of regulations does not guarantee com- pliance. In the case of Ghana's local government, they observed several violations of the Public Pro- curement Act 663 (GOG, 2003). Speci?cally, sections 35, 40 and 41 of the Act, which mandates entities to seek prior approval from the Public Procurement Board regarding the use of the restricted and single-sourcing method, were mostly violated (Ibrahim et al., 2017). This is partly due to the lack of capacity of citizens and civil society organizations to directly monitor and sanction culprit entities (Adjei-Bamfo & Maloreh-Nyamekye, 2019; Soudry, 2007).
+Technical support unit: Furthermore, an e?ectively instituted technical complaints unit for a full
+government e-procurement system is critical. With the existing e-services, there is no such e?ective out?t, except the premises of respective organizations where users walk-in to enquire or to lodge complaints. Although contact numbers are usually provided for inquiries, they are mostly not func- tioning whilst calls are hardly answered in instances where the lines are active and functioning.
+... because it is faceless, if there is a problem in their system and you have not been paid for two or three months, who do you talk to? You just have to wait for the system to resolve whatever problem there is. Our interface in the system is limited after raising the LPO and my boss scrutinizes it and forwards it to Account ... . (Procurement O?cer, BC)
+He further added:
+... it is linked with let's say Bank of Ghana, Ministry of Finance and Controller. So after you have prepared every- thing and asked them to e?ect the payment, somebody somewhere must work on it. If the person does not work on it on time, there comes the delay. (Procurement O?cer, BC)
+There is, therefore, the need for a central complaints unit to receive all technical complaints and feed- back from citizens regarding their use of the e-procurement service. This unit may also exercise moni- toring and evaluation over state agencies in the form of external control. With such complaints and
+
+
+
+
+Figure 3. Aggregated data on EGDI 2005-2016. Source: United Nations e-government knowledge database (2017).
+
+information, the government may address challenges that will confront e?ective functioning of the system and to improve it. The unit, while assisting users (suppliers, procurement o?cers and members of the ETCs) with challenges experienced in their use of the e-procurement process, may also provide feedback through monitoring and evaluation towards the robustness of the procure- ment system (Concha et al., 2012; Kauppi & Van Raaij, 2015).
+
+
+Conclusion and implications
+In sum, this study attempts to extend the strand of literature on e-government for development in the context of public sector e-procurement. It contributes to the limited studies on public sector e-procurement by investigating the linchpins for assessing readiness for public sectors e-procure- ment towards socio-economic development. Findings explain country di?erences in the extent of e-procurement adoption.
+   This paper o?ers signi?cant implications for research and theory building as it contributes to the IT for development literature in the context of public sector e-procurement in three main ways. First, the paper contributes to understanding of disparities in the extent of public sector e-procurement adop- tion. Beyond the linear website functionalities, the paper argues that limited technical infrastructure and human behavioral variables also limit full e-procurement adoption. These a?ect rollouts and sus- taining full e-procurement systems. In addition, drawing on the EGDI, this paper concurs with UNDESA (2014) reports to disagree with Kottemann and Boyer-Wright's (2010) argument that the level of national income is directly linked with public sector ICT adoption. The signi?cant e?orts made in Ghana's case - in terms of e-government is evident. Lastly, this paper o?ers alternative measures for statistically testing for the human resource variable as prior e-readiness studies (Kotte- mann & Boyer-Wright, 2010) were unsuccessful in obtaining statistically signi?cant and low multicol- linearity for their candidate measures. The study argues that stakeholder capacity to use the e- procurement service, a clear policy guiding behavior in administering the e-procurement service, and a technical support unit for addressing citizens' complaints and feedback associated with the use of the e-procurement service are paramount. From the perspective of suppliers, these elements may help improve the convenience of the e-procurement service and consequently, suppliers' satis- faction (Seo et al., 2018).
+  With respect to practice, this study has severe consequences on the e-procurement service. The paper o?ers a framework to guide public managers and policymakers in their e?ort to implement a full e-procurement system. Although based on Ghana's case, respective national ICT implemen- tation agencies of other LMICs may use this framework to enhance the robustness of their e-procure- ment system both at the central and local government levels. This will curtail potential challenges often associated with e-procurement adoption and help extend the partial e-procurement process to an end-to-end system in LMICs and particularly in Ghana. The framework outlines three critical elements of a complete e-procurement system that also assures fair participation of indigenous ?rms and SMEs. First, an interactive and transformative web service with a safe electronic payment system is needed to facilitate the digitized public procurement process towards e?ciency. Second, an IT infrastructure with strong internet connectivity and dynamic data analytic tools is critical to sustain the e-procurement process and o?er relevant data for analysis and strategic decision- making. Lastly, an IT support system that provides a guide to its use and in addressing all human capacity issues including institutional and socio-technical elements will inform an e?ective change management approach for adopting e-procurement in the public sector.
+  The main limitation of this study is the fact that it was limited to Ghana's case. For purposes of generalization, future researchers are urged to replicate this study in other LMICs. Further studies on the topic may employ quantitative approaches to test how these variables in?uence public pro- curement performance. Extending this proposed framework, future studies are also encouraged to explore how electronic procurement may be used to promote environmental and social
+
+considerations in public procurement, and the impact of e-procurement system on SME participation in public procurement.
+
+
+Acknowledgments
+We appreciate the constructive comments and suggestions by the three anonymous reviewers towards improving this paper's quality. Our profound appreciation also goes to all the sta? of the selected procurement entities in Ghana who granted us interviews during the data collection process.
+
+
+Disclosure statement
+No potential con?ict of interest was reported by the author(s).
+
+
+Notes on contributors
+Peter Adjei-Bamfo is currently a Ph.D. student at the School of Business and Law, Edith Cowan University in Western Aus- tralia. He holds a Master of Philosophy in Public Administration from the University of Ghana Business School where he also worked as a Teaching and Research Assistant prior to commencing his Ph.D. in Australia. In 2016, Peter was awarded an Erasmus Mundus Fellow at Mendel University in the Czech Republic. His research interests include public procurement policy and strategy, electronic procurement, and sustainable operations and public sector supply chain management. Peter's research has appeared in International Journal of Manpower, Journal of Public A?airs, Resources, Conservation, and Recycling, and Public Organizations Review.
+Kwame Ameyaw Domfeh (Ph.D.) studied both in Ghana and the USA and holds a PhD. in Public Administration from the University of Ghana. He is currently a Professor of Public Administration at the University of Ghana Business School (UGBS) with teaching and research interests in public sector performance management and governance, public policy, ethics in public sector administration, sustainability, environmental policy and politics. From 2004 to 2009, Prof. Domfeh served as the Head of the Department of Public Administration and Health Services Management of Uni- versity of Ghana Business School, and as the Dean of the School from 2011 to 2014.
+Justice Nyigmah Bawole (Ph.D.) is an Associate Professor and currently Dean of the University of Ghana Business School, Legon. Prof. Bawole obtained a Ph.D. in Development Policy and Management from the Global Development Institute at the University of Manchester, the UK in 2013. Prior to his appointment as lecturer at the University of Ghana, he worked as Project Manager of an Accra-based NGO. He has taught at all levels of Ghana's educations system. Prof. Bawole's research interest is in the areas of participatory management and state-third sector relationships, management of NGOs, and development management: sustainable development, environment-poverty relationships, ethics, and poverty reduction.
+Albert Ahenkan (Ph.D.) is a Senior Lecturer in the Department of Public Administration and Health Services Management, University of Ghana Business School. He obtained his Ph.D. from the Vrije Universiteit Brussel (VUB), Belgium in 2011. In 2019, Albert was appointed as the third Global Network African Faculty Fellow at the Yale School of Management. His research interests are focused on public policy, climate change adaptation and ?nancing strategies, public performance management and public-private partnerships. Dr. Albert Ahenkan has extensive consultancy experience. He is the World Bank local consultant for the development of Ghana's Multi-Sectoral investment framework for Climate and Disaster Risk Management.
+Theophilus Maloreh-Nyamekye (Ph.D.) is a Lecturer at the Department of Public Administration and Health Services Man- agement in the University of Ghana Business School, Accra, Ghana. He holds a Ph.D. and MSc. in Purchasing & Supply Chain Management (UK) from the Robert Gordon University in Scotland. His research interests include electronic pro- curement, green procurement, quality improvement in health sector, and supply chain management. Theophilus has published in journals like Journal of Public A?airs and International Journal of Health Care Quality Assurance.
+Stephanie Adjei-Bamfo is a healthcare personnel (Rotation Midwife) at the Ga West Municipal Hospital, Amasaman in Ghana. Her research interests lie in healthcare systems and innovation, particularly eHealth delivery and the adoption of eHealth to improving maternal healthcare. Stephanie believes that the emerging information technolgy growth has signi?cant promise for health development.
+Samuel Antwi Darkwah (Ph.D.) is a Senior Lecturer at the Faculty of Regional Development and International Studies and the former Vice Rector for International Relations at Mendel University in the Czech Republic. He holds a Ph.D. degree in Economics and Management with an emphasis on international trade. His extensive research interests transcend ?nancial, business, and development economics. In his eighteen years working at Mendel University, he has taught
+
+courses in ?nancial management, business economics, entrepreneurship, EU policy on agriculture and development challenges of Africa.
+
+
+ORCID
+Peter Adjei-Bamfo  http://orcid.org/0000-0002-5009-2578
+
+
+References
+Adjei-Bamfo, P., & Maloreh-Nyamekye, T. (2019). The 'baby steps' in mainstreaming sustainable public procurement in Ghana: A double-agency perspective. Journal of Public A?airs, e1902. https://doi.org/10.1002/pa.1902
+Adjei-Bamfo, P., Maloreh-Nyamekye, T., & Ahenkan, A. (2019). The role of e-government in sustainable public procure- ment in developing countries: A systematic literature review. Resources, Conservation and Recycling, 142, 189-203. https://doi.org/10.1016/j.resconrec.2018.12.001
+Alshawi, S., & Alalwany, H. (2009). E-government evaluation: Citizen's perspective in developing countries. Information Technology for Development, 15(3), 193-208. https://doi.org/10.1002/itdj.20125
+Alshehri, M., & Drew, S. (2010). Challenges of e-government services adoption in Saudi Arabia from an e-ready citizen perspective. World Academy of Science, Engineering and Technology, 66(June), 1053-1059.
+Asogwa, B. E. (2013). Electronic government as a paradigm shift for e?cient public services: Opportunities and challenges for Nigerian government. Library Hi Tech, 31(1), 141-159. https://doi.org/10.1108/07378831311303985
+Azanlerigu, J. A., & Akay, E. (2015). Prospects and challenges of e-procurement in some selected public institutions in Ghana. Prospects, 7(29), 61-76. https://www.iiste.org/Journals/index.php/EJBM/article/view/26295/26937
+Bankole, F. O., Osei-Bryson, K. M., & Brown, I. (2015). The impacts of telecommunications infrastructure and institutional quality on trade e?ciency in Africa. Information Technology for Development, 21(1), 29-43. https://doi.org/10.1080/ 02681102.2013.874324
+Barahona, C. J. & Elizondo, A. (2014). Introducing a disruptive service innovation: A national dilemma in e-procurement.
+Management Decision, 52(9), 1782-1800. https://doi.org/10.1108/MD-09-2013-0497
+Basu, S. (2004). E-government and developing countries: An overview. International Review of Law, Computers & Technology, 18(1), 109-132. https://doi.org/10.1080/13600860410001674779
+Bawole, J. N., & Adjei-Bamfo, P. (2019a). Public procurement for public ?nancial management in Africa: Agency theory Lenses. In A. Farazmand (Ed.), Global encyclopedia of public administration, public policy, and governance (p. 3860). Springer International. https://doi.org/10.1007/978-3-319-31816-5_3860-1
+Bawole, J. N., & Adjei-Bamfo, P. (2019b). Public procurement and public ?nancial management in Africa: dynamics and in?uences. Public Organizational Review. https://doi.org/10.1007/s11115-019-00443-7
+Bertot, J., Estevez, E., & Janowski, T. (2016). Universal and contextualized public services: Digital public service innovation framework. Government Information Quarterly, 33(2), 211-222. https://doi.org/10.1016/j.giq.2016.05.004
+Boateng, R. (2013). The Challenge of Taking Baby Steps in E-governance in West Africa, Extended Abstract - Proceedings of the UGBS Conference on Business and Development, April 8-9, University of Ghana Business School, Accra, Ghana.
+Cattaneo, G. (2012). The case of e-procurement: no more excuses. Will public administrations overcome their own inertia before EC mandatory regulation will force them to? Proceedings of the First International EIBURS-TAIPS TAIPS conference on: "Innovation in the public sector and the development of e-services" (April 19-20), Urbino.
+Chomchaiya, S., & Esichaikul, V. (2016). Consolidated performance measurement framework for government e-procure- ment focusing on internal stakeholders. Information Technology & People, 29(2), 354-380. https://doi.org/10.1108/ITP- 12-2013-0210
+Chu, P.-Y., Hsiao, N., Lee, F.-W., & Chena, C.-W. (2004). Exploring success factors for Taiwan's government electronic ten- dering system: Behavioral perspectives from end users. Government Information Quarterly, 21(2), 219-234. https://doi. org/10.1016/j.giq.2004.01.005
+Concha, G., Astudillo, H., Porrúa, M., & Pimenta, C. (2012). E-Government procurement observatory, maturity model and early measurements. Government Information Quarterly, 29, S43-S50. https://doi.org/10.1016/j.giq.2011.08.005
+Dunleavy, P., Margetts, H., Bastow, S., & Tinkler, J. (2005). New public management is dead-long live digital-era govern- ance. Journal of Public Administration Research and Theory, 16(3), 467-494. https://doi.org/10.1093/jopart/mui057 Eisenhardt, K. M. (1989). Agency theory: An assessment and Review. The Academy of Management Review, 14(1), 57-74.
+https://doi.org/10.5465/amr.1989.4279003
+Ellram, L. M. (1996). The use of the case study method in logistics research. Journal of Business Logistics, 17(2), 93-138. http://ezproxy.ecu.edu.au/login?url=https://search
+Fang, Z. (2002). E-Government in digital Era: Concept, practice, and development. International Journal of the Computer, the Internet and Management, 10(2), 1-22. http://www.ijcim.th.org/past_editions/2002V10N2/article1.pdf
+Fath-Allah, A., Cheikhi, L., Al-Qutaish, R. E., & Idri, A. (2014). E-government maturity models: A comparative study.
+International Journal of Software Engineering and Applications, 5(3), 71-91.
+
+Furubotn, E. G., & Richter, R. (2005). Institutions and economic theory: The contribution of the new institutional economics
+(2nd ed.). The University of Michigan Press.
+Gartner Group. (2000). Gartner says U.S. e-government spending to surpass $6.2 billion by 2005. www4.gartner.com/ 5_about/press_room/pr20000411c.html.
+Gelderman, C. J., Semeijn, J., & Bouma, F. (2015). Implementing sustainability in public procurement: The limited role of procurement managers and party-political executives. Journal of Public Procurement, 15(1), 66-92. https://doi.org/10. 1108/JOPP-15-01-2015-B003
+Government of  Ghana  (GOG).  (2003).  Public  procurement  Act  2003  (Act 663).  Assembly Press. Groznik, A., & Trkman, P. (2009). Upstream supply chain management in e-government: The case of Slovenia. Government
+Information Quarterly, 26(3), 459-467. https://doi.org/10.1016/j.giq.2008.12.017
+Hardy, C. A., & Williams, S. P. (2008). E-government policy and practice: A theoretical and empirical exploration of public e- procurement. Government Information Quarterly, 25(2), 155-180. https://doi.org/10.1016/j.giq.2007.02.003
+Hood, C. (1995). The "new public management" in the 1980s: Variations on a theme. Accounting, Organizations and Society, 20(2-3), 93-109. https://doi.org/10.1016/0361-3682(93)E0001-W
+Ibrahim, M., Bawole, J. N., Obuobisa-Darko, T., Abubakar, A. B., & Kumasey, A. S. (2017). The legal regime and the com- pliance façade in public procurement in Ghana. International Journal of Public Sector Management, 30(4), 390-370. https://doi.org/10.1108/IJPSM-09-2016-0156
+Karjalainen, K., & Kemppainen, K. (2008). The involvement of small and medium sized enterprises in public procurement: Impact of resource perceptions, electronic systems and enterprise size. Journal of Purchasing & Supply Management, 14 (4), 230-240. https://doi.org/10.1016/j.pursup.2008.08.003
+Kauppi, K., & Van Raaij, E. M. (2015). Opportunism and honest incompetence: Seeking explanations for noncompliance in public procurement. Journal of Public Administration Research and Theory, 25(3), 953-979. https://doi.org/10.1093/ jopart/mut081
+Klabi, H., Mellouli, S., & Rekik, M. (2018). A reputation based electronic government procurement model. Government Information Quarterly, 35(4), S43-S53. https://doi.org/10.1016/j.giq.2016.01.001
+Kottemann, J. E., & Boyer-Wright, K. M. (2010). Socioeconomic foundations enabling e-business and e-government.
+Information Technology for Development, 16(1), 4-15. https://doi.org/10.1002/itdj.20131
+Lapsley, I. (2009). New public management: The cruellest invention of the human spirit? Abacus: International Journal of Accounting, Finance and Business Studies, 45(1), 1-21. https://doi.org/10.1111/j.1467-6281.2009.00275.x
+Layne, K., & Lee, J. (2001). Developing fully functional e-government: A four stage model. Government Information Quarterly, 18(2), 122-136. https://doi.org/10.1016/S0740-624X(01)00066-1
+Lio, M. C., Liu, M. C., & Ou, Y. P. (2011). Can the internet reduce corruption? A cross-country study based on dynamic panel data models. Government Information Quarterly, 28(1), 47-53. https://doi.org/10.1016/j.giq.2010.01.005
+Makosa, P., & Mwangangi, P. (2018). Factors in?uencing E-procurement implementation in public sector in South Sudan.
+International Journal of Supply Chain and Logistics, 2(2), 1-23.
+Mawenya, A. S. (2008). Preventing corruption in African procurement. [Occasional paper]. South African Institute of International A?airs (SAIIA)
+Miles, M. B., & Huberman, A. M. (1994). Qualitative data analysis. Sage Publications.
+National Communication Authority (NCA). (2016). List of Authorized Internet Service Providers (ISPs) as at First Quarter 2016. Retrieved January 16, 2018, from https://nca.org.gh/assets/Uploads/ISP-Operational.pdf
+National Information Technology Agency (NITA). (2016). One Stop-Service Center (OSSC): The Concept of CICs. Retrieved May 21, 2017, from http://ossc.gov.gh/index.php/cics
+Neupane, A., Soar, J., & Vaidya, K. (2014). An empirical evaluation of the potential of public E-procurement to reduce cor- ruption. Australasian Journal of Information Systems, 18(2), 21-44. https://doi.org/10.3127/ajis.v18i2.780
+Nurmandi, A., & Kim, S. (2015). Making e-procurement work in a decentralized procurement system: A comparison of three Indonesian cities. International Journal of Public Sector Management, 28(3), 198-220. https://doi.org/10.1108/ IJPSM-03-2015-0035
+Osei-Kojo, A. (2016). E-government and public service quality in Ghana. Journal of Public A?airs, 16(1), 1-2. https://doi.org/ 10.1002/pa.1579
+Panda, P., Sahu, G., & Gupta, P. (2010). Promoting transparency and e?ciency in public procurement: E-Procurement initiatives by government of India. Proceedings of the 7th International Conference on E-procurement (ICEG), 20-24 Apr 2010, IIM Banglore, India.
+Pitso, N., Kabanda, S., & Kapepo, M. (2018). Exploring E-procurement adoption in the context of a developing country: The case of lesotho. In V. Odumuyiwa, O. Adegboyega, & C. Uwadia (Eds.), e-Infrastructure and e-Services for Developing Countries. AFRICOMM 2017. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering (Vol. 250, pp. 315-326). Springer. https://doi.org/10.1007/978-3-319-98827-6_30
+Pratt, M. G. (2008). Fitting oval pegs into round Holes: Tensions in evaluating and publishing qualitative research in top- tier North American journals. Organizational Research Methods, 11(3), 481-509. https://doi.org/10.1177/ 1094428107303349
+Public Procurement Authority (PPA). (2017). Public procurement authority: E-Bulletin May-Jun, 2017. 8(3). Retrieved August 2, 2017, from https://www.ppaghana.org/Documents/Bulletins/PPAE-BulletinMayJun2017.pdf?story_id=1262
+
+Raadschelders, J. C. (2014). Bureaucracy and its "objectives"? A response to Alexandru Roman. Administration & Society, 46 (7), 853-860. https://doi.org/10.1177/0095399714541271
+Schuppan, T. (2009). E-Government in developing countries: Experiences from sub-Saharan Africa. Government Information Quarterly, 26(1), 118-127. https://doi.org/10.1016/j.giq.2008.01.006
+Seo, D., Tan, C. W., & Warman, G. (2018). Vendor satisfaction of E-government procurement systems in developing countries: An empirical research in Indonesia. Information Technology for Development, 24(3), 554-581. https://doi. org/10.1080/02681102.2018.1454878
+Soudry, O. (2007). A principal-agent analysis of accountability in public procurement. In P. Piga & K. V. Thai (Eds.), Advancing public procurement: Practices, innovation and knowledge-sharing (pp. 432-451). PrAcademics Press. http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1E77C57EBE01D20A9325F20E3C93E0C2
+Standing, C., Stockdale, R., & Love, P. (2007). Hybrid buyer-supplier relationships in global electronic markets. Information and Organization, 17(2), 89-109. https://doi.org/10.1016/j.infoandorg.2007.03.001
+Thai, K. V. (2001). Public procurement re-examined. Journal of Public Procurement, 1(1), 9-50. https://doi.org/10.1108/ JOPP-01-01-2001-B001
+Transparency International. (2011). E-Procurement reduces opportunities for corruption and bribery. Brussels.
+Tutu, S. O., Kissi, E., Osei-Tutu, E., & Desmond, A. (2019). Evaluating critical factors for the implementation of e-procure- ment in Ghana. International Journal of Procurement Management, 12(1), 1-14. https://doi.org/10.1504/IJPM.2019. 096994
+United Nation Development Programme (UNDP). (2006). Capacity development practice note, viewed 15 July 2011, http:// capacity.undp.org/index.cfm?module- Library&page=Document&DovumentID=5599
+United Nations Department of Economic and Social A?airs (UNDESA). (2014). United Nations E-Government Survey 2014: E-Government for the future we want. United Nations.
+United Nations Department of Economic and Social A?airs (UNDESA). (2016). United Nations E-Government Survey 2016: E-Government in support of sustainable development. United Nations.
+Vaidya, K., Sajeev, A. S. M., & Callender, G. (2006). Critical factors that in?uence e-procurement implementation success in the public sector. Journal of Public Procurement, 6(1&3), 70-99. https://doi.org/10.1108/JOPP-06-01-02-2006-B004 Walker, H., & Brammer, S. (2012). The relationship between sustainable procurement and e-procurement in the public
+  sector. International Journal of Production Economics, 140(1), 256-268. https://doi.org/10.1016/j.ijpe.2012.01.008 Weber, M. (1947). The theory of social and economic organization. Frese Press.
+Williams, S. P., & Hardy, C. (2005). Public e-procurement as socio-technical change. Strategic Change, 14(5), 273-281. https://doi.org/10.1002/jsc.728
+World Bank. (2012). Why reform public procurement? Washington DC, USA.
+World Bank. (2016). Benchmarking public procurement 2017: Assessing public procurement regulatory systems in 180 econ- omies. The World Bank.
+World Bank. (2018). New country classi?cations by income level: 2018-2019. Retrieved April 13, 2019, from https://blogs. worldbank.org/opendata/new-country-classi?cations-income-level-2018-2019
+Yildiz, M. (2007). E-government research: Reviewing the literature, limitations, and ways forward. Government Information Quarterly, 24(3), 646-665. https://doi.org/10.1016/j.giq.2007.01.002
+Yin, K. (2003). Case study research: Design and methods (3rd ed). SAGE.
+Yýldýz, M., & Saylam, A. (2013). E-government discourses: An inductive analysis. Government Information Quarterly, 30(2), 141-153. https://doi.org/10.1016/j.giq.2012.10.007
+Zarei, B., Ghapanchi, A., & Sattary, B. (2008). Toward national e-government development models for developing countries: A nine-stage model. International Information & Library Review, 40(3), 199-207. https://doi.org/10.1080/ 10572317.2008.10762782
+
+Appendix A: Open-Ended Interview Guide
+
+Name of organization?
+Current position?
+Do you have any form of e-government system in your organization? Kindly describe it.
+Do you believe that the system enhances quality service delivery and job performance in your organization? Why? What is the nature of public sector online portals? How is it related to public procurement?
+What is the nature of telecommunication infrastructure in the public sector? How is it related to public procurement? What is the nature of capacity of public servants to use ICT? How is it related to public procurement?
+Considering your experience with e-government systems, do you think that Ghana is ready to roll out e-procurement system in the public sector? Kindly explain.
+Any other comments?
+
+
+
+
+
+
+
+
+
+
+
+
