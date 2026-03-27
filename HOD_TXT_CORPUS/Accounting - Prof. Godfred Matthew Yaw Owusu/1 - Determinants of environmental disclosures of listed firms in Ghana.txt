@@ -1,0 +1,1495 @@
+Welbeck et al. International Journal of Corporate Social Responsibility
+(2017) 2:11
+DOI 10.1186/s40991-017-0023-y
+
+ORIGINAL ARTICLE
+
+International Journal of
+Corporate Social Responsibility
+
+Open Access
+
+Determinants of environmental disclosures
+of listed firms in Ghana
+Emerald Edem Welbeck, Godfred Matthew Yaw Owusu*, Rita Amoah Bekoe and John Amoah Kusi
+
+Abstract
+The purpose of the paper is to examine the type of environmental-related information firms disclose mostly in Ghana,
+the trend of such disclosures and investigate the determinants of environmental disclosures by firms in Ghana. Using
+the Global Reporting Initiative (GRI) index as a benchmark, a content analysis of the corporate annual report of 17 firms
+listed on the Ghana Stock Exchange (GSE) was conducted over a 10-year period (2003 to 2012) to determine the total
+environmental disclosure scores of the sampled firms. The determinants of environmental disclosure practices of the
+firms were ascertained by means of a regression analysis. Results of this study indicate that listed firms in Ghana disclose
+some amount of environmentally-related information espoused by GRI though the level of disclosure is low. Also, the
+level of disclosure by environmentally-sensitive firms is higher than the less sensitive firms similar to existing studies.
+Moreover, the study finds firm size, auditor type, age of the firm and industry type to be significant predictors of firms’
+environmental disclosure practices.
+
+Background
+The relationship between business organizations and
+their environment in contemporary times has witnessed drastic changes. Until recently, environmental
+and social issues were not seriously considered in management objectives because they were deemed not to
+have any significant financial impact (Pereira Eugénio
+et al. 2013). But in a bid to gain legitimacy, most organisations have recognized the relevance of their environment to their businesses and the need to safeguard
+it. As Díez-Martín et al. (2013) maintain, a number of
+organizations have failed not because they lack resources or because of faulty products, but due to a
+complete loss or deterioration of their legitimacy. Consequently, research on environmental disclosures has
+gained prominence in recent times. The growth in research focus on environmental disclosure issues has
+been borne out of the growing concern over the harmful effect of business activities on the environment.
+In particular, major stakeholders have expressed concern in diverse ways over how the environment could
+be preserved for the generations to come (Gray et al.
+2001; Jenkins and Yakovleva 2006). The environmental
+* Correspondence: gmowusu@gmail.com; gmyowusu@ug.edu.gh
+Department of Accounting, University of Ghana Business School, Legon,
+Accra, Ghana
+
+and social implications of the economic activities of businesses have therefore heightened the demands on organisations for information on their sustainability behaviour
+(Ingley 2008). In response to these demands, attempts
+have been made by some managers of companies to account for their actions and inactions on the environment
+in a way to assure stakeholders of their willingness and
+preparedness to safeguard the environment in which they
+operate. Indeed, it is increasingly becoming a common
+practice to see companies go the extra mile to inform and
+explain the impact of some of their environmental
+activities and initiatives to major stakeholder groups
+(Wilmshurst and Frost 2000). While these actions may
+have direct cost implication to these organisations, the
+relevance of incorporating societal needs into an organisation’s activities has been recognised to be crucial to the
+very existence and survival of the organisation (Deegan et
+al. 2002). As Chelli et al. (2014) posit, organisational glosurvival depends on its capacity to manage the demands
+of its environment, as it is the environment that holds the
+resources for its survival.
+In the field of accounting, a number of studies have
+assessed environmental performance of firms usually
+by examining their environmental disclosure practices
+(Sumiani et al. 2007; Deegan et al. 2002; de Villiers and
+Barnard 2000; Tilling and Tilt 2010). Others have
+established the relationship between environmental
+
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made.
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+information disclosed and firm characteristics (Nor et
+al. 2016; Cormier et al. 2005; Deegan et al. 2002).
+While the above studies suggest a considerable amount
+of research has been undertaken on environmental disclosure issues, findings of most of the studies have
+largely been based on views of employees usually by
+means of a cross-sectional survey (see Ahmad et al.
+2003; Fifka 2012; Suttipun and Stanton 2012;
+Sulaimana et al. 2014; Chandok et al. 2017). In practice
+however, it is difficult to generalize conclusions drawn
+on the level of environmental disclosures by firms
+based on these studies and hence, there has been
+calls for longitudinal studies (Ahmad et al. 2003;
+Suttipun and Stanton 2012).
+Moreover, most of these studies have also been
+restricted to the developed world and very few studies,
+to date, have examined the actual environmental
+reporting practices of firms within the context of developing countries, particularly Africa (Fifka 2012).
+With the exception of few notable studies from South
+Africa (de Villiers and Barnard 2000; de Villiers and
+Lubbe 2001; de Villiers 2003; Mitchell and Quinn
+2005; Mitchell and Hill 2010), environmental disclosure studies have not received the needed research attention within the African continent despite the fact
+that a number of environmentally sensitive activities
+abound, being one of the most endowed continent with
+natural resources (including gold, bauxite, manganese,
+diamond, cotton etc.). This is however not surprising,
+given that research on many topical issues in general
+are still evolving within the African continent. Moreover, compared to developed countries, most developing countries have over the years placed less emphasis
+on environmental issues. Against the backdrop that environmental performance of most countries within the
+African continent are poor compared with the developed countries,1 the need for an assessment of the environmental reporting practices of firms in Africa
+cannot be overemphasized.
+This study therefore aims at filling the above gaps in
+the literature by providing some evidence on environmental information that firms listed on the Ghana
+Stock Exchange disclose most. Unlike most existing
+studies that make use of cross-sectional data, the
+current study employs a longitudinal data to investigate the environmental practices of firms and the key
+predictors of firms’ environmental disclosure practices.
+In achieving the study objectives, the Global Reporting
+Initiative Index (GRI) was used as a benchmark. The
+country Ghana, provides a good setting for a study of
+this nature as it is among the list of African countries
+with diverse natural resource endowment with the
+latest being the discovery of oil in commercial
+quantities.
+
+Page 2 of 12
+
+The use of the GRI offers the researchers the opportunity to assess the disclosure practices of firms by
+international standards as there are no standards for
+content and structure of environmental report in
+Ghana. While prior studies have benchmarked environmental disclosure against ISO 14000 (Sumiani et al.
+2007), the GRI is a globally accepted reporting framework aimed at enhancing the quality, rigor, and utility
+of sustainability reporting (Global Reporting Initiative
+2002). The content analysis results indicate that listed
+firms in Ghana are disclosing some environmentalrelated information with a focus on product and service information compared to other environmental issues. The regression analysis also suggests firm size,
+industry type and age are key determinants of firms’
+environmental disclosure practices.
+The remaining parts of the paper are organized as follows: the next section discusses theoretical and empirical
+reviews followed by research methodology; the empirical
+results and discussions are then presented followed by
+the concluding remarks.
+
+Theoretical review- legitimacy theory
+Companies exist and operate within the society. Hence,
+the importance of the immediate society (environment)
+within which organisations operate and the need to critically incorporate societal needs into their day to day
+activities is crucial. This is because organisations rely on
+the environment to guarantee access to the resources
+they need (Pfeffer and Salancik 1978). Thus, in order to
+acquire the resources, these organisations must constantly interact with their environment. Impliedly, the
+performance and survival of an organisation in part is
+dependent on the support it receives from its immediate
+environment (Díez-Martín et al. 2013; Chelli et al. 2014).
+Ingley (2008) posits that the social and environmental
+implications of a firm’s economic activity have led to a
+significant increase in the demands placed on companies
+in relation to the sustainability of their behaviour and
+the information which they provide. Literature suggests
+that the idea behind corporate social and environmental
+reporting behaviour is to gain legitimacy or societal
+acceptance (Deegan et al. 2002; Mitchell et al., 2005;
+Tilling and Tilt 2010).
+The legitimacy theory, built on the concept of
+organisational legitimacy, originated from the notion of
+a social contract. It has been described as the gap between societal expectation and that of the organization
+(Dowling and Pfeffer 1975). Whether expressed or implied, organizations operate in a society via a social contract where its survival and growth are based on the
+delivery of some socially desirable ends to the society in
+general and the distribution of economic, social or political benefits to the groups from which it derives its
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+powers (Shocker and Sethi 1974). Based on this perceived contract, there is always a threat to the legitimacy
+of an organization when societal expectations of its behaviour differ from actual behaviour (Pereira Eugénio et
+al. 2013). Indeed, the society could revoke the organizations contract to continue its operations which could
+affect the future existence of the company (Deegan et al.
+2002). Deegan (2002) further notes that it is the society that
+confers upon an organization the state of legitimacy since
+such companies do not have inherent right to resources.
+Consequently organizations are under inherent pressure to demonstrate that society requires its services and
+that the group benefiting from its rewards have societal
+approval (Chelli et al. 2014). Empirical studies argue that
+companies engage in voluntary environmental disclosure
+practices to reduce this expectation gap and obtain
+favour with stakeholders or the society within which
+they operate (O’Donovan 2002; Lindblom 1994). It is on
+this basis that existing studies have usually employed the
+legitimacy theory to explain the environmental disclosure behaviour of corporate bodies (Wilmshurst and
+Frost 2000; O’Donovan 2002; Deegan et al. 2002; Branco
+and Rodrigues 2006; Brown and Deegan 1998). Similar
+to these studies therefore, this study argues that environmental disclosure practices of firms could be explained
+by the threat to their legitimacy by the immediate society. Accordingly, it is predicted that firms will disclose
+more on the environment where the threat to their legitimacy is high and disclose less when their legitimacy is
+not threatened in any way by the society. Given that the
+stock market in Ghana is not as vibrant as those from
+the developed world, coupled with the fact that stakeholder activism is not that strong to exert pressure on
+organisations to respond to societal needs, this study
+expects the level of environmental disclosure in Ghana
+to be relatively low.
+The next section discusses firm specific characteristics
+that are related to the environmental disclosure practices.
+
+Page 3 of 12
+
+(Brammer and Pavelin 2006; Cowen et al. 1987; Gray et al.
+1995; Hackston and Milne 1996; Patten 2002, Patten
+1992; Zeng et al. 2012). These studies argued that bigger
+firms are visible and exposed because of their size and
+image. Larger firms are, therefore, more willing to disclose
+environmental information to please their enormous
+stakeholders. Moreover, they are likely to seek capital
+externally and so disclose environmental information to
+alter societal perception. Again bigger firms are more
+prone to disclose environmental information than smaller
+firms to avoid punitive measures from regulators and
+reduce risk of regulation (Burgwal and Vieira 2014).
+Brammer and Pavelin (2008) study quality of voluntary
+disclosures in UK’s industrial sector and analysed the determinants of disclosure. They find that bigger firms and
+nature of activities influence quality of disclosures.
+Previous literature has attempted to explain why
+firm size is directly related to environmental disclosure. The first justification discusses cost of producing
+environmental information. It is argued that the cost
+of reporting environmental information is high, such
+that small firms may not be able to afford them from their
+limited resource (da Silva Monteiro and Aibar-Guzmán
+2010). Therefore, larger companies might have sufficient
+resources to afford the cost of reporting information for the
+users of their annual reports. Secondly, agency cost is
+higher for large firms not to report on their environmental
+activities because their shareholders are widespread (Watts
+and Zimmerman 1983; Christ and Burritt 2013; Zeng et al.
+2012). Thus, disclosing more information reduces the potential agency cost. Thirdly, extant literature suggest that
+larger companies tend to disclose more environmental information than smaller companies in their annual reports
+due to their competitive cost advantage (Lang and
+Lundholm 1993; Lobo and Zhou 2001; Kolk 2003). The size
+of the firm is operationalized using a number of measures,
+such as, sales, total assets and number of employees. This
+study adopts the natural logarithm of total assets as the
+proxy variable. The study therefore posits that:
+
+Literature review and hypothesis development
+
+Studies that have considered various firm characteristics
+as determinants of environmental disclosures abound in
+literature (see Fifka 2012; 2013). These characteristics
+include, but not limited to firm size, profitability, industry type, leverage etc. Similarly, this study determines
+the influence of corporate characteristics of firm size,
+profitability, auditor type, age and firm’s foreign association on environmental disclosures, with an emphasis
+on industry sensitivity.
+Firm size
+
+Several empirical studies have found significant evidence
+that there is a positive relationship between company size
+and the level of social and environmental disclosure
+
+H1: Larger firms disclose more environmental
+information.
+Profitability
+
+The relationship between profitability and environmental disclosure has produced mixed results. Whereas
+some of the studies conclude that there is a positive relationship between profitability and environmental disclosure (Al-Tuwaijri et al. 2004; Clarkson et al. 2011; Ingram
+1978; Neu et al. 1998), other studies have failed to find a
+significant relationship between these two variables
+(Brammer and Pavelin 2006, 2008; Cowen et al. 1987;
+Freedman and Jaggi 1982; Hackston and Milne 1996;
+Patten 1991; da Silva Monteiro and Aibar-Guzmán 2010;
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Zeng et al. 2012). For example, Al-Tuwaijri et al. (2004)
+and Clarkson et al. (2011) indicate that profitability is
+significant and positively related to environmental disclosure. When profitability is high and a firm achieves a
+high margin of profit, the managerial groups are motivated to disclose more information in order to show off
+good reputation to the consumers, shareholders, investors and other stakeholders (Ullmann 1985). Indeed,
+firms would normally only engage in voluntary disclosures when they have made some economic gains. This
+is because disclosing environmental information entails
+cost, which firms will only bear when there is sufficient
+profit beyond fulfilling shareholders’ obligation
+(Brammer and Pavelin 2006).
+However, other studies report that a significant relationship between a company’s profitability and its level
+of environmental disclosure does not exist (Choi 1999;
+Cowen et al. 1987; Hackston and Milne 1996; PradoLorenzo et al. 2009; Stanny and Ely 2008). This strand
+of literature argues that firms with low level of profitability tend to justify such unimpressive corporate performance through reporting their environmental
+activities. As these activities have cost implications,
+reporting them provides a justification for the lower
+level of reported profits. The effect of profit on environmental disclosures has therefore, been inconsistent
+in literature. However, following the argument of
+Cowen et al. (1987) and similar supporting studies, this
+study suggests that:
+H2: Profitability of companies will not influence
+environmental disclosures.
+
+Page 4 of 12
+
+(Cormier and Magnan 2003; Clarkson et al. 2008; Cho
+and Patten 2007; Hackston and Milne 1996; da Silva
+Monteiro and Aibar-Guzmán 2010).
+Moreover, environmentally sensitive industries face
+greater societal pressure because they are more likely to
+be associated with visible environmental concerns, like
+pollution and risk of environmental disasters (Brammer
+and Pavelin 2006; da Silva Monteiro and Aibar-Guzmán
+2010). If these firms, therefore, fail to disclose their
+environmental performance, environmental pressure
+groups, NGO’s, government and the general public may
+mount pressure on them, because they may be perceived as defying the social contract. Cowen et al.
+(1987) posit that industries that are consumer-oriented
+tend to disclose more as a public relation tool, while
+Patten (1991), Roberts (1992), and Cooke (1992)
+suggest that industries that tend to affect the environment most are afraid of reactions from the community
+and pressure groups and hence are likely to disclose
+more. Studies have associated a positive association
+between environmentally sensitive industries and
+environmental disclosures (Frost and Wilmshurst
+2000; Joshi and Al-Modhahki 2003; Brammer and
+Pavelin 2006; Brammer and Pavelin 2008; Liu and
+Anbumozhi 2009. Cooke (1992) studied manufacturing
+and non-manufacturing firms in Japan, concluding that
+manufacturing firms disclose more environmental
+information. Similarly, this study posits that:
+H3: Firms in the environmentally-sensitive industry
+provide more environmental disclosures than
+environmentally non-sensitive companies.
+
+Industry type
+
+Auditor type
+
+Industry type refers to environmentally sensitive versus
+non-sensitive industries. Where environmentally sensitive industries refer to industries whose activities affect
+the environment directly. Mahmood (1999) suggests
+that disclosure levels reflect the type of industry, whilst
+Reverte (2009, p. 355) cite “mining, oil, and chemical
+industries as emphasising information regarding environmental, health, and safety issues” as opposed to
+finance and insurance companies. This makes such
+companies more environmentally sensitive. These disclosures are more aligned to companies whose activities
+affect the environment significantly (Brammer and
+Pavelin 2006, Brammer and Pavelin 2008; Campbell et
+al. 2003; Cho and Patten 2007; Deegan and Gordon
+1996; Hackston and Milne 1996; Roberts 1992; Zeng et
+al. 2012). First of all, firms in sensitive industries comply with strict environmental regulations due to the
+emission effect of their activities and therefore should
+disclose their environmental concerns, otherwise stakeholders and especially investors may assume the worst
+
+Auditors endorse contents of annual reports. Though the
+provision of environmental information is voluntary, auditors have a responsibility to ensure any financial or nonfinancial information provided in the annual reports fairly
+represents what it purports to be. Society reposes confidence and trust in the ‘big four’ accounting firms. Larger
+firms tend to appoint one of the big four accounting firms
+to gain international acceptance and recognition. And
+since the ‘big 4’ (Pricewaterhouse Coopers(PWC),
+Klynveld Peat Marwick Goerdeler(KPMG), Deloitte &
+Touche, Ernst & Young) are interested in protecting their
+integrity and reputation, they may associate with companies who disclose environmental information (Alsaeed
+2006). Thus, where financial statements are audited by
+them, it suggests an audit of even the voluntary disclosures. Thus companies may employ the big four to alter
+perception about their corporate disclosure behaviour and
+enhance their legitimacy. The issue of auditor type and its
+association with disclosures is uncertain in literature.
+Inchausti (1997), Ahmad et al. (2003) and Choi (1999) find
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+a positive association between disclosures and auditor
+type. However, Hossain et al. (1995) found no support in
+their study of New Zealand companies. Similarly, Alsaeed
+(2006) also found no support for auditor type and disclosure. This study suggests that:
+H4: The type of auditors appointed by shareholders for
+a firm will affect disclosure of environmental
+information.
+Foreign association
+
+Environmental disclosures are used as a tool for influencing perception and actions of stakeholders (Brammer
+and Pavelin 2004). Companies in Ghana may have foreign linkages through shareholding. These companies
+may be subsidiaries of bigger companies or an extension
+of their mother companies. They are therefore obliged
+to disclose environmental information because of their
+association with their foreign counterpart who may have
+already adopted these practices (DiMaggio and Powell
+1983).Cormier et al. (2005, p.13) refer to it as imitation
+and explains it as “the tendency for firms that share
+similar structures to converge and adopt similar social
+structures” and this is more applicable to firms that have
+foreign parents. Thus, managerial behaviour is altered to
+adopt these practices through pressure and in the
+process legitimize their company’s existence. The influence of foreign ownership structure on corporate disclosures have been mixed in literature (Brammer and
+Pavelin 2004; Ducassy and Montandrau 2015). Based on
+these insights, this study posits that;
+H5: foreign associated companies will disclose more
+environmental information
+Age
+
+Older firms are more likely to engage in environmental
+performance to influence perception about their business and to legitimize their existence. Older firms are
+more likely to be bigger firms and may be willing to provide information to influence their continuous existence.
+Older firms may be abreast with current trends in their
+industry and are more apt at performing on new policies
+to sustain their business. Aerts et al. (2006) and Cochran
+and Wood (1984) study age with mixed results. Therefore this study posits that;
+H6: Older firms will disclose environmental
+information
+
+Methodology
+Sample
+
+The sample for the study was drawn from the Ghana
+Stock Exchange (GSE). Data was gathered for a 10-year
+
+Page 5 of 12
+
+period from 2003 to 2012. Thus the study adopts a longitudinal approach to examine trends in environmental
+disclosure practices of listed firms in Ghana. Although
+the GSE had a total of 34 companies listed as at
+December 2012, only 17 companies whose annual reports were readily available and accessible for the entire
+10-year period were included in the study analysis. To
+determine the industry sensitivity of the selected companies, the nature of their activities was considered
+from their company profile on the GSE website
+(www.gse.com.gh). Twelve (12) companies out of the
+sample were classified as environmentally sensitive because they pose a greater risk to the environment by
+the nature of their activities while the other five (5)
+companies were classified as non-sensitive firms (see
+Appendix 1 for the list of firms and industry classifications). The 12 environmentally sensitive companies belong to manufacturing, oil and gas, paper convertor
+and beverage industries. The non-sensitive companies
+include banks and insurance firms. Their corporate annual reports were obtained from corporate websites
+and the GSE. These were scanned and converted into
+word document to aid in the word search.
+The GRI 3 disclosure checklist which gives a total of
+13 environmental information indicator words was
+adopted. To determine the level of disclosure of the
+sampled firms, the content analysis technique was
+employed. Since the objective of the study is to determine the areas of environmental disclosure focus, the
+study uses word count rather than sentence count
+(Milne and Adler 1999). Word count has been used in
+prior disclosure studies (Campbell 2003; Campbell
+2004; Deegan and Gordon 1996; Deegan et al. 2002;
+Gao et al. 2005). Although using word count does not
+consider the meaning of the word and the context of
+usage, it has been found to be useful for analysing text
+(Krippendorf 1980). Therefore, the content of each annual report was searched using the GRI indicator words
+as a measure. The total hit of each word was tabulated.
+Environmental disclosure scores
+
+A word count of environmental related words was
+collated based on the GRI checklist for each firm in
+the sample. The 13 environmental-related words
+highlighted by GRI are material, energy, water, biodiversity, emissions, effluent, waste, product, services,
+compliance, transport, supplier environmental assessment and environmental grievance mechanism. The
+term ‘energy’ was however replaced with ‘electricity’ as
+it is the common name within the Ghanaian context.
+The total word count for each environmental-related
+word is added up to represent the total environmental
+disclosure score which constitute the dependent variable for the study.
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Page 6 of 12
+
+The independent variables
+
+Table 1 Descriptive statistics
+
+The study considers six explanatory variables that may
+influence environmental disclosure i.e. firm size, profitability, auditor type, industry type, foreign association
+and age of the firm. Firm size is measured as the natural logarithm of total assets, while profitability is
+measured as return on assets based on operating
+profit. Auditor type is a dummy variable of zero (0)
+and one (1) for local audit firms and the ‘big four’ public accounting firms operating in Ghana respectively.
+Foreign associated firms are captured as one (1), while
+non-associated firms are captured as zero (0). Data for
+all these variables were obtained from the annual reports. Age of the company in any particular year is the
+number of years a company has been in existence from
+inception. Date of inception was sourced from the GSE
+website as a basis for determining years of existence.
+For industry type, the firms are grouped according to
+the nature of their activities. Their core business
+operation is obtained from the GSE company profile,
+enabling companies to be grouped into either environmentally sensitive or non-sensitive. Prior studies
+(Patten 1991; Roberts 1992; Clarkson et al. 2008)
+adopted this categorisation. Based on this categorisation, a total of 12 companies in the sample are
+considered environmentally sensitive with 5 being
+non-sensitive. A dummy variable of zero (0) is assigned
+to companies considered non-sensitive and one (1)
+assigned to environmentally sensitive firms.
+
+Variable
+
+Obs.
+
+Mean
+
+Std. Dev.
+
+Min.
+
+Max.
+
+EnvDisc
+
+170
+
+39.4529
+
+25.5903
+
+0.0000
+
+115.0000
+
+profit
+
+168
+
+0.0695
+
+0.1193
+
+−0.2481
+
+0.4216
+
+Estimation technique
+
+To assess empirically the influence of the above factors
+on the amount of disclosure by firms, the study utilizes
+the following basic formulation:
+EnvDiscit ¼ β0 þ β1 sizeit þ β2 profit it þ β3 auditor it
+þ β4 industryit þ β5 foreignassocit
+þ β6 ageit þ εit
+Based on the above econometric model, the data was
+analyzed using the random effect panel regression
+approach with a correction for the heteroscedasticity
+of the standard error. The next section presents results
+from descriptive analysis followed by the empirical
+regression results and discussions.
+
+Results
+Descriptive statistics
+
+Table 1 shows the descriptive statistics of the
+dependent and independent variables. It can be seen
+that the minimum amount of environmental disclosures in the annual report of the sampled companies is
+0 with a maximum of 115 words. This shows a wide
+variability in environmental disclosures. This suggests
+
+size
+
+167
+
+17.8098
+
+1.9929
+
+12.6960
+
+21.8125
+
+age
+
+170
+
+41.5588
+
+17.3191
+
+6.0000
+
+88.0000
+
+foreignassoc
+
+170
+
+0.4706
+
+0.5006
+
+0.0000
+
+1.0000
+
+auditor
+
+170
+
+0.8000
+
+0.4012
+
+0.0000
+
+1.0000
+
+industry
+
+170
+
+0.7059
+
+0.4570
+
+0.0000
+
+1.0000
+
+Note: EnvDisc is Environmental Disclosures; profit is profitability; size
+represents firm size; age represents age of company; foreignassoc represents
+foreign association; auditor represents auditor type; industry represents
+industry type
+
+that listed companies in Ghana are disclosing some
+amount of environmental-related information espoused by GRI, though this seems to be low. The size
+of the companies also shows wide variations from
+12.69 to 21.8.
+With reference to the concentration of environmental disclosures, the study finds that sensitive companies
+are disclosing more product related information. Disclosure of this information had the highest count of
+1267 words. This was followed by services (954); materials (506); compliance (462) and energy (393). The lowest
+disclosures were biodiversity (5) and emissions (8). With
+the non-sensitive companies, services had 1377 count,
+followed by product disclosures, 600 and compliance
+(488). As expected, there were no disclosures by the nonsensitive companies on biodiversity, emissions and effluent over the 10-year period. This is basically because their
+activities do not affect the environment directly. This is
+depicted in Fig. 1. A T-test was run to determine if the
+means of the sample (sensitive and non-sensitive companies) are equal. This test showed that there are significant
+differences in the disclosure means of sensitive and nonsensitive industries (p-value = 0.000).
+
+Correlation matrix
+
+To ascertain whether the independent variables were
+highly correlated with each other to establish the existence or otherwise of multicollinearity issues in the
+dataset, correlation analysis was done using the study
+variables. Table 2 presents the results of the pairwise
+correlation matrix for the variables included in the
+empirical analysis. As shown in Table 2, multicollinearity is generally not an issue given that the extent of
+correlation among the independent variables is very
+low. The values of the pairwise correlation matrix for
+the independent variables were all below the recommended threshold of 0.8 (Gujarati and Porter 2003).
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Page 7 of 12
+
+Fig. 1 Environmental information per sensitive and non-sensitive companies
+
+Empirical results and discussions
+
+The traditional static models of fixed-effects and random effects were employed to analyse the data. While
+the Hausman test from the analysis favoured the fixed
+effect estimator (Chi2 had a value of 27.49 and a Prob >
+Chi2 = 0.000), some of the dummy variables (foreign association and industry) were omitted from the model
+since they remain constant over the period. Consequently the random effect results were used in the final
+analysis to overcome the deficiencies associated with
+the fixed effect results similar to Wachira (2017). As
+Kohler and Kreuter (2009) suggest the random effect
+estimator handles better models that contain timeinvariant variables that are usually omitted by the
+fixed-effects model.
+
+Table 2 Correlation matrix
+Variable
+
+EnvDisc Industry foreignassoc auditor
+
+EnvDisc
+
+1.0000
+
+industry
+
+size
+
+profit
+
+age
+
+−0.1583 1.0000
+
+(0.0002) (0.0292)
+0.1996
+
+−0.0708 0.4848
+
+(0.0140) (0.4030)
+0.6734
+
+profit
+
+age
+
+0.0568
+
+(0.0000)
+
+−0.6015 0.3163
+
+(0.0000) (0.0000)
+
+1.0000
+
+(0.0000)
+
+0.0969
+
+1.0000
+
+(0.2131)
+
+0.1201
+
+0.3852
+
+0.0050
+
+(0.3025) (0.1678)
+
+(0.0000)
+
+(0.9671) (0.2766)
+
+0.0847
+
+1.0000
+
+0.1784
+
+−0.1771
+
+0.0505
+
+(0.9055) (0.0135)
+
+(0.0111)
+
+(0.4270) (0.0122) (0.0031)
+
+0.0414
+
+−0.1936 −0.1923 1.0000
+
+Note: P-values are in parenthesis. EnvDisc is Environmental Disclosures; profit is
+profitability; size represents firm size; age represents age of company;
+foreignassoc represents foreign association; auditor represents auditor type;
+industry represents industry type
+
+Model 1
+
+Model 2
+
+Coef.
+
+Std. Err.
+
+P > |z|
+
+Coef.
+
+Std. Err.
+
+P > |z|
+
+Industry
+
+0.213
+
+0.994
+
+0.032
+
+0.124
+
+0.079
+
+0.117
+
+Foreignassoc
+
+−0.106
+
+0.089
+
+0.905
+
+−0.025
+
+0.071
+
+0.732
+
+Auditor
+
+0.076
+
+0.767
+
+0.319
+
+0.151
+
+0.073
+
+0.040
+
+−0.3854 1.0000
+
+Foreignassoc 0.2682
+
+size
+
+Table 3 Regression results
+Variable
+
+(0.0000)
+
+auditor
+
+Results from the regression analysis are shown in
+Model 1 of Table 3. The results indicate that the model
+fit is good (p = 0.0000, Wald X2 = 132.92, R2 = 0.4872).
+From the results, the explanatory variables account for
+48.72% of the variations in the environmental disclosures over the 10-year period. The mean variance inflation factor (VIF) for this model is 5.44 suggesting that
+the coefficient estimates are not affected greatly by multicollinearity problems (see results in Appendix 2).
+Analysis of results in Model 1 suggests that industry
+type, firm size, age, and auditor type are positively associated with environmental disclosures in Ghana,
+whiles a negative relationship exists between firm performance and environmental disclosure. Also, a negative relationship exists between firms with foreign
+
+Size
+
+0.167
+
+0.017
+
+0.000
+
+0.126
+
+0.016
+
+0.000
+
+Profit
+
+−0.120
+
+1.165
+
+0.469
+
+−0.006
+
+0.157
+
+0.969
+
+Age
+
+0.005
+
+0.002
+
+0.016
+
+0.003
+
+0.001
+
+0.088
+
+Cons.
+
+−1.900
+
+0.327
+
+0.000
+
+−1.068
+
+0.33
+
+0.001
+
+Observations
+
+167
+
+167
+
+Number of Firms
+
+17
+
+17
+
+R-Square
+
+0.4872
+
+0.5149
+
+Note: EnvDisc is Environmental Disclosures; profit is profitability; size
+represents firm size; age represents age of company; foreignassoc represents
+foreign association; auditor represents auditor type; industry represents
+industry type
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+association in terms of ownership and environmental
+information disclosure.
+The results from the regression analysis in general
+are in line with theory and existing empirical evidence.
+As predicted in the study hypotheses, a positive and
+highly significant relationship (at 5% significant level)
+was found between the industry sensitivity variable and
+environmental disclosure. This suggests that environmentally sensitive firms usually disclose more
+environmental-related information than firms whose
+activities do not have serious impact on the environment. This result is very much expected given that a
+number of legislations exist in most countries that
+regulate sensitive industries to disclose information on
+the impact of their activities on the environment. In
+Ghana, the Environmental Protection Agency (EPA)
+for instance, requires manufacturing and mining firms
+to report on their environmental-related activities periodically. These firms are rated with this information
+and their ratings are posted on the agency’s website.
+Thus, in order to protect their reputation and also
+avoid costly sanctions and punitive measures from regulators, firms may disclose information relating to the
+environment. This finding supports earlier studies by
+Holder-Webb et al. (2009) and Zeng et al. (2012), who
+found a positive association between environment disclosures and industry type.
+Also, the results show a positive and a highly significant relationship exists between firm size and environmental disclosure (at 1% significant level), an
+indication
+that
+larger
+firms
+disclose
+more
+environmental-related information than smaller firms.
+This finding suggests that firm size is an important
+determinant of environmental disclosure practice by
+Ghanaian firms and hence, supports the predicted hypothesis (H1) of this study. Extant literature argues
+that larger firms are more willing to disclose environmental information because of their visibility and the
+desire to gain public confidence (Reverte 2009; Adams
+2002; Cormier and Gordon 2001; Kamal and Deegan
+2013). Moreover, such firms may want to attract external
+funding hence, their willingness to make environmental
+disclosures. As Watts and Zimmerman (1983) point out,
+larger firms are subject to pressure from stakeholders and
+the public. From the tenets of the legitimacy theory, firms
+would bow to such societal pressure and consequently
+disclose information on their environmental activities
+in an attempt to gain legitimacy. This finding is consistent with many empirical studies that associate the
+level of disclosure with firm size (Brammer and Pavelin
+2006; Burgwal and Vieira 2014; Brammer and Pavelin
+2008; Zeng et al. 2012).
+In terms of the relationship between age and the
+level of disclosure, findings of this study demonstrate
+
+Page 8 of 12
+
+that age is a good predictor of firms’ environmental
+disclosure practices in Ghana. As shown in Table 3,
+age had a positive coefficient and statistically significant relationship (at 5% significant level) with environmental disclosure. This indicates that older firms tend
+to disclose more environmental information than relatively new firms. This is not surprising given that best
+practices of entities are usually developed over time,
+hence, with time older firms, cautious of their reputation, may engage in activities that position them as socially responsible entities. This finding confirms the
+hypothesis that the age of a firm is an important determinant of its environmental disclosure practice and
+also compares favourably with a number of existing
+studies (Prencipe 2004; Moore 2001; Cormier et al.
+2005).
+On the other hand, while the coefficient estimate
+for the auditor type variable suggests a positive relationship exist between firms environmental disclosure
+and the type of auditor they engage for external
+auditing purposes, this relationship was found not to
+be statistically significant (p-value = 0.319). Thus,
+environmental disclosure of firms is not so much
+dependent on whether a firm engages the service of a
+“big 4” accounting firm or a local auditing firm
+despite the fact that environmental disclosures may
+be reviewed by auditors as part of the financials. By
+implication, while the engagement of a very well
+established auditing firm is expected to effect a number of positive outcomes on a client (firm), especially
+in the area of disclosure, their presence do not really
+affect the environmental disclosure behaviour of
+firms. Earlier studies by Hossain et al. (1995) and
+Alsaeed (2006) similarly, find no support for the perceived relationship between the auditor type and
+environmental disclosure behaviour of firms.
+In terms of the relationship between firm performance (profitability) and environmental disclosure, the
+regression result shows a negative and an insignificant
+relationship. Thus, in line with our predictions, no significant differences exist between profitable and unprofitable firms in terms of the level of environmental
+disclosure. Impliedly, while some studies argue that
+management of profitable firms are usually motivated
+to disclose more information in order to show off good
+reputation to their stakeholders, the findings of this
+study do not support such assertion and indeed a contrary position may exist in the Ghanaian context given
+the negative coefficient in the estimated results. Empirically, a number of studies have also found an insignificant relationship between various profitability
+measures and environmental disclosure (Brammer and
+Pavelin 2006, 2008; Cowen et al. 1987; Freedman and
+Jaggi 1982; Hackston and Milne 1996; Patten 1991; da
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Page 9 of 12
+
+Silva Monteiro and Aibar-Guzmán 2010; Zeng et al.
+2012; Welbeck 2017).
+Lastly, the results also show an inverse but insignificant relationship between the ownership type of firms
+and the level environmental disclosure. This means
+ownership type does not really affect environmental
+disclosure practices of Ghanaian listed firms. While
+this finding is supported in related literature (Momin
+and Hossain 2011; Momin and Parker 2013), it also
+demonstrates that disclosure of environmental information by listed firms in Ghana does not depend on
+their association with foreign firms.
+To control for heteroscedasticity and autocorrelation, the model was clustered for standard errors
+and the results are shown in Model 2 of Table 3.
+Firm size remains positive and significant at 1%; auditor type becomes positive and significant at 5%; whiles
+age remains positive and significant, but at 10%. Interestingly, industry sensitive companies remain positive but
+insignificant.
+
+do not affect the disclosure behaviour of listed firms
+in Ghana in any significant manner.
+Whiles there is some environmental information, the
+focus and relevance of such information to stakeholders for decision-making on the environmental
+performance of firms remain an issue. With
+environmental regulations in place, it seems enforcement is lacking. Hence there is the need for continuous and stringent measures to compel firms, especially
+those in the environmentally sensitive industries to
+disclose other environmental issues. The role of the
+Environmental Protection Agency of Ghana is key.
+They should institute stringent measures and sanctions that will make the cost of non-performance
+and non-disclosure very high. Moreover, activist
+stakeholders – environmentalist, NGOs and communities where these firms reside could mount pressure on firms to disclose other environmental
+issues.
+
+Conclusion
+In a context where environmental disclosure is voluntary, the study determines which environmental information listed firms in Ghana are mostly focusing on
+over a 10-year period. The study also assesses whether
+the sensitivity of a company’s industry influences its
+level of environmental disclosures. The study is underpinned by the legitimacy theory which postulates that
+firms disclose environmental information mainly to
+maintain the implicit social contract, enhance their
+continuous existence in the environment and prevent
+legitimacy crises.
+Based on a content analysis, a word search of the
+environmental disclosure indicators from the GRI was
+conducted to ascertain the amount of environmental
+disclosures in corporate annual reports of listed firms
+in Ghana. A descriptive analysis of the environmental
+information of the firms indicates that listed firms in
+Ghana are disclosing some environmental information,
+though low. They are disclosing more product and service related information; with virtually non-existent
+information on biodiversity, emissions and effluent.
+Using the random effect regression model, the effect of
+profitability, firm size, auditor type, industry type, foreign association and age on firms’ environmental
+disclosure was estimated.
+The results of the study demonstrate that industry
+sensitivity, firm size and age are important predictors of firms’ environmental disclosure practice. By
+implication, bigger firms, older firms and environmentally sensitive firms disclose more information
+on the environment than their counterparts. However, profitability, ownership type and auditor type
+
+Endnotes
+1
+Egypt is the only African country that ranked among
+the first 50 countries that performed better environmentally based on Yale University’s publication of Environmental Performance Index of 178 countries in 2014.
+Appendix 1
+
+Table 4 Industry classification of firms in the sample
+Firm name
+
+Industry type
+
+Industry
+classification
+
+Produce Buying Company
+
+Agriculture/ Agro Processing 1
+
+Cocoa Processing company Agriculture/ Agro Processing 1
+HFC BANK
+
+Finance/Insurance
+
+0
+
+GCB Bank Ltd
+
+Finance/Insurance
+
+0
+
+SG-SSB Bank Ltd
+
+Finance/Insurance
+
+0
+
+Enterprise Insurance Group
+
+Finance/Insurance
+
+0
+
+Stand Chartered Bank Ltd
+
+Finance/Insurance
+
+0
+
+Unilever Gh. Ltd
+
+Manufacturing/ Trading
+
+1
+
+PZ Cussons
+
+Manufacturing/ Trading
+
+1
+
+Mechanical Lloyd
+
+Manufacturing/ Trading
+
+1
+
+Aluworks
+
+Manufacturing/ Trading
+
+1
+
+Pioneer Kitchenware
+
+Manufacturing/ Trading
+
+1
+
+TOTAL Ghana
+
+Metals/ Oil
+
+1
+
+African Champion
+
+Paper Converter/ IT
+
+1
+
+Samwoode
+
+Paper Converter/ IT
+
+1
+
+Guiness Ghana
+
+Pharmacy/ Beverages
+
+1
+
+Fan Milk
+
+Pharmacy/ Beverages
+
+1
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Appendix 2
+Table 5 Variance Inflation Factor (VIF)
+Variable
+
+VIF
+
+1/VIF
+
+Size
+
+10.11
+
+0.0989
+
+Age
+
+7.27
+
+0.1375
+
+Auditor
+
+6.73
+
+0.1485
+
+Industry
+
+3.37
+
+0.2970
+
+Foreignassoc
+
+3.36
+
+0.2979
+
+Profit
+
+1.82
+
+0.5497
+
+Mean VIF
+
+5.44
+
+Note: Size represents firm size; age represents age of company; auditor
+represents auditor type; industry represents industry type; foreignassoc
+represents foreign association; profit is profitability
+
+Acknowledgements
+We thank the anonymous reviewers and the editor for their insightful
+comments which were useful in improving the quality of this paper.
+Funding
+Not applicable.
+Authors’ contributions
+All authors contributed to the development of the manuscript and have
+read and approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Received: 23 August 2017 Accepted: 8 December 2017
+
+References
+Adams, C. A. (2002). Internal organisational factors influencing corporate social
+and ethical reporting: Beyond current theorising. Accounting, Auditing and
+Accountability Journal, 15(2), 223–250.
+Aerts, W., Cormier, D., & Magnan, M. (2006). Intra-industry imitation in corporate
+environmental reporting: An international perspective. Journal of Accounting
+and Public Policy, 25(3), 299–331.
+Ahmad, Z., Hassan, S., & Mohammad, J. (2003). Determinants of environmental
+reporting in Malaysia. International Journal of Business Studies, 11(1), 69.
+Alsaeed, K. (2006). The association between firm-specific characteristics and
+disclosure: the case of Saudi Arabia. Managerial Auditing Journal, 21(5), 476–496.
+Al-Tuwaijri, S. A., Christensen, T. E., & Hughes, K. E. (2004). The relations among
+environmental disclosure, environmental performance, and economic
+performance: A simultaneous equations approach. Accounting, Organizations
+and Society, 29(5), 447–471.
+Brammer, S., & Pavelin, S. (2004). Voluntary social disclosures by large UK
+companies. Business Ethics: A European Review, 13(2–3), 86–99.
+Brammer, S., & Pavelin, S. (2006). Voluntary environmental disclosures by large UK
+companies. Journal of Business Finance and Accounting, 33(7–8), 1168–1188.
+Brammer, S., & Pavelin, S. (2008). Factors influencing the quality of corporate
+environmental disclosure. Business Strategy and the Environment, 17(2), 120–136.
+Branco, M. C., & Rodrigues, L. L. (2006). Corporate social responsibility and
+resource-based perspectives. Journal of Business Ethics, 69(2), 111–132.
+Brown, N., & Deegan, C. (1998). The public disclosure of environmental
+performance information—A dual test of media agenda setting theory and
+legitimacy theory. Accounting and Business Research, 29(1), 21–41.
+
+Page 10 of 12
+
+Burgwal, D. V. D., & Vieira, R. J. O. (2014). Environmental disclosure determinants
+in Dutch listed companies. Revista Contabilidade and Finanças, 25(64), 60–78.
+Campbell, D. (2003). Intra-and intersectoral effects in environmental disclosures: Evidence
+for legitimacy theory? Business Strategy and the Environment, 12(6), 357–371.
+Campbell, D. (2004). A longitudinal and cross-sectional analysis of environmental
+disclosure in UK companies—A research note. The British Accounting Review,
+36(1), 107–117.
+Campbell, D., Craven, B., & Shrives, P. (2003). Voluntary social reporting in three
+FTSE sectors: A comment on perception and legitimacy. Accounting, Auditing
+and Accountability Journal, 16(4), 558–581.
+Chandok, R. I. S., Chandok, R. I. S., Singh, S., & Singh, S. (2017). Empirical study on
+determinants of environmental disclosure: Approach of selected
+conglomerates. Managerial Auditing Journal, 32(4/5), 332–355.
+Chelli, M., Durocher, S., & Richard, J. (2014). France's new economic regulations:
+Insights from institutional legitimacy theory. Accounting, Auditing and
+Accountability Journal, 27(2), 283–316.
+Cho, C. H., & Patten, D. M. (2007). The role of environmental disclosures as tools of
+legitimacy: A research note. Accounting, Organizations and Society, 32(7), 639–647.
+Choi, J. S. (1999). An investigation of the initial voluntary environmental
+disclosures made in Korean semi-annual financial reports. Pacific Accounting
+Review, 11(1), 73–102.
+Christ, K. L., & Burritt, R. L. (2013). Environmental management accounting:
+The significance of contingent variables for adoption. Journal of Cleaner
+Production, 41, 163–173.
+Clarkson, P. M., Li, Y., Richardson, G. D., & Vasvari, F. P. (2008). Revisiting the
+relation between environmental performance and environmental disclosure:
+An empirical analysis. Accounting, Organizations and Society, 33(4), 303–327.
+Clarkson, P. M., Li, Y., Richardson, G. D., & Vasvari, F. P. (2011). Does it really pay to
+be green? Determinants and consequences of proactive environmental
+strategies. Journal of Accounting and Public Policy, 30(2), 122–144.
+Cochran, P. L., & Wood, R. A. (1984). Corporate social responsibility and financial
+performance. Academy of Management Journal, 27(1), 42–56.
+Cooke, T. E. (1992). The impact of size, stock market listing and industry type on
+disclosure in the annual reports of Japanese listed corporations. Accounting
+and Business Research, 22(87), 229–237.
+Cormier, D., & Gordon, I. M. (2001). An examination of social and environmental
+reporting strategies. Accounting, Auditing & Accountability Journal, 14(5), 587–617.
+Cormier, D., & Magnan, M. (2003). Environmental reporting management: A continental
+European perspective. Journal of Accounting and Public Policy, 22(1), 43–62.
+Cormier, D., Magnan, M., & Van Velthoven, B. (2005). Environmental disclosure
+quality in large German companies: Economic incentives, public pressures or
+institutional conditions? European Accounting Review, 14(1), 3–39.
+Cowen, S. S., Ferreri, L. B., & Parker, L. D. (1987). The impact of corporate
+characteristics on social responsibility disclosure: A typology and frequencybased analysis. Accounting, Organisations and Society, 12(2), 111–122.
+Deegan, C. (2002). Introduction: The legitimising effect of social and
+environmental disclosures–a theoretical foundation. Accounting, Auditing &
+Accountability Journal, 15(3), 282–311.
+Deegan, C., & Gordon, B. (1996). A study of the environmental disclosure practices of
+Australian corporations. Accounting and Business Research, 26(3), 189–199.
+Deegan, C., Rankin, M., & Tobin, J. (2002). An examination of the corporate social
+and environmental disclosures of BHP from 1983-1997: A test of legitimacy
+theory. Accounting, Auditing and Accountability Journal, 15(3), 312–343.
+Díez-Martín, F., Prado-Roman, C., & Blanco-González, A. (2013). Beyond legitimacy:
+Legitimacy types and organizational success. Management Decision, 51(10),
+1954–1969.
+DiMaggio, P., & Powell, W. W. (1983). The iron cage revisited: Collective rationality
+and institutional isomorphism in organizational fields. American Sociological
+Review, 48(2), 147–160.
+Dowling, J., & Pfeffer, J. (1975). Organizational legitimacy: Social values and
+organizational behavior. Pacific Sociological Review, 122–136.
+Ducassy, I., & Montandrau, S. (2015). Corporate social performance, ownership
+structure and corporate governance in France. Research in International
+Business and Finance, 383–396.
+Fifka, M. (2012). The development and state of research on social and environmental
+reporting in global comparison. Journal für Betriebswirtschaft, 62(1), 45–84.
+Fifka, M. S. (2013). Corporate responsibility reporting and its determinants in
+comparative perspective–a review of the empirical literature and a
+meta-analysis. Business Strategy and the Environment, 22(1), 1–35.
+Freedman, M., & Jaggi, B. (1982). Pollution disclosures, pollution performance and
+economic performance. Omega, 10(2), 167–176.
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Frost, G. R., and Wilmshurst, T. D. (2000). The adoption of environment-related
+management accounting: an analysis of corporate environmental sensitivity.
+Accounting Forum, 24(4), 344–365.
+Gao, S. S., Heravi, S., & Xiao, J. Z. (2005). Determinants of corporate social and
+environmental reporting in Hong Kong: a research note. Accounting Forum,
+29(2), 233–242.
+Global Reporting Initiative. (2002). A historic collaborative achievement:
+Inauguration of the global reporting initiative. Amsterdam: Global Reporting
+Initiative [document on file with author].
+Gray, R., Kouhy, R., & Lavers, S. (1995). Corporate social and environmental
+reporting: A review of the literature and a longitudinal study of UK
+disclosure. Accounting, Auditing and Accountability Journal, 8(2), 47–77.
+Gray, R., Javad, M., Power, D. M., & Sinclair, C. D. (2001). Social and environmental
+disclosure and corporate characteristics: A research note and extension.
+Journal of Business Finance and Accounting, 28(3–4), 327–356.
+Gujarati, D. N., & Porter, D. C. (2003). Basic econometrics (4th ed.). New York: McGraw-Hill.
+Hackston, D., & Milne, M. J. (1996). Some determinants of social and
+environmental disclosures in New Zealand companies. Accounting, Auditing
+and Accountability Journal, 9(1), 77–108.
+Holder-Webb, L., Cohen, J. R., Nath, L., & Wood, D. (2009). The supply of corporate
+social responsibility disclosures among US firms. Journal of Business Ethics,
+84(4), 497–527.
+Hossain, M., Perera, M. H. B., & Rahman, A. R. (1995). Voluntary disclosure in the
+annual reports of New Zealand companies. Journal of International Financial
+Management and Accounting, 6(1), 69–87.
+Inchausti, B. G. (1997). The influence of company characteristics and accounting
+regulation on information disclosed by Spanish firms. The European
+Accounting Review, 6(1), 45–68.
+Ingley, C. B. (2008). Company growth and board attitudes to corporate social
+responsibility. International Journal of Business Governance and Ethics, 4(1), 17–39.
+Ingram, R. W. (1978). An investigation of the information content of (certain)
+social responsibility disclosures. Journal of Accounting Research, 16(2), 270–
+285.
+Jenkins, H., & Yakovleva, N. (2006). Corporate social responsibility in the mining
+industry: Exploring trends in social and environmental disclosure.
+Journal of Cleaner Production, 14(3), 271–284.
+Joshi, P. L., & Al-Modhahki, J. (2003). Financial reporting on the internet: Empirical
+evidence from Bahrain and Kuwait. Asian Review of Accounting, 11(1), 88–101.
+Kamal, Y., & Deegan, C. (2013). Corporate social and environment-related
+governance disclosure practices in the textile and garment industry: Evidence
+from a developing country. Australian Accounting Review, 23(2), 117–134.
+Kohler, U., & Kreuter, F. (2009). Data analysis using Stata (2nd ed.). College Station:
+Stata Press.
+Kolk, A. (2003). Trends in sustainability reporting by the fortune global 250.
+Business Strategy and the Environment, 12(5), 279–291.
+Krippendorf, K. (1980). Content analysis: An introduction to its methodology. Beverly
+Hills: Sage Publications.
+Lang, M., & Lundholm, R. (1993). Cross-sectional determinants of analyst ratings
+of corporate disclosures. Journal of Accounting Research, 246–271.
+Lindblom, C. K. (1994). The implications of organizational legitimacy for corporate
+social performance and disclosure. Critical Perspectives on Accounting, 120(3).
+Liu, X., & Anbumozhi, V. (2009). Determinant factors of corporate environmental
+information disclosure: An empirical study of Chinese listed companies.
+Journal of Cleaner Production, 17(6), 593–600.
+Lobo, G. J., & Zhou, J. (2001). Disclosure quality and earnings management.
+Asia-Pacific Journal of Accounting and Economics, 8(1), 1–20.
+Mahmood, A. (1999). The impact of market characteristics on the
+comprehensiveness of disclosure in financial reports: An empirical study.
+The Journal of Commercial Researches, 13(1), 47.
+Milne, M. J., & Adler, R. W. (1999). Exploring the reliability of social and
+environmental disclosures content analysis. Accounting, Auditing and
+Accountability Journal, 12(2), 237–256.
+Mitchell, C. G., & Hill, T. R. (2010). An exploratory analysis of stakeholders’
+expectations and perceptions of corporate social and environmental reporting
+in South Africa. South African Journal of Accounting Research, 24(1), 49–78.
+Mitchell, C. G., & Quinn, N. W. (2005). Environmental reporting disclosure in
+South Africa: A comparative study of the expectations of selected groups
+of preparers and users. Meditari Accountancy Research, 13(2), 17–33.
+Momin, M. A., & Hossain, M. (2011). Corporate social responsibility (CSR) reporting by
+multinational corporations (MNCs) subsidiaries in an emerging country.
+Corporate Social Responsibility and Environmental Management, 35(7), 577–601.
+
+Page 11 of 12
+
+Momin, M. A., & Parker, L. D. (2013). Motivations for Corporate Social Responsibility
+Reporting by MNC subsidiaries in an emerging country: The case of
+Bangladesh. British Accounting Review, 45, 215–228.
+Moore, G. (2001). Corporate social and financial performance: An investigation in
+the U.K. supermarket industry. Journal of Business Ethics, 34(3/4), 299–315.
+Neu, D., Warsame, H., & Pedwell, K. (1998). Managing public impressions:
+Environmental disclosures in annual reports. Accounting, Organizations and
+Society, 23(3), 265–282.
+Nor, N. M., Bahari, N. A. S., Adnan, N. A., Kamal, S. M. Q. A. S., & Ali, I. M. (2016).
+The effects of environmental disclosure on financial performance in Malaysia.
+Procedia Economics and Finance, 35, 117–126.
+O’Donovan, G. (2002). Environmental disclosures in the annual report: Extending
+the applicability and predictive power of legitimacy theory. Accounting,
+Auditing and Accountability Journal, 15(3), 344–371.
+Patten, D. M. (1991). Exposure, legitimacy, and social disclosure. Journal of
+Accounting and Public Policy, 10(4), 297–308.
+Patten, D. M. (1992). Intra-industry environmental disclosures in response to the
+Alaskan oil spill: A note on legitimacy theory. Accounting, Organizations and
+Society, 17(5), 471–475.
+Patten, D. M. (2002). The relation between environmental performance and
+environmental disclosure: A research note. Accounting, Organizations and
+Society, 27(8), 763–773.
+Pereira Eugénio, T., Costa Lourenço, I., & Morais, A. I. (2013). Sustainability strategies
+of the company TimorL: extending the applicability of legitimacy theory.
+Management of Environmental Quality: An International Journal, 24(5), 570–582.
+Pfeffer, J., & Salancik, G. R. (1978). The external control of organizations: A resource
+dependence approach. NY: Harper and Row Publishers.
+Prado-Lorenzo, J. M., Gallego-Alvarez, I., & Garcia-Sanchez, I. M. (2009). Stakeholder
+engagement and corporate social responsibility reporting: the ownership
+structure effect. Corporate Social Responsibility and Environmental
+Management, 16(2), 94–107.
+Prencipe, A. (2004). Proprietary costs and determinants of voluntary segment
+disclosure: Evidence from Italian listed companies. European Accounting
+Review, 13(2), 319–340.
+Reverte, C. (2009). Determinants of corporate social responsibility disclosure
+ratings by Spanish listed firms. Journal of Business Ethics, 88(2), 351–366.
+Roberts, R. W. (1992). Determinants of corporate social responsibility disclosure:
+An application of stakeholder theory. Accounting, Organisations and Society,
+17(August), 595–612.
+Shocker, A. D., & Sethi, S. P. (1974). An approach to incorporating action
+preferences in developing corporate action strategies. In The unstable
+ground: Corporate in a dynamic society, Melville, CA.
+da Silva Monteiro, S. M., & Aibar-Guzmán, B. (2010). Determinants of environmental
+disclosure in the annual reports of large companies operating in Portugal.
+Corporate Social Responsibility and Environmental Management, 17(4), 185–204.
+Stanny, E., & Ely, K. (2008). Corporate environmental disclosures about the effects
+of climate change. Corporate Social Responsibility and Environmental
+Management, 15(6), 338–348.
+Sulaimana, M., Abdullahb, N., & Fatimaa, A. H. (2014). Determinants of
+environmental reporting quality in Malaysia. International Journal of
+Economics, Management and Accounting, 22(1), 63.
+Sumiani, Y., Haslinda, Y., & Lehman, G. (2007). Environmental reporting in a
+developing country: A case study on status and implementation in Malaysia.
+Journal of Cleaner Production, 15(10), 895–901.
+Suttipun, M., & Stanton, P. (2012). Determinants of environmental disclosure in
+Thai corporate annual reports. International Journal of Accounting and
+Financial Reporting, 2(1), 99.
+Tilling, M. V., & Tilt, C. A. (2010). The edge of legitimacy: Voluntary social and
+environmental reporting in Rothmans’ 1956-1999 annual reports. Accounting,
+Auditing and Accountability Journal, 23(1), 55–81.
+Ullmann, A. A. (1985). Data in search of a theory: A critical examination of the
+relationships among social performance, social disclosure, and economic
+performance of U.S. firms. Academy of Management Review, 10(3), 540–557.
+de Villiers, C. J. (2003). Why do south African companies not report more
+environmental information when managers are so positive about this kind
+of reporting? Meditari Accountancy Research, 11(1), 11–23.
+de Villiers, C. J., & Barnard, P. (2000). Environmental reporting in South Africa from
+1994 to 1999: A research note. Meditari Accountancy Research, 8(1), 15–23.
+de Villiers, C. J., & Lubbe, D. S. (2001). Industry differences in respect of corporate
+environmental reporting in South Africa: A research note. Meditari
+Accountancy Research, 9(1), 81–91.
+
+Welbeck et al. International Journal of Corporate Social Responsibility (2017) 2:11
+
+Wachira, M. (2017). Determinants of corporate social disclosures in Kenya:
+A longitudinal study of firms listed on the Nairobi securities exchange.
+European Scientific Journal, 13(11), 1857–7881 (Print) e - ISSN 1857- 7431.
+Watts, R. L., & Zimmerman, J. L. (1983). Agency problems, auditing, and the
+theory of the firm: Some evidence. The Journal of Law and Economics,
+26(3), 613–633.
+Welbeck, E. E. (2017). The influence of institutional environment on corporate
+responsibility disclosures in Ghana. Meditari Accountancy Research, 25(2), 216–240.
+Wilmshurst, T. D., & Frost, G. R. (2000). Corporate environmental reporting: A test
+of legitimacy theory. Accounting, Auditing and Accountability Journal, 13(1),
+10–26 www.gse.gh.com.
+Zeng, S. X., Xu, X. D., Yin, H. T., & Tam, C. M. (2012). Factors that drive Chinese
+listed companies in voluntary disclosure of environmental information.
+Journal of Business Ethics, 109(3), 309–321.
+
+Page 12 of 12
+
+

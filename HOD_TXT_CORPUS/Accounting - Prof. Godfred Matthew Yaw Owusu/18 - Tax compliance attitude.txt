@@ -1,0 +1,788 @@
+D
+
+Determinants of Tax
+Compliance Attitude
+Godfred Matthew Yaw Owusu,
+Rita Amoah Bekoe, Octavia Ama Serwaa Otchere
+and Nana Adwoa Anokye Effah
+Department of Accounting, University of Ghana
+Business School, University of Ghana, Accra,
+Ghana
+
+Synonyms
+Tax; levy, tariff, duty, tribute; Compliance; conformity, abidance, obedience, adherence,
+observance
+
+Definition
+Tax compliance is the manner and extent to which
+individuals adhere to the applicable tax laws in
+their country of residence.
+
+Introduction
+The socioeconomic development of every nation
+depends substantially on its capacity to generate
+enough revenue to ﬁnance its developmental projects. One of the major avenues for revenue generation for development is through taxation.
+Notwithstanding the fact that taxes constitute an
+
+important source of revenue to governments, it
+has been a huge challenge for many governments
+and tax authorities in practice to convince all
+individual taxpayers to meet their tax obligations
+to the state (McGee et al. 2008). Governments all
+over the world are confronted with the challenge
+of dealing with tax non-compliance issues which
+have been on the ascendency for decades. Despite
+the efforts by most governments in reforming the
+tax systems, available statistics on the amount of
+revenue lost to countries due to non-compliance
+with tax laws suggest widespread evasion of tax in
+many parts of the world.
+A report by the Tax Justice Network suggests
+that governments worldwide lose more than $3.1
+trillion in annual revenue due to tax evasion, while
+it is estimated the equivalent of more than 5.1% of
+global gross domestic product (GDP) never
+reaches the coffers of 145 national governments
+in the form of taxes (Cobham and Janský 2017).
+The United States alone loses over $600 billion
+revenue to tax evasion each year (Cebula and
+Feige 2012), while the European Union loses
+between €50 and €70 billion of tax revenue to
+tax evasion annually (Carrero and Seara 2016).
+In Africa, the continent loses close to $14 billion
+revenue to tax evasion annually (Mwanza 2016).
+To reduce the incidence of tax evasion and
+enhance the revenue mobilization effort of countries, several initiatives including tax audits and
+enactment of laws to punish offenders among
+others have been experimented by many governments. These initiatives in most cases have
+
+© Springer Nature Switzerland AG 2019
+A. Farazmand (ed.), Global Encyclopedia of Public Administration, Public Policy, and Governance,
+https://doi.org/10.1007/978-3-319-31816-5_3859-1
+
+2
+
+focused on ensuring compulsory compliance with
+tax provisions. Notwithstanding its perceived
+beneﬁts, measures aimed at enforcing compliance
+with tax provisions have been criticized for its
+minimal impact on taxpayers’ compliance attitude. As argued by social psychologists, tax compliance can be achieved without the use of any
+form of force by tax ofﬁcials. In line with this
+belief, Mohdali and Pope (2012) suggest the
+need to focus on sociopsychological factors in
+explaining tax compliance behavior on the basis
+that residents of the country feel obligated to do so
+and not for the fear of repercussions of
+non-compliance.
+Accordingly, several studies seeking to understand the tax compliance behavior of individuals
+have emerged over the years (Wahl et al. 2010).
+These studies argue that factors such as tax knowledge, trust in authority, ethics, education, and
+social norms are relevant in explaining tax compliance behavior of individuals. Thus, a multiplicity of factors may explain the tax compliance
+behavior of individuals, and these factors may
+vary based on context.
+By relying on the framework of Mohdali and
+Pope (2012), the current study examines the tax
+compliance attitude of a section of Ghanaians
+highlighting the dominant factors that inﬂuence
+tax compliance attitudes. The study examines
+whether the perception individuals have toward
+the government (in terms of utilization of tax
+revenue), the attitude of the tax authorities toward
+taxpayers, and other demographic characteristics
+of the respondents including their level of tax
+knowledge and religiosity have any implications
+on their tax compliance behavior. While the work
+of Mohdali and Pope (2012) was conducted in a
+Muslim-dominated environment, this study provides some evidence from a Christian-dominated
+country (Population and Housing Census 2010).
+
+Literature Review
+Tax Compliance and Theories of Compliance
+“Questions about tax compliance are as old as
+taxes themselves and will remain an area of discovery as long as taxes exist” (Torgler 2006,
+
+Determinants of Tax Compliance Attitude
+
+p.82). While most researchers in the area of taxation view compliance as a measure of taxpayers’
+conformity to tax rules as well as regulations,
+others explain compliance to involve the ﬁling of
+requisite tax returns at the right time, and accurately reporting one’s tax liability in accordance
+with the applicable laws. Tax compliance as a
+concept is therefore about individuals and how
+they adhere to the applicable tax laws in their
+country of residence.
+Critical to the tax compliance discourse is the
+attitude of taxpayers toward paying taxes. Several
+studies have examined the factors that inﬂuence tax
+compliance behavior of people. Eriksen and Fallan
+(1996), for instance, argue that the tax compliance
+attitude of an individual is usually a function of that
+individual’s knowledge of tax regulations and their
+economic effect and conclude that knowledge of
+tax laws reduces the propensity not to comply with
+tax provisions. Other factors including the perception of fairness in the use of tax revenue, social
+norms, education, ethical conduct, trust in tax
+authorities, personal characteristics of the individual taxpayer, etc. have been associated with tax
+compliance attitude. Studies have examined these
+factors under the lenses of the economic deterrence
+model, social psychological model, and the ﬁscal
+psychological model.
+The economic deterrence theory is primarily
+based on the economic theory of compliance with
+a focus on deterrence be it persuasive or punitive.
+Its foundation is based on the measures aimed at
+preventing taxpayers from evading. The assumption is that taxpayers pay their taxes largely due to
+the fear of being detected and penalized for noncompliance. Thus, a rational taxpayer will evade
+tax if the expected cost of being detected is lower
+than the payoff from evading.
+The social psychological theory, however, suggests that tax compliance is inﬂuenced by two main
+factors: trust in authorities and power of authorities.
+Wahl et al. (2010) explain trust in authorities to
+mean the general belief that tax authorities work in
+the best interest of everyone, while the concept of
+“power of authorities” describes the taxpayers’
+perception of the potential of the tax ofﬁcial to
+detect and punish acts of tax evasion. While trust
+
+Determinants of Tax Compliance Attitude
+
+enhances voluntary tax compliance, enforced compliance is achieved by increasing levels of power.
+The ﬁscal psychological model suggests compliance behavior is inﬂuenced by three factors: tax
+mentality, tax tension feeling, and tax morale. Tax
+mentality is the taxpayer’s decision to comply or
+otherwise based on personal experience and the
+social environment. Tax tension feeling refers to
+the taxpayer dissatisfaction with the tax system
+and the propensity not to comply with tax obligations, while tax morale is explained to mean the
+intrinsic motive (resulting from religious principles and his moral values). By employing the
+ﬁscal psychological model, we examine whether
+taxpayers’ prior experiences with tax authorities
+(mentality), their feeling about the tax system
+(proxied by how they perceive the government
+and the utilization of the tax revenue), and the
+intrinsic motive (proxied by religiosity) affect
+their tax compliance attitude.
+Religiosity and Tax Compliance Attitude
+Religiosity is the commitment and the application
+of one’s faith, commonly classiﬁed into intrinsic
+and extrinsic components. Extrinsic religiosity is
+explained as a means to an end, where religion
+serves a means of obtaining social acceptance and
+reward. Intrinsic religiosity on the other hand is an
+end in itself where an individual is committed to his
+religion and internalizes his religious beliefs
+(Torgler 2006). An extrinsically inspired individual
+uses his religion to acquire comfort and security
+and to experience a sense of belongingness, while
+an intrinsically inspired individual strives to live
+and practice his religion as an essential part of
+his life.
+Religiosity has been examined on several issues
+including moral judgments, ethics, norms, and personality traits. Some limited attempts have also
+been made to link religiosity to tax compliance
+behavior. Torgler (2006), for instance, assessed
+the relationship between tax morale (intrinsic
+motive to pay tax) and religiosity and found a
+positive relationship between them. Mohdali and
+Pope (2012), however, found that the willingness
+to honor tax obligations is largely driven by the
+intrinsic religiosity and not extrinsic. To them, religion reinforces an individual’s moral and ethical
+
+3
+
+perception, fortiﬁes his “sense of obligation,” and
+eventually improves his tax compliance attitude.
+Perception Toward Government and Tax
+Compliance Attitude
+Governance plays a critical role in inﬂuencing tax
+compliance attitude of people. Fauvelle-Aymar
+(1999) points out that three factors, legitimacy,
+efﬁciency, and credibility of a government, are
+critical in shaping the attitude of taxpayers to
+comply with the tax provisions in a country.
+Thus, the willingness to comply with tax provisions may be dependent on whether the citizens
+view the government of the day to be legitimate or
+otherwise, approve of the government’s actions
+and have trust in the governance systems. Where
+citizens presume the government to be illegal and
+not credible, the motivation to comply with tax
+provision is likely to be low. Thus, the perception
+of the citizenry toward the government may inﬂuence their tax compliance behavior.
+The argument has been that taxation constitutes
+one of the important sources of revenue by which
+government ﬁnances its projects and hence, most
+citizens usually expect the government to be
+accountable in the administration of the tax revenue
+through the provision of social amenities in a costeffective way. The tendency to oppose the payment
+of tax is usually high if taxpayers cannot match the
+responsibility to pay tax with government effort in
+addressing their infrastructural needs. As Feld and
+Frey (2007) point out, citizens in most instances are
+willing to honor their tax obligations if public services provided by the government can be matched
+equitably with the taxes. Where this expectation of
+the citizen is not met, compliance becomes an issue.
+Thus, tax compliance attitude is more likely to be
+positive when citizens can see its manifestation in a
+form of provision of essential amenities for the
+public good.
+Attitude of Tax Authority Toward Taxpayers
+Governments worldwide appoint a relevant
+authority to be in charge of its tax administration.
+While studies on compliance behavior have often
+focused on studying the behavior of taxpayers,
+important insights could be gained on the tax
+compliance discourse by taking a critical look at
+
+4
+
+the behavior of the tax authorities and their dealings with the taxpayer. According to Muehlbacher
+and Kirchler (2010), a healthy interaction between
+tax authorities and taxpayers enhances cooperation of the latter in complying with their tax obligations. It is believed that the manner in which the
+tax authority treats taxpayers has important implications on their willingness to pay their taxes and
+their tax morale. This is why Feld and Frey (2007)
+suggest the need for the tax authority to be tactful
+in dealing with taxpayers as it constitutes one of
+the important means of inducing compliance. To
+them, it is more prudent for the tax authority to
+adopt a respectful approach in dealing with taxpayers as it serves as an incentive to comply with
+tax laws.
+Wahl et al. (2010) describe two forms of relationship (antagonistic and synergistic) that can
+exist between the tax authority and the taxpayer
+in the famous slippery slope framework. In an
+antagonistic environment, both parties see each
+other as “opponents.” Since taxpayers in this environment are hesitant in honoring their tax obligations, the tax authority is always on the lookout for
+evaders. In the synergistic environment however,
+it is presumed that a combined effort of both the
+taxpayers and the tax authority is crucial in ensuring an effective tax system. As a result, the tax
+authority views it necessary to give off their best
+by treating taxpayers with trust and respect. Thus,
+the type of relationship that exists between the
+parties involved in the administration of tax is
+relevant in shaping tax compliance behavior.
+
+Methodology
+Design, Research Instrument, and Data
+Collection
+The survey-based method of research was
+adopted with questionnaires as the principal
+means of data collection. Printed questionnaires
+were administered to the respondents in class during the second semester of the 2017/2018 academic year. To ensure voluntary participation
+and elicit honest response; the students were
+assured of the conﬁdentiality of their responses
+which were to be used for the purposes of the
+
+Determinants of Tax Compliance Attitude
+
+study only. The questionnaire used consisted of
+two sections. The ﬁrst section sought the views of
+respondents on tax compliance attitude and the
+factors that inﬂuence such attitudes (religiosity,
+perception of government spending, attitude of
+tax authorities) using a seven-point Likert scale
+(where 1 represents a strong disagreement and
+7 represents a strong agreement) to the statements
+used. The speciﬁc items used in measuring each of
+the construct were adapted from the work of
+Mohdali and Pope (2012).
+Respondents
+A total of 400 valid responses were used for the
+analysis made up of 258 postgraduate business
+students and 142 nonbusiness students. The sample
+had an equal distribution of males and females as
+the males outnumbered the females by a difference
+of 12. More than half of the respondents were
+between the ages of 25 and 30 (57.5%), and their
+religious background suggests majority of them are
+Christians (76.3%). Table 1 presents details of the
+demographic characteristics of the respondents.
+
+Determinants of Tax Compliance Attitude,
+Table 1 Descriptive summary of demographics
+Variables
+Gender
+Male
+Female
+Age
+25–30
+31–35
+36–40
+41–45
+Course major
+Business
+Nonbusiness
+Religious background
+Christian
+Islam
+National pride
+Not proud of Ghana
+Proud of Ghana
+
+Frequency
+
+Percent
+
+206
+194
+
+51.5
+48.5
+
+230
+98
+49
+23
+
+57.5
+24.5
+12.3
+5.8
+
+258
+142
+
+64.5
+35.5
+
+305
+95
+
+76.3
+23.8
+
+97
+303
+
+24.3
+75.8
+
+Determinants of Tax Compliance Attitude
+
+5
+
+Data Analysis Procedures
+An exploratory factor analysis was initially
+conducted on the study constructs to examine
+their dimensionality. Regression analysis was
+subsequently employed to ascertain whether the
+variables of interest were good predictors of the
+tax compliance attitude of the respondents.
+Exploratory Factor Analysis (EFA)
+The principal component extraction criterion
+using the varimax rotation method was employed
+for EFA. The Kaiser-Meyer-Olkin values for each
+construct exceeded the 0.7 threshold, indicating
+sampling adequacy (Kaiser 1974). Bartlett’s test
+of sphericity also yielded very signiﬁcant and
+satisfactory results, a conﬁrmation that the data
+set was ﬁt to conduct EFA. The EFA results
+yielded two factors for both “tax compliance
+Determinants of Tax Compliance Attitude,
+Table 2 Rotated factor matrix on tax compliance attitude
+Indicators
+It is my duty as a citizen to pay taxes as
+required by the law
+I pay taxes as required by the law to
+support the country
+Citizenship carries with it a duty to
+pay tax
+I pay my taxes as required by the law
+because of a sense of responsibility
+It makes it difﬁcult to govern the
+country when people don’t pay their
+tax
+I pay my taxes as required because
+I know that I will be audited
+I prepare my tax return correctly
+because I fear my reputation would be
+ruined if I were to get caught for not
+following the tax laws
+Not paying taxes is one of the worst
+crime a person can commit because it
+harms the whole community
+The harm to the community through
+people not paying tax is regretful
+If everyone paid the correct amount of
+tax, we would enjoy better public
+facilities
+Eigen values
+Percentage of variance explained
+
+Component
+1
+2
+0.87
+0.84
+0.79
+0.65
+0.59
+
+0.72
+0.71
+
+0.65
+
+0.56
+0.52
+
+4.06
+33.81
+
+1.80
+15.01
+
+attitude” and “religiosity,” while three factors
+emerged from the construct “perception toward
+government.” A summary of the EFA results is
+presented in Tables 2, 3, and 4.
+
+Regression Results and Discussions
+Table 5 presents results from the regression analysis using the Ordinary Least Square (OLS) estimation technique. The results show the effect of
+the variables of interest: perception toward government, attitude of tax authority, religiosity, and
+control variables (national pride and course
+major) on tax compliance attitude. There are two
+different regression outputs as shown in Table 5.
+Model 1 of Table 5 shows the relationship
+between the independent variables and voluntary
+tax compliance attitude, while Model 2 contains
+results based on enforced tax compliance attitude.
+Determinants of Tax Compliance
+Table 3 Rotated factor matrix on religiosity
+Indicators
+I rarely read books and magazines
+about my faith
+I rarely join the activities of my
+religious organization
+I rarely try to live all my life according
+to my religious beliefs
+I do not enjoy spending time with
+others of my religious afﬁliation
+It doesn’t matter much what I believe so
+long as I am good
+Religious beliefs do not inﬂuence most
+of my dealings in life
+My whole approach to life is based on
+my religion
+I keep well informed about my local
+religious group and have some
+inﬂuence on its decisions
+It is important for me to spend periods
+of time in private to think and reﬂect on
+my religion
+I spend time trying to enhance my
+understanding of my faith
+Eigen values
+Percentage of variance explained
+
+Attitude,
+
+Component
+1
+2
+0.81
+0.79
+0.71
+0.69
+0.68
+0.64
+0.79
+0.75
+
+0.74
+
+0.69
+3.52
+1.92
+
+35.23
+19.17
+
+6
+
+Determinants of Tax Compliance Attitude
+
+Determinants of Tax Compliance Attitude,
+Table 4 Rotated factor matrix on perception toward the
+government
+Indicators
+The services provided by the
+government are not
+comparable with the amount
+of taxes paid
+Despite being able to vote,
+I have no say over the
+government’s decisions to
+spend public funds
+The government is not being
+transparent in spending
+taxpayers’ money
+The tax laws ensure that
+everyone pays a fair and
+correct amount of taxes
+The amount of tax expected
+to be paid by all Ghanaians is
+fair because it is based on
+taxable income (after
+allowable deductions)
+I believe that the Ghanaian
+government is spending
+public funds prudently
+Public funds are allocated
+equitably for the Ghanaian
+citizens’ well-being
+Eigen values
+Percentage of variance
+explained
+
+Component
+1
+2
+0.78
+
+3
+
+0.73
+
+0.70
+
+0.82
+
+0.79
+
+Determinants of Tax Compliance
+Table 5 Multiple regression results
+Variables
+Intrinsic
+religiosity
+Extrinsic
+religiosity
+Trust in
+government
+Perception of
+fairness
+Equitability of
+government
+Attitude of tax
+authority toward
+taxpayers
+National pride
+Course major
+Overall model ﬁt
+
+Model 1
+0.22 (0.00)
+0.03 (0.53)
+
+Attitude,
+
+Model 2
+0.25 (0.00)
+0.01 (0.82)
+
+0.06 (0.23)
+
+0.01 (0.91)
+
+0.10 (0.06)
+
+0.11 (0.04)
+
+0.89 (0.09)
+
+0.04 (0.50)
+
+0.02 (0.75)
+
+0.04 (0.44)
+
+0.19 (0.00)
+0.10 (0.04)
+Adjusted
+R2 = 0.12
+F
+(8, 391) = 7.71
+
+0.20 (0.00)
+0.08 (0.11)
+Adjusted
+R2 = 0.12
+F
+(8, 391) = 7.98
+
+Note: P-values are in parentheses
+0.89
+
+0.75
+
+2.21
+31.53
+
+1.65
+23.63
+
+0.90
+12.90
+
+Results of Model 1 suggest intrinsic religiosity,
+perception of fairness, national pride, and course
+major have signiﬁcant inﬂuence on voluntary tax
+compliance attitude. A positive and highly signiﬁcant relationship (at 1% level) was found between
+intrinsic religiosity and voluntary tax compliance
+attitude. This demonstrates that individuals who
+strive to live and practice their religion as an integral part of their daily life exhibit high tax compliance attitude voluntarily. Extrinsic religiosity was
+also positively related to tax compliance attitude
+though statistically insigniﬁcant. These results
+demonstrate that religiosity plays an important
+role on tax compliance attitude. As argued by
+existing studies (Mohdali and Pope 2012; Torgler
+2006), religion imposes a sense of moral and
+
+ethical responsibility on an individual which
+improves tax compliance attitude.
+The results also show that when individuals
+perceive the tax system to be fair, the motivation
+to comply with tax is high. Impliedly, individuals
+are more willing to honor their tax obligations
+when they have conﬁdence in the authenticity of
+the tax system. Course major was negative and
+statistically signiﬁcant, an indication that business
+students have higher compliance attitude than
+nonbusiness students. As a proxy for tax knowledge, this ﬁnding suggests that higher level of tax
+knowledge has a positive inﬂuence on compliance
+attitude as shown by some empirical studies (Ali
+and Ahmad 2014; Eriksen and Fallan 1996).
+Using enforced compliance as the dependent
+variable produced similar results as the voluntary
+compliance. As shown in Model 2, intrinsic religiosity, perception of fairness, and national pride were
+found to be full predictors of enforced tax compliance attitude. Taken together, results of both models
+indicate that the intrinsic component of religiosity,
+perceive fairness of the tax system, national pride,
+and knowledge on tax laws are the main determinants of tax compliance attitude of people.
+
+Determinants of Tax Compliance Attitude
+
+Conclusion
+Taxes remain one of the most effective means by
+which nations mobilize internal resources for
+growth and development. In reality however, it
+has been a huge challenge for most governments
+as well as tax authorities to convince individual
+taxpayers to honor their tax obligations to the
+state. Consequently, studies aimed at identifying
+the determinants of tax compliance attitude have
+emerged in recent times. This study contributes to
+extant literature on tax compliance by examining
+the inﬂuence of religiosity, perception toward
+government, and attitude of tax authority toward
+taxpayers on tax compliance attitude.
+Findings of this study showed that religiosity
+as a generic term has an impact on tax compliance
+attitude. Speciﬁcally, the intrinsic component of
+religiosity as intrapersonal religiosity has a positive and statistically signiﬁcant inﬂuence on tax
+compliance attitude. Further, the perception of
+taxpayers toward the government (in terms of
+equitability of government and fairness of the
+tax system) was also found to be positively associated with tax compliance attitude. Again, an
+individual’s knowledge level and the extent to
+which citizens are proud of their country have
+important implications on their tax compliance
+attitude.
+These ﬁndings therefore imply that, as part of
+the broad strategy of government to inﬂuence
+voluntary tax compliance attitude, it is important
+to promote religious values among taxpayers.
+Religious teachings should therefore be geared
+toward establishing the importance of honoring
+one’s civic responsibilities especially with the
+issue of taxation which forms one of the most
+important civic responsibilities. By so doing individuals will voluntarily comply with their tax
+obligations.
+Even though “nobody likes paying taxes”
+(Feld and Frey 2007 p.105), individuals upon
+realizing the effective mobilization of government
+revenues will be inclined to honor their tax obligations. Public services provided by the government therefore ought to substantially amount to
+tax payments. Also, the tax structure should be
+segregated on fair bases such that no one pays
+
+7
+
+more or less tax than expected. These constructive
+measures will go a long way to positively inﬂuence taxpayers’ compliance attitude.
+In addition, tax education should be promoted
+in the various colleges. It is important for students
+to be exposed to the tax structure of the country
+irrespective of whether or not they are pursuing a
+business-related course. By so doing they will be
+highly informed about how the tax system
+operates and also the socioeconomic developments that have come about as a result of effective
+utilization of the tax revenue. This will help individuals better appreciate the importance of paying
+taxes to the state.
+In spite of the signiﬁcant contribution of this
+study, the ﬁndings are limited in some respects.
+First, the respondents of this study were students
+from only one public university among the many
+universities in Ghana, and this could affect the
+extent of generalization of results. The use of
+students from various universities, both public
+and private, in the country could improve the
+generalization of results. Second, this study
+focused mainly on income tax to examine the
+taxpayers’ compliance attitude. Future researches
+may include other forms of taxes, such as corporate tax, gift tax, and value-added tax among
+others, to enhance existing literature on taxation
+issues. Future studies may also explore the issue
+qualitatively to provide a deeper understanding of
+the determinants of tax compliance attitude.
+
+Cross-References
+▶ Tax Compliance Attitude: Tax Expenditure,
+Tax Evasion, Tax Administration, Tax Practices, Taxation Policymaking
+
+References
+Ali A, Ahmad N (2014) Trust and tax compliance among
+Malaysian working youth. Int J Public Adm
+37(1):37–41
+Carrero JMC, Seara AQ (2016) The concept of ‘aggressive
+tax planning’ launched by the OECD and the EU Commission in the BEPS era: redeﬁning the border between
+
+8
+legitimate and illegitimate tax planning. Intertax
+44(3):206–226
+Cebula RJ, Feige EL (2012) America’s underground economy: measuring the size, growth and determinants of
+income tax evasion in the U.S. Crime Law Soc Chang
+57(3):265–285
+Cobham A, Janský P (2017) Global distribution of revenue
+loss from tax avoidance. United Nations University,
+WIDER Working paper 55
+Eriksen K, Fallan L (1996) Tax knowledge and attitudes
+towards taxation; A report on a quasi-experiment.
+J Econ Psychol 17(3):387–402
+Fauvelle-Aymar C (1999) The political and tax capacity of
+government in developing countries. Kyklos
+52(3):391–413
+Feld LP, Frey BS (2007) Tax compliance as the result of a
+psychological tax contract: the role of incentives and
+responsive regulation. Law Policy 29(1):102–120
+Kaiser HF (1974) An index of factorial simplicity.
+Psychometrika 39(1):31–36
+
+Determinants of Tax Compliance Attitude
+McGee RW, Ho SSM, Li AYS (2008) A comparative study
+on perceived ethics of tax evasion: Hong Kong vs the
+United States. J Bus Ethics 77(2):147–158
+Mohdali R, Pope JEFF (2012) The effects of religiosity and
+external environment on voluntary tax compliance. N Z
+J Tax Law Policy 18(2):119–139
+Muehlbacher S, Kirchler E (2010) Tax compliance by trust
+and power of authorities. Int Econ J 24(4):607–610
+Mwanza K (2016) Retrieved 18 Sept 2018 from https://
+moguldom.com/132671
+The 2010 Population and Housing Census retrieved 4 Nov
+2018 from http://www.statsghana.gov.gh
+Torgler B (2006) The importance of faith: tax morale and
+religiosity. J Econ Behav Organ 61(1):81–109
+Wahl I, Kastlunger B, Kirchler E (2010) Trust in authorities
+and power to enforce tax compliance: an empirical
+analysis of the “slippery slope framework”. Law Policy
+32(4):383–406
+
+

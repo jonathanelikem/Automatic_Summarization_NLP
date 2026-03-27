@@ -1,0 +1,739 @@
+Article
+
+Eradicating extreme
+poverty in Africa through
+productive inclusion: A
+comparative assessment
+of two social protection
+programmes in Ghana
+
+International
+Review of
+Administrative
+Sciences
+International Review of Administrative
+Sciences
+2023, Vol. 89(3) 883–900
+© The Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/00208523221119984
+journals.sagepub.com/home/ras
+
+Seth Kwakye Amofa
+University of Ghana Business School, Ghana
+
+Godfred Matthew Yaw Owusu
+University of Ghana Business School, Ghana
+
+Justice Nyigmah Bawole
+University of Ghana Business School, Ghana
+
+Moses Atta
+University of Ghana Business School, Ghana
+
+Abstract
+Ghana has experimented with two social protection programmes: the Livelihood
+Empowerment Against Poverty (LEAP) programme, and the Japan Social
+Development Fund (JSDF) pilot project aimed at reducing extreme poverty and enhancing the standard of living of beneﬁciaries. This study comparatively assessed how the
+LEAP programme and the JSDF-LEAP project have contributed to improving the standard of living of beneﬁciaries. A sample of 167 respondents, comprising 81 LEAP households, 82 JSDF-LEAP beneﬁciaries and four District Social Welfare Ofﬁcers took part in
+the study. The study ﬁndings suggest that cash transfers alone such as the LEAP programme may not yield signiﬁcant improvement in the standard of living of the extremely
+
+Corresponding author:
+Godfred Matthew Yaw Owusu, Department of Accounting, University of Ghana Business School, PO Box LG
+78, Legon-Accra, Ghana.
+Emails: gmowusu@gmail.com; gmyowusu@ug.edu.gh
+
+884
+
+International Review of Administrative Sciences 89(3)
+
+poor without complementary programmes such as the JSDF-LEAP project to address
+the livelihood and other socio-economic challenges that they encounter. The study
+recommends a holistic approach to tackling extreme poverty through ‘cash plus’
+programmes.
+Points for practitioners
+The ﬁndings of this study highlight the need for public administration practitioners
+involved in poverty eradication programmes to pursue a simultaneous design involving
+the implementation of both cash transfers and productive inclusion programmes as
+the preferred strategy for improving the standard of living of the extremely poor.
+Moreover, this research has also revealed that for social protection programmes to
+be successfully implemented, carefully designed systems and structures must be put in
+place at the national level, through the regional, district and community levels at the
+design and implementation phases of such interventions.
+Keywords
+cash plus programme, extreme poverty, Japan social development fund, LEAP, standard
+of living
+
+Introduction
+In recent years, there has been renewed global attention on extreme poverty owing to
+the epic proportions that it has assumed, and its biting effects on the livelihoods of
+households (Fosu, 2017). Currently, the global effort to address extreme poverty has
+been framed under the new Sustainable Development Goal 1, which aims at ending
+extreme poverty by 2030 (World Bank, 2017). Ghana has made attempts to address
+extreme poverty/poverty over the years with several initiatives aimed at providing
+some safety nets for the poor. In 2007, the National Social Protection Strategy
+was launched to serve as an umbrella under which all social protection (SP) initiatives in Ghana are placed. Through this strategy, in 2008 the Livelihood
+Empowerment Against Poverty (LEAP) programme was introduced as the SP ﬂagship programme in Ghana.
+The LEAP programme is a conditional cash transfer (CT) that provides bi-monthly
+cash grants to extremely poor households to help smooth the consumption of beneﬁciaries to enable them to engage in productive economic activities and invest in the human
+capital of their children, thereby breaking the intergenerational poverty cycle among
+the extremely poor in Ghana (LEAP Management Secretariat (LMS), 2018). With an
+initial coverage of 1654 beneﬁciaries in 21 districts, the programme now covers over
+334,023 households.
+The LEAP programme commenced with a ﬁnancing structure of 10% by the
+Government of Ghana (GoG) and 90% Donor support. Currently, Donor support has
+been reduced to 15% whilst the GoG provides of the 85% funding, aiming to provide
+
+Amofa et al.
+
+885
+
+100% funding by 2025 (LMS, 2019). The progamme has the LMS as its national headquarters under the Ministry of Gender, Children and Social Protection (MoGCSP) and is
+managed by consultants and civil servants. There are Regional and District Social
+Welfare ofﬁces within the local government system handled by civil servants and community focal persons at the community level.
+Since 2008, the programme has received research attention with most studies
+focusing on the effectiveness of the programme and its capacity to support beneﬁciaries’ exit from extreme poverty (Fosu, 2017). Other scholarly works have
+looked at the scope, challenges and sustainability of the programme (Aikins
+et al., 2017), the targeting approach and its effectiveness in reaching the very
+poor (Agbenyo et al., 2017; Sackey, 2019) and the extent to which the CTs have
+enhanced the livelihoods of the extremely poor (Agbaam and Dinbabo, 2014).
+The general narrative in these studies suggests that despite the challenges facing
+the programme, there has been some improvement in the livelihoods of beneﬁciaries
+as a result of the CTs.
+Notwithstanding the growth in coverage, the increasing funding support from
+successive governments of Ghana and the success chalked up so far, CTs alone
+are insufﬁcient to lift people out of extreme poverty. This argument is rooted in
+the philosophy that providing livelihood opportunities that will enable individuals
+to earn additional income is more sustainable than giving them cash grants alone
+(World Bank, 2018a). It is against this background that in 2015, the Government
+of Japan through the World Bank offered to support the cash plus initiative with a
+grant of US$2.7 million under the Japan Social Development Fund (JSDF). The
+GoG has since implemented the JSDF pilot project through the Ghana Social
+Opportunities Project, from which 1235 LEAP households beneﬁted. The project
+was executed in eight districts in the Upper East Region of Ghana from January
+2015 to August 2018.
+Beneﬁciaries of the JSDF-LEAP project must be a member of a LEAP household, selfselected and validated by the District JSDF-LEAP Team and the Community Based
+Team comprising the Chief’s representative, a women’s representative and a community
+opinion leader, all validated by eligible persons of the community. Only one person from
+a LEAP household can beneﬁt from the JSDF-LEAP project. Before the commencement
+of the project, feasibility and viability analyses were undertaken by the District Assembly
+JSDF-LEAP Team to identify potentially viable, culturally acceptable and proﬁtable
+business activities that beneﬁciaries could venture into to gain adequate and regular
+returns that would sustainably improve their livelihoods. Eventually, the project
+focused on ﬁnancing life skills and micro-enterprise training for the beneﬁciaries in
+Basket and Hat Weaving, Rice Parboiling, Guinea Fowl Rearing, Soap Making, Rope
+Making, Dry Season Farming, Shea Butter Extraction, Sheep/Goat Rearing, Pig
+Rearing, Groundnut Oil Extraction, Dawadawa Processing and Malt Processing. Upon
+completion of the training in all of the required modules and the formulation of a business
+plan, beneﬁciaries were provided with a start-up cash grant (a maximum of US$200 in
+cedi equivalents) to set up their micro-enterprises. To ensure the sustainability of these
+enterprises, a six-month handholding, coaching and mentoring support service was
+
+886
+
+International Review of Administrative Sciences 89(3)
+
+provided for the beneﬁciaries. Like the LEAP programme, the JSDF-LEAP project was
+implemented through the local government structure at the district and community level
+supervised by the District Assembly JSDF-LEAP Team, district project coordinators and
+community focal persons.
+Given that not all LEAP beneﬁciaries were included in the JSDF-LEAP project,
+this study assesses the impact of the two programmes on extreme poverty reduction.
+In particular, the study ascertains the differences in the two programmes in improving the living standards of beneﬁciaries while highlighting the challenges of both
+interventions. The study is very useful not only because it enhances the understanding and appreciation of the effectiveness of these programmes in curbing extreme
+poverty but also offers policy directions to improve the design and implementation
+of ‘cash plus’ programmes for the eradication of extreme poverty in Ghana and other
+African countries by 2030.
+
+Literature review
+The concept of extreme poverty
+According to the World Bank (2015), any household living on less than $1.90 a day or
+$715.4 a year (the newly established international poverty line based on the 2011 purchasing power parity) is extremely poor. Despite the usefulness of this approach in evaluating regional and global poverty levels (World Bank, 2018a), it is criticised as narrow,
+ignoring other aspects of human well-being. Extreme poverty, it is argued, is multidimensional, encompassing deprivations that people go through daily (UNDP, 2019). These
+deprivations, which go beyond economic factors, include social, political, cultural and
+even human rights (Sen, 2009; UNDP, 2019). Indeed, the Multidimensional Poverty
+Index, which broadens the discourse on extreme poverty, has become a useful complementary tool to income-based poverty measurement (UNDP, 2019; World Bank,
+2017). These complementarities create better opportunities for extreme poverty to be
+tackled head on by the international community through the design of robust pro-poor
+policies that work better for the extremely poor and are easy to implement through coordination and monitoring.
+In Ghana, the poverty line has been established at GHC2.17 ($0.362) a day or
+GHC792.05 ($132.01) a year, which is 27.1% of the mean consumption level in 2012/
+2013 (Ghana Statistical Service (GSS), 2016/2017). The GSS (2012/2013: 12) deﬁnes
+extreme poverty as ‘those whose standard of living is insufﬁcient to meet their basic nutritional requirements even if they devoted their entire consumption budget to food’.
+Extreme poverty and living standards in Ghana are assessed using the multidimensionality perspective (GSS, 2017). This study focused not only on the income perspective of
+extreme poverty and living standards but also on other important factors including the
+housing characteristics of beneﬁciaries, asset ownership, economic/business activities,
+skills acquisition, education, hunger and access to healthcare. These factors are relevant
+in understanding extreme poverty and the measurement of standards of living in Ghana,
+according to the GLSS 7 report.
+
+Amofa et al.
+
+887
+
+Theoretical framework: the ‘cash plus’ theory
+The study is underpinned by the ‘Cash Plus’ theory. This theory was birthed out of the
+criticisms and limitations of CTs alone as a poverty alleviation intervention. Despite
+the positive outcomes of CTs (Agbaam and Dinbabo, 2014), they have been deemed a
+piece-meal approach to tackling extreme poverty (Devereux and Sabates-Wheeler,
+2004; Roelen et al., 2017). Reducing extreme poverty should involve not only empowering the poor but also creating the necessary conditions to transform their desires into
+tangible outcomes (Shah, 2015). Complementing CTs with additional support programmes may be more effective and sustainable in realising the desired impacts of
+poverty reduction intervention than relying only on CTs (Devereux and
+Sabates-Wheeler, 2004). Cash alone may not transform the livelihoods of the poor
+since they are mostly unskilled and unable to take advantage of opportunities (Shah,
+2015). Devereux and Sabates-Wheeler (2004) argued that cash alone may not address
+issues of structural inequalities and barriers of inclusion for the extreme poor/poor to
+access services such as quality healthcare, schools and other services. ‘Cash plus’ programmes are gaining signiﬁcant traction globally as far as extreme poverty reduction
+is concerned.
+The ‘cash plus’ theory is relevant for this study because LEAP is a conditional CT programme that links beneﬁciary households to other complementary services such as the
+National Health Insurance Scheme (NHIS) to access free healthcare. The JSDF-LEAP
+intervention is a cash plus or productive and ﬁnancial inclusion project that complements
+the LEAP programme to enable beneﬁciaries to engage in productive economic activities
+to earn additional income to enhance their livelihoods.
+
+Empirical studies on the impact of the LEAP programme in Ghana
+Extant studies on the LEAP programme have examined its effectiveness and impact on
+beneﬁciaries (Bawelle, 2016), the scope and challenges of the programme (Aikins
+et al., 2017) and the targeting approach and its effectiveness (Agbenyo et al., 2017;
+Sackey, 2019). Other works have looked at the effect of the programme on household
+productive capacity and resilience, spillover effects on local economy, school enrolment
+and attendance, mental health and life satisfaction, and intimate partner violence
+(University of North Carolina & Institute of Statistical Social and Economic Research
+(ISSER), 2016). The common narrative has been some improvement in the livelihoods
+of beneﬁciaries as a result of the CTs. Owusu-Addo (2016) found that through the provision of CTs, the programme has contributed to improving child nutrition, education,
+healthcare utilisation, social transformation, and the emotional health and well-being
+of beneﬁciaries. Other studies (Alatinga et al., 2019; North Carolina and ISSER, 2016)
+also associate the LEAP with improved access to healthcare, improved food security
+and diet, and improved schooling and retention of children from beneﬁciary households.
+However, Handa et al. (2014, 2016) did not ﬁnd any signiﬁcant impact of the programme on the consumption and savings behaviour of the beneﬁciaries owing to the
+small size of the cash grant. Some studies have reported weaknesses of the programme,
+
+888
+
+International Review of Administrative Sciences 89(3)
+
+most of which derive from the implementation and targeting architecture (Peprah et al.,
+2017; Sulemana et al., 2018).
+
+Methodology
+Study design and approach
+The study adopted a mixed method approach to assess how the LEAP programme and
+JSDF-LEAP project have contributed to improving the standard of living of the beneﬁciaries. This method was adopted to give a comprehensive account of the contribution of
+the two programmes on the standard of living of the beneﬁciaries, and to leverage the
+inherent strengths of both qualitative and quantitative methods to enable the triangulation
+and validation of gathered data.
+
+Study context
+The study was undertaken in the Upper East Region of Ghana involving four districts,
+namely Bawku West, Talensi, Bongo and Builsa South. These districts were selected
+because they had both LEAP and JSDF-LEAP beneﬁciary households. Whilst the
+LEAP programme has a national coverage, the JSDF-LEAP project was implemented
+in only eight districts in the Upper East Region.
+
+Data and data collection procedures
+The study used both qualitative and quantitative data for analysis. Qualitative data was
+obtained through face-to-face interviews conducted with four District Social Welfare
+Ofﬁcers (DSWOs) from the four districts who played key roles in the implementation
+of the two programmes at the district level.
+A structured questionnaire was used to collect quantitative data from the beneﬁciaries.
+Questionnaires were administered to respondents at their homes after receiving ethical
+clearance from the LMS. For respondents who could not read, the questionnaires were
+administered by the researchers through face-to-face interactions. The questions were
+translated into a local dialect by an interpreter for the respondents to choose the appropriate responses. Field notes were taken based on observations, especially in relation to the
+housing characteristics of the beneﬁciaries.
+A total of 81 LEAP and 82 JSDF-LEAP beneﬁciaries from the four districts were
+sampled for the study. Participants’ consent and approval were sought before participating in the study, having assured them of conﬁdentiality and anonymity.
+Proﬁle of beneﬁciary households. Table 1 presents details of the demographic characteristics
+of the beneﬁciaries who participated in the study (see the Supplemental material section).
+In terms of educational level, 32% of the LEAP beneﬁciaries had secondary education as
+the highest educational level attained by a member of the household, 26% of households
+had junior secondary school/middle school as their highest level of education while 24%
+
+Amofa et al.
+
+889
+
+of the participants indicated the highest level of education attained in their household to be
+primary education. Eight respondents (10%) had some household members with a tertiary
+education qualiﬁcation. A similar trend was observed for the JSDF-LEAP beneﬁciaries.
+Considering family size, most of the households (68%) had between six and 10
+members, 19% had more than 10 but less than 20 members while the remaining households had between one and ﬁve members. For the JSDF-LEAP beneﬁciaries, 77% of
+the beneﬁciaries had between 6 and 10 household members, 13% had more than 10
+members while 10% had between one and ﬁve members in the household. Thus, most
+of the LEAP and JSDF-LEAP beneﬁciaries had more than ﬁve members in their households. The foregoing suggests that household heads have a lot of ﬁnancial responsibility
+considering the high number of dependents.
+
+Data analysis
+The qualitative data collected were carefully transcribed and emerging issues were
+grouped and categorised into relevant themes. To ensure reliability, two coders were
+used for the four interview transcripts. The use of multiple coders enhanced agreement
+on emerging themes and the credibility of the interpretation of these themes. Direct
+quotes from transcribed data were presented verbatim to corroborate the quantitative analysis. In addition, the quantitative data generated from the questionnaires administered
+were coded and processed using the Statistical Package for Social Sciences software
+version 21. Quantitative data were analysed using descriptive statistics and tests of differences to assess the relative impact of the two projects on the standard of living of
+beneﬁciaries.
+
+Discussion of results
+Housing characteristics of beneﬁciaries of the LEAP and JSDF-LEAP
+interventions
+The analysis shown in Table 2 suggests that the number of rooms for beneﬁciary households increased after both interventions. Concerning toilet facilities, most of the LEAP
+beneﬁciaries (57%) as well as JSDF-LEAP beneﬁciaries (55%) had no toilet facilities
+in their houses despite the intervention. Again, neither the LEAP alone nor the
+JSDF-LEAP project had signiﬁcantly improved the sources of lighting in beneﬁciary
+households. The majority of the beneﬁciaries on both programmes still relied on ﬂashlights as the main source of lighting in the households after the intervention. Close to
+90% of beneﬁciaries relied on ﬂashlights, kerosene lamps, candles and ﬁrewood while
+only 10% had access to electricity after the intervention. It was evident that after the
+JSDF-LEAP intervention, most of the beneﬁciaries still relied on cheaper lighting
+sources such as ﬂashlights, candles and ﬁrewood, with only 26% of households relying
+on electricity. Lastly, it is also observed from the analysis that both programmes had
+not improved the quality of drinking water for the beneﬁciary households. Most of
+the LEAP (88%) and JSDF-LEAP beneﬁciaries (89%) continued to rely on untreated
+
+890
+
+International Review of Administrative Sciences 89(3)
+
+water from free sources such as boreholes, wells, protected wells, spring, rivers and
+dugouts/ponds/lakes.
+The type of materials used in constructing beneﬁciaries’ houses was also used to ascertain improvements in their living standards. From Table 3, both programmes had not
+greatly improved the construction materials used for the building of the houses of the
+beneﬁciaries. The beneﬁciaries of both programmes continued to use mud as the main
+construction material for their outer walls. However, comparatively more beneﬁciaries
+of the JSDF-LEAP had changed the outer walls of their houses from mud to cement
+after the intervention. Indeed, the number of JSDF-LEAP beneﬁciaries that had
+changed the materials used for the outer walls of their houses increased from four households to 27 households after the intervention. Similarly, while most beneﬁciaries
+employed palm leaves, wood, mud, slate and asbestos to roof their houses before the
+intervention, the results demonstrate that most of the households (58% for LEAP and
+72% for JSDF-LEAP) were now using metal sheets, which are comparably more expensive than the other materials. Comparatively, more households under the JSDF-LEAP
+intervention used metal sheets for rooﬁng their houses after the intervention as compared
+with the LEAP households.
+On the construction materials used for the ﬂoor of the houses of beneﬁciaries, the
+study results revealed that before the intervention, 46% of LEAP households and 42%
+of JSDF-LEAP households had ﬂoors made from cement or concrete. After the intervention, only about 14% of LEAP and 10% of JSDF-LEAP beneﬁciaries had been able to
+change the ﬂoor materials of their houses to cement. This implies that both interventions
+had not greatly improved the materials used for the ﬂoors of the houses of the
+beneﬁciaries.
+
+Asset ownership of beneﬁciaries
+A key metric for measuring wealth in the location of the beneﬁciaries (the upper east
+region of Ghana) is the number of animals such as cattle, sheep, goats, poultry (especially
+guinea fowl) and pigs that a household possesses. By means of a paired sample test, we
+investigated the differences between the numbers of animals owned by households before
+and after the two interventions and results are presented in Table 4.
+Animal ownership. The mean difference of the number of cattle owned before and after the
+LEAP intervention is −0.12 (p-value of 0.09), indicating an increase in the number of
+cattle owned after the intervention. Similar results (mean = −0.12, p-value of 0.04)
+were recorded for the JSDF-LEAP beneﬁciaries. The number of sheep owned by both
+LEAP and JSDF-LEAP beneﬁciaries also increased after the intervention with mean differences of −0.49 for LEAP and −1.0 for JSDF-LEAP households. However, the rate of
+increase was higher among JSDF-LEAP beneﬁciaries as compared with the LEAP beneﬁciaries. As shown in Table 4, there was a signiﬁcant increase in the number of animals
+(cattle, sheep, goats, pigs and poultry/guinea fowl) owned by the beneﬁciaries on both
+programmes after the interventions. However, the JSDF-LEAP beneﬁciaries recorded a
+
+Amofa et al.
+
+891
+
+more signiﬁcant increase in the numbers of these animals than beneﬁciaries on the LEAP
+programme.
+Ownership of agricultural and other essential equipment. Agriculture is one of the major
+economic activities in the Upper East Region of Ghana, and the kind of equipment
+owned by a farmer is critical to the success of the farming activity and wealth creation.
+The study assessed the impact of the intervention on the acquisition of agricultural equipment and other essential equipment of the beneﬁciaries. From Table 5, most of the LEAP
+beneﬁciaries (62%) had other agricultural equipment (such as cutlass, hoes, etc.) before
+the LEAP intervention, 31% had no agricultural equipment whilst 7% owned animaldrawn equipment. After the intervention, the results show that most of the respondents
+(61%) still relied on other equipment such as cutlasses and hoes, 20% had no equipment,
+19% owned animal-drawn equipment and only one beneﬁciary owned a plough. With
+regards to the JSDF-LEAP beneﬁciaries, most of them (50%) had no agricultural equipment before the intervention and only one household owned animal-drawn equipment
+and a spraying machine. After the intervention, the evidence shows that there had been
+an improvement since all beneﬁciaries now owned various forms of agricultural equipment: 66% owned other equipment, 22% owned animal-drawn equipment, 10% owned
+a trailer/cart and 2.4% owned a spraying machine.
+Again, before the LEAP, 42% of beneﬁciaries had no essential equipment, 31%
+owned bicycles, 22% owned mobile phones, 2.5% owned a motorcycle and 2.5% had
+fans. However, after the LEAP intervention, most of the beneﬁciaries (43%) owned
+mobile phones, 36% owned bicycles and 5% of the respondents owned motorcycles
+and fans, whilst 9% still had no essential equipment. For the JSDF-LEAP beneﬁciaries,
+most of them (42%) had no essential equipment before the intervention but this reduced
+to 12% after the intervention, while the number of beneﬁciaries who owned bicycles
+increased from 28 to 43% after the programme. A similar trend was observed for the
+other essentials (mobile phones and motorcycles) after the intervention. The foregoing
+results reveal that both interventions had improved the ability of beneﬁciaries to own
+agricultural equipment and other essential equipment. However, the JSDF-LEAP intervention had contributed more in terms of ownership of agricultural equipment by beneﬁciary households than the LEAP with all beneﬁciaries owning some form of agricultural
+equipment.
+
+Economic/business activities of the LEAP and the JSDF-LEAP
+beneﬁciaries
+As shown in Table 6, a greater number of the LEAP beneﬁciaries (54%) were involved in
+farming whilst 14% were not engaged in any economic activity. The remaining beneﬁciaries were involved in other forms of business activities such as trading (12%), shea
+butter production (6%), animal rearing (5%), malt processing (3%), rice parboiling
+(1%) and other forms of business (5%). The majority of the beneﬁciaries (78%),
+however, did not start their business activities through the LEAP support. The few
+
+892
+
+International Review of Administrative Sciences 89(3)
+
+beneﬁciaries (22%) who did were engaged in farming, table-top trading and shea butter
+production. The JSDF-LEAP programme had greatly contributed to beneﬁciaries
+engaging in various economic or business activities with 82% of households starting
+their business activities through the intervention. Most of the beneﬁciaries were
+engaged in farming (45%), 13% were involved shea butter production and other forms
+of business activities, 10% were engaged in animal rearing, 9% were engaged in malt processing, 6% were into rice parboiling and the remaining 4% representing were not
+engaged in any business activity. The DSWOs also indicated that the LEAP and
+JSDF-LEAP interventions had brought much improvement in the rural agricultural activities of beneﬁciaries. They highlighted that as a result of the start-up grant, beneﬁciaries
+were able to acquire some farming inputs, which increased their yield. This is the account
+of a DSWO from Bongo District:
+I know a beneﬁciary of the JSDF-LEAP intervention who before the support had half a
+hectare of land cultivated through household labour and harvested 2–3 bags of maize.
+However, after beneﬁtting from the intervention, he was able to pay for tractor services of
+ﬁve hectares of land, procure seeds, weedicides and pay the farm workers. He harvested
+about 26 bags of maize last year. He kept 5 bags for his family and sold the rest to
+further expand his farm this year.
+
+It can be concluded that the start-up grant from the JSDF-LEAP had helped
+improve agricultural activities of beneﬁciaries, which corroborates results by Miller
+et al. (2011) from a similar intervention in Malawi. This ﬁnding in part can be attributed to the training component of the JSDF-LEAP intervention that helps beneﬁciaries to acquire improved farming practices and better application of chemicals to
+enhance and expand their economic activity. Again, the vocational and business management skills acquisition and development under the JSDF-LEAP enabled beneﬁciaries to start their own businesses with the start-up cash grant provided. As
+shown in Table 6, JSDF-LEAP beneﬁciaries’ data show that about 70.7% responded
+that they had gained some vocational and business management skills, unlike the
+LEAP programme, which had 92.6% of beneﬁciaries not having gained any skill
+set since they had started receiving the LEAP cash grant. This suggests that the
+LEAP programme has not enhanced skills acquisition of beneﬁciaries as compared
+with the JSDF-LEAP project. This is not surprising because the LEAP cash grant
+is meant to help beneﬁciaries smooth their consumption compared with the
+JSDF-LEAP, which has a skills development component that provides life skills,
+micro-enterprise training and coaching to beneﬁciaries (World Bank, 2018b).
+
+Income and savings of the LEAP and the JSDF-LEAP
+beneﬁciaries
+The assessment also focused on sources of income of the respondents and ascertained
+whether both interventions had contributed to improving the income and savings
+culture of the beneﬁciaries. As the results show, 58% of LEAP beneﬁciaries earned an
+
+Amofa et al.
+
+893
+
+average monthly income of 10–49 cedis (less than $10), as close to 73% did not earn any
+extra income apart from the cash received from the LEAP programme. In contrast, a good
+number of the JSDF-LEAP beneﬁciaries (44%) earned between 50 and 99 cedis a month
+($10–20) while 68% were unable to gain additional income from other sources. Relating
+the level of income to the extreme poverty line of GHC2.17 ($0.362) a day, only 28% of
+the LEAP beneﬁciaries as compared with 60% of the JSDF-LEAP beneﬁciaries earned
+income above the extreme poverty line. Thus, most of the JSDF-LEAP beneﬁciaries
+were above the extreme poverty bracket, an indication that the programme is impacting
+positively on the living standards of the beneﬁciaries. This is expected given that more of
+the JSDF-LEAP beneﬁciaries are able to generate additional income from other activities
+linked with the skills they acquired from the training programmes.
+In terms of savings, all of the households but one of the JSDF-LEAP beneﬁciaries
+indicated that they were able to save out of their present income with 90% of them
+being part of village savings and loans programmes (VSLA). In contrast, 54% of
+LEAP beneﬁciaries indicated that they could save out of their present income while
+51% had signed onto the VSLA scheme. The signiﬁcant difference between the
+LEAP and the JSDF-LEAP project in part has been attributed to the micro-enterprise
+skills training and start-up capital as well as the ﬁnancial literacy training given to the
+JSDF-LEAP beneﬁciaries. The complementary programme of training on microenterprise and business management skills in addition to the start-up cash grant
+scheme has been shown to enhance the savings and investment culture of beneﬁciaries. This is the account of a DSWO at Talensi:
+As part of the JSDF-LEAP intervention we educate the beneﬁciaries to try and save part of
+their income for reinvestments. So some of them are able to save and reinvest in their businesses such as rearing of poultry, sheep and goats, which they couldn’t when the intervention
+was not available to them. The start-up grant has really helped in savings and investment for
+the beneﬁciaries.
+
+Access to healthcare by the LEAP and JSDF-LEAP beneﬁciaries
+The study assessed the impact of the two programmes on access to health insurance
+cover. As shown in Figure 1, 65% of LEAP beneﬁciaries indicated that between 6 and
+10 household members had been registered with the NHIS and 17% households had
+one to ﬁve members with valid health insurance cards whilst 16% had more than 10
+members with active national health insurance cards. For JSDF-LEAP beneﬁciaries,
+74% of households had between six and 10 members with valid health insurance
+cards, 13% had one to ﬁve members of their households with active health insurance
+cards and 12% responded as having more than 10 members with valid cards. This
+implies that both interventions had improved access to healthcare for beneﬁciaries.
+The LEAP allows beneﬁciaries to be automatically enrolled onto the NHIS without
+paying for registration fees and renewal charges. As a result, members of beneﬁciary
+households can access healthcare in the various health facilities. This ﬁnding is consistent
+with the evidence provided by other extant studies (Owusu-Addo, 2016; Roelen et al.,
+
+894
+
+International Review of Administrative Sciences 89(3)
+
+2017) that concluded that the LEAP had helped improve the frequency of beneﬁciaries
+utilising healthcare facilities.
+
+Education and reduction of hunger among LEAP
+and JSDF-LEAP beneﬁciaries
+Our analysis also suggests the two interventions have improved the school enrolment of
+children in beneﬁciary households, particularly among JSDF-LEAP beneﬁciaries. As
+illustrated by Figure 2, about 98% of LEAP beneﬁciaries have their children of schoolgoing age enrolled in schools, while all children in the JSDF-LEAP households attend
+school. The DWSOs revealed that the LEAP and the JSDF-LEAP interventions have
+
+Figure 1. Household members with a valid national health insurance card.
+
+Figure 2. Number of children in school.
+
+Amofa et al.
+
+895
+
+contributed signiﬁcantly to improving the enrolment, attendance and retention of children
+of school-going age from these households, with JSDF-LEAP beneﬁciaries having more
+children in school. They indicated that an important condition for the LEAP beneﬁciaries
+is that adults in these households must ensure that the children of school-going age attend
+school. Similarly, the training, coaching and capacity development for JSDF-LEAP beneﬁciaries is believed to have enhanced the awareness level of the beneﬁciaries on the
+importance of education in breaking the intergenerational poverty cycle. A DSWO
+from Bawku West District had this to say:
+The start-up grants from the JSDF-LEAP have helped most of the beneﬁciaries to take care
+of their children’s education. As a result, most of the children are in school. They are able to
+buy their books, uniforms, and pay other school expenses. The expectation is that the children will get good jobs after school and take care of the parents.
+
+This view is consistent with ﬁndings from Handa et al. (2014), Owusu-Addo (2016)
+and García and Saavedra (2017), who highlighted the important contribution of cash
+grants in enhancing access to basic and secondary school education for children from
+beneﬁciary households in developing countries. Bastagli et al. (2016), however, identiﬁed that whilst CTs enhanced school attendance, they had little effect on learning outcomes. Rath and Wadhwa (2017) also found that girls dropped out of school despite
+the provision of CTs. It is therefore imperative for CTs to be linked to other services
+that will promote effective learning outcomes for children of beneﬁciaries.
+The study also identiﬁed the reduction in hunger among the beneﬁciaries, which
+encouraged the enrolment of children from beneﬁciary households in schools.
+DSWOs stated that the LEAP and JSDF-LEAP interventions had helped reduce
+hunger among beneﬁciary households as parents now earned additional income
+through the bi-monthly transfers or the economic activities they engaged in, which
+give them the capacity to provide food for their children both at home and when
+going to school.
+
+Challenges of the LEAP intervention
+Signiﬁcant amongst the challenges highlighted by both the LEAP beneﬁciaries and the
+DSWOs was the insufﬁciency of the cash grant. About 95% of the LEAP beneﬁciaries
+indicated that the bi-monthly cash grant they received was insufﬁcient to meet their
+food consumption needs. The DSWOs argued that the inadequacy of the grant amount
+makes it impossible for the beneﬁciaries to engage in any productive economic activity
+to help them exit extreme poverty. Currently, the programme offers a bi-monthly cash
+grant of GHC64 ($10.67) to a single member household. This is woefully inadequate,
+especially if it is related to the extreme poverty line of GHC2.17 ($0.36) a day in
+Ghana. Again, the GHC1.20 ($0.20) per day given to the LEAP beneﬁciaries was determined in 2015 and has not been adjusted upwards despite inﬂationary pressures. This has
+reduced the grant size from 20% of the households’ consumption, being international best
+practice, to below 16.2% (LMS, 2019).
+
+896
+
+International Review of Administrative Sciences 89(3)
+
+Also, the DSWOs expressed concern over lack of re-assessment of all of the current
+LEAP beneﬁciaries to determine whether their standard of living had improved to warrant
+their exit and pave way the for other extremely poor people outside the programme to be
+enrolled. According to the DSWOs, the pressure from other extremely poor households
+not yet enrolled is becoming unbearable recognising that, relatively, some of the LEAP
+beneﬁciaries are becoming better off than them.
+Again, the DSWOs stressed the lack of legislative instruments to protect and determine funding sources for SP interventions in Ghana as a challenge. Successive governments have demonstrated the political will and ensured the expansion, coverage and
+funding allocation to the LEAP and other SP interventions; however the delay in
+laying the SP Bill before the Parliament of Ghana exposes these programmes and their
+beneﬁciaries to ﬁat decisions of government.
+
+Challenges of the JSDF-LEAP intervention
+Some implementation challenges were identiﬁed. First, the lack of in-depth market
+research on the size, location, pattern and channel to market for the produce/product of
+the beneﬁciaries has seriously affected their income and business growth. The DSWOs
+revealed that they thought that the project had prepared a ready market for them.
+Unfortunately, it turned out not to be the case. A DSWO from Builsa South recounted:
+The JSDF-LEAP intervention enabled beneﬁciaries to start or expand their business in crop
+farming, animal rearing, malt processing, and shea butter production but the lack of ready
+market for their produce/products is affecting their sales, income and passion to grow
+their business.
+
+Secondly, the District teams headed by the DSWOs supervised the implementation
+of both the LEAP and the JSDF-LEAP interventions. However, in the case of the
+JSDF-LEAP intervention, temporal District Project Coordinators were recruited as
+ﬁeld ofﬁcers linking the beneﬁciaries. This arrangement created unnecessary
+tension and affected knowledge sharing among District teams. Unfortunately, at the
+terminal end of the project, the temporal District Project Coordinators were laid
+off. The critical handholding and coaching support services they provided for beneﬁciaries to help them manage and grow their micro-enterprises were no longer available. The gap impacted negatively on the businesses of the beneﬁciaries with some
+sinking back into the same situation that they were in prior to the introduction of
+the project.
+Again, the placement of the LEAP and the JSDF-LEAP interventions under the
+MoGCSP and MoLGRD, respectively, impeded effective coordination and successful
+implementation of these programmes. According to the DSWOs, it took extensive time
+for MoGCSP to give approval for LMS to release the LEAP beneﬁciary database to
+the MoLGRD for onward delivery to the Ghana Social Opportunities Project
+Secretariat, where the JSDF-LEAP project was located. The chain of command was
+sometimes conﬂicting, information ﬂow was a challenge and turf wars were common.
+
+Amofa et al.
+
+897
+
+These infractions affected the smooth operations of the district implementation teams
+working on the two programmes.
+
+Conclusion
+The study has demonstrated the importance of ‘cash plus’ programmes in addressing
+extreme poverty in developing countries such as Ghana. This was evident in the study
+results, which suggest that the JSDF-LEAP intervention has signiﬁcantly improved the
+standard of living of beneﬁciaries as compared with the LEAP programme in terms of
+asset ownership and economic/business activities such as agriculture as well as skills
+acquisition, income, savings, education, reduction in hunger and access to healthcare.
+However, neither intervention had contributed signiﬁcantly to improving the housing
+characteristics of beneﬁciaries’ in relation to the construction materials used for the
+outer walls of their houses, lighting and access to safe drinking water. Cash transfers
+alone, such as the LEAP, may not yield signiﬁcant improvements in the standard of
+living of the extremely poor without complementary programmes such as the
+JSDF-LEAP project to address the livelihood problems and other socio-economic challenges that the poor encounter.
+
+Policy recommendations
+Our ﬁndings suggest that eradicating extreme poverty using ‘cash plus’ programmes can
+be more feasible than relying on only CTs. This reafﬁrms the World Bank implementation completion and results report (2018a, 2018b) which assessed the JSDF implementation as satisfactory with an overall score of 70%. Based on this assessment, it is
+recommended that the GoG should allocate US$87.4 million for three years for the
+LEAP programme (US$4.9 million for each bi-monthly cash payment, which is
+carried out six times in a year) as well as assigning concurrently US$73.5 million for
+the JSDF-LEAP project for the same number of years (US$200 per each household of
+334,023 LEAP beneﬁciary households plus a maximum 10% implementation cost).
+This would enable at least 233,816 (70%) of current LEAP beneﬁciary households or
+1 million individuals to move out of extreme poverty within three years, ceteris
+paribus. It would reduce the number of extremely poor in Ghana from 2.4 million or
+558,140 households to 1.4 million or 323,640 households within three years. With this
+trajectory, Ghana would successfully eradicate extreme poverty among its people by
+2030.
+Secondly, we recommend that SP programmes such as the LEAP and the JSDF-LEAP
+interventions must always be protected by law with statutory funding sources clearly
+deﬁned and implementation structures well laid out to protect the programmes, ofﬁcials
+managing such interventions and the beneﬁciaries from political inﬂuences and manipulations, so that the purposes of these programmes can be fully realised.
+Thirdly, rolling out two complementary SP interventions such as the LEAP programme and the JSDF-LEAP project through two government ministries can easily
+trigger non-cooperation and turf wars. Such complementary programmes must be
+
+898
+
+International Review of Administrative Sciences 89(3)
+
+placed under one Ministry to ensure easy coordination, promote effective information
+sharing and avoid turf wars for the beneﬁts of the beneﬁciaries.
+Also, as part of the project design such as the JSDF-LEAP, it is recommended that
+broader and in-depth market research be undertaken to determine the size, location and
+channels to market, to guide the selection of micro-enterprises and product ranges that
+beneﬁciaries can choose from prior to the implementation of ‘cash plus’ projects.
+Again, micro-enterprise training and coaching for beneﬁciaries should not terminate
+when the ‘cash plus’ projects terminally close. Structures must be instituted to retain
+and adequately resource project coordinators to continually support the beneﬁciaries. It
+may take over three years to groom micro-enterprise owners operating in remote
+corners of Africa to adapt to competitive market environments and survive.
+Cash transfers constitute the foundation of ‘cash plus’ programmes and for such a
+structure to work, the grant should constantly be adjusted upwards to at least 20% of
+the daily consumption level of the households in line with international best practices.
+An introduction of inﬂation mitigation variable into the formula used for the calculation
+of the grant will prevent the depreciation of the amount paid to the beneﬁciaries.
+Declaration of conﬂicting interests
+The authors declared no potential conﬂicts of interest with respect to the research, authorship, and/
+or publication of this article.
+
+Funding
+The authors received no ﬁnancial support for the research, authorship, and/or publication of this
+article.
+
+ORCID iD
+Godfred Matthew Yaw Owusu
+
+https://orcid.org/0000-0003-3495-434X
+
+Supplemental material
+Supplemental material for this article is available online.
+
+References
+Agbaam C and Dinbabo MF (2014) Social grants and poverty reduction at the household level:
+Empirical evidence from Ghana. Journal of Social Science 39(3): 293–302.
+Agbenyo F, Galaa SZ and Abiiro GA (2017) Challenges of the targeting approach to social protection: An assessment of the Ghana livelihood empowerment against poverty programme in the
+Wa municipality of Ghana. Ghana Journal of Development Studies 14(1): 19–38.
+Aikins ADG, Alidu S and Bortei DE (2017) The scope and limits of Ghana’s livelihood empowerment against poverty programme. In: Awortwi N and Aiyede ER (eds) Politics, Public Policy
+and Social Protection in Africa: Evidence from Cash Transfer Programmes. Abingdon:
+Routledge, 45–63.
+
+Amofa et al.
+
+899
+
+Alatinga KA, Daniel M and Bayor I (2019) Community experiences with cash transfers in relation
+to ﬁve SDGs: Exploring evidence from Ghana’s livelihood empowerment against poverty
+(LEAP) programme. Forum for Development Studies 47(1): 89–112.
+Bastagli F, Hagen-Zanker J and Harman L, et al. (2016) Cash Transfers: What Does the Evidence
+Say. A Rigorous Review of Programme Impact and the Role of Design and Implementation
+Features. London: ODI, 1(7).
+Bawelle EBG (2016) Impact of livelihood empowerment against poverty programme in Ghana:
+The case of Wa West district. International Journal of Social Science Research 4(2): 24–43.
+Devereux S and Sabates-Wheeler R (2004) Transformative social protection. Institute of
+Development Studies Working Paper 232. Brighton.
+Fosu AK (2017) Growth, inequality, and poverty reduction in developing countries: Recent global
+evidence. Research in Economics 71(2): 306–336.
+García S and Saavedra JE (2017) Educational impacts and cost-effectiveness of conditional cash
+transfer programs in developing countries: A meta-analysis. Review of Educational Research
+87(5): 921–965.
+Ghana Statistical Service (2012/2013) Ghana Living Standards Survey 6 (GLSS 6).
+Ghana Statistical Service (2016/2017) Ghana Living Standards Survey 7 (GLSS 7).
+Handa S, Park M, Darko RO, et al. (2014) Livelihood Empowerment Against Poverty Program
+Impact Evaluation, Grantee Final Report. New Delhi: International Initiative for Impact
+Evaluation (3ie).
+Handa S, Natali L, Seidenfeld D, et al. (2016) Can unconditional cash transfers lead to sustainable
+poverty reduction? Evidence from two government-led programmes in Zambia. Innocenti
+Working Paper 2016-21. Florence: UNICEF Ofﬁce of Research.
+LEAP Management Secretariat (2018, 2019) Livelihood Empowerment Against Poverty (LEAP).
+Available from: https://leap.mogcsp.gov.gh/management/
+Miller C, Tsoka M and Reichart K (2011) The impact of the social cash transfer scheme on food
+security in Malawi. Food Policy 36(2): 230–238.
+Owusu-Addo E (2016) Perceived impact of Ghana’s conditional cash transfer on child health.
+Health Promotion International 31(1): 33–43.
+Peprah P, Kyiyaga EM, Afful H, et al. (2017) Does the Ghanaian livelihood empowerment against
+poverty programme lead to an increase in household productive livelihood assets? Analysing the
+Ashanti scenario. Cogent Social Sciences 3(1): 1–12.
+Rath S and Wadhwa S (2017) Why some girls drop out of secondary school despite conditional
+cash transfers: A mixed method analysis. Journal of Development Policy and Practice 2(2):
+163–194.
+Roelen K, Devereux S, Abdulai A-G, et al. (2017) How to make ‘cash plus’ work: Linking cash
+transfers to services and sectors. Innocenti Working Paper 2017-10. UNICEF Ofﬁce of
+Research, Florence.
+Sackey PK (2019) Ghana’s Livelihood Empowerment Against Poverty (LEAP) programme is
+leaking: Irregularities watering down the impact of the ﬂagship LEAP programme. Cogent
+Social Sciences.
+Sen AK (2009) The Idea of Justice. Cambridge, MA: Belknap Press of Harvard University Press.
+Shah M (2015) Cash transfers, the lazy short cut. Available from: https://www.thehindu.com/
+opinion/op-ed/cash-transfers-the-lazy-short-cut/article6785728.ece
+Sulemana M, Malongza BFI and Abdulai M (2018) Assessment of the livelihood empowerment
+against poverty programme in Karaga district, Ghana. Development in Practice 29(4): 437–447.
+UNDP (2019) Global multidimensional poverty index 2019: Illuminating inequalities. Available
+from: https://ophi.org.uk/wp-content/uploads/G-MPI_Report_2019_PDF.pd
+
+900
+
+International Review of Administrative Sciences 89(3)
+
+University of North Carolina & ISSER (2016) Endline impact assessment of the LEAP programme
+on beneﬁciaries. Available from: https://transfer.cpc.unc.edu/wp-content/uploads/2021/04/LEAP_
+Endline-Report.pdf
+World Bank (2015) Global index of shared prosperity. Dataset. World Bank.
+World Bank (2017) Poverty and shared prosperity: Piecing together the poverty puzzle. World
+Bank.
+World Bank (2018a) Ghana Productive Safety Net. Project appraisal document. Social Protection
+and Labour Global Practice, Africa Region. World Bank.
+World Bank (2018b) Implementation completion and results report: Support rural income generation of the poorest in the Upper East Region Project. Social Protection and Jobs Global
+Practice, Africa Region. World Bank.
+
+Mr Seth Kwakye Amofa is a holder of a BA (Hons) Degree in Economics, an MBA
+Degree (marketing option), an MA Degree in International Affairs and an MPA
+Degree. Seth has expertise in leveraging private sector systems, capabilities and clout
+to promote environmental sustainability, deepen social protection to enhance inclusiveness, reduce poverty and vulnerability, improve business environment for private
+sector growth, enhance private–public sector collaboration to maximise output, and
+promote corporate governance and accountability through digitisation.
+Godfred Matthew Yaw Owusu (PhD) is an Associate Professor of Accounting and a
+researcher with the Department of Accounting, University of Ghana Business School.
+He is an active researcher who specialises in the use of structural equation modelling
+techniques and panel data analysis in accounting and ﬁnance studies. He holds a PhD
+in Accounting from Putra Business School, Universiti Putra Malaysia, an MPhil in
+Accounting and a BSc in Administration (Accounting option) from University of Ghana.
+Justice Nyigmah Bawole (PhD) is a Professor in the Department for Public
+Administration and Health Services Management, and Dean of the University of
+Ghana Business School, Legon. Professor Bawole obtained a PhD in Development
+Policy and Management from the Global Development Institute University of
+Manchester. He holds MPhil and BSc Administration (Public Administration Major)
+degrees from the University of Ghana Business School. His research interests cover
+public policy, poverty reduction, climate change and sustainability.
+Mr Moses Atta holds a BA (Hons) Degree in Political Science and an MPhil Degree in
+Public Administration. He has in-depth knowledge and analytical skills in both research
+and policy analysis. His research interests are performance management, public ﬁnancial
+management, environmental sustainability, poverty and social protection.
+
+

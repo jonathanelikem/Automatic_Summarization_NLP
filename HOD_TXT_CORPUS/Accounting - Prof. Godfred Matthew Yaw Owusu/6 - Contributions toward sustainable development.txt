@@ -1,0 +1,2142 @@
+Environmental Science and Pollution Research (2023) 30:104–126
+https://doi.org/10.1007/s11356-022-24010-8
+
+REVIEW ARTICLE
+
+Contributions toward sustainable development: a bibliometric
+analysis of sustainability reporting research
+Nana Adwoa Anokye Effah1 · Qinggang Wang1 · Godfred Matthew Yaw Owusu2 · Octavia Ama Serwaa Otchere2 ·
+Bright Owusu2
+Received: 7 May 2022 / Accepted: 31 October 2022 / Published online: 15 November 2022
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+
+Abstract
+The study determines the development of the sustainability reporting domain using a dataset of publications extracted from
+the Web of Science (WoS) core database and visualized with CiteSpace. This paper employs a bibliometric approach to
+review extant studies to present and describe the publication patterns from 2004 to 2021. The top 3 contributing journals
+are the Journal of Cleaner Production, Sustainability, and Accounting, Auditing, and Accountability Journal, whereas the
+author network depicts a low collaboration among authors. Many authors have autonomously conducted their research, and
+the regional contributions to the research domain have been uneven. The paper accentuates the need to bridge the uneven
+institutional and regional contributions toward the sustainability reporting domain, so more light is shed on environmental
+sustainability across regions through firm and institutional levels. The results will trigger the need for future studies and
+actions needed to improve reporting quality through extensive social, environmental, and governance disclosures.
+Keywords Sustainability reporting · Sustainable development · Bibliometric analysis · SDGs · CSR · Citations
+
+Introduction
+The growing importance of a sustainable environment has
+attracted the accounting standard boards’ attention to
+increase financial reporting quality. In a speech delivered by
+the chair of the International Accounting Standards Board
+(IASB), addressing delegates of the Chartered Institute of
+Management Accountants (CIMA) and the American Institute of Certified Public Accountants (AICPA) in December
+2021, he reemphasised the crucial role of sustainability in
+their daily operations. As a matter of interest, he spoke about
+creating the International Sustainability Standards Board
+(ISSB), which was publicized and embraced by over 40
+Responsible Editor: Philippe Garrigues
+* Nana Adwoa Anokye Effah
+effahnanaadwoa@gmail.com
+* Qinggang Wang
+kjxywqg1125@126.com
+1
+
+School of Accounting, Zhongnan University of Economics
+and Law, Wuhan, Hubei, China
+
+2
+
+Department of Accounting, University of Ghana, Legon,
+Accra, Ghana
+
+13
+
+jurisdictions, including the USA, at the Conference of Parties (COP26) climate conference. Given emerging climate
+change issues, the ISSB would be responsible for establishing an all-inclusive global baseline of investor-based sustainability-related disclosure standards for markets. However,
+jurisdictions would be required to decide on how to incorporate those global standards into their requirements as there
+are no specifications for jurisdictions to use the International
+Financial Reporting Standards (IFRS).1 With a global initiative of “Transforming our world: The 2030 agenda for sustainable development” to promote sustainable development
+to prevent compromising the needs of future generations,
+193 United Nations member states adopted the Sustainable
+Development Goals (SDGs) in 2015 to protect the planet
+while ensuring prosperity for all. Accordingly, the goals “are
+integrated and indivisible and balance the three dimensions
+of Sustainable Development (SD): the economic, social and
+environmental” (UN 2015), that is, contributions toward
+economic growth while valuing the rights of people and protecting the environment via the implementation of riskreducing strategies. Given that the agenda has heightened
+issues of ending all forms of inequalities and poverty and
+1
+https://​www.​ifrs.​org/​news-​and-​events/​news/​2021/​12/​conne​ctivi​ty-​
+core-​work-​and-​conve​rgence/
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+tackling climate change threats, Sekarlangit & Wardhani
+(2021) aver that the SDGs would be realized if all societal
+entities join forces toward their attainment. They further
+highlight the pivotal role of private sectors and individual
+firms in attaining the SDG targets. Preferably, companies
+can contribute by implementing sustainable strategies,
+ensuring that their operations do not delay the agenda. Subsequently, strategy implementations are followed by periodic
+disclosures on the progress of the sustainable engagements
+in the company as they keenly contribute to the global movement. Because of this, the sustainability reporting domain
+has received much attention over the last decade (Burritt &
+Schaltegger, 2010; Mahmood et al. 2018; Pineda-Escobar
+2019; Tiwari & Khan 2020) as reporting on sustainability
+issues has become a common company practice. Moreover,
+the sustainability reporting domain remains broad and varied
+due to stakeholders’ pursuit for different economic, social,
+and environmental interests supported by the SDGs. As conventional accounting shifts organizational emphasis from
+the traditional profit-making viewpoint, the focus is currently on the overarching holistic triple bottom line (TBL)
+reporting on environmental, social, and economic issues or
+environmental, social, and governance (ESG) or isolated
+reporting on ecological issues (Hahn & Kühnen, 2013). At
+the same time, the voluntary nature of current sustainability
+practices has resulted in an influx of different terminologies
+signifying the various reporting practices of entities in previous literature. Many scholars have researched the trends and
+challenges of ESG reporting (Cucari et al. 2018; Husted &
+Sousa-Filho 2017; Muhmad et al. 2021; Weber 2013) the
+TBL (Gond et al. 2012; Hahn & Kühnen 2013; Hussain et al.
+2018; Tiwari & Khan 2020) as well as other essential environmental and social issues among firms (Chung & Cho
+2018; Mahmood et al. 2018; Reyes-Rodríguez et al. 2016).
+Sustainability reporting is a significant avenue for communicating management strategies to maintain a sustainable
+business environment and publishing reports to promote
+accounting and transparency. As a result, sustainability
+accounting has been linked to sustainability reporting. This
+is because it defines new accounting and information management methods that seek to provide high-quality information toward the global agenda, and reporting is needed to
+corroborate information concerning the progress of corporate sustainability (Schaltegger et al. 2006). However, irrespective of the various firm reports emanating from the several disclosure practices, they are geared toward harmonizing
+resources and adopting business practices that would contribute to a safe business environment. Additionally, regardless of the form of reporting companies take on, whether
+ESG, environmental, and social or sustainability reporting,
+these reports ought to offer relevant information on a firm’s
+performance in relation to all corporate sustainability
+achievements and challenges in addition to future viewpoints
+
+105
+
+(Schaltegger et al. 2006) that are valuable for the global
+move toward sustainable development. As the research
+advances, different findings have evolved, and it may be
+challenging to present an overview of the sustainability
+research domain. As such, a critical outlook of the sustainability research scope would be advantageous in unearthing
+the developments over time and the hotspots for future
+research. For the purpose of this research, TBL, ESG, and
+environmental reporting would all be referred to as sustainability reporting since they are all corporate reporting avenues toward sustainable development. Although a few
+reviews exist in the field (Ertz & Leblanc-Proulx 2018; Hahn
+& Kühnen 2013; Pasko et al. 2021), Hahn & Kühnen (2013)
+employed the systematic review process to review 178 articles to assess the determinants of sustainability reporting
+using a sample from 1999 to 2011. Ertz & Leblanc-Proulx
+(2018) also employed a bibliometric analysis to assess the
+collaborative research field of sustainability-related topics
+from 2010 to 2017, while Pasko et al. (2021) assessed articles from 1950 to 2019. While these reviews describe the
+state of the sustainability research domain, the unique choice
+of keywords, especially concerning the bibliometric analysis
+and the diverse findings of the studies, calls for broader and
+diversified reviews in this research area that would help create a concrete view of the domain. With the progressing
+outlook of the research domain, there may be substantial
+research papers and the origination of new branches in this
+diverse research area that might have been ignored in past
+reviews. Given the considerable advantages of bibliometric
+analysis that involves summarizing large volumes of data to
+report on the developments and emerging trends in a
+research field (Donthu et al. 2021), this study employs this
+method to review the extant literature on sustainability
+reporting. Since it is deemed an efficient methodology ideal
+for demonstrating the growing scope of a domain, this
+approach enables us to analyze previous literature qualitatively and quantitatively. Our review differs from the existing
+ones in several ways. To begin with, our review makes use
+of broader search criteria and covers a more recent period.
+Furthermore, we contribute to the dearth of bibliometric
+reviews in the sustainability domain through both performance and scientific mapping analysis. Thus, we comprehensively assess the intellectual, social, and conceptual
+structure of the sustainability reporting domain to provide
+scholars with an overview of the sustainability scope and
+examine the developmental stages over the last 18 years.
+Using data from the Web of Science (WoS) database and the
+CiteSpace software for visualization, our goals are to (i)
+assess the adequacy and excellence of the subject area
+through the identification of dominant authors, patterns, and
+performances of regions/countries or institutions; (ii) examine cooperations among institutions and countries that have
+massively been involved in sustainability reporting research
+
+13
+
+106
+
+to uncover the research progress between countries/regions;
+and (iii) to determine current hotspots in the subject area
+based on keyword analysis and citation cluster analysis
+which may impact and shed more light on the avenues for
+future research in the field. Specifically, the following
+research questions are addressed: (1) What is the growing
+trend in this research area? (2) Which journals, subject categories, institutions, and regions involved in sustainability
+reporting are dominant? (3) Who are the most influential
+authors on sustainability reporting? (4) What is the current
+research’s social (collaborative) and intellectual (citation and
+co-citation) structure? (5) What are the popular evolving
+themes in sustainability reporting research and areas that
+need further studies? The remaining sections of the paper
+are organized as follows: the “Overview of sustainability
+reporting research” section gives an overview of sustainability accounting and reporting research, while the “Methodology” section describes the methodology adopted for the
+study. The “Results” section outlines the results based on the
+subject areas, regional and authorship, and keyword analysis.
+The “Discussion and conclusion” section discusses the findings, the evolution of hot topics, and concludes with avenues
+for future research and the limitations.
+
+Overview of sustainability reporting research
+Climate change issues have heightened stakeholder interests in business operations as they demand transparency
+and accountability for firms’ social and ecological impacts
+via policy espousal and production activities. As Schaltegger & Csutora (2012) aver, climate change’s foremost causes
+and effects are linked directly to firms’ economic and social
+activities. For sustainable development to be globally evident,
+companies must upgrade their product and service systems to
+reduce ­CO2 emissions during business engagements. Similarly,
+Bose (2020) opines that due to growing investor interests in
+environmental and social disclosure, revising accounting and
+disclosure frameworks to trace non-financial performance
+measures while incorporating climate change-related issues is
+non-negotiable. Many scholars have ascertained firms’ motives
+for reporting and their general contributions to sustainable
+development, voluntary, and mandatory reporting on ESG in
+some jurisdictions, as well as the challenges of reporting and
+the influence of management on reporting mechanisms (Braam
+et al. 2016; Dienes et al. 2016; Lavin & Montecinos-Pearce
+2021; Mervelskemper & Streit 2016; Nicholls 2020; Rahman
+& Alsayegh 2021). Herzig & Schaltegger (2006) contend that
+many firms are motivated to engage in environmental and sustainability reporting because it increases corporate reputation
+and brand while maximizing accountability and transparency.
+Moreover, because comparing sustainability performance is
+usually difficult, sustainability reporting may signal stakeholders about the firm’s performance and make them gain
+
+13
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+a competitive advantage over those who do not engage in it
+(Herzig & Schaltegger 2006). Essentially, it aids in legitimizing corporate activities and services and increases the supply
+of vital resources. However, the benefits that firms derive from
+engaging in sustainability reporting depend on characteristics
+unique to the firm, industry, and market, as well as stakeholder
+intentions and management proclivity. Herzig & Schaltegger
+(2006) aver that ideally, a highly developed strategy for sustainability reporting strongly connected to accounting, strategic and information management is necessary to realize the
+possible advantages (Herzig & Schaltegger 2006). In Lavin
+& Montecinos-Pearce’s (2021) study on the effects of board
+heterogeneity on ESG disclosure, they report that ESG reporting is negatively affected amid interlocking directorates among
+controlling shareholders. Nicholls (2020) retorts that integrating environmental, financial, and social accounting would be
+undemanding if changes in public policies emerge through specific elucidations for investor motivations. In the Asian region,
+firms’ profitability, leverage, and size increased the disclosure
+of ESG information, congruent with the legitimacy theory
+that firms engage in ESG reporting to signify their continuous
+existence (Rahman & Alsayegh 2021). In the same vein, in
+establishing the importance of environmental performance and
+assurance to corporate environmental reporting, Braam et al.
+(2016) report that the disparities in environmental reporting
+are attributable to the level of greenhouse gas emissions, external assurance, and water consumption of companies. They also
+highlight the importance of legitimacy in the firms’ choice
+of environmental reporting strategies. Mervelskemper &
+Streit (2016) also assessed how capital market investors value
+ESG reporting and found that ESG reports are highly valued
+regardless of their integrative or stand-alone form. Dienes et al.
+(2016) evaluated the drivers of sustainability reporting and
+recorded firm size and media visibility as critical determinants
+of sustainability reporting. Additionally, they encouraged using
+more analytical, methodological approaches in the sustainability domain after observations that content analysis was among
+the prevailing methodological approaches aside from the few
+case studies and theoretical reviews.
+
+Methodology
+Data sources
+The study employs bibliometric analyses as a review method
+for answering the study’s research questions. As expounded
+by Afrane et al. (2021), the bibliometric analysis uses mathematical and statistical methods to discover and identify the
+characteristics and patterns of a document system based on
+articles in a research area. Similarly, Donthu et al. (2021)
+describe it as a review process that aims to summarize large
+data sets to report on the intellectual structure and emerging
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+trends in a research field. This study’s data was collected
+from the Web of Science (WoS) database, amassed by
+Thompson Reuters and maintained by Clarivate Analytics.
+The WoS is a broad database that offers scientific citation
+indexing and permits interdisciplinary searches within the
+main and subspecialty of an academic discipline. It further
+provides statistics on different document types, journals,
+disciplines, funding agencies, authors, and countries or
+regions of research. In this study, academic publications on
+sustainability reporting and accounting from 2004 to 2021
+were retrieved from the WoS core database using the Science
+Citation Index Expanded (SCI EXPANDED), Social Sciences Citation Index (SSCI), and the Arts and Humanities
+Citation Index (A&HCI) on February 4, 2022. By restricting
+the search to “topic,” the search term used were “sustainability accounting” or “sustainable reporting” or “sustainab*
+reporting” or “environmental accounting” or “environmental, social and governance” AND “financial reporting” or
+“reporting.” The search generated 1810, further refined to
+only articles written in English. This yielded a sample of
+1624 articles analyzed with the CiteSpace software.
+
+Bibliometric analysis using CiteSpace
+Among the visualization software that can be employed to
+visualize research patterns in scientific research, such as
+Pajek, Bibexcel, VOSviewer, UCINET, and Biblioshiny, CiteSpace is one of the popular and widely used software for
+visualization in bibliometric analysis (Chen 2020; Guo
+et al. 2020; Ye et al. 2020). Developed by Chaomei Chen,
+CiteSpace is an open-source Java application that seeks to
+answer questions about the significant researched areas in a
+discipline, the most active areas, and the dominant papers
+and authors in a research field (Chen 2014). Visualizations
+in CiteSpace are made up of nodes and links/edges. The
+nodes represent references, journals, articles, keywords,
+institutions, countries/regions, categories/fields, and links
+and represent the co-citation links or the co-occurrence of
+items (Chen 2016). The nodes have characteristics worth
+acknowledging; node sizes may determine the frequency of
+citations, amount of papers from country analysis, and the
+centrality (degree or betweenness) based on the degree of
+connections between two or more groups (Chen 2016). In
+this study, the centrality of nodes is measured to identify
+those that connect at least two groups of nodes. As Chen
+(2014) indicates, nodes with higher centrality are identified
+by the thick purple rings around the nodes in the network
+map. We analyze the influence of authors, institutions, and
+countries in the network map based on their frequencies and
+centralities. This paper assesses the general characteristics of
+sustainability reporting from 2004 to 2021 since there were
+no available documents from 2000 to 2003, as illustrated
+in Fig. 1. This range was selected to specifically determine
+
+107
+
+Search Category
+Data Source
+
+(Topic)
+
+(WoS)
+
+Duration
+(2000-2021)
+
+Search terms
+(“sustainability accounting” or
+“sustainable reporting” or
+“sustainab* reporting” or
+“environmental accounting” or
+“environmental, social and
+governance” AND “financial
+reporting” or “reporting”)
+
+Screening
+Document Type: (Selection of
+Articles against reviews,
+proceedings, book chapters
+etc,.)
+Language: (Documents in
+English)
+
+Inital Results
+(1,810 documents)
+
+Final Sample for
+analysis in CiteSpace
+(1,624 documents)
+to
+CiteSpace (2004-2021)
+
+Fig. 1  Flow chart of data employed for bibliometric analysis
+
+the growth of the domain in the last two decades, given the
+global agenda for a sustainable environment. Co-citation and
+collaboration analysis among authors, institutions, countries,
+or regions was then performed to determine the quantity
+and quality of research and identify the research advancement. CiteSpace was further employed by the mode of cluster analysis to detect the dominant research areas and timeline views of the sustainability and reporting research. The
+search strings employed in CiteSpace visualizations were
+time slicing (2004–2021), years per slice (1), linking retaining factor (3), look back years (8), node types (citation, keywords, institutions, cited journal, country), pruning (none/
+pathfinder and sliced network), link strength and scope
+(cosine & within slices), and selection criteria (N = 50).
+
+The measure of influence (H‑index and impact
+factor)
+The h-index is a measure of the visibility of a group of
+publications and citations (Egghe & Rousseau, 2006). As
+underscored by Hirsch (2005), it measures the collective
+impact and significance of a researcher’s scientific output
+in an impartial way. Since the h-index is obtained based on
+the number of publications with citations greater than h,
+authors, journals, and countries/regions can have h-indexes
+if h of their publications over a period have at least h citations each and the other publications below the h citations
+category have < or = h citations each (Hirsch, 2005). Guided
+by the importance of the h-index, this study employed it
+
+13
+
+108
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Fig. 2  Annual distribution of
+publications and citations
+
+Publications
+
+Citations
+
+350
+
+12000
+
+300
+
+10000
+
+200
+
+6000
+
+150
+
+4000
+
+100
+
+2021
+
+2020
+
+2019
+
+2018
+
+2017
+
+2015
+
+2016
+
+2014
+
+2013
+
+2012
+
+2011
+
+2010
+
+2009
+
+2008
+
+0
+2007
+
+0
+2006
+
+2000
+
+2005
+
+50
+
+Citations
+
+8000
+
+2004
+
+Publications
+
+250
+
+Publication Years
+
+together with the total citations of authors, journals and
+countries. Furthermore, a standardized indicator for measuring the impact and the relative importance of journals in a
+chosen field (impact factor-IF) was also employed from the
+Journal Citation Reports (JCR) 2020 edition. As described
+by Sharma et al. (2014), the IF measures the frequency by
+which an average article receives citations in a journal in a
+specific period. As an indicator that applies to journals only,
+journals with the high IF are those that published extremely
+cited articles over a 2-year period.
+
+the increment was consistent (2017 to 2020), contributing
+to more than 50% (51.60%) of the paper coverage in the
+study. The graph also shows the citations recorded over the
+sample period. Unlike the number of publications, citations
+increased throughout the period. The least was recorded in
+2004 (3) and the largest in 2021 (10,612), although fewer
+publications were in 2021 than in the preceding year. Overall, the 1624 documents have been cited 45,428 times, with
+an average citation per document estimated at 27.94.
+
+Results
+
+The 1624 articles from our keyword search in the WoS
+database were published in 463 journals. In Table 1, while
+the top 5 journals contained more than 50 articles each,
+the top 10 productive journals constituted 41.93% of the
+total sample. Additionally, the “Journal of Cleaner Production” and “Sustainability” contributed more than 8%
+each to the total number of papers, making them highly
+productive journals in terms of the number of articles on
+the subject matter. However, based on the h-index, the
+Journal of Cleaner Production ranked first, followed by
+the Journal of Business Ethics, while “Sustainability”
+ranked 7th. Although the “Journal of Business Ethics”
+had fewer publications, their citations were more than
+“Sustainability,” hence the reason for ranking 2nd based
+on the H-index. As anticipated, the h-index ranking of the
+journals and their citations were highly linked as “Journal
+of Cleaner Production” ranked 1st with the highest citations and “Meditari Accountancy Research” last with the
+least citations among the top 10. The journal IF differed
+as “Business Strategy and the Environment” preceded
+“Journal of Cleaner Production,” and “Corporate Social
+
+Growth in the research field over time
+Figure 2 illustrates the growth of sustainability reporting
+research from 2004 since the keyword search yielded no
+publications from 2000 to 2003. Although 2005 recorded
+the least publications (8) within the sample period, 2020
+recorded the most (298); after which, 2021 followed with
+278 articles. Additionally, the first 9 years (2004–2012)
+contributed only 13.85% to the total sample of articles used
+in the review. This shows the growth of the sustainability
+research domain in the last few years (2013–2021) and the
+originality of the diverse research classifications under the
+scope. Though sustainability reporting research thrived
+before the COVID-19 pandemic, the era of the outbreak
+sparked more studies in 2020, some of which were driven
+by scholars’ quest to determine whether a company’s ESG
+performance shielded socially responsible firms from the
+devastating impact of the pandemic (Demers et al. 2020).
+On the one hand, after the publication increase in 2015,
+
+13
+
+The output of journals
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+109
+
+Table 1  Top 10 productive journals
+Journal
+
+No. of articles
+
+Impact factor 2020
+
+Total citations
+
+H-index
+
+%
+
+Journal of Cleaner Production
+Sustainability
+Accounting Auditing & Accountability Journal
+Sustainability Accounting Management and policy Journal
+Business Strategy and the Environment
+Corporate Social Responsibility and Environmental management
+Journal of Business Ethics
+Meditari Accountancy Research
+Ecological Economics
+Ecological Modeling
+
+145
+132
+84
+61
+55
+51
+47
+45
+33
+28
+
+9.297
+3.251
+4.117
+3.354
+10.302
+8.741
+6.430
+5.389
+2.974
+
+7161
+1519
+3393
+648
+2557
+1765
+3081
+465
+2387
+908
+
+46
+20
+28
+14
+25
+21
+30
+11
+21
+16
+
+8.929
+8.128
+5.172
+3.756
+3.387
+3.140
+2.894
+2.771
+2.032
+1.724
+
+Fig. 3  Co-citation network of
+the most productive journals
+
+Responsibility and Environmental management” had a
+higher IF than “Sustainability” and “Accounting Auditing
+& Accountability Journal” despite their article coverage.
+This is driven by the nature of articles published by the
+journals, the value scholars attach to them, and their citation frequencies.
+
+Journal co‑citation
+Journal co-citation is crucial in ascertaining the intellectual
+structure and the relationship between two journals. This
+
+focuses on the co-citation relationship of two journals cited
+in a particular study, which in expanse determines the dominance and impact of the journal. It further aids in exploring
+the relationship among journals in a related field (Feng et al.
+2017). Figure 3 illustrates the network of the most dominant
+and productive journals with node centrality represented by
+the purple rings around the nodes. The network consists of
+260 nodes with 861 links with a density of 0.025, signifying
+a relatively robust network structure and linkage between
+journals. The threshold set resulted in the labeling of only
+journals that met it. As shown in the map, the top 3 journals
+
+13
+
+110
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Table 2  Top 10 dominant subject areas
+Subject categories
+
+Number of
+articles
+
+Percentage
+
+Environmental sciences
+Green sustainable science technology
+Environmental studies
+Business finance
+Management
+Business
+Engineering environmental
+Economics
+Ecology
+Ethics
+
+455
+436
+408
+399
+329
+275
+184
+127
+92
+53
+
+28.01
+26.85
+25.12
+24.57
+20.26
+16.93
+11.33
+7.82
+5.67
+3.26
+
+with the highest co-citations were “The Journal of Business
+Ethics” (807), “Journal of Cleaner Production” (774), and
+“Accounting Auditing Accounting journal” (700). However,
+the “Journal of Cleaner Production” had the highest centrality (0.30), followed by the Accounting Organisation and
+society (0.26) before the “Journal of Business Ethics” (0.17).
+These centrality scores show the importance of these journals in connecting the other nodes in the network.
+
+Ten most relevant subject areas
+The coverage of the sustainability research domain has widened, and 101 subjects covered the research scope. Table 2
+outlines ten dominant subject areas or categories, with the
+top 5 being Environmental sciences (28.01% of the sample),
+Green Sustainable Science Technology (26.85%), Environmental Studies (25.12%), Business Finance (24.57%), and
+Management (20.26%). Driven by the global contributions
+toward the fight for a sustainable environment (reducing the
+emission of harmful gasses, employing environmentally
+
+friendly business processes, and reporting on them), it is
+unsurprising that the top ten subject categories were classified under the environmental sciences, green sustainable
+technology, business management, and finance, considering the impact of businesses operations on society and the
+environment as a whole. It is, however, noteworthy that due
+to links between articles, most of them are classified under
+more than one category.
+
+Institutional, regional contributions,
+and cooperation analysis
+Table 3 shows the performance of the 10 top institutions
+based on authors’ affiliations. The overall sample indicates
+that authors are affiliated with 1574 institutions, but the
+number of publications from each institution in Table 3
+shows how dispersed the publications were. Each institution published more than 15 articles, constituting over 12%
+of the total sample. With a publication starting year later
+than the first five institutions, the University of South Australia still emerged first based on the number of published
+articles. Nonetheless, the University of London appeared first
+in terms of the number of citations received, followed by
+the State University System of Florida, deemed the secondlargest university system in the USA, comprising 12 Universities (Florida Agricultural and Mechanical University,
+Florida Atlantic University, Florida International University,
+Florida Golf Coast University, etc.). As the university with
+the most-cited articles, the University of London’s h-index
+was higher than the University of Australia and Parthenope University Naples, based in Italy. Overall, sustainability
+reporting research has been dominant in Europe, with a density of European institutions (6 of the top ten).
+The top fifteen countries/regions that have contributed to publications in the study area are listed in Table 4.
+
+Table 3  Productive institutions
+Institutions
+
+Pub. start year
+
+Geographical
+location
+
+Total articles
+
+Citations
+
+H-index
+
+University of South Australia
+Parthenope University Naples
+University of London
+Leuphana University Luneburg
+State University System of Florida (Composed of
+12 Universities)
+University of Siena
+Monash University
+University of Zaragoza
+Royal Melbourne Inst. of Technology
+Bucharest University of Economics Studies
+
+2010
+2008
+2007
+2005
+2006
+
+Australia
+Italy
+England
+Germany
+USA
+
+33
+28
+27
+23
+23
+
+1054
+742
+2354
+990
+1733
+
+15
+15
+16
+14
+13
+
+2005
+2007
+2007
+2013
+2009
+
+Italy
+Australia
+Spain
+Australia
+Romania
+
+23
+20
+18
+17
+16
+
+748
+945
+450
+333
+89
+
+12
+14
+10
+8
+6
+
+13
+
+Environmental Science and Pollution Research (2023) 30:104–126
+Table 4  Fifteen most productive countries and regions
+Countries
+
+Year
+
+No. of articles
+
+Total citations
+
+USA
+Italy
+England
+Australia
+Spain
+Germany
+Canada
+China
+Netherlands
+New Zealand
+France
+South Africa
+India
+Malaysia
+Romania
+
+2004
+2005
+2004
+2004
+2006
+2005
+2004
+2007
+2004
+2006
+2012
+2006
+2011
+2011
+2009
+
+224
+204
+192
+189
+135
+112
+86
+82
+59
+57
+53
+48
+47
+43
+43
+
+8983
+5418
+7987
+7165
+4297
+4125
+5472
+1234
+4640
+2274
+1521
+1139
+299
+692
+293
+
+Ninety-two regions were associated with the sample, but the
+top 15 comprised seven countries from Europe, two from
+the USA, two from Oceania, three from Asia, and one from
+Africa. Overall, Europe contributed the most to the sustainability reporting research (46.5%) with more citations. This
+reveals the position of academicians in Europe in discussing
+and researching sustainability issues to make recommendations for better reporting mechanisms that would increase
+
+111
+
+firm accountability. Further observations show that most
+countries contributing to sustainability reporting research
+are economically developed, except those from Asia and
+Africa, deemed rapidly as developing countries.
+In order to understand the collaborative patterns between
+the countries listed in Table 4, Fig. 4 shows the network
+and collaborations between the countries using CiteSpace.
+The network map consists of 78 nodes, 222 links, and a
+density of 0.07, signifying a close connection and a highly
+collaborative relationship among the countries. The centrality of England (0.35), China (0.18), the USA (0.15), Malaysia (0.13), Italy (0.11), and Germany (0.10) indicated their
+importance in connecting the other nodes.
+
+Authors and authorship collaborations
+Table 5 shows the top twenty dominant authors in the
+research domain based on the total publications, the publication start year recorded in the WoS database, and the
+number of citations received. Author Franzese PP emerged
+within 18 years with the highest publication, although his
+first publication listed in the database was in 2009. With a
+research area in environmental accounting, systems ecology,
+and others, his most cited article (86) among the seventeen
+papers was “Sustainable biomass production: A comparison between Gross Energy Requirement and Emergy Synthesis methods” in 2009. This article discussed two crucial
+
+Fig. 4  Academic partnership
+among countries
+
+13
+
+112
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Table 5  Top 20 performing authors
+Author
+
+No. of articles
+
+Pub. year start
+
+Total citations
+
+Franzese PP
+Buonocore E
+Schalteggar S
+Giannetti BF
+Almeida CMVB
+Uyar A
+Buallay A
+Lozanao R
+Lodhia S
+Boiral O
+Cho CH
+Kilic M
+Larrinaga C
+Russo GF
+De Villiers C
+Manetti G
+Ulgiati S
+Bellucci M
+Higgins C
+Maroun W
+
+17
+15
+14
+13
+12
+12
+11
+11
+11
+10
+10
+10
+10
+10
+9
+9
+9
+8
+8
+8
+
+2009
+2014
+2005
+2006
+2006
+2017
+2019
+2006
+2013
+2013
+2007
+2018
+2008
+2009
+2006
+2009
+2007
+2016
+2013
+2015
+
+412
+289
+894
+417
+413
+201
+154
+1388
+349
+514
+1407
+128
+286
+251
+894
+512
+466
+144
+464
+203
+
+methods for environmental accounting and energy analysis
+as avenues for providing an inclusive and complete evaluation of the environmental sustainability of human-dominated
+production processes. Closely following was Buonocore E,
+with fifteen articles and citations lower than Franzese PP.
+His most cited article (48), co-authored with Franzese PP,
+was “Assessing the value of natural capital in marine protected areas: A biophysical and trophodynamic environmental accounting model” in 2017. This collaboration between
+the two authors may indicate the possibility of collaborations
+between author researching firms’ sustainability reporting
+practices. Although Cho CH had ten articles, he had the
+highest citations over the period. His most cited article was
+“The role of environmental disclosures as tools of legitimacy: A research note.” The study employed size-matched
+groups based on industry membership (environmentally
+sensitive versus non-environmentally sensitive) and environmental performance to examine the differences in the
+use of monetary and non-monetary non-litigation-related
+environmental disclosure. The study provided further support that firms use disclosure as a legitimizing tool. It can
+also be observed that with the most recent publication year
+in 2016, Bellucci M recorded the lowest citations and the
+least number of articles among the first 20 authors.
+A collaborative network was run in CiteSpace, as illustrated in Fig. 5, to determine the collaborations among
+authors. The network comprised 184 nodes, 120 links,
+and a density of 0.0071, depicting a rather loose nature of
+
+13
+
+collaborations among authors. This implies that most studies
+are conducted autonomously rather than among the authors
+listed in Table 5. Nonetheless, links between Franzese PP
+and Buonocore E show that they have co-authored some
+papers in the network, as discussed.
+
+Citation analysis of the sustainability reporting
+domain
+Most cited articles
+Table 6 shows the ten most-cited articles within the study
+period. The least cited paper receiving a citation of 324 in
+less than 10 years of publication portrays the attention the
+sustainability domain has received over the years. Accounting Organisations & Society was the most represented journal among the top 10. This is not surprising since it had the
+second-highest centrality among the journal co-citation analysis in Fig. 3. The top three cited articles focused on environmental accounting practices and disclosures. Clarkson
+et al. (2008) examined the relationship between corporate
+environmental performance and environmental disclosure
+levels among US firms by developing an index for assessing the level of discretionary disclosures in sustainability
+reports. They reported that environmental performance
+positively influences discretionary disclosure levels among
+firms. Boyd & Banzhaf (2007) identified the inconsistently
+defined units of accounts in determining environmental
+contributions to human welfare and proposed a definition
+for such units that offers a structure for environmental performance measurements by markets and governments. Furthermore, they highlighted the importance of accounting
+for environmental services in public policymaking since it
+improves human welfare.
+Co‑citation of references
+A co-citation relationship is formed when two studies get
+concurrently cited by a third. A co-citation analysis further
+depicts the frequency with which articles cite the pairs of
+articles together. The analysis of co-cited works aids in
+detecting the knowledge base of a research field through
+cluster evaluations in the citation network (Afrane et al.
+2021). CiteSpace was employed to help transform the data
+into matrices so the patterns of earlier citations are clearly
+illustrated, as shown in Fig. 6. The network consisted of
+486 nodes and 1324 links with a density of 0.0112, corresponding to the cooperative relationship between the cited
+references. Whereas the node sizes depict the frequency of
+co-citation, the red rings depict the burstness, and the purple rings represent the centrality of nodes. The burstness of
+co-cited references in Fig. 7 shows the trend of documents
+that have significantly surged in citations or gained massive
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+113
+
+Fig. 5  Co-authorship network
+
+attention within a period (Chen 2016). The references with
+the highest centrality in the map were Gray (2010), 0.25,
+Hahn & Kühnen (2013); Sìmnett et al. (2009), which were
+central nodes in the network, although the density of 0.011
+shows a moderate link among the nodes. As indicated in
+Table 7, the most co-cited reference was “Determinants of
+sustainability reporting: a review of results, trends, theory,
+and opportunities in an expanding field of research (Hahn
+& Kühnen 2013).” By studying the adoption and extent of
+sustainability reporting quality, the authors unearthed the
+missing link to sustainability research theories, drawing
+future researchers’ attention to the importance of establishing links to theories. Milne & Gray’s (2013) paper subsequently discussed the current disassociation between sustainability reporting and the sustenance of life-supporting
+ecological systems upon which living organisms rely. They
+critiqued the stern focus of most businesses on the TBL amid
+the ignorance of ecological concerns. The third most cited
+
+document published in the Critical Perspectives on Accounting also assessed the broad category of CSR with emphasis
+on environmental goals, organizational approaches, ecological culture, etc., through stand-alone reports, assurance,
+and reporting guidance reporting practices. Michelon et al.
+(2015) reported that typically, firms using the three reporting
+practices tend to provide a lower quality of information than
+firms producing performance-related disclosures.
+Citation bursts
+Depicted by red rings around the nodes in Fig. 6, documents
+with citation bursts cannot be disregarded as burstness shows
+the attention a publication or node has received within a
+research period. The burstness of the top 25 cited references
+is exhibited in Fig. 7 based on the beginning of bursts using
+CiteSpace’s burstness tool. The green timeline indicates the
+time intervals, whereas the red timeline depicts the strongest
+
+13
+
+114
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Table 6  Top 10 most cited articles
+Title
+
+Journal
+
+Times cited Country/region Reference
+
+Revisiting the relation between environmental performance and environmental
+disclosure: An empirical analysis
+What are ecosystem services? The need for
+standardized environmental accounting units
+The role of environmental disclosures as
+tools of legitimacy: A research note
+Developing a framework for sustainable
+development indicators for the mining
+and minerals industry
+Is accounting for sustainability actually
+accounting for sustainability… and how
+would we know? An exploration of narratives of organisations and the planet
+W(h)ither Ecology? The Triple Bottom
+Line, the Global Reporting Initiative, and
+Corporate Sustainability Reporting
+A blueprint for mapping and modeling
+ecosystem services
+Measuring Organizational Performance:
+Beyond the Triple Bottom Line
+Corporate Sustainability and Innovation in
+SMEs: Evidence of Themes and Activities in Practice
+Integrated Reporting: Insights, gaps and an
+agenda for future research
+
+Accounting Organisations & Society
+
+1081
+
+Canada
+
+(Clarkson et al. 2008)
+
+Ecological Economics
+
+1063
+
+USA
+
+(Boyd & Banzhaf 2007)
+
+Accounting Organisations & Society
+
+772
+
+Canada
+
+(Cho & Patten 2007)
+
+Journal of cleaner production
+
+511
+
+England
+
+(Azapagic 2004)
+
+Accounting Organisations & Society
+
+481
+
+Scotland-E
+
+(Gray 2010)
+
+Journal of business ethics
+
+447
+
+New Zealand
+
+(Milne & Gray 2013)
+
+Ecosystem services
+
+393
+
+Australia
+
+(Crossman et al. 2013)
+
+Business Strategy and the environment
+
+344
+
+Australia
+
+(Hubbard 2009)
+
+Business Strategy and the environment
+
+331
+
+Netherlands
+
+(Bos-Brouwers 2010)
+
+Accounting Auditing & Accountability
+Journal
+
+324
+
+England
+
+(de Villiers et al. 2014)
+
+burstness period. Even though the earliest article among the
+top 25 was published in 2007, citation burstness began in
+2010 with Cooper SM. Cooper & Owen (2007) assessed the
+missing link between corporate social reporting and stakeholder accountability. By extension, as CSR affects environmental, social, and sustainability reporting, they evaluated
+the intensity of institutional reforms designed to empower
+stakeholders and improve accountability from the voluntary initiatives and mandatory disclosure of an operating
+and financial review (OFR) by the UK quoted companies.
+Through analysis, they reported that the proposed mandatory
+reporting approaches through the OFR may not be adequate
+to facilitate actions among organizational stakeholders.
+References with the most prolonged burst lasting 8 years
+were Gray (2010); Hopwood (2009) from 2011 to 2018.
+Though Gray (2010); Michelon et al. (2015) were among
+the top 5 co-cited references in Table 7, Michelon et al.
+(2015), Sìmnett et al. (2009), Gray (2010) were the top 3
+with the highest citation burst strength of 14.69, 13.37, and
+12.47. Sìmnett et al. (2009) examined the voluntary assurance market using a sample of companies from 31 countries
+that produced sustainability reports between 2002 and 2004.
+By hypothesizing that the credibility of reports is enhanced
+through assurance, they found that firms use assurance
+
+13
+
+services to improve reporting credibility to build their
+corporate reputation regardless of the background of the
+assurance providers. Whereas the least burstness duration
+among the top 25 lasted for 2 years (O’Dwyer et al. 2011),
+the most recent burst episode that ended in 2021 but began
+in 2017 was by Bebbington & Larrinaga (2014). Bebbington
+& Larrinaga (2014) explored the emerging possibility that
+may arise for accounting in light of a sustainability science
+approach. Michelon et al. (2015), having attained the highest burstness strength, were also recorded among the recent
+citation bursts. This was followed by Boiral (2013), Cho
+et al. (2015), Diouf & Boiral (2017), Dienes et al. (2016),
+and Michelon & Parbonetti (2012) with burst strengths of
+11.81, 10.48, 10.26, 8.86, and 8.81. These recent references
+with burstness in 2021 depict the direction of topics recently
+gaining interest in the domain. Given the growing attention
+to sustainable firm practices and development, Boiral (2013)
+studied the degree to which sustainability reporting can be
+regarded as a facsimile to conceal actual sustainable development issues and project a flawless view of entities’ activities. They reported that firms did not report the majority
+(about 90%) of significant negative events in their sustainability reports, at odds with the principle of transparency,
+completeness, and balance in GRI reports. Similarly, Cho
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+115
+
+Fig. 6  Co-citation network of co-cited references
+
+et al. (2015) argued that institutional and societal pressures
+necessitate organizations to engage in hypocrisy and develop
+facades that limit sustainability reports’ substantive disclosures over the period. The reference with the least burstness
+strength (8.3) among those ending in 2021 by Kuzey & Uyar
+(2017) examined the determinants of sustainability reporting
+and its effects on firm value. Findings were that most firms
+seek external assurance for their reports, and sustainability
+reporting propels firm value.
+Cluster analysis of co‑cited references
+After determining the most cited references and the burstness of the top 25 references, CiteSpace was further
+employed to group the knowledge-mapped network of references into clusters based on the closeness of connections
+between references. This clustering technique has been
+used by a few extant literatures tackling other aspects of the
+sustainability discourse (Pasko et al. 2021; Ye et al. 2020).
+Among the clusters generated, Fig. 8 shows the nine largest
+clusters of co-cited references represented by convex hulls
+and node colors based on the cluster membership. As Chen
+
+(2016) indicated, modularity and silhouette values are critical characteristics of cluster analysis that reveal the clear
+distinctions of a network and the closeness of nodes in a
+cluster. The closer the modularity value to 1, the clearer the
+overall structure of the network. In essence, a modularity
+value greater than 0.3 and close to 1 measure how a network
+can be disintegrated into multiple components. In our study,
+the estimated modularity value was 0.708, close to 1 and
+acceptable.
+The log-likelihood ratio (LLR) labeling of clusters, which
+identifies clusters based on the main concepts of clusters,
+was employed to label the nine largest clusters based on keywords (K) in CiteSpace. However, attention was equally paid
+to the silhouette values of the clusters since it is a measure
+of cluster homogeneity, indicating the quality of the clustering configuration (Chen 2014). Like the modularity value,
+clusters with silhouette values closer to 1 are deemed consistent. Table 8 outlines the nine largest clusters with their
+mean cite year, the silhouette score, and the labeling based
+on LLR. The least silhouette score of 0.707 shows that the
+cluster nodes are consistent and highly similar. Cluster 0 is
+the largest cluster labeled as sustainability reporting with a
+
+13
+
+116
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Fig. 7  Documents with citation burst
+Table 7  Description of top 5 co-cited references
+Title
+
+Journal
+
+Co-citations Reference
+
+Determinants of sustainability reporting: a review
+of results, trends, theory, and opportunities in an
+expanding field of research
+W (h) ither ecology? The triple bottom line, the
+global reporting initiative, and corporate sustainability reporting
+CSR reporting practices and the quality of disclosure: An empirical analysis
+Is accounting for sustainability actually accounting
+for sustainability…and how would we know? An
+exploration of narratives of organisations and the
+planet
+Sustainability reports as simulacra? A counteraccount of A and A + GRI reports
+
+Journal of Cleaner Production
+
+158
+
+(Hahn and Kühnen, 2013)
+
+Journal of Business Ethics
+
+92
+
+(Milne and Gray, 2013)
+
+Critical Perspectives on Accounting
+
+78
+
+(Michelon et al., 2015)
+
+Accounting, Organizations and Society
+
+63
+
+(Gray, 2010)
+
+Accounting, Auditing & Accountability Journal 63
+
+(Boiral, 2013)
+
+silhouette score of 0.731, 86 members of co-cited references,
+and a mean year of 2013, which shows that nodes in the
+cluster are pretty recent. The sustainability reporting (cluster
+0) cited articles like those by Garcia-Sanchez (2021); Maas
+et al. (2016), who assessed corporate social reporting and
+assurance and the integration of corporate sustainability.
+
+13
+
+Cluster 1, the second-largest, labeled as social accounting,
+had 64 members with the mean year of 2007. As part of triplebottom-line reporting, much attention has been shifted to including people and the planet in reporting. For instance, cluster 1
+was composed of citing articles from Gray & Laughlin (2012);
+Michelon & Parbonetti (2012), who assessed TBL and changes
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+117
+
+Fig. 8  Cluster analysis of cocited references
+
+Table 8  Summary of 10 largest
+clusters of co-cited references
+
+Cluster ID
+
+Size
+
+Silhouette
+
+Mean year
+
+LLR
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+
+86
+64
+55
+38
+36
+34
+24
+20
+19
+
+0.731
+0.732
+0.707
+0.876
+0.924
+0.844
+0.94
+0.998
+0.952
+
+2013
+2007
+2008
+2005
+2014
+2006
+2006
+2007
+2015
+
+Sustainability Reporting
+Social accounting
+Global reporting initiative
+Environmental management systems
+Integrated reporting
+China
+Environmental accounting
+Users
+Sustainable development goals
+
+in reporting and evaluated a special issue to determine the takehome surrounding the social and environmental accounting and
+reporting literature. Cluster 2, the third, labeled as the Global
+Reporting Initiative (GRI), had members that were not as recent
+(2008) as cluster 0. Cluster 4, labeled integrated reporting, had a
+high silhouette value and the second most recent mean year. This
+indicates how the co-cited references have recently focused on
+integrated reporting, integrating firms’ strategy, performance, and
+ESG into one report. Whereas cluster 7 had the highest silhouette score (0.998), signifying the homogenous nature of nodes in
+the cluster, cluster 8, labeled as Sustainable Development Goals
+(SDGs), had the most recent mean citing year (2015). This shows
+that most current citing documents focus intensely on the SDGs,
+discovering mechanisms to achieve them after it replaced the
+Millennium Development Goals (MDGs) in 2015 (Battaglia et al.
+2020; García-Sánchez et al. 2020; Izzo et al. 2020).
+
+Keywords co‑occurrence analysis
+Figure 9 shows the map of the widely used keywords and
+their co-occurrences as indicated by the links to recognize
+
+the research developments and hotspots. The network consists of 189 nodes and 1478 links with a density of 0.08,
+which portrays a close-fitting relationship. The node sizes
+represent the frequency of keywords, while the purple rings
+indicate their centrality. The frequently used keywords and
+their centralities have been presented in Table 9. The frequently used keywords were “sustainability reporting,”
+“corporate social responsibility,” and “performance,” with
+400, 359, and 289 occurrences, respectively. Unsurprisingly,
+corporate social responsibility emerged as the second most
+frequently used keyword, given the broad scope of CSR. As
+described by Ye et al. (2020), CSR has shifted from the philanthropic attribute to a broader spectrum, and the essence
+of CSR can be linked to the TBL as it encompasses environmental, social, and economic issues. Keywords with the
+highest centrality were “environmental accounting” (0.21),
+“management (0.14),” “corporate social responsibility
+(0.14),” and “sustainability” (0.13). As shown in Fig. 9,
+these nodes had a thicker purple ring and can be described
+as necessary in the network map since it indicates the relational ties of the keywords.
+
+13
+
+118
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Fig. 9  Keyword co-occurrence map
+
+Additionally, faced with the responsibility of preparing
+sustainability reports and disclosing the sustainable strategies of firms, management also had a centrality score of
+0.14. Overall, the frequently used keywords portray the
+constituents of the sustainability domain; the importance
+of its determinants, the role of governance, legitimacy, and
+the global direction toward a sustainable environment.
+To further interpret the keyword co-occurrence map, a
+cluster analysis was performed and labeled by the LLR.
+Figure 10 illustrates the ten largest keyword clusters,
+with the largest labeled #0 and the tenth cluster labeled
+#09. The silhouette scores of the clusters from the first
+
+13
+
+(#0) to the tenth (#09) were 0.766, 0.931, 0.811, 0.817,
+0.894, 0.909, 0.878, 0.939, 0.961, and 0.857, respectively. Cluster #0 focused on environmental accounting,
+sustainability reporting and accounting and the social
+accounting matrix. Cluster #1, focusing on businesssociety relations, was associated with link sustainability, reporting bridge, empirical findings, and studies in
+western Europe. Cluster #2 similarly related to environmental accounting, exhaustible resources (studies on
+resources that must be replenished after a few hundred
+years), strong sustainability, and the construction of a
+genuine savings indicator.
+
+Environmental Science and Pollution Research (2023) 30:104–126
+Table 9  Frequency of keyword co-occurrence
+Keyword
+
+Frequency
+
+Occurrence
+
+Sustainability reporting
+Corporate social responsibiliy
+Performance
+Management
+Disclosure
+Environmental acounting
+Determinant
+Inpact
+Sustainabiliy
+Csr
+Governance
+Environmental disclosure
+Legitimacy
+Sustainable environment
+
+400
+359
+289
+236
+230
+199
+161
+146
+136
+130
+130
+110
+110
+106
+
+0.03
+0.14
+0.10
+0.14
+0.04
+0.21
+0.06
+0.04
+0.13
+0.04
+0.03
+0.07
+0.05
+0.08
+
+As an essential sustainability indicator, genuine savings
+promote relevant policy questions that surpass traditional
+concerns with macroeconomic and microeconomic determinants of savings efforts (Hamilton 2000). Cluster #3
+focused on emergy accounting, water management, specific
+emergy, and energy-based appraisal as part of environmental accounting and decision-making. As defined by Brown
+& Ulgiati (2004), “Emergy is the availability of energy
+(exergy) of one kind that is used up in transformations
+directly and indirectly to make a product or service.” He
+further described emergy accounting as using a thermodynamic basis of energy forms, materials, and human services
+
+119
+
+and converting them into a particular form of energy in producing goods and services. The last cluster, #9, was related
+to new assurance services, the complexity of reported information, zero emissions, and progressive social accounting.
+
+Keywords with citation bursts
+Burstness highlights the period when the occurrence or
+use of nodes is relatively much higher among other nodes
+(Chen & Wu 2017). Additionally, since burst keywords aid
+in unearthing the hotspot areas in the research domain or
+where researchers have focused over a period (Marrone et al.
+2020), it contributes to understanding the developmental
+path of the sustainability reporting domain. Employed in
+previous studies (Aryadoust et al. 2019; Chen & Wu 2017;
+Ye et al. 2020), Marrone et al. (2020) aver that when there
+is a sudden spike in publications in a particular subject or
+area of interest, a keyword burst can reveal new developments linked to that field or area of interest. Furthermore,
+burstness shows nodes that have garnered significant attention in a brief period while displaying substantial changes
+in a frequency function over a short period (Chen 2016;
+Chen et al. 2010). With the red timelines in Fig. 11 depicting the duration of burstness, the study period is divided into
+three developmental phases: 2004–2009, 2010–2015, and
+2016–2021 for more precise analysis. Given the duration
+of the study, the phases would help in understanding the
+hotspot areas better.
+The 2004–2009 phase recorded the longest citation burst
+over the entire period. Although the burstness strength of
+
+Fig. 10  Cluster analysis of
+keywords
+
+13
+
+120
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Fig. 11  Burstness of keywords
+
+the keyword “energy” was not the highest during the whole
+period, it was for the first phase, and the burst episode
+started in 2005 and ended in 2015. Many ESG, environmental, and sustainability reporting studies have been done
+in the energy sectors (Baran et al. 2022; Boiral 2013). Aside
+from that, others focused on carbon management studies and
+those determining how energy can be effectively organized
+(Azapagic 2004; Schaltegger & Csutora 2012). Chen (2014)
+indicates that keywords with a strong burstness point to
+potentially interesting studies that have attracted significant
+attention within a short period. “Energy” was followed by
+“index,” “life cycle assessment,” “consumption,” and “climate change,” with bursts lasting from 2006 to 2015. Studies
+developed indexes based on their research methodologies,
+which justifies why “index” was part of the top 25 keywords.
+Additionally, Azapagic (2004) retorts that methodologies
+like life cycle assessment are usually employed to assess
+the environmental impacts associated with all the life cycle
+stages. Phase 2 (2010–2015) recorded the keyword with the
+strongest citation burst (Global Reporting Initiative-11.50)
+during the entire period, with a burst episode from 2012 to
+2018. Within the range, this was followed by “perspective”
+(9.63), with a burst episode from 2013 to 2018, “framework”
+(9.26), and strategy (8.67). Whereas the burst strengths of
+keywords in the range were relatively higher than in the
+first phase (2004–2009), the bursts were longer in the first
+
+13
+
+period. Studies in this period largely focused on strategies,
+perspectives, exploration, systems, and corporate aspects
+of businesses. “Global reporting initiative” had the highest
+burstness score since it is a widely adopted framework for
+sustainability reporting (Bose 2020; Milne & Gray 2013;
+Tiwari & Khan 2020), although it was not listed as part of
+the top 15 frequently used keywords in Table 9. Founded
+in 1997 by the Coalition for Environmentally Responsible
+Economies, the UN environment program and the Tellus
+Institute, the GRI launches standards for corporate sustainability reporting (Bose 2020). The last phase (2016–2021)
+shows five keywords that have recently received significant attention in the sustainability domain. With the most
+extended burst episode from 2017 to 2021, “CSR” (6.77)
+remains an area still receiving much attention in the literature, considering its extensions to the overall sustainable
+development agenda. Other keywords still receiving much
+attention are “sustainability report,” “determinant,” “governance,” “corporate governance,” and “determinant.” During this period, “corporate governance” instead attained the
+highest burst strength (10.56), followed by “governance”
+(9.47) and “assurance” (9.07). Its dominance is a result
+of how studies have ascertained the relationship between
+corporate governance and sustainability disclosure, identifying the impact of board characteristics and decisions
+on reporting (Fuente et al. 2017; Hussain et al. 2018; Liao
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+121
+
+Fig. 12  Time zone analysis of keywords
+
+et al. 2015). Potentially interesting studies emerged in the
+last phase as they recorded keyword bursts within a much
+shorter period than all phases.
+
+Time zone and timeline analysis of keywords
+Furthermore, CiteSpace was employed to illustrate keyword co-occurrence over the research period, as shown in
+Fig. 12. To identify the occurrence of keywords, keywords
+that appeared at least 15 times were included in the map,
+while the cross (node) size indicates the frequency of occurrence. Based on the transitional classification of burstness
+in Fig. 11, phase 1 (2004–2009) recorded a high frequency
+of keywords like “sustainable development,” “sustainability,” “ecosystem service,” “system,” and “sustainability
+reporting” while phase 2 (2010–2015) similarly recorded
+a high frequency of keywords like “corporate sustainability,” “stakeholder engagement,” “global reporting initiative,” “cost,” and “perspective.” On the other hand, phase
+3 (2016–2021) recorded few co-occurrences of keywords
+such as “sustainability accounting,” “stakeholder theory,”
+“legitimacy theory,” “performance,” “insight,” and “sustainable development goals” at the latter part of 2020. These
+emerging keywords may suggest the focus on stakeholder
+and legitimacy theories in relating a firm’s sustainability
+disclosures as a part of legitimation in firms’ quest to be
+accountable to stakeholders. Many sustainability disclosures by companies have mainly referred to the SDGs to
+contribute to the global sustainable environment. In sum,
+this timezone analysis depicts that while the research scope
+
+seems to have widened because of the frequency of keyword co-occurrence in phases 1 and 2, the fewer keyword
+co-occurrence in the last phase portrays that aside from its
+link to previous studies in the initial phases, some major
+topics are still evolving. As such, there might only be a fair
+shift in focus as newer studies emerge.
+Figure 13 illustrates a timeline analysis of keywords aligned
+with the clusters identified in Fig. 10. Keywords are presented
+in the columns based on a 3-year gap, with cluster IDs displayed
+by each row in the view. The top 3 keywords with the highest
+frequencies are also displayed under each cluster. As shown
+in Fig. 13, the dominance of keywords was within phases 1
+and 2. With most of the keyword co-occurrence in cluster #0,
+the environmental accounting cluster, keywords such as “GRI,”
+“sustainability,” “content analysis,” “quality,” “innovation,”
+“behavior,” “business,” and “performance” prevailed. Cluster #1 contained keywords on “occupational safety,” “TBL,”
+“corporate social responsibility,” etc. Amid the dominance of
+keywords within the first two phases, clusters 1 to 4 and nine are
+still robust, reporting on hotspots such as “SDG,” “non-financial disclosure,” “integrated reporting,” “social and environmental reporting,” “insight,” “society,” and “control system.”
+
+Discussion and conclusion
+Research development and contributions
+With the objective to examine the sustainability reporting subject area through the identification of contributing
+
+13
+
+122
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+Fig. 13  Timeline analysis of keywords
+
+authors, institutions, regions, and the current hotspots in
+the subject area based on keyword co-occurrence analysis,
+the research employed data from the WoS database from
+2004 to 2021 and conducted visualizations in CiteSpace.
+Based on the keyword search in the WoS database, there
+was a gradual rise in the citations of articles. In contrast, the
+growth in publications took relatively unstable growth until
+2017, when there were no fluctuations but a rapid rise till
+the 2021 year-end. Per the search date, the 1624 articles had
+been cited 45,428 times. This indicates a heightened interest
+in sustainability issues as researchers embark on projects
+to unearth the contributing factors to a global sustainable
+environment. Journal of Cleaner Production, Sustainability and Accounting Auditing & Accountability Journal were
+the top three research sources on sustainability reporting,
+contributing about 22% of the total sample of articles used
+in the analysis. Although not entirely the same, these results
+can resonate with similar extant studies (Pasko et al. 2021;
+Ye et al. 2020). Aside from the representation of institutions
+from Europe, the USA, and Oceania, Oceania was the highest contributing region as the University of South Australia,
+though with a publication start year from 2010, had 33 articles. In spite of the growth in publications, Africa and Asia
+were not represented among the top 10 institutions. The top
+three contributing regions, i.e., based on the addresses of
+
+13
+
+corresponding authors, were the USA, Italy, and England.
+Although the USA, Oceania, Europe, Asia, and Africa were
+represented among the top 15 regions, Africa was less represented, with less than fifty articles from South Africa. There
+was also a close connection and an indication of regional
+collaboration among England, Australia, the USA, Germany,
+New Zealand, and Malaysia. Their high centrality scores
+indicate their importance in the collaborative network.
+Authorship analysis unearthed Franzese PP, Buonocore
+E, and Schalteggar S as the top three authors with at least
+14 articles. Noteworthy among the top-performing authors
+is Cho Ch, who had the highest citation, although he had
+ten articles. However, authorship collaborations were not
+strong, as only a few had co-authored some papers. Based
+on the citations of these scholars, authorship collaborations
+may aid in developing innovative research ideas considering their dynamic institutional differences and academic
+experiences. The most cited articles also focused on the
+relevance of environmental and sustainability disclosures.
+The co-cited articles were published in the second phase
+(2010–2015) with at least 60 co-citations during the research
+period. Furthermore, Michelon et al.’s (2015) article on CSR
+reporting practices and disclosure quality had the highest
+burst strength and is still receiving maximum attention. The
+co-occurrence analysis of keywords revealing the research
+
+Environmental Science and Pollution Research (2023) 30:104–126
+
+hotspots showed “sustainability reporting, “corporate social
+responsibility,” and “environmental accounting” based on
+their centralities as key hotspots in the research domain. This
+is worth acknowledging as they remain great avenues for
+future research. Keyword frequencies of over 250 portray
+the direction of most studies toward the varying aspects of
+sustainability. Currently, CSR expounds more on business
+responsibilities to society, contributing to a sustainable environment while improving performance. Overall, this study
+has contributed to the developments in sustainability reporting research by highlighting the leading authors and regions,
+examining the collaborations, citations and co-citations, and
+the current hotspots based on keyword analysis.
+
+Future research direction and limitations
+Through keyword occurrence and keyword clustering
+analysis, research hotspots and current research directions
+may be discovered (Chen 2016). Thus, the frequency of
+keyword co-occurrence and the burstness of keywords
+and the clusters obtained may aid in identifying the main
+research directions in the field. Although keywords like
+“sustainability reporting,” “CSR,” “performance,” and
+“management” have received much attention because they
+are fundamental to the domain, other keywords such as
+“governance,” “legitimacy,” “environmental disclosure,”
+and “sustainable environment” have equally received attention because they co-occur, and in most cases in accounting
+research, serves as key areas that would forever be influential in managing the affairs of organizations (for keywords
+like “governance” and “legitimacy”). The keyword clustering also illustrates most researchers’ current focus. Such as
+environmental accounting disclosures, the role of management, the influence of boards, the business-society relationship that shifts the focus of entities solely from profitmaking to the planet and people, and the need to engage in
+business operations that would preserve limited resources.
+There is also a focus on employing accounting methods or
+tools that aids in estimating resource consumption, waste
+assimilation requirements of a group of people against
+productive land use, and nature’s ability to absorb waste
+and generate resources. The burstness of keywords further
+depicts what seems to be attention-grabbing in the domain.
+Corporate social responsibility at the firm level has contributed significantly to the global sustainability agenda
+and is expanding. Corporate governance has still not lost
+its grounds as research increases amid practical challenges
+in business. “Governance,” “determinant,” and “sustainability report” are similarly crucial as many organizations
+apply the GRI as a reporting framework for sustainability and are consistently finding the drivers or determinants of sustainability or environmental or social disclosures, although the burstness ended in 2015 in our study
+
+123
+
+(García-Sánchez et al. 2020; Isukul & Chizea 2017; Kuzey
+& Uyar 2017). Results have indicated that sustainability
+reporting is vital. Regardless of the mechanisms corporations embrace, it would become an avenue for most firms
+to reap its associated benefits as they undertake their business activities. From the timeline and time zone analysis,
+it can be observed that although sustainable reporting had
+developed by the end of 2012 to 2013, the transition from
+the MDGs to the SDGs resulted in more research toward
+the global drive to a sustainable environment. The evolution of the identified keywords and concepts in the analysis
+have associations to a large extent with the emergence of
+an extensive agenda (SDGs) and strategy implementations
+by firms to still maximize shareholder wealth and produce
+positive effects through efficient resource utilization. Most
+importantly, businesses focus on how they can contribute
+their quotas to the SDG agenda by examining the impact
+of board activities and organizational factors (Rosati &
+Faria 2019; Sekarlangit & Wardhani 2021). Based on the
+review of the field, regional contributions were uneven. As
+such, there is a need for more sustainability reporting and
+accounting research, especially from the African region,
+seeing that South Africa was the only African country to
+have contributed to publications in the research domain.
+This symbolizes the need for more research by authors
+from the African region. Studies cutting across multiple
+contexts are more likely to enhance collaborations among
+regions and help reveal adopted sustainability reporting
+mechanisms. Additionally, future research may consider
+increasing studies of firms in diverse industries in specific
+countries to envisage the host countries’ contributions to
+the SDGs. Regional and cross-author collaborations may
+also yield pioneering ideas that would enhance sustainability reporting research and gradually unearth findings
+that would inch us closer to attaining a sustainable society. This also comes from the disparity in institutional and
+regional contributions, with more concentration in developed contexts than in developing contexts or regions. Amid
+the contributions of the current study, the following limitations are worth acknowledging. To begin with, solely using
+data from the WoS database based on the study’s keyword
+search and the research time may yield different results
+from other databases. Employing other databases like the
+Scopus database may produce diverse outcomes considering the databases’ uniqueness aside from overlapping
+publication issues. Furthermore, although broader than
+some bibliometric study’s keyword searches, the search
+may not have covered all the available publications related
+to our focus in the academic field since the investigation
+was restricted to only articles. Future studies may include
+other document types to increase the document base and
+discuss its impact on their analysis and findings. Nonetheless, our choice of only articles was to determine the
+
+13
+
+124
+
+specific patterns in article publications toward the sustainability research domain.
+Author contribution Nana Adwoa Anokye Effah: conceptualization,
+investigation, data visualization, and writing of the original draft. Qinggang Wang: reviewing and supervision of formal analysis. Godfred
+Matthew Yaw Owusu: methodology and supervision of activity planning and execution. Octavia Ama Serwaa Otchere and Bright Owusu:
+reviewing and editing.
+
+Declarations
+Ethics approval and consent to participate Not applicable.
+Consent for publication Not applicable.
+Competing interests The authors declare no competing interests.
+
+References
+Afrane S, Ampah JD, Mensah EA (2021) Visualization and analysis
+of mapping knowledge domains for the global transition towards
+clean cooking: a bibliometric review of research output from
+1990 to 2020. Environ Sci Pollut Res. https://​doi.​org/​10.​1007/​
+s11356-​021-​17340-6
+Aryadoust V, Tan HAH, Ng LY (2019) A scientometric review of
+Rasch measurement: The rise and progress of a specialty. Front
+Psychol 10(OCT). https://​doi.​org/​10.​3389/​fpsyg.​2019.​02197
+Azapagic A (2004) Developing a framework for sustainable development indicators for the mining and minerals industry. J Clean Prod
+12(6):639–662. https://​doi.​org/​10.​1016/​S0959-​6526(03)​00075-1
+Baran M, Kuzniarska A, Makieła ZJ, Sławik A, Stuss MMS (2022)
+Does ESG reporting relate to corporate financial performance in
+the context of the energy sector transformation ? Evidence from
+Poland. Energies 15(477):1–22
+Battaglia M, Gragnani P, Annesi N (2020) Moving businesses toward
+sustainable development goals (SDGs): evidence from an Italian
+“benefit-For-Nature” corporation. Entrep Res J 10(4). https://​doi.​
+org/​10.​1515/​erj-​2019-​0305
+Bebbington J, Larrinaga C (2014) Accounting and sustainable development: an exploration. Acc Organ Soc 39(6):395–413. https://​doi.​
+org/​10.​1016/j.​aos.​2014.​01.​003
+Boiral O (2013) Sustainability reporting and transparency: a counteraccount of GRI reports. Account Audit Account J 26(7):1036–
+1071. https://​doi.​org/​10.​5465/​ambpp.​2012.​12066​abstr​act
+Bose S (2020) Evolution of ESG reporting frameworks. In: Values
+at work. Palgrave Mamillan, Cham (pp 13–33). Springer International Publishing. https://​doi.​org/​10.​1007/​978-3-​030-​55613-6
+Bos-Brouwers HEJ (2010) Corporate sustainability and innovation in
+SMEs: Evidence of themes and activities in practice. Bus Strategy
+Environ 19(7):417–435.https://​doi.​org/​10.​1002/​bse.​652
+Boyd J, Banzhaf S (2007) What are ecosystem services ? The need
+for standardized environmental accounting units ☆. Ecol Econ
+63:616–626. https://​doi.​org/​10.​1016/j.​ecole​con.​2007.​01.​002
+Braam GJM, Uit De Weerd L, Hauck M, Huijbregts MAJ (2016) Determinants of corporate environmental reporting: the importance of
+environmental performance and assurance. J Clean Prod 129:724–
+734. https://​doi.​org/​10.​1016/j.​jclep​ro.​2016.​03.​039
+Brown MT, Ulgiati S (2004) Emergy analysis and environmental
+accounting. Encycl Energy 2:329–354. https://​doi.​org/​10.​1016/​
+b0-​12-​176480-​x/​00242-4
+
+13
+
+Environmental Science and Pollution Research (2023) 30:104–126
+Burritt RL, Schaltegger S (2010) Sustainability accounting and reporting: fad or trend? Account Audit Account J 23(7):829–846.
+https://​doi.​org/​10.​1108/​09513​57101​10801​44
+Chen C (2020) A glimpse of the first eight months of the COVID-19 literature on Microsoft Academic Graph: themes, citation contexts,
+and uncertainties. Front Res Metrics Anal 5(December):1–15.
+https://​doi.​org/​10.​3389/​frma.​2020.​607286
+Chen Y, Wu C (2017) The hot spot transformation in the research
+evolution of maker. Scientometrics 113(3):1307–1324. https://d​ oi.​
+org/​10.​1007/​s11192-​017-​2542-4
+Chen C, Ibekwe-Sanjuan F, Hou J (2010) The structure and dynamics
+of cocitation clusters: a multiple-perspective cocitation analysis.
+J Am Soc Inform Sci Technol 61(7):1386–1409. https://​doi.​org/​
+10.​1002/​asi
+Chen C (2014) The citespace manual. College of Computing and Informatics 1(1):1–84
+Chen C (2016) CiteSpace: a practical guide for mapping scientific literature (pp 41–44). Hauppauge, NY: Nova Science Publishers
+Cho CH, Patten DM (2007) The role of environmental disclosures as
+tools of legitimacy: A research note. Account Organ Soc 32(7–
+8):639–647. https://​doi.​org/​10.​1016/j.​aos.​2006.​09.​009
+Cho CH, Laine M, Roberts RW, Rodrigue M (2015) Organized hypocrisy, organizational façades, and sustainability reporting. Acc
+Organ Soc 40:78–94. https://​doi.​org/​10.​1016/j.​aos.​2014.​12.​003
+Chung J, Cho CH (2018) Current trends within social and environmental accounting research: a literature review. Account Perspect
+17(2):207–239. https://​doi.​org/​10.​1111/​1911-​3838.​12171
+Clarkson PM, Li Y, Richardson GD, Vasvari FP (2008) Revisiting the
+relation between environmental performance and environmental
+disclosure: an empirical analysis. Acc Organ Soc 33(4–5):303–
+327. https://​doi.​org/​10.​1016/j.​aos.​2007.​05.​003
+Cooper SM, Owen DL (2007) Corporate social reporting and stakeholder accountability: the missing link. Acc Organ Soc 32(7–
+8):649–667. https://​doi.​org/​10.​1016/j.​aos.​2007.​02.​001
+Crossman ND, Burkhard B, Nedkov S, Willemen L, Petz K, Palomo I,
+Maes J (2013) A blueprint for mapping and modelling ecosystem
+services. Ecosyst Serv 4:4–14. https://​doi.​org/​10.​1016/j.​ecoser.​
+2013.​02.​001
+Cucari N, Esposito De Falco S, Orlando B (2018) Diversity of board
+of directors and environmental social governance: evidence from
+Italian listed companies. Corp Soc Responsib Environ Manag
+25(3):250–266. https://​doi.​org/​10.​1002/​csr.​1452
+de Villiers C, Rinaldi L, Unerman J (2014) Integrated Reporting: Insights, gaps and an agenda for future research. Account
+Audit Account J 27(7):1042–1067. https://​d oi.​o rg/​1 0.​1 108/​
+AAAJ-​06-​2014-​1736
+Demers E, Hendrikse J, Joos P, Lev B (2020) ESG didn’t immunize
+stocks against the COVID-19 market crash. Available at SSRN,
+3675920
+Dienes D, Sassen R, Fischer J (2016) What are the drivers of sustainability reporting? A systematic review. Sustain Account Manag
+Policy J 7(2):154–189
+Diouf D, Boiral O (2017) Article information : The quality of sustainability reports and impression management : a stakeholder
+perspective Abstract Purpose – The purpose of this research is to
+analyze the perceptions of stakeholders – more. Account Audit
+Account J 30(3):643–667. https://​doi.​org/​10.​1108/​AAAJ-​04-​
+2015-​2044/​full/​html
+Donthu N, Kumar S, Mukherjee D, Pandey N, Lim WM (2021) How
+to conduct a bibliometric analysis: an overview and guidelines.
+J Bus Res 133(April):285–296. https://​doi.​org/​10.​1016/j.​jbusr​
+es.​2021.​04.​070
+Egghe L, Rousseau R (2006) An informetric model for the Hirschindex. Scientometrics 69(1):121–129. https://​doi.​org/​10.​1007/​
+s11192-​006-​0143-8
+
+Environmental Science and Pollution Research (2023) 30:104–126
+Ertz M, Leblanc-Proulx S (2018) Sustainability in the collaborative
+economy: a bibliometric analysis reveals emerging interest. J
+Clean Prod 196:1073–1085. https://​doi.​org/​10.​1016/j.​jclep​ro.​
+2018.​06.​095
+Feng Y, Zhu Q, Lai KH (2017) Corporate social responsibility for
+supply chain management: a literature review and bibliometric
+analysis. J Clean Prod 158:296–307. https://​doi.​org/​10.​1016/j.​
+jclep​ro.​2017.​05.​018
+Fuente JA, García-Sánchez IM, Lozano MB (2017) The role of the
+board of directors in the adoption of GRI guidelines for the disclosure of CSR information. J Clean Prod 141:737–750. https://​
+doi.​org/​10.​1016/j.​jclep​ro.​2016.​09.​155
+García-Sánchez IM, Rodríguez-Ariza L, Aibar-Guzmán B, AibarGuzmán C (2020) Do institutional investors drive corporate
+transparency regarding business contribution to the sustainable development goals? Bus Strateg Environ 29(5):2019–2036.
+https://​doi.​org/​10.​1002/​bse.​2485
+Garcia-Sanchez I (2021) Corporate social reporting and assurance:
+the state of the art. Revista De Contabilidad-Spanish Account
+Rev 24(2):241–269. https://​doi.​org/​10.​2139/​ssrn.​35884​70
+Gond JP, Grubnic S, Herzig C, Moon J (2012) Configuring management control systems: theorizing the integration of strategy and
+sustainability. Manag Account Res 23(3):205–223. https://​doi.​
+org/​10.​1016/j.​mar.​2012.​06.​003
+Gray R (2010) Is accounting for sustainability actually accounting
+for sustainability and how would we know? An exploration of
+narratives of organisations and the planet. Accounti Organ Soc
+35(1):47–62. https://​doi.​org/​10.​1016/j.​aos.​2009.​04.​006
+Gray R, Laughlin R (2012) It was 20 years ago today. Account Audit
+Account J 25(2):228–255. https://​doi.​org/​10.​1108/​09513​57121​
+11987​55
+Guo P, Tian W, Li H, Zhang G, Li J (2020) Global characteristics and
+trends of research on construction dust: based on bibliometric
+and visualized analysis. Environ Sci Pollut Res 27(30):37773–
+37789. https://​doi.​org/​10.​1007/​s11356-​020-​09723-y
+Hahn R, Kühnen M (2013) Determinants of sustainability reporting: a review of results, trends, theory, and opportunities in an
+expanding field of research. J Clean Prod 59:5–21. https://​doi.​
+org/​10.​1016/j.​jclep​ro.​2013.​07.​005
+Hamilton K (2000) Genuine saving as a sustainability indicator. World
+Bank Environment Department Papers, No. 77, Environmental
+Economics Series, World Bank, Washington, DC
+Herzig C, Schaltegger S (2006) Corporate sustainability reporting. An
+overview. In: Schaltegger S, Bennett M, Burritt R (eds) Sustainability accounting and reporting, vol 21. Springer, Dordrecht.
+https://​doi.​org/​10.​1007/​978-1-​4020-​4974-3_​13
+Hirsch JE (2005) An index to quantify an individual’s scientific
+research output. Proc Natl Acad Sci USA 102(46):16569–16572.
+https://​doi.​org/​10.​1073/​pnas.​05076​55102
+Hopwood AG (2009) Accounting and the environment. Acc Organ
+Soc 34(3–4):433–439. https://​doi.​org/​10.​1016/j.​aos.​2009.​03.​002
+Hubbard G (2009) Measuring organizational performance: beyond the
+triple bottom line. Bus Strategy Environ 18(3):177–191. https://​
+doi.​org/​10.​1002/​bse.​564
+Hussain N, Rigoni U, Orij RP (2018) Corporate governance and sustainability performance: analysis of triple bottom line performance. J Bus Ethics 149(2):411–432. https://​doi.​org/​10.​1007/​
+s10551-​016-​3099-5
+Husted BW, de Sousa-Filho JM (2017) The impact of sustainability
+governance, country stakeholder orientation, and country risk on
+environmental, social, and governance performance. J Clean Prod
+155:93–102. https://​doi.​org/​10.​1016/j.​jclep​ro.​2016.​10.​025
+Isukul AC, Chizea JJ (2017) Corporate governance disclosure in developing countries: A comparative analysis in Nigerian and South
+African Banks. SAGE Open 7(3). https://​doi.​org/​10.​1177/​21582​
+44017​719112
+
+125
+Izzo MF, Ciaburri M, Tiscini R (2020) The challenge of sustainable
+development goal reporting: The first evidence from Italian listed
+companies. Sustainability 12(8):3494. https://​doi.​org/​10.​3390/​
+SU120​83494
+Kuzey C, Uyar A (2017) Determinants of sustainability reporting and
+its impact on firm value: evidence from the emerging market of
+Turkey. J Clean Prod 143:27–39. https://​doi.​org/​10.​1016/j.j​ clep​
+ro.​2016.​12.​153
+Lavin JF, Montecinos-pearce AA (2021) ESG reporting : empirical
+analysis of the influence of board heterogeneity from an emerging
+market. Sustainability 13(3090):1–25
+Liao L, Luo L, Tang Q (2015) Gender diversity, board independence,
+environmental committee and greenhouse gas disclosure. British
+Accounting Review 47(4):409–424. https://​doi.​org/​10.​1016/j.​bar.​
+2014.​01.​002
+Maas K, Schaltegger S, Crutzen N (2016) Integrating corporate sustainability assessment, management accounting, control, and
+reporting. J Clean Prod 136:237–248. https://​doi.​org/​10.​1016/j.​
+jclep​ro.​2016.​05.​008
+Mahmood Z, Kouser R, Ali W, Ahmad Z, Salman T (2018) Does
+corporate governance affect sustainability disclosure? A mixed
+methods study. Sustainability (switzerland) 10(1):1–20. https://​
+doi.​org/​10.​3390/​su100​10207
+Marrone M, Linnenluecke MK, Richardson G, Smith T (2020) Trends
+in environmental accounting research within and outside of the
+accounting discipline. Account Audit Account J 33(8):2167–2193.
+https://​doi.​org/​10.​1108/​AAAJ-​03-​2020-​4457
+Mervelskemper L, Streit D (2016) Enhancing market valuation of ESG
+performance: is integrated reporting keeping its promise? Bus
+Strateg Environ 26(4):536–549. https://​doi.​org/​10.​1002/​bse.​1935
+Michelon G, Parbonetti A (2012) The effect of corporate governance on
+sustainability disclosure. J Manage Governance 16(3):477–509.
+https://​doi.​org/​10.​1007/​s10997-​010-​9160-3
+Michelon G, Pilonato S, Ricceri F (2015) CSR reporting practices
+and the quality of disclosure: an empirical analysis. Crit Perspect
+Account 33:59–78. https://​doi.​org/​10.​1016/j.​cpa.​2014.​10.​003
+Milne MJ, Gray R (2013) W(h)ither ecology? The triple bottom
+line, the global reporting initiative, and corporate sustainability
+reporting. J Bus Ethics 118(1):13–29. https://​doi.​org/​10.​1007/​
+s10551-​012-​1543-8
+Muhmad SN, Ariff AM, Majid NA, Kamarudin KA (2021) Product
+market competition, corporate governance and ESG. Asian Acad
+Manag J Account Finance 17(1):63–91. https://​doi.​org/​10.​21315/​
+aamja​f2021.​17.1.3
+Nicholls JA (2020) Integrating financial, social and environmental
+accounting. Sustain Account Manag Policy J 11(4):745–769.
+https://​doi.​org/​10.​1108/​SAMPJ-​01-​2019-​0030
+O’Dwyer B, Owen D, Unerman J (2011) Seeking legitimacy for new
+assurance forms: the case of assurance on sustainability reporting. Acc Organ Soc 36(1):31–52. https://​doi.​org/​10.​1016/j.​aos.​
+2011.​01.​002
+Pasko O, Chen F, Oriekhova A, Brychko A, Shalyhina I (2021) Mapping the literature on sustainability reporting: a bibliometric
+analysis grounded in Scopus and Web of Science core collection.
+Eur J Sustain Dev 10(1):303–322. https://​doi.​org/​10.​14207/​ejsd.​
+2021.​v10n1​p303
+Pineda-Escobar MA (2019) Moving the 2030 agenda forward: SDG
+implementation in Colombia. Corp Governance (bingley)
+19(1):176–188. https://​doi.​org/​10.​1108/​CG-​11-​2017-​0268
+Rahman RA, Alsayegh MF (2021) Determinants of corporate environment, social and governance ( ESG ) reporting among Asian firms.
+J Risk Financ Manag 14(167):1–13
+Reyes-Rodríguez JF, Ulhøi JP, Madsen H (2016) Corporate environmental sustainability in Danish SMEs: a longitudinal study of
+motivators, initiatives, and strategic effects. Corp Soc Responsib
+Environ Manag 23(4):193–212. https://​doi.​org/​10.​1002/​csr.​1359
+
+13
+
+126
+Rosati F, Faria LGD (2019) Business contribution to the Sustainable
+Development Agenda: organizational factors related to early
+adoption of SDG reporting. Corp Soc Responsib Environ Manag
+26(3):588–597. https://​doi.​org/​10.​1002/​csr.​1705
+Schaltegger S, Csutora M (2012) Carbon accounting for sustainability and management. Status quo and challenges. J Clean Prod
+36:1–16. https://​doi.​org/​10.​1016/j.​jclep​ro.​2012.​06.​024
+Schaltegger S, Bennett M, Burritt R (2006) Sustainability accounting
+and reporting: development, linkages and reflection: an introduction. Sustain Account Report 1–33. https://​doi.​org/​10.​1007/​
+978-1-​4020-​4974-3_1
+Sekarlangit LD, Wardhani R (2021) The effect of the characteristics
+and activities of the board of directors on sustainable development goal (SDG) disclosures: empirical evidence from southeast
+Asia. Sustainability (Switzerland) 13(14). https://d​ oi.o​ rg/1​ 0.3​ 390/​
+su131​48007
+Sharma M, Sarin A, Gupta P, Sachdeva S, Desai AV (2014) Journal
+impact factor : its use, significance and limitations. World J Nucl
+Med 13(2). https://​doi.​org/​10.​4103/​1450-​1147.​139151
+Sìmnett R, Vanstraelen A, Chua WF (2009) Assurance on sustainability
+reports: an international comparison. Account Rev 84(3):937–
+967. https://​doi.​org/​10.​2308/​accr.​2009.​84.3.​937
+
+13
+
+Environmental Science and Pollution Research (2023) 30:104–126
+Tiwari K, Khan MS (2020) Sustainability accounting and reporting
+in the industry 4.0. J Clean Prod 258. https://​doi.​org/​10.​1016/j.​
+jclep​ro.​2020.​120783
+United Nations (2015) Transforming our world: The 2030 Agenda for
+Sustainable Development, United Nations Resolution 70/1, 25
+September 2015, New York
+Weber O (2013) Environmental, social and governance reporting in
+China. Bus Strateg Environ 23(5):303–317. https://​doi.​org/​10.​
+1002/​bse.​1785
+Ye N, Kueh TB, Hou L, Liu Y, Yu H (2020) A bibliometric analysis of
+corporate social responsibility in sustainable development. J Clean
+Prod 272:122679. https://​doi.​org/​10.​1016/j.​jclep​ro.​2020.​122679
+Publisher's note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of
+such publishing agreement and applicable law.
+
+

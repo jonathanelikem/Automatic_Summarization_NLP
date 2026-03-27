@@ -1,0 +1,3240 @@
+| Revised: 19 January 2023 | Accepted: 24 January 2023
+
+DOI: 10.1111/beer.12519
+
+ORIGINAL ARTICLE
+
+The state of ethical decision-­making research in accounting:
+A retrospective assessment from 1987 to 2022
+Godfred Matthew Yaw Owusu1
+1
+Department of Accounting, University
+of Ghana Business School, Legon-­Accra,
+Ghana
+2
+
+Department of Accounting, University of
+Professional Studies, Accra, Legon-­Accra,
+Ghana
+Correspondence
+Gabriel Korankye, Department of
+Accounting, University of Professional
+Studies, Accra, Legon-­Accra, Ghana.
+Email: gabriel.korankye@upsamail.edu.gh,
+gkorankye2015@gmail.com
+
+| Gabriel Korankye2
+
+Abstract
+This study employs the bibliometric analysis approach to examine research on ethical
+decision-­making (EDM) of accountants from 1987 to 2022. The study specifically examines the developments in EDM research and evaluates the intellectual structure of
+the research field. Employing citation, co-­authorship, co-­occurrence and bibliographic
+coupling analyses, bibliometric data on 908 publications from the Scopus database
+was analysed. The results indicate that there has been a significant increase in the rate
+of publication on EDM of accountants following the spate of ethical breaches in the
+early 2000s. Further, we find that a large proportion of EDM in accounting research
+originates from developed countries like USA, Australia and UK. Our cluster analysis
+suggests that two main research streams have evolved over the period. Prior to 2012,
+researchers in this field mainly focused on individual level issues, particularly, on the
+determinants of the EDM process of individuals. Research, post 2012, however, has
+focused on firm-­level EDM issues including organisational ethics, culture, and corporate governance. The study further discusses the themes in detail andproposes a
+future research agenda.
+KEYWORDS
+
+bibliometric, ethical decision-­making, ethics education
+
+1
+
+|
+
+I NTRO D U C TI O N
+
+confidence in the information they provide. In their field of work,
+however, accountants are faced with dilemmas of conflicting moral
+
+The critical role that professional accountants play in the social and
+
+principles which require deliberate reasoning to help guide their be-
+
+economic development of a country is very acknowledged in the
+
+haviour (Bebi & Xhindi, 2017; Smith et al., 2022). Given that, eth-
+
+literature (Bebi & Xhindi, 2017; Keller et al., 2007). Apart from as-
+
+ical misconducts of accountants could hurt stakeholders such as
+
+sisting businesses in identifying and addressing unique challenges in
+
+shareholders, employees and customers, efforts to maintain an ac-
+
+the areas of strategy, corporate governance, risk management and
+
+ceptable level of ethical conduct within the profession remain top
+
+internal control, they also assist business to meet their financial re-
+
+priority for governments, regulators, organisations, and educators.
+
+porting and accounting responsibilities to their stakeholders. Major
+
+The enactment of the Sarbanes Oxley Act (2002) by the US govern-
+
+stakeholders rely on the integrity of the accounting information
+
+ment, the institution of the IESBA's Ethical Codes for Professional
+
+produced by accountants in their reports for economic and financial
+
+Accountants (2005), and the introduction of ethics into the account-
+
+decision-­making. It is therefore required of the accountant to exhibit
+
+ing curriculum, are some well-­known examples of established mea-
+
+high level of integrity in delivering their mandate of providing credi-
+
+sures to improve ethical behaviour of accountants.
+
+ble financial information for the public (Oboh et al., 2020).
+
+Academic researchers have over years explored ethical decision-­
+
+Professional accountants are expected to be truthful, main-
+
+making (EDM) dimension of ethics as a concept by providing both
+
+tain high ethical standards in order to ensure sustained trust and
+
+theoretical and empirical perspective to the research community.
+
+Business Ethics, Env & Resp. 2023;00:1–16.
+
+wileyonlinelibrary.com/journal/beer
+
+© 2023 John Wiley & Sons Ltd.
+
+| 1
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Received: 29 September 2022
+
+|
+
+OWUSU and KORANKYE
+
+EDM is a series of stages that occur when issues of ethical concern
+
+The current study contributes to literature by providing the first
+
+are considered, and outlines the psychological processes that one
+
+comprehensive review on EDM in accounting research. The study
+
+goes through to arrive at an ethical/unethical decision (Rest, 1988;
+
+employs the bibliometric analysis approach to evaluate a large num-
+
+Valentine & Godkin, 2019). According to Rest (1986), there are four
+
+ber of publications (908 papers) spanning over a 35-­year period
+
+stages of the EDM process; ethical sensitivity, ethical judgement,
+
+(1987–­2022). The next section explains the methods employed in
+
+ethical intention and ethical action. Literature suggests that the con-
+
+achieving the study objectives. Thereafter, we present the results
+
+cept of EDM has been studied both empirically and theoretically,
+
+and further discuss the findings. The final section of the study pro-
+
+and this has led to an accumulation of a corpus of publications.
+
+vides a summary of the key findings and proffers suggestions for
+
+Empirically, researchers in this field of study have proposed
+
+future research.
+
+ways to measure each construct and dimension of the EDM process and identified several predictive factors and outcomes of EDM
+(Casali & Perano, 2021; Lehnert et al., 2015; Uysal, 2010). Further,
+
+1.1 | Literature review
+
+prior studies have proposed a number of EDM theoretical models
+by building on or adapting theories from other disciplines such as
+
+While EDM is not a new research area, it is one of the fields in
+
+philosophy, social psychology, cognitive neuroscience and business
+
+business ethics that has received a lot of attention in recent times.
+
+ethics (Casali & Perano, 2021; Schwartz, 2016). However, little at-
+
+Generally, in business, there has been about five comprehen-
+
+tention has been focused on examining the true state of knowledge
+
+sive reviews; Craft (2013), Ford and Richardson (1994), Lehnert
+
+in the field and how research has evolved in the context of EDM
+
+et al. (2015), Loe et al. (2000) and O'Fallon and Butterfield (2005).
+
+in accounting. A retrospective assessment is necessary not only to
+
+The pioneering review in EDM research in business was conducted
+
+showcase the stock of knowledge in this field of research but also to
+
+by Ford and Richardson (1994), when studies in this field were mostly
+
+highlight the prospective direction of research. As argued by prior
+
+non-­empirical and lacked theoretical backing (Craft, 2013). Ford and
+
+researchers (Apriliyanti & Alon, 2017; Fetscherin & Heinrich, 2015),
+
+Richardson (1994) found that studies within the period covered by
+
+the core objective of every review is to assess the state of knowl-
+
+the review (1978–­1992) focused primarily on individual factors with
+
+edge in a field of study, highlight existing gaps and provide directions
+
+little attention on organisational factors. The researchers (Ford &
+
+for future researchers to advance knowledge in the chosen field.
+
+Richardson, 1994) therefore called for more research to investigate
+
+Further, reviewing studies ensures that future research meets future
+
+the organisational factors that influence EDM. Following Ford and
+
+industry demands and support policy (Lehnert et al., 2015; O'Fallon
+
+Richardson, and employing a similar approach, Loe et al. (2000) pub-
+
+& Butterfield, 2005).
+
+lished the second comprehensive review of EDM research which
+
+While there exists some review studies on the concept of eth-
+
+included publications from 1992 to 1996. Loe et al.'s (2000) review
+
+ics, the focus of extant reviews has largely been on ethics education
+
+revealed that in addition to individual demographic and organisa-
+
+(Poje & Groff, 2021), code of ethics (Delgado-­Alemany et al., 2022)
+
+tional factors, moral philosophy and value orientation emerged as
+
+and ethical behaviour in leadership (Gamarra & Girotto, 2022). The
+
+key constructs being studied in literature.
+
+sparse review studies evaluating EDM literature examined the con-
+
+The third review in the field of EDM in business was conducted
+
+cept in the broader business field (Craft, 2013; Lehnert et al., 2015)
+
+by O'Fallon and Butterfield, and covers the period from 1996 to
+
+or management (Casali & Perano, 2021), and not in accounting. In
+
+2003. It is believed to be one of the most comprehensive reviews
+
+addition, reviews in this field of study usually cover a shorter pe-
+
+in EDM research given that it is the most cited in this field (Lehnert
+
+riod—­10 years or less. For instance, O'Fallon and Butterfield (2005)
+
+et al., 2015). O'Fallon and Butterfield (2005) posit that while there
+
+and Craft's (2013) reviews span from 1996 to 2003 and 2004
+
+has been significant growth in studies evaluating the implications of
+
+to 2011, respectively—­a period of eight years each. Again, to the
+
+individual demographic and organisational factors on EDM, studies
+
+best of our knowledge, there has been no review on EDM pub-
+
+focusing on personality or psychological factors have also attracted
+
+lished since 2015, and this is confirmed through a Boolean search
+
+significant attention. The literature on EDM in business in the pe-
+
+of “ethical decision-­making” AND “review” in the Scopus and Google
+
+riod from 2004 to 2011 was reviewed by Craft (2013). Employing
+
+Scholar databases. Further, prior reviews either employ a system-
+
+Rest's (1986) four step EDM model like Craft (2013), O'Fallon and
+
+atic or meta review approach which are subjective, manual and not
+
+Butterfield (2005), summarised the findings of about 84 empirical
+
+comprehensive as very limited papers are usually employed in such
+
+studies in the field of EDM. Craft (2013) concluded that while de-
+
+reviews (Donthu et al., 2021). This study therefore fills these gaps
+
+mographic factors, psychological factors remain the focus of EDM
+
+by evaluating the literature on EDM in accounting comprehensively
+
+research, there has been renewed interest in evaluating organisa-
+
+employing the bibliometric analysis technique. The main aim of this
+
+tional factors influencing the EDM process. Further, Craft (2013)
+
+paper is to highlight the key issues and provide suggestions to drive
+
+argue that researchers pay less attention to ethical behaviour, the
+
+future research. Specifically, the study examines the developments
+
+final stage of the EDM process.
+
+in EDM in accounting literature, evaluates the intellectual struc-
+
+In 2015, Lehnert et al. advanced the review by Craft (2013),
+
+ture of the research in this field and proposes a research agenda for
+
+by introducing additional studies (57) to the review by Craft and
+
+future studies.
+
+highlighting mediation and moderation studies conducted over
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+2
+
+the period. In addition, Lehnert et al. (2015) place some empha-
+
+publications and objectively represent the relationships among pub-
+
+sis on some statistical and methodological approaches and con-
+
+lications in a specific research field by examining how many times
+
+cerns of the studies that fall within the scope of their research.
+
+such documents have been cited or co-­cited by other publications
+
+The findings of the review by Lehnert et al. (2015) indicate that
+
+(Zamore et al., 2018). Thus, bibliometric citation analysis aids in
+
+research interest individual demographic and psychological fac-
+
+the development of a given research discipline by identifying criti-
+
+tors as well as organisational factors in this field continue to grow.
+
+cal research streams and their underlying theoretical frameworks
+
+Further, the study reveals that there has been emerging stream
+
+(Aprilliani et al., 2014; Effah et al., 2022; Fetscherin & Heinrich, 2015;
+
+of research that evaluates the mediation and moderating roles of
+
+Zamore et al., 2018).
+
+certain factors as gender, religiosity, retaliation and intelligence
+(Lehnert et al., 2015).
+It is interesting to note that none of these reviews specifically
+
+2.2 | Data source
+
+focuses on EDM in accounting. However, EDM research in the accounting context has seen significant growth over the years (Arnold
+
+Data for the review were sourced from the Scopus database. Scopus
+
+et al., 2013; Bebi & Xhindi, 2017; Endenich & Trapp, 2020; Modarres
+
+is a multidisciplinary indexing and abstracting database of scientific
+
+& Rafiee, 2011; Oboh et al., 2020; Valentine & Godkin, 2019).
+
+research with over 25,000 active titles and from over 7000 publish-
+
+Accounting as a profession and a discipline depends largely of moral
+
+ers. The Scopus database provides users with access to thousands of
+
+uprightness which can be achieved through EDM. Further, accoun-
+
+titles, millions of authors and over 1.7 billion cited references (Baas
+
+tants are faced with ethical dilemmas every day and in the normal
+
+et al., 2020). The study employs Scopus database for three main rea-
+
+course of their business, and thus are required to make ethical
+
+sons. First, Scopus has comprehensive bibliometric information for
+
+choices at all times (Leitsch, 2006).
+
+its indexed publications, including author information, citation infor-
+
+What is common in all these past reviews is that, the studies em-
+
+mation and references. Second, the publications in the database are
+
+ploy systematic review approach. Whiles systematic reviews have
+
+subjected to stringent indexing requirements. Finally, Scopus is iden-
+
+methodological rigour and thus can be replicated, it has its weak-
+
+tified as a high-­quality source for bibliometric data (Baas et al., 2020;
+
+nesses. That is, systematic reviews are subjective and susceptible to
+
+Donthu et al., 2021), and other bibliometric studies in the business,
+
+biases, which may in turn render the results unreliable. In addition to
+
+accounting and finance domain extract their data from the database
+
+being subjective, systematic reviews employ smaller data sets given
+
+(Effah et al., 2022; Poje & Groff, 2021).
+
+that the data are manually managed and reviewed (Owens, 2021).
+
+The literature search technique is important to review stud-
+
+To fill this gap, this current research complements prior studies by
+
+ies, and it is one way of validating the review. Thus, following prior
+
+employing bibliometric analysis in performing a review of literature
+
+studies, this current review employs the Boolean search approach
+
+in the field of EDM in accounting. Bibliometric analysis involves
+
+developed by George Boole. The Boolean search is a query tech-
+
+the application quantitative techniques to measure, track and anal-
+
+nique that employs a logic to connect individual keywords or phrases
+
+yse scholarly publications (Rojas-­Sanchez et al., 2022). According
+
+within a query (Ensor, 1992; Hersh et al., 2001). The approach uses
+
+to Donthu et al. (2021), bibliometric techniques such as citation,
+
+three main operators, “AND”, “OR”, and “NOT” to enable research-
+
+co-­occurrence and bibliographic coupling techniques, on bibliomet-
+
+ers achieve their search goal. First, the researchers perform an ad-
+
+ric data. Although bibliometric analysis was introduce in research in
+
+vanced search in the Scopus database for publications on EDM in
+
+the early 1950s, it only gained popularity in recent times due the
+
+accounting, using the query; “ethical decision-­making” OR “ethical
+
+availability of bibliometric software and databases that curates
+
+decision making” AND “account”. The initial search generated a total
+
+bibliometric data.
+
+of 3618 documents, which were further filtered. Given the focus on
+accounting related EDM research, the subject area was limited to
+
+2
+
+|
+
+M E TH O D S
+
+2.1 | Study design
+
+“Business, Management and Accounting” only. Next, the document
+type was limited to “journal articles”, “book chapters” and “reviews”,
+while the document source or source type was limited to “journals”,
+“books” and “book series”(see Figure 1). After the filtration process,
+1496 documents were exported for further screening (see Table 1).
+
+The bibliometric review approach was employed for this study.
+
+During the screening process, the researchers first checked for
+
+Bibliometric analysis refers to the use of statistical tools and tech-
+
+duplicated documents using Microsoft Excel. Four documents were
+
+niques to evaluate articles, books, conference proceedings and
+
+found to be duplicated and hence deleted from the list. The second
+
+other publications and their citations with regard to their scientific
+
+stage of the screening process involved the manual evaluation of the
+
+contents. Such bibliometric contents include citations, keywords,
+
+documents to ensure the eligibility. The researchers scanned for ir-
+
+country of origin, document sources and affiliation, among others.
+
+relevant documents by reading the titles and abstracts of the docu-
+
+The specific analysis performed for this study includes the citation
+
+ments exported. A document is eligible if the abstract suggests the
+
+analysis, co-­
+citation analysis, co-­
+occurrence analysis and biblio-
+
+subect matter being discussed is “ethical decision-­making in the con-
+
+graphic coupling analysis. Bibliometric analysis identifies the focal
+
+text of accounting”. After manually going through all the documents,
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 3
+
+OWUSU and KORANKYE
+
+|
+
+OWUSU and KORANKYE
+
+F I G U R E 1 Data Collection Procedure.
+
+TA B L E 1 Data structure.
+
+citation, co-­citation and bibliographic coupling) and the keyword co-­
+occurrence analysis (van Eck & Waltman, 2010). Second, VOSviewer
+
+Document type
+
+Before
+filtration
+
+After
+After filtration screening
+
+Journal Article
+
+2617
+
+1347
+
+Book
+
+346
+
+Book Chapter
+
+263
+
+Review
+
+244
+
+Conference Paper
+
+121
+
+Editorial
+
+12
+
+Waltman, 2010). Thus, it is very appropriate for such visualisation
+
+Note
+
+10
+
+map analyses. Science mapping refers to the evaluation of the in-
+
+Letter
+
+2
+
+tellectual interactions and structural connections among research
+
+Short Survey
+
+2
+
+constituents (Donthu et al., 2021). The various science mapping
+
+Retracted
+
+1
+
+techniques include citation analysis, co-­
+citation analysis, biblio-
+
+Total
+
+3618
+
+908
+
+(for example, Scopus, web of science and PubMed, etc.), as well as
+all data standardised formats (such as CSV, RIS, BibTex, etc). Further,
+creating and visualising bibliographic networks is easy and simple
+
+118
+
+with VOSviewer's user-­friendly interface. Additionally, VOSviewer
+allows the users three alternative view options; the network maps,
+
+31
+
+1496
+
+accepts inputs from a wide variety of bibliometric database sources
+
+the density overview and the overlay visualisation (van Eck &
+
+908
+
+a total of 588 articles were found to be irrelevant and hence were
+
+graphic coupling and keyword analysis (Donthu et al., 2021; van Eck
+& Waltman, 2010).
+
+deleted. The final documents employed in the analysis were 908.
+
+3
+
+2.3 | Data analysis
+
+3.1 | Volume, growth and trajectory of EDM in
+accounting research
+
+The data were analysed using Microsoft excel and VOSviewer ap-
+
+Figure 2 illustrates the volume, growth and trajectory of EDM in
+
+plication, version 1.6.18. The study employs the Microsoft excel to
+
+accounting literature available in Scopus from 1987 to date. The
+
+undertake the performance analysis, which includes the total pub-
+
+analysis reveals that scholarly interest in the concept of EDM in
+
+lications, total and average citations and collaboration index. The
+
+accounting has been on the rise over the past 35 years. Out of
+
+VOSviewer, on the other hand, is employed in this study to perform
+
+the 908 documents included in this study, only one article each
+
+the science mapping analysis. VOSviewer is a computer program
+
+was published in 1987 and 1988, in the Scopus database. Apart
+
+that uses the visualisation of similarities (VOS) mapping technique
+
+from 1989 and 1991 which had no publications, every other year
+
+to provide distance-­based visualisations of bibliometric networks
+
+to 2005 recorded single digit publications. Since 1987, the num-
+
+(Perianes-­Rodriguez et al., 2016; van Eck & Waltman, 2010). The
+
+ber of publications has steadily increased, with a sharp rise (more
+
+VOSviewer is preferred to other bibliometric analysis software
+
+than 100% increase) in the 2006. The increase in publications
+
+for four main reasons. First, VOSviewer allows researchers to per-
+
+may be attributed to the growing interest shown by research-
+
+form all the four citation-­
+based analysis (that is, co-­
+authorship,
+
+ers in the concept of EDM in accounting, and the escalation of
+
+|
+
+R E S U LT S A N D D I S CU S S I O N
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+4
+
+120
+
+80
+60
+40
+20
+0
+-20
+
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+
+Number of Publications
+
+100
+
+-40
+
+Year
+
+F I G U R E 2 Distribution of Publications across Years.
+
+corporate accounting scandals in the early 2000 s. For instance,
+
+citations is Tsui and Windsor's (2001) paper ‘Some cross-­cultural
+
+the WorldCom, Enron and Tyco scandals raised a lot of concerns
+
+evidence on ethical reasoning’. The common trait among these cite
+
+for the ethical behaviour of accountants, thus sparking a lot of
+
+papers is that they were all published before 2002, an indication
+
+research interest. The year with the highest number of publica-
+
+that as older articles tend to have more citations than the very
+
+tions is 2021 (n = 96 publications). However, in the current year,
+
+recent ones.
+
+2022, the total publications as at the date of data retrieval (31
+October 2022) was 82, which is more than 85 percent of the total
+publications in 2021. It is therefore safe to project that there will
+
+3.3 | Most productive and influential authors
+
+be more publications at the end of 2022 than in 2021. This is an
+indication that the issue of EDM in accounting remains a relevant
+
+An analysis of the dominant authors in the field of EDM research
+
+topic of discussion).
+
+was conducted and results of the top 20 most productive and influential authors are as shown in Table 3. A total of 1859 authors
+
+3.2 | Most cited publications
+
+contributed to the 908 publications used in the study analysis. Panel
+A of Table 3 shows that Mary B Curtis is the most productive author
+in this research domain with 10 publications, followed by LM Smith
+
+While the extent of influence of a published document may be
+
+who has 9 publications to his credit. All the top 20 productive au-
+
+determined by how it impacts on teaching and policy framework,
+
+thors had at least three publications to their credit.
+
+an objective way of assessing the impact of researcher's work is by
+
+In evaluating the influence or impact of an author, we employ the
+
+reference to the number of citations. The more citations a publica-
+
+number of citations and average citations per publication (AC/P) of
+
+tion has the more influential it is deemed to be. The top 20 most
+
+the author. The results suggest that Ken McPhial, although has only
+
+cited papers are presented in Table 2. From the results, about 80%
+
+two publications, is the most influential author with 246 citations,
+
+of the studies ranking high in terms of citations were published
+
+followed by Lawrence A. Ponemon with one article and 219 citations
+
+before 2010. Further, approximately 50% of the most cited papers
+
+to his credit. It is interesting to note that while Mary B Curtis ranks
+
+were published between 2000 and 2010. Ponemon's (1992) paper
+
+first in terms productivity, she is the third most influential author in
+
+‘Ethical reasoning and selection-­socialization in accounting’ has re-
+
+the field of EDM in accounting. Given the variations in the number
+
+ceived the most citations over the review period, with a total of
+
+of publications of the authors and in an attempt to standardise the
+
+219 citations to date. The paper titled ‘Teaching ethics in accounting
+
+basis for assessing an author's impact, we subsequently employed
+
+and the ethics of accounting teaching: Educating for immorality and a
+
+the AC/P to rank the authors. Based on the AC/P analysis, Lawrence
+
+possible case for social and environmental accounting education’ by
+
+A. Ponemon emerged as the most impactful researcher, while Jan
+
+Gray, Bebbington and McPhail (1994) emerged the second most
+
+Bebbington and Rob Gray rank second (with 131 AC/P each), and
+
+cited paper with 131 citations. Following in third position with 119
+
+Mary B Curtis ranks nineteenth.
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 5
+
+OWUSU and KORANKYE
+
+|
+
+OWUSU and KORANKYE
+
+TA B L E 2 Most Cited Publications (Top 20).
+Rank
+
+Title
+
+Year
+
+Authors
+
+Journal
+
+TC
+
+ACPY
+
+1
+
+Ethical reasoning and selection-­socialisation in
+accounting
+
+1992
+
+Ponemon L.A.
+
+Accounting, Organisations
+and Society
+
+219
+
+7.30
+
+2
+
+Teaching ethics in accounting and the ethics of
+accounting teaching: Educating for immorality
+and a possible case for social and environmental
+accounting education
+
+1994
+
+Grey R., Bebbington J., Accounting Education
+McPhail K.
+
+131
+
+4.68
+
+3
+
+Some cross-­cultural evidence on ethical reasoning
+
+2001
+
+Tsui J., Windsor C.
+
+Journal of Business Ethics
+
+119
+
+5.67
+
+4
+
+The other objective of ethics education: Re-­humanising
+the accounting profession -­A study of ethics
+education in law, engineering, medicine and
+accountancy
+
+2001
+
+McPhail K.
+
+Journal of Business Ethics
+
+115
+
+5.48
+
+5
+
+The effect of client management bargaining power,
+moral reasoning development, and belief in a just
+world on auditor independence
+
+1995
+
+Windsor C.A.,
+Ashkanasy N.M.
+
+Accounting, Organisations
+and Society
+
+88
+
+3.26
+
+6
+
+Auditors' behaviour in an audit conflict situation: A
+research note on the role of locus of control and
+ethical reasoning
+
+1996
+
+Tsui J.S.L., Gul F.A.
+
+Accounting, Organisations
+and Society
+
+86
+
+3.31
+
+7
+
+Culture, economic development, and national ethical
+attitudes
+
+2008
+
+Franke G.R., Nadler
+S.S.
+
+Journal of Business
+Research
+
+84
+
+6.00
+
+8
+
+Damaged goods: Board decisions to dismiss
+reputationally compromised directors
+
+2011
+
+Cowen A.P., Marcel J.J. Academy of Management
+Journal
+
+82
+
+7.45
+
+9
+
+Do gender, educational level, religiosity, and work
+experience affect the ethical decision-­making of
+U.S. accountants?
+
+2007
+
+Keller A.C., Smith K.T.,
+Smith L.M.
+
+Critical Perspectives on
+Accounting
+
+79
+
+5.27
+
+10
+
+The discursive construction of gender in contemporary
+management literature
+
+2008
+
+Kelan E.K.
+
+Journal of Business Ethics
+
+75
+
+5.36
+
+11
+
+A study of whistleblowing among trainee auditors
+
+2007
+
+Brennan N., Kelly J.
+
+British Accounting Review
+
+74
+
+4.93
+
+12
+
+Ego depletion and its paradoxical effects on ethical
+decision making
+
+2014
+
+Yam K.C., Chen X.-­P.,
+Reynolds S.J.
+
+Organisational Behaviour
+and Human Decision
+Processes
+
+73
+
+9.13
+
+13
+
+Ethics-­related responses to specific situation vignettes:
+Evidence of gender-­based differences and
+occupational socialisation
+
+2000
+
+Smith A., Rogers V.
+
+Journal of Business Ethics
+
+71
+
+3.23
+
+14
+
+The dynamics of intuition and analysis in managerial and 2018
+organisational decision making
+
+Hodgkinson G.P.,
+Sadler-­Smith E.
+
+Academy of Management
+Perspectives
+
+70
+
+17.50
+
+15
+
+Towards a conceptual model of whistle-­blowing
+intentions among external auditors
+
+2013
+
+Alleyne P., Hudaib M.,
+Pike R.
+
+British Accounting Review
+
+69
+
+7.67
+
+16
+
+Emergence of ethical issues during strategic change
+implementation
+
+2009
+
+Sonenshein S.
+
+Organisation Science
+
+69
+
+5.31
+
+17
+
+Cognitive moral development and auditor independence 1997
+
+Sweeney J.T., Roberts
+R.W.
+
+Accounting, Organisations
+and Society
+
+68
+
+2.72
+
+18
+
+Moral intensity and ethical decision-­making: An
+empirical examination of undergraduate accounting
+and business students
+
+2009
+
+Sweeney B., Costello F. Accounting Education
+
+65
+
+5.00
+
+19
+
+The impact of an ethical environment on managers'
+project evaluation judgements under agency
+problem conditions
+
+2004
+
+Booth P., Schulz
+A.K.-­D.
+
+Accounting, Organisations
+and Society
+
+65
+
+3.61
+
+20
+
+Ethical climate in Chinese CPA firms
+
+2008
+
+Shafer W.E.
+
+Accounting, Organisations
+and Society
+
+60
+
+4.29
+
+Abbreviations: ACPY, average citations per year; TC, total citations.
+
+3.4 | Co-­authorship analysis
+
+scholars is common in recent times due to methodological complexities. The co-­authorship analysis helps uncover the network of
+
+Co-­authorship analysis evaluates the interactions among research-
+
+researchers that work together to bring clarity to the subject area
+
+ers in a particular field (Donthu et al., 2021). Collaboration among
+
+under study (Donthu et al., 2021; Effah et al., 2022). Employing a
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+6
+
+TA B L E 3 Dominant Authors (Top 20).
+Panel A
+Rank
+
+with one publication and three citations. The dominance of the de-
+
+Panel B
+
+Author
+
+TP
+
+TC
+
+Author
+
+veloped countries may be due to the fact that most of the reported
+TP
+
+TC
+
+AC/P
+
+1
+
+Curtis M.B.
+
+10
+
+206
+
+Mcphail K.
+
+2
+
+246 123.00
+
+2
+
+Smith L.M.
+
+9
+
+167
+
+Ponemon L.A.
+
+1
+
+219
+
+219.00
+
+3
+
+Smith K.T.
+
+6
+
+112
+
+Curtis M.B.
+
+10
+
+206
+
+20.60
+
+4
+
+De Cremer D.
+
+5
+
+125
+
+Shafer W.E.
+
+4
+
+186
+
+46.50
+
+corporate scandals occurred in these developed settings.
+
+3.6 | Leading journals in ethical decision-­
+making research
+
+5
+
+Dellaportas S.
+
+5
+
+80
+
+Smith L.M.
+
+9
+
+167
+
+18.56
+
+It is evident from Table 5 that the most prolific outlet for EDM lit-
+
+6
+
+Fleischman
+G.M.
+
+5
+
+65
+
+Windsor C.
+
+2
+
+151
+
+75.50
+
+erature is the Journal of Business Ethics (JBE). Out of the 337 publica-
+
+7
+
+Mintz S.M.
+
+5
+
+79
+
+Bebbington J.
+
+1
+
+131 131.00
+
+the total publications included in this study, and this is not surpris-
+
+8
+
+Thorne L.
+
+5
+
+80
+
+Grey R.
+
+1
+
+131 131.00
+
+ing for two reasons. First, JBE is designated to publish articles of
+
+tion outlets that were identified, JBE accounted for about 16.74% of
+
+9
+
+Bernardi R.A.
+
+4
+
+51
+
+De Cremer D.
+
+5
+
+125
+
+25.00
+
+wide range methodological and disciplinary perspectives concerning
+
+10
+
+Johnson E.N.
+
+4
+
+70
+
+Yam K.C.
+
+2
+
+122
+
+61.00
+
+ethical issues related to business. Second, JBE has been in existence
+
+11
+
+Pitesa M.
+
+4
+
+76
+
+Tsui J.
+
+1
+
+119
+
+119.00
+
+since 1980, thus old and predates the period covered by the cur-
+
+12
+
+Shafer W.E.
+
+4
+
+186
+
+Smith K.T.
+
+6
+
+112
+
+18.67
+
+rent review. The second dominant journal is Research on Professional
+
+13
+
+Wang L.
+
+4
+
+56
+
+Sadler-­Smith E.
+
+3
+
+111
+
+37.00
+
+14
+
+Alleyne P.
+
+3
+
+108
+
+Alleyne P.
+
+3
+
+108
+
+36.00
+
+15
+
+Bailey C.D.
+
+3
+
+65
+
+Taylor E.Z.
+
+3
+
+105
+
+35.00
+
+16
+
+Conover T.L.
+
+3
+
+51
+
+Gul F.A.
+
+2
+
+100
+
+50.00
+
+17
+
+Cooper B.J.
+
+3
+
+79
+
+Pillutla M.M.
+
+3
+
+94
+
+31.33
+
+18
+
+Giacalone R.A.
+
+3
+
+62
+
+Sonenshein S.
+
+2
+
+92
+
+46.00
+
+publication (AC/P), the results reveal that although ‘Accounting,
+
+19
+
+Leung P.
+
+3
+
+79
+
+Ashkanasy
+N.M.
+
+1
+
+88
+
+88.00
+
+Organisations and Society’ ranks sixth in terms of the volume of
+
+20
+
+Payne S.L.
+
+3
+
+68
+
+Windsor C.A.
+
+1
+
+88
+
+88.00
+
+Responsibility and Ethics in Accounting, with 39 publications. It is indicative from the title of the journal that it is also an ethics focused
+journal that provides a significant platform for advancing EDM in
+accounting research. The remaining publications are widely spread
+across 335 journals.
+Evaluating the journals based on the average citations per
+
+publications, it emerged as the most cited Journal with an AC/P
+score of 51.64. “Organisational Behavior and Human Decision
+Processes”, “Critical Perspectives on Accounting”, “Business Ethics
+
+threshold of collaborative effort of at least one paper with a minimum
+
+Quarterly” and “Journal of Business Research” occupied the 2nd to
+
+of 30 citations, the study identifies 289 scholars who co-­authored
+
+5th positions respectively with AC/P scores ranging from of 24.33
+
+among themselves. The authors who have collaborated most with
+
+to 32.63. It is interesting to note that JBE, which ranked first in
+
+other scholars are Mary B. Curtis (with 10 co-­authored publications),
+
+respect of number of publications, ranks seventh when the AC/P
+
+Lawrence Murphy Smith, Tara J. Shawver, and Katherine T. Smith,
+
+is taken into account.
+
+who have a minimum of six collaborations each with other researchers. However, the map shows that there is a close and strong link
+between Lawrence Murphy Smith and Katherine T. Smith, which
+
+3.7 | Keyword analysis
+
+suggests that the two scholars have collaborated and produced
+more documents than all the other collaborative scholars (6 articles
+
+The keyword co-­o ccurrence (or co-­word) analysis was performed
+
+between the two scholars) (Figure 3).
+
+to identify the areas of investigation and the structure of research
+in the EDM field. The results, as indicated in Figure 4 (Panel A),
+
+3.5 | Geographical distribution of publications
+
+show that the concept of ethics is largely considered in the EDM
+in accounting research. This finding is not surprising as ethics is
+the foundation of EDM literature. Further, it can be observed
+
+The country analysis clearly shows that most of the papers in this
+
+that studies have explored EDM in relation to business ethics,
+
+field of study (about 47% of the total publications) originated from
+
+corporate governance, whistleblowing, individual demographics
+
+the United States of America (USA). Australia, United Kingdom,
+
+(example, age and gender), moral intensity and other psychologi-
+
+Canada and China follow distantly from 2nd to 5th positions (see
+
+cal factors (for example, emotion, personal values and intuition).
+
+Table 4). Evidently, studies originating from the African continent are
+
+Additionally, EDM has been studied in respect of all the various
+
+few, and no African country ranks in the top 20. Out of 79 countries
+
+professionals associated with accounting (that is, external audi-
+
+that met the threshold, only seven (less than 10%) were from the
+
+tors, internal auditors, accountants in business, tax experts and
+
+African continent. For instance, South Africa, which is the highest-­
+
+students, among others).
+
+ranking African country (29th position), had seven publications and
+
+A closer examination of the keyword analysis reveals that
+
+51 citations, while Zimbabwe had the least ranking (79th position),
+
+three theories have been dominant in the EDM research over
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 7
+
+OWUSU and KORANKYE
+
+|
+
+OWUSU and KORANKYE
+
+F I G U R E 3 Co-­authorship Network Map.
+the period under review, the Theory of Planned Behaviour, the
+
+as artificial intelligence and big data in recent years (that is the
+
+Institutional theory and the Stakeholder theory. Further analysis,
+
+period after 2018).
+
+employing the time overlay visualisation (as shown in Panel B of
+Figure 4), indicates that investigations into ethics, business ethics, auditors and EDM were more prevalent in the period from
+
+3.8 | Bibliographic coupling
+
+2000 until 2012. This finding supports the picture depicted by the
+publication by year graph. Similarly, Poje and Groff (2021) argue
+
+Bibliographic coupling is an analysis technique that operates on
+
+that the focus on ethics from 2000 to 2012 was as a result of the
+
+the assumption that two publications sharing common refer-
+
+recurrence of ethical breaches within that period. From 2014 to
+
+ences are similar in their content (Donthu et al., 2021; Perianes-­
+
+2018, studies in the field of EDM in accounting focused on issues
+
+Rodriguez et al., 2016; van Eck & Waltman, 2010). Coupled with
+
+such as gender, moral intensity, ethical ideologies (idealism and
+
+the keyword co-­o ccurrence analysis, the bibliographic coupling
+
+relativism), ethics education and accounting education, and their
+
+analysis is employed to evaluate the thematic clusters that have
+
+influence on EDM. Thus, research during this period focused on
+
+been studied in literature, either historically or backwardly, and
+
+psychosocial factors that influence EDM. In addition, firm level
+
+current content or trends. The clusters (colour-­coded nodes,
+
+issues, such as organisational ethics, ethical climate, ethical lead-
+
+with different colours representing different clusters) identified
+
+ership, whistleblowing and fraud, were predominant in the period
+
+represent thematic areas in the field being studied. Thus, the six
+
+between 2016 and 2018 (Table 6).
+
+different colours in the bibliographic coupling map in Figure 5
+
+In recent times, the discussion has focused on the demographic and psychological factors that influence the EDM of
+individuals. For instance, the overlay visualisation map shows
+
+suggest six different research themes in the field of EDM in
+accounting.
+The authors label the six clusters identified as follows;
+
+keywords such as religiosity, ethical leadership, moral disengagement, creativity, experience and ethics training, being
+
+• Cluster 1 (red): Demographic Determinants of EDM
+
+highlighted in the latter years (2018–­2 022). In addition, EDM in
+
+• Cluster 2 (blue): Psychological (Emotional) Determinants of EDM
+
+accounting has been studied in the context of newer concepts
+
+• Cluster 3 (see blue): Ethics Education and EDM
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+8
+
+TA B L E 4 Dominant Publication Origins (Top 20).
+
+Further, the researchers find that most of the most influential publications, and especially the top five, were all published before 2002.
+
+Rank
+
+Country
+
+TP
+
+TC
+
+AC/P
+
+1
+
+USA
+
+426
+
+6186
+
+14.52
+
+2
+
+Australia
+
+83
+
+1314
+
+15.83
+
+3
+
+United Kingdom
+
+83
+
+1525
+
+18.37
+
+4
+
+Canada
+
+55
+
+608
+
+11.05
+
+a lot of citations. Additionally, most of the influential publications
+
+5
+
+China
+
+45
+
+519
+
+11.53
+
+have been in existence for long and thus have had enough time to
+
+6
+
+Germany
+
+32
+
+302
+
+9.44
+
+attract a lot of citations.
+
+7
+
+France
+
+27
+
+272
+
+10.07
+
+8
+
+Malaysia
+
+23
+
+170
+
+7.39
+
+9
+
+Netherlands
+
+21
+
+313
+
+14.90
+
+10
+
+Hong Kong
+
+20
+
+444
+
+22.20
+
+11
+
+New Zealand
+
+17
+
+170
+
+10.00
+
+12
+
+Spain
+
+16
+
+209
+
+13.06
+
+13
+
+Indonesia
+
+15
+
+75
+
+5.00
+
+14
+
+Switzerland
+
+14
+
+156
+
+11.14
+
+15
+
+India
+
+13
+
+136
+
+10.46
+
+16
+
+Italy
+
+13
+
+235
+
+18.08
+
+cultural and environmental determinants of EDM”, “EDM and whistle-
+
+Most of the ethical scandals that plagued the accounting profession
+occurred after 2003, and this attracted a lot of policy and research
+interest. Therefore, publications on EDM in accounting that precedes (or even coincided with) these scandals were likely to receive
+
+4.2 | Developments in ethical decision making of
+accountants research
+Employing the keyword (network cluster map and overlay visualisation) in conjunction with the bibliographic coupling analyses, the
+study identifies six thematic areas that have been studied over the
+period. The themes are “demographic factors and EDM process”, “psychological determinants of EDM”, “ethics education and EDM”, “social,
+
+17
+
+Singapore
+
+12
+
+164
+
+13.67
+
+blowing intentions” and “firm level EDM”. It is indicative from the
+
+18
+
+Turkey
+
+11
+
+32
+
+2.91
+
+analysis that prior to 2012, the dominant issues discussed were de-
+
+19
+
+Ireland
+
+10
+
+194
+
+19.40
+
+mographic determinants of EDM and firm level EDM. For instance,
+
+20
+
+Tunisia
+
+10
+
+54
+
+5.40
+
+keywords such as age, auditors, business ethics and responsibility are highlighted as dominant in the pre-­2012 period (as shown
+in Panel B of Figure 4). Possible explanations to the dominance
+
+• Cluster 4 (green): Social, Cultural and Environmental Determinants
+of EDM
+• Cluster 5 (purple): Whistleblowing and EDM of Auditors
+• Cluster 6 (yellow): Firm Level EDM
+
+of these issues in the period before 2012 may be the newness of
+the concept in accounting literature and the recurrence of ethical
+breaches within organisations.
+The second part of the period under review is from 2012 to
+2016. In this period, the thematic areas that were discussed in-
+
+These clusters are explored further in the discussion section
+
+clude ethics education and EDM, as well as EDM and whistleblow-
+
+of the study. Further, the overlay visualisation map (see Panel B of
+
+ing. For instance, keywords such as accounting, ethics, ethical
+
+Figure 4) indicates that the themes captured in clusters one, five and
+
+decision-­m aking, ethics education, auditing, fraud and governance
+
+six were dominant in the period before 2012. The themes under clus-
+
+were predominantly used by researchers from 2012 to 2016.
+
+ters two, three and four, on the other hand, were dominant in the
+
+Further, the results reveal that discussions on social, cultural and
+
+post 2012 period.
+
+environmental determinants of EDM emerged, while research on
+firm-­level EDM and demographic determinants of EDM contin-
+
+4
+
+|
+
+DISCUSSION
+
+4.1 | Dominant and influential publications
+
+ued. Some keywords employed to depict these themes within the
+period are ethical judgement, code of ethics, accounting ethics
+and social behaviour. The reason underpinning the shift towards
+these broad themes can be attributed to the quest for more promising means of curbing unethical behaviour and maintaining the
+
+The bibliometric analysis on the citation by documents (see Table 2)
+
+integrity of the accounting profession.
+
+indicates that Ponemon's (1992) paper titled “Ethical Reasoning and
+
+The final timeframe of the review period spans from 2017 to
+
+Selection-­socialization in Accounting” is the most influential paper
+
+2022 and accommodates more than 50% of the total documents in-
+
+in the EDM in accounting literature for the period under review.
+
+cluded in this study. The themes focused on by researchers during
+
+Ponemon (1992), using the cognitive developmental theory, evalu-
+
+this period include social, cultural and environmental determinants
+
+ates the impact of accounting firm socialisation on the ethical rea-
+
+and psychological determinants of EDM. We also note that, issues
+
+soning of accountants. The study provided a reasonable explanation
+
+that emerged from the post scandal period were still gaining re-
+
+to accountants' ethical behaviour in the work environment, and thus,
+
+search attention. For instance, scholars are advancing knowledge
+
+placing the publication at the centre of EDM in accounting literature.
+
+on issues as ethics education, firm level EDM as well as EDM in the
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 9
+
+OWUSU and KORANKYE
+
+|
+
+OWUSU and KORANKYE
+
+TA B L E 5 Dominant Publication Outlets.
+Panel A
+
+Panel B
+
+Rank Journal
+
+TP
+
+TC
+
+Journal
+
+TP
+
+TC
+
+1
+
+Journal of Business Ethics
+
+152
+
+3129
+
+Accounting, Organisations and Society
+
+14
+
+723
+
+51.64
+
+2
+
+Research on Professional Responsibility
+and Ethics in Accounting
+
+39
+
+224
+
+Organisational Behaviour and Human
+Decision Processes
+
+8
+
+261
+
+32.63
+
+3
+
+Accounting Education
+
+30
+
+618
+
+Critical Perspectives on Accounting
+
+8
+
+258
+
+32.25
+
+4
+
+Behavioural Research in Accounting
+
+17
+
+307
+
+Business Ethics Quarterly
+
+12
+
+360
+
+30.00
+
+5
+
+Advances in Accounting Behavioural
+Research
+
+16
+
+34
+
+Journal of Business Research
+
+9
+
+219
+
+24.33
+
+6
+
+Accounting, Organisations and Society
+
+14
+
+723
+
+Accounting Education
+
+30
+
+618
+
+20.60
+
+7
+
+Journal of Accounting Education
+
+13
+
+200
+
+Journal of Business Ethics
+
+152
+
+3129
+
+20.59
+
+8
+
+Accounting, Auditing and Accountability
+Journal
+
+12
+
+193
+
+Science and Engineering Ethics
+
+10
+
+193
+
+19.30
+
+ACPP
+
+9
+
+Business Ethics Quarterly
+
+12
+
+360
+
+Accounting and the Public Interest
+
+7
+
+127
+
+18.14
+
+10
+
+Issues in Accounting Education
+
+12
+
+113
+
+Behavioural Research in Accounting
+
+17
+
+307
+
+18.06
+
+11
+
+Contemporary Accounting Research
+
+11
+
+193
+
+Contemporary Accounting Research
+
+11
+
+193
+
+17.55
+
+12
+
+Science and Engineering Ethics
+
+10
+
+193
+
+Accounting, Auditing and Accountability
+Journal
+
+12
+
+193
+
+16.08
+
+13
+
+Journal of Applied Accounting Research
+
+9
+
+56
+
+Journal of Accounting Education
+
+13
+
+200
+
+15.38
+
+14
+
+Journal of Business Research
+
+9
+
+219
+
+Accounting and Finance
+
+8
+
+109
+
+13.63
+
+15
+
+Meditari Accountancy Research
+
+9
+
+56
+
+Issues in Accounting Education
+
+12
+
+113
+
+9.42
+
+16
+
+Accounting And Finance
+
+8
+
+109
+
+Journal of Applied Accounting Research
+
+9
+
+56
+
+6.22
+
+17
+
+Accounting Forum
+
+8
+
+46
+
+Meditari Accountancy Research
+
+9
+
+56
+
+6.22
+
+18
+
+Critical Perspectives on Accounting
+
+8
+
+258
+
+Accounting Forum
+
+8
+
+46
+
+5.75
+
+19
+
+Organisational Behaviour and Human
+Decision Processes
+
+8
+
+261
+
+Research on Professional Responsibility
+and Ethics in Accounting
+
+39
+
+224
+
+5.74
+
+20
+
+Accounting and the Public Interest
+
+7
+
+127
+
+Advances in Accounting Behavioural
+Research
+
+16
+
+34
+
+2.13
+
+context of whistleblowing. Some of the frequently employed key-
+
+& Butterfield, 2005). Generally, prior studies conclude that males
+
+words include empathy, anger, moral identity, earnings management,
+
+and younger individuals are more likely to be unethical (Bateman &
+
+ethical leadership and higher education.
+
+Valentine, 2010; Lehnert et al., 2015; Robin & Babin, 1997).
+
+4.3 | Themes in ethical decision-­making research
+in accounting
+
+4.3.2 | Psychological (emotional) determinants of
+ethical decision-­making
+
+4.3.1 | Demographic determinants of ethical
+decision-­making
+
+This thematic area focuses on examining the various psychological
+
+Demographic factors include all statistical human characteristics such
+
+Sulastri & Kasanah, 2021; Sweeney & Costello, 2009; Yam
+
+as age, gender, income, educational level and level of experience. A
+
+et al., 2014). The pioneering study that set the ball rolling for this
+
+wide range of demographic factors has been studied in literature, and
+
+thematic area was published in 1993 by Cohen, Pant, and Sharp.
+
+determinants of the EDM process of accountants, particularly at
+the individual level (Alleyne, Cadogan-­M cClean, & Harper, 2013;
+
+over the period under review. Literature suggests that gender, age, re-
+
+Cohen et al. (1993) developed a multidimensional scale for meas-
+
+ligiosity, educational level, experience, income and setting, influence
+
+uring ethics behaviour of individuals; thus, more researchers could
+
+an individual's EDM (Bateman & Valentine, 2010; Keller et al., 2007;
+
+measure and evaluate individual ethical behaviour. Prior studies
+
+Radtke, 2000; Robin & Babin, 1997; Roxas & Stoneback, 2014). It
+
+have evaluated the relationship between emotion, personal val-
+
+must be noted that age and gender have received the most atten-
+
+ues, self-­interest, anger and empathy among other psychologi-
+
+tion among all the demographic factors, and this is in line with the
+
+cal factors and EDM. For instance, Alleyne, Cadogan-­M cClean,
+
+findings of prior reviews (Craft, 2013; Lehnert et al., 2015; O'Fallon
+
+& Harper, (2013), investigate the effects of personal values on
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+10
+
+| 11
+
+(a)
+
+(b)
+
+F I G U R E 4 Time Overlay Visualisation Map of Keyword Analysis.
+ethical behaviour of accounting students and find that self-­control
+
+4.3.3 | Ethics education and ethical decision-­making
+
+and honesty are significant predictors of ethical behaviour. Yam
+et al. (2014) also posit that ego depletion significantly influence an
+
+We conceptualise ethics education as the effort by accounting
+
+individual's EDM.
+
+educators to socialise (accounting) students (and/or accountants)
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+OWUSU and KORANKYE
+
+|
+
+OWUSU and KORANKYE
+
+TA B L E 6 Cluster Analysis.
+Cluster label
+
+Cluster
+
+Sample keywords
+
+Sample references
+
+Demographic Determinants
+of EDM
+
+1
+
+Gender, age, power, educational level
+
+Franke and Nadler (2008), Keller et al. (2007); Rottig,
+Koufteros and Umphress (2011), Satava, Caldwell
+and Richards (2006)
+
+Psychological Determinants
+of EDM
+
+2
+
+Emotion, anger, personal values, empathy
+
+Sweeney and Roberts (1997), Leitsch (2006), Sweeney
+and Costello (2009), Cianci and Bierstaker (2009)
+
+Ethics Education and EDM
+
+3
+
+Ethics education, business ethics, higher
+education, students
+
+McPhail (2001); O'Leary (2009), Cameron and O'Leary
+(2015)
+
+Social, Cultural and
+Environmental
+Determinants of EDM
+
+4
+
+Leadership, accounting education, code of
+ethics, ethical climate
+
+Shafer and Simmons (2008), Yam et al. (2014), Zhu,
+Trevino and Zheng (2016)
+
+Whistleblowing and EDM of
+Auditors
+
+5
+
+Whistleblowing, auditing, fraud, corporate
+governance, internal audit
+
+Curtis and Taylor (2009), Alleyne, Hudaib, and
+Pike (2013), Alleyne (2016)
+
+Firm Level EDM
+
+6
+
+Management, organisational ethics, artificial Shafer, (2009), Steinbauer et al. (2014)
+intelligence, stakeholders, incentives
+
+F I G U R E 5 Bibliographic Coupling
+Network Map.
+
+in order to humanise and engender a sense of moral commit-
+
+investigates how emotions could be included in ethics education
+
+ment towards others. This concept has been studied in EDM in
+
+to foster EDM among accountants.
+
+accounting literature over the period. Ethics education emerged
+in the EDM in accounting literature in the pre-­2012 period; however, the concept was sparsely studied. The concept of ethics
+education became popular in the EDM literature in the second
+
+4.3.4 | Social, cultural and environmental
+determinants of ethical decision-­making
+
+publication period from 2012 to 2016 (as shown in the overlay
+visualisation map in Panel B Figure 4). Notable among the key-
+
+The studies in this cluster focus on how cultural orientations, social
+
+words that identifies this cluster are students, higher education,
+
+and environmental factors influence one's EDM (Bernardi, 2006;
+
+business ethics and ethics education. Researchers within this
+
+Tsakumis et al., 2007). In this cluster, code of ethics is identified as
+
+cluster (ethics education) have examined the implications of eth-
+
+one of the dominant key issues explored by researchers. Codes of
+
+ics education on the ethical orientation, judgement and intention
+
+ethics are key documents that provide guidelines needed to cre-
+
+and behaviour of individual accountants and accounting students
+
+ate and/or preserve an ethical environment (Delgado-­
+Alemany
+
+(Apostolou et al., 2010; Armstrong et al., 2003; McPhail, 2001;
+
+et al., 2022). Indeed, Delgado-­Alemany et al. (2022) provide an in-­
+
+Onumah et al., 2021). For instance, Onumah et al. (2021) in their
+
+depth bibliometric review of extant studies on codes of ethics. Prior
+
+study argue that ethics education interventions improve signifi-
+
+studies (Payne et al., 2020; Sheehan & Schmidt, 2015) found that the
+
+cantly the ethical attitudes of accountants. McPhail (2001) also
+
+existence and effectiveness of codes of ethics influence the EDM
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+12
+
+of accountants. Other studies in this cluster explored the effects of
+corporate governance practices on EDM or ethics in organisations.
+Corporate governance practices that have been examined include
+female leadership (Hardies et al., 2016; Hechavarría et al., 2017;
+
+5 | CO N C LU S I O N S A N D D I R EC TI O N S FO R
+FU T U R E R E S E A RC H
+5.1 | Conclusion
+
+Sun et al., 2011) and board diversity (Sun et al., 2011). This thematic
+area received a lot of traction in the post 2010 period, in line with
+
+This study set out to provide an overview of the existing research in
+
+the shift from individual level evaluation of EDM to the firm level
+
+the field of EDM of accountants, examine the intellectual structure
+
+studies.
+
+of the development of research in this field and provide suggestions
+for future research. The study employs the bibliometric literature
+review approach to achieve the study objectives. The citation, co-­
+
+4.3.5 | Whistleblowing and ethical decision-­
+making of auditors
+
+authorship and bibliographic coupling analyses techniques were
+performed on a bibliometric data of 908 publications extracted from
+the Scopus database.
+
+The group of studies under this theme argue that when effective
+
+The study finds that the scale of research output in the field
+
+measures are in place to facilitate whistleblowing, it serves as a mon-
+
+of ethical decision-­making of accountants increased significantly
+
+itoring mechanism to identify and report ethical breaches (Alleyne,
+
+after 2005, shortly after the world experienced some of the most
+
+Hudaib, & Pike, 2013; Curtis & Taylor, 2009). Keywords such as cor-
+
+destructive corporate scandals. Further, the keyword analysis
+
+porate governance, fraud, audit quality, moral intensity and ethical
+
+and the bibliographic coupling analysis reveal that six themes are
+
+dilemma emerged as being dominantly employed in this cluster of
+
+predominant in the EDM research in accounting. The six identi-
+
+studies. Various personal, situational and organisational factors,
+
+fied thematic areas are (i) demographic determinants of EDM;
+
+such as corporate governance, tenure, work attitudes, employee
+
+(ii) psychological determinants of EDM; (iii) ethics education and
+
+behaviour and job satisfaction, have been identified in literature
+
+EDM; (iv) social, cultural and environmental determinants of EDM;
+
+to influence whistleblowing (Cassematis & Wortley, 2013; Seifert
+
+(v) whistleblowing and EDM of auditors and (vi) firm-­level EDM.
+
+et al., 2010; Taylor & Curtis, 2010). Additionally, some scholars argue
+
+Further, the study split the review period into pre-­2012 and post
+
+that auditors are better positioned as whistle-­blowers; thus, the au-
+
+2012 to capture the implications of the ethical scandals at the turn
+
+ditors' ability to adequately perform their roles can facilitate the
+
+of the century for EDM research. We find that the themes domi-
+
+fight against unethical behaviour in organisations (Alleyne, Hudaib, &
+
+nant in the pre-­2012 period were psychological, environmental and
+
+Pike, 2013; Seifert et al., 2010). Research has therefore investigated
+
+cultural determinants of EDM and ethics education, demographic
+
+the implications of professional scepticism, reporting intentions and
+
+determinants of EDM and information technology and EDM. The
+
+independence on reporting unethical behaviour (Nelson, 2009).
+
+remaining themes were dominated the EDM field of research in
+accounting in the period beyond 2012.
+
+4.3.6 | Firm level ethical decision-­making
+
+5.2 | Directions for future research
+
+Another dominant theme in the EDM literature is “firm-­level EDM”.
+This class of literature focuses on explaining ethics, EDM and ethi-
+
+Based on the trends and developments in the EDM literature, the fol-
+
+cal behaviour in the corporate environment. The theme also investi-
+
+lowing suggestions are outlined to guide future research. First, future
+
+gates the determinants and outcomes of EDM at the firm level. This
+
+EDM research may extend the existing theoretical underpinnings of
+
+subdivision of EDM research was dominant in the pre-­2012 period,
+
+the concept. The EDM literature has largely employed the theory of
+
+following the spate of huge corporate scandals. That notwithstand-
+
+moral development by Kohlberg (1969), and the four stage EDM model
+
+ing, traces of such studies are also identified in the period after
+
+by Rest (1986). Other studies have sparsely adapted the theory of rea-
+
+2012. While some of the studies under this thematic area examine
+
+soned action by Fishbein and Ajzen (1975) and the theory of planned
+
+the role of corporate ethical codes (Statler & Oliver, 2016), others
+
+behaviour by Ajzen (2011). Although these theories have contrib-
+
+focus on the ethical climate of the organisation and its implication
+
+uted significantly to understanding the EDM process of accountants,
+
+on EDM (Haron, Ismail & Na, 2015; Shafer, 2009). Shafer (2009),
+
+previous researchers (Craft, 2013; Lehnert et al., 2015; O'Fallon &
+
+examined the effect of ethical climate on ethical orientations and
+
+Butterfield, 2005; Poje & Groff, 2021) have argued that an extension to
+
+judgement of accountants and concluded that there exist a signifi-
+
+the above-­mentioned models provide a more nuanced understanding
+
+cant relationship between thee concept. Another part of this cluster
+
+of the complex concept of EDM. Additionally, in expanding the theo-
+
+of studies evaluate the effects of corporate governance practices
+
+retical foundations of EDM research, scholars should also consider the
+
+on EDM or ethics in organisations. Particular corporate govern-
+
+introduction or adaption of new theories in the field. This suggestion
+
+ance practices that were studied include female leadership (Hardies
+
+is in line with prior reviews (Lehnert et al., 2015; Poje & Groff, 2021).
+
+et al., 2016; Hechavarría et al., 2017; Sun et al., 2011) and board
+diversity (Sun et al., 2011).
+
+Second, while a number of studies have concentrated on some individual and situational factors that influence EDM, there is the need for
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+| 13
+
+OWUSU and KORANKYE
+
+|
+
+OWUSU and KORANKYE
+
+more research, particularly on the latter. Jones' (1991) moral intensity
+
+PEER REVIEW
+
+construct has been largely studied in terms of situational factors. It will
+
+The peer review history for this article is available at https://publo​
+
+be a useful addition for future studies to consider examining the implica-
+
+ns.com/publo​n/10.1111/beer.12519.
+
+tions of other situational factors for the EDM process of accountants. In
+addition, the review finds that most studies examine the determinants
+
+DATA AVA I L A B I L I T Y S TAT E M E N T
+
+of EDM, while neglecting the outcomes of EDM. While it is assumed
+
+The data that support the findings of this study are available from
+
+that EDM will result in reduced incidence of scandals and other ethical
+
+the corresponding author upon reasonable request.
+
+breaches, there has been no study to confirm this assertion. Thus, it will
+be interesting for future studies to evaluate the relationship between
+EDM of accountants and the level of ethical breaches.
+In relation to ethics education and EDM, the study reveals that
+prior research has focused largely on whether or not ethics should be
+
+ORCID
+Godfred Matthew Yaw Owusu
+
+https://orcid.
+
+org/0000-0003-3495-434X
+Gabriel Korankye
+
+https://orcid.org/0000-0002-3580-8582
+
+included in the curriculum. However, little attention has been given
+to the approach of teaching ethics to influence the EDM of future
+
+REFERENCES
+
+accountants. Thus, this study suggests that future research should
+
+Ajzen, I. (2011). The theory of planned behaviour: Reactions and reflections. 0446. https://doi.org/10.1080/08870​4 46.2011.613995
+Ajzen, I., & Fishbein, M. (1975). A Bayesian analysis of attribution processes. Psychological Bulletin, 82(2), 261.
+Alleyne, P. (2016). The influence of organisational commitment and corporate ethical values on non-­public accountants' whistle-­blowing
+intentions in Barbados. Journal of Applied Accounting Research, 17(2),
+190–­210.
+Alleyne, P., Cadogan-­McClean, C., & Harper, A. (2013). Examining personal values and ethical behaviour perceptions between accounting
+and non-­accounting students in the Caribbean (Vol. XXIII, pp. 47–­70).
+The Accounting Educators' Journal.
+Alleyne, P., Hudaib, M., & Pike, R. (2013). Towards a conceptual model
+of whistle-­
+blowing intentions among external auditors. British
+Accounting Review, 45(1), 10–­23. https://doi.org/10.1016/j.
+bar.2012.12.003
+Apostolou, B., Hassell, J. M., Rebele, J. E., & Watson, S. F. (2010).
+Accounting education literature review (2006-­
+2009). Journal of
+Accounting Education, 28(3–­4), 145–­197. https://doi.org/10.1016/j.
+jacce​du.2011.08.001
+Apriliyanti, I. D., & Alon, I. (2017). Bibliometric analysis of absorptive
+capacity. International Business Review, 26(5), 896–­907. https://doi.
+org/10.1016/j.ibusr​ev.2017.02.007
+Aprilliani, D., Anggaraini, R., & Anwar, C. (2014). The effect of organization ethical culture and ethical climate on ethical decision making
+of auditor with self efficacy as moderating. Review of Integrative
+Business and Economic, 4(1), 226–­244.
+Armstrong, M. B., Ketz, J. E., & Owsen, D. (2003). Ethics education in
+accounting: Moving toward ethical motivation and ethical behavior. Journal of Accounting Education, 21(1), 1–­16. https://doi.
+org/10.1016/S0748​-­5751(02)00017​-­9
+Arnold, D. F., Dorminey, J. W., Neidermeyer, A. A., & Neidermeyer,
+P. E. (2013). Internal and external auditor ethical decision-­
+making. Managerial Auditing Journal, 28(4), 300–­322. https://doi.
+org/10.1108/02686​90131​1311918
+Baas, J., Schotten, M., Plume, A., Côté, G., & Karimi, R. (2020).
+Scopus as a curated, high-­q uality bibliometric data source for
+academic research in quantitative science studies. Quantitative
+Science Studies, 1(1), 377–­3 86. https://doi.org/10.1162/
+qss_a_00019
+Bateman, C. R., & Valentine, S. R. (2010). Investigating the effects of
+gender on consumers' moral philosophies and ethical intentions.
+Journal of Business Ethics, 95(3), 393–­414. https://doi.org/10.1007/
+s1055​1-­010-­0386-­4
+Bebi, L., & Xhindi, T. (2017). The impact of organizational factors in ethical decision making of Albanian accountants. European Journal of
+Multidisciplinary Studies, 6(2), 95. https://doi.org/10.26417/​ejms.
+v6i2.p95-­101
+
+examine how ethics can be taught, especially in the digitised educational setting, to achieve the goal of improving EDM of accountants. Finally, the results of the study reveal that there is less output
+and collaboration from developing countries, especially in Africa.
+Therefore, future research may explore more the concept of ethics
+in developing economies, as well as evaluate the cross-­cultural differences, particularly in Africa. Africans have an interesting conception
+of morality, ethics and right and wrong; hence, paying attention to
+their EDM process will be an interesting addition to literature.
+
+5.3 | Limitations of study
+Despite the contributions of this paper to literature in the field of EDM
+in accounting, there are some limitations that could serve as opportunities for future research. First, although the study focuses on EDM in
+accounting, some studies in this field employ theories from different
+fields, thus making it a multidisciplinary topic. Given that, the search
+was limited to “business, management and accounting” subject area, it
+possible that some relevant studies may have been excluded. Further,
+using data from a single database, Scopus, may also limit the study and
+its results, as it is possible some relevant studies may not be curated
+on the platform. Future research may therefore consider widening the
+scope of the study by employing data from several databases such as
+Web of Science and PubMed while expanding the subject areas to
+include other related fields as “economics, econometrics and finance”,
+“social science” and “humanities”.
+AC K N O​W L E D
+​ G E ​M E N T S
+We are grateful to Bibi Hughes for professionally proofreading the
+manuscript.
+F U N D I N G I N FO R M AT I O N
+No funding was received for this project.
+C O N FL I C T O F I N T E R E S T S TAT E M E N T
+The authors have no competing interests to declare that are relevant
+to the content of this article.
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+14
+
+Bernardi, R. A. (2006). Associations between Hofstede's cultural constructs and social desirability response bias. Journal of Business
+Ethics, 65(1), 43–­53. https://doi.org/10.1007/s1055​1-­0 05-­5353-­0
+Cameron, R. A., & O'Leary, C. (2015). Improving ethical attitudes or simply teaching ethical codes? The reality of accounting ethics education. Accounting Education, 24(4), 275–­290.
+Casali, G. L., & Perano, M. (2021). Forty years of research on factors influencing ethical decision making: Establishing a future research
+agenda. Journal of Business Research, 132(February 2020), 614–­630.
+https://doi.org/10.1016/j.jbusr​es.2020.07.006
+Cassematis, P. G., & Wortley, R. (2013). Prediction of whistleblowing or
+non-­reporting observation: The role of personal and situational
+factors. Journal of Business Ethics, 117(3), 615–­634. https://doi.
+org/10.1007/s1055​1-­012-­1548-­3
+Cianci, A. M., & Bierstaker, J. L. (2009). The impact of positive and negative mood on the hypothesis generation and ethical judgments of
+auditors. Auditing: A Journal of Practice & Theory, 28(2), 119–­144.
+Cohen, J., Pant, L., & Sharp, D. (1993). A validation and extension of a
+multidimensional ethics scale. Journal of Business Ethics, 12(1), 13–­
+26. https://doi.org/10.1007/BF018​45782
+Craft, J. L. (2013). A review of the empirical ethical decision-­making
+literature: 2004-­2011. Journal of Business Ethics, 117(2), 221–­259.
+https://doi.org/10.1007/s1055​1-­012-­1518-­9
+Curtis, M. B., & Taylor, E. Z. (2009). Whistleblowing in public accounting:
+Influence of identity disclosure, situational context, and personal
+characteristics. Accounting and the Public Interest, 9(1), 191–­220.
+https://doi.org/10.2308/api.2009.9.1.191
+Delgado-­
+Alemany, R., Blanco-­
+González, A., & Díez-­
+Martín, F. (2022).
+Exploring the intellectual structure of research in codes of ethics: A
+bibliometric analysis. Business Ethics, Environment and Responsibility,
+31(2), 508–­523. https://doi.org/10.1111/beer.12400
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., & Lim, W. M. (2021).
+How to conduct a bibliometric analysis: An overview and guidelines. Journal of Business Research, 133(May), 285–­296. https://doi.
+org/10.1016/j.jbusr​es.2021.04.070
+Effah, N. A. A., Asiedu, M., & Otchere, O. A. S. (2022). Improvements or deteriorations? A bibliometric analysis of corporate governance and disclosure research (1990–­2020). Journal of Business and Socio-­Economic
+Development. https://doi.org/10.1108/jbsed​-­10-­2021-­0142
+Endenich, C., & Trapp, R. (2020). Ethical implications of management
+accounting and control: A systematic review of the contributions
+from the journal of business ethics. Journal of Business Ethics, 163(2),
+309–­328. https://doi.org/10.1007/s1055​1-­018-­4 034-­8
+Ensor, P. (1992). Knowledge level of users and nonusers of keyword/Boolean
+searching on an online public access catalog. RQ, 32(1), 60–­74.
+Fetscherin, M., & Heinrich, D. (2015). Consumer brand relationships research:
+A bibliometric citation meta-­
+analysis. Journal of Business Research,
+68(2), 380–­390. https://doi.org/10.1016/j.jbusr​es.2014.06.010
+Ford, R. C., & Richardson, W. D. (1994). Ethical decision making: A review
+of the empirical literature. Journal of Business Ethics, 13, 205–­221.
+Franke, G. R., & Nadler, S. S. (2008). Culture, economic development, and
+national ethical attitudes. Journal of Business Research, 61(3), 254–­264.
+Gamarra, M. P., & Girotto, M. (2022). Ethical behavior in leadership: A
+bibliometric review of the last three decades. Ethics and Behavior,
+32(2), 124–­146. https://doi.org/10.1080/10508​422.2020.1863799
+Hardies, K., Breesch, D., & Branson, J. (2016). Do (fe)male auditors impair audit quality? Evidence from going-­concern opinions. European
+Accounting Review, 25(1), 7–­3 4. https://doi.org/10.1080/09638​
+180.2014.921445
+Hechavarría, D. M., Terjesen, S. A., Ingram, A. E., Renko, M., Justo, R.,
+& Elam, A. (2017). Taking care of business: The impact of culture
+and gender on entrepreneurs' blended value creation goals. Small
+Business Economics, 48(1), 225–­257. https://doi.org/10.1007/s1118​
+7-­016-­9747-­4
+Hersh, W., Turpin, A., Price, S., Kraemer, D., Olson, D., Chan, B., & Sacherek,
+L. (2001). Challenging conventional assumptions of automated
+
+| 15
+information retrieval with real users: Boolean searching and batch
+retrieval evaluations. Information Processing and Management, 37(3),
+383–­402. https://doi.org/10.1016/S0306​-­4573(00)00054​-­6
+Keller, A. C., Smith, K. T., & Smith, L. M. (2007). Do gender, educational
+level, religiosity, and work experience affect the ethical decision-­
+making of U.S. accountants? Critical Perspectives on Accounting,
+18(3), 299–­314. https://doi.org/10.1016/j.cpa.2006.01.006
+Kohlberg, L. (1969). The cognitive-­developmental approach to socialization. In D. A Goslin (Ed.), Handbook of socialization theory and
+research. Chicago (pp. 347–­480). Rand McNally.
+Lehnert, K., Park, Y., & Singh, N. (2015). Research note and review of the
+empirical ethical decision-­making literature: Boundary conditions
+and extensions. Journal of Business Ethics, 129(1), 195–­219. https://
+doi.org/10.1007/s1055​1-­014-­2147-­2
+Leitsch, D. L. (2006). Using dimensions of moral intensity to predict
+ethical decision-­
+making in accounting. Accounting Education: An
+International Journal, 15(2), 135–­149.
+Loe, T. W., Ferrell, L., & Mansfield, P. (2000). A review of empirical studies assessing ethical decision making in business. Journal of Business
+Ethics, 25, 185–­204.
+McPhail, K. (2001). The journal objective of ethics education: Re-­humanising
+the accounting profession—­a study of ethics education in law, engineering, medicine and accountancy. Journal of Business Ethics, 34(3–­
+4), 279–­298. https://doi.org/10.1023/A:10125​76631990
+Modarres, A., & Rafiee, A. (2011). Influencing factors on the ethical decision making of Iranian accountants. Social Responsibility Journal,
+7(1), 136–­144. https://doi.org/10.1108/17471​11111​1114594
+Nelson, M. W. (2009). A model and literature review of professional skepticism in auditing. Auditing: A Journal of Practice and Theory, 28(2), 1–­34.
+Oboh, C. S., Ajibolade, S. O., & Otusanya, O. J. (2020). Ethical decision-­
+making among professional accountants in Nigeria: The influence
+of ethical ideology, work sector, and types of professional membership. Journal of Financial Reporting and Accounting, 18(2), 389–­422.
+https://doi.org/10.1108/JFRA-­09-­2019-­0123
+O'Fallon, M. J., & Butterfield, K. D. (2005). A review of the empirical ethical decision-­making literature: 1996–­2003. Journal of Business Ethics,
+59(1), 375–­413. https://doi.org/10.1007/s1055​1-­0 05-­2929-­7
+O'Leary, C. (2009). An empirical analysis of the positive impact of ethics
+teaching on accounting students. Accounting Education: an international journal, 18(4-­5), 505–­520.
+Onumah, R. M., Simpson, S. N. Y., & Kwarteng, A. (2021). The effects of
+ethics education interventions on ethical attitudes of professional
+accountants: Evidence from Ghana. Accounting Education, 30(4),
+413–­437. https://doi.org/10.1080/09639​284.2021.1916548
+Owens, J. K. (2021). Systematic reviews: Brief overview of methods,
+limitations, and resources. Nurse Author & Editor, 31(3–­4), 69–­72.
+https://doi.org/10.1111/nae2.28
+Payne, D. M., Corey, C., Raiborn, C., & Zingoni, M. (2020). An applied
+code of ethics model for decision-­making in the accounting profession. Management Research Review, 43(9), 1117–­1134. https://doi.
+org/10.1108/MRR-­10-­2018-­0380
+Perianes-­Rodriguez, A., Waltman, L., & van Eck, N. J. (2016). Constructing
+bibliometric networks: A comparison between full and fractional
+counting. Journal of Informetrics, 10(4), 1178–­1195. https://doi.
+org/10.1016/j.joi.2016.10.006
+Poje, T., & Groff, M. Z. (2021). Mapping ethics education in accounting
+research: A bibliometric analysis. Journal of Business Ethics179(2),
+451–­472. https://doi.org/10.1007/s1055​1-­021-­0 4846​-­9
+Radtke, R. R. (2000). The effects of gender and setting on accountants'
+ethically sensitive decisions. Journal of Business Ethics, 24(4), 299–­
+312. https://doi.org/10.1023/A:10062​77331803
+Rest, J. R. (1986). Moral development: Advances in research and theory.
+praeger.
+Rest, J. R. (1988). Why does college promote development in moral
+judgement? Journal of Moral Education, 17(3), 183–­194. https://doi.
+org/10.1080/03057​24880​170303
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+OWUSU and KORANKYE
+
+|
+
+Robin, D., & Babin, L. (1997). Making sense of the research on gender and
+ethics in business. Business Ethics Quarterly, 7(4), 61–­90. https://doi.
+org/10.5840/10.2307/3857209
+Rojas-­Sánchez, M. A., Palos-­Sánchez, P. R., & Folgado-­Fernández, J. A.
+(2022). Systematic literature review and bibliometric analysis on virtual
+reality and education. Education and Information Technologies, 28, 1–­38.
+Rottig, D., Koufteros, X., & Umphress, E. (2011). Formal infrastructure
+and ethical decision making: An empirical investigation and implications for supply management. Decision Sciences, 42(1), 163–­204.
+Roxas, M. L., & Stoneback, J. Y. (2014). The across importance cultures of
+gender in ethical decision-­making. Journal of Business Ethics, 50(2),
+149–­165.
+Satava, D., Caldwell, C., & Richards, L. (2006). Ethics and the auditing culture: Rethinking the foundation of accounting and auditing. Journal
+of Business Ethics, 64, 271–­284.
+Schwartz, M. S. (2016). Ethical decision-­making theory: An integrated
+approach. Journal of Business Ethics, 139(4), 755–­776. https://doi.
+org/10.1007/s1055​1-­015-­2886-­8
+Seifert, D. L., Sweeney, J. T., Joireman, J., & Thornton, J. M. (2010). The
+influence of organizational justice on accountant whistleblowing.
+Accounting, Organizations and Society, 35(7), 707–­717. https://doi.
+org/10.1016/j.aos.2010.09.002
+Shafer, W. E., & Simmons, R. S. (2008). Social responsibility,
+Machiavellianism and tax avoidance: A study of Hong Kong tax professionals. Accounting, Auditing & Accountability Journal, 21(5), 695–­
+720. https://doi.org/10.1108/09513​57081​0 872978
+Shafer, W. E. (2009). Ethical climate, organizational-­professional conflict and organizational commitment: A study of Chinese auditors.
+Accounting, Auditing & Accountability Journal, 22(7), 1087–­1110.
+https://doi.org/10.1108/09513​57091​0987385
+Sheehan, N. T., & Schmidt, J. A. (2015). Preparing accounting students
+for ethical decision making: Developing individual codes of conduct
+based on personal values. Journal of Accounting Education, 33(3),
+183–­197. https://doi.org/10.1016/j.jacce​du.2015.06.001
+Smith, I. H., Soderberg, A. T., Netchaeva, E., & Okhuysen, G. A. (2022). An examination of mind perception and moral reasoning in ethical decision-­
+making: A mixed-­
+methods approach. Journal of Business Ethics,
+0123456789, 1–­20. https://doi.org/10.1007/s1055​1-­021-­05022​-­9
+Statler, M., & Oliver, D. (2016). The moral of the story: Re-­framing ethical
+codes of conduct as narrative processes. Journal of Business Ethics,
+136, 89–­100.
+Steinbauer, R., Renn, R. W., Taylor, R. R., & Njoroge, P. K. (2014). Ethical
+leadership and followers’ moral judgment: The role of followers'
+perceived accountability and self-­leadership. Journal of Business
+Ethics, 120, 381–­392.
+Sulastri, S., & Kasanah, I. U. (2021). Does emotional intelligence and
+religiosity affect the ethical judgment of accounting students?
+Journal of Accounting and Business Education, 5(2), 21. https://doi.
+org/10.26675/​jabe.v5i2.15506
+Sun, J., Liu, G., & Lan, G. (2011). Does female directorship on independent audit committees constrain earnings management? Journal
+of Business Ethics, 99(3), 369–­382. https://doi.org/10.1007/s1055​
+1-­010-­0657-­0
+Sweeney, J. T., & Roberts, R. W. (1997). Cognitive moral development
+and auditor independence. Accounting, organizations and society,
+22(3-­4), 337–­352.
+Sweeney, B., & Costello, F. (2009). Moral intensity and ethical decision-­
+making: An empirical examination of undergraduate accounting and
+business students. Accounting Education: An International Journal,
+18(1), 75–­97. https://doi.org/10.1080/09639​28080​2009454
+Taylor, E. Z., & Curtis, M. B. (2010). An examination of the layers of workplace influences in ethical judgments: Whistleblowing likelihood
+and perseverance in public accounting. Journal of Business Ethics,
+93(1), 21–­37. https://doi.org/10.1007/s1055​1-­0 09-­0179-­9
+Tsakumis, G. T., Curatola, A. P., & Porcano, T. M. (2007). The relation
+between national cultural dimensions and tax evasion. Journal of
+
+OWUSU and KORANKYE
+
+International Accounting, Auditing and Taxation, 16(2), 131–­147.
+https://doi.org/10.1016/j.intac​c audt​ax.2007.06.004
+Uysal, Ö. Ö. (2010). Business ethics research with an accounting focus: A
+bibliometric analysis from 1988 to 2007. Journal of Business Ethics,
+93(1), 137–­160. https://doi.org/10.1007/s1055​1-­0 09-­0187-­9
+Valentine, S., & Godkin, L. (2019). Moral intensity, ethical decision making, and whistleblowing intention. Journal of Business Research,
+98(1), 277–­288. https://doi.org/10.1016/j.jbusr​es.2019.01.009
+van Eck, N. J., & Waltman, L. (2010). Software survey: VOSviewer, a computer program for bibliometric mapping. Scientometrics, 84(2), 523–­
+538. https://doi.org/10.1007/s1119​2-­0 09-­0146-­3
+Yam, K. C., Chen, X. P., & Reynolds, S. J. (2014). Ego depletion and its
+paradoxical effects on ethical decision making. Organizational
+Behavior and Human Decision Processes, 124(2), 204–­214. https://
+doi.org/10.1016/j.obhdp.2014.03.008
+Zamore, S., Ohene Djan, K., Alon, I., & Hobdari, B. (2018). Credit risk
+research: Review and agenda. Emerging Markets Finance and Trade,
+54(4), 811–­835. https://doi.org/10.1080/15404​96X.2018.1433658
+Zhu, W., Treviño, L. K., & Zheng, X. (2016). Ethical leaders and their followers: The transmission of moral identity and moral attentiveness.
+Business Ethics Quarterly, 26(1), 95–­115.
+Haron, H., Ismail, I., & Na, A. L. (2015). The effect of moral reasoning, exposure to ethics and perceived ethical climate on ethical
+judgement of auditors in Malaysia. Asian Journal of Business and
+Accounting, 8(2), 25–­66.
+
+AU T H O R B I O G R A P H I E S
+Godfred Matthew Yaw Owusu (PhD) is an Associate Professor
+of Accounting and a researcher with the Department of
+Accounting, University of Ghana Business School. He is an
+­active researcher who specialises in the use of structural equation modelling techniques and panel data analysis in accounting and finance studies. He holds a PhD in Accounting from
+Putra Business School, Universiti Putra Malaysia, an MPhil in
+Accounting and a BSc in Administration (Accounting option)
+from University of Ghana.
+Mr. Gabriel Korankye is a Lecturer and researcher with the
+Department of Accounting, University of Professional Studies,
+Accra. He has an MPhil in Accounting and a BSc in Administration
+(Accounting option) from the University of Ghana (Business
+School). Gabriel's areas of research interest are Behavioural
+Accounting and Finance, Accounting Information Systems,
+Accounting Ethics, Intellectual Capital, and Accounting and
+Business Education. He has a working knowledge in Structural
+Equation Modelling (specifically, the Partial Least Squares technique), and Bibliometric analysis.
+
+How to cite this article: Owusu, G. M. Y., & Korankye, G.
+(2023). The state of ethical decision-­making research in
+accounting: A retrospective assessment from 1987 to 2022.
+Business Ethics, the Environment & Responsibility, 00, 1–16.
+https://doi.org/10.1111/beer.12519
+
+26946424, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/beer.12519 by University of Ghana - Accra, Wiley Online Library on [14/02/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+16
+
+

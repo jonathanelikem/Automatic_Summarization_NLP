@@ -1,0 +1,2941 @@
+Int. J. Economics and Accounting, Vol. 11, No. 1, 2022
+
+IFRS adoption and economic growth in developing
+economies
+Godfred Matthew Yaw Owusu*
+Department of Accounting,
+University of Ghana Business School,
+Legon-Accra, Ghana
+Email: gmowusu@gmail.com
+*Corresponding author
+
+Susela Devi K. Suppiah
+Department of Accounting,
+Sunway University Business School,
+Sunway University,
+Bandar Sunway 47500, Selangor, Malaysia
+Email: suselas@sunway.edu.my
+
+Nur Ashikin Mohd Saat and Siong Hook Law
+Department of Accounting and Finance,
+Faculty of Economics and Management,
+Universiti Putra Malaysia,
+43400 Serdang, Malaysia
+Email: shikinms@upm.edu.my
+Email: lawsh@upm.edu.my
+Abstract: We examine whether the adoption of International Financial
+Reporting Standards (IFRS) affects economic growth in developing economies
+and investigate the role that country-level institutional quality plays in the
+relationship. Using a panel data averaged over three non-overlapping years,
+from the period 1996 to 2013, for 78 developing countries and employing the
+efficient two-step system generalised methods of moment (GMM) estimation
+technique; we find that countries that adopt IFRS experience better economic
+growth than non-adopting countries. Our results also demonstrate that good
+institutions moderate the IFRS-economic growth nexus. Taken together, these
+findings suggest that IFRS adoption has important implications for economic
+growth.
+Keywords: International Financial Reporting Standards; IFRS; economic
+growth; developing economies; generalised methods of moment; GMM;
+institutional quality; foreign direct investment; FDI; principal component
+analysis; accounting standards; system GMM; accounting systems.
+Reference to this paper should be made as follows: Owusu, G.M.Y.,
+Suppiah, S.D.K., Saat, N.A.M. and Law, S.H. (2022) ‘IFRS adoption and
+economic growth in developing economies’, Int. J. Economics and Accounting,
+Vol. 11, No. 1, pp.73–98.
+Copyright © 2022 Inderscience Enterprises Ltd.
+
+73
+
+74
+
+G.M.Y. Owusu et al.
+Biographical notes: Godfred Matthew Yaw Owusu is a Senior Lecturer and
+researcher with the Department of Accounting, University of Ghana Business
+School. He is an active researcher who specialises in the use of structural
+equation modelling techniques and panel data analysis. He has published
+papers in a number of reputable journals that focus predominantly on
+behavioural accounting and finance issues.
+Susela Devi K. Suppiah is a Professor of Accounting at the Department of
+Accounting, Sunway University Business School. Her research interests are in
+the areas of technology and innovation amongst small medium practitioners in
+empowering small medium enterprises (SMEs), corporate governance,
+international financial reporting issues, regulation and organisation of the
+accountancy profession, big data analytics and implications for accounting
+practice.
+Nur Ashikin Mohd Saat is an Associate Professor at the Department of
+Accounting and Finance, Faculty of Economics and Management, Universiti
+Putra Malaysia. Her research interests are in the areas of business, management
+and accounting, economics, econometrics and finance, social sciences, energy,
+environmental science, arts and humanities
+Siong Hook Law is a Professor in the Economics Department of Universiti
+Putra Malaysia (UPM). He holds a PhD in Economics from the University of
+Leicester, UK. He has published more than 100 articles in refereed journals,
+including 40 in journals indexed by Thomson Web of Science. Most of his
+published papers utilise panel estimation methods and time series analysis to
+address issues in economics and finance.
+
+1
+
+Introduction
+
+The widespread adoption of the International Financial Reporting Standards (IFRS) has
+generated intense research interest within the last two decades. While several studies
+have examined firm-level implications of IFRS adoption (Abad et al., 2018; Daske et al.,
+2013; Daske et al., 2008; Barth et al., 2008; Chen et al., 2010), the macroeconomic
+consequences of IFRS adoption remained largely unexplored though the relevance of
+such empirical evidence has been emphasised in the literature. As Leuz and Wysocki
+(2008) point out, both firm-level and macroeconomic evidence are important in
+evaluating the economic consequences of accounting standards or reporting regulations.
+We provide some evidence on the macro front by investigating the link between IFRS
+adoption and economic growth of countries.
+Identifying the factors that drive economic growth of countries undoubtedly has
+featured on the research agenda of many economists for decades. Notwithstanding the
+existence of several empirical studies on the determinants of economic growth
+(Chakrabarti, 2001; Fratzscher, 2012), the generic role of a country’s accounting system
+(most especially the applicable accounting standards) on economic growth has not been
+considered in these studies. Interestingly, accounting studies concerned with accounting
+standards have also evolved independently from macroeconomic issues and have over the
+years, focused largely on firm-level implication of accounting standards. Nonetheless, the
+link between the accounting system of a country and its economic growth has long been
+anticipated.
+
+IFRS adoption and economic growth in developing economies
+
+75
+
+Gray and Roberts (1991) for instance, argue that inappropriate or inadequate
+accounting system could be a major impediment to a country’s growth prospects given
+that the accounting system of a country forms an integral part of the overall input into
+that country’s economic development process. Also, an important predictor of a country’s
+growth is the efficiency with which resources are allocated in that country (Bushman
+et al., 2011; Lurson and Kenny, 1995). Zhang (2013) therefore posits that since the
+provision of credible accounting information promotes efficient allocation of resources in
+an economy, the adoption of credible accounting standards could have some growth
+enhancing implications for countries. Empirically, studies on IFRS adoption associate it
+with improvement accounting information quality (Barth et al., 2008) and efficiency in
+the allocation of capital (Shima and Gordon, 2011). This presupposes that adopting IFRS
+could promote economic growth of a country. Again, existing studies document those
+countries that adopt IFRS experience better foreign direct investment (FDI) inflows than
+non-adopting countries (Gordon et al., 2012). FDI inflows have been found to impact
+positively on economic growth and hence it is expected that countries that adopt IFRS
+should experience better economic growth than non-adopting countries. This study
+therefore argues that to the extent that IFRS improves accounting information quality,
+enhances allocation of capital and promote FDI inflows to a country, its adoption should
+promote economic growth.
+While we expect IFRS adoption to improve the economic growth of countries, we
+argue that country-level institutional quality is a key to the growth enhancing effect of
+adopting IFRS. We refer to the six indicators of institutional quality by the World
+Governance Indicators (WGI) (political stability and absence of violence, voice and
+accountability, government effectiveness, regulatory quality, rule of law and control of
+corruption) to be particularly relevant in the IFRS-economic growth nexus. To achieve
+the objectives of this study, we relied on a panel data averaged over three
+non-overlapping years for 78 developing countries from the period 1996 to 2013 and
+employed the efficient two-step system generalised methods of moment (GMM)
+estimation technique to examine our empirical relations.
+Consistent with our predictions, we find that countries that adopt IFRS experience
+better economic growth than non-adopting countries. Also, our interaction of IFRS
+adoption and country-level institutional quality indicate that good institutions moderate
+favourably the impact of IFRS adoption on economic growth of countries. Our evidence
+contributes to both the Accounting and Economics literature in several important ways.
+Specifically, we extend literature on determinants of economic growth by documenting
+that the type of accounting standards used by a country matter for its economic growth.
+This evidence provides new insights into the macroeconomic implications of using a
+single financial reporting standard across countries. Further, we provide a mechanism for
+understanding better the medium through which a country can harness the economic
+benefits of adopting IFRS. Our results suggest that understanding the link between the
+adoption of IFRS and country-level institutional quality is key to identifying the medium
+through which a country can harness the economic benefits of IFRS adoption.
+Additionally, the use of the dynamic panel GMM estimation technique in this study
+substantially accounts for the misspecified dynamics and addresses all possible
+endogeneity concerns which prior IFRS related studies (Amiram, 2012; Gordon et al.,
+2012; Chen et al., 2014) have mostly ignored.
+
+76
+
+G.M.Y. Owusu et al.
+
+The remainder of this paper is organised as follows. The next section discusses
+related literature on IFRS adoption, institutions and economic growth and develops the
+study hypotheses. The following section describes the sample selection, data and
+empirical specifications. Results from the empirical estimations are then discussed
+followed by concluding remarks along with policy implications from the study findings.
+
+2
+
+Related literature and hypotheses development
+
+The link between the accounting system of a country and its economic growth has long
+been anticipated in literature. Gray and Roberts (1991) posit that accounting forms an
+important component of the overall input into a country’s economic development
+process. In their view, inappropriate accounting system may impede economic growth.
+Given that quality of the accounting system of a country is usually a function of its
+underlying reporting standards, the type of accounting applicable in a country could have
+economic growth implications. Despite this theoretical appeal, most studies on the
+determinants of economic growth (Agbloyor et al., 2016; Awad and Ragab, 2018;
+Cooray, 2010; Sunde, 2017) tend to ignore the role of the prevailing accounting system of
+a country on its growth prospect. Interestingly, while the widespread adoption of IFRS
+has been associated with some economic benefits, little is known about its impact on
+economic growth to date. With the exception of the work of Oppong and Aga (2019) that
+examined the impact of IFRS adoption on economic growth of some selected European
+countries, the IFRS and economic growth nexus has remained a grey area in both
+accounting and economic research. This is however, not surprising given that most
+accounting researchers have predominantly focused on the firm-level implication of IFRS
+(Daske et al., 2013; Daske et al., 2008; Barth et al., 2008; Chen et al., 2010).
+
+2.1 IFRS adoption and economic growth
+Existing studies largely conclude that the use of IFRS improves the quality and
+credibility of reporting in a country (Barth et al., 2008). The provision of credible and
+reliable accounting information facilitates good decision making especially in the
+allocation of scarce resources in a country (Zhang, 2013). The efficient allocation of
+resources in an economy is critical in ensuring that, resources get to the most productive
+sectors in the economy to propel growth (Bushman et al., 2011; Lurson and Kenny,
+1995).
+Thus, in an environment where accounting information is perceived to be unreliable,
+allocation of resources is likely to be ineffective. This presupposes that resources may not
+be channelled to the most productive sectors in such an economy, which may negatively
+affect economic growth. Empirically, IFRS adoption has been found to be particularly
+useful in enhancing capital allocation efficiencies (Shima and Gordon, 2011) and by
+extension can be helpful in promoting economic growth.
+Moreover, the provision of quality accounting information by business units in a
+country is essential for the growth of a country’s capital market. This is because; high
+quality accounting information reduces information asymmetries for foreign investors
+and consequently, encourages foreign investors’ participation in domestic capital market
+activities (Frost et al., 2006). Employing a sample of 50 emerging economies over a
+period spanning from 2001 to 2007, Othman and Kossentini (2015) found a positive
+
+IFRS adoption and economic growth in developing economies
+
+77
+
+association between the extent of IFRS adoption and stock market development. Given
+that stock market development has been found to promote economic growth in
+developing economies (Adjasi and Biekpe, 2006; Cooray, 2010), the adoption of IFRS
+could enhance the economic growth of a country.
+Lastly, the link between a country’s adoption of IFRS and its economic growth is also
+premised on the fact that IFRS adoption has been found to be associated with growth in
+FDI inflows to countries. Existing studies (Chen et al., 2014; Gordon et al., 2012; Owusu
+et al., 2017b) document that countries that adopt IFRS experience better FDI inflows than
+non-adopting countries. The argument is that, the fear of making adverse selection by
+foreign investors due to the existence of information asymmetry usually discourages
+investors from exploring foreign markets. Since IFRS adoption can help reduce
+information asymmetries associated with accounting information, it reduces the perceived
+risks of investing abroad which should ultimately promote foreign investment inflows to
+countries. Moreover, the adoption of IFRS has become an important reference point for
+the allocation of international development aid loans provided by some Bretton Woods
+institutions particularly the World Bank. As documented by Lamoreaux et al. (2015),
+development aid loans have been higher for countries with stronger accounting quality,
+especially where IFRS use is mandated. Given that FDI inflows and development loans
+play a critical role in economic growth (Li and Lu, 2005), the adoption of IFRS should
+enhance economic growth of developing economies. Empirically, Oppong and Aga
+(2019) provide evidence consistent with the argument that IFRS adoption improves
+economic growth of countries.
+Based on the above arguments this study hypothesises that:
+H1 The adoption of IFRS improves economic growth of countries.
+
+2.2 IFRS adoption, institutional quality and economic growth
+While the benefits of adopting IFRS have received empirical support, it has been argued
+that adopting IFRS alone may be insufficient for a country to achieve any economic
+outcome, unless supported by a strong institutional framework (Akisik, 2013). The
+accounting system of a country does not exist independently of the influences of other
+institutional variables in a country (Cieslewicz, 2014; Wehrfritz and Haller, 2014;
+Walker, 2010; Wysocki, 2011). Institutions form the basis of every economic activity in a
+country. Well-developed institutions create the enabling environment that promotes
+economic activity, growth, and development.
+
+3
+
+The concept of institutions and institutional quality measures
+
+Institutions according North (1991) shape human interaction help to maintain order and
+reduce uncertainty in exchanges. Fundamentally they represent the mechanisms through
+which social and economic exchanges and interactions are guided. Whilst different
+notions of institutions exist in the literature, this study focuses on the definition by
+Kaufmann et al. (2011) commonly referred to as WGI. Apart from the fact that the WGI
+is the operationalised definition of institutions by reputable international organisations
+such as the World Bank, the WGI are generally perceived to be objective, cover virtually
+all countries in the world, and are derived from a broad survey sample that incorporates
+
+78
+
+G.M.Y. Owusu et al.
+
+data drawn from a variety of sources (Brunnschweiler, 2008; Globerman and Shapiro,
+2002). In essence, the WGI encompasses a large body of indicators from multiple sources
+thereby providing a broader measure of institutions than most of the individual indicators
+in the literature.
+The WGI conceptualises institutions to mean the traditions by which authority is
+exercised in a country. The quality of a country’s institution according to the WGI
+measures is a reflection of:
+a
+
+the process by which governments are selected, monitored and replaced
+
+b
+
+the capacity of the government to effectively formulate and implement sound
+policies
+
+c
+
+the respect of citizens and the state for the institutions that govern economic and
+social interactions among them.
+
+From these three thematic areas above, two corresponding measures of institutional
+quality for each area have been developed giving rise to six aggregated measures of
+quality institutions:
+1
+
+political stability and the absence of violence/terrorism
+
+2
+
+voice and accountability
+
+3
+
+government effectiveness
+
+4
+
+regulatory quality
+
+5
+
+the rule of law
+
+6
+
+control of corruption.
+
+In all, higher values of these six indicators demonstrate the existence of good institutions
+in a country. A country with a good institutional framework, based on the WGI indicators
+should therefore be characterised by a stable political environment devoid of violence,
+the liberty of the masses to freely express themselves, effective governance and quality
+regulation, enforcement of rule of law and low level of corruption.
+Regarding the role of institutional quality in the IFRS and economic growth nexus,
+we argue that the existence of quality institutional framework is relevant in enhancing the
+economic impact of IFRS adoption by a country. While the adoption of IFRS is expected
+to promote economic growth, a poor institutional environment may diminish the
+economic impact of IFRS (Beneish and Yohn, 2008). This is because a poor institutional
+environment heightens the uncertainties associated with investment and could lead
+investors to discount the economic benefits of IFRS adoption. Prior accounting studies
+argue that the effectiveness of accounting and reporting systems is usually a reflection of
+the institutional environment within which they operate (Leuz et al., 2003; Mir and
+Rahaman, 2005). In line with this general belief, Ball (2006) strongly opines that
+changing accounting standards alone may not be enough in achieving positive economic
+outcomes. By extension, the adoption of quality accounting standards, such as IFRS by a
+country, may be inconsequential in terms of the expected economic benefits unless it is
+supported by strong institutions. As Wysocki (2011) suggests, the effective
+implementation of IFRS in a country may depend on the strength of its other institutional
+indicators. Thus, institutional factors may influence directly the effective application of
+
+IFRS adoption and economic growth in developing economies
+
+79
+
+IFRS and its economic outcomes. On the basis of the above discussion, we argue that
+while the adoption of IFRS is expected to improve the transparency in reporting,
+promoting FDI and economic growth, poor institutional developments in a country may
+diminish the economic impact of IFRS. Therefore, we also hypothesise that:
+H2 Institutional quality moderates favourably the relationship between IFRS adoption
+and economic growth.
+
+4
+
+Research design
+
+4.1 Sample selection and data
+We began our sample selection with all countries classified as developing countries by
+the United Nations Statistics Division. The list of countries used in the analysis is
+presented in Table A1. A panel data of the sampled countries, covering the period 1996
+to 2013, was employed in the analysis of the study objectives. To reduce the impact of
+volatility in the data set and the effect of strong cyclical factors that may be present in the
+yearly data (Ali et al., 2010; Law and Habibullah, 2009), we transformed the data from
+the 18-year annual observations to three non-overlapping years. This together, gives a
+six-time period data for our empirical analysis (1996–1998, 1999–2001, 2002–2004,
+2005–2007, 2008–2010, 2011–2013). Averaging the data over a three-year interval
+improves the number of observations in the final analysis by reducing the amount of
+observations with zeros or missing values, which would have otherwise been omitted
+from the regression models. We employed non-overlapping averages and not moving
+averages as the latter though often used can introduce autocorrelation into the regression
+model because the data points become dependent on each other. Again, a number of
+studies have also employed non-overlapping years in their estimation (Ali et al., 2010;
+Agbloyor et al., 2016).
+
+4.2 Empirical specification
+To empirically assess the effect of IFRS adoption on economic growth, the following
+basic formulation, similar to previous economic growth studies (Agbloyor et al., 2016;
+Aisen and Veiga, 2013) is estimated:
+
+yit = α1 yit −1 + α 2 IFRSdummyit + α 3 InstQuait
++α 4 ( IFRSdummy ∗ InstQuait ) + α 5Controlsit + εit
+where yit represents the dependent variable, Loggdppc (measured as the log of the three
+year averaged GDP per capita data in constant dollars for country ‘i’ at time ‘t’, yit–1
+represents the first lag of the dependent variable y and α1 represents the coefficient of the
+lag of GDP per capita. α2 represents the coefficient of the variable named IFRSdummy
+which captures the adoption of IFRS by a country. This was measured as a dummy ‘1’ if
+a country has adopted IFRS and ‘0’ if otherwise. α3 represents the coefficient of
+institutional quality. A composite measure for institutional quality was obtained by
+computing the weighted average of the six Kaufmann governance indicators using the
+respective weights generated through the principal component analysis technique. The six
+
+80
+
+G.M.Y. Owusu et al.
+
+indices used to measure the overall institutional quality include corruption, rule of law,
+political stability and absence of violence, voice and accountability, government
+effectiveness and regulatory quality (Agbloyor et al., 2016; Kose et al., 2011). The
+coefficient of the interaction of IFRS adoption and institutional quality is represented in
+the model by α4. α5 represent the coefficient of the set of control variables included in the
+model while represents the error term in the regression model.
+
+4.3 Control variables and expected signs
+Following prior studies, (Agbloyor et al., 2016; Borrmann et al., 2006; Oppong and Aga,
+2019) we control for several known predictors of economic growth. The variables that
+have been shown in previous studies to be the most important determinants of growth
+include trade openness, savings, financial market development and population growth.
+Trade openness is measured as the sum of imports and exports scaled by GDP, financial
+development is measured as financial depth (money and quasi money ‘M2’ as a
+percentage of GDP), savings is measured as gross domestic savings to GD and population
+growth is the annual population growth rate scaled by 100. A detailed description of each
+variable, measurement and data source is provided in the Table A2. In line with the
+hypotheses of this study (H1 and H2) it is expected that the coefficient of IFRSdummy
+will be positive whilst institutional quality and the interaction term are also expected to
+have a positive coefficient. We also expect openness to trade, savings, financial market
+development and population growth to be positively related to economic growth and an
+inverse relationship between inflation and growth.
+
+4.5 Empirical method of estimation
+In this study the GMM estimation technique developed by Arellano and Bond (1991),
+Arellano and Bover (1995) and Blundell and Bond (1998) is used. Compared with other
+estimation techniques, GMM estimator handles better the problem of unobserved
+heterogeneity, allows for a dynamic relation of the dependent variable and also addresses
+the problem of endogeneity biases in a more efficient way (Wintoki et al., 2012). Again,
+the GMM estimator controls for heteroskedasticity and autocorrelation effectively and
+can accommodate unbalanced panels (Roodman, 2006). These desirable characteristics
+make the GMM a more efficient panel regression estimation technique than the ordinary
+least square and other static estimation techniques. Specific to this study however, the
+GMM is employed for three important reasons.
+First, the GMM technique is adopted to address potential endogeneity concerns in our
+estimated model. Apart from the fact that some of the variables of interest in the
+estimated model such as openness to trade are theoretically endogenous in nature (Busse
+and Hefeker, 2007), previous related IFRS studies suggest endogeneity may also result
+from changes due to other regulatory reforms that could have occurred around the time of
+IFRS adoption (Gordon et al., 2012). While the instrumental variable (IV) technique is
+sometimes used to deal with the effect of endogeneity on estimated results, the difficulty
+of getting appropriate instrument that correlates with only the exogenous variables and
+not the error term has been acknowledged in practice (Butkiewicz and Yanikkaya, 2006).
+Thus, using the GMM estimator helps in overcoming the difficulty of getting appropriate
+instrument with the IV approach. This is because the GMM approach assumes the only
+available and valid instruments are ‘internal’ and thus, strictly relies on the set of
+
+IFRS adoption and economic growth in developing economies
+
+81
+
+‘internal’ instruments contained within the panel itself and not outside the immediate data
+set (Roodman, 2006; Wintoki et al., 2012).
+Second, the use of the dynamic panel GMM estimator is also appropriate for this
+study because, it allows for the treatment of the economic growth as a dynamic process
+by considering the impact of past growth performance on current level of growth.
+According to Roodman (2006), the GMM estimators are designed for panel analysis in
+which current realisation of the dependent variable is influenced by past ones. Existing
+econometric growth studies suggest past growth has important implications on future
+growth performance (Aisen and Veiga, 2013; Agbloyor et al., 2016).
+Third, the GMM estimators are also ideal for panels with few time periods and many
+cross section (panels with small ‘T’ and large ‘N’) (Roodman, 2006). The number of
+countries used in the study analysis far exceeds the time period of data coverage, thereby
+justifying the appropriateness of using the GMM technique to estimate the empirical
+relations.
+This study employs the two-step version of the System GMM since it results in more
+asymptotic efficient estimates than the one-step estimator and are also robust to all kinds
+of heteroskedasticity (Asiedu and Lien, 2011). The Windmeijer (2005) corrected standard
+errors procedure is also employed to correct the biases associated with the two-step
+estimator. Orthogonal deviations transformations are used in the estimation and the
+instruments are collapsed where necessary to ensure that the number of instruments do
+not exceed the number of groups (Roodman, 2009).
+
+5
+
+Empirical results
+
+5.1 Descriptive statistics correlations
+Table 1 provides descriptive statistics for variables used in the empirical analysis. GDP
+per capita shows the maximum variation with a minimum value of US$113.58 and a
+maximum of US$93,200 with an average GDP per capita of US$4,555.24. This result
+indicates the existence of huge disparities in GDP per capita levels across the sampled
+countries. The mean level of savings is approximately 17% of GDP over the period while
+the level of population growth averages about 1.9%. Among the six institutional quality
+indicators, ‘control of corruption’ had the best maximum score (1.67) while ‘political
+stability’ was the worst ranked indicator with a minimum value of (–2.49).
+Table 2 presents the results of the pairwise correlation matrix for the variables
+employed in the analysis. This analysis was done with the aim of ascertaining whether
+the independent variables were highly correlated with each other in order to establish
+whether multicollinearity was an issue in the dataset. The results of the pairwise
+correlation matrix, as shown in Table 2, indicate that multicollinearity is not a major issue
+as the extent of correlation among the independent variables is very low. Notable
+exceptions to the correlation matrix are the six indicators of institutional quality and the
+aggregate measure of institutions. The six indicators exhibit a high pairwise correlation
+among each other and with the aggregate institutional quality measure. This result is
+however expected and justifies the appropriateness in using the aggregate measure in our
+empirical analyses.
+
+82
+
+G.M.Y. Owusu et al.
+
+Table 1
+
+Descriptive statistics
+
+Variable
+
+Obs
+
+Mean
+
+Std. dev.
+
+Min
+
+Max
+
+GDPPC
+
+464
+
+4,555.24
+
+8,343.14
+
+113.586
+
+93,200.1
+
+INSTQUA
+
+466
+
+–0.3439
+
+0.6849
+
+–2.1157
+
+1.3104
+
+VOICE
+
+468
+
+–0.2967
+
+0.8079
+
+–2.1598
+
+1.4436
+
+PSTAB
+
+466
+
+–0.3456
+
+0.9477
+
+–2.4914
+
+1.3614
+
+GOVT
+
+468
+
+–0.3556
+
+0.715
+
+–1.9606
+
+1.5048
+
+REGQUA
+
+468
+
+–0.3167
+
+0.6963
+
+–2.2294
+
+1.5246
+
+RULELAW
+
+468
+
+–0.3885
+
+0.7454
+
+–2.0686
+
+1.4292
+
+CORRUPT
+
+468
+
+–0.3578
+
+0.7334
+
+–1.9785
+
+1.6791
+
+SAVINGS
+
+449
+
+0.1701
+
+0.1908
+
+–0.7494
+
+0.8411
+
+FINDEVT
+
+387
+
+0.4887
+
+0.2902
+
+0.0224
+
+1.4929
+
+POPGROWTH
+
+468
+
+1.8725
+
+1.386
+
+–1.6069
+
+15.8824
+
+INFLATION
+
+464
+
+11.8498
+
+51.2339
+
+–14.631
+
+1,048.36
+
+TRADEOPEN
+
+415
+
+0.6393
+
+0.1371
+
+0.15
+
+0.8793
+
+IFRSDUMMY
+
+468
+
+0.2756
+
+0.4473
+
+0
+
+1
+
+Notes: GDPPC represents GDP per capita. INSTAQUA represents institutional quality.
+VOICE represents voice and accountability. PSTAB represents political stability.
+GOVT represents government effectiveness. REGQUA represents regulatory
+quality. RULELAW represents rule of law. CORRUPT represents control of
+corruption. SAVINGS represents gross domestic savings to GDP. FINDEVT
+represents financial development. POPGROWTH represents growth in
+population. TRADEOPEN represents openness to trade. IFRSDUMMY is a
+dummy variable that represents the adoption of IFRS by a country where IFRS
+represents International Financial Reporting Standards.
+
+5.2 Regression results
+Results from the dynamic panel estimation are shown in Table 3. In all, there are eight
+different regression outputs in Table 3. The initial result, as shown in column 1 of Table 3
+(model A), tests the effect of IFRS adoption on economic growth. This regression
+excludes the interaction of the IFRS variable with institutional quality. Model B of
+Table 3 contains results based on the interaction of IFRS adoption and institutional
+quality and their joint impact on economic growth. In models C-H, the six indicators of
+institutional quality are used individually to estimate the model.
+The initial results, as shown in model A, demonstrate a positive but weakly
+significant relationship (at 10% significance level) between the IFRS adoption and
+economic growth. This suggests that countries that adopt IFRS for reporting purposes
+experience better economic growth than non-adopting countries. Specifically, at a 10%
+level of significance, countries that have adopted the IFRS received about 9.28% more
+inflows than countries that rely on their own domestic accounting standard for financial
+reporting purposes. Thus, in line with our predictions, the type of accounting standards
+applicable in a country has important implications on economic growth. Specifically,
+countries that adopt quality accounting standards such as the IFRS experience better
+economic growth than countries with weak accounting standards. This finding in part
+may be attributable to the fact that, the adoption of IFRS enhances the efficiency in
+
+IFRS adoption and economic growth in developing economies
+
+83
+
+allocation of scarce resources within an economy (Zhang, 2013) which has implications
+on growth. As documented in existing studies (Bushman et al., 2011; Lurson and Kenny,
+1995) the efficiency with which resources are allocated in an economy is important in
+ensuring that resources get to the most productive sectors of the economy to propel
+growth. Again, countries that adopt IFRS are able to attract more FDI inflows than
+non-adopting countries (Chen et al., 2014; Gordon et al., 2012; Owusu et al., 2017a;
+2017b) which is helpful in promoting economic growth. This result is consistent with the
+findings of Oppong and Aga (2019) who concluded that the full adoption of IFRS
+increases growth rate of GDP contemporaneously.
+The results in model A also show a highly significant lagged dependant GDPPC
+variable (at 1% level) an indication that GDP per capita is highly persistent. By
+implication, past economic growth matters for current economic growth justifying the
+appropriateness of using the dynamic panel estimation technique. The institutional
+quality variable was found to be positive but insignificant with growth. Largely, all the
+control variables have the expected sign and are statistically significant at either 1% or
+5% level, with the exception of population growth, which had a statistically insignificant
+relationship with growth. Savings recorded a very strong positive association with
+economic growth (p-value < 0.01); an indication that the level of domestic savings in a
+country impacts positively on the rate of growth in that country. By implication, countries
+with a high savings rate grow faster than those with a lower saving rate. This is because
+an increase in the savings ratio usually increases the availability of funds for investment
+projects in a country, which in turn stimulates economic growth. From a theoretical
+perspective, traditional growth theories predict a positive correlation between the savings
+ratio and the level of economic growth in a country (Solow, 1956; Lucas, 1988).
+Additionally, the results demonstrate that the level of a country’s financial
+development is important for its growth outcomes as financial development was found to
+be positive and statistically significant (at 5% level) with economic growth. While the
+exact role of financial development on economic growth appears to be a controversial
+issue in the existing empirical growth literature, this finding supports the argument that
+financial development can spur economic growth. Countries with a well-functioning
+financial system, mostly characterised by well-developed capital market and efficient
+banking system tend to grow faster. Empirically, several studies have found a positive
+association between financial development and economic growth (Hassan et al., 2011;
+Levine, 1997; Apergis et al., 2007; Tang, 2006).
+In terms of the relationship between the degree of trade openness and economic
+growth, the conventional view is that openness to trade has growth-enhancing effects.
+The estimated results for trade openness in this study indicate a positive and significant
+association between the degree of trade openness and economic growth (at 1% significant
+level). By implication, countries with outward-oriented economies tend to grow faster
+than inward-oriented economies. The explanation is that, openness to trade usually
+expands trade opportunities to a country, increases the rate of technology transfer and
+diffusion and improves efficiency in resource allocation in an economy which in turn
+improves productivity and growth (Wang et al., 2004; Borrmann et al., 2006). The
+findings from this study are therefore in line with both theoretical and empirical growth
+studies that support the view that, trade openness facilitates a country’s economic growth
+(Borrmann et al., 2006; Chang et al., 2009; Wang et al., 2004; Yanikkaya, 2003).
+
+1
+
+0.5437*
+
+0.6600*
+
+0.6126*
+
+0.6376*
+
+0.6243*
+
+0.5240*
+
+0.3685*
+
+–0.054
+
+–0.1362*
+
+0.2449*
+
+0.2341*
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+0.2042*
+
+0.2847*
+
+–0.1603*
+
+–0.2080*
+
+0.5549*
+
+0.1429*
+
+0.9214*
+
+0.9570*
+
+0.8678*
+
+0.9283*
+
+0.7860*
+
+0.8446*
+
+1.00
+
+2
+
+0.1387*
+
+0.2557*
+
+–0.1567*
+
+–0.3558*
+
+0.4110*
+
+–0.0325
+
+0.6933*
+
+0.7336*
+
+0.7477*
+
+0.7383*
+
+0.6078*
+
+1.00
+
+3
+
+0.1524*
+
+0.1479*
+
+–0.1908*
+
+–0.1079*
+
+0.3467*
+
+0.1446*
+
+0.6789*
+
+0.7524*
+
+0.5321*
+
+0.6065*
+
+1.00
+
+4
+
+0.1779*
+
+0.2955*
+
+–0.1779*
+
+–0.1916*
+
+0.5825*
+
+0.1969*
+
+0.8697*
+
+0.8949*
+
+0.8866*
+
+1.00
+
+5
+
+0.2382*
+
+0.3855*
+
+–0.1978*
+
+–0.1909*
+
+0.4071*
+
+0.2084*
+
+0.7514*
+
+0.8004*
+
+1.00
+
+6
+
+0.1938*
+
+0.2354*
+
+–0.1779*
+
+–0.1446*
+
+0.5942*
+
+0.1468*
+
+0.9073*
+
+1.00
+
+7
+
+0.1576*
+
+0.2252*
+
+–0.1465*
+
+–0.1193*
+
+0.5690*
+
+0.0976*
+
+1.00
+
+8
+
+0.2355*
+
+0.0128
+
+–0.0207
+
+0.2575*
+
+0.0187
+
+1.00
+
+9
+
+–0.0158
+
+0.1314*
+
+–0.1212*
+
+–0.2023*
+
+1.00
+
+10
+
+0.1075*
+
+–0.0618
+
+0.0419
+
+1.00
+
+11
+
+–0.0511
+
+–0.0657
+
+1.00
+
+12
+
+0.2873*
+
+1.00
+
+13
+
+Notes: *represents significance at 5%.
+1 represents the variable GDPPC (GDP per capita), 2 represents the variable INSTAQUA (institutional quality) 3 represents the variable VOICE (voice and
+accountability), 4 represents the variable PSTAB (political stability), 5 represents GOVT (government effectiveness), 6 represents REGQUA (regulatory
+quality),7 represents RULELAW(rule of law), 8 represents CORRUPT (control of corruption), 9 represents savings, 10 represents FINDEVT (financial
+development), 11 represents POPGROWTH (population growth), 12 represents INFLATON, 13 represents TRADEOPEN (openness to trade) represents,
+14 represents IFRSDUMMY.
+
+0.6702*
+
+0.4793*
+
+2
+
+1.00
+
+1.00
+
+14
+
+Table 2
+
+1
+
+84
+G.M.Y. Owusu et al.
+
+Correlation matrix for the study variables
+
+0.159**
+(0.0665)
+
+(0.0637)
+
+(0.0117)
+
+0.176***
+
+(0.0137)
+
+(0.0576)
+–0.0376***
+
+–0.0323**
+
+(0.0451)
+
+(0.185)
+–0.00266
+
+(0.232)
+
+–0.0348
+
+0.432**
+
+(0.314)
+
+(0.251)
+
+0.482**
+
+1.446***
+
+1.678***
+
+(0.175)
+
+0.0882
+
+(0.101)
+
+0.229**
+
+(0.0150)
+
+–0.0360**
+
+(0.134)
+
+–0.0156
+
+(0.216)
+
+0.369*
+
+(0.334)
+
+1.372***
+
+0.171*
+(0.0877)
+
+(0.0606)
+
+(0.112)
+
+(0.118)
+
+(0.0520)
+
+0.175***
+
+0.0802
+
+(0.0528)
+
+0.154
+
+0.107**
+
+(0.0907)
+
+Model D
+
+(0.0822)
+
+0.114
+
+(0.0679)
+
+0.159**
+
+(0.00742)
+
+–0.0375***
+
+(0.0776)
+
+–0.0598
+
+(0.242)
+
+0.373
+
+(0.354)
+
+1.564***
+
+(0.0532)
+
+0.118**
+
+(0.0558)
+
+0.107*
+
+(0.129)
+
+0.554***
+
+Model E
+
+(0.0501)
+
+0.160***
+
+(0.00582)
+
+–0.0383***
+
+(0.0593)
+
+–0.0245
+
+(0.182)
+
+0.318*
+
+(0.437)
+
+1.390***
+
+(0.0557)
+
+0.133**
+
+(0.0570)
+
+0.0991*
+
+(0.130)
+
+0.615***
+
+Model F
+
+(0.0707)
+
+0.170**
+
+(0.0123)
+
+–0.0333***
+
+(0.0401)
+
+–0.00762
+
+(0.286)
+
+0.518*
+
+(0.383)
+
+1.449***
+
+(0.0715)
+
+0.165**
+
+(0.0514)
+
+0.0912*
+
+(0.129)
+
+0.550***
+
+Model G
+
+(0.0578)
+
+0.107*
+
+(0.00813)
+
+–0.0491***
+
+(0.0333)
+
+–0.00454
+
+(0.183)
+
+0.523***
+
+(0.286)
+
+1.456***
+
+(0.0451)
+
+0.123***
+
+(0.0389)
+
+0.0955**
+
+(0.0999)
+
+0.598***
+
+Model H
+
+(0.0849)
+
+0.0967
+
+(0.0110)
+
+–0.0428***
+
+(0.0305)
+
+–0.00649
+
+(0.181)
+
+0.551***
+
+(0.252)
+
+1.459***
+
+(0.0496)
+
+0.0711
+
+(0.0395)
+
+0.0896**
+
+(0.104)
+
+0.578***
+
+Notes: Standard errors are in parentheses, ***, **, *represents significance at p < 0.01, p < 0.05, p < 0.1 respectively. GDPPC represents log of GDP per capita.
+IFRSDUMMY is a dummy variable that represents the adoption of IFRS by a country. INSTAQUA represents institutional quality. SAVINGS represents gross
+domestic savings to GDP. FINDEVT represents financial development. POPGROWTH represents growth in population. TRADEOPEN represents openness to
+trade. GOVT represents government effectiveness. RULELAW represents rule of law. CORRUPT represents control of corruption. REGQUA represents
+regulatory quality. VOICE represents voice and accountability. PSTAB represents political stability.
+
+RULELAW
+
+GOVT
+
+TRADEOPEN
+
+INFLATION
+
+POPGROWTH
+
+FINDEVT
+
+SAVINGS
+
+INTERACTION
+
+INSTQUA
+
+(0.0507)
+
+(0.103)
+0.108**
+
+0.0928*
+
+(0.0967)
+
+Model C
+0.585***
+
+Table 3
+
+IFRSDUMMY
+
+Lag of log GDPPC
+
+Model B
+0.574***
+
+Model A
+
+0.504***
+
+Variables
+
+IFRS adoption and economic growth in developing economies
+85
+
+Regression results
+
+1.04
+
+(0.297)
+
+–1.34
+
+(0.180)
+
+8.26
+
+(0.913)
+
+AR (1): z
+
+(p value)
+
+AR (2): z
+
+(p value)
+
+Hansen: χ2
+
+(p value)
+
+(0.805)
+
+11.07
+
+(0.088)
+
+–1.70
+
+(0.469)
+
+0.72
+
+26
+
+0.000
+
+325.60
+
+78
+
+332
+
+(0.338)
+
+12.35
+
+(0.316)
+
+–1.00
+
+(0.861)
+
+0.17
+
+21
+
+0.000
+
+491.90
+
+78
+
+332
+
+(0.573)
+
+2.889***
+
+Model C
+
+(0.379)
+
+18.16
+
+(0.280)
+
+–1.08
+
+(0.552)
+
+0.59
+
+27
+
+0.000
+
+511.13
+
+78
+
+332
+
+(0.843)
+
+3.154***
+
+Model D
+
+(0.266)
+
+19.06
+
+(0.114)
+
+–1.58
+
+(0.925)
+
+0.09
+
+26
+
+0.000
+
+995.53
+
+78
+
+332
+
+(0.854)
+
+2.691***
+
+(0.0799)
+
+0.0988
+
+Model E
+
+(0.948)
+
+8.02
+
+(0.054)
+
+–1.93
+
+(0.401)
+
+0.84
+
+26
+
+0.000
+
+229.40
+
+78
+
+332
+
+(0.823)
+
+3.030***
+
+(0.0932)
+
+0.0912
+
+Model F
+
+(0.850)
+
+11.13
+
+(0.067)
+
+–1.83
+
+(0.360)
+
+0.92
+
+27
+
+0.000
+
+647.42
+
+78
+
+332
+
+(0.652)
+
+2.600***
+
+(0.0564)
+
+–0.0426
+
+Model G
+
+(0.716)
+
+12.39
+
+(0.162)
+
+–1.40
+
+(0.176)
+
+1.35
+
+26
+
+0.000
+
+363.52
+
+78
+
+332
+
+(0.698)
+
+2.785***
+
+(0.0740)
+
+0.0382
+
+Model H
+
+Notes: Standard errors are in parentheses, ***, **, *represents significance at p < 0.01, p < 0.05, p < 0.1 respectively. GDPPC represents log of GDP per capita.
+IFRSDUMMY is a dummy variable that represents the adoption of IFRS by a country. INSTAQUA represents institutional quality. SAVINGS represents gross
+domestic savings to GDP. FINDEVT represents financial development. POPGROWTH represents growth in population. TRADEOPEN represents openness to
+trade. GOVT represents government effectiveness. RULELAW represents rule of law. CORRUPT represents control of corruption. REGQUA represents
+regulatory quality. VOICE represents voice and accountability. PSTAB represents political stability.
+
+24
+
+0.000
+
+Prob. > F
+
+No. of instruments
+
+242.10
+
+78
+
+F
+
+332
+
+(0.758)
+
+Number of groups
+
+2.881***
+
+(0.657)
+
+Model B
+
+3.448***
+
+Observations
+
+Diagnostics
+
+Constant
+
+PSTAB
+
+VOICE
+
+Model A
+
+Table 3
+
+REGQUA
+
+CORRUPT
+
+Variables
+
+86
+G.M.Y. Owusu et al.
+
+Regression results (continued)
+
+IFRS adoption and economic growth in developing economies
+
+87
+
+Lastly, the regression result also shows a negative and statistically significant relationship
+between inflation and economic growth. This clearly suggests that high inflation rates
+may be harmful to a country’s economic growth. Thus, although some empirical studies
+document a positive relationship between inflation and economic growth, this result
+reinforces the negative effect of inflation and provides some support for the hypothesis
+that high inflation rates are detrimental to economic growth prospects of a country. This
+finding is also consistent with several empirical studies that report an inverse relationship
+between inflation and economic growth (Burdekin et al., 2004; Fernandez, 2003;
+Gylfason and Herbertsson, 2001). Taken together, the results are generally consistent
+with theory and empirical studies.
+The existing literature argues that, complementarities exist between accounting and
+other institutional elements within an economy (Soderstrom and Sun, 2007; Wysocki,
+2011; Wehrfritz and Haller, 2014; Cieslewicz, 2014). Therefore, further analyses were
+carried out to investigate whether the quality of institutions matters for the
+IFRS-economic growth nexus. This was done by interacting the IFRS dummy with the
+aggregate institutional quality measure. The next section discusses the results of the
+interaction of IFRS adoption with institutional quality and their joint impact on economic
+growth.
+
+5.3 Results from the interaction of IFRS adoption and institutional quality
+Model B of Table 3 presents results from the interaction of IFRS adoption and
+institutional quality. As can be seen from model B in Table 3, the interaction term is
+positive and highly significant (p-value < 0.01), suggesting that in the presence of good
+institutions, countries that adopt IFRS experience better economic growth than
+non-adopters. This result clearly demonstrates that institutional quality matters when
+considering the impact of accounting standards on economic growth and confirms the
+existence of complementarities between accounting standards and other institutional
+elements in a country.
+From the results, countries that have adopted the IFRS received about 10.8% more
+inflows than countries that rely on their own domestic accounting standard for financial
+reporting purposes. Remarkably, after introducing the interacting term into the
+regression, the adoption dummy is also found to be positive and highly significant (at 5%
+significance level), better than the initial model without the interacting variable.
+As can be seen from model B, the lagged of the dependent variable again is positive
+and significant (at 1% level) as expected. The results for the other control variables as
+shown in model B are consistent with findings in most empirical literature. All the
+control variables are appropriately signed and statistically significant, with the notable
+exception of population growth, which had no significant relationship with economic
+growth in the regression results.
+Further tests were conducted to examine the relative effect of each of the institutional
+indicators on the estimated results. This was done by unbundling the aggregate
+institutional quality measure into their respective components and interacting each of
+them with the IFRS dummy. In the succeeding columns in Table 3 (models C to H),
+results for each of the individual components of institutional quality and their interaction
+with IFRS adoption are presented.
+
+88
+
+G.M.Y. Owusu et al.
+
+As shown in Table 3, the coefficient for each of the interaction was positive in all the
+six. This is an indication that each of the institutional quality measures matters for the
+growth-enhancing effect of IFRS adoption. Apart from the political stability indicator
+whose coefficient for the interactive term was found to be insignificant though positively
+related with economic growth (see model H), significant results were obtained from the
+interaction of all the other institutional quality indicators, as shown in models C to model
+G from Table 3. In all the six regressions, the lagged of the dependent variable was
+positive and significant at 1% level. The IFRS dummy and savings enter all the six
+regressions as significant and positively related to economic growth, whilst financial
+development and trade openness enter five out of the six regressions as positively and
+significantly associated with economic growth. On the other hand, inflation enters the six
+regressions as significant with a negative coefficient in all instances while population
+growth remained insignificant in all the regressions.
+
+5.4 Diagnostic checks
+In all the regressions, as reported in Table 3, the various specification tests confirm that
+each of the estimated models is properly specified. Checks for consistency of the
+estimates for all the regressions, using the Hansen test of over-identifying restrictions and
+the Arellano and Bond test for second-order serial correlation in the error term, produced
+very satisfactory outcome. As illustrated in Table 3 the results of the Hansen test for
+over-identifying restrictions supported the null hypothesis in all the regressions. This
+means that the instruments used in all the estimations were valid and there is no
+correlation between the instruments and the error term. The results for the Arellano-Bond
+test for autocorrelation, as shown in Table 3 also confirm the absence of second order
+serial correlation in all the regression models. In all instances, the number of instruments
+did not exceed the number groups and the ‘F’ test results for the estimated models to
+indicate that all the models tested are significant.
+
+5.5 Robustness checks
+To check for the robustness of the baseline results of this study, an alternative measure of
+the aggregate institutional quality indicator (weighted average) was used to re-estimate
+the models. Specifically, a weighted average index of institutional quality was
+constructed. This was done by subjecting the six measures of institutional quality to
+principal component analysis (PCA) to determine the weight of each component. A
+summary of the results derived from the PCA is shown in Table A3. The first principal
+component derived from the six indicators has eigen values greater than one and accounts
+for 71.6% of the total variation. This makes it the most appropriate among the other
+linear combination of the six indicators. Hence, the first principal component of the PCA
+was used in obtaining the weights for the institutional quality index. The weighted
+average institutional quality index was subsequently constructed based on the weight
+from the PCA results. Using the weighted average institutional quality index, the
+regression models were re-estimated and the results are as presented in Table 4.
+
+IFRS adoption and economic growth in developing economies
+Table 4
+
+89
+
+Results using weighted average aggregate institutional quality measure
+
+Variables
+
+Model X
+
+Model Y
+
+Model Z
+
+Lag of log GDPPC
+
+0.478***
+
+0.572***
+
+0.611***
+
+(0.0803)
+
+(0.103)
+
+(0.102)
+
+0.0974**
+(0.0405)
+0.0891
+(0.121)
+
+1.754***
+(0.219)
+0.592**
+(0.226)
+–0.0437
+(0.0476)
+–0.0414***
+(0.0147)
+0.148*
+(0.0795)
+3.557***
+
+0.109**
+(0.0524)
+0.0772
+(0.111)
+0.174***
+(0.0602)
+1.455***
+(0.310)
+0.437**
+(0.183)
+–0.00378
+(0.0587)
+–0.0381***
+(0.0116)
+0.156**
+(0.0676)
+2.895***
+
+0.0503
+(0.123)
+0.172**
+(0.0678)
+1.409***
+(0.322)
+0.517**
+(0.230)
+0.0410
+(0.0492)
+–0.0397***
+(0.0121)
+0.175**
+(0.0765)
+2.537***
+
+(0.532)
+
+(0.758)
+
+(0.672)
+
+332
+
+332
+
+332
+
+78
+236.09
+0.000
+25
+1.09
+(0.275)
+–1.36
+(0.175)
+8.45
+(0.934)
+
+78
+329.09
+0.000
+26
+0.75
+(0.456)
+–1.68
+(0.092)
+11.14
+(0.801)
+
+78
+447.34
+0.000
+21
+1.12
+(0.264)
+–1.17
+(0.243)
+18.05
+(0.114)
+
+IFRSDUMMY
+INSTAQUA
+INTERACTION
+SAVINGS
+FINDEVT
+POPGROWTH
+INFLATION
+TRADEOPEN
+Constant
+Diagnostics
+Observations
+Number of groups
+F
+Prob. > F
+No. of instruments
+AR (1): z
+(p value)
+AR (2): z
+(p value)
+Hansen: χ2
+(p value)
+
+Notes: Standard errors are in parentheses, ***, **, *represents significance at p < 0.01,
+p < 0.05, p < 0.1 respectively. GDPPC represents log of GDP per capita.
+IFRSDUMMY is a dummy variable that represents the adoption of IFRS by a
+country. INSTAQUA represents institutional quality. SAVINGS represents gross
+domestic savings to GDP. FINDEVT represents financial development.
+POPGROWTH represents growth in population. TRADEOPEN represents
+openness to trade. GOVT represents government effectiveness. RULELAW
+represents rule of law. CORRUPT represents control of corruption. REGQUA
+represents regulatory quality. VOICE represents voice and accountability. PSTAB
+represents political stability.
+
+90
+
+G.M.Y. Owusu et al.
+
+The first column of Table 4 (model X) shows results without the interaction term. Model
+Y of Table 4 contains results with the introduction of the interaction term while model Z
+presents results with the interaction term after dropping the IFRS adoption variable. As
+can be seen from these results, the IFRS dummy remained significant and has a positive
+relationship with GDP on its own in the baseline model (model X). The interaction term
+was equally significant and positively related to economic growth with or without the
+adoption dummy in the regression. Savings, financial development and openness to trade
+were all positive and significantly related to GDP in all the regressions while inflation
+remained significant and inversely related to GDP throughout the three regressions.
+Overall, the robustness test using the weighted average measure of institutional quality
+produces results similar to the main analysis.
+
+6
+
+Conclusions
+
+This study examines the effect of IFRS adoption on economic growth in developing
+countries. We expect the adoption of IFRS by countries to result in improved economic
+growth and predict that the positive effect of IFRS adoption on economic growth is
+conditioned by country-level institutional quality. In line with our predictions, we find
+that countries that adopt IFRS experience better economic growth than non-adopting
+countries. Further analyses also show that country-level institutional quality favourably
+alters the effect of IFRS adoption on economic growth. We make a significant
+contribution to the Accounting and Economics literature by providing evidence on the
+impact of accounting standards on economic growth of countries. This study highlights
+the generic role that accounting regulations in a form of financial reporting standards can
+play in promoting economic growth of a country. Overall, our results indicate that the
+benefit of adopting IFRS transcends the traditional firm-level improvement in corporate
+reporting quality. At the national level, there could be significant economic benefits
+associated with IFRS adoption. We argue that academic researchers should not overlook
+the importance of a country’s accounting system, particularly accounting regulations
+when examining the determinants of economic growth.
+Given that the adoption of IFRS could be associated with better economic growth,
+policy makers in developing economies that are yet to adopt IFRS may be encouraged by
+this result to speed up the process towards adopting the IFRS, due to its inherent
+economic benefits. Moreover, development partners such as the World Bank, IMF.
+The findings of this study are however not without limitations and hence care should
+be taken in interpreting the results. First, given that the detected association between
+IFRS adoption alone and economic performance is weak, the results may also mean the
+impact of the adoption alone may be of little consequences in terms of driving growth in
+developing economies. Future studies should therefore consider other jurisdictions not
+captured in the sample for instance, the developed countries where there are relatively
+deep capital markets and strong international portfolio flows. Second, although most
+countries that adopted the IFRS had at least a two-year transition period while many
+others did not require fair value reporting immediately, the study did not account for the
+impact of these differences on the estimated results. Future studies could explore this
+further by explicitly accounting for the impact of these differences on the estimated
+results. Lastly, findings of this study are based on data from only 78 developing
+economies and hence, the extent of generalisation of findings may be limited.
+
+IFRS adoption and economic growth in developing economies
+
+91
+
+References
+Abad, D., Cutillas‐Gomariz, M.F., Sánchez‐Ballesta, J.P. and Yagüe, J. (2018) ‘Does IFRS
+mandatory adoption affect information asymmetry in the stock market?’, Australian
+Accounting Review, Vol. 28, No. 1, pp.61–78.
+Adjasi, C. and Biekpe, N. (2006) ‘Stock market development and economic growth: the case of
+selected African countries’, African Development Review, Vol. 18, No. 1, pp.144–161.
+Agbloyor, E.K., Gyeke-Dako, A., Kuipo, R. and and Abor, J.Y. (2016) ‘Foreign direct investment
+and economic growth in SSA : the role of institutions’, Thunderbird International Business
+Review, pp.1–19, https://doi.org/10.1002/tie.
+Aisen, A. and Veiga, J.F. (2013) ‘How does political instability affect economic growth?’,
+European Journal of Political Economy, March, Vol. 29, pp.151–167.
+Akisik, O. (2013) ‘Accounting regulation, financial development, and economic growth’, Emerging
+Markets Finance and Trade, Vol. 49, No. 1, pp.33–67.
+Ali, F.A., Fiess, N. and MacDonald, R. (2010) ‘Do institutions matter for foreign direct
+investment?’, Open Economies Review, Vol. 21, No. 2, pp.201–219.
+Amiram, D. (2012) ‘Financial information globalization and foreign investment decisions’, Journal
+of International Accounting Research, Vol. 11, No. 2, pp.57–81.
+Apergis, N., Filippidis, I. and Economidou, C. (2007) ‘Financial deepening and economic growth
+linkages: a panel data analysis’, Review of World Economics, Vol. 143, No. 1, pp.179–198.
+Asiedu, E. and Lien, D. (2011) ‘Democracy, foreign direct investment and natural resources’,
+Journal of International Economics, Vol. 84, No. 1, pp.99–111.
+Awad, A. and Ragab, H. (2018) ‘The economic growth and foreign direct investment nexus: does
+democracy matter? Evidence from African countries’, Thunderbird International Business
+Review, Vol. 60, No. 4, pp.565–575.
+Ball, R. (2006) ‘International financial reporting standards (IFRS): pros and cons for investors’,
+Accounting and Business Research, Vol. 36, No. sup1, pp.5–27.
+Barth, M.E., Landsman, W.R. and Lang, M.H. (2008) ‘International accounting standards and
+accounting quality’, Journal of Accounting Research, Vol. 46, No. 3, pp.467–498.
+Beneish, M.D. and Yohn, T.L. (2008) ‘Information friction and investor home bias: a perspective
+on the effect of global IFRS adoption on the extent of equity home bias’, Journal of
+Accounting and Public Policy, Vol. 27, No. 6, pp.433–443.
+Brunnschweiler, C.N. (2008) ‘Cursing the blessings? Natural resource abundance, institutions, and
+economic growth’, World Development, Vol. 36, No. 3, pp.399–419.
+Borrmann, A., Busse, M. and Neuhaus, S. (2006) ‘Institutional quality and the gains from trade’,
+Kyklos, Vol. 59, No. 3, pp.345–368.
+Burdekin, R.C.K., Denzau, A.T., Keil, M.W., Sitthiyot, T. and Willett, T.D. (2004) ‘When does
+inflation hurt economic growth? Different nonlinearities for different economies’, Journal of
+Macroeconomics, Vol. 26, No. 3, pp.519–532.
+Bushman, R.M., Piotroski, J.D. and Smith, A.J. (2011) ‘Capital allocation and timely accounting
+recognition of economic losses’, Journal of Business Finance and Accounting, Vol. 38,
+Nos. 1–2, pp.1–33.
+Busse, M. and Hefeker, C. (2007) ‘Political risk, institutions and foreign direct investment’,
+European Journal of Political Economy, Vol. 23, No. 2, pp.397–415.
+Chakrabarti, A. (2001) ‘The determinants of foreign direct investments: sensitivity analyses of
+cross‐country regressions’, Kyklos, Vol. 54, No. 1998, pp.89–113.
+Chang, R., Kaltani, L. and Loayza, N.V. (2009) ‘Openness can be good for growth: the role of
+policy complementarities’, Journal of Development Economics, Vol. 90, No. 1, pp.33–49.
+Chen, C.J.P., Ding, Y. and Xu, B. (2014) ‘Convergence of accounting standards and foreign direct
+investment’, The International Journal of Accounting, Vol. 49, No. 1, pp.53–86.
+
+92
+
+G.M.Y. Owusu et al.
+
+Chen, H., Tang, Q., Jiang, Y. and Lin, Z. (2010) ‘The role of international financial reporting
+standards in accounting quality: evidence from the European Union’, Journal of International
+Financial Management and Accounting, Vol. 21, No. 3, pp.220–278.
+Cieslewicz, J.K. (2014) ‘Relationships between national economic culture, institutions, and
+accounting: implications for IFRS’, Critical Perspectives on Accounting, Vol. 25, No. 6,
+pp.511–528.
+Cooray, A. (2010) ‘Do stock markets lead to economic growth?’, Journal of Policy Modeling,
+Vol. 32, No. 4, pp.448–460.
+Daske, H., Hail, L., Leuz, C. and Verdi, R. (2008) ‘Mandatory IFRS reporting around the world:
+early evidence on the economic consequences’, Journal of Accounting Research, Vol. 46,
+No. 5, pp.1085–1142.
+Daske, H., Hail, L., Leuz, C. and Verdi, R. (2013) ‘Adopting a label: heterogeneity in the economic
+consequences around IAS/IFRS adoptions’, Journal of Accounting Research, Vol. 51, No. 3,
+pp.495–547.
+Fernandez, C.G. (2003) ‘Inflation and economic growth in the long run’, Economics Letters,
+Vol. 80, pp.167–173.
+Fratzscher, M. (2012) ‘Capital flows, push versus pull factors and the global financial crisis’,
+Journal of International Economics, Vol. 88, No. 2, pp.341–356.
+Frost, C.A., Gordon, E.A. and Hayes, A.F. (2006) ‘Stock exchange disclosure and market
+development: an analysis of 50 international exchanges’, Journal of Accounting Research,
+Vol. 44, No. 3, pp.437–483.
+Globerman, S. and Shapiro, D. (2002) ‘Global foreign direct investment flows: the role of
+governance infrastructure’, World Development, Vol. 30, No. 11, pp.1899–1919,.
+Gordon, L.A., Loeb, M.P. and Zhu, W. (2012) ‘The impact of IFRS adoption on foreign direct
+investment’, Journal of Accounting and Public Policy, Vol. 31, No. 4, pp.374–398.
+Gray, S.J. and Roberts, C.B. (1991) ‘East-west accounting issues : a new agenda’, Accounting
+Horizons, Vol. 5, No. 1, pp.42–50.
+Gylfason, T. and Herbertsson, T.T. (2001) ‘Does inflation matter for growth?’, Japan and the
+World Economy, Vol. 13, No. 4, pp.405–428.
+Hassan, M.K., Sanchez, B. and Yu, J-S. (2011) ‘Financial development and economic growth: new
+evidence from panel data’, The Quarterly Review of Economics and Finance, Vol. 51, No. 1,
+pp.88–104.
+Kaufmann, D., Kraay, A. and Mastruzzi, M. (2011) ‘The worldwide governance indicators:
+methodology and analytical issues’, Hague Journal on the Rule of Law, Vol. 3, No. 2,
+pp.220–246.
+Kose, M.A., Prasad, E.S. and Taylor, A.D. (2011) ‘Thresholds in the process of international
+financial integration’, Journal of International Money and Finance, Vol. 30, No. 1,
+pp.147–179.
+Lamoreaux, P.T., Michas, P.N. and Schultz, W.L. (2015) ‘Do accounting and audit quality affect
+world bank lending?’, The Accounting Review, Vol. 90, No. 2, pp.703–738.
+Law, S.H. and Habibullah, M.S. (2009) ‘The determinants of financial development: institutions,
+openness and financial liberalization’, South African Journal of Economics, Vol. 77, No. 1,
+pp.45–58.
+Leuz, C. and Wysocki, P. (2008) ‘Economic consequences of financial reporting and disclosure
+regulation: a review and suggestions for future research’, SSRN 1105398 [online]
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1105398 (accessed 29 October 2016).
+Levine, R. (1997) ‘Financial development and economic growth: views and agenda’, Journal of
+Economic Literature, Vol. 35, No. 2, pp.688–726.
+Leuz, C., Nanda, D. and Wysocki, P.D. (2003) ‘Earnings management and investor protection: an
+international comparison’, Journal of Financial Economics, Vol. 69, No. 3, pp.505–527.
+
+IFRS adoption and economic growth in developing economies
+
+93
+
+Lucas, R.E. (1988) ‘World development report’, Journal of Monetary Economics, Vol. 22, No. 1,
+pp.3–42.
+Lurson, R.K. and Kenny, S.Y. (1995a) ‘An empirical analysis of international accounting
+standards, equity markets, and economic growth in developing countries’, Journal of
+International Financial Management and Accounting, Vol. 6, No. 2, pp.130–157.
+Mir, M.Z. and Rahaman, A.S. (2005) The adoption of international accounting standards in
+Bangladesh: An exploration of rationale and process’, Accounting, Auditing and
+Accountability Journal, Vol. 18, No. 6, pp.816–841.
+North, D.C. (1991) ‘Institutions’, Journal of Economic Perspectives, Vol. 5, No. 1, pp.97–112.
+Oppong, C. and Aga, M. (2019) ‘Economic growth in European Union : does IFRS mandatory
+adoption matter ?’, International Journal of Emerging Markets, Vol. 14, No. 5, pp.792–808.
+Othman, H.B. and Kossentini, A. (2015) ‘IFRS adoption strategies and theories of economic
+development: effect on the development of emerging stock markets’, Journal of Accounting in
+Emerging Economies, Vol. 5, No. 1, pp.70–121.
+Owusu, G.M.Y., Ashikin, N.U.R., Saat, M., Suppiah, S.D. and Hook, L.S. (2017a) ‘Do accounting
+Standards matter for foreign direct investment in developing countries?’, International
+Journal of Economics and Management, Vol. 11, No. S3, pp.891–915.
+Owusu, G.M.Y., Saat, N.A.M., Suppiah, S.D.K. and Siong, H.L. (2017b) ‘IFRS adoption,
+institutional quality and foreign direct investment inflows: a dynamic panel analysis’, Asian
+Journal of Business and Accounting, Vol. 10, No. 2, pp.43–75.
+Shima, K.M. and Gordon, E.A. (2011) ‘IFRS and the regulatory environment: the case of US
+investor allocation choice’, Journal of Accounting and Public Policy, Vol. 30, No. 5,
+pp.481–500.
+Soderstrom, N.S. and Sun, K.J. (2007) ‘IFRS adoption and accounting quality: a review’, European
+Accounting Review, Vol. 16, No. 4, pp.675–702.
+Solow, R.M. (1956) ‘A contribution to the theory of economic growth’, The Quarterly Journal of
+Economics, Vol. 70, No. 1, pp.65–94.
+Sunde T. (2017) ‘Foreign direct investment, exports and economic growth: ADRL and causality
+analysis for South Africa’, Research in International Business and Finance, October, Vol. 41,
+pp.434–444.
+Tang, D. (2006) ‘The effect of financial development on economic growth: evidence from the
+APEC countries, 1981–2000’, Applied Economics, Vol. 38, No. 16, pp.1889–1904.
+Walker, M. (2010) ‘Accounting for varieties of capitalism: the case against a single set of global
+accounting standards’, British Accounting Review, Vol. 42, No. 3, pp.137–152.
+Wang, C., Liu, X. and Wei, Y. (2004) ‘Impact of openness on growth in different country groups’,
+World Economy, Vol. 27, No. 4, pp.567–585.
+Wehrfritz, M. and Haller, A. (2014) ‘National influence on the application of IFRS: interpretations
+and accounting estimates by German and British accountants’, Advances in Accounting,
+Vol. 30, No. 1, pp.196–208.
+Windmeijer, F. (2005) ‘A finite sample correction for the variance of linear efficient two-step
+GMM estimators’, Journal of Econometrics, Vol. 126, No. 1, pp.25–51.
+Wintoki, M.B., Linck, J.S. and Netter, J.M. (2012) ‘Endogeneity and the dynamics of internal
+corporate governance’, Journal of Financial Economics, Vol. 105, No. 3, pp.581–606.
+Wysocki, P. (2011) ‘New institutional accounting and IFRS’, Accounting and Business Research,
+Vol. 41, No. 3, pp.309–328.
+Yanikkaya, H. (2003) ‘Trade openness and economic growth: a cross-country empirical
+investigation’, Journal of Development Economics, Vol. 72, No. 1, pp.57–89.
+Zhang, G. (2013) ‘Accounting standards, cost of capital, resource allocation, and welfare in a large
+economy’, Accounting Review, Vol. 88, No. 4, pp.1459–1488.
+
+94
+
+G.M.Y. Owusu et al.
+
+Appendix
+Table A1
+
+List of countries included in the analysis
+Country
+
+Country
+
+1
+
+Algeria
+
+40
+
+Kenya
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+Armenia
+Azerbaijan
+Bangladesh
+Barbados
+Belize
+Bhutan
+Bolivia
+Botswana
+Brazil
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Central African Republic
+Chad
+Chile
+Colombia
+Comoros
+Congo, Dem. Rep.
+Congo, Rep.
+Costa Rica
+Dominica
+Dominican Republic
+Egypt, Arab Rep.
+Equatorial Guinea
+Eritrea
+Fiji
+Gabon
+Gambia, The
+Ghana
+Guatemala
+Guyana
+Haiti
+Indonesia
+Iraq
+Israel
+Jamaica
+
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+
+Kuwait
+Lesotho
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Morocco
+Mozambique
+Namibia
+Nepal
+Nicaragua
+Nigeria
+Oman
+Pakistan
+Panama
+Papua New Guinea
+Paraguay
+Philippines
+Qatar
+Seychelles
+Sierra Leone
+South Africa
+St. Lucia
+St. Vincent and the Grenadines
+Sudan
+Suriname
+Swaziland
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+Tonga
+Trinidad and Tobago
+Uganda
+Uruguay
+Vanuatu
+Venezuela, RB
+
+39
+
+Kazakhstan
+
+78
+
+Zambia
+
+IFRS adoption and economic growth in developing economies
+
+95
+
+Table A2
+
+Variable description, measurement and source of data
+
+Variable
+
+Measurement
+
+Source
+
+LOGGDPPC
+
+Natural logarithm of GDP per capita
+in constant US dollars
+
+World Development Indicator (WDI)
+database published by World Bank
+
+IFRSDUMMY
+
+Dummy variable equal to 1, if a
+country has adopted IFRS; 0,
+otherwise. ‘Adopt’ means mandatory
+adoption of IFRS by a country.
+
+IAS Plus, https://www.iasplus.com/
+country/useias.htm, IASB,
+https://go.ifrs.org/global-standards.
+
+Governance indicators
+INSTQUA
+
+Represent institutional quality. The
+simple average of the Kaufmann et al.
+(2010 ) six dimensions of worldwide
+governance indicators
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+CORRUPT
+
+represents control of corruption
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+GOVT
+
+Represents government effectiveness
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+PSTAB
+
+Represents political stability and
+absence of violence
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+REGQUA
+
+Represents regulatory quality
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+RULELAW
+
+Represents the rule of law
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+VOICE
+
+Represents voice and accountability
+
+The Worldwide Governance Indicator
+database 2010 prepared by Kaufmann
+et al. (2010) World Bank Economics
+Research Group.
+
+TRADEOPEN
+
+Absolute value of exports plus imports World Development Indicator (WDI)
+as percentage of GDP
+database published by World Bank
+Represent gross domestic savings to
+World Development Indicator (WDI)
+GDP
+database published by World Bank
+Represents financial development
+World Development Indicator (WDI)
+measured as financial depth (M2) to
+database published by World Bank
+GDP
+
+SAVINGS
+FINDEVT
+
+POPGROWTH Represents growth in population
+scaled by 100
+
+World Development Indicator (WDI)
+database published by World Bank
+
+INFLATION
+
+World Development Indicator (WDI)
+database published by World Bank
+
+Represent the rate of price change in
+the economy as whole measured by
+the annual growth rate of the GDP
+implicit deflator
+
+96
+
+G.M.Y. Owusu et al.
+
+Table A3
+
+Principal component analysis
+
+Principal component
+
+Eigenvalue
+
+% of variance
+
+Cumulative %
+
+1
+
+2.23
+
+71.63
+
+71.63
+
+2
+
+0.36
+
+11.43
+
+83.07
+
+3
+
+0.25
+
+8.00
+
+91.06
+
+4
+
+0.14
+
+4.49
+
+95.56
+
+5
+
+0.09
+
+3.03
+
+98.59
+
+6
+
+0.04
+
+1.41
+
+100.00
+
+Variable
+
+Factor loading
+
+VOICE
+
+0.38
+
+PSTAB
+
+0.41
+
+GOVT
+
+0.44
+
+REGQUA
+
+0.39
+
+RULELAW
+
+0.42
+
+CORRUPT
+
+0.40
+
+Table A4
+#
+
+IFRS adoption status of sampled countries
+Country
+
+Adoption status as at 2013
+YES
+
+NO
+
+Year
+
+1
+
+Algeria
+
+√
+
+2010
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Armenia
+Azerbaijan
+Bangladesh
+Barbados
+Belize
+Bhutan
+Bolivia
+Botswana
+Brazil
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Central African Republic
+
+√
+√
+
+2011
+2010
+
+16
+
+Chad
+
+17
+
+Chile
+
+18
+19
+20
+21
+22
+23
+
+Colombia
+Comoros
+Congo, Dem. Rep.
+Congo, Rep.
+Costa Rica
+Dominica
+
+√
+√
+
+2011
+√
+√
+√
+
+√
+√
+
+2003
+2010
+√
+√
+
+√
+
+2012
+√
+√
+√
+
+√
+
+2009
+√
+√
+√
+√
+
+√
+
+2001
+√
+
+IFRS adoption and economic growth in developing economies
+Table A4
+
+97
+
+IFRS adoption status of sampled countries (continued)
+Adoption status as at 2013
+
+#
+
+Country
+
+24
+25
+26
+27
+28
+29
+30
+31
+
+Dominican Republic
+Egypt, Arab Rep.
+Equatorial Guinea
+Eritrea
+Fiji
+Gabon
+Gambia, The
+Ghana
+
+√
+
+32
+
+Guatemala
+
+√
+
+33
+34
+35
+36
+37
+
+Guyana
+Haiti
+Indonesia
+Iraq
+Israel
+
+√
+
+2011
+
+38
+
+Jamaica
+
+√
+
+2011
+
+39
+
+Kazakhstan
+
+√
+
+2013
+
+40
+
+Kenya
+
+√
+
+1999
+
+41
+42
+43
+44
+45
+
+Kuwait
+Lesotho
+Malaysia
+Mauritius
+Mexico
+
+√
+√
+√
+√
+
+2001
+2012
+
+46
+
+Mongolia
+
+√
+
+2002
+
+YES
+
+NO
+
+Year
+2013
+
+√
+√
+√
+√
+
+2007
+√
+√
+
+√
+
+2007
+√
+√
+√
+√
+
+1991
+√
+
+47
+
+Morocco
+
+48
+
+Mozambique
+
+√
+
+√
+
+49
+
+Namibia
+
+√
+
+50
+
+Nepal
+
+51
+
+Nicaragua
+
+√
+
+2007
+
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+
+Nigeria
+Oman
+Pakistan
+Panama
+Papua New Guinea
+Paraguay
+Philippines
+Qatar
+Seychelles
+Sierra Leone
+South Africa
+
+√
+√
+√
+
+2012
+1986
+2012
+
+2010
+2005
+√
+
+√
+√
+
+2001
+√
+
+√
+√
+
+2005
+2010
+√
+√
+
+√
+
+2005
+
+98
+
+G.M.Y. Owusu et al.
+
+Table A4
+#
+
+IFRS adoption status of sampled countries (continued)
+Country
+
+Adoption status as at 2013
+YES
+
+NO
+
+63
+
+St. Lucia
+
+64
+
+St. Vincent and the Grenadines
+
+√
+√
+
+65
+
+Sudan
+
+√
+
+66
+
+Suriname
+
+√
+
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+
+Swaziland
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+Tonga
+Trinidad and Tobago
+Uganda
+Uruguay
+Uzbekistan
+Venezuela, RB
+Zambia
+
+Year
+2001
+
+√
+
+2012
+√
+√
+
+√
+
+2004
+√
+√
+
+√
+√
+√
+
+1999
+1998
+2011
+√
+
+√
+√
+
+2008
+2008
+
+

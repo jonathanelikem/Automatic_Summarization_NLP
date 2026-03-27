@@ -1,0 +1,1512 @@
+SN Bus Econ
+(2022) 2:165
+https://doi.org/10.1007/s43546-022-00340-0
+ORIGINAL ARTICLE
+
+Money on the mind: emotional and non‑cognitive
+predictors and outcomes of financial behaviour of young
+adults
+Godfred Matthew Yaw Owusu1 · Gabriel Korankye2 ·
+Octavia Ama Serwaa Otchere1 · Maryam Kriese3
+Received: 31 January 2022 / Accepted: 15 September 2022
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2022
+
+Abstract
+Studies have shown the important role financial behaviour plays in the lives of individuals. However, few papers have looked at the determinants of financial behaviour
+and even fewer have examined the role of non-cognitive factors in explaining financial behaviour. We examine the effect of non-cognitive factors including financial
+anxiety, financial attitude, financial self-efficacy, and self-control on financial behaviour of young adults. Further, we explore the impact of financial behaviour on an
+individual’s level of happiness in life. Using cross-sectional data from a survey of
+business students from a university in Ghana, the partial least square structural equation modelling technique was employed to analyse the data. We find that individuals
+with higher levels of self-control, financial self-efficacy and financial attitude are
+more likely to exhibit good financial behaviour, and improved financial behaviour
+leads to higher levels of happiness among individuals.
+Keywords Financial behaviour · Financial attitude · Self-control · Happiness · Selfefficacy · Financial anxiety
+
+* Godfred Matthew Yaw Owusu
+gmowusu@gmail.com; gmyowusu@ug.edu.gh
+Gabriel Korankye
+gkorankye2015@gmail.com; gabriel.korankye@upsamail.edu.gh
+Octavia Ama Serwaa Otchere
+octaviaotchere5@gmail.com
+Maryam Kriese
+m.kriese2018@gmail.com
+1
+
+Department of Accounting, University of Ghana Business School, Legon‑Accra, Ghana
+
+2
+
+Department of Accounting, University of Professional Studies, Accra, Legon‑Accra, Ghana
+
+3
+
+Department of Banking and Finance, University of Professional Studies, Legon‑Accra, Ghana
+Vol.:(0123456789)
+
+165
+
+Page 2 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+Introduction
+One basic fact in life is that day in day out individuals are required to make decisions that have financial implications. The unfortunate reality, however, is that
+people make bad financial decisions including buying impulsively and compulsively (Strömbäck et al. 2017), not spending within their means (Sotiropoulos
+and d’Astous 2013), and having poor savings and investment culture, among others, which have important implications on quality of life. The financial decision
+of an individual, whether good or bad, is usually a reflection of their financial
+behaviour. Defined as the entirety of planning, use and control of funds covering savings, credit and cash usage (Xiao et al. 2009), financial behaviour has
+been acknowledged to be one of the most important concepts in human life with
+overarching implications (Gutter and Copur 2011; Fernandes et al. 2014; Oquaye
+et al. 2022). Extant studies have shown that good financial behaviours such as
+a proper saving habit, making the right investment choices, spending on things
+needed and making the right purchasing decisions, among others, improves life
+satisfaction (Xiao et al. 2009; Strömbäck et al. 2017), reduces retirement distress
+and promotes good health (Ahmad et al. 2014).
+On the other hand, individuals who do not practice responsible financial
+behaviour usually experience retirement distress, end up with huge debts, and in
+extreme cases develop mental health conditions (Strömbäck et al. 2017; Rutledge
+and Sanzenbacher 2019). Owing to the important role that financial behaviour
+plays in the life of individuals, emerging studies have been concerned with examining the dominant factors that account for the differences in financial behaviour of individuals in an attempt to promote responsible financial behaviour and
+reduce the bad implications of same. However, most studies have predominantly
+focussed on the role of cognitive factors such as financial education, financial
+literacy, financial knowledge and numeracy skills as the predictors of financial
+behaviour (Lusardi and Mitchell 2008; Prihartono and Asandimitra 2018; Parise and Peijnenburg 2019). Notwithstanding the fact that these cognitive factors
+explain the thinking processes and mental procedures involved in judging and
+proffering solutions to problems (Bandura 1989), they do not completely explain
+differences in financial behaviour (Farrell et al. 2016). Moreover, the evidence
+available in many countries indicates that programmes aimed at improving the
+cognitive capabilities of individuals usually result in improved financial inclusion and not responsible financial behaviour (Berry et al. 2018; Venkataraman
+and Venkatesan 2018).
+The need to focus on non-cognitive factors, which refers to the personal preferences, personality, behaviour thoughts or feelings of an individual in explaining
+financial behaviour, has, therefore, been highlighted by some recent studies (Tang
+et al. 2015; Strömbäck et al. 2017). In particular, Younas et al. (2019) argue that
+examining the effect of non-cognitive factors, which focus more on psychological factors, is relevant since the psyche of an individual remains key in all forms
+of decision-making. Indeed, Fernandes (2014) argues that the impact of cognitive factors on financial behaviour gravely reduces if psychological factors are
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 3 of 22
+
+165
+
+controlled for. The current study provides some perspective on the role of noncognitive factors in explaining financial behaviour. While the work of Strömbäck
+et al. (2017) sheds some light on the influence of self-control (a non-cognitive
+factor) on financial behaviour, the current study examines a number of other noncognitive factors: financial anxiety, financial attitude, financial self-efficacy, and
+self-control on financial behaviour. In addition, we explore an outcome of responsible financial behaviour by examining its effect on one’s level of happiness.
+Contextually, our study departs from extant studies in an important way. Unlike
+most existing studies, we focus on the financial behaviour of a rather youthful population from a developing country context. The focus on the youth is relevant given
+the myriad of challenges that confront the younger generation in today’s world.
+Compared to the older generation at the same stage of life, it has been argued that
+younger people in recent times are confronted with serious financial problems ranging from higher levels of debt, rise in tuition fees, sharp decline in homeownership, and the inability to pay off bills promptly, among others (Houle and Berger
+2015; Bleemer et al. 2021). The implications of these challenges on their development cannot be underestimated. While the focus on the youth is relevant given that
+most studies have concentrated on the financial behaviour of adults, Ghana provides some interesting perspectives on the financial behaviour discourse in a unique
+fashion.
+First, the liberalisation of the Ghanaian financial sector has generated intense
+competition, especially in the banking sector occasioned by the influx of several foreign banks into the country within the last decade. The competition in the banking sector, coupled with massive technological advancement and the introduction of
+several innovative products, has made it relatively easier to access and move funds.
+Second, the emergence of several online shops, social media marketing platforms
+and e-commerce platforms have afforded many Ghanaians, especially the youth,
+with a wide range of alternative choices and ease of buying. While the conservative
+adult population may not be affected so much by these developments, the inclination to e-commerce and other technology driven products by the savvy youth makes
+them more prone to bad financial behaviours and decisions in this digitised financial
+era (Younas et al. 2019).
+Given that behavioural enhancement programmes generally take a longer term
+to yield the desired outcomes (Berry et al. 2018), targeting the youth is an important way of shaping their financial decision-making and behaviour to help them cope
+with the challenges that confront them (Bucciol and Veronesi 2014; Berry et al.
+2018). Thus, this current study answers the following questions: (1) what are the
+emotional and non-cognitive predictors of financial behaviour of young adults? and
+(2) does financial behaviour influence the level of happiness of young adults? This
+study contributes to literature by identifying various emotional and non-cognitive
+determinants of financial behaviour of young adults. In addition, the study provides
+insight into the relationship between financial behaviour and happiness from the perspective of young adults in an emerging economy.
+The subsequent sections of the paper are organised as follows. “Literature
+review” covers a review of relevant literature and discusses the framework of the
+study. “Methods” discusses the methods and instrument, while the results and
+
+165
+
+Page 4 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+discussion are presented in the “Results and discussion”. “Conclusion” concludes
+the study with implications and directions for future research.
+
+Literature review
+Theoretical review
+Empirical studies on financial behaviour tend to rely predominantly on the Behavioural Life Cycle (BLC) hypothesis as the underlying theory in explaining the determinants of financial behaviour. Propounded by Thaler and Shefrin (1981), the BLC
+hypothesis seeks to provide a behavioural dimension to the Traditional Life-cycle
+theory that assumes people spend permanent income (average income) that depletes
+their total wealth over the length of their life cycle. From the tenets of the BLC
+hypothesis, individuals are believed to treat components of their wealth as non-fungible and exhibit behavioural biases during savings. Consequently, individuals, in
+general, apportion their income into three mental accounts, namely current income,
+current assets and future income, and are less likely to spend from current assets and
+expected future income than the current income (Thaler and Shefrin 1981). Thus,
+individuals employ self-control, mental accounting and framing (how increments in
+wealth are framed) in their savings behaviour. However, a major drawback of the
+BLC is that it focuses only on the saving component of financial behaviour (Stromback et al. 2017). Further, studies that have relied on the BLC hypothesis focussed
+largely on the cognitive determinants of financial behaviour, and the conclusions
+from these studies suggest that the cognitive factors are not enough to explain financial behaviour of individuals (Stromback et al. 2017; Younas et al. 2019).
+Due to the inherent limitations of the BLC, the current study employs the Social
+Cognitive Theory (SCT) to examine the determinants of financial behaviour. The
+SCT posits that the behaviour of an individual is a result of a system of triadic reciprocal causation. Thus, an individual’s behaviour is influenced by environmental and
+personal factors. From the perspective of the SCT, the social environment in which
+an individual operates has an implication on the behaviour of the individual. The
+environmental factors are generally divided into two: social support (facilitators) and
+barriers (impediments). Social support refers to how and to what extent the environment influences one’s engagement in specific behaviours. Barriers, on the other
+hand, refer to the impediments to engaging in certain behaviours (Ramirez et al.
+2012). The second dimension of the SCT, ‘personal factors’, basically describes the
+knowledge, literacy, and numeracy skills (cognitive), as well as beliefs, feelings and
+emotions (non-cognitive) involved in judging and proffering solutions to problems.
+As surmised by Bandura (1989), the behaviour of an individual is shaped not only
+by their skills set, knowledge and other known cognitive factors but also by their
+beliefs, feelings, self-perceptions, and the emotional reactions of the individual.
+From the triadic reciprocal proposition, however, behaviour is believed to influence
+both environmental factors and personal factors (Bandura 1989). Thus, the SCT also
+suggests the existence of a reverse relationship between behaviour and the two factors
+(environment and personal) that predict behaviour. By implication, while the behaviour
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 5 of 22
+
+165
+
+of an individual is predicted to be influenced by personal and environment factors, the
+latter can also be influenced by behaviour of individuals. Employing the SCT, this
+study examines financial behaviour focussing on some non-cognitive determinants of
+financial behaviour.
+The concept of financial behaviour
+Financial behaviour has become a key issue of discussion over the past decade (Strömbäck et al. 2017). These discussions have been heightened by the incidence of cases
+of bad investment choices as well as poor management of funds among individuals in
+recent times. According to Mokhtar and Rahim (2016), financial behaviour is defined
+simply as how people manage their finances. The management of finances encompasses the planning, allocation and controlling of financial resources to achieve one’s
+financial goals.
+Financial behaviour, at all stages in life, has some important implications on the
+quality of life of individuals. Good financial behaviour may lead to life satisfaction
+(Xiao et al. 2009; Strömbäck et al. 2017), stress free retirement, improved net worth
+(Parrotta and Johnson 1998) and be associated with improved health (Ahmad et al.
+2014). On the other hand, improper financial behaviour may result in bankruptcy, loan
+dependence and stress (Ahmad et al. 2014), financial trouble (Aw et al. 2018) and other
+negative consequences.
+Determinants of financial behaviour
+The determinants of financial behaviour can be categorised under three broad headings, namely the economic, cognitive and non-cognitive factors. Some prior literature
+have revealed that income levels and price levels and other economic factors influence
+the financial behaviour of individuals (Ahmad et al. 2014; Venkataraman and Venkatesan 2018). Other studies have likewise associated cognitive factors with financial
+behaviour of individuals. Factors such as financial literacy (Fernandes et al. 2014; Xiao
+et al. 2014; Rai et al. 2019; Oquaye et al. 2022), financial knowledge (Prihartono and
+Asandimitra 2018; Rai et al. 2019) and financial education (Fernandes et al. 2014) are
+examples of cognitive factors that have been found to be good predictors of financial
+behaviour. These studies suggest that individuals who are financially literate, have more
+knowledge on financial issues and/or have gone through some level of financial education, whether formal or informal, are more likely to exhibit sound financial behaviour.
+However, it is believed that even though so much attention has been paid to these cognitive factors, they do not completely explain financial behaviour of individuals (Strömbäck et al. 2017). Very few studies to date have examined the nexus between the noncognitive factors and financial behaviour of individuals.
+Non‑cognitive determinants of financial behaviour
+While some researchers argue that there is no clear-cut definition for non-cognitive
+factors, others believe that it is best explained by identifying what it negates. Hence,
+
+165
+
+Page 6 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+non-cognitive factors are referred to as those feelings, skills, traits, behaviours,
+mindsets and attitudes that do not relate to logic or a thought process (or cognition) (Wang et al. 2018). This study relies on the Stromback’s definition, which suggests that non-cognitive factors are self-reported measures of personal preferences
+personality, behaviour thoughts or feelings (Strömbäck et al. 2017). This is suggestive that non-cognitive factors cover attitudes, conscientiousness, deliberativeness,
+self-control and a wide range of social-emotional skills, personality and soft skills.
+For the purpose of this study, attention is focussed on four non-cognitive factors
+that have been identified in literature as relevant in studying behaviour. These are
+self-control (Thaler and Shefrin 1981; Gathergood 2012), self-efficacy (Farrell et al.
+2016; Montford and Goldsmith 2016), financial anxiety (Shapiro and Burchell 2012)
+and financial attitude (Parrotta and Johnson 1998).
+Self‑control
+Self-control refers to an individual’s ability to break bad habits, resist temptations
+and overcome first impulses (Baumeister et al. 2003; Strömbäck et al. 2017). It can
+also be defined as the ability to allow one’s future self to overcome the current self.
+From the point of view of Thaler and Shefrin (1981), every individual is a two-faced
+being; that is, a “farsighted planner” and a “myopic doer”. While the planner is concerned with lifetime gains, the doer is focussed on short term, fleeting benefits (Younas et al. 2019). There is a conflict when there is a significant difference between the
+preferences of the planner and the doer, such that they cannot be converged (Thaler
+and Shefrin 1981; Gathergood 2012). The conflict of self can be likened to the
+theory of agency (Thaler and Shefrin 1981). However, the difference is, while the
+agency theory is that of profit maximisation, the conflict of self is related to rational
+behaviour (Thaler and Shefrin 1981).
+In controlling oneself, one resists actions that may feel good now but can have
+long term or permanent costs or damaging consequences. Consequently, the individual is able to alter his or her responses to conform to set standards, values, morals
+and social expectations (Baumeister et al. 2007). It is, therefore, argued that individuals who exhibit greater levels of self-control are mostly successful, have good
+physical health, and attain higher socio-economic status (Moffitt et al. 2011; Strömbäck et al. 2017). Further, Tangney et al. (2018) posit that people with a high level
+of self-control are more likely to get better grades, show better psychological adjustment, exhibit better interpersonal relationships, provide optimal emotional responses
+and have higher self-esteem. They are also less likely to take alcohol and abuse drug
+(Tangney et al. 2018).
+In the context of behavioural finance, self-control may refer to the ability to overcome bad purchasing, credit management and poor savings attitude. It is believed
+that with self-control, individuals are able to refrain from making wrong and regrettable financial decisions and focus on good financial behaviour that will be beneficial in future. Studies on financial behaviour and self-control have focussed on specific decisions as credit use, retirement planning and savings behaviour (Strömbäck
+et al. 2017). However, the concept is broader, and includes cash management and
+budgeting, among others. Thus, this study considers the effect of self-control on the
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 7 of 22
+
+165
+
+broad concept of financial behaviour. The study hypothesises that self-control has a
+significant positive relationship with financial behaviour.
+Financial self‑efficacy
+According to Bandura (1989), self-efficacy is an individual’s sense of self-agency,
+borne out of a belief that they can accomplish a given task and, more broadly, cope
+with life’s challenges (Farrell et al. 2016). It describes the feeling that one will be
+able to deal with situations effectively (Lim et al. 2014). Self-efficacy increases the
+confidence of individuals to execute tasks; hence, leading to a series of successful
+performances across various areas (Montford and Goldsmith 2016). Financial selfefficacy, therefore, implies one’s belief in one’s ability to effectively overcome financial situations or hardships (Oquaye et al. 2022).
+It is believed that financial self-efficacy gives an enhanced level of assuredness
+in one’s financial management capabilities that they have higher chances of seeing
+financial difficulties as challenges to quash or control. Studies have followed this
+argument in diverse areas. Farrell et al. (2016) investigated the impact of self-efficacy on personal finance of women and found that women who exhibit high levels
+of self-efficacy are more likely to have good financial behaviour. Similar studies on
+investment risk-taking (Montford and Goldsmith 2016) and financial help-seeking
+behaviour of college students (Lim et al. 2014) have revealed similar results; that
+is, higher levels of financial self-efficacy results in greater financial risk-taking and
+a higher possibility of seeking help from professionals. Accordingly, this study
+hypothesises that individuals with a greater sense of financial self-efficacy will most
+likely exhibit good financial behaviour.
+Financial anxiety
+People become anxious, feel uneasy and be disturbed when they do not know much
+about something, and that can affect their next line of action. Financial anxiety
+is described as a psychosocial syndrome whereby an individual feels uneasy and
+unhealthy about engaging with, and administering personal finances in an effective
+way (Shapiro and Burchell 2012); that is, one is afraid to plan and manage their
+finances themselves. Shapiro and Burchell (2012) termed this “financial phobia”.
+According to neurobiologists, people make suboptimal decisions in the face of
+no emotions. However, psychological research has revealed that high emotional
+traits are associated with poor decisions, especially financial decisions (Shapiro and
+Burchell 2012). Consequently, this study hypothesises that financial anxiety has a
+significant negative relationship with financial behaviour.
+Financial attitude
+Another key determinant of financial behaviour is financial attitude (Parrotta and
+Johnson 1998). While some extant literature suggests that financial attitude is a
+determinant of financial behaviour, others argue that financial behaviour determines
+financial attitude. For instance, Ajzen (1991) posits that financial attitude is the
+
+165
+
+Page 8 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+product of the behaviour of a decision maker. On the other hand, Yong et al. (2018),
+in their study on financial attitude and financial behaviour of young adults, found
+that good financial attitude leads to better financial behaviour.
+Attitude in psychology literature refers to a psychological tendency that is
+expressed by evaluating an entity with some level of favour or disfavour (Parrotta
+and Johnson 1998). However, financial attitude is one’s personal inclination towards
+financial issues. Financial attitude covers one’s ability or inability to plan ahead and
+maintain a savings account that matters (Rai et al. 2019). It is also defined as an
+individual’s state of mind, opinion and judgement about finances (Ameliawati and
+Setiyani 2018). Results from prior studies indicate that individuals with a higher
+inclination towards financial matters exhibit good financial behaviour (Ameliawati
+and Setiyani 2018; Yong et al. 2018). We, therefore, propose in this study that a
+good financial attitude will influence good financial behaviour.
+Happiness
+Happiness is broadly explained as anything that is good (Veenhoven 2012). Numerous positive outcomes and states of well-being have been attributed to happiness.
+For instance, researchers argue that happy people are healthy, creative, appreciative
+of life, and successful (Kamthan et al. 2018; Khosrojerdi et al. 2018; Walsh et al.
+2018). In addition, happy people are active at work, accept corrections, give off their
+best and contribute their quota to national development through hard work and commitment (Cummins 2012). This is the result of the zeal with which happy people
+work, which translates into the achievement of objectives and goals (Oswald 1997;
+Cummins 2012; Kamthan et al. 2018).
+Prior studies have revealed that one’s happiness may be a product of personal,
+institutional and economy-wide factors. Genetic setup, physical health, mental
+health, income, gender and age are some of the personal traits that have been mentioned in literature as the determinants of happiness (Cheung et al. 2014; Dai and
+Chu 2018; Kamthan et al. 2018; Khosrojerdi et al. 2018). Furthermore, studies at
+the institutional level have revealed that the education system and environmental and
+social factors may influence the happiness of an individual (Dolan et al. 2008). At
+the national economy level, researchers suggest that gross domestic product (GDP),
+income levels, employment, and inflation may similarly affect the happiness of citizens (Oswald 1997; Frey and Stutzer 2000, 2002; Cummins 2012).
+It is worth noting that income levels have been a common element that cut across
+the three broad factors (Cummins 2012; Kushlev et al. 2015; Jebb et al. 2018; Kollamparambil 2020). However, there is a wide range of arguments against using
+income level as a determinant of happiness (Dolan et al. 2008). Researchers suggest
+that increases in income do not necessarily lead to improved happiness (Frey and
+Stutzer 2002; Kushlev et al. 2015; Jebb et al. 2018). Further, increases in income
+level tend to have a weak or non-significant relationship with happiness (Kushlev
+et al. 2015). There have been similar inconsistencies with employment as a predictor of happiness as well (Dolan et al. 2008). This has been attributed to disutility,
+income satiation and other economic theories (Frey and Stutzer 2002; Kushlev et al.
+2015; Jebb et al. 2018).
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 9 of 22
+
+165
+
+Furthermore, while many people are generally of the assertion that income or
+wealth has a linear relationship with happiness, studies have proven otherwise. Evidence suggests that while income or wealth increases, happiness reaches an optimal
+level and stays there or even falls. The question we ask in this study is, does the way
+we employ and manage income or wealth (financial behaviour) have any implication
+on happiness?
+According to Gutter and Copur (2011), domain-specific behaviours affect
+domain-specific well-being. In line with that, a number of studies researching the
+implication of financial behaviour on financial well-being or financial satisfaction
+have indicated a positive relationship or association. For instance, studies by Worthy et al. (2010), Xiao et al. (2009) and Hira et al. (1992) reveal that the financial
+behaviour of individuals have an effect on their financial well-being or satisfaction.
+However, these studies only pay attention to the financial well-being or satisfaction
+ignoring the overall happiness of individuals. Happiness covers the total good feeling of an individual whereas financial well-being or satisfaction only focuses on the
+financial aspects of happiness. Hence, this study furthers the relationship between
+financial behaviour and happiness of college students.
+
+Methods
+Research design and questionnaire development
+A quantitative survey method was employed for this study, using questionnaires as
+the main instrument for data collection. The research instrument employed consisted
+of two sections. The first part sought to elicit from the respondents, information
+regarding their perception on their financial behaviour and the non-cognitive factors that influence one’s financial behaviour. The section further sought the views
+of the respondents on their level of happiness. The questions used to measure these
+variables were adopted from previous studies (Dew and Xiao 2011; Yap et al. 2016;
+Strömbäck et al. 2017; Prihartono and Asandimitra 2018). Responses of the sampled
+students were determined on a Likert scale ranging from 1 (strongly disagree) to 7
+(strongly agree). The second section of the questionnaire sought to capture some relevant demographic characteristics of the respondents. This included the gender, age,
+level of study, area of study, monthly stipend/income and if the respondents have
+any form of investment.
+Respondents and analysis technique
+The sample respondents for this study were selected from a cross-section of business
+students (both undergraduate and graduate) in a large public university in Ghana.
+The university from which the sample was selected is the premier and largest university in Ghana, and it attracts students from all parts of the country and the world at
+large. Thus, the institution provides a representative sample of young adults from a
+developing country perspective. A total of 400 questionnaires were administered to
+
+165
+
+Page 10 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+the respondents. To elicit honest responses from the sampled students, the researcher
+explained the purpose of the study to them, and assured them of the confidentiality
+of their answers. Responses were received from 375 students; however, 358 were
+included in the final analysis after screening. The study adopted the Partial Least
+Square Structural Equation Modelling (PLS-SEM) technique in analysing the data.
+This technique was chosen due to its high predictive accuracy and ability to handle
+more complex models, and its suitability for exploratory studies (Hair et al. 2014).
+Demographic information of respondents
+Table 1 gives a summary of the profile of the respondents. In terms of gender diversity, the sample was slightly dominated by the males accounting for about 51.12%
+of the total respondents. The majority of the respondents were below 26 years; that
+is 72.63% of the total sample, and most of the respondents are undergraduate students (73.46%). These statistics reflect the youthful nature of the sample, and the
+predominantly low-income levels of the respondents (64.8% earning below GHC
+500). This is because most students in Ghana depend on their parents for a livelihood. In terms of the course major, the respondents were predominantly accounting students (46.93%). This reflects the general enrolment statistics of most business
+schools with most students pursuing accounting.
+
+Table 1  Respondent’s demographic information
+Measure
+
+Items
+
+Frequency
+
+Percentage (%)
+
+Gender
+
+Male
+
+183
+
+51.12
+
+Female
+
+175
+
+48.88
+
+Below 26 years
+
+260
+
+72.63
+
+26–35 years
+
+59
+
+16.48
+
+Above 35 years
+
+39
+
+10.89
+
+2nd year
+
+105
+
+29.33
+
+3rd year
+
+60
+
+16.76
+
+4th year
+
+98
+
+27.37
+
+Postgraduate
+
+95
+
+26.54
+
+Accounting
+
+168
+
+46.93
+
+Finance and insurance
+
+34
+
+9.50
+
+Health service and public administration
+
+40
+
+11.17
+
+Age
+
+Level
+
+Course
+
+Income
+
+Human resource management
+
+10
+
+2.79
+
+Marketing
+
+11
+
+3.07
+
+Masters’ degree
+
+95
+
+26.54
+
+Below GH¢ 300
+
+116
+
+32.40
+
+GH¢ 301–GH¢ 500
+
+116
+
+32.40
+
+GH¢ 501–GH¢ 1000
+
+20
+
+5.59
+
+GH¢ 1001–GH¢ 5000
+
+82
+
+22.91
+
+Above GH¢ 5000
+
+24
+
+6.70
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 11 of 22
+
+165
+
+Descriptive statistics on constructs
+Table 2 presents an analysis of the views of the respondents on the constructs for
+the study, indicating the mean scores and standard deviations of the responses. The
+overall mean score for the construct ‘self-control’ was 3.43 (SD = 0.95), suggesting
+that the respondents largely agree with the statements evaluating self-control. This
+means that the respondents are more likely to resist temptations and let go of bad
+habits, think through all alternatives before acting, and focus on the long term rather
+than short term. This is so because almost all the measurement items for self-control
+(except SC3) were in the negative or reversed. It must, however, be noted that before
+undertaking the structural model analysis, the items measuring self-control were
+reverse coded. The reason behind this was to ensure a consistent, meaningful and
+logical inference and interpretation of the results.
+Further, the results show that the students perceive themselves as having high
+financial self-efficacy (mean = 4.52; SD = 1.15) and a good financial attitude
+(mean = 4.81; SD = 0.97). On the other hand, analysis of the respondents’ view on
+the construct ‘financial anxiety’ (mean = 3.77; SD = 1.23) suggest the respondents
+consider themselves to have a “financial phobia”; that is, the respondents are generally afraid to confront financial matters. In addition, the overall mean for the construct “financial behaviour” was 4.26, which implies that the respondents agree with
+the statements measuring financial behaviour. The high mean score is an indication
+that the students generally exhibit acceptable levels of savings, credit management
+and fund usage behaviours. The respondents perceived themselves to be happy, and
+it can be observed that the construct “happiness” recorded the highest mean of 4.98.
+This re-iterates the fact that happiness is one of the most sought-after desires of life.
+
+Results and discussion
+Measurement model assessment
+Construct reliability
+The composite reliability (CR) measure was employed in assessing the reliability of
+the instrument employed to measure the constructs. While the Cronbach alpha measure, which assumes all indicators should be weighted equally, has been employed in
+most studies, the CR measure, which considers the individual outer loadings of the
+different indicator items, has been found to be more superior in measuring reliability
+(Hair et al. 2011). According to Nunnally and Bernstein (1994), a CR value of 0.70
+and above is satisfactory. From Table 3, the constructs demonstrate adequate CR
+exceeding the 0.70 recommended threshold.
+Construct validity
+The average variance extracted (AVE) was used to evaluate the degree to which the
+various indicators of a construct correlate with one another (convergent validity).
+
+I live more for the day of today than for the day of tomorrow
+
+My convenience play an important role in the decision I make
+
+SC8
+
+SC9
+
+3.43
+
+4.27
+
+After making decisions, I am anxious, whether I was right or wrong
+
+FA4
+
+Avoid borrowing to balance personal budget
+
+Using multiple sources for financial information
+
+Confidence in financial decision-making
+
+Increasing one’s financial knowledge
+
+FT5
+
+FT7
+
+FT8
+
+4.34
+
+5.19
+
+5.05
+
+4.91
+
+5.27
+
+3.98
+
+3.74
+
+4.63
+
+1.91
+
+1.71
+
+1.70
+
+1.80
+
+1.93
+
+1.69
+
+1.87
+
+1.93
+
+1.97
+
+0.97
+
+SN Bus Econ
+
+FT6
+
+Maintaining adequate insurance coverage
+
+Marinating diversified investment portfolio regularly
+
+FT3
+
+FT4
+
+Maintaining adequate financial records
+
+Spending less than income regularly
+
+FT1
+
+FT2
+
+4.81
+
+1.77
+
+1.99
+
+1.69
+
+1.23
+
+1.77
+
+1.95
+
+1.89
+
+1.83
+
+1.87
+
+1.91
+
+1.83
+
+1.77
+
+1.83
+
+0.95
+
+SD
+
+Page 12 of 22
+
+Financial attitude
+
+4.10
+3.15
+
+I am anxious about financial and money affairs
+
+I tend to postpone financial decisions
+
+FA2
+
+FA3
+
+3.55
+
+I get unsure about the language jargons of financial experts
+
+3.77
+
+4.70
+
+3.07
+
+2.64
+
+2.66
+
+2.85
+
+3.63
+
+4.39
+
+FA1
+
+Financial anxiety
+
+I only focus on the short term
+
+The future will take care of itself
+
+SC6
+
+SC7
+
+I do things that feel good in the moment but regret later on
+
+I often act without thinking through all the alternatives
+
+SC4
+
+SC5
+
+I get distracted easily
+
+I am good at resisting temptations
+
+SC2
+
+SC3
+
+3.51
+
+3.43
+
+I have a hard time breaking bad habits
+
+Self-control
+
+SC1
+
+Mean
+
+Item
+
+Table 2  Descriptive statistics of constructs
+
+165
+(2022) 2:165
+
+5.74
+
+I lack confidence in my ability to manage my finances
+
+I worry about running out of money in retirement
+
+SE5
+
+SE6
+
+I save for long-term goals (such as car, education, and business start-up)
+
+I contribute money to a retirement account
+
+I have purchased bonds, stocks or shares, T-bills, or mutual funds
+
+FB10
+
+FB12
+
+3.39
+
+3.93
+
+3.70
+
+4.85
+
+4.53
+
+4.22
+
+3.16
+
+4.69
+
+4.05
+
+4.38
+
+3.44
+
+5.11
+
+5.05
+
+4.26
+
+4.83
+
+5.34
+
+4.72
+
+4.86
+
+3.95
+
+2.32
+
+2.22
+
+2.06
+
+1.98
+
+2.04
+
+1.85
+
+1.66
+
+1.89
+
+1.95
+
+1.93
+
+1.79
+
+1.98
+
+1.07
+
+2.11
+
+1.81
+
+1.76
+
+2.01
+
+1.86
+
+1.90
+
+1.15
+
+1.74
+
+1.76
+
+1.91
+
+SD
+
+(2022) 2:165
+
+FB11
+
+I have begun or maintain an emergency savings fund
+
+I save some amount from every pay cheque
+
+FB8
+
+FB9
+
+I maxed out the limit on or more credit cards
+
+I make only minimum payments on loan
+
+FB6
+
+FB7
+
+I stay within my budget or spending plan
+
+I pay off credit card balance in full each month
+
+FB4
+
+FB5
+
+I pay all my bills on time
+
+I keep a written or electronic record of all my monthly expenses
+
+FB2
+
+FB3
+
+I do comparison shopping when purchasing all my products or services
+
+FB1
+
+Financial behaviour
+
+When unexpected expenses occur, I usually have to use credit
+
+When faced with a financial challenge, I have a hard time figuring out a solution
+
+SE3
+
+SE4
+
+It is hard to stick to my spending when unexpected expenses arise
+
+It is challenging to make progress towards my financial goals
+
+SE1
+
+SE2
+
+4.52
+
+Setting goals for the future
+
+FT11
+
+Self-efficacy
+
+4.91
+5.17
+
+Spending rather than investing
+
+Planning and implementing personal savings
+
+FT9
+
+Mean
+
+FT10
+
+Item
+
+Table 2  (continued)
+
+SN Bus Econ
+Page 13 of 22
+165
+
+Compared to my peers, I consider myself more happy
+
+Some people are generally happy. They enjoy life regardless of what is going on, getting the most out of everything. To what extent do you agree that this statement apply to you?
+
+Some people are generally not happy. Although they are not depressed, they never seem as happy as they must
+be. To what do you agree this characterisation describe you?
+
+HA1
+
+HA2
+
+HA3
+
+HA4
+
+4.31
+
+5.08
+
+5.19
+
+4.98
+5.34
+
+In general I consider myself very happy
+
+Happiness
+
+Mean
+
+Item
+
+Table 2  (continued)
+
+2.13
+
+1.75
+
+1.66
+
+1.80
+
+1.18
+
+SD
+
+165
+Page 14 of 22
+SN Bus Econ
+(2022) 2:165
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 15 of 22
+
+Table 3  Validity and reliability
+
+165
+
+Construct
+
+CR
+
+AVE
+
+Financial behaviour
+
+0.807
+
+0.501
+
+Financial anxiety
+
+0.746
+
+0.613
+
+Financial attitude
+
+0.859
+
+0.505
+
+Happiness
+
+0.894
+
+0.739
+
+Self-control
+
+0.804
+
+0.511
+
+Self-efficacy
+
+0.753
+
+0.509
+
+An established rule of thumb suggests a minimum AVE of 0.50 is acceptable (Hair
+et al. 2014). As shown in Table 3, all the constructs have AVEs above 0.50. This
+suggests that the latent variables explain more than 50% of their respective indicator variances; hence, convergent validity was assured. The discriminant validity test
+was conducted using the heterotrait–monotrait (HTMT) ratio. This test is to ensure
+that the indicators used in this study uniquely measure their respective constructs.
+According to Henseler et al. (2015), the values for the HTMT ratio of the construct should be less than 0.90 for discriminant validity to be assured. Results of the
+HTMT as shown in Table 4 suggest discriminant validity is assured as the HTMT
+values for all the constructs were below the maximum threshold of 0.90.
+Structural model analysis
+Prior to discussing our structural model results, we checked for the appropriateness
+of our model by conducting several diagnostic tests. To check whether our estimated
+results are not affected significantly by multicollinearity issues, we tested for the
+presence of multicollinearity using the variance inflation factor (VIF). Results, as
+shown in Table 5, suggest there is no multicollinearity problem as the VIF scores
+are within the recommended threshold of less than 3 (Hair et al. 2017). An assessment of how the variance in the endogenous construct is explained by the exogenous
+
+Table 4  Heterotrait–monotrait (HTMT) ratio
+Financial Financial anxibehaviour ety
+
+Financial
+attitude
+
+Happiness Self-control Self-efficacy
+
+Financial
+behaviour
+Financial
+anxiety
+
+0.287
+
+Financial
+attitude
+
+0.685
+
+0.320
+
+Happiness
+
+0.550
+
+0.210
+
+Self-control
+
+0.436
+
+0.594
+
+0.400
+
+0.220
+
+Self-efficacy
+
+0.376
+
+0.464
+
+0.299
+
+0.161
+
+0.443
+0.595
+
+165
+
+Page 16 of 22
+
+Table 5  Value inflation factor
+(VIF)
+
+SN Bus Econ
+
+(2022) 2:165
+
+Construct
+
+VIF
+
+Financial anxiety
+
+1.177
+
+Financial attitude
+
+1.134
+
+Self-control
+
+1.342
+
+Self-efficacy
+
+1.223
+
+constructs was done using the coefficient of determination (R2). The R2 values of
+0.318 and 0.182 as shown in Table 6 suggest that while financial behaviour explains
+approximately 18% of the variation in happiness, 32% of the variance in financial
+behaviour is explained by the model. The predictive relevance of the model was
+assessed using cross-validated redundancy ­(Q2) from the blindfolding procedure.
+The ­Q2 values of 0.130 and 0.124 as shown in Table 6 suggest that the predictive
+power of our model is good (Fig. 1).
+Structural path analysis
+The structural model results from the bootstrapping procedure are presented in
+Table 6. The results showed a positive and significant relationship between selfcontrol and financial behaviour. This implies that students who have some level of
+control over their lives, characterised by their capacity to break bad habits, resist
+temptations and overcome first impulses, are more prone to save and spend wisely.
+Thus, adopting responsible financial behaviour may be dependent on the level of
+self-control an individual has over his/her life. Empirically, this finding is supported
+by studies (Rha et al. 2006; Stromback et al. 2017) that found self-control to be positively associated with financial behaviour.
+Consistent with our prediction, we find a negative relationship between financial
+anxiety and financial behaviour. This finding suggests that individuals who show
+signs of an uneasy feeling about financial matters are less likely to exhibit traits of
+good financial behaviour such as savings, investing, and responsible spending. This
+is because the fear about financial matters usually discourages individuals from
+
+Table 6  Path coefficient
+Hypothesis path
+
+Path coefficient
+
+t-statistics
+
+p value
+
+Self-control → financial behaviour
+
+0.140
+
+2.379
+
+0.018
+
+Self-efficacy → financial behaviour
+
+0.099
+
+1.827
+
+0.068*
+
+Financial anxiety → financial behaviour
+
+− 0.014
+
+0.261
+
+0.794
+
+Financial attitude → financial behaviour
+
+0.461
+
+8.816
+
+0.000
+
+Financial behaviour → happiness
+
+0.427
+
+8.674
+
+0.000
+
+R2 (0.318), (0.182)
+
+Q2 (0.130), (0.124)
+
+*Significant at 10%
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 17 of 22
+
+165
+
+Fig. 1  Structural model
+
+developing an interest and having the desire to even learn about finances and its
+related concepts. The lack of interest in the end leaves such individuals uninformed,
+which ultimately affect the quality of the financial decision they take. This result
+does not deviate from the findings of prior studies on the impact of financial anxiety
+on credit management (Barboza et al. 2017) and academic performance (Balogun
+et al. 2017).
+The results indicate that financial attitude has a positive influence on financial
+management behaviour. Financial attitude involves making an effort to increase
+one’s financial knowledge, planning finances, implementing personal savings,
+and spending within one’s means. Such attitudes propel an individual to cultivate
+and practice good financial management behaviour. Thus, students who exhibit a
+positive attitude towards their finances are more likely to engage in good financial
+behaviours such as budgeting, savings, and ensuring control over cash usage. This
+finding is consistent with the evidence provided some empirical studies (Ameliawati
+and Setiyani 2018; Prihartono and Asandimitra 2018; Yong et al. 2018), which suggest that an individual’s financial attitude has important implications on financial
+behaviour.
+The relationship between financial self-efficacy and financial behaviour was positive and statistically significant: an indication that students who believe in their ability to deal with financial matters are more likely to exhibit good financial behaviour.
+Thus, proper financial behaviour can also be associated with the extent of knowledge, confidence and control an individual possesses to manage his/her finances.
+
+165
+
+Page 18 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+The argument is that self-efficacy is believed to be the foundation of human motivation and action (Ramirez et al. 2012), and defines one’s ability to overcome challenges. Previous studies by Herawati et al. (2018) and Oquaye et al. (2022) have
+provided evidence consistent with the findings in this study.
+Lastly, we find a very strong association between financial behaviour and happiness (measured by extent to which an individual feels satisfied with his/her life and
+feels). The positive relationship between the two constructs is a demonstration that
+students who plan, manage and control their financial resources well are more likely
+to be happy in life. This is because such individuals usually budget their spending and save more for future spending; hence, are able to reduce their debt burden
+(Strömbäck et al. 2017). Individuals with this kind of lifestyle usually have their
+peace of mind and live without the stress of thinking about how to cover their debt
+or even their day-to-day expenses.
+
+Conclusion
+The analysis in this paper contributes substantially to the important role that noncognitive factors play in understanding what shapes individuals’ financial behaviour.
+While previous research on determinants of financial behaviour have focussed extensively on the cognitive factors, this paper provides some perspective on the noncognitive factors by examining the impact of financial anxiety, financial attitude,
+financial self-efficacy and self-control on financial behaviour. Further, our analysis
+explores the effect of responsible financial behaviour on one’s level of happiness.
+Consistent with our prediction, our analysis demonstrates that non-cognitive factors have important implications on financial behaviour. Our results further indicate
+that financial behaviour is a good predictor of an individual’s level of happiness in
+life. The findings of this study have two main implications. First, the results suggest that developing the non-cognitive traits such as self-control, self-efficacy and
+financial attitude of young adults is an important way of promoting responsible
+financial behaviour among the youth. Thus, while programmes targeted at improving the cognitive capabilities of people (e.g. financial education and financial literacy campaigns) are relevant, it is equally important that policy makers interested in
+promoting responsible financial behaviour among the younger population consider
+programmes targeted at the development of the non-cognitive traits as well. Second, given the implications of financial behaviour on happiness, improving the noncognitive capabilities of the youth remains one of the important remote mechanisms
+by which policy makers can help improve the living standards of future generations.
+Despite the contributions of this study, the findings must be interpreted considering some limitations. First, notwithstanding the predictive relevance of our model,
+the study focussed on only four non-cognitive factors as determinants of financial
+behaviour. However, Stromack et al. (2017) argue that each study is only a step
+closer to understanding the underlying factors of the heterogeneous financial behaviour and happiness of decision makers. Thus, future studies may consider the role
+of other factors such as social influence and financial stress as a useful extension to
+our model. Second, the study employed data from a single tertiary institution for its
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 19 of 22
+
+165
+
+analysis. The respondents used in the study can, therefore, not be considered as the
+overall representation of all university students. Future studies could consider more
+diverse data from different institutions. Finally, the study did not examine the bidirectional relationship between the non-cognitive determinants and financial behaviour, and between financial behaviour and happiness. An evaluation of the bidirectional relationship between these constructs will be a useful addition to literature.
+Supplementary Information The online version contains supplementary material available at https://​doi.​
+org/​10.​1007/​s43546-​022-​00340-0.
+Acknowledgements The authors would like to thank all faculty and students of University of Ghana
+Business School, and all the faculty members of the University of Professional Studies, Accra, for their
+support. We would also want to appreciate the effort of Bib Hughes for her inputs.
+Author contributions GMYO, GK, OASO, and MK contributed to the conception and design of the
+study. All the authors performed material preparation, data collection and analysis, as well as write the
+first draft of the manuscript. GMYO and GK revised the manuscript with inputs from all the authors. All
+the authors read and approved the final manuscript for submission.
+Funding There is no funding sources.
+Data availability The dataset generated and analysed during the current study is available from the corresponding author on reasonable request.
+Code availability Not applicable.
+
+Declarations
+Conflict of interest There are no conflicting interests, either financial or non-financial, associated with
+this article.
+Ethical approval The manuscript is free of any ethical issues and written in compliance with all ethical
+codes. The authors further declare that this manuscript (or portions of it) has not been published or submitted for publication elsewhere.
+
+References
+Ahmad Z, Simun M, Masuod S (2014) Determinants of financial behaviours among Malaysians. Indonesian Capital Market Rev 2(2):121–132
+Ajzen I (1991) The theory of planned behavior. Organ Behav Hum Decis Process 50(2):179–211
+Ameliawati M, Setiyani R (2018) The influence of financial attitude, financial socialization, and financial
+experience to financial management behavior with financial literacy as the mediation variable. In:
+International Conference on Economics, Business and Economic Education. KnE Social Sciences,
+pp 811–832. https://​doi.​org/​10.​18502/​kss.​v3i10.​3174
+Aw ECX et al (2018) Breaking compulsive buying-financial trouble chain of young Malaysian consumers. Young Consumers 19(3):328–344. https://​doi.​org/​10.​1108/​YC-​11-​2017-​00755
+Balogun AG, Balogun SK, Onyencho CV (2017) Test anxiety and academic performance among undergraduates: the moderating role of achievement motivation. Spanish J Psychol 20(14):1–8. https://​
+doi.​org/​10.​1017/​sjp.​2017.5
+Bandura A (1989) Human agency in social cognitive theory. Am Pyschol 44(9):1175–1184
+
+165
+
+Page 20 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+Barboza GA, Smith C, Boubacar I (2017) A contribution to the empirics of consumers’ anxiety behavior
+on and in credit card repayment. Credit card management and financial literacy among college student. J Fin Manage Markets Instit 5(1):35–66. https://​doi.​org/​10.​12831/​87059
+Baumeister RF, Vohs KD, Tice DM (2007) The strength model of self-control. Curr Dir Psychol Sci
+16(6):351–355
+Baumeister RF et al (2003) Does high self-esteem cause better performance, interpersonal success, happiness, or healthier lifestyles? Psychol Sci Public Interest 4(1):1–44
+Berry J, Karlan D, Pradhan M (2018) The impact of financial education for youth in Ghana. World Dev
+102:71–89. https://​doi.​org/​10.​1016/j.​world​dev.​2017.​09.​011
+Bleemer Z et al (2021) Echoes of rising tuition in students’ borrowing, educational attainment, and homeownership in post-recession America. J Urban Econ 122(1):103298. https://​doi.​org/​10.​1016/j.​jue.​2020.​
+103298
+Bucciol A, Veronesi M (2014) Teaching children to save: what is the best strategy for lifetime savings? J
+Econ Psychol 45(1):1–17. https://​doi.​org/​10.​1016/j.​joep.​2014.​07.​003
+Cheung TTL et al (2014) Why are people with high self-control happier? The effect of trait self-control on
+happiness as mediated by regulatory focus. Front Psychol 5(1):1–6. https://​doi.​org/​10.​3389/​fpsyg.​2014.​
+00722
+Cummins RA (2012) The determinants of happiness. Int J Happiness Dev 1(1):86–101
+Dai Q, Chu R-X (2018) Anxiety, happiness and self-esteem of Western Chinese. Child Abuse Negl
+86(1):403–413. https://​doi.​org/​10.​1016/j.​chiabu.​2016.​08.​002
+Dew JP, Xiao JJ (2011) The financial management behavior scale: development and validation. J Financ
+Couns Plan 22(1):19–35
+Dolan P, Peasgood T, White M (2008) Do we really know what makes us happy? A review of the economic
+literature on the factors associated with subjective well-being. J Econ Psychol 29(1):94–122. https://​doi.​
+org/​10.​1016/j.​joep.​2007.​09.​001
+Farrell L, Fry TRL, Risse L (2016) The significance of financial self-efficacy in explaining women’s personal
+finance behaviour. J Econ Psychol 54:85–99. https://​doi.​org/​10.​1016/j.​joep.​2015.​07.​001
+Fernandes D, Lynch JGJ, Netemeyer RG (2014) Financial literacy, financial education, and downstream
+financial behaviors. Manage Sci 60(8):1861–1883
+Frey BS, Stutzer A (2000) Happiness, economy and institutions. Econ J 110(1):918–938
+Frey BS, Stutzer A (2002) What can economists learn from happiness research? J Econ Lit 40(2):402–435
+Gathergood J (2012) Self-control, financial literacy and consumer over-indebtedness. J Econ Psychol
+33(3):590–602. https://​doi.​org/​10.​1016/j.​joep.​2011.​11.​006
+Gutter MS, Copur Z (2011) Financial behaviors and financial well-being of college students: evidence from a
+national survey. J Fam Econ Issues 32(1):699–714. https://​doi.​org/​10.​1007/​s10834-​011-​9255-2
+Hair JF et al (2014) Partial least squares structural equation modeling (PLS-SEM): an emerging tool in business research. Eur Bus Rev 26(2):106–121. https://​doi.​org/​10.​1108/​EBR-​10-​2013-​0128
+Hair JF, Ringle CM, Sarstedt M (2011) PLS-SEM: indeed a silver bullet. J Market Theory Pract 19(2):139–
+152. https://​doi.​org/​10.​2753/​MTP10​69-​66791​90202
+Hair J, Hollingsworth CL, Randolph AB, Chong AYL (2017) An updated and expanded assessment of
+PLS-SEM in information systems research. Industrial management & data systems
+Henseler J, Ringle CM, Sarstedt M (2015) A new criterion for assessing discriminant validity in variance-based structural equation modeling. J Acad Market Sci 43(1):115–135
+Herawati NT et al (2018) Factors that influence financial behavior among accounting students in Bali. Int J
+Bus Adm 9(3):30–38. https://​doi.​org/​10.​5430/​ijba.​v9n3p​30
+Houle JN, Berger L (2015) Is student loan debt discouraging homeownership among young adults? Soc Service Rev 89(4):589–621. https://​doi.​org/​10.​1086/​684587
+Jebb AT et al (2018) Happiness, income satiation and turning points around the world. Nat Hum Behav
+2(1):33–38. https://​doi.​org/​10.​1038/​s41562-​017-​0277-0
+Kamthan S et al (2018) Happiness among second year MBBS students and its correlates using Oxford happiness questionnaire. J Oral Biol Craniofac Res 9(2):190–192. https://​doi.​org/​10.​1016/j.​jobcr.​2018.​06.​003
+Khosrojerdi Z et al (2018) Predictors of happiness among Iranian nurses. Int J Nursing Sci 5(1):281–286.
+https://​doi.​org/​10.​1016/j.​ijnss.​2018.​06.​008
+Kollamparambil U (2020) Happiness, happiness inequality and income dynamics in South Africa. J Happiness Stud 21(1):201–222. https://​doi.​org/​10.​1007/​s10902-​019-​00075-0
+Kushlev K, Dunn EW, Lucas RE (2015) Higher income is associated with less daily sadness but not more
+daily happiness. Soc Psychol Personality Sci 6(5):483–489. https://​doi.​org/​10.​1177/​19485​50614​568161
+
+SN Bus Econ
+
+(2022) 2:165
+
+Page 21 of 22
+
+165
+
+Lim H et al (2014) Financial stress, self-efficacy, and financial help-seeking behavior of college students. J
+Financ Couns Plan 25(2):148–160
+Lusardi BA, Mitchell OS (2008) Planning and financial literacy: how do women fare? Am Econ Rev Papers
+Proc 98(2):413–417
+Moffitt TE et al (2011) A gradient of childhood self-control predicts health, wealth, and public safety. Proc
+Natl Acad Sci 108(7):2693–2698. https://​doi.​org/​10.​1073/​pnas.​10100​76108
+Mokhtar N, Rahim HA (2016) Determinants of employee perception on financial well-being in Putra
+Jaya. Malays J Consum Fam Econ 19:25–48
+Montford W, Goldsmith RE (2016) How gender and financial self-efficacy influence investment risk taking.
+Int J Consum Stud 40(1):101–106. https://​doi.​org/​10.​1111/​ijcs.​12219
+Nunnally JC, Bernstein IH (1994) The assessment of reliability. Psychom Theory 3(1):248–292. https://​doi.​
+org/​10.​1177/​07342​82999​01700​307
+Oquaye M, Owusu GMY, Bokpin GA (2022) The antecedents and consequence of financial wellbeing: a survey of parliamentarians in Ghana. Rev Behav Fin 14(1):68–90. https://​doi.​org/​10.​1108/​
+RBF-​12-​2019-​0169
+Oswald AJ (1997) Happiness and economic performance. Econ J 107(1):1815–1831
+Parise G, Peijnenburg K (2019) Noncognitive abilities and financial distress: evidence from a representative
+household panel. Rev Financ Stud 32(10):3884–3919. https://​doi.​org/​10.​1093/​rfs/​hhz010
+Parrotta JL, Johnson PJ (1998) The impact of financial attitudes and knowledge on financial management and
+satisfaction of recently married individuals. Financ Counsel Plan 9(2):59–75
+Prihartono MRD, Asandimitra N (2018) Analysis factors influencing financial management behaviour. Int J
+Acad Res Bus Soc Sci 8(8):308–326. https://​doi.​org/​10.​6007/​ijarb​ss/​v8-​i8/​4471
+Rai K, Dua S, Yadav M (2019) Association of financial attitude, financial behaviour and financial knowledge
+towards financial literacy: a structural equation modeling approach. FIIB Bus Rev 8(1):51–60. https://​
+doi.​org/​10.​1177/​23197​14519​826651
+Ramirez E, Kulinna PH, Cothran D (2012) Constructs of physical activity behaviour in children: the usefulness of Social Cognitive Theory. Psychol Sport Exerc 13(3):303–310. https://​doi.​org/​10.​1016/j.​psych​
+sport.​2011.​11.​007
+Rha J, Montalto CP, Hanna SD (2006) The effect of self-control mechanisms on household saving behavior.
+Financ Counsell Plan 17(2):3–16
+Rutledge BMS, Sanzenbacher GT (2019) What financial risks do retirees face in late life? Boston
+Shapiro GK, Burchell BJ (2012) Measuring financial anxiety. J Neurosci Psychol Econ 5(2):92–103. https://​
+doi.​org/​10.​1037/​a0027​647
+Sotiropoulos V, d’Astous A (2013) Attitudinal, self-efficacy, and social norms determinants of young consumers propensity to overspend on credit cards. J Consum Policy 36(2):179–196. https://​doi.​org/​10.​
+1007/​s10603-​013-​9223-3
+Strömbäck C et al (2017) Does self-control predict financial behavior and financial well-being? J Behav Exp
+Financ 14(1):30–38. https://​doi.​org/​10.​1016/j.​jbef.​2017.​04.​002
+Tang N, Baker A, Peter PC (2015) Investigating the disconnect between financial knowledge and behavior:
+the role of parental influence and psychological characteristics in responsible financial behaviors among
+young adults. J Consum Aff 49(2):376–406. https://​doi.​org/​10.​1111/​joca.​12069
+Tangney JP, Boone AL, Baumeister RF (2018) High self-control predicts good adjustment, less pathology, better grades, and interpersonal success. In: Self-regulation and self-control. Routledge, pp
+173–212
+Thaler RH, Shefrin HM (1981) An economic theory of self-control. J Polit Econ 89(2):392–406
+Veenhoven R (2012) Happiness: also known as “life-satisfaction” and “subjective well-being.” Handbook
+Soc Indic Qual Life Res 1:63–77. https://​doi.​org/​10.​1007/​978-​94-​007-​2421-1
+Venkataraman R, Venkatesan T (2018) Analysis of factors determining financial literacy using structural
+equation modelling. SDMIMD J Manage 9(1):19–29. https://​doi.​org/​10.​18311/​sdmimd/​2018/​19998
+Walsh LC, Boehm JK, Lyubomirsky S (2018) Does happiness promote career success? Revisiting the evidence. J Career Assess 26(2):199–219. https://​doi.​org/​10.​1177/​10690​72717​751441
+Wang S, Lin S, Li J (2018) Exploring the effects of non-cognitive and emotional factors on household electricity saving behavior. Energy Policy 115(32):171–180. https://​doi.​org/​10.​1016/j.​enpol.​2018.​01.​012
+Worthy SL, Jonkman J, Blinn-Pike L (2010) Sensation-seeking, risk-taking, and problematic financial
+behaviors of college students. J Fam Econ Issues 31(2):161–170
+Xiao JJ, Chen C, Chen F (2014) Consumer financial capability and financial satisfaction. Soc Indic Res
+118(1):415–432
+
+165
+
+Page 22 of 22
+
+SN Bus Econ
+
+(2022) 2:165
+
+Xiao JJ, Tang C, Shim S (2009) Acting for happiness: financial behavior and life satisfaction of college students. Soc Indic Res 92(1):53–68
+Yap RJC, Komalasari F, Hadiansah I (2016) The effect of financial literacy and attitude on financial management behavior and satisfaction. Int J Admin Sci Organisation 23(3):140–146
+Yong C, Yew S, Wee C (2018) Financial knowledge, attitude and behaviour of young working adults in
+Malaysia. Inst Econ 10(4):21–48
+Younas W et al (2019) Impact of self-control, financial literacy and financial behavior on financial wellbeing. J Soc Sci Res 5(1):211–218. https://​doi.​org/​10.​32861/​jssr.​51.​211.​218
+Springer Nature or its licensor holds exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article
+is solely governed by the terms of such publishing agreement and applicable law.
+
+

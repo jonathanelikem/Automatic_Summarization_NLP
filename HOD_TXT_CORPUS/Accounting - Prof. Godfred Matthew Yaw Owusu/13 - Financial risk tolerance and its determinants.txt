@@ -1,0 +1,1706 @@
+Available online at www.sciencedirect.com
+
+Borsa _Istanbul Review
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+http://www.elsevier.com/journals/borsa-istanbul-review/2214-8450
+
+Full Length Article
+
+Financial risk tolerance and its determinants: The perspective of personnel
+from security services in Ghana
+Godfred Matthew Yaw Owusu a, Gabriel Korankye b,*, Nana Yaw Mark Yankah c,
+Josephine Baaba Agyekum Donkor d
+a
+Department of Accounting, University of Ghana Business School, Legon-Accra, Ghana
+Department of Accounting, University of Professional Studies, Accra, Legon-Accra, Ghana
+c
+Ministry of Finance Ghana, Ghana
+d
+Institute of Postgraduate Studies, Malaysia University of Science and Technology, Malaysia
+b
+
+Received 6 July 2022; revised 26 February 2023; accepted 26 February 2023
+Available online 6 March 2023
+
+Abstract
+The main objective of this paper is to evaluate the ﬁnancial risk tolerance of personnel in the various security services in Ghana (i.e., people
+who serve in the various public security divisions, including the military, immigration, police, customs, ﬁreﬁghting, and prisons). In particular, we
+examine the predictors and outcomes of ﬁnancial risk tolerance and further assess whether ﬁnancial risk tolerance mediates the relationship
+between the predictor variables and ﬁnancial behavior. A partial least square structural equation modeling analysis of data collected from a crosssection of security service personnel revealed that ﬁnancial threat, trust, and deliberative thinking signiﬁcantly inﬂuence ﬁnancial risk tolerance.
+We also found that ﬁnancial risk tolerance is a strong predictor of ﬁnancial behavior. In addition, ﬁnancial risk tolerance mediates the relationship
+between ﬁnancial threat and trust and ﬁnancial behavior. The ﬁndings in this study are relevant to the leaders of the security services in developing
+strategies to ensure the ﬁnancial security of the personnel.
+Copyright © 2023 Borsa İstanbul Anonim Şirketi. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Keywords: Financial risk tolerance; Family ﬁnancial socialization; Financial behavior
+
+1. Introduction
+Following the outbreak of the Covid-19 pandemic in 2019,
+the ﬁnancial sector, like most sectors, suffered immense
+decline, which has had a negative impact on investors' conﬁdence in the sector. Evidence from the International Center for
+Finance at the Yale School of Management suggests that individuals and institutional investors’ conﬁdence in the ﬁnancial sector decreased from 72.12 percent in 2018 to 69.17
+
+* Corresponding author.
+E-mail addresses: gmowusu@gmail.com, gmyowusu@ug.edu.gh (G.M.Y.
+Owusu), gabriel.korankye@upsamail.edu.gh, gkorankye2015@gmail.com (G.
+Korankye), NYankah@mefep.gov.gh (N.Y.M. Yankah), jmanful@hotmail.
+com (J.B. Agyekum Donkor).
+Peer review under responsibility of Borsa İstanbul Anonim Şirketi.
+
+percent at the end of 2019 and dipped further, to 61.54 percent
+at the end of 2020 in the US. According to Heo, Rabbani, and
+Grable (2021), this statistic is not isolated but, rather, a
+reﬂection of the global outlook as investor conﬁdence in the
+ﬁnancial sector continued to decline in many parts of the
+world. In Ghana, the effect of the pandemic was more
+devastating, worsening already-fragile conditions due to the
+banking sector ﬁnancial crisis in 2017, that led several people
+to lose their lifetime savings and investment (BoG, 2019; PwC
+Ghana, 2019; 2020).
+It has been argued that extreme events, such as the Covid-19
+pandemic, can cause downward pressure on the ﬁnancial sector
+and subsequently alter people's ﬁnancial risk tolerance
+(Kaplanski & Levy, 2010). Given that an individual's ﬁnancial
+risk tolerance level has important implications for investment
+decisions, ﬁnancial planning, and portfolio optimization (Heo,
+
+https://doi.org/10.1016/j.bir.2023.02.005
+2214-8450/Copyright © 2023 Borsa İstanbul Anonim Şirketi. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+Rabbani, & Grable, 2021; Heo, Rabbani, & Min, 2021; Zhu,
+2019), it has become important to revisit the concept of
+ﬁnancial risk tolerance in this pandemic era. Financial risk
+tolerance (FRT) is the minimum level of uncertainty that an
+individual is willing to accept when making ﬁnancial decisions
+(Grable, 2000). It is basically the margin of risk that a person is
+willing to take immediately, in anticipation of future beneﬁts.
+In terms of research focus, extant studies over the years have
+explored the determinants of FRT. In particular, demographic
+factors, including age, gender, income level, and education
+level have been found to be associated with FRT by individuals
+(Bannier & Neubert, 2016; Dickason-Koekemoer & Ferreira,
+2019; Fisher & Yao, 2017; Kannadhasan, Aramvalarthan,
+Mitra, & Goyal, 2016). Some emerging studies have also
+explored the impact of other economic and cognitive factors,
+such as ﬁnancial literacy and ﬁnancial knowledge, on an individual's FRT (Heo, Rabbani, & Min, 2021; Reddy &
+Mahapatra, 2017), and the effect of some personal characteristics like personality traits on FRT, has also been investigated
+(Nguyen, Gallery, & Newton, 2019; Pinjisakikool, 2017).
+Although the evidence in these studies contributes substantially
+to understanding the relevant determinants of individual levels
+of FRT, it has been argued that these factors alone do not
+adequately explain variations in individual risk tolerance levels
+(Hartnett, Gerrans, & Faff, 2019; Kannadhasan et al., 2016).
+The need for further studies into other determinants of FRT is
+therefore highlighted in the literature (Dickason-Koekemoer &
+Ferreira, 2019; Rahman, 2020).
+The current study takes a closer look at the determinants of
+FRT, focusing on psychological and environmental (psychosocial) factors overlooked in prior studies even though they are
+believed to be fundamental in behavioral development (Igra &
+Irwin, 1996; Kannadhasan et al., 2016). Relying on the prospect theory and the family ﬁnancial socialization theory, we
+explore the effect of trust, optimism, ﬁnancial threat, deliberative thinking, and family ﬁnancial socialization on FRT,
+focusing on personnel of the security services in Ghana.
+Further, we examine the outcomes of FRT by ascertaining its
+effect on ﬁnancial behavior.
+Focusing on service members is particularly relevant given
+that extant studies tend to examine their physical and emotional
+issues, not ﬁnancial matters. However, compared with the
+general population, service members are confronted with more
+severe ﬁnancial challenges, including growing debt and overall
+ﬁnancial insecurity, and it has been documented that ﬁnancial
+concerns are among the main life stressors for them (Carlson,
+Britt, & Goff, 2015; Montegary, 2015). Prior studies (Bryan
+& Bryan, 2019; Bryan et al., 2019) link ﬁnancial stress to
+suicide and suicidal ideation among service members. According to the Annual Suicide Report (ASR) in 2020, suicide
+rates are higher among service men and veterans than the
+civilian population, and nearly 15 percent of service members
+who attempted suicide experienced some ﬁnancial difﬁculties
+in the 90 days beforehand. Skimmyhorn (2016) documents
+that, compared to their civilian counterparts, service members
+exhibit more problematic ﬁnancial management behavior, such
+as poor credit card management. Again, the propensity to take
+
+risk and engage in unsafe behavior is high among service
+members because of their combat exposure (Carlson et al.,
+2015).
+Nevertheless, research on ﬁnancial risk has largely focused
+on civilians, not service members (Nguyen et al., 2019;
+Pinjisakikool, 2017; Rahman, 2020). Although the experiences
+of service members are linked to elevated risk of substance
+abuse, depression, mental health issues, and other problems,
+very little is known about the impact of their particular risk
+exposure on ﬁnancial risk taking behavior.
+This study ﬁlls this important gap in the literature by
+examining the factors that inﬂuence the FRT of service members. The results from our structural model, using the bootstrapping procedure, show that psychosocial factors are good
+predictors of FRT, and FRT has important implications for
+individual's ﬁnancial behavior. Ghana's ﬁnancial sector has
+recently been plagued by many Ponzi schemes. Although
+several people have lost their savings and investments due to
+these fraudulent schemes, statistics by the Central Bank of
+Ghana shows that the security agencies are the most affected by
+them (Bank of Ghana, 2022). This motivates our focus on
+Ghana's security service personnel.
+The rest of the paper is organized as follows. Section two
+provides some literature background, both theoretical and
+empirical for the study, while section three presents the methodology. Section four discusses the results and ﬁndings of the
+study, and the conclusions drawn, implications of the study and
+suggestions for future research are presented in section ﬁve.
+2. Literature review
+2.1. Theoretical review
+Earlier studies have often relied on the utility theory (UT)
+when evaluating the ﬁnancial decisions of individuals. UT
+suggests that an individual's ﬁnancial decisions can be ranked
+based on the probability of frequency and the weight of
+outcome satisfaction attached to the decision (Grable & Lytton,
+1999; Heo, Grable, & Rabbani, 2018; Shefrin & Statman,
+1993). Individual ﬁnancial decisions, therefore, are dependent
+not only on the perceived utility or expected satisfaction
+attached to the decision but also the likelihood of occurrence.
+Critics of the UT (Caplin & Leahy, 2001; Tversky &
+Kahneman, 1973) argue that, notwithstanding its contribution
+to the literature, application of this theory has some key limitations. For instance, it is difﬁcult to attach probabilities to or
+weigh the outcome satisfaction of a particular decision. Also, in
+some cases, people choose decision bundles that yield lower
+expected utility (Grable & Lytton, 1999; Tversky &
+Kahneman, 1973). Because of the inherent limitations of the
+UT, researchers consequently apply Tversky and Kahneman's
+(1973) prospect theory.
+2.1.1. Prospect theory (PT)
+PT explains decision-making under uncertainty and risk as
+choice between alternate objects (prospects) that can be deﬁned
+as potential gains or losses. The proponents provide evidence
+853
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+ﬁnancial systems through family relations and communications
+and, hence, can actively participate in and beneﬁt from it.
+Extant literature has employed the FFS theory to explain
+people's retirement preparedness (Payne et al., 2014), ﬁnancial
+knowledge (Deenanath, Danes, & Jang, 2019), ﬁnancial wellbeing (Lanz, Sorgente, & Danes, 2020), and ﬁnancial
+behavior (Payne et al., 2014; Vosylis & Erentaite, 2020; Zhao
+& Zhang, 2020). This study extends this body of knowledge by
+studying the effect of FFS on FRT and examines the relationship between FFS and ﬁnancial behavior (see Fig. 1).
+
+that ﬁnancial decision-making does not follow any rational
+calculations, as proposed by UT. Tversky and Kahneman
+(1973) argue that losses have a greater emotional impact on
+an individual than similar gains; therefore, given two options
+with the same outcome, an individual will choose the alternative with more perceived advantages. Again, PT suggests that a
+behavioral dimension to ﬁnancial decision-making exists and
+that ﬁnancial decisions by individuals are informed in part by
+psychological, social, and environmental factors (Rahman,
+2020; Ricciardi, 2008; Tversky & Kahneman, 1973). Accordingly, this study explores some key psychological and environmental factors that are relevant to the risk tolerance and
+ﬁnancial behavior of individuals. People's risk tolerance is
+dependent on their level of optimism, their level of trust, and
+their extent of deliberative thinking and evaluation. Further, the
+situational environment and the threat it poses to an individual
+may also affect that person's level of risk tolerance (Hartnett
+et al., 2019; Kannadhasan et al., 2016; Ricciardi, 2008). In
+addition to PT, researchers also rely on the family ﬁnancial
+socialization theory to explain the framework of the study.
+
+2.2. Empirical review
+2.2.1. Financial risk tolerance
+Risk tolerance refers to the ability to withstand volatility or
+ﬂuctuations in returns (Grable & Lytton, 1999; Shah, Khalid,
+Khan, Arif, & Khan, 2020). However, FRT refers to the minimum amount of uncertainty a person is willing and able to
+accept in making a ﬁnancial decision (Grable, 2000; Nguyen
+et al., 2019). That is, FRT explains individual attitudes toward risk. Knowledge of an individual's level of FRT is
+necessary for the determination of the mix of investment
+packages that a person can accommodate (Rahman, 2020; Wall
+et al., 2005).
+In line with the risk-return theory, which suggests that
+higher risk attracts higher returns, ﬁnancially risk-tolerant individuals can take on more risk and therefore have a higher
+likelihood of receiving higher returns. Despite the proposition
+of the risk-return theory, FRT is inﬂuenced not only by
+ﬁnancial returns but also by demographic, social, economic,
+and psychological factors (Rahman, 2020; Wall et al., 2005).
+Further, Shah et al. (2020) opine that FRT is subjective and
+inﬂuenced by behavioral biases. Nguyen et al. (2019) summarize these arguments as follows: FRT is a personal
+
+2.1.2. The family ﬁnancial socialization theory
+Propounded by Gudmunson and Danes (2011), the family
+ﬁnancial socialization (FFS) theory emphasizes the critical role
+of the family in the socialization process of an individual,
+particularly on ﬁnancial behavior (Vosylis & Erentaite, 2020).
+The FFS theory explains the development of ﬁnancial values,
+attitudes, standards, norms, knowledge, and behaviors that
+contribute to the ﬁnancial viability and well-being of an individual (Gudmunson & Danes, 2011; Payne, Yorgason, & Dew,
+2014). The theory proposes that the family characteristics and
+interactions among members contribute to a person's future
+ﬁnancial behavior. Gudmunson and Danes (2011) further opine
+that individuals learn the content, logic, and functioning of
+
+Fig. 1. Research Framework based on the Prospect Theory and Family Financial Socialization Theory.
+854
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+Optimism has been largely studied in the context of ﬁnancial behavior (Angelini & Cavapozzi, 2017; Strömbäck et al.,
+2017). For example, Angelini and Cavapozzi (2017) study
+the relationship between optimism and investment and ﬁnd that
+the two constructs are positively and signiﬁcantly related.
+Strömbäck et al. (2017) indicate that optimism is a key determinant of good ﬁnancial behavior. Given that optimistic individuals are hopeful that good things will happen, they work
+hard, save more, and retire later (Strömbäck et al., 2017).
+Further, from the perspective of PT, human psychology (in
+which optimism is key) plays a critical role in ﬁnancial risk
+tolerance (Thanki, Shah, Sapovadia, Oza, & Burduhos-Nergis,
+2022). It is argued that optimistic people can remain calm and
+hopeful undeer all circumstances. In light of these arguments,
+this study hypothesizes that a positive signiﬁcant relationship
+exists between optimism and FRT.
+
+characteristic that can change over time, and FRT is inﬂuenced
+by external factors. Following these arguments, this current
+study examines FRT from a behavioral perspective.
+2.2.2. Financial threat
+During economic downturns, an individual's ability to cope
+with the associated uncertainty diminishes (Marjanovic et al.,
+2015). Uncertainty regarding employment, business survival,
+and revamped economic activity, among others, can affect individual ﬁnancial conditions (Ishtiaq, Tufail, Shahzad, &
+Naseer, 2019). As individual ﬁnancial conditions worsen
+because of high debt and low income, people's perceptions
+about the security and stability of their ﬁnancial resources
+deteriorate. Given that people's ability to provide for themselves and their families is dependent on maintaining a good
+balance between income and spending, any potential disruptions are considered ﬁnancial threats.
+Financial threat refers to people's mental state if it includes a
+feeling of ambiguity about their present or future ﬁnancial
+circumstances (Adamus & Grezo, 2021; Ishtiaq et al., 2019).
+According to Fiksenbaum, Marjanovic, Greenglass, and
+Garcia-Santos (2017), a ﬁnancial threat is a fearful-anxious
+uncertainty regarding an individual's current and future ﬁnancial conditions. Thus, a ﬁnancial threat is the level of uncertainty about a person's ﬁnancial conditions. Previous studies
+have argued that ﬁnancial threat inﬂuences economic hardship
+(Fiksenbaum et al., 2017; Mamun et al., 2020; Ofori, 2020), a
+decline in perceived mental health (Viseu et al., 2021), and
+anxiety and stress (Mamun et al., 2020; Ofori, 2020). Other
+studies seeking to ﬁnd the antecedents of ﬁnancial threat ﬁnd
+evidence indicating that anxiety and stress are key determinants
+(Ishtiaq et al., 2019; Mamun et al., 2020). In addition, PT argues that an individual's psychological state inﬂuences that
+person's ﬁnancial decisions (Ricciardi, 2008). Following the
+outcomes of these studies and in line with PT, we hypothesize
+that a perceived ﬁnancial threat is positively associated with
+FRT.
+
+2.2.4. Trust
+A person who is conﬁdent of another's reliability and
+integrity is said to be trusting (Ou, Shih, & Chen, 2015;
+Rahman, 2020). That is, the person is willing to accept some
+level of vulnerability (exposure to risk) based on the expectation of positive or good behavior by another person. Individuals who trust in others rely on them, bank their hopes in
+them, and are willing to go the extra mile with or for the people
+whom they trust. Evidence in the prior literature suggests that
+trust is a necessary condition for risk taking (Delis &
+Mylonidis, 2015; Nguyen, Gallery, & Newton, 2016;
+Rahman, 2020). For instance, Delis and Mylonidis (2015)
+reveal that a positive relationship exists between trust and
+household ﬁnancial decisions as investment.
+In relational contexts, trust is an essential element
+(Gudmunson & Danes, 2011). Prior studies have found trust to
+be a determinant (Rahman, 2020) and also a consequence
+(Nguyen et al., 2016) of FRT. Nevertheless, other studies ﬁnd
+no relationship between trust and FRT. These conﬂicting results make it imperative to conduct further investigations into
+the relationship between trust and FRT. According to PT,
+behavioral traits such as trust underpin individuals’ ﬁnancial
+decision-making and risk tolerance behavior (Brooks &
+Williams, 2021). Rahman (2020) posits that people who trust
+in others are generally willing to take risks. Further, Rahman
+(2020) argues that, for trust to occur, risk must exist, and
+even more risk becomes attractive when trust occurs. We
+therefore hypothesize that there exists a signiﬁcant positive
+relationship between trust and FRT.
+
+2.2.3. Optimism
+Keller (1968) deﬁnes optimism as “the faith that leads to
+achievement.” Other scholars have deﬁned optimism in many
+different ways from various perspectives; however, the underlying commonality is that “optimism is not without risk”
+(Angelini & Cavapozzi, 2017; Beazley, 2009; Strömbäck,
+Lind, Skagerlund, Västfjäll, & Tinghög, 2017). That is, optimistic individuals may be exposed to some level of harm,
+danger, or loss. The different forms of optimism identiﬁed in
+the literature include dispositional optimism, unrealistic optimism, optimism as attributional style, comparative optimism,
+situational optimism, strategic optimism, realistic optimism,
+and optimism bias. This study focuses on dispositional optimism, which refers to a global expectation that more good
+things will happen than bad things (Geers, Wellman, & Fowler,
+2013; Scheier & Carver, 1985). Thus, optimistic people see the
+good in everything they do, they are always hopeful that the
+best will come out of every situation, and, so, they put in their
+all.
+
+2.2.5. Deliberative thinking
+Decision-making is largely undertaken using two systems:
+intuition and deliberative thinking (Kahneman, 2003;
+Moxley, Ericsson, Charness, & Krampe, 2012). Whereas
+intuition is fast, effortless, and reﬂexive, deliberative
+thinking is slower and controlled and requires substantial
+effort. Unless the deliberative thinking system sets in, the
+default human responses, decisions, and actions are based
+primarily on intuition (Moche, Gordon-Hecker, Kogut, &
+Vastfjall, 2022). In the past, researchers have argued that
+855
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+decisions were a result of intuition, emanating from an
+accumulation of experience (Benner & Tanner, 1987).
+However, proponents have argued that, in certain areas of
+operation, such as music and athletics, expertise is not
+necessarily created out of experience but, rather, from longer
+training (deliberate activity) (Ericsson, Krampe, & TeschRomer, 1993; Moxley et al., 2012).
+Extant literature suggests that if decision makers employed
+more deliberative thinking, rather than intuitive thinking, they
+would be doing more comparison of alternative choices by
+estimating the probability of events, their possible outcomes,
+and perform a cost-beneﬁt analysis of each option before
+making a ﬁnal choice (Mata, 2016; Regier, Sicsic, & Watson,
+2019). Moxley et al. (2012) and Derﬂer-Rozin et al. (2016)
+support the assertion that deliberative thinking makes for better decision-making. Based on PT, which suggests that psychological factors, such as deliberative thinking, underpin
+deviation from the usual logical proportional decision-making,
+this study hypothesizes that, deliberative thinking negatively
+inﬂuences an individual's FRT.
+
+norms, knowledge, standards, and behaviors that contribute to
+the ﬁnancial viability and individual well-being. Family socialization focuses primarily on the parent-child relationship,
+because it is inﬂuential. Earlier studies on family socialization
+limit family socialization to the early childhood. However,
+more recent studies argue that socialization transcends adulthood (Gudmunson & Danes, 2011). Gudmunson and Danes
+(2011) further posit that the quality of interpersonal family
+relationships serves as a catalyst for success in an explicit
+attempt to socialize another family member ﬁnancially. As
+such, families that have made the effort to teach their younger
+members about money have been more successful when a good
+relationship already exists.
+Empirical studies have largely found a positive relationship
+between FFS and ﬁnancial behavior (Lanz et al., 2020; Payne
+et al., 2014; Ullah & Kong, 2020; Vosylis & Erentaite, 2020;
+Zhao & Zhang, 2020). For instance, Zhao and Zhang (2020) ﬁnd
+that the effectiveness of FFS positively inﬂuences an individual's
+ﬁnancial literacy, ﬁnancial behavior, and eventual ﬁnancial wellbeing. However, Lanz et al. (2020) studied the relationship between implicit FFS (enmeshment and role modeling) and ﬁnancial behavior and came out with a mixed result. Their study found
+that whiles family/parental role modeling has a positive inﬂuence
+on one's ﬁnancial behavior, family economic enmeshment
+negatively affects ﬁnancial behavior among young people. In this
+study, we try to determine whether a relationship exists between
+FFS (as a single construct) and FRT. We therefore posit that a
+signiﬁcant positive relationship exists between FFS and FRT.
+Additionally, in line with the proposition of the FFS theory that
+family ﬁnancial interactions contribute to ﬁnancial behavior, we
+propose that a positive and signiﬁcant relationship is found between FFS and ﬁnancial behavior.
+
+2.2.6. Financial Behavior
+Financial behavior has attracted a lot of research interest
+over the years (Dew & Xiao, 2011; Mokhtar & Rahim, 2018;
+Strömbäck et al., 2017). This is because bad ﬁnancial decisions, such as overspending, poor savings, and impulse
+buying, have become common (Sotiropoulos & d’Astous,
+2013; Strömbäck et al., 2017). Financial behavior encompasses all activities and actions that regard planning, handling,
+use and control of cash, credit or debt use, savings and investment, and insurance (Dew & Xiao, 2011). The concept of
+ﬁnancial behavior is broadly divided into four aspects: budgeting, debt management, savings and investment, and insurance. Many studies focuses on a few aspects of the broader
+concept. Further, studies on behavioral ﬁnance have largely
+paid attention to the demographic and cognitive factors that
+affect ﬁnancial behavior.
+Whereas extant studies have established the relationship
+between FRT and ﬁnancial behavior, most of these studies
+examine this relationship in light of one of these aspects. For
+instance, Finke and Huston (2003) posit that people who are
+risk tolerant are more likely to invest in stocks than risk-averse
+individuals. Similarly, Chapman and Domain (2000) and
+Corter and Chen (2006) reveal positive a relationship between
+FRT and investing in risky assets. Other studies have also
+linked FRT to retirement readiness or savings (Nguyen,
+Nguyen, Tran, & Trinh, 2021; Reyers, 2018). In this study,
+we evaluate the relationship between FRT and ﬁnancial
+behavior, taking into consideration all the dimensions of
+ﬁnancial behavior. According to PT, the FRT of an individual
+affects that person's ﬁnancial behavior. Thus, our study posits
+that FRT has a signiﬁcantly positive relationship to ﬁnancial
+behavior.
+
+3. Methodology
+3.1. Research design
+To test the hypothesis in this study, we employed a
+quantitative approach, speciﬁcally, the survey method, with
+cross-sectional data from a sample of security service
+personnel. The data were collected electronically using webbased survey designed with Google Forms. Service members working at the headquarters of each of the six services
+and pursuing a postgraduate program at the researchers’ institutions at the time of the data collection were contacted to
+assist with data collection. The service members identiﬁed
+assisted in sharing the link to the survey with their colleagues.
+The link was made accessible to the respondents for 10 weeks
+in order to allow the respondents ample time to complete the
+questionnaire.
+3.2. Sample and sampling method
+The multistage sampling technique was employed in selecting the study sample. First, we grouped the target population
+based on the six public security departments, namely, the Ghana
+Police Service, Ghana Armed Forces, Ghana Immigration
+
+2.2.7. Family ﬁnancial socialization
+As deﬁned by Danes (1994: 128), ﬁnancial socialization is
+the process of acquiring and developing values, attitude,
+856
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+3.4. Brief proﬁle of respondents (Ghana security
+services)
+
+Services, Ghana National Fire Service, Customs Service, and
+Ghana Prisons Service. To ensure that each service is fairly
+represented in the sample, the link was shared with each of the
+divisions, though participation was purely voluntary. The sample of 600 was chosen based on the argument by Hair, Sarstedt,
+Hopkins, and Kuppelwieser (2014), suggesting that the minimum sample for an exploratory study of this nature should be
+ten times the number of constructs in the study framework.
+Thus, given that the conceptual framework consists of seven
+constructs, a sample of at least 70 is acceptable, hence, 600
+respondents is a sizable sample.
+
+Ghana's public security community consists of the Ghana
+Police Service, Ghana Armed Forces, the National Intelligence
+Bureau, Research Department of the Ministry of Foreign Affairs,
+Defense Intelligence, Ghana Revenue Authority, Narcotics
+Control Board, and the National Disaster and Management Organization. Others are the Ghana National Fire Service, the
+Ghana Immigration Services, the Prisons Service, the Financial
+Intelligence Center, and the Economic and Organized Crime
+Ofﬁce. At the top of the security community is the National
+Security Council (NSC), made up of the president, vice president, and ministers of foreign affairs, defense, interior, and
+ﬁnance. In addition, the service chiefs of the Armed Forces,
+Police Service, Prisons Service, Customs, Military Intelligence
+and External Intelligence are also members of the council
+(Ministry of Justice, 2005).
+Ghana's security services have sometimes been accused of
+committing infractions such as extorting civilians. These behaviors are attributed to poor ﬁnancial incentives and
+compensation, as well as ﬁnancial insecurity. Thus, the services
+have undergone several reforms (the ﬁrst of which was in the
+1990s) following the increasing incidence of crimes and the
+dwindling image of the services in the eyes of the public. For
+instance, the most recent reform, in 2020, led to a new law, the
+Security and Intelligence Agency Act (Act 1030). However,
+the reform is yet to achieve the intended objective as there has
+been no signiﬁcant improvement in their behavior and conduct.
+Thus, this study focuses on these security personnel to examine
+their level of risk tolerance, given their poor ﬁnancial conditions. Given that, these groups of people are ready and willing
+to take on all forms of risk in their work, it will be interesting to
+determine their ﬁnancial risk-taking behavior.
+
+3.3. Questionnaire development and data analysis
+technique
+The measurement scales for the various constructs of the
+study were adapted from previous studies. The questionnaire
+has two main parts, A and B. Part A consists of 51 questions
+that reﬂect both the endogenous (FRT and ﬁnancial behavior)
+and exogenous variables (deliberative thinking, FFS, ﬁnancial
+threat, optimism, and trust). A six-item scale designed by
+Kapteyn and Teppa (2011), and later modiﬁed by Pinjisakikool
+(2017), was employed to measure FRT. Financial behavior was
+measured using the ﬁnancial management behavior scale
+(FMBS) established by Dew and Xiao (2011). The study also
+adapted the ﬁnancial socialization scale by Hira et al. (2013) in
+measuring FFS, whereas ﬁnancial threat was measured using
+the ﬁnancial threat scale from the adapted scale of Marjanovic
+et al. (2015). Further, we employed two- and ten-item scales to
+measure deliberative thinking and optimism, respectively. The
+measurement scales for deliberative thinking and optimism
+were adapted from the Uniﬁed Scale to Assess Differences in
+Intuition and Deliberation and the Life Orientation Scale,
+respectively (Strömbäck, Lind, Skagerlund, & Vastfjall, 2017).
+In addition, trust was measured with the general trust scale
+established by Yamagishi and Yamagishi (1994). All questions
+in this section were assessed on a scale of 1 (strongly disagree/
+not at all/rarely) to 7 (strongly agree/extremely/a lot). Finally,
+Part B requests demographic information from the respondents
+to describe their characteristics and put the discussion in a
+proper context. The information includes age, gender, income,
+and education level.
+The data collected were analyzed using the structural
+equation modeling (SEM) technique. SEM allows for efﬁcient
+estimation and evaluation of models that use unobserved variables. Speciﬁcally, we use the partial least square structural
+equation modeling (PLS-SEM) technique to evaluate the
+measurement model and structural model. The PLS-SEM
+approach is more appropriate for this study due to the complex nature of the study model and the several constructs
+involved (Avkiran, 2018; Sarstedt, Ringle, Smith, Reams, &
+Hair, 2014). The order of the analysis is as follows. First, we
+perform descriptive analyses of the respondents and the constructs. Second, we conduct a measurement model estimation,
+followed by a structural path analysis.
+
+4. Results and discussion
+4.1. Respondents’ proﬁle
+Out of the 600 surveys distributed, we received a total of 206
+responses, a response rate of 34.33 percent. However, 10 of the
+responses were incomplete and thus omitted, leaving 196 valid
+responses for analysis. The gender distribution of the respondents was skewed in favor of males (77.17%). This supports
+the argument that security services are male-dominated professions (Scott, 2019). The respondents span the six main security services. A majority of the respondents work at the Ghana
+Immigration Service (36.22%), followed by the Ghana Military
+(34.69%) and the Ghana Police Service (11.73%). In addition, a
+majority of the respondents (about 87.50%) are young—that is,
+below age 45 (47.96% between ages 30 and 45, and 39.80%
+below age 30). This is a reﬂection of the age distribution in the
+country. Further, most of the respondents had at least a bachelor's
+degree (97.45%). This indicates that the respondents have an
+appreciable level of education and are highly literate. Finally, the
+
+857
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+whereas income levels remain stagnant. In terms of ﬁnancial
+behavior, the respondents ranked themselves quite high
+(mean = 4.72, SD = 1.98). This means that the respondents
+perceived themselves as having good savings, cash and credit
+management, and insurance behaviors.
+
+majority of the respondents earn a minimum monthly income of
+GHC 2000 (about USD 156), which is far above the minimum
+wage in the country. Table 1 summarizes the demographic information on the respondents.
+Table 2 provides information on the descriptive statistics of
+the constructs. It shows the means of the constructs as well as
+the means and standard deviations of the respective measurement items. The results reveal that the respondents are generally agree with the measurement statements, with a few
+exceptions. For instance, trust in ﬁnancial advisers and institutions is not very high, with a mean of 4.26 (which is
+slightly above the median, 3.5). This indicates that even though
+there is some level of trust in the ﬁnancial sector, it is not very
+high. The speciﬁc items TR7 (most people are trustworthy) and
+TR4 (most people are trustful of others) have the lowest mean
+scores, 3.37 and 3.43, respectively. This suggests that respondents seldom trust others and do not believe that other
+people are trustful. At the same time, the responses suggest that
+security service personnel are deliberative thinkers. The overall
+mean score for deliberative thinking is 6.38, which indicates a
+high level of meticulousness in the thinking of the respondents.
+This does not come as a surprise because the respondents are
+expected to be much disciplined in action and highly logical in
+their thinking, due to the nature of their profession.
+In general, the respondents perceived themselves as optimistic (overall mean score of 5.14). The measurement item
+with the highest mean score is OPT 10 (overall, I am optimistic) whereas the item with the lowest mean score is OPT 3
+(if something can go wrong for me, it will). It could also be
+deduced from the results that the respondents perceive themselves as moderately ﬁnancially threatened (mean = 4.46) and
+fairly socialized ﬁnancially by their families (mean = 4.32).
+The respondents may be ﬁnancially threatened due to the high
+cost of living, coupled with a continuous increase in prices
+
+4.2. Reliability and validity
+In this study, the two-stage approach suggested by Hair,
+Ringle, and Sarstedt (2011) is employed in the data analysis.
+First, the study assesses the measurement model, which assesses
+the reliability and validity of the construct and measurement
+items. Then, the structural model is considered. The composite
+reliability measure is employed for assessing the reliability.
+According to Nunally and Bernstein (1994) and Hair et al.
+(2014), a composite reliability measure of 0.70 or greater is
+acceptable. Table 3 shows that all the constructs show a composite reliability measure greater than 0.70, indicating that the
+constructs are reliable. For instance, the construct with the lowest
+composite reliability, ﬁnancial behavior, had a score of 0.77.
+Also, all the factor loadings are above 0.50, hence they are
+acceptable. Further, in testing the validity of the constructs, the
+convergent validity discriminant validities were examined. The
+average variance extracted (AVE) was used in assessing the
+convergent validity. The minimum threshold for AVE is 0.50
+(Hair et al., 2011). The results in Table 3 suggest that all the
+constructs meet the minimum threshold, with the lowest reported
+AVE being 0.53 (for ﬁnancial behavior).
+The study employs the Fornell and Larcker criterion in
+evaluating the discriminant validity. This approach compares the
+square root of the AVEs with the correlations of a construct with
+other constructs. If the squared AVEs are greater than the correlations between constructs, then discriminant validity is
+conﬁrmed (Fornell & Bookstein, 1982; Sarstedt et al., 2014).
+Table 4 shows that the discriminant validity is assured for the
+various constructs in the study, as all the constructs satisfy the
+recommended conditions.
+
+Table 1
+Descriptive statistics of respondents.
+Variable
+
+Group
+
+Frequency
+(n = 196)
+
+Percentage
+(%)
+
+4.3. Structural path analysis
+
+Gender
+
+Female
+Male
+under 30 years
+31–45 years
+Over 45 years
+Higher National Diploma
+Undergraduate
+Master's degree
+Other
+Less than GHC 2000
+GHC 2001 to GHC 4500
+GHC 4501 to GHC 10,000
+Above GHC 10,000
+Ghana Military
+Ghana Police Service
+Ghana Immigration Service
+Ghana National Fire Service
+Ghana Prisons Service
+Customs Service
+
+47
+149
+78
+94
+24
+5
+112
+71
+8
+25
+110
+49
+12
+68
+23
+71
+5
+14
+15
+
+23.98
+76.02
+39.80
+47.96
+12.24
+2.55
+57.14
+36.22
+4.08
+12.76
+56.12
+25.00
+6.12
+34.69
+11.73
+36.22
+2.55
+7.14
+7.65
+
+Next, we evaluate the structural model and test the hypothesized relationships. First, the variance inﬂation factor (VIF) was
+estimated to test for the existence of multicollinearity among the
+constructs. The VIF values, as shown in Table 5, were all below
+the threshold of not more than 5 (Hair et al., 2011), indicating the
+absence of multicollinearity between any of the constructs in the
+model. Further, we estimated the coefﬁcient of determination
+(R2) and the predictive relevance (Q2) of the model. According to
+Hair et al. (2014), R2 of 0.25, 0.50, and 0.75 implies weak,
+moderate, and strong signiﬁcance levels, respectively. The
+assessment of R2 reveals values of 0.159 and 0.341 for ﬁnancial
+behavior and FRT, respectively. This implies that the psychosocial factors explain up to 34.10 percent of the variations in
+FRT, whereas FRT and FFS explain about 15.90 percent of the
+variations in ﬁnancial behavior. The blindfolding technique is
+employed in estimating Q2. The results showed Q2 of 0.182 for
+FRT and 0.070 for ﬁnancial behavior, which are both greater than
+
+Age
+
+Level of
+education
+
+Income
+
+Service
+
+Note: GHC = Ghana Cedi.
+858
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+Table 2
+Descriptive statistics of the constructs and measurement items.
+Code
+
+Item
+
+Mean
+
+Financial
+behavior
+
+4.72
+
+Standard
+Deviation
+
+FB1
+FB2
+FB3
+FB4
+FB5
+FB6
+FB7
+FB8
+FB9
+FB10
+FB11
+FB12
+FB13
+FB14
+
+5.55
+5.92
+3.95
+5.02
+4.81
+2.96
+3.68
+5.52
+5.45
+5.73
+5.41
+4.32
+4.46
+3.68
+
+1.65
+1.56
+1.99
+1.78
+2.04
+2.15
+2.19
+1.84
+1.83
+1.70
+2.04
+2.37
+2.13
+2.20
+
+4.37
+4.59
+4.03
+5.16
+4.69
+4.00
+
+2.27
+2.21
+1.88
+2.02
+2.15
+
+4.92
+4.77
+
+1.97
+2.04
+
+I do comparison shopping when purchasing all my products or services.
+I pay all my bills on time (electricity, water, and phone).
+I keep a written or electronic record of all my monthly expenses.
+I stay within my budget or spending plan.
+I pay off overdraft balance in full each month.
+I normally exceed the maximum withdrawal limit on one or more ATM cards.
+I make only minimum payments on loans.
+I have begun or maintain an emergency savings fund.
+I save some amount from every pay check or income.
+I save for long-term goals (such as car, education, business startup).
+I contribute money to a retirement account.
+I have purchased bonds, stocks or shares, Treasury bills, or mutual funds.
+I maintain or purchase an adequate health insurance policy.
+I maintain or purchase adequate property insurance, such as comprehensive auto or homeowners'
+insurance.
+FB15
+I maintain or purchase adequate life insurance.
+Financial risk tolerance
+FRT1
+If I believe an investment will earn a profit, I am willing to borrow money to make this investment.
+FRT2
+I believe I need to take more financial risks if I want to improve my financial position.
+FRT3
+I am willing to run the risk of losing money if there is also a chance that I will make money.
+FRT4
+I am willing to take risks, such as starting a business or gambling, unlike other people, who prefer a
+secure job with fixed pay to an uncertain venture.
+FRT5
+I am prepared to take greater risks (possibility of initial losses) in order to earn greater future returns.
+FRT6
+I feel more comfortable taking risks (possibility of initial losses) when my investments are performing
+well.
+Deliberative thinking
+DET1
+Developing a clear plan is very important to me.
+DET2
+I like to analyze problems.
+Optimism
+OPT1
+In uncertain times, I usually expect the best.
+OPT2
+It's easy for me to relax.
+OPT3
+If something can go wrong for me, it will.
+OPT4
+I'm always optimistic about my future.
+OPT5
+I enjoy my friends a lot.
+OPT6
+It's important for me to keep busy.
+OPT7
+I hardly ever expect things to go my way.
+OPT8
+I don't get upset too easily.
+OPT9
+I rarely count on good things happening to me.
+OPT10
+Overall, I expect more good things to happen to me than bad.
+Trust
+TR1
+Most people are basically honest.
+TR2
+Most people are trustworthy.
+TR3
+Most people are basically good and kind.
+TR4
+Most people are trustful of others.
+TR5
+Most people will respond in kind when they are trusted by others.
+TR6
+I am trustful.
+TR7
+I am confident that I can trust people to be involved in making financial investments.
+TR8
+I am confident that I can trust financial institutions, mutual fund managers, and financial advisers.
+Financial threat
+FTS1
+How uncertain do you feel?
+FTS2
+How much do you feel at risk?
+FTS3
+How much do you feel threatened?
+FTS4
+How much do you worry about it?
+FTS5
+How much do you think about it?
+Family Financial Socialization
+FFS1
+My family discussed family financial matters with me.
+FFS2
+My family spoke to me about the importance of saving.
+FFS3
+My family discussed how to establish a good credit rating.
+FFS4
+My family taught me how to be a smart shopper.
+FFS5
+My family taught me that my actions determine my success in life.
+
+859
+
+6.39
+6.41
+6.37
+5.14
+5.75
+5.11
+4.20
+6.38
+4.92
+5.69
+3.93
+5.13
+3.97
+6.32
+4.22
+3.48
+3.29
+3.64
+3.40
+4.69
+5.79
+4.71
+4.80
+4.46
+3.96
+4.36
+3.68
+4.88
+5.43
+4.32
+3.52
+4.62
+3.67
+4.29
+5.49
+
+1.01
+1.02
+1.42
+1.68
+1.83
+1.03
+1.65
+1.34
+2.01
+1.66
+2.22
+1.10
+1.61
+1.60
+1.54
+1.50
+1.58
+1.30
+1.65
+1.76
+1.69
+1.70
+1.77
+1.86
+1.63
+2.20
+2.09
+2.10
+2.14
+1.81
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+Table 3
+Psychometric characteristics of constructs.
+
+Table 6
+Direct path analysis.
+
+Construct/Item
+
+Composite reliability
+
+AVE
+
+Hypothesized path
+
+co-efficient (β)
+
+t-statistic
+
+p-value
+
+Remarks
+
+Deliberative thinking
+Family ﬁnancial socialization
+Financial threat
+Optimism
+Trust
+Financial risk tolerance
+Financial behavior
+
+0.87
+0.90
+0.87
+0.79
+0.88
+0.89
+0.77
+
+0.77
+0.65
+0.57
+0.56
+0.60
+0.59
+0.53
+
+FTS - > FRT
+TR - > FRT
+OPT - > FRT
+DET - > FRT
+FFS - > FRT
+FFS - > FB
+FRT - > FB
+Age - > FRT
+Ed_Level - > FRT
+Gender - > FRT
+R2 (0.341; 0.159)
+Q2 (0.182; 0.070)
+
+0.293
+0.203
+0.114
+0.126
+0.059
+0.149
+0.332
+−0.279
+0.109
+0.104
+
+4.078
+3.467
+1.635
+1.936
+0.816
+1.687
+5.002
+3.519
+1.664
+1.630
+
+0.000
+0.001
+0.102
+*0.053
+0.415
+*0.092
+0.000
+0.000
+*0.096
+0.103
+
+Accepted
+Accepted
+Not accepted
+Accepted
+Not accepted
+Accepted
+Accepted
+Accepted
+Accepted
+Not accepted
+
+Table 4
+Fornell-Larcker criterion.
+
+DET
+FB
+FFS
+FRT
+FTS
+OPT
+TR
+
+DET
+
+FB
+
+0.878
+0.161
+0.229
+0.217
+−0.029
+0.603
+0.111
+
+0.729
+0.238
+0.372
+−0.013
+−0.057
+0.229
+
+FFS
+
+0.807
+0.269
+0.157
+0.088
+0.276
+
+FRT
+
+0.766
+0.362
+0.201
+0.333
+
+FTS
+
+OPT
+
+TR
+
+Notes: *signiﬁcant at the 10% level; DET = deliberative thinking;
+FRT = ﬁnancial risk tolerance; Ed_Level = education level; FFS = family
+ﬁnancial socialization; FTS = ﬁnancial threat; OPT = optimism; TR = trust.
+0.758
+0.087
+0.122
+
+0.749
+−0.038
+
+zero, thus, that the exogenous variables have predictive relevance
+over their corresponding endogenous variables (Hair et al., 2014;
+Sarstedt et al., 2014). A test of common method bias showed a
+rate of 14.87 percent, which is far less than the threshold of 50
+percent (Podsakoff & Organ, 1986). Therefore, there is no evidence of common method bias in the data collected.
+Using the bootstrapping procedure in Smart PLS, we evaluate the relationships among the various constructs (see
+Fig. 2). The results are presented in Table 6. First, we ﬁnd a
+signiﬁcantly positive relationship between ﬁnancial threat and
+FRT (β = 0.293; p = 0.000). This implies that individuals who
+perceive themselves as ﬁnancially threatened are more likely to
+
+0.771
+
+Table 5
+Variance inﬂation factor (VIF).
+Construct
+
+VIF
+
+Age
+Deliberative thinking
+Education level
+Family ﬁnancial socialization
+Financial threat scale
+Gender
+Optimism
+Trust
+
+1.253
+1.726
+1.090
+1.235
+1.141
+1.089
+1.656
+1.162
+
+Fig. 2. Structural model of psychosocial factors, ﬁnancial risk tolerance and ﬁnancial behavior.
+860
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+exhibit higher levels of FRT. Individuals who feel ﬁnancially
+threatened are anxious and uncertain about their current and
+future ﬁnancial conditions. This fear and uncertainty fuel a
+desire to take on more risk. According to the risk-reward theory, which posits that when risk is higher, so are returns, individuals who perceive themselves as ﬁnancially threatened
+take on more risk in anticipation of higher returns that will help
+salvage their situation. This ﬁnding supports the proposition of
+PT that emotional processes may inﬂuence an individual's
+decision-making under certain circumstances (Ricciardi, 2008).
+Therefore, the fear and anxiety surrounding future and current
+ﬁnancial conditions may heighten FRT. Prior studies by
+Mamun et al. (2020), Ishtiaq et al. (2019), and Fiksenbaum
+et al. (2017) provide empirical support for this ﬁnding.
+The results also indicate a positive and signiﬁcant relationship between trust and FRT. This suggests that individuals
+who have built trust in the ﬁnancial system as well as in
+ﬁnancial advisers are more willing to take on more ﬁnancial
+risk in expectation of higher returns. Given that trust occurs
+when risk exists, and that when trust exists, it provides an
+avenue for more risk (Delis & Mylonidis, 2015), individuals
+who are trusting tend to take on more risk. Additionally, individuals who trust others, especially their ﬁnancial advisers,
+believe in the knowledge and competence of these advisers and
+thus are prepared to accept their suggestions en bloc, irrespective of the associated risks. According to PT, behavioral
+and emotional characteristics such as trust nullify the cognition
+that underpins rational decision-making (Ricciardi, 2008).
+Thus individuals who trust their ﬁnancial advisers are likely to
+agree with their recommendation to take on more risk, irrespective of what logic predicts. Results in the extant literature
+(Delis & Mylonidis, 2015; Rahman, 2020) provide empirical
+support for this ﬁnding, afﬁrming the positive and signiﬁcant
+relationship between trust and FRT.
+Contrary to our hypothesis, the relationship between optimism and FRT is found to be positive but not signiﬁcant. The
+positive relationship means that optimistic individuals are
+willing to take on more ﬁnancial risk. The literature suggests
+that individuals who are optimistic expect more favorable
+things to happen (Scheier & Carver, 1985), hence, their willingness to accept situations that are more uncertain. Optimistic
+individuals are hopeful that things will work out to their
+beneﬁt, even in hard times. As a result of this good feeling,
+optimistic individuals are not afraid to take on huge risk in
+anticipation of favorable outcomes. According to PT, an individual assign a positive value to an option if the value is greater
+the reference point (Tversky & Kahneman, 1973). As a result,
+optimistic individuals, given their positive expectations, are
+more likely to perceive the value of their preferred option more
+highly than the reference point even when the risk is high. This
+ﬁnding is in line with the argument by Stromabck et al. (2017)
+that optimism positively inﬂuences ﬁnancial behavior.
+Additionally, the bootstrap results show a positive and signiﬁcant relationship between deliberative thinking and FRT
+(β = 0.126; p = 0.053). This implies that individuals who take
+time to think through ﬁnancial and investment options are more
+likely exhibit higher levels of FRT. This can be attributed to the
+
+fact that deliberative thinkers, after assessing the alternative
+ﬁnancial and investment options, realize that taking on more risk
+is not bad but, rather, a chance to make higher gains. Consistent
+with PT, deliberative thinkers choose higher returns over conservative returns. Thus, it is expected that deliberative thinkers
+will not subscribe to the “take the ﬁrst” heuristics (Moxley et al.,
+2012), which means “to choose the ﬁrst alternative that seems
+good”. Rather, the deliberative thinker will go through a careful
+evaluation of the alternatives, which may lead to a more
+informed decision. Although the decision may seem risky, the
+deliberative thinker might deem the risk manageable. Extant
+studies by Moxley et al. (2012) and Derﬂer-Rozin, Moore, and
+Staats (2016) provide evidence to support this ﬁnding.
+Further, the results of the study indicate the existence of a
+positive but statistically insigniﬁcant relationship between FFS
+and FRT. This means that individuals who receive guidance
+from their family on how to shop smart, save, and maintain
+good credit rating have a higher tendency to accept uncertainty.
+The family is the ﬁrst socialization unit for every individual,
+thus a good starting point for ﬁnancial education. According to
+FFS theory, individuals are equipped with the knowledge,
+skills, and values they need to build up ﬁnancial viability and
+well-being through family ﬁnancial socialization (Danes, 1994;
+Lanz et al., 2020). Given the ﬁnancial knowledge, skills, and
+values acquired through FFS, people can shrug off the fear of
+risk and make well-informed investment and ﬁnancial decisions and thus take on more ﬁnancial risk. Prior studies
+(Payne et al., 2014; Vosylis & Erentaite, 2020; Zhao & Zhang,
+2020) serve as empirical support, concluding that FFS is
+positively related to ﬁnancial behavior and well-being.
+Based on the tenets of PT and our hypothesis, we ﬁnd a
+positive and highly signiﬁcant relationship between FRT and
+ﬁnancial behavior (β = 0.332; p = 0.000). This suggests that
+individuals who perceive themselves as risk tolerant and hence
+willing to take on more risk are likely to exhibit responsible
+ﬁnancial behavior. According to PT, and arguments by Finke
+and Huston (2003), risk-tolerant individuals are willing to
+make an effort to invest or save, so they are willing to take risk.
+In addition, individuals who are risk tolerant tend to be aware
+of the ﬁnance and investment landscape and have some understanding of ﬁnancial matters. Armed with this knowledge
+and understanding of ﬁnancial matters and markets, ﬁnancially
+risk–tolerant individuals can save, invest, and manage their
+cash and credit appropriately. Extant literature (Fisher & Yao,
+2017; Pinjisakikool, 2017) provides consistent ﬁndings to
+support this study.
+Moreover, the results of this study in Table 6 indicate a
+signiﬁcantly positive relationship between FFS and ﬁnancial
+behavior (at the 10% signiﬁcance level). This suggests that
+individuals who are exposed to ﬁnancial training and education
+by their families are more likely to exhibit responsible ﬁnancial
+behavior. Consistent with FFS theory, Danes (1994) explains
+ﬁnancial socialization as a process through which one acquires
+values, norms, knowledge, and standards that contribute to
+ﬁnancial viability and well-being. Thus, equipped with the
+knowledge and values concerning ﬁnancial matters, individuals
+can effectively and efﬁciently save, invest, and manage their
+861
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+cash and credit. This ﬁnding is supported by prior studies
+(Deenanath et al., 2019; Jorgensen, Rappleyea, Schweichler,
+Fang, & Moran, 2017; Zhao & Zhang, 2020), which
+conclude that FFS has a signiﬁcantly positive relationship with
+ﬁnancial behavior.
+The study controls for age, gender, and education. First, the
+results show a signiﬁcantly negative relationship between age
+and FRT. This means that individuals who are older are less
+likely to take on more risk. As people age, they have more
+responsibilities and hence are more likely to develop a propensity for short-term investment with some certainty in
+returns. Previous studies by Nguyen et al. (2019), and Zhao
+and Zhang (2020) support this ﬁnding, concluding that
+younger people perceive themselves as more risk tolerant than
+older counterparts. Further, we ﬁnd a positive and statistically
+signiﬁcant relationship between the level of education and the
+level of FRT. Individuals who have acquired higher educational qualiﬁcations are more likely to appreciate and understand the ﬁnancial system better and hence are willing to
+accommodate more ﬁnancial risk. This result corresponds to
+the ﬁndings in prior studies (Heo, Rabbani, & Min, 2021;
+Ramudzuli & Muzindutsi, 2015) that argue that the level of
+FRT varies with the level of education. Lastly, among the
+demographic factors, the results show no signiﬁcant relationship between gender and FRT. By implication, the level of
+FRT is not dependent on gender, thus, there are no signiﬁcant
+differences between males and females in terms of FRT. This
+ﬁnding is in sharp contrast to the results by Yao and Hanna
+(2005), which show that males are more risk tolerant than
+females.
+
+perceive a looming ﬁnancial threat are likely to exhibit
+improved ﬁnancial behavior, given that fear of the threat is
+translated into an increased capacity and willingness to take
+more risk. Similarly, trust in ﬁnancial systems and ﬁnancial
+advisers boost a person's conﬁdence to accept more risk and
+uncertainty in anticipation of higher returns. This enhanced risk
+tolerance subsequently leads to a more responsible ﬁnancial
+behavior and practices.
+At the same time, the indirect relationships between deliberative thinking, FFS and optimism, and ﬁnancial behavior
+through FRT are not signiﬁcant. According to FFS theory,
+family socialization normally takes place in the early stages of
+individual's life (Jorgensen et al., 2017; Vosylis & Erentaite,
+2020). Given that the sample in this study generally comprises adults, it is possible that new ﬁnancial values have been
+developed, eroding the gains of FFS. The FRT of such individuals are likely to be inﬂuenced by their newly developed
+ﬁnancial values and not their FFS—hence, the insigniﬁcant
+relationship between FFS and FRT and, subsequently, ﬁnancial
+behavior.
+5. Conclusion
+Employing the prospect theory and the family ﬁnancial socialization theory, this study examines the FRT of security service
+personnel in Ghana. The study speciﬁcally investigates the relationship between some psychosocial factors and FRT, as well as
+the relationship between FRT and ﬁnancial behavior. The results
+demonstrate that ﬁnancial threat, trust, and deliberative thinking
+signiﬁcantly inﬂuence FRT. Additionally, the results reveal that
+FRT and FFS are key predictors of ﬁnancial behavior. Furthermore, the ﬁndings indicate that FRT mediates the relationship
+between ﬁnancial behavior and ﬁnancial threat and trust.
+The results of the study imply that to encourage responsible
+ﬁnancial behavior among security service personnel, efforts
+should be focused on building their risk tolerance. Given that,
+FRT is predicted by ﬁnancial threat, trust, and deliberative
+thinking, as well as education level, it is pertinent to consider
+these psychosocial factors. For instance, ﬁnancial institutions
+and advisers should position themselves well to earn people's
+trust. This will encourage investors to take on more risk and
+subsequently exhibit good ﬁnancial behavior. Further, a focus
+on building trust in the ﬁnancial system is key. This is because
+trust enhances the risk tolerance, which has implications on
+ﬁnancial behavior. Thus, policy makers should focus on
+establishing resilient ﬁnancial systems that can be trusted. Our
+ﬁndings add to the literature by extending studies on FRT and
+FFS to include psychosocial factors.
+Although this study makes some signiﬁcant contributions, it
+also has some shortcomings. First, the study sample was
+selected from among personnel of the various security services
+in Ghana, ignoring members of other professions. Thus, future
+studies should consider employing a more diverse sample by
+including members from other professions. Further, although
+there are many psychosocial factors, this study includes only
+ﬁve of them (ﬁnancial threat, trust, optimism, deliberative
+thinking, and family ﬁnancial socialization). Future studies can
+
+4.4. Mediating effect
+Following the guidelines set out by Hair et al. (2014), we
+perform a mediation analysis, and the results are presented in
+Table 7. Speciﬁcally, we evaluate the mediation role of FRT in
+the relationships between deliberative thinking, FFS, ﬁnancial
+threat, optimism and trust, and ﬁnancial behavior. The results
+indicate that FRT signiﬁcantly mediates the relationship between ﬁnancial behavior and ﬁnancial threat and trust. The
+signiﬁcant indirect relationship between ﬁnancial threat and
+ﬁnancial behavior through FRT implies that individuals who
+
+Table 7
+Indirect path analysis.
+Hypothesized path
+
+co-efficient (β) t-statistic p-values Remarks
+
+FTS - > FRT - > FB
+0.097
+TR - > FRT - > FB
+0.068
+DET - > FRT - > FB
+0.042
+OPT - > FRT - > FB
+0.038
+FFS - > FRT - > FB
+0.020
+Age - > FRT - > FB
+−0.093
+Ed_Level - > FRT - > FB 0.036
+Gender - > FRT - > FB 0.035
+
+3.246
+2.640
+1.634
+1.542
+0.778
+2.709
+1.490
+1.438
+
+0.001
+0.008
+0.102
+0.123
+0.437
+0.007
+0.136
+0.150
+
+Accepted
+Accepted
+Not accepted
+Not accepted
+Not accepted
+Accepted
+Not accepted
+Not accepted
+
+Notes: DET = deliberative thinking; FRT = ﬁnancial risk tolerance;
+Ed_Level = education level; FFS = family ﬁnancial socialization;
+FTS = ﬁnancial threat; OPT = optimism; TR = trust.
+862
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+explore other factors, such as culture, herding, and ﬁnancial
+knowledge. Lastly, we encourage future researchers to investigate the reasons for the insigniﬁcant direct relationship between family ﬁnancial socialization and FRT. Researchers
+should consider examining a much younger population in
+exploring the implications of family ﬁnancial socialization on
+risk tolerance, given that FFS is generally targeted at younger
+generations in the family.
+
+Fisher, P. J., & Yao, R. (2017). Gender differences in ﬁnancial risk tolerance.
+Journal of Economic Psychology, 61(1), 1–17. https://doi.org/10.1016/
+j.joep.2017.03.006
+Fornell, C., & Bookstein, F. L. (1982). Two structural equation models: LISREL and PLS applied to consumer exit-voice theory. Journal of Marketing
+Research, 19(4), 440–452.
+Geers, A. L., Wellman, J. A., & Fowler, S. L. (2013). Comparative and
+dispositional optimism as separate and interactive predictors. Psychology
+and Health, 28(1), 30–48. https://doi.org/10.1080/08870446.2012.707200
+Grable, J. E. (2000). Financial risk tolerance and additional factors that affect
+risk taking in everyday money matters. Journal of Business and Psychology, 14(4), 625–630. https://doi.org/10.1023/A:1022994314982
+Grable, J., & Lytton, R. H. (1999). Financial risk tolerance revisited: The
+development of a risk assessment instrument. Financial Services Review,
+8(3), 163–181.
+Gudmunson, C. G., & Danes, S. M. (2011). Family ﬁnancial socialization:
+Theory and critical review. Journal of Family and Economic Issues, 32(4),
+644–667. https://doi.org/10.1007/s10834-011-9275-y
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2011). PLS-SEM: Indeed a silver
+bullet. Journal of Marketing Theory and Practice, 19(2), 139–152. https://
+doi.org/10.2753/MTP1069-6679190202
+Hair, J. F. J., Sarstedt, M., Hopkins, L., & Kuppelwieser, V. G. (2014). Partial
+least squares structural equation modeling (PLS-SEM): An emerging tool in
+business research. European Business Review, 26(2), 106–121. https://
+doi.org/10.1108/EBR-10-2013-0128
+Hartnett, N., Gerrans, P., & Faff, R. (2019). Trusting clients' ﬁnancial risk
+tolerance survey scores. Financial Analysts Journal, 75(2), 91–104. https://
+doi.org/10.1080/0015198X.2019.1575160
+Heo, W., Grable, J. E., & Rabbani, A. G. (2018). A test of the relevant association between utility theory and subjective risk tolerance: Introducing the
+proﬁt-to-willingness ratio. Journal of Behavior al and Experimental
+Finance, 19, 84–88. https://doi.org/10.1016/j.jbef.2018.05.003
+Heo, W., Rabbani, A., & Grable, J. E. (2021). An evaluation of the effect of the
+COVID-19 pandemic on the risk tolerance of ﬁnancial decision makers.
+Finance Research Letters, 41(1), 1–6. https://doi.org/10.1016/
+j.frl.2020.101842
+Heo, W., Rabbani, A. G., & Min, J. (2021). Mediation between ﬁnancial risk
+tolerance and equity ownership: Assessing the role of ﬁnancial knowledge
+underconﬁdence. Journal of Financial Services Marketing, 26(3), 169–180.
+https://doi.org/10.1057/s41264-021-00088-y
+Igra, V., & Irwin, C. E. (1996). Theories of adolescent risk-taking behavior. In
+R. DiClemente, W. Hansen, & L. Ponton (Eds.), Handbook of adolescent
+health risk Behaviour (pp. 35–51). Boston, MA: Springer US. https://
+doi.org/10.1007/978-1-4899-0203-0_3.
+Ishtiaq, M., Tufail, M. S., Shahzad, K., & Naseer, M. A. (2019). Impact of
+ﬁnancial threat on individual's willingness to change ﬁnancial behavior.
+Dialogue, 14(2), 265–281.
+Jorgensen, B. L., Rappleyea, D. L., Schweichler, J. T., Fang, X., &
+Moran, M. E. (2017). The ﬁnancial behavior of emerging adults: A family
+ﬁnancial socialization approach. Journal of Family and Economic Issues,
+38(1), 57–69. https://doi.org/10.1007/s10834-015-9481-0
+Kahneman, D. (2003). Maps of bounded rationality: Psychology for behavioral
+economics. The American Economic Review, 93(5), 1449–1475. https://
+doi.org/10.1257/000282803322655392
+Kannadhasan, M., Aramvalarthan, S., Mitra, S. K., & Goyal, V. (2016).
+Relationship between biopsychosocial factors and ﬁnancial risk tolerance:
+An empirical study. Journal for Decision Makers, 41(2), 117–131. https://
+doi.org/10.1177/0256090916642685
+Kaplanski, G., & Levy, H. (2010). Sentiment and stock prices: The case of
+aviation disasters. Journal of Financial Economics, 95(2), 174–201. https://
+doi.org/10.1016/j.jﬁneco.2009.10.002
+Kapteyn, A., & Teppa, F. (2011). Subjective measures of risk aversion, ﬁxed costs,
+and portfolio choice. Journal of Economic Psychology, 32(4), 564–580.
+Lanz, M., Sorgente, A., & Danes, S. M. (2020). Implicit family ﬁnancial socialization and emerging adults' ﬁnancial well-being: A multi-informant
+approach. Emerging Adulthood, 8(6), 443–452. https://doi.org/10.1177/
+2167696819876752
+
+References
+Adamus, M., & Grezo, M. (2021). Individual differences in behavioral responses to the ﬁnancial threat posed by the COVID-19 pandemic. Personality and Individual Differences, 179(1), 1–7.
+Angelini, V., & Cavapozzi, D. (2017). Dispositional optimism and stock investments. Journal of Economic Psychology, 59, 113–128. https://doi.org/
+10.1016/j.joep.2017.01.006
+Avkiran, N. K. (2018). Rise of the partial least squares structural equation
+modeling: An application in banking. In N. K. Avikran, & C. M. Ringle
+(Eds.), Partial least squares structural equation modeling associate series
+editor (pp. 211–226). Cham: Springer International.
+Bannier, C. E., & Neubert, M. (2016). Gender differences in ﬁnancial risk
+taking: The role of ﬁnancial literacy and risk tolerance. Economics Letters,
+145(2), 130–135. https://doi.org/10.1016/j.econlet.2016.05.033
+Beazley, C. (2009). The many sides of optimism. Positive Psychology, United
+Kingdom
+http://positivepsychology.org.uk/pp-theory/optimism/97-themany-sides-ofoptimism.html.
+Benner, P., & Tanner, C. (1987). How expert nurses use intuition. AJNR:
+American Journal of Nursing, 87(1), 23–34.
+Brooks, C., & Williams, L. (2021). The impact of personality traits on attitude
+to ﬁnancial risk. Research in International Business and Finance, 58(1),
+1–20. https://doi.org/10.1016/j.ribaf.2021.101501
+Caplin, A., & Leahy, J. (2001). Psychological expected utility theory and
+anticipatory feelings. Quarterly Journal of Economics, 116(1), 55–79.
+https://doi.org/10.1162/003355301556347
+Carlson, M. B., Britt, S. L., & Goff, B. N. (2015). Factors associated with a
+composite measure of ﬁnancial behavior among soldiers. Journal of
+Financial Counseling and Planning, 26(1), 30–42.
+Corter, J. E., & Chen, Y. J. (2006). Do investment risk tolerance attitudes
+predict portfolio risk? Journal of Business and Psychology, 20(3), 369–381.
+Deenanath, V., Danes, S. M., & Jang, J. (2019). Purposive and unintentional
+family ﬁnancial socialization, subjective ﬁnancial knowledge, and ﬁnancial
+behavior of high school students. Journal of Financial Counseling and
+Planning, 30(1), 83–96.
+Delis, M. D., & Mylonidis, N. (2015). Trust, happiness, and households'
+ﬁnancial decisions. Journal of Financial Stability, 20(1), 82–92.
+Derﬂer-Rozin, R., Moore, C., & Staats, B. R. (2016). Reducing organizational
+rule breaking through task variety: How task design supports deliberative
+thinking. Organization Science, 27(6), 1361–1379.
+Dew, J., & Xiao, J. J. (2011). The ﬁnancial management behavior scale:
+Development and validation. Journal of Financial Counseling and Planning, 22(1), 43–59.
+Dickason-Koekemoer, Z., & Ferreira, S. (2019). Risk tolerance: The inﬂuence
+of gender and life satisfaction. Journal of Economics and Behavior al
+Studies, 11(1), 66–72.
+Ericsson, K. A., Krampe, R. T., & Tesch-Romer, C. (1993). The role of
+deliberate practice in the acquisition of expert performance. Psychological
+Review, 100(3), 363–406. https://doi.org/10.4324/9780203109427
+Fiksenbaum, L., Marjanovic, Z., Greenglass, E., & Garcia-Santos, F. (2017).
+Impact of economic hardship and ﬁnancial threat on suicide ideation and
+confusion. Journal of Psychology, 151(5), 477–495. https://doi.org/
+10.1080/00223980.2017.1335686
+Finke, M. S., & Huston, S. J. (2003). The brighter side of ﬁnancial risk:
+Financial risk tolerance and wealth. Journal of Family and Economic Issues, 24(3), 233–256.
+863
+
+_
+Borsa Istanbul
+Review 23-4 (2023) 852–864
+
+G.M.Y. Owusu, G. Korankye, N.Y.M. Yankah et al.
+
+investigation. Journal of Economic Behavior & Organization, 164,
+235–255. https://doi.org/10.1016/j.jebo.2019.05.031
+Reyers, M. (2018). Perceptions of retirement adequacy: Evidence from South
+Africa. Journal of Financial Counseling and Planning, 29(2), 343–356.
+https://doi.org/10.1891/1052-3073.29.2.343
+Ricciardi, V. (2008). The psychology of risk: The behavior al ﬁnance
+perspective. In F. J. Fabozzi (Ed.), Investment management & ﬁnance
+management, 2 pp. 85–111). John Wiley & Sons Ltd.
+Sarstedt, M., Ringle, C. M., Smith, D., Reams, R., & Hair, J. F. (2014). Partial
+least squares structural equation modeling (PLS-SEM): A useful tool for
+family business researchers. Journal of Family Business Strategy, 5(1),
+105–115. https://doi.org/10.1016/j.jfbs.2014.01.002
+Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health:
+Assessment and implications of generalized outcome expectancies. Health
+Psychology, 4(3), 219–247.
+Shah, N. H., Khalid, W., Khan, S., Arif, M., & Khan, M. A. (2020). An
+empirical analysis of ﬁnancial risk tolerance and demographic factors of
+business graduates in Pakistan. International Journal of Economics and
+Financial Issues, 10(4), 220–234. https://doi.org/10.32479/ijeﬁ.9365
+Shefrin, H., & Statman, M. (1993). Behavior al aspects of the design and
+marketing of ﬁnancial products. Financial Management, 22(2), 123. https://
+doi.org/10.2307/3665864
+Skimmyhorn, W. L. (2016). Comparing military and civilian household ﬁnances: Descriptive evidence from recent surveys. Journal of Consumer
+Affairs, 50(2), 471–483.
+Sotiropoulos, V., & d'Astous, A. (2013). Attitudinal, self-efﬁcacy, and social
+norms determinants of young consumers' propensity to overspend on credit
+cards. Journal of Consumer Policy, 36(2), 179–196. https://doi.org/
+10.1007/s10603-013-9223-3
+Strömbäck, C., Lind, T., Skagerlund, K., Västfjäll, D., & Tinghög, G. (2017).
+Does self-control predict ﬁnancial behavior and ﬁnancial well-being?
+Journal of Behavior al and Experimental Finance, 14(1), 30–38. https://
+doi.org/10.1016/j.jbef.2017.04.002
+Thanki, H., Shah, S., Sapovadia, V., Oza, A. D., & Burduhos-Nergis, D. D.
+(2022). Role of gender in predicting determinant of ﬁnancial risk tolerance.
+Sustainability, 14(1), 1–13.
+Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging
+frequency and probability. Cognitive Psychology, 5(2), 207–232.
+Ullah, S., & Kong, Y. S. (2020). Financial socialization, childhood experiences
+and ﬁnancial well-being: The mediating role of locus of control. Frontiers
+in Psychology, 11(September), 1–11. https://doi.org/10.3389/fpsyg.2020.
+02162
+Viseu, J. N. R., de Jesus, S. N., Leal, A. R. C., dos Santos Pinto, P. S. L. G.,
+Ayala-Nunes, L., & Matavelli, R. D. (2021). Coping and social support as
+moderators: Relationship between ﬁnancial threat and negative psychological outcomes. Current Psychology, 40(1), 2229–2241.
+Vosylis, R., & Erentaite, R. (2020). Linking family ﬁnancial socialization with
+its proximal and distal outcomes: Which socialization dimensions matter
+most for emerging adults' ﬁnancial identity, ﬁnancial behavior s , and
+ﬁnancial anxiety? Emerging Adulthood, 8(6), 464–475. https://doi.org/
+10.1177/2167696819856763
+Wall, T. D., Wood, S. J., Leach, D. J., Salas, E., Stagl, K. C., Burke, S. C., et al.
+(2005). In G. P. Hodgkinson, & K. J. Ford (Eds.), International review of
+industrial and organizational psychology: 20. International review of industrial and organizational psychology (pp. 41–70). John Wiley & Sons
+Ltd. https://doi.org/10.1002/0470029307.ch6.
+Zhao, H., & Zhang, L. (2020). Talking money at home: The value of family
+ﬁnancial socialization. International Journal of Bank Marketing, 38(7),
+1617–1634. https://doi.org/10.1108/IJBM-04-2020-0174
+Zhu, A. Y. F. (2019). Financial risk tolerance of Hong Kong adolescents: A
+hierarchical model. Children and Youth Services Review, 102(1),
+193–200.
+
+Mamun, M. A., Akter, S., Hossain, I., Hossain, L., Haque, A., Hossain, S., et al.
+(2020). Financial threat, hardship and distress predict depression, anxiety
+and stress among the unemployed youths: A Bangladeshi multi-city study.
+Journal of Affective Disorders, 276(2), 1149–1158. https://doi.org/10.1016/
+j.jad.2020.06.075
+Marjanovic, Z., Greenglass, E. R., Fiksenbaum, L., Witte, H., De GarciaSantos, F., Buchwald, P., & Mañas, M. A. (2015). Evaluation of the
+ﬁnancial threat scale (FTS) in four European, non-student samples. Journal
+of Behavior al and Experimental Economics, 55, 72–80. https://doi.org/
+10.1016/j.socec.2014.12.001
+Mata, A. (2016). Proportion dominance in valuing lives: The role of deliberative thinking. Judgment and Decision Making, 11(5), 441–448.
+Moche, H., Gordon-Hecker, T., Kogut, T., & Vastfjall, D. (2022). Thinking,
+good and bad? Deliberative thinking and the singularity effect in charitable
+giving. Judgment and Decision Making, 17(1), 14–30.
+Mokhtar, N., & Rahim, H. (2018). Determinants of employee perception on
+ﬁnancial well-being in Putrajaya. Malaysian Journal of Consumer and
+Family Economics, 1(1), 27–52.
+Montegary, L. (2015). An army of debt: Financial readiness and the military
+family. Cultural Studies, 29(5–6), 652–668.
+Moxley, J. H., Ericsson, K. A., Charness, N., & Krampe, R. T. (2012). The role of
+intuition and deliberative thinking in experts' superior tactical decision-making.
+Cognition, 124(1), 72–78. https://doi.org/10.1016/j.cognition.2012.03.005
+Nguyen, L. T. M., Gallery, G., & Newton, C. (2016). The inﬂuence of ﬁnancial
+risk tolerance on investment decision-making in a ﬁnancial advice context.
+Australasian Accounting, Business and Finance Journal, 10(3), 3–22.
+https://doi.org/10.14453/aabfj.v10i3.2
+Nguyen, L. T. M., Gallery, G., & Newton, C. (2019). The joint inﬂuence of
+ﬁnancial risk perception and risk tolerance on individual investment decision-making. Accounting and Finance, 59(3), 747–771. https://doi.org/
+10.1111/acﬁ.12295
+Nguyen, L. T. M., Nguyen, P. T., Tran, Q. N. N., & Trinh, T. T. G. (2021).
+Why does subjective ﬁnancial literacy hinder retirement saving? The
+mediating roles of risk tolerance and risk perception. Review of Behavioral
+Finance. https://doi.org/10.1108/RBF-03-2021-0036. ahead-of-p.
+Ofori, E. (2020). The effects of Ponzi schemes and revocation of licences of
+some ﬁnancial institutions on ﬁnancial threat in Ghana. Journal of Financial Crime. https://doi.org/10.1108/JFC-01-2020-0003. ahead-of-p.
+Ou, W.-M., Shih, C.-M., & Chen, C.-Y. (2015). Effects of ethical sales
+behaviour on satisfaction, trust, commitment, retention and words-ofmouth. International Journal of Commerce and Management, 25(4),
+673–686. https://doi.org/10.1108/IJCoMA-04-2013-0040
+Payne, S. H., Yorgason, J. B., & Dew, J. P. (2014). Spending today or saving
+for tomorrow: The inﬂuence of family ﬁnancial socialization on ﬁnancial
+preparation for retirement. Journal of Family and Economic Issues, 35(1),
+106–118. https://doi.org/10.1007/s10834-013-9363-2
+Pinjisakikool, T. (2017). The inﬂuence of personality traits on households'
+ﬁnancial risk tolerance and ﬁnancial behaviour. Journal of Interdisciplinary
+Economics, 30(1), 32–54. https://doi.org/10.1177/0260107917731034
+Podsakoff, P. M., & Organ, D. W. (1986). Self reports in organizations
+research: Problems and prospects. Journal of Management, 12(4), 531–544.
+Rahman, M. (2020). Propensity toward ﬁnancial risk tolerance: An analysis
+using behavioural factors. Review of Behavioral Finance, 12(3), 259–281.
+https://doi.org/10.1108/RBF-01-2019-0002
+Ramudzuli, P. M., & Muzindutsi, P. F. (2015). Financial knowledge and
+subjective ﬁnancial risk tolerance among students at a South African university. Risk Governance and Control: Financial Markets & Institutions,
+5(3), 180–185. https://doi.org/10.22495/rgcv5i3c2art3
+Reddy, K. S., & Mahapatra, M. S. (2017). Risk tolerance, personal ﬁnancial
+knowledge and demographic characteristics: Evidence from India. The Journal
+of Developing Areas, 51(3), 51–62. https://doi.org/10.1353/jda.2017.0060
+Regier, D. A., Sicsic, J., & Watson, V. (2019). Choice certainty and deliberative thinking in discrete choice experiments: A theoretical and empirical
+
+864
+
+

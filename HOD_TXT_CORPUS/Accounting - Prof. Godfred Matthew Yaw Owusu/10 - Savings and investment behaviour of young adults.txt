@@ -1,0 +1,1772 @@
+Savings and Investment Behaviour
+
+75
+
+Owusu et al.
+
+Savings and Investment Behaviour
+of Young Adults:
+The Role of Financial Literacy and
+Parental Financial Behaviour
+Godfred Matthew
+Yaw Owusu
+Department of Accounting,
+University of Ghana Business School,
+Legon-Accra, Ghana
+
+Richard Ansong
+PricewaterhouseCoopers,
+Accra, Ghana
+
+Theodora Aba
+Abekah Koomson
+Department of Accounting,
+University of Ghana Business School,
+Legon-Accra, Ghana
+
+Annice Amoasa
+Addo-Yobo
+University of Ghana Business School,
+Department of Finance,
+Legon-Accra, Ghana
+
+Correspondence:
+University of Ghana Business
+School
+P. O. Box LG 78, Legon,
+Accra, Ghana.
+Email address:
+gmyowusu@ug.edu.gh
+gmowusu@gmail.com
+https://dx.doi.org/10.4314/ajmr.
+v27i1.5
+
+Abstract
+This study examines the savings and investment
+behaviour of young adults, their levels of financial
+literacy and ascertains whether financial literacy is an
+important predictor of savings and investment
+behaviour. Additionally, the study investigates the role
+of parental financial behaviour on financial literacy,
+savings and investment behaviour of young people.
+Using a survey-based approach, we collected data via
+a questionnaire from a sample of young undergraduate
+students from a large public university in Ghana. We
+employed the Covariance-Based Structural Equation
+Modelling technique to examine the hypothesized
+relationships of the study. The empirical results of the
+study based on a sample of 646 students show that
+financial literacy positively correlates with savings and
+investment behaviour of young adults. Moreover, we
+find parental financial behaviour to be an important
+predictor of the level of financial literacy of young adults
+and directly impacts on their savings and investment
+behaviour.
+Key words: Household savings; investment behaviour; financial literacy; financial behaviour
+
+Introduction
+The relevance of savings and investment to the life of
+an individual is well established in the literature.
+Studies have shown that proper savings and investment culture is positively associated with financial
+well-being of individual households (Mandell, &
+Klein, 2009; Oquaye, Owusu & Bokpin, 2020;
+Prawitz, Garman, Sorhaindo, Neill, & Kim, 2006) and
+has important implications on financial independence and stability of households (Loibl,
+African Journal of Management Research (AJMR)
+
+76
+
+Savings and Investment Behaviour
+
+Kraybill, & DeMay, 2011). As surmised by
+Loibl et al. (2011), financial independence and stability of the household can
+be achieved only through repeated acts of
+savings. Indeed, beyond the individual
+household, savings and investment has
+been found to play a crucial role in the
+economic growth and development of a
+country.
+The neoclassical theory of economic
+1
+growth for instance posits that higher rate
+of savings and investment impacts positively on capital formation in a country
+which ultimately drive economic growth
+performance (Solow, 1956). The argument is that individual savings and investment particularly into financial assets
+constitute one of the important means by
+which financial intermediaries raises
+funds to meet the funding needs of firms
+in a country. The efficient allocation of
+such funds to firms in the most productive
+sectors of the economy ultimately improves the productive capacity of firms
+which can enhance the economic growth
+performance of the country. This proposition has been supported empirically
+by extant studies that associate the ability
+of a country to sustain its economic
+growth in the long run with the savings
+rate and investments of individual households (Harrod, 2016; Jonubi & Abad,
+2013; Loayza, Schmidt-Hebbel, & Servén,
+2000).
+Interestingly, despite the stream of economic benefits associated with proper
+savings and investment behaviour both to
+the individual and the country at large,
+household savings and investments levels
+
+1
+
+Commonly referred to as the Solow Growth Model
+
+African Journal of Management Research (AJMR)
+
+Owusu et al.
+
+continue to decline in many parts of the
+world particularly in developing countries.
+The problem is even more pronounced in
+Africa with many Sub-Saharan countries
+recording the lowest savings rate in the
+world on a persistent basis (Africa
+Renewal, 2008). Given that most governments in developing countries have also
+reduced their investment into social
+suppor t prog rammes with time
+(Agarwalla et al., 2015), the poor savings
+and investment behaviour of individuals
+should be of grave concern to the average
+individual in our contemporary time. This
+is because as Agarwalla et al. (2015) point
+out the shrink in government role in terms
+of direct financial support leaves the
+future financial security of individuals entirely in their own hands.
+Studies into savings and investment behaviour of individuals have therefore
+become relevant in our time. Academic
+researchers in this area have particularly
+been interested in examining the dominant factors that drive the savings and
+investment behaviour of individuals. Two
+broad factors (economic and non-economic factors) have been identified in the
+literature to be the main drivers of household savings and investment decisions.
+Duflo & Saez (2002) however, argue that
+the economic factors such as interest rate
+levels offer limited explanations to the
+savings and investment behaviour of individuals and emphasize the need for studies
+to investigate the effect of the non-economic factors. This study contributes to literature on the non-economic factors by
+investigating the effect of financial literacy
+on savings and investment behaviour of
+
+Savings and Investment Behaviour
+
+young people. In addition, we examine the
+role of parental financial behaviour on
+savings and investment behaviour of
+young people. We argue that parents play a
+critical role in the socialization process
+and development of children and that parental financial behaviour could be an
+important predictor of financial behaviour of young people.
+The empirical analysis presented in this
+study is useful for several reasons. First,
+focusing on young people is particularly
+relevant given that while the youth are
+considered to be the backbone of every
+nation, the manner in which young people
+obtain the skills to become financially
+independent has not been the focus of
+most studies (Shim, Xiao, Barber, &
+Lyons, 2009). Second, the attempt to link
+parental financial behaviour to the savings
+and investment behaviour of their wards
+is also an important way of extending the
+literature on the determinants of savings
+and investment. This is so because, notwithstanding the fact that parents play an
+influential role in shaping the behaviour
+of children (Webley & Nyhus, 2006),
+existing studies have usually ignored the
+role of parental influence on the savings
+and investment behaviour of children.
+Third, despite the fact that studies on
+household financial behaviours exist, only
+a few studies (Kiiza & Pederson, 2006; Du
+Plessis, 2008) have provided empirical evidence to explain savings and investment
+behaviours from a developing country
+perspective. As Atkinson & Messy, (2012)
+point out, there are wide differences in
+financial behaviours within and across
+countries in the world and hence, the need
+for studies in a different context. Given
+the low savings and investments levels in
+African countries, studies from such con-
+
+Owusu et al.
+
+77
+
+texts are useful in enhancing our understanding on this important subject.
+The remaining sections of the paper are
+presented as follows: the next section reviews literature on savings and investment
+behaviour, financial literacy, parental financial behaviour and the predicted relationships among these key constructs of
+the study. This is followed by the research
+methodology, discussion of results followed by concluding remarks.
+Literature Review
+Household Savings & Investment
+Behaviour
+The term 'Saving' has been conceptualized
+to mean the commitment of sacrificing
+current consumption to allow for accumulation of capital that will yield additional return in the future (Gersovitz,
+1988). In general terms savings is a precautionary measure of setting aside current
+financial resources to cater for future financial obligations as a result of random
+and unpredictable cash inflows. Savings,
+therefore, serve as a safety haven for individuals most especially in situations where
+income is not regular and remain one of
+the important means of attaining longterm goals in life.
+Despite its importance, empirical studies
+have shown that most individuals spend
+more money than they could actually save
+(Birari & Patil, 2014; Pritchard, Myers, &
+Cassidy, 1989). This unfortunate trend in
+part has been attributed to the inability
+stick to savings plan by most individuals
+rather than the ability to save per se. The
+resultant effect is that people who practice
+savings usually save below the intended
+amount. It has been suggested in the literature that a person's ability to delay grati-
+
+African Journal of Management Research (AJMR)
+
+78
+
+Savings and Investment Behaviour
+
+2
+
+fication and exercise some level of selfcontrol is critical to maintaining a consistent savings plan (Webley & Nyhus, 2006).
+Differences, however, exist among individuals in their ability to delay gratification.
+The principle of investment on the other
+hand is the commitment of current financial resources in order to achieve higher
+gains in the future. As an activity, investment is usually carried out by individuals
+who have savings by committing these
+funds into capital assets, goods and services, having an expectation of a positive
+return in the long run (Pandey, 2004).
+Typical of any investment decision is the
+fact that the individual concern anticipates
+a certain return in future upon maturity of
+the investment product. Deciding on
+which investment product to purchase
+should therefore be backed by sound analysis of the costs and anticipated benefits
+associated with the various alternatives.
+While an attempt has been made to distinguish savings from investment, it is
+common to find the two terms being used
+interchangeably in the literature as the two
+concepts go hand in hand. compared with
+savings, investment decisions therefore
+involve a thorough estimation and careful
+planning in order to achieve the muchneeded returns. Often, these decisions are
+supported by decision tools which require
+one to be financially literate. It is therefore
+expected that an individual with the right
+financial information will be able to make
+personal investment decisions which entails trying to allocate limited resources to
+various financial products and services
+that are competing for the same limited
+
+2
+
+Owusu et al.
+
+resources considering the risks and
+returns of the alternatives available.
+Financial Literacy, Savings and
+Investment Behaviour
+The President's Advisory Council on Financial Literacy (PACFL) in 2008 conceptualized a working definition of financial
+literacy as the "knowledge of basic economic and financial concepts, as well as the
+ability to use that knowledge and other
+financial skills to manage financial resources effectively for a lifetime of financial well-being" (Schwab et al., 2008). The
+Organisation for Economic Co-operation
+and Development (OECD), on the other
+hand, defines financial literacy as "a combination of awareness, knowledge, skill,
+attitude and behaviour necessary to make
+sound financial decisions and ultimately
+achieve individual financial wellbeing"
+(OECD, 2018, p. 4). By implication, a
+financially literate person is one who possesses the knowledge and skills to make
+sound financial decisions within the financial market. The role of financial literacy
+in making effective financial decisions has
+been well acknowledged in the literature.
+Generally prior studies (de Bassa
+Scheresberg, 2013; Huston, 2010; Perry,
+2008) have found financial literacy to be
+an important predictor of financial outcomes including savings investment and
+debt behaviour.
+Within the past decade significant amount
+of research interest has been generated on
+financial literacy due to its importance on
+financial behaviour of individuals. Most
+of these studies have focused on the
+extent of literacy and the outcomes of
+
+Being able to set aside something now in order to gain something more rewarding in the future
+
+African Journal of Management Research (AJMR)
+
+Savings and Investment Behaviour
+
+financial literacy among a group of people
+within a particular domain. Hassan et al.
+(2014), for instance, investigated the impact of financial literacy on investment
+decisions of UAE citizens and found a
+significant relationship between them.
+Likewise, van Rooij, Lusardi and Alessie,
+(2011) found financial literacy to have an
+effect on stock market participation.
+Lusardi, Mitchell & Mitchell (2011) in
+their study found an association between
+financial literacy and retirement planning.
+With respect to portfolio diversification,
+Guiso & Jappelli, (2008) found measures
+of financial literacy to be highly correlated
+with the degree of portfolio diversification. Several other studies (Hastings &
+Tejeda-Ashton, 2008; van Rooij, Lusardi
+& Alessie, 2011; Hilgert et. al, 2003) also
+demonstrate that financial literacy affects
+an individual's ability to plan for retirement, manage and amass wealth, be involved in investment activities such as
+stock market participation and manage
+debt efficiently.
+Notwithstanding the surge in research interest on financial literacy over the years,
+researchers have employed different scales in measuring the concept and the
+appear not to be a consensus to date.
+Proxies such as scores on knowledge level
+and experience from positive and negative
+financial behaviours have been used as
+measures of financial literacy (Oseifuah,
+2010). This study employs the financial
+orientation (ORTOFIN) scale developed
+by Loix et al. (2005). This scale conceptualizes financial literacy as an individual's
+disposition towards finances characterized by personal interests and skills related to managing one's own finances
+effectively.
+
+Owusu et al.
+
+79
+
+While the relevance of financial literacy
+on financial behaviour of individuals is
+widely acknowledged in the literature, the
+financial behaviour of parents has been
+cited to be particularly relevant for the
+financial behaviour of young people. The
+argument is that, through the socialization
+process, young people adopt their financial behaviour from their parents. The
+next section discusses the role of parental
+influence on financial behaviour of their
+wards.
+Role of Parental Financial Behaviour
+on Financial Behaviour of Children
+It has been argued that current financial
+behaviour of an individual is usually a reflection of past exposure and generally
+has implications on future behaviour.
+Shim, Barber, Card, Xiao, & Serido, (2010)
+for instance, point out that the present financial behaviour of an individual in transition to adulthood has implications on
+his/her financial behaviour throughout
+adulthood stage. According to Drever et al.
+(2015) young people in making effective
+financial decisions such as managing resources, depend on earlier encounters
+they have experienced throughout life especially through the cognitive and conscious foundation laid by parents. Thus,
+despite the fact that behaviour is known to
+be an ever-changing phenomenon, there is
+a widely accepted notion that "past behaviour is the best predictor of future behaviour" (Ajzen, 1991, p. 201).This notion
+largely underscores the important role
+that parents play in the development process of their children. As an important
+agent in the socialization process of children, parental behaviour in all aspects of
+life including financials to a large extent
+affect the life of their children. This is
+because children tend to model their fi-
+
+African Journal of Management Research (AJMR)
+
+80
+
+Savings and Investment Behaviour
+
+nancial behaviour after their parents. In
+transitioning to become an adult, Schoeni
+& Ross (2005) indicate that that the youth
+rely more on the financial backing from
+their parents.
+As argued by Gudmunson & Danes
+(2011), while the formal means of learning plays a major role in influencing the
+behaviour of young people, it is also established that young people learn a lot
+through observation and imitation of
+older folks. This presupposes that the kind
+of financial behaviour their parents
+exhibit will indirectly affect their own
+financial behaviour as they grow. Financial
+behaviour refers to any human behaviour
+that is relevant to money management and
+include cash, credit, investment and saving
+behaviour. It covers a host of activities including savings, investment, debt management, retirement planning, insurance and
+the like.
+Empirically, Webley & Nyhus (2006)
+report that parental financial behaviour
+and financial orientation have a positive
+impact on current and future financial
+behaviour of their children. Again, Pinto
+(2005) examines credit cards usage among
+young adults and conclude that most
+young people learn more from parents
+than any other agent of socialization as far
+as credit card use is concern. According to
+Bernheim, Garrett & Maki (2001) parents
+who encourage their children to save at a
+tender age using a bank account tend to
+save more than other individuals during
+adulthood. Similarly, Gudmunson &
+Danes (2011) investigate the role of parental behaviour on financial literacy of
+children and conclude that parents play an
+influential role in the development of
+financial knowledge and skills of children.
+
+African Journal of Management Research (AJMR)
+
+Owusu et al.
+
+The above findings from existing studies
+point to the fact that parents play a crucial
+role in shaping the financial behaviour of
+their wards. Over the years, financial management discourse among the youth
+have found parents to be the first source
+of external influence in shaping the financial attitudes and behaviours of the youth
+and are widely known to be the prime
+agents of financial socialization (Clarke,
+Heaton, Israelsen, & Eggett, 2005).
+Financial socialization refers to the series
+of activities that involve attaining and
+developing attitudes, values, knowledge
+and behaviours that improve the financial
+well-being of a person (Danes, 1994).
+Financial socialization process occurs
+through experience, beliefs, values, skills
+provided within a family setting. The
+family setting is an environment that
+breeds the initiations of rules and guidelines that shape behaviour and influence
+financial decision issues. Irrespective of
+the fact that socializations occur throughout life, the early stages in life of an
+individual is generally considered to be a
+key socialization period (Shim et al., 2010).
+Methodology
+Data collection technique, research
+instrument and measurement of
+constructs
+The data for the study was collected from
+students pursuing undergraduate courses
+at University of Ghana Business School
+(UGBS). The questionnaires were administered during class sessions to afford every
+student present in class an equal chance of
+voluntary participation in the study. The
+questionnaire was divided into two sections. The first part focused on the demographic features of the respondent, including their age, gender, level of study etc.
+
+Savings and Investment Behaviour
+
+whilst the second component of the questionnaire focused on the main constructs
+of the study: savings, investment behaviour, financial literacy and parental financial behaviour. The constructs 'savings
+planning', investment behaviour and
+parental financial were each measured
+with a 7-item scale developed by Kehiaian
+(2012). The construct financial literacy
+was operationalized using the orientation
+towards finances scale (ORTOFIN) developed by Loix et al. (2005). These instruments have previously been validated by
+other studies.
+The indicators of each construct were
+measured on a 7-point Likert scale with 1
+being strongly disagree and 7 strongly
+agree. While a 5-point Likert scale is often
+employed in most social science research,
+a 7-point Likert scale gives a wider range
+of likely responses helpful in getting variability in responses and thereby avoiding
+responses being cluttered at the extreme
+ends (Lee & Lings, 2008).
+Data analysis
+The data collected was first analyzed using
+descriptive statistics and subsequently
+using inferential statistics. The descriptive
+analysis was done in Statistical Package for
+the Social Sciences (SPSS), where a numeric presentation of the features of the
+respondents and the sample data was
+generated in a table form. Subsequently,
+the study employed the Structural Equation Modelling (SEM) technique,
+specifically, The Co-Variance Based Structural Equation Modelling (CB-SEM) technique to examine the predicted relationships among the study constructs.
+SEM enables researchers to evaluate mea-
+
+Owusu et al.
+
+81
+
+surement models and structural paths
+more efficiently and provides a platform
+for effective evaluation of the overall
+fitness of the study model and structural
+paths among constructs (Hair et al., 2012).
+SEM is particularly useful in assessing
+measurement models and structural paths
+involving multiple dependent variables
+and latent construct with multi-item indicator variables. The Co-Variance Based
+SEM was employed for this study using
+version 21 of the Analysis of Moment
+Structures (AMOS) software. The study
+follows a two-step approach: measurement model and structural model as
+employed in prior studies (Hanafizadeh et
+al., 2014).
+Measurement Model
+In assessing the measurement model, the
+indicators of each construct were initially
+subjected to a Confirmatory Factor Analysis (CFA) to determine the appropriateness of the indicators of the various
+constructs for inclusion in the structural
+model analysis. Based on the CFA results
+as shown in Table 1, three indicators of
+financial literacy were excluded from the
+analysis as they recorded factor loadings
+below the recommended threshold of 0.5.
+Two indicators of savings planning and
+one indicator of parental financial behaviour equally loaded poorly and as such
+were also excluded from the final analysis.
+Next, the overall fitness of the model was
+assessed by relying on the fit indices:
+RMSEA, TLI, CFI, TLI, NFI, and
+CMIN/df as recommended by Byrne
+(2001). Results from this analysis as presented in Table 2 demonstrate that all the
+fit indexes used for the study met the
+specific thresholds recommended in
+existing studies.
+
+African Journal of Management Research (AJMR)
+
+82
+
+Savings and Investment Behaviour
+
+Owusu et al.
+
+Table 1: Confirmatory Factor Analysis
+Construct
+
+Financial Literacy
+I accurately plan my expenses
+I keep track of general economic trends
+I like to plan things
+Investment Behavior
+I have invested money into at least one investment with
+more risks than a savings account
+I use the principle of present and future value in my
+investment calculations
+I use the concept of dollar cost averaging in my
+investment planning
+I use the power of diversification in my investment planning
+I use the calculated risks in my investing strategies
+I use the principle of risk vs. return
+I feel comfortable investing my monies
+Parental Financial Behavior
+My parents budgeted on paper
+My parents saved for emergencies
+My parents made prudent financial choices
+My parents invested some of their assets into stocks
+My parents taught me good spending habits
+My parents paid off their debts within the repayment
+scheduled plan
+Savings Planning
+I save money before paying my routine expenses such as
+airtime, food, bills etc.
+I use electronic deposit from my income to fund
+savings account
+I normally have at least three months gross income
+in an emergency fund
+I have a maintenance fund for repairs and other
+periodic expenses
+My average balance in my savings account normally goes up
+
+Factor
+Loadings AVE
+
+CR
+
+CA
+
+0.72
+
+0.83
+
+0.85
+
+0.54
+
+0.78
+
+0.89
+
+0.76
+
+0.93
+
+0.82
+
+0.55
+
+0.71
+
+0.76
+
+0.85
+0.87
+0.70
+0.58
+0.79
+0.66
+0.83
+0.82
+0.80
+0.63
+0.56
+0.84
+0.83
+0.52
+0.68
+0.53
+
+0.52
+0.58
+0.74
+0.74
+0.67
+
+Legend: AVE = Average Variance Extracted; CR = composite reliability; CA = Cronbach Alpha.
+
+African Journal of Management Research (AJMR)
+
+Savings and Investment Behaviour
+
+83
+
+Owusu et al.
+
+Table 2: Model fit indices for measurement model
+Fit Indices
+
+Accepted Values
+
+Model Results Remarks
+
+Parsimony Normed
+Fit Index (PNFI)
+Root Mean Square of
+Approximation (RMSEA)
+Tucker Lewis Index (TLI)
+Comparative Fit Index (CFI)
+Goodness of fit Index (GFI)
+CMIN/DF
+
+> 0.5 (Mulaik et al., 1989)
+
+0.78
+
+Good
+
+< 0.08 (Byrne, 2001)
+
+0.06
+
+Good
+
+> .90 (Bentler and Bonett, 1980)
+> 0 .90 (Bentler, 1990)
+> 0.90 (Chau, 1997)
+< 5.0 (Bentler, 1990)
+
+0.92
+0.93
+0.91
+3.35
+
+Good
+Good
+Good
+Good
+
+Reliability and Validity
+Tests for reliability of the constructs were
+conducted using the composite reliability
+(CR) and Cronbach Alpha (CA) scores. As
+shown in Table 1, the CR and CA scores
+for each constructs are between 0.71 and
+0.93 which satisfy the recommended
+benchmark of 0.7 and above (Fornell &
+David, 1981; Nunally, 1979). Validity of
+the constructs was assessed using the
+Convergent and Discriminant validity
+tests. Convergent validity was assessed
+using the Average Variance Extracted
+(AVE) whilst the discriminant validity test
+was conducted using the Fornell Lacker
+
+criterion which compares the squared
+inter-correlation co-efficient with the
+AVE. An AVE of 0.5 and above is deemed
+appropriate for convergent validity and
+the AVE score for each construct must be
+higher than the squared inter-correlation
+co-efficient for discriminant validity to be
+assured (Fornell & David, 1981). The
+AVE values for the constructs as shown in
+Table 1 ranges from 0.54 to 0.76, which is
+within the acceptable threshold. Results
+of the Fornell Lacker test as shown in
+Table 3 also demonstrate that discriminant validity is assured.
+
+Table 3: Correlation and Correlation square matrix of latent variables
+
+FO
+IB
+PFB
+SP
+
+FO
+
+IB
+
+PFB
+
+SP
+
+1
+0.36
+0.38
+0.35
+
+0.13
+1
+0.21
+0.50
+
+0.14
+0.04
+1
+0.37
+
+0.12
+0.25
+0.14
+1
+
+NB: Values above the diagonal are squared correlations
+
+Results
+Profile of the respondents
+The target population was business students pursuing undergraduate courses at
+University of Ghana Business School
+(UGBS). UGBS is an interdisciplinary
+faculty within the College of Humanities,
+
+University of Ghana, with six departments: Accounting, Finance, Marketing,
+Human Resource, Public Administration
+and Health Service Management. It is a
+traditional aged public institution,
+Ghana's largest and premier business
+school which serves as mentoring insti-
+
+African Journal of Management Research (AJMR)
+
+84
+
+Savings and Investment Behaviour
+
+tution for several private universities in
+Ghana. A total of 700 questionnaires were
+administered to the respondents during
+classroom sessions. Out of this number,
+646 valid responses were used for data
+analysis purposes.
+Table 4 presents the demographic attributes of the respondents. More of the
+respondents were males than females. A
+little over half (53%) of the respondents
+were males with the rest being females.
+
+Owusu et al.
+
+The population is largely youthful as close
+to 90% of the students were within the age
+bracket of 21-25. With regards to having a
+form of training in Finance, majority of
+the respondent group (63.9%) indicated
+that they had received some form of
+education in Finance. Also, Final Year
+students constituted a larger proportion
+of the respondent group (33.1%), with
+majority of the students (49.1%) majoring
+in Accounting and Finance.
+
+Table 4: Profile of the Respondents
+Measure
+
+Item
+
+Frequency
+
+Percentage (%)
+
+Gender
+
+Male
+Female
+
+342
+304
+
+52.9
+47.1
+
+Age
+
+17-20
+21-25
+26-30
+31-35
+
+16
+577
+42
+11
+
+2.5
+89.3
+6.5
+1.7
+
+Training in Finance
+
+Yes
+No
+
+413
+233
+
+63.9
+36.1
+
+Major
+
+Accounting
+Finance
+Human Resource
+Public Administration &
+Health Services Management
+Marketing
+
+321
+164
+53
+49
+
+49.7
+25.4
+8.2
+7.6
+
+59
+
+9.1
+
+First Year
+Second Year
+Third Year
+Final Year
+
+142
+190
+100
+214
+
+30.6
+29.4
+15.5
+33.1
+
+Level
+
+Descriptive Statistics on Constructs
+An analysis of the respondents' views on
+the various constructs for the study is
+presented in Table 5. Financial literacy
+recorded an overall mean of 4.47. All
+indicators within the constructs had
+means above 5.0. This gives an indication
+that on average, the respondent group
+
+African Journal of Management Research (AJMR)
+
+possesses high literacy levels in financial
+issues. Investment behaviour, on the other
+hand had an overall mean of 4.02. By
+implication, the respondent group exhibit
+sound investment behaviours. Moreover,
+parental financial behaviour scored highly
+with an overall score of 4.65. This gives an
+indication that parents of the respondent
+
+Savings and Investment Behaviour
+
+group maintain good financial behaviour.
+Finally, savings planning recorded an
+overall mean 3.45 with all indicators
+recording a mean score above 3.0. Impliedly, majority of the respondents
+appear to have a good savings plan. The
+
+85
+
+Owusu et al.
+
+skewness and the kurtosis statistics indicate the values of all constructs are within
+the range of +2 and -2 implying that data
+for the constructs are generally normally
+distributed (Gravetter & Wallnau, 2014).
+
+Table 5: Mean, Standard Deviation, Kurtosis and Skewness Statistics
+Construct
+
+Mean Standard Kurtosis Skewness
+Deviation
+
+4.47
+Financial Literacy
+I never read the financial pages of my newsletter/newspaper 3.34
+4.54
+I try to keep track of general economic trends
+2.50
+I am not attracted to the financial part of my life
+I regularly look for interesting investment opportunities for 4.89
+my money
+4.77
+I am interested in the evolution of currency rates
+5.14
+I accurately plan my expenses
+4.89
+I keep track of general economic trends
+5.70
+I like to plan things
+4.02
+Investment Behaviour
+3.96
+I have invested money into at least one investment with
+more risks than a savings account
+4.14
+I use the principle of present and future value in my
+investment calculations
+I use the concept of dollar cost averaging in my investment 3.35
+planning
+I use the power of diversification in my investment planning 3.84
+4.02
+I use the calculated risks in my investing strategies
+4.10
+I use the principle of risk vs. return
+4.75
+I feel comfortable investing my monies
+
+1.81
+1.69
+1.91
+1.79
+
+0.42
+-0.33
+1.12
+-0.55
+
+-0.80
+-0.71
+-0.70
+-0.74
+
+1.73
+1.68
+1.63
+1.53
+
+-0.48
+1.21
+-0.50
+-0.27
+
+-0.64
+-1.32
+-0.52
+-0.74
+
+2.26
+
+-1.48
+
+0.02
+
+1.91
+
+-1.10
+
+-0.11
+
+1.75
+
+-0.74
+
+0.35
+
+1.87
+1.84
+1.89
+1.79
+
+-1.03
+-0.98
+-1.02
+-0.65
+
+0.01
+-0.13
+-0.17
+-0.51
+
+Parental Financial Behavior
+My parents budgeted on paper
+My parents saved for emergencies
+My parents made prudent financial choices
+My parents invested some of their assets into stocks
+My parents taught me good spending habits
+My parents paid off their mortgage/loans prior to retiring.
+My parents paid off their debts within the repayment
+scheduled plan
+
+4.65
+3.88
+5.12
+5.12
+4.14
+5.25
+4.22
+4.83
+
+1.94
+1.78
+1.71
+2.06
+1.73
+2.08
+1.98
+
+-1.15
+-0.45
+-0.15
+-1.24
+-0.08
+-0.19
+-0.83
+
+-0.02
+-0.76
+-0.16
+-0.89
+0.02
+-1.20
+-0.11
+
+Savings Planning
+I save because my budget shows a positive disposable
+income
+I save money before paying my routine expenses such as
+airtime, food, bills etc.
+I use electronic deposit from my income to fund savings
+account
+
+3.45
+3.91
+
+1.67
+
+-0.31
+
+-0.80
+
+3.90
+
+1.67
+
+-1.48
+
+-0.24
+
+3.40
+
+1.65
+
+-1.10
+
+0.03
+
+African Journal of Management Research (AJMR)
+
+86
+
+Owusu et al.
+
+Savings and Investment Behaviour
+
+Table 5: Mean, Standard Deviation, Kurtosis and Skewness Statistics
+Construct
+
+Mean Standard Kurtosis Skewness
+Deviation
+
+I normally have at least three months gross income in an
+emergency fund
+I have a maintenance fund for repairs and other periodic
+expenses
+My average balance in my savings account normally goes up
+I live for today not tomorrow
+
+3.14
+
+1.56
+
+-0.74
+
+0.19
+
+3.30
+
+1.63
+
+-1.03
+
+0.10
+
+3.90
+2.59
+
+1.52
+1.75
+
+-0.98
+0.72
+
+-0.23
+-0.77
+
+on the framework of the study as demonstrated in Figure 1 was ascertained. Results
+from the test suggest that Financial Literacy has a positive influence on savings
+(β=0.26, p-value=0.000). Likewise, Finan-
+
+Structural model results
+Having confirmed the model fitness,
+reliability and validity of the constructs,
+the causal relationships between the exogenous and endogenous constructs based
+Figure 1: Path Diagram
+p1
+
+p2
+
+p3
+
+E2
+
+p5
+
+E3
+
+p6
+
+E4
+
+p7
+
+E5
+
+p8
+
+E6
+
+p9
+
+C1
+
+p10
+
+C2
+
+p11
+
+C3
+
+p12
+
+C4
+
+p13
+
+C5
+
+p14
+
+C6
+
+p15
+
+C7
+
+p16
+
+p4
+.51
+
+B6
+
+B7
+.87
+
+.84
+
+.59
+
+B8
+
+.75
+.70
+.68
+
+Savings
+
+.26
+
+Financial
+Literacy
+
+.63
+
+.34
+
+p24
+
+p17
+.58
+.80
+
+.27
+
+.65
+
+.38
+
+.83
+
+Investment
+
+.82
+.80
+.09
+
+.63
+
+Parental
+Financial
+Behaviour
+.56
+
+.84
+
+.83
+
+.52
+
+.53
+
+.68
+
+D1
+
+D2
+
+D3
+
+D4
+
+D5
+
+D7
+
+p23
+
+p22
+
+p21
+
+p20
+
+p19
+
+p18
+
+African Journal of Management Research (AJMR)
+
+Savings and Investment Behaviour
+
+cial Literacy has positively related to
+investment (β=0.34, p-value=0.000). Parental Financial Behaviour has a positive
+association with savings (β=0.27, p-
+
+87
+
+Owusu et al.
+
+value=0.000) and investment (β=0.09, pvalue=0.05). Also, Parental Financial
+Beha-viour is positively linked to financial
+literacy (β=0.38, p-value=0.000).
+
+Table 6: Standard coefﬁcients and signiﬁcance values for hypotheses
+Hypothesis Path
+
+P Value Result
+Standard
+Co-efficient
+
+H1
+H2
+H3
+H4
+H5
+
+0.26
+0.34
+0.27
+0.09
+0.38
+
+Financial Literacy → Savings Planning
+Financial Literacy → Investment Behavior
+Parental Financial Behavior → Savings Behavior
+Parental Financial Behavior → Investment Behavior
+Parental Financial Behavior → Financial Literacy
+
+***
+***
+***
+0.05
+***
+
+Accepted
+Accepted
+Accepted
+Accepted
+Accepted
+
+NB: *** = P Value < 0.01
+
+Discussion of results
+The current study examined the impact
+of financial literacy and parental financial behaviour on the savings and investment behaviour of young adults. The
+study further explored whether the financial literacy level of young adults is in
+any way influenced by parental financial
+behaviour. In line with the prediction of
+the study, financial literacy was found to
+be positively related to both savings and
+investment behaviour of the respondents. By implication, individuals who
+are financially proficient in knowledge
+and skills have good savings plan and
+positive disposition towards investment.
+Existing studies (Lusardi, 2008b;
+Mandell & Klein, 2009; Murendo &
+Mutsonziwa, 2017) have affirmed the
+existence of a positive relationship
+between financial literacy and savings
+behaviour. Murendo & Mutsonziwa
+(2017) in particular document using data
+from a developing country setting that
+financial literacy increases the likelihood
+to save through both formal and informal savings mechanisms. Thus, in the
+
+context of developing economies financial literacy do not only affect the savings
+behaviour of individuals in the formal
+sector (who are usually in the minority)
+but also matters for the majority of
+individuals in the informal space who
+use informal savings portfolios.
+Similarly, our finding of a positive relationship between financial literacy and
+investment behaviour is an indication
+that financially literate individuals tend
+to engage more in responsible investment behaviour than their peers. As explained by Grohmann, Kouwenberg, &
+Menkhoff (2015) financial literacy increases significantly the chances of an
+individual investing in an investment
+product. Reference to stock market investment, Yoong (2011) for instance
+confirms that individuals with some
+degree of knowledge in financial matters are more likely to invest in stocks
+and mutual funds. Several empirical studies (Balloch, Nicolae, & Philip, 2015;
+Hastings & Tejeda-Ashton, 2008) generally support the assertion that financial
+African Journal of Management Research (AJMR)
+
+88
+
+Savings and Investment Behaviour
+
+literacy positively correlates with
+responsible investment behaviour. Taken together, our results suggest that an
+important way of promoting savings
+and investment habit among individuals
+is to enhance their levels of financial
+literacy. Policy initiatives meant to enhance literacy rates are therefore important in shaping the financial decisions of
+individuals.
+The effect of parental financial behaviour on our variables of interest also
+yielded very satisfactory results. We observe from the results that parental financial behaviour has a positive effect
+on the financial literacy. This finding
+underscores the relevance of parental
+behaviour on the financial life of their
+wards. The ability of young people to
+appreciate financial concepts, plan their
+finances, the capacity to understand financial services and products in part
+could be linked with the exposure at
+home. Thus, the actions and inactions
+of parents play a crucial role in nurturing
+the financial knowledge and skills of
+their children. Being financially literate is
+therefore not obtained through the formal education system alone but could be
+developed informally through the socialization process. This finding is
+consistent with results from existing
+studies that associate parental financial
+behaviour with financial knowledge of
+their wards (Jorgensen & Savla, 2010;
+Shim et al., 2010).
+Lastly, we also find parental financial
+behaviour to be positively associated
+with both savings and investments
+behaviour of young adult. This implies
+African Journal of Management Research (AJMR)
+
+Owusu et al.
+
+that parental financial behaviour can
+influence the savings and investment
+decisions of their children both positively and negatively. Parents who exhibit good financial behaviour at home are
+more likely to influence their kids to be
+financially responsible when they become adults. While Grohmann et al.
+(2015) associate parental teaching for instance to be indirectly related to investment behaviour, our findings suggest
+the existence of a direct relationship
+between the two constructs. This finding is in line with other existing studies
+(Cude et al., 2006; Hira, Sabri & Loibl,
+2013; Webley & Nyhus, 2006) that
+conclude that parental financial behaviour is an important predictor of savings and investment decisions of individuals.
+Conclusion
+In this paper we examine the savings and
+investment behaviour of young adults,
+their levels of financial literacy and ascertain whether financial literacy is an
+important predictor of savings and investment behaviour. We further examine the role of parental financial behaviour on financial literacy, savings and
+investment behaviour of young people.
+The evidence from our structural model
+analysis suggests that, parental financial
+behaviour has a positive influence on
+financial literacy, savings and investment
+behaviour of young people. Moreover,
+financial literacy is also observed to be a
+good predictor of the savings and investment behaviour of young people.
+Given the increasing levels of debt
+among the youthful population across
+
+Savings and Investment Behaviour
+
+the globe coupled with the low savings
+and poor investment attitude among the
+youth, this study attempts to share some
+perspective on the factors that promote
+responsible savings and investment
+behaviour. In particular, we examine the
+effect of some non-economic factors
+(financial literacy and parental financial
+behaviour) on the savings and investment behaviours unlike most existing
+studies that focused predominantly on
+the influence of economic factors. The
+evidence provided in this study is
+important to policy makers interested in
+promoting savings and investment behaviour among its people, especially
+those from developing countries where
+savings and investment culture is poor.
+Based on the results of the study, we
+argue that an important way of encouraging people to save and invest at an
+early stage in life is to enhance their
+literacy levels in financial matters.
+
+Owusu et al.
+
+89
+
+strate that the level of financial literacy
+younger folks could be enhanced through informal mechanisms such as parental behaviour. The findings of this
+study are therefore useful not to policy
+makers on the national stage alone but
+also to parents interested in securing the
+financial wellbeing of their children. As
+the results demonstrate the financial
+behaviour of parents plays a critical role
+in shaping the financial behaviour of
+their children. The results thus, emphasize the need for parents to recognize
+that they play a critical role in the
+financial socialization process of their
+wards. An important way of securing the
+financial future of children will be for
+parents to practice proper financial behaviour at home for their wards to
+emulate.
+
+Given that the level of financial literacy
+in most developing countries is generally
+low, intervention policies such as financial educational campaigns could be implemented on a national scale to promote proper financial behaviour (such
+as savings and investment) among the
+youth. Besides formal intervention strategies such as financial educational campaigns, results of this study also demon-
+
+While these results provide some useful
+insights into the savings and investment
+behaviour of young people and the predictors of such behaviours, the sample
+used for the study though large was
+localized to one university and this may
+limit the extent of generalization. Again,
+the study considered the effect of only
+two non-economic factors: financial literacy and parental financial behaviour
+on savings and investment behaviour.
+These limitations provide important
+avenues for future studies.
+
+REFERENCES
+Agarwalla, S. K., Barua, S. K., Jacob, J., &
+Varma, J. R. (2015). Financial literacy among
+working young in urban India. World
+Development, 67, 101-109.
+Ajzen, I. (1991). The theory of planned
+
+behavior. Orgnizational Behavior and Human
+Decision Processes, 50, 179–211.
+Atkinson, A., & Messy, F. (2012). Measuring
+financial literacy: Results of the OECD/International Network on Financial Education (INFE)
+
+African Journal of Management Research (AJMR)
+
+90
+
+Savings and Investment Behaviour
+
+Pilot Study. OECD Working Papers on Finance,
+Insurance and Private Pensions, No.
+Bernheim, B. D., Garrett, D. M., & Maki, D. M.
+(2001). Education and Savings: The LongTerm Effects of High School Financial
+Curriculum Mandates. Journal of Public
+Economics, (3), 1–44.
+Balloch, A., Nicolae, A., & Philip, D. (2015).
+Stock market literacy, trust, and participation. Review of Finance, 19(5), 1925-1963.
+Berry, J., Karlan, D., & Pradhan, M. (2018).
+The impact of financial education for youth
+in Ghana. World Development, 102, 71-89.
+Birari, A., & Patil, U. (2014). Spending &
+Saving Habits of Youth in the City of
+Aurangabad. The SIJ Transactions on Industrial,
+Financial & Business Management, 2(3),
+158–165.
+Bryne, B. M. (2001). Structural equation modeling with AMOS: Basic concepts, applications and programming. New Jersy, NJ:
+Lawrence Erlbaum Associates Inc.
+Clarke, M. C., Heaton, M. B., Israelsen, C. L., &
+Eggett, D. L. (2005). The acquisition of family financial roles and responsibilities.
+Family and Consumer Sciences Research Journal,
+33(4), 321–340.
+Cude, B., Lawrence, F., Lyons, A., Metzger, K.,
+LeJeune, E., Marks, L., & Machtmes, K.
+(2006). College Students and Financial Literacy: What They Know and What We Need
+to Learn. Eastern Family Economics and Resource Management Association, 102–109.
+Danes, S. M. (1994). Parental Perceptions of
+Children's Financial Socialization. Financial
+Counseling and Planning, 5, 127–149.
+de Bassa Scheresberg, C. (2013). Financial literacy and financial behavior among young
+adults: Evidence and implications. Numeracy, 6(2), 5.
+Drever, A. I., Odders-White, E., Kalish, C. W.,
+Else-Quest, N. M., Hoagland, E. M., &
+Nelms, E. N. (2015). Foundations of financial well-being: Insights into the role of executive function, financial socialization, and
+experience-based learning in childhood and
+youth. Journal of Consumer Affairs, 49(1),
+13–38.
+
+African Journal of Management Research (AJMR)
+
+Owusu et al.
+
+du Plessis, G. (2008). An Exploration of the
+Determinants of South Africa ' s Personal
+Savings Rate - Why do South African
+Households Save so Little?, (November),
+1–129.
+Duflo, E., & Saez, E. (2002). Participation and
+investment decisions in a retirement plan:
+The influence of colleagues' choices. Journal
+of Public Economics, 85(1), 121–148.
+Fornell, C., & David, L. F. (1981). Structural
+Equation Models With Unobservable Variables and Measurement Error : Algebra
+and Statistics, 18(3), 382–388.
+Gersovitz, M. (1988). Saving and development. Handbook of Development Economics,
+1(1986), 381–424.
+Gravetter, F. J., & Wallnau, L. B. (2014).
+Introduction to the t statistic. Essentials of
+Statistics for the Behavioral Sciences, 8, 252.
+Grohmann, A., Kouwenberg, R., & Menkhoff,
+L. (2015). Childhood roots of financial literacy. Journal of Economic Psychology, 51, 114133.
+Gudmunson, C. G., & Danes, S. M. (2011). Family Financial Socialization: Theory and
+Critical Review. Journal of Family and Economic
+Issues, 32(4), 644–667.
+Guiso, L., & Jappelli, T. (2008). Financial
+Literacy and Portfolio Diversification. EUI Working Papers.
+Hair, J. F., Sarstedt, M., Ringle, C. M., & Mena,
+J. A. (2012). An assessment of the use of
+partial least squares structural equation modeling in marketing research. Journal of the
+Academy of Marketing Science, 40(3), 414– 433.
+Hanafizadeh, P., Behboudi, M., Koshksaray, A.
+A., & Tabar, M. J. S. (2014). Mobile-banking
+adoption by Iranian bank clients. Telematics
+and Informatics, 31(1), 62–78.
+Harrod, R. F. (2016). An Essay in Dynamic
+Theory. The Economic Journal, 49(193),
+49–33.
+Hassan, H. A., Tamimi, A., Anood, A., Kalli,
+B., Al-tamimi, H. A. H., Anood, A., & Kalli,
+B. (2014). Financial literacy and investment
+decisions of UAE investors.
+Hastings, J. S., & Tejeda-Ashton, L. (2008).
+Financial Literacy, Information, and Demand
+
+Savings and Investment Behaviour
+
+Elasticity: Survey and Experimental Evidence
+from Mexico. NBER Working Paper.
+Hira, T. K., Sabri, M. F., & Loibl, C. (2013).
+Financial socialization's impact on investment orientation and household net worth.
+International Journal of Consumer Studies, 37(1),
+29–35.
+Huston, S. J. (2010). Measuring Financial
+Literacy. The Journal of Consumer Affairs,
+44(2), 296–316.
+Jappelli, T., & Padula, M. (2013). Investment in
+financial literacy and saving decisions. Journal of Banking and Finance, 37(8), 2779–2792.
+Jonubi, A., & Abad, S. (2013). The impact of
+financial literacy on individual saving: an
+exploratory study in the Malaysian context.
+Transformations in Business & Economics, 12(1),
+28.
+Jorgensen, B. L., & Savla, J. (2010). Financial
+Literacy of Young Adults : The Importance
+of Parental Socialization, 59(4), 465–478.
+Kehiaian, S. E. (2012). Factors and behaviors that
+influence financial literacy in US households. Nova
+Southeastern University.
+Kiiza, B., & Pederson, G. D. (2006). Savings
+and asset allocation of households in
+Uganda. Agricultural finance review, 66(2), 283295.
+Lee, N., & Lings, I. (2008). Doing business research: A guide to theory and practice. Sage.
+Loayza, N., Schmidt-Hebbel, K., & Servén, L.
+(2000). Saving in developing countries: An
+overview. The World Bank Economic Review,
+14(3), 393–414.
+Loibl, C., Kraybill, D. S., & DeMay, S. W.
+(2011). Accounting for the role of habit in
+regular saving. Journal of Economic Psychology,
+32(4), 581-592.
+Loix, E., Pepermans, R., Mentens, C., Goedee,
+M., & Jegers, M. (2005). Orientation Toward
+Finances: Development of a Measurement
+Scale. Journal of Behavioral Finance, 6(4),
+192–201.
+Lusardi, A., & Mitchell, O. S. (2008). Planning
+and financial literacy: How do women fare?
+American Economic Review, 98(2), 413–417.
+Lusardi, A., Mitchell, O. S., & Curto, V. (2010).
+Financial Literacy among the Young. The
+
+Owusu et al.
+
+91
+
+Journal of Consumer Affairs, 44(2), 358–380.
+Lusardi, A., & Mitchell, O. S. (2011). Financial
+literacy and planning: Implications for retirement
+wellbeing (No. w17078). National Bureau of
+Economic Research.
+Mandell, L., & Klein, L. S. (2009). The Impact
+of Financial Literacy Education on Subsequent Financial Behavior. Journal of Financial
+Counseling and Planning, 20(206), 15–24.
+Murendo, C., & Mutsonziwa, K. (2017). Financial literacy and savings decisions by
+adult financial consumers in Zimbabwe.
+International Journal of consumer studies, 41(1),
+95-103.
+Nunnally, J. C. (1978). PsychometricTheory.
+McGraw-Hill, NewYork, NY.
+OECD (2018), OECD/INFE Toolkit for
+Measuring Financial Literacy and Financial
+Inclusion.
+Oquaye, M., Owusu, G.M.Y. and Bokpin, G.A.
+(2020). The antecedents and consequence
+of financial well-being: a survey of parliamentarians in Ghana. Review of Behavioral
+Finance, Vol. ahead-of-print No. ahead-ofprint.
+Oseifuah, K. E. (2010). Financial literacy and
+youth entrepreneurship in South Africa.
+African Journal of Economic and Management
+Studies, 1(2), 164–182.
+Perry, G. V. (2008). Is Ignorance Bliss ? Consumer Accuracy in Judgments about Credit
+Ratings. The Journal of Consumer Affairs,
+42(2), 189–205.
+Pinto, M. B. (2005). Information Learned
+From Socialization Agents: Its Relationship
+to Credit Card Use. Family and Consumer
+Sciences Research Journal, 33(4), 357–367.
+Prawitz, A. D., Garman, E. T., Sorhaindo, B.,
+Neill, B. O., & Kim, J. (2006). In Charge
+Financial Distress / Financial Well-Being
+Scale : Development , Administration , and
+Score Interpretation, (732), 34–50.
+Pritchard, M. E., Myers, B. K., & Cassidy, D. J.
+(1989). Factors associated with adolescent
+saving and spending patterns. Adolescence,
+24(95).
+Schoeni, R. F., & Ross, K. E. (2005). Material
+assistance from families during the transition to
+
+African Journal of Management Research (AJMR)
+
+92
+
+Savings and Investment Behaviour
+
+adulthood. University of Chicago Press.
+Schwab, C., Iannicola Jr, D., Beck, T., Hira, T.,
+Bryant, J. H., Parker, J., ... & Dawson, C.
+(2008). President's Advisory Council on
+Financial Literacy. Annual Report to the
+President. Washington: The Department of the
+Treasury.
+Shim, S., Barber, B. L., Card, N. A., Xiao, J. J., &
+Serido, J. (2010). Financial Socialization of
+First-year College Students: The Roles of
+Parents, Work, and Education. Journal of
+Youth and Adolescence, 39(12), 1457–1470.
+Shim, S., Xiao, J. J., Barber, B. L., & Lyons, A. C.
+(2009). Pathways to life success: A conceptual model of financial well-being for young
+adults. Journal of Applied Developmental Psychology, 30(6), 708–723.
+Solow, R. M. (1956). A contribution to the
+
+African Journal of Management Research (AJMR)
+
+Owusu et al.
+
+theory of economic growth. The Quarterly
+Journal of Economics, 70(1), 65-94.
+van Rooij, M., Lusardi, A., & Alessie, R. (2011).
+Financial literacy and stock market participation. Journal of Financial Economics, 101(2),
+449–472.
+Webley, P., & Nyhus, E. K. (2006). Parents'
+influence on children's future orientation
+and saving. Journal of Economic Psychology,
+27(1), 140–164.
+Yoong, J. K. (2011) Financial illiteracy and
+stock market participation: Evidence from
+the RAND American life panel. In:
+Mitchell, O. S., Lusardi, A. (eds) Financial
+literacy: implications for retirement security
+and financial marketplace. Oxford University Press, Oxford, pp 76–97
+
+

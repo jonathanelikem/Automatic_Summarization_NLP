@@ -1,0 +1,1706 @@
+Managing Sport and Leisure
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rmle21
+
+The nexus amongst financial literacy, financial
+behaviour and financial well-being of professional
+footballers in Ghana
+Godfred Matthew Yaw Owusu, Theodora Aba Abekah Koomson, Afua Achiaa
+Boateng & George Nana Agyekum Donkor
+To cite this article: Godfred Matthew Yaw Owusu, Theodora Aba Abekah Koomson, Afua
+Achiaa Boateng & George Nana Agyekum Donkor (2023): The nexus amongst financial literacy,
+financial behaviour and financial well-being of professional footballers in Ghana, Managing
+Sport and Leisure, DOI: 10.1080/23750472.2023.2248150
+To link to this article: https://doi.org/10.1080/23750472.2023.2248150
+
+Published online: 18 Aug 2023.
+
+Submit your article to this journal
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rmle21
+
+MANAGING SPORT AND LEISURE
+https://doi.org/10.1080/23750472.2023.2248150
+
+The nexus amongst ﬁnancial literacy, ﬁnancial behaviour and
+ﬁnancial well-being of professional footballers in Ghana
+Godfred Matthew Yaw Owusua, Theodora Aba Abekah Koomsona, Afua Achiaa Boatengb and
+George Nana Agyekum Donkorc
+a
+
+Department of Accounting, University of Ghana Business School, University of Ghana, Legon-Accra, Ghana; bUniversity
+of Ghana Business School, University of Ghana, Legon-Accra, Ghana; cECOWAS Bank for Investment and Development
+(EBID), Lome, Togo
+ABSTRACT
+
+Purpose: This paper examines the ﬁnancial literacy, ﬁnancial behaviour, and
+ﬁnancial well-being of professional footballers in Ghana, and the
+interrelationships amongst these constructs.
+Methodology: A cross-sectional survey was conducted using 300 professional
+footballers from the Ghana Premiere League and the hypothesized
+relationships were tested using the partial least squares, structural equation
+modelling technique.
+Findings: The results indicate low levels of ﬁnancial literacy, and poor ﬁnancial
+behaviour among footballers. The results suggest that to promote responsible
+ﬁnancial behaviour amongst footballers, enhancing their ﬁnancial literacy is
+key. We ﬁnd very strong support for the argument that responsible ﬁnancial
+behaviour, proxied in this study by savings and investment behaviour, is key
+to attaining ﬁnancial wellness in life.
+Practical Implications: The ﬁndings suggest that targeted policy initiatives
+aimed at enhancing the ﬁnancial well-being of footballers should begin with
+investing in training programmes to make them ﬁnancially literate. In
+addition, practical ﬁnancial guidance should be given to footballers to help
+shape their ﬁnancial behaviour.
+Contribution: Prior studies on ﬁnancial literacy, ﬁnancial behaviour, and
+ﬁnancial well-being have focused predominantly on professionals with
+industrial jobs. This paper extends knowledge in the ﬁeld with some new
+insights from professional footballers.
+
+Introduction
+In many parts of the world especially in Europe,
+China and the United States, footballers are
+among the highest-paid sportsmen, and compared with other professions, their compensation packages are, by far, better. Footballers
+have consistently been listed among the top
+highest-paid athletes in the world for years. A
+May 2023 Forbes report lists three football
+
+CONTACT Godfred Matthew Yaw Owusu
+
+gmowusu@gmail.com
+
+© 2023 Informa UK Limited, trading as Taylor & Francis Group
+
+ARTICLE HISTORY
+
+Received 17 January 2023
+Accepted 11 August 2023
+KEYWORDS
+
+Professional footballers;
+ﬁnancial literacy; ﬁnancial
+behaviour; ﬁnancial wellbeing
+
+stars Christiano Ronaldo, Lionel Messi and
+Kylian Mbappe as the top three highest-paid
+athletes in the world with pre-tax revenues of
+$136 million, $130 million, and $120 million
+respectively (Knight, 2023). The unfortunate
+reality, however, is that the retirement experiences of many former professional footballers
+have been awful. Within the sports media landscape, there have been reported cases of once-
+
+Little Legon, University of Ghana, Legon, Accra Ghana
+
+2
+
+G. M. Y. OWUSU ET AL.
+
+wealthy footballers who have gone bankrupt
+soon upon retirement (Balliauw & Van Den
+Spiegel, 2018; Dean, 2013; Kuper, 2013; Pagliarini, 2013; Preston, 2013; Roddy, 2021). For
+instance, ex-England and Manchester United
+star, Wes Brown, was declared bankrupt in
+April 2023 despite earning about 50,000 Euros
+a week while in active play. John Arne Riise,
+ex-Liverpool and AS Roma star, Celestine
+Babayaro of Chelsea and Paul Merson of
+Arsenal were all wealthy footballers who went
+bankrupt upon retirement. Indeed, cases of
+several footballers who are unable to cater for
+the necessities of life soon after their active
+football years have been on the ascendency.
+According to Barth et al. (2021), this unfortunate situation, in part, stems from the fact that
+the danger of falling into a professional void is
+high among footballers given that, like most
+other sports, the skills acquired in football are
+not easily transferable to other non-sporting
+occupations. Against the backdrop that the
+availability of job positions in football is also
+very limited, most footballers ﬁnd themselves
+in a situation in which they earn very high
+income during their active career period and
+face a high degree of income uncertainty upon
+retirement (Barth et al., 2021). While the eﬀect
+of this uncertainty on post-retirement life
+cannot be underestimated, the lifestyle of footballers (during the active playing period and
+upon retirement) has also been highlighted by
+several reports to be a key driver of the
+ﬁnancial mess that some footballers have
+gotten themselves into. Indeed, Law et al.
+(2021) point out that the pressure to feel
+accepted by others pushes some professional
+footballers to live above their means to portray
+a particular image deemed acceptable by
+society. Again, there have been reported cases
+of footballers engaging in very irresponsible
+ﬁnancial behaviours including gambling, spending on luxurious brands, lavish parties and generally maintaining what can be described as an
+expensive and highly unsustainable lifestyle.
+Given that the lack of ﬁnancial knowledge has
+
+often been associated with the ﬁnancial behaviour of individuals (Chhatwani & Mishra, 2021;
+Oquaye et al., 2022; Owusu et al., 2022), this
+study investigates the level of ﬁnancial literacy
+of professional footballers and ascertains its
+impact on both their ﬁnancial behaviour and
+ﬁnancial well-being.
+The motivation to examine these constructs
+focusing on professional footballers is two-fold.
+First, while concerns have been raised about
+the ﬁnancial literacy levels of most individuals,
+it has been documented that the challenge is
+more pronounced with professional sportsmen,
+particularly footballers (Churro, 2022; Moolman,
+2022). For instance, unlike professionals in
+other industrial jobs, footballers have a relatively
+shorter time to work actively before retirement
+and also, their lives are often so structured that
+they are left with less time to plan and take
+ﬁnancial initiatives. Moreover, many footballers
+start their professional careers as teenagers
+and more often than not without any ﬁnancial
+literacy skills to manage their incomes.
+Second, unlike other professionals, it is
+diﬃcult for footballers to take up other jobs
+as additional sources of income in their active
+days or transition into other jobs upon retirement. The explanation is that most footballers
+start their professional careers at an early
+stage when their peers are still schooling.
+This makes them less qualiﬁed to gain employment in other industrial jobs when their football
+career is over (Curran, 2015). Again, not only do
+footballers retire at an earlier age than their
+peers in other industrial jobs but in some
+instances, their career ends prematurely due
+to long-term injury and other career trajectories
+such as not getting regular playing time, falling
+out of favour with a new manager, and getting
+their contract terminated abruptly (Roderick,
+2006). Therefore, the risk of falling into
+ﬁnancial trouble is high based on the peculiar
+challenges associated with their profession.
+Motivated by these needs, this study
+attempts to examine the ﬁnancial literacy
+levels of professional footballers and explore
+
+MANAGING SPORT AND LEISURE
+
+its linkages with their ﬁnancial behaviour. The
+study additionally ascertains if ﬁnancial literacy
+and ﬁnancial behaviour may be good predictors of the ﬁnancial well-being of footballers.
+The analysis we present is relevant given that
+despite the unique challenges that confront
+footballers, very few studies, to date, have
+examined the concept of ﬁnancial literacy and
+ﬁnancial behaviour and how they impact the
+ﬁnancial well-being of sportsmen, particularly
+footballers. Again, the few studies that have
+examined ﬁnancial well-being in the ﬁeld of
+sports have focused mainly on sports clubs
+and groups but not on individual sportsmen,
+especially footballers with data predominantly
+from the developed world (Nanda & Banerjee,
+2021; Stewart, 2017). This study contributes to
+the existing research by providing insights
+into the ﬁnancial well-being of professionals
+from the perspective of footballers employing
+data from a developing country context. To
+practice, the ﬁndings of this study highlight
+some relevant mechanisms that can be used
+to enhance the ﬁnancial well-being of footballers. The rest of the paper is organized as
+follows, the next section presents a review of
+the constructs of interest and the hypotheses
+developments. The subsequent sections
+discuss the methods employed in achieving
+the study objectives and the discussion of the
+study ﬁndings. The paper ends with some concluding remarks, practical implications and suggestions for future research.
+
+Literature review
+Financial literacy
+Financial literacy (FL) has been conceptualized
+by Remund (2010) as the ability to use the
+needed knowledge and skills to manage one’s
+ﬁnancial resources eﬀectively to improve
+welfare in the future. According to Jappelli and
+Padula (2013), FL is a measure of how well an
+individual can understand and use information
+related to ﬁnance. Llewellyn (2012) considers FL
+
+3
+
+to involve an individual’s ability to interpret
+and understand basic ﬁnancial concepts and to
+apply knowledge to make informed decisions.
+To Mahendru (2020) FL is a skill that allows
+people to make decisions aimed at the
+eﬀective management of money through appropriate short-term decision-making and long-term
+planning. The OECD conceptualizes FL as “the
+ability to use knowledge and skills to manage
+ﬁnancial resources eﬀectively for a lifetime of
+ﬁnancial well-being”. From these deﬁnitions, FL
+involves being knowledgeable in matters of
+ﬁnance and the application of ﬁnancial knowledge in making ﬁnancial decisions.
+Shuttleworth (2011) emphasizes that individuals who are less ﬁnancially literate might feel
+overwhelmed and uncertain when confronted
+with highly complex ﬁnancial information.
+Financial illiteracy can be considered as a communication barrier, similar to bad connections,
+poor acoustics or any other distraction that
+leads to uncertainty in making ﬁnancial
+decisions. To Robb and Woodyard (2011), learning how to manage money is as important as
+learning how to make it.
+
+Financial behaviour
+Kholilah and Iramania (2014) deﬁne ﬁnancial
+behaviour (FB) as “one’s ability to regulate planning, budgeting, checking, managing, controlling, searching and storing daily funds”. FB can
+be viewed through concepts such as spending
+and saving habits, borrowing patterns, budgeting level and access to ﬁnancial products.
+While Özmete (2019) suggests FB is relevant to
+money management and includes cash, credit,
+saving and investing behaviour, Tezel (2015)
+argues that FB goes beyond one’s ability to
+manage such ﬁnancial processes. FB also
+involves understanding the overall impacts of
+ﬁnancial decisions on one’s circumstances and
+making the right decisions related to these
+ﬁnancial processes. As a concept, FB has frequently been measured by reference to the
+savings and investment behaviour of people.
+
+4
+
+G. M. Y. OWUSU ET AL.
+
+According to Dholakia et al. (2016), savings
+behaviour refers to the individual’s activities
+to save money, some of which are habitual
+and routinized, while others are opportunistic
+and intentional, incorporated into his or her
+lifestyle. Savings behaviour is nurtured from
+day-to-day actions, that promote savings or a
+saving lifestyle and it is usually constructed
+over time (Nenkov et al., 2008; Ponchio et al.,
+2019; Shockey & Seiling, 2004). Investment
+behaviour, on the other hand, is formed when
+individuals make a conscious eﬀort to commit
+some amount of money for future use to preserve the value and earn some returns.
+Several factors have been associated with the
+investment behaviour of people such as attitude, demographic characteristics, social
+status, and the personality type of an individual
+(Akhtar et al., 2018; Kannadhasan et al., 2016;
+Kappal & Rastogi, 2020; Parsaeemehr et al.,
+2013; Zarri & Bucciol, 2017). In recent times,
+the FB of individuals has become a topical
+issue following the ﬁnancial turmoil that hit
+the world which aﬀected the savings and
+investment behaviour of people (Castro-González et al., 2020).
+
+Financial well-being
+Financial well-being, according to Kempson
+and Poppe (2018) is the extent of control an
+individual has over daily expenses, the capacity
+to absorb ﬁnancial shocks and meet future
+needs; and have some degree of freedom to
+make choices that permit enjoyment of life.
+The Consumer Financial Protection Bureau
+(CFPB), alternatively, deﬁnes ﬁnancial wellbeing as a state of being wherein a person
+can fully meet current and ongoing ﬁnancial
+obligations, can feel secure in their ﬁnancial
+future, and can make choices that allow enjoyment of life. From these deﬁnitions, a good
+measure of ﬁnancial well-being should
+not only concentrate on meeting present
+needs, but also examine the ability of an individual to meet future ﬁnancial commitments.
+
+The emphasis is therefore placed on the individual’s future resilience to experience
+ﬁnancial well-being (Oquaye et al., 2022).
+Generally, ﬁnancial well-being can be
+measured on situational (objective) and psychological (subjective) dimensions. Whereas objective measurements such as income and wealth
+can aﬀect an individual’s sense of well-being,
+subjective ﬁnancial well-being encompasses an
+individual’s satisfaction with the income or
+wealth acquired. Subjective ﬁnancial well-being
+is, therefore, a more comprehensive measure
+of ﬁnancial well-being because it includes an
+internal and individual assessment of the
+amount of a person’s ﬁnancial resources (Taft
+et al., 2013).
+
+Conceptual framework and hypothesis
+development
+The conceptual framework used in the study
+(shown in Figure 1) was developed drawing
+from models in the existing literature that had
+similar objectives as the study. The conceptual
+framework is a pictorial representation of the
+relationship among the constructs of interest.
+Based on the conceptual framework (Figure
+1), the study tests the hypotheses that
+ﬁnancial literacy will impact the ﬁnancial behaviour of individuals, and consequently, impact
+ﬁnancial well-being.
+
+Financial literacy and ﬁnancial
+behaviour
+Individuals with better knowledge and understanding of ﬁnancial concepts tend to exhibit
+responsible ﬁnancial behaviours such as
+saving money and investing some money for
+the future (Zulaihati et al., 2020). Individuals
+with greater ﬁnancial literacy are more likely
+to pay bills on time, save some of their earnings,
+manage credit cards wisely, participate in
+ﬁnancial markets and invest in stocks and
+other ventures (Lusardi et al., 2010). Robb and
+Woodyard (2011) provide evidence that good
+
+MANAGING SPORT AND LEISURE
+
+5
+
+Figure 1. Conceptual framework.
+
+ﬁnancial behaviour is subjectively and objectively inﬂuenced by a higher level of ﬁnancial
+literacy. Jamal et al. (2015) speciﬁcally conclude
+that ﬁnancial literacy impacts saving behaviour
+positively. de Bassa Scheresberg (2013) also
+reports that ﬁnancial literacy has a positive
+inﬂuence on ﬁnancial behaviour, translating
+into saving for emergencies, saving for day-today activities and investing for later use. Atia
+(2012) points out that ﬁnancial literacy has the
+potential to reduce the likelihood of individuals
+getting trapped in unscrupulous practices and
+hence, such individuals are likely to have
+enough to save and invest for future needs.
+In this study, we posit that ﬁnancially literate
+footballers will have a better understanding of
+managing their incomes. Such individuals will
+know the need to cultivate good savings
+habits which could transcend into responsible
+investment behaviours. Thus, their levels of
+ﬁnancial literacy will impact positively their
+ﬁnancial behaviour such as savings and investment behaviour. Kumar et al. (2018); Allgood &
+Walstad (2016); Bannier & Neubert (2016) highlight a positive relationship between ﬁnancial
+literacy and ﬁnancial behaviour for diﬀerent
+groups of individuals. Similar to these studies,
+we hypothesize that ﬁnancial literacy positively
+impacts the ﬁnancial behaviour of footballers in
+Ghana speciﬁcally their savings and investment
+behaviour.
+
+Financial behaviour and ﬁnancial wellbeing
+A healthy balance between spending and
+savings is imperative for sustaining ﬁnancial
+well-being in the long run (Van Praag et al.,
+2003). A higher propensity to save could
+result in improved bargaining power or
+decision-making authority (Schaner, 2017),
+lower possibilities of selling assets to meet
+ﬁnancial emergencies (Jack & Suri, 2014),
+increased productivity, and ultimately better
+ﬁnancial well-being (Kempson et al., 2013).
+Being aware of one’s ﬁnancial behaviour is
+necessary to enhance one’s future ﬁnancial prospects. As asserted by Netemeyer et al. (2018),
+Huston (2010) and Perry and Morris (2005),
+ﬁnancial well-being is an outcome of the investment behaviour of individuals.
+Studies have examined various antecedents
+to ﬁnancial well-being including money attitudes, self-management, ﬁnancial resilience,
+ﬁnancial capability, and ﬁnancial inclusion. In
+this study, the focus is given to the ﬁnancial
+behaviour of footballers in Ghana and their
+levels of ﬁnancial literacy as key contributors to
+the ﬁnancial well-being of footballers. Hong
+and Coﬀee (2018) report that most sportsmen
+are often given psychological support, career
+planning, academic advice, and job preparation
+but not support concerning ﬁnancial literacy.
+
+6
+
+G. M. Y. OWUSU ET AL.
+
+Moreover, Hong and Fraser (2021) and Moolman
+(2022) highlight the importance of ﬁnancial literacy in assisting sportsmen to live quality lives
+and attain sustainable ﬁnancial well-being.
+Some footballers are reported to have made critical ﬁnancial errors such as investing unwisely
+due to poor ﬁnancial literacy and inappropriate
+ﬁnancial behaviour (Hong & Fraser, 2021).
+The study argues that footballers with basic
+knowledge of money management and the
+ability to exhibit responsible ﬁnancial behaviour are likely to meet immediate needs and
+potentially prepare for long-term needs,
+which enhances their ﬁnancial well-being. Evidence of the positive relationship between
+ﬁnancial behaviour and ﬁnancial well-being is
+seen in the reported ﬁndings of existing
+studies that suggest that ﬁnancial behaviour
+plays a crucial role in helping individuals to
+achieve ﬁnancial well-being (Brüggen et al.,
+2017; Oquaye et al., 2022; Serido et al., 2010;
+Shim et al., 2009; Xiao et al., 2011). Similarly,
+in this study, we posit that two dimensions of
+ﬁnancial behaviour, savings, and investment
+behaviour, are key to the ﬁnancial well-being
+of footballers. Hence, the study hypothesizes a
+positive and signiﬁcant relationship between
+savings and investment behaviour and
+ﬁnancial well-being.
+
+Methodology
+Research design, research instrument
+and data collection
+The study adopts a quantitative approach by
+employing the survey research design. All registered professional football players with clubs
+that competed in the 2020 Ghana Premier
+League (GPL) constituted the population of
+the study. The GPL commenced in December
+1993 in six league centres across Ghana (GFA,
+2013). Currently, the GPL has a total of 18
+premier league clubs registered for the 2022/
+2023 season with a total of 480 registered footballers. Compared with clubs in Europe,
+
+England, Asia and even many parts of Africa,
+the net worth of Ghanaian clubs is very low.
+Revenues from international transfers which
+constitute an important funding source for
+most Ghanaian clubs have been very low over
+the years. For instance, the Federation of International Football Association (FIFA) in its 2021
+report on international transfers records that
+Ghanaian football clubs together made a net
+proﬁt of only $50 million in the last decade
+(FIFA, 2021).
+All clubs registered in the premier league
+were given equal opportunity to partake in
+the study and questionnaires for the total
+number of footballers in each club were
+given. However, the sample used for the study
+represents all footballers in the premier
+league who were willing to participate in the
+survey. Data were collected using structured
+close-ended questionnaires that were administered to the footballers. The questionnaire comprised two main sections; the ﬁrst section
+focused on the demographic details of the
+respondents while the second section sought
+responses to questions on the ﬁnancial literacy,
+ﬁnancial behaviours, and ﬁnancial well-being of
+the footballers.
+The study constructs were measured using
+existing instruments that have been employed
+by prior studies. Financial literacy and ﬁnancial
+well-being were measured using scales developed by the Consumer Financial Protection
+Bureau whereas ﬁnancial behaviour was
+measured by adopting the scale developed by
+Dew and Xiao (2011). The indicators for each
+construct were rated on a seven-point scale
+with anchors ranging from one (strong disagreement) to seven (strong agreement). The questionnaires were administered to the footballers
+during training sessions and club meeting
+times with permission from the oﬃcials. The
+administration was done by one of the researchers who was an administrator with a top premier
+league club at the time of the study and hence,
+had easy access to the clubs. Out of the total of
+480 questionnaires that were distributed, 312
+
+MANAGING SPORT AND LEISURE
+
+were returned representing a response rate of
+65%. A total of 12 of the questionnaires received
+were, however, excluded from the ﬁnal analysis
+because respondents did not fully answer the
+questions set.
+
+Table 1. Demographic statistics of respondents.
+
+Data analysis and results
+
+Educational Level
+
+The data collected were ﬁrst analysed descriptively to examine the demographic characteristics of the respondents and their views on
+the constructs using the Statistical Package for
+the Social Sciences (SPSS). Subsequently, inferential analysis using the Partial Least Squares
+Structural Equation Modelling (PLS-SEM) technique was performed to examine the relationships among the constructs. The SEM
+approach is an eﬀective tool for predicting
+relationships among latent or unobserved variables with multiple indicators as used in this
+study (Astrachan et al., 2014). SEM also
+enables researchers to evaluate measurement
+models and structural paths more eﬃciently
+and can estimate several model relationships
+simultaneously (Afthanorhan, 2013; Astrachan
+et al., 2014; Hair et al., 2012).
+
+Descriptive statistics of respondents
+An analysis of the demographic characteristics
+of the respondents (in Table 1) shows that the
+population is largely youthful with the majority
+(nearly 90%) being either 30 years and below.
+This is expected as footballers are mostly in
+active sports only in their prime years. The
+results suggest most of the respondents
+(about 86%) have had some form of education,
+mainly up to senior high school level. The
+majority of the respondents were married and
+close to 58% of them had three or more dependents aside from their nuclear family. On
+average, most of these footballers earn only
+GHS2000 net monthly income (the equivalent
+of USD 177), do not live in their own houses
+and about 39% of them live with their parents
+or friends.
+
+Demographic
+Variable
+Age
+
+Income Level
+(GHS)
+Marital Status
+Number of
+Dependents
+
+Housing
+
+7
+
+Groupings
+
+Frequency
+
+Per
+cent
+
+Below 17
+18–20
+21–23
+24–30
+31 and above
+Uneducated
+JHS
+SHS
+Diploma
+Degree
+Less than 2000
+2000–3500
+3501–5000
+Above 5000
+Single
+Married
+1
+
+11
+33
+91
+143
+22
+42
+82
+146
+23
+7
+155
+98
+34
+8
+229
+67
+54
+
+3.7
+11.0
+30.3
+47.7
+7.3
+14.0
+27.3
+48.7
+7.7
+2.3
+51.7
+32.7
+11.3
+2.7
+76.3
+23.7
+18.0
+
+2
+3
+4
+5 or more
+Own house
+Renting house
+Staying with
+parents
+Staying with
+Friends
+
+73
+83
+59
+31
+41
+143
+35
+
+24.3
+27.7
+19.7
+10.3
+13.7
+47.7
+11.7
+
+81
+
+27.0
+
+Descriptive statistics of constructs
+The analysis reveals that, generally, footballers
+used for this study have a low level of
+ﬁnancial literacy. The overall mean for the
+ﬁnancial literacy construct was 3.35, which is
+less than the average of 3.5. The indicator “I
+set long-term ﬁnancial goals and strive to
+achieve them” had the highest mean score of
+3.86 while the indicator “I read to increase my
+ﬁnancial knowledge” had the lowest mean
+score of 2.54. Thus, although the respondents
+rank setting of long-term goals high, their interest in seeking ﬁnancial knowledge is very low. It
+is, therefore, not surprising that most of the
+respondents seem “uncertain about where
+their money is spent” (mean = 3.65).
+Financial behaviour recorded an overall
+mean score of 3.14 (below the mid-point
+value). Thus, most of the respondents, generally, do not exhibit responsible ﬁnancial behaviour. From the analysis, very few of the
+
+8
+
+G. M. Y. OWUSU ET AL.
+
+respondents have interest in investment products such as bonds, stocks, mutual funds and
+insurance policies on health or property. The
+respondents, however, are diligent in comparing prices in diﬀerent shops when purchasing
+a product or service (mean = 4.60).
+The construct ﬁnancial well-being recorded
+an overall mean slightly above the average
+(3.78). This result suggests that most of the
+respondents are conﬁdent in their capacity to
+meet current ﬁnancial needs, have a very positive outlook about their future ﬁnancing needs
+and make choices to enjoy life. This is expected
+given that the average footballer is always
+hopeful of securing lucrative contracts in
+future. The indicator “My ﬁnances control my
+life” recorded the highest mean score of 4.80
+amongst the indicators of ﬁnancial well-being.
+Interestingly, we ﬁnd that most respondents
+do not have access to ready cash or credit to
+meet emergencies that may arise. The indicator
+“I would have trouble getting GH₵2000 in cash
+or credit to meet an unexpected need within
+the next month” recorded a high mean score
+of 4.63 which shows a high level of agreement
+with this question. Moreover, the analysis
+suggests that for most respondents, “Giving a
+gift for a wedding, birthday or another occasion
+would put a strain on their ﬁnances for the
+month” (mean = 4.10). As expected, with the
+low incomes earned by the respondents, very
+few of the respondents save towards their
+future ﬁnances. The indicator “I currently have
+an automatic deposit or electronic transfer set
+up to put money away for future use” recorded
+the lowest mean score of 3.11. On a month-onmonth basis, the respondents indicate that
+they barely have any money left after the
+month’s expenses (Table 2).
+
+Reliability and validity
+The study adopted the two-step approach proposed by Hair et al. (2012) for SEM analysis. The
+study ﬁrst tests the model ﬁtness by assessing
+the measurement model for construct reliability
+
+and validity. Composite reliability (CR) and
+Cronbach’s alpha (CA) values were used to
+assess reliability while the average variance
+extracted (AVE) and the heterotrait-monotrait
+criterion (HTMT) were used to assess the validity
+of the constructs. The CR and CA scores, as
+shown in Table 3, were all above the recommended threshold of 0.7 and hence
+provide evidence of the reliability of the
+model. The convergent validity of the constructs was attained as the AVE scores were all
+above the recommended threshold of 0.5. The
+HTMT results, as shown in Table 4, indicates
+that discriminant validity was achieved as the
+values for all variables were distinctively
+diﬀerent at values below 0.90, as recommended
+by Henseler et al. (2015). Importantly, the result
+of HTMT infers that the variables are distinctively diﬀerent from one another.
+
+Structural model analysis
+Upon attaining model ﬁtness, we proceeded to
+assess the structural model. First, probable
+traces of multicollinearity were tested using
+the variance inﬂation factor (VIF). The results
+for both the inner VIF values for the constructs
+and the outer VIF values for each indicator were
+all below the recommended threshold of 10
+(Table 5) which suggests no multicollinearity
+issues (Hair et al., 2011). In addition, to guard
+against socially desirable answers, the study
+tested for common method bias using the
+Herman one-factor test. The result of the test
+shows that the percentage variance for the
+ﬁrst factor is approximately 33% (Table 5)
+which is less than the recommended threshold
+of 50% (Podsakoﬀ and Organ, 1986), hence
+there is no problem with common method bias.
+Further, we estimated the coeﬃcient of
+determination (R 2) and the cross-validated
+redundancy (Q2). An R 2 of 27.6% recorded for
+ﬁnancial well-being suggests that about 28%
+of the variation in the construct ﬁnancial wellbeing is explained by investment behaviour.
+Investment behaviour had an R 2 of 60.4%
+
+MANAGING SPORT AND LEISURE
+
+9
+
+Table 2. Descriptive statistics of constructs.
+Code
+
+Indicators
+
+Mean
+
+Std.
+Deviation
+
+FL1
+
+I know much about ﬁnancial services and products (like banks accounts, loans, insurance, credit cards,
+banks, and ﬁnancial counsellor)
+I feel conﬁdent when I make decisions about ﬁnancial services and products (like banks accounts,
+loans, insurance, credit cards, banks, and ﬁnancial counsellor)
+I have never sought ﬁnancial advice or information to help with money troubles, or set money goals.
+I set long-term ﬁnancial goals and strive to achieve them
+I plan and implement a regular savings/investment schedule
+I feel credit cards are safe and risk-free
+I am uncertain about where my money is spent
+I read to increase my ﬁnancial knowledge
+Overall – Financial Literacy
+I compare prices in diﬀerent shops when purchasing a product or service
+I pay all my bills (electricity, water, telephone, etc.) on time
+I preserve a written or electronic record of my monthly expenses
+I stay within my budget or spending plan
+I pay oﬀ the overdraft balance in full each month
+I regularly exceed the maximum withdrawal limit on one or more ATM cards
+I usually pay more than the minimum repayments on my loan
+I have begun or maintained an emergency savings fund
+I save money from every income received
+I save for a long-term goal such as purchasing a car, education, home, etc.
+I contribute money to a retirement account
+I buy bonds, stocks, mutual funds or long-term investments
+I maintain or purchase an adequate health insurance policy
+I maintain or purchase adequate property insurance such as comprehensive auto or homeowners’
+insurance
+I maintain or purchase adequate life insurance
+Overall – Financial Behaviour
+I can handle a major unexpected expense
+I am securing my ﬁnancial future
+Because of my money situation, I feel like I will never have the things I want in life
+I can enjoy life because of the way I’m managing my money
+I am just managing my expenses with my current income
+I am concerned that the money I have or will save won’t last in the long run
+Giving a gift for a wedding, birthday or another occasion would put a strain on my ﬁnances for the
+month
+I have money left over at the end of every month
+I am unable to pay my bills as and when they fall due
+My ﬁnances control my life
+I currently have an automatic deposit or electronic transfer set up to put money away for future use
+The cost of my living expenses is usually less than my income
+I would have trouble getting GH₵2000 in cash or credit to meet an unexpected need within the next
+month
+The value of my assets is at least 6 times my current monthly income
+Overall – Financial Well-being
+
+3.16
+
+1.13
+
+3.20
+
+1.25
+
+3.30
+3.86
+3.67
+3.45
+3.65
+2.54
+3.35
+4.60
+4.04
+3.35
+3.70
+2.97
+3.18
+2.98
+3.47
+3.68
+3.33
+2.76
+2.22
+2.25
+2.24
+
+1.67
+1.91
+1.83
+1.74
+1.77
+1.76
+1.63
+1.82
+1.93
+1.97
+1.70
+1.94
+1.77
+1.80
+1.80
+1.83
+1.88
+1.95
+1.78
+1.93
+1.90
+
+2.31
+3.14
+3.26
+3.59
+3.92
+3.69
+3.88
+3.76
+4.10
+
+1.93
+1.86
+1.96
+1.87
+1.96
+1.84
+1.90
+1.98
+2.00
+
+3.39
+3.97
+4.80
+3.11
+3.38
+4.63
+
+1.90
+2.07
+2.30
+1.93
+2.23
+2.33
+
+3.41
+3.78
+
+2.17
+2.03
+
+FL2
+FL3
+FL4
+FL5
+FL6
+FL7
+FL8
+FB1
+FB2
+FB3
+FB4
+FB5
+FB6
+FB7
+FB8
+FB9
+FB10
+FB11
+FB12
+FB13
+FB14
+FB15
+FW1
+FW2
+FW3
+FW4
+FW5
+FW6
+FW7
+FW8
+FW9
+FW10
+FW11
+FW12
+FW13
+FW14
+
+Note: FL = Financial literacy; FW = Financial well-being; FB = Financial behaviour.
+
+Table 3. Cronbach alpha, composite reliability and
+average variance extracted.
+Construct
+
+CA
+
+CR
+
+AVE
+
+Financial Literacy
+Financial Well-being
+Investment Behaviour
+Savings Behaviour
+Age
+Education
+Income
+Marital Status
+
+0.858
+0.817
+0.938
+0.875
+1.000
+1.000
+1.000
+1.000
+
+0.891
+0.868
+0.951
+0.901
+1.000
+1.000
+1.000
+1.000
+
+0.543
+0.526
+0.766
+0.513
+1.000
+1.000
+1.000
+1.000
+
+which indicates that approximately 60% of the
+variation in investment behaviour is a result of
+ﬁnancial literacy and savings behaviour. Financial literacy was found to be accountable for
+about 59% of the variations in savings behaviour as the construct recorded an R 2 of 58.7%.
+The result from the blindfolding analysis
+(Table 6) shows that the Q 2 of the variables,
+ﬁnancial well-being, investment behaviour
+
+10
+
+G. M. Y. OWUSU ET AL.
+
+Table 4. HTMT results.
+Construct
+
+FL
+
+FW
+
+IB
+
+SB
+
+Age
+Educational Level
+Financial Literacy
+Financial Wellbeing
+Income Level
+Investment Behaviour
+Marital Status
+Savings Behaviour
+
+0.261
+0.192
+0.241
+0.473
+0.252
+0.263
+0.297
+
+0.357
+0.341
+0.406
+0.214
+0.098
+0.301
+
+0.627
+0.473
+0.737
+0.186
+0.849
+
+0.418
+0.585
+0.066
+0.728
+
+and savings behaviour were 0.139, 0.454 and
+0.293, respectively, an indication that the
+model has predictive importance as the Q 2
+are above zero (Hair et al., 2012).
+The structural model for the study (Figure 2)
+shows the study constructs and the relationships
+among them. In this model, the main variable of
+interest is ﬁnancial well-being which is explained
+by investment behaviour. Investment behaviour
+is inﬂuenced by the level of ﬁnancial literacy and
+savings behaviour of individual, whereas savings
+behaviour is explained by ﬁnancial literacy. The
+structural model analysis was done following
+the bootstrapping procedures in Smart-PLS.
+The results from the bootstrapping are shown
+in Table 6 detailing the hypothesized relationships, the coeﬃcients, the attained level of signiﬁcance (p-values) and the results thereof.
+
+Discussion of results
+Table 6 presents the results of the analysis of
+the direct and indirect relationships among
+the constructs.
+First, we ﬁnd a positive and highly signiﬁcant
+(p-value < 0.01) relationship between ﬁnancial
+Table 5. VIF and CMB results.
+Construct
+
+VIF
+
+Financial Literacy
+Investment Behaviour
+Savings Behaviour
+Age
+Education
+Income
+Marital Status
+Herman’s single-factor score
+
+2.398
+1.000
+2.398
+1.336
+1.207
+1.480
+1.100
+0.33
+
+0.347
+0.252
+0.485
+
+0.087
+0.813
+
+0.171
+
+literacy and savings behaviour, a conﬁrmation
+of our hypothesis. This means that the propensity to save is usually higher among individuals
+with good knowledge of ﬁnancial matters.
+Thus, individuals with adequate ﬁnancial
+knowledge tend to make sound ﬁnancial
+decisions such as cultivating good savings
+behaviour. This result is consistent with
+ﬁndings from prior studies which suggest that
+ﬁnancial literacy inﬂuences the savings attitude
+of individuals (Jamal et al., 2015; Kim et al.,
+2019; Lusardi, 2008; Murendo & Mutsonziwa,
+2017; Zulaihati et al., 2020).
+Similarly, ﬁnancial literacy is highly signiﬁcant (p-value < 0.01) and positively related to
+investment behaviour, in line with the study
+hypothesis. This suggests that ﬁnancially literate individuals tend to engage more in
+responsible investment behaviour than their
+peers. By implication, beyond saving for contingencies, ﬁnancially literate individuals are more
+likely to invest to secure a better future. Hong
+and Fraser (2021) report that some sportsmen
+made critical ﬁnancial errors such as investing
+unwisely due to ﬁnancial illiteracy. Several
+empirical studies (Civelek et al., 2019; Kalmi,
+2018; Moreland, 2018; Owusu et al., 2022; Van
+Rooij et al., 2011) support the assertion
+that ﬁnancial literacy positively impacts an individual’s investment behaviour. This ﬁnding
+indicates that to promote responsible ﬁnancial
+behaviours amongst individuals, enhancing
+their ﬁnancial literacy is key.
+As expected, savings behaviour had a positive and statistically signiﬁcant relationship
+with investment behaviour (β = 0.546, and p-
+
+MANAGING SPORT AND LEISURE
+
+11
+
+Table 6. Hypothesis path, coeﬃcient, p-value.
+Hypothesis path
+
+Coeﬃcient
+
+p-values
+
+Direct Eﬀects
+Financial Literacy -> Savings Behaviour
+0.766
+0.000
+Financial Literacy -> Investment Behaviour
+0.275
+0.000
+Savings Behaviour -> Investment Behaviour
+0.546
+0.000
+Investment Behaviour -> Financial Well-being
+0.525
+0.000
+Indirect Eﬀects
+Savings Behaviour -> Investment Behaviour -> Financial Well-being
+0.287
+0.000
+Financial Literacy -> Investment Behaviour -> Financial Well-being
+0.144
+0.000
+Demographics
+Age -> Financial Literacy
+−0.061
+0.339
+Education -> Financial Literacy
+0.186
+0.001
+Income -> Financial Literacy
+0.383
+0.000
+Marital Status -> Financial Literacy
+0.067
+0.145
+2
+R (FL= 0.233; FW = 0.276; IB = 0.604; SB = 0.587)
+2
+Q (FL = 0.123; FW = 0.139; IB = 0.454; SB = 0.293)
+Note: FL = Financial Literacy; FW = Financial Well-being; IB = Investment Behaviour; SB = Savings Behaviour.
+
+value = 0.000). This is an indication that individuals with good savings attitudes have
+greater motivation to invest. An individual’s
+propensity to save, therefore, inﬂuences his
+or her ability to develop a positive attitude
+towards investment. Given that the savings
+and investment behaviours of individuals are
+interrelated, an important way of promoting
+a responsible investing attitude is to encourage people to ﬁrst, cultivate a habit of
+saving. Studies that report similar results
+include Oquaye et al. (2022); Farrell et al.
+(2016) and Kempson et al. (2013).
+
+Figure 2. Structural model.
+
+The relationship between investment behaviour and ﬁnancial well-being yielded a positive
+and highly signiﬁcant result, consistent with
+the study’s proposition. The results suggest
+that the investment behaviour of individuals
+has important implications for their ﬁnancial
+well-being. Thus, the ability of an individual to
+meet current ﬁnancial obligations and feel
+secure about future ﬁnancial needs depends,
+substantially, on the eﬀort to commit part of
+his/her current earnings into investment products. This result is consistent with the
+ﬁndings of prior studies (Balliauw & Van Den
+
+12
+
+G. M. Y. OWUSU ET AL.
+
+Spiegel, 2018; Farrell et al., 2016; Kempson
+et al., 2013; Oquaye et al., 2022).
+The result also indicates a positive and signiﬁcant relationship between savings behaviour and ﬁnancial well-being mediated by
+investment behaviour. This suggests that individuals who consistently incorporate the habit
+of savings are likely to enjoy better ﬁnancial
+well-being when they equally cultivate the
+right attitude towards investment. By implication, savings behaviour on its own does not
+aﬀect ﬁnancial well-being unless backed by
+responsible investment behaviour.
+The ﬁndings suggest that ﬁnancial literacy
+inﬂuences ﬁnancial well-being indirectly
+through investment behaviour (β = 0.144, and
+p-value = 0.000). This means that merely being
+knowledgeable about ﬁnancial issues is not a
+guarantee that a person will be ﬁnancially
+secure in the future. The level of ﬁnancial
+knowledge an individual has will foster good
+a responsible attitude towards investment
+which will yield ﬁnancial gains for the individual
+to secure his/her ﬁnancial future. Lyons (2008)
+and Rao and Barber (2005) similarly report
+that ﬁnancial literacy inﬂuences ﬁnancial wellbeing given the right ﬁnancial behaviour.
+Additionally, the study examines the eﬀect
+of demographic characteristics on the respondents’ ﬁnancial literacy levels. We ﬁnd the educational level (β = 0.186, and p-value = 0.001)
+and income level (β = 0.383, and p-value =
+0.000) to be relevant predictors of the
+ﬁnancial literacy levels of footballers. This
+suggests that educated individuals tend to
+appreciate ﬁnancial issues better than their
+peers and individuals with higher income
+levels tend to be more ﬁnancially literate than
+their peers. As pointed out by some extant
+studies (Kumar et al., 2018; Mishra & Metilda,
+2015), educated individuals are more anxious
+about their ﬁnances and hence, strive to ﬁnd
+ways to improve their understanding of issues
+that have implications on their ﬁnancial life.
+Again, individuals within the higher income
+bracket are more likely to have the means to
+
+pursue programmes aimed at improving their
+knowledge in ﬁnancial matters to be able to
+properly manage their ﬁnances (Filipiak &
+Walle, 2015; OECD, 2017).
+Although positively associated, marital
+status did not have a signiﬁcant impact on
+ﬁnancial literacy (β = 0.067, and p-value =
+0.145). This means that whether or not an individual is married does not aﬀect his level of
+appreciation of ﬁnancial matters signiﬁcantly.
+The age of the respondents was found to be
+insigniﬁcant and negatively associated with
+the level of ﬁnancial literacy (β = −0.061, and
+p-value = 0.339). This result is contrary to the
+ﬁndings of Lusardi and Mitchell (2011); Filipiak
+and Walle (2015); Garg and Singh (2018) that
+older individuals tend to be more ﬁnancially literate than younger people.
+
+Conclusion
+The study examines the concept ﬁnancial wellbeing among professional footballers and the
+eﬀect of ﬁnancial behaviour and ﬁnancial literacy on ﬁnancial well-being. The study
+employs the structural equation modelling
+technique to analyse data collected from professional footballers in Ghana. The result from
+the structural analysis suggests that the level
+of ﬁnancial literacy of footballers has important
+implications for their ﬁnancial behaviour. As
+observed from our analysis, professional footballers who are ﬁnancially literate tend to save
+more of their earnings and also have a greater
+tendency to invest than their peers. Our
+ﬁndings also suggest ﬁnancial behaviour has a
+positive eﬀect on the ﬁnancial well-being of
+footballers. Thus, we ﬁnd very strong support
+for the argument that responsible ﬁnancial
+behaviour, proxied in this study by savings
+and investment behaviour, is key to attaining
+ﬁnancial wellness in life.
+The ﬁndings from this study oﬀer signiﬁcant
+contributions to the research community, practice, and policy. We show from our analysis
+some of the practical ways that can be
+
+MANAGING SPORT AND LEISURE
+
+pursued by stakeholders within the football
+community to improve the ﬁnancial well-being
+of professional footballers. First, eﬀorts to
+enhance the ﬁnancial well-being of footballers
+can begin with investing in training programmes
+to make them ﬁnancially literate. Second, it will
+be useful for football clubs to also engage the
+services of ﬁnancial coaches who will be responsible for providing practical guidance to footballers during their active playing days to help
+shape their ﬁnancial behaviour. Given that the
+ﬁnancial well-being of a person is closely associated with psychological well-being (Owusu,
+2023), such initiatives will have a positive eﬀect
+on the performance of players on the ﬁeld. For
+future researchers, the study presents new
+insights that provide baseline information on
+ﬁnancial literacy, ﬁnancial behaviour, and
+ﬁnancial well-being of footballers from a developing country perspective.
+Despite its contributions, this study has
+some limitations. First, all the measures used
+for data collection are self-reported which presents the risk of respondents misinterpreting
+questions or giving socially desirable answers.
+We also acknowledge that there may be other
+factors that impact an individual’s ﬁnancial
+well-being not examined in this paper. Lastly,
+caution should be taken in generalising the
+ﬁndings of the study as we focused only on professional footballers from the Ghanaian Premier
+League. The situation in other contexts may
+diﬀer given the distinct geographical, social,
+and other diﬀerences present.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the
+author(s).
+
+References
+Afthanorhan, W. M. A. B. W. (2013). A comparison of
+partial least square structural equation modelling
+(PLS-SEM) and covariance-based structural
+equation modelling (CB-SEM) for conﬁrmatory
+
+13
+
+factor analysis. International Journal of Engineering
+Science and Innovative Technology, 2(5), 198–205.
+Akhtar, F., Thyagaraj, K. S., & Das, N. (2018). The
+impact of social inﬂuence on the relationship
+between personality traits and perceived
+investment performance of individual investors. Evidence from Indian Stock Market.
+International Journal of Managerial Finance, 14
+(1), 130–148.
+Allgood, S., & Walstad, W. B. (2016). The eﬀects of perceived and actual ﬁnancial literacy on ﬁnancial
+behaviors. Economic Inquiry, 54(1), 675–697.
+https://doi.org/10.1111/ecin.12255
+Astrachan, C. B., Patel, V. K., & Wanzenried, G. (2014).
+A comparative study of CB-SEM and PLS-SEM for
+theory development in family ﬁrm research.
+Journal of Family Business Strategy, 5(1), 116–128.
+https://doi.org/10.1016/j.jfbs.2013.12.002
+Atia, M. (2012). “A way to paradise”: Pious neoliberalism, Islam, and faith-based development. Annals of
+the Association of American Geographers, 102(4),
+808–827. https://doi.org/10.1080/00045608.2011.
+627046
+Balliauw, M., & Van Den Spiegel, T. (2018). Managing
+professional footballers’ ﬁnances to avoid ﬁnancial
+problems. Sport, Business and Management: An
+International Journal, 8(4), 318–334. https://doi.
+org/10.1108/SBM-01-2018-0003
+Bannier, C. E., & Neubert, M. (2016). Gender diﬀerences in ﬁnancial risk taking: The role of ﬁnancial
+literacy and risk tolerance. Economics Letters, 145,
+130–135. https://doi.org/10.1016/j.econlet.2016.
+05.033
+Barth, M., Schröder, F., Emrich, E., & Schlesinger, T.
+(2021). The consumption and saving behaviour
+of professional football players–looking into a
+socio-economic problem. European Journal for
+Sport and Society, 1–18.
+Brüggen, E. C., Hogreve, J., Holmlund, M., Kabadayi,
+S., & Löfgren, M. (2017). Financial well-being: A
+conceptualization and research agenda. Journal
+of Business Research, 79, 228–237. https://doi.org/
+10.1016/j.jbusres.2017.03.013
+Castro-González, S., Fernández-López, S., Rey-Ares, L.,
+& Rodeiro-Pazos, D. (2020). The inﬂuence of attitude to money on individuals’ ﬁnancial wellbeing. Social Indicators Research, 148(3), 747–764.
+https://doi.org/10.1007/s11205-019-02219-4
+Chhatwani, M., & Mishra, S. K. (2021). Does ﬁnancial
+literacy reduce ﬁnancial fragility during COVID19? The moderation eﬀect of psychological, economic and social factors. International Journal of
+Bank Marketing, 39(7), 1114–1133. https://doi.
+org/10.1108/IJBM-11-2020-0536
+
+14
+
+G. M. Y. OWUSU ET AL.
+
+Churro, M. V. (2022). Consulting project for SJPF:
+Redesigning a ﬁnancial literacy programme for
+professional football players-the power of combining an online service with a reformulated onsite strategy (Doctoral dissertation).
+Civelek, M., Kljucnikov, A., Krajcık, V., & Zufan, J.
+(2019). The importance of discount rate and trustfulness of a local currency for the development of
+local tourism. Journal of Tourism and Services, 10
+(19), 77–92. https://doi.org/10.29036/jots.v10i19.
+117
+Curran, C. (2015). Post-playing careers of Irish-born
+footballers in England, 1945–2010. Sport in
+Society, 18(10), 1273–1286. https://doi.org/10.
+1080/17430437.2015.1042970
+Dean, W. (2013). A reason to feel sorry for Premier
+League footballers? Three of ﬁve players declare
+bankruptcy after retirement. The Independent, 4
+March, available at: www.independent.co.uk/
+sport/football/news-and-comment/a-reason-tofeel-sorry-for-premierleague-footballers-three-ofﬁve-players-declare-bankruptcy-after-retirement8519908.html (accessed 12 June 2014).
+de Bassa Scheresberg, C. (2013). Financial literacy
+and ﬁnancial behavior among young adults:
+Evidence and implications. Numeracy, 6(2), 5.
+https://doi.org/10.5038/1936-4660.6.2.5
+Dew, J., & Xiao, J. J. (2011). The ﬁnancial management
+behaviour scale: Development and validation.
+Journal of Financial Counseling and Planning, 22
+(1), 43.
+Dholakia, U., Tam, L., Yoon, S., & Wong, N. (2016). The
+ant and the grasshopper: Understanding personal
+saving orientation of consumers. Journal of
+Consumer Research, 43(1), 134–155. https://doi.
+org/10.1093/jcr/ucw004
+Farrell, L., Fry, T. R., & Risse, L. (2016). The signiﬁcance
+of ﬁnancial self-eﬃcacy in explaining women’s
+personal ﬁnance behaviour. Journal of Economic
+Psychology, 54, 85–99. https://doi.org/10.1016/j.
+joep.2015.07.001
+Federation of International Football Association.
+(2021). FIFA report. FIFA. https://www.ﬁfa.com/
+search-results?q = Transfer%20Reports
+Filipiak, U., & Walle, Y. M. (2015). The ﬁnancial literacy
+gender gap: A question of nature or nurture? (No.
+176). Discussion Papers.
+Garg, N., & Singh, S. (2018). Financial literacy among
+youth. International Journal of Social Economics, 45
+(1), 173–186.
+Ghana Football Association. (2013, December 19th).
+Ghanafa. http://www.ghanafa.org/pages/magazine_
+features/201312/9079.php
+
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E.
+(2011). Multivariate data analysis. Prentice Hall.
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2012). Partial
+least squares: The better approach to structural
+equation modeling? Long Range Planning, 45(5–
+6), 312–319. https://doi.org/10.1016/j.lrp.2012.09.
+011
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new
+criterion for assessing discriminant validity in variance-based structural equation modeling. Journal
+of the Academy of Marketing Science, 43(1), 115–
+135. https://doi.org/10.1007/s11747-014-0403-8
+Hong, H. J., & Coﬀee, P. (2018). A psycho-educational
+curriculum for sport career transition practitioners:
+Development and evaluation. European Sport
+Management Quarterly, 18(3), 287–306. https://
+doi.org/10.1080/16184742.2017.1387925
+Hong, H. J., & Fraser, I. (2021). ‘My sport won’t pay the
+bills forever’: High-performance athletes’ need for
+ﬁnancial literacy and self-management. Journal of
+Risk and Financial Management, 14(7), 324. https://
+doi.org/10.3390/jrfm14070324
+Huston, S. J. (2010). Measuring ﬁnancial literacy.
+Journal of Consumer Aﬀairs, 44(2), 296–316.
+https://doi.org/10.1111/j.1745-6606.2010.01170.x
+Jack, W., & Suri, T. (2014). Risk sharing and transactions
+costs: Evidence from Kenya’s mobile money revolution. American Economic Review, 104(1), 183–223.
+https://doi.org/10.1257/aer.104.1.183
+Jamal, A. A. A., Ramlan, W. K., Karim, M. A., & Osman,
+Z. (2015). The eﬀects of social inﬂuence and
+ﬁnancial literacy on savings behaviour: A study
+on students of higher learning institutions in
+Kota Kinabalu, Sabah. International Journal of
+Business and Social Science, 6(11), 110–119.
+Jappelli, T., & Padula, M. (2013). Investment in
+ﬁnancial literacy and saving decisions. Journal of
+Banking & Finance, 37(8), 2779–2792. https://doi.
+org/10.1016/j.jbankﬁn.2013.03.019
+Kalmi, P. (2018). The eﬀects of ﬁnancial education:
+Evidence from Finnish lower secondary schools.
+Economic Notes: Review of Banking, Finance and
+Monetary Economics, 47(2–3), 353–386.
+Kannadhasan, M., Aramvalarthan, S., Mitra, S. K., &
+Goyal, V. (2016). Relationship between biopsychosocial factors and ﬁnancial risk tolerance: An
+empirical study. Vikalpa: The Journal for Decision
+Makers, 41(2), 117–131. https://doi.org/10.1177/
+0256090916642685
+Kappal, J. M., & Rastogi, S. (2020). Investment behaviour of women entrepreneurs. Qualitative Research
+in Financial Markets, 12(4), 485–504. https://doi.
+org/10.1108/QRFM-04-2020-0053
+
+MANAGING SPORT AND LEISURE
+
+Kempson, E., Perotti, V., & Scott, K. (2013). Measuring
+ﬁnancial capability: A new instrument and results
+from low-and middle-income countries.
+Kempson, E., & Poppe, C. (2018). Assessing the levels
+of ﬁnancial capability and ﬁnancial wellbeing in
+Ireland. A report to the competition and consumer
+protection commission (CCPC), Ireland.
+Kholilah, A., & Iramania, R. (2014). Studi ﬁnancial
+management
+behavior
+Pada
+Masyarakat
+Surabaya. Journal of Business and Banking, 3(1),
+69–80. https://doi.org/10.14414/jbb.v3i1.255
+Kim, K. T., Anderson, S. G., & Seay, M. C. (2019).
+Financial knowledge and short-term and longterm ﬁnancial behaviors of millennials in the
+United States. Journal of Family and Economic
+Issues, 40(2), 194–208. https://doi.org/10.1007/
+s10834-018-9595-2
+Knight, B. (2023, May. 2). The world’s 10 highest-paid
+athletes 2023. Forbes SportsMoney Daily Cover.ss.
+https://www.forbes.com/sites/brettknight/2023/
+05/02/the-worlds-10-highest-paid-athletes-2023/?
+sh = 611cc1e3b156
+Kumar, S., Watung, C., Eunike, J., & Liunata, L. (2018).
+The relationship between hotel rating and customer outcomes and its implication towards revisit
+intention. Firm Journal of Management Studies, 3
+(1), 71–83. https://doi.org/10.33021/ﬁrm.v3i1.386.
+Kuper, S. (2013). Pity the poor footballers. Financial
+Times, 5.
+Law, G., Bloyce, D., & Waddington, I. (2021). Sporting
+celebrity and conspicuous consumption: A case
+study of professional footballers in England.
+International Review for the Sociology of Sport, 56
+(7), 923–942. https://doi.org/10.1177/1012690220
+968106
+Llewellyn, T. R. (2012). Financial literacy of college students and the need for compulsory ﬁnancial education (Doctoral dissertation).
+Lusardi, A. (2008). Household saving behaviour: The
+role of ﬁnancial literacy, information, and ﬁnancial
+education programs (No. w13824). National
+Bureau of Economic Research.
+Lusardi, A., & Mitchell, O. S. (2011). Financial literacy
+around the world: An overview. Journal of
+Pension Economics and Finance, 10(4), 497–508.
+https://doi.org/10.1017/S1474747211000448
+Lusardi, A., Mitchell, O. S., & Curto, V. (2010). Financial
+literacy among the young. Journal of Consumer
+Aﬀairs, 44(2), 358–380. https://doi.org/10.1111/j.
+1745-6606.2010.01173.x
+Lyons, A. C. (2008). Risky credit card behaviour of
+college students. In Handbook of consumer
+ﬁnance research (pp. 185–207). New York:
+Springer.
+
+15
+
+Mahendru, M. (2020). Financial well-being for a sustainable society: A road less travelled. Qualitative
+Research in Organizations and Management: An
+International Journal, 16(3/4), 572–593.
+Mishra, K. C., & Metilda, M. J. (2015). A study on the
+impact of investment experience, gender, and
+level of education on overconﬁdence and self-attribution bias. IIMB Management Review, 27(4), 228–
+239. https://doi.org/10.1016/j.iimb.2015.09.001
+Moolman, J. (2022). Proposing a network of advisors
+that could guide a professional athlete’s ﬁnancial
+decisions in pursuit of sustainable ﬁnancial wellbeing. Managing Sport and Leisure, 27(6), 577–
+592.
+https://doi.org/10.1080/23750472.2020.
+1842791
+Moreland, K. A. (2018). Seeking ﬁnancial advice and
+other desirable ﬁnancial behaviors. Journal of
+Financial Counseling and Planning, 29(2), 198–
+207. https://doi.org/10.1891/1052-3073.29.2.198
+Murendo, C., & Mutsonziwa, K. (2017). Financial literacy and savings decisions by adult ﬁnancial consumers in Zimbabwe. International Journal of
+Consumer Studies, 41(1), 95–103. https://doi.org/
+10.1111/ijcs.12318
+Nanda, A. P., & Banerjee, R. (2021). Consumer’s subjective ﬁnancial well-being: A systematic review
+and research agenda. International Journal of
+Consumer Studies, 45(4), 750–776. https://doi.org/
+10.1111/ijcs.12668
+Nenkov, G. Y., Inman, J. J., & Hulland, J. (2008).
+Considering the future: The conceptualization
+and measurement of elaboration on potential outcomes. Journal of Consumer Research, 35(1), 126–
+141. https://doi.org/10.1086/525504
+Netemeyer, R. G., Warmath, D., Fernandes, D., &
+Lynch Jr, J. G. (2018). How am I doing? Perceived
+ﬁnancial well-being, its potential antecedents,
+and its relation to overall well-being. Journal of
+Consumer Research, 45(1), 68–89. https://doi.org/
+10.1093/jcr/ucx109
+OECD (2017), “Household savings” (indicator).
+Retrieved on 01 November 2022. https://doi.org/
+10.1787/cfc6f499-en.
+Oquaye, M., Owusu, G. M. Y., & Bokpin, G. A. (2022).
+The antecedents and consequence of ﬁnancial
+well-being: A survey of parliamentarians in
+Ghana. Review of Behavioral Finance, 14(1), 68–90.
+Owusu, G. M. Y. (2023). Predictors of ﬁnancial satisfaction and its impact on psychological wellbeing
+of individuals. Journal of Humanities and Applied
+Social Sciences, 5(1), 59–76. https://doi.org/10.
+1108/JHASS-05-2021-0101
+Owusu, G. M. Y., Ansong, R., Koomson, T. A. A., &
+Addo-Yobo, A. A. (2022). Savings and investment
+
+16
+
+G. M. Y. OWUSU ET AL.
+
+behaviour of young adults: The role of ﬁnancial literacy and parental ﬁnancial behaviour. African
+Journal of Management Research, 27(1), 75–92.
+https://doi.org/10.4314/ajmr.v27i1.5
+Özmete, E. (2019). Measuring the poverty of elderly
+people with needs analysis in Turkey. In Mehdi
+Khosrow-Pour (Ed.), Socio-economic development:
+Concepts, methodologies, tools, and applications
+(pp. 256–276). IGI Global.
+Pagliarini, R. (2013). Why athletes go broke (it’s Not
+what You think). Huﬃngton Post, 1.
+Parsaeemehr, M., Rezeai, F., & Sedera, D. (2013).
+Personality type of investors and perception of
+ﬁnancial information to make decisions. Asian
+Economic and Financial Review, 3(3), 283–293.
+Perry, V. G., & Morris, M. D. (2005). Who Is in control?
+The role of self-perception, knowledge, and
+income in explaining consumer ﬁnancial behavior.
+Journal of Consumer Aﬀairs, 39(2), 299–313.
+https://doi.org/10.1111/j.1745-6606.2005.00016.x
+Podsakoﬀ, P. M, & Organ, D W. (1986). Self-reports in
+organizational research: Problems and prospects.
+Journal of management, 12(4), 531–544.
+Ponchio, M. C., Cordeiro, R. A., & Gonçalves, V. N. (2019).
+Personal factors as antecedents of perceived ﬁnancial
+well-being: Evidence from Brazil. International Journal
+of Bank Marketing, 37(4), 1004–1024. https://doi.org/
+10.1108/IJBM-03-2018-0077
+Preston, C. (2013). Five reasons professional athletes
+go broke. Wyatt Investment Research, 25 March,
+available at: www.wyattresearch.com/article/ﬁvereasons-professional-athletes-gobroke/29606/
+(accessed 12 June 2014).
+Rao, A., & Barber, B. L. (2005). Financial well-being:
+Descriptors and pathways. Take Charge America
+Institute (TCAI) Working Paper-5-2.
+Remund, D. L. (2010). Financial literacy explicated:
+The case for a clearer deﬁnition in an increasingly
+complex economy. Journal of consumer aﬀairs, 44
+(2), 276–295.
+Robb, C. A., & Woodyard, A. S. (2011). Financial
+knowledge and best practice behaviour. Journal
+of Financial Counselling and Planning, 22(1), 60–70.
+Roddy, M. (2021). Neural turn-taking models for
+spoken dialogue systems (doctoral dissertation,
+Ph. D. Thesis, Trinity College Dublin, Dublin).
+Roderick, M. (2006). Adding insult to injury:
+Workplace injury in English professional football.
+Sociology of Health & Illness, 28(1), 76–97.
+Schaner, S. (2017). The cost of convenience? Journal
+of Human Resources, 52(4), 919–945. https://doi.
+org/10.3368/jhr.52.4.0815-7350R1
+
+Serido, J., Shim, S., Mishra, A., & Tang, C. (2010).
+Financial parenting, ﬁnancial coping behaviors,
+and well-being of emerging adults. Family
+Relations, 59(4), 453–464. https://doi.org/10.1111/
+j.1741-3729.2010.00615.x
+Shim, S., Xiao, J. J., Barber, B. L., & Lyons, A. C. (2009).
+Pathways to life success: A conceptual model of
+ﬁnancial well-being for young adults. Journal of
+Applied Developmental Psychology, 30(6), 708–
+723. https://doi.org/10.1016/j.appdev.2009.02.003
+Shockey, S. S., & Seiling, S. B. (2004). Moving into
+action: Application of the transtheoretical model
+of behaviour change to ﬁnancial education.
+Financial Counseling and Planning, 15(1), 41–52.
+Shuttleworth, C. C. (2011). A ﬁnancial literacy education framework for non-ﬁnancial individuals in
+organisations. Progressio, 33(1), 94–115.
+Stewart, B. (2017). Sport funding and ﬁnance.
+Routledge.
+Taft, M. K., Hosein, Z. Z., Mehrizi, S. M. T., & Roshan, A.
+(2013). The relation between ﬁnancial literacy,
+ﬁnancial well-being and ﬁnancial concerns.
+International
+Journal
+of
+Business
+and
+Management, 8(11), 63.
+Tezel, Z. (2015). Financial education for children and
+youth. In Z Copur (Ed.), Handbook of research on
+behavioural ﬁnance and investment strategies:
+Decision making in the ﬁnancial industry (pp. 69–
+92). IGI Global.
+Van Praag, B. M., Frijters, P., & Ferrer-i-Carbonell, A.
+(2003). The anatomy of subjective well-being.
+Journal of Economic Behavior & Organization, 51
+(1), 29–49. https://doi.org/10.1016/S0167-2681
+(02)00140-3
+Van Rooij, M., Lusardi, A., & Alessie, R. (2011).
+Financial literacy and stock market participation.
+Journal of Financial Economics, 101(2), 449–472.
+https://doi.org/10.1016/j.jﬁneco.2011.03.006
+Xiao, J. J., Tang, C., Serido, J., & Shim, S. (2011).
+Antecedents and consequences of risky credit
+behavior among college students: Application
+and extension of the theory of planned behavior.
+Journal of Public Policy & Marketing, 30(2), 239–
+245. https://doi.org/10.1509/jppm.30.2.239
+Zarri, L., & Bucciol, A. (2017). Do personality traits
+inﬂuence investors’ portfolios? Journal of
+Behavioral and Experimental Economics, 68, 1–12.
+https://doi.org/10.1016/j.socec.2017.03.001
+Zulaihati, S., Susanti, S., & Widyastuti, U. (2020).
+Teachers’ ﬁnancial literacy: Does it impact on
+ﬁnancial behaviour? Management Science Letters, 10
+(3), 653–658. https://doi.org/10.5267/j.msl.2019.9.014
+
+

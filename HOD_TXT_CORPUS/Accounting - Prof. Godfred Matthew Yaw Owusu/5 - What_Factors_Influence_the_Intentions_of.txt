@@ -1,0 +1,1559 @@
+International Journal of Public Administration
+
+ISSN: 0190-0692 (Print) 1532-4265 (Online) Journal homepage: https://www.tandfonline.com/loi/lpad20
+
+What Factors Influence the Intentions of
+Individuals to Engage in Tax Evasion? Evidence
+from Ghana
+Godfred Matthew Yaw Owusu, Rita Amoah Bekoe, Fred Kwasi Anokye &
+Lydia Anyetei
+To cite this article: Godfred Matthew Yaw Owusu, Rita Amoah Bekoe, Fred Kwasi Anokye
+& Lydia Anyetei (2019): What Factors Influence the Intentions of Individuals to Engage in
+Tax Evasion? Evidence from Ghana, International Journal of Public Administration, DOI:
+10.1080/01900692.2019.1665686
+To link to this article: https://doi.org/10.1080/01900692.2019.1665686
+
+Published online: 19 Sep 2019.
+
+Submit your article to this journal
+
+Article views: 203
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=lpad20
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+https://doi.org/10.1080/01900692.2019.1665686
+
+What Factors Influence the Intentions of Individuals to Engage in Tax Evasion?
+Evidence from Ghana
+Godfred Matthew Yaw Owusu, Rita Amoah Bekoe, Fred Kwasi Anokye, and Lydia Anyetei
+Accounting, University of Ghana Business School, Accra, Ghana
+ABSTRACT
+
+KEYWORDS
+
+This study examines the views of students on the ethics of tax evasion, their intentions to evade
+tax, and investigates the factors that predict such intentions. Relying on the extended version of
+the Theory of Planned Behaviour, the study investigated whether attitudes, subjective norms,
+perceived behavioural control, and moral obligation may be good predictors of the intention to
+evade tax. Data were gathered from 662 students of University of Ghana Business School using
+questionnaires. The hypotheses were tested using the structural equation modelling technique.
+Results indicate that the intention to evade tax among the students is low and most respondents
+generally perceive tax evasion as an unethical practice. The results also demonstrate that attitude,
+subjective norms and moral obligations have important implications on the intention to evade
+tax. The evidence we provide should be useful to governments and tax agencies interested in
+promoting responsible tax compliance behaviour among individual taxpayers.
+
+Tax evasion; theory of
+planned behaviour; ethics of
+tax evasion; structural
+equation modelling
+
+Introduction
+One major challenge that governments across the globe
+have been confronted with for decades is the inability to
+meet their annual tax revenue targets. Being one of the
+most important and reliable sources of revenue to every
+government, the gap in tax revenue—which is the absolute
+value of non-received tax revenue in a fiscal year—remains
+one of the critical challenges of most economies (Choo,
+Fonseca, & Myles, 2016). A major source of this problem
+has been attributed to the widespread evasion of tax by
+both individuals and corporations. Defined as the use of
+illegal means to pay less taxes or no taxes at all (Slemrod &
+Weber, 2012), tax evasion has become a very topical issue
+in contemporary times due to its debilitating effect on the
+capacity of many countries to raise sufficient revenue to
+finance public expenditure. Notwithstanding the efforts by
+most governments especially in enacting laws that seek to
+punish tax offenders as a deterrent measure (Casagrande,
+Di Cagno, Pandimiglio, & Spallone, 2015), such efforts
+unfortunately have not yielded the desired outcome of
+convincing every citizen to fully fulfill their tax obligations
+to the state (McGee, Ho, & Li, 2008; Pui Yee, Moorthy, &
+Choo Keng, 2017).
+Consequently, governments especially from developing countries, have over years depended so much on
+foreign assistance and on the continuous support of
+
+Bretton Wood institutions including the World Bank
+and International Monetary Fund (IMF) to support
+their budgets. Reliance on these external sources of
+funding, however, have not been without problems.
+While donor support which traditionally provided financing for a large share of public investment in developing
+countries has been dwindling for years (Asiedu, 2006;
+Hernández-Catá, 2000, p. 7), dependence on IMF and
+World Bank support has also been criticized for its
+unfair conditionalities and negative consequences. For
+instance, the World Bank and IMF funding programmes
+have been criticized for widening income inequalities
+(Forster, Kentikelenis, Reinsberg, Stubbs, & King,
+2019), affecting public health-care delivery negatively
+because of restricted government spending on social
+services (Benton & Dionne, 2015), infringing on labour
+rights (Blanton, Blanton, & Peksen, 2015) etc. These
+problems have brought to the fore the need for developing countries to reduce their over-dependence on external funding sources and rather concentrate on financing
+their developmental agenda using domestic tax revenues.
+Like most developing countries, Ghana has had its
+fair share of difficulties in her quest to maximize domestic revenue mobilization through taxes. Notwithstanding
+the fact that taxes constitute the largest proportion of
+total revenue to the state, accounting for approximately
+
+CONTACT Godfred Matthew Yaw Owusu
+gmowusu@gmail.com
+Accounting, University of Ghana Business School, Accra, Ghana.
+Color versions of one or more of the figures in the article can be found online at www.tandfonline.com/lpad.
+© 2019 Taylor & Francis Group, LLC
+
+2
+
+G. M. Y. OWUSU ET AL.
+
+75% of total revenue within the last four years (Ministry
+of Finance fiscal data, 2015–2018), the country continues
+to miss its revenue targets on an annual basis due to
+widespread evasion of taxes. In part, this has been attributed to the structure of the Ghanaian economy which is
+characterized by a large informal sector described in
+many circles as the ‘difficult to tax group’. About 86%
+of Ghanaians are estimated to be working in the informal sector (Ghana Statistical Service, 2012) most of
+whom are not registered with the relevant bodies for
+taxation purposes (Adu & Amponsah, 2017; Amponsah,
+Isshaq, & Agyapong, 2019).
+While not discounting the contribution of the informal
+sector to the tax evasion menace, individual tax evasion
+decision is believed to be influenced by a multiplicity of
+factors (Ali & Ahmad, 2014; Machogu & Amayi, 2016).
+An understanding of these factors is therefore critical to
+developing appropriate strategies to promote responsible
+tax behaviour among citizens so as to help reduce the
+occurrence of tax evasion. Relying on the extended version of the Theory of Planned Behaviour (TPB) as previously used by Alleyne and Harris (2017), the current
+study investigates the intention of people to engage in tax
+evasion and the key predictors of such intentions. Unlike
+the empirical work of Alleyne and Harris (2017), however, this study additionally investigates the ethical perception of individuals on tax evasion and ascertains the
+influence of this perception on the intention to engage in
+tax evasion. We contribute to the tax evasion literature by
+highlighting the dominant factors that predict the intention of people to engage in tax evasion applying the
+extended version of the TPB framework in a developing
+country setting.
+
+attracts severe punitive measures such as criminal prosecution if the act is uncovered. As a result of such punitive
+measures, perpetrators consciously hide such illegal behaviour (Houston & Tran, 2001).
+Various reasons have been adduced to explain why
+people evade taxes. For instance, a huge tax burden,
+dishonesty, and corruption have been cited as reasons
+for tax evasion (Torgler, 2005). Also, McGee (1999)
+reports inadequate tax collection mechanisms and peoples’ belief that they have no tax payment responsibility
+towards government since government does nothing
+for them as reasons for tax evasion. Other reasons
+including unfair treatment by tax authorities, lack of
+trust in tax officials and poor customer service have
+been cited in some studies (Alm & Martinez-Vazquez,
+2007; Tanzi & Zee, 2000; Torgler, 2005). It has also
+been argued that the existence of an opportunity to
+evade taxes can also influence tax evasion behaviour
+(Forest & Kirchler, 2010; Hashimzade, Myles, Page, &
+Rablen, 2014) while social norms and the ethical orientation of individuals have also been associated with tax
+evasion (Bazart & Bonein, 2014; Pickhardt & Prinz,
+2014). Thus, a multiplicity of factors can be responsible
+for the tax payment compliance or noncompliance
+behaviour of people.
+Researching into actual unethical behaviours can be
+daunting in reality for reasons such as difficulties in
+locating the actual wrongdoers, difficulty in gaining
+access to information and even where access is granted,
+information may be censored (Alleyne, 2016; Alleyne,
+Hudaib, & Pike, 2013; Chiu, 2003). Consequently,
+researchers have resorted to using intentions to engage
+in an unethical behaviour as a useful proxy for actual
+unethical behaviour (Alleyne & Harris, 2017; Alleyne,
+Hudaib, & Haniffa, 2015).
+
+Literature review
+The concept of tax evasion
+
+Intentions to engage in tax evasion
+
+Tax evasion is a phenomenon that poses a serious threat to
+society. It denies a country substantial amounts of money
+that would otherwise have been available to undertake
+developmental activities such as provision of healthcare,
+education, infrastructure and other social services
+(Korndörfer, Krumpal, & Schmukle, 2014). Alleyne and
+Harris (2017) assert that it has become an albatross around
+the neck of governments worldwide due to perpetrators’
+adoption of innovative and changing schemes making its
+regulation quite difficult. Korndörfer, Krumpal &
+Schmukle (2014, p. 19) define tax evasion as “an illegal act
+that violates the law and deviates from social norms that
+prescribe that taxes should be paid”. The definition brings
+to bear the issue of illegality and an unethical practice once
+an individual engages in it. It is thus, a phenomenon that
+
+The motivational factors that influence an individual’s
+behaviour are captured within the individual’s intentions.
+Intentions give an indication of people’s determination
+and willingness to pursue a behaviour as well as the
+amount of planned effort to be exerted to perform the
+behaviour (Ajzen, 1991). Ajzen (1991) posits that an
+individual’s intention to perform a particular behaviour
+is influenced by attitude towards the behaviour (the
+degree to which an individual has a favourable or unfavourable evaluation of the behaviour), subjective norm
+(the perceived social pressure from significant others to
+either perform or not to perform a behaviour) and perceived behavioural control (the perceived ease or difficulty in the performance of a behaviour). Prior studies
+have used these constructs to predict an individual’s
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+
+intention to engage in a tax behaviour (Alleyne & Harris,
+2017; Bobek, Hatfield, & Wentzel, 2007).
+The theoretical framework: extended version of the
+theory of planned behaviour
+The Theory of Planned Behaviour (TPB) is an extension of the Theory of Reasoned Action (TRA) predominantly used to explain and predict human behaviour.
+The TPB posits that attitude, subjective norm and perceived behavioural control are the factors that influence
+the behavioural intentions of individuals with the behavioural intentions influencing the performance of
+actual behaviour (Ajzen, 1991).
+Ajzen (1991) explains that attitude is the extent to
+which an individual assesses a behaviour to be favourable or unfavourable. Subjective norm describes the
+perceptions that an individual has on the opinions of
+other important people whose views can influence the
+decisions of the decision maker. Perceived behavioural
+control on the other hand describes the degree of control that an individual has about his/her own ability to
+engage in a particular behaviour. From the tenets of the
+TPB, the attitude of an individual towards a behaviour,
+the influence of other prominent community members
+on the behaviour of an individual and the perception of
+an individual’s ability to perform the behaviour influence the performance of the actual behaviour.
+Beck and Ajzen (1991) later extended the TPB framework with an additional variable ‘moral obligation’ which
+captures the perception that an individual has about the
+moral uprightness or otherwise of engaging in a certain
+behaviour. Due to its comprehensive nature in explaining
+and predicting the behaviour of individuals, this study
+draws on the extended version of the TPB to examine the
+factors that influence the intentions of individuals to
+engage in tax evasion. The study specifically investigates
+whether students’ attitude towards tax evasion (attitude),
+their perception of tax evasion approval by prominent
+stakeholders (subjective norm), the perception of their
+capacity to engage in tax evasion (perceived behavioural
+control), and their perception of the moral correctness or
+otherwise of engaging in tax evasion (moral obligation) are
+significant predictors of intentions to engage in tax evasion.
+Attitude and intentions to engage in tax evasion
+Attitude towards a particular behaviour describes the
+degree to which an individual either favourably or
+unfavourably evaluates the behaviour (Ajzen, 1991).
+The attitude of an individual towards tax will have an
+effect on compliance. Extant literature has documented
+some tax attitudes to include taxpayers’ perception of
+
+3
+
+trust in authorities (Torgler, 2005), perceived fairness
+of the tax system (Zainan, Noor, Omar, Aziz, & Sanusi,
+2017) and taxpayers’ expectation of positive potential
+for gains (Baldry, 1987). Empirically, some studies have
+found a link between taxpayers’ attitudes and tax compliance behaviour of taxpayers (Abdul–Razak &
+Adafula, 2013; Alabede, Ariffin, & Idris, 2011). Other
+studies have also found attitude to be associated with
+tax evasion (Kirchler, Hoelzl, & Wahl, 2008; Trivedi,
+Shehata, & Mestelman, 2004). Similarly, Alleyne and
+Harris (2017) found attitudes towards a behaviour to
+be a significant predictor of an individual’s intention to
+engage in tax evasion.
+The key argument by these studies is that individuals
+who are more likely to engage in tax evasion are those
+who have favourable attitudes towards tax evasion. On
+the other hand, individuals who have unfavourable
+attitudes towards tax evasion are less likely to engage
+in tax evasion. Based on the above, we hypothesize that:
+H1: An individual’s attitude towards tax evasion is
+positively related to intention to engage in tax evasion.
+
+Subjective norm and intentions to engage in tax
+evasion
+Subjective norm indicates the influence that the opinions of other important people in an individual’s life
+have on the decisions made by that individual. Beck
+and Ajzen (1991) argue that the decision-making process of an individual can be influenced greatly by the
+opinions of other important people in one’s life such as
+family members, friends, co-workers and peers. The
+perceived endorsement or otherwise that an important
+person will give to a particular behaviour will influence
+an individual to either conform or not to conform.
+The perceived support or otherwise given by significant others on a particular behaviour can influence an
+individual’s intention to engage in that behaviour
+(Fishbein & Ajzen, 1975). For instance, the opinion of
+significant others is reported to be the most important
+factor that influences individuals to comply with taxes
+(Scholz, McGraw, & Steenbergen, 1992). Jimenez and
+Iyer (2016) note that tax compliance intentions are influenced by social norms which in turn increases the personal norms of individual tax compliance. Kirchler et al.
+(2008) also assert that taxpayers are more likely to be
+non-compliant if they believe that tax non-compliance is
+quite widespread in the society and significant others do
+not frown on it. Also, Hasan, Mohammad, and Alam
+(2017) report that subjective norm influences significantly the tax compliance behaviour of taxpayers.
+
+4
+
+G. M. Y. OWUSU ET AL.
+
+Specifically, on tax evasion, extant literature has
+found a relationship between subjective norm and
+intentions to engage in tax evasion (Alleyne & Harris,
+2017; Bobek et al., 2007; Richardson, 2006; Tsakumis,
+Curatola, & Porcano, 2007). Generally, individuals are
+less likely to engage in tax evasion if they perceive that
+significant others do not approve of that behaviour and
+vice versa. Therefore, the study hypothesizes that:
+H2: An individual’s subjective norms are positively
+related to intention to engage in tax evasion.
+
+Perceived behavioural control and intentions to
+engage in tax evasion
+Perceived behavioural control which is the perceived ease
+or difficulty of engaging in a particular behaviour influences the intention to perform that behaviour (Ajzen, 1991;
+Beck & Ajzen, 1991). The perceived ease or difficulty is
+reflected in the belief that the individual has with respect to
+the availability of resources and opportunities as well as the
+obstacles and hindrances in engaging in a behaviour.
+Basically, where perceived behavioural control is quite
+high (more resources and opportunities), it is more likely
+an individual will have greater intentions to engage in tax
+evasion. For instance, extant literature documents that tax
+non-compliance and tax evasion become quite prevalent in
+the presence of an opportunity (Antonides & Robben,
+1995; Carnes & Englebrecht, 1995). On the other hand,
+where perceived behavioural control is very low (more
+difficulties and hindrances), it is less likely an individual
+will have greater intentions to engage in tax evasion. As
+surmised by Carnes and Englebrecht (1995) an important
+factor that influences the tax compliance decisions of an
+individual is the perception of detection risk. Alleyne and
+Harris (2017) conclude that individuals with low perceived
+behavioural control have less motivation to engage in tax
+evasion. As a result, this study hypothesizes that:
+H3: An individual’s level of perceived behavioural control is positively related to intention to engage in tax
+evasion.
+
+Moral obligation and intentions to engage in tax
+evasion
+Molero and Pujol (2012) assert that it is quite difficult
+to understand the behaviour of humans without considering ethical factors. Ajzen (1991) notes that in dealing with ethically sensitive situation, consideration
+needs to be given to how an individual feel with regards
+
+to the moral obligation to either perform or not to
+perform a particular behaviour. Beck and Ajzen
+(1991) thus, added moral obligation as an antecedent
+which is influential in increasing the predictive power
+of the theory of planned behaviour.
+Shaw, Shiu & Clarke (2000, p. 882) define moral
+obligation as “an individual’s internalized ethical rules,
+which reflect their personal beliefs about right and
+wrong”. It is basically about how personally responsible
+an individual feels towards others. Bobek and Hatfield
+(2003) note that individuals who personally have
+a sense of responsibility towards others will respond
+to ethical issues in a different manner from those who
+do not have any sense of responsibility towards others.
+Some studies have found moral obligation to significantly influence an individual’s intention to engage in
+certain behaviours (Beck & Ajzen, 1991; Cronan & AlRafee, 2008; Yoon, 2011). Tax compliance behaviours
+have been found to be influenced by moral obligations
+(Bobek & Hatfield, 2003; Riahi-Belkaoui, 2004). With
+respect to tax evasion, Reckers, Sanders, and Roark
+(1994) find moral obligation to be a predictor of tax evasion
+intentions. Torgler (2003) also finds that individuals who
+view tax evasion as immoral are more likely to comply.
+Also, Culiberg (2018) finds support for moral obligation
+influencing an individual’s intention to engage in tax evasion. Again, Alleyne and Harris (2017) find that individuals
+with high moral obligation are less likely to engage in tax
+evasion. Based on these, we hypothesize that:
+H4: An individual’s level of moral obligation is negatively related to intention to engage in tax evasion.
+
+Ethics of tax evasion
+The concept of ethics can be explained as the normative
+systems of rules of conduct that guides the social interactions and interpersonal relationships of individuals (Hogan,
+1973). Ethics defines the right or wrong conduct of an
+individual in a particular situation. Surbhi (2015) asserts
+that ethics functions as a guiding principle that helps to
+determine what it good or bad. Arens, Elder, and Mark
+(2012) see it as something that helps society to function
+orderly. On the ethics of tax evasion, McGee (2006b) presents three views that exist in extant literature.
+The first view which is described as the absolutist view
+states that tax evasion is always or almost always unethical. Three basic reasons underpin this view of tax evasion.
+The first reason is that individuals must submit to an
+authority and that they owe a duty to God to pay taxes
+or it is a command from God to pay taxes. Proponents of
+this view normally use the Holy Bible by quoting Mathew
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+
+22:17–21 and Romans 13:1–2 to buttress their point.
+The second reason is that for a state to function properly,
+individuals have a duty to pay taxes. That last reason is
+that individuals have an ethical duty to contribute to the
+welfare of other people of the community by paying taxes.
+The second view which is described as the anarchist
+view states that tax evasion is never or almost never
+unethical. The proponents of this view assert that individuals do not owe any duty to pay taxes to any government
+because all governments are illegitimate and unworthy to
+receive tax payments. They further describe government
+as a thief which confiscates assets and percentages of
+paychecks without the consent of the owners of the property (McGee, 2006b; McGee & Guo, 2007).
+The third view holds the assertion that tax evasion is
+ethical in some circumstances but unethical other circumstances (McGee & Guo, 2007). Normally, individuals who
+subscribe to this view often have reason (s) to buttress their
+stance on tax evasion, whether it is ethical or unethical.
+These reasons could emanate from their religious and
+moral inclinations. This view towards tax evasion is the
+most prevalent view. We thus hypothesize that:
+H5: An individual’s ethical perception when taxes are
+being used for good purposes is negatively related to
+intention to engage in tax evasion.
+H6: An individual’s ethical perception when taxes are
+being used for bad purposes is positively related to
+intention to engage in tax evasion.
+
+Methodology
+Research design and instrument development
+The study used the survey method of research with questionnaires as the means of data collection. The questionnaires consisted of three different sections. The first section
+requested the background information about the respondents including age, gender, course major, level of study,
+religion and monthly income. The second section sought
+respondents’ views on the ethics of tax evasion. The respondents were asked to indicate their response category on the
+ethics of tax evasion instrument developed by McGee et al.
+(2008). The third section focused on the specific questions
+used to measure respondents’ intentions to evade tax and
+the factors that influence their intentions. Using the theoretical lens of the extended version of the TPB, four constructs: Attitude, Subjective Norm, Perceived Behavioural
+Control and Moral Obligation are considered to be important predictors of intention to engage in tax evasion. The
+indicators used to measure these constructs were adapted
+
+5
+
+from Alleyne and Harris (2017). All the indicators of the
+study constructs were measured on Likert scale with
+anchors ranging from one to seven, details of which are
+provided in Table 2.
+
+Participants and data collection
+The questionnaires were self-administered to the targeted
+students from the University of Ghana Business School
+(UGBS) after explaining to them the purpose of the study.
+To get honest responses and minimize the possibility of
+getting socially desirable answers, the respondents were
+made aware that participation in the survey was voluntary
+and they were assured that their responses will be kept
+confidential and solely used for this study. Out of the 750
+questionnaires distributed 667 were returned representing a response rate of 88.93% and 662 were deemed usable
+as five questionnaires were not filled fully by the respondents and therefore, were excluded from the analysis.
+
+Profile of respondents
+Table 1 presents the descriptive statistics of the respondents.
+The sample was dominated by males and Christians with
+a proportion of 55.6% and 95.6%, respectively. Most of the
+respondents fall between the ages of 20–25 years (62.1%),
+an indication of the respondents belonging to the youthful
+population. In addition, majority of the respondents
+(62.7%) are low-income earners with a monthly income
+of GHS500 or less. Students in the undergraduate level
+dominated the sample with a proportion of 65.86%. More
+of the respondents were offering Accounting (44.3%) as
+Table 1. Demographic characteristics of respondents.
+Variables
+AGE
+16–19 years
+20 – 25 years
+26 – 30 years
+31 years and above
+GENDER
+Male
+Female
+COURSE MAJOR
+Accounting
+BSc administration
+Finance & Insurance
+Health service & Public Administration
+Human resource
+Marketing
+LEVEL
+Undergraduate
+Postgraduate
+RELIGION
+Christianity
+Islam
+MONTHLY INCOME
+GHS 100–500
+GHS 501–1000
+GHS 1001–1500
+GHS 1501 and above
+
+Frequency
+
+Percent
+
+163
+411
+46
+42
+
+24.6
+62.1
+6.90
+6.30
+
+368
+294
+
+55.6
+44.4
+
+293
+234
+49
+34
+37
+15
+
+44.3
+35.3
+7.40
+5.20
+5.60
+2.30
+
+436
+226
+
+65.86
+34.14
+
+633
+29
+
+95.6
+4.40
+
+415
+100
+36
+111
+
+62.7
+15.1
+5.40
+16.8
+
+6
+
+G. M. Y. OWUSU ET AL.
+
+Table 2. Descriptive statistics on constructs.
+Variables
+ATTITUDE TOWARDS TAX EVASION
+Overall Mean
+Tax evasion is bad
+It is unwise to engage in tax evasion
+Tax evasion can be useless
+I find the concept of tax evasion to be unattractive
+Cheating on taxes is unpleasant
+SUBJECTIVE NORMS
+Overall Mean
+Most people I know would not approve of me cheating on taxes
+If I cheated on my taxes, most people who are important to me would disapprove
+Those who are important to me do not think it is okay to cheat on taxes
+It is likely that most people who are important to me will look down on me if I cheat on
+taxes
+PERCEIVED BEHAVIOURAL CONTROL
+Overall Mean
+It will be difficult for me to cheat on taxes
+I would engage in tax evasion only if I have a good reason to do so.
+If I want to, I can cheat on taxes
+MORAL OBLIGATION
+Overall Mean
+I think it would be morally right to engage in tax evasion
+I would not feel guilty if I cheated on taxes
+Cheating on taxes does not go against my principles
+It would not be morally wrong for me to cheat on taxes
+INTENTIONS TO ENGAGE IN TAX EVASION
+Overall Mean
+Even if I had the opportunity, I would never cheat on taxes
+I would never cheat on taxes
+I may not cheat on taxes in the future
+THE VIEWS OF STUDENTS ON THE ETHICS OF TAX EVASION
+Overall Mean
+Tax evasion is ethical if tax rates are too high.
+Tax evasion is ethical even if tax rates are not too high because the government is not
+entitled to take as much as it is taking from me.
+Tax evasion is ethical if the tax system is unfair.
+Tax evasion is ethical if a large portion of the money collected is wasted
+Tax evasion is ethical even if most of the money collected is spent wisely.
+Tax evasion is ethical if a large portion of the money collected is spent on projects that
+I morally disapprove of.
+Tax evasion is ethical if a large portion of the money collected is spent on worthy projects.
+Tax evasion is ethical if a large portion of the money collected is spent on projects that
+benefit me.
+Tax evasion is ethical if a large portion of the money collected is spent on projects that do
+not benefit me.
+Tax evasion is ethical if everyone is doing it.
+Tax evasion is ethical if a significant portion of the money collected winds up in the
+pockets of corrupt politicians or their families and friends.
+Tax evasion is ethical if the probability of getting caught is low.
+Tax evasion is ethical if some of the proceeds go to support a war that I consider to be
+unjust.
+Tax evasion is ethical if I cannot afford to pay.
+Tax evasion is ethical even if it means that I pay less and others will have to pay more
+
+a course major and this was distantly followed by students
+who were yet to choose their course major (35.3%). The
+remaining students major in other subject areas such as
+finance, health services management, human resource,
+insurance, marketing and public administration.
+
+Data analysis procedures and results
+Data for the study were initially analyzed descriptively
+showing the extent to which the respondents agreed or
+disagreed with the various statements used in measuring
+each of the constructs. The construct ‘ethics of tax evasion’
+was subsequently subjected to an Exploratory Factor
+Analysis (EFA) to examine its dimensionality. The
+
+Mean
+
+Std. Deviation
+
+5.16
+5.45
+5.31
+4.71
+4.94
+5.41
+
+2.146
+2.044
+2.063
+2.028
+1.991
+
+5.38
+5.49
+5.42
+5.37
+5.22
+
+1.874
+1.821
+1.867
+1.929
+
+4.54
+5.43
+4.32
+3.87
+
+1.855
+2.202
+2.260
+
+2.94
+3.15
+2.90
+2.71
+2.98
+
+2.289
+2.076
+1.990
+2.184
+
+5.23
+5.34
+5.20
+5.14
+
+1.905
+1.956
+1.977
+
+3.02
+3.19
+2.91
+
+2.128
+2.013
+
+3.48
+3.56
+2.80
+3.05
+
+2.184
+2.213
+2.093
+1.965
+
+3.00
+2.72
+
+2.143
+1.914
+
+2.89
+
+2.088
+
+2.61
+3.50
+
+2.033
+2.287
+
+2.62
+3.12
+
+1.906
+2.077
+
+3.20
+2.66
+
+2.048
+1.875
+
+predicted hypotheses of the study were tested using the
+structural equation modelling (SEM). SEM-based techniques help researchers to test and validate relationships as
+well as evaluate measurement models and structural paths
+that comprise latent constructs made up of multiple indicator variables (Astrachan, Patel, & Wanzenried, 2014).
+The Covariance-based SEM (CB-SEM) technique was
+adopted using version 21 of the Analysis of Moment
+Structures (AMOS) software.
+
+Descriptive statistics on constructs
+This section reports the mean scores and standard
+deviations of the respondents’ views on the specific
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+
+indicators used to measure the key constructs of the
+study. The mean score of each indicator under the
+respective construct indicates the extent of agreement
+or disagreement by the respondents to each statement.
+Results of this analysis as presented in Table 2 show an
+overall mean of 5.16 for the construct ‘attitude towards
+tax evasion’. This value suggests that the respondents
+agreed strongly with the statements that described tax
+evasion to be bad, unpleasant and unattractive. This
+finding thus, suggests that the sampled students have
+an unfavourable attitude towards tax evasion. The construct ‘subjective norm’ recorded an overall mean of
+5.38 (the highest among the constructs) which demonstrates that the respondents were strongly of the view
+that other important people in their lives will disapprove of them cheating on their tax responsibilities.
+Perceived behavioural control on the other hand had
+an overall mean of 4.54 which shows the uncertainty of
+the degree of control that the students have over their
+intention to engage in tax evasion. The construct ‘moral
+obligation’ had overall mean was 2.94 an indication that
+the respondents generally consider tax evasion to be
+morally wrong. The variable of interest ‘intention to
+engage in tax evasion’ also recorded an overall mean of
+5.23 suggesting that the respondents had a very low
+intention to engage in tax evasion.
+Lastly, in terms of the views of students on the ethics of
+tax evasion, an overall mean score of 3.02 was recorded
+which presupposes that generally most of the students
+view tax evasion as an unethical practice regardless of
+the motive. The mean scores for almost all the indicators
+were below the mid-point value of 3.5 an indication that
+tax evasion is seen as unethical in all circumstances by the
+respondents. Impliedly, the respondents appear to subscribe to the absolutist view which argues that tax evasion
+is always or almost always unethical because no state can
+function properly without taxes and the believe that individuals have an ethical duty to contribute to the welfare of
+other people by paying taxes. This notwithstanding,
+majority of the respondents somehow agree to the statement that tax evasion is ethical if a large portion of the
+money collected ends up being wasted (mean = 3.56).
+
+Exploratory factor analysis
+The principal component extraction criterion using the
+varimax rotation method was employed and the results
+are as shown in Table 3. Tests for model sampling adequacy
+yielded satisfactory results as the Kaiser-Meyer-Olkin value
+of 0.915 exceeded 0.7 threshold (Kaiser, 1970; Kaiser &
+Rice, 1974). Also, the Bartlett’s test of sphericity which
+confirms that the indicators are correlated yielded very
+significant and satisfactory results (Chi-square = 4672.528,
+
+7
+
+Table 3. Rotated component matrix.
+Ethics of Tax Evasion
+
+Good
+
+Tax evasion is ethical if a large portion of the money
+collected is spent on projects that benefit me.
+Tax evasion is ethical if a large portion of the money
+collected is spent on worthy projects.
+Tax evasion is ethical even if most of the money
+collected is spent wisely.
+Tax evasion is ethical if everyone is doing it.
+Tax evasion is ethical even if tax rates are not too
+high because the government is not entitled to
+take as much as it is taking from me.
+Tax evasion is ethical if a large portion of the money
+collected is spent on projects that do not benefit
+me.
+Tax evasion is ethical even if it means that I pay less
+and others will have to pay more
+Tax evasion is ethical if the probability of getting
+caught is low.
+Tax evasion is ethical if a large portion of the money
+collected is wasted
+Tax evasion is ethical if the tax system is unfair.
+Tax evasion is ethical if a significant portion of the
+money collected winds up in the pockets of
+corrupt politicians or their families and friends.
+Tax evasion is ethical if tax rates are too high.
+Tax evasion is ethical if I cannot afford to pay.
+Tax evasion is ethical if some of the proceeds go to
+support a war that I consider to be unjust.
+Tax evasion is ethical if a large portion of the money
+collected is spent on projects that I morally
+disapprove of.
+Eigenvalues
+Percentage of Variance Explained
+
+.829
+
+Bad
+
+.828
+.822
+.723
+.646
+.631
+.580
+.527
+.839
+.818
+.766
+.640
+.630
+.611
+.511
+6.243
+41.621
+
+2.241
+14.942
+
+df = 105, p-value <0.01). Principal components analysis
+revealed the presence of two factors with eigenvalues
+exceeding 1.0 explaining a total of 56.6% of the variance.
+The first factor which we referred to as ‘Good’ consists
+of indicators that measure the ethical stance of students
+on tax evasion when tax revenues are perceived to be used
+for good purposes by the state. Factor two referred to as
+‘Bad’ contained indicators describing tax evasion as ethical when tax revenues are believed to be spent unwisely.
+
+Confirmatory factor analysis (CFA), reliability
+and validity tests
+We initially subjected all the constructs to a CFA procedure to determine the appropriateness of the indicators
+of the various constructs for inclusion in the structural
+model analysis. Consequently, all the constructs were
+considered as exogenous at this stage and linked by
+covariance. Due to poor factor loadings of the indicators
+of the construct “perceived behavioural control” it was
+excluded from the final analysis. Reliability and validity
+tests were conducted on the remaining constructs using
+the Cronbach alpha (CA) and the composite reliability
+(CR) scores. As shown in Table 4, the CA and CR score
+for each construct exceeded the recommended threshold
+of 0.70 (Fornell & Larcker, 1981; Nunnally, 1978) and
+hence, are deemed reliable.
+
+8
+
+G. M. Y. OWUSU ET AL.
+
+Average Variance
+Extracted
+0.51
+
+Composite
+Reliability
+0.87
+
+Cronbach
+Alpha
+0.88
+
+0.50
+
+0.83
+
+0.85
+
+0.51
+
+0.79
+
+0.83
+
+results as displayed in Table 6 indicate that the fit indices
+are satisfactory since they are within the recommended
+thresholds (Byrne, 2010). Given the fact that all the fit
+indices are good, we conclude that the model supports
+the research hypotheses and thus tested the various
+hypotheses using this model.
+
+0.64
+0.56
+0.75
+
+0.88
+0.79
+0.90
+
+0.88
+0.79
+0.90
+
+Structural model results and discussions
+
+Table 4. AVE, CR, Cronbach alpha.
+Construct
+Ethics of tax evasion
+(good purposes)
+Ethics of tax evasion
+(bad purposes)
+Attitude towards tax
+evasion
+Subjective norms
+Moral Obligation
+Intentions to engage in
+tax evasion
+
+Validity tests (convergent and discriminant validity)
+were conducted following the guidelines prescribed by
+Hair, Black, Babin, and Anderson (2009). Convergent
+validity was measured using the Average Variance
+Extracted (AVE). As shown in Table 4, the AVE scores
+for each construct met the recommended minimum
+threshold value of 0.50 (Hair, Hult, & Ringle, 2013). To
+establish the distinctiveness of the constructs, discriminant
+validity test was performed using the Fornell–Larcker criterion which prescribes that the AVE of each construct
+should be greater than the squared correlation of that construct with other constructs. Results of this test as presented
+in Table 5 show that discriminant validity is assured as the
+AVE scores are higher than the squared cross-correlations
+of the constructs.
+
+Structural model analysis
+Testing of hypotheses was performed using structural
+equation modelling technique. The structural model as
+shown in Figure 1 was tested using Analysis of a Moment
+Structures (AMOS) version 21.
+
+Model fitness and structural model results
+The overall fitness of the model was assessed using three
+model fit indices: incremental fit, absolute fit and parsimony fit. The specific indices tested were Goodness of Fit
+Index (GFI), Adjusted Goodness of Fit Index (AGFI), Root
+Mean Square Error of Approximation (RMSEA) and Chisquare/Degrees of Freedom (CMIN/DF), Absolute fit
+includes Comparative Fit Index (CFI), Tucker–Lewis
+Index (TLI) and Normed Fit Index (NFI), Parsimony
+Good Fit (PGFI) and Parsimony Normed Fit (PNFI). The
+
+Table 7 reports the estimated structural parameters, the
+standardized estimations, and the final decision on
+whether the study hypotheses are supported or not.
+As shown in the table, a positive and highly significant
+relationship was found between students’ attitude
+toward tax evasion and intention to engage in tax
+evasion (p-value<0.01). This implies that students who
+have a favourable attitude towards tax evasion have
+greater motivation to engage in tax evasion. As indicated by Ajzen’s (1991) theory of planned behaviour,
+a person’s favourable attitude towards a particular
+behaviour influences his/her intention to perform that
+behaviour whereas an unfavourable attitude hinders
+a person’s intention to perform the behaviour. In line
+with the prediction of this study, hypothesis 1 is supported. Empirically, this finding is consistent with
+existing studies (Alleyne & Harris, 2017; Eriksen &
+Fallan, 1996; Kirchler et al., 2008; Trivedi et al., 2004)
+that found the attitude of individuals to be positively
+associated with their intention to evade tax.
+Our second hypothesis which examines the relationship between students’ subjective norms and intention
+to engage in tax evasion also yielded a positive and
+statistically significant relationship between the two
+constructs (p-value <0.01). This finding thus, suggests
+that the intentions of students to engage in tax evasion
+may also be influenced significantly by the level of
+importance they attach to the opinions of other significant individuals in society in making decisions.
+Students who consider the opinions of significant people in their life such as family members, friends, supervisors, co-workers and others are more likely to engage
+in tax evasion when they perceive that these significant
+others would endorse such a behaviour and vice versa.
+As pointed out by Ajzen (1991), the views and opinions
+of significant others could be an important predictor of
+
+Table 5. Measures of discriminant validity.
+Constructs
+Good
+Bad
+Attitude
+Subjective Norms
+Moral Obligation
+Intention
+
+Good
+1
+0.515
+−0.452
+−0.282
+0.375
+−0.233
+
+Bad
+0.265
+1
+−0.282
+−0.261
+0.302
+−0.245
+
+Attitude
+0.204
+0.08
+1
+0.686
+−0.218
+0.483
+
+Subjective Norms
+0.08
+0.068
+0.471
+1
+−0.328
+0.464
+
+Moral Obligation
+0.141
+0.091
+0.048
+0.108
+1
+−0.292
+
+Intention
+0.054
+0.06
+0.233
+0.215
+0.085
+1
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+
+9
+
+Figure 1. Structural model.
+
+an individual’s behavioural intentions to perform
+a particular behaviour. This finding compares favourably with some existing studies (Alleyne & Harris, 2017;
+Bobek et al., 2007; Cullis & Lewis, 1997; Richardson,
+2006; Torgler, 2003; Tsakumis et al., 2007) that report
+that subjective norm influences intentions to engage in
+tax evasion.
+In terms of the relationship between the measure of
+moral obligation and intentions to engage in tax evasion, findings suggest the existence of a negative and
+highly significant relationship between the two constructs (p-value<0.01). Based on the descriptive statistics which clearly demonstrate that most respondents
+generally consider tax evasion to be morally wrong, this
+finding implies the intention to engage in tax evasion
+will be low when an individual perceives the act to be
+morally wrong. Thus, the personal beliefs about right
+and wrong of an individual based on his/her own
+internalized ethical rules has important implications
+on the intention to evade tax. Individuals who believe
+
+they have a sense of responsibility towards the state, for
+instance, will respond to tax evasion issues differently
+from those who do not believe they are responsible to
+the state in the payment of taxes. This finding compares
+favourably with some existing studies (Alleyne &
+Harris, 2017; Culiberg, 2018; McGee, 1999; Reckers
+et al., 1994; Torgler, 2003) that found moral obligation
+to be an important predictor of a person’s intention to
+engage in tax evasion. In line with the prediction of this
+study, hypothesis 4 is thus, supported.
+Our fifth hypothesis which tests the relationship
+between students’ ethical views when taxes are used for
+good purposes and intention to engage in tax evasion
+resulted in a positive but statistically insignificant relationship between the two constructs. However, the relationship between students’ ethical views when taxes are
+used for bad purposes and intention to engage in tax
+evasion yielded a statistically significant relationship
+with a negative coefficient. This implies the motivation
+to engage in tax evasion will still be low even when the
+
+10
+
+G. M. Y. OWUSU ET AL.
+
+Table 6. Indices for structural model.
+Type of
+Category
+
+Quality of Fit Recommended
+Measure
+Value
+Probability
+0.05
+Incremental Goodness of Fit
+>0.90
+Fit
+Index (GFI)
+>0.90
+Adjusted
+Goodness of Fit
+Index (AGFI)
+Root Mean
+<0.08
+Square Error of
+Approximation
+(RMSEA)
+Chi-square
+<5.0
+/Degrees of
+Freedom
+(CMIN/DF)
+Absolute Fit Comparative
+>0.90
+Fit Index (CFI)
+Tucker-Lewis
+>0.90
+Index (TLI)
+Normed Fit
+>0.90
+Index (NFI)
+>0.50
+Parsimony
+Parsimony
+Good Fit Index
+Fit
+(PGFI)
+Parsimony
+>0.50
+Normed Fit
+Index (PNFI)
+
+Structural
+Model
+Explanation
+0.000
+Good
+0.922
+Good
+0.902
+
+Good
+
+0.049
+
+Good
+
+2.556
+
+Good
+
+0.949
+
+Good
+
+0.941
+
+Good
+
+0.919
+
+Good
+
+0.735
+
+Good
+
+0.792
+
+Good
+
+Table 7. Regression output.
+Hypothesis path
+Ethics of tax evasion (Good) → intention
+to engage in tax evasion
+Ethics of tax evasion (Bad) → intention
+to engage in tax evasion
+Attitudes towards tax evasion →
+intention to engage in tax evasion
+Subjective norm → intention to engage
+in tax evasion
+Moral obligation → intention to engage
+in tax evasion
+
+Path coefficient
+0.073
+
+P-value Result
+.168 Rejected
+
+−0.102
+
+.048
+
+Accepted
+
+0.354
+
+.000
+
+Accepted
+
+0.193
+
+.006
+
+Accepted
+
+−0.170
+
+.000
+
+Accepted
+
+respondents believe tax revenues are not used appropriately by the state. This result reinforces the point that
+respondents generally perceive tax evasion as unethical
+irrespective of whether the taxes are used for good or bad
+purposes. Given that most of the respondents are yet to be
+robed into the tax net, this view offers some hope to the
+country in the future as compliance levels are likely to be
+high when individuals consider evasion to be unethical.
+
+Conclusion
+The study examined the views of some university students
+on the ethics of tax evasion, their intentions to engage in
+tax evasion and the factors that influence such intentions.
+Using the extended version of TPB as the theoretical frame,
+the study investigated the influence of attitude, subjective
+norm, perceived behavioural control and moral obligation
+on the intention to evade tax and also ascertained whether
+the intention to evade tax could be explained by reference
+to respondent’s stance on the ethics of tax evasion.
+
+The findings from the study suggest the intention to
+evade tax among the respondents is quite low and that
+most of the sampled students view tax evasion as an
+unethical practice even when tax revenues are perceived
+not to be properly used by the state. From our descriptive
+analysis, it appears the sampled students generally subscribe to the absolutist view which argues that tax evasion
+is always or almost always unethical and therefore have
+lower motivations to engage in tax evasion. The results
+from the structural model suggest that students’ attitudes
+and subjective norms have a positive influence on their
+intentions to engage in tax evasion whilst an inverse
+relationship exists between moral obligation and intentions to engage in tax evasion. Also, it was found that
+students’ ethical views on taxes have important implications on their intentions to evade.
+Findings of this study offer some useful insights into
+the tax payment behaviour of the youthful population
+who arguably constitute the backbone of every state. An
+understanding of the intentions of students towards tax
+evasion and the predictors of such intentions may be
+valuable to policy makers interested in promoting good
+tax compliance behaviour among would-be tax payers.
+Given that the ethical orientation and moral issues
+affect the intention to engage in tax evasion, an important way of promoting responsible tax compliance
+behaviour among would be employees is to emphasize
+the teaching of ethics and the promotion of ethical
+behaviour at the university and other training institutions aimed at inducing in individuals a sense of moral
+obligation towards the payment of taxes.
+Again, given that individuals with positive attitudes
+towards taxes are less likely to engage in tax evasion,
+governments and tax authorities could fashion out programmes aimed at sensitizing would-be taxpayers on
+the need to pay taxes and the consequences for noncompliance to shape their attitudes favourably with
+respect to the payment of taxes. This can be achieved
+by deploying effective communication programmes
+such as seminars, symposiums and media education
+to sensitize the public on their civic responsibility to
+the state through the payment of taxes.
+Despite the contributions of this study, the findings
+are limited in some regards. Findings of this study only
+reflect the intentions of people to engage in tax evasion
+and the factors that predict such intentions and not the
+actual tax evasion behaviour. Moreover, the study relied
+on the views of students from a single public university in
+Ghana most of whom are yet to be employed as workers.
+Whilst their present view may be useful indicators for
+predicting actual tax compliance behaviour in future, this
+view can change in the future. Care should therefore be
+taken in the interpretation of the findings.
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+
+References
+Astrachan, C. B., Patel, V. K., & Wanzenried, G. (2014).
+A comparative study of CB-SEM and PLSSEM for theory
+development in family firm research. Journal of Family
+Business Strategy, 5(1), 116–128. doi:10.1016/j.jfbs.2013.12.002
+Abdul–Razak, A., & Adafula, C. J. (2013). Evaluating taxpayers’ attitude and its influence on tax compliance decisions in Tamale, Ghana. Journal of Accounting and
+Taxation, 5(3), 48–57. doi:10.5897/JAT2013.0120
+Adu, K. O., & Amponsah, S. (2017). Registration of business
+and tax payment in nkoranza North and South districts in
+brong ahafo region of Ghana. International Journal of Law
+and Management, 59(6), 1181–1189. doi:10.1108/IJLMA07-2016-0065
+Ajzen, I. (1991). The theory of planned behaviour.
+Organizational Behaviour and Human Decision Processes,
+50(2), 179–211. doi:10.1016/0749-5978(91)90020-T
+Alabede, J. O., Ariffin, Z. Z., & Idris, K. M. (2011).
+Individual taxpayers’ attitude and compliance behaviour
+in Nigeria: The moderating role of financial condition
+and risk preference. Journal of Accounting and Taxation,
+3(3), 91–104.
+Ali, A., & Ahmad, N. (2014). Trust and tax compliance
+among Malaysian working youth. International Journal of
+Public Administration, 37(7), 389–396.
+Alleyne, P. (2016). The influence of organisational commitment and corporate ethical values on non-public accountants’ whistle-blowing intentions in Barbados. Journal of
+Applied Accounting Research, 17(2), 190–210. doi:10.1108/
+JAAR-12-2013-0118
+Alleyne, P., & Harris, T. (2017). Antecedents of taxpayers’
+intentions to engage in tax evasion: Evidence from
+Barbados. Journal of Financial Reporting and Accounting,
+15(1), 2–21. doi:10.1108/JFRA-12-2015-0107
+Alleyne, P., Hudaib, M., & Haniffa, R. (2015). The moderating role of perceived organisational support in breaking
+the silence of public accountants. Journal of Business
+Ethics, 147(3), 509–527. doi:10.1007/s10551-015-2946-0
+Alleyne, P., Hudaib, M., & Pike, R. (2013). Towards
+a conceptual model of whistle-blowing intentions among
+external auditors. The British Accounting Review, 45(1),
+10–23. doi:10.1016/j.bar.2012.12.003
+Alm, J., & Martinez-Vazquez, J. (2007). Tax morale and tax
+evasion in Latin America. International Studies Program,
+Working Paper 07-04, March, Andrew Young School of
+Policy Studies, Georgia State University, Georgia, USA,
+pp.1–91.
+Amponsah, S., Isshaq, Z., & Agyapong, D. (2019). Determinants
+of tax stamp evasion in rural districts in Ghana: A case of
+Twifu Atti-Morkwa and Hemang lower Denkyira districts.
+International Journal of Law and Management, 61(1), 73–90.
+doi:10.1108/IJLMA-08-2017-0190
+Antonides, G., & Robben, H. S. (1995). True positives and
+false alarms in the detection of tax evasion. Journal Of
+Economic Psychology, 16(4), 617–640. doi:10.1016/01674870(95)00027-4
+Arens, A. A., Elder, R. J., & Mark, B. (2012). Auditing and
+assurance services: An integrated approach. Boston, MA:
+Prentice Hall.
+Asiedu, E. (2006). Foreign direct investment in Africa: The
+role of natural resources, market size, government policy,
+
+11
+
+institutions and political instability. World Economy, 29(1),
+63–77.
+Baldry, J. C. (1987). Income tax evasion and the tax schedule:
+Some experimental results. Public Finance, 42(3), 357–383.
+Bazart, C., & Bonein, A. (2014). Reciprocal relationships in
+tax compliance decisions. Journal Of Economic Psychology,
+40, 83–102. doi:10.1016/j.joep.2012.10.002
+Beck, L., & Ajzen, I. (1991). Predicting dishonest actions
+using the theory of planned behaviour. Journal of
+Research in Personality, 25(3), 285–301. doi:10.1016/00926566(91)90021-H
+Benton, A., & Dionne, K. Y. (2015). International political economy and the 2014 West African Ebola outbreak. African
+Studies Review, 58(1), 223–236. doi:10.1017/asr.2015.11
+Blanton, R. G., Blanton, S. L., & Peksen, D. (2015). The
+impact of IMF and World Bank programs on labor
+rights. Political Research Quarterly, 68(2), 324–336.
+doi:10.1177/1065912915578462
+Bobek, D. D., & Hatfield, R. C. (2003). An investigation
+of the theory of planned behaviour and the role of
+moral obligation in tax compliance. Behavioural
+Research in Accounting, 15(1), 13–38. doi:10.2308/
+bria.2003.15.1.13
+Bobek, D. D., Hatfield, R. C., & Wentzel, K. (2007). An investigation of why taxpayers prefer refunds: A theory of planned
+behaviour approach. Journal of the American Taxation
+Association, 29(1), 93–111. doi:10.1521/jata.2007.29.1.93
+Byrne, B. M. (2010). Structural equation modeling with
+AMOS: Basic concepts, applications, and programming
+(2nd ed.). New York, NY: Routledge.
+Carnes, G. A., & Englebrecht, T. D. (1995). An investigation
+of the effect of detection risk perceptions, penalty sanctions, and income visibility on tax compliance. The Journal
+of the American Taxation Association, 17(1), 26.
+Casagrande, A., Di Cagno, D., Pandimiglio, A., & Spallone,
+M. (2015). The effect of competition on tax compliance:
+The role of audit rules and shame. Journal of Behavioral
+and Experimental Economics, 59, 96–110.
+Chiu, R. K. (2003). Ethical judgment and whistleblowing
+intention: Examining the moderating role of locus of
+control. Journal of Business Ethics, 43(1–2), 65–74.
+doi:10.1023/A:1022911215204
+Choo, C. L., Fonseca, M. A., & Myles, G. D. (2016). Do
+students behave like real taxpayers in the lab? Evidence
+from a real effort tax compliance experiment. Journal of
+Economic Behaviour & Organization, 124, 102–114.
+doi:10.1016/j.jebo.2015.09.015
+Cronan, T. P., & Al-Rafee, S. (2008). Factors that influence the
+intention to pirate software and media. Journal of Business
+Ethics, 78(4), 527–545. doi:10.1007/s10551-007-9366-8
+Culiberg, B. (2018). How can governments tackle consumption tax evasion? Shedding light on the antecedents of
+consumer attitudes and intentions. Journal of Nonprofit
+& Public Sector Marketing, 30(4), 367–386.
+Cullis, J. G., & Lewis, A. (1997). Why people pay taxes: From
+a conventional economic model to a model of social
+convention. Journal Of Economic Psychology, 18(2–3),
+305–321. doi:10.1016/S0167-4870(97)00010-X
+Eriksen, K., & Fallan, L. (1996). Tax knowledge and attitudes
+towards taxation; A report on a quasi-experiment. Journal
+Of Economic Psychology, 17(3), 387–402. doi:10.1016/01674870(96)00015-3
+
+12
+
+G. M. Y. OWUSU ET AL.
+
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention and
+behaviour: An introduction to theory and research (pp.
+369–382). Reading, MA: AddisonWesley.
+Forest, A., & Kirchler, E. (2010). Targeting occupations with
+varying reputations to increase tax revenue. The Journal of
+Socio-economics, 39(3), 400–406. doi:10.1016/j.socec.2010.
+02.006
+Fornell, C., & Larcker, D. F. (1981). Structural equation
+models with unobservable variables and measurement
+error: Algebra and statistics. Journal of Marketing
+Research, 382–388. doi:10.1177/002224378101800313
+Forster, T., Kentikelenis, A. E., Reinsberg, B., Stubbs, T. H., &
+King, L. P. (2019). How structural adjustment programs
+affect inequality: A disaggregated analysis of IMF conditionality, 1980–2014. Social Science Research, 80(1),
+83–113. doi:10.1016/j.ssresearch.2019.01.001
+Ghana Statistical Service. (2012). Employment sector of
+employed persons 15-64 years by region and district,
+2010. Retrieved from http://www2.statsghana.gov.gh/
+labour_stats.html
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E.
+(2009). Multivariate data analysis (7th ed.). New York,
+NY: Prentice Hall.
+Hair, J. F., Jr, Hult, G. T. M., & Ringle, C. (2013). A Primer on
+Partial Least Squares Structural Equation Modeling (PLSSEM). Thousand Oaks, CA: Sage Publications.
+Hasan, R., Mohammad, N., & Alam, M. F. (2017). Tax compliance in Bangladesh–A structural equation modelling
+approach. American Journal of Trade and Policy, 4(1), 15–22.
+Hashimzade, N., Myles, G. D., Page, F., & Rablen, M. D.
+(2014). Social networks and occupational choice: The
+endogenous formation of attitudes and beliefs about tax
+compliance. Journal Of Economic Psychology, 40, 134–146.
+doi:10.1016/j.joep.2012.09.002
+Hernández-Catá, M. E. (2000). Raising growth and investment
+in Sub-Saharan Africa: What can be done? (No. 0-4).
+International Monetary Fund.
+Hogan, R. (1973). Moral conduct and moral character:
+A psychological perspective. Psychological Bulletin, 79(4),
+217–232.
+Houston, J., & Tran, A. (2001). A survey of tax evasion using
+the randomized response technique. In Advances in taxation (pp. 69–94). Bingley, UK: Emerald Group Publishing
+Limited.
+Jimenez, P., & Iyer, G. S. (2016). Tax compliance in a social
+setting: The influence of social norms, trust in government,
+and perceived fairness on taxpayer compliance. Advances in
+Accounting, 34, 17–26. doi:10.1016/j.adiac.2016.07.001
+Kaiser, H. F. (1970). A second generation little jiffy.
+Psychometrika, 35(4), 401–415.
+Kaiser, H. F., & Rice, J. (1974). Little jiffy, mark IV.
+Educational and Psychological Measurement, 34(1), 111–
+117.
+Kirchler, E., Hoelzl, E., & Wahl, I. (2008). Enforced versus
+voluntary tax compliance: The “slippery slope” framework.
+Journal Of Economic Psychology, 29(2), 210–225.
+doi:10.1016/j.joep.2007.05.004
+Korndörfer, M., Krumpal, I., & Schmukle, S. C. (2014).
+Measuring and explaining tax evasion: Improving
+self-reports using the crosswise model. Journal Of Economic
+Psychology, 45, 18–32. doi:10.1016/j.joep.2014.08.001
+
+Machogu, C., & Amayi, J. B. (2016). The effect of taxpayer
+education on voluntary tax compliance, among SMEs in
+Mwanza City-Tanzania.
+McGee, R. (1999). Why people evade taxes in Armenia: A look
+at an ethical issue based on a summary of interviews. Journal
+of Accounting, Ethics & Public Policy, 2(2), 408.416.
+McGee, R. W. (2006b). Three views on the ethics of tax
+evasion. Journal of Business Ethics, 67(1), 15–35.
+doi:10.1007/s10551-006-9002-z
+McGee, R. W., & Guo, Z. (2007). A survey of law, business
+and philosophy students in China on the ethics of tax
+evasion. Society and Business Review, 2(3), 299–315.
+doi:10.1108/17465680710825488
+McGee, R. W., Ho, S. S. M., & Li, A. Y. S. (2008).
+A comparative study on perceived ethics of tax evasion:
+Hong kong vs the united states. Journal of Business Ethics,
+77(2), 147–158. doi:10.1007/s10551-006-9304-1
+Ministry of Finance fiscal data. 2015–2018. Retrieved from
+https://www.mofep.gov.gh/fiscal-data
+Molero, J. C., & Pujol, F. (2012). Walking inside the potential
+tax evader’s mind: Tax morale does matter. Journal of
+Business Ethics, 105(2), 151–162. doi:10.1007/s10551-0110955-1
+Nunnally, J. C. (1978). Psychometric Theory. New York, NY:
+McGraw-Hill.
+Pickhardt, M., & Prinz, A. (2014). Behavioural dynamics of
+tax evasion–A survey. Journal Of Economic Psychology, 40,
+1–19. doi:10.1016/j.joep.2013.08.006
+Pui Yee, C., Moorthy, K., & Choo Keng, S. W. (2017).
+Taxpayers’ perceptions on tax evasion behaviour: An
+empirical study in Malaysia. International Journal of Law
+and Management, 59(3), 413–429. doi:10.1108/IJLMA-022016-0022
+Reckers, P. M., Sanders, D. L., & Roark, S. J. (1994). The
+influence of ethical attitudes on taxpayer compliance.
+National Tax Journal, 47, 825–836.
+Riahi-Belkaoui, A. (2004). Relationship between tax compliance
+internationally and selected determinants of tax morale.
+Journal of International Accounting, Auditing and Taxation,
+13(2), 135–143. doi:10.1016/j.intaccaudtax.2004.09.001
+Richardson, G. (2006). Determinants of tax evasion: A
+cross-country investigation. Journal of International
+Accounting, Auditing and Taxation, 15(2), 150–169.
+doi:10.1016/j.intaccaudtax.2006.08.005
+Scholz, J. T., McGraw, K. M., & Steenbergen, M. R. (1992).
+Will taxpayers ever like taxes?: Responses to the US Tax
+Reform Act of 1986. Journal Of Economic Psychology, 13
+(4), 625–656. doi:10.1016/0167-4870(92)90016-Z
+Shaw, D., Shiu, E., & Clarke, I. (2000). The contribution of
+ethical obligation and self-identity to the theory of planned
+behaviour: An exploration of ethical consumers. Journal of
+Marketing Management, 16(8), 879–894. doi:10.1362/
+026725700784683672
+Slemrod, J., & Weber, C. (2012). Evidence of the invisible:
+Toward a credibility revolution in the empirical analysis of
+tax evasion and the informal economy. International Tax
+and Public Finance, 19(1), 25–53. doi:10.1007/s10797-0119181-0
+Surbhi, S. (2015). Difference between morals and ethics.
+Retrieved from http://keydifferences.com/differencebetween-morals-and-ethics.htm.
+
+INTERNATIONAL JOURNAL OF PUBLIC ADMINISTRATION
+
+Tanzi, V., & Zee, H. (2000). Tax policy for emerging markets:
+Developing countries. National Tax Journal, 53(2),
+299–322. doi:10.17310/ntj.2000.2.00
+Torgler, B. (2003). To evade taxes or not to evade: That is the
+question. The Journal of Socio-economics, 32(3), 283–302.
+doi:10.1016/S1053-5357(03)00040-4
+Torgler, B. (2005). Tax morale in Latin America. Public
+Choice, 122(1), 133–157. doi:10.1007/s11127-005-57
+90-4
+Trivedi, V. U., Shehata, M., & Mestelman, S. (2004).
+Attitudes, incentives, and tax compliance. Hamilton, ON:
+Department of Economics, McMaster University.
+
+13
+
+Tsakumis, G. T., Curatola, A. P., & Porcano, T. M. (2007). The
+relation between national cultural dimensions and tax evasion.
+Journal of International Accounting, Auditing and Taxation, 16
+(2), 131–147. doi:10.1016/j.intaccaudtax.2007.06.004
+Yoon, C. (2011). Theory of planned behaviour and ethics theory
+in digital piracy: An integrated model. Journal of Business
+Ethics, 100(3), 405–417. doi:10.1007/s10551-010-0687-7
+Zainan, N., Noor, R. M., Omar, N., Aziz, R. A., &
+Sanusi, S. (2017). Retailers’ behavioural factors towards
+goods and services tax (Gst) compliance: Sociological
+and psychological approach study. Management &
+Accounting Review, 16(1), 167–188.
+
+

@@ -1,0 +1,1434 @@
+Kwakye et al. International Journal of Corporate Social Responsibility
+(2018) 3:11
+https://doi.org/10.1186/s40991-018-0035-2
+
+International Journal of
+Corporate Social Responsibility
+
+ORIGINAL ARTICLE
+
+Open Access
+
+Determinants of intention to engage in
+Sustainability Accounting & Reporting
+(SAR): the perspective of professional
+accountants
+Teddy Ossei Kwakye, Emerald Edem Welbeck, Godfred Matthew Yaw Owusu* and Fred Kwasi Anokye
+
+Abstract
+This study examines the perception of professional accountants and the intention to engage in Sustainability
+Accounting & Reporting (SAR). By relying on the Theory of Planned Behaviour (TPB), the study investigates whether
+attitudes, subjective norms and perceived behavioural control have any impact on a firm’s intention to engage in SAR.
+A survey method of research was adopted, and a set of questionnaires was developed (based on existing studies) and
+administered to professional accountants- the respondent group. A total of 86 professional accountants in Ghana
+voluntarily participated in the study. The partial least square-SEM (PLS-SEM) technique was used to analyse the data
+obtained. The results from the structural analysis demonstrate that only subjective norm and perceived behavioural
+control significantly influence a firm’s intention to engage in SAR. By implication, the attitude of an accountant towards
+SAR does not affect the intention to engage in the practice and that the willingness to engage in SAR is primarily
+determined by resources availability and pressure from major stakeholders.
+Keywords: Sustainability reporting, Theory of planned behaviour, Accountants, Structural equation modelling
+
+Introduction
+Sustainability accounting and reporting (SAR),1 has received significant research attention in the field of accounting within the last two decades (Lamberton 2005;
+Schaltegger et al. 2013). The concept of SAR has evolved
+out of the need to increase corporate accountability and
+transparency about the impact of corporate decisions on
+the environment and society as a whole (Ball et al. 2000;
+Adams and Whelan 2009). This according to Henri and
+Journeault (2010) is critical to the development of decision
+support systems for enhancing corporate sustainability
+management. The importance of engaging in a SAR is well
+emphasised in the literature. As argued by some studies
+(Özsözgün Çalişkan 2014; Schaltegger and Burritt 2010),
+engaging in SAR may lead to potential legitimacy gains for
+firms and other corporate benefits necessary for the
+long-term value creation of firms.
+
+* Correspondence: gmowusu@gmail.com; gmyowusu@ug.edu.gh
+Department of Accounting, University of Ghana Business School,
+Legon-Accra, Ghana
+
+Although, prior literature suggests the existence of divergent views on what constitutes SAR and its processes
+(Parker 2011; Bebbington and Gray 2001; Burritt and Schaltegger 2010), majority of the existing studies recognise the
+relevance of accountants’ involvement in environmental
+and sustainability management (Zvezdov et al. 2010; Evans
+et al. 2011). This consensus in part is attributable to the
+professional accountants’ role in the conduct and design of
+firms’ reporting system, preparation and interpretation of
+timely information to management to make informed
+socio-environmental and economic decisions (Özsözgün
+Çalişkan 2014; Aras and Crowther 2009b).
+Generally, SAR involves corporate reporting on environmental, social responsibility and economic performance of
+firms, conceptualised as the ‘triple bottom line (TBL)
+reporting’ (Asif et al. 2011; Herzig and Schaltegger 2011).
+SAR augments the current external corporate financial reports in benefitting wider external parties of economies and
+societies, which hitherto have mostly been beneficial to
+shareholders of companies (Özsözgün Çalişkan 2014).2
+SAR practices, thus, encompass companies reporting on
+
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made.
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+their performance regarding the environment, health, safety
+and social matters, in addition to the traditional financial
+performance over a period.3 For this reason, SAR is suggested as part of firms’ external reporting system (Sisaye
+2011a, 2011b; Gray, 2006), for which the practical design
+and implementation of such system is a fundamental role
+of the professional accountant (Aras and Crowther 2009a,
+2009b). Accountants also play an integral role in the value
+creation process of firms by providing services related to
+the development of sustainable business strategies – with
+their risk and opportunities evaluation skills (EY 2011),
+and SAR and assurance – by providing measurement, accounting, reporting and assurance skills (Özsözgün Çalişkan 2014). Moreover, accountants are perceived to be
+knowledgeable about the financial and non-financial information, including SAR, relevant for managerial
+decision-making and performance management and control (Granlund and Malmi 2002; Scapens and Jazayeri
+2003; Jack and Kholeif 2008).
+These traditional roles performed by the accountant in
+organisations, coupled with their advisory role to top
+management and decision makers, have positioned them
+in a very strategic way to influence the establishment and
+implementation of an efficient SAR system in organisations (Pierce and O’Dea 2003). The need for professional
+accountants to be more engaged in providing sustainability information has become more pressing than before because of: the need to comply with emerging jurisdictional
+requirements of sustainable development for organisations; market demands for firm’s greater awareness of sustainability; and increased social/media attention from
+social change that has influenced the society’s perceptions
+on sustainability (Parker 2000, 2011; Ferreira et al. 2010;
+Schaltegger and Zvezdov 2013; Mistry et al. 2014). In response to these demands, there has been a renewed effort
+by the accounting profession to address sustainability issues within the general framework of reporting (Özsözgün
+Çalişkan 2014; Lusher 2012).
+However, while the professional accountants’ roles and
+involvement in conventional accounting and reporting
+process are extensively researched in existing literature,
+very few studies have examined the involvement of accountants in SAR (Schaltegger and Zvezdov 2013;
+Albelda 2011). The few existing studies on accountants’ involvement in SAR suggest that accountants
+are not adequately if at all, involved in environmental and
+sustainability information management in organisations
+(Wilmshurst and Frost 2001; Carter et al. 2011; O’Dwyer
+and Owen 2007; O’Dwyer 2002). Although professional
+accountants are acknowledged to have positive attitudes
+towards the environment, their response to SAR has been
+“fairly lukewarm and superficial” (Gray et al. 1993, 10)
+and mostly unwilling to get involved in SAR (Wilmshurst
+and Frost 2001; O’Dwyer 2002).
+
+Page 2 of 13
+
+As Wilmshurst and Frost (2001) assert, the seeming reluctance of accountants to engage in SAR may be a reflection of their limited understanding of their roles towards
+sustainable development, which may be a consequent of
+their perception of the practice.4 For instance, it has been
+argued that some accountants generally perceive SAR to be
+only a means of gaining corporate legitimacy (O’Dwyer
+2002), and also a practice beyond their purview (Wilmshurst and Frost 2001). An understanding of the accountants’ perceptions on SAR is therefore relevant in
+predicting the extent of their engagement in practice
+and that of their companies. Moreover, the attitudes
+and perceptions of corporate managers and decision
+makers have also been found to significantly impact
+information disclosure, including SAR (Adams and
+McNicholas 2007; Wilmshurst and Frost 2001; Thoradeniya et al. 2015; O’Dwyer 2002). Suggestively, accountants’ perception about SAR may affect their
+attitude towards SAR and their willingness to engage
+in the practice.
+As studies on SAR increases and firms continue to embrace sustainability issues in both developed and developing countries (Schaltegger et al. 2013; Parker 2011; KPMG
+2011), it is envisaged that most companies have gained
+better understanding and experience in SAR and its related issues (Bennett et al. 2013). However, SAR is still in
+its embryonic stage in developing countries in practice
+compared to developed countries (Belal and Owen 2007;
+KPMG 2011). Similarly, research focus on SAR in developing countries is still at the evolution stage compared
+with the developed world (Thoradeniya et al. 2015). The
+few existing studies from the perspective of developing
+countries have also concentrated in the Asia-Pacific region
+(Kamla et al. 2012; O'Dwyer et al. 2005; Belal and Owen
+2007; Thoradeniya et al. 2015; Kuasirikun 2005). Moreover, despite the growing interest in SAR globally, questions still linger around whether accountants now
+understand their roles in SAR and most importantly their
+willingness to engage in the practice (Schaltegger and
+Zvezdov 2013). Besides, Gray et al. (2010, 36) call for studies to “discover why individuals [i.e. key managers, such as
+accountants] do (or do not) support and develop social
+accounting.”
+Guided by the fact that the perception and attitude towards SAR may be influenced by context-specific factors
+(Kamla et al. 2012), this study attempts to explore the perception of accountants towards SAR from Sub-Saharan
+African perspective. By relying on the Theory of Planned
+Behaviour (TPB), the study further investigates the factors
+that influence accountants’ intentions to engage in SAR
+practices in Ghana. Our empirical analysis provides some
+relevant insights into the fundamental factors that can
+affect SAR practices in Ghana. Further, the current study
+adds-on to research on individuals’ beliefs and perceptions
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+about action and the effect on their attitude towards that
+action.
+The next section of this paper reviews the current literature on SAR and highlights the need to examine the
+perceptions, intentions, and behaviour of professional
+accountants on SAR practices. The research design, data
+collection and the data analysis procedures employed
+are then described followed by the presentation of results and discussion of the findings. Lastly, some concluding remarks are given, and the implications of the
+findings are highlighted.
+
+Literature review
+Sustainability management which entails the formulation,
+implementation, and evaluation of the decisions and actions
+related to environmental, social and economic sustainability
+issues (Starik and Kanashiro 2013) has been an issue of
+interest to global businesses, researchers, and society at
+large. At the firm level, a key concern has been how corporate managers can minimise the impact of their firm’s operations on the environment by establishing business systems,
+models and behaviours necessary for the long-term value
+creation of firms and sustainable development. Firms need
+to communicate all information on their management and
+performance on environmental, social, economic and sustainability issues to stakeholders by engaging in SAR to
+demonstrate their commitment to sustainable development.
+Consequently, the need for SAR practices by companies
+has been emphasised in the literature (Schaltegger et al.
+2003; Martin and Hadley 2008) and within the last two decades, it has become an important concept in financial
+reporting that is receiving a significant amount of attention
+across the globe (KPMG 2011).
+Despite the growing interest, it is apparent from existing
+literature that SAR is inadequately conceptualised as
+scholars are yet to have a consensus on the descriptive
+constituents, processes and expectations of SAR (Parker
+2011; Bebbington and Gray 2001; Burritt and Schaltegger
+2010). Nonetheless, SAR is widely construed to be concerned with the process through which organisations report to stakeholders on the social, environmental and
+economic impacts of their business activities (Asif et al.
+2011; Herzig and Schaltegger 2011; Sisaye 2011a, 2011b).
+This process involves integrating the concerns for social
+and environmental issues into core business operations,
+formulating long-term plans, controlling and measuring
+performance on such issues by organisations and communicating them to organisational stakeholders (Zvezdov et
+al. 2010). Thus, in addition to the conventional corporate
+financial reporting, SAR includes reporting on environmental, health, safety and other social issues to relevant
+and broader scope of external stakeholders. SAR, in this
+regard, is contended to be an extension or modification to
+companies accounting systems designed to promote a
+
+Page 3 of 13
+
+strategy of sustainability and hence part of corporate external reporting system (Sisaye 2011a, 2011b; Gray, 2006).
+Extant literature suggests that companies can create
+long-term value, manage their business risk and gain a
+competitive advantage by considering the social, environmental and economic impacts of their business operations relative to solely emphasising corporate profit (Asif
+et al. 2011; Herzig and Schaltegger 2011; Porter, 2003).
+Companies therefore engage in SAR to better manage
+and communicate their business risk and create and enhance long-term shareholder value.5 It is suggested that,
+principal actors of the corporate environment, including
+employees, businesses, industries and government, play
+an integrative role in this firm value creation process by
+linking company strategy to sustainability, evaluating
+risks and opportunities, and providing measurement, accounting and reporting skills (Zvezdov et al. 2010; Evans
+et al. 2011). In this regard, if SAR is assumed to be a
+way that firms internalise and manage sustainability
+needs to make it measurable and observable, then the
+role of accountants in ensuring useful SAR and assurance practices, to create corporate value cannot be
+overemphasised.
+SAR and the accountant
+
+Traditionally, corporate accountants are mainly responsible
+for the provision of accounting information structured to
+measure, observe and assess business activities and their results (Özsözgün Çalişkan 2014). They also verify financial
+data, assess compliance status, undertake cost-benefit analysis and ensure the practical design and implementation of
+organisational internal control systems. Accountants are,
+thus, mandated to provide reliable, timely and useful information to guide, direct and protect the interests of stakeholders (Aras and Crowther 2009a, 2009b). Impliedly,
+accountants have the skills and expertise to value environmental impact, evaluate environmental performance and
+monitor the entire environmental management system of
+companies as this falls within their purview (Wilmshurst
+and Frost 2001). For instance, accountants are better
+equipped to identify and measure the direct and indirect
+social and environmental costs financially and develop
+practical consumption-based measures of current and future social and environmental performance required in
+green accounting (Vincent, 2000). Wilmshurst and Frost
+(2001) therefore contend that accountants can ensure the
+successful implementation of the environmental management system by inculcating the traditional functions of accounting into the environmental management process.
+Accountants also provide auditing and assurance service, which involves assessment of compliance with standards and regulations, identification and evaluation of
+risks and attesting to the reliabilities of the information
+provided (Özsözgün Çalişkan 2014). In the context of
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+SAR, accountants could play a significant role in
+socio-environmental performance via environmental
+auditing, i.e., assessing compliance, evaluating environmental risks and providing feedback for continuous improvement of firm’s sustainability policies and performance
+(Wilmshurst and Frost 2001). For example, accountants are
+likely to be responsible for developing an information and
+decision support systems to ensure environmental compliance and avoid any environmental disputes or claims in the
+future (Bisk CPA Review Editorial Team, 2012). Suggestively, the expertise of professional accountants to verify financial information makes them better placed in assessing
+and verifying the compliance status and the economic viability of environmental management accounting systems.
+In sum, accountants can provide the needed expertise
+for developing and verifying information, decision supporting and control system necessary for the provision of
+both financial information and non-financial information,
+including sustainability reports, to enhance managerial decisions for creating long-term firm value (Aras and
+Crowther 2009b; Sisaye and Birnberg 2010). These specific
+roles of the accountant, coupled with their ability to establish and interpret connections between non-financial and
+financial information of firms and responsibility to inform
+and educate related parties (Özsözgün Çalişkan 2014),
+suggest the crucial part they play in effective corporate
+SAR practices.6 Thus, for companies to improve their financial, social, and environmental performance reporting,
+accountants must be active in SAR to provide such comprehensive accounting information (Lusher 2012). This
+provides a massive opportunity for accountants to spearhead environmental and sustainability management via
+their active involvement in the SAR process (Lewis 2000).
+It has been argued that the attitude of top-level managers is very relevant in formulating sustainability goals
+and the communication of sustainability information
+(Schaltegger and Wagner 2006). Hence, if top management is uncertain about the relevance of SAR reporting,
+they may not commit resources to ensure its implementation thereby hindering the practice of SAR in an organisation (Martin and Hadley 2008). The authority that
+accountants have in organisations (Dezaley and Sugarman 1995) because of the formally established access
+they have to essential decision-makers cannot be overemphasised. Accountants are deemed information providers to corporate decision-makers, including top
+management, if not top managers themselves in organisations. The influential role of the accountant as information
+broker has made them internal business consultants (Burns
+and Vaivio 2001) and business advisors (Francis and Minchington 1999). This suggests that accountants potentially
+influence corporate management decisions to engage in
+SAR because of their information brokerage role for firms’
+top management.
+
+Page 4 of 13
+
+Notwithstanding the fact that studies have generally
+found the attitudes of top managers, including accountants towards the environment to be positive (Kuasirikun 2005; Lodhia 2003; O’Dwyer 2002; Wilmshurst and
+Frost 2001), the willingness of accountants to engage in
+environmental and sustainability reporting has been
+questioned (Deegan and Rankin 1996; Gray et al. 1995).
+This explains why in recent times there have been calls
+for accountants to be more involved in SAR and other
+environmental sustainability management issues (Evans
+et al. 2011). Gray et al. (2010) call for the need for researchers to investigate why key managers such as accountants do not support and help develop social and
+environmental accounting. While acknowledging the fact
+that some works have been done in responding to this
+call, especially in examining the attitudes of accountants
+and other top managers towards SAR, research on SAR
+from the perspective of developing countries is still at
+the infant stage (Thoradeniya et al. 2015). Motivated
+by the need for more studies into SAR within the
+context of developing countries, this study explores
+the perception of accountants on their companies’ intentions towards SAR and investigates the main predictors of such intentions. The next section discusses
+the theoretical review and the primary hypotheses to
+be tested.
+
+Theoretical review and hypotheses development
+Theory of planned behaviour (TPB)
+
+The Theory of Planned Behaviour (TPB) is one of the most
+influential and well-recognised theories applied in psychological research to predict and explain human behaviour.
+TPB is an extension of the Theory of Reasoned Action
+(TRA) (Ajzen and Fishbein 1980; Ajzen, 1988). While the
+TRA posits that attitudes and subjective norm are the critical determinants of intentions and behaviour, TPB considers ‘perceived behavioural control’ as an additional
+variable that predicts intentions and behaviour. Therefore,
+from the tenets of TPB, attitude, subjective norm and perceived behavioural control are the factors that influence an
+individual’s behavioural intention which informs the individual’s motivation to perform the behaviour.
+Ajzen (1991) explained attitude to mean the extent to
+which an individual has a favourable or unfavourable
+evaluation of behaviour. Subjective norm is an individual’s
+perception of the opinions of some prominent individuals
+who influence decisions of the individual. In other words,
+subjective norm describes the tendency for an individual
+to exhibit a behaviour based on the influences of people
+considered to be important within the immediate community. Perceived behavioural control is also explained to
+mean the perception that an individual has about his/her
+own ability to perform a particular behaviour. Thoradeniya et al. (2015) explain perceived behavioural control to
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+mean a situation where an individual lacks the complete
+control to exercise and perform a behaviour.
+As Thoradeniya et al. (2015) rightly indicate – although
+the actions of persons, in general, are influenced by the data
+they process and act upon regularly – their actions are also
+influenced to, a considerable extent, by the availability of resources to perform the act and by external forces who have
+major influence. A significant distinction between the TPB
+and the TRA therefore lies in the fact that TRA does not
+consider the effect of resource availability on the performance of an action by an individual. In sum, from the perspective of the TPB, performance of actual behaviour by an
+individual depends on the attitude of the individual towards
+the behaviour, the influence of other important people in
+society on the behaviour of the invididual and the capacity
+of the individual to perform the behaviour.
+Due to its usefulness in explaining the intentions and behaviour of individuals, the current study relies on the TPB
+to examine the factors that influence professional accountants’ intentions to engage in sustainability reporting practices. Specifically, the study investigates whether
+professional accountants’ attitude towards sustainability reporting (attitude), their perception of sustainability
+reporting approval by stakeholders (subjective norm), and
+the perception of their ability to control the process of
+sustainability reporting (perceived behavioural control) are
+important predictors of intentions to engage in SAR.
+Three main hypotheses based on the tenets of the TPB are
+consequently developed as follows:
+Hypotheses development
+Attitude towards SAR and intention to engage in SAR
+
+Attitude is a key antecedent of intention to act and reflects
+a person’s overall assessment of an issue at hand (Weidman et al. 2010). Fishbein & Ajzen, (1975) view it as the
+best predictor of intention and behaviour. Prior studies
+provide evidence that a manager’s attitude has important
+implications on social-environmental issues and SAR
+practices (Adams 2002; Beddewela and Herzig 2013; Cordano and Frieze 2000; Thoradeniya et al. 2015; Weidman
+et al. 2010). These studies predict and consistently report
+of a positive association between attitude and intentions
+of firm managers to engage in SAR. Cordano and Frieze
+(2000) for instance, find the intention of managers to prevent pollution and source reduction activities to be positively related to their attitudes whiles Weidman et al.
+(2010) find that the attitude of firm executives have a positive relationship with their intentions to accrue and disclose environmental liabilities in the US.
+Thoradeniya et al. (2015) find a similar relationship between managers’ attitudes and intention to engage in SAR in Sri Lanka while Farzana et al. (2015)
+document that attitude is an important determinant of the
+energy conservation intention of accounting students in
+
+Page 5 of 13
+
+Malaysia. Notwithstanding the fact that some studies including Flannery and May (2000) report a negative association between internal perceived behavioural control and
+managers’ environmental, ethical decision intentions, the
+evidence provided by most empirical studies generally
+suggest the existence of a positive relationship between attitudes and intention. Hence this study hypothesises that.
+H1 There is a positive relationship between accountants’
+attitude and their intention to engage in SAR.
+Subjective norm and intention to engage in SAR
+
+Subjective norm, which is an individual’s perception of the
+opinions of prominent people who maintain influence
+over decision making, can affect an individual’s intention
+to perform or not perform an action (Ajzen 1991). Corporate actions and inactions affect stakeholders and society, and the need to perform and report on these actions
+has been raging on in the academic environment. Existing
+literature documents that major stakeholders of companies – prospective employees, existing and potential capital
+providers/investors, the public/society, regulators and environmental pressure groups influence the SAR behaviour
+of firms (Dillard et al. 2005; Hedberg and Von Malmborg
+2003; Magness 2006) This suggests the influence of key
+stakeholders on companies. These companies are obliged
+to act and perform to protect their image and reputation
+to sustain their business, although it may be costly. SAR
+in Ghana currently is a discretionary activity and mindful
+of cost, managers are unlikely to practice and report on it.
+Hence, pressure from stakeholders considered vital to the
+business may encourage managers to consider such an
+action.
+Some studies report of how subjective norm (key stakeholders) influences the intentions of managers to engage
+in SAR (Weidman et al. 2010; Cordano and Frieze 2000;
+Flannery and May 2000; Thoradeniya et al. 2015). For example, Weidman et al. (2010) find that the intentions to
+accrue and disclose environmental liabilities by financial
+executives are positively related to their subjective norms.
+Similarly, Cordano and Frieze (2000) document a positive
+relationship between subjective norm and environmental
+managers’ intention to engage in source reduction activities to prevent pollution. Flannery and May (2000) also
+find subjective norm to be a significant predictor of managers’ environmental, ethical decision intentions. Again,
+Thoradeniya et al. (2015) find a positive relationship between managers’ subjective norm and their intention to
+engage in sustainability reporting. Based on the seeming
+power of stakeholders to influence intention to act, this
+study posits that.
+H2 There is a positive relationship between subjective
+norm and intention to engage in SAR.
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+Perceived Behavioural control and intention to engage in
+SAR
+
+Perceived behavioural control which is the perception that
+an individual has about his/her own ability to perform a
+specific behaviour influences the intention to perform that
+particular behaviour (Ajzen 1991). The ability to perform
+a particular behaviour depends on the availability of resources. Resources are thus vital to management intention
+and actions and managers will consider actions that are
+beneficial to them. Intention to engage in SAR will involve
+consideration by managers of resource availability and
+skills to perform the activity. The extant literature identifies some factors that facilitate or inhibit the managers’
+control and their willingness to engage in SAR. This includes knowledge, skills, and experience of managers; the
+availability of time and resources; continuous training and
+improvement; and effective cooperation and communication with external stakeholders.
+Whereas Adams and McNicholas (2007); Lamberton
+(2005) and Park and Brorson (2005) suggest that availability of time and resources; increased knowledge and expertise enhance SAR process; they also argue that lack of
+support by management through sound leadership, ineffective cooperation and communication between all parties involved in the process and the absence of continuous
+training and development may inhibit the SAR process.
+Professional accountants by their training are exposed to
+SAR and may be willing to engage in it. However, where
+systems and structures are non-existent, they cannot do
+much. The discretionary nature of SAR, coupled with the
+cost implication of implementing a useful structure and
+system may affect the intention of managers to engage in
+SAR, and this is rightly so in Ghana. Professional accountants may be willing to engage in SR but considering its
+voluntary nature and the cost implication on profit, they
+may not have the support from other management
+personnel to engage in it especially where this is not
+aligned to their interest.
+Results of studies on perceived behavioural control and
+intention to engage in SAR and other environmental activities are mixed. For instance, Weidman et al. (2010) find
+that the intentions to accrue and disclose environmental
+liabilities by financial executives are positively related to
+their perceived behavioural control. Also, Thoradeniya et
+al. (2015) find a positive relationship between managers
+perceived behavioural control and their intention to engage in sustainability reporting. Lee et al. (2017) document
+that perceived behavioural control positively and significantly influences students’ positive intentions towards the
+environment. On the other hand, Cordano and Frieze
+(2000) report of a negative relationship between perceived behavioural control environmental managers’
+intention to engage in source reduction activities to prevent pollution. Similarly, Flannery and May (2000) find a
+
+Page 6 of 13
+
+negative relationship between internal perceived behavioural control and managers’ environmental, ethical decision intentions. However, this study posits a direct link
+between the constructs.
+H3 There is a positive relationship between accountants
+perceived behavioural control and their intention to
+engage in SAR.
+The development of the accounting profession in Ghana
+and the need for sustainability studies
+
+Ghana after gaining independence in 1957, the national
+spirit of the time was for the nation to achieve optimum
+development in all facets of the Ghanaian human life.
+There was also a clarion call by the average Ghanaian to develop local capacity. Around that same time, the country
+was experiencing severe difficulties with regards to the
+training of accountants. These difficulties were as a result
+of inadequate local practical experience for accountancy
+trainees. This consequently led to the establishment of a
+local accountancy professional body called the Institute of
+Chartered Accountants – Ghana (ICAG). The ICAG was
+established by an Act of Parliament, Act 170, in 1963. It is
+the sole body responsible for regulating the accountancy
+profession in Ghana. The members of the Institute are the
+only persons recognized under the Companies Code 1963
+(Act 179) for the purpose of the audit of a company.
+The institute is governed by a Council of eleven chartered accountants headed by a president who holds office for a period of 2 years. The ICAG is a member of
+three international bodies namely: the International Federation of Accountants (IFAC), Pan African Federation
+of Accountants (PAFA) and Association of Accountancy
+Bodies in West Africa (ABWA). The ICAG currently
+runs three distinct programmes: the professional Chartered Accountants (CA) programme, the Accounting
+Technicians Scheme West Africa which provides the avenue for graduates to take up middle-level managerial
+jobs and the Chartered Diploma programmes which are
+designed to enable members specialize in specific business - related disciplines. Since its inception, the institute has been instrumental in training and licensing a
+number of qualified accountants to meet the industry’s
+ever-growing demand for professional accountants.
+Within the last decade, the number of chartered accountants in Ghana has witnessed significant growth. For instance, between the year 2004 and 2014, the number of
+professional accountants increases from 1089 to 3851 respectively (ROSC, 2014). Notwithstanding the huge
+growth in the numbers, demand for professional accountants in the country which is estimated around 8000 far
+exceeds the supply.
+In a bid to improve upon the reporting quality in
+the country and promote cross-border comparison of
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+accounting information and within the spirit of
+harmonization, the government through the institute
+adopted the International Financial Reporting Standards
+(IFRS) in the year 2007. Thus, Ghana just like many other
+countries has fully adopted the IFRS for reporting purposes. The adoption of the IFRS was in part influenced by
+a review of Accounting and Auditing practices in Ghana
+conducted in 2004 by the World Bank. The World Bank
+documented the issues found in its Report on Observance
+of Standards and Codes (ROSC). Among other things, the
+report highlighted the weaknesses and strengths of the accounting and auditing requirements as pertained in the
+then Ghana National Accounting Standards (GNAS) and
+strongly recommended the full adoption of IFRS to replace the GNAS.
+Apart from the fact that the country Ghana has made
+progress in the development of its accounting profession,
+Ghana provides a very good setting for sustainability related studies in an African setting. The country remains
+one of African countries with rich in natural resources including gold, diamond, bauxite with the latest being the
+discovery of oil in commercial quantities. In fact, Ghana
+contributes significantly to the world’s gold production as
+it ranks tenth in the world’s leading producers of gold and
+ranks second in Africa (Kapstein and Kim 2011). In spite
+of Ghana’s contribution, a whopping 85% of artisanal and
+small-scale miners’ activities are illegal, unregulated and
+therefore inimical to the environment and society at large
+(Ofosu-Mensah 2016). Similarly, Abdulai (2017) bemoans
+the severe nature of illegal mining in Ghana and calls for
+political action to deal with the menace. The relevance of
+sustainability practice in this setting therefore cannot be
+overemphasized.
+
+Methodology
+
+Page 7 of 13
+
+indicators each. The indicators for attitude measures the
+professional accountants’ personal views on their company’s
+engagement in SAR, whiles indicators for subjective norm
+focused on the professional accountants’ perception about
+stakeholders’ approval or otherwise of their company engaging in SAR. For perceived behavioural control, indicator
+questions seek to obtain information on the ability of the
+firms to perform the act, i.e. SAR and who determines the
+performance of the act.
+Respondents were required to state their level of
+agreement or otherwise based on the seven-point
+Likert scale with one being strongly disagreed and seven
+being strongly agreed. The specific questions used in measuring the constructs were adopted from an earlier study by
+Thoradeniya et al. (2015). This instrument was considered
+more appropriate for use in this study since it was developed based on many of the existing instruments and hence,
+results from this study could be compared with most empirical studies with minimal difficulty.
+The instrument was administered to the respondent group
+at a conference marking forum organised by ICA-GH. This
+forum offered the researchers the unique opportunity of
+reaching out to accountants in good standing with the Institute of Chartered Accountant Ghana (ICA-GH) from different organisations (both public and private sector) across the
+country at a central location. A few of the questionnaire was
+also sent to accounting firms and organisations that were
+not represented in this sample during the conference marking. In all, a total of 120 questionnaires were administered to
+the respondent group during the conference marking seminar of professional accountants in June 2016 and subsequently to other accountants in July 2016. Out of the
+number of questionnaires administered, 86 of the respondents responded to the questionnaire representing a response rate of 71.6%.
+
+Research design and data collection
+
+The study employed the survey research method and the
+data employed was obtained from a set of questionnaires.
+The survey instrument for the study contained two different sections – questions on the essential demographic characteristics of the respondents including the age, gender
+type, level of education, a sector of employment, number of
+years of employment and the position held by the respondents in their respective organisations at the time of the
+survey. The second part of the questionnaire sought to
+measure respondents’ intentions to engage in SAR and the
+dominant factors that influence this intention.
+Based on the TPB, three constructs: attitude, subjective norm and perceived behavioural control were
+the primary factors considered in this study as influential
+on companies’ intention to engage in SAR. Each of these
+constructs was measured on a seven-point Likert scale with
+multiple indicators describing each construct. Similar to
+Thoradeniya, all the constructs were measured using four
+
+Data analysis procedures
+
+In examining the objectives of the study, the partial least
+square (PLS) structural equation modelling (SEM) technique was adopted. The PLS model, a variance based technique of SEM was employed as it permits analysis of both
+direct and indirect relationships between independent and
+dependent variables and also allows for minimal path construction (Fornell and Bookstein 1982). Moreover, PLS does
+not require a large sample size and therefore, handles better
+data that are not normally distributed (Gefen and Straub
+2005; Hair Jr et al. 2014; Henseler et al. 2009). Thus, given
+that the sample size for the study was relatively small, the
+PLS technique was deemed more appropriate for this study.
+
+Results and discussions
+Descriptive statistics
+
+Table 1 presents the essential demographic profile of the
+respondents used in the study analysis. Out of the total
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+86 respondents, 66 were males (77%) with the remaining
+20 (23%) of the sample being females. Among all the respondents, 78% hold positions from supervisory level up
+to senior management level while 30% of them had
+working experience of 5–10 years and 26% had work experience of more than 10 years. This result is a clear indication that a sizeable number of the respondents
+occupy higher level management positions and have also
+acquired a significant amount of working experience in
+their respective organisations hence, their views could
+reasonably be relied upon for a study of this nature. The
+presumption is that, because of the key position these
+respondents (accountants) hold in their organization,
+their role is crucial in the development of sustainability
+strategy for their respective companies and hence, their
+views/position on sustainability issues may be a fair reflection of their organizations.
+Initial measurement model assessment
+
+Before proceeding with the structural model analysis,
+the measurement characteristics of the constructs and
+their indicators were assessed to determine whether they
+meet the recommended thresholds suitable for the structural analysis. An examination of the indicator loadings
+as shown in Table 2 demonstrate that all the indicators
+for the constructs were above the 0.70 recommended
+threshold and hence can be reasonably classified as good
+indicators (Sarstedt et al. 2014). Indicator loadings above
+
+Page 8 of 13
+
+0.70 according to Sarstedt et al. (2014) means that the
+construct explains more than 50% of the indicator’s variance which is considered appropriate for structural
+model analysis.
+Internal consistency reliability of the constructs was
+also checked using Cronbach alpha and composite reliability, and the results are presented in Table 3. As
+shown in Table 3, composite reliability scores for each of
+the study construct exceeded 0.70 minimum requirement (Hair Jr et al. 2014; Sarstedt et al. 2014), while the
+Cronbach alpha coefficients were all above the minimum
+0.70 thresholds (Nunnally 1978). Further, convergent
+validity and the discriminant validity tests were conducted on the study constructs.
+Convergent validity test was carried out using the
+average variance extracted (AVE) for all items related to
+each of the constructs. This test is conducted to ensure
+whether the set of indicators represents the same underlying construct. An AVE of 0.50 and above is considered
+acceptable as a value of 0.50 and above is an indication
+that more than 50% of the variance of the items are explained by the construct (Hair Jr et al. 2014; Sarstedt et
+al. 2014). As shown in panel A of Table 3, the AVE
+scores for all the constructs were above 0.50 which indicates that convergent validity is assured.
+Discriminant validity test was also conducted to ascertain whether the study constructs were distinct from
+each other in the path model using the Fornell–Larcker
+
+Table 1 Demographic Characteristics of Respondents
+Age
+
+21–30 years
+
+31–40 years
+
+41–50 years
+
+Over 50 years
+
+Frequency
+
+29
+
+29
+
+19
+
+9
+
+22%
+
+10%
+
+Percentage
+
+34%
+
+34%
+
+Gender
+
+Male
+
+Female
+
+Frequency
+
+66
+
+20
+
+Percentage
+
+77%
+
+23%
+
+Highest Education
+
+Bachelors and Professional
+Certificate
+
+Bachelors, Masters and Professional
+certificate
+
+Professional Certificate
+only
+
+Frequency
+
+32
+
+49
+
+5
+
+Percentage
+
+37%
+
+57%
+
+6%
+
+Type of organisation
+
+Public Sector
+
+Public Accounting Firm
+
+Private Accounting Firm Private Sector
+
+Frequency
+
+24
+
+11
+
+36
+
+15
+
+Percentage
+
+28%
+
+13%
+
+42%
+
+17%
+
+Position in company
+
+Junior staff
+
+Supervisory management
+
+Middle level
+management
+
+Senior level
+management
+
+Frequency
+
+19
+
+35
+
+26
+
+6
+
+Percentage
+
+22%
+
+41%
+
+30%
+
+7%
+
+Years spent with
+organisation
+
+Below 5 years
+
+5–10 years
+
+10–20 years
+
+above 20 years
+
+Frequency
+
+38
+
+26
+
+17
+
+5
+
+Percentage
+
+44%
+
+30%
+
+20%
+
+6%
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+Page 9 of 13
+
+Table 2 Indicator Loadings
+Variable
+
+Loading
+
+Intentions (INT)
+My company is committed to engage in or continue SAR
+
+0.93
+
+My company plans to engage in or continue SAR
+
+0.95
+
+My company has the intention to engage in or continue SAR
+
+0.94
+
+My company is willing to engage in or continue SAR
+
+0.87
+
+Attitudes (ATT)
+It is good for my company to engage in Sustainability Reporting
+
+0.86
+
+It is rewarding for my company to engage in SAR
+
+0.97
+
+It is valuable for my company to engage in SAR
+
+0.97
+
+It is meaningful for my company to engage in SAR
+
+0.78
+
+Subjective norm (SBN)
+Most of my company’s stakeholders (shareholders, employees, community, etc.) think that my company should engage in SAR
+
+0.93
+
+Most of the internal stakeholders (employees and management) would approve my company engaging in SAR
+
+0.72
+
+Most organisations, whose opinions are valued by my company, engage in SAR
+
+0.90
+
+Many companies similar to my company engage in SAR
+
+0.88
+
+Behavioural control (BC)
+It is easy for my company to engage in SAR
+
+0.79
+
+It is possible for my company to engage in SAR
+
+0.76
+
+The decision to engage in SAR is under my company’s authority
+
+0.76
+
+The decision to engage in SAR is under my company’s control
+
+0.85
+
+criterion (Fornell and Larcker 1981). This criterion compares the AVE of each construct with the squared
+inter-construct correlation of that construct with all
+other constructs in the model. As can be seen from
+panel B of Table 3, the various square roots of the AVEs
+for each construct (in bold) are far higher than the
+inter-item correlation coefficients which demonstrate
+that discriminant validity criteria have been fulfilled. The
+above results demonstrate that the measures for the
+study constructs are reliable and valid to perform the
+structural model analysis.
+Table 3 Reliability and Valid Tests
+Panel A: Convergent Validity and Reliability Test
+AVE
+
+Composite Reliability
+
+Cronbach’s Alpha
+
+ATT
+
+0.80
+
+0.94
+
+0.92
+
+BC
+
+0.63
+
+0.87
+
+0.80
+
+INT
+
+0.85
+
+0.95
+
+0.94
+
+SBN
+
+0.74
+
+0.92
+
+0.88
+
+Panel B: Discriminant Validity Test
+ATT
+
+BC
+
+INT
+
+ATT
+
+0.90
+
+BC
+
+0.48
+
+0.79
+
+INT
+
+0.49
+
+0.60
+
+0.92
+
+SBN
+
+0.52
+
+0.53
+
+0.75
+
+SBN
+
+0.86
+
+Structural model analysis
+
+The study initially examined if collinearity was present
+among the constructs (predictors) – attitude (ATT), subjective norm (SBN) and perceived behavioural control
+(BC) to determine the structural relationship among the
+study constructs. This test is essential since the structural path coefficient for the model is based on ordinary
+least squares (OLS) regression (Mooi and Sarstedt 2011).
+Collinearity test was conducted using the Variance Inflation Factor (VIF). The results from this test raise no
+general concern about collinearity problems given that
+the VIF values which range between 2.08 and 2.59 are
+far below the maximum threshold of 10. The low VIF
+values are indicative of the fact that the results from the
+structural model analysis are not influenced negatively
+by collinearity problems. Having ensured the reliability
+and validity of the construct, the proposed hypotheses
+were examined by running Algorithm and Bootstrapping
+of SmartPLS. Figure 1 and Table 4 present the products
+of the algorithms.
+Test of the overall model quality was assessed using the
+coefficient of determination (R2). The R2 indicates the predictive power of the endogenous constructs by showing
+the percentage of variance explained (Sarstedt et al. 2014).
+The result of this test as shown in Fig. 1 demonstrates that
+the endogenous construct ‘Intention to engage in sustainability reporting (SAR) has a high predictive power given
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+Fig. 1 Structural Model for Intention to Engage in SAR
+
+the reported R2 value of 0.627. By implication, 62.7% of
+Intention to engage in sustainability reporting is jointly explained by all the exogenous variables. Next, the predictive
+relevance of the endogenous construct for the model was
+evaluated by adopting Hair Jr et al. (2014) blindfolding
+guidelines. The rule of thumb is that the cross-validated redundancy (Q2) should be above zero to be considered relevant. The result from this test also provides enough support
+for the predictive relevance of the endogenous construct
+‘Intention to engage in SAR’ with a Q2 value of 0.5136.
+Finally, the coefficient and significance of the paths in the
+structural model were analysed using bootstrapping procedure. These paths demonstrate the original hypotheses or
+the structural relationships of the study as shown in Fig. 1
+and Table 4. In this study, we predicted that professional
+accountants’ attitude (ATT), subjective norm (SBN) and
+perceived behavioural control (BC) have a direct influence
+on a company’s intention to engage in SAR as espoused by
+Thoradeniya et al. (2015) and Weidman et al. (2010). However, the results from the path analysis (Fig. 1) indicate that
+only two of the indicator constructs – subjective norm and
+perceived behavioural control have a significant relationship
+with intention to engage in SAR. With a path coefficient of
+0.572 (p value = 0.000), subjective norm was found to have
+a significant positive relationship with perception about a
+company’s intention to engage in SAR. Likewise, perceived
+behavioural control was also found to be positively and significantly related to intention to engage in SAR with a path
+coefficient of 0.27 (p value = 0.000). The relationship between accountants’ attitude towards SAR and intentions recorded insignificant results with a path coefficient of 0.067
+and a p-value of 0.40.
+
+Table 4 Structural model results
+Hypothesis
+
+Path
+
+Path Co-efficient
+
+p value
+
+Decision
+
+H1
+
+ATT → INT
+
+0.067
+
+0.40
+
+Rejected
+
+H2
+
+SBN → INT
+
+0.27
+
+0.00
+
+Supported
+
+H3
+
+BC → INT
+
+0.527
+
+0.00
+
+Supported
+
+Page 10 of 13
+
+The above results suggest that perceived pressure from
+major stakeholders of a firm by accountants and the availability of resources are the key determinants of intentions
+to engage in SAR. The findings of this study indicate that
+the personal attitude of accountants towards SAR do not
+affect the company’s intention to engage in SAR in a significant way. Impliedly, regardless of the predisposition of
+accountants towards SAR, a firm is more likely to engage
+in SAR when it has the much-needed resources to invest
+into it and when stakeholders exert pressure and demand
+for such information. Thus, irrespective of an accountant’s
+disposition towards SAR, pressure from stakeholders for
+such information and availability of resources to provide
+same may trigger action from management to engage in
+SAR to avoid legitimacy threats from these stakeholders.
+The results, to a considerable extent, are expected. Given
+that SAR remains mostly a voluntary activity and a drain
+on shareholder wealth, availability of resources would be a
+significant consideration for firms to engage in the practice.
+Moreover, since there would always be competing demands
+for the resources of firms which are usually scarce (Lamberton 2005; Adams and McNicholas 2007), the intention to
+engage in SAR will also be dependent in part on pressure
+from users of such information. From empirical perspective
+except for the insignificant relationship between attitude
+and intention to engage in SAR, our findings are broadly
+consistent with the work of Thoradeniya et al. (2015) and
+Weidman et al. (2010). Nevertheless, the insignificant relationship between attitude and intentions from this study
+has also received empirical support in past studies (Flannery and May 2000).
+
+Conclusion
+The study examined the primary determinants of the
+intention to engage in SAR in Ghana from the perspective
+of professional accountants. Based on the tenets of TPB,
+the study examined the attitude of professional accountants, their perception of perceived behavioural control
+and subjective norm on their company’s intention to engage in SAR. Using the instrument of Thoradeniya et al.
+(2015), data was collected from accountants who belong
+to the professional accounting body ICA-GH for the empirical analysis of the study. The partial least square (PLS)
+SEM-based technique was adopted to analyse the study
+objectives.
+Based on the results from the structural model, the study
+found that two of the constructs: perceived behavioural
+control and subjective norm are the main predictors of a
+firm’s intention to engage in SAR. Thus, the intention to
+engage in SAR is primarily influenced by stakeholder pressure for disclosure of such information and availability of
+resources to engage in the practice. However, the attitude
+of professional accountants towards SAR does not influence
+the intention to engage in SAR significantly. Given that
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+resources of the firm are scarce in relations to the unlimited
+needs, an essential way of promoting the SAR based on the
+findings of this study will be for significant stakeholders to
+be alive with their responsibilities and exert pressure on
+corporations to disclose information on sustainability. Notwithstanding the key contributions of the present study to
+the SAR literature the findings are based on the views of
+very few professional accountants in Ghana. While this
+limitation may affect the extent of generalization of the
+study findings, it also provides an important avenue for
+further research in the area in different context.
+
+Endnotes
+1
+Defined as the process through which firms provide
+information on the socio-economic and environmental
+impacts of their operations to stakeholders.
+2
+This assertion assumes that financial accounting reports can serve the legal and administrative regulations
+and persons with economic power in support of liberal
+economic democracy, a grounded theory of financial
+reporting (Gray, 2006; Özsözgün Çalişkan 2014)
+3
+Reports on environmental, health and safety often include issues on employee health, on-the-job accident rates,
+emissions of certain pollutants, spills, volumes of waste
+generated and initiatives to reduce and minimise such incidents and releases. Social issue reporting embraces reports
+on ethical labour practices, training, education and diversity
+of work force, and corporate philanthropic initiatives.
+4
+Lin et al. (2008) assert that the perceptions about a
+practice is essential in establishing the knowledge and
+acceptance of the practice.
+5
+Other indirect firm value creation variables such as
+legitimising corporate actions, enhancing and protecting
+companies reputation, demonstrating firms’ commitment
+to the environment and social issues, and response to demands for information from the growing number of stakeholders are also advanced as contributing to the practice
+of SAR by firms (Özsözgün Çalişkan 2014; Schaltegger
+and Burritt 2010).
+6
+See Özsözgün Çalişkan (2014) and Schaltegger and
+Zvezdov (2015) for a detailed review and discussion of the
+role of accounting and accountant in SAR.
+Abbreviations
+ATT: Attitude; AVE: Average variance extracted; BC: Perceived behavioural
+control; GNAS: Ghana national accounting standards; ICAG: Institute of
+chartered accountants-Ghana; IFAC: International federation of accountants;
+KPMG: Klynveld Peat Marwick Goerdeler; OLS: ordinary least squares;
+PAFA: Pan African Federation of Accountants; PLS: Partial least square;
+ROSC: Report on Observance of Standards and Codes; SAR: Sustainability
+Accounting Reporting; SBN: Subjective norm and; SEM: Structural Equation
+Modelling; TBL: Triple Bottom Line; TPB: Theory of Planned Behaviour;
+TRA: Theory of Reason; VIF: Variance Inflation Factor
+Availability of data and materials
+All data generated or analysed during this study are included in this
+published article. The raw data set used and/or analysed during the current
+study are available from the corresponding author on reasonable request.
+
+Page 11 of 13
+
+Authors’ contributions
+All authors read and approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Received: 25 January 2018 Accepted: 6 August 2018
+
+References
+Abdulai, A.-G. (2017). The galamsey menace in Ghana: A political problem requiring
+political solutions. Accra: University of Ghana Business School Policy Brief 5.
+Adams, C. A. (2002). Internal organisational factors influencing corporate social
+and ethical reporting: Beyond current theorising. Accounting, Auditing &
+Accountability Journal, 15(2), 223–250.
+Adams, C. A., & McNicholas, P. (2007). Making a difference: Sustainability
+reporting, accountability and organisational change. Accounting, Auditing &
+Accountability Journal, 20(3), 382–402.
+Adams, C. A., & Whelan, G. (2009). Conceptualising future change in corporate
+sustainability reporting. Accounting, Auditing & Accountability Journal, 22(1), 118–143.
+Ajzen, I. (1988). Attitudes, Personality and Behaviour. Milton Keynes: Open
+University Press.
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and
+Human Processes, 50(2), 179–211.
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes and predicting social behaviour.
+Albelda, E. (2011). The role of management accounting practices as facilitators of
+the environmental management: Evidence from EMAS organisations.
+Sustainability Accounting, Management and Policy Journal, 2(1), 76–100.
+Aras, G., & Crowther, D. (2009a). Corporate sustainability reporting: A study in
+disingenuity? Journal of Business Ethics, 87(1), 279.
+Aras, G., & Crowther, D. (2009b). Making sustainable development sustainable.
+Management Decision, 47(6), 975–988.
+Asif, M., Searcy, C., Garvare, R., & Ahmad, N. (2011). Including sustainability in
+business excellence models. Total Quality Management and Business
+Excellence, 22(7), 773–786.
+Ball, A., Owen, D. L., & Gray, R. (2000). External transparency or internal capture?
+The role of third-party statements in adding value to corporate
+environmental reports11. Business Strategy and the Environment, 9(1), 1–23.
+Bebbington, J., & Gray, R. (2001). An account of sustainability: Failure, success and
+a reconceptualization. Critical Perspectives on Accounting, 12(5), 557–587.
+Beddewela, E., & Herzig, C. (2013). Corporate social reporting by MNCs’
+subsidiaries in Sri Lanka. Accounting Forum, 37(2), 135–149.
+Belal, A. R., & Owen, D. L. (2007). The views of corporate managers on the
+current state of, and future prospects for, social reporting in Bangladesh:
+An engagement-based study. Accounting, Auditing & Accountability
+Journal, 20(3), 472–494.
+Bennett, M. D., Schaltegger, S., & Zvezdov, D. (2013). Exploring corporate practices
+in management accounting for sustainability. London: ICAEW.
+Bisk Editorial Review Team. (2012). Top 5 (surprise!) CPA job opportunities. New
+Accountant, 749 (6-8).
+Burns, J., & Vaivio, J. (2001). Management accounting change. Management
+Accounting Research, 12(4), 389–402.
+Burritt, R. L., & Schaltegger, S. (2010). Sustainability accounting and reporting: Fad
+or trend? Accounting, Auditing & Accountability Journal, 23(7), 829–846.
+Carter, A., Burritt, R., & Pisaniello, J. (2011). Accountants as mental health workers: The
+public interest in regional and remote areas. In Paper read at Accounting &
+Finance Association of Australia and New Zealand Annual Conference, Darwin, NT.
+Cordano, M., & Frieze, I. H. (2000). Pollution reduction preferences of US
+environmental managers: Applying Ajzen’s theory of planned behavior. The
+Academy of Management Journal, 43(4), 627–641.
+Deegan, C., & Rankin, M. (1996). Do Australian companies report environmental
+news objectively? An analysis of environmental disclosures by firms
+prosecuted successfully by the environmental protection authority.
+Accounting, Auditing & Accountability Journal, 9(2), 50–67.
+Dezaley, Y., & Sugarman, D. (1995). Professional competition and
+professional power: Lawyers, Accountants and the social construction of
+markets. London: Routledge.
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+Dillard, J., D. Brown, and R. S. Marshall. 2005. An environmentally enlightened
+accounting. Paper read at Accounting Forum.
+Evans, E., Burritt, R., & Guthrie, J. (2011). Bridging the gap between academic
+accounting research and professional practice. Sydney: The Institute of
+Chartered Accountants in Australia/Universiy of South Australia.
+EY. (2011). How Sustainability Has Expanded the CFO's role. Retrieved from
+http://www.ey.com/us/en/services/specialty-services/climate-change-andsustainability-services/how-sustainability-has-expanded-the-cfos-role
+Farzana, N., Alias, R., Hashim, Z., Daud, S., & Mariam, S. (2015). Analyzing energy
+conservation intention among accounting students. The 3rd National
+Graduate Conference (NatGrad2015), Universiti Tenaga Nasional, Putrajaya
+Campus, 8–9 April 2015.
+Ferreira, A., Moulang, C., & Hendro, B. (2010). Environmental management
+accounting and innovation: An exploratory analysis. Accounting, Auditing &
+Accountability Journal, 23(7), 920–948.
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention and behavior: An
+introduction to theory and research.
+Flannery, B. L., & May, D. R. (2000). Environmental ethical decision making in the US
+metal-finishing industry. The Academy of Management Journal, 43(4), 642–662.
+Fornell, C., & Bookstein, F. L. (1982). Two structural equation models: LISREL and PLS
+applied to consumer exit-voice theory. Journal of Marketing Research, 19, 440–452.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with
+unobservable variables and measurement error. Journal of Marketing
+Research, 18, 39–50.
+Francis, G., & Minchington, C. (1999). Quantitative skills: Is there an expectation
+gap between the education and practice of management accountants?
+Accounting Education, 8(4), 301–319.
+Gefen, D., & Straub, D. (2005). A practical guide to factorial validity using PLSgraph: Tutorial and annotated example. Communications of the Association
+for Information Systems, 16(1), 5.
+Granlund, M., & Malmi, T. (2002). Moderate impact of ERPS on management
+accounting: A lag or permanent outcome? Management Accounting Research,
+13(3), 299–321.
+Gray, R., Bebbington, J., & Walters, D. (1993). Accountingfor the environment.
+London: Paul Chapman Publishing.
+Gray, R., Kouhy, R., & Lavers, S. (1995). Corporate social and environmental
+reporting: A review of the literature and a longitudinal study of UK
+disclosure. Accounting, Auditing & Accountability Journal, 8(2), 47–77.
+Gray, R. (2006). Social, environmental and sustainability reporting and
+organisational value creation? Whose value? Whose creation? Accounting,
+Auditing & Accountability Journal, 19(6), 793–819.
+Gray, R., Owen, D., & Adams, C. (2010). Some theories for social
+accounting?: A review essay and a tentative pedagogic categorisation
+of theorisations around social accounting. In Sustainability,
+Environmental Performance and Disclosures (pp. 1–54).
+Hair Jr., F. J., Sarstedt, M., Hopkins, L., & Kuppelwieser, V. G. (2014). Partial least
+squares structural equation modeling (PLS-SEM) an emerging tool in
+business research. European Business Review, 26(2), 106–121.
+Hedberg, C. J., & Von Malmborg, F. (2003). The global reporting initiative
+and corporate sustainability reporting in Swedish companies.
+Corporate Social Responsibility and Environmental Management, 10(3),
+153–164.
+Henri, J.-F., & Journeault, M. (2010). Eco-control: The influence of management
+control systems on environmental and economic performance. Accounting,
+Organizations and Society, 35(1), 63–80.
+Henseler, J., Ringle, C. M., & Sinkovics, R. R. (2009). The use of partial least squares
+path modeling in international marketing. In New challenges to international
+marketing (pp. 277–319). Bingley: Emerald Group Publishing Limited.
+Herzig, C., & Schaltegger, S. (2011). Corporate sustainability reporting. In J.
+Godemann & G. Michelsen (Eds.), Sustainability communication (pp. 151–169).
+Heidelberg: Springer.
+Jack, L., & Kholeif, A. (2008). Enterprise resource planning and a contest to
+limit the role of management accountants: A strong structuration
+perspective. Accounting Forum, 32(1), 30–45.
+Kamla, R., Gallhofer, S., & Haslam, J. (2012). Understanding Syrian
+accountants’ perceptions of, and attitudes towards, social accounting.
+Accounting, Auditing & Accountability Journal, 25(7), 1170–1205.
+Kapstein, E. B., & Kim, R. (2011). The socio-economic impact of Newmont Ghana
+gold Limited. Haarlem: Stratcomm Africa.
+KPMG. (2011). International survey of corporate responsibility reporting 2011.
+New York: KPMG International.
+
+Page 12 of 13
+
+Kuasirikun, N. (2005). Attitudes to the development and implementation of social
+and environmental accounting in Thailand. Critical Perspectives on Accounting,
+16(8), 1035–1057.
+Lamberton, G. 2005. Sustainability accounting—A brief history and conceptual
+framework. Paper read at Accounting Forum.
+Lee, W. E., Birkey, R. N., & Patten, D. M. (2017). Exposing students to environmental
+sustainability in accounting: An analysis of its impacts in a US setting. Social and
+Environmental Accountability Journal, 37(2), 81–96.
+Lewis, L. 2000. Environmental audits in local government: A useful means to
+progress in sustainable development. Paper read at Accounting Forum.
+Lin, J. Z., Xiao, J. Z., & Tang, Q. (2008). The roles, responsibilities and characteristics
+of audit committee in China. Accounting, Auditing & Accountability Journal,
+21(5), 721–751.
+Lodhia, S. K. (2003). Accountants’responses to the environmental agenda in a
+developing nation: An initial and exploratory study on Fiji. Critical Perspectives
+on Accounting, 14(7), 715–737.
+Lusher, A. L. (2012). What is the accounting Profession's role in
+accountability of economic, social, and environmental issues?
+International Journal of Business and Social Science, 3, 15.
+Magness, V. (2006). Strategic posture, financial performance and
+environmental disclosure: An empirical test of legitimacy theory.
+Accounting, Auditing & Accountability Journal, 19(4), 540–563.
+Martin, A., & Hadley, D. (2008). Corporate environmental non-reporting–a UK FTSE
+350 perspective. Business Strategy and the Environment, 17(4), 245–259.
+Mistry, V., Sharma, U., & Low, M. (2014). Management accountants’ perception of
+their role in accounting for sustainable development: An exploratory study.
+Pacific Accounting Review, 26(1/2), 112–133.
+Mooi, E., & Sarstedt, M. (2011). A concise guide to market research, chapter 9:
+“Cluster analysis”. Berlin: Springer-Verlag, 10, 978–3.
+Nunnally, J. C. (1978). Psychometric theory. New York: McGraw-Hill.
+O’Dwyer, B. (2002). Managerial perceptions of corporate social disclosure: An Irish
+story. Accounting, Auditing & Accountability Journal, 15(3), 406–436.
+O’Dwyer, B., & Owen, D. (2007). Seeking stakeholder-centric sustainability
+assurance. Journal of Corporate Citizenship, 25(1), 77–94.
+O'Dwyer, B., Unerman, J., & Hession, E. (2005). User needs in sustainability
+reporting: Perspectives of stakeholders in Ireland. The European Accounting
+Review, 14(4), 759–787.
+Ofosu-Mensah, E. A. (2016). Mining in colonial Ghana: Extractive capitalism and its social
+benefits in Akyem Abuakwa under Nana Ofori Atta I. Africa Today, 63(1), 22–55.
+Özsözgün Çalişkan, A. (2014). How accounting and accountants may contribute
+in sustainability? Social Responsibility Journal, 10(2), 246–267.
+Park, J., & Brorson, T. (2005). Experiences of and views on third-party
+assurance of corporate environmental and sustainability reports.
+Journal of Cleaner Production, 13(10), 1095–1106.
+Parker, L. D. (2000). Green strategy costing: Early days. Australian Accounting
+Review, 10(20), 46–55.
+Parker, L. D. 2011. Twenty-one years of social and environmental accountability
+research: A coming of age. Paper read at Accounting Forum.
+Pierce, B., & O’Dea, T. (2003). Management accounting information and the needs
+of managers: Perceptions of managers and accountants compared. The
+British Accounting Review, 35(3), 257–290.
+Porter, M. E. (2003). Corporate philanthropy: Taking the high ground. Foundation
+strategy group, Boston, MA, 1–12.
+ROSC. (2014) Report on the Observance of Standards and Codes – Accounting
+and Auditing (ROSC A&A), World Bank. Available at https://www.WorldBank.
+org/ifa/2015/GhanaROSC-A&A2014.pdf. Accessed 24 Oct 2015.
+Sarstedt, M., Ringle, C. M., Smith, D., Reams, R., & Hair, J. F. (2014). Partial least
+squares structural equation modeling (PLS-SEM): A useful tool for family
+business researchers. Journal of Family Business Strategy, 5(1), 105–115.
+Scapens, R., & Jazayeri, M. (2003). ERP systems and management accounting
+change: Opportunities or impacts? A research note. The European Accounting
+Review, 12(1), 201–233.
+Schaltegger, S., & Burritt, R. L. (2010). Sustainability accounting for companies:
+Catchphrase or decision support for business leaders? Journal of World
+Business, 45(4), 375–384.
+Schaltegger, S., & Wagner, M. (2006). Integrative management of sustainability
+performance, measurement and reporting. International Journal of
+Accounting, Auditing and Performance Evaluation, 3(1), 1–19.
+Schaltegger, S., & Zvezdov, D. (2013). In control of sustainability information:
+Untangling the role of accountants. In Accounting and Control for
+Sustainability (pp. 265–296). Bingley: Emerald Group Publishing Limited.
+
+Kwakye et al. International Journal of Corporate Social Responsibility (2018) 3:11
+
+Schaltegger, S., & Zvezdov, D. (2015). Gatekeepers of sustainability
+information: Exploring the roles of accountants. Journal of Accounting
+and Organizational Change, 11(3), 333–361.
+Schaltegger, S., Burritt, R., & Petersen, H. (2003). An introduction to
+corporate environmental management: Striving for sustainability. Vol.
+14. Bingley: Emerald Group Publishing Limited.
+Schaltegger, S., Gibassier, D., & Zvezdov, D. (2013). Is environmental
+management accounting a discipline? A bibliometric literature review.
+Meditari Accountancy Research, 21(1), 4–31.
+Sisaye, S. (2011a). Ecological systems approaches to sustainability and
+organizational development: Emerging trends in environmental and social
+accounting reporting systems. Leadership and Organization Development
+Journal, 32(4), 379–398.
+Sisaye, S. (2011b). The functional-institutional and consequential-conflictual
+sociological approaches to accounting ethics education: Integrations from
+sustainability and ecological resources management literature. Managerial
+Auditing Journal, 26(3), 263–294.
+Sisaye, S., & Birnberg, J. G. (2010). Organizational development and
+transformational learning approaches in process innovations: A review of the
+implications to the management accounting literature. Review of Accounting
+and Finance, 9(4), 337–362.
+Starik, M., & Kanashiro, P. (2013). Toward a theory of sustainability
+management: Uncovering and integrating the nearly obvious.
+Organization & Environment, 26(1), 7–30.
+Thoradeniya, P., Lee, J., Tan, R., & Ferreira, A. (2015). Sustainability reporting and
+the theory of planned behaviour. Accounting, Auditing & Accountability
+Journal, 28(7), 1099–1137.
+Vincent, J. R. (2000). Green accounting: from theory to practice. Environment and
+Development Economics, 5(01), 13–24.
+Weidman, S. M., Curatola, A. P., & Linnehan, F. (2010). An experimental
+investigation of the intentions to accrue and disclose environmental
+liabilities. In Ethics, Equity, and Regulation (pp. 195–243). Bingley: Emerald
+Group Publishing Limited.
+Wilmshurst, T. D., & Frost, G. R. (2001). The role of accounting and the accountant
+in the environmental management system. Business Strategy and the
+Environment, 10(3), 135–147.
+Zvezdov, D., Schaltegger, S., & Bennett, M. (2010). The increasing involvement of
+accountants in corporate sustainability management. Journal of the AsiaPacific centre for environmental accountability, 16(4), 20–31.
+
+Page 13 of 13
+
+

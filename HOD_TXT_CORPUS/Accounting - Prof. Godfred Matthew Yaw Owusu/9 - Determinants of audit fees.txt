@@ -1,0 +1,851 @@
+Journal of Research in Emerging Markets
+JREM, 2019, Vol. 1, No. 4, ISSN: 2663-905X
+Available online at http://publications.ud.ac.ae/index.php/jrems
+
+Determinants of audit fees: The perception of external
+auditors
+Godfred Matthew Yaw Owusua, Rita Amoah Bekoeb*
+aDepartment of Accounting, University of Ghana Business School, University of Ghana, gmowusu@gmail.com
+bDepartment of Accounting, University of Ghana Business School, University of Ghana, celestialrita@gmail.com
+
+*Corresponding author.
+Received: 25 August 2019, revised: 3 December 2019, accepted: 9 December 2019, published: 14 December 2019.
+
+ABSTRACT
+This paper examines the perception of external auditors on the dominant factors that influence audit fees
+determination. By means of a survey, the study explored from the perspective of external auditors the level of
+importance audit firms attach to some identified factors in the determination of audit fees. A self-administered
+questionnaire was used to gather data from professional auditors working with practicing auditing firms certified
+and approved by the Institute of Chartered Accountants, Ghana (ICAG). Using a total of 339 valid responses,
+the study explored the dimensionality of the factors that influence audit fees by employing the Exploratory
+Factor Analysis (EFA) procedure. Based on the factor structure identified from the EFA, we subsequently
+evaluated the level of importance auditors perceive these factors to be in the determination of audit fees. The
+EFA results suggest that audit fees determinants can be grouped into five distinct factors (Audit firm reputation,
+experience & expertise; Nature and scope of the audit; Market-wide factor; Client size; Client risk). The factor
+‘Client risk’ was rated to be the most important determinant of audit fees distantly followed by the ‘Nature and
+scope of the audit’ factor. The ‘Market-wide factor’ was rated to be the least important factor in the determination
+of audit fees. The findings of this study provide some useful insights from the perspective of external auditors
+on the factors that influence audit fees from a developing country context.
+Keywords: Audit Fees, External Auditors, Exploratory Factor Analysis, Perception, Developing Countries.
+JEL codes: M40, M42
+
+1. INTRODUCTION
+An auditor’s role towards the society is to assure owners and other interested third parties that corporate reports
+and financial statements provided by management represent a true and fair position of the operations of the
+company. The independence of the auditor is extremely critical in the performance of this quality assurance
+role. Recent corporate scandals and the collapse of otherwise vibrant corporations (e.g. Enron and the collapse
+of Arthur Andersen) have raised concerns and stirred up academic interest in the independence of external
+auditors and the conduct of quality audits. Key among the issues considered to impair the independence of the
+auditor is audit fees and the audit firm’s economic dependence on a client.
+The Handbook (International Auditing, Assurance and Ethics Pronouncements, 2008) of the International
+Federation of Accountants (IFAC) recognizes that the amount of revenue for the provision of audit and nonaudit services as well as an auditor’s economic dependence on a client could pose a threat to the auditor’s
+independence. Beattie, Brandt & Fearnley (1999) have long established that when a substantial amount of the
+revenue of an audit firm is received from one client (consistently exceeding 10%) it could create a potential
+conflict of interest situation which is likely to impair the independence of the auditor. The Sarbanes Oxley Act
+(2002) indeed emphasizes that such a threat reduces the quality of an audit. Despite the various laws and
+regulations promulgated globally to ensure that auditors are seen to be in a position of complete independence,
+the auditor’s professional integrity and the ability to remain independent is still questioned (Dart, 2011).
+Empirical studies affirm that the relationship between an audit firm and its client is largely influenced by audit
+fees (Dart, 2011). This in part explains why in the absence of another meaningful audit-related information, audit
+fees become an important basis upon which perceptions about audit and related matters are formed by investors
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Production and hosting by Avicenna FZ LLC. on behalf of Dubai Business School, University of Dubai,
+UAE. This is an open-access article under the CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/).
+Page | 44
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+and other stakeholders (Beck, Fuller, Muriel & Reid, 2013). Thus, the amount of audit fees charged by audit
+firms provides a useful basis for assessing not only the perceived independence of the audit firm but also the
+quality of audit work performed. Due to its importance most especially the perceived link with auditor
+independence, studies on audit fees have been on the ascendency within the last two decades.
+Empirically, extant studies (Dart, 2011; Beck et al, 2013) have found the magnitude of audit fees to be an
+important predictor of auditor independence and audit quality. In terms of the audit fees and audit quality nexus,
+several studies (Gupta, Krishnan & Yu, 2012; Brandon, McMillian & Stanley, 2012) conclude that low audit fees
+generally impair the quality of an audit. Hoitash, Markelevich & Barragato (2007) however, opine that the quality
+of corporate financial information and the extent of reliance on auditor decision is reduced when audit fees are
+perceived to be high. Other studies have also employed audit fees as a proxy for determining audit and financial
+reporting quality (Bentley, Omer & Sharp, 2011).
+The determinants of audit fees have also been a major focus for most academic researchers (AL-Mutairi, Naser
+& Al Enazi, 2017; Gonthier-Besacier & Schatt, 2007; Naser & Nuseibeh, 2008). The majority of these studies,
+however, have focused mostly on the association between audit fees and some firm-level characteristics such
+as company size, profitability, business risk among others (Gonthier-Besacier & Schatt, 2007; Naser &
+Nuseibeh, 2008). While these studies provide some useful insights into the audit fees determinants discourse,
+the views of the auditors themselves on audit fees determinants have not been the focus of these studies. With
+the exception of the empirical work of AL-Mutairi, Naser & Al Enazi (2017) that examined the determinants of
+audit fees from the perspective of the auditors, most existing studies have relied on secondary data in
+investigating the factors that affect external audit fees. As pointed out by AL-Mutairi, Naser & Al Enazi (2017),
+the determinants of audit fees are contextual and vary from country to country especially from developing an
+economic perspective.
+This study provides some new insight on audit fees’ determinants focusing exclusively on the views of external
+auditors on the dominant factors that influence the amount of audit fees charged by audit firms from a developing
+country perspective. The evidence we provide in this context is relevant given that most existing studies have
+focused on the developed world and very few studies on audit fees have considered the views of the auditors.
+The findings of this study do not only provide some evidence on audit fees’ determinants from the Ghanaian
+setting, but also contribute to the audit fees literature in some important ways. First, this study is among the few
+existing studies that rely on the views of auditors to examine the factors considered relevant in the determination
+of audit fees. Prior studies have mostly focused on firm-level factors in examining the predictors of audit fees
+ignoring the opinions of key actors like the auditors in the audit fees determination discourse. Second, this study
+unlike the work of AL-Mutairi et al. (2017) uniquely classifies the determinants of audit fees into five distinct
+groups highlighting the level of importance of each factor in the determination of audit fees from the perspective
+of auditors.
+The remainder of this paper is as follows: the next sections review relevant literature on the determinants of
+audit fees from a behavioral perspective. The methodology and survey instrument are discussed, followed by
+the presentation of the results. The final section of this paper draws conclusions on the findings and highlights
+the key contributions of the study.
+
+2. LITERATURE REVIEW
+2.1 The Concept of Audit Fees
+Audit fees generally represents the costs incurred by a business for audit services provided by an auditing firm.
+The concept of audit fees has been defined by a number of authors in prior literature. Simunic (1980) defines
+audit fees taking into consideration the number of audit services provided (the amount of work and time) and
+the unit price. Due to agency costs, businesses usually require an independent third party to verify their financial
+statements and certify that indeed they are a true reflection of their activities. The remuneration received in the
+process of such verification is referred to as audit fees (Ahmed & Abdullah, 2016; Chersan, Robu, Carp &
+Mironiuc, 2012; El Gammal, 2012). This definition indicates that businesses incur audit fees to satisfy regulatory
+requirements and also to show an independent assessment of their activities. El Gammal (2012) further
+emphasized that the audit fees are usually based on a contractual agreement (an engagement letter) between
+the auditors and the auditees taking into account time, effort and the number of staff required among others.
+Reliability placed on a company’s financial information depends largely on the assertions of auditors (audit
+reports). However, potential investors are usually not privy to the quality of an audit that leads to such assertions
+except for audit fees that appear on the financial statements. In the absence of such information, audit fees
+have become a basis upon which potential investors and other stakeholders form perceptions about an audit
+(Beck et al., 2013). Over the years, studies have used audit fees as a proxy for audit quality and auditor
+
+Page | 45
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+independence among others (Bentley et al., 2011; Hoitash et al., 2007). The fees paid to auditors can to some
+extent affect the quality of the services they provide. On one hand, high fees paid to auditors may get them to
+put in more effort in the delivery of audit services, thereby increasing the quality of an audit and on the other
+hand, such high fees may make the auditors economically dependent on a particular client which may also
+compromise their independence (Hoitash et al, 2007). Thus, audit fees remain an important aspect of audit
+research. Prior studies have revealed two major reasons for investigating audit fees are to evaluate the
+competitiveness of the audit market and to also examine the independence of the audit process (Hay & Knechel,
+2006). Al Mutairi et al (2017) also assert that investigating the determinants of audit fees is important since it
+reflects a company’s risk level assumed by an auditor.
+2.2 Determinants of Audit Fees
+2.2.1 Client Size
+The work of Simunic (1980) indicates that the first point of call in determining how much to charge a client for
+audit services is the amount of work and the time that the auditor will spend on a client. Impliedly, larger clients
+will require more time and effort than clients that are considered to be smaller. Consequently, auditors who are
+engaged by such large companies have to spend more time understanding their complicated internal control
+systems, designing more audit procedures, conducting more tests of balances as well having client meetings
+thereby leading to higher audit fees being charged. Such clients usually have high volumes of transactions that
+may require more time for the auditor to look into. Though a client may have an effective internal control system
+and hence reducing the audit testing to be done, Stewart & Munro (2007) suggest that it does not necessarily
+reduce the effort the auditor puts into the work significantly specialized thereby increasing audit fees. Again,
+large companies are perceived to have higher agency costs which may result from potential conflict between
+management and other stakeholders (Inchausti, 1997). In order to reduce agency costs, such large firms tend
+to disclose more information than smaller ones. In order to give credibility to the information provided, they
+require the services of external auditors who may have to spend more time to audit such large companies. The
+most common measure of size in literature has been total assets, number of employees/staff strength as well
+its turnover.
+Extant literature subsequent to the seminal of Simunic (1980) appears to have found the size of an auditee
+company the most critical explanatory factor on the subject of audit fees (Al-Mutairi et al., 2017; Naser & Hassan,
+2016; Gonthier-Besacier & Schatt, 2007; Aronmwan & Okafor, 2015). Findings from these studies suggest that
+the size of a company has a significant influence on the pricing of audit services. It emerged from these studies
+that large companies tend to pay higher external audit fees than smaller ones. For instance, Al-Mutairi et al.
+(2017) found from the perspective of auditors that the size of a client is the most critical element in the
+determination of audit fees.
+2.2.2 Client complexity
+The complexity of a company has been identified as another critical factor that determines audit fees (Simunic,
+1980; Vermeer et al., 2009; Ellis & Booker, 2011). For companies that are complex and have high volumes of
+transactions, the auditor will need more time, additional audit procedures and greater expertise in order to carry
+out such audits. Some studies have also indicated that high growth companies generate a greater degree of
+complexity, consequently, auditing procedures are usually adjusted significantly to reflect the volumes of
+transactions undertaken in such companies (Gonthier-Besacier & Schatt, 2007). These adjustments of audit
+procedures may sometimes increase the risk of not detecting potential material misstatements in the financial
+statements. As a result, the auditor is exposed to more professional liability claims (Clatworthy & Peel, 2006)
+which may lead to higher audit fees charged by the auditors. A number of proxies have been used as a measure
+of complexity such as the number of products, business segments, geographic distribution and the proportion
+of foreign assets. However, the most frequently used measure of complexity in literature has been the number
+of subsidiaries and/or branches a company has both locally and internationally (Ahmed & Abdullah, 2016; ElGammal, 2012; Hay, 2013; Audousset-Coulier, 2015).
+Empirical literature suggests that there is a significant and positive relationship between the complexity of a
+company and fees charged for audit services. For instance, Naser & Nuseibeh (2008) found that external audit
+fees are significantly related to the complexity of a company. On the other hand, Barakat & Shaban (2007)
+suggest that the number of a company’s branches is an important determinant of audit fees.
+
+Page | 46
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+2.2.3 Profitability
+The efficient utilization of the resources of a company is expected to result in a higher return on assets. The
+more income a business generates, the better they are positioned to meet their business expenses and retain
+some earnings. Thus, profitability is a key measure of management’s performance and efficiency in the
+allocation of resources. In view of this, companies that report higher earnings tend to disclose more information
+about their performance so as to reduce agency costs and justify their compensation (since their compensation
+is sometimes based on profits). Such companies are usually a subject of close public scrutiny and auditors will,
+therefore, perform more testing on revenue recognition and matching expenses to verify such performance
+figures that may be used to determine compensation. To this end, companies that report higher profits tend to
+pay high audit fees since the auditor may bill more hours. On the other hand, some studies have also suggested
+that companies that report lower profit also tend to pay high audit fees. These companies are usually engaged
+in cost-cutting which may lead to reduced internal control thereby increasing the volume of work to be
+undertaken by the auditor (Chan et al., 1993).
+Empirical studies suggest that audit fees are significantly influenced by the profitability of a company (Joshi and
+Al-Bastaki, 2000; Ho & Ng, 1996). Profitability has been measured by the absolute figures of profits or losses,
+return on assets, return on equity and return on capital employed. These studies have generally reported a
+significant association between audit fees and corporate profitability.
+2.2.4 Corporate Risk
+Businesses are exposed to various risks and the manner in which management responds to such risks affects
+both the financial viability of the business and the auditor’s approach to auditing it. Some organizations have
+management control mechanisms to identify, manage, mitigate or control risks. Despite these mechanisms in
+place, the financial statements may be susceptible to material misstatements arising from identified risks and
+thus, provide a basis for designing and performing further audit procedures. Consequently, the auditor will
+analyze the risks associated with the client’s business, transactions, and systems which could lead to
+misstatements in the financial statements, and direct further testing to those risky areas which will attract
+additional fees (Graham & Messier Jr, 2006; Wong, 2009). In view of this, some empirical studies suggest that
+audit fees may be influenced by the perceived risk of audit failure (Chan et al., 1993) i.e. the risk that the auditor
+expresses an inappropriate opinion when the financial statements are materially misstated.
+Empirical evidence on the association between audit fees and corporate risk has been inconsistent. While some
+studies have found a positive and significant association between the two (Walker & Casterella, 2000; GonthierBesacier & Schatt, 2007; Joshi & Bastaki, 2000; Cameran, 2005), others found the relationship to be
+insignificant (Naser & Hassan, 2016; Vermeer et al, 2009). For instance, risk constitutes a significant factor in
+determining audit fees in France, especially in larger firms where conditions of risk are higher (GonthierBesacier
+& Schatt, 2007). Walker & Casterella (2000) also found that auditors in the US tend to adjust their audit fees to
+take into account their audit risk arising from the risk assessment of the client. Additionally, the risk is a major
+factor in determining audit fees in Italy (Cameran, 2005).
+2.2.5 Industry Type
+The extent and nature of audit services provided by auditors will differ across companies in different industries.
+While some industries are risk-prone and may require more time, effort and specialized audit procedures, others
+may not require such highly specialized services. Hence companies with high-risk levels are likely to pay more
+audit fees. For instance, the audit procedure for companies in the banking sector or IT sector may differ
+considerably from those in the oil and gas industries.
+There are several empirical literature that has provided evidence to suggest that audit fees differ across
+industries. For instance, in France, Gonthier-Besacier & Schatt (2007) found that companies in the information
+technology industry paid higher audit fees than companies in other industries. It has also been suggested that
+manufacturing companies pay more audit fees than companies in other industries (Camfferman & Cooke, 2002).
+This is because there is greater public pressure for manufacturing companies to disclose more information
+(especially about their social and environmental activities) and they tend to have more complex transactions
+(Tagesson, Blank, Broberg & Collin, 2009). In order to provide a credible signal about their financial statements
+and reduce agency costs, such companies usually require high-quality audit which also comes at a higher fee.
+Also, companies in industries that are highly regulated (e.g. financial institutions) tend to use their financial
+statements to disclose other information which may require more audit procedures to be designed by the auditor
+thereby increasing audit fees (Zeghal & Ahmed, 1990).
+
+Page | 47
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+2.3 Audit firm characteristics
+Empirical studies have indicated that the size of an audit firm has a significant relationship with audit quality and
+audit fees (Ahmed & Abdullah, 2016; Choi, Kim, Kim, & Zang, 2010). The higher the quality of services provided,
+the higher the price. It has been documented that large audit firms are perceived to provide quality services
+than smaller ones and that such quality differences are reflected in the prices of audit services. Such large firms
+are believed to have higher litigation risk exposure and are highly competitive (Al-Harshani, 2008) hence,
+attracting higher audit fees compared with firms that are perceived to be smaller.
+Extant literature suggests that companies that use the services of the ‘big four’ audit firms or other audit firms
+affiliated to them tend to have a lower cost of capital (Berry & Robertson, 2006; Karjalainen, 2011) and also
+send a signal to stakeholders about management’s honesty and integrity.
+
+3. METHODS
+3.1 Design, Research Instrument, and Data Collection
+This study adopts the quantitative approach due to the nature of the study objectives. The data for the study
+was collected by means of a questionnaire which was self-administered to auditors in some selected audit firms
+in Ghana. To ensure voluntary participation and elicit the honest response, the auditors were assured of the
+confidentiality of their responses which were to be used for the purposes of the study only. The questionnaire
+used consisted of two sections. The first section contained information on the key demographic background of
+the respondents while the second part sought the views of respondents on the factors considered to be relevant
+in the determination of audit fees. The specific items used in the second part of the questionnaire were adapted
+from the work of AL-Mutairi et al. (2017) and other previous studies on the determinants of audit fees.
+Respondents were asked to indicate the level of importance of each of the factors in the determination of audit
+fees on a seven-point Likert scale, where 1 represents not too important and 7 represents very important.
+
+4. ANALYSIS AND RESULTS
+4.1 Respondents
+All auditors working with the 225 accounting firms that have been certified and approved by the Institute of
+Chartered Accountants, Ghana (ICAG) as of December 2015 constituted the population for this study. ICAG
+classifies practicing firms in good standing into five broad divisions based on their revenue and size like A1, A,
+B1, B, C, and D. The Big Four auditing firms (PWC, KPMG, Deloitte and Ernst & Young) constitute the A1
+category based on size and revenue generation capacity whilst all local auditing firms are grouped into the
+remaining four in descending order. A total of 650 questionnaires were distributed to the respondents across
+the five divisions. 400 of the questionnaires were duly returned but 339 valid responses were included in the
+final analysis.
+As shown in Table 1 the sample was dominated by the males accounting for 67% of the total responses. The
+majority of the respondents (approximately 84%) belong to the youthful year group between the ages of 20 and
+40 years. With regards to the academic qualifications, about half of the respondents have had their first degree
+(49.9%) with a membership certificate with a recognized professional accountancy body: that is either with the
+Instituted of Chartered Accountants, Ghana or Association of Certified Chartered Accountants. The majority of
+the respondents have also acquired 3 to 7 years of work experience while a fairly significant number of the
+respondents were from local audit firms that are affiliated to international audit firms.
+4.2 Data analysis procedures
+A major goal of the current study was to ascertain the level of importance auditors perceive the identified factors
+to be in influencing auditing fees. However, before proceeding with this analysis, an exploratory factor analysis
+was conducted on the factors in order to identify the factor structure that determines audit fees. This approach
+was necessary to properly structure and summarize the responses on the relevance of these factors in
+determining auditing fees. An analysis of the respondents’ view on the factors that influence audit fees
+determination in Ghana is subsequently provided based on the factor structure that emerged from the
+exploratory factor analysis.
+
+Page | 48
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+Table 1. Descriptive summary of demographics
+Variables
+Gender
+Male
+Female
+Age
+Less than 30
+30-40
+41-50
+51 & above
+Level
+Bachelor
+Masters
+Ph.D
+Others
+Professional
+Yes
+No
+Work Experience
+Less than 30
+3-7
+8-10
+11 & above
+Firm Status
+Local
+Affiliated to international
+ICAG Classification
+A1
+A
+B1
+B
+C
+D
+Big Four Audit Firms
+Yes
+No
+
+Frequency
+
+Percent
+
+227
+112
+
+67
+33
+
+136
+147
+34
+22
+
+40.1
+43.4
+10.0
+6.5
+
+169
+110
+8
+52
+
+49.9
+32.4
+2.4
+15.3
+
+94
+245
+
+27.7
+72.3
+
+79
+148
+43
+69
+
+23.3
+43.7
+12.7
+20.4
+
+155
+184
+
+45.7
+54.3
+
+147
+57
+48
+46
+21
+20
+
+43.4
+16.8
+14.2
+13.6
+6.2
+5.9
+
+145
+194
+
+42.8
+57.2
+
+4.3 Exploratory Factor Analysis (EFA)
+The principal component extraction criterion using the varimax rotation method was employed in conducting the
+EFA. Tests for model sampling adequacy yielded satisfactory results, as the values of the Kaiser–Meyer–Olkin
+measure of sampling adequacy of 0.87 was above the recommended threshold of 0.7 (Kaiser 1970; Kaiser and
+Rice 1974). Bartlett’s test of sphericity also confirms the presence of correlations between the indicators of each
+construct, and this test yielded statistically significant results, an indication of the appropriateness of the data
+set for EFA. The results of the factor analysis and the factor loading of each item are presented in Table 2. The
+Oblimin rotation yielded five factors explaining a total variance of 63.15% with the Eigenvalue of each factor
+greater than one.
+Factor one which explains the highest amount of variation (14.94%) consisted of indicators such as the
+reputation of the audit firm, experience, expertise and caliber of audit staff working in the audit firm. This factor
+was labeled as “Audit firm Reputation, Experience & Expertise” as they generally describe the factors that bother
+on the image and technical competencies of the audit firm. Factor two was made up of five items that describe,
+generally, the scope and nature of the audit and accounted for 14.13% of the variation. This factor was labeled
+as “nature and scope of the audit”. Factor three consisted of six items ranging from proximity to the client firm
+to the extent of the client’s use of ICT. Taken together, this factor was labeled as “market-wide factors”. The
+fourth factor referred to as “Client Size” consisted of items that described the stature of the client business in
+terms of size and included items such items as the level of profitability, the asset base of the client firm and
+revenue generation capacity. The last factor contained two indicators: the effectiveness of the internal control
+system of the client and the risk faced by the audit firm. We labeled this factor as “Client Risk” as they largely
+describe the risks that may be associated with the audit work. Thus, the EFA results demonstrate that the factors
+
+Page | 49
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+that influence audit fees could be grouped into five mutually exclusive categories whose components correlate
+loosely with each other.
+
+Table 2. Results of EFA, Rotated Component Matrix
+
+Reputation of the audit firm
+Industry expertise
+Experience in auditing similar firms
+Academic qualifications of the audit firm’s staff
+Scope of operations
+Complexity of the audit process
+Number of subsidiaries and branches of the client firm
+Activities of the client’s firm
+Short audit report time lag
+Proximity to the client firm
+Strict local regulations
+Financial and economic instability
+Cumulative knowledge of the client business
+Financial leverage of the client firm
+The extent of the client’s use of information technology
+Level of profitability of client firm
+Total assets of the client
+Total sales and revenue of the client
+The effectiveness of the client’s internal control system
+Risk faced by the audit firm
+Eigenvalues
+Percentage of variance explained
+
+Factor
+1
+.765
+.743
+.743
+.741
+
+Factor
+2
+
+Factor
+3
+
+Factor
+4
+
+Factor
+5
+
+.739
+.717
+.713
+.590
+.551
+.717
+.617
+.614
+.562
+.534
+.517
+.796
+.753
+.742
+
+2.988
+14.938
+
+2.827
+14.134
+
+2.749
+13.743
+
+2.529
+12.643
+
+.768
+.563
+1.537
+7.687
+
+Analysis of respondents’ views on the factors that influence audit fees in Ghana
+Having explored the dimensions of the factors that influence audit fees, we subsequently evaluated the level of
+importance respondents perceive these factors to be in influencing audit fees based on the groupings. Table 3
+presents the mean scores and standard deviations of the respondents’ views on the importance of factors that
+affect audit fees for each group and the individual factors that make up the group
+The “Audit firm Reputation, Experience & Expertise” factor had an overall mean of 5.41 which suggests that the
+respondents were in a strong agreement in terms of the importance of this factor in the determination of audit
+fees. Among the four indicators that describe this factor, the indicator “reputation of the audit firm” recorded the
+highest mean of 5.54 with academic qualification of audit firm staff being the least ranked item in terms of
+importance (mean= 5.28). Instructively, all the four indicators had mean scores above 5.0 which indicates that
+all the items were highly ranked by the respondents to be very important in determining audit fees. Thus, apart
+from the reputation of the audit firm, the experience and expertise of auditors within the firm are also important
+determinants of the amount of audit fees charged by the firm. The argument supporting the reputation of the
+audit firm being ranked as the most important factor is that audit firms with long-standing practicing experience
+are usually known in the market place and are perceived to offer quality services than other audit firms. They
+are regarded as having an enormous amount of experience and have the ability to draw on other network of
+partner firms to deal with issues. Most entities value having access to practicing firms that are able to provide
+local solutions in a global environment and are therefore willing to pay some premium for such services. This,
+inevitably, influences the fees charged by such firms.
+Moreover, such firms usually have very qualified and experienced audit staff with the capacity to undertake
+complex and highly complicated audit work. These important qualities require significant financial investments
+and directly affect the price build-up (often determined as a rate per hour) of such firms making very reputable
+firms relatively expensive than their compatriots. Empirically, existing studies (Vermeer et al. 2009: Choi et al.
+2010; Verbruggen et al. 2011; Wang et al. 2009; El-Gammal 2012) have shown that the reputation of an audit
+firm characterized by international visibility, the presence of highly qualified and experienced staff has important
+implications on audit fees. Again, reputable audit firms with the requisite skill sets and expertise usually have a
+high demand for their services which directly affect their service charge (Palmrose, 1986).
+
+Page | 50
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+The “nature and scope of the audit” factor had an overall mean of 5.71 which suggests that the respondents
+were in a strong agreement in terms of the importance of this factor in the determination of audit fees. Among
+the five indicators that describe this factor, the indicator “complexity of the audit process” recorded the highest
+mean score of 6.07 with “short audit report time lag” being the least ranked item in terms of importance
+(mean=4.96). Taken together, four out of the five indicators under this construct had mean scores above 5.0
+which is an indication that most of the items under this construct were highly ranked by the respondents to be
+very important in determining audit fees.
+A complex audit is often one that requires a significant investment of time in order to deal with all the tasks
+associated with the audit. For instance, the audit of an entity with subsidiaries all over the world will require a
+lot of time in visiting locations where there are material holdings of items such as inventory and property, plant
+and equipment. The auditing standards, International Standards on Auditing (ISAs) make it mandatory for the
+auditor to visit such locations such to obtain audit evidence about the existence and condition of these items.
+These procedures involve cost (in terms of travel time and cost, and the actual time incurred in executing the
+procedures) that would be borne by the audit firm and eventually passed on as fees to the client. Consolidating
+accounts of such clients can be equally complex. Such clients may have various levels of sub-consolidation and
+eventual top-level consolidation in order to prepare a consolidated financial statement. All these would have to
+be reviewed by the auditor and thus, affects the fees that are charged. As argued by Blankley, Hurtt, &
+Macgregor (2015), complex tasks lead to longer audit engagement requiring more resources in terms of time
+and personnel to carry out the audit task which affects the fees that are charged.
+Table 3. Descriptive statistics on audit fees determinants
+Mean
+
+Standard
+Deviation
+
+Auditor Expertise and Experience
+Reputation of the audit firm
+Industry expertise
+Experience in auditing similar firms
+Academic qualifications of the audit firm’s staff
+
+5.54
+5.49
+5.28
+5.35
+
+1.43
+1.36
+1.44
+1.65
+
+Overall Mean
+
+5.41
+
+Nature and scope of the audit
+Scope of operations
+Complexity of the audit process
+Number of subsidiaries and branches of the client firm
+Activities of the client’s firm
+Short audit report time lag
+
+5.96
+6.07
+6.04
+5.51
+4.96
+
+Overall Mean
+
+5.71
+
+Descriptive Statistics
+
+1.26
+1.17
+1.27
+1.45
+1.51
+
+Market-wide Characteristics
+Proximity to the client firm
+Strict local regulations
+Financial and economic instability
+Cumulative knowledge of the client business
+Financial leverage of the client firm
+The extent of the client’s use of information technology
+Overall Mean
+
+3.96
+4.94
+4.78
+5.11
+4.80
+5.33
+
+1.79
+1.55
+1.50
+1.39
+1.47
+1.32
+
+4.82
+
+Size
+Level of profitability of client
+Total assets of the client
+Total sales and revenue of the client
+
+4.88
+4.89
+5.47
+
+Overall Mean
+
+5.08
+
+Client Risk
+The effectiveness of the client’s internal control system
+Risk faced by the audit firm
+Overall Mean
+
+5.71
+6.14
+5.93
+
+1.57
+1.61
+1.49
+
+1.36
+1.33
+
+Page | 51
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+The “market-wide characteristics” construct had a mean score of 4.82, suggesting that the respondents agreed
+that the indicators under this construct are important in determining audit fees. The “extent of the client’s use of
+information technology” indicator under this factor recorded the highest mean score of 5.33 while “proximity to
+the client” recorded the least mean score of 3.96. A strong information technology (IT) environment goes a long
+way in reducing risks associated with the audit. Once there is extensive use of IT, the auditor is able to assess
+and rely on information generated from the client’s systems. This reduces the level of effort required in verifying
+reports as well as documents generated from the system and reduces the cost of the audit and the associated
+audit fees. Conversely, a weak environment in terms of the use of IT increases the risk associated with the
+audit. The auditor would have to spend more effort on verifying information provided by the client.
+The extra effort in performing these verification procedures results in additional cost which is passed on as fees
+to the client. Another factor that scored high (5.11) based on the responses of respondents is the cumulative
+knowledge of the client’s business. As the auditor gets to understand the nature of the client’s business model,
+operations, people and systems, the audit becomes more efficient and the efficiency gains reduce the cost of
+the audit. Clients are therefore able to leverage on that during negotiation of audit fees in order to get a reduction
+in the audit fees. On the contrary, the lack of knowledge by the auditor of the client’s business model, operations,
+people and systems tends to increase the cost of the audit and the fees associated with the audit. First-year
+audits, for example, tend to be more expensive than continuing audits as there is always a learning curve the
+auditor goes through in first-year audits. This invariably affects the cost of the audit and the fees charged by
+practicing firms.
+The “Size of Client Firm” factor had an overall mean of 5.08 which suggests that respondents were in strong
+agreement that the size of the organization is an important factor in the determination of audit fees. Amongst
+the three indicators that describe the size of a firm as a determinant of audit fees, the indicator “Total sales and
+revenue of the client” recorded the highest mean score of 5.47 with the least ranked being “Level of profitability
+of client firm” with a mean score of 4.88. This demonstrates that the size of a firm measured in terms of its
+profitability, revenue streams, and its assets base is relevant in determining the amount of audit fees to be
+charged by the audit firm. Total sales and revenue of the client gives an indication of the audit effort required to
+complete the audit. The more significant the numbers in the financial statements such as revenue, the more
+time required to audit those numbers. On the other hand, the less significant the numbers in the financial
+statements, the less the audit effort required. A case in point is the obvious disparity in fees one would find when
+a comparison is made between the fee charged by an audit firm for a start-up company that has only stated
+capital and cash as the items in its financial statements and a company that is fully operational.
+The “Client Risk” factor had an overall mean of 5.93 which suggests that respondents were in firm agreement
+that this is a significant factor in determining audit fees. Between the two indicators that describe the risk involved
+in the audit process as a determinant of audit fees, the indicator “risk faced by the audit firm” recorded the higher
+mean score of 6.14. Although this means that respondents consider ‘risk faced by the audit firm’ as more
+important than ‘the effectiveness of the client’s internal control system’ in determining audit fees, the two
+indicators with mean scores above 5.0 were considered very important in coming up with audit fees. In other
+words, the effectiveness of the client's internal control system and the risk faced by the audit firm in conducting
+the audit matters substantially in charging audit fees.
+For example, companies that are significant subsidiaries of the United States of America Public Company
+Accounting Oversight Board (PCAOB) are likely to pay more audit fees than stand-alone entities that operate
+only in Ghana. This is because the risk associated with performing a PCAOB engagement is higher than that
+associated with a non-PCAOB engagement. Under PCAOB requirements, an auditor is expected to issue two
+sets of opinions. One of them on the internal controls over financial reporting and the other opinion on the
+financial statements. The issuance of the two opinions means the auditor assumes additional risk as compared
+to an engagement that is not-PCAOB where the auditor issues only one opinion on the financial statements
+
+5. CONCLUSIONS
+The overall purpose of this study was to investigate, from the perspective of external auditors, the factors they
+consider relevant in the determination of audit fees in Ghana. While studies on audit fees and its determinants
+have been conducted in the past, the current study contributes to the few existing studies that examine the
+phenomenon by relying on the opinions of the auditors on the relevance of some identified factors in the
+determination of audit fees. In particular, the paper explored the dimensionality of the factors that influence
+audit fees and also ascertained the degree of importance auditors perceive these factors to be in determining
+audit fees. A total of 339 valid responses from professional auditors working with practicing auditing firms
+certified and approved by the Institute of Chartered Accountants, Ghana (ICAG) were used in our empirical
+analysis.
+
+Page | 52
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+Results of the Exploratory Factor Analysis using the Principal component analysis criterion revealed the
+presence of five factors explaining a total of 63.7% of the variance. Thus, this study classified the factors that
+influence audit fees into five distinct groups labeled as Audit firm Reputation, Experience & Expertise, Risk,
+nature, and scope of the audit, market-wide factors, and Size of Client Firm. An assessment of the level of
+importance auditors perceive these factors to be in influencing auditing fees also demonstrates that all the
+factors are considered to be important determinants of audit fees but in varying degrees. While the respective
+mean scores for the five factors exceeded the mid-point value of 3.5, the factor “Client Risk” was rated the most
+important factor among all the factors with an overall mean of 5.93. The “market-wide factors” on the other hand
+was rated by the auditors to be the least important factor as it recorded the lowest mean score (4.82). Among
+all the indicators, the indicator “risk faced by the audit firm” was rated the most important determinant of audit
+fees (mean=6.14) by the auditors while the indicator “proximity to the client firm” was adjudged the least
+important factor in determining audit fees.
+The findings of this study do not only highlight the factor structure of the audit fees’ determinants but also
+emphasize the level of importance auditors perceive these factors to be in the determination of audit fees. While
+the present study shed some light on the views of professional accountants on audit fees determinants, the
+evidence we provide is based on the views of a few professional accountants in Ghana. This to a large extent
+may affect the extent of generalization of the study findings but provides an important avenue for further
+research in the area.
+
+REFERENCES
+Ahmed, R. A. & Abdullah, H. A. (2016). A proposed framework of audit fees determinants in the Kurdistan region. European
+Journal of Business and Management, 8(12).
+Al-Harshani, M. O. (2008). The pricing of audit services: evidence from Kuwait. Managerial Auditing Journal, 23(7), 685696. https://doi.org/10.1108/02686900810890643
+Al Mutairi, A., Naser, K. & Al Enazi, N. (2017). An empirical investigation of factors affecting audit fees: evidence from Kuwait.
+International Advances in Economic Research, 23, 333-347. https://doi.org/10.1007/s11294-017-9649-5
+Aronmwan, EJ, & Okafor, CA (2015). Auditee characteristics and audit fees: An analysis of Nigerian quoted companies.
+Journal of Social and Management Sciences, 10(2), 68-79.
+Audousset-Coulier, S. (2015). Audit fees in a joint audit setting. European Accounting Review, 24(2), 347-377.
+https://doi.org/10.1080/09638180.2014.892787
+Beattie, V., Brandt, R. & Fearnley, S. (1999). Perceptions of auditor independence: U.K. evidence. Journal of International
+Accounting, Auditing, and Taxation, 8(1), 67-107. https://doi.org/10.1016/S1061-9518 (99)00005-1
+Beck, A. K., Fuller, R. M., Muriel, L. & Reid, C. D. (2013). Audit fees and investor perceptions of audit characteristics.
+Behavioral Research in Accounting, 25(2), 71-95. https://doi.org/10.2308/bria-50403
+Bently, K. A., Omer, T. C. & Sharp, N. Y. (2011). A business strategy, audit effort, and financial reporting irregularities.
+Working Paper, Texas A & M University.
+Berry, A. and Robertson, J., 2006. Overseas bankers in the UK and their use of information for making lending decisions:
+changes from 1985. British Accounting Review, 38 (2), 175–191. https://doi.org/10.1016/j.bar.2005.10.004
+Brandon, D. M., McMillan, J. J. & Stanley, J. D. (2012). Does lowballing impair audit quality? Evidence from client accruals
+surrounding analyst forecasts. Paper presented at the AAA Midyear Auditing Section Conference, Savannah, GA,
+January https://doi.org/10.1016/j.jaccpubpol.2015.05.007
+Cameran, M. (2005). Audit fees and the large auditor premium in the Italian market. International Journal of Auditing, 9(2),
+129-146. https://doi.org/10.1111/j.1099-1123.2005.00205.x
+Camfferman, K., & Cooke, T. E. (2002). An analysis of disclosure in the annual reports of UK and Dutch companies. Journal
+of International Accounting Research, 1(1), 3-30. https://doi.org/10.2308/jiar.2002.1.1.3
+Clatworthy, M. A., & Peel, M. J. (2007). The effect of corporate status on external audit fees: evidence from the UK. Journal
+of Business Finance & Accounting, 34(1‐2), 169-201. https://doi.org/10.1111/j.1468-5957.2006.00658.x
+Chan, P., Ezzamel, M., & Gwilliam, D. (1993). Determinants of audit fees for quoted UK companies. Journal of Business
+Finance & Accounting, 20(6), 765-786. https://doi.org/10.1111/j.1468-5957.1993.tb00292.x
+Chersan, I. C., Robu, I. B., Carp, M. & Mironiuc, M. (2012). A circular casualty analysis on the determinants of audit fees
+within the NYSE – Quoted companies. Communications of the IBIMA, 1. https://doi.org/10.5171/2012.896676
+Choi, J. H., Kim, C., Kim, J. B., & Zang, Y. (2010). Audit office size, audit quality, and audit pricing. Auditing: A Journal of
+Practice & Theory, 29(1), 73-97. https://doi.org/10.2308/aud.2010.29.1.73
+Clatworthy, M. A. & Peel, M. J. (2006). The effect of corporate status on external audit fees: evidence from the UK. Journal
+of Business Finance and Accounting, 1(2), 169-201. https://doi.org/10.1111/j.1468-5957.2006.00658.x
+Dart, E. (2011). UK investors’ perceptions of auditor independence. The British Accounting Review, 43, 173-185.
+https://doi.org/10.1016/j.bar.2011.06.003
+Page | 53
+
+http://dx.doi.org/ 10.30585/jrems.v1i4.368
+© 2019 the Authors. Journal of Research in Emerging Markets, 2019, 1(4).
+
+El Gammal, W. (2012). Determinants of audit fees: Evidence from Lebanon. International Business Research, 5(11), 136145. http://hdl.handle.net/20.500.11889/4280
+Ellis, Y. & Booker, Q. L. (2011). Audit fee determinants in the non-profit sector: A study of community action agencies.
+Faculty Publications, Columbia State University. https://csuepress.columbusstate.edu/bibliography_faculty/88
+Gonthier-Besacier, N., & Schatt, A. (2007). Determinants of audit fees for French quoted firms. Managerial Auditing Journal,
+22(2), 139-160. https://doi.org/10.1108/02686900710718654
+Gupta, P. P., Krishnan, G. & Yu, W. (2012). Do auditors allow earnings management when audit fees are low? Working
+Paper, Lehigh University, and Singapore.http://dx.doi.org/10.2139/ssrn.1836829
+Hay, D. (2013). Further evidence from meta-analysis of audit fee research. International Journal of Auditing, 17, 162-176.
+https://doi.org/10.1111/j.1099-1123.2012.00462.x
+Hay, D. C. & Knechel, W. R. (2006). Audit fees: A meta-analysis of the effect of supply and demand attributes. Contemporary
+Accounting Research, 23(1), 141-191. https://doi.org/10.1506/4XR4-KT5V-E8CN-91GX
+Ho, S. W., & Ng, P. P. (1996). The determinants of audit fees in Hong Kong: an empirical study. Asian Review of Accounting,
+4(2), 32-50. https://doi.org/10.1108/eb060673
+Hoitash, R., Markelevich, A. & Barragato, C. A. (2007). Auditor fees and audit quality. Managerial Auditing Journal, 22(8),
+761-786. https://doi.org/10.1108/02686900710819634
+Inchausti, B. G. (1997). The influence of company characteristics and accounting regulation on information disclosed by
+Spanish firms. European Accounting Review, 6(1), 45-68.https://doi.org/10.1080/096381897336863
+Joshi, P. L. & Al-Bastaki, H. (2000). Determinants of audit fees: Evidence from the companies listed in Bahrain. International
+Journal of Auditing, 4, 129-138.https://doi.org/10.1111/1099-1123.00308
+Karjalainen, J., (2011). Audit quality and cost of debt capital for private ﬁrms: evidence from Finland. International Journal
+of Auditing, 15 (1), 88–108. https://doi.org/10.1111/j.1099-1123.2010.00424.x
+Naser, K. & Nuseibeh, R. (2008). Determinants of audit fees: Empirical evidence from an emerging economy. International
+Journal of Commerce and Management, 17(3), 239-254. http://hdl.handle.net/20.500.11889/4280
+Naser, K., & Hassan, Y. M. (2016). Factors influencing external audit fees of companies listed on Dubai Financial Market.
+International Journal of Islamic and Middle Eastern Finance and Management, 9(3), 346-363.
+https://doi.org/10.1108/IMEFM-01-2015-0007
+Palmrose, Z. V. (1986). Audit fees and auditor size: Further evidence. Journal of Accounting Research, 24(1), 97-110.
+https://www.jstor.org/stable/2490806
+Simunic, D. A. (1980). The pricing of audit services: Theory and evidence. Journal of Accounting Research, 18(1), 161-190.
+DOI: 10.2307/2490397 https://www.jstor.org/stable/2490397
+Stewart, J. & Munro, L. (2007). The impact of audit committee existence and audit committee meeting frequency on the
+external audit: Perceptions of Australian auditors.
+International Journal of Auditing, 11, 51-69.
+https://doi.org/10.1111/j.1099-1123.2007.00356.x
+Tagesson, T., Blank, V., Broberg, P., & Collin, S. O. (2009). What explains the extent and content of social and environmental
+disclosures on corporate websites: a study of social and environmental reporting in Swedish listed corporations.
+Corporate Social Responsibility and Environmental Management, 16(6), 352-364. https://doi.org/10.1002/csr.194
+Verbruggen, S., Christiaens, J., Reheul, A. M., & Van Caneghem, T. (2011). Audit pricing in a reformed non-profit market.
+HUB Research Papers.
+Vermeer, T. E., Raghunandan, K. & Forgione, D. A. (2009). Audit fees at US non-profit organizations. Auditing: A Journal
+of Practice and Theory, 28(2), 289-303. https://doi.org/10.2308/aud.2009.28.2.289
+Walker, P. L., & Casterella, J. R. (2000). The role of auditee profitability in pricing new audit engagements. Auditing: A
+Journal of Practice & Theory, 19(1), 157-167. https://doi.org/10.2308/aud.2000.19.1.157
+Wang, K., Sewon, O., & Iqbal, Z. (2009). Audit pricing and auditor industry specialization in an emerging market: Evidence
+from
+China.
+Journal
+of
+International
+Accounting,
+Auditing,
+and
+Taxation,
+18(1),
+60-72.
+https://doi.org/10.1016/j.intaccaudtax.2008.12.006
+Wong, S. (2009). Audit pricing in Australia in the 2000s. International Review of Business Research Papers, 5(3), 82-89.
+
+Page | 54
+
+

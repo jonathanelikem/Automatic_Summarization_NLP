@@ -1,0 +1,1692 @@
+Int. J. Corporate Governance, Vol. 9, No. 1, 2018
+
+Audit committee roles, responsibilities and
+characteristics in Ghana: the perception of ‘agency
+stakeholders’
+Teddy Ossei Kwakye*,
+Godfred Matthew Yaw Owusu
+and Rita Amoah Bekoe
+Department of Accounting,
+University of Ghana Business School,
+University of Ghana,
+P.O. Box LG78, Legon-Accra, Ghana
+Email: tokwakye@ug.edu.gh
+Email: gmowusu@gmail.com
+Email: celestialrita@gmail.com
+*Corresponding author
+Abstract: This paper examines the perception of firms’ major ‘agency
+stakeholders’ – external auditors, investors and senior management – of
+Ghanaian listed companies on the roles, responsibilities and desirable
+characteristics of an effective corporate audit committee (AC). Employing a
+survey approach to this study, the paper documents that ‘agency stakeholders’
+in Ghana associate the role and responsibilities of AC more with firms’ internal
+audit function and processes than any other unit which AC has oversight
+responsibilities. It also demonstrates that corporate stakeholders do not attach
+the same level of importance to the roles, responsibilities and characteristics of
+AC. The paper, therefore, highlights the need for stakeholders to be aware of
+and consider the new dynamics of AC functions and processes with equal
+importance to promote effective practice.
+Keywords: audit committee; corporate governance; GSE; Ghana Stock
+Exchange; internal audit; stakeholders; agency; perception; board of directors;
+emerging markets; effectiveness; roles and responsibilities; characteristics.
+Reference to this paper should be made as follows: Kwakye, T.O.,
+Owusu, G.M.Y. and Bekoe, R.A. (2018) ‘Audit committee roles,
+responsibilities and characteristics in Ghana: the perception of ‘agency
+stakeholders’’, Int. J. Corporate Governance, Vol. 9, No. 1, pp.73–90.
+Biographical notes: Teddy Ossei Kwakye is a Lecturer in the Department of
+Accounting, University of Ghana Business School, Legon-Accra. His research
+interests are in strategic management accounting, corporate governance and
+financial reporting quality, environmental and sustainability accounting.
+Godfred Matthew Yaw Owusu is a Lecturer in the Department of Accounting,
+University of Ghana Business School, Legon-Accra. His research interests
+include accounting education, international financial reporting standards
+(IFRS), financial economics, and corporate governance.
+
+Copyright © 2018 Inderscience Enterprises Ltd.
+
+73
+
+74
+
+T.O. Kwakye et al.
+Rita Amoah Bekoe is a Lecturer in the Department of Accounting, University
+of Ghana Business School, Legon-Accra, and she is interested in corporate
+governance, auditing, and corporate and internet financial reporting research.
+This paper is a revised and expanded version of a paper entitled ‘Stakeholder
+perspective on the roles, responsibilities and characteristics of audit committees
+in Ghana’ presented at 4th Annual African Accounting and Finance Association
+(AAFA) Conference, Stellenbosch University, Cape Town, South Africa,
+2–5 September, 2014.
+
+1
+
+Introduction
+
+The nature and scope of audit committee (AC) activities continually engage the attention
+of regulators, the accounting profession and the global business community due to its
+importance to business operations. Indeed, the establishment of audit committees is
+recognised as a key principle in a good corporate governance (CG) system (Samaha et al.,
+2012, 2015; Crişan and Fülöp, 2014). The roles, responsibilities and the characteristics
+of an effective AC, however, have been a highly debated issue in CG research.
+The literature on AC documents that the roles and responsibilities of AC have evolved
+over the past decades (Lin et al., 2008; Lary and Taylor, 2012).1 Prior studies on AC
+functioning associate its effectiveness with characteristics such as composition, size,
+members’ qualifications, and actual operations (Bliss et al., 2007; Stewart and Munro,
+2007; Akhtaruddin and Haron, 2010; Rainsbury et al., 2009; Alzeban and Sawan, 2015;
+Miko and Kamardin, 2015).
+Despite the increasing recognition of the importance of AC and the seeming
+consensus on their roles and responsibilities, the effectiveness of AC operations in
+practice is still a very controversial issue. Limited studies have examined AC
+responsibilities and effectiveness in actual practice, and the findings of the few existing
+studies are inconclusive (Zaman et al., 2011). Moreover, existing studies on AC
+functioning has done little in describing the extent to which firms operationalise AC
+functioning (Rupley et al., 2011). The issue of whether ACs are effective in discharging
+their responsibility remains insufficiently understood, perhaps, due to the paucity of
+empirical research on the operationalisation of AC functioning in practice. To date, only
+a few studies have directly examined the actual operations and activities of AC in
+practice (Lary and Taylor, 2012; Kamel and Elkhatib, 2013; Lin et al., 2008; Rupley
+et al., 2011).
+Lin et al. (2008) contend that whether the AC system can effectively function also
+depends upon the stakeholders’ acceptance of the AC system, in addition to their
+perceived characteristics for efficacy. They further explain that the acceptance of AC
+system by corporate stakeholders depends on the knowledge or consensus that they form
+on the roles, responsibilities and characteristics of ACs. The knowledge of AC operations
+among various stakeholders of firms may, thus, influence their views of AC operations as
+well as their acceptance of the AC system in practice, and hence, the overall effectiveness
+of the system. Various stakeholders of firms are documented to have different views and
+attach different importance to the roles and responsibilities of AC, particularly, in
+countries where the requirement for AC formation is new – usually emerging economies
+(Rupley et al., 2011; Lin et al., 2008; Lary and Taylor, 2012). It is, therefore, imperative
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+75
+
+to understand how different parties of a firm’s governance mechanism perceive the roles,
+responsibilities and attributes of an effective AC functioning to establish consensus
+stakeholder knowledge and acceptance to improve AC practices.
+Developing countries, specifically African countries, are not adequately equipped to
+implement the type of CG found in developed countries due to their structural
+characteristics (Assenso-Okofo et al., 2011; Aboagye-Otchere et al., 2012).2 As a result,
+they are more vulnerable to the consequences of ineffective CG mechanisms, hence, the
+need for an assessment of the practicality of AC functioning in practice in these
+countries, including stakeholders’ awareness and acceptance of the system. Nonetheless,
+developing countries’ studies on AC mostly focus on the effect of AC system on
+corporate reporting, disclosure practices, firm performance, and other corporate practices
+(see Aboagye-Otchere et al., 2012; Bliss et al., 2007; Johl et al., 2012; Miko and
+Kamardin, 2015; Madi et al., 2014; Othman et al., 2014; Li et al., 2012; Assenso-Okofo
+et al., 2011; Muniandy and Hillier, 2015). Studies on stakeholders’ understanding and
+perception of AC phenomenon and operations to indicate the extent of stakeholder
+involvement in ensuring AC effectiveness is yet to be explored and advanced.
+From the above discourse and to fill this gap in existing literature, this study
+investigates the roles, responsibilities and characteristics of AC as perceived by key
+stakeholders, which we term ‘agency stakeholders’, of listed companies on the Ghana
+Stock Exchange (GSE) by addressing the following research questions:
+•
+
+What are the general perceptions of key corporate stakeholders in Ghana about the
+roles and responsibilities of an AC?
+
+•
+
+What do key corporate stakeholders in Ghana perceive as the desirable
+characteristics of an effective AC?
+
+Adapting the survey design employed by Lin et al. (2008) and with a questionnaire
+response rate of 57.9%, we provide evidence that the ‘agency stakeholders’ of Ghanaian
+listed companies are familiar with the operations of AC system. Moreover, they perceive
+the strengthening of internal audit and control systems and promotion of good CG as the
+principal roles of the AC. These stakeholders are also of the view that AC is responsible
+mainly for the monitoring, supervising and coordinating of the internal and external audit
+function including internal control systems. Furthermore, they suggest that for ACs to be
+effective in their roles, the committee must be independent and have the relevant
+expertise. However, we also show that the different stakeholders do not attach the same
+level of importance to the roles, responsibilities and characteristics of AC, perhaps
+because the acceptance of AC system and its practical operation is still emerging in
+Ghana.
+Our study contributes to the literature by incorporating factors established in the
+extant literature and current CG regulations into a survey of AC functioning and
+effectiveness and provides evidence on the role of stakeholders in ensuring the effective
+functioning of AC in emerging economies. By examining the perception of AC
+functioning among the ‘agency stakeholders’ identified, this study adds to the knowledge
+of researchers, regulators and firm BOD about the current understanding of the main CG
+players on AC functioning and operations. The findings of this study also provide useful
+information to SEC and other capital market regulatory bodies in Ghana as they explore
+possibilities of taking into account the domestic circumstances to provide a
+comprehensive and effective CG framework and procedure. This study, to the best of our
+
+76
+
+T.O. Kwakye et al.
+
+knowledge, is the first perception study of AC practices in the sub-region. It may, thus,
+serve as a foundational paper or framework for subsequent studies on enhancing CG
+effectiveness in emerging economies and smaller capital markets.
+The rest of the paper is organised as follows. Section 2 presents a brief background of
+the GSE and the current AC regulatory framework in Ghana. Section 3 briefly reviews
+the literature on the roles, responsibilities and characteristics of AC to provide the
+conceptual framework of the study. Section 4 provides information on the research
+methodology while Sections 5 and 6 discuss the results and conclusions of the study
+respectively.
+
+2
+
+GSE and AC regulatory framework in Ghana
+
+The GSE was incorporated in July 1989 as a private company limited by guarantee under
+Ghana’s Companies Act of 1963 (Act 179). The exchange was given recognition as an
+authorised Stock Exchange under the Stock Exchange Act of 1971 (Act 384) in October
+1990 and commenced trading on the floor officially in November 1990. The Exchange
+deals in three main securities: ordinary shares (common stock), preference shares and
+Exchange Traded Funds (ETF). Trading on the floor of the house is by the Continuous
+Auction Trading System where orders are executed whenever bids and offers cross
+during a trading session. With only three (3) listed companies as at December 1991, the
+GSE has witnessed some listing activities over the years, and by the end of the year 2014,
+the total number of listed companies stood at thirty-five (35). Shareholding of firms listed
+on the GSE is highly concentrated as these firms are characterised by large (block)
+shareholders, who are mostly companies or institutions and in some cases government
+bodies (Aboagye-Otchere et al., 2012; Tsamenyi et al., 2007; Assenso-Okofo et al.,
+2011).
+The Securities and Exchange Commission (SEC) is the body incorporated to maintain
+surveillance over the securities market, ensure adequate protection and security to all
+investors, and guarantee fairness in the securities market. They also oversee issues on CG
+and financial reporting practices of firms listed on the GSE as well as the conduct of
+business on the GSE. Thus, SEC is partly responsible for the implementation of sound
+CG practices among listed firms. Ghana practices the common law code system of
+corporate reporting and audit with its central legal framework being the Companies Act
+of 1963 (Act 179), previously referred to as Companies Code. In addition to this
+framework, other accounting and capital market regulations supplement the reporting
+and CG practices of firms. The Securities and Exchange Commission Guidelines
+of Best Corporate Governance Practices of 2002 (hereinafter, SEC Guidelines) and
+The Listing Regulations of Ghana Stock Exchange (LI1509) of 1990 (hereinafter, Listing
+Regulations) are the notable regulations that provide guidance for AC functioning in
+Ghana (Aboagye-Otchere et al., 2012; Tsamenyi et al., 2007; Assenso-Okofo et al.,
+2011).
+The GSE recognises the need for structure and establishment of BOD committees,
+especially AC in their Listing Regulations. The Listing Regulations, among other things,
+requires all listed companies to establish and maintain AC, as it obligates the provision of
+a written evidence of AC effectiveness and operations as part of a firm’s listing
+requirement. Furthermore, the Listing Regulations give only a few terms of references for
+AC operations,3 with the focus on review and recommendation of the roles and
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+77
+
+responsibilities. It is, however, silent on the oversight and corporate BOD governance
+responsibilities and does not make any provisions as to how AC can effectively function,
+regarding AC composition, independence, among others.
+A more detailed guideline on AC functioning, though not a law or code, was
+introduced and recommended by SEC in 2002 to encourage best CG practices – the SEC
+Guidelines. The SEC Guidelines are based on the principles outlined by the Organization
+for Economic Co-operation and Development (OECD), the Commonwealth Association
+for Corporate Governance and codes of CG issued by regulatory authorities in emerging
+markets. The SEC Guidelines provide, among others, that ACs of these companies be
+made up of at least three (3) members, dominated by non-executive directors (NED), and
+should have at least an accounting or finance expert(s) on the committee. It also includes
+other roles relating to audit quality, risk assessment and reporting of activities. Although
+AC composition, functions, authority and reports are enshrined in the SEC Guidelines, it
+appears not to be as comprehensive as those of developed economies.
+The Ghanaian setting is considered appropriate for the current study for the following
+reasons. Firstly, over the last decade, the Ghanaian capital market has expanded rapidly
+and become one of the vibrant stock markets in the sub-region (Aboagye-Otchere et al.,
+2012; Assenso-Okofo et al., 2011), to necessitate improved CG mechanisms. However,
+whereas some aspect of CG in Ghana, for example concerning shareholder rights, is
+commendable, there is still lack of awareness of other CG issues as well as its
+enforcement and compliance (Assenso-Okofo et al., 2011). Aboagye-Otchere et al.
+(2012) assert that even though CG practices in Ghana have improved over the years,
+Ghanaian CG practices have focused on issues such as company-stakeholder relationship
+and financial reporting and auditing. Suggestively, the CG practices and the associated
+market regulation system in Ghana is still evolving.
+Secondly, one of the issues that need emphasis on improving CG in Ghana is the
+effective functioning and operations of BOD sub-committees, especially AC, as it is the
+central sub-committee emphasised in the Listing Regulations. Although the Listing
+Regulations mandates all firms listed on the GSE to establish ACs, it does not provide
+detailed guidelines on AC effective functioning. For this reason, even though listed firms
+in Ghana have long been mandated to establish AC, issues on their effective functioning
+have become popular only in the last decade, following the introduction of the SEC
+Guidelines in 2002. The active operations and functioning of AC as a CG mechanism is,
+thus, a relatively new phenomenon to corporate stakeholders in Ghana, and still in its
+initial stages compared to more developed countries and other developing African
+countries like South Africa.4 So in Ghana, whether ACs in Ghana are effectively
+functioning regarding their roles and responsibilities or merely playing a symbolic or
+ceremonial role in companies remains an empirical question.
+
+3
+
+Literature review
+
+The setting up of AC, which used to be a voluntary practice, has become a widespread
+standard and mandatory practice in CG regulatory frameworks globally, especially in
+countries who have adopted the unitary board system (Kumar and Singh, 2012; Crişan
+and Fülöp, 2014; Samaha et al., 2015). AC in CG framework is considered a vital
+mechanism for sound financial reporting to shareholders and a boost to the establishment
+and operations of stock market regulators (Lin et al., 2008). However, the increased
+
+78
+
+T.O. Kwakye et al.
+
+number of corporate failures and accounting scandals over the last decade and the recent
+global financial crisis have heightened investor concerns on corporate reports and
+brought to sharp focus on the efficacy and effectiveness of AC as a CG mechanism
+(Kumar and Singh, 2012; Mathur, 2009). Consequently, there has been a substantial body
+of AC literature over the last decade (Lary and Taylor, 2012). The inclusion of AC in CG
+practices by market regulators, professional bodies and governance policymakers has
+seen the emergence of a relative consensus on AC’s roles and responsibilities (Lin et al.,
+2008; Zaman et al., 2011).
+AC roles and responsibilities have evolved over the years to include monitoring the
+integrity of the financial statements (Anderson et al., 2004; Beecher-Monas, 2003;
+DeZoort et al., 2002) and reviewing the company’s internal audit, internal controls and
+risk management systems (Abbott et al., 2004; Carcello and Neal, 2000, 2003).
+Reviewing and monitoring the engagement of external auditors and their effectiveness
+(Pradeep, 2006; Bédard and Gendron, 2010), and enhancing BOD’s oversight of
+management performance and financial reporting processes (Aldamen and Duncan, 2012;
+Barua et al., 2010; Thibodeau and Packwood, 2007) are other roles and responsibilities
+that have emerged. Whereas earlier studies underscore the primary AC roles and
+responsibilities as enhancing the credibility of the financial reporting process, recent
+studies associate AC’s leading role and responsibility with improving CG to increase
+investor confidence in corporate financial reporting (Lin et al., 2008; Mathur, 2009;
+Rupley et al., 2011; Zaman et al., 2011). Accordingly, AC is now generally viewed to
+have an oversight and a monitoring role in a firm’s financial reports, external auditors
+and internal controls (Lary and Taylor, 2012).
+The effectiveness of an AC can be benchmarked against their widely recognised roles
+and responsibilities, and the characteristics of the committee and its members (Lary and
+Taylor, 2012). The effectiveness of AC function depends on the AC composition,
+diligence, financial and industry expertise, authority or power, resources and actual
+operations (see Cohen et al., 2011; Lary and Taylor, 2012; Li et al., 2012; Rahmat et al.,
+2009; Zaman et al., 2011; Zhang et al., 2007; Akhtaruddin and Haron, 2010; Rainsbury
+et al., 2009; Othman et al., 2014; Samaha et al., 2015; Muniandy and Hillier, 2015).
+These qualities are often exhibited in AC independence, size, number of meetings,
+members’ qualification and work experience Accordingly, these existing literature
+consent that for AC to effectively function, they need to be independent, competent,
+financially literate, adequately resourced and adequately compensated. Studies contend
+that more NEDs on the AC enhance its independence and advocate strongly for the
+chairman of the committee to be also a NED (see Cotter and Silvester, 2003; Hemraj,
+2004; Barua et al., 2010).
+Other studies document that AC members’ knowledge or expertise or experience in
+understanding corporate reporting and auditing issues is directly associated with the
+effectiveness of AC (see Financial Reporting Council, 2012; Adel and Maissa, 2013;
+Dhaliwal et al., 2010). Some studies recommend large size AC to be more effective
+because of increased resources (Rahmat et al., 2009) and the endowment of relevant
+diversity in views and expertise (Li et al., 2012). Others believe large AC size leads to
+process losses and diffusion of responsibilities, delay in its decision making (Karamanou
+and Vafeas, 2005; Adel and Maissa, 2013). Hence, market regulators and other CG codes
+have only provided for a minimum requirement on AC size to be three members, and this
+seemingly has become the convention (Bédard and Gendron, 2010; Samaha et al., 2015).
+It is further contended that for AC to oversee and monitor the financial reporting and
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+79
+
+auditing process, it should frequently meet – at least twice in a year – and conduct
+separate meetings with management and auditors (Sharma et al., 2009; Zhang et al.,
+2007; Financial Reporting Council, 2012).
+A key consideration that has been missing in the literature on AC over the last decade
+is the role that corporate stakeholders’ acceptance of the AC system plays in ensuring AC
+effectiveness. It is suggested that understanding stakeholders’ perception on the roles,
+responsibilities and attributes of an effective AC is essential to improving AC practices
+since stakeholders’ view of AC roles and responsibilities can serve as a reference point
+for assessing their effectiveness (Lin et al., 2008; Rupley et al., 2011). Their knowledge
+level of AC operations and system also indicates their acceptance of the system
+(Lin et al., 2008) for which they may serve as a monitoring tool of AC effectiveness.
+Thus, if stakeholders’ view about the roles and responsibilities of AC deviate from
+what is advocated and recommended, then the establishment of an AC system in the
+companies may not achieve its objectives. Only a few studies have examined the views of
+stakeholders on an effective AC system (Kamel and Elkhatib, 2013; Lin et al., 2008;
+Rupley et al., 2011).
+Lin et al. (2008) investigate the perceptions of investors or creditors, management,
+NEDs and external auditors of firms in China. They contend that in a country where AC
+is a new phenomenon, most stakeholders perceive the most significant AC roles as
+related to the promotion of a sound and proper CG image. Lin et al. (2008) also show that
+AC’s oversight roles in enhancing the quality of financial reporting and external auditing,
+and AC’s expanding role in strengthening internal control or internal audit are considered
+as less important by stakeholders. A similar study by Kamel and Elkhatib (2013) in Egypt
+examines the perception of accounting academics, financial accountants and external
+auditors on the roles of AC. They document that stakeholders in Egypt consider the
+reviewing of significant changes in accounting policies and practices, the evaluation of
+internal control as the most critical responsibilities of AC. Kamel and Elkhatib (2013)
+also provide that the independence of AC members and their experience in accounting or
+other related subjects are perceived by stakeholders as the most important attributes to be
+considered when selecting members of the committee. These studies, in countries with
+large stock markets and principle based CG systems, show that in practice, the roles and
+responsibilities of AC are not all accorded equal importance by the various stakeholders.
+Rupley et al. (2011) also examine the extent to which AC members in US firms
+believe their committees are characterised by the widely recognised effectiveness
+features. As expected from a rule-based CG environment, they find that the AC members
+believe that most factors thought to be associated with AC effectiveness are operating
+mainly within their committees. However, they observed that the AC members believe
+that the rule-based governance system is not as beneficial to the investing public as
+portrayed but has negative consequences. The above discourse suggests that despite the
+widely recognised roles, responsibilities and useful attributes, stakeholders may not have
+a consensus on effective AC functioning. More so, the perception of stakeholders on AC
+functioning and requirements may vary significantly across countries and continents
+(Zaman et al., 2011), and studies on the perception of stakeholders regarding AC system
+are yet to be advanced.
+It is in this regard that we examine whether the perceptions of stakeholders in Ghana
+deviate from those recommendations advocated by many studies in developed countries
+and large markets. We differentiate our study from prior studies by considering the
+perception of stakeholders on AC function in a rapidly growing small capital market that
+
+80
+
+T.O. Kwakye et al.
+
+is characterised by substantial block shareholdings, mostly institutional investors and
+government organisations. We also include the perceptions of fund managers and
+financial analysts of institutional investors, which have not been considered by other
+studies.
+
+4
+
+Research methodology
+
+Our sample respondents were from three different stakeholder groups: investors,
+company management and external auditors. These stakeholder groups, which we refer to
+as ‘agency stakeholders’, were chosen because an agency relationship exists between
+them and firms, and most importantly, the SEC considers this group of stakeholders as
+key in achieving the best CG practices in Ghana. The SEC Guidelines emphasise three
+groups of stakeholders – directors and managers, shareholders, and auditors – as the
+essential groups whose actions are integral to achieving acceptable CG. Moreover,
+agency problems have been the underlying assumptions for most CG reforms, and thus,
+we believe that the views of these categories of stakeholders on AC operations will better
+indicate the understanding of the phenomenon.
+Financial analysts and investment fund managers of all the major institutional
+investors of listed companies and leading investment companies in Ghana constituted the
+investor group respondents. Managing partners and chief accountants or auditors of the
+big four auditing firms (i.e., PWC, KPMG, Ernst & Young and Deloitte & Touché)
+constituted the external auditor's group respondents. We focused only on the big four
+because auditing services for listed companies on the GSE are mostly performed by the
+big four auditing firms. The general managers, financial managers or accountants and
+internal auditors of listed companies constituted the company management group.
+A survey method of research was employed in this study and data on AC roles,
+responsibilities and characteristics from stakeholders of companies listed on the GSE was
+collected mainly using questionnaires. The Lin et al. (2008) research instrument,
+hereafter referred to as LJQI, was adapted for this study as it extensively covers the roles,
+responsibilities and characteristics of AC as enshrined in the global CG codes and
+literature. LJQI was modified to incorporate other roles and responsibilities identified in
+the prior literature and other codes of best practices. We added four questions to the
+section that examined respondents’ perceptions on AC roles, five items to the section that
+solicited respondents’ view on the responsibilities of AC and one question to the section
+devoted to the views on AC characteristics. Each question was designed with an answer
+expressed in a five-point Likert scale where ‘1’ means ‘completely disagree’, ‘5’
+indicates ‘completely agree’ and ‘3’ represents a neutral opinion.
+In total, 140 questionnaires were administered to the target groups, out of which 81
+were returned, representing 57.9% response rate. Out of this number (11) were not
+included in the analysis because respondents failed to answer all the questions thoroughly
+(see Table 1). Reliability tests were first conducted to assess the internal consistency of
+the responses using the Cronbach alpha coefficient. According to Nunnally (1978),
+a Cronbach alpha coefficient value of 0.7 or more is recommended. The test resulted in a
+value of 0.91 for items on AC roles and responsibilities and 0.71 for items on AC
+characteristics indicating that the items used to describe the various AC dimensions are
+consistent in describing the phenomenon. Scores assigned to the distinct items were
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+81
+
+averaged out, a composite average score was obtained, and the scores ranked in order of
+perceived importance. Analysis of variance (ANOVA) tests were conducted to check for
+the differences in the average scores among the various stakeholder groups.
+Table 1
+
+Stakeholder groups and response rate
+No. of firms
+(Questionnaires sent)
+
+No. questionnaires received
+(Response rate)
+
+4 (12)
+
+12 (100%)
+
+Investors
+
+13 (26)
+
+20 (76.9%)
+
+Senior management
+
+34 (102)
+
+49 (48.0%)
+
+Total
+
+51 (140)
+
+81 (57.9%)
+
+Group of respondents
+External auditors
+
+Non-useable response
+
+11 (7.9%)
+
+Total useable response
+
+70 (50%)
+
+5
+
+Results and discussion
+
+5.1 Roles of the AC
+Table 2 shows that the mean values of all the items are higher than 3, indicating a very
+high level of familiarity with AC roles among the various stakeholder groups being
+studied. Generally, ‘agency stakeholders’ in Ghana consider the following roles of AC to
+be the most important: “to strengthen internal control”, “to strengthen internal audit” and
+“to promote good corporate governance”. These results imply that ‘agency stakeholders’
+in Ghana associate the role of AC more with internal audit function within the
+organisation than any other unit over which AC has oversight responsibility. AC’s role
+about reducing illegal audits or irregularities, to regularly review the adequacy of the
+organisational structure of the company and to reduce the board of directors’ risk
+exposure were ranked less important by the respondents. The findings are in sharp
+contrast to findings by Kamel and Elkhatib (2013) that associate the essential role of AC
+in an Egyptian setting as the ‘review of significant changes in accounting policies
+and practices. Further tests aimed at identifying differences in responses among the
+three categories of respondents on AC roles were conducted using ANOVA after
+re-categorising the average scores on the roles of AC based on the different stakeholder
+groups (see Table 2).
+External auditors perceive the promotion of good CG, the strengthening of internal
+audit, and the strengthening of internal control systems respectively as the most important
+roles of AC. Among the investor group, the three roles highly ranked as important were
+to strengthen internal audit function, strengthen internal control system, and lift the image
+of sound CG. The strengthening of internal control systems, promotion of good CG and
+strengthening of internal audit function were also ranked the most important roles by the
+senior management of the listed companies. The results of ANOVA tests yielded no
+significant differences in the average scores of most of the items across the various
+stakeholder groups categories. Significant differences among the groups were, however,
+observed for the roles of preventing fraudulent financial reports (F = 5.39, p = 0.01),
+ensuring the authenticity of the information provided in the financial statements
+
+82
+
+T.O. Kwakye et al.
+
+(F = 4.63, p = 0.01) and the strengthening of the internal controls (F = 2.77, p = 0.08).
+One significant role of AC that had modest average values across all the company
+groupings was the role of ‘reducing the board of directors’ risk exposure’ (Mean = 3.58,
+3.41 and 3.83 across external auditors, institutional investors and public listed companies
+respectively).
+Table 2
+
+Roles of AC
+General
+scores
+(N = 70)
+
+External
+auditors
+(N = 12)
+
+Investors
+(N = 17)
+
+Senior
+management
+(N = 41)
+
+ANOVA
+F(p) value
+
+Items (α = 0.91)
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+To strengthen internal control
+
+4.46
+
+0.65
+
+4.08‡
+
+0.81
+
+4.47
+
+0.52
+
+4.56‡
+
+0.60 2.77 (0.08)
+
+To strengthen internal audit
+
+4.44
+
+0.74
+
+4.25
+
+0.99
+
+4.53
+
+0.51
+
+4.46
+
+0.70 0.57 (0.59)
+
+To promote good corporate
+governance
+
+4.41
+
+0.71
+
+4.25
+
+0.79
+
+4.29
+
+0.73
+
+4.50
+
+0.70 0.85 (0.44)
+
+Lift image of sound corporate
+governance
+
+4.37
+
+0.83
+
+4.17
+
+0.93
+
+4.38
+
+1.14
+
+4.43
+
+0.61 0.47 (0.64)
+
+A link between the board of directors
+and auditors
+
+4.36
+
+0.84
+
+4.08
+
+1.02
+
+4.29
+
+1.03
+
+4.46
+
+0.65 1.06 (0.36)
+
+To create an environment that ensures 4.33
+auditor independence and objectivity
+
+0.72
+
+4.08
+
+0.87
+
+4.35
+
+0.75
+
+4.40
+
+0.61 0.99 (0.41)
+
+To enhance audit quality
+
+4.31
+
+0.66
+
+4.08
+
+0.81
+
+4.25
+
+0.48
+
+4.41
+
+0.67 1.28 (0.32)
+
+To ensure management has applied
+acceptable accounting practices and
+identified correctly major risk
+
+4.24
+
+0.81
+
+3.83
+
+0.83
+
+4.29
+
+0.73
+
+4.34
+
+0.83 1.89 (0.15)
+
+To prevent fraudulent financial
+reports
+
+4.23
+
+0.83
+
+3.75‡
+
+0.86
+
+4.00°
+
+0.73 4.46‡ ° 0.70 5.39 (0.01)
+
+To ensure authenticity of information
+provided in the financial statements
+
+4.13
+
+0.90
+
+3.58‡
+
+1.06
+
+4.06
+
+0.89
+
+4.32‡
+
+0.56 4.63 (0.01)
+
+To reduce illegal audits or
+irregularities
+
+3.86
+
+1.02
+
+3.33
+
+1.07
+
+4.07
+
+0.75
+
+3.95
+
+1.01 2.38 (0.13)
+
+To regularly review the adequacy of
+the company’s organisational
+structure and policy implementations
+
+3.85
+
+1.03
+
+3.33
+
+1.22
+
+3.94
+
+0.78
+
+3.98
+
+0.97 2.14 (0.15)
+
+To reduce the board of directors’ risk
+exposure
+
+3.69
+
+1.04
+
+3.58
+
+0.87
+
+3.41
+
+1.28
+
+3.83
+
+1.03 0.99 (0.36)
+
+SD is the standard deviation, and the items are ranked in order of importance according to
+their mean values. ‡, ^ and ° indicate differences in the group means between external
+auditors and senior management, external auditors and investors, and investors and senior
+management respectively. Mean differences are based on the Turkey HSD test and
+significant at 10% level or lower.
+
+5.2 Responsibilities of AC
+As shown in Table 3, on the average, the respondents agree with the items outlined as the
+responsibilities of AC as all the means for each of the questions were above 3 (neutral).
+The respondents perceive the monitoring and reviewing of internal control programs, the
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+83
+
+supervision of internal audit work and the coordinating of internal and external audit
+work as the three most important responsibilities of AC. These results connote that, in
+general, ‘agency stakeholders’ in Ghana perceive the oversight and monitoring
+responsibility of AC regarding audit quality and financial reporting but view this
+responsibility of AC as mainly towards the internal audit process of organisations. This
+perception is in line with the typical responsibilities of AC in most standard CG codes
+and best practices in developed countries and other CG studies (Kamel and Elkhatib,
+2013; Adel and Maissa, 2013; Financial Reporting Council, 2012). However, it deviates
+from the Lin et al. (2008) study in China which found the three most important
+responsibilities of AC to be coordinating the internal and external audit work, mediating
+conflict between management and auditor and supervising sound CG implementation.
+The Ghanaian ‘agency stakeholders’ perception on AC responsibility is, however, not
+surprising as the provision of the SEC Guidelines, which guides Ghanaian listed
+companies on the functions of AC, emphasise AC responsibility towards ensuring the
+efficacy of internal control systems and internal audit.
+The items with the least average scores (i.e., ranked less essential responsibilities)
+were to oversee external audit processes, to monitor management and financial
+performance and lastly to oversee the internal auditors’ qualification. This view is also
+held generally by the stakeholders used by Lin et al. (2008) in their study in China. The
+indication is that even though AC oversight responsibility in the external audit process
+and monitoring of management performance is considered by CG codes and studies in
+the developed world as important AC responsibilities, countries, where AC system is
+entirely new, are yet to appreciate these responsibilities of AC. Suggestively, it may take
+some more time for stakeholders in developing countries to fully form their beliefs of the
+responsibilities of AC.
+A further investigation into the differences in the perceived responsibilities of AC
+among the different ‘agency stakeholders’ was made. Both external auditors and
+investors considered supervising internal audit work, monitoring and reviewing internal
+control programs and coordinating internal and external audit work as the three most
+important responsibilities of AC. Senior managers of public listed companies view the
+most important responsibilities of the AC as monitoring and reviewing internal control
+programs; overseeing the integrity of financial reporting and internal controls; and
+advising BOD on risk management issues. A similar ANOVA tests for the various
+subgroups yielded insignificant differences in the levels of agreement in the various
+statements on the responsibilities of the AC.
+However, the level of agreement on AC’s responsibility for monitoring compliance
+with corporate practices and policies with ethical and legal requirements was different
+among the three stakeholder groupings (F = 4.34, p = 0.02). Equally, advising the board
+of directors on risk management issues had significant differences between the group's
+responses (F = 2.87, p = 0.08). It is also worth noting that the senior management
+strongly agrees that overseeing the integrity of financial reporting and internal controls
+and the monitoring of auditor independence are essential responsibilities of AC.
+In contrast, the external auditors – whose role is likely to be affected by this
+responsibility – did not view them as a significant responsibility by maintaining virtually
+a neutral position. The likely explanation for these differences is not far-fetched. Most
+CG studies suggest that effective AC systems bring about improved financial reporting
+quality and improved external auditor independence (Lin et al., 2008; Mathur, 2009;
+
+84
+
+T.O. Kwakye et al.
+
+Rupley et al., 2011; Zaman et al., 2011). Therefore, managers of firms that have
+experienced improvement in the internal control system, audit quality and financial
+reporting after the inception of AC are more likely to associate the results with AC.
+Table 3
+
+Responsibilities of AC
+General scores
+(N = 70)
+
+Items (α = 0.91)
+
+External
+auditors
+(N = 12)
+
+Investors
+(N = 17)
+
+Senior
+management
+(N = 41)
+
+ANOVA
+F(p) value
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Monitoring and reviewing internal 4.26
+control programs
+
+0.88
+
+4.08
+
+0.83
+
+4.29
+
+0.61
+
+4.29
+
+1.01 0.27 (0.76)
+
+Supervising internal audit work
+
+4.23
+
+0.82
+
+4.25
+
+1.06
+
+4.29
+
+0.50
+
+4.20
+
+0.79 0.08 (0.91)
+
+Coordinating internal and external
+audit work
+
+4.16
+
+0.85
+
+3.92
+
+0.93
+
+4.18
+
+0.43
+
+4.22
+
+0.94 0.59 (0.55)
+
+Overseeing the integrity of
+financial reporting and internal
+controls
+
+4.15
+
+0.72
+
+3.83
+
+0.73
+
+4.06
+
+0.49
+
+4.28
+
+0.77 2.06 (0.15)
+
+Advising board of directors on
+risk management issues
+
+4.09
+
+0.82
+
+3.83^
+
+1.12
+
+3.81^
+
+0.83
+
+4.28
+
+0.66 2.87 (0.08)
+
+Monitoring auditor independence
+
+4.09
+
+0.94
+
+3.92
+
+1.02
+
+3.82
+
+1.12
+
+4.24
+
+0.79 1.49 (0.24)
+
+Monitoring compliance of
+corporate practices and policies
+with ethical and legal
+requirements
+
+4.04
+
+0.76
+
+3.58‡
+
+0.87
+
+3.94
+
+0.41
+
+4.22‡
+
+0.71 4.34 (0.02)
+
+Facilitating and enhancing
+communication between external
+auditors and the board of directors
+
+4.04
+
+0.78
+
+3.83
+
+0.78
+
+3.94
+
+0.64
+
+4.15
+
+0.85 0.95 (0.39)
+
+Supervising sound Corporate
+Governance implementation
+
+4.04
+
+0.96
+
+3.67
+
+0.99
+
+3.94
+
+1.07
+
+4.20
+
+0.94 1.48 (0.21)
+
+Overseeing compliance with legal
+and regulatory requirements
+
+4.01
+
+0.98
+
+3.92
+
+0.99
+
+3.94
+
+1.14
+
+4.08
+
+0.90 0.19 (0.84)
+
+Responsible for truthful financial
+reporting
+
+3.83
+
+0.95
+
+3.58
+
+1.00
+
+3.94
+
+0.54
+
+3.85
+
+0.96 0.61 (0.59)
+
+Mediating conflict between
+management and auditor
+
+3.77
+
+0.96
+
+3.67
+
+0.94
+
+3.65
+
+0.94
+
+3.85
+
+1.01 0.32 (0.71)
+
+Overseeing external audit process
+
+3.71
+
+0.99
+
+3.50
+
+1.17
+
+4.06
+
+0.38
+
+3.63
+
+1.03 1.60 (0.25)
+
+Monitoring management financial
+performance
+
+3.68
+
+1.06
+
+3.55
+
+1.18
+
+3.65
+
+0.77
+
+3.73
+
+1.05 0.19 (0.88)
+
+Overseeing the internal auditors’
+qualification
+
+3.66
+
+1.06
+
+3.92
+
+0.93
+
+3.24
+
+1.29
+
+3.76
+
+1.02 1.81 (0.15)
+
+SD is the standard deviation, and the items are ranked in order of importance according to
+their mean values. ‡, ^ and ° indicate differences in the group means between external
+auditors and senior management, external auditors and investors, and investors and senior
+management respectively. Mean differences are based on the Turkey HSD test and
+significant at 10% level or lower.
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+85
+
+On the other hand, external auditors may want to portray that they have always been
+independent of management in their audit work and have always ensured quality audit
+process leading to quality financial reports with or without the AC. By ranking AC’s
+supervisory and monitoring responsibilities of internal audit and the advisory
+responsibility of risk management issues as the three most important responsibilities
+(Table 3), external auditors invariably view AC’s responsibilities to be more associated
+with reducing the extent of work and risks associated with their clients than ensuring their
+independence. The external auditors’ view corroborates studies that relate AC more to
+overseeing the companies’ internal audit and controls system (Lin et al., 2008; Adel and
+Maissa, 2013; Barua et al., 2010; Alzeban and Sawan, 2015).
+
+5.3 Characteristics of effective AC
+In the view of respondents, the most desirable characteristics required for effective
+functioning of AC, as indicated in Table 4, are: the inclusion of at least one (1)
+accounting or finance expert; AC reports to the BOD; and the chair of AC being a
+non-executive (independent) director. These results also support studies that contend that
+the composition of AC, regarding its independence and expertise, ensures its effective
+functioning (Kamel and Elkhatib, 2013; Lin et al., 2008; Rupley et al., 2011). It is worth
+noting that whereas external auditors and senior management of firms agree that the size
+of AC, at least three members, is key in ensuring its effectiveness, investors appear not to
+be supportive of this fact as they were somehow neutral in their response.
+Regarding how AC activities should be communicated, almost all respondents from
+the different subgroups were generally of a neutral view to the attributes outlined (i.e.,
+AC should report to shareholders during the annual general meeting, AC responsibilities
+should be disclosed, and AC reports are to be included in the annual reports). These
+findings support studies which suggest that the disclosure and reporting relating to AC
+are not necessary as it increases AC liabilities (Cohen et al., 2004; Zaman et al., 2011)
+but deviates from findings of Lin et al. (2008) in which all stakeholders agreed to similar
+questions. The results also contradict most CG codes which require that AC report on its
+activities should be made available to shareholders and other investors, and proposals that
+AC-related disclosure and reporting is a necessary element for assessing the effectiveness
+of AC function (Lee et al., 2004; Rezaee et al., 2003). The findings are, however, not
+surprising as the SEC Guidelines require only a report on the establishment of AC and
+AC report on their review of the firm’s internal audit function and controls system and
+not the AC functions and activities. Hence, further confirming the embryonic nature of
+AC systems in Ghana.
+Respondents marginally agreed to the fact that the AC should meet at least twice
+in a year (Mean = 3.96, SD = 1.04) and this is also not surprising. The fact that
+studies have shown that the frequency of meeting activities of AC ensures its
+effectiveness (Sharma et al., 2009; Zhang et al., 2007), the SEC Guidelines on AC in
+Ghana does not have any explicit provision on the number of meetings of AC, unlike
+other CG codes.
+
+86
+
+T.O. Kwakye et al.
+
+Table 4
+
+Characteristics of AC
+General
+scores
+(N = 70)
+
+Items (α = 0.71)
+
+External
+auditors
+(N = 12)
+
+Investors
+(N = 17)
+
+Senior
+management
+(N = 41)
+
+ANOVA
+F(p) value
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Audit Committee should include at
+4.72
+least one (1) accounting/finance expert
+
+0.60
+
+4.58
+
+0.80
+
+4.67
+
+0.65
+
+4.78
+
+0.47 0.62 (0.56)
+
+Audit Committee should report to the
+board of directors
+
+4.49
+
+0.80
+
+4.17
+
+0.93
+
+4.38
+
+1.18
+
+4.63
+
+0.55 1.70 (0.16)
+
+Audit Committee should have at least
+three (3) members
+
+4.07
+
+0.88
+
+4.25
+
+0.75
+
+3.63°
+
+1.26
+
+4.20°
+
+0.75 2.71 (0.06)
+
+Audit Committee should be chaired by 4.46
+a non-executive (independent) director
+
+0.85
+
+4.17
+
+1.12
+
+4.44
+
+0.78
+
+4.56
+
+0.77 1.01 (0.37)
+
+Audit Committees should meet at least 3.96
+two (2) times in a year
+
+1.04
+
+4.00
+
+1.06
+
+3.73
+
+1.55
+
+4.02
+
+0.88 0.43 (0.65)
+
+Audit Committee report should be
+included in annual reports
+
+3.68
+
+1.06
+
+3.67
+
+1.00
+
+3.40
+
+1.00
+
+3.78
+
+1.06 0.80 (0.50)
+
+Audit Committee responsibilities
+should be disclosed publicly
+
+3.62
+
+1.12
+
+3.82
+
+1.10
+
+3.44
+
+1.13
+
+3.63
+
+1.16 0.40 (0.69)
+
+All Audit Committee members should 3.45
+be non-executive (independent)
+directors
+
+1.17
+
+2.92
+
+1.19
+
+3.44
+
+1.13
+
+3.61
+
+1.16 1.65 (0.20)
+
+Audit Committee should report to
+shareholders during Annual General
+Meeting
+
+1.09
+
+3.08
+
+1.09
+
+3.13
+
+1.12
+
+3.61
+
+1.10 1.75 (0.17)
+
+3.41
+
+SD is the standard deviation, and the items are ranked in order of importance according to
+their mean values. ‡, ^ and ° indicate differences in the group means between external
+auditors and senior management, external auditors and investors, and investors and senior
+management respectively. Mean differences are based on the Turkey HSD test and
+significant at 10% level or lower.
+
+6
+
+Conclusions
+
+This study examined the views of crucial ‘agency stakeholders’ of listed companies on
+the roles, responsibilities and the desirable characteristics of an effective AC system in
+Ghana. With mean values greater than 3 for all items on the roles, responsibilities and
+characteristics of AC, the study presents that generally, ‘agency stakeholders’ are very
+familiar with the AC functioning in Ghana. These stakeholders also recognise that the
+efficacy and effectiveness of AC depend on the independence and expertise of the
+members of the committee.
+Overall, ‘agency stakeholders’ of listed companies in Ghana view the strengthening
+of internal audit and control systems and the promotion of good CG mechanisms as the
+most important roles of the AC. Although they were neutral on AC’s role in reducing the
+BOD risk exposure (Mean = 3.69) and reducing audit and accounting irregularities
+(Mean = 3.83), these items were ranked as the less important roles. Regarding the
+responsibilities of AC, ‘agency stakeholders’ perceive that audit committees are highly
+responsible for monitoring and supervising the internal audit and control systems, and
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+87
+
+coordinating the internal and external audit function of firms. AC’s responsibility for
+overseeing external audit processes and monitoring management and financial
+performance were ranked as less important. Thus, this study further contends that ‘agency
+stakeholders’ in Ghana associate the roles and responsibilities of AC more with internal
+audit function within the organisation than any other unit over which AC has oversight
+responsibility. The finding is not surprising since AC roles and responsibility towards
+ensuring the efficacy of internal control systems and internal audit in companies, has
+been the primary functions emphasised by the Ghanaian SEC Guidelines.
+Again, with the results showing differences in agreement of the relative importance of
+the roles and responsibilities of AC between the different ‘agency stakeholders’ studied,
+this study advances that different ‘agency stakeholders’ do not attach the same level of
+importance to the roles, responsibilities and characteristics of AC. This finding, the
+authors believe, is because the AC system is still nascent in Ghana and there are limited
+provisions on AC in the SEC Guidelines in Ghana, which are inexplicit. For this reason,
+it is recommended that, considering the importance of AC in CG mechanisms, SEC of
+Ghana collaborate with other stakeholders and policymakers to provide separate
+guidelines for AC as practised in developed countries.
+This study contributes to the literature by providing evidence on the importance
+of the role of stakeholders in ensuring the effective implementation of an AC system
+through their acceptance of the system. If there is no consensus on the roles,
+responsibilities and desirable characteristics of AC among all stakeholders, benchmarking
+its effectiveness among these stakeholders may be difficult. Policymakers and regulators
+in Ghana are continuously seeking to enhance investor confidence in its growing capital
+markets through effective CG systems and improved financial reporting quality. The
+findings of this research, therefore, provide useful information to SEC and other capital
+market regulatory bodies in Ghana on what stakeholders perceive as crucial for corporate
+AC to be effective. With such knowledge, policymakers and regulators can consider
+stakeholders view and other country-specific factors in their policy-making process to
+provide a comprehensive and practical CG framework and procedure. Our study also
+adds to the existing literature on AC and serves as a foundational study, for further
+research into AC systems in small capital markets and emerging economies.
+Our study is limited in using only stakeholders who may have agency relationships
+with firms. It also did not consider the extent to which these roles and responsibilities are
+performed and the characteristics exhibited in the firms. We, therefore, recommend that
+further studies look at the extent of the AC practice and include AC members as part of
+the respondents.
+
+References
+Abbott, J.L., Parker, S. and Peters, F.G. (2004) ‘Audit committee characteristics and restatements’,
+Auditing, Vol. 23, No. 1, p.69.
+Aboagye-Otchere, F., Bedi, I. and Kwakye, T.O. (2012) ‘Corporate governance and disclosure
+practices of Ghanaian listed companies’, Journal of Accounting in Emerging Economies,
+Vol. 2, No. 2, pp.140–161.
+Adel, B. and Maissa, T. (2013) ‘Interaction between audit committee and internal audit: evidence
+from Tunisia’, IUP Journal of Corporate Governance, Vol. 12, No. 2, p.59.
+Akhtaruddin, M. and Haron, H. (2010) ‘Board ownership, audit committees’ effectiveness and
+corporate voluntary disclosures’, Asian Review of Accounting, Vol. 18, No. 1, pp.68–82.
+
+88
+
+T.O. Kwakye et al.
+
+Aldamen, H. and Duncan, K. (2012) ‘Does adopting good corporate governance impact the cost of
+intermediated and non-intermediated debt?’, Accounting & Finance, Vol. 52, No. 1, pp.49–76.
+Allegrini, M. and Greco, G. (2013) ‘Corporate boards, audit committees and voluntary disclosure:
+evidence from Italian listed companies’, Journal of Management & Governance, Vol. 17,
+No. 1, pp.187–216.
+Alzeban, A. and Sawan, N. (2015) ‘The impact of audit committee characteristics on the
+implementation of internal audit recommendations’, Journal of International Accounting,
+Auditing and Taxation, Vol. 24, Suppl. C, pp.61–71.
+Anderson, R.C., Mansi, S.A. and Reeb, D.M. (2004) ‘Board characteristics, accounting
+report integrity, and the cost of debt’, Journal of Accounting and Economics, Vol. 37, No. 3,
+pp.315–342.
+Assenso-Okofo, O., Ali, M.J. and Ahmed, K. (2011) ‘The development of accounting and reporting
+in Ghana’, The International Journal of Accounting, Vol. 46, No. 4, pp.459–480.
+Barua, A., Rama, D.V. and Sharma, V. (2010) ‘Audit committee characteristics and investment in
+internal auditing’, Journal of Accounting and Public Policy, Vol. 29, No. 5, pp.503–513.
+Bédard, J. and Gendron, Y. (2010) ‘Strengthening the financial reporting system: can audit
+committees deliver?’, International Journal of Auditing, Vol. 14, No. 2, pp.174–210.
+Beecher-Monas, E. (2003) ‘Corporate governance in the wake of Enron: an examination of the
+audit committee solution to corporate fraud’, Administrative Law Review, Vol. 55, No. 2,
+pp.357–392.
+Bliss, M.A., Muniandy, B. and Majid, A. (2007) ‘Ceo duality, audit committee effectiveness and
+audit risks: a study of the Malaysian market’, Managerial Auditing Journal, Vol. 22, No. 7,
+pp.716–728.
+Carcello, J.V. and Neal, T.L. (2000) ‘Audit committee composition and auditor reporting’,
+The Accounting Review, Vol. 75, No. 4, pp.453–467.
+Carcello, J.V. and Neal, T.L. (2003) ‘Audit committee characteristics and auditor dismissals
+following ‘new’ going-concern reports’, The Accounting Review, Vol. 78, No. 1, pp.95–117.
+Cohen, J., Krishnamoorthy, G. and Wright, A. (2004) ‘The corporate governance mosaic and
+financial reporting quality’, Journal of Accounting Literature, Vol. 23, p.87.
+Cohen, J.R., Gaynor, L.M., Krishnamoorthy, G. and Wright, A.M. (2011) ‘The impact on auditor
+judgments of Ceo influence on audit committee independence’, Auditing, Vol. 30, No. 4,
+pp.129–147.
+Cotter, J. and Silvester, M. (2003) ‘Board and monitoring committee independence’, Abacus,
+Vol. 39, No. 2, pp.211–232.
+Crişan, A.R. and Fülöp, M.T. (2014) ‘The role of the audit committee in corporate governance –
+case study for a sample of companies listed on BSE and the London Stock Exchange – Ftse
+100’, Procedia Economics and Finance, Vol. 15, Suppl. C, pp.1033–1041.
+DeZoort, F.T., Dana, R.H., Deborah, S.A. and Scott, A.R. (2002) ‘Audit committee effectiveness:
+a synthesis of the empirical audit committee literature’, Journal of Accounting Literature,
+Vol. 21, p.38.
+Dhaliwal, D., Naiker, V. and Navissi, F. (2010) ‘The association between accruals quality and the
+characteristics of accounting experts and mix of expertise on audit committees’,
+Contemporary Accounting Research, Vol. 27, No. 3, pp.787–827.
+Financial Reporting Council (2012) Guidance on Audit Committees, FRC, London, Available at:
+http://www.frc.org
+Hemraj, M.B. (2004) ‘Corporate governance: directors, shareholders and the audit committee’,
+Journal of Financial Crime, Vol. 11, No. 2, pp.150–150.
+Johl, S., Subramaniam, N. and Mat Zain, M. (2012) ‘Audit committee and Ceo ethnicity and audit
+fees: some Malaysian evidence’, The International Journal of Accounting, Vol. 47, No. 3,
+pp.302–332.
+
+Audit committee roles, responsibilities and characteristics in Ghana
+
+89
+
+Kamel, H. and Elkhatib, S. (2013) ‘The perceptions of audit committees’ role in an emerging
+market: the case of Egypt', Journal of Economic and Administrative Sciences, Vol. 29, No. 2,
+pp.85–98.
+Karamanou, I. and Vafeas, N. (2005) ‘The association between corporate boards, audit committees,
+and management earnings forecasts: an empirical analysis’, Journal of Accounting Research,
+Vol. 43, No. 3, pp.453–486.
+Kumar, N. and Singh, J.P. (2012) ‘Outside directors, corporate governance and firm performance:
+empirical evidence from India’, Asian Journal of Finance and Accounting, Vol. 4, No. 2,
+pp.39–55.
+Lary, M. A. and Taylor, W.D. (2012) ‘Governance characteristics and role effectiveness of audit
+committees’, Managerial Auditing Journal, Vol. 27, No. 4, pp.336–354.
+Lee, H.Y., Mande, V. and Ortman, R. (2004) ‘The effect of audit committee and board of director
+independence on auditor resignation’, Auditing: A Journal of Practice & Theory, Vol. 23,
+No. 2, pp.131–146.
+Li, J., Mangena, M. and Pike, R. (2012) ‘The effect of audit committee characteristics on
+intellectual capital disclosure’, The British Accounting Review, Vol. 44, No. 2, pp.98–110.
+Lin, Z.J., Xiao, J.Z. and Tang, Q. (2008) ‘The roles, responsibilities and characteristics of audit
+committee in China’, Accounting, Auditing & Accountability Journal, Vol. 21, No. 5, p.721.
+Madi, H.K., Ishak, Z. and Manaf, N.A.A. (2014) ‘The impact of audit committee characteristics
+on corporate voluntary disclosure’, Procedia – Social and Behavioral Sciences, Vol. 164,
+Suppl. C, pp.486–492.
+Mathur, A. (2009) ‘Role of audit committee in ensuring good corporate governance practices in
+banks’, The Charted Accountant, pp.1571–1576.
+Miko, N.U. and Kamardin, H. (2015) ‘Impact of audit committee and audit quality on preventing
+earnings management in the pre- and post- Nigerian corporate governance code 2011’,
+Procedia – Social and Behavioral Sciences, Vol. 172, Suppl. C, pp.651–657.
+Muniandy, B. and Hillier, J. (2015) ‘Board independence, investment opportunity set
+and performance of South African firms’, Pacific-Basin Finance Journal, Vol. 35, Part A,
+pp.108–124.
+Nunnally, J.C. (1978) Psychometric Theory, Mcgraw-Hill, New York.
+Othman, R., Ishak, I.F., Arif, S.M.M. and Aris, N.A. (2014) ‘Influence of audit committee
+characteristics on voluntary ethics disclosure’, Procedia – Social and Behavioral Sciences,
+Vol. 145, Suppl. C, pp.330–342.
+Pradeep, T. (2006) ‘Effective use of audit committees for real corporate Governance in India’,
+The Charted Accountant, pp.1512–1519.
+Rabelo, F.M. and Vasconcelos, F.C. (2002) ‘Corporate governance in Brazil’, Journal of Business
+Ethics, Vol. 37, No. 3, pp.321–335.
+Rahmat, M.M., Iskandar, T.M. and Saleh, N.M. (2009) ‘Audit committee characteristics in
+financially distressed and non-distressed companies’, Managerial Auditing Journal, Vol. 24,
+No. 7, pp.624–638.
+Rainsbury, E.A., Bradbury, M. and Cahan, S.F. (2009) ‘The impact of audit committee quality on
+financial reporting quality and audit fees’, Journal of Contemporary Accounting &
+Economics, Vol. 5, No. 1, pp.20–33.
+Rezaee, Z., Olibe, K.O. and Minmier, G. (2003) ‘Improving corporate governance: the role of audit
+committee disclosures’, Managerial Auditing Journal, Vol. 18, Nos. 6–7, pp.530–537.
+Rupley, K., Almer, E. and Philbrick, D. (2011) ‘Audit committee effectiveness: perceptions of
+public company audit committee members post-sox’, Research in Accounting Regulation,
+Vol. 23, No. 2, pp.138–144.
+
+90
+
+T.O. Kwakye et al.
+
+Samaha, K., Dahawy, K., Abdel-Meguid, A. and Abdallah, S. (2012) ‘Propensity and
+comprehensiveness of corporate internet reporting in Egypt: do board composition and
+ownership structure matter?’, International Journal of Accounting & Information
+Management, Vol. 20, No. 2, pp.142–170.
+Samaha, K., Khlif, H. and Hussainey, K. (2015) ‘The impact of board and audit committee
+characteristics on voluntary disclosure: a meta-analysis’, Journal of International Accounting,
+Auditing and Taxation, Vol. 24, Suppl. C, pp.13–28.
+Sharma, V., Naiker, V. and Lee, B. (2009) ‘Determinants of audit committee meeting
+frequency: evidence from a voluntary governance system’, Accounting Horizons, Vol. 23,
+No. 3, pp.245–263.
+Spira, L.F. (2002) The Audit Committee: Performing Corporate Governance, Kluwer Academic
+Publishers, Boston.
+Stewart, J. and Munro, L. (2007) ‘The impact of audit committee existence and audit committee
+meeting frequency on the external audit: perceptions of Australian auditors’, International
+Journal of Auditing, Vol. 11, No. 1, pp.51–69.
+Thibodeau, J.C. and Packwood, T.R. (2007) A Risk-Based Approach to Achieving Audit Committee
+Effectiveness, CCH INCORPORATED, Riverwoods.
+Tsamenyi, M., Enninful-Adu, E. and Onumah, J. (2007) ‘Disclosure and corporate governance in
+developing countries: evidence from Ghana’, Managerial Auditing Journal, Vol. 22, No. 3,
+pp.319–334.
+Zaman, M., Hudaib, M. and Haniffa, R. (2011) ‘Corporate governance quality, audit fees and
+non-audit services fees’, Journal of Business Finance & Accounting, Vol. 38, Nos. 1–2,
+pp.165–197.
+Zhang, Y., Zhou, N. and Zhou, J. (2007) ‘Audit committee quality, auditor independence, and
+internal control weaknesses’, Journal of Accounting and Public Policy, Vol. 26, No. 3,
+pp.300–327.
+
+Notes
+1
+
+AC roles and responsibilities have evolved from reviewing financial statements prepared
+by management through enhancing the credibility of the financial reporting process and financial
+statements to overseeing companies’ internal controls. The coordination of the work of internal
+and external auditors and enhancing good CG via BOD’s oversight of management performance
+and financial reporting processes have also emerged over the years. (see Abbott et al., 2004; Spira,
+2002; Allegrini and Greco, 2013; Muniandy and Hillier, 2015; Bliss et al., 2007; Assenso-Okofo
+et al., 2011; Samaha et al., 2012, 2015).
+2
+Undeveloped capital markets, government interventionism, the absence of norms and values of
+business standards and weak legal system are the characteristics of most developing countries
+(Rabelo and Vasconcelos, 2002; Tsamenyi et al., 2007; Aboagye-Otchere et al., 2012).
+3
+The Listing Regulations terms of reference for ACs include: to recommend to BOD on the
+appointment and remuneration of external auditors; to review auditors’ evaluation of the internal
+controls and accounting system; to review and discuss audited accounts with management, and to
+review the scope and effectiveness of internal audit procedure.
+4
+For instance, although South Africa is still considered as a developing country, the country has
+undergone series of reforms in their corporate governance systems to be at par with international
+standards with the implementation of King Report III in 2010. The King III mandates all
+companies listed on the Johannesburg Stock Exchange to provide an ‘integrated report’, which
+makes corporate governance and sustainability practices compulsory, unlike other African
+countries, like Ghana, which governance codes are voluntary (Muniandy and Hillier, 2015).
+
+

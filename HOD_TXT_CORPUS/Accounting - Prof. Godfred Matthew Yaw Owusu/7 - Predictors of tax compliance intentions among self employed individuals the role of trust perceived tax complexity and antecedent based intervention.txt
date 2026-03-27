@@ -1,0 +1,1379 @@
+Small Enterprise Research
+
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rser20
+
+Predictors of tax compliance intentions among
+self-employed individuals: the role of trust,
+perceived tax complexity and antecedent-based
+intervention strategies
+Godfred Matthew Yaw Owusu, Rita Amoah Bekoe & Rockson Mintah
+To cite this article: Godfred Matthew Yaw Owusu, Rita Amoah Bekoe & Rockson Mintah (2021):
+Predictors of tax compliance intentions among self-employed individuals: the role of trust, perceived
+tax complexity and antecedent-based intervention strategies, Small Enterprise Research, DOI:
+10.1080/13215906.2021.1989622
+To link to this article: https://doi.org/10.1080/13215906.2021.1989622
+
+Published online: 15 Oct 2021.
+
+Submit your article to this journal
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rser20
+
+SMALL ENTERPRISE RESEARCH
+https://doi.org/10.1080/13215906.2021.1989622
+
+Predictors of tax compliance intentions among self-employed
+individuals: the role of trust, perceived tax complexity and
+antecedent-based intervention strategies
+Godfred Matthew Yaw Owusu, Rita Amoah Bekoe and Rockson Mintah
+Department of Accounting, University of Ghana Business School, Accra, Ghana
+ABSTRACT
+
+KEYWORDS
+
+This study examines the tax compliance intentions of self-employed
+individuals in the informal sector and evaluates the eﬀect of
+antecedent-based intervention strategies, trust and perceived tax
+complexity on tax compliance intention. Using the extended
+version of the Theory of Planned Behaviour as the theoretical
+base, the study additionally investigates whether attitude,
+subjective norms, perceived behavioural control and moral
+obligation may be good predictors of tax compliance intention.
+Data were gathered from 725 self-employed individuals in Ghana
+using a structured questionnaire, and analysed using the
+structural equation modelling technique. We ﬁnd from our
+empirical analysis that although our respondents exhibit greater
+intention to comply with tax payment duties, most respondents
+consider non-compliance to be justiﬁable if the tax rates are too
+burdensome. Our results further suggest that trust in the tax
+system, perceived tax complexity, antecedent-based intervention
+strategies, attitude, subjective norms, and moral obligation are
+relevant predictors of tax compliance intention.
+
+Tax compliance; trust; tax
+complexity; theory of
+planned behaviour; informal
+sector; antecedent-based
+intervention strategy
+
+Introduction
+The role of taxation in the management of an economy is well acknowledged in the
+public ﬁnance literature. Prior studies have established that taxes constitute one of the
+most reliable and sustainable funding sources to governments in ﬁnancing public expenditures and, in general, the eﬃcient running of public services (Joshi et al., 2014; Owusu
+et al., 2020; Youde & Lim, 2019). Despite their crucial role to the economy, most central
+governments are confronted with the challenge of meeting their annual tax revenue
+targets due to the high non-compliance rate for both personal and corporate taxpayers
+globally. The result is that over the years revenue collection by taxing authorities
+(especially in developing countries) has been impacted negatively by widespread noncompliance with tax laws by taxpayers.
+As pointed out by Terkper (2003), the eﬀect of tax non-compliance is more pronounced in developing countries than the developed world due to the informal nature
+of these economies. For instance, while total revenue loss to Gross Domestic Product
+CONTACT Godfred Matthew Yaw Owusu
+
+gmowusu@gmail.com
+
+© 2021 Informa UK Limited, trading as Taylor & Francis Group
+
+2
+
+G. M. Y. OWUSU ET AL.
+
+(GDP) for developed countries such as the USA, Switzerland and Italy ranges between
+2.7% and 6%, the average loss in revenue ranges between 25% and 35% of GDP for
+most developing countries (Terkper, 2003). Given the rising public expenditure levels
+in developing countries, partly occasioned by growth in public sector wage bill, enormous pressure is always brought to bear on a government’s annual budget (Taing &
+Chang, 2021). Tax compliance has therefore become an important issue in developing
+countries as most of these countries continue to struggle to deal with the consistent
+shortfall in annual revenue targets to meet the rising public expenditure.
+Deﬁned as the willingness of a taxpayer to act in accordance with both the spirit and
+the letter of the tax law and administration without enforcement activity (James & Alley,
+2002, p. 32), exploring avenues to promote tax compliance culture among taxpayers
+remains one of the most important public policy objectives of government in contemporary times. The test of tax compliance in its rightful sense is not to explain why people
+evade tax, but rather why people willingly pay taxes even when they perceive the
+chances of being caught and punished for evasion is low (Alm et al., 1992). In an
+eﬀort to minimize the rate of tax non-compliance, policies meant to improve taxpayer
+services and promote the culture of compliance have frequently been implemented in
+many developing countries (Owusu et al., 2019; Taing & Chang, 2021). These reforms,
+however, have not yielded the desired results given the high rate of tax non-compliance
+in these settings. The literature, in part, attributes this trend to the structure of these
+economies, which is dominated by the informal sector, classiﬁed by many as the
+‘diﬃcult to tax group’ (Mbilla et al., 2018). Indeed, the role of the informal sector to
+the tax non-compliance threat cannot be underestimated given their dominance. In
+Ghana, for instance, it is reported that over 86% of Ghanaians work in the informal
+sector (GSS, 2012), the majority of whom are unregistered with the appropriate bodies
+for assessment purposes (Amponsah et al., 2019). These statistics, which are similar in
+most developing countries, highlight the need for studies on compliance behaviour in
+the informal sector, especially on the factors that inﬂuence individual tax compliance
+decisions.
+Against this background, the current study seeks to examine the phenomenon of tax
+compliance focusing on individuals working in the informal sector in Ghana. We rely on
+the extended version of the Theory of Planned Behaviour, as previously employed by
+Alleyne and Harris (2017) and Owusu et al. (2020), to investigate the factors that
+inﬂuence tax compliance behaviour of our target audience. Unlike the empirical work
+of Owusu et al. (2020) however, we investigate the eﬀect of perceived tax complexity,
+antecedent-based intervention strategies and trust on an individual’s willingness to
+comply with tax payment responsibility. The inclusion of these additional variables in
+the traditional TPB framework is in line with recent attempts to improve the predictive
+relevance of the TPB. Despite the strong support for the theory, it has been pointed out
+that the components of the TPB can account for less than 40% of the variation in behavioural intention (Armitage & Conner, 2001). In an attempt to improve upon the predictiveness of the TPB, Beck and Ajzen (1991) introduced the component ‘moral obligation’
+to constitute what is now known as the extended TPB. Within the context of tax compliance literature, several studies (Al-Zaqeba & AL-Rashdan, 2020; Venkatesh et al., 2003)
+have consequently explored other factors in addition to the traditional components of the
+TPB in a bid to improve its explanatory power. The current study contributes to the
+
+SMALL ENTERPRISE RESEARCH
+
+3
+
+application of the TPB to the tax literature by exploring the role of perceived tax complexity, trust and antecedent-based intervention strategies on individual taxpayers’ compliance intention.
+Apart from the new perspective the ﬁndings of this study present to the determinants
+of tax compliance scholarship, contextually, the evidence we provide is particularly relevant to developing countries given that prior studies in this ﬁeld have mainly focused on
+developed countries. Within the context of Ghana, the identiﬁcation of the dominant
+factors associated with tax compliance behaviour should be extremely useful to the
+Ghana Revenue Authority (GRA) in developing programmes to improve individual
+tax compliance behaviour. This is necessary looking at the structure of the Ghanaian
+economy, which has been driven largely by over dependence on debt for years due, in
+part, to widespread non-compliance with tax laws.
+The paper proceeds as follows. The second section examines the concept of tax compliance, reviews prior studies on the main predictors of tax compliance intention and the
+development of the study hypotheses. The third section explores the method used to
+conduct the research, highlighting how data was collected and the analysis thereof.
+Section four presents the results of the study and a discussion thereof. The ﬁnal
+section draws conclusions and suggests some important avenues for future research.
+
+Literature review
+The concept of tax and tax compliance behaviour
+The phenomenon of tax non-compliance is of dire consequence to every society.
+Countries are unable to generate the needed tax revenue especially from the informal
+sector, to meet the socio-economic development of the citizenry (Kirchler, 2009;
+Mbilla et al., 2018). Consequently, tax compliance has remained an economic scourge
+for every government as people resort to the use of skilful measures in postponing, avoiding and evading tax payments (Murphy, 2004). Tax non-compliance, which comprises
+avoidance and evasion, has to do with reducing the tax burden legally and illegally,
+respectively (Jones & Rhoades-Catananch, 2010, p. 4); hence, inordinately exploiting
+the law. It involves the reduction of tax required by taking part in false dealings to
+shun tax, engaging in all forms of imaginable genuine tax deduction by means of
+delay schemes and entices.
+James and Alley (2002, p. 32) deﬁne tax compliance as the ‘willingness of individuals
+to act in accordance with both the spirit and the letter of the tax law and administration
+without the application of enforcement activity’. This deﬁnition informs that failure to
+follow the tax provisions suggest a taxpayer may be committing an act of non-compliance
+(Kirchler, 2009). Full compliance may require positive actions on the part of the taxpayer
+to discharge his or her legal duties in full. It may be that taxpayers innocently fail to meet
+their tax obligations because they fail to complete their tax returns correctly or are
+unaware of or misunderstand various provisions of the tax system. Notwithstanding,
+non-compliance is not only intentional violation but also involves violation in terms
+of ignorance.
+Various reasons have been attributed to the high level of non-compliance with tax
+laws. For instance, lack of transparency, high level of complexity, lack of trust in the
+
+4
+
+G. M. Y. OWUSU ET AL.
+
+tax system and authority, inequality in the tax burden and ambiguity of the tax law have
+been mentioned as factors accounting for tax non-compliance (Atuguba, 2006; Saad,
+2014). McGee (1999) posits that the high prevalence of non-compliance, especially tax
+dodging, is due to the lack of a mechanism in place to collect taxes and the widespread
+opinion that paying taxes is unreciprocated, and thus the government does not deserve a
+portion of a worker’s income. In addition, ethical stands and culture have been cited by
+other studies (Atuguba, 2006; Nsor-Mballa, 2015; Owusu et al., 2020). It has been argued
+that punishment and deterrence can inﬂuence tax compliance behaviour (Castro & Scartascini, 2015) while attitude, emotions and social norms of individuals have been connected to tax compliance (Alleyne & Harris, 2017; Enachescu et al., 2019).
+Accordingly, numerous factors can account for people’s tax compliance or non-compliance behaviour.
+Studying actual compliance behaviour of people can be very tedious and unnerving for
+the fact that there is diﬃculty in identifying, locating and assessing actual defaulters. The
+reluctance to give credible information with regards to unethical behaviour as tax noncompliance makes it almost impossible to evaluate actual compliance behaviour (Abdul–
+Razak & Adafula, 2013). Therefore, researchers have resorted to using intentions to
+involve in a wrongful behaviour as a suitable proxy for actual wrongful behaviour
+(Mbilla et al., 2018; Owusu et al., 2019).
+Intentions to engage in tax compliance
+The driving forces that aﬀect a person’s behaviour are contained in the person’s intention. Intention denotes the magnitude of mindful eﬀort and motivational mechanism
+that would inform a person’s performance of a behaviour (Ajzen, 1991). Ajzen (1991)
+asserts that intention gives a signal of people’s consistency and desire to pursue a
+behaviour as well as the amount of planned eﬀort to be applied in order to perform
+the behaviour. Again, Ajzen (1991) maintains that people’s intention to carry out a
+speciﬁc behaviour is predisposed by attitude in the direction of the behaviour (the
+magnitude of an individual’s assessment of how favourable or unfavourable), subjective
+norms (apparent social burden from others to either perform or not to perform a
+behaviour), perceived behavioural control (supposed comfort or diﬃculty in the behaviour occurrence), and moral obligation (the perception of right or wrong). This study,
+like other prior studies, has adapted these constructs in predicting people’s intentions
+as proxy to involve in a particular tax behaviour on the basis that measuring actual
+behaviour is very diﬃcult in developing countries like Ghana where people, particularly the self-employed, never like anything about taxation (Alleyne & Harris, 2017;
+Owusu et al., 2020).
+The theoretical framework: extended theory of planned behaviour (ETPB)
+The Theory of Planned Behaviour argues that attitude, subjective norms and perceived
+behavioural control are the factors that inﬂuence individuals’ behavioural intentions
+that have the potential of ultimately aﬀecting the performance of actual behaviour
+(Ajzen, 1991). Ajzen (1991) further explains that attitude is an individual’s assessment
+of a behaviour to either be favourable or unfavourable. Subjective norms look at the
+
+SMALL ENTERPRISE RESEARCH
+
+5
+
+extent to which a person is of the opinion that his or her decision can be inﬂuenced by the
+views of other relevant people. Moreover, perceived behavioural control explains the
+level of control (diﬃculty or opportunity) that a person has regarding his or her own
+capability to involve in a speciﬁc behaviour.
+In developing an extended version of the TPB, Beck and Ajzen (1991) added ‘moral
+obligation’ as another variable to the TPB framework that describes the view that an individual has about moral uprightness (good) or otherwise (bad) of performing a certain
+behaviour. This study relies on the ETPB to investigate the factors that inﬂuence selfemployed individuals’ tax compliance intention. Speciﬁcally, the study examines
+whether an individual’s attitude towards tax compliance (attitude); opinion of tax compliance endorsement by prominent stakeholders (subjective norms); perceived ability to
+be compliant (perceived behavioural control); perception of moral goodness or otherwise
+of being compliant (moral obligation) are good predictors of tax compliance intention. In
+addition, the study examines the perceived diﬃculty in being tax compliant (perceived
+tax complexity); behavioural misdemeanours into tax compliance (antecedent-based
+intervention strategies); and a legal arrangement whereby inﬂuence is exercised by a
+person or entity who control money and properties for another individual or entity
+(Trust) are signiﬁcant predictors of tax compliance intention.
+Attitude and tax compliance intention
+Attitude refers to the evaluation or assessment of how favourable or unfavourable performing a behaviour is (Beck & Ajzen, 1991). A person’s attitude towards tax has important implications on tax compliance. Empirically, some studies (Alleyne & Harris, 2017;
+Kirchler et al., 2008; Owusu et al., 2020; Sadress et al., 2019). The argument by these
+studies in support of the link between attitude and tax compliance behaviour is that
+the degree to which an individual evaluates the behaviour (either favourably or unfavourably) is important in predicting both the intention to engage in that behaviour and the
+actual performance of that behaviour. Therefore, individuals with a more favourable attitude towards the payment of taxes are highly expected to be more compliant with tax
+payment responsibilities and the reverse is true for an unfavourable attitude towards
+tax compliance. From the above, we hypothesize that:
+H1: An individual’s attitude is positively associated with tax compliance intention.
+
+Subjective norms and tax compliance intention
+Subjective norm denotes the perceived social pressure to perform or not to perform a
+behaviour in question. Ajzen (1991) posits that subjective norms indicate the eﬀect
+other prominent people have on the choices made by a person or the stimulus of referent
+others have on individuals. Persons or groups such as peers, co-workers, family, friends,
+competitors and role models may have an impact on the decision-making of individuals.
+This impact is based on how these signiﬁcant others recognize the behaviour and
+whether or not they will certify it. Taking into consideration the extent to which
+persons are interested to adapt to the divergent views of notable people indicates the
+level to which they can be inﬂuenced (Beck & Ajzen, 1991). For instance, the perceived
+
+6
+
+G. M. Y. OWUSU ET AL.
+
+conﬁrmation or otherwise that an important person attaches to a speciﬁc behaviour will
+inﬂuence an individual to either engage or not to engage such a behaviour.
+Arguably, a person’s commitment to paying taxes is reasonably inﬂuenced by the
+opinion of others; hence, taxpayers will mostly not comply if they observe that tax
+deﬁance is supported by their referent group (Kirchler et al., 2008). Prior studies have
+established a strong relationship between the construct subjective norms and intention
+to evade tax (Alleyne & Harris, 2017; Owusu et al., 2020). Speciﬁcally, extant literature
+has found that an individual’s intention to comply with tax payment responsibilities is
+highly inﬂuenced by social norms (Jimenez & Iyer, 2016). The study, therefore, hypothesizes that:
+H2: An individual’s subjective norm is positively associated with tax compliance intention.
+
+Perceived behavioural control and tax compliance intention
+Perceived behavioural control, which is the degree of control which an individual possesses to partake in speciﬁc behaviour may also inﬂuence the intention to engage in a
+behaviour (Ajzen, 1991; Beck & Ajzen, 1991). Predominantly, the extent to which a
+behaviour is performed depends on how easy or diﬃcult the individual perceives engaging in a behaviour is, and this perception inﬂuences the individual’s intention to involve
+in that behaviour. For instance, tax compliance intentions may increase when individuals
+believe they have more resources at their disposal to be compliant (Lee & Kozar, 2005).
+The key determinant for perceived behavioural control is an individual’s conﬁdence
+regarding the reality of resources and prospects in addition to perceived diﬃculties in
+performing the behaviour. Individuals’ intention to perform a behaviour is usually
+high when the conﬁdence is high, the needed resources is available and when they
+expect to encounter minimal diﬃculty in performing the task. (Alleyne & Harris,
+2017). Conversely, individuals with low perceived behavioural control (higher degree
+of diﬃculty and obstacles) are less likely to perform that behaviour Owusu et al.
+(2019) conclude that individuals with low perceived behavioural control have less stimulus to engage in tax non-compliance. Hence, this study hypothesizes that:
+H3: An individual’s level of perceived behavioural control is positively associated with tax
+compliance intention.
+
+Moral obligation (MO) and tax compliance intention
+The quest to understand the behaviour of humans is quite diﬃcult when ethical factors
+are ignored (Molero & Pujol, 2012). Ajzen (1991) asserts that in handling an uprightly
+delicate condition, attention should be given to an individuals’ feelings regarding the
+honourable duty to either perform or not to perform a speciﬁc behaviour. Moral obligation is described principally as how accountable a person feels concerning others
+(Bobek & Hatﬁeld, 2003), a duty arising out of just motives, or simply careful duty, distinct from any lawful responsibility, ﬂawless or ﬂawed, or with acknowledgement of
+beneﬁt by the promisor. Against this background, Beck and Ajzen (1991) include
+moral obligation as an antecedent for predicting intention, which is key in increasing
+
+SMALL ENTERPRISE RESEARCH
+
+7
+
+the predictive value of the theory of planned behaviour. However, McGee (1999) posits
+those individuals owe no moral duty to compensate for taxes.
+Empirically, most studies have found that an individual with high sense of moral duty
+is less likely to be non-compliant (Alleyne & Harris, 2017; Culiberg, 2018). As surmised
+by Riahi-Belkaoui (2004) individual’s perception of moral obligation inﬂuences intention
+to engage in tax compliance. Therefore, this study hypothesizes that:
+H4: An individual’s level of moral obligation has a positive eﬀect on tax compliance
+intention.
+
+Perceived tax complexity and tax compliance intention
+Perceived tax complexity, which is a way of minimizing individual’s non-compliance
+behaviour, is about the eﬀect of simpliﬁcation of tax laws and procedures on compliance
+behaviour (Saad, 2014). Extant literature documents tax complexity can be associated
+with tax avoidance practices (Sapiei & Kasipillai, 2013). Other studies argue that the
+hourly duration required to pay taxes in Africa is 20% higher than the global average
+(PWC, 2014). The perceived simplicity or cumbersomeness of tax laws is reﬂected in
+an individual’s motive to engage in tax compliance behaviour.
+As Doran (2009) points out, the complexity of tax laws makes it cumbersome for
+taxpayers to comprehend, leading to non-compliance behaviour. Jayawardane and
+Low (2017) conclude that the complexity of the tax system contributes to non-compliance by way of excess ﬁling time – as most taxpayers depend on tax experts thereby
+bearing the associated cost to comply: and ambiguity – leaving most individuals ignorant about the applicable rates used and how their taxes are calculated. By implication,
+individuals who perceive tax ﬁling, reporting and payment to be cumbersome are more
+likely to engage in tax non-compliance behaviour and vice versa. Based on this, we
+hypothesize that:
+H5: An individual’s perception of tax complexity is negatively associated with tax compliance intention.
+
+Antecedent-based intervention strategies and tax compliance intention
+Antecedent-based intervention strategy is a common social and psychological behavioural pattern that individual with intellectual and non-intellectual abilities alike
+exhibit regarding their tax compliance intention (Lipschultz & Wilder, 2017). The importance a person attaches to particular behavioural misdemeanours motivate the intention
+to be tax compliant. Kirchler and Wahl (2010) note that tax compliance behaviour could
+be formed based on the underlying intention emanating from the interaction between
+taxpayers and authorities, which leads to either a ‘well-accepted duty’ (voluntary compliance) or an ‘onerous duty’ (enforced tax compliance). Consequently, the doubtfulness
+inherent in the tax system makes tax payment a game unintended by many persons
+such that the indecision characterizing the tax arrangement makes paying taxes compatible to gambling by many taxpayers (Langham et al., 2012). The net eﬀect is that some
+taxpayers may hide under the vagueness of the law and deliberately under-report their
+income. At the other end of the spectrum, others pay more than they owe resulting in
+
+8
+
+G. M. Y. OWUSU ET AL.
+
+over-compensation for any possible misdemeanours. In between these two extremes
+exists a great variety of taxpayer behaviour patterns.
+Extant literature documents behavioural patterns that include opening new communication channels; leveraging the power of social recognition (OECD, 2012); considering
+citizen’s opinion; third-party reporting and cross-checking; assistance services for compliance with tax obligation (Prichard et al., 2019); frequent visits to clients; and adjustment to economic, social context and new needs of citizens (IMF, 2015).
+Notwithstanding, existing theories have failed to clarify the intricacies of taxpayer
+intent and have been unable to create a valuable stage for agencies to impact and reassure
+deliberate compliance (Langham et al., 2012). From a cognitive perspective, interventions
+emphasize the teaching of individuals to monitor and manage their own thoughts, feelings and behaviours. Individuals who attach great importance to behavioural misdemeanours are likely to be tax compliant and vice versa. Based on these, we hypothesize that:
+H6: An antecedent-based intervention strategy is positively associated with tax compliance
+intention.
+
+Trust and tax compliance intention
+Trust is a well thought-out key attitudinal variable that shapes the tax drive among the
+populace (Mohseni & Sreenivasan, 2014). Empirically, previous studies indicate that
+trust plays a key role in tax compliance intention owing to insigniﬁcant direct contact
+involving the tax authority and taxpayers (Prichard, 2018; Chai et al., 2011). Deﬁned
+as the apparent susceptibility of persons due to the dealings of others’ behaviour based
+on their ability, kindness and honesty (Guo et al., 2012). It has also been conceptualized
+as ‘a psychological state comprising the intention to accept vulnerability based upon positive expectations of intentions and behaviour of others’ (Rousseau et al., 1998, p. 395).
+Generally, the level of honesty improves taxpayers conditionalities such as tax morale,
+positive emotions among others, which are inherent in attitudes, and thus contribute
+to intentions to be tax compliant (Prichard, 2018). For instance, citizens who believe
+the authorities are honest and trustworthy in handling state resources and ﬁnd the tax
+system transparent a will also reciprocate by paying their taxes due to the state
+(Alemika, 2004). Empirically, Luttmer and Singhal (2014) found a positive relationship
+between trust and tax compliance. Individuals who perceive the tax authority and
+system to be trustworthy are likely to be tax compliant and vice versa. Thus, we hypothesize that:
+H7: Trust is positively associated with intention to engage in tax compliance.
+
+Methodology
+Research design, instrument and data collection
+The study adopted the quantitative approach survey method and self-administered questionnaires as the means of data collection. The questionnaires comprised two diﬀerent
+sections. The ﬁrst section required the background information about the respondents
+including gender, age, duration in business, educational level, nature of business,
+business registration and availability of a tax identiﬁcation number (TIN). The second
+
+SMALL ENTERPRISE RESEARCH
+
+9
+
+section focused on the speciﬁc questions used to measure respondents’ intentions to
+engage in tax compliance and the factors that inﬂuence their intentions. Drawing on
+the ETPB, four constructs (attitude, subjective norms, perceived behavioural control
+and moral obligation) are considered to be relevant predictors of tax compliance intention. These constructs were measured by indicators adapted from Alleyne and Harris
+(2017). The indicators for perceived tax complexity and trust were adapted from the
+works of Saad (2014) and Ya’u and Saad (2018), respectively, while the antecedentbased intervention strategies scale employed closely followed the measurement used in
+many existing studies (IMF, 2015; Langham et al., 2012; OECD, 2012; Prichard et al.,
+2019). All the indicators of the study constructs were measured on the Likert scale
+with anchors ranging from one to seven, details of which are provided in Table 2.
+The ﬁnal questionnaire was self-administered to the respondent group across ﬁve
+diﬀerent regions in Ghana (Greater Accra, Volta, Eastern, Oti and Central). The choice
+of these regions was to ensure a fair representation of respondents from both economically developed and non-economically developed regions in Ghana. The Ghana Statistical
+Service Integrated Business Establishment Survey report (IBES, 2014) classiﬁes establishments within the urban regions as economically developed and those outside the urban
+regions as non-economically developed. In all, a total of 626, 382 sole proprietorship
+establishments in the Ghanaian informal sector classiﬁed by the report into micro and
+small businesses on regional basis constituted the population of the study.
+To arrive at a suitable sample size for the study based on the population the study
+relied on Yamane’s (1967) fair sample selection formula below:
+n=
+
+N
+1 + Ne2
+
+where, n = the sample size; N = the size of population (self-employed individuals in
+Ghana); e = the error (which depend on the required conﬁdence level set by the
+researcher);
+n=
+
+626, 382
+= 400
+1 + 626, 382(0.05)2
+
+Therefore, a sample size of 400 and above was deemed appropriate for making a generalization about the study population. A total of 750 questionnaires were administered
+out of which 746 questionnaires were returned. We excluded 21 from the analysis
+because respondents did not fully complete the questionnaire.
+Data analysis procedures
+The data for the study was analysed descriptively using Statistical Package for Social
+Sciences (SPSS). The instruments were subjected to the normal diagnostic test of
+reliability and validity. The predicted hypotheses of the study were tested using structural
+equation modelling (SEM). The SEM-based techniques help researchers to test and validate relationship as well as evaluate measurement models and structural paths that comprise latent constructs made up of multiple indicator variables (Astrachan et al., 2014).
+The PLS-SEM was adopted as it is more suited for studies involving complex frameworks
+that seek to predict or explain a phenomenon, which is the goal of the present study.
+
+10
+
+G. M. Y. OWUSU ET AL.
+
+Table 1. Demographic characteristics of respondents.
+Variable
+
+Groups
+
+Frequency
+
+Percent
+
+Gender
+
+Male
+Female
+30 and below
+31 – 35
+36 – 40
+41 and Above
+Non-formal
+Basic Education
+Secondary Education
+Tertiary
+Below 4 years
+4 - 5 years
+6 - 7 years
+Over 7 years
+Agric-related
+Commerce
+Service
+Others
+Yes
+No
+Yes
+No
+
+401
+324
+204
+139
+158
+224
+76
+210
+208
+231
+214
+138
+138
+235
+144
+381
+152
+48
+375
+350
+323
+402
+
+55.3
+44.7
+28.1
+19.2
+21.8
+30.9
+10.5
+29.0
+28.7
+31.9
+29.5
+19.0
+19.0
+32.4
+19.9
+52.6
+21.0
+6.6
+51.7
+48.3
+44.6
+55.4
+
+Age
+
+Educational Level
+
+Number of years in business
+
+Nature of business
+
+Business registered with Assembly or GRA for Tax purposes
+Has a Tax Identiﬁcation Number (TIN)
+
+Proﬁle of respondents
+The descriptive statistics of the respondents are presented in Table 1. Males form the
+majority of the study sample accounting for 55.3%, while commerce was the most
+engaged activity with a share of 52.7% of the respondents. A cumulative majority
+(69.1%) of the respondents were not above 40 years. Similarly, 57.7% of the respondents
+received an education from primary to secondary level while 31.9% received a tertiary
+education with only 10.5% receiving no formal education at all. This suggests the respondents at least have a fair idea about tax compliance. In addition, 32.4% of the respondents
+have been in business for more than 7 years and most of the respondents have registered
+with the relevant authorities for taxation purposes. However, about 55.4% of the respondents have no Tax Identiﬁcation Numbers (TIN), suggesting that the aim of bringing
+more individuals into the tax bracket through the TIN system by ACT 632 (2002) is
+yet to produce the expected results.
+
+Descriptive statistics on constructs
+In this section, the mean scores and standard deviations of the respondents’ opinion on the
+precise indicators used to measure the key constructs of the study are reported. Respectively,
+the mean score of each indicator under the constructs – attitude, subjective norm, perceived
+behavioural control, moral obligation, perceived tax complexity and trust – indicate the level
+of agreement or disagreement while ABIS indicates the importance or less importance
+respondents attach to each statement. Results from this analysis as given in Table 2 show
+an overall mean of 5.22 for the construct ‘attitude towards tax compliance intention’.
+This value indicates that the respondents strongly agreed with the statements that explain
+tax compliance to be good, pleasant and attractive. This outcome indicates that the selfemployed individuals sampled have a favourable attitude towards tax compliance.
+
+SMALL ENTERPRISE RESEARCH
+
+11
+
+Table 2. Descriptive statistics on constructs.
+Variables
+ATTITUDE TOWARDS TAX COMPLIANCE
+I will be disturbed if I am unable to correctly state my taxes
+I will feel guilty if I cheat on my taxes
+I will feel pleased if I pay less taxes
+The likelihood of being audited by the GRA is low
+It will be ﬁnancially beneﬁcial for me to pay less taxes
+I ﬁnd the concept of tax compliance very relevant
+Overall mean
+SUBJECTIVE NORMS
+My family and peers will think that I should pay less taxes
+My family and peers will think that I should only pay the correct taxes
+Most people who are important to me will look down on me if I cheat on taxes
+Most people I know will approve of me cheating on taxes
+My role models and co-workers will think ﬁling my tax returns should exclude some income
+sources.
+If I cheated on my taxes, most people who are important to me will disapprove
+Overall mean
+PERCEIVED BEHAVIOURAL CONTROL
+With my tax knowledge, skills and resources, it will be very easy for me to pay less taxes
+Due to my limited tax knowledge, skills and resources, it is hard for me to pay less taxes
+I will successfully state less taxes in my tax return form if I wanted to
+With my tax knowledge, skills and resources, I will have no diﬃculty in stating less taxes
+successfully
+There are no barriers that will prevent me from stating less taxes successfully
+Overall Mean
+MORAL OBLIGATION
+I think it would be morally wrong to engage in tax non-compliance
+I will not feel guilty if I cheated on taxes
+Cheating on taxes goes against my principles
+It will be morally wrong for me to cheat on taxes
+Overall Mean
+TAX COMPLIANCE INTENTION
+I will report my income fully, including all other sources
+I will not attempt to cheat by omitting to report any extra income in my tax return form
+I will declare extra income which is not earned from my regular income source
+I will not fail to comply with the tax laws in future
+Overall Mean
+PERCEIVED TAX COMPLEXITY
+I think the terms used in tax publications (e.g. GRA guide books) and in tax return forms are
+diﬃcult for people like me to understand
+The sentences and wording in the Individual Income Tax Return Guide looks lengthy and not
+user-friendly
+The rules related to individual income tax are clear
+Most of the time I need to refer to others for assistance in dealing with tax matters
+I will have a problem in completing and ﬁling the tax return form(s), if they are required
+I will ﬁnd it tedious to maintain all my relevant records for the whole year for tax purposes (if I
+must complete the tax return form(s))
+Most of the tax liability am given to pay after assessment made by GRA looks overstated for me
+to pay
+I do not have to make a lot of eﬀort to understand the explanations given in GRA guide books
+and other similar explanatory material
+Overall Mean
+TRUST
+Current graduated tax rates are far too high
+Generally, the income tax system in Ghana is fair
+Overall, the burden of tax in Ghanaian tax system has been well distributed
+Tax revenue is wisely spent by the government on project and infrastructure that are beneﬁcial
+to taxpayer
+The taxes I must pay are not too high considering the social beneﬁts provided by the
+government
+
+Mean
+
+Std.
+Deviation
+
+4.95
+5.14
+5.30
+5.24
+5.44
+5.26
+5.22
+
+2.182
+2.217
+2.129
+2.119
+2.064
+2.097
+2.13
+
+5.00
+5.15
+4.69
+3.06
+4.25
+
+2.317
+2.017
+2.303
+2.446
+2.389
+
+4.39
+4.42
+
+2.521
+2.33
+
+3.55
+5.01
+4.11
+3.76
+
+2.244
+2.224
+2.406
+2.385
+
+3.68
+4.02
+
+2.495
+2.35
+
+5.64
+3.44
+4.69
+5.25
+4.76
+
+2.156
+2.556
+2.582
+2.419
+2.43
+
+3.90
+3.86
+4.18
+5.43
+4.34
+
+2.443
+2.366
+2.608
+2.137
+2.39
+
+4.65
+
+2.450
+
+5.20
+
+1.914
+
+4.54
+4.61
+4.11
+5.10
+
+2.186
+2.348
+2.322
+2.012
+
+5.32
+
+1.908
+
+3.49
+
+2.427
+
+4.63
+
+2.20
+
+5.55
+3.49
+2.87
+2.67
+
+1.979
+2.450
+2.053
+2.091
+
+2.39
+
+1.807
+(Continued)
+
+12
+
+G. M. Y. OWUSU ET AL.
+
+Table 2. Continued.
+Variables
+
+Mean
+
+Std.
+Deviation
+
+GRA cares about the concerns of taxpayers when a provisional assessment is made.
+GRA trust the assessment made by taxpayers themselves
+GRA considers the views of average citizens on new laws over changes to their systems with
+much ﬂexibility
+I am satisﬁed with assessment and collection of tax process made by GRA
+GRA gives good cooperation when taxpayers need information about tax laws
+Overall, GRA is very eﬃcient in carrying their duties and aﬀairs with taxpayers
+In my opinion, GRA can check the correctness of all the information reported in tax form
+submitted by taxpayers
+Overall mean
+ANTECEDENT-BASED INTERVENTION STRATEGIES
+Opening new communication channels
+Considering citizens opinion
+Third-party reporting and cross-check
+Leveraging the power of social recognition
+Assistance services for compliance with tax obligation
+Frequent visits to clients
+Adjustment to economic, social context and new needs of citizens
+Overall mean
+
+3.34
+2.95
+3.35
+
+2.420
+2.150
+2.317
+
+3.75
+3.16
+3.17
+4.35
+
+2.427
+2.258
+2.224
+2.495
+
+3.41
+
+2.22
+
+6.17
+6.15
+5.53
+5.78
+5.84
+5.65
+5.98
+5.87
+
+1.419
+1.308
+1.780
+1.429
+1.609
+1.891
+1.638
+1.58
+
+An overall mean of 4.42 recorded by the construct ‘subjective norm’ suggests that
+the respondents were strongly of the opinion that other prominent people in their
+lives will not approve of non-compliance behaviour when it comes to their tax
+payment responsibilities. Similarly, perceived behavioural control had an overall
+mean of 4.02, which demonstrates the level of indecision self-employed individuals
+have over their intention to engage in tax compliance. The construct ‘moral obligation’
+had an overall mean of 4.76 indicating that the respondents strongly consider tax compliance to be morally good. The ‘intention to engage in tax compliance’, which is the
+variable of interest, recorded an overall mean of 4.34 suggesting that the respondents
+had a very strong intention to comply with their tax obligation. By implication, the
+respondents demonstrate that non-compliance is unlawful and believe that, although
+unreciprocated, individuals have a civic responsibility to pay taxes as a way of contributing to the welfare of others. Thus, voluntary compliance will enable the state to
+function properly. Nevertheless, most of the respondents somehow agree that noncompliance is justiﬁed if, to a large extent, the tax rates are too high (mean = 5.55)
+and the terms in the individual income tax return forms are diﬃcult to understand
+(mean = 4.65).
+Furthermore, the construct ‘perceived tax complexity’ had an overall mean of 4.63
+suggesting that respondents generally ﬁnd the tax administration system to be
+complex and diﬃcult in its application. The construct ‘trust’ had an overall mean
+of 3.41; an indication that the respondents are strongly of the opinion that the perceived lack of honesty in the tax system and authority will lower their intention to
+engage in tax compliance. Finally, considering respondents’ opinion on antecedentbased intervention strategies, an overall mean score of 5.87 (the highest among the
+constructs) was recorded, which presupposes that most of the respondents engage
+in tax compliance by default; hence, they exploit the ambiguity of the law as a
+game of chance.
+
+SMALL ENTERPRISE RESEARCH
+
+13
+
+CR
+0.83
+0.83
+0.82
+0.83
+0.77
+0.78
+0.72
+0.86
+
+AVE
+0.61
+0.62
+0.54
+0.62
+0.54
+0.64
+0.58
+0.57
+
+Table 3. Validity and reliability test.
+Construct
+Attitude
+Tax Compliance Intention
+Antecedent based Intervention Strategies
+Moral Obligation
+Perceived Behavioural Control
+Perceived Tax Complexity
+Subjective Norms
+Trust
+
+CA
+0.70
+0.70
+0.72
+0.70
+0.71
+0.50
+0.34
+0.81
+
+Model measurement
+Validity and reliability
+Validity and reliability tests were conducted on the constructs using Cronbach alpha
+(CA), composite reliability (CR) and the average variance extracted (AVE) scores. As
+shown in Table 3, CA, CR and AVE scores for each construct is above the recommended
+threshold of 0.70 and 0.50 (Fornell & Larcker, 1981; Hair et al., 2017) except CA for perceived tax complexity and subjective norms. However, composite reliability is considered
+superior to Cronbach’s alpha, which assumes that all indicators should be weighted
+equally while composite reliability assumption uses the loadings obtained from the
+model itself (Hair et al., 2012) and, hence, all constructs are deemed reliable and valid.
+Discriminant validity. A test for discriminant validity was conducted using the Heterotrait-Monotrait ratio of correlation (HTMT). Employing the HTMT criterion involves
+comparing it to a predeﬁned threshold in which the value of the HTMT must be
+lower than for discriminant validity for it to be assured (Henseler et al., 2015). Gold
+et al. (2001) recommends a maximum value of 0.90 as the ideal predeﬁned threshold
+when evaluating discriminant validity. Results of the HTMT as shown in Table 4
+suggest discriminant validity is assured as the HTMT values for all the constructs were
+below the maximum threshold.
+Other diagnostic checks
+Prior to discussing our structural model results, several tests were conducted to check the
+appropriateness of our model. First, to ascertain whether our model was not signiﬁcantly
+aﬀected by multicollinearity issues, we tested for the presence of multicollinearity using
+the variance inﬂation factor (VIF). As shown in Table 5, the VIF scores are within the
+recommended threshold of less than 3 (Hair et al., 2017), an indication of an absence
+Table 4. Discriminant Validity (Heterotrait-Monotrait Ratio – HTMT).
+Constructs
+
+AT
+
+TCI
+
+ABIS
+
+MO
+
+PBC
+
+PTC
+
+SN
+
+Attitude
+Tax Compliance Intention
+Antecedent-based Intervention Strategies
+Moral Obligation
+Perceived Behavioural Control
+Perceived Tax Complexity
+Subjective Norms
+Trust
+
+0.479
+0.208
+0.627
+0.214
+0.237
+0.576
+0.206
+
+0.346
+0.829
+0.110
+0.590
+0.846
+0.406
+
+0.261
+0.109
+0.244
+0.541
+0.271
+
+0.184
+0.353
+0.892
+0.329
+
+0.239
+0.252
+0.592
+
+0.589
+0.278
+
+0.621
+
+TR
+
+14
+
+G. M. Y. OWUSU ET AL.
+
+Table 5. Multicollinearity of constructs.
+Constructs
+
+VIF
+
+Attitude
+Antecedent-based Intervention Strategies
+Moral Obligation
+Perceived Behavioural Control
+Perceived Tax Complexity
+Subjective Norms
+Trust
+
+1.305
+1.129
+1.601
+1.331
+1.149
+1.628
+1.483
+
+of a multicollinearity problem in our model. Second, we employed the Herman’s single
+factor score test to check for common method bias (CMB). A test result of 12.24%
+demonstrates that our model does not suﬀer from common method bias as the
+Herman’s single factor score is within the 50% tolerable threshold as shown in
+Table 6 (Podsakoﬀ et al., 2012). Third, using the coeﬃcient of determination (R²), we
+assessed how the variance in the dependent variable is explained by the independent variables. Our R² value of 0.50 suggests the independent variables explain approximately 50%
+of the variation in the dependent variable. Fourth, we examined the predictive relevance
+of our model by performing the blindfolding procedure. For a model to be relevant in
+terms of predictive power, the cross validated redundancy (Q²) value must be greater
+than zero (Fornell & Cha, 1994, p. 72). Thus, our Q² value of 0.291 as shown in
+Table 6 suggests that the predictive power of our model is good.
+Finally, eﬀect size is reported to determine the extent of the meaningful relationship
+between the constructs or the diﬀerence between groups. Thus, the practical signiﬁcance
+of the research outcome is indicated through eﬀect sizes that are independent of the
+sample size. According to Hair et al. (2014), for the assessment of eﬀect size, values of
+0.02, 0.15, and 0.35 are considered small (S), medium (M), and large (L), respectively.
+Results in Table 7 suggest the eﬀect size of exogenous constructs on the endogenous constructs is small.
+Structural model analysis
+Based on the satisfactory results from the reliability and validity assessment as well as the
+other diagnostic tests, we employed the bootstrapping procedure to analyse our model
+structurally. The model indicating the relationships among the study constructs is presented in Figure 1. The structural model results based on the algorithm in Figure 1 is presented in Table 5. In arriving at the ﬁnal model, indicators to a construct that did not meet
+the recommended minimum indicator loading were deleted as suggested by Hair
+Table 6. Boostrapping results.
+Hypotheses
+
+Path
+
+Coeﬃcient
+
+P-Values
+
+Results
+
+H1:
+H2:
+H3:
+H4:
+H5:
+H6:
+H7:
+R2 (0.50)
+Q2 (0.291)
+
+AT -> TCI
+SN -> TCI
+PBC -> TCI
+MO -> TCI
+PTC -> TCI
+ABIS -> TCI
+Trust -> TCI
+
+0.126
+0.251
+0.048
+0.334
+−0.169
+−0.054
+0.144
+
+0.000
+0.000
+0.180
+0.000
+0.000
+0.049
+0.002
+
+Accepted
+Accepted
+Rejected
+Accepted
+Accepted
+Accepted
+Accepted
+
+SMALL ENTERPRISE RESEARCH
+
+15
+
+Table 7. Relative eﬀect size.
+Relative eﬀect size (f²)
+Attitude -> Intention
+Intervention Strategies -> Intention
+Moral Obligation -> Intention
+Perceived Behavioural Control -> Intention
+Perceived Tax Complexity -> Intention
+Subjective Norms -> Intention
+Trust -> Intention
+
+0.024
+0.005
+0.139
+0.003
+0.050
+0.077
+0.018
+
+Figure 1. Path Model 1.
+
+et al. (2012). According to Hair et al. (2012), an indicator loading of at least 0.5 is recommended for inclusion in the structural model, especially for reﬂective constructs.
+Based on this indicator loading criteria, three out of the six indicators that measured attitude were deleted, four indicators of subjective norm were deleted, and two out of ﬁve
+indicators that measured perceived behavioural control were deleted for poor factor loadings. One indicator each was deleted for moral obligation and intention to evade tax, a total
+of six, seven and four indicators each were deleted for perceived tax complexity, trust and
+antecedent-based intervention strategies, respectively, because their loadings were less
+than 0.5.
+Discussion of results
+From our structural model results, we ﬁnd a positive and highly signiﬁcant relationship
+between an individual’s attitude and tax compliance behaviour (p-value<0.01). Consistent
+
+16
+
+G. M. Y. OWUSU ET AL.
+
+with our prediction, this ﬁnding implies individuals with a favourable attitude towards the
+payment of taxes tend to be more compliant with their tax payment responsibilities. By
+implication, such individuals are more likely to voluntarily ﬁle their tax returns, report
+and pay their taxes. As explained in the TPB by Ajzen (1991), a person’s favourable attitude towards a particular behaviour inﬂuences the intention to perform that behaviour.
+This ﬁnding is supported by prior related studies that found attitude to be positively
+associated with tax compliance behaviour (Owusu et al., 2020; Sadress et al., 2019).
+The relationship between subjective norms and tax compliance behaviour also yielded
+a positive and statistically signiﬁcant relationship between the two constructs (pvalue<0.01). This is an indication that individuals’ tax compliance behaviour is highly
+aﬀected by the pressure or inﬂuence of prominent individuals such as role models,
+family, friends, and inﬂuential people in the society. According to Ajzen (1991), the
+views of prominent individuals in society have important implications on behaviour of
+others who look up to them. Therefore, to the extent that prominent individuals may disapprove of non-compliance behaviour, an individual taxpayer is less likely to engage in
+such behaviour. From the tax literature, the evidence provided by several studies
+(Jimenez & Iyer, 2016; Owusu et al., 2020) show that, indeed, tax compliance behaviour
+of individual taxpayers can be shaped by the opinions other important people in a
+person’s life. Thus, our ﬁndings support the empirical position that subjective norm is
+an important predictor of tax compliance behaviour.
+Similarly, our results suggest the existence of a positive and highly signiﬁcant relationship (p-value<0.01) between moral obligation and tax compliance behaviour. This
+ﬁnding suggests that the extent to which an individual feels personally responsible
+towards others in the society can positively inﬂuence tax compliance behaviour. Thus,
+notwithstanding the fact that the construct moral obligation is unconnected with any
+legal obligation but is a genera reﬂection of an individual’s belief about what constitute
+right and wrong, individuals with a greater sense of responsibility towards others would
+consider the payment of tax as morally right, and would consequently comply with their
+tax payment responsibilities. From the perspective of the TPB, Ajzen (1991) argues that
+the stronger a person’s wisdom of moral duty, the more likely it is that that person will
+engage in behaviours that promote societal good. Given that taxes constitute one of the
+important revenue sources to the government for ﬁnancing public expenditure, the willingness to comply with tax payment responsibilities will be high for individuals with a
+sense of responsibility towards the society as a whole. Empirically, our result is consistent
+with some existing studies (Alleyne & Harris, 2017; Culiberg, 2018) that conclude that
+moral obligation inﬂuences intention to be tax compliant.
+The link between perceived behavioural control and tax compliance intention also
+yielded a positive association in line with the predicted hypothesis but was statistically
+insigniﬁcant. Thus, even though the positive coeﬃcient is an indication that individuals
+with high perceived behavioural control are more likely to comply with tax payment
+responsibilities (Ajzen, 1991), this construct is not a signiﬁcant predictor of tax compliance behaviour. By implication, the extent of inﬂuence of the perceived behavioural
+control factor is not as relevant as the other components of the TPB in statistical
+terms. This ﬁnding contradicts some prior works (Alleyne & Harris, 2017; Lee &
+Kozar, 2005) that conclude that the apparent ease on the side of the individual inﬂuences
+his/her intention to willingly pay taxes.
+
+SMALL ENTERPRISE RESEARCH
+
+17
+
+In terms of the relationship between perceived tax complexity and tax compliance
+intention, our results demonstrate that tax complexity has a negative and highly signiﬁcant (p-value<0.01) relationship with tax compliance behaviour. This, in line with our
+prediction, means that the more simpliﬁed individual taxpayers perceive the tax regulations and procedure s to be, the higher their compliance intentions. As explained by
+existing studies (PWC, 2014; Saad, 2014), complexities of tax laws and the tax administration system give most individuals the desire to be non-compliant with tax.
+Our sixth hypothesis, which test the relationship between antecedent-based intervention strategies (ABIS) and tax compliance intention, showed a negative and statistically
+signiﬁcant relationship (p-value<0.05). From the descriptive statistics, ABIS recorded the
+highest overall mean of 5.87 among all the constructs, an indication that most respondents generally consider behavioural uncertainty as a precursor to exhibiting tax compliance in a lazy way or on condition. This ﬁnding suggests that the intention to engage in
+tax compliance will be perceived as a game of chance or default when an individual
+attaches importance to conditions before being tax compliant instead of personal volition. The study corroborates existing studies (Langham et al., 2012; Prichard et al.,
+2019) that reported that, out of uncertainty of the law and behavioural misdemeanours,
+lazy compliance makes taxpayers comply with tax laws by default, as they unconsciously
+exert energies and time into being tax compliant.
+Lastly, our results on the relationship between trust and tax compliance intention indicate the construct ‘trust’ has a positive eﬀect on the tax compliance intention of people.
+Thus, the motivation to comply with tax payment responsibilities is usually higher when
+individuals have trust in the system and perceive managers of the state resources to be
+honest and trustworthy in handling their resources. To the extent that an individual
+believes their tax revenues will be put to judicious use, such an individual is likely to reciprocate by paying their taxes due to trust in the authorities (Alemika, 2004). Empirically,
+this ﬁnding is consistent with existing studies (Chai et al., 2011; Mohseni & Sreenivasan,
+2014), which assert that taxpayer’s perception towards the government or tax authority is
+an important predictor of tax compliance intention.
+
+Conclusion
+The primary focus of this study was to investigate the key predictors of tax compliance
+intention among selected self-employed individuals working in the informal sector in
+Ghana. Relying on the extended version of the Theory of Planned Behaviour, we examined the eﬀect of attitude, subjective norm, perceived behaviour control and moral obligation on tax compliance intention of our target respondents. Additionally, we
+controlled for the eﬀect of perceived tax complexity, antecedent-based intervention strategies and trust on tax compliance intention of individuals. We analysed these objectives
+structurally using the Partial Least Square based Structural Equation Modelling technique. Our structural model results not only provide suﬃcient support for our predicted
+hypotheses, but also, most importantly, highlight some relevant issues that should be of
+interest to policy makers interested in promoting a voluntary tax compliance culture
+among individuals working in the informal sector in particular.
+We ﬁnd individuals’ attitude, subjective norm and moral obligation to be positively
+associated with tax compliance intention while perceived tax complexity and
+
+18
+
+G. M. Y. OWUSU ET AL.
+
+antecedent-based intervention strategies impact negatively on tax compliance intention.
+Again, we ﬁnd the perception of trust in terms of the tax administration system and judicious use of tax revenues by the state to be a relevant predictor of tax compliance intention of individuals. This ﬁnding implies that the extent to which trust is reciprocated
+between the taxpayers and tax authorities is relevant in creating a mutual and synergistic
+environment for high voluntary compliance or vice versa. Our ﬁndings not only provide
+support for previous empirical results, but also conﬁrm the theoretical assumptions of
+the extended TPB. Given that the intention to be tax compliant is high among the respondent group (based on the descriptive analysis of the views of the respondent), an understanding of the dominant factors that drive this intention should be a useful starting
+point in minimizing the incidence of tax non-compliance among workers in the informal
+sector of the economy. For instance, given that perceived complexity and trust issues
+aﬀect tax compliance intentions, an important avenue for promoting voluntary tax compliance behaviour among the self-employed is to work towards simpliﬁcation of the tax
+laws while improving on accountability and transparency in the use of tax revenues to the
+public to inspire conﬁdence and increase tax morale. Our results have implications for
+policy makers interested in promoting responsible tax payment behaviour among selfemployed individuals in the small enterprise space. Our ﬁndings suggest that notwithstanding how generic tax compliance appears, an understanding of the unique context
+of small enterprise taxpayers (most especially the expectation gap between them and
+tax authorities) is critical in designing policies that will be eﬀective in promoting voluntary tax compliance.
+A key limitation of this study, however, is that while standard tax policy literature classiﬁes taxpayers into large taxpayers, medium taxpayers, and small taxpayers, this study
+did not partition the respondents into these categories and, consequently, did not
+control for its impact on our estimated results. Moreover, notwithstanding the fact
+that the research instrument used in the study were adapted from well-known scales
+in literature, the questionnaire structure oﬀers no opportunity for the respondents’
+own views on the variables of interest. Thus, respondents were made to indirectly ﬁt
+into the researchers pre-deﬁned parameters in responding to the questions.
+Based on the ﬁndings of the study and the aforementioned limitations, the following
+recommendations are made for future research. Primarily, an important way to extend
+the awareness on tax compliance is for future studies to examine other determinants
+of tax compliance apart from those known in this study; for example, research on how
+the beneﬁts of using tax experts and motivation from tax authorities aﬀect self-employed
+individuals’ compliance behaviour. Again, future research could measure tax compliance
+of the self-employed from a self-assessment perspective using medium and large taxpayers. This is because a taxpayers’ categorization unit informs the applicable method
+of assessment and hence, comparison on the compliance level among micro, small,
+medium and large taxpayers may be useful to the tax compliance literature. Finally,
+future studies could consider the mediating role of trust in examining the relationship
+between the factors in this study and tax compliance intention.
+
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+
+SMALL ENTERPRISE RESEARCH
+
+19
+
+References
+Abdul–Razak, A., & Adafula, C. J. (2013). Evaluating taxpayers’ attitude and its inﬂuence on tax
+compliance decisions in Tamale, Ghana. Journal of Accounting and Taxation, 5(3), 48–57.
+https://doi.org/10.5897/JAT2013.0120
+Ajzen, I. (1991). The theory of planned behaviour. Organizational Behaviour and Human Decision
+Processes, 50(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T
+Alemika, E. E. (2004). Corruption, Governance performance and political trust in Nigeria. Centre for
+social Science research. University of Cape Town.
+Alleyne, P., & Harris, T. (2017). Antecedents of taxpayers’ intentions to engage in tax evasion:
+Evidence from Barbados. Journal of Financial Reporting and Accounting, 15(1), 2–21. https://
+doi.org/10.1108/JFRA-12-2015-0107
+Alm, J., Jackson, B., & Mckee, M. (1992). Estimating the determinants of taxpayer’s compliance
+with experimental data. National Tax Journal, 45(1), 107–114. https://doi.org/10.1086/
+NTJ41788949
+Al-Zaqeba, M. A. A., & AL-Rashdan, M. T. (2020). Extension of the TPB in Tax compliance behavior: The role of moral intensity and customs Tax. International Journal of Scientiﬁc &
+Technology Research, 9(4), 227–232.
+Amponsah, S., Isshaq, Z., & Agyapong, D. (2019). Determinants of tax stamp evasion in rural districts in Ghana: A case of Twifu Atti-Morkwa and Hemang lower Denkyira districts.
+International Journal of Law and Management, 61(1), 73–90. https://doi.org/10.1108/IJLMA08-2017-0190
+Armitage, C. J., & Conner, M. (2001). Eﬃcacy of the Theory of Planned Behaviour: A meta- analytic review. British Journal of Social Psychology, 40(4), 471–499. https://doi.org/10.1348/
+014466601164939
+Astrachan, C. B., Patel, V. K., & Wanzenried, G. (2014). A comparative study of CB-SEM and PLSSEM for theory development in family ﬁrm research. Journal of Family Business Strategy, 5(1),
+116–128. https://doi.org/10.1016/j.jfbs.2013.12.002
+Atuguba, R. (2006). The tax culture of Ghanaian: A research report prepared for the Revenue
+Mobilization Support (RMS). Accra: Legal Resource Centre; GTZ.
+Beck, L., & Ajzen, I. (1991). Predicting dishonest actions using the theory of planned behavior.
+Journal of Research in Personality, 25(3), 285–301. https://doi.org/10.1016/0092-6566
+(91)90021-H
+Bobek, D. D., & Hatﬁeld, R. C. (2003). An investigation of the theory of planned behaviour and the
+role of moral obligation in tax compliance. Behavioural Research in Accounting, 15(1), 13–38.
+https://doi.org/10.2308/bria.2003.15.1.13
+Castro, L., & Scartascini, C. (2015). Tax compliance and enforcement in the pampas evidence from
+a ﬁeld experiment. Journal of Economic Behavior & Organization, 116, 65–82. https://doi.org/10.
+1016/j.jebo.2015.04.002
+Chai, H. L., Ndubisi, N. O., & Uchenna, C. E. (2011). Analyzing key determinants of online
+repurchase intentions. Asia Paciﬁc Journal of Marketing and Logistics, 23(2), 200–221.
+https://doi.org/10.1108/13555851111120498
+Culiberg, B. (2018). How can governments tackle consumption tax evasion? Shedding
+light on the antecedents of consumer attitudes and intentions. Journal of Nonproﬁt
+& Public Sector Marketing, 30(4), 367–386. https://doi.org/10.1080/10495142.2018.
+1452824
+Doran, M. (2009). Tax penalties and tax compliance. Harvard Journal of Legislation, 46(1), 111–
+161.
+Enachescu, J., Olsen, J., Kogler, C., Zeelenberg, M., Breugelmans, S. M., & Kirchler, E. (2019). The
+role of emotions in tax compliance behavior: A mixed-methods approach. Journal of Economic
+Psychology, 74, 102–194. https://doi.org/10.1016/j.joep.2019.102194
+Fornell, C., & Cha, J. (1994). Partial least squares. In R. P. Bagozzi (Ed.), Advanced methods of marketing research (pp. 52–78). Blackwell.
+
+20
+
+G. M. Y. OWUSU ET AL.
+
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18, 39–50. https://doi.org/10.1177/
+002224378101800104
+Ghana Statistical Service. (2012). ). Employment sector of employed persons 15-64 years by region
+and district, 2010. http://www2.statsghana.gov.gh/ labour_stats.html.
+Gold, A. H., Malhotra, A., & Segars, A. H. (2001). Knowledge management: An organizational
+capabilities perspective. Journal of Management Information Systems, 18(1), 185–214. https://
+doi.org/10.1080/07421222.2001.11045669
+Guo, J., Wang, X., & Wang, R. (2012). Analysis on inﬂuential factors on online shopping intention
+of female consumers. Journal of Chinese Marketing, 5(2), 1–9.
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. A. (2017). Primer on partial least squares
+structural equation modeling (PLS-SEM) (3rd ed). SAGE Publications.
+Hair, J. F., Sarstedt, M., Hopkins, L., & Kuppelwieser, V. G. (2014). Partial least squares structural
+equation modeling (PLS-SEM). European Business Review, 26, 106–121. https://doi.org/10.
+1108/EBR-10-2013-0128
+Hair, J. F., Sarstedt, M., Ringle, C. M., & Mena, J. A. (2012). An assessment of the use of partial least
+squares structural equation modeling in marketing research. Journal of the Academy of
+Marketing Science, 40(3), 414–433. https://doi.org/10.1007/s11747-011-0261-6
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. Journal of the Academy of Marketing
+Science, 43(1), 115–135. https://doi.org/10.1007/s11747-014-0403-8
+IBES II. (2014). Ghana statistical service integrated business establishment survey report. www2.
+statsghana.gov.gh.
+IMF. (2015). Current challenges in revenue mobilization: Improving tax compliance. Author.
+James, S., & Alley, C. (2002). Tax compliance, self-assessment system and tax administration.
+Journal of Finance and Management in Public Services, 2(2), 27–42.
+Jayawardane, T. G. D. S., & Low, K. (2017). Exploring key determinants of tax compliance decision
+among individual taxpayers in Sri Lanka. European Journal of Business and Management, 9(3),
+25–35.
+Jimenez, P., & Iyer, G. S. (2016). Tax compliance in a social setting: The inﬂuence of social norms,
+trust in government, and perceived fairness on taxpayer compliance. Advances in Accounting,
+34, 17–26. https://doi.org/10.1016/j.adiac.2016.07.001
+Jones, M. S., & Rhoades-Catananch, S. C. (2010). Principles of taxation for business and investment
+planning. McGraw-Hill.
+Joshi, A., Prichard, W., & Heady, C. (2014). Taxing the informal economy: The current state of
+knowledge and agendas for future research. The Journal of Development Studies, 50(10),
+1325–1347. https://doi.org/10.1080/00220388.2014.940910
+Kirchler, E. (2009). The economy psychology of tax behaviour. Cambridge University Press.
+Kirchler, E., Hoelzl, E., & Wahl, I. (2008). Enforced versus voluntary tax compliance: The slippery
+slope framework. Journal of Economic Psychology, 29(2), 210–225. https://doi.org/10.1016/j.
+joep.2007.05.004
+Kirchler, E., & Wahl, I. (2010). Tax compliance inventory TAX-I: Designing an inventory for
+surveys of tax compliance. Journal of Economic Psychology, 31(3), 331–346. https://doi.org/
+10.1016/j.joep.2010.01.002
+Langham, J., Hartel, C., & Paulsen, N. (2012). Improving tax compliance strategies: Can the theory
+of planned behaviour predict business compliance? eJournal of Tax Research, 10(2), 364–402.
+Lee, Y., & Kozar, K. A. (2005). Investigating factors aﬀecting the adoption of anti-spyware systems.
+Communications of the ACM, 48(8), 72–77. https://doi.org/10.1145/1076211.1076243
+Lipschultz, J. L., & Wilder, D. A. (2017). Behavioral assessment and treatment of noncompliance:
+A review of the literature. Education and Treatment of Children, 40(2), 263–298. https://doi.org/
+10.1353/etc.2017.0012
+Luttmer, E., & Singhal, M. (2014). Tax morale. The Journal of Economic Perspectives, 28(4), 49–68.
+https://doi.org/10.1257/jep.28.4.49
+
+SMALL ENTERPRISE RESEARCH
+
+21
+
+Mbilla, S. A. E., Gatsi, J. G., Arhin, E. Y., & Ayimpoya, R. N. (2018). Drivers of tax compliance
+among self-employed in Ghana. International Journal of Business, Economics and Law, 16(1).
+McGee, R. (1999). Why people evade taxes in Armenia: A look at an ethical issue based on a
+summary of interviews. Journal of Accounting, Ethics & Public Policy, 2(2), 408–416.
+Mohseni, S., & Sreenivasan, J. (2014). The impact of user characteristics in online purchase intention in tourism industry. Reef Resources Assessment and Management Technical Paper, 40, 399–
+404.
+Molero, J. C., & Pujol, F. (2012). Walking inside the potential tax evader’s mind: Tax morale does
+matter. Journal of Business Ethics, 105(2), 151–162. https://doi.org/10.1007/s10551-011-0955-1
+Murphy, K. (2004). Aggressive tax planning: Diﬀerentiating those playing the game from those
+who don’t. Journal of Economic Psychology, 25(3), 307–329. https://doi.org/10.1016/S01674870(03)00011-4
+Nsor-Ambala, R. (2015). Inﬂuence of individual ethical orientation on tax compliance: Evidence
+among Ghanaian taxpayers. Journal of Accounting and Taxation, 7(6), 98–105. https://doi.org/
+10.5897/JAT2015.0179
+OECD. (2012). Reducing opportunities for tax non-compliance in the underground economy:
+Paris.
+Owusu, G. M. Y., Bekoe, R. A., & Otchere, S. A. (2019). Determinants of tax compliance attitude.
+In A. Farazmand (Ed.), Global encyclopedia of public administration, public policy, and governance. Springer. https://doi.org/10.1007/978-3-319-31816-5_3859-1
+Owusu, G. M. Y., Bekoe, R. A., Anokye, F. K., & Anyetei, L. (2020). What factors inﬂuence the intentions of individuals to engage in tax evasion? Evidence from Ghana. International Journal of
+Public Administration, 43(13), 1143–1155. https://doi.org/10.1080/01900692.2019.1665686
+Podsakoﬀ, P. M., Mackenzie, S. B., & Podsakoﬀ, N. P. (2012). Sources of method bias in social
+science research and recommendations on how to control it. Annual Review of Psychology,
+63, 539–569. https://doi.org/10.1146/annurev-psych-120710-100452
+Prichard, W. (2018). Electoral competitiveness, tax bargaining and political incentives in developing countries: Evidence from political budget cycles aﬀecting taxation. British Journal of Political
+Science, 48(2), 427–457. https://doi.org/10.1017/S0007123415000757
+Prichard, W., Custers, A., Dom, R., & Davenport, S. (2019). Innovations in tax compliance:
+Conceptual framework. The World Bank.
+PWC. (2014). Paying taxes: The global picture; a comparison of tax systems in 189 economies
+worldwide.
+Riahi-Belkaoui, A. (2004). Relationship between tax compliance internationally and selected determinants of tax morale. Journal of International Accounting, Auditing and Taxation, 13(2), 135–
+143. https://doi.org/10.1016/j.intaccaudtax.2004.09.001
+Rousseau, D. M., Sitkin, S. B., Burt, R. S., & Camerer, C. (1998). Not so diﬀerent after all: A crossdiscipline view of trust. Academy of Management Review, 23(3), 393–404. https://doi.org/10.
+5465/amr.1998.926617
+Saad, N. (2014). Tax knowledge, tax complexity and tax compliance: Taxpayers’ view. Procedia Social and Behavioural Sciences, 109(1), 1069–1075. https://doi.org/10.1016/j.sbspro.2013.12.590
+Sadress, N., Bananuka, J., Orobia, L., & Opiso, J. (2019). Antecedents of tax compliance of small
+business enterprises: A developing country perspective. International Journal of Law and
+Management, 61(1), 24–44. https://doi.org/10.1108/IJLMA-10-2017-0234
+Sapiei, N. S., & Kasipillai, J. (2013). External tax professionals’ views on compliance behaviour of
+corporation. American Journal of Economics, 3(2), 82–89.
+Taing, H. B., & Chang, Y. (2021). Determinants of tax compliance intention: Focus on the theory
+of planned behavior. International Journal of Public Administration, 44(1), 62–73. https://doi.
+org/10.1080/01900692.2020.1728313
+Terkper, S. (2003). Managing small and medium size taxpayers in developing economies. Tax Note
+International, 29(2), 211–234.
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information
+technology: Toward a uniﬁed view. MIS Quarterly, 27(3), 425–478. https://doi.org/10.2307/
+30036540
+
+22
+
+G. M. Y. OWUSU ET AL.
+
+Yamane, T. (1967). Statistics: An introductory analysis (2nd ed.). Harper and Row.
+Ya’u, A., & Saad, N. (2018). Trust as moderating variable in the relationship between fairness perceptions and voluntary tax compliance in Nigeria: A theoretical framework. Journal of
+Advanced Research in Business and Management Studies, 10(1), 28–39.
+Youde, S., & Lim, S. (2019). The determinants of medium taxpayers’ compliance perspectives:
+Empirical evidence from siem reap province, Cambodia. International Journal of Public
+Administration, 42(14), 1222–1233. https://doi.org/10.1080/01900692.2019.1591447
+
+
