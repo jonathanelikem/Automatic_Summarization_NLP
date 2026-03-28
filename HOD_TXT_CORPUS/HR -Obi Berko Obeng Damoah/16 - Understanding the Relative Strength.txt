@@ -1,0 +1,1430 @@
+55
+
+Understanding the Relative Strength
+
+Damoah et al.
+
+Understanding the Relative Strength
+of the Motives that Influence
+Acquisition Strategy:
+Evidence from an Emerging Market
+Obi Berko O.
+Damoah
+University of Ghana Business
+School, Ghana
+
+Linder Opoku
+University of Ghana Business
+School, Ghana
+
+Richmond AcquahColeman
+Sam E. Jonah School of Business,
+African University College of
+Communications, Ghana
+
+Correspondence:
+Email: obodamoah@ug.edu.gh
+
+Abstract
+In the strategic management field, Acquisition is one of
+the key strategies most organizations use as a development strategy. Yet, literature suggests that most
+Acquisitions fail to realize the expected benefits that
+drive the strategy. This paper argues that part of the
+reason why most Acquisitions fail is because the
+motives that drive the strategy are not critically examined. Based on this, the paper examines the relative
+strengths of the motives that drive Acquisitions from the
+Ghanaian context. Using a purposive sampling of 105
+managers drawn from the four mobile telecommunication companies in Ghana, a descriptive statistics based
+on the mean rankings of the respondents' average
+scores is used as the main diagnostic tool to analyse
+the data. The results indicate that in line with the
+literature review, various motives influence Acquisition.
+Of the12 motives that were found from the study, the
+three most important ones were profitability, foreign
+markets and increased in market power. Based on the
+findings, implications on practice and policy are
+suggested.
+Keywords: mergers, acquisition, Ghana, motives.
+
+Introduction
+Strategic management literature offers a number of
+strategies for firm's survival, growth, sustainability
+and development (Jonhson et al., 2011; Pearce &
+Robinson, 2013). Acquisition is one of such strategies; in recent times, Acquisition is considered one of
+the strategies for gaining sustaining competitive
+advantage (Seth, Song & Pettit, 2000; Lodorfos &
+African Journal of Management Research (AJMR)
+
+Understanding the Relative Strength
+
+Boateng, 2006). Yet, the motives that drive
+Acquisition play a crucial role in its success
+(Seth et al., 2000; Banga & Gupta, 2012).
+Of the motives, Synergy, Agency and
+Hubris motives are the traditional motives
+often cited in literature as underpinning
+Acquisitions (Berkovitch & Narayanan,
+1993; Seth et al., 2000). The Synergy motive assumes that in acquisitions the
+combined operations of both firms are
+more profitable than that of the individual
+firms combined (Chatterjee, 1986). Agency motive on the other hand, assumes that
+Acquisitions take place primarily due to
+the advancement of the self-interest of
+managers at the expense of shareholders
+(Berkovitch & Narayanan, 1993). Thus,
+even though an Acquisition may not have
+any probable benefits for the company,
+managers may enter into Acquisitions to
+the detriment of shareholders. The last
+traditional motive, Hubris motive, argues
+that Acquisitions occur mainly due to
+overestimation of gains involved by
+managers (Seth et al., 2000). After entering
+into acquisition, firms discover that the
+anticipated gains are non-existent and this
+leads to losses to the acquirer.
+The past two decades have been referred
+to as acquisition and merger mania characterized by an unprecedented number of
+consolidations across the world. In 2012,
+the figure for Acquisition deals reached
+worldwide was $2.6 trillion representing a
+2 percent increment over that of 2011.
+Sub-Saharan Africa deals alone were
+worth $14,615 million (Thomson Reuters,
+2012). Ghana is not an exception regarding the development of Acquisitions. According to Business Week Africa (2011),
+Acquisitions have been in Ghana for some
+time, but through the central bank's issuance of a new bank recapitalization
+
+Damoah et al.
+
+56
+
+regulation in 2008, Acquisitions have
+gained more popularity in Ghana (Sanda
+& Adjei-Benin, 2011). Among the industries in Ghana, the telecommunication
+industry has experienced series of major
+Acquisitions. For instance, out of the six
+(6) mobile telecommunication companies
+operating in Ghana, four (4) have undergone at least one Acquisition. However, in
+spite of the increasing subscription to
+Acquisition as an antidote to firm growth
+(Barney, 2001), research has established
+that more than two-thirds of large Acquisition deals fail to create value for shareholders in the medium term (Lodorfos &
+Boateng, 2006). The rate of failure of
+Acquisitions worldwide has been relatively high with some studies ascribing as
+high as an 88 percent failure rate
+(Saunders, Altinay, & Riordan, 2009). In
+Africa, Acquisitions have not been without any problems. It has been reported
+that Bharti Airtel continues to experience
+plummeting net profit due to losses from
+its newly acquired African operations.
+Profits dropped by 41 percent from $470
+million in 2009 to $291 million in 2010
+after its Acquisition of Zain Africa
+(Ghana Business News, 2011). Similarly,
+in the last quarter of 2012, profits droped
+by about 50 percent (Wall Street Journal,
+2013).
+Research has provided a myriad of reasons for this high failure rate including
+industry match (complementary of assets,
+similarities of markets and products, synergies in production, strategic orientation,), pricing policy, financing, size of
+operation and the type of the transaction,
+bidding conditions, motives of Acquisitions, culture, leadership, communication
+and so on (Mirc, 2007; Berkovitch &
+Narayanan, 1993; Mitleton- Kelly, 2004).
+African Journal of Management Research (AJMR)
+
+57
+
+Understanding the Relative Strength
+
+Despite the selected challenges of Acquisitions outlined above, it is argued that the
+benefits of Acquisition far outweighs the
+challenges thus, this paper contends that
+in order to realize the expected benefits ,
+the objective that drives Acquisitions
+needs to be critically examined. Whilst
+literature exits in the developed countries
+regarding the issue of Acquisition motives, it is not known whether evidence
+from the emerging markets (e.g. Ghana)
+compares or contrasts with extant studies
+(Ingham, Kran & Lovestam, 1992;
+Bruner, 2002).The objective of this paper,
+there-fore, is to examine the relative
+strengths of the motives that drive
+Acquisitions from the Ghanaian perspective. To achieve the objective of the study,
+the rest of the paper is subdivided as
+follows. Section 2 deals with the theoretical background and hypotheses development; Section 3 deals with empirical literature and the development of hypotheses.
+Section 4 concerns data and methodology
+whilst Section 5 focuses on discussion and
+conclusion. Section 6 deals with the implications of the study, limitations and the
+effect on future research.
+Theoretical Background &
+Hypotheses Development
+Acquisition is known to be based on
+“different” rather than a single motive
+(Ratajczak-Mrozek, 2015). Various studies
+employ various theories to explain the
+motives which drive acquisitions (e.g.
+Deng and Yang, 2015 [resource dependency theory]; Mtichell and Lehn, 1990
+[managerial self-interest theory]; Mota,
+2004 [economies of scope]; Jensen, 1986
+[managerial discretion theory]). Besides,
+Trautwein (1990) outlined seven (7) different theories that explain Acquisitions.
+The specific theories are efficiency theory,
+African Journal of Management Research (AJMR)
+
+Damoah et al.
+
+process theory, valuation theory, raider
+theory, monopoly theory, empire building
+theory and disturbance theory. This study
+looks at four of these theories namely efficiency theory, valuation theory, empire
+building theory and monopoly theory.
+The reasons for the selection is that they
+are commonly applied in the field (see
+Ratajczak-Mrozek, 2015).
+Efficiency Theory
+The efficiency theory advances that
+Acquisitions are created to achieve a number of synergies. Acquisitions will only
+occur when they are expected to generate
+enough attainable synergies to make the
+deal beneficial to both parties. It is the
+complementary expectations of gains that
+results in the Acquisition proposal and
+accepted. According to Mueller and
+Sirrower (2003), synergy became popular
+in the 1960s when it was used to justify
+conglomerate Acquisitions which did not
+yield immediate results. Synergy in the
+context of Acquisitions can be explained
+to be the gains that accrue to firms based
+on their complementary potentials. The
+ability to create value out of the symmetric
+abilities of the firms involved in the consolidation is what is termed as synergy. A
+range of synergy types have been advanced in Acquisition literature. Chartejee
+(1986) identified collusive, operating and
+financial synergy as the three main types
+of synergies.
+Collusive Synergy results from scarce resources that lead to increase in market
+power or share. Devos, Kadapakkam and
+Krishnamurthy (2009) explained that a
+combination of two large competing
+firms in the same industry reduces competition considerably. This leads to a reduction in prices of products or the prices
+
+Understanding the Relative Strength
+
+paid to their suppliers. That being the case,
+they increase market power or share since
+other competitors find it difficult to provide their goods and/or services at equal
+or even lower prices. This type of synergy
+is only realizable in horizontal Acquisitions (Chatterjee, 1986). For instance,
+Devos et al. (2009) maintains that this type
+of synergy increases benefits to shareholders to the detriment of government and
+other stakeholders like customers and
+suppliers.
+Operating synergy, on the other hand, argues that administrative and productive
+efficiencies are among the key motives of
+Acquisition (Chatterjee, 1986). These efficiencies include technical and marketing
+economies of scale and scope, increase in
+profits, cost reduction and managerial efficiencies. Devos et al. (2009, p.1186) defined operating synergy as 'the increase in
+after-tax operating profits less the changes
+in investments”. The theory assumes that
+economies of scale and scope do exist in
+the industry and that before Acquisitions,
+firms operate at levels of activity that deprive them from harnessing the potentials
+for economies of scale. When firms come
+together, they are able to increase productivity and at the same time reduce the average cost of production.
+Financial synergy is associated with the
+foreseeable gains in terms of reduction in
+cost of capital and an increase in cash flow
+(Charteejee 1986). Devos et al. (2009) explicated that a key component of financial
+synergy is tax benefit. These researchers
+say that companies take advantage of tax
+shields, increase leverage and all other tax
+advantage after Acquisitions occur. Overall tax savings go a long way to increase the
+cash flow of the combined firms and this
+
+Damoah et al.
+
+58
+
+is believed to be one of the reasons behind
+Acquisitions. Consistent with this assertion is the notion that efficiency theory
+downplays the impact of other industry
+players in influencing synergy realisation.
+This implies that once firms operate in an
+industry with other firms, the synergies
+realised through Acquisitions is partially
+dependent on the ability of these rival
+firms to counteract the edge the combined
+firm has over them in production efficiencies, production cost, capital cost,
+management capabilities and so on.
+Valuation Theory
+According to Steiner (1975), this theory
+argues that mergers are calculated and implemented by managers who have better
+information about the target's value than
+the stock market. The assumption here is
+that the acquirer may have peculiar and
+superior information about Target Company's unrealized potential and benefits
+associated with the intended union that is
+unknown to others and this is what propels them into an Acquisition. Also, they
+may have noticed an opportunity to sell
+the target company in bits since it is undervalued.
+This theory underlies the Hubris motive.
+This motive suggests that Acquisitions
+take place due to an error in the valuation
+of Target Company by acquirer's management. The Hubris hypothesis as propounded by Roll (1986 as cited in Seth et al.,
+2000) maintains that the takeover premiums paid only reflect a random error
+made by managers in assessing target
+firms. This error can be in the form of
+over or under estimation. Whichever type
+of error that is made, the premium paid is
+still not equivalent to current market price
+of the firm. Mueller and Sirrower (2003)
+African Journal of Management Research (AJMR)
+
+59
+
+Understanding the Relative Strength
+
+advocate that this error leads to the
+winner's curse which is central to the
+hubris hypothesis. The authors explain the
+winner's curse to be loss accrued to the
+highest bidder in Acquisition because the
+winner wields the highest error in the
+valuation of the target company. This is
+based on the principle of a common value
+auction where the asset is of equal value to
+all bidders.
+Roll (1986 as cited in Seth et al., 2000) distinguishes between an extreme form of
+hubris and a moderate form. The extreme
+version of this hypothesis is rooted in the
+strong form market efficiency. This version predicts that there are no attainable
+synergies in Acquisitions but only a transfer of wealth to target companies through
+the payment of premiums. It also suggests
+that hubris hypothesis is not based on rational management behaviour unlike the
+rational profit maximisation behaviour
+that underlies the synergy motive. Roll explains that if managers were to behave
+rationally they would not patronize any
+transaction that requires a premium price
+greater than the market price which will
+apparently imply an error. The moderate
+version however agrees with the rational
+behaviour of managers and attributes
+error to a genuine mistake in valuation of
+target. The overestimation of synergies by
+a manager leads to overpayment in terms
+of premium and this leads to loss to the
+acquirer's shareholders. This theory has
+been criticised on the grounds that, if the
+acquirer had any private information
+about the target's value other than the apparent synergies, it will would be revealed in
+the biding process (Devos et al., 2009).
+The stock price would climb to reflect the
+new information leaving the bidder in a
+winner's-curse situation (Trautwein,
+African Journal of Management Research (AJMR)
+
+Damoah et al.
+
+1990). Thus, the information which this
+theory deems advantageous to the bidder
+becomes a trap which fetches them extra
+payment either in cash or stock and an
+overvalued target.
+Empire Building Theory
+The empire-building theory advanced by
+Mueller (1969 as cited in Mueller &
+Sirrower, 2003) presupposes that managers propose Acquisitions to seek their selfinterest at the expense of shareholders'
+value. Hellgren, Lowstedt and Werr (2011)
+argued that, via this theory Acquisitions
+ride on the back of managerial goals.
+These goals range from sustainable growth of assets (Marris, 1964) to managers
+expense preference (Williamson, 1964).
+The agency motive of Acquisitions was
+conceived out of this theory. Agency motive argues that Acquisitions come into
+play primarily due to the advancement of
+the self-interest of managers at the
+expense of shareholders (Berkovitch &
+Narayanan, 1993). Agency motive is based
+on the concepts of bounded rationality,
+hidden information, information asymmetry, risk preferences, hidden action,
+moral hazard, opportunistic behaviour
+and adverse selection and incentive
+asymmetries (Parvinen & Tikannen,
+2007). This simply implies that all actors in
+the Acquisition process make decisions
+based on the amount of information
+available to them since they cannot have
+access to all information. This information symmetry may precipitate into hidden
+actions entrenched in opportunism to advance individual self-interest at the expense of other stakeholders in Acquisition.
+Aggarwal and Samwick (2003) identified
+two main types of agency explanations.
+
+Understanding the Relative Strength
+
+The first type of agency explanation is that
+managers derive utility from reducing the
+personal risk associated with higher equity
+ownership (Aggarwal & Samwick, 2003).
+Thus, the higher the equity of managers in
+companies, the higher the urge to acquire
+more firms in order to diversify investment and reduce the risk of keeping all
+equity tied up in one firm. The second
+explanation of agency is that managers go
+into Acquisition to derive some private
+benefits. These private benefits ranges
+from prestige, better career prospects associated with running a more diversified
+firm, increase in asset size since their
+salary is often tied to the number of assets
+they control and the entrenchment of
+managers due to increase in their value
+(Aggarwal & Samwick, 2003).
+Monopoly theory
+This theory is similar to the collusive synergy argument advanced by Chatterjee
+(1986). However, this theory advances
+that not only do Acquisitions lead to
+increase in market share, but also create
+barriers to entry into an industry. According to this theory, Acquisitions come into
+play because firms have the need to
+increase market power. Chatterjee (1986)
+explained that this type of motive is only
+attainable in horizontal Acquisitions.
+Trautwein (1990) iterated that, conglomerate or unrelated Acquisitions can also
+attain market power through; subsidizing
+one product to gain market share with the
+profit from other products from other
+markets; controlling competition in more
+than one market at the same time. This is
+done through tacit collusion with the
+competitors it meets in various markets.
+Other possible ways of limiting competition in more than one market are reciprocal dealing and combining business func-
+
+Damoah et al.
+
+60
+
+tions such as purchasing. Here, market
+leaders can also prevent new and potential
+entrants into their market through concentric Acquisition. This theory just like
+the one above ignores the ability of the
+firms acting in the same industry to counteract or adopt similar measures to achieve
+an advantage. The theory is far from reality since all actors in the industry play a
+role in a firms bid to achieve any form of
+advantage. As explained by Chatterjee,
+(1986) the impact of Acquisitions on rival
+firms in the industry is proportional to the
+other firms' ability to offset the advantage
+gained through Acquisitions. Trautwein
+(1990) concluded that gains advanced by
+the monopoly theory are elusive, with studies not showing favourable result and
+industry results showing weaker impact
+while company results are mixed.
+Empirical Literature on Motives
+Driving Acquisitions
+In the light of theoretical discussions
+above, this section of the paper presents
+the empirical literature.
+Synergy Motive
+Synergy motive seeks to create or increase
+shareholder value. The primary reason for
+these set of motives is to unearth the complementary potential of both firms and
+subsequently create value such that the
+value of the combined firm exceeds the
+pre-Acquisition value of the individuals
+firms put together. Penrose's (1959 as
+cited in Seth, Song, Pettit, 2002) explanation for firms' growth gives credence to
+underlying reason of synergy. He explained that, the long run profitability of
+firms is dependent on its ability to grow
+the productive opportunities of the firm.
+Thus, the need for these productive opportunities drives firms into markets and
+African Journal of Management Research (AJMR)
+
+61
+
+Understanding the Relative Strength
+
+products which will ensure efficient
+production and increasing revenues.
+Synergy is an umbrella word with a number of motives under it. In line with the
+efficiency theory, Seth et al. (2002) have
+said that multiple motives coexist under
+synergy. This category of motives refers
+to only those groups of reasons that
+predict positive returns for Acquisitions
+initiatives. According to Berkovitch &
+Narayanan (1993), synergy is one of the
+key motives for acquisitions (1993).
+Economies of Scale and Scope
+Economies of scale and scope are specific
+motives under synergy. From the efficiency theory, one of the motives behind
+Acquisitions is economies of scale and
+scope. Evidence on this type of benefit in
+Acquisitions was found by Ingham et al.
+(1992) in their study of Acquisition motives in the UK. They found marketing
+and technical economies of scale as the
+3rd and 8th most important motive explaining Acquisitions from the manager's
+perspective. Walter and Barney (1990) also
+found exploitation of economies of scale
+as one of the clusters of motives driving
+Acquisitions. Although, this motive was
+found to be of moderate importance to
+Acquisition decision. This is also evident
+in Banga and Gupta's (2012) study, where
+they found that Acquisition of mutual
+funds are influenced by synergy. Their
+explanation for synergy presupposes the
+inclusion of economies of scale and
+scope.
+Financial motive
+Studies (e.g. Walter & Barney, 1990;
+Chakrabarti (1984; Hu (2009) found nonsignificant relationship between Acquisition and financial performance. For instance, Ferrer (2012) identified that
+African Journal of Management Research (AJMR)
+
+Damoah et al.
+
+Acquisitions do not increase profitability
+since it has a negative effect on return on
+equity as well as return on asset. Similarly,
+Kemal (2011) after analysing the postAcquisition financial records of Royal
+Bank of Scotland found that Acquisition
+did not increase profitability. They found
+that out of the four main financial ratios
+analysed, it is only the solvency ratio of the
+bank that improved after the merger. Thus
+they concluded that since it suffices to use
+these ratios as measure of profitability for
+banks, then the Acquisition failed to increase the bank's profitability. This is in
+concurrence with Souder and Chakrabarti's (1984) finding that, there exists a
+negative relationship between Acquisition
+performance and increased profit motive.
+In Africa, Okpanachi (2011) found that,
+mergers and Acquisitions did not lead to
+any significant increase in after tax profit,
+net assets and gross earnings. Other evidence exits to counter the non-significant
+effect of Acquisition and financial performance. From the efficiency theory,
+financial benefits which include tax credits
+and other tax advantages, reduction in
+capital cost, increase in cash flow, creation
+of an internal capital market for efficient
+allocation of resources and reduction in
+risk associated with an organisations
+investment portfolio are part of the
+reasons driving Acquisitions (Chatterjee,
+1986; Trautwein, 1990; Walter & Barney,
+1990; Devos et al., 2009). All the above
+authors have attested to the fact that
+financial benefits underlie Acquisition initiatives. Okpanachi (2011) however found
+that Acquisitions in Nigerian banks led to
+a significant increase in financial efficiency
+of these banks since two out of the three
+parameters showed significant increase. In
+addition, Ingham et al. (1992) found it as
+the most important reason that drives
+
+Understanding the Relative Strength
+
+Acquisitions. Altunbaz and Ibanez (2004)
+found evidence for this motive when they
+concluded that Acquisitions lead to an
+improvement in the performance of cross
+border Acquisitions.
+
+Damoah et al.
+
+62
+
+emerging markets where growth rate is
+relatively higher. In this study, the author
+found that Acquisitions give these firms
+the opportunity to launch into new products areas which were not previously
+explored.
+
+Increase in Market Share/Power
+This type of motive has also been emphasized in the work of Banga and Gupta
+(2012), Walter and Barney (1990) and
+Ingham et al. (1992). Ingham et al. (1992)
+found that this motive is the second most
+important motive after increase profitability. Although, Souder and Chakrabarti
+(1984) identified a negative relationship
+between this type of motive and Acquisition performance. This is one of the
+only two motives that showed a significant
+relationship in the study. Between the two,
+this motive showed the highest significance with a correlation coefficient of 0.645 even though it was negative.
+Contrary to this, Ghosh (2004) enunciated
+that this motive underlies Acquisition and
+actually found evidence of increasing
+market share after analysing 2000 US
+Acquisitions that took place between 1980
+and 1990. He found that increased market
+share leads to the long run profitability of
+firms.
+
+Barriers to Entry
+The monopoly theory advances that, as
+much as organisations use Acquisitions to
+enter into new geographical and product
+markets, they use it also to regulate entry
+into the markets in which they already
+operate (Ingham et al., 1992; Walter &
+Barney, 1990). Ingham et al. (1992) found
+that this motive is one of the least important motives underlying Acquisitions.
+Walter and Barney (1990) also found the
+entry into new product lines to be of
+medium importance to Acquisition.
+Barth, Jahera, Phumiwasana and Yost
+(2012) found that the potency of this
+motive of Acquisition is fast reducing due
+to both domestic and global (WTO)
+efforts and thus more and more firms are
+undertaking Acquisitions. Coate (2008)
+said that even though evidence of barriers
+to entry exists there is more to this than
+the cost blocking entry advanced by
+theorist.
+
+Entry into New Markets
+The efficiency theory suggests entry into
+new market as one of the motives that
+drive Acquisitions. In the wake of this
+intense competition and pressures of the
+globalized worlds, research has established that organisations have resorted to
+Acquisitions as way of entering new
+markets be it geographically or product
+wise. Harding (2010) identified the opportunity Acquisitions have given to pharmaceutical industries in the United States of
+America, Europe and Japan to enter into
+
+Risk Reduction
+Acquisitions occur to take advantage of
+financial synergies which include risk
+reduction. This motive was ranked as the
+fourth most important motive in Ingham
+et al.'s (1992) study. Zhu and Jog (2012)
+found evidence of this type of motive and
+its impact on Acquisition. They found that
+cross border Acquisitions lead to a reduction in the target firm's risk. They purported that this is mainly due to changes in
+the international shareholder base of a
+firm. Domestic Acquisitions, on the other
+African Journal of Management Research (AJMR)
+
+63
+
+Understanding the Relative Strength
+
+hand, they claimed, lead to an increase in
+the risk of target. Seth et al. (2002)
+proposed that cross-border Acquisitions
+cause a reduction in the risk associated
+with acquiring firms. They also attributed
+this reduction to the advantages of international equity markets and differences in
+markets for products, corporate control,
+capital and labour. From this, it can be said
+this motive is important to both acquiring
+and target firms' value and performance
+since the evidence in literature suggests
+that both parties to Acquisition realize this
+motive.
+Managerial Efficiency
+The proxy for managerial efficiency in
+Ingham et al.'s (1992) study showed that
+this motive is of high importance to
+Acquisitions since it was found in the top
+five motives behind Acquisitions. This
+motive suggests that Acquisitions take
+place because firms often lack the required
+management capabilities and wish to take
+advantage of superior managerial capabilities in other firms. This motive has
+been established in literature by a number
+of authors (Ingham et al., 1992; Walter &
+Barney, 1990). Its relation to Acquisition
+performance has been contested. Based
+on the good performance of target firms
+prior to Acquisitions, Song and Chu
+(2011, p. 152) found that in Malaysia, takeover market witnessed the enhancing of
+the earning base by the acquiring firms
+rather than playing the disciplinary role for
+under-performing targets'. They attributed Acquisition performance rather to
+agency-related issues of ownership concentration and related party transaction.
+Cost Reduction
+Cornett, McNutt and Tehrahian (2006)
+found that large Acquisitions, geographiAfrican Journal of Management Research (AJMR)
+
+Damoah et al.
+
+cally-focused Acquisitions and activity focused Acquisitions enjoy relatively higher
+post Acquisitions performance due to revenue enhancement and cost reduction.
+They went further to say that Acquisitions
+that enjoy revenue enhancement are those
+that operate at a reduced cost. In spite of
+the importance of cost reduction in
+underlying Acquisition decisions, it was
+found to be of moderate importance to
+Acquisition decision by Ingham et al.
+(1992). However, all of the above motives
+can be categorized under synergy motive.
+Research (e.g. Berkovitch & Narayanan,
+1993; Seth et al., 2000; 2002; McCann,
+2004) has found that the synergy motive
+results in positive total gain to the acquirer
+as well as the target companies.
+Agency Motive
+Berkovitch and Narayanan (1993) found
+that agency motive explains the poor performance of Acquisitions. They explained
+that there is a negative relationship between agency motive and total gains and
+acquirer's gain. However, target companies realize positive gains when Acquisition is underlain by the agency motive.
+Seth et al. (2000) found similar evidence in
+do-mestic US Acquisitions. They found
+that, in value reducing Acquisitions,
+agency motives appeared the dominant
+underlying reason for the Acquisition and
+not hubris. Seth et al. (2002) confirmed
+these same findings for cross border
+Acquisitions. In summary, literature
+identifies the agency motives as the most
+dominant motive underlying value
+destroying or unsuccessful Acquisitions.
+Agency motive has, however, been found
+to underlie certain value maximizing
+Acquisitions, but only to a minimum
+degree. In such cases, it was found that
+though the agency problem was present, it
+
+Understanding the Relative Strength
+
+Damoah et al.
+
+64
+
+was the synergy motive which was the
+overarching motive (Berkovitch &
+Narayanan, 1993).
+
+ment, opportunity for foreign market entry,
+economies of scale and the increased in market power before all other motives
+
+Hubris Motive
+Consistent with the view of moderate
+hubris, Berkovitch and Narayanan (1993)
+found evidence of hubris in a subsample
+which resulted in positive gains to targets.
+However, the hubris motive was found to
+have a negative effect on gains to the
+acquired firm and no effect on total gains.
+Similarly, McCann (2004) found evidence
+of hubris in a study of UK Acquisitions.
+The author explained that in Acquisitions
+which realized negative total gains, hubris
+is unlikely to be the motive behind it. In
+those that experienced positive total gains,
+he found a negative relationship between
+acquirer and target gains indicating the
+presence of hubris motive. This is because
+in that subsample, there were significant
+gains to targets while acquirers experienced significant losses. In tandem with
+the above, earlier work by Roll (1986) found that the existence of the hubris
+motive cannot lead to any form of gain in
+Acquisitions. This evidence, gathered
+from a sample of US Acquisitions, was
+not contrary to later findings (Berkovitch
+& Narayanan, 1993; McCann, 2004).
+Empirical literature above show that a
+number of motives drive Acquisitions.
+Following the motivations of the findings
+above, the following hypotheses regarding
+the relative strength of Acquisitions motives is proposed.
+
+Data & Methodology
+The population of the study consists of
+mobile telecommunication companies in
+Ghana that have undergone acquisitions.
+Mobile telecommunication companies in
+Ghana that fall into this category were
+four namely: Scancom Ghana Limited
+(MTN), Airtel Ghana Limited, Vodafone
+Ghana Limited and Expresso Limited.
+The study was undertaken in Accra; Accra
+is the capital and also the largest commercial city of Ghana. The head offices of
+most companies operating in Ghana, including those under consideration in this
+study, are located in Accra. For these companies their strategic decisions are made
+from the head offices and the majority of
+the workforce are based in Accra compared to the other regions of Ghana.
+Questionnaire was the main data collecting instrument employed for the study.
+Purposive and quota sampling were employed to draw the sample of the study
+consisting of 105 senior and middle managers drawn from the four main mobile
+telecommunication companies mentioned above. Self-administered questionnaire was the main data collection instrument used to collect the data. The sample
+size for the study was estimated based on
+Watson's (2001) table for calculating a
+representative sample. The data were analysed based on descriptive statistics of the
+respondents' average score to ascertain
+the means and the standard deviations of
+the 12 motives following the review of the
+empirical literature. Table 1 presents the
+description of the data.
+
+H1: More than one motive will influence the
+Acquisition of firms
+H2: Among the motives underlying Acquisitions, profitability motive will rank higher,
+followed by the interest of senior manage-
+
+African Journal of Management Research (AJMR)
+
+65
+
+Understanding the Relative Strength
+
+Damoah et al.
+
+Table 1: Description of the Data
+Variable
+
+Frequency
+
+Percentage (%)
+
+Cumulative (100%)
+
+Companies
+MTN
+Vodafone
+Airtel
+Expresso
+Total
+
+34
+51
+11
+9
+105
+
+32
+49
+10
+9
+100
+
+32
+81
+91
+100
+
+Gender of respondent
+Male
+Female
+Total
+
+61
+44
+105
+
+58.1
+41.9
+100
+
+58.1%
+100.
+
+Rank in Company
+Top management
+Middle management
+Total
+
+25
+80
+105
+
+23.8
+76.2
+100
+
+23.8
+100
+
+From Table 1, the management of
+Vodafone is the highest represented, followed by MTN. The least firm that is
+represented is Expresso; this is partly
+because it is the smallest mobile telecommunication firm in terms of customer
+patronage. In terms of gender, more male
+managers are represented compared to
+females, which is 58 percent and 42
+percent respectively. Workforce in middle
+management positions were more
+represented compared to the top manage-
+
+ment that is 76 percent and 24 percent
+respectively. This is so because the down
+size of most organizations is more than
+the top.
+Analysis and Results
+By measuring the motives on a scale of 1
+to 5 with 3 meaning neither agree nor
+disagree, and 5 meaning strongly agree.
+Table 2 below presents the results of the
+relative strengths of the 12 motives.
+
+Table 2: The Relative Strength of Acquisition Motives
+Nos. Motives
+1
+2
+3
+4
+5
+6
+7
+8
+
+Increased profitability
+Entry into new markets
+Pursuit of market power/share
+Marketing/technical economies
+of scale
+Cost reduction
+Utilise financial strength of the
+acquire firm such as foreign tax
+credit or borrowing capacity
+To enhance asset size
+Differential valuation of target
+
+African Journal of Management Research (AJMR)
+
+Mean
+
+Standard
+Deviation
+
+Relative
+Importance
+
+4.27
+4.03
+3.99
+3.82
+
+.812
+.753
+.953
+.647
+
+High
+High
+Moderate
+Moderate
+
+3.69
+3.37
+
+.913
+.901
+
+Moderate
+Low
+
+3.21
+3.21
+
+.917
+1.007
+
+Low
+Low
+
+Understanding the Relative Strength
+
+66
+
+Damoah et al.
+
+Table 2: The Relative Strength of Acquisition Motives (cont’d)
+Nos. Motives
+9
+
+10
+11
+12
+
+Fulfil the personal ambition,
+vision, or some particular goal
+of the acquiring company's
+chief executive
+Creating change
+Spreading of risk
+To replace inefficient managers
+
+Mean
+
+Standard
+Deviation
+
+Relative
+Importance
+
+3.21
+
+1.071
+
+Low
+
+3.12
+3.07
+3.03
+
+1.053
+.973
+1.033
+
+Low
+Low
+Low
+
+From Table 2, relative importance of the
+motive that influence Acquisition is divided into three categories namely, high
+importance, moderate and low. From the
+Table, motives with means ≥ 4 are considered high importance. The next category
+consists of means that range from 3.50 –
+3.99 which are considered moderate importance whilst those below 3.5 are considered low importance. Overall, it can be
+seen that the motive to increase profitability appeared the first most important factor with the value of 4.27. This is followed
+by the motive to enter new market which
+had a mean value of 4.03. Three motives
+fell under the moderate category which
+are: to pursue market power, achieve economies of scale and cost reduction. The
+remaining 7 motives fell under the low
+category. Of the low category, the motive
+to replace inefficient managers became
+the least important motive.
+Discussion & Conclusion
+Acquisitions have been known to be
+caused by a constellation of reasons.
+Berkovitch and Narayanan (1993) found
+that synergy motive is the most dominant
+motive behind Acquisitions. Consistent
+with this assertion is findings of this research. All the top five motives in the high
+and moderate importance categories can
+
+be classified under the three main synergies expanded by Chatterjee (1986).
+This study supports the research hypothesis that synergy is the most important
+motive that drives firms into Acquisition.
+Firms go into business to maximize shareholder wealth through growth. This growth has been advanced to come about as a
+result of internal innovation or external
+Acquisition. Acquisitions have emerged as
+one of the mechanisms through which
+firms attain this objective. Barney (2001)
+argues that firms grow by the size of the
+target firms through Acquisitions. Thus, it
+is easier to comprehend the impact of
+Acquisitions than that of internal innovation. Although the motive to increase
+profitability ranked the highest, the H2 is
+not fully supported because the next important motive was the desire to gain entry
+into new market instead of the personal
+interest of senior management as advanced by the agency theory. The opportunity to gain foreign market entry which
+hypothesized to be the third highest motive became the second highest from the
+findings.
+Acquisitions have been known to be
+caused by a constellation of reasons.
+Berkovitch and Narayanan (1993) found
+that synergy motive is the most dominant
+
+African Journal of Management Research (AJMR)
+
+67
+
+Understanding the Relative Strength
+
+motive behind Acquisitions. Consistent
+with this assertion is findings of this research. All the top five motives in the high
+and moderate importance categories can
+be classified under the three main synergies expanded by Chatterjee (1986). This
+study thus supports the research hypothesis that synergy is the most important
+motive that drives firms into Acquisition.
+Firms go into business to maximize
+shareholder wealth through growth. This
+growth has been advanced to come about
+as a result of internal innovation or external Acquisition. Acquisitions have emerged as one of the mechanisms through
+which firms attain this objective.
+Despite the association of both internal
+innovation and Acquisition with a high
+level of risk, Acquisition outcomes are
+more foreseeable and accurately predictable. Barney (2001) says that firms grow
+by the size of the target firms through
+Acquisitions. Thus, it is easier to comprehend the impact of Acquisitions than that
+of internal innovation. Although the motive to increase profitability ranked the
+highest, the H2 is not fully supported
+because the next important motive was
+the desire to gain entry into new market
+instead of the personal interest of senior
+management as advanced by the agency
+theory. The opportunity to gain foreign
+market entry which hypothesized to be the
+third highest motive became the second
+highest from the findings.
+Gentzoglanis and Henten (2010) argue
+that, due to globalization and technological changes from the mid-1990s and onwards, the telecommunications industry is
+seen as a rather emerging industry than a
+matured industry. The Information Communication Technology (ICT) market in
+Ghana is not different from the global one
+African Journal of Management Research (AJMR)
+
+Damoah et al.
+
+since it is equally emerging and set to be a
+major player in African ICT in the next
+five years along with countries like Kenya
+and South Africa (KPMG, 2012). According to KPMG (2012), there exists considerable investment opportunities in the
+industry since the market grows aggressively in all segments. Firms go into
+Acquisitions to strengthen their global
+capabilities in emerging markets.
+Research has shown that, these synergies
+are seldom recognized, however, firms
+still go into Acquisitions because of the
+excitement that they can actually achieve
+these synergies. For instance, all the four
+companies used in this study that were
+acquired by foreign companies give credence to the above argument. Consequently, in analysing the particular goals,
+this research finds that in horizontal
+Acquisition which is the main type of
+Acquisition analysed in this study, the
+most dominant motive is to increase profitability. This finding is contrary to that of
+Walter and Barney (1990) who explained
+that in horizontal Acquisitions, there is no
+highly important motive. They explained
+that horizontal Acquisitions seek to accomplish a number of objectives simultaneously as advanced by Chatterjee (1986).
+However, as stated above, in emerging
+markets like the telecommunications industry in Ghana, Acquisitions are motivated by the acquirer's desire to increase
+global capabilities. It is against this backdrop that firms may seek to operate profitable ventures in all places where they operate in order to be able to continually
+expand into new frontiers. Therefore, it is
+reasonable to imply that all firms in the
+telecommunications industry that undertake Acquisitions do so in anticipation to
+expand. This is consistent with the find-
+
+Understanding the Relative Strength
+
+ings of Capron and Mitchel (1998) that
+telecommunications mergers are driven
+by geographic expansion.
+In order to justify the need for a new
+Acquisition, the previous one must have
+turned appreciable profits. Kemal (2011)
+said that most of these firms’ prime concern in Acquisition is about whether or
+not they have enough money to pay their
+bills or the company is doing better than
+before Acquisition. When answers to
+these questions are in the positive, then
+they can think of how to attain more
+global capabilities. Profitability gives them
+assurance of the need to gain more global
+capabilities. This is evident in the next
+highly important motive found in this
+study which is entry into new markets. As
+stated in the literature review section,
+firms often ride on the back of
+Acquisition to enter new global markets.
+This research, therefore, concludes that
+telecommunications industries are keen
+on expanding their global capabilities
+through entry into new markets. However
+their outmost concern is that each Acquisition they undertake turns profit for the
+organisation in order to be able to further
+pursue their objective of expanding global
+capabilities.
+Overall, the purpose of this research is to
+examine the relative strength of the motives driving Acquisitions in the Ghanaian
+telecommunication sector. In assessing
+the relative importance of the motives, a
+mean ranking of the respondents' average
+scores of the motives is employed. The
+empirical findings indicate that in line with
+existing empirical studies, a variety of motives influence Acquisition decisions in
+Ghana (e.g. increased profitability, entry
+into new markets, pursuit of market po-
+
+Damoah et al.
+
+68
+
+wer or share, marketing or technical economies of scale and cost reduction). This
+implies that the hypothesis H1 is supported. The most important among these
+motives is the synergy motive. Particularly,
+increased profitability emerged as the
+most important synergy motive in horizontal telecommunications Acquisitions.
+This is fueled by acquirer's bid to increase
+their global capabilities. The realisation of
+these synergies and its subsequent impact
+on Acquisition performance are not certain in the telecommunications industry in
+Ghana. However, all these motives were
+found not to have an impact on Acquisition performance.
+Implications of the study
+Implication for Policy & Practice
+On the organizational level, the present
+study has practical implications for businesses. The present study indicated that,
+the main motive driving Acquisitions is to
+make profit. Thus, acquiring companies
+tend to target local firms with higher cash
+flow potentials in order to increase their
+profitability when they merge or take over.
+It suggests, therefore, that management
+of local firms particularly in emerging
+economies such as Ghana should look to
+make themselves profitable by continually
+developing innovative ways such as exploring new areas of business which are
+lucrative to sustain their competitive advantage.
+This will enhance their chances of being
+acquired or merged with bigger foreign
+firms which have the resources and capacity for expansion as well as sustainability.
+Similarly, using the acquired firms as the
+entry strategy to the host country too
+became another significant motive. Implicitly, host company firms must make
+themselves attractive because foreign inAfrican Journal of Management Research (AJMR)
+
+69
+
+Understanding the Relative Strength
+
+vestors aim at a higher return on investment. In light of motives that were found
+in Ghana, an implicit assumption is that
+when foreign firms enter the host country
+via acquisitions, local capacity is built, including impact on employment. As a result, host governments in developing
+countries must create the enabling environment by strengthening public institutions (e.g. ministries, departments, and
+agencies) to facilitate the flow of inward
+foreign direct investments through mergers and acquisitions.
+
+Damoah et al.
+
+sed on the ability of respondents to recall.
+Thus respondents may have problems
+providing accurate information for Acquisitions that took place over a long time.
+The restriction of this study to the telecommunications industry reduces the ability to generalize findings to all industry
+since different organisations have peculiar
+characteristics that distinguish them from
+other industries.
+
+Limitations of the study
+Even though the use of quota sampling
+catered for drawing a representative sample of management, it must be said that
+this research only employs non-probability sampling techniques. Again, the use
+of questionnaire or subjective method for
+measuring Acquisition performance is ba-
+
+Implication for future research
+In assessing the impact of motives on
+Acquisition performance, there is the
+need for further research into the role
+played by industry characteristics such as
+competition in the telecommunications
+industry in Ghana. Research should consider the moderating and mediating effect
+of competition in assessing the role of
+motive in determining Acquisition performance.
+
+REFERENCES
+Aggarwal, R. J. & Samwick, A. A. (2003). “Why
+do managers diversify their firms? Agency
+reconsidered”. The Journal of Finance,
+58/1, p. 71-118.
+Altunbaz, Y. & Ibanez, D. M. (2004). Mergers
+and Acquisitions and bank performance
+in Europe: The role of strategic similarities. (Working Paper Series Number
+398). Frankfurt am Main, Germany: European Central Bank.
+Banga, C. & Gupta, A. (2012). Motives for
+mergers and takeovers in the Indian mutual
+fund Industry. Vikalpa, 37/2, p. 33-42.
+Barney, J. B. (2001). Gaining and sustaining
+competitive advantage, (2nd ed). New
+Jersey: Prentice Hall.
+Barth, J., Jahera, J., Phumiwasana, T. & Yost, K.
+(2012). What determines the number and
+
+value of bank mergers and Acquisitions
+around the globe?. Banking and Finance
+Review, 1, p. 59-76.
+Berkovitch, E. & Narayanan, M. P. (1993).
+Motives for takeovers: An empirical investigation. Journal of Financial and Quantitative Analysis, 28/3, p. 347-362.
+Bruner, R. F. (2002). Does M&A pay a survey
+of evidence for the decision-maker?. Journal of Applied Finance, Spring/ Summer
+2002, p. 48-68.
+Business Week Africa (2011). Merger and
+Acquisition wave hits Ghana's banking
+Industry. Retrieved: http://mybusinesswe
+ekafrica.com/topheadlines_detail.php?ID
+=533 (June 11, 2011)
+Capron, L. & Mitchell, W. (1998). The role of
+Acquisitions in reshaping business capabi-
+
+African Journal of Management Research (AJMR)
+
+Understanding the Relative Strength
+
+lities in the international telecommunications industry. Industrial and Corporate
+Change, 7/4, p. 715730.
+Chatterjee, S. (1986). Types of synergy and
+economic value: The impact of Acquisitions on merging and rival firms. Strategic Management Journal, 7/ 2, p. 119139.
+Chen, S. S. (2008). The motives for international Acquisitions: Capability procurements, strategic considerations, and the
+role of ownership structures. Journal of
+International Business Studies, 39, p.
+454-471.
+Coate, M. B. (2008). Theory meets practice:
+barriers to entry in merger analysis. Review
+of Law and Economics, 4/1, p. 183-212.
+Cornett, M. M., Mcnutt, J. J. & Tehranian, H.
+(2006). Performance changes around bank
+mergers: Revenue enhancements versus
+cost reductions. Journal of Money, Credit, and Banking, 38/4, p. 1013-1050.
+Deng, P. & Yang, M. (2015), Cross-border
+mergers and acquisition by emerging market firms: A Comparative Investigation,
+International Business Review, 24, 157172,
+Devos, E., Kadapakkam, P. & Krishnamurthy,
+S. (2009). How do mergers create value? A
+Comparison of taxes, market power, and
+efficiency improvements as explanations
+for synergies. The Review of Financial
+Studies, 22/3, p.1179-1211.
+Ferrer, R. C. (2012). An empirical investigation of the effects of merger and Acquisition on firms' Profitability. Academy of
+Accounting and Financial Studies Journal, 16/3, p. 31-55.
+Gentzoglanis, A. & Henten, A. (2010). Regulation and the evolution of the global
+Telecommunications industry. England:
+Edward Elgar Publishing Limited.
+Ghosh, A. (2004). Increasing market share as a
+rationale for corporate Acquisitions. Journal of Business Finance & Accounting,
+31/1, p. 209-247.
+Harding, D. (2010). Gaining market share in
+the generic drug industry through Acq-
+
+Damoah et al.
+
+70
+
+uisitions and partnerships. (White Paper). Philadelphia: Thomson Reuters. Retrieved from http://thomsonreuters.com/
+content/science/pdf/ls/newport-deals.
+pdf
+Hellgren, B., Lowstedt, E. & Werr, A. (2011).
+The reproduction of efficiency theory: The
+construction of the AstraZeneca merger in
+the public discourse. International Journal of Business and Management, 6/ 5,
+p. 16-27.
+Hu, Y. (2009). The long term performance
+of acquiring firms: Evidence from Chinese stock market. Retrieved from http:/
+/arno.unimaas.nl/show.cgi?fid=16865
+Ingham, H., Kran, I. & Lovestam, A. (1992).
+Mergers and profitability: A managerial success story? Journal of Management Studies, 29 p. 195–208.
+Jensen, M. C., (1986). Agency Costs of Free
+Cash Flow, Corporate Finance and Takeovers, American Economic Review, 76,
+323-329
+Johnson, G., Whittington, R. & Scholes, K.
+(2011). Exporing Strategy: Text & Cases,
+9ed. England
+Kemal, M. U. (2011). Post-Merger profitability: A case of Royal Bank of Scotland (RBS).
+International Journal of Business and
+Social Science, 2/5, p. 157-162.
+KPMG (2012). Doing Business in Ghana.
+Accra: KPMG Retrieved from http://www
+.kpmg.com/GH/en/Documents/Doing
+%20business%20in%20Ghana%202012.pdf
+Lodorfos, G. & Boateng, A. (2006). The role
+of culture in the merger and Acquisition
+process: Evidence from the European chemical industry. Management Decision,
+44/10, p. 1405-1421.
+Marris, R. (1964). The economic theory of
+managerial capitalism. New York: Free
+Press.
+Glencoe McCann, M. (2004). Motives for
+Acquisitions in the UK. Discussion Papers in Applied Economics and Policy.
+Retrieved from http://www.ntu.ac.uk/
+research/document_uploads/31286.pdf
+
+African Journal of Management Research (AJMR)
+
+71
+
+Understanding the Relative Strength
+
+Mirc, N. (2007). Mergers and Acquisitions:
+revisiting the human factor in the light
+of a knowledge-based view of the firm
+and complexity theory. Paper presented at
+EIASM 22nd workshop on Strategic
+Human Resource Management, France.
+Retrieved from http://crg.polytechnique
+.fr/fichiers/crg/publications/pdf/200707-02-1189.pdf
+Mitleton-Kelly, E. (2004). Co-Evolutionary
+integration: A complexity perspective
+on Mergers & Acquisitions. Paper presented at the 20th EGOS Colloquium,
+Ljubljana University, Slovenia. Retrieved
+from http://www.triarchpress.com/pages/
+articles/Co-evolutionary-perspective-onma.pdf
+Mueller, D. C. (1969). A theory of conglomerate mergers. Quarterly Journal of Economics, 83, 643-659.
+Mitchell, M. and Lehn, K. (1990). Do bad bidders make good targets? Journal of Applied Corporate Finance 3, 60-69.
+Motis, J., (2007). Merger and Acquisition
+Motives. Toulouse School of Economics –
+EHES (GREMAQ) and University of Crete
+Mueller, D. C. (1969). A theory of conglomerate mergers. Quarterly Journal of Economics, 83, 643-659.
+Mueller, D. C. and Sirrower, M. L. (2003). The
+causes of mergers: Tests based on the gains
+to Acquiring firms' shareholders and the
+size of premia. Managerial and Decision
+Economics, 24/5, 373-391.
+Okpanachi, J. (2011). Comparative analysis of
+the impact of mergers and Acquisitions on
+financial Efficiency of banks in Nigeria.
+Journal of Accounting and Taxation,
+3/1, 1-7.
+Parvinen, P. and Tikannen, H. (2007). Incentive asymmetries in the mergers and Acquisitions Process. Journal of Management
+Studies, 44/ 5, 759-787.
+Pearce, J. A. and Robinson, R. B. (2013). Strategic Management: Planning for Domestic & Global Competition. Singapore: McGraw Hill, Pearson Education
+Limited
+
+African Journal of Management Research (AJMR)
+
+Damoah et al.
+
+Ratajczak-Mrozek, M. (2015), The SMEs'
+Perspective on Motives and Success Factors
+in Crossborder Mergers – The Importance
+of Network Position. IMP Journal, 9, 2, 1 36.
+Roll, R. (1986). The hubris hypothesis of corporate takeovers. The Journal of Business, 59 (2) 197-216.
+Sanda, M. A. and Adjei-Benin, P. (2011). How
+is the firm dealing with the merger? A study
+of Employee satisfaction with the change
+pro-cess. Journal of Management and
+Strategy, 2/2, 28-37.
+Saunders M. N. K., Altinay, L. & Riordan, K.
+(2009). The management of post-merger
+cultural integration: implications from the
+hotel industry. Service Industries Journal, 29/ 10, 1359-1375.
+Seth, A., Song, K. & Pettit, R (2000). Synergy,
+managerialism or hubris? An empirical examination of motives for foreign Acquisitions of us firms, Journal of International
+Business Studies, 31/ 3, 387-405
+Seth, A., Song, K. & Pettit, R. (2002). Value
+creation and destruction in cross-border
+Acquisitions: An empirical analysis of foreign Acquisitions of U.S. firms. Strategic
+Management Journal, 23, 921-940.
+Song, I. & Chu, E. (2011). Corporate takeovers in Malaysia: Value creation or agency
+conflicts? International Research Journal of Finance and Economics, 75, 138156.
+Souder, W. E. & Chakrabarti, A. K. (1984).
+Acquisitions: do they really work out? Interfaces, 14/ 4, 41-47.
+Steiner, P. O. (1975). Mergers: motives, effects, policies. Ann Arbor: University of
+Michigan Press.
+Trautwein, F. (1990). Merger motives and merger prescriptions. Strategic Management
+Journal, 11/4, 283-295.
+Thomson Reuters (2012). Mergers & Acquisitions review financial advisors: full
+year 2012. Retrieved: http://dmi.thomson
+reuters.com/Content/Files/4Q2012_MA
+_Financial_Advisory_Review.pdf
+Wall Street Journal (2013). Bharti Airtel
+
+Understanding the Relative Strength
+
+Damoah et al.
+
+72
+
+Profit Halves, Misses Forecast. Retrieved from http://online.wsj.com/article/
+SB100014241278873242669045784579040
+32093168.html. 3 May 2013.
+Walter, G. A. & Barney, J. B. (1990). Management objectives in mergers and Acquisitions. Strategic Management Journal,
+11/1, 79-86.
+Zhu P. & Jog, V. (2012). Impact on Target Firm
+Risk-Return Characteristics of Domestic
+and Cross-Border Mergers and Acquisitions in Emerging Markets. Emerging
+Market Finance and Trade, 48/ 4, 101.
+
+African Journal of Management Research (AJMR)
+
+

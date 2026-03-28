@@ -1,0 +1,2200 @@
+Received: 30 January 2019
+
+Revised: 31 March 2019
+
+Accepted: 31 March 2019
+
+DOI: 10.1002/bsd2.63
+
+RESEARCH ARTICLE
+
+The state of corporate social responsibility research in Ghana:
+A synthesis of literature
+Obi Berko Obeng Damoah1 | Augustine Awuah Peprah2
+
+| Georgina Maku Cobla1
+
+1
+
+University of Ghana Business School,
+University of Ghana, Accra, Ghana
+
+Abstract
+
+2
+
+There are recent calls to pay attention to the institutional requirement or the config-
+
+Department of Business Administration,
+University of Professional Studies, Accra,
+Ghana
+
+urations of the national business system because it eventually results in the different
+manifestation of corporate social responsibility (CSR) in different contexts. This has
+
+Correspondence
+Augustine Awuah Peprah, Department of
+Business Administration, University of
+Professional Studies, Accra, Ghana.
+Email: augustine.peprah@upsamail.edu.gh
+
+led to several contestations against the suitability of transferring developed countries'
+CSR frameworks and ideas to developing countries. Yet literature reviews about CSR
+in developing countries and in Africa, in particular, are limited. This paper, therefore,
+contributes to this gap by systematically reviewing and synthesizing 113 CSR's studies from Ghana between 2006 and 2018. Altogether, this paper structures CSR
+research in Ghana into salient themes to provide the current state of knowledge
+and help scholars scope the field and explore value‐adding avenues to further our
+understanding about CSR research in developing countries. Based on the findings,
+implication on theory, public policy, and practice are suggested.
+K E Y W OR D S
+
+corporate social responsibility, developing countries, Ghana, literature review
+
+1
+
+|
+
+have contributed significantly to the mapping of “what we know and
+
+I N T RO D U CT I O N
+
+don't know about CSR” (Aguinis & Glavas, 2012, p. 932), majority of
+The increasing attention of corporate social responsibility (CSR)
+
+these studies have focused on CSR in developed economies. Hence,
+
+among scholars and practitioners (Greenfield, 2004; Maignan &
+
+more studies on CSR are warranted to analyze how CSR manifests
+
+Ralston, 2002; McWilliams, Siegel, & Wright, 2006; Pearce & Doh,
+
+itself in economies outside the developed core (Egri & Ralston,
+
+2005) seems to have reflected in the managerial and theoretical
+
+2008; Kolk & Lenfant, 2010; Kolk & Van Tulder, 2010). Specifically,
+
+debates that contend that “not only is doing good the right thing to
+
+the question of how CSR works in the context of developing econo-
+
+do, but it also leads to doing better” (Bhattacharya & Sen, 2004, p.
+
+mies needs to be understood.
+
+9; Kotler & Lee, 2005). Consequently, CSR has developed from being
+
+In recent years, the need to explore the context requirement of
+
+a philosophy to reality and has been considered as a critical factor
+
+CSR has been emphasized by the recent calls to pay attention to the
+
+when defining an organization's roles in society and how they apply
+
+institutional requirement or the configurations of the national business
+
+and comply with social and ethical standards in their business opera-
+
+system of developing economies, which may eventually result in the
+
+tions (Lichtenstein, Drumwright, & Braig, 2004). The literature on
+
+different manifestation of CSR (Jamali & Neville, 2011; Okoye,
+
+CSR is primarily growing and becoming more complex and multiface-
+
+2012). For example, authors (Jamali & Neville, 2011; Visser, 2008)
+
+ted (Jamali & Karam, 2018). Various research on CSR scholarship
+
+observed that the distinctive components of CSR in developing coun-
+
+including reviews has been done over the last decade. Some of these
+
+tries are commonly considered as less formalized and more philan-
+
+reviews are general reviews (e.g., Aguinis & Glavas, 2012) whereas
+
+thropic in nature. Further, strengthening the need to focus on CSR
+
+others are narrower reviews of dedicated areas (see Carroll &
+
+research in developing countries are the several contestations against
+
+Shabana, 2010; Frynas & Stephens, 2015). Although these scholars
+
+the suitability of transferring developed countries' CSR frameworks
+
+Bus Strat Dev. 2019;1–12.
+
+wileyonlinelibrary.com/journal/bsd2
+
+© 2019 John Wiley & Sons, Ltd and ERP Environment
+
+1
+
+2
+
+DAMOAH ET AL.
+
+and ideas to developing countries (Blowfield & Frynas, 2005;
+
+in terms of themes, methods, key findings, and sectors to provide
+
+Idemudia, 2011; Luetkenhorst, 2004; Moon & Shen, 2010). This is evi-
+
+an avenue for scholars to reflect on questions that appear critical
+
+dent in the north–south divide in CSR practices (Gugler & Shi, 2009),
+
+yet have not received research attention to enhance public policy,
+
+hence emphasizing the necessity to understand and appreciate the
+
+education, and practice. Third, in the final section, we consolidate
+
+content and objectives of CSR in context appropriately (Okoye,
+
+the main themes, identify lingering gaps, and provide relevant guid-
+
+2012; Prieto‐Carrón, Lund‐Thomsen, Chan, Muro, & Bhushan, 2006).
+
+ance for future research. To address the research questions behind
+
+Despite this increasing attention of CSR in developing countries,
+
+the study, the rest of the paper is structured as follows. Section 2
+
+there are limited studies reviewing the state of knowledge (see Jamali
+
+deals with method, whereas Sections 3 and 4 deal with the findings
+
+& Karam, 2018). CSR is currently a growing issue in Africa, evidence of
+
+and discussions, respectively. Sections 5 deals with the implications
+
+this include, but not limited to the massive support of the CSR initia-
+
+of the study.
+
+tive from the African Peer Review Mechanism (Corrigan, 2014). Conceptualizing the concept of CSR in Africa, authors contend that the
+concept is of Western orientation (Visser & Tolhurst, 2010) and is
+
+2
+
+|
+
+M E TH OD O LO GY
+
+more tuned to the North (Western societies) than the South
+(Blowfield, 2005; Fox, 2004; Frynas, 2005; Utting & Abrahams,
+
+This systematic review focuses on publications discussing CSR in
+
+2003). According to Newell (2005), CSR conditions described in main-
+
+Ghana from 2006 to 2018 and presents the state of knowledge in
+
+stream CSR are nonexistent in developing countries. Hence, the
+
+the field. All the studies included in this paper were assembled as fol-
+
+impact of CSR in developing countries is often overlooked in support
+
+lows: First, we started our article search using a combination of major
+
+of Western‐driven goals (Margolis & Walsh, 2003). This led to the for-
+
+online databases: Business Source Complete (EBSCO), ABI/INFORM,
+
+mation of the south‐centered agenda with a focus on determining the
+
+Scopus, Web of Science, JSTOR, and Google Scholar databases. We
+
+potentials of CSR and the limiting factors that affect the practice in
+
+chose these databases for their comprehensive coverage and indexing
+
+the global South (Lund‐Thomsen, 2005). Although ongoing discussions
+
+of important business, management, and economics journals. Second,
+
+have commended the south‐centered CSR to be instrumental to CSR
+
+relying on key words and article titles, we made search strings to find
+
+maturity on the continent of Africa, authors argue that the concept
+
+articles. We identified relevant articles using key terms such as
+
+is yet to reach its full potential because of the haphazard focus of anal-
+
+“corporate social responsibility in developing countries,” “CSR in
+
+ysis, which creates a lack of emphasis on the relationship between
+
+developing countries,” “corporate social responsibility in Ghana,”
+
+CSR and its outcomes (context, development, and practices) in the
+
+“CSR in Ghana,” “corporate social responsibility in Africa,” and “CSR
+
+prevailing literature (Idemudia, 2011). Consequently, there is a strong
+
+in Africa.” As a result of the fact that formal search techniques keying
+
+call for the inclusion of southern perspective into the concept of
+
+the index terms or key words in electronic databases may overlook
+
+CSR to stipulate how the concept can contribute to sustainable devel-
+
+relevant studies, we also relied on the snowball search technique
+
+opment in Africa. To contribute to this gap, this paper seeks to zoom
+
+(Greenhalgh & Peacock, 2005) by searching the bibliographies of our
+
+into a specific developing country context (in this case Ghana) to
+
+studies for additional work of relevance. Also, because the paper
+
+understand the state of knowledge about CSR. This, therefore, war-
+
+focuses on Ghana, databases of universities were searched for specific
+
+rants the present review to consolidate what has been done so far
+
+relate papers.
+
+in Ghana to contribute to CSR development in Africa in as a whole.
+
+Overall, the search procedure produced a total of 147 papers, but a
+
+Besides, no systematic literature review on CSR has been conducted
+
+total of 113 papers published between 2006 and 2018 (marked with
+
+so far in Ghana. Hence, this systematic review focuses on publications
+
+asterisks (*) in the reference list) were eligible for inclusion in this
+
+discussing CSR in Ghana from 2006 to 2018 and presents the state of
+
+review (see Figure 1 for the distribution of the number of papers pub-
+
+knowledge in the field.
+
+lished per year). These papers had to meet the following criteria: (a)
+
+Specifically, the motivation of this paper is to situate the findings in
+
+the paper must directly analyze the issue of CSR in the context of
+
+the context prior synthesis of global CSR's literature, which contains
+
+Ghana, b) the study must be in English, c) the study must show the
+
+limited literature in Africa, especially sub‐Saharan Africa (see Aguinis
+
+method used, d) must report data analysis and findings and e) the
+
+& Glavas, 2012; Lee, 2008; Malik, 2015). To address the issue, three
+
+paper must mention the sector used. Finally, following literature (see
+
+basic questions inform our study. That is, from the Ghanaian context,
+
+Aguinis & Glavas, 2012; Lunenberg et al., 2008), we content analyzed
+
+which topics are over or under‐researched? Which methods drive
+
+each study for key findings, methods, and sectors. In terms of the
+
+existing studies in Ghana? Which sectors have received the most of
+
+nature of variables, basing on Aguinis and Glavas (2012), the study
+
+CSR research attention?
+
+adopted typology consisting of four key variables, namely, moderators,
+
+Our paper makes three significant contributions. First, we
+
+predictor (determinants and antecedents), mediators, and outcomes.
+
+develop a comprehensive review of the specific body of literature
+
+Finally, following Aguinis and Glavas (2012) and Lunenberg et al.
+
+on CSR in the context of Ghana and for that matter a developing
+
+(2008), we content analyzed each study for key findings, methods,
+
+country and situate our analysis within the broader CSR and man-
+
+and sectors. The results were organized using frequency tables and
+
+agement literature. Second, based on this review, we identify key
+
+charts to establish the scope and the direction of CSR's work on
+
+themes and insights about what has been done in Ghana to date
+
+Ghana within the selected time horizon.
+
+3
+
+DAMOAH ET AL.
+
+FIGURE 1
+
+3
+
+Number of publications per year
+
+RESULTS
+
+|
+
+of these issues and areas of CSR research in Ghana. In entirety, our
+analysis of the 113 CSR papers centered on 14 broad issues. Articles
+
+This subsection presents the findings of our systematic literature
+
+that could not be aligned to any of the issues were flagged as “other
+
+review as they emerged. First, we present and discuss the main
+
+issues.” In all, CSR research in Ghana revolved around the issue of
+
+thematic issues explored in the CSR literature in Ghana. Second, we
+
+CSR activities, practices, and implementation (as it constituted 20.4%
+
+discuss the sectors CSR researchers in Ghana have focused on. Third,
+
+of the sample). Issues such as CSR and community development
+
+we highlight the methodological approach adopted for CSR research in
+
+(10.6%), CSR and performance (11.5%), and CSR and perspective of
+
+Ghana. Fourth, we show the level of CSR authors' collaboration and
+
+stakeholders (10.6%) moderately dominate CSR research. One inter-
+
+their affiliated institutions, and finally, we zoom in to examine the level
+
+esting finding of our study is that although there is a sustained
+
+of analysis employed in CSR research in Ghana.
+
+research attention on human capital development in developing countries, research on issues such as CSR and women empowerment
+(0.9%), CSR and financial resource availability (0.9%), and CSR and
+
+3.1
+
+|
+
+Issues and areas explored
+
+labor practices (0.9) have marginally been examined in Ghana. These
+issues and areas of focus in Ghana are pertinent and more locally dis-
+
+Different from the principal preoccupation with concerns of con-
+
+tinguished and contextualized than the main research focus emerging
+
+sumers, employees, shareholders, and managers in the main domain
+
+from the mainstream CSR literature (e.g., wealth maximization and
+
+of CSR literature in developed countries (Jamali & Karam, 2018), our
+
+agency problems, firm reputation, financial performance, firm capabil-
+
+analysis shows that CSR research in Ghana has focused on a broader
+
+ities, operational efficiencies, and market outcomes; Aguinis & Glavas,
+
+range of stakeholders and issues. These issues include challenges of
+
+2012; Revelli & Viviani, 2015).
+
+CSR, CSR and waste management, CSR activities, practices and implementation, CSR and community development, CSR and performance,
+CSR and perspective of stakeholders, CSR and communication, CSR
+
+3.2
+
+|
+
+Sectors of CSR researches
+
+and compliance with the law and policy regulations, CSR awareness,
+CSR and women empowerment, CSR and financial resource availabil-
+
+The analysis of the reviewed papers indicate that CSR research in
+
+ity, and CSR and labor practices. Figure 2 gives a detailed presentation
+
+Ghana has been conducted in nine main sectors. These sectors include
+
+FIGURE 2
+
+Issues explored
+
+4
+
+DAMOAH ET AL.
+
+banking, mining, telecommunication, forestry, oil industry, tourism, hospitality, and construction sectors. Among these sectors, the mining and
+
+TABLE 1
+
+Distribution of analytical methods used
+
+Type of analysis
+
+Frequency
+
+Percentage
+
+banking sectors have witnessed significant CSR research (correspondExploratory analysis
+
+43
+
+27.92
+
+Again, the review shows that majority of papers analyzed examined
+
+Descriptive analysis
+
+27
+
+17.53
+
+CSR in Ghana in multiple sectors (this accounted for 33.6% of the total
+
+Regression analysis
+
+13
+
+8.44
+
+papers). Additionally, telecommunication sector, forestry sector, and
+
+Correlation
+
+12
+
+7.79
+
+the oil industry constituted approximately 13.3%, 1.8%, and 1.8%,
+
+Case study analysis
+
+11
+
+7.14
+
+respectively, and tourism, hospitality, and construction sectors consti-
+
+Content analysis
+
+6
+
+3.90
+
+Factor analysis
+
+5
+
+3.25
+
+Chi‐Square analysis
+
+4
+
+2.60
+
+Comparative analysis
+
+4
+
+2.60
+
+ANOVA
+
+3
+
+1.95
+
+Interpretive analysis
+
+3
+
+1.95
+
+ingly make up 31.9% and 15% of the papers reviewed, respectively).
+
+tuted 0.9% each of the studies examined. Figure 3 below gives a graphical presentation of the sectors CSR research has focused on Ghana.
+
+3.3
+
+|
+
+Methodological approaches
+
+Our analysis of the methodological approaches used in CSR studies in
+Ghana shows that various methods have been adopted to explore the
+
+Sample t test
+
+3
+
+1.95
+
+Hierarchical logistic regression
+
+2
+
+1.30
+
+SEM
+
+2
+
+1.30
+
+Action‐participatory based research
+
+1
+
+0.65
+
+(see Aguinis & Glavas, 2012), which indicates that qualitative method-
+
+Bivariate analysis
+
+1
+
+0.65
+
+ologies are less often employed. Our analysis shows that majority of
+
+Causal studies
+
+1
+
+0.65
+
+the papers adopted quantitative methodology such as correlation
+
+Classical experimental method
+
+1
+
+0.65
+
+analysis, factor and exploratory analysis, analysis of variance, and
+
+Conditional LCAPM model
+
+1
+
+0.65
+
+regression analysis. Case study and content analysis techniques were
+
+Cost estimation model
+
+1
+
+0.65
+
+Data environment analysis
+
+1
+
+0.65
+
+issues of CSR in Ghana. Interestingly, methodologies applied in CSR
+research in Ghana are consistent with the results of prior reviews
+
+some of the few qualitative methodologies used in CSR research in
+Ghana. Details of these methodologies and their proportions are presented in Table 1.
+
+3.4
+
+|
+
+Nature of author collaboration
+
+The nature of collaboration that exists among authors of the reviewed
+
+Dynamic panel model approach
+
+1
+
+0.65
+
+Epistemological
+
+1
+
+0.65
+
+Ethnographic approach
+
+1
+
+0.65
+
+Fixed effect model
+
+1
+
+0.65
+
+Inferential statistics
+
+1
+
+0.65
+
+Interactive model
+
+1
+
+0.65
+
+Literature review‐based approach
+
+1
+
+0.65
+
+MANOVA
+
+1
+
+0.65
+
+and three‐person authorship constitutes 33.6% and 17.7%, respec-
+
+Partial least square
+
+1
+
+0.65
+
+tively. Whereas four and five‐person authorship together make up
+
+Total
+
+154
+
+100.00
+
+6.2% of the sampled studies, six and seven‐person authorship orderly
+
+Abbreviations: ANOVA, analysis of variance; MANOVA, multivariate analysis of variance, SEM, Structural Equation Modeling; LCAPM, Liquidity‐
+adjusted Capital Asset Pricing Model
+
+studies is summarized in Table 2. It is revealed that single‐person
+authorship accounted for 33.6% of the papers understudied. Two
+
+pool 1.7% and 0.8% of the papers considered for this study. In conclusion, single and two authorship dominated CSR's research in Ghana.
+
+FIGURE 3 Distribution of sectors
+researched
+
+5
+
+DAMOAH ET AL.
+
+TABLE 2
+
+TABLE 3
+
+Nature of collaboration among authors
+
+Authors' institutions of affiliation
+
+Nature of collaboration
+
+Frequency
+
+Percentage
+
+Name of school
+
+Frequency Percentage
+
+Single authorship
+
+38
+
+33.6
+
+University of Ghana
+
+52
+
+21.4
+
+Two authorship
+
+38
+
+33.6
+
+20
+
+8.2
+
+Three authorship
+
+20
+
+17.7
+
+Kwame Nkrumah University of Science and
+Technology
+
+Four authorship
+
+7
+
+6.2
+
+University of Education, Winneba
+
+11
+
+4.5
+
+Jiangsu University
+
+10
+
+4.1
+
+Five authorship
+
+7
+
+6.2
+
+Six authorship
+
+2
+
+1.7
+
+Seven authorship
+
+1
+
+Total
+
+113
+
+3.5
+
+|
+
+0.8
+100
+
+Author institutions
+
+Although the study is based on CSR papers on Ghana, yet authors
+collaborate from different institutions in different countries. Of the
+113 papers, authors that are based on the University of Ghana
+dominated the sample constituting 21.4%, followed by Kwame
+Nkrumah University of Science and Technology 8.2%, and University
+of Education, Winneba, coming third with 4.5%. Table 3 represents
+the author's institution.
+
+University of Cape Coast
+
+10
+
+4.1
+
+Central University College, Accra
+
+9
+
+3.7
+
+University of Professional Studies
+
+7
+
+2.9
+
+University of Electronic Science and
+Technology of China
+
+6
+
+2.5
+
+Birmingham City University
+
+4
+
+1.6
+
+Cardiff University
+
+4
+
+1.6
+
+Northumbria University
+
+4
+
+1.6
+
+University College of Management Studies
+
+4
+
+1.6
+
+Christian Service University
+
+3
+
+1.2
+
+Ghana Institute of Management and Public
+Administration
+
+3
+
+1.2
+
+Lund University
+
+3
+
+1.2
+
+Queen's University
+
+3
+
+1.2
+
+University of Mines and Technology
+
+3
+
+1.2
+
+University of Colorado
+
+3
+
+1.2
+
+Here, we examine the level of analysis for CSR research in Ghana. We
+
+University of Leicester
+
+3
+
+1.2
+
+classified the level of analysis into institutional and organizational
+
+Accra Polytechnic
+
+2
+
+0.8
+
+levels. At the institutional level, we paid attention to whether the
+
+Aston University
+
+2
+
+0.8
+
+CSR research explores macrolevel, national, and/or supranational
+
+Bournemouth University
+
+2
+
+0.8
+
+Kumasi Polytechnic
+
+2
+
+0.8
+
+Leeds Beckett University
+
+2
+
+0.8
+
+Newmont Ghana Gold Ltd
+
+2
+
+0.8
+
+Sichuan Agricultural University
+
+2
+
+0.8
+
+nance; identity and organizational culture, mission, trade orientation,
+
+Tomas Bata University
+
+2
+
+0.8
+
+and business strategy motives; and primary stakeholders (Jamali &
+
+University of Alberta
+
+2
+
+0.8
+
+Karam, 2018). Our analysis shows that greater portion of the reviewed
+
+University of Dundee
+
+2
+
+0.8
+
+articles focused on organizational level (i.e., 95% of articles) using CSR
+
+University of Free State Business School
+
+2
+
+0.8
+
+as a predictor or outcome variable of an organizational activity. Our
+
+University of Ilorin
+
+2
+
+0.8
+
+University of Reading
+
+2
+
+0.8
+
+University of Technology, Sydney
+
+2
+
+0.8
+
+University of Western Ontario
+
+2
+
+0.8
+
+Aalborg University
+
+1
+
+0.4
+
+Abu Dhabi University
+
+1
+
+0.4
+
+Adventist Senior High School
+
+1
+
+0.4
+
+3.6
+
+|
+
+Level of analysis
+
+issues such as governance and financial system, and national business
+climate and operations, societal values and customs, and local ecosystems (Jamali & Karam, 2018). On the side of organizational level, we
+focused on whether the paper explores how CSR activities shape
+organizational level factors such as ownership, structure, or gover-
+
+analysis further indicated that very few papers (i.e., 4.4% of articles)
+explored CSR in Ghana at institutional level either as a predictor or
+outcome variable. Details of this analysis are presented in Table 4.
+
+4 | DISCUSSION AND FUTURE RESEARCH
+DIRECTIONS
+In terms of which themes have been over and/or under‐researched—
+research question 1—the results show that CSR practices in organizations dominated, CSR and organization related performance, and CSR
+and management followed. Although themes such as CSR and eco‐
+tourism and assurance were among the least researched issues, in
+Ghana, topic such as CSR tourism‐related issues appears popular in
+
+African University College of Communications 1
+
+0.4
+
+Agricultural Development Bank
+
+1
+
+0.4
+
+Anglia Ruskin University
+
+1
+
+0.4
+
+Ashesi University College
+
+1
+
+0.4
+(Continues)
+
+6
+
+DAMOAH ET AL.
+
+TABLE 3
+
+TABLE 3
+
+(Continued)
+
+Name of school
+
+(Continued)
+
+Frequency Percentage
+
+Name of school
+
+Frequency Percentage
+
+Brock University
+
+1
+
+0.4
+
+Wayne State University
+
+1
+
+Cape Coast Polytechnic
+
+1
+
+0.4
+
+Total
+
+243
+
+Central University of Technology
+
+1
+
+0.4
+
+Christ Apostolic University College
+
+1
+
+0.4
+
+Durban University of Technology
+
+1
+
+0.4
+
+TABLE 4
+
+0.4
+100
+
+A tabulation of level of researches and nature of variables
+
+Ejisuman Senior High
+
+1
+
+0.4
+
+Level of research
+
+Type of variables
+
+Frequency
+
+Percentage
+
+Forestry Research Institute of Ghana
+
+1
+
+0.4
+
+Organizational
+
+Outcome
+
+46
+
+40.7
+
+Ghana Baptists University College
+
+1
+
+0.4
+
+Organizational
+
+Predictor
+
+62
+
+54.9
+
+Ghana Nature Today
+
+1
+
+0.4
+
+Institutional
+
+Outcome
+
+2
+
+2.6
+
+Heritage Christian College
+
+1
+
+0.4
+
+Institutional
+
+Predictor
+
+3
+
+Ho Polytechnic
+
+1
+
+0.4
+
+Total
+
+Koforidua Technical University
+
+1
+
+0.4
+
+London School of Economics and Political
+Science
+
+1
+
+0.4
+
+Monash University
+
+1
+
+0.4
+
+Africa, such as Kenya and Uganda, tourism in Ghana is at its infant
+
+Pennsylvania State University
+
+1
+
+0.4
+
+stage, explaining why tourism CSR related activities are the least. Also,
+
+Royal Holloway University
+
+1
+
+0.4
+
+individual level themes such as CSR and leadership, among others are
+
+Saginaw Valley State University
+
+1
+
+0.4
+
+Saint Mary's University
+
+1
+
+0.4
+
+Southern University
+
+1
+
+0.4
+
+Spiritan University College
+
+1
+
+0.4
+
+has been one of the most researched sub‐sectors as regards CSR's
+
+Sunyani Polytechnic
+
+1
+
+0.4
+
+issues although this confirms extant trends in the literature, for exam-
+
+Swansea University
+
+1
+
+0.4
+
+ple, CSR and the sector in the United States (see Murawski, 2018;
+
+Takoradi Polytechnic
+
+1
+
+0.4
+
+Soana, 2011). One of the arguments that can be advanced is that
+
+Universiti Putra Malaysia
+
+1
+
+0.4
+
+although other sub‐sectors (e.g., agriculture sector) are the mainstay
+of the Ghanaian economy, yet with regard to skilled labor employment,
+
+113
+
+1.8
+100
+
+extant literature due to the globalization processes (see Adlwarth,
+2010, 2011). An implication of this is that, unlike countries in East
+
+currently emerging but are not being addressed in Ghana (Strand,
+2011).
+Consistent with the state of the Ghanaian economy, Ghana is driven
+by the service sector. So it is not surprising that the banking sub‐sector
+
+University for Development Studies
+
+1
+
+0.4
+
+University of Agder
+
+1
+
+0.4
+
+University of Bayreuth
+
+1
+
+0.4
+
+University of Bologna
+
+1
+
+0.4
+
+University of Bonn
+
+1
+
+0.4
+
+University of California
+
+1
+
+0.4
+
+However, among the current growing sub‐sectors of the economy
+
+University of Connecticut
+
+1
+
+0.4
+
+of Ghana is the telecommunication and the construction (real estate)
+
+University of Copenhagen
+
+1
+
+0.4
+
+sub‐sectors, yet in this review, they are among the under‐researched
+
+University of Delaware
+
+1
+
+0.4
+
+sectors. Lack of adequate research funding support to academics in
+
+University of Erlangen
+
+1
+
+0.4
+
+University of Manchester
+
+1
+
+0.4
+
+University of Pretoria
+
+1
+
+0.4
+
+University of Sharjah
+
+1
+
+0.4
+
+University of Warwick
+
+1
+
+0.4
+
+as structural equation modelling, logit, and probit regression on CSR's
+
+University of Wollongong
+
+1
+
+0.4
+
+studies on Ghana. Extant studies have also focused solely on cross‐
+
+Vaasa University of Applied Science
+
+1
+
+0.4
+
+sectional data.
+
+Wageningen University
+
+1
+
+0.4
+
+With regard to the level of analysis, unlike Aguinis and Glavas
+(2012) and Lunenberg et al. (2008), there is a significant gap in individ-
+
+Walden University
+
+1
+
+0.4
+
+Water Research Institute
+
+1
+
+0.4
+
+it is the service sector that is driving the economy, especially the financial institutions. Consequently, these sectors have received more
+research attention because they have organized structures and so most
+researchers have acquaintances in these firms (e.g., former or past students) who help them to obtain data, which makes it researchable.
+
+Ghana compared with their counterparts in the developing economies
+might account for uneven attention to sectors with regard to the state
+of CSR research in Ghana.
+In terms of methods, exploratory and descriptive analysis
+dominates. There is a low level of advanced statistical techniques such
+
+ual and institutional level CSR's analysis in Ghana. Both predictors,
+outcome studies, and moderation and mediation of CSR's outcome
+
+(Continues)
+
+relationship studies are lacking in CSR's studies on Ghana.
+
+7
+
+DAMOAH ET AL.
+
+Of the institution of author collaborations, scholars from the Uni-
+
+and/or supranational levels (Blasco & Zølner, 2010; Jamali & Neville,
+
+versity of Ghana lead the studies. This confirms many characteristics
+
+2011; Mitra, 2012). Second, there is a gap in theory and conceptual
+
+about the University of Ghana. First, the University of Ghana is the
+
+framework concerning CSR activities in Ghana. Third, CSR's studies
+
+premier university in Ghana. Second, the University of Ghana is the
+
+that integrate different disciplines (e.g., marketing, management infor-
+
+largest University in Ghana. By ranking, the University of Ghana is
+
+mation systems, operations, and strategic management) are currently
+
+the leading among universities in Ghana. The results show that
+
+lacking. Consequently, a fuller understanding of CSR is lacking regard-
+
+organizational level CSR performance related topics, including CSR
+
+ing issues in Ghana.
+
+and management as well as CSR practices, have received much
+research attention.
+Overall how CSR is organized in the advanced countries (e.g., the
+United States and the United Kingdom) is not the same in Africa.
+The results from the review show that public policy, academic, and
+practical interests in CSR on Ghana are being enhanced. This collaborates with similar heightened interest in the topic in Africa in general.
+According to Cheruiyot and Maru (2012), the sustainable development
+agenda by the United Nations across the world, including Africa, is one
+of the key factors contributing to the enhanced interest in CSR in
+Africa. Following Idemudia (2014) research contributions from different disciplines (e.g., geography, sociology, and political science) to
+
+5
+
+CO NC LUSIO N
+
+|
+
+Although sectoral and individual level analysis seems so crucial in the
+field, current studies on Ghana deal with more of organizational level
+analysis to the neglect of the other two. Although hospitality is
+booming in Ghana because of the globalization process, few papers
+have focused on tourism CSR and CSR and the telecommunication
+companies. From a scholarly viewpoint, current studies on CSR look
+too descriptive, and therefore, future studies must seek to employ
+advanced statistics to validate existing findings.
+
+CSR in Africa is another contributory factor.
+Although the results in the study shows that CSR's studies from
+
+5.1
+
+|
+
+Contribution of the paper
+
+Ghana is being advanced, yet it is identified that in Africa in general,
+South Africa dominates CSR's studies (see Idemudia, 2014; Muthuri,
+2013; Visser, 2008).
+In terms of issues explored from the Ghanaian studies, the findings
+reflect both CSR debates in Africa and to a lesser extent globally. In
+Africa in general, the following debates are identified: CSR and public
+policy in sub‐Saharan Africa (Samy, Ogiri, & Bampton, 2015), CSR's
+agenda of multinational enterprises' in Africa (Gruber & Schlegelmilch,
+2015); CSR and sustainable development in sub‐Saharan Africa (Vig,
+2016); CSR disclosure in the developed and the developing countries
+(Ali, Frynas, & Mahmood, 2017); CSR's processes, concepts, and issues
+(Hinson & Ndhlovu, 2011); CSR and human rights issues in corporate
+bodies (Cheruiyot & Maru, 2014) (Kimeli Cheruiyot & Chemngetich
+Maru, 2014); antecedents of CSR (GTZ, 2009); and CSR and development (Idemudia, 2014). Following Figure 2, issues such as CSR and
+compliance of law, which emerged from the Ghanaian reviews, collaborate with Cheruiyot and Maru (2014) in Africa. In addition, CSR's
+practices and activities, which emerged from the issues explored on
+Ghana, also collaborate with Hinson and Ndhlovu (2011) in Africa.
+Though studies such as CSR disclosure in the developed and the
+
+The current review complements and builds on extant literature with
+regard to the CSR's review on countries in Africa. The paper makes
+three contributions. First, although CSR's review papers continues to
+flourish (see Aguinis & Glavas, 2012; Lunenberg et al., 2008), extant
+review has overlooked related reviews from countries in Africa, especially, Ghana, one of the countries in Africa being described as the
+beacon of Africa's democracy. Consequently, a full understanding of
+various CSR's studies that offer a comprehensive state of knowledge
+in the field is currently a challenge. The present review, therefore, in
+part fills a significant gap in the extant literature on the topic.
+Second, by developing a comprehensive review of the specific
+body of literature on CSR in the context of Ghana and for that matter,
+a developing country and situating the study within the broader CSR
+and management literature create a significant opportunity for
+researchers interested in African issues to work with this review in
+the light of future studies. Finally, by exploring the topic from the perspective of Ghana, the findings have enhanced our understanding
+from one of the understudied and under‐researched geographical
+context.
+
+developing countries are connected to both Africa and the global community, (Ali et al., 2017), yet new debates such as CSR and corporate
+
+5.2
+
+|
+
+Policy implications
+
+citizenship, CSR and business ethics, and CSR and corporate social
+performance, which are being explored globally, are yet to receive
+research attention in Ghana.
+Some important gaps identified through this review, which set the
+tune for further studies, include first the lacuna in the institutional
+level analysis of CSR. At the institutional level (i.e., CSR research at
+macrolevel, national, and/or supranational levels), further research is
+
+With most other sectors of Ghana presently growing (e.g., construction and the real‐estate sub‐sectors), central governments in
+sub‐Saharan Africa, especially Ghana, must collaborate with the
+universities to deepen CSR's studies across industries. This can be
+made possible by making funds available for research and tying
+specific funds to CSR's specific sector research.
+
+warranted, for example, to flash out how CSR activities interplays with
+different institutional configurations (e.g., local ecosystem) or intersect
+
+ORCID
+
+with specific cultural traditions and norms at the macrolevel, national,
+
+Augustine Awuah Peprah
+
+https://orcid.org/0000-0002-6497-9161
+
+8
+
+RE FE R ENC E S
+*Abane, S. (2016). Employee perceptions of corporate social responsibility
+and organisational citizenship behaviours: A comparative Ghanaian
+(Doctoral dissertation, University of Ghana).
+*Abdulai Mahmoud, M., & Hinson, R. E. (2012). Market orientation, innovation and corporate social responsibility practices in Ghana's
+telecommunication sector. Social Responsibility Journal, 8(3), 327–346.
+https://doi.org/10.1108/17471111211247910
+*Abugre, J. B., & Nyuur, R. B. (2015). Organizations' commitment to and communication of CSR activities: Insights from Ghana. Social Responsibility
+Journal, 11(1), 161–178. https://doi.org/10.1108/SRJ‐06‐2013‐0066
+
+DAMOAH ET AL.
+
+*Amidu, M., Kwakye, T. O., Harvey, S., & Yorke, S. M. (2016). Do firms
+manage earnings and avoid tax for corporate social responsibility? Journal of Accounting and Taxation, 8(2), 11–27.
+*Amin, P. A., & Cudjoe, A. G. (2015). The influence of CSR awareness on
+consumer purchase decision of a telecommunication network in Ghana
+(A case of La Nkwantanag Madina Municipality). International Journal of
+Scientific & Technology Research, 4(02), 8–16.
+*Amoah, M., & Boateng, R. K. (2014). Addressing illegal logging in Ghana:
+Do value, social identity, and corporate social responsibility theories
+matter? International Forestry Review, 16(6), 524–536. https://doi.org/
+10.1505/146554814814095285
+
+*Abukari, A. J. (2014). Corporate social responsibility reporting in the telecommunications sector in Africa (Doctoral dissertation, University of
+Ghana).
+
+*Amoako, G. K., Melody Agbola, R., Dzogbenuku, R. K., & Sokro, E. (2013).
+CSR and education: The Ghanaian and African perspective. In
+Education and corporate social responsibility international perspectives
+(pp. 185–222). United Kingdom: Emerald Group Publishing Limited.
+
+*Abukari, A. J., & Abdul‐Hamid, I. K. (2018). Corporate social responsibility
+reporting in the telecommunications sector in Ghana. International
+Journal of Corporate Social Responsibility, 3(1), 2. https://doi.org/
+10.1186/s40991‐017‐0025‐9
+
+*Amo‐Mensah, M., & Tench, R. (2015). In the club but out of the game.
+Evaluation of Ghana club 100 CSR communication. Trípodos,
+2015(37), 13–34.
+
+*Adeneye, Y. B., & Ahmed, M. (2015). Corporate social responsibility and
+company performance. Journal of Business Studies Quarterly, 7(1), 151.
+
+*Ampofo, D. (2017). The impact of corporate social responsibility on firms'
+performance: A case of telecommunication industry in Ghana (Doctoral
+dissertation, University of Education, Winneba).
+
+*Adjei, H., Baffoe, R. S., Amofa, A. K., & Agbamu, P. G. (2014). Assessing the
+corporate social responsibility activities of Atwima Kwanwoma Rural
+Bank limited and its impact on the communities it operates. European
+Journal of Business and Innovation Research, 2(4), 36–47.
+
+*Amponsah‐Tawia, K., & Dartey‐Baah, K. (2014). Corporate social responsibility in Ghana. International Journal of Business and Social Science,
+2(17), 107–112.
+
+Adlwarth, W. (2010). Corporate social responsibility–customer expectations and behaviour in the tourism sector. In Trends and issues in
+global tourism 2010 (pp. 101–109). Berlin, Heidelberg: Springer.
+https://doi.org/10.1007/978‐3‐642‐10829‐7_13
+Adlwarth, W. (2011). Corporate social responsibility in tourism–consumer
+requests and the image of suppliers. In Trends and issues in global tourism 2011 (pp. 293–300). Berlin, Heidelberg: Springer. https://doi.org/
+10.1007/978‐3‐642‐17767‐5_28
+*Adu, I. N., Muah, P., Asiedu, M. A., Pobbi, M., & Gidisu, M. (2018). Linking
+corporate social responsibility to financial performance of telecommunication firms in Ghana. African Journal of Applied Research, 4(2), 1–15.
+*Adu‐Boahen, K., Barima, A. K., Nana, I. J., Emmanuel, M. A., Kwaku, K. K.,
+& Ceasar, J. A. (2014). Assessment of management attitudes on corporate social responsibility in Ghana: A case of some selected companies
+in the Tema Metropolis. European Journal of Business and Social Science,
+2(11), 102–113.
+*Afrane, S. K., & Adjei‐Poku, B. (2013). Institutionalising corporate social
+responsibility for local community development: Processes and outcomes. International Journal of Business and Social Science, 4(13),
+255–265.
+Aguinis, H., & Glavas, A. (2012). What we know and don't know about corporate social responsibility: A review and research agenda. Journal of
+Management, 38(4), 932–968. https://doi.org/10.1177/01492063114
+36079
+*Ahenkora, K., Banahene, S., & Quartey, J. (2013). Societal value antecedent of corporate social responsibility and business strategy. Journal of
+Management and Strategy, 4(4), 58–64.
+Ali, W., Frynas, J. G., & Mahmood, Z. (2017). Determinants of corporate
+social responsibility (CSR) disclosure in developed and developing
+countries: A literature review. Corporate Social Responsibility and
+Environmental Management, 24(4), 273–294. https://doi.org/10.1002/
+csr.1410
+*Alomenu, C., Effah, E. A., & Kutu‐Adu, S. G. (2015). Do corporate social
+responsibility activities of Ghanaian banks influence corporate
+Clients'patronage? Journal of Entrepreneurship and Business, 3(2),
+50–63.
+
+*Amponsah‐Tawiah, K., & Dartey‐Baah, K. (2012). CSR‐OHS: Expert views,
+analysis and commentary on the two potent contrivances towards
+achieving MDGs. Journal of Global Responsibility, 3(2), 224–234.
+https://doi.org/10.1108/20412561211260520
+*Amponsah‐Tawiah, K., & Dartey‐Baah, K. (2016). Corporate social responsibility in Ghana: A sectoral analysis. In Corporate social responsibility in
+sub‐Saharan Africa (pp. 189–216). Cham: Springer.
+*Amponsah‐Tawiah, K., Dartey‐Baah, K., & Osam, K. (2015). Turning
+potential collision into cooperation in Ghana's oil industry. Society and
+Business Review, 10(2), 118–131. https://doi.org/10.1108/SBR‐12‐
+2014‐0059
+*Amponsah‐Tawiah, K., Leka, S., Jain, A., Hollis, D., & Cox, T. (2014). The
+impact of physical and psychosocial risks on employee well‐being and
+quality of life: The case of the mining industry in Ghana. Safety Science,
+65, 28–35. https://doi.org/10.1016/j.ssci.2013.12.002
+*Andrews, N. (2016). Challenges of corporate social responsibility (CSR) in
+domestic settings: An exploration of mining regulation vis‐à‐vis CSR in
+Ghana. Resources Policy, 47, 9–17. https://doi.org/10.1016/j.
+resourpol.2015.11.001
+*Anku‐Tsede, O., & Deffor, E. W. (2014). Corporate responsibility in
+Ghana: An overview of aspects of the regulatory regime. Business and
+Management Research, 3(2), 31.
+*Anlesinya, A., Ahinsah, J., Bawa, F., Appoh, E. W., & Bukari, Z. (2014). The
+effect of corporate social responsibility on financial performance of
+MTN Ghana Limited. International Journal of Thesis Projects and
+Dissertations, 2(1), 62–69.
+*Ansah, M. O. (2013). Corporate social responsibility in Ghana: A
+comparative analysis and business imperative. International Review of
+Management and Marketing, 3(4), 184–189.
+*Ansong, A. (2017). Corporate social responsibility and firm performance
+of Ghanaian SMEs: The role of stakeholder engagement. Cogent Business & Management, 4(1), 1333704.
+*Appiah, K. O., Amankwah, M. A., & Adu Asamoah, L. (2016). Online corporate social responsibility communication: An emerging country's
+perspective. Journal of Communication Management, 20(4), 396–411.
+https://doi.org/10.1108/JCOM‐06‐2015‐0048
+
+DAMOAH ET AL.
+
+*Apronti, P. (2017). Corporate social responsibility and sustainable community development. A case study of Anglogold Ashanti, Adieyie and
+Teberebie, Ghana (Doctoral dissertation).
+*Arko, B. (2013). Corporate social responsibility in the large scale gold mining industry in Ghana. Journal of Business and Retail Management
+Research, 8(1), 81–90.
+*Armah, F. A., Obiri, S., Yawson, D. O., Afrifa, E. K., Yengoh, G. T., Olsson, J.
+A., & Odoi, J. O. (2011). Assessment of legal framework for corporate
+environmental behaviour and perceptions of residents in mining communities in Ghana. Journal of Environmental Planning and Management,
+54(2), 193–209. https://doi.org/10.1080/09640568.2010.505818
+*Asamoah, E. S. (2015). The effect of corporate social responsibility on the
+competitiveness of firms in the mobile telecommunication industry in
+Ghana. Ekonomika a Management, (4).
+*Asase, M., Yanful, E. K., Mensah, M., Stanford, J., & Amponsah, S. (2009).
+Comparison of municipal solid waste management systems in Canada
+and Ghana: A case study of the cities of London, Ontario, and Kumasi,
+Ghana. Waste Management, 29(10), 2779–2786. https://doi.org/
+10.1016/j.wasman.2009.06.019
+*Baba Abugre, J. (2014). Managerial role in organizational CSR: Empirical
+lessons from Ghana. Corporate Governance, 14(1), 104–119. https://
+doi.org/10.1108/CG‐10‐2011‐0076
+*Bankas, M. A. (2010). Corporate social responsibility, a tool in creating
+corporate brand awareness: A case study of the telecommunication
+industry in Ghana (Doctoral dissertation).
+Bhattacharya, C. B., & Sen, S. (2004). Doing better at doing good: When, why,
+and how consumers respond to corporate social initiatives. California
+Management Review, 47(1), 9–24. https://doi.org/10.2307/41166284
+*Bill, D. A. (2012). Corporate social responsibility (CSR): An exploration of
+chained and non‐chained hotels in Ghana. Unpublished master's thesis.
+Netherlands: Wageningen University.
+Blasco, M., & Zølner, M. (2010). Corporate social responsibility in Mexico
+and France: Exploring the role of normative institutions. Business &
+Society, 49, 216–251. https://doi.org/10.1177/0007650307309434
+Blowfield, M. (2005). Corporate social responsibility: Reinventing the
+meaning of development? International Affairs, 81(3), 515–524.
+Blowfield, M., & Frynas, J. G. (2005). Editorial setting new agendas: Critical
+perspectives on corporate social responsibility in the developing world.
+International Affairs, 81(3), 499–513. https://doi.org/10.1111/j.1468‐
+2346.2005.00465.x
+*Boafo, N. D., & Kokuma, D. A. (2015). The impact of corporate social responsibility on organisational performance: A case study of Vodafone Ghana
+Limited. The International Journal of Business & Management, 3(5), 26.
+*Boafo, N. D., Kokuma, D. A., & Arthur, G. (2015). Impact of mobile number
+portability on service delivery in the mobile telecommunication industry in
+Ghana. Kumasi: Case Study of Bharti Airtel Ghana Limited. Developing Country Studies, 5(6), 156–159
+*Boateng, F. (2017). Corporate social responsibility in the Ghanaian mining
+industry. (Doctoral dissertation, Walden University).
+*Brew, Y., Junwu, C., & Addae‐Boateng, S. (2015). Corporate social responsibility activities of mining companies: The views of the local
+communities in Ghana. American Journal of Industrial and Business Management, 5(06), 457–465. https://doi.org/10.4236/ajibm.2015.56045
+Carroll, A. B., & Shabana, K. M. (2010). The business case for corporate
+social responsibility: A review of concepts, research and practice. International Journal of Management Reviews, 12(1), 85–105. https://doi.
+org/10.1111/j.1468‐2370.2009.00275.x
+Cheruiyot, T. K., & Maru, L. C. (2012). Employee social responsibility practices and outcomes in Kenya's tourist hotels. African Journal of
+
+9
+
+Economic and Management Studies, 3(1), 2341. https://doi.org/
+10.1108/20400701211197267
+Cheruiyot, T. K., & Maru, L. C. (2014). Corporate human rights social
+responsibility and employee job outcomes in Kenya. International
+Journal of Law and Management, 56(2), 152–168. https://doi.org/
+10.1108/IJLMA‐01‐2013‐0002
+*Chou, J (2014). Sustainable development or the resource curse? The Role
+of CSR at Newmont's Ahafo Mine in Ghana (Masters thesis, Saint
+Mary's university).
+Corrigan, T. (2014). ‘Good citizens’: Corporate social responsibility in
+Africa. SAIIA Policy Briefing, 103.
+*Dagbanja, D. N. (2012). Human rights, mineral rights and corporate social
+responsibility in Ghana: Legal and policy analyses. Ghana Mining
+Journal, 13(1), 67–76.
+*Diallo, A., & Ewusie, N. B. (2011). Corporate social responsibility and
+stakeholder management in Unilever Ghana Limited. Unpublished master thesis, school of management, Blekince Tekniska Hogskola.
+*Duduchoge, S., Yao, H. X., Ampimah, B. C., & Harvim, P. (2017). A corporate social responsibility of engineering the liquidity‐adjusted capital
+asset pricing modelling sub‐Sahara Africa: Evidence from Ghana. International Journal of Engineering Research in Africa, 28, 199–209. Trans
+Tech Publications
+*Ebo Hinson, R. (2011). Online CSR reportage of award‐winning versus
+non award‐winning banks in Ghana. Journal of Information, Communication and Ethics in Society, 9(2), 102–115. https://doi.org/10.1108/
+14779961111148622
+*Ebo Hinson, R., & Kodua, P. (2012). Examining the marketing‐corporate social
+responsibility nexus. International Journal of Law and Management, 54(5),
+332–344. https://doi.org/10.1108/17542431211264223
+*Egri, C. P., & Ralston, D. A. (2008). Corporate responsibility: A review of
+international management research from 1998 to 2007. Journalof International Management, 14, 319–339.
+*Eshun, P. A., Mireku‐Gyimah, D., & Yakubu, I. (2012). Social responsibility
+cost estimation model for mineral investment in Ghana. Asian Journal of
+Business and Management Sciences, 1(1), 173–188.
+Fox, T. (2004). Corporate social responsibility and development: In quest of
+an agenda. Development, 47(3), 29–36. https://doi.org/10.1057/palgrave.development.1100064
+*Fragouli, E., & Danyi, A. Y. (2015). Promoting local acceptability of international oil companies (IOCS) through corporate social responsibility (CSR):
+The case of Tullow Oil in Ghana. Financial Risk and Management Reviews,
+1(1), 27–52. https://doi.org/10.18488/journal.89/2015.1.1/89.1.27.52
+*Frederiksen, T. (2017). Corporate social responsibility and political settlements in the mining sector in Ghana, Zambia and Peru. ESID working
+paper no 74. Manchester: Effective States and Inclusive Development
+Research Centre, The University of Manchester. https://doi.org/
+10.2139/ssrn.2893134
+*Frimpong, E., Adjei, H., & Poku, K. (2014). The management of corporate
+social responsibility for competitive advantage: A case study of
+Bosomtwe Rural Bank. European Journal of Business and Innovation
+Research, 2(4), 1–13.
+Frynas, J. G. (2005). The false developmental promise of corporate social
+responsibility: Evidence from multinational oil companies. International
+Affairs, 81(3), 581–598. https://doi.org/10.1111/j.1468‐2346.2005.
+00470.x
+Frynas, J. G., & Stephens, S. (2015). Political corporate social responsibility:
+Reviewing theories and setting new agendas. International Journal of
+Management Reviews, 17(4), 483–509. https://doi.org/10.1111/
+ijmr.12049
+
+10
+
+DAMOAH ET AL.
+
+*Garvin, T., McGee, T. K., Smoyer‐Tomic, K. E., & Aubynn, E. A. (2009).
+Community–company relations in gold mining in Ghana. Journal of
+Environmental Management, 90(1), 571–586. https://doi.org/10.1016/
+j.jenvman.2007.12.014
+
+Jamali, D., & Neville, B. (2011). Convergence versus divergence of CSR in
+developing countries: An embedded multi‐layered institutional lens.
+Journal of Business Ethics, 102(4), 599–621. https://doi.org/10.1007/
+s10551‐011‐0830‐0
+
+*Gifford, B., Kestler, A., & Anand, S. (2010). Building local legitimacy into
+corporate social responsibility: Gold mining firms in developing nations.
+Journal of World Business, 45(3), 304–311. https://doi.org/10.1016/j.
+jwb.2009.09.007
+
+*Jenkins, H., & Obara, L. (2006). Corporate social responsibility (CSR) in the
+mining industry—The risk of community dependency. Belfast, Northern
+Ireland: Queen's University Belfast.
+
+Greenfield, W. M. (2004). In the name of corporate social responsibility.
+Business
+Horizons,
+47(1),
+19–28.
+https://doi.org/10.1016/j.
+bushor.2003.11.004
+
+*Julian, S. D., & Ofori‐dankwa, J. C. (2013). Financial resource availability
+and corporate social responsibility expenditures in a sub‐Saharan
+economy: The institutional difference hypothesis. Strategic Management Journal, 34(11), 1314–1330. https://doi.org/10.1002/smj.2070
+
+Greenhalgh, T., & Peacock, R. (2005). Effectiveness and efficiency of
+search methods in systematic reviews of complex evidence: Audit of
+primary sources. British Medical Journal, 331(7524), 1064–1065.
+https://doi.org/10.1136/bmj.38636.593461.68
+
+*Kasum, A. S., Aveh, K. F., & Salman, R. T. (2016). Corporate social responsibilities (CSR): Perceptions of Foreign Corporation in Ghana. Issue in
+Social and Environmental Accounting, 10(2), 21. https://doi.org/
+10.22164/isea.v10i2.162
+
+Gruber, V., & Schlegelmilch, B. B. (2015). MNEs' regional headquarters and
+their CSR agenda in the African context. International Marketing Review,
+32(5), 576–602. https://doi.org/10.1108/IMR‐03‐2014‐0100
+GTZ (2009). Corporate social responsibility in sub‐Saharan Africa: A survey on
+promoting and hindering factors. Pretoria, SA: GTZ (GmbH).
+Gugler, P., & Shi, J. Y. (2009). Corporate social responsibility for developing
+country multinational corporations: Lost war in pertaining global competitiveness? Journal of Business Ethics, 87(1), 3–24. https://doi.org/
+10.1007/s10551‐008‐9801‐5
+*Hilson, A. (2014). Resource enclavity and corporate social responsibility in
+sub‐Saharan Africa: The case of oil production in Ghana (Doctoral dissertation, Aston University).
+*Hilson, G. (2007). Championing the rhetoric? Corporate social responsibility in Ghana's mining sector. Greener Management International, (53).
+*Hilson, G. (2011). Inherited commitments: Do changes in ownership affect
+corporate social responsibility (CSR) at African gold mines? African
+Journal of Business Management, 5(27), 10921–10939.
+*Hinson, E., Renner, A., & van Zyl, H. (2016). Bank customers' preferences
+and responses to corporate social responsibility (CSR) initiatives in
+Ghana. African Journal of Business Ethics, 10(1). https://doi.org/
+10.15249/10‐1‐107
+*Hinson, R., Boateng, R., & Madichie, N. (2010). Corporate social responsibility activity reportage on bank websites in Ghana. International
+Journal of Bank Marketing, 28(7), 498–518. https://doi.org/10.1108/
+02652321011085176
+*Hinson, R. E., & Ndhlovu, T. P. (2011). Conceptualizing corporate social
+responsibility (CSR) and corporate social investment (CSI): The South
+African context. Social Responsibility Journal, 7(3), 332–346. https://
+doi.org/10.1108/17471111111154491
+*Hope, A., & Kwarteng, A. (2014). CSR and sustainable development in the
+mining industry: The case of Newmont Ghana gold. Presented at Corporate Responsibility Research Conference at University of Leeds.
+Idemudia, U. (2011). Corporate social responsibility and developing countries: Moving the critical CSR research agenda in Africa forward.
+Progress in Development Studies, 11(1), 1–18. https://doi.org/10.1177/
+146499341001100101
+Idemudia, U. (2014). Corporate social responsibility and development in
+Africa: Issues and possibilities. Geography Compass, 8(7), 421–435.
+https://doi.org/10.1111/gec3.12143
+*Issifu, A. K. (2016). Corporate responsibility in peace building, conflict prevention and development: The role of the mining sector in Ghana.
+Journal of Interdisciplinary Conflict Science, 2(2), 2.
+Jamali, D., & Karam, C. (2018). Corporate social responsibility in developing
+countries as an emerging field of study. International Journal of Management Reviews, 20(1), 32–61. https://doi.org/10.1111/ijmr.12112
+
+Kimeli Cheruiyot, T., & Chemngetich Maru, L. (2014). Corporate human
+rights social responsibility and employee job outcomes in Kenya. International Journal of Law and Management, 56(2), 152–168. https://doi.
+org/10.1108/IJLMA‐01‐2013‐0002
+*Kofi, H., & Fosu, E. (2017). Making corporate social responsibility work:
+Do rural and community banks (RCBs) in Ghana care at all? The Qualitative Report, 22(11), 2904–2925.
+Kolk, A., & Lenfant, F. (2010). MNC reporting on CSR and conflict in
+Central Africa. Journal of Business Ethics, 93(2), 241–255. https://doi.
+org/10.1007/s10551‐009‐0271‐1
+Kolk, A., & Van Tulder, R. (2010). International business, corporate social
+responsibility and sustainable development. International Business Review,
+19(2), 119–125. https://doi.org/10.1016/j.ibusrev.2009.12.003
+Kotler, P., & Lee, N. (2005). Corporate social responsibility. Hoboken, New
+Jersey: John Wiley & Sons, Inc..
+*Koutra, C., & Edwards, J. (2012). Capacity building through socially
+responsible tourism development: A Ghanaian case study. Journal of
+Travel
+Research,
+51(6),
+779–792.
+https://doi.org/10.1177/
+0047287512451141
+*Kuada, J., & Hinson, R. E. (2012). Corporate social responsibility (CSR) practices of foreign and local companies in Ghana. Thunderbird International
+Business Review, 54(4), 521–536. https://doi.org/10.1002/tie.21481
+*Kühn, A. L., Stiglbauer, M., & Fifka, M. S. (2018). Contents and
+determinants of corporate social responsibility website reporting in
+sub‐Saharan Africa: A seven‐country study. Business & Society, 57(3),
+437–480. https://doi.org/10.1177/0007650315614234
+Lee, M. D. P. (2008). A review of the theories of corporate social responsibility: Its evolutionary path and the road ahead. International Journal of
+Management Reviews, 10(1), 53–73. https://doi.org/10.1111/j.1468‐
+2370.2007.00226.x
+Lichtenstein, D. R., Drumwright, M. E., & Braig, B. M. (2004). The effect of
+corporate social responsibility on customer donations to corporate‐
+supported nonprofits. Journal of Marketing, 68(4), 16–32. https://doi.
+org/10.1509/jmkg.68.4.16.42726
+*Lichtenstein, S., Badu, E., Owusu‐Manu, D. G., John Edwards, D., & Holt,
+G. D. (2013). Corporate social responsibility architecture and project
+alignments: A study of the Ghanaian construction industry. Journal of
+Engineering, Design and Technology, 11(3), 334–353. https://doi.org/
+10.1108/JEDT‐09‐2012‐0041
+Luetkenhorst, W. (2004). Corporate social responsibility and the development agenda. Intereconomics, 39(3), 157–166. https://doi.org/
+10.1007/BF02933583
+Lund‐Thomsen, P. (2005). Corporate accountability in South Africa: The
+role of community mobilizing in environmental governance.
+
+DAMOAH ET AL.
+
+International Affairs, 81(3), 619–633. https://doi.org/10.1111/j.1468‐
+2346.2005.00472.x
+*Lunenberg, K., Gosselt, J. F., & De Jong, M. D. (2016). Framing CSR fit:
+How corporate social responsibility activities are covered by news
+media. Public Relations Review, 42(5), 943–951. https://doi.org/
+10.1016/j.pubrev.2015.11.016
+Maignan, I., & Ralston, D. (2002). Corporate social responsibility in Europe
+and the U.S.: Insights from business' self‐presentations. Journal of International Business Studies, 33(3), 497–514.
+Malik, M. (2015). Value‐enhancing capabilities of CSR: A brief review of
+contemporary literature. Journal of Business Ethics, 127(2), 419–438.
+https://doi.org/10.1007/s10551‐014‐2051‐9
+*Marabello, S., & Bolzani, D. (2017). Migrants' engagement in CSR: The
+case of a Ghanaian migrants' transnational social enterprise. In Development‐oriented corporate social responsibility: Volume 1 (pp. 113–129).
+London: Routledge.
+*Mares, R. (2012). From charity to institutional development: Reflections
+on Newmont's CSR strategies and conflict‐avoidance in Ghana. Human
+Rights and Conflict: Essays in Honour of Bas de Gaay Fortman, eds.
+Ineke Boerefijn, Ronald Janse, Intersentia
+*Marfo, E. (2007). Institutionalizing citizen participation and community
+representation in natural resource management: Lessons from the
+social responsibility agreement negotiation in Ghana. Community Development Journal, 43(4), 398–412. https://doi.org/10.1093/cdj/bsm028
+*Marfo, E. O., Amoako, K. O., & Amaning, N. (2014). Corporate social
+responsibilities as determinant of human resource management
+(HRM) reporting for MNCS in emerging economies. British Journal of
+Economics, Finance and Management Sciences, 9(2), 24–45.
+*Marfo, E. O., Chen, L., & Xuhua, H. (2015). The industrial differences of
+corporate social responsibility (CSR) reporting: An empirical study of
+listed firms in Ghana. International Journal of Academic Research in
+Business and Social Sciences, 5(8), 313–331.
+Margolis, J. D., & Walsh, J. P. (2003). Misery loves companies: Rethinking
+social initiatives by business. Administrative Science Quarterly, 48(2),
+268–305. https://doi.org/10.2307/3556659
+*McCarthy, L. (2017). Empowering women through corporate social
+responsibility: A feminist Foucauldian critique. Business Ethics Quarterly, 27(4), 603–631. https://doi.org/10.1017/beq.2017.28
+McWilliams, A., Siegel, D., & Wright, P. (2006). Corporate social responsibility: Strategic implications. Journal of Management Studies, 43(1),
+1–18. https://doi.org/10.1111/j.1467‐6486.2006.00580.x
+*Mensah, D. R., Yensu, J., & Atuilik, D. A. (2017). Building brand equity
+through the influence of corporate social responsibility (CSR): A case
+study of Hollard Insurance‐Kumasi. Journal of Management Research,
+9(1), 145–163. https://doi.org/10.5296/jmr.v9i1.10108
+*Mensah H. K. (2015). An exploratory study of corporate social responsibility practices among rural and community banks in Ghana. Doctoral
+Dissertation, Kwame Nkrumah University of Science and Technology
+*Mensah, V. (2009). The role of corporate social responsibility on sustainable development: A case study of the mining community in the Obuasi
+municipality (Master's thesis, Universitetet i Agder: University of
+Agder).
+
+11
+
+Murawski, T. (2018). CSR in American banking sector. Copernican Journal of
+Finance & Accounting, 7(1), 35–50. https://doi.org/10.12775/
+CJFA.2018.003
+Muthuri, J. N. (2013). Corporate social responsibility in Africa: Definition,
+issues and process. In T. R. Lituchy, B. J. Punnett, & B. B. Puplampu
+(Eds.), Management in Africa: Macro and micro perspective (pp. 90–111).
+New York and London: Routledge.
+*Ndzibah, E. (2009). CSR in Ghana? Diversity should not mean dumping.
+Management of Environmental Quality: An International Journal, 20(3),
+271–277. https://doi.org/10.1108/14777830910950667
+Newell, P. (2005). Citizenship, accountability and community: The limits of
+the CSR agenda. International Affairs, 81(3), 541–557. https://doi.org/
+10.1111/j.1468‐2346.2005.00468.x
+*Nkrumah, F. (2013). Corporate social responsibility among small and
+medium enterprises in Ghana (Doctoral dissertation, University of
+Ghana).
+*Ntiamoah, E. B., Egyiri, P. O., & Kwamega, M. (2014). Corporate social
+responsibility awareness, firm commitment and organizational performance. Journal of Human Resource and Sustainability Studies, 2(02),
+91–101. https://doi.org/10.4236/jhrss.2014.22008
+*Nyarku, K. M., & Oduro, S. (2018). The mediating effect of supplier relationship management on CSR and marketing performance
+relationship. Indonesian Journal of Sustainability Accounting and Management, 3(1), xx–xx.
+*Ocran, E. (2011). The effect of corporate social responsibility (CSR) on
+profitability of multinational companies. A case study 0f nestle Ghana
+Limited (Doctoral dissertation, Institute of Distance Learning, Kwame
+Nkrumah University of Science and Technology).
+*Ofori Agyekum, F. (2016). An assessment of consumer perception on CSR
+in the telecommunication industry in Ghana (Doctoral Dissertation).
+*Ofori, D. (2010). Executive and management attitudes on social responsibility and ethics in Ghana. Some initial exploratory insights. Global
+Partnership Management Journal, 1(1/2), 14–24.
+*Ofori, D. F., & Hinson, R. E. (2007). Corporate social responsibility (CSR)
+perspectives of leading firms in Ghana. Corporate Governance: The International Journal of Business in Society, 7(2), 178–193. https://doi.org/
+10.1108/14720700710739813
+*Ofori, D. F., S‐Darko, M. D., & Nyuur, R. B. (2014). Corporate social
+responsibility and financial performance: Fact or fiction? A look at Ghanaian banks. Acta Commercii, 14(1), 1–11.
+*Ohene‐Asare, K., & Asmild, M. (2012). Banking efficiency analysis under
+corporate social responsibilities. International Journal of Banking,
+Accounting and Finance, 4(2), 146–171. https://doi.org/10.1504/
+IJBAAF.2012.048331
+*Okoe, A. F., & Boateng, H. (2016). Assessing the online CSR communication
+of an indigenous Ghanaian bank. Communication Research and Practice,
+2(2), 229–243. https://doi.org/10.1080/22041451.2016.1186484
+Okoye, A. (2012). Novel linkages for development: Corporate social responsibility, law and governance: Exploring the Nigerian Petroleum Industry
+Bill. Corporate Governance: The International Journal of Business in Society,
+12(4), 460–471. https://doi.org/10.1108/14720701211267801
+*Oppong, S. (2014). Corporate social responsibility and corporate performance: A study of the top 100 performing firms in Ghana. Journal of
+Contemporary Research in Management, 9(2), 23–33.
+
+Mitra, R. (2012). ‘My country's future’: A culture‐centered interrogation of
+corporate social responsibility in India. Journal of Business Ethics, 106,
+131–147. https://doi.org/10.1007/s10551‐011‐0985‐8
+
+*Osei, N. Y. A., Katsner, A. N. A., & Narteh, B. (2014). Corporate image of the
+Ghanaian banking industry: Do the perceptions of employees differ from
+customers. African Journal of Hospitality, Tourism and Leisure, 3(2), 1–23.
+
+Moon, J., & Shen, X. (2010). CSR in China research: Salience, focus and
+nature. Journal of Business Ethics, 94(4), 613–629. https://doi.org/
+10.1007/s10551‐009‐0341‐4
+
+*Otoo, B. K., & Agyapong, K. (2014). Corporate social responsibility: A key
+building a strong brand in Ghana. International Journal of Economics,
+Commerce and Management, 2(8), 1–14.
+
+12
+
+*Owusu‐Ansah, D., Adu‐Gyamfi, S., Brenya, E., Sarpong, Y. A., & Damtar, D.
+(2015). Corporate social responsibility of mining companies in Ghana:
+The case of Newmont Ghana Gold Limited at Ahafo. Journal of Social
+and Development Sciences, 6(4), 52.
+*Patnaik, S., Temouri, Y., Tuffour, J., Tarba, S., & Singh, S. K. (2018).
+Corporate social responsibility and multinational enterprise
+identity: Insights from a mining company's attempt to localise in
+Ghana. Social Identities, 24(5), 604–623. https://doi.org/10.1080/
+13504630.2017.1386369
+Pearce, J. A. II, & Doh, J. P. (2005). The high impact of collaborative social
+initiatives. MIT Sloan Management Review, 46(3), 30.
+Prieto‐Carrón, M., Lund‐Thomsen, P., Chan, A., Muro, A. N. A., & Bhushan, C.
+(2006). Critical perspectives on CSR and development: What we know,
+what we don't know, and what we need to know. International Affairs,
+82(5), 977–987. https://doi.org/10.1111/j.1468‐2346.2006.00581.x
+*Puplampu, B. B., & Dashwood, H. S. (2011). Organizational antecedents of
+a mining firm's efforts to reinvent its CSR: The case of Golden Star
+Resources in Ghana 1. Business and Society Review, 116(4), 467–507.
+https://doi.org/10.1111/j.1467‐8594.2011.00393.x
+
+DAMOAH ET AL.
+
+*Simpson, S. N. Y., Aboagye‐Otchere, F., & Lovi, R. (2016). Internal auditing
+and assurance of corporate social responsibility reports and disclosures: Perspectives of some internal auditors in Ghana. Social
+Responsibility Journal, 12(4), 706–718. https://doi.org/10.1108/SRJ‐
+09‐2015‐0134, https://doi.org/10.1108/SRJ‐09‐2015‐0134
+Soana, M. G. (2011). Corporate social responsibility and financial
+performance: Evidence from the financial sector. Corporate Ownership
+and Control, 8(2), 27–36.
+*Sokro, E., & Agbola, R. M. (2016). The impact of corporate social responsibility performance on customer loyalty: Evidence from Ghana. Global
+Journal of Business Research, 10(4), 67–82.
+Strand, R. (2011). Exploring the role of leadership in corporate social
+responsibility: A review. Journal of Leadership, Accountability and Ethics,
+8(4), 84–96.
+*Torvienyeku, K., Hinson, R, & Adom, K. (2007). Assessment of corporate
+social responsibility practices in Ghana's mining sector: Lessons from
+AngloGold Ashanti Ltd.
+*Tschakert, P. (2009). Digging deep for justice: A radical re‐imagination of
+the artisanal gold mining sector in Ghana. Antipode, 41(4), 706–740.
+https://doi.org/10.1111/j.1467‐8330.2009.00695.x
+
+*Rampersad, R., & Skinner, C. (2014). Examining the practice of corporate
+social responsibility (CSR) in sub‐Saharan Africa. Corporate Ownership
+and Control, 12(1), 731–740.
+
+Utting, P., & Abrahams, D. (2003). Corporate social responsibility and
+development: Towards a new agenda? Agenda, 17(18th), 18th.
+
+Revelli, C., & Viviani, J. L. (2015). Financial performance of socially responsible investing (SRI): What have we learned? A meta‐analysis. Business
+Ethics: A European. Review, 24, 158–185. https://doi.org/10.1111/
+beer.12076
+
+Vig, S. (2016). Corporate social responsibility in sub‐Saharan Africa:
+Sustainable development in its embryonic form. African Journal of
+Economic and Management Studies, 7(3), 434–437. https://doi.org/
+10.1108/AJEMS‐04‐2016‐0049
+
+*Rockson, K. (2016). Corporate social responsibility policies and labour
+practices in Ghana: A case study of Anglogold Ashanti and the International Framework Agreement (Doctoral dissertation, Centre for Labour
+Market Studies).
+
+Visser, W. (2008). Corporate social responsibility in developing countries. In A.
+Crane, et al. (Eds.), The Oxford handbook of corporate social responsibility in
+developing countries (pp. 473–479). UK: Oxford University Press.
+
+*Saha, A., & Nabareseh, S. (2015). Communicating corporate social responsibilities: Using text mining for a comparative analysis of banks in India
+and Ghana. Mediterranean Journal of Social Sciences, 6(3), 11–20.
+
+Visser, W., & Tolhurst, N. (2010) The world guide to CSR. A country‐by‐
+country analysis of corporate sustainability and responsibility,
+Sheffield, Greenleaf. https://doi.org/10.1093/oxfordhb/97801992
+11593.001.0001
+
+*Samy, M., Ogiri, H. I., & Bampton, R. (2015). Examining the public policy
+perspective of CSR implementation in sub‐Saharan Africa. Social
+Responsibility Journal, 11(3), 553–572. https://doi.org/10.1108/SRJ‐
+02‐2013‐0009
+
+*Yankson, P. W. (2010). Gold mining and corporate social responsibility in
+the Wassa West district, Ghana. Development in Practice, 20(3),
+354–366. https://doi.org/10.1080/09614521003709965
+
+*Sarfo, I., Twum, E., Koku, J. E., Yankah, K., Kloos, H., & Worku, M. (2016).
+Stakeholders participation and sustainability of corporate social
+responsibility programmes in Ghana: A study of AngloGold Ashanti
+Mine in Obuasi. Environment and Natural Resources Research, 6(1), 59.
+https://doi.org/10.5539/enrr.v6n1p59
+*Siawor‐Robertson, D., & Awaworyi Churchill, S. (2015). The mining industry and corporate social responsibility: Evidence from two mining
+communities in Ghana. ZBW ‐ Deutsche Zentralbibliothek für
+Wirtschaftswissenschaften, LeibnizInformationszentrum Wirtschaft,
+Kiel und Hamburg
+*Simpson, S. N. Y., & Aprim, E. K. (2018). Do corporate social responsibility
+practices of firms attract prospective employees? Perception of university students from a developing country. International Journal of
+Corporate Social Responsibility, 3(1), 6. https://doi.org/10.1186/s4099
+1‐018‐0031‐6
+
+*Yao Dzansi, D., & Pretorius, M. (2009). The development and structural
+confirmation of an instrument for measuring the social responsibility
+of small and micro business in the African context. Social Responsibility
+Journal, 5(4), 450–463. https://doi.org/10.1108/17471110910995320
+*Yeboah, K. O., & Akenten, W. N. (2015). Evaluating the effect of
+Newmont Gold Limited's corporate social responsibility on Ahafo
+Kenyasi (Ghana) community development. International Journal of Economics, Commerce and Management, 3(7), 698–736.
+
+How to cite this article: Damoah OBO, Peprah AA, Cobla
+GM. The state of corporate social responsibility research in
+Ghana: A synthesis of literature. Bus Strat Dev. 2019;1–12.
+https://doi.org/10.1002/bsd2.63
+
+

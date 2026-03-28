@@ -1,0 +1,285 @@
+European Journal of Business and Management
+ISSN 2222-1905 (Paper) ISSN 2222-2839 (Online)
+Vol.8, No.7, 2016
+
+www.iiste.org
+
+Strategic Leadership Styles and Employee Engagement in the
+Telecommunication Sector of Ghana
+Richard Brenyah1*
+Obi Berko Damoah1, 2
+1. School of Business – Kings University College, Accra, Ghana
+2. Business School – University of Ghana, Accra, Ghana
+Abstract
+This paper investigates leadership styles and their effect on employee engagement. The study was a crosssectional. Data were collected from employees in the telecommunications sector of Ghana. A sample size 200
+employees was used. Multiple regression was the main statistical tool employed to achieve the study objects. It
+was established that individualized consideration, inspirational motivation and intellectual stimulation have
+positive effect and correlation with employee engagement except idealized influence that has an insignificant
+relationship. Contingent rewards and passive management by exception showed positive effect on engagement,
+except active management by exception that has an insignificant relationship. On the whole, leadership style was
+found to be a significant determinant of employee engagement.
+Keywords: transactional leadership style, transformational leadership style, individualized consideration,
+inspirational motivation, intellectual stimulation, idealized influence ,contingent rewards, passive management
+by exception, active management by exception, employee engagement, mobile telecommunications industry,
+Ghana.
+1.0. Introduction
+Effective leadership and employee engagement are two factors that have been regarded as fundamental for
+organisational success. A capable leader provides direction for the organisation and inspires followers towards
+achieving desired goals. In a similar vein, employees who are highly engaged are likely to exert more effort in
+their assigned tasks and pursue organisational interests (Chen & Silversthorne, 2005). Several studies have
+examined the relationship between these two factors and concurred that the style of leadership within an
+organisation has significant effects on organisational commitment and employee engagement. These studies also
+indicate that employee engagement in the public sector is just as important as it is in the private sector. (Lok &
+Crawford, 1999; Mosadegh & Yarmohammadian, 2006). According to Kahn (2002), “employee engagement
+refers to the harnessing of organisational members to their work roles” (p. 694). Kahn (2002) further pointed out
+that one’s engagement to an organisation is influenced by many organisational contextual factors, ranging from
+salaries, job autonomy, job security, workplace flexibility, to leadership. In particular, leaders within
+organisations can adopt appropriate leadership styles to affect employee engagement.
+The importance of leadership and employee engagement at work in contemporary times cannot be
+deemphasized in this highly dynamic and complex business environment where the human beings are seen as the
+organisation’s most valued asset and a major tool for competitive advantage (Mosadegh & Yarmohammadian,
+2006). Also, the telecommunication industry of Ghana is a major force that drives the economy and contributes a
+great deal to the development of the economy as a whole. However, not much research efforts have been geared
+towards this sector (Baah, 2011).
+It is in this vein that the present study seeks to examine the effect between leadership styles and
+employee engagement in the telecommunication sector of Ghana.
+2.0. Study Objectives
+In line with the above mentioned problems, this study seeks to achieve the following objectives:
+• To measure the effects of idealized, inspirational, individualized and intellectual leadership styles on
+employee engagement.
+• To measure the effects of contingent and management leadership styles on employee engagement.
+• To measure the effects of laissez faire leadership style on employee engagement.
+3.0. Review of Relevant Literature
+Leadership is viewed as a process of interaction between leaders and followers where the leader attempts to
+influence followers to achieve a common goal (Northouse, 2010). Previous studies on have identified different
+types of leadership styles. Among the more prominent leadership styles are Burns’ (1978) transactional and
+transformational leadership styles. Transformational leadership emphasises followers’ intrinsic motivation and
+personal development and seek to align followers’ aspirations and needs with desired organisational outcomes
+(Bass & Riggio, 2006). In contrast, transactional leadership gains legitimacy through the use of rewards, praises
+and promises that would satisfy followers’ immediate needs (Northouse, 2010). Avolio, Bass and Jung (1997)
+48
+
+European Journal of Business and Management
+ISSN 2222-1905 (Paper) ISSN 2222-2839 (Online)
+Vol.8, No.7, 2016
+
+www.iiste.org
+
+identified four dimensions of transformational leadership as idealised influence, inspirational motivation,
+intellectual stimulation and individualised consideration. Idealised influence is concerned with the formulation
+and articulation of vision and challenging goals and motivating followers to work beyond their self-interest in
+order to achieve common goals (Dionne, Yammarino, Atwater & Spangler, 2004). Inspirational motivation
+refers to the way leaders motivate and inspire their followers to commit to the vision of the organisation through
+fostering team spirit (Bass & Riggio, 2006). Intellectual stimulation is concerned with the role of leaders in
+stimulating innovation and creativity in their followers by questioning assumptions and approaching old
+situations in new ways (Bass & Riggio, 2006). Bass and Avolio (1995) also proposed that transactional
+leadership consists of three dimensions, namely contingent rewards, management by exception (active) and
+management by exception (passive). Contingent reward refers to leaders clarifying the work that must be
+achieved and use rewards in exchange for good performance. Management by exception (passive) refers to
+leaders intervening only when problem arise whereas management by exception (active) refers to leaders
+actively monitoring the work of followers and making sure that set standards are met (Bass & Avolio, 1995).
+Also Foster (2002), identified the laissez-faire leadership style in addition to authoritarian and democratic
+leadership styles. Laissez faire leadership is where all the rights and power to make decisions is fully given to the
+worker (Foster, 2002).
+Organisations in contemporary times also need energetic and dedicated employees: people who are
+engaged with their work as initiative and responsibility for personal development as expected from their
+employees (Kahn, 2002). According to this approach, work engagement is defined as a positive fulfilling workrelated state of mind that is characterised by vigour, dedication and absorption. Vigour is characterised by high
+levels of energy and mental resilience while working; dedication is characterised by being strongly involved in
+one's work, and experiencing a sense of significance, enthusiasm, inspiration, pride and challenge; and
+absorption is characterised by being fully concentrated and happily engrossed in one’s work, whereby time
+passes quickly and one has difficulties with detaching oneself from work (Kahn, 2002).
+4.0. Method
+Data were collected through the use of closed ended survey questionnaires from employees working in the six
+mobile telecommunication organizations in Accra, Ghana – MTN, Vodafone, Glo, Airtel, Expresso and Tigo.
+Since these organisations have branches in dispersed areas of the country, employees from selected branches of
+the various organizations were used for data collection. The respondents included employees at different levels
+in the various companies. However, the category of employees in the sanitation and grounds department of the
+various companies was excluded from the study. This is because the researchers believed that such category of
+employees would lack the level of literacy required to comprehend the issues raised on the questionnaires and as
+such would not be able to make meaningful contributions to the study.
+A sample size of 200 respondents was chosen from selected branches of the various mobile
+telecommunication companies in Accra, Ghana using the multistage sampling technique. The convenience
+sampling method was first used to select the various branches of the organizations under study. In order to
+ensure that approximately equal number of respondents was selected from the various organizations, the
+proportional random sampling was used.
+The research instrument was divided into four sections. Section 1 consisted of 4 items measuring the
+demographic characteristics of respondents. Sections 2, 3 and 4 consisted of 31 items measuring the different
+dimensions of leadership styles and employee engagement respectively. All items were measured on a 5 - point
+likert scale (ranging from 1 – strongly disagreed to 5 – strongly agreed). Data were analysed using SPSS. The
+technique for data analyses was multiple regression.
+
+49
+
+European Journal of Business and Management
+ISSN 2222-1905 (Paper) ISSN 2222-2839 (Online)
+Vol.8, No.7, 2016
+
+Model
+
+1
+
+www.iiste.org
+
+Unstandardised
+Coefficients
+
+Standardised
+Coefficients
+
+T
+
+P
+
+1.337
+
+.206
+
+B
+
+Std. Error
+
+Beta
+
+(Constant)
+
+1.266
+
+.946
+
+Idealised
+
+-.128
+
+.204
+
+-.167
+
+-.627
+
+.542
+
+Management
+
+-.253
+
+.158
+
+-.382
+
+-1.605
+
+.034
+
+Intellectual
+
+.239
+
+.148
+
+.381
+
+1.620
+
+.000
+
+Individualised
+
+-.009
+
+.162
+
+-.016
+
+-.057
+
+.956
+
+Contingent
+
+.148
+
+.073
+
+.258
+
+.858
+
+.001
+
+Inspirational
+
+.286
+
+.331
+
+.230
+
+.863
+
+.002
+
+Laissez
+.248
+.233
+.241
+1.061
+.010
+R = .713 R Square = .508 Adjusted R Square = .221
+The model above shows that 50.8% of the variations in employee engagement can be attributed to the
+style of leadership in the company (R Square = .508). Also an R value of .713 shows that there exists a very
+strong relationship between the dependent variable (employee engagement) and independent variables
+(leadership styles).
+The results therefore show that positive effects exist between employee engagement and Contingent,
+Inspirational, Laissez and Intellectual styles of leadership. This is represented by the beta values
+of .258, .230, .241 and .381 respectively. Individualised, Idealised and Management styles of leadership affects
+employee engagement negatively (β = -.016, -.382 and -.167 respectively). It should however be noted that the
+estimates of idealized and individualized styles of leadership are not significant at 95% confidence interval (p >
+0.05) whilst the other leadership styles are significant at 95% confidence interval (p < 0.05).
+F = 1.768
+
+5.0. Conclusions and Recommendations
+The following conclusions and recommendations are drawn from the study:
+• The style of leadership adopted in an organisation affects the extent of employee engagement; hence
+managers should employ appropriate and desired styles of leadership in order to engage their workforce.
+• The estimates of idealized and individualized styles of leadership are not significant; hence they are not
+reliable predictors of employee engagement.
+• Management leadership style influences employee engagement in the mobile telecommunication sector
+of Ghana; hence it is essential for management to develop appropriate styles of leadership.
+• Contingent, Inspirational, laissez faire and intellectual styles of leadership significantly enhance
+employee engagement, hence the extent of these leadership styles should be increased.
+• Intellectual leadership style has the greatest effect on employee engagement and therefore it should be
+greatly enhanced.
+References
+Avolio, B.J., Bass, B.M., & Jung, D.I. (1997). Replicated confirmatory factor analyses of the multi-factor
+leadership questionnaire. Binghamton, NY: Center for Leadership Studies, Binghamton University.
+Bass, B., & Riggio, R.E. (2006). Transformational Leadership (2nd ed.). Mahwah, NJ: Lawrence Erlbaum.
+Blaike, N. (2002). Designing social research. Oxford: Blackwell Publishing Ltd.
+Burns, J. M. (1978). Leadership. New York: Harper & Row.
+Chen, J., & Silverthorne, C. (2005). Leadership effectiveness, leadership style and employee readiness.
+Leadership& Organization Development Journal, Vol. 26, No. 4, pp. 280-288.
+Dionne, S. D., Yammarino, F. J., Atwater, L .E., & Spangler, W. D. (2004). Transformational leadership and
+teamperformance. Journal of Organizational Change Management, Vol.17, No. 2, pp. 177-193.
+Foster, D.E. (2002). "A Method of Comparing Follower Satisfaction with the Authoritarian, Democratic,
+andLaissez-faire Styles of Leadership." Communication Teacher 16 (2): 4-6.
+
+50
+
+European Journal of Business and Management
+ISSN 2222-1905 (Paper) ISSN 2222-2839 (Online)
+Vol.8, No.7, 2016
+
+www.iiste.org
+
+Kahn, W. A. (2002). Psychological conditions of personal engagement and disengagement at work. Academy
+ofManagement Journal, 33, 692-724.
+Lok P., & Crawford J. (1999). The relationship between commitment and organisational
+culture,subculture,leadership style and job satisfaction in organisational change and development.
+Leadership and Organization Development Journal, Vol. 20, No. 7, pp. 365-373.
+Lomax, R. G. (2007). An introduction to statistical concepts. (2nd ed.). Mahwah, NJ: Erlbaum.
+Mosadegh Rad, A. M., & Yarmohammadian, M. H. (2006). A study of relationship between managers’
+leadershipstyle and employees’ job engagement. Leadership in Health Services, Vol. 19, No. 2, pp. xixxviii.
+Northouse, P. G. (2010). Leadership, theory and practice (5th ed.). Sage, Thousand Oaks, CA.
+
+51
+
+

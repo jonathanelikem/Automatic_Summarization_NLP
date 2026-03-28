@@ -1,0 +1,1112 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/1755-425X.htm
+
+in the
+Strategy in the era of “swans”: the Strategy
+era of “swans”
+role of strategic leadership under
+uncertainty and unpredictability
+
+Henry Adobor
+Strategy and Entrepreneurship, Quinnipiac University School of Business,
+Hamden, Connecticut, USA
+
+William Phanuel Kofi Darbi
+
+Received 14 September 2020
+Revised 1 March 2021
+Accepted 10 July 2021
+
+Business School, Ghana Institute of Mangement and Public Administration,
+Accra, Ghana, and
+
+Obi Berko O. Damoah
+Department of Organizations and Human Resources,
+University of Ghana Business School, Accra, Ghana
+Abstract
+Purpose – The purpose of this conceptual paper is to explore the role of strategic leadership under conditions
+of uncertainty and unpredictability. The authors argue that highly improbable, but high-impact events require
+the upper echelons of management, traditionally the custodians of strategy formulation to offer a new kind of
+strategic leadership focused on new mindsets, organizational capabilities, more in tune with high uncertainty
+and unpredictability.
+Design/methodology/approach – Drawing on strategic leadership, and complexity leadership theory, the
+authors review the literature and present a conceptual framework for exploring the nature of strategic
+leadership under uncertainty. The authors conceptualize organizations as complex adaptive systems and
+discuss the imperatives for developing new mental models for emergent leadership.
+Findings – Strategic leaders have a key role to play in preparing their organizations for episodic disruptions.
+These include developing their adaptive capabilities and building resilient organizations to ensure their
+organizations cannot only bounce back after a disruption but have the capacity for transformation to new
+fitness levels when necessary. Strategic leaders must engage with complexity leadership by seeing their
+organizations as complex adaptive systems, reconfigure their leadership approaches and organizations to
+build strategic adaptive capability.
+Research limitations/implications – This is a conceptual paper and the authors cannot make any claims of
+causality.
+Practical implications – Organizational leaders need to reconfigure their mental models and leadership
+approaches to reflect the new normal of uncertainty and unpredictability. Developing the strategic adaptive
+capability of organizations should prepare them for dealing with high impact events. To assure business
+continuity in the face of disruptions requires building flexible, adaptable business models.
+Originality/value – The paper focuses on how managers can offer strategic leadership for a new normal that
+challenges some of our most cherished leadership and strategic management paradigms. The authors explore
+the new mental models and leadership models in an era of great uncertainty.
+Keywords Strategic leadership, Adaptive capacity, Resilience, Uncertainty, Strategic adaptive capability,
+Business model flexibility, COVID-19
+Paper type Conceptual paper
+
+1. Introduction
+Organizations face uncertainty from both external and internal environments. Organization
+theorists define uncertainty as the inability to predict the likelihood of future events
+(e.g. Lawrence and Lorsch, 1967). Uncertainty, whether originating from markets or the
+general environment, is a factor organizations routinely deal, and learn to live with. What
+organizations may be ill-prepared for are the episodic uncertainties; those that arise because
+
+Journal of Strategy and
+Management
+© Emerald Publishing Limited
+1755-425X
+DOI 10.1108/JSMA-09-2020-0242
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+of events that happen infrequently, but have high impact, and a pandemic such as COVID-19
+may be an example of this kind of high impact event.
+Research in strategic management has demonstrated that market uncertainty affects firm
+value creation (Barney, 1986) and appropriation (Zott and Huy, 2007). Strategic management
+research has also focused on the role of leadership as a means for dealing with uncertainty.
+Upper echelons theory (Hambrick and Mason, 1984) demonstrates that leadership at the
+highest levels affects strategy formation and performance. Samimi et al. (2020) argue that
+uncertainty and environmental dynamism influence strategic leadership performance. More
+recent advances in leadership research suggest that leading under conditions of uncertainty
+may require new forms of leadership and organizational capabilities (Uhl-Bien et al., 2007).
+Indeed, our understanding of how to manage under the sort of uncertainties associated with
+disruptive events may be fairly limited and gaps remain in our understanding of the role of
+the upper echelons in managing their organizations and creating value under disruptive
+conditions. For example, a recent McKinsey Report (Bar Am et al., 2020) noted that not all
+executives know how to deal with disruptive events such as the recent coronavirus pandemic
+(COVID -19).
+Zhang et al. (2012) observed that strategy research has not adequately focused on the role
+of strategic leaders in firm performance. This is an important omission, given that
+organizational and employee outcomes are more dependent on strategic leaders when
+uncertainty is high as employees turn to leaders for guidance during periods of uncertainty
+(Waldman et al., 2001). The present research attempts to bridge some of the existing gaps by
+developing a framework linking strategic leadership to organizational outcomes under
+conditions of uncertainty. We argue that strategic leaders need to develop new mindsets and
+capabilities for managing under uncertainty. Specifically, strategic leaders need to enhance
+their strategic adaptive capability. We identify who strategic leaders are, what they should
+do, including the new mental models they should cultivate, and how they should lead under
+uncertainty. Although the emerging research on strategic leadership has included individuallevel factors such as the leader’s personality (Zhu and Chen, 2015), dispositions (Gerstner
+et al., 2013; Goleman, 1998), and charisma (Samimi et al., 2020) we omit a discussion of these
+personal level factors in this framework. A key presumption of the paper is that the context of
+leadership under the “new normal” requires new leadership mindsets, models, and
+organizational capabilities. Collectively, these magnify the role of strategic leaders.
+We organize the paper as follows to explore the issues. Section 1 of the paper presents the
+introduction. The section after that presents the literature review and conceptual framework
+of the paper. The third and final section presents a discussion, including the implications of
+the paper for research and practice. Figure 1, is a summary of the conceptual framework.
+The first dimension of the framework focuses on the need for organizational leaders to
+develop new mindsets and accept uncertainty and unpredictability as the new reality.
+Conceptualizing organizations as complex adaptive systems (CAS) is an important means for
+appreciating the central role of uncertainty and unpredictability in organizational life.
+Second, we propose that complexity leadership is more consistent with uncertainty and
+unpredictability (Davis and Sumara, 2010). We propose that preparing organizations for
+surviving high-impact events requires strategic leaders to adopt new leadership styles that
+enable self-leadership, rather than control. Finally, we suggest that organizations need to
+develop new organizational capabilities.
+The paper contributes to strategic leadership and strategic management literature in
+several ways. First, we suggest that strategic leaders need new mindsets for managing in a
+period where low occurrence, but high impact events become the norm. This is important
+given that most of our existing mental models are built on Newtonian-Cartesian ontologies,
+which are unsuitable for managing under uncertainty. Second, the research explores key
+capabilities needed for managing under uncertainty. We argue that building higher-level
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+New Mental
+New
+MentalModels
+Models
+o
+
+o
+
+New Normal/Challenges
+
+Conceptualize
+organizations as
+complex adaptive
+systems
+Adopt nonlinear
+thinking and recognize
+uncertainty as new
+normal
+
+o
+o
+o
+
+Strategy in the
+era of “swans”
+
+Uncertainty
+Unpredictability
+Frequency of highly
+improbable but high
+impact events
+
+Reconfiguring Leadership: Complexity Leadership Model
+o
+o
+o
+
+Adaptive leadership
+Enabling leadership
+Administrative leadership
+
+Reconfiguring Strategic Leadership Responsibilities
+Reconfiguring leader functions and tasks
+o Building adaptive capacity
+o Building robust organizations and systems
+o Building resilient organizations
+o Fostering self-organization
+o Organizational learning
+o Sensemaking and sense giving around novel events
+Reconfiguring business model design
+o Flexibility of business model
+
+Strategic Adaptive Capability
+o
+o
+o
+
+Adaptive leadership
+Resilient and adaptive organizations
+Delivering customer value under disruptive
+conditions with flexible business models
+
+Figure 1.
+Conceptual framework
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+capabilities such strategic adaptive capability requires changing fundamental frames of
+reference of leaders to match the new normal of uncertainty and unpredictability. Building
+the adaptive capacity of organizations, and developing flexible business models amongst
+others, is important for dealing with the sort of disruptive and episodic events that are part of
+the new normal. Third, the paper proposes that strategic leaders need to develop new
+leadership skills centered on uncertainty and unpredictability. Conceptualizing organizations
+as complex adaptive systems are important for bringing disorder, uncertainty, emergence, to
+the center of leading in uncertain environments. Finally, we extend research on strategic
+management, specifically, the role of strategic leaders in managing and developing critical
+adaptive capabilities for managing in an age of disruptions.
+
+2. Literature review and conceptual framework
+Taleb (2007) first used the term “Black Swan” to describe what he calls highly improbable and
+unpredictable events (Mignan et al., 2014) and the corresponding metaphor of a “White Swan”
+for predictable events. As Taleb (2007) puts it, people completely accepted the fact that all
+Swans were white until they saw the first black swan, showing that sometimes what we know
+is only valid until we find new or disconfirming data. Two lessons that Taleb highlights from
+this are important: our store of knowledge may prove more fragile than we think and second,
+learning from the past has its limits. Indeed, with the low occurrence, high impact events, the
+past offers very little guidance for the future and that seems to be the predicament
+organizations and business leaders found themselves in during the recent pandemic.
+Taleb (2007) summarizes Black Swan events, now a neologism, as having three qualities;
+(1) they are rare (2) have great impact, and (3) are predictable only in retrospect, not ahead of
+time. There is a close similarity between the Black Swan theory and the sciences of chaos
+(Gleick, 1987) complexity, and nonlinear dynamics (Alfoqahaa and Jones, 2020). These
+theories have one thing in common: they demonstrate that the ability to make predictions
+about nonlinear and dynamic systems is limited. Today, people talk about the “new normal,”
+some acceptance that the frequency of these high impact phenomena may be a permanent
+feature of our lives and that we had better learn to live with them. We argue here that strategic
+leaders need to develop new mindsets and organizational capabilities, more in tune with
+uncertainty and unpredictability.
+2.1 Defining strategic leadership
+There is no universally agreed-upon definition of strategic leadership. Samimi et al. (2020,
+p. 3) define strategic leadership as “the functions performed by individuals at the top levels of
+an organization (CEOs, TMT members, Directors, General Managers) that are intended to
+have strategic consequences for the firm.” Ireland and Hitt (1999, p. 43) define strategic
+leadership as “a person’s ability to anticipate, envision, maintain flexibility, think
+strategically, and work with others to initiate changes that will create a viable future for
+the organization.” Davies and Davies (2004) identified several functions of strategic leaders:
+develop an organization’s strategic capabilities; challenge and question the present, and build
+new mental models. More importantly, the authors note that strategic leadership “is a means
+of building the direction and the capacity for the organization to achieve that directional shift
+or change” (p. 244).
+These definitions capture the essential nature of strategic leadership. As Boal (2004,
+p. 1504) observes, “Strategic leadership is both process-oriented and substantive in nature.”
+While these functions are important, strategic leadership under dynamic and unpredictable
+environments may require additional, and different functions. Under uncertainty, strategic
+leaders may need to build bridges between the past, present, and unknowable future
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+(Boal, 2004; Marion and Uhl-Bien, 2001). To accomplish this requires that strategic leaders
+think of organizations in new ways by developing mental models more in sync with the
+complex and dynamic environments.
+
+Strategy in the
+era of “swans”
+
+2.2 Strategic adaptive capability (SAC)
+The role of strategic leaders comes under sharp focus in an environment of great uncertainty
+and unpredictability (Waldman et al., 2001). How organizations respond to environmental
+changes including market signals is determined, in part by their level of strategic adaptive
+capability (SAC). SAC is an outwardly directed capability for managing uncertainty (Zaheer
+and Zaheer, 1997). Ma et al. (2009, p. 1087), define strategic adaptive capability as “a firm’s
+capacity to sense and respond to environmental changes in a relatively quick and flexible
+way.” In the case of episodic changes such as COVID-19, a firm’s ability to sense threats and
+opportunities and to create a fit between its internal systems and rapidly emerging challenges
+may depend on this capability. Although SAC may be a form of dynamic capability (Teece
+et al., 1997), it is a form of higher-level capability (Peteraf et al., 2013). A firm’s ability to sense
+events in the environment, and respond quickly to them rests on its strategic adaptive
+capability (Zaheer and Zaheer, 1997). We argue that as individuals at the strategic apex of the
+organization whose primary responsibility is to manage an organization’s interface with the
+macro-environment (Mintzberg, 1983); strategic leaders need to reconfigure their thinking,
+and organizations to build strategic adaptive capability for managing and leading in the age
+of Swans. Specifically, strategic leaders need to: (1) reconfigure their mental models in line
+with unpredictability, nonlinearity, and uncertainty, (2) their leadership approaches to reflect
+the complexity of the environment, (3) their internal organizational architecture to promote
+strategic adaptability, and (4). Reconfigure their business models to reflect environmental
+and strategic dynamism.
+3. Reconfiguring leadership to increase strategic adaptive capability
+New leadership models may be necessary for managing complexity, uncertainty, and
+unpredictability (Wheatley, 1992). We suggest that complexity leadership (Uhl-Bien et al.,
+2007) is more suitable for managing in an “era of swans” and that strategic leaders need to
+develop new mindsets by (1) thinking of organizations as complex adaptive systems
+(2) accepting uncertainty and unpredictability as the new normal (3) and engaging in specific
+leader-directed behaviors.
+3.1 Organizations as complex adaptive systems (CAS)
+One of the most important frameworks needed for leading under uncertainty is
+conceptualizing organizations as complex adaptive systems. The notion of organizations
+as complex adaptive systems is the foundational idea in complexity theory. Holland (1995)
+was perhaps the first to use the term CAS to describe complex nonlinear systems in which
+system behavior depends on the behavior of agents that make up the system. Stacey (1996,
+p. 10) defines a CAS “as consisting of several active agents, who interact with each other
+according to sets of rules that require them to examine and respond to each other’s behavior
+to improve their behavior and the behavior of the system they comprise”. Benbya and
+McKelvey (2006, p. 18) summarize the key features of CAS: (1) CAS systems are dynamic and
+demonstrate nonlinear behavior. Nonlinearity refers to a lack of direct cause and effect.
+Causality in nonlinear systems is not direct and unpredictable as small changes can lead to no
+effect, or disproportional effects (2) CAS demonstrates self-organization, in which aggregate
+behavior emerges from the interaction of the agents in the system. (3) Emergent behavior.
+Emergence occurs when new structures and properties emerge as a result of agent interaction
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+(4) Co-evolution is the process by which elements of the system adapt in response to changes
+in their environment (Holland, 1995). There are implications of these features for strategic
+leadership and these are discussed elsewhere in this paper.
+3.2 New mental models
+Davies and Davies (2004) identify the development of new mental models as one of the
+functions of strategic leaders. Mental models are psychological structures that people use to
+categorize their environment and make sense of situations (Weick, 1989). Boal (2004) notes
+that one important function of strategic leaders is to serve as a bridge between the past,
+present, and future. We argue that developing new ways of thinking may be key to
+accomplishing that function, especially since the “new normal” has no precedence from which
+we can learn from. Since our world views affect how we act, organizations and their leaders
+need to develop mental models more in sync with dynamism, unpredictability, and change.
+As Pfeffer (1993) suggested, theories that challenge the conventional view and the taken-forgranted realities may allow us to think about issues in new ways.
+Complexity theory and its precursor, chaos theory seem to offer some of the most powerful
+tools for building a new understanding of uncertainty and the corresponding organizational
+issues, including strategic leadership processes and functions as these theories focus on
+complexity, uncertainty, and unpredictability (Prigogine and Stengers, 1984). As an
+organizing framework, complexity theory has implications for strategic leadership.
+Complexity theory focuses on CAS, emergent behavior, self-organization, and co-evolution
+(McKelvey, 2001). A greater understanding of emergent phenomena, including how
+organizations may co-evolve with dynamic changes in their environment offers strategic
+leaders a better understanding of how to lead, build new organizational capabilities and
+prepare their organizations for adapting to new challenges that emerge in an era of swans.
+Complexity theory focuses on order and how order emerges from the interaction of selforganizing agents (Kauffman, 1995). A key idea in complexity sciences as Benbya and
+McKelvey (2006, p. 17) note is “defining organizations as complex, dynamic, non-linear
+systems that do not evolve in a steady, predictable way” (Stacey, 1996). Organizational
+researchers have used the theory to understand self-renewal (Nonaka, 1988) and leadership
+(Alfoqahaa and Jones, 2020). The same ideas may be useful to how strategic leaders manage
+under high uncertainty and unpredictability associated with events such as COVID-19.
+3.3 Unpredictability and nonlinear thinking
+Traditional strategic leadership theory is focused on hierarchy, stability, and order (Uhl-Bien
+et al., 2007). However, nonlinear thinking accepts that change, unpredictability, and chaos are
+the rule rather than the exception. Exploring some key characteristics of nonlinear systems
+such as CAS may be helpful to our understanding.
+First, nonlinear systems transform and exhibit temporary behavior over time with each
+transformation, giving rise to a different behavioral regime (Gleick, 1987). Since nonlinear
+systems produce changes that are often disproportionate and surprising, it is difficult, if not
+impossible, to make a long-term prediction of such systems with any degree of accuracy.
+Second, is a system’s sensitivity dependence on initial conditions (SDIC), leading to Lorenz’s
+(1963) “butterfly effect”. SDIC has three important implications (1) First is that small initial
+changes in a system can have unexpected impacts, much like Taleb’s (2007) Swan events.
+(2) Similar conditions can produce completely different outcomes over time, and (3) when one
+makes a small error in specifying initial conditions, this small error can be magnified
+exponentially over time. Third, nonlinear systems have multiple equilibria (Thietart and
+Forgues, 1995). This is important because it sensitizes us not to simply ascribe system
+instability to error or a malfunction in the system (Gleick, 1987). Fourth, the possibility of
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+multiple outcome basins exists in nonlinear systems. Fifth, nonlinear systems can change
+from one state to the other, namely from order to disorder and vice versa (Nicolis and
+Prigogine, 1989). Finally, nonlinear systems demonstrate self-organization and emergence.
+Nonlinear dynamic systems have several important implications for managing
+unpredictability. First, they demonstrate that unpredictability is a defining characteristic
+of dynamic systems. By bringing unpredictability to the core of managerial thinking, these
+theories prepare managers to think of their organizations as a nonlinear dynamic system.
+Plowman et al. (2007) note that strategic leaders need to accept uncertainty as a reality to be
+able to lead in complex adaptive social organizations.
+Second, there is a very low possibility of predicting the outcomes of situations. In dynamic
+systems, cause and effect are not straightforward because of the possibility of multiple
+outcomes and multiple equilibria. Third, there is always a possibility of finding order and
+coherence even in systems that appear disorganized and chaotic. Finally, the possibility of
+self-organization in nonlinear systems points to the sort of things managers can do to
+promote new emergent structures. Developing mental models that are consistent with the
+new normal should positively affect orientations towards strategic adaptive capability.
+Therefore:
+
+Strategy in the
+era of “swans”
+
+P1. Mental models consistent with uncertainty and unpredictability will have a positive
+effect on strategic adaptive capability.
+
+4. Complexity leadership
+We suggest that strategic leaders need to adopt new leadership models that are consistent
+with the “new normal” with its imperatives for adaptation. The emerging concept of
+complexity leadership (CL), based on complexity science seems most appropriate as the
+leadership model for leading in uncertain and dynamic environments (Wheatley, 1992).
+Complexity Leadership Theory (CLT), emerged in response to the leadership challenges of
+managing CAS (Uhl-Bien et al., 2007; B€acklander, 2019). CL is a form of shared leadership
+where the responsibility of leadership is diffused and not vested in a single individual (Carson
+et al., 2007). Uhl-Bien and Arena (2018, p. 89) call this “leadership for organizational
+adaptability.” The authors distinguish this from traditional leadership where change is
+driven top-down through the vision and inspiration of those at the top (Heckscher, 1994).
+Instead, leadership for adaptability focuses on “how leaders can position organizations and
+the people within them to be adaptive in the face of complex challenges.” (p. 89). As Uhl-Bien
+et al. (2007) observed, traditional leadership theories rely on control and focus on efficiency.
+Upper echelons theory (Hambrick and Mason, 1984) relies on bureaucracy to exercise topdown leadership. However, under uncertainty and a dynamic environment, this leadership
+model is unsuitable. CL, based on conceptualizing organizations as CAS seems more in tune
+with managing under uncertainty. CL has three dimensions Uhl-Bien et al. (2007).
+Administrative leadership: The traditional responsibilities performed by the upper
+echelons are still necessary since most organizations are bureaucracies. The traditional
+functions of planning, control, resource allocation still need to be carried out by those in the
+upper echelons. According to Uhl-Bien et al. (2007), leaders who are still dependent on
+authority and hierarchy need to modify their approach to stimulate “creativity, learning and
+adaptability” (p. 306).
+Adaptive leadership: This is leadership that emerges from the interactions among agents in
+the organization, creating an emergent phenomenon (Lichenstein et al., 2006). Individuals and
+groups may have different objectives and it is the struggles between these conflicting visions
+that often generate new ideas and outcomes. There are organizational conditions that
+facilitate the emergence of adaptive leadership. Conditions must exist for agents to interact;
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+tension and interdependence are useful conditions. Uhl-Bien et al. (2007) argue that the
+outcomes of adaptive leadership are adaptability, learning, and creativity. Since CAS occurs
+at every hierarchical level, managers at each level need to develop adaptive mindsets as they
+execute their traditional functions.
+Enabling leadership: The primary goal of enabling leadership is to provide the
+environment for adaptive leadership to flourish as well as manage the conflict between
+administrative and adaptive leadership. Uhl-Bien et al. (2007, p. 309) note that enabling
+leadership creates the environment for adaptive leadership by fostering (1) interaction
+(2) interdependency, and (3) encouraging adaptive tension. Enabling leaders must be careful,
+not to let administrative leaders suppress the opportunity for dynamic interaction among
+agents, as well as help to protect adaptive leadership from political interference by
+administrative leadership (Uhl-Bien et al., 2007). To sum up, complexity leadership is shared
+leadership that embraces complexity, and uncertainty and creates the enabling conditions for
+employees to engage in self-leadership (Manz and Sims, 1987). Leadership that enhances
+adaptability, learning, and creativity should have a positive effect on the development of
+strategic adaptive capability. Therefore,
+P2. Complexity leadership will have a positive effect on SAC.
+
+5. Reconfiguring leadership tasks, and functions, and organizations to
+enhance SAC
+Strategic leaders must engage with key leadership functions that are necessary for managing
+under uncertainty: (1) sense making and sense giving (2) fostering self-organization (3)
+building the adaptive capacity of their organizations (4) building a robust and resilient
+organization (5) and foster organizational learning.
+5.1 Sense making and giving meaning
+Boal (2004, p. 1504) suggests that one function of strategic leadership is to “make sense of and
+give meaning to environmental turbulence and ambiguity.” Plowman et al. (2007) found that
+strategic leaders in CAS promote self-organizing behavior on the part of employees by
+making sense of emerging events. This function of strategic leaders is especially important
+under uncertain and unpredictable situations.
+Framing an issue and sense giving maybe two important ways in which strategic leaders
+make sense of turbulence. The theory of managerial cognition (Walsh, 1995) shows that what
+managers notice about an event in the external environment influences how they react to it.
+This idea is important for dealing with disruption because such events are novel, and often
+contrary to existing ways of knowing, and thinking. This means that the strategic leader’s
+skill in diagnosing and categorizing novelty is important. A leader’s worldview is important
+(Porac and Thomas, 2002). Framing theories show that how managers frame issues is most
+important during periods of uncertainty (Tripsas and Gavetti, 2000). The goal of framing is to
+emphasize some aspects of reality, to influence behavior (Meril€ainen and Vos, 2013). Chong
+and Druckman (2007, p. 104) define framing as “the process by which people develop a
+particular conceptualization of an issue or reorient their thinking about an issue.” According
+to the authors, decision-makers form attitudes or beliefs about an event based on certain
+attributes and these play a role in how they evaluate the event.
+Strategic leaders can frame issues using at least three tactics. One important tactic for
+framing may be issue selling. Dutton and Ashford (1993, p. 398) define issue selling as “the
+individuals’ behaviors that are directed toward affecting others’ attention to and
+understanding of issues.” Issue selling is about how managers determine that an issue is
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+important and has consequences for organizational performance. Second, managers can use
+prospective sense-making (Konlechner et al., 2019). Prospective sense making may be very
+useful in the early stages of a disruptive event. Sensemaking, the process of understanding
+events by looking to the past (Weick, 1995), has informed decision-making in management.
+Although helpful, what may be more important is trying to understand events as they unfold,
+in other words making sense, not retrospectively, but “prospectively”. Understanding an
+event as it unfolds helps decision-makers to figure out what to do. As Friesl et al. (2018, p. 30)
+note “prospective sense making involves actors’ engagement with yet uncharted and
+unfamiliar trends and provides the opportunity for the prolonged and conscious articulation
+and elaboration of tentative interpretations” (Stigliani and Ravasi, 2012, p. 1250 cited in Friesl
+et al., 2018, p. 3).
+Prospective sense making would be particularly useful at the very early stages of a highimpact event. How managers interpret such an event in the early stages provides an anchor,
+although temporary, for stakeholders to begin formulating responses. Such prospective sense
+making can serve to calm situations in an organization trying to make sense of a disruptive
+event. Of course, effectively using this prospective sense making and framing tactic
+presupposes that managers are in tune with the event, cognizant of their prior mental models,
+so that past thinking does not dominate how organizations and managers interpret new
+events. Finally, managers can frame events, as both a threat and an opportunity. Framing
+events as a threat may cause some discomfort to employees and stakeholders. Yet that same
+discomfort may be what is needed to disrupt rigid structures and stimulate behavior change
+that is required to deal with the effects of novel events. Sensemaking orients an organization’s
+attention to identifying and understanding relevant threats quickly. This should have a
+positive effect on how the organization responds to environmental disturbances. Therefore,
+
+Strategy in the
+era of “swans”
+
+P2a. Sense making and sense giving will have a positive effect on SAC.
+
+5.2 Fostering self-organization
+The key lesson from CAS is that leaders cannot rely on traditional control of their followers
+through offering a vision to the future as the future is unknown given the uncertainty (Marion
+and Uhl-Bien, 2001). Since order can emerge from disorder through self-directed behaviors of
+agents (employees and organizational actors), the role of strategic leaders is to act as enablers
+(Plowman et al., 2007) under uncertainty. The key role of strategic leaders under uncertainty
+then is to provide an enabling environment that fosters self-organization (Maguire and
+Mckelvey, 1999).
+Self-organization is based on localized control, meaning that individual actors interact
+directly with each other in a peer-to-peer manner (Capra, 1996). Interactions between the
+entities are also localized, meaning that the behavior of each entity is influenced by the
+behavior of its immediate peer instead of entities in the system as a whole. In self-organized
+systems, the application of simple rules leads to emergent behavior. Plow et al. (2007) argue
+that strategic leaders can foster self-organization by providing simple rules for interaction
+(for example when you sense a disruption coming, alert your peers and managers promptly)
+and encouraging novelty. The authors note that strategic leaders may need to disrupt
+existing patterns that are often rigid to stimulate novel behavior. Marion and Uhl-Bien (2001)
+suggest that strategic leaders can serve as cheerleaders to promote emergent behavior. Selforganization presumes self-management and self-leadership (Neck and Manz, 2006) on the
+part of employees. Employees need to be motivated but more importantly be empowered to
+serve as independent agents capable of engaging in self-directed behavior. Promoting selforganization requires a certain level of democratization and shared leadership would increase
+intrinsic self-motivation (Pearce and Conger, 2003). Self-organization enhances self-directed
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+behavior, local action, and emergent behavior, all of which should enhance an organization’s
+strategic adaptive capability. Therefore,
+P2b. Self-organization will have a positive effect on SAC.
+5.3 Adaptive capacity
+Preparing an organization for managing under uncertainty requires organizations to build
+their adaptive capacity. Jahn and Johansson (2018, p. 162) define adaptive capacity as “a
+system’s ability to identify, mobilize, and stabilize response resources throughout a disaster
+event.” According to Engle (2011, p. 648), the goal of adaptive capacity is “to maintain a
+repertoire of potential solutions to unforeseen problems and unpredictable variations, and
+allows for learning and adjustment despite the existence of its unalterable features”. Engle
+(2011) argues that adaptive capacity reduces an organizations’ sensitivity (i.e. the extent to
+which a system is affected after being exposed to stress) and reduces its exposure (i.e. the
+extent to which the system is physically in harm’s way). An organizations’ adaptive capacity
+helps to reduce its vulnerability in the event of a shock (Staber and Sydow, 2002; Adger et al.,
+2005). Organizations can build their adaptive capacity through at least three main paths.
+First, organizations can build redundancy as a way of increasing their adaptive capacity
+(Staber and Sydow, 2002). Indeed, Staber and Sydow (2002) suggest that creating redundancy
+on tasks can promote adaptive capacity. For example, strategic leaders can diversify their
+supply chains to ensure that disruption in one area is compensated for by sourcing from some
+other area. Unlike Dole who lost about 25 of its global suppliers, Chiquita was able to deal
+with Hurricane Mitch in 1988 because it diversified its supply chain to Australia and West
+Africa (Sheffi, 2005).
+Second, learning is an important tool for building the adaptive capacity of an organization.
+Learning ability is important because it determines how quickly an organization can adjust
+its behaviors in the case of a disturbance (Folke et al., 2005). It is important to re-examine
+fundamental assumptions in organizations as part of new learning. Questioning existing
+values and norms, multiple-loop learning (Pahl-Wostl, 2009), is what promotes an
+organizations’ adaptive capacity. Unless learning involves the questioning and possible
+alteration of existing values, the organization may fail to adapt.
+Finally, the loose coupling can increase an organization’s adaptive capacity. Staber and
+Sydow (2002, p. 417) note that a system is loosely coupled “if its elements share few variables
+in common or if common variables are weak relative to other factors influencing the
+elements.” Coupling is about linkages between the elements of a system, say departments and
+divisions. In a loosely coupled system, the various units can adjust their behavior quickly in
+response to some perceived threat. Unlike tightly coupled systems, loosely coupled systems
+have less central control and this is important for self-organized behavior. It is also easier to
+contain disturbances to local areas in a loosely coupled system so that disruptions are
+prevented from spreading throughout the system (Perrow, 1984, cited in Staber and Sydow,
+2002, p. 418). The benefits of weak ties (Granovetter, 1982) are that they promote the search
+for non-redundant information, and that can be critical to new learning and for building
+responses to disturbances. On the contrary, strong ties promote conformity, prevent the
+development of new ideas (Scott, 1995) and hinder creative thinking (Perry-Smith and
+Shalley, 2003) which is what organizations need in a crisis. Adaptive capacity relates directly
+to a system’s ability to identify, mobilize, and stabilize response to potential disruptions (Jahn
+and Johansson, 2018) and that should positively impact strategic adaptive capability.
+Therefore,
+P2c. Adaptive capacity will have a positive effect on SAC.
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+5.4 Robustness
+Taleb’s (2007) Black Swan theory suggests that robustness can be a bulwark against
+disruptions from unpredictable, high-impact events. Ongoing research in supply chain
+management has discussed robustness as a tool for managing supply chain risk and
+disruption (Durach et al., 2015). Anderies et al. (2004) defined robustness as “the maintenance
+of some desired system characteristics despite fluctuations in the behavior of its parts or its
+environment.” (p. 7). A robust system can function in the face of both internal and external
+stress without losing its basic function. Knowing how organizations build this capability is
+important.
+First, organizations can build robustness of systems and people to manage disruptions.
+Alderson and Doyle (2010, p. 840) describe at least two features of systems that contribute to
+their robustness: (1) Promoting the reliability of system components. Carefully examining the
+components of the system: whether people, physical systems such as organization structure,
+or social systems in the organization. Each of the individual components of the system must
+be reliable because a system is only reliable if its components, individually can withstand
+disruptions, without losing their functional abilities (2) modularity is another quality of a
+robust system. A modular system is one in which we can easily rearrange the components in
+response to some disturbance to make them perform better. Loose coupling, rather than the
+tight coupling of system components promotes modularity. This must be so because failure in
+one module of a tightly coupled system is quickly amplified across the system. The reverse is
+true in loosely coupled systems where the failure of one module does not necessarily mean the
+failure of the whole system.
+Second, organizations can build sensors to promote robustness. Alderson and Doyle (2010,
+p. 841) suggest that organizations can use sensors to detect an individual component failure.
+Sensors can monitor system performance by detecting individual component failures as well
+as identify external threats and disruptions to the system. According to the authors, having
+situational awareness of both system components and the environment is important, but of
+limited value, unless the system can act on the information and take appropriate action.
+Organizations need to identify the most critical components and design protocols to monitor
+those systems (Ruhl, 2014). An example of using sensors may be found in High-Reliability
+Organizations (HROs) such as aircraft carriers and nuclear plants preoccupied with failure.
+Weick et al. (1999) note that HROs are always on guard for anomalies by using sensors. Such
+organizations are known to empower and reward people to quickly report all errors as part of
+honing the organization’s improvisation skills.
+Finally, redundancy can contribute to robustness. Redundancy is a duplication of
+function. The idea is that systems with duplicate functions increase their chances of survival
+in a disturbance because the failure of the function in one instance leaves other areas to
+continue performing the same function. Although redundancy may be inefficient in some
+ways, it serves to preserve a systems’ function in the event of disruption because redundancy
+promotes multiple response options (Holling and Gunderson, 2002; Adobor and McMullen,
+2018). Robustness enhances a system’s capacity to sense turbulence, resist disruption
+without losing its integrity. Therefore,
+
+Strategy in the
+era of “swans”
+
+P2d. Robustness will have a positive effect on SAC.
+5.5 Organizational resilience
+In an era of Swans, a system’s capacity for adaptation and transformation may be more
+important than its robustness. This is because unpredictable disruptions do the most damage
+to organizations. Resilience is about a system’s capacity for adaptation and transformation.
+One of the most common definitions of resilience is that of Christopher and Peck (2004, p. 2)
+who define resilience as “the ability of a system to return to its original state or move to a new,
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+more desirable state after being disturbed.” The resilience of a system is about a system’s
+capacity for readiness, response, recovery, and growth or movement to a new and more
+desirable state after a disruption (Hohenstein et al., 2015).
+Linnenluecke (2017) suggests that resilience may be an important tool for dealing with
+disruptions, and resilience has been discussed in the organizational sciences as a tool for
+managing shock and disruption (Bhamra et al., 2011). Lengnick-Hall et al. (2011) define
+organizational resilience as the “firm’s ability to effectively absorb, develop situation-specific
+responses to, and ultimately engage in transformative activities to capitalize on disruptive
+surprises that potentially threaten organization survival.” According to Burke (2005, pp.
+634–635), “a resilient organization is characterized by redundancy, the capacity for
+resourcefulness, effective communication and the capacity for self-organization in the face of
+unanticipated demands”.
+Building a resilient organization requires that organizations build resilient individuals,
+teams, and organizations because organizational resilience is a multi-level concept (Ma et al.,
+2018). Luthans (2002) defined individual resilience as “the capability of individuals to cope
+successfully in the face of significant change, adversity, or risk and to ‘bounce back’ from
+adversity, uncertainty, conflict, and failure” (p. 702). Organizations can promote individual
+resilience by creating an organizational climate in which individuals feel empowered
+(Lengnick-Hall and Beck, 2005). A culture that builds optimism and social solidarity also
+enhances individual resilience (Ma et al., 2018). Team resilience arises when there is social
+support, cohesion, and network ties in the group (Alliger et al., 2015). Organizational resilience
+emerges via an upward influence process from individual, and team level resilience.
+Organizational resilience is promoted through flexible, adaptive structures, collaborative
+leadership, and organizational learning (Seville, 2018). Building intra-organizational trust
+also promotes adaptation (Stern and Baird, 2015). The idea here is that resilient organizations
+thrive on a culture of preparedness so surprise is not a death sentence (Hamel and
+Valikanagas, 2003). Ma et al. (2018) propose three capabilities that can sustain organizational
+resilience (1) Cognitive resilience, “the capability with which the organization perceives
+changes and interprets unfamiliar situations” (p. 256). Cognitive resilience prepares the
+organization for dealing with uncertainty. It is similar to the framing concept discussed
+elsewhere in the paper. (2) Behavioral resilience. This refers to the organization’s ability to
+develop and implement new ways of doing things in response to a disruption (Lengnick-Hall
+et al., 2011) and resourceful organizations have high cognitive resilience (3) Contextual
+resilience or an organization’s ability to draw on its storehouse of social capital and mobilize
+for quick action in the case of disruption (Ma et al., 2018, p. 256). Organizational resilience
+ensures that an organization can deal with disruptions, evolve, and when needed transform in
+response to change. Resilience should therefore enhance the strategic adaptive capability of
+an organization. Therefore,
+P2e. Resilience will have a positive effect on SAC.
+5.6 Organizational learning
+Learning, both individual and organizational is important for managing under situations of
+uncertainty (Schulte et al., 2012). First, there is some consensus that complexity limits the
+usefulness of scientific knowledge (Bohensky, 2014) and that learning that relies on existing
+mental models is unsuitable for dealing with uncertainty. That type of learning is what has
+been called single-loop learning. Pahl-Wostl (2009) notes that organizations and individuals
+that use single-loop learning approaches stick to existing mindsets where radical alternatives
+are rejected during sense making. Such an approach certainly is contrary to all the norms of
+nonlinearity and uncertainty associated with disruptive events. A second and more useful
+form of learning is second and triple-loop learning (Argyris, 2001). Double-loop learning is
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+more reflective of the challenges of managing novel situations and uncertainty. Unlike the
+single loop, double-loop learning accepts uncertainty as the new reality. Indeed, uncertainty is
+seen as an opportunity, not a paralyzing occurrence (Pahl-Wostl, 2009). Multi-loop learning
+questions existing mental models and encourages the development of new alternatives
+during sense making and new ideas are actively encouraged as part of sense making.
+Reframing situations to reflect the realities of uncertainty and unpredictability allows doubleloop learners to develop novel solutions, based not so much on science, but on reflection,
+experimentation, and adaptive learning (Carpenter et al., 2001). Finally, is triple-loop learning
+which improves further on double-loop learning by developing new worldviews to deal with
+novel events. Learning promotes organizational adaptation, and consequently strategic
+adaptive capability. Therefore,
+
+Strategy in the
+era of “swans”
+
+P2f. Learning capacity will have a positive effect on SAC.
+
+6. Reconfiguring business models (BM) for flexibility and adaptation
+Strategic leaders need to focus on their firm business model, an element of organizational
+resilience (Buliga et al., 2016). Defined as the architecture for value creation (Chesbrough and
+Rosenbloom, 2002) a business model is the framework through which a firm creates and
+delivers its value and profit proposition (Teece, 2010). Uncertainty and high impact events
+such as COVID-19 can disrupt a business model and the challenge for organizations is to both
+manage the impact of uncertainty and disruption on customer value creation drivers and
+profit models.
+Strategic leaders must focus on their business models as part of preparing organizations
+for disruption because business model transformations have a positive impact on
+performance (Amit and Zott, 2001). Strategic leaders need to move away from the
+traditional notion and mentality which suggests that developing flexible business models is
+necessary only in extreme cases of environmental changes and turbulence (Buliga et al., 2016),
+as uncertainty and turbulence are now part of the “new normal”. Therefore, building flexible
+and robust business models becomes a part of developing organizational resilience (Buliga
+et al., 2016).
+Organizations can use formal design processes to configure, as well as recalibrate their
+business models (Wei et al., 2017). Building a robust model can be useful in managing
+disruptions and help build organizational resilience. However, there are limits to a robust BM
+(Zott and Amit, 2010). For example, because a robust business model is focused on
+consistency and efficiency, it leaves the BM vulnerable to novel disturbances (Wei et al., 2017).
+For example, a supply chain associated with an efficient BM may be tightly coupled. Yet,
+loosely coupled and modular supply chains that can be quickly reconfigured may be more
+desirable under uncertainty. Therefore, building a BM that makes room for experimentation
+and redesign, maybe more suitable under conditions of uncertainty (Chesbrough, 2010).
+According to Wei et al. (2017), a flexible BM relies on trial and error, encourages learning and
+adaptation in responses to changes in the external environment.
+Building a flexible business model requires the development of dynamic organizational
+capabilities (Teece, 2010). Developing ambidextrous capabilities should promote flexible
+business models. Dynamic capabilities enable managers to recognize threats and
+opportunities in the environment and adapt their internal systems to deal with such
+threats (Teece et al., 1997). As Teece (2010) notes, developing dynamic capabilities is the
+central task of strategic leaders. According to O’Reilly and Tushman (2007), a firm must be
+ambidextrous to build dynamic capabilities. Ambidexterity refers to the ability to both
+manage existing systems and adapt in response to environmental changes. O’Reilly and
+Tushman (2007) argue that strategic leaders need to be able to sense changes and see the
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+opportunities to react to them. Related to high-impact events, this means that strategic
+leaders need to have plans and processes that allow them to recognize the impact of
+disruptions on their customers. It would be important to quickly determine the impact of
+events on customer value and profit. Assessing the impact of a disruption and designing
+changes in the BM to accommodate the new realities is important. Business model resilience
+should have a positive effect on strategic adaptive capability as it confers flexibility and
+robustness on the business model. Therefore,
+P3. Business model resilience will have a positive effect on SAC.
+
+7. Discussion and conclusions
+This conceptual paper offered some ideas for strategic leadership in an era of “swans”. Our
+framework is consistent with earlier research showing that strategic leaders have a key role
+to play in building adaptive organizations, as well as dynamic capabilities that support the
+deployment of flexible business models to ensure the continued value and profit delivery
+under conditions of uncertainty, as well as when disruptions occur (Guo et al., 2013; Buliga
+et al., 2016).
+7.1 Contributions to theory
+One reality of the new normal is that strategic leaders and organizations may need new
+worldviews more consistent with unpredictability, and uncertainty. For example, to be
+successful in the face of significant environmental uncertainty and unpredictability, strategic
+leaders may have to develop new cognitive mechanisms and mental models and broaden
+their often limited conception of environmental turbulence in terms of changes and shifts in
+technology, and demand to include the possibility of novel forms of disruption as they engage
+in business model innovation (Guo et al., 2013). The recent pandemic suggests that
+environmental turbulence may arise from unfamiliar situations requiring a change of the
+logic of the business itself (Teece, 2010), thereby amplifying the role of strategic leadership in
+building flexible business models that can be adapted when needed (e.g. Guo et al., 2013).
+Traditional theories for managing uncertainty focus on avoiding uncertainty, and search
+instead for stability. Leadership theories, including upper echelon theory, similarly seek
+control and focus on efficiency. However, these approaches are unsuitable for the challenges
+of a dynamic and unpredictable era. Traditional leadership theories may need to evolve to
+accommodate a more bottom-up, collaborative approach (Uhl-Bien et al., 2007). Reconciling
+traditional and emergent leadership approaches in organizations that are still predominantly
+bureaucratic would not be easy, and managing this sort of “entanglement” (Uhl-Bien et al.,
+2007) requires new leadership skills. Although complexity leadership is a new concept, it may
+help generate new insights about strategic leadership under uncertainty. Ma et al. (2009) link
+the nature of a firm’s interpersonal network to its strategic adaptive capability. We extend
+this line of research by showing that strategic leader behavior can be an important
+determinant of SAC. This finding is consistent with earlier findings on the important role of
+the upper echelons of organizations (Hambrick and Mason, 1984).
+Taleb (2007) is reported to have observed that COVID-19 was more than a pandemic; that
+it is an indication of the nature of the fragile world we face (Avishai, 2020). To the extent that
+this is true, it may be an invitation to management and strategy scholars to revisit our
+theories as most of these paradigms are based on Newtonian-Cartesian ontology of control,
+and certainty as uncertainty and unpredictability are the antitheses of control and prediction.
+It was Thomas Kuhn (1970) who suggested that sometimes the most important advances in
+the sciences are made when researchers do not follow established methods and criteria. In
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+some sense, those applying new theories to the understanding of strategic leadership in the
+age of “swans” may be engaged in “revolutionary science.” Perhaps revolutionary sciences
+will offer fresh perspectives to our existing theories of strategic leadership and help our
+understanding of strategic leadership under uncertainty.
+
+Strategy in the
+era of “swans”
+
+7.2 Contributions to practice
+Firstly, we argue that strategic leaders may need to reconfigure their leadership
+paradigms for managing disruptions. Leaders need to develop new mindsets, leadership
+models, and organizational capabilities for dealing with uncertainty. Indeed, creating an
+environment where leaders can emerge from all sorts of places would be an important skill
+to have and leaders can accomplish this by enabling self-leadership (Neck and Manz, 1996).
+Wheatley (1992) notes that in a time of uncertainty and chaos when people are anxious and
+frustrated, leaders should not rely on “emotions of fear and scarcity.” Instead, leaders need
+to embrace surprise, offer assurance, and hope. As Rubinstein and Firstenberg (1999, p.
+147) put it: “the new leadership requires courage to question the known present. This is
+more daring than investigating the unknown future. The new leadership is constantly
+challenging norms. Classical leadership can lead to a state of order, but it loses control in
+chaos and conflict. The new leadership thrives on leading in chaos and conflict”. Building a
+robust, adaptable, and resilient organization would be important. Robustness is important
+for initial response capacity, while resilience is needed for transformation to new fitness
+levels (Kauffman, 1995).
+Secondly, organizations need to build their strategic adaptive capabilities. SAC is a higherlevel capability and therefore requires that strategic leaders focus on organizational systems
+that prepare their organizations to be agile, sense, and interpret environmental signals that
+buffet their organization, including those that happen infrequently such as COVID-19.
+Developing this capability requires that strategic leaders and organizations change their
+frames of reference on environmental dynamism. The period of relative environmental
+stability may be irrevocably gone and accepting change, uncertainty, and unpredictability as
+the new normal requires a mental shift that is consistent with that level of disruption.
+Finally, organizations must focus on building adaptive business models. Building the
+capabilities for both exploration and exploitation or organizational ambidexterity is an
+important means for building flexibility into firm business models. Unless companies can
+satisfy their customers, even during disruptions, they face serious problems, even existential
+threats to their survival.
+7.3 Limitations and future research
+This research has some limitations. First, we make no claims of causality, as this is a
+conceptual paper. However, the paper offers a list of propositions that can be empirically
+tested. Second, the research omitted individual-level factors such as personality, dispositions,
+charisma, and emotional intelligence. However, we know that a leader’s dispositions may be a
+factor in their behavior (Samimi et al., 2020; Goleman, 1998).
+There are several research issues worthy of further exploration. First, the concept of
+strategic leadership itself would benefit from further study. The construct presently is
+defined simultaneously as an ability, function, and process (Ireland and Hitt, 1999; Davies and
+Davies, 2004). Greater conceptual clarity would enhance the usefulness of the construct to
+strategy research. Second, future studies can incorporate the individual-level factors in a
+framework to explain strategic leadership, given their effect on leadership behaviors (Tripsas
+and Gavetti, 2000). Third, how the higher-order concept of strategic adaptive capability
+affects disruptive change is another fruitful area for research. Finally, case studies of how
+specific strategic leaders led their organizations during the recent pandemic, including how
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+they made sense of this low occurrence but high impact event, would help build a knowledge
+base on what strategic leaders should do under such disruptive conditions.
+References
+Adger, W.N., Hughes, T.P., Folke, C., Carpenter, S.R. and Rockstrom, J. (2005), “Social-ecological
+resilience to coastal disasters”, Science, Vol. 309, pp. 1036-1039.
+Adobor, H. and McMullen, R.S. (2018), “Supply chain resilience: a dynamic and multidimensional
+approach”, The International Journal of Logistics Management, Vol. 29 No. 4, pp. 1451-1471.
+Alderson, D.L. and Doyle, J.C. (2010), “Contrasting views of complexity and their implications for
+network-centric infrastructures”, IEEE Transactions on Systems, Man, And Cybernetics, Vol. 40,
+pp. 839-852.
+Alfoqahaa, S. and Jones, E. (2020), “Leading at the edge of chaos: historical perspectives on the
+qualities of leadership for cultural diversity and conflict resolution”, International Journal of
+Public Leadership, Vol. 16, pp. 217-248.
+Alliger, G.M., Cerasoli, C.P., Tannenbaum, S.I. and Vessey, W.B. (2015), “Team resilience: how teams
+flourish under pressure”, Organizational Dynamics, Vol. 44 No. 3, pp. 176-184.
+Amit, R. and Zott, C. (2001), “Value creation in e-business”, Strategic Management Journal, Vol. 22 Nos
+6-7, pp. 493-520.
+Argyris, C. (2001), On Organizational Learning, 2nd ed., Blackwell Publishers, Malden, MA.
+Anderies, J.M., Janssen, M.A. and Ostrom, E. (2004), “A framework to analyze the robustness of socialecological systems from an institutional perspective”, Ecology and Society, Vol. 9 No. 1, p. 18.
+Avishai, B. (2020), “The pandemic isn’t a Black Swan but a portent of a more fragile global system”,
+The New Yorker, April 21, available at: https://www.newyorker.com/news/daily-comment/thepandemic-isnt-a-black-swan-but-a-portent-of-a-more-fragile-global-system (accessed 15
+May 2020).
+B€acklander, G. (2019), “Doing complexity leadership theory: how agile coaches at Spotify practice
+enabling leadership”, Creativity Innovation Management, Vol. 28 No. 1, pp. 42-60.
+Bar Am, J., Furstenthal, L., Jorge, F. and Roth, E. (2020), “Innovation in a crisis: why it is more critical
+than ever”, McKinsey & Company, available at: https://www.mckinsey.com/∼/media/
+McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%
+20Insights/Innovation%20in%20a%20crisis (accessed 20 June 2020).
+Barney, J.B. (1986), “Strategic factor markets: expectations, luck, and business strategy”, Management
+Science, Vol. 32, pp. 1231-1241.
+Benbya, H. and McKelvey, B. (2006), “Toward a complexity theory of information systems
+development”, Information Technology and People, Vol. 19 No. 1, pp. 12-3.
+Bhamra, R., Dani, S. and Burnard, K. (2011), “Resilience: the concept, a literature review, and future
+directions”, International Journal of Production Research, Vol. 49 No. 18, pp. 5375-5393.
+Boal, K.B. (2004), “Strategic leadership”, in Goethals, G.R., Sorenson, G.J. and Burns, J.M. (Eds),
+Encyclopedia of Leadership, SageThousand Oaks, CA, pp. 1497-1504.
+Bohensky, E.L. (2014), “Learning dilemmas in a social-ecological system: an agent-based modeling
+exploration”, Journal of Artificial Societies and Social Simulation, Vol. 17 No. 1, pp. 1-25.
+Buliga, O., Scheiner, C.W. and Voigt, K.-I. (2016), “Business model innovation and organizational
+resilience: towards an integrated conceptual framework”, Journal of Business Economics,
+Vol. 86, pp. 647-670.
+Burke, R.J. (2005), “Effects of 9/11 on individuals and organizations: down but not out!”, Disaster
+Prevention and Management, Vol. 14 No. 5, pp. 629-638.
+Capra, F. (1996), The Web of Life: A New Scientific Understanding of Living Systems, Anchor Books,
+New York, NY.
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+Carpenter, S.R., Walker, B., Anderies, J.M. and Abel, N. (2001), “From metaphor to measurement:
+resilience of what to what?”, Ecosystems, Vol. 4 No. 8, pp. 765-781.
+Carson, J.B., Tesluk, P.E. and Marrone, J.A. (2007), “Shared leadership in teams: an investigation of
+antecedent conditions and performance”, Academy of Management Journal, Vol. 50 No. 5,
+pp. 1217-1234.
+
+Strategy in the
+era of “swans”
+
+Chesbrough, H. (2010), “Business model innovation: opportunities and barriers”, Long Range Planning,
+Vol. 43 Nos 2-3, pp. 354-363.
+Chesbrough, H. and Rosenbloom, R.S. (2002), “The role of the business model in capturing value from
+innovation: evidence from Xerox Corporation’s technology spin-off companies”, Industrial and
+Corporate Change, Vol. 11 No. 3, pp. 529-555.
+Chong, D. and Druckman, J.N. (2007), “Framing theory”, Annual Review of Political Science, Vol. 10
+No. 1, pp. 103-126.
+Christopher, M. and Peck, H. (2004), “Building the resilient supply chain”, The International Journal of
+Logistics Management, Vol. 15 No. 2, pp. 1-13.
+Davies, B. and Davies, B.J. (2004), “Strategic leadership”, School Leadership and Management, Vol. 24
+No. 1, pp. 28-38.
+Davis, B. and Sumara, D.J. (2010), “If things were simple. . .: complexity in education”, Journal of
+Evaluation in Clinical Practice, Vol. 16. No. 4, doi: 10.1111/j.1365-2753.2010.01499.x.
+Durach, C.F., Wieland, A. and Machuca, J.A.D. (2015), “Antecedents and dimensions of supply chain
+robustness: a systematic literature review”, International Journal of Physical Distribution and
+Logistics Management, Vol. 45 Nos 1/2, pp. 118-137.
+Dutton, J.E. and Ashford, S.J. (1993), “Selling issues to top management”, The Academy of
+Management Review, Vol. 18 No. 3, pp. 397-428.
+Engle, N.L. (2011), “Adaptive capacity and its assessment”, Global Environmental Change, Vol. 21
+No. 2, pp. 647-656.
+Folke, C., Hahn, T., Olsson, P. and Norberg, J. (2005), “Adaptive governance of social-ecological
+systems”, Annual Review of Environment and Resources, Vol. 30, pp. 441-473.
+Friesl, M., Ford, C. and Mason, K. (2018), “Managing technological uncertainty in science incubation: a
+prospective sensemaking perspective”, R and D Management, Vol. 49 No. 4, pp. 668-683.
+Gerstner, W.-C., K€onig, A., Enders, A. and Hambrick, D.C. (2013), “CEO narcissism, audience
+engagement, and organizational adoption of technological discontinuities”, Administrative
+Science Quarterly, Vol. 58 No. 2, pp. 257-291.
+Gleick, J. (1987), Chaos: Making a New Science, Penguin Books, New York.
+Goleman, D. (1998), Working with Emotional Intelligence, Bantam Books, New York.
+Granovetter, M. S. (1982), “The strength of weak ties: a network theory revisited”, in Marsden, P.V.
+and Lin, N. (Eds), Social Structure and Network Analysis, Beverly Hills, CA, pp. 105-130.
+Guo, H., Zhao, J. and Tang, J. (2013), “The role of top managers’ human and social capital in business
+model innovation”, China Management Studies, Vol. 7 No. 3, pp. 447-469.
+Hambrick, D.C. and Mason, P.A. (1984), “Upper echelons: the organization as a reflection of its top
+managers”, Academy of Management Review, Vol. 9, pp. 193-206.
+Hamel, G. and V€alikangas, L. (2003), “The quest for resilience”, Harvard Business Review, Vol. 81,
+pp. 52-63.
+Heckscher, C. (1994), “Defining the post-bureaucratic type”, in Heckscher, C. and Donnellon, A. (Eds),
+The Post-bureaucratic Organization: New Perspectives on Organizational Change, Sage,
+Thousand Oaks.
+Hohenstein, N.-O., Feisel, E., Hartmann, E. and Giunipero, L. (2015), “Research on the phenomenon of
+supply chain resilience”, International Journal of Physical Distribution and Logistics
+Management, Vol. 45, pp. 90-117.
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+Holland, J. (1995), Hidden Order, Addison-Wesley, Reading, MA.
+Holling, C.S. and Gunderson, L.H. (2002), “Resilience and adaptive cycles”, in Gunderson, L.H. and
+Holling, C.S. (Eds), Panarchy: Understanding Transformations in Human and Natural Systems,
+Island Press, Washington, DC, pp. 25-62.
+Ireland, R.D. and Hitt, M.A. (1999), “Achieving and maintaining strategic competitiveness in the 21st
+century: the role of strategic leadership”, The Academy of Management Executive (1993-2005),
+Vol. 13 No. 1, pp. 43-57.
+Jahn, J.L.S. and Johansson, C. (2018), “The communicative constitution of adaptive capacity during
+Sweden’s V€astmanland wildfire”, Corporate Communications: An International Journal, Vol. 23
+No. 2, pp. 162-179.
+Kauffman, S.A. (1995), The Origins of Order, Oxford University Press, New York, NY.
+Konlechner, S., Latzke, M., G€
+uttel, W.H. and H€offerer, E. (2019), “Prospective sensemaking, frames,
+and planned change interventions: a comparison of change trajectories in two hospital units”,
+Human Relations, Vol. 72 No. 4, pp. 706-732.
+Kuhn, T.S. (1970), The Structure of Scientific Revolutions, 2nd ed., The University of Chicago Press,
+Chicago, IL.
+Lawrence, P.R. and Lorsch, J.W. (1967), “Differentiation and integration in complex organizations”,
+Administrative Science Quarterly, Vol. 12 No. 1, pp. 1-47.
+Lengnick-Hall, C.A. and Beck, T.E. (2005), “Adaptive fit versus robust transformation: how
+organizations respond to environmental change”, Journal of Management, Vol. 31 No. 5,
+pp. 738-757.
+Lengnick-Hall, C.A., Beck, T.E. and Lengnick-Hall, M.L. (2011), “Developing a capacity for
+organizational resilience through strategic human resource management”, Human Resource
+Management Review, Vol. 21 No. 3, pp. 243-255.
+Lichtenstein, B., Uhl-Bien, M., Marion, R., Seers, A., Orton, D. and Schreiber, C. (2006), “Complexity
+leadership theory: an interactive perspective on leading in complex adaptive systems”,
+Emergence: Complexity and Organization, Vol. 8 No. 4, pp. 2-12.
+Linnenluecke, M.K. (2017), “Resilience in business and management research: a review of influential
+publications and a research agenda”, International Journal of Management Reviews, Vol. 19
+No. 1, pp. 4-30.
+Lorenz, E.N. (1963), “Deterministic nonperiodic flow”, Journal of the Atmospheric Sciences, Vol. 20,
+pp. 130-141.
+Luthans, F. (2002), “Positive organizational behavior: developing and managing psychological
+strengths”, Academy of Management Executive, Vol. 16, pp. 57-75.
+Ma, X., Yao, X. and Xi, Y. (2009), “How do inter-organizational and interpersonal networks affect a
+firm’s strategic adaptive capability in a transition economy?”, Journal of Business Research,
+Vol. 62 No. 11, pp. 1087-1095.
+Ma, Z., Xiao, L. and Yin, J. (2018), “Toward a dynamic model of organizational resilience”, Nankai
+Business Review International, Vol. Vol9 No. 3, pp. 246-263.
+Maguire, S. and Mckelvey, B. (1999), “Complexity and management: moving from fad to firm
+foundation”, Emergence, Vol. 1, pp. 19-61.
+Manz, C.C. and Sims, H.P. Jr (1987), “Leading workers to lead themselves: the external leadership of
+self-managing work teams”, Administrative Science Quarterly, Vol. 32, pp. 106-128.
+Marion, R. and Uhl-Bien, M. (2001), “Leadership in complex organizations”, Leadership Quarterly,
+Vol. 12, pp. 389-418.
+McKelvey, B. (2001), “What is complexity science? It is really order-creation science”, Emergence,
+Vol. 3 No. 1, pp. 137-157.
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+Meril€ainen, N. and Vos, M. (2013), “Human rights organizations and online agenda-setting”, Corporate
+Communications: An International Journal, Vol. 18 No. 1, pp. 119-134.
+Mignan, A., Wiemer, S. and Giardini, D. (2014), “The quantification of low-probability–highconsequence events: part I. A generic multi-risk approach”, National Hazards, Vol. 73,
+pp. 1999-2022.
+
+Strategy in the
+era of “swans”
+
+Mintzberg, H. (1983), The Structuring of Organization, Prentice-Hall, Englewood Cliffs, NJ.
+Neck, C.P. and Manz, C.C. (1996), “Thought self-leadership: the impact of mental strategies training on
+employee cognition, behavior, and affect”, Journal of Organizational Behavior, Vol. 7 No. 5,
+pp. 445-467.
+Neck, C.P. and Manz, C.C. (2006), Mastering Self-Leadership: Empowering Yourself for Personal
+Excellence, 4th ed., Prentice-Hall, Upper Saddle River, NJ.
+Nicolis, G. and Prigogine, I. (1989), Exploring Complexity: An Introduction, W.H. Freeman,
+New York, NY.
+Nonaka, I. (1988), “Creating organizational order out of chaos: self-renewal in Japanese firms”,
+California Management Review, Vol. 30, pp. 57-73.
+O’Reilly, C.A. and Tushman, M.L. (2007), “Ambidexterity as a dynamic capability: resolving the
+innovator’s Dilemma”, Research in Organizational Behavior, Vol. 28, pp. 158-206.
+Pahl-Wostl, C. (2009), “A conceptual framework for analyzing adaptive capacity and multi-level
+learning processes in resource governance regimes”, Global Environmental Change, Vol. 19,
+pp. 354-365, doi: 10.1016/j.gloenvcha.2009.06.001.
+Pearce, C.L. and Conger, J.A. (2003), Shared Leadership: Reframing the Hows and Whys of Leadership,
+Sage Publications, Thousand Oaks, CA.
+Perry-Smith, J.E. and Shalley, C.E. (2003), “The social side of creativity: a static and dynamic social
+network perspective”, Academy of Management Review, Vol. 28 No. 1, pp. 89-106.
+Peteraf, M., Di Stefano, G. and Verona, G. (2013), “The elephant in the room of dynamic capabilities:
+bringing two diverging conversations together”, Strategic Management Journal, Vol. 34 No. 12,
+pp. 1389-1410.
+Pfeffer, J. (1993), “Barriers to the advancement of organizational science: paradigm development as a
+dependent variable”, Academy of Management Review, Vol. 18, pp. 599-620.
+Plowman, D., Solansky, S., Beck, T., Baker, L., Kulkarni, M. and Travis, D. (2007), “The role of
+leadership in emergent, self-organization”, The Leadership Quarterly, Vol. 18, pp. 341-356.
+Porac, J.F. and Thomas, H. (2002), “Managing cognition and strategy: issues, trends, and future
+directions”, in Pettigrew, A., Thomas, H. and Whittington, R. (Eds), Handbook of Strategy and
+Management, Sage, London, pp. 165-181.
+Prigogine, I. and Stengers, I. (1984), Order Out of Chaos: Man’s New Dialogue with Nature, New
+Science Library, Boulder, CO.
+Rubinstein, M.F. and Firstenberg, I.R. (1999), The Minding Organization, Wiley, New York.
+Ruhl, J.B. (2014), “Managing systemic risk in legal systems”, Indiana Law Journal, Vol. 89, pp. 559-603.
+Samimi, M., Cortes, A.F., Anderson, M.H. and Herrmann, P. (2020), “What is strategic leadership?
+Developing a framework for future research”, The Leadership Quarterly, 101353, doi: 10.1016/j.
+leaqua.2019.101353.
+Schulte, M., Cohen, N.A. and Klein, K.J. (2012), “The coevolution of network ties and perceptions of
+team psychological safety”, Organization Science, Vol. 23 No. 2, pp. 564-581.
+Scott, W.R. (1995), Institutions and Organizations, Sage, Thousand Oaks, CA.
+Seville, E. (2018), “Building resilience: how to have a positive impact at the organizational and
+individual employee level”, Development and Learning in Organizations, Vol. 32, pp. 15-18.
+Sheffi, Y. (2005), The Resilient Enterprise: Overcoming Vulnerability for Competitive Advantage, MIT
+Press, Cambridge.
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+JSMA
+
+Staber, U. and Sydow, J. (2002), “Organizational adaptive capacity: a structuration perspective”,
+Journal of Management Inquiry, Vol. 11 No. 4, pp. 408-424.
+Stacey, R. (1996), Complexity and Creativity in Organizations, Berrett-Koehler, San Francisco, CA.
+Stern, M.J. and Baird, T. (2015), “Trust ecology and the resilience of natural resource management
+institutions”, Ecology and Society, Vol. 20 No. 2, p. 14, doi: 10.5751/ES-07248-200214.
+Stigliani, I. and Ravasi, D. (2012), “Organizing thoughts and connecting brains: material practices and
+the transition from individual to group-level prospective sensemaking”, Academy of
+Management Journal, Vol. 55 No. 5, pp. 1232-1259.
+Taleb, N.N. (2007), The Black Swan. The Impact of the Highly Improbable, Random House, New York.
+Teece, D.J. (2010), “Business models, business strategy, and innovation”, Long Range Planning, Vol. 43
+Nos 2-3, pp. 172-194.
+Teece, D.J., Pisano, G. and Shen, A. (1997), “Dynamic capabilities and strategic management”, Strategic
+Management Journal, Vol. 18 No. 7, pp. 509-533.
+Thietart, R.A. and Forgues, B. (1995), “Chaos theory and organization”, Organization Science, Vol. 6,
+pp. 19-31.
+Tripsas, M. and Gavetti, G. (2000), “Capabilities, cognition, and inertia: evidence from digital imaging”,
+Strategic Management Journal, Vol. 21, pp. 1147-1161.
+Uhl-Bien, M. and Arena, M. (2018), “Leadership for organizational adaptability: a theoretical synthesis
+and integrative framework”, Leadership Quarterly, Vol. 29, pp. 89-104.
+Uhl-Bien, M., Marion, R. and McKelvey, B. (2007), “Complexity leadership theory: shifting leadership
+from the industrial age to the knowledge era”, Leadership Quarterly, Vol. 18, pp. 298-318.
+Waldman, D.A., Ramirez, G.G., House, R.A. and Puranam, P. (2001), “Does leadership matter? CEO
+leadership attributes and profitability under conditions of perceived environmental
+uncertainty”, Academy of Management Journal, Vol. 44, pp. 134-143.
+Walsh, J.P. (1995), “Managerial and organizational cognition: notes from a trip down memory lane”,
+Organization Science, Vol. 6 No. 3, pp. 280-321.
+Wei, Z., Song, X. and Wang, D. (2017), “Manufacturing flexibility, business model design, and firm
+performance”, International Journal of Production Economics, Elsevier, Vol. 193 No. C, pp. 87-97.
+Weick, K.E. (1989), “Mental models of high-reliability systems”, Industrial Crisis Quarterly, Vol. 3
+No. 2, pp. 127-142.
+Weick, K. (1995), Sensemaking in Organizations, Sage, Thousand Oaks, CA.
+Weick, K.E., Sutcliffe, K.M. and Obstfeld, D. (1999), “Organizing for high reliability: processes of
+collective mindfulness”, in Staw, B.M. and Cummings, L.L. (Eds), Research in Organizational
+Behavior, Vol. 21, JAI Press, Greenwich, CT, pp. 81-123.
+Wheatley, M.J. (1992), Leadership and the New Science. Learning about Organization from an Orderly
+Universe, Berret-Koehler Publishers, San Francisco.
+Zaheer, A. and Zaheer, S. (1997), “Catching the wave: alertness, responsiveness, and market influence
+in global electronic networks”, Management Science, Vol. 43 No. 11, pp. 1493-1509.
+Zhang, Z., Waldman, D.A. and Wang, Z. (2012), “A multilevel investigation of leader-member
+exchange, informal leader emergence, and individual and team performance”, Personnel
+Psychology, Vol. 65, pp. 49-78.
+Zhu, D.H. and Chen, G. (2015), “CEO narcissism and the impact of prior board experience on corporate
+strategy”, Administrative Science Quarterly, Vol. 60 No. 1, pp. 31-65.
+Zott, C. and Amit, R. (2010), “Business model design: an activity system perspective”, Long Range
+Planning, Vol. 43, pp. 216-226.
+Zott, C. and Huy, Q.N. (2007), “How entrepreneurs use symbolic management to acquire resources”,
+Administrative Science Quarterly, Vol. 52 No. 1, pp. 70-105.
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+Further reading
+Amit, R. and Zott, C. (2015), “Crafting business architecture: the antecedents of business model”,
+Strategic Entrepreneurship Journal, Vol. 9 No. 4, pp. 331-350.
+
+Strategy in the
+era of “swans”
+
+Corresponding author
+Henry Adobor can be contacted at: henry.adobor@quinnipiac.edu
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/jsma/article-pdf/doi/10.1108/JSMA-09-2020-0242/9774579/jsma-09-2020-0242.pdf by University of Ghan
+
+

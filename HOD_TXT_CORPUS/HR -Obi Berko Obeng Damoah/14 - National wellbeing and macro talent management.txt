@@ -1,0 +1,2409 @@
+Journal of Management & Organization (2025), 31, 761–786
+doi:10.1017/jmo.2022.86
+
+RESEARCH ARTICLE
+
+National wellbeing and macro talent management
+revisited: issues of convergence and moderating role of
+natural resource endowment in developing countries
+Alex Anlesinya1
+
+, Kwesi Amponsah-Tawiah1, Philip Kofi Adom2 and Obi Berko Obeng Damoah1
+
+1
+
+Department of Organization and Human Resource Management, University of Ghana Business School, Legon, Ghana and
+Department of Development Policy, School of Public Service and Governance, Ghana Institute of Management and Public
+Administration (GIMPA), Achimota, Ghana
+Author for correspondence: Alex Anlesinya, E-mail: alexanlesinya@gmail.com
+2
+
+(Received 6 April 2022; revised 6 October 2022; accepted 19 November 2022)
+
+Abstract
+Management scholarship targeted at addressing grand societal problems such as national wellbeing is very
+few and remains highly fragmented. Hence, this study examines macro talent management (MTM) on
+national wellbeing and the moderating role of natural resource endowment (NRE). It applies dynamic system generalised method of moments estimator to longitudinal data from 78 developing countries. The
+results show that MTM can improve subjective and economic national wellbeing. Also, NRE positively
+moderates the relationship between MTM and national wellbeing facets. Besides, convergence in both subjective and economic national wellbeing is possible, driven significantly by MTM but with heterogeneous
+regional paths. This study contributes to talent management and wellbeing theories at the macro-level,
+and further demonstrates that countries can achieve national wellbeing synergies because of MTM practices. Moreover, it incorporates NRE as a macro-level boundary condition into the human capital theory
+to demonstrate that NRE complements MTM to accelerate national wellbeing facets.
+Key words: Developing countries; macro talent management; national wellbeing; natural resource endowment; talent
+management; wellbeing convergence
+
+Introduction
+Achieving global national wellbeing (i.e., subjective and economic) is a desirable goal. However,
+countries continue to fall on different pedestal on achievements in national wellbeing. These discrepancies are the result of the widespread inequality globally with its attendant problems. Developing
+countries particularly seem to be hard hit due to the weak institutional and economic environment.
+Addressing these concerns demand a multifaceted approach. However, the approach has often times
+been biased neglecting other important channels through which national wellbeing could be
+enhanced. For example, the complex and multi-level problems of grand societal challenges stipulated
+in the sustainable development goals (SDGs) such as national wellbeing (SDG 3) can potentially be
+addressed through the promising avenues of management practices (George, Howard-Grenville,
+Joshi, & Tihanyi, 2016; Macht, Chapman, & Fitzgerald, 2020; Voegtlin, Scherer, Stahl, & Hawn,
+2022) such as talent management (TM) (Anlesinya, Amponsah-Tawiah, Adom, Damoah, &
+Dartey-Baah, 2021). However, since its emergence, the TM theory and research has focused narrowly on competitiveness of organisations to the neglect of the wellbeing of actors at various
+levels. Even when employee and societal wellbeing are examined, it is because they are believed
+to contribute significantly towards enhancing organisational competitiveness (Anlesinya &
+Amponsah-Tawiah, 2020; Thunnissen, Boselie, & Fruytier, 2013).
+© The Author(s), 2022. Published by Cambridge University Press in association with the Australian and New Zealand Academy of
+Management.
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+762
+
+Alex Anlesinya et al.
+
+Consequently, empirical studies on the impacts of macro talent management (MTM) on
+national wellbeing at the cross-country level generally and particularly in developing countries
+are very limited (Anlesinya et al., 2021). Although, development economics researchers have
+adopted a similar line of research over the years, their focus has been on nations’ investment
+in general human resource/capital development in people, with no interest in workforce differentiation (Bucci, Eraydın, & Müller, 2019; Islam, 2020; McGarry, Krisjane, Sechi, MacÉinrí,
+Berzins, & Apsite-Berina, 2021). However, MTM is more differentiated in scope. It describes
+explicit actions by governments to attract, develop and retain their knowledge workers (high-level
+skilled) and technical (mid-level skilled) workers, and therefore, not an ‘umbrella term’ for
+human capital development (HCD) in general (see Anlesinya et al., 2021; Lanvin, Evans,
+Lemière, Merdikawati, & INSEAD, 2013). Also, Ogbonnaya and Messersmith (2019) and
+Gillet, Huyghebaert-Zouaghi, Austin, Fernet, and Morin (2021) indicated that some human
+resource management (HRM) practices can have mixed effects on employee wellbeing.
+However, this has not been empirically validated in the MTM and national wellbeing literature.
+Thus, it is unclear whether MTM will improve different national wellbeing facets simultaneously
+(i.e., synergies) or will increase one facet while decreasing the others (i.e., trade-offs).
+Furthermore, the human capital theory (HCT) seems to assume that only human capital or
+talent may be crucial for achieving wellbeing (Becker, 1964). However, physical resources such
+as natural resource endowment (NRE) can serve as a boundary condition/moderator in the
+link between MTM and national wellbeing due to the unending debates of whether NRE is a
+curse or blessing (see Hussain, Ye, Usman, Mir, Usman, & Rizvi, 2020; Rahim et al., 2021;
+Sachs & Warner, 2001; Stijns, 2006). Yet, there is a paucity of research on the joint effect of
+NRE and MTM on national wellbeing. Thus, addressing this gap can advance the HCT as empirical studies on the boundary conditions of HCT and its outcomes are scarcely examined (see
+Bagdadli et al., 2021; Tan, 2014).
+Hence, applying the HCT and the dynamic system generalised method of moments (GMM) estimator to a panel data (2013–2019) from 78 developing countries globally, this research makes the following contributions to the TM and wellbeing literature. Firstly, it examined the direct effect of MTM
+on national wellbeing facets. The findings demonstrate that countries can achieve national wellbeing
+synergies because of MTM practices. By this, the study contributes to knowledge by identifying MTM
+as a novel mechanism for achieving the SDG 3 on wellbeing and health, and consequently, affirms the
+relevance of TM investments at the macro-level through the lenses of the HCT. Secondly, this study
+assessed the conditional effect of MTM on national wellbeing under differing levels of NRE. The findings contribute to enriching the debate of wealth versus resource curse effects of NRE on talent and
+HCD by showing that NRE complements with macro talent to improve wellbeing rather than crowding out macro talent investment, and subsequently highlight NRE as a useful contextual condition for
+understanding the wellbeing impacts of MTM through the lenses of the HCT.
+Thirdly, this study tested for convergence paths in national wellbeing (i.e., subjective and economic wellbeing) for the global sample as well as within the four major regions of the world.
+Previous studies on national wellbeing convergence focused on economic wellbeing (Cabral &
+Castellanos-Sosa, 2019; Peiró-Palomino, 2019). However, economic wellbeing does not capture
+indicators of subjective wellbeing, such as life satisfaction. By implication, evidence of convergence in economic wellbeing might provide a narrow reflection of the development process of
+a country. The study by Anlesinya et al., (2021) come close to achieving this goal but their
+study did not consider the role of NRE in the national wellbeing – MTM nexus as well as possible
+regional heterogeneities that could impact national wellbeing convergence path. This study
+demonstrates evidence of heterogeneous conditional convergence paths in national wellbeing,
+with different regions revealing either slower or faster convergence relative to comparable others,
+consequently, revealing an important regional dynamics in conditional convergence in national
+wellbeing. Finally, there is a question of which direction of causality is right: from MTM to
+national wellbeing or from national wellbeing to MTM. The possible reverse causality problem
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+763
+
+can cause confounding relation and weaken the claim of causality. Methodologically, this study
+addresses this concern by adopting the panel dynamic system GMM estimator which is robust
+against critical statistical problems such as heteroscedasticity errors and relies on internal instrument variables to address concerns of endogeneity. The remaining sections of the study discuss
+the literature, data and method, the results, discussions and the implications of the results.
+
+Literature review and hypotheses
+Explaining MTM concept
+
+MTM is a new emerging stream of literature on TM at the macro-level because the broader field
+of TM focuses on organisation-level, ignoring the macro-level perspective (Anlesinya et al., 2021;
+Khilji, Tarique, & Schuler, 2015; Vaiman, Sparrow, Schuler, & Collings, 2019). MTM is concerned with the attraction, development and retention of skilled workers by governments and
+nongovernmental institutions to improve outcomes for their citizens (Khilji, Tarique, &
+Schuler, 2015). In this study, it is defined as: a set of policies, programmes and actions that
+nations and their institutions implement to promote the attraction of critical talents (workers
+with high skill in leadership/top managerial positions and those with mid-skills performing technical roles), the development of their hidden and manifest talents, through investment in formal
+education, lifelong learning, training, development and empowerment programmes, establishment of quality management training institutions, and use of social and professional networks
+to equip them with vocational, technical and global knowledge skills, as well as encouraging
+their retention in order to contribute meaningfully towards the building of their nations for citizens to live fulfilling lives (Anlesinya et al., 2021, p. 779).
+Skilled and professional individuals are important group of talented workers (Cooke, 2021;
+Lanvin et al., 2013) at the macro-level. By focusing on both high-level skilled and mid-level skilled
+workers, this definition lends itself to the hybrid philosophy of TM which urges countries to not
+only focus on high potentials or performers but also take measures to improve the ability of
+workers who currently are not among the top 10–20 workers (Anlesinya et al., 2021) at the
+macro-level. The promotion of the macro view of TM is necessary to broaden its scope beyond
+its current focus at individual and firm levels.
+MTM is different from global talent management (GTM). While GTM is concerned with microand meso-level management of talents in the global arena, the focus of MTM is at the country or
+macro-level, thus, both within a single country and/or across countries (Khilji, Tarique, & Schuler,
+2015; Vaiman et al., 2019). Besides, policies/programmes to boost MTM involve giving considerations to labour market, legal and political climate, educational system and pathways for thoughtful
+career development initiatives as macro-environmental factors can enable or hinder TM efforts
+(Khilji, Tarique, & Schuler, 2015; Lanvin & Monteiro, 2019), and the harnessing of its sustainable
+dividends such as improved national wellbeing (Anlesinya et al., 2021).
+Linking MTM to national wellbeing
+
+Wellbeing is often conceptualised broadly from the objective and subjective perspectives (Anand,
+2016; Grant, Christianson, & Price, 2007; Voukelatou et al., 2021). Objective wellbeing describes
+the extent of success in possession of material resources such as income, food and housing
+(Grant, Christianson, & Price, 2007). However, subjective wellbeing is concerned with how people
+cognitively evaluate their own lives (life satisfaction), and state of happiness (Anand, 2016). This
+study focused on both subjective and economic (objective wellbeing) measures at the macro-level.
+Empirically and theoretically, MTM strategies can improve national wellbeing through various
+channels. First, Diebolt and Hippe (2019) empirically found that past regional human capital significantly explained the differences in innovation and economic development. They argued, ‘an
+increase in human capital may induce a rise in the number of innovative entrepreneurs and
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+764
+
+Alex Anlesinya et al.
+
+products, thereby indirectly spurring economic development through the channel of innovation’
+(p. 542). In Asia, Islam’s (2020) panel data results suggested that human capital (measured by
+adult literacy rate) significantly enhances economic wellbeing. Recently, in Europe, McGarry
+et al. (2021) suggested that highly qualified migrants experienced higher life satisfaction.
+While findings are useful, they neglect the potential impact of MTM on national wellbeing. An
+exception to this though, is the study by Anlesinya et al. (2021) that examined the macro impacts
+of MTM in developing countries. Their result showed decent work responds positively to MTM.
+More revealing is the finding that decent work plays an important intermediating role in the
+nexus between national wellbeing and MTM. Thus, this study contended that MTM practices
+should lead to enhancement in subjective national wellbeing because people enjoy applying
+their talents, and are happy that they have talents (technical and global knowledge competences)
+that can be utilised to overcome hardships and setbacks in life, resulting in higher life satisfaction.
+These are similar to the propositions of the HCT.
+The HCT proposes that human capital investments are capable of generating returns for improving the lot of humans in terms of enhanced social welfare (Bagdadli et al., 2021; Becker, 1964; Tan,
+2014). In particularly, MTM can promote economic prosperity because well-trained and developed
+individuals are more productive and innovative, resulting in the development of new socio-economic
+solutions. It may also endow people with management skills and technological knowledge for easy
+identification and exploitation of new business opportunities for the benefits of all (see Diebolt &
+Hippe, 2019; Tan, 2014; Teixeira & Queirós, 2016). Accordingly, from the HCT perspective, this
+study argues that MTM investments can increase economic wellbeing of people, as they can provide
+them with opportunities of earning more future income.
+Similarly, it is generally known that many developing nations’ economy, educational and
+health systems tend to face major challenges because there are inadequate talented and welltrained professionals (see Cooke, 2021) to develop innovative and sustainable solutions to address
+their socio-economic challenges. Consequently, from the HCT’s perspective, this study contends
+that MTM practices can enhance wellbeing of the larger population and not just only for highskilled and mid-skilled people or beneficiaries of MTM investments. The reason being that MTM
+practices can develop the talent of and nurture diverse-skilled professionals who would become
+more accessible to build their nations and contribute to global success through the application of
+their talent in solving socio-economic challenges that hinder the wellbeing of the larger population. For instance, if research and scientific talents apply their expertise and specialised knowledge to develop vaccines to the raging COVID-19 and future health pandemics, it will not
+only benefit them alone, but the larger population or humanity will also benefit from improved
+health and wellbeing as a result. Likewise, if entrepreneurial talents develop measures or generate
+innovative solutions to spur job creation and economic development, they will be improving their
+own wellbeing and that of the members of the general population.
+Moreover, Grant, Christianson, and Price (2007) theoretically posited that management practices can have wellbeing synergies or trade-offs impacts – that is mixed impact. For instance, they
+argued that job rotation training, through skills variety and enriched jobs, will increase psychological wellbeing but also create physical wellbeing problem. Likewise, due to enhanced earning
+prospects, reward systems will improve economic wellbeing but can harm social wellbeing due to
+competitive behaviours, which erode trust. Recently, Ogbonnaya and Messersmith (2019) and
+Gillet et al. (2021) have similarly found in the mainstream HRM field that HRM practices
+have mixed effects on employee wellbeing. However, this claim has not been empirically tested
+in the MTM literature and national wellbeing research. Hence, through the lenses of the HCT
+and related empirical literature, this study anticipates a synergistic impact of MTM rather tradeoffs impact on national wellbeing, and hypothesised that:
+Hypothesis 1: MTM will have a significant positive and synergic impact on national wellbeing
+– subjective (hypothesis 1a) and national economic wellbeing (hypothesis 1b).
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+765
+
+Moderating role of NRE in MTM and national wellbeing
+
+Prior evidence suggests that NRE can better or harm both national subjective and economic wellbeing. For instance, Muhanji, Ojah, and Soumaré (2019), using panel data from selected African
+countries, found that national economic wellbeing improves in mineral/oil-rich countries as they
+make them to earn more foreign exchange to fund public and social investments. However, aggregated natural resource rents diminished societal wellbeing and they attributed this to the low foreign exchange earning potential of non-mineral/oil commodity exports. In contrast, Lu and
+Sohail (2022) showed that natural capital contributes positively to happiness, health and overall
+human wellbeing over time in China. Similarly, Apergis and Majeed (2021) suggested in a study
+of 95 countries that green natural view endowment improves national happiness.
+Thus, this mixed effect of NRE (Apergis & Majeed, 2021; Lu & Sohail, 2022; Muhanji, Ojah, &
+Soumaré, 2019) on national wellbeing, as well as the significant impact of human capital (see Islam,
+2020; McGarry et al., 2021) and MTM (Anlesinya et al., 2021) on national wellbeing discussed earlier suggest that NRE can moderate the link between MTM and national wellbeing. However, the
+controversy of whether NRE is a curse (Mohtadi, 2022; Rahim et al., 2021; Sachs & Warner,
+2001) or blessing (Alexeev & Conrad, 2009; Hussain et al., 2020; Islam, Zhang, & Managi, 2022)
+makes it unclear whether NRE and MTM can interactively spur or hamper national wellbeing.
+Sachs and Warner (1995) started the argument of resource curse. In their study, they found
+robust negative effect of NRE on economic growth. Later empirical studies, which confirmed
+the results of Sachs and Warner, led Sachs and Warner (2001) to conclude that the empirical evidence of resource is not a bulletproof, but it is quite strong. However, Alexeev and Conrad (2009)
+have strongly rejected the claim of resource curse.
+One of the transmission channels that is central to this controversy is HCD. According to
+Sachs and Warner (1999), resource abundance leads to the neglect of investment in human capital, as it gives false sense of financial and economic security to governments. Gylfason (2001)
+provided strong empirical support, claiming, ‘their natural wealth may blind them to the need
+for educating their children’. They found that gross secondary enrolment; expected years of
+schooling for girls and public expenditure on education have inverse relationship with the
+share of natural capital in national wealth. Thus, natural capital crowds-out human capital.
+Birdsall, Pinckney, and Sabot (2001) argued that investment in education was limited due to
+lack of money. Therefore, resource abundance should help remove the constraint on human capital investment. However, the data showed otherwise. They found that resource-abundant countries, on average, invest less in education compared with resource-poor countries. Recently,
+Mohtadi (2022) employed longitudinal data from 161 countries and using GMM analysis indicated total resource rents oppress quality-adjusted human capital accumulation, indicating a
+crowding-out effect.
+However, Stijns (2006) questioned the resource curse evidence by asking, why are rich-parents
+children more likely to be highly educated despite the possibility of wasting a fair share of their
+wealth on invaluable? According to Stijns (2006), there is a potential ‘wealth effect’ that might be
+explaining this outcome. Synonymously, the author argued that similar ‘wealth effects’ could
+make resource-rich countries invest more in human capital despite spending considerable
+amounts on other things. In their empirical study, the author found that mineral wealth has a
+significant and positive effect on human capital. A one-dollar shock in resource rent generates
+about five cents of extra educational expenditure per year. Recently, Rahim et al. (2021) indicated
+that human capital and NRE can collectively enhance economic welfare and further noted that
+HCD buffers against the impacts of resource curse on economic growth in the Next Eleven countries. Also, in Pakistan, Islam, Zhang, and Managi (2022) revealed that while human capital base
+of the country has expanded over the years through certain government policies, natural capital
+has decreased. They therefore warned that failure to arrest the trade-offs between human capital
+and natural capital accumulation could have dire impacts on economic welfare.
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+766
+
+Alex Anlesinya et al.
+
+Given that TM correlates with HCD, it is reasonable to hypothesise from the above that, NRE
+is a macro-level boundary condition that can strengthen or weaken the effect of MTM on national
+wellbeing. Thus, while the HCT focuses solely on intangible resources such as macro talent in
+realising socio-economic outcomes such as subjective and economic wellbeing, it is possible
+for physical resources such as NRE to serve as a boundary condition for MTM by having a substitution or complementary effects on MTM and its outcomes. Consequently, this study seeks to
+make theoretical contribution by incorporating NRE as a boundary condition into the HCT in
+understanding national wellbeing impacts of MTM. Hence:
+Hypothesis 2: NRE will positively moderate the relationship between MTM and national wellbeing
+– subjective (hypothesis 2a) and national economic wellbeing (hypothesis 2b); such that the relationship will be stronger for countries with high NRE and weaker for countries with less NRE.
+Convergence in national wellbeing
+
+Divergence in wellbeing can lead to major conflict because those who felt left behind often
+become frustrated and develop a sense of them being deliberately deprived (Anlesinya, 2021;
+Neumayer, 2003). Hence, convergence along various parameters of human wellbeing is of a
+major interest for academics and policy makers alike (see Neumayer, 2003; Palma & Reis,
+2019; Pereira, Camanho, Marques, & Figueira, 2021). According to Neumayer (2003), people
+are eager to see their level of economic wellbeing improve but also converging to that of the
+wealthiest. Thus, convergence is when the gap between best and worst performers declines
+over time (Pereira et al., 2021). Accordingly, in this study, national wellbeing convergence is operationalised as a situation whereby countries with low wellbeing will see their wellbeing increase at
+a faster rate compared to countries with better wellbeing, leading to reduction in wellbeing differences/gaps between countries, or regions over time. Convergence referred here is ‘conditional’
+and not ‘absolute’. The latter assumes a common steady-state equilibrium for all countries, while
+the former assumes different steady-state conditions, driven by country-specific observed or
+unobserved heterogeneities.
+Empirically, Pereira et al. (2021) assessed convergence in SDG 3 performance among the six
+World Health Organisation (WHO) regions from 2016 to 2020, and found that while two regions
+(Americas and Eastern Mediterranean) were partially convergent, two were fully divergent
+(South-East Asia and Africa). However, the other two (Western Pacific and European) maintained a stable wellbeing performance. Also, Palma and Reis (2019) showed that economic wellbeing in Portugal was behind that of most Western European economies prior to the 18th century
+but convergence was achieved by mid-18th century. Earlier, Raiser, Wes, and Yilmaz (2016)
+found that Poland and Turkey have joined high-income countries (convergence in income) in
+the European Union through the benefits of global integration, macroeconomic discipline and
+private entrepreneurship. Similarly, Cuaresma, Havettová, and Lábaj (2013) showed that HCD
+has emerged as a major contributor to accelerating income convergence process among emerging
+economies in Europe.
+Moreover, the heterogeneity that exists among regions implies that the issue of convergence
+path should be approached not from a global perspective, as this hides prevalent regional dynamics but regional convergence. However, only a few studies have investigated regional convergence.
+For instance, Peiró-Palomino’s (2019) empirical evidence indicated that great disparities exist in
+economic convergence across the Organisation for Economic Co-operation and Development
+regions with no signs of convergence over the periods investigated but the regions were differentiated by two clubs of low and high wellbeing. Likewise, in Italy, Ferrara and Nisticò (2012) found
+that the level of dispersion in economic wellbeing among the Italian regions has shrunk over the
+periods analysed, even though the ranking of the regions has not changed substantially. Prior to
+this, Rentfrow, Mellander, and Florida’s (2009) state-level comparison of wellbeing in the USA
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+767
+
+showed the existence of regional differences in wellbeing, with higher wellbeing reported in states
+where people are wealthier, better educated, more tolerant and emotionally stable compared to
+residents of states with comparatively low well-being levels. Other studies also indicated that wellbeing is higher in regions that are characterised by high acceptance for democratic values
+(Stevenson & Wolfers, 2008), and regional integration (Cabral & Castellanos-Sosa, 2019).
+Although the above studies have contributed to enhancing the knowledge of possible convergence in wellbeing, they have focused mainly on economic (objective) wellbeing to the neglect of
+subjective wellbeing indicators such as life satisfaction. Likewise, while these studies provide great
+insight about potential differences in wellbeing by geographical regions, there is dearth of empirical evidence on regional variations in the paths of national wellbeing convergence. Consequently,
+this study sought to extend the current wellbeing convergence discourse by arguing that:
+Hypothesis 3: There will be a conditional convergence in national wellbeing – subjective
+(hypothesis 3a) and economic national wellbeing (hypothesis 3b) in developing countries globally but the paths of convergence by regional locations will be heterogeneous.
+Conceptual framework
+
+The study’s hypotheses are summarised in Figure 1. Through the lenses of the HCT and the
+extant related empirical literature, the first hypothesis argued that MTM will synergistically
+enhance national subjective (hypothesis 1a) and economic wellbeing (hypothesis 1b) as it can
+simultaneously create more prosperous and happier individuals. Moreover, because earnings generated from the exploitation of natural resources can increase investment in macro talent accumulation to better the wellbeing of citizens, this study contended through the HCT’s
+perspective and the associated ‘wealth effect’ view of abundant natural capital that, the direct
+effect of MTM on national subjective (hypothesis 2a) and economic wellbeing (hypothesis 2a)
+will be greater in natural resource-rich countries relative to natural resource-poor countries.
+Besides, as countries strive to achieve the SDG 3, it is important to show the extent to which
+past underperformers in national wellbeing are catching-up with high performers, and to
+bring in management dimension of the wellbeing convergence literature. Convergence at the global level may be a far-fetch objective to achieve compared with convergence paths in regions but
+studies on regional convergence in wellbeing are significantly limited. Hence, hypothesis 3 tested
+for convergence paths in national subjective wellbeing (hypothesis 3a) and economic wellbeing
+(hypothesis 3b) for the global sample as well as within the four major regions of the world.
+Thus, it is expected that past national wellbeing will have a significant negative impact on the
+growth of or changes in national wellbeing as it will suggests that the gap between best and
+worst performers in wellbeing are declining over time, and hence, existence of evidence of convergence. As noted earlier, this study focuses on ‘conditional’ and not ‘absolute’ convergence –
+convergence is conditioned on certain conditions (in this case, MTM, NRE and the socioeconomic variables which are used as control variables). Finally, this study controlled for the
+effects of different socio-economic factors, and year-fixed effects (see methodology for their
+justifications).
+
+Data and method
+Research design and sample
+
+This study adopted panel research design. Panel research is basically a type of research that utilised a data collected over a meaningful period of time (Baltagi, 2005; Hsiao, 2022). This design
+was used because; first, it increases confidence in drawing conclusions about causality. Second,
+wellbeing changes are time varying. Hence, the panel technique is appropriate as it can show
+how TM strategies capture changes in national wellbeing over time (see Baltagi, 2005; Hsiao,
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+768
+
+Alex Anlesinya et al.
+
+Fig. 1. Conceptual framework.
+
+2022). Third, the empirical TM literature is replete with cross-sectional design (Anlesinya,
+Dartey-Baah, & Amponsah-Tawiah, 2019), which is incapable of handling intertemporal dynamics and unobserved country-specific heterogeneities, as well as omitted variable bias (Hsiao, 2022;
+Zhang & Adom, 2018). Panel design addresses concerns of intertemporal dynamics and unobserved heterogeneities.
+In terms of sample and data, this study focused on developing countries because they faced
+greater problems with human wellbeing compared to their developed counterparts (Anlesinya
+et al., 2021). It used unbalanced panel data from 2013 to 2019 from 78 developing countries
+from the four main regions globally (see Appendix A). The World Bank (2019a) defined developing countries on the basis of income as countries within the middle- and lower-income categories. The 2013 as the index year was based on data availability. Also, the expectation
+maximisation method was applied to compute for missing values as it has the capacity to handle
+different sample sizes and percentage of data missing to produce more efficient estimates (Gold &
+Bentler, 2000). This consequently, has converted the unbalanced panel data to a balanced panel of
+546 country-year observations. Although unbalanced panel is a norm in econometric settings, it
+is easier to handle balanced panels (Baltagi, 2005; Hsiao, 2022).
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+769
+
+Study variables
+
+MTM was measured using the Institut Europeen d’Administration des Affaires’s global talent competitiveness index (GTCI) (Lanvin & Monteiro, 2019) consistent with Anlesinya et al. (2021). The
+GTCI is appropriate for the following reasons: first, organisations use attraction–development–
+retention framework for managing their talented employees. The GTCI is measured within
+this framework too (Lanvin et al., 2013). Second, with differentiation (i.e., either purely exclusive
+or hybrid focus) being a key feature of TM theory, the GTCI’s construction is in line with the
+workforce differentiation principle (Anlesinya et al., 2021; Lanvin et al., 2013), and it adopts
+the hybrid TM focus (Anlesinya et al., 2021). The GTCI measures a set of practices or actions
+by governments to promote TM in their country based on a set of inputs and outputs, with
+the average composite score ranging from 0 to 100. Thus, the GTCI is an input–output model
+within the attract–develop–retain framework employed by multinational corporations in managing their organisational talents. The input aspect of the GTCI has four dimensions: enable pillar (measuring the regulatory, market, business and labour environments within a country);
+attract pillar (assesses external openness in the form of brain gain, and attraction of businesses,
+and people; and internal openness in the form of tolerance of minorities and migrants, social
+mobility, social inclusion and gender development equality); grow pillar (measures enrolment
+and quality of formal education, lifelong learning, access to growth opportunities and collaborations) and retain pillar (assesses countries’ efforts regarding social and human sustainability,
+proxy by brain retention, pension systems and personal safety within a country). The GTCI’s
+two output dimensions include: the vocational and technical skills; and global knowledge skills
+pillars. The vocational and technical skills pillar measures countries’ mid-level skills in terms
+of availability of technicians and associate professionals; and employability performance in
+terms of the ease of finding skilled employee, relevance of education system to the economy,
+and skills matching with both tertiary and secondary educations. Finally, the global knowledge
+skills measure a country’s high-level skills in terms of senior officials and managers, researchers,
+scientists, engineers and professionals, workforce and population with tertiary education; and talent impacts as measured by innovative outcomes, new product entrepreneurial activity, new business intensity and number of scientific journal articles.
+National wellbeing: National wellbeing is operationalised in this study from the two main classifications of wellbeing measures: objective and subjective measures. The use of both subjective
+wellbeing and economic wellbeing is essential because wellbeing is a multi-dimensional phenomenon (Anand, 2016; Anlesinya et al., 2021).
+Objective national wellbeing: economic wellbeing was measured using gross domestic product
+(GDP) per capita and it was sourced from the World Development Indicator (WDI) database.
+Although the current measurement of GDP is not comprehensive as it should be, it is still a
+very useful measure of economic wellbeing as it is able to capture changes in economic wellbeing
+(Dynan & Sheiner, 2019).
+Subjective national wellbeing was measured using life satisfaction. Life satisfaction does very well
+in capturing the psychological and subjective health domains of people’s lives. In this study, life
+satisfaction was measured using the Cantril Life Ladder from the World Database of Happiness.
+Life Ladder data are collected by the Gallup World Poll (GWP) after the posing of the following
+question to global respondents; ‘please imagine a ladder, with steps numbered from 0 at the bottom
+to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the
+ladder represents the worst possible life for you. On which step of the ladder would you say you
+personally feel you stand at this time?’ (Helliwell, Huang, & Wang, 2017, p. 1). Cantril ladder of
+life is a purer and more useful measure of life evaluation (Kahneman & Deaton, 2010) and has
+been used by prior studies (e.g., Anlesinya et al., 2021; Sachs, 2016). It is important to recognise
+that subjective wellbeing (i.e., life satisfaction) was collected using a single-item scale. Single item
+‘scales are not the best measures of wellbeing available, but they are very widely used in
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+770
+
+Alex Anlesinya et al.
+
+international surveys and have been found to have acceptable levels of reliability and validity’
+(Anand, 2016; Diener, Suh, Lucas, & Smith, 1999, pp. 277–278).
+NRE was proxy using the total amount of natural resource rent as percentage of GDP and it is
+sourced from the WDI database. A natural resource rent refers to the revenues that countries earn
+from the extraction of their natural resources. It measures the extent to which a country is
+endowed with natural resources (Shahbaz, Destek, Okumus, & Sinha, 2019). Specifically, total
+natural resources rents are the ‘sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents, and forest rents’. This economic rent is not synonymous with rents from property
+income, which involves making payments to landowners by a tenant (World Bank, 2020).
+Control variables: First, the study controlled for country size, using log of population size in
+terms of the total number of residents in a country irrespective of their citizenship and legal status. According to the World Bank (2019b), significant increases in population size can have negative impact on natural resources and social infrastructure, leading to negative impact on
+wellbeing. This is because, higher population growth will worsen the demand for food, energy,
+water, social services and infrastructure. Again, MTM and NRE may correlate with some unobserved regional specific time-invariant characteristics. Consequently, the study adjusted the model
+to include regional effects, using regional dummies, whereby; if a country is from the ‘Africa
+region = 1, and 0 = otherwise; Latin America and Caribbean (LAC) = 1, and 0 = otherwise;
+Asia = 1, and 0 = otherwise’, with Europe being the reference group.
+The study also controlled for inflation using the Consumer Price Index to gauge the effect of
+macroeconomic stability as it can affect MTM performance and wellbeing. Tourism using the
+number of international tourist arrivals was included as additional controls because it is generally
+noted to affect skill development, knowledge transfer, wellbeing and economic growth. Next, the
+study controlled for employment using employment ratio. Employment ratio describes the percentage of a nation’s population of working age that is employed. The data on inflation, tourism
+and employment were sourced from the WDI database of the World Bank. The effect of social
+support was accounted for because previous studies such as Helliwell, Huang, Wang, and
+Norton (2020) showed that it is major determinant of wellbeing. In this study, social support
+is the extent to which people have someone to count on in difficult times. It is a national average
+of the binary response (either 0 or 1) to the GWP question ‘If you were in trouble, do you have
+relatives or friends you can count on to help you whenever you need them, or not?’ The social
+support data were sourced from the World Database of Happiness.
+Empirical model
+
+To test the first two hypotheses in this study, two main equations were estimated. Equation 1
+shows the model of level national wellbeing and MTM, controlling for the interaction of
+MTM and NRE. ‘d’ captures regional dummies, and ‘Year dummies’ captures year-fixed effects.
+From Equation 1, if NRE is complementary with MTM, then the coefficient of the interactive
+term (i.e., ‘δ’) should be positive and statistically significant. Otherwise, natural capital may be
+seen to crowd-out macro talent. Inclusion of the interaction of MTM and NRE in the model
+while having in addition to their respective levels included in the same model creates identification problem (i.e., multicollinearity). To address this concern, this study mean-centred MTM and
+NRE variables. Further, demeaning MTM and NRE improves the interpretability of the direct
+effect of MTM as no country reported zero NRE in the actual data.
+log (NWBit ) = a0 + b log (MTMit ) + glog(NREit ) + dlog(MTMit )∗log(NREit )
++ log(Country sizeit ) + log(Inflationit ) + log (Employmentit )
+
+(1)
+
++ log (Tourismit ) + Social supportit + di + Year dummies + 1it
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+771
+
+The postulated relationship in Equation 1 could be confounded due to omitted variable bias.
+To address this concern and increase the robustness of the estimates generated by the statistical
+models, this study controlled for a range of socio-economic factors to address potential omitted
+variable bias, such as country size, inflation, employment level, tourism, social support and year
+dummies to address time varying common shocks and business cycle effects.
+Furthermore, following prior researchers (e.g., Adom & Adams, 2020; Neumayer, 2003), the
+study adopted the β-convergence procedure for testing for convergence in national wellbeing,
+which involves estimating Equation 2. The β-convergence tests whether countries or individuals
+with low performance in the past have performed comparatively better to past high performers.
+‘β-convergence’ exists when the estimated ‘β’ in Equation 2 is negative and statistically significant.
+Without the controlled variables (i.e., MTM and population), the estimated β reflects absolute
+β-convergence, which assumes the same steady-state condition for all countries. However, it
+becomes conditional once we control for MTM, NRE and other socio-economic factors. Of particular importance, here is how the ‘β’ coefficient evolves as we control for MTM. If MTM is relevant in propelling convergence path, we should expect an increase in the ‘β’ coefficient once we
+control for MTM. Consequently, in the result section, the study first estimated Equation 2 without the controls and then later introduced the control variables. Equation 2 shows the equation
+for estimating β-convergence.
+
+
+NWBit
+log
+= a + b log (NWBi,t−1 ) + dlog(MTMit ) + glog(NREit )
+NWBi,t−1
+(2)
++ ulog(Country sizeit ) + log(Inflationit ) + log (Employmentit )
++ log (Tourismit ) + Social supportit + di + Year dummies + 1it
+Estimation technique
+
+The postulated relationships in both Equations 1 and 2 assume causality from MTM to national
+wellbeing measures. However, improvement in national wellbeing could also influence TM.
+Economic prosperity affects multinational, small, large and regional demand for and their ability
+to recruit and retain talent workers. Economies experiencing economic growth are better positioned compared to the compatriot to expand and invest in talents. The Towers Watson
+Global Talent Management and Rewards survey, which included 1,176 global companies,
+revealed that cuts during recession limit the companies to engage employees and also to recruit
+top talent1. This potential reverse causality problem confounds the relationship weakening the
+claim of causality from MTM to national wellbeing. The simultaneous two-step dynamic system
+GMM estimator is adopted as the main estimation technique due to its superiority in dealing with
+heteroscedasticity errors and endogenous regressors. The GMM technique relies on lags of
+endogenous variables as instruments. In this context, it means using lags of MTM to instrument
+MTM. Using lags of MTM as instrument variables breaks the causality from national wellbeing as
+current national wellbeing does not influence previous MTM. However, previous MTM can influence current national wellbeing. Following previous scholars, the number of lags is limited to a
+maximum of three because higher lags generally can have adverse effect on GMM instrumentation (Adom, Agradi, & Vezzulli, 2021).
+Arellano and Bond (1991) proposed GMM estimator (difference GMM model) in which
+lagged exogenous variables are used as instruments for the first differenced, lagged outcome variable to address endogeneity problems. But it was established later that these lagged variables tend
+to provide insufficient information regarding the first differences (Arellano & Bover, 1995;
+Blundell & Bond, 1998). Hence, Blundell and Bond (1998), building on Arellano and Bover’s
+(1995) work, proposed a system estimator that leverages further moment conditions (internal
+1
+
+https://www.td.org/magazines/td-magazine/improving-economy-boosts-talent-management-efforts.
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+772
+
+Alex Anlesinya et al.
+
+controls) on both first differences as well as levels, with lagged first-differences of the series utilised as instruments in the levels equation. The system GMM estimator mitigates potential bias
+associated with finite samples and the difference estimator. Both the first difference, and system
+GMM may be estimated using either one-step or two-step methods (Blundell & Bond, 1998).
+This study used the simultaneous two-step system GMM estimator as it utilises residuals from
+the one-step estimates to produce estimates that are more efficient than estimates of one-step
+system GMM estimator (see Adom, Agradi, & Vezzulli, 2021; Arellano & Bover, 1995; Blundell
+& Bond, 1998). Moreover, it has the capacity to control for unobservable country-specific
+effects by allowing for the inclusion of country-specific fixed effects and regional dummies
+(Arellano & Bover, 1995; Blundell & Bond, 1998). It is also suitable for a short panel
+(Diaz-Fernandez, Bornay-Barrachina, & Lopez-Cabrales, 2017) like the 7-years as used in
+this present study.
+Importantly, this study utilised the GMM estimator over the static panel data estimators
+(fixed-effect and random-effect) because human wellbeing is dynamic over a period and can
+be appropriately tracked using a dynamic rather than static panel data estimators.
+
+Results
+Preliminary analyses
+
+This study investigated endogeneity by using the Durbin–Wu–Hausman test. The decision rule
+is that when the p-value for test of residual (u) is significant, it means endogeneity is present;
+the estimates may be biased. Our results of residuals are insignificant, with the exception of life
+satisfaction at the 5% level. However, the use of the GMM estimator has helped to address this
+as it is robust against endogeneity (Adom, Agradi, & Vezzulli, 2021; Arellano & Bond, 1991;
+Blundell & Bond, 1998). Similarly, results of the Breusch–Pagan/Cook–Weisberg test are all significant, implying that heteroscedasticity was present. These problems of heteroscedasticity
+were handled by transforming the dependent variables (Baltagi, 2005), and by utilising
+GMM as it has the ability to robustly handle heteroscedasticity to produce more efficient
+and reliable estimates (Adom, Agradi, & Vezzulli, 2021; Arellano & Bond, 1991; Blundell &
+Bond, 1998). In addition, normality was assessed using skewness and kurtosis, and the results
+are within the threshold of ±3.29 for a normal distribution (Field, 2009). Also, the Pearson correlation results shown in Table 1 showed that the correlations between the independent variables raise no multicollinearity issues, which consequently was confirmed by the variance
+inflation factor test of multicollinearity.
+Moreover, to ensure maximum confidence in GMM results, it is critical that the assumptions
+of instrument validity; and no second-order serial correlation in the first-differenced residuals
+are satisfied (Arellano & Bover, 1995; Blundell & Bond, 1998). The assumption of no
+second-order serial correlation was tested using the Arrelano–Bond test (Arellano & Bover,
+1995; Blundell & Bond, 1998). The results (see Tables 2 and 3) showed that there is absence
+of second-order serial correlations. Also, Sargan’s over-identification test was used to assess
+the validity of the instruments. The null hypothesis states that ‘the instruments as a group
+are exogenous’. Hence, an insignificant result or a higher p-value is preferred (Mileva, 2007).
+The results of the Sargan test (see Tables 2 and 3) attested to the validity of the instruments.
+Likewise, there are no instrument proliferation problems in our research. Instrument proliferation occurs when the number of instruments is more than the number of the group of countries (Adom, Agradi, & Vezzulli, 2021). These, together affirmed the quality of the overall
+estimated models. To avert instrument proliferation (Adom, Agradi, & Vezzulli, 2021) with
+respect to both Europe (which has 10 countries) and LAC (16 countries), this study merged
+these two regions under the name ‘West/Western region’. This applies only to the regional analyses and not the main (global) model.
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+1.65
+
+.97
+
+8.82
+
+3.57
+
+16.68
+
+2. Economic wellbeing (log)
+
+3. MTM (log)
+
+4. Country size (log)
+
+.47
+
+.40
+
+.78
+
+14.74
+
+.81
+
+.33
+
+.21
+
+.33
+
+7. Social support
+
+8. Tourism (log)
+
+9. NRE (log)
+
+10. African region
+
+11. LAC region
+
+12. Asian region
+
+−.10**
+−.26**
+
+−.19***
+−.04
+
+−.50***
+
+−.52***
+
+.01
+
+.14***
+
+.23***
+
+−.26***
+
+−.14***
+
+.51***
+
+.49***
+
+.22***
+
+.45***
+
+−.05
+
+−.03
+
+.49***
+
+.72***
+
+1.00
+
+2
+
+.45***
+
+.63***
+
+1.00
+
+1
+
+***, **, *Significant at 1% (.01), 5% (.05), and 10% (.1), respectively.
+
+.47
+
+1.71
+
+1.56
+
+.10
+
+.24
+
+1.38
+
+4.04
+
+5. Inflation (log)
+
+6. Employment (log)
+
+.21
+
+.93
+
+.20
+
+1.60
+
+1. Life satisfaction (log)
+
+SD
+
+Mean
+
+Variables
+
+Table 1. Descriptive and correlation analysis
+
+.12***
+
+.12***
+
+−.40***
+
+−.26***
+
+.46***
+
+.45***
+
+−.16**
+
+−.21***
+
+−.12**
+
+1.00
+
+3
+
+−.03
+.01
+
+−.10**
+.19***
+
+.08
+
+−.01
+
+.38***
+.02
+
+−.07
+
+−.42***
+
+−.12**
+
+.26***
+
+1.00
+
+7
+
+.16**
+
+.12**
+
+.25***
+
+−.05
+
+.25***
+
+−.07
+
+.31***
+
+.34***
+
+.03
+
+−.08*
+
+−.16**
+
+1.00
+
+6
+
+−.02
+
+1.00
+
+5
+
+.09**
+
+.25***
+
+1.00
+
+4
+
+.09**
+
+.10**
+
+−.20***
+
+−.02
+
+1.00
+
+8
+
+−.12***
+
+−.03
+
+.22***
+
+1.00
+
+9
+
+−.51***
+
+−.37***
+
+1.00
+
+10
+
+−.38***
+
+1.00
+
+11
+
+1.00
+
+12
+
+Journal of Management & Organization
+773
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+774
+
+Alex Anlesinya et al.
+
+Table 2. System GMM predicting national wellbeing from MTM and NRE
+log(life satisfaction)
+
+log(economic wellbeing)
+
+log(composite national
+wellbeing index)
+
+Model 1
+
+Model 3
+
+Model 5
+
+Model 2
+
+Model 4
+
+Model 6
+
+−.328***
+
+−.824***
+
+−.283***
+
+−.569***
+
+−.295***
+
+−1.710***
+
+(.025)
+
+(.101)
+
+(.016)
+
+(.045)
+
+(.025)
+
+(.344)
+
+−.073***
+
+−.586***
+
+−.020
+
+−.447***
+
+.050
+
+−1.560***
+
+(.019)
+
+(.086)
+
+(.018)
+
+(.061)
+
+(.042)
+
+(.433)
+
+–
+
+–
+
+1.955***
+
+1.106***
+
+1.935***
+
+.203
+
+–
+
+–
+
+(.056)
+
+(.123)
+
+(.153)
+
+(.691)
+
+.031
+
+.160*
+
+.513***
+
+.360***
+
+.451***
+
+.417***
+
+(.46)
+
+(.082)
+
+(.137)
+
+(.104)
+
+(.129)
+
+(.137)
+
+Africa
+
+–
+
+−3.082
+
+–
+
+−29.398*
+
+–
+
+−45.799
+
+–
+
+(4.308)
+
+–
+
+(16.298)
+
+–
+
+(58.079)
+
+Asia
+
+–
+
+−2.282
+
+–
+
+−32.999
+
+–
+
+−69.443
+
+–
+
+(3.911)
+
+–
+
+(23.257)
+
+–
+
+(112.133)
+
+LAC
+
+–
+
+−1.623
+
+–
+
+−23.741*
+
+–
+
+−11.233
+
+–
+
+(6.493)
+
+–
+
+(13.710)
+
+–
+
+(26.695)
+
+Country size (log)
+
+–
+
+.216
+
+–
+
+1.682**
+
+–
+
+−.127
+
+–
+
+(.304)
+
+–
+
+(.703)
+
+–
+
+(.954)
+
+Wellbeingt−1 (log)
+
+Wellbeingt–2 (log)
+
+Wellbeingt–3 (log)
+
+MTM (log)
+
+–
+
+.010
+
+–
+
+.030*
+
+–
+
+.035*
+
+–
+
+(.008)
+
+–
+
+(.016)
+
+–
+
+(.019)
+
+Employment (log)
+
+–
+
+1.158**
+
+–
+
+.793
+
+–
+
+1.042**
+
+–
+
+(.488)
+
+–
+
+(.633)
+
+–
+
+(.458)
+
+Social support
+
+–
+
+.133
+
+–
+
+.018*
+
+–
+
+−.117
+
+–
+
+(.175)
+
+–
+
+(.216)
+
+–
+
+(.300)
+
+Inflation (log)
+
+–
+
+−.002
+
+–
+
+.034***
+
+–
+
+.029
+
+–
+
+(.020)
+
+–
+
+(.012)
+
+–
+
+(.029)
+
+NRE (log)
+
+−.041**
+
+−.005
+
+.053**
+
+−.019
+
+.059**
+
+−.093**
+
+(.010)
+
+(.019)
+
+(.026)
+
+(.024)
+
+(.028)
+
+(.045)
+
+MTM × NRE (log)
+
+.045*
+
+.006
+
+−.030
+
+.133***
+
+.091
+
+.351**
+
+(.027)
+
+(.039)
+
+(.147)
+
+(.051)
+
+(.125)
+
+(.156)
+
+.031
+
+.160*
+
+.513***
+
+.359***
+
+.450***
+
+.415***
+
+(.046)
+
+(.082)
+
+(.137)
+
+(.104)
+
+(.128)
+
+(.137)
+
+.041
+
+.161**
+
+.506***
+
+.390***
+
+.471***
+
+.496***
+
+(.044)
+
+(.082)
+
+(.162)
+
+(.100)
+
+(.148)
+
+(.146)
+
+Year FE dummies
+
+–
+
+Yes
+
+–
+
+Yes
+
+–
+
+Yes
+
+Wald χ
+
+1,064.27***
+
+142.66***
+
+3,803.20***
+
+74,651.25***
+
+814.15***
+
+1,269.39***
+
+Tourism (log)
+
+Total MTM effect at
+mean
+
+Total MTM effect at
+median
+
+2
+
+(Continued )
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+775
+
+Table 2. (Continued.)
+
+AR(2) p-value
+
+log(life satisfaction)
+
+log(economic wellbeing)
+
+log(composite national
+wellbeing index)
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 5
+
+Model 6
+
+.263
+
+.128
+
+.345
+
+.231
+
+.344
+
+.651
+
+Model 4
+
+2
+
+Sargan χ test p-value
+
+.073
+
+.959
+
+.269
+
+.127
+
+.190
+
+.787
+
+Instrument count
+
+20
+
+22
+
+14
+
+27
+
+14
+
+22
+
+Number of countries
+
+78
+
+78
+
+78
+
+78
+
+78
+
+78
+
+Observation
+
+389
+
+361
+
+311
+
+293
+
+311
+
+293
+
+Standard errors are in parentheses; Total effect of MTM = the sum of direct effect of MTM, and the interactive effect of MTM and NRE −
+estimated separately and summarised here − so did not contribute to model indices.
+*, **, ***Significant at 10% (.10), 5% (.05) and 1% (.01), respectively.
+
+Hypotheses testing
+The first hypothesis sought to determine whether MTM could improve national wellbeing in
+terms of life satisfaction and economic wellbeing. The GMM results shown in Table 2 indicate
+that although MTM did not significantly predict life satisfaction in model 1 (β = .031, p > .05),
+it positively predicted life satisfaction in model 2 (β = .160, p < .10), as well as economic wellbeing
+in model 3 (β = .513, p < .01) and in model 4 (β = .360, p < .01). For life satisfaction, the coefficients suggest that when MTM increases by 10%, life satisfaction will increase by 1.60%.
+Similarly, for economic wellbeing, an increase in MTM by 10% would lead to an increase of
+between 3.60 and 5.130% in economic wellbeing. To enhance robustness of the results, we
+used factor analyses to construct a composite index for national wellbeing, consisting of economic
+wellbeing and life satisfaction. From the results, MTM positively and significantly predicted composite national wellbeing index in model 5 (β = .451, p < .01) and in model 6 (β = .417, p < .01).
+Thus, increasing MTM by 10% will cause national wellbeing to improve by between 4.51 and
+4.17%. The above results have provided empirical evidence in support for hypothesis 1.
+Also, further analyses focusing on regional level are conducted and results are illustrated in
+Appendixes B1–B3. While they indicate that MTM has a significant positive effect on national
+wellbeing across all regions generally, it reveals some regional dynamics: first, its effect on life satisfaction is greatest in the Asian region (significant coefficient is between .124 to .167 in Appendix
+B2), but has the biggest influence on economic wellbeing in the African region with (β = .908,
+p < .10) or without control variables (β = .757, p < .01) respectively; while its significant positive
+effect on national wellbeing index is highest in the Western region. Although if no control variables are accounted for, Africa (β = .293, p < .05) has the highest positive effect of MTM on overall
+national wellbeing index, followed by Asia (β = .131, p < .01), and then the West (β = .075, p
+< .10); only the Western region consistently showed significant positive result with (β = .155, p
+< .05) or without (β = .075, p < .05) the presence of control variables as well as recoding the highest significant effect when controlled variables are assessed. This means that MTM although generally show significant positive influence on national wellbeing, it does not predict national
+wellbeing facet equally across all developing regions.
+The second hypothesis examined whether NRE will moderate the relationship between MTM
+and national wellbeing (subjective and economic wellbeing). The regression models 1–6 in
+Table 2 show the results for the moderation hypothesis. From the results, NRE positively and significantly moderated the effect of MTM on life satisfaction in model 1 (β = .045, p < .10) but
+became weak in model 2 (β = .006, p > .05) when control variables are added. Also, although it
+showed weak effect on economic wellbeing in model 3 (β = −.030, p > .05) and on national
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Tourism (log)
+
+Social support
+
+Employment ratio (log)
+
+Inflation (log)
+
+Country size (log)
+
+LAC
+
+Asia
+
+Africa
+
+MTM (log)
+
+β-Convergence
+
+Δlog(Wellbeing)t−2
+
+Δlog(Wellbeing)t−1
+
+.567
+(.423)
+.178
+(.146)
+−.017
+
+–
+
+–
+
+–
+
+–
+
+(.008)
+
+–
+
+–
+
+(.636)
+.001
+
+–
+
+.240
+
+–
+
+–
+
+17.521
+(12.584)
+
+(9.253)
+
+–
+
+–
+
+3.979
+
+–
+
+–
+
+9.015
+(10.232)
+
+(.080)
+
+–
+
+–
+
+.073
+
+–
+
+(.074)
+
+–
+
+–
+
+–
+
+(.032)
+
+–
+
+–
+
+−1.959***
+
+(.038)
+
+(.016)
+
+−1.525***
+
+.285***
+
+Model 2
+
+.090***
+
+Model 1
+
+Δlog(life satisfaction)
+
+Table 3. System GMM investigation of β-convergence in national wellbeing
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(.028)
+
+−1.623***
+
+–
+
+–
+
+(.015)
+
+.294***
+
+Model 3
+
+.038***
+
+(.210)
+
+−.068
+
+(.568)
+
+1.308**
+
+(.018)
+
+.042**
+
+(.376)
+
+.555
+
+(22.545)
+
+−33.339
+
+(27.600)
+
+−45.323
+
+(22.002)
+
+−37.660*
+
+(.195)
+
+.534***
+
+(.146)
+
+−1.197***
+
+(.076)
+
+−1.031***
+
+(.114)
+
+−.478***
+
+Model 4
+
+Δlog(economic wellbeing)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+.015
+
+(.173)
+
+.169
+
+(.319)
+
+.746**
+
+(.014)
+
+.026*
+–
+
+(.187)
+–
+
+−.053
+
+(15.457)
+
+.140
+
+(15.100)
+
+−5.851
+
+(11.855)
+
+−6.090
+
+(.134)
+
+.391***
+
+(.128)
+
+−1.759***
+
+(.071)
+
+−.769***
+
+(.103)
+
+−.089
+
+Model 6
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(.030)
+
+−1.659***
+
+–
+
+–
+
+(.016)
+
+.298***
+
+Model 5
+
+Δlog(composite NWB index)
+
+776
+Alex Anlesinya et al.
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+39,480.93***
+
+.336
+
+.897
+
+10
+
+78
+
+390
+
+Wald χ2
+
+AR(2) p-value
+
+Sargan χ2 test p-value
+
+Instrument count
+
+Number of countries
+
+Observation
+
+361
+
+78
+
+25
+
+.130
+
+.362
+
+78,891.47***
+
+(.077)
+Yes
+
+.081
+
+–
+
+–
+
+(.080)
+
+–
+
+–
+
+(.036)
+.073
+
+–
+
+.036
+
+–
+
+–
+
+.003
+(.018)
+
+–
+
+–
+
+Year FE
+
+Total MTM effect at median
+
+Total MTM effect at mean
+
+MTM × NRE (log)
+
+NRE (log)
+
+(.017)
+
+–
+
+390
+
+78
+
+10
+
+.481
+
+.296
+
+156,662.69***
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+293
+
+78
+
+23
+
+.199
+
+.231
+
+586,455.59***
+
+Yes
+
+(.196)
+
+.558***
+
+(.195)
+
+.534***
+
+(.056)
+
+.105*
+
+(.025)
+
+−.032
+
+(.014)
+
+390
+
+78
+
+10
+
+.155
+
+.310
+
+220,815.81***
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+293
+
+78
+
+23
+
+.662
+
+.393
+
+257,227.60***
+
+Yes
+
+(.133)
+
+.404***
+
+(.134)
+
+.391***
+
+(.045)
+
+.059
+
+(.017)
+
+−.020
+
+(.020)
+
+Journal of Management & Organization
+777
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+778
+
+Alex Anlesinya et al.
+
+wellbeing index in model 5 (β = .091, p > .05) without control variables, the evidence became
+positive and statistically strong in the case of the models with control variables for economic wellbeing (β = .133, p < .01, model 4) and for national wellbeing index (β = .351, p < .05, model 6)
+respectively. The authors computed the total effects of MTM by conditioning on the mean
+and median values of NRE. The latter is to deal with potential outlier effects associated with
+mean evaluation. The total effect of MTM (i.e., the sum of direct effect of MTM, and the interactive effect of MTM and NRE) on life satisfaction, economic wellbeing and composite national
+wellbeing index in regression models 1–6 of Table 2 are positive and statistically strong.
+This study further used interactive plots to explore the significant moderation results. The
+graphical results in Figure 2 indicated that the slope of the line for countries with higher NRE
+is stronger or higher relative to the slope of the line for countries with less NRE. Thus, the interactive plots confirm that the effect of MTM on national wellbeing facets is high at high level of
+NRE but lower at low level of NRE. These results provide empirical support for hypothesis 2, providing evidence against the potential of NRE to crowd-out macro talent.
+The study again examined whether the significant positive interactive effect holds across all the
+developing regions. The results of the interactive term and total MTM effects at the mean and the
+median are generally positive and significant for the African region (models 1–6 of Appendix B1).
+While the results of the interactive term for the Asian region (models 1–6 of Appendix B2) generally indicate significant negative outcome, the total effects are positive and statistically strong
+and did not adversely affect the marginal effect of MTM on the wellbeing measures. The result
+is very similar to those of the Western region (models 1–6 of Appendix B3).
+Moreover, the study explored conditional country-specific total marginal effect of MTM on
+national wellbeing (overall index) at the mean of NRE and represents the results in Figure 3.
+As shown in the figure, the average total conditional marginal effects of MTM (i.e., combined
+average direct effect and conditional effect via NRE) for most countries in Africa are positive
+than their counterparts in Asia and the West, with most countries in Asia also showing greater
+positive effect relative to countries in Europe and Latin America (the Western countries). The top
+three countries in Africa are Algeria, Mozambique and Burundi, whereas Lebanon, Sri Lanka and
+Turkey are the top three in Asia but constituting the top three in Europe and Latin America are
+the Dominican Republic, and Moldova. In all, there are fewer variations in the results in Africa,
+followed by Asia and the Western region.
+Together, even though the total effects for all regions are generally positive and strong, the
+results suggest that the interactive effect of MTM and NRE can be regional-specific with significant positive outcomes for Africa but significant negative effect for Asia and the West based on
+their respective interactive terms.
+The third hypothesis tests whether it is possible for developing countries to achieve convergence in national wellbeing. The results of β-convergence are shown in Table 3. From the evidence, the coefficient of β-convergence is negative in all the models predicting the three facets
+of national wellbeing: life satisfaction (γ = −1.525, p < .01; model 1), economic wellbeing (γ =
+−1.623, p < .01; model 3) and composite national wellbeing index (γ = 1.659, p < .05; model 5).
+Consistently, the authors also find that MTM contributes significantly to convergence in economic wellbeing, and national wellbeing but its positive contribution to life satisfaction is insignificant. Specifically, MTM increases convergence in life satisfaction, economic wellbeing and
+national wellbeing by 7.30, 5.34 and 3.91 times more, respectively. Thus, in respect of achieving
+SDG 3, this is a show of evidence that improving MTM in countries could play a very important
+role. However, unlike level wellbeing, there is no interactive effect of MTM and NRE on wellbeing
+convergence but the total effect of MTM (direct effect and conditional effect via NRE) contributes
+significantly in facilitating convergence in economic wellbeing, and composite national wellbeing.
+The study further sought to determine whether there would be regional variations in the paths
+of convergence in national wellbeing (subjective and economic wellbeing) (see Appendixes
+C1–C3). From the results, there is evidence of β-convergence in life satisfaction (γ = −1.820,
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+779
+
+Fig. 2. Effect of MTM on wellbeing under differing levels of NRE.
+
+p < .01), economic wellbeing (γ = −1.997, p < .01) and composite national wellbeing index
+(γ = −2.012, p < .01) in Africa. In the case of the Asian region, this study also found evidence
+of β-convergence in life satisfaction (γ = −.429, p < .01), economic wellbeing (γ = −.182, p < .01)
+and overall national wellbeing (γ = −.079, p < .01). Likewise and finally, there is evidence of
+β-convergence in life satisfaction (γ = −.948, p < .01), economic wellbeing (γ = −.304, p < .01)
+and composite national wellbeing index (γ = −.818, p < .01) in the Western region.
+Comparatively, it is evident that convergence paths are generally stronger in Africa than the
+other regions, followed by the West (Europe and Latin America), and least in Asia. Among the
+three regions, convergence in life satisfaction, economic wellbeing and overall national wellbeing is highest in Africa. Also, for all regions, this study only found evidence of MTM
+(based on either its direct or total effect or both) contributing to convergence in economic
+and overall wellbeing in Africa, life satisfaction, economic and overall national wellbeing in
+Asia and the West.
+However, unlike general population, the study showed that there is generally interactive effect
+of MTM and NRE on convergence in wellbeing across the three regions, it negatively influences
+all the three measures of wellbeing in Africa, but showed significant negative on life satisfaction in
+Asia, and on both economic wellbeing and composite national wellbeing in the West. Thus, relatively, it suggests that improving MTM and management of natural resources could prove very
+critical in achieving SDG 3 particularly in Asia.
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+780
+
+Alex Anlesinya et al.
+
+Fig. 3. Conditional effect of MTM on national wellbeing by countries.
+
+Discussion
+The TM theory and research is overly focused on narrow economic benefits to the neglect of critical social issues such as wellbeing, particularly at the macro-level (Anlesinya et al., 2021;
+Thunnissen, Boselie, & Fruytier, 2013). Hence, building on the HCT, this study empirically examined the effect of MTM on national wellbeing (economic wellbeing – income, and subjective wellbeing – life satisfaction) and the moderating role of NRE in developing countries. The findings
+provide empirical support for hypothesis 1 that MTM has strong and positive effect on national
+subjective wellbeing and economic wellbeing globally and within each developing regions but its
+impact on some national wellbeing facets is higher in some regions while lower in others – revealing interesting dynamics and differential effects of MTM on national wellbeing. This implies that
+countries that invest in MTM would be endowed with various mid-level skilled and high-level
+skilled professionals to generate creative business ideas and innovative social services’ solutions
+in solving socio-economic challenges that hinder citizens’ wellbeing.
+This is similar to Becker’s (1964) HCT argument and prior empirical evidence (Diebolt &
+Hippe, 2019; Islam, 2020; McGarry et al., 2021) that talent and human capital accumulation
+can contribute to better societal wellbeing by shaping efficient formulation of policies for the benefits of all. Consequently, this evidence affirms the relevance of the HCT in TM investments at the
+macro-level, and contributes towards enhancing our understanding of the micro-macro paradox
+in TM theory by showing that TM investments in citizens can translate into enhanced wellbeing
+at the national/macro-level.
+Moreover, this study makes an original contribution by providing empirical evidence in support of Grant, Christianson, and Price’s (2007) conceptual assertion of wellbeing synergies of
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+781
+
+management practices. Specifically, the findings point to the existence of a synergistic wellbeing
+impact of MTM practices rather trade-offs impact, implying that MTM practices can simultaneously enhance the various facets of wellbeing (subjective and economic wellbeing) in developing
+countries. This evidence is however deviates from Gillet et al.’s (2021) and Ogbonnaya and
+Messersmith’s (2019) empirical evidence at the micro-level indicating that HRM practices can
+have mixed-effects or double-edged sword effects on different facets of employee wellbeing.
+The results of hypothesis 2 showed that NRE could moderate the link between MTM and
+national wellbeing. This means that MTM and NRE can jointly exert significant positive impact
+on both national economic and subjective wellbeing. This implies that countries that earn more
+natural resource rent may have slack resources to invest more on interventions to boost the
+quality and quantity of talent to improve the citizenry’s’ wellbeing. This affirmed claims by
+some scholars (e.g., Muhanji, Ojah, & Soumaré, 2019; Stijns, 2006) that natural resource-rich
+countries tend to share windfalls with their population via increased social spending. It
+could also mean that high macro talent base may equally ensure better management of abundant natural resources (see Muhanji, Ojah, & Soumaré, 2019; Stijns, 2006), and further mitigate
+the potential resource-curse impact on societal welfare (Rahim et al., 2021) to foster greater
+national wellbeing.
+Thus, in contrast to Sachs and Warner (1999) and Gylfason (2001), this study’s results suggest
+that NRE does not crowd-out human capital, which supports the claim by Stijns (2006). As noted
+by Stijns (2006), the associated ‘wealth effect’ associated with NRE is the push factor for investment in HCD. By implication, where macro talent is scarce, the exploitation of natural resource
+could prove significant to close the macro talent gap and hence improve development and wellbeing. Consequently, this study makes a novel contribution by demonstrating that there is no evidence of crowding-out of macro talent by natural capital as NRE complements MTM to
+accelerate national wellbeing facet over time.
+Third, empirical results of hypothesis 3 show that there is a convergence in both subjective and
+economic wellbeing. This is similar to past results (e.g., Neumayer, 2003; Palma & Reis, 2019; Raiser,
+Wes, & Yilmaz, 2016), but they focused only on convergence in economic wellbeing. This clearly
+fulfils a major void in the area by going beyond the unidimensional focus on economic convergence
+to incorporate subjective wellbeing. This empirical evidence suggests that the indicators of national
+wellbeing such as income and life satisfaction, based on economic intuitions, exhibit diminishing
+returns. This means that improvement in wellbeing indicators will have greater wellbeing benefits
+for nations with wellbeing deficits compared to countries with better wellbeing, and over time
+catch-up with the high performing national wellbeing countries, hence, the catch-up effect. It further
+showed that convergence is significantly driven by MTM, thereby highlighting the facilitating role of
+MTM in achieving convergence in different national wellbeing facets. This is similar to findings by
+Cuaresma, Havettová, and Lábaj (2013) and Rentfrow, Mellander, and Florida (2009) that HCD
+accelerates the processes of income convergence.
+Moreover, the empirical evidence established that there are different paths of convergence in
+national wellbeing among developing countries, with some regional locations converging at
+slower or faster rates relative to comparable others. This indicates that although, many countries
+across the various regions, especially in Africa, still lag behind their peers; convergence in national
+wellbeing facets in the region is growing more rapidly compared with its peers. According to
+Stevenson and Wolfers’s (2008) evidence, wellbeing is higher in regions that are characterised
+by high acceptance for democratic values, and Cabral and Castellanos-Sosa (2019) showed that
+regional integration is a driver of convergence. Hence, this present evidence may be attributed
+to the increasing rate of democratisation and integration of the African countries or sub-regions,
+leading to availability of improved leadership and governance system to champion the subjective
+and economic wellbeing of the citizens in the region. This somehow varied from Pereira et al.’s
+(2021) evidence of regional divergence within some WHO regions, and this difference in results
+could be attributed to differences in the samples and periods covered.
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+782
+
+Alex Anlesinya et al.
+
+Implications and conclusion
+Theoretical implications
+
+Albeit business and management schools have been researching and training students on sustainability and corporate social responsibility to promote responsible business practices and
+professional behaviours, management scholarship targeted at addressing grand societal problems have not received the needed attention. Even the few contributions of management
+and business researchers to the realisation of the SDGs still remain highly fragmented
+(Macht, Chapman, & Fitzgerald, 2020; Pizzi, Caputo, Corvino, & Venturelli, 2020). As a result,
+management practices (George et al., 2016; Macht, Chapman, & Fitzgerald, 2020; Voegtlin
+et al., 2022) such as TM (Anlesinya et al., 2021; Thunnissen, Boselie, & Fruytier, 2013) are
+increasingly being postulated lately as useful means for achieving wellbeing (SDG 3), which
+is, a critical grand societal agenda for most countries, particularly in developing countries,
+but research on the effect of TM on wellbeing at the macro-level and its potential contextual
+condition of NRE is very limited. Hence, this study assesses the direct impact of MTM on
+national subjective and economic wellbeing and further investigates the moderating role of
+NRE as well as rates of convergence in national wellbeing.
+As MTM is a new emerging stream of literature on TM at the macro-level (Khilji, Tarique, &
+Schuler, 2015; Vaiman et al., 2019) but highly deficient in empirical knowledge (Anlesinya
+et al., 2021), this empirical evidence is a vital contribution to knowledge on MTM and national
+wellbeing, and in extending the limited and fragmented SDG-related management research.
+Again, this evidence on national wellbeing convergence equally provides a major theoretical
+insight for even organisational TM and HRM scholars to begin to explore convergence in
+employee wellbeing through organisational TM practices because not all employees in a
+given organisation may have achieved the same level of wellbeing but such empirical knowledge
+is scarce.
+Besides, this study contributes to the HCT by extending its application at the macro-level and
+by demonstrating that countries can achieve national wellbeing synergies because of MTM practices rather trade-offs impact. This is an important theoretical insight in the sense that it validates
+MTM as a channel for improving different domains of national wellbeing (subjective and economic wellbeing). This consequently, adds to the emerging wellbeing synergy versus trade-offs
+literature led by Grant, Christianson, and Price (2007) and affirmed by Gillet et al. (2021) and
+Ogbonnaya and Messersmith (2019) in the mainstream HRM literature.
+Moreover, there is a dearth of empirical studies on the boundary conditions of HCT and its
+outcomes even though calls to investigate its contextual factors/moderators have been persistent
+(Bagdadli et al., 2021; Tan, 2014). Hence, this study contributes theoretically by revisiting the topical issue of resource curse-blessing within the MTM field. This study incorporates NRE as a
+macro-level boundary condition into the HCT and demonstrates that natural capital did not
+crowd-out macro talent but rather they jointly contribute to better national subjective and economic wellbeing. This could mean that tapping abundant natural capital can make resources
+available to boost macro talent accumulation on the one hand, and expanded macro talent
+base may be helpful in lessening resource-curse impacts on the other, thereby improving different
+facets of national wellbeing. The current evidence therefore provided new evidence to affirm that
+the associated ‘wealth effect’ of NRE (see Hussain et al., 2020; Stijns, 2006) facilitates macro talent
+accumulation to enhance different national wellbeing facets.
+Furthermore, this study makes a novel contribution because the existing wellbeing convergence literature largely neglects knowledge from the management fields and subjective dimension
+of wellbeing. This study shows that countries with low subjective wellbeing and economic wellbeing are gradually catching-up with those with better levels of wellbeing in course of time with
+MTM also facilitating the convergence process. This is a clear departure from previous knowledge
+on national wellbeing convergence that focused on economic wellbeing.
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+783
+
+Practical and policy implications
+
+Developing countries need talent and quality human capital to improve their citizens’ socioeconomic conditions (Cooke, 2021). Sadly, many are seeing a progressive erosion of their
+macro talent base (Lanvin & Monteiro, 2019). Hence, these new findings call on leaders of developing countries to prioritise effective MTM investment to increase their macro talent base to
+achieve the SDG 3 on wellbeing and to accelerate convergence in wellbeing relative to their
+high performing peers. In particular, they should implement initiatives to attract and retain talent
+nationally through luring back skilled diaspora, and converting skilled minorities and migrants
+into national talents (Anlesinya, 2021; Khilji, Tarique, & Schuler, 2015) to increase their
+macro talent base.
+Moreover, sustainable national funding sources should be identified and established to provide
+more talent development opportunities in the form of quality formal education, lifelong learning
+initiatives, establishment of more quality management institutions, capacity training and development interventions to cultivate macro talents and empower them in finding sustainable solutions to improve human lot and making citizens to live fulfilling lives. This is crucial as Khilji,
+Tarique, and Schuler (2015) and Lanvin and Monteiro (2019) argued that programmes to
+grow macro talent base must pay attention to labour market, economic and educational systems.
+Furthermore, developing countries should dedicate a specified proportion of revenues from
+the exploitation of their abundant natural capital to push MTM investment to develop more capable macro talents to properly manage natural capital to enhance wellbeing while mitigating
+impacts of resource curse on national wellbeing. Again, they should institute strong multi-layered
+accountability institutions/authorities to ensure efficient, transparent and effective utilisation of
+natural resource rent to improve macro talent base and national wellbeing. This is vital due to
+the threats of resource curse coupled with the fact that extraction of natural resources in most
+developing countries is often characterised by corruption and mismanagement, making it have
+less impact on the wellbeing of citizens than expected.
+Conclusion
+
+In conclusion, developing countries with lower national subjective and economic wellbeing performance are gradually catching-up with past high performers, with MTM emerging as a potent
+enabler of better wellbeing and accelerator of convergence in different wellbeing facets. However,
+national wellbeing facets and their rates of convergence are differentially predicted MTM across
+developing regions. Finally, impacts of MTM on national wellbeing facets are higher in countries
+endowed with natural capital relative to their natural resource-poor counterparts. However, it is
+essential to note that while this study has used multiple measures of national wellbeing, it has not
+been able to capture other equally important dimensions such as physical, social and environmental indicators of wellbeing. Aside, focusing on only developing countries may limit the study’s
+findings. These are important directions for future MTM research. Moreover, future studies
+should interrogate the conditions accounting for the different paths of convergence in developing
+regions.
+Supplementary material. The supplementary material for this article can be found at https://doi.org/10.1017/jmo.2022.86.
+Conflict of interest. The authors declare none.
+
+References
+Adom, P. K., & Adams, S. (2020). Decomposition of technical efficiency in agricultural production in Africa into transient
+and persistent technical efficiency under heterogeneous technologies. World Development, 129, 104907.
+Adom, P. K., Agradi, M., & Vezzulli, A. (2021). Energy efficiency-economic growth nexus: What is the role of income
+inequality?. Journal of Cleaner Production, 310, 127382.
+Alexeev, M., & Conrad, R. (2009). The elusive curse of oil. The Review of Economics and Statistics, 91(3), 586–598.
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+784
+
+Alex Anlesinya et al.
+
+Anand, P. (2016). Happiness, well-being and human development: The case for subjective measures. New York: UNDP.
+Anlesinya, A. (2021). Talent management, decent work and wellbeing – A multilevel analysis (Doctoral thesis). University of
+Ghana, Legon.
+Anlesinya, A., & Amponsah-Tawiah, A. K. (2020). Towards a responsible talent management model. European Journal of
+Training and Development, 44(2/3), 279–303.
+Anlesinya, A., Amponsah-Tawiah, K., Adom, P. K., Damoah, O. B. O., & Dartey-Baah, K. (2021). The macro talent management, decent work and national well-being nexus: A cross-country and panel data analysis. International Journal of
+Manpower, 42(5), 777–793.
+Anlesinya, A., Dartey-Baah, K., & Amponsah-Tawiah, K. (2019). Strategic talent management scholarship: A review of current foci and future directions. Industrial and Commercial Training, 51(5), 299–314.
+Apergis, N., & Majeed, M. T. (2021). Greenhouse gas emissions and cross-national happiness: A global perspective. Air
+Quality, Atmosphere & Health, 14(8), 1289–1300.
+Arellano, M., & Bond, S. (1991). Some tests of specification for panel data: Monte Carlo evidence and an application to
+employment equations. The Review of Economic Studies, 58(2), 277–297.
+Arellano, M., & Bover, O. (1995). Another look at the instrumental variable estimation of error-components models. Journal
+of Econometrics, 68(1), 29–51.
+Bagdadli, S., Gianecchini, M., Andresen, M., Cotton, R., Kaše, R., Lazarova, M., … Dello Russo, S. (2021). Human capital
+development practices and career success: The moderating role of country development and income inequality. Journal
+of Organizational Behavior, 42(4), 429–447.
+Baltagi, B. H. (2005). Econometric analysis of panel data. New York: John.
+Becker, G. S. (1964). Human capital: A theoretical and empirical analysis with special reference to education. Chicago:
+University of Chicago Press.
+Birdsall, N., Pinckney, T., & Sabot, R. (2001). Natural resources, human capital, and growth. In Auty, R. M. (Ed.), Resource
+abundance and economic growth (pp. 57–75). Oxford: Oxford University Press.
+Blundell, R., & Bond, S. (1998). Initial conditions and moment restrictions in dynamic panel data models. Journal of
+Econometrics, 87(1), 115–143.
+Bucci, A., Eraydın, L., & Müller, M. (2019). Dilution effects, population growth and economic growth under human capital
+accumulation and endogenous technological change. Journal of Macroeconomics, 62, 103050.
+Cabral, R., & Castellanos-Sosa, F. A. (2019). Europe’s income convergence and the latest global financial crisis. Research in
+Economics, 73(1), 23–34.
+Cooke, F. L. (2021). Talent management in Africa: Challenges, opportunities, and prospects. In I. Tarique (Ed.), The
+Routledge companion to talent management (pp. 153–163). New York: Routledge.
+Cuaresma, J. C., Havettová, M., & Lábaj, M. (2013). Income convergence prospects in Europe: Assessing the role of human
+capital dynamics. Economic Systems, 37, 493–507.
+Diaz-Fernandez, M., Bornay-Barrachina, M., & Lopez-Cabrales, A. (2017). HRM practices and innovation performance: A
+panel-data approach. International Journal of Manpower, 38(3), 354–372.
+Diebolt, C., & Hippe, R. (2019). The long-run impact of human capital on innovation and economic development in the
+regions of Europe. Applied Economics, 51(5), 542–563.
+Diener, E., Suh, E. M., Lucas, R. E., & Smith, H. L. (1999). Subjective well-being: Three decades of progress. Psychological
+Bulletin, 125(2), 276–302.
+Dynan, K., & Sheiner, L. (2019). GDP as a measure of economic well-being. Hutchins Center Working Paper #43.
+Ferrara, A. R., & Nisticò, R. (2012). Well-being indicators and convergence across Italian regions. Applied Research Quality
+Life, 8(1), 15–44.
+Field, A. (2009), Discovering statistics using SPSS. London: Sage publications Ltd.
+George, G., Howard-Grenville, J., Joshi, A., & Tihanyi, L. (2016). Understanding and tackling societal grand challenges
+through management research. Academy of Management Journal, 59(6), 1880–1895.
+Gillet, N., Huyghebaert-Zouaghi, T., Austin, S., Fernet, C., & Morin, A. J. (2021). Remote working: A double-edged sword for
+workers’ personal and professional well-being. Journal of Management & Organization, 27(6), 1060–1082.
+Gold, M. S., & Bentler, P. M. (2000). Treatments of missing data: A Monte Carlo comparison of RBHDI, iterative stochastic
+regression imputation, and expectation-maximization. Structural Equation Modeling, 7(3), 319–355.
+Grant, A. M., Christianson, M. K., & Price, R. H. (2007). Happiness, health, or relationships? Managerial practices and
+employee well-being tradeoffs. Academy of Management Perspectives, 21(3), 51–63.
+Gylfason, T. (2001). Natural resources, education, and economic development. European Economic Review, 45(4–6), 847–859.
+Helliwell, J. F., Huang, H., & Wang, S. (2017). Statistical appendix for the social foundations of world happiness. In Helliwell,
+J. F., Layard, R., & Sachs, J. A. (Eds.), World happiness report 2017 (pp. 8–47). New York: Sustainable Development
+Solutions Network.
+Helliwell, J. F., Huang, H., Wang, S., & Norton, M. (2020). Social environments for world happiness. In Helliwell, J. F.,
+Layard, R., Sachs, J. D., De Neve, J-E., Aknin, L. B., Huang, H., & Wang, S. (Eds.), World happiness report 2020 (pp.
+12–46). New York, NY: Sustainable Development Solutions Network.
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+Journal of Management & Organization
+
+785
+
+Hsiao, C. (2022). Analysis of panel data. Cambridge, UK: Cambridge University Press.
+Hussain, M., Ye, Z., Usman, M., Mir, G. M., Usman, A., & Rizvi, S. K. A. (2020). Re-investigation of the resource curse
+hypothesis: The role of political institutions and energy prices in BRIC countries. Resources Policy, 69, 101833.
+Islam, M. S. (2020). Human capital and per capita income linkage in South Asia: A heterogeneous dynamic panel analysis.
+Journal of the Knowledge Economy, 11, 1614–1629.
+Islam, M., Zhang, B., & Managi, S. (2022). The trade-off between natural capital and human capital in Pakistan. Sustain
+Science, 17, 1799–1811.
+Kahneman, D., & Deaton, A. (2010). High income improves evaluation of life but not emotional well-being. Psychological and
+Cognitive Sciences, 107(38), 16489–16493.
+Khilji, S. E., Tarique, I., & Schuler, R. S. (2015). Incorporating the macro view in global talent management. Human Resource
+Management Review, 25(3), 236–248.
+Lanvin, B., Evans, P., Lemière, M. M., & Merdikawati, N., & INSEAD. (2013). Global and mobile: Talent is reshaping the
+world economy. In Lanvin, B., & Evans, P. (Eds.), The global talent competitiveness index 2013 (pp. 17–48), Singapore:
+INSEAD.
+Lanvin, B., & Monteiro, F. (2019). The global talent competitiveness index 2019: Entrepreneurial talent and global competitiveness. Fontainebleau, France: INSEAD.
+Lu, F., & Sohail, M. T. (2022). Exploring the effects of natural capital depletion and natural disasters on happiness and human
+wellbeing: A study in China. Frontiers in Psychology, 13, 870623.
+Macht, S. A., Chapman, R. L., & Fitzgerald, J. A. (2020). Editorial: Management research and the United Nations sustainable
+development goals. Journal of Management & Organization, 26, 917–928.
+McGarry, O., Krisjane, Z., Sechi, G., MacÉinrí, P., Berzins, M., & Apsite-Berina, E. (2021). Human capital and life satisfaction
+among circular migrants: An analysis of extended mobility in Europe. Journal of Ethnic and Migration Studies, 47(8),
+1883–1901.
+Mileva, E. (2007). Using Arellano–Bond dynamic panel GMM estimators in Stata. New York: Fordham University.
+Mohtadi, S. (2022). Natural resources, institutions and the quality-adjusted human capital. Journal of Economic Studies, 49
+(6), 1033–1054.
+Muhanji, S., Ojah, K., & Soumaré, I. (2019). How do natural resource endowment and institutional quality influence the
+nexus between external indebtedness and welfare in Africa?. Economic Systems, 43(1), 77–98.
+Neumayer, E. (2003). Beyond income: Convergence in living standards, big time. Structural Change and Economic Dynamics,
+14, 275–296.
+Ogbonnaya, C., & Messersmith, J. (2019). Employee performance, well-being, and differential effects of human resource management subdimensions: Mutual gains or conflicting outcomes?. Human Resource Management Journal, 29(3), 509–526.
+Palma, N., & Reis, J. (2019). From convergence to divergence: Portuguese economic growth, 1527–1850. The Journal of
+Economic History, 79(2), 477–506.
+Peiró-Palomino, J. (2019). Regional well-being in the OECD. The Journal of Economic Inequality, 17, 195–218.
+Pereira, M. A., Camanho, A. S., Marques, R. C., & Figueira, J. R. (2021). The convergence of the World Health Organization
+member states regarding the United Nations’ sustainable development goal ‘Good health and well-being’. Omega, 104,
+102495.
+Pizzi, S., Caputo, A., Corvino, A., & Venturelli, A. (2020). Management research and the UN sustainable development goals
+(SDGs): A bibliometric investigation and systematic review. Journal of Cleaner Production, 276, 124033.
+Rahim, S., Murshed, M., Umarbeyli, S., Kirikkaleli, D., Ahmad, M., Tufail, M., & Wahab, S. (2021). Do natural resources
+abundance and human capital development promote economic growth? A study on the resource curse hypothesis in
+Next Eleven countries. Resources, Environment and Sustainability, 4, 100018.
+Raiser, M., Wes, M., & Yilmaz, A. (2016). Beyond convergence: Poland and Turkey en route to high income. Central Bank
+Review, 16(1), 7–17.
+Rentfrow, P. J., Mellander, C., & Florida, R. (2009). Happy states of America: A state-level analysis of psychological, economic,
+and social well-being. Journal of Research in Personality, 43(6), 1073–1082.
+Sachs, J. D. (2016). Happiness and sustainable development: Concepts and evidence. In Helliwell, J., Layard, R., & Sachs, J.
+(Eds.), World happiness report 2016 update (Vol. 1, pp. 56–65), New York: Sustainable Development Solutions Network.
+Sachs, J. D., & Warner, A. M. (1995). Natural resource abundance and economic growth. Cambridge MA: National Bureau of
+Economic Research.
+Sachs, J. D., & Warner A. M. (1999). The big push, natural resource booms and growth. Journal of Development Economics.,
+59(1), 43–76.
+Sachs, J. A., & Warner, A. W. (2001). The curse of natural resources. European Economic Review, 45(4–6), 827–838.
+Shahbaz, M., Destek, M. A., Okumus, I., & Sinha, A. (2019). An empirical note on comparison between resource abundance
+and resource dependence in resource abundant countries. Resources Policy, 60, 47–55.
+Stevenson, B., & Wolfers, J. (2008). Economic growth and subjective well-being: Reassessing the Easterlin paradox (No.
+w14282). National Bureau of Economic Research, United States.
+Stijns J. P. (2006). Natural resource abundance and human capital accumulation. World Development, 34(6), 1060–1083.
+
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+786
+
+Alex Anlesinya et al.
+
+Tan, E. (2014). Human capital theory: A holistic criticism. Review of Educational Research, 84(3), 411–445.
+Teixeira, A. A., & Queirós, A. S. (2016). Economic growth, human capital and structural change: A dynamic panel data analysis. Research Policy, 45(8), 1636–1648.
+Thunnissen, M., Boselie, P., & Fruytier, B. (2013). Talent management and the relevance of context: Towards a pluralistic
+approach. Human Resource Management Review, 23(4), 326–336.
+Vaiman, V., Sparrow, P., Schuler, R., & Collings, D. G. (2019). Macro talent management in emerging and emergent markets:
+A global perspective. New York: Routledge.
+Voegtlin, C., Scherer, A. G., Stahl, G. K., & Hawn, O. (2022). Grand societal challenges and responsible innovation. Journal of
+Management Studies, 59(1), 1–28.
+Voukelatou, V., Gabrielli, L., Miliou, I., Cresci, S., Sharma, R., Tesconi, M., & Pappalardo, L. (2021). Measuring objective and
+subjective well-being: Dimensions and data sources. International Journal of Data Science and Analytics, 11(4), 279–309.
+World Bank (2019a), New country classifications by income level: 2019–2020, World Bank. Retrieved from https://datahelpdesk.worldbank.org/knowledgebase/articles/906519worldbankcountryandlending-groups.
+World Bank. (2019b). Data population, total. World Bank Database. Available from https://data.worldbank.org/indicator/SP.
+POP.TOTL.
+World Bank. (2020). Total natural resources rents (% of GDP). Retrieved from https://data.worldbank.org/indicator/NY.GDP.
+TOTL.RT.ZS.
+Zhang, L., & Adom, P. K. (2018). Energy efficiency transitions in China: How persistent are the movements to/from the frontier?. The Energy Journal, 39(6), 147–169.
+Alex Anlesinya is a multiple award-winning researcher and management trainer. He holds a PhD in human resource management (HRM) from the University of Ghana, Legon. He is an associate editor of Review of Business Management (RBGN),
+adjunct lecturer at GIMPA Academy of Leadership and Executive Training, and former adjunct research supervisor/examiner
+at Coventry University, UK/Ghana Communication Technology University. Alex is a recipient of seven best research paper
+awards and overall best student awards/valedictorian, with 40 peer-reviewed articles and conference papers. Alex researches at
+the intersection of organisation, human resources and sustainability, specifically, talent management, sustainable HRM,
+decent work, sustainability/CSR strategy and organisation development.
+Kwesi Amponsah-Tawiah is an associate professor, and former head of department of the Department of Organization and
+HRM at the University of Ghana Business School. He holds a PhD in applied psychology from the Institute of Work Health
+and Organisations, University of Nottingham. Kwesi has published extensively in some international journals in the area of
+occupational health and safety, CSR and human capital management.
+Philip Kofi Adom is an associate professor of energy and applied economics at the Department of Development Policy,
+School of Public Services and Governance, Ghana Institute of Management and Public Administration (GIMPA), Accra.
+He holds a PhD in economics from the Swedish University of Agricultural Sciences, Sweden. He worked as a research fellow
+at the African Development Bank and City University of Hong Kong. His area of specialty is applied economic research, with
+emphasis on energy, environment, finance, development economics and macroeconomics. Adom is the proud recipient of the
+Global Swede Award 2016 in Stockholm, Sweden and other research grants.
+Obi Berko Obeng Damoah is an associate professor, and head of the Department of Organisation & HRM at the University
+of Ghana Business School. He holds a PhD (strategic management) (Wales, UK), MBA (corporate strategy & economic policy) (the Netherlands), MPhil (finance option) (Ghana) and BSc Administration (accounting option) (Ghana). Obi
+researches and lectures in the areas of governance, strategic management and project management in climate change. Obi
+is a member of three of the British Academy of Management (BAM) (UK), Academy International Business (AIB) (USA)
+and the Academy of Management (AoM), USA.
+
+Cite this article: Anlesinya A, Amponsah-Tawiah K, Adom PK, Damoah OBO (2025). National wellbeing and macro talent
+management revisited: issues of convergence and moderating role of natural resource endowment in developing countries.
+Journal of Management & Organization, 31(2), 761–786. https://doi.org/10.1017/jmo.2022.86
+Downloaded from https://www.cambridge.org/core. University of Ghana, on 25 Mar 2026 at 11:55:03, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/jmo.2022.86
+
+

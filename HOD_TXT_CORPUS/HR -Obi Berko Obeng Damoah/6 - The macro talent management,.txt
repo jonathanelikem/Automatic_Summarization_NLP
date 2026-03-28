@@ -1,0 +1,1097 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/0143-7720.htm
+
+The macro talent management,
+decent work and national
+well-being nexus: a cross-country
+and panel data analysis
+Alex Anlesinya and Kwesi Amponsah-Tawiah
+Department of Organisation and Human Resource Management,
+University of Ghana Business School, Accra, Ghana
+
+Macro talent
+management,
+work and
+wellbeing
+
+Received 17 March 2020
+Revised 4 August 2020
+17 September 2020
+Accepted 17 September 2020
+
+Philip Kofi Adom
+Department of Development Policy, School of Public Service and Governance,
+Ghana Institute of Management and Public Administration (GIMPA), Achimota,
+Ghana, and
+
+Obi Berko Obeng Damoah and Kwasi Dartey-Baah
+Department of Organisation and Human Resource Management,
+University of Ghana Business School, Accra, Ghana
+Abstract
+Purpose – There is a paucity of research on the causal relationships between talent management (TM), decent
+work and national well-being. Hence, this study examines the nexus between macro talent management (MTM)
+practices, decent work and national well-being.
+Design/methodology/approach – The authors employed longitudinal data from 77 developing countries
+across the globe and also utilised panel data estimators and the bootstrapping mediation method for the
+analyses.
+Findings – The results indicated that macro-level TM strategies can have a positive impact on decent work.
+Decent work also significantly improves national well-being (both subjective and economic well-being) over
+time as it shows a significant positive impact on change in national well-being measures. Furthermore, decent
+work serves as a mechanism that links MTM to improved national well-being at the macro level.
+Practical implications – TM investments by governments can empower citizens to escape the tragedy of
+vulnerable and low-quality employment and well-being deficit as it has the potential to improve decent work
+and national well-being as enshrined in the Sustainable Development Goals (SDGs).
+Originality/value – Beyond the myopic organisational and managerialist view, the authors show that TM
+can have a positive spillover impact on people and the general society across time by enhancing decent work
+opportunities to improve both subjective and economic well-being of citizens in a country. Additionally,
+because decent work has psychosocial and economic dimensions, this study has revealed a complex and
+compelling conduit for translating the gains of macro-level TM strategies to improve national well-being.
+Moreover, it provides original empirical evidence to expand the limited longitudinal TM literature. Lastly, it
+adds to knowledge in the developing countries’ context.
+Keywords Talent management, Macro talent management, National well-being, Decent work, Developing
+countries, Panel data analysis
+Paper type Research paper
+
+Introduction
+The pursuit of well-being and decent work are considered essential goals for every human
+being and nation; hence, their recognition in the United Nations’ Sustainable Development
+Goals (SDGs) 3 and 8, respectively. National well-being is defined as the state of being healthy,
+The authors are grateful to the editors of the journal for their support and the three anonymous
+reviewers for their constructive comments.
+
+International Journal of Manpower
+© Emerald Publishing Limited
+0143-7720
+DOI 10.1108/IJM-03-2020-0106
+
+IJM
+
+happy, contented and comfortable and satisfied with life within a country (Bryson et al., 2014).
+Decent work is a work that guarantees workers’ freedom, equity, security and dignity in
+employment relationship (International Labour Organisation [ILO], 1999). Even though the
+quests for improved well-being and decent work are pursued globally over the years, they are
+still often missing, at least for some people, especially in developing countries, as evidenced in
+several reports. Recent reports (see ILO, 2018; United Nations Development Programme
+[UNDP], 2018) suggest that developing countries face huge national threat to peace and
+security due to the current level of limited opportunities for decent work and low well-being.
+Indeed, globally, several millions of people are involved in low-quality jobs and unsatisfying
+employments, which do not support a decent work agenda but have harmful effects on
+happiness, health and general well-being (ILO, 2018).
+Consequently, George et al. (2016) described these issues, amongst others, as grand
+challenges faced by our society and need concerted effort for their resolutions through
+management research. This is because “decent work and economic growth” (SDG 8) and
+“good health and well-being” (SDG 3) are directly relevant to management scholars. This
+suggests that the creation of decent work opportunities to improve human well-being can be
+realised through leveraging management practices, such as talent management (TM) by
+governments. Macro talent management (MTM), in Khilji et al.’s (2015) view, is concerned
+with the attraction, development and retention of skilled workers by governments to improve
+outcomes for their citizens. MTM strategies can aid in sustaining dignified employment
+experience, security and safety of jobs and income to improve well-being of the citizenry.
+Accordingly, and in furtherance of George et al.’s (2016) call, our study examines the nexus
+between MTM practices, decent work, and well-being in developing countries.
+This study contributes to the MTM, decent work, and well-being literature in the following
+ways: first, there is scarcity of studies linking MTM to decent work generally and specifically
+at the macro and cross-country levels. Cooke et al.’s (2019) systematic literature review of the
+academic literature on decent work has demonstrated that macro-level scholarly research
+studies on decent work were examined mainly through the lenses of legal, political and
+economic theories, with significant disregards for national industrial relations and human
+resource management (HRM) theories and practices. Consequently, they made a call for more
+research studies on decent work from the industrial relations and HRM perspectives. Thus,
+this study provides empirical evidence to bridge this gap. Its findings have the potential to
+expand our understanding of the contributions of MTM in developing the working conditions
+that can create a sense of decent work at the national level for people.
+Similarly, although some prior studies examined decent work variables on well-being at
+the micro level (e.g. Qing et al., 2016), there is a lacuna at the macro level of the analysis. This is
+significant because most micro-level analyses are limited in scope as they focus on either
+certain sectors of the economy or some/particular countries, which may be of interest to the
+researchers. Albeit, this helps to get deeper understanding of issues at the individual level, it
+is difficult to generalise from such results for the purpose of designing and implementing
+national, regional and global policies. Besides, Cooke et al. (2019) posited that “decent work is
+not just individual dignity but collective dignity of a nation” (p. 122). Thus, there are major
+gaps in the existing empirical TM literature regarding its macro-level consequences. Indeed,
+these gaps have been highlighted by recent systematic reviews (see Anlesinya et al., 2019a, b;
+Gallardo-Gallardo and Thunnissen, 2016). Thus, this study contributes to empirical TM
+research in this regard.
+Furthermore, as indicated, while limited studies have examined the link between
+industrial relations and decent work (e.g. Cooke et al., 2019), decent work and employees’ wellbeing (e.g. Qing et al., 2016) and HRM and employees’ well-being (e.g. Guest, 2017), there is no
+evidence of prior studies examining the mediating roles of decent work in the relationship
+between MTM and national well-being at the cross-country level. Absence of such studies will
+
+not permit in developing a better understanding of the possible work mechanisms that can
+facilitate the role of TM investments in resolving the grand challenges, specifically the SDGs
+on decent work and human well-being. In his cross-sectional study, Sachs (2016) posited that
+“we still have many crucial things to learn about the deep sources of human well-being. . .we
+should explore more deeply the specific characteristics of work that are favourable or
+unfavourable to happiness. . .” (p. 63). Hence, this study contributes to knowledge by
+responding to Sachs’s (2016) call for empirical studies in this regard. Thus, our findings on the
+mediating role of decent work are novel and can expand our understanding about the process
+by which macro-level TM practices can enhance national well-being.
+Methodologically, MTM literature is dominated by cross-sectional data and even more
+pronounced in mediational TM research. Although mediation models by implication involve
+changes over time and intertemporal process, most studies in TM are cross sectional and
+hence, the field is in need of longitudinal studies, especially those involving mediation
+analyses (see Anlesinya et al., 2019a, b; Gallardo-Gallardo and Thunnissen, 2016). This is
+because panel data help with intertemporal dynamics and individualities of entities, which
+help to control for omitted and unobserved variables, thereby increasing the validity of the
+findings (Zhang and Adom, 2018). Hence, our study provides original evidence to expand the
+limited longitudinal TM literature.
+More so, TM has been accused for its emphasis on managerialist views, which means that
+TM efforts should generate economic value while ignoring the well-being of various actors at
+the societal and country levels (Thunnissen et al., 2013). Accordingly, this study has extended
+the TM literature by providing empirical evidence to show that MTM practices can equally be
+leveraged by governments to improve the human lot beyond financial motives by enhancing
+national well-being and creating decent work opportunities for citizens in developing
+countries.
+The theory and hypotheses
+Macro talent management and theoretical foundations
+Since TM’s inception in the 1990s, it has become a focus of several practitioner articles but has
+in recent times gained significant academic attentions with respect to its conceptualisation
+and strategic value mainly at the organisational level (see Collings and Mellahi, 2009; Meyers
+and van Woerkom, 2014). While TM at the macro level has become a key strategy agenda for
+public sector and non-profit-making organisations, less academic research is devoted to
+addressing it due to the overwhelming focus on profit-oriented organisations. However,
+recent discourse in the area (see Khilji et al., 2015; Vaiman et al., 2019) has recognised its macro
+dimension, which extends beyond the dominant organisational view to embrace TM at the
+national levels by governmental institutions across the world.
+In this study, we operationalised MTM as a set of policies, programmes and actions that
+nations and their institutions implement to promote the attraction of critical talents (workers
+with high skill in leadership/top managerial positions and those with mid-skills performing
+technical roles), the development of their hidden and manifest talents through investment in
+formal education, lifelong learning, training, development and empowerment programmes,
+establishment of quality management training institutions and use of social and professional
+networks to equip them with vocational, technical and global knowledge skills, as well as
+encouraging their retention in order to contribute meaningfully towards the building of their
+nations for citizens to live fulfilling lives.
+The above operational definition is based on Institut Europeen d’Administration des
+Affaires’s (INSEAD) Global Talent Competitiveness Index (GTCI) (see Lanvin and Monteiro,
+2019). The GTCI measure is developed based on the principle of workforce differentiation,
+albeit it is predisposed more towards the hybrid TM. It focusses on high-skilled (A players)
+
+Macro talent
+management,
+work and
+wellbeing
+
+IJM
+
+and mid-skilled (B players) workers only and does not include lower level-skilled workers (C
+players) in a country. The elitists or pure exclusive TM focusses only on A players and does
+not cover B and C players. It is therefore fair to infer that our operational definition based on
+the GTCI lends more towards the hybrid TM perspective.
+It is essential to recognise that although our theory and data are at the macro level, the
+explanatory mechanism also functions at the micro level. Hence, an explanation of the microlevel processes would be useful because countries are made up of individual citizens (see Felin
+and Foss, 2005), especially in the wake of limited macro-level research on the topic. Thus, the
+study has leveraged both micro-level theory and research and macro perspectives to explain
+the mechanisms in the nexus between MTM, decent and well-being at the macro level.
+This study is underpinned by human capital (Becker, 1964) and stakeholder theories
+(Freeman, 1984). According to Becker’s (1964) human capital theory, human capital
+represents employees’ knowledge, skills, abilities and other competencies. TM is a key
+instrument for developing the human capital base of an organisation by making people to
+both learn and unlearn skills (Pineda, 2010). Sianesi and Reenen (2003) found that that human
+capital investments aside enhancing productivity of people lead to enhancement in general
+health levels, improvement in environmental outcomes, social cohesion and civic
+participation and reduction in criminal rates. This means that beyond organisational
+benefits, human capital accumulation has a spillover effect in terms of general societal
+benefits, such as enhanced national well-being. Furthermore, from the stakeholder theory
+perspectives (Freeman, 1984), countries have responsibilities to implement strategies that
+guarantee workers’ dignity, security and fairness in their employment relationship to
+improve decent work opportunities and well-being. Governments have responsibilities
+to develop the talents of their citizens and also create decent work opportunities for them to
+boost their well-being and their overall satisfaction with life.
+Macro talent management on decent work
+Management of talents at the macro level can facilitate decent work opportunities through
+several channels: first, the development of employability skills is a key channel through
+which MTM initiatives can boost decent work in a country. Employability describes the
+ability of persons to secure and keep meaningful jobs (Pavlin, 2014; Rothwell and Arnold,
+2007). TM initiatives can enhance the employability of unemployed individuals since they
+will acquire skills and competencies that can help them to obtain secured and meaningful
+jobs. For instance, in The Netherlands, Ybema et al. (2020) empirically found that HRM
+practices enhance workers’ employability with regards to increment in skills and knowledge.
+Similarly, Pastore and Zimmermann (2019) argued that complementing general education
+(school or university education) with job-related training investments can help the
+beneficiaries to gain sustainable job in the labour market and reduce their unemployment
+propensity. They buttressed this claim by citing the low rates of unemployment in Germany
+and Austria, which in their view is attributable to investment in job-related training and
+general education.
+Second, MTM practices can boost decent work through the creation of more quality jobs.
+According to ILO (2008), education, training and lifelong learning are amongst the critical
+economic factors facilitating progress towards decent work. Likewise, in George et al.’s (2016)
+view, human resource development (HRD) initiatives, such as lifelong learning and
+continuous education are necessary for the retraining for new skills so as to provide
+opportunities for new skills and entrepreneurship for citizens. This is consistent with the
+empirical entrepreneurship training and venture creation literature (e.g. Puni et al., 2018) and
+Lanvin et al.’s (2019) findings that the nurturing of entrepreneurial talent by the Chinese
+Government was a critical source of their innovation, job creation, competitiveness and
+economic growth. Relatedly, MTM can lead to decent work because it enhances the chances of
+
+well-trained and talented individual to land at jobs that are well paying with guaranteed
+earnings. This is consistent with economics research intuition and human capital theory that
+soft skills have implications for the general economy as well as individual earnings across the
+lifespan (Sianesiand Reenen, 2003). Hence,
+H1. MTM will have a significant positive impact on decent work at the crosscountry level.
+Decent work on national well-being
+Aristotle posits that people who live fulfilling lives are individuals who have achieved their
+potential with regards to wealth, acquisition of knowledge, healthy life, relationship and
+friendship, including other domains of life (Erdogan et al., 2012). Work contributes positively
+towards improving the well-being of people (Erdogan et al., 2012; Sachs, 2016). The dignity of
+work is critical for well-being as the single biggest part of our working adult lives are spent in
+the workplace. Hence, “drudgery and unemployment are shunned; stimulating work and
+decent work conditions are crucial for well-being” (Sachs, 2016, p. 58).
+Decent work can enhance well-being through the following channels: first, decent work
+can improve well-being by guaranteeing people with adequate earning, constant flow of
+income and livelihood empowerment to satisfy their financial and economic needs. According
+to Erdogan et al. (2012), people derive gratification, especially financial needs for just being in
+an employment since unemployment tends to negatively impact on life satisfaction and wellbeing (Pittau et al., 2010). Hence, those in decent work have opportunities to earn adequate
+income to meet their financial needs, leading to improvement in their well-being.
+Second, job security has been found to positively improve subjective well-being of people
+by enhancing their happiness and life satisfaction (Silla et al., 2009) because most citizens
+cherish personal security (Warr, 2007) and security of their income. This means that the state
+of well-being is expected to be lower amongst vulnerable worker groups, such as casual and
+contract workers relative to permanent workers. This is because they have no security of
+employment and the fear of non-renewal of their contract and unemployment can be very
+stressful, thereby impacting on the well-being of vulnerable workers (i.e. people with decent
+work deficits). Third, decent work can boost well-being by making people derive pride from
+being in an attractive and prestigious employment. A research study by Redman and Snape
+(2006) revealed that power and prestige is associated positively with life satisfaction. Besides,
+decent work provides workers with opportunities for participation which in turn improves
+well-being. From the above discussion, the following hypothesis is proposed:
+H2. Decent work will have significant impacts on national well-being – subjective (H2a)
+and economic national well-being (H2b).
+The mediating role of decent work in the macro talent management and national
+well-being nexus
+Micro-level TM research studies have established that TM practices and strategies can
+enhance the well-being of individual employees. Marescaux et al.’s (2019) research in Belgium
+indicated that developmental HRM practices can enhance happiness and healthy well-being
+of employees. A similar result was obtained by Khoreva et al. (2017) in Finland and by
+Mensah and Bawole (2018) in the Ghanaian banking sector. Relatedly, Song and Xie (2019)
+suggested that employee’s educational levels and green talent can contribute to improving
+economic welfare in China. Prior to this, Blackman and Mishra (2010) in their conceptual
+paper argued that strategic HRM can enhance the achievement of national happiness in
+Bhutan if the country is able to develop people management strategies and capabilities.
+Unfortunately, these studies were mainly limited to only micro- or individual-level outcomes
+
+Macro talent
+management,
+work and
+wellbeing
+
+IJM
+
+to the neglect of MTM’s roles in enhancing national well-being and happiness generally and
+at the cross-country level.
+Furthermore, as noted earlier, TM practices can facilitate the creation of decent work
+opportunities through various channels, such as equipping the unemployed and vulnerable
+with employability skills for secured quality employment and creation of quality job
+opportunities (e.g. Khoreva et al., 2017). Decent work, in turn, also contributes positively
+towards improving the well-being of people (see Cooke et al., 2019; Sachs, 2016). Decent work
+can improve national well-being through earning of adequate and secured income,
+satisfaction of financial needs, the pride of being employed in a prestigious job and being
+in employment characterised by job security and safety, as well as opportunities for
+participation.
+This means that decent work can serve as a useful psycho-socio-economic mechanism for
+TM strategies of national governments to enhance economic and subjective national wellbeing. Indeed, at the micro level, Anlesinya and Amponsah-Tawiah (2020) have conceptually
+established that perceived decent work is a useful mechanism (i.e. mediator) through which
+responsible TM practices can enhance employee well-being. This is because responsible TM
+practices guarantee employees with secured employment and adequate earnings, which can
+positively affect their economic and subjective well-being in terms of satisfaction with life and
+affective well-being. However, there is no evidence of prior studies examining the mediating
+roles of decent work in the relationship between MTM and national well-being. Hence, using
+panel data, we hypothesised that:
+H3. Decent work will mediate the relationship between MTM and national well-being –
+subjective (H3a) and economic national well-being (H3b).
+The hypothesised relationships are summarised in Figure 1 below.
+
+The research methodology
+Research design
+The study used panel research design to investigate the causal relationship between MTM,
+decent work and national well-being at the cross-country level to facilitate generalisation.
+Panel regression pools cross-sectional units of observations over several time dimensions to
+produce a more informative data and estimates that are more robust than cross-sectional data
+and techniques. Moreover, longitudinal data have more variability and permit one to explore
+a particular phenomenon more accurately than cross-sectional data (Baltagi, 2005).
+Population and sampling
+The study’s population is all developing countries. According to the World Bank’s (2019)
+classification, developing countries are countries that are within low to upper–middle income
+brackets. As noted earlier, the choice of developing countries is motivated by the fact that
+many of them are currently facing huge national threat to peace and security due to the
+current level of limited opportunities for decent work and well-being deficits. The data were
+collected from 77 developing countries across the various regions/continents, which are as
+follows: Africa (26); Asia (26), Latin American and Caribbean (LAC) (16) and Europe (10)
+(see Appendix). These countries were selected due to data availability. Although the study
+focussed on 77 developing countries, their selection across the world with representation
+from each of the world’s major regions coupled with their socio-economic characteristics can
+facilitate the generalisation of the findings. The study collected secondary data of the study
+variables spanning 2013–2018. The base year was informed by the fact that data on MTM
+were only available from 2013.
+
+Macro talent
+management,
+work and
+wellbeing
+
+Objective well-being
+
+∙
+
+H3a
+
+Macro talent
+management
+
+Economic well-being
+
+H2a
+Control variables:
+
+H1
+Decent work
+
+National
+well-being
+
+H2
+
+-
+
+Country size:
+
+∙
+
+Population size
+
+-
+
+Regional effect
+
+∙ Africa
+∙ LAC
+∙ Asia
+
+H3b
+H2b
+
+Subjective well-being:
+
+∙∙
+
+Life satisfaction
+Affective well-being
+
+Source(s): Authors’own conceptual framework
+
+Measures
+MTM: At the macro level was proxy using INSEAD’s GTCI. It was developed based on the
+notion of the attract–develop–retain framework that multinational firms used to strategically
+manage their talented employees. Thus, the GTCI describes efforts that countries make to
+create suitable environment to attract, develop and retain talented people in a country. Its
+sub-elements consist of six pillars, which are computed as the simple arithmetic average of
+the scores registered on each of the six pillars. The GTCI focusses on TM commitments or
+efforts of countries. As a result, its computation uses macroeconomic and country-level
+variables (Lanvin and Monteiro, 2019).
+National well-being was measured using subjective (life satisfaction and affective wellbeing) and objective well-being (economic well-being). Our use of both subjective and
+objective well-being measures is in response to the view that well-being is a multifaceted
+phenomenon that can be captured well with the use of both subjective and objective
+indicators (Anand, 2016). Economic national well-being was measured using the log of gross
+domestic product (GDP) per capita, and it was sourced from the World Development
+Database. According to Dynan and Sheiner (2018), GDP is a very useful measure of economic
+well-being despite its limitations. Subjective national well-being: life satisfaction is proxy using
+Life Ladder from the World Database of Happiness. Ngamaba et al.’s (2017) meta-analysis
+results indicated that life satisfaction provides a valid and reliable measure of subjective wellbeing. Affective/emotional well-being was measured using the positivity ratio. It is computed
+as the ratio of positive affect to negative affect. Data on both positive and negative affects
+
+Figure 1.
+The conceptual
+framework of the
+macro talent
+management, decent
+work and national
+well-being nexus
+
+IJM
+
+were collected in the Gallup World Poll and were extracted from the World Database of
+Happiness. Prior studies (e.g. Diener et al., 2006) have indicated that self-reported well-being
+correlated significantly with objective indicators of well-being, such as material living
+standard. Moreover, statistically robust subjective well-being measures can provide useful
+insights through models, rankings and predictions that would be very difficult to ascertain
+by concentrating completely on objective measures (Anand, 2016). It is also necessary to note
+that the subjective well-being variables were measured at the individual level and
+consequently aggregated to measure subjective well-being at the national level. Hence, the
+subjective well-being data in the World Database of Happiness are macro/ country- level data
+and not individual- or organizational-level data.
+Decent work was proxy by wage and salaried workers as a percentage of total employment
+(that is, total number of permanent employees). Wage and salaried (or permanent) employees
+have guaranteed earnings, stability and security of employment and have better voice
+relative to non-salaried workers. It thus, addresses the key dimensions of decent work, such
+as job security, job safety, freedom and dignity in employment. The data on decent work
+measure were collected from the World Bank Group’s DataBank and ILOSTAT database.
+Control variables: The study controlled for the regional effect and country size as these
+factors can impact on well-being and decent work. Population was used to proxy country size
+because natural and human resource endowment can significantly account for country
+differences in the well-being of citizens. Population size is measured by the log of total
+number of residents in a country irrespective of their citizenship and legal status and was
+sourced from the World Bank database. Likewise, an ANOVA analysis showed that there are
+significant regional differences in national well-being; hence, we controlled for regional
+effects. Regional effects are measured using regional dummies. The regional dummies were
+coded as follows: Africa region 5 1 and 0 5 otherwise; LAC 5 1 and 0 5 otherwise; Asia 5 1
+and 0 5 otherwise, using Europe as the reference region.
+The data analysis
+Panel regressions techniques were employed to test the hypothesised relationships over the
+cross-sectional analytical technique to make the findings more robust (Baltagi, 2005). Fixedeffects models are used to analyse time-variate variables (e.g. age, country size, etc.) and cannot
+be used to analyse time-invariant variables (e.g. gender, regional dummy, etc.). However,
+random-effects models have the capacity to integrate both time-constant and time-variate
+variables in a model. Moreover, the random-effects model is a generalised least square
+estimator, while the fixed-effect model is an ordinary least square (OLS) estimator. Thus,
+comparatively, the variances of the coefficients in the random-effect model are likely to be lower
+compared with those of the fixed-effect model. In other words, the random-effect model is more
+robust to heteroscedasticity and produces efficient estimators. The Hausman test is a statistical
+technique that is used to determine the suitability of fixed-effects and the random-effects panel
+regressions (Baltagi, 2005). But beyond the Hausman test, consideration is also given to other
+factors such as, the nature of the data in choosing between both estimators (Greene, 2012).
+Moreover, the mediation hypothesis was tested using the bootstrapping method of the
+mediation analysis with the aid of Hayes’ PROCESS macro technique. The bootstrapping
+method of the mediation analysis is more powerful and highly accurate compared to other
+methods of estimating mediation, such as the causal-effect method due to its ability to handle
+type-1 error and also to test the significance of the indirect (mediated) effects (Hayes, 2013).
+Results and findings
+Preliminary analyses and model diagnostics
+The Hausman test showed that the random-effect model is suitable (chi-square 5 0.385,
+p 5 0.535, >0.05) for estimating the impact of MTM on decent work. Beyond this, the
+
+characteristic of the data, which includes important dummies (time-invariant variables) for
+capturing regional effects, supports the choice of the random-effect model over the fixedeffect model. Table 1 shows the correlation analysis. MTM correlates positively and
+significantly with life satisfaction (r 5 0.41, p < 0.01), affective (r 5 0.22, p < 0.01) and
+economic well-being (r 5 0.67, p < 0.01) and decent work (r 5 0.63, p < 0.01). Decent work
+similarly correlates positively with life satisfaction (r 5 0.43, p < 0.01) and economic wellbeing (r 5 0.65, p < 0.01) but has insignificant positive association with affective well-being.
+Overall, the independent variables are weakly correlated; hence, no multicollinearity issues.
+Hypotheses testing
+The first hypothesis states that macro MTM will have a significant positive impact on decent
+work. This hypothesis is tested using the pooled OLS and random-effect panel estimators and
+the results shown in Table 2. The pooled OLS results indicate that MTM has a positive impact
+on decent work in model 1 (β 5 62.507, p < 0.01), where no control variable is included and
+remained significantly positive in model 2 (β 5 61.100, p < 0.01) even when country size is
+controlled and in model 3 (β 5 52.402, p < 0.01) when both regional effects and country size
+are controlled for. Similarly, the random-effect results in all the three alternative models
+indicate that MTM has a positive impact on decent work, although the result is statistically
+insignificant.
+Second, the study hypothesised that decent work will have a significant positive impact on
+national well-being (subjective and economic well-being). To analyse this, the study first
+transformed the national well-being by calculating change in national well-being measures
+(i.e. differences between current well-being and its lag – i.e. previous year well-being) or (wellbeingi,t– well-beingi,t – 1) as well-being is generally malleable. This approach is also robust
+against potential problems of endogeneity. Second, we constructed a composite national wellbeing index (which composes of subjective – life satisfaction – and economic well-being),
+using principal component and factor analyses. We consequently tested the effect of decent
+work on change in national well-being measures (facets and index), using random-effect panel
+regression and present the results in Table 3. The random-effect results indicate that decent
+work has a significant positive impact on change in life satisfaction (β 5 0.037, p < 0.01),
+change in economic well-being (β 5 0.390, p < 0.01) and change in composite national wellbeing (β 5 0.501, p < 0.01). Similarly, although insignificant, decent work has a positive effect
+on change in affective well-being (β 5 0.025, p > 0.05). This means that decent work generally
+can enhance national well-being (both subjective and economic well-being) across time.
+The third hypothesis states that decent work will mediate the relationship between MTM
+and national well-being (economic and subjective). The results are shown in Table 4. The
+empirical evidence suggests that MTM has a significant indirect (or mediated) effect through
+decent work on life satisfaction (ab 5 0.189, p < 0.05), economic well-being (ab 5 0.383,
+p < 0.05) and the NWB index (ab 5 0.208, p < 0.05), but shows an insignificant indirect effect
+on affective well-being via decent work (ab 5 0.026, p > 0.05).
+Discussion
+Given the paucity of research on the causal relationships between MTM, decent work and
+national well-being generally and specifically at the cross-country level, this study examined
+the nexus between MTM practices, decent work and national well-being in developing
+countries’ context as they are currently facing major issues with well-being and decent work
+deficits. Our study first argues that MTM practices will lead to improvement in decent work
+in developing countries. The panel data results indicate that MTM can have a positive impact
+on the level of decent work. This means that nations that prioritise policies to attract, develop
+
+Macro talent
+management,
+work and
+wellbeing
+
+Table 1.
+Pearson’s correlation
+and multicollinearity
+Mean
+
+SD
+
+1
+
+2
+
+3
+
+4
+
+1. Life satisfaction
+5.03
+0.92
+1.00
+2. Affective well-being
+0.92
+0.35
+0.19***
+1.00
+3. Economic well-being
+8.80
+0.96
+0.57***
+0.07
+1.00
+4. Decent work
+50.57
+21.93
+0.43***
+0.07
+0.65***
+1.00
+5. MTM
+36.79
+7.06
+0.41***
+0.22***
+0.67***
+0.63***
+6. The African region
+0.34
+0.47
+0.51***
+0.01
+0.54***
+0.41***
+7. The Asian region
+0.34
+0.47
+0.02
+0.001
+0.15***
+0.04
+8. The LAC region
+0.19
+0.40
+0.55***
+0.11**
+0.21***
+0.18***
+Country size
+16.65
+1.66
+0.01
+0.10**
+0.06
+0.17***
+0.15***
+Note(s): *, **, ***significant at 10 (0.10)%, 5 (0.05) and 1 (0.01)%, respectively; MTM 5 macro talent management
+
+Variables
+
+1.00
+0.42***
+0.13**
+0.05
+0.03
+
+5
+
+1.00
+0.51***
+0.35***
+0.21***
+
+6
+
+1.00
+0.35***
+0.12**
+
+7
+
+1.00
+1.00
+
+8
+
+IJM
+
+Pooled OLS regression results
+1
+2
+3
+
+Random-effects regression results
+4
+5
+6
+
+Log MTM
+
+Macro talent
+management,
+work and
+wellbeing
+
+62.507***
+61.100***
+52.402***
+2.046
+1.766
+1.111
+(6.08)
+(5.89)
+(4.54)
+(1.24)
+(1.07)
+(0.69)
+Africa
+16.998**
+35.637***
+( 2.42)
+( 5.75)
+Asia
+16.482***
+24.603***
+( 3.18)
+( 3.92)
+LAC
+8.545*
+15.048**
+( 1.73)
+( 2.25)
+Log country size
+1.081
+0.249
+1.282
+0.060
+( 1.03)
+( 0.23)
+( 1.10)
+( 0.05)
+Table 2.
+2
+0.383
+0.391
+0.465
+0.383
+0.076
+0.257
+R
+Panel regression
+F-test/Wald chi-square
+36.97***
+19.68***
+12.38***
+1.54
+2.67
+40.48*** results of the effects of
+Observation
+382
+382
+381
+382
+382
+381
+macro talent
+Note(s): *, **, ***significant at 10 (0.10)%, 5 (0.05) and 1 (0.01)%, respectively. t-values are in parenthesis;
+management on
+unstandardised coefficients from Stata, version 15, are reported; MTM 5 macro talent management
+decent work
+
+Δ (Life
+satisfaction)
+
+Δ (Affective wellbeing)
+
+Δ (Economic wellbeing)
+
+Δ (Composite NWB
+index)
+
+0.709**
+0.167**
+0.477***
+0.575**
+( 13.72)
+( 6.04)
+( 10.12)
+( 11.55)
+0.037**
+0.025
+0.390***
+0.501***
+(2.00)
+(1.19)
+(4.73)
+(5.09)
+Africa
+0.134***
+0.023
+0.355***
+0.537***
+( 4.16)
+( 0.62)
+( 2.76)
+( 3.44)
+Asia
+0.035
+0.043
+0.082
+0.123
+( 1.27)
+( 1.31)
+( 0.74)
+( 0.93)
+LAC
+0.093***
+0.005
+0.065
+0.003
+(3.14)
+( 0.16)
+( 0.57)
+( 0.02)
+0.020
+0.028
+Log country size
+0.006
+3.7 3 10–5
+(1.15)
+( 0.01)
+(0.94)
+(1.10)
+2
+0.364
+0.119
+0.237
+0.289
+R
+Wald chi-square
+189.61***
+44.86***
+102.44***
+133.51***
+Table 3.
+Observation
+338
+338
+336
+336
+Random regression
+Note(s): *, **, ***significant at 10 (0.10)%, 5 (0.05) and 1 (0.01)%, respectively. t-values are in parenthesis; results of the effect of
+NWB 5 national well-being; unstandardised coefficients from STATA, version 15, are reported; decent work on change
+Well-being(t 1) 5 previous year well-being (corresponding facets and index); MTM 5 macro talent management in national well-being
+Well-being (t 1)
+(log)
+Log decent work
+
+Path/relationship
+
+Indirect (mediated)
+
+95% confidence level (C.I)
+Effect boot LC.I
+Boot UC.I
+
+Log MTM > Decent work > Life satisfaction
+0.189**
+0.088
+0.468
+Log MTM > Decent work > Affective well-being
+0.026
+0.034
+0.071
+Log MTM > Decent work > Economic well-being
+0.383**
+0.220
+0.909
+Table 4.
+Log MTM > Decent work > NWB index
+0.208**
+0.115
+0.481
+The bootstrapping test
+Note(s): ** bootstrap estimate is significant at 95% confidence level (or 5% level of significance); affective
+of mediation at 95%
+and economic well-being are logged. Also, country size and regional effects are controlled for in all the
+confidence
+mediation models; MTM 5 macro talent management
+intervals (C.I)
+
+IJM
+
+and retain their talented people can create opportunities for their citizens to be engaged in
+decent work. This is because the development of people’s talents tends to afford them with
+opportunities to become more employable, experience job security, stability of income and
+dignity in employment through acquisition of capabilities and skills that facilitate their
+ability to secure and maintain permanent jobs. Another possible explanation for our results is
+that MTM practices can enhance decent work opportunities through increased availability of
+quality jobs, especially if the MTM initiatives emphasise more the development of
+entrepreneurial skills and retention of entrepreneurial talents. This is because MTM can
+ensure that countries are endowed with well-qualified and talented people to develop
+innovative, creative ideas and initiatives that can potentially create more quality, secured and
+stable employment opportunities. Our findings, therefore, give credence to the assertion by
+some scholars (e.g. Anlesinya and Amponsah-Tawiah, 2019; Ybema et al., 2020) that TM
+plays crucial roles in increasing employability skills by developing capabilities and human
+capital or resources. It similarly supported George et al.’s (2016) view that HRD initiatives can
+boost opportunities for new skills and entrepreneurship development.
+Furthermore, we hypothesised that decent work will have a significant positive impact on
+national well-being. The empirical results establish that decent work can improve national
+well-being – both subjective and economic well-being. This finding indicates that decent
+work can improve well-being by guaranteeing people with constant flow of income and
+empowerment of their livelihood, leading to the satisfaction of their financial needs and
+economic gratifications. This is in line with prior scholars assertion that (e.g. Erdogan et al.,
+2012) people derive gratification for just being in an employment. Aside, this result as noted
+earlier can be explained based on security of employment feature of a decent work as most
+citizens cherish personal security (Warr, 2007) and security of their income. The positive
+impact of decent work on well-being could further be due to the sense of pride that is
+associated with being in an attractive and prestigious employment. Thus, people who derive
+pride from their job, earn adequate and secured earnings from employment and are
+guaranteed job security and job safety stand greater chance of experiencing fulfilling lives
+compared to individuals who are engaged in vulnerable and precarious employment.
+Moreover, the empirical evidence indicates that it is possible for decent work to mediate
+the nexus between MTM and national well-being. This means that MTM can enhance decent
+work, which will in turn improve national well-being. Hence, decent work is a useful
+mechanism for MTM strategies in developing countries to enhance economic and subjective
+well-being. This could mean that MTM improves decent work by promoting increased
+quality job creations through entrepreneurial talents and by enhancing security of job and
+adequacy of income for talented individuals in their employment relationship. People with
+more decent work opportunities in turn experience improvement in their life satisfaction and
+economic status, hence leading to enhanced well-being. This empirical evidence gives
+credence to Anlesinya and Amponsah-Tawiah’s (2020) theoretical assertion that decent work
+can mediate the effect of responsible TM practices and well-being, although they focussed on
+a micro level of analysis, while our study examined the mediation at the macro and crosscountry levels.
+Implications and conclusion
+Implications
+The study’s findings have major theoretical and practical implications. Theoretically, the
+findings have highlighted the contributions of TM at the macro level in developing working
+conditions that can create a sense of decent work at the national level for the citizenries.
+Moreover, findings have extended human capital theory by showing an important link
+between TM initiatives and national well-being via decent work, which goes beyond the
+
+traditional application of human capital theory to understand the competitiveness and
+economic gains of firms and nations. This implies that beyond the myopic managerialist
+view, TM initiatives tend to have positive spillover impacts on people and the general society.
+This can help stakeholders and researchers in the field to appreciate the fact that TM should
+not be implemented because of its economic outcomes but its wider social impacts. Similarly,
+we further extend stakeholder theory to the TM literature by demonstrating that
+governments have responsibilities to implement TM strategies to guarantee workers’
+dignity, security and fairness in their employment relationship to improve decent work
+opportunities and national well-being.
+In addition, by investigating and supporting decent work as a mechanism in the MTM and
+national well-being nexus, we add to knowledge in the TM field by identifying a novel mechanism
+or process through which MTM practices can result in improved national well-being. The results
+mean that developing countries’ citizens, whose talents are well developed, are more predisposed
+to have access to decent works in forms of better paid jobs, job security and prestigious job, which
+subsequently will lead to enhancement in economic and subjective national well-being. Moreover,
+because decent work has economic (e.g. adequacy and security of income), physical (e.g. safety
+and absence of threats to life) and psychological (e.g. sense of pride and job security) dimensions,
+our study has revealed a complex and powerful conduit for translating the gains of MTM
+initiatives to make citizens live fulfilling lives. In so doing, we have extended Anlesinya and
+Amponsah-Tawiah’s (2020) theoretical mediation analysis of responsible TM, decent work and
+well-being at employee and organisational levels to the macro level.
+Practically, the results imply that the creation of decent work opportunities to improve
+human well-being can be realised by leveraging effective MTM strategies. The results, thus,
+suggest that the importance of dignified or decent work in enhancing well-being in
+developing countries, which are battling with high rates of vulnerable employments, cannot
+be overemphasised, especially as most of our working lives are spent in the workplace. This
+result, therefore, imposes a major responsibility on national governments, policymakers and
+their institutions to re-examine the conditions in their countries and initiate actions that will
+transform the pace of quality job creations. In particular, as our findings have revealed,
+national governments can help to improve decent work as enshrined in the goal 8 of the SDGs
+by implementing MTM strategies to develop the workforce to create more decent work
+opportunities to improve national well-being. This is because such initiatives have the
+potential to guarantee workers’ dignity, security and stability of income and job in their
+employment relationship, which in turn leads to an enhanced well-being. Besides, private
+sector institutions that have a track record of creating more decent works should be
+supported through tax incentives and other supports. Likewise, TM initiatives should
+emphasise the ability of the beneficiaries to create decent work for themselves and employ
+those in vulnerable employment.
+The following are potential limitations to the findings: first, the study has focussed on only
+developing countries. Besides, although regional dummies are controlled, our study has not
+comparatively examined regional dynamics in the results in terms of how MTM affects
+decent work and decent works’ impact on well-being across the different regions. This is a
+useful direction for future research. Such studies may go beyond developing countries to
+examine comparative difference in the results with respect to developed and developing
+nations. Again, the number of countries can be increased once there are sufficient data on
+many other countries in the future.
+Conclusion
+In conclusion, our study implies that MTM investments by national governments can
+empower citizens to escape the tragedy of vulnerable and low-quality employment and
+
+Macro talent
+management,
+work and
+wellbeing
+
+IJM
+
+well-being deficits. Hence, developing countries can leverage MTM investments to improve
+decent work and national well-being as enshrined in the SDGs. Consequently, the major
+scientific contributions of this study are summarised as follows: first, it contributes
+innovative and original evidence on the nexus between MTM, decent work and national wellbeing at the cross-country level as there is a lacuna at the macro level on the topic. Second,
+empirical analyses of TM and its outcomes have overemphasised cross-sectional data to the
+neglect of longitudinal design, despite the widely known challenges that are associated with
+the classical cross-sectional analysis relative to the panel data analysis. Hence, this study is
+novel by providing panel data and longitudinal mediation evidence to expand and bridge the
+gap between cross-sectional and longitudinal empirical TM literature as well as responding to
+the incessant calls for longitudinal TM research, particularly in mediational TM research.
+Thus, a key unique scientific contribution of our study is that the nexus between MTM,
+decent work and national well-being varies across time. This certainly is a major insight for
+policymakers and governmental institutions in their efforts towards achieving the SDGs on
+decent work and well-being.
+Third, because decent work has psychosocial and economic dimensions, our study has
+revealed a complex and useful work mechanism through which MTM strategies can improve
+both subjective and economic national well-being. Fourth, it provides macro-level evidence to
+extend the application of human capital and stakeholder theories beyond their individual and
+organisational foci to enhance understanding of the positive gains of MTM practices on
+decent work and national well-being as well as decent work’s role in enhancing national wellbeing facets. Fifth, due to the general limited representation of emerging and developing
+countries in management scholarship, this study adds to knowledge in the developing
+countries’ context in the area by highlighting novel management strategies for resolving the
+grand societal challenges of well-being and decent work deficits.
+
+References
+Anand, P. (2016), Happiness, Well-Being and Human Development: The Case for Subjective Measures,
+UNDP Human Development Report Office, New York.
+Anlesinya and Amponsah-Tawiah, A.K. (2020), “Towards a responsible talent management model”,
+European Journal of Training and Development, Vol. 44 Nos 2/3, pp. 279-303, doi: 10.1108/EJTD07-2019-0114.
+Anlesinya, A., Dartey-Baah, K. and Amponsah-Tawiah, K. (2019a), “Strategic talent management
+scholarship: a review of current foci and future directions”, Industrial and Commercial Training,
+Vol. 51 No. 5, pp. 299-314.
+Anlesinya, A., Dartey-Baah, K. and Amponsah-Tawiah, K. (2019b), “A review of empirical research on
+global talent management”, FIIB Business Review, Vol. 8 No. 2, pp. 147-160.
+Baltagi, B.H. (2005), Econometric Analysis of Panel Data, John, New York.
+Becker, G.S. (1964), Human Capital: A Theoretical and Empirical Analysis with Special Reference to
+Education, University of Chicago Press, Chicago.
+Blackman, D., O’Flynn, J. and Mishra, D.P. (2010), “Can strategic human resource management enable
+gross national happiness?”, International Journal of Commerce and Management, Vol. 20 No. 3,
+pp. 232-245.
+Bryson, A., Forth, J. and Stokes, L. (2014), Does Worker Wellbeing Affect Workplace Performance,
+Department for Business Innovation and Skills, London.
+Collings, D.G. and Mellahi, K. (2009), “Strategic talent management: a review and research agenda”,
+Human Resource Management Review, Vol. 19 No. 4, pp. 304-313.
+
+Cooke, F.L., Xu, J. and Bian, H. (2019), “The prospect of decent work, decent industrial relations and
+decent social relations in China: towards a multi-level and multi-disciplinary approach”,
+International Journal of Human Resource Management, Vol. 30 No. 1, pp. 122-155.
+Diener, E., Lucas, R.E. and Scollon, C.N. (2006), “Beyond the hedonic treadmill: revising the adaptation
+theory of well-being”, American Psychologist, Vol. 61 No. 4, pp. 305-14.
+Dynan, K. and Sheiner, L. (2018), GDP as a Measure of Economic Well-Being, Work. Paper, 43.
+Erdogan, B., Bauer, T.N., Truxillo, D.M. and Mansfield, L.R. (2012), “Whistle while you work: a
+review of the life satisfaction literature”, Journal of Management, Vol. 38 No. 4,
+pp. 1038-1083.
+Felin, T. and Foss, N.J. (2005), “Strategic organization: a field in search of micro-foundations”, Strategic
+Organization, Vol. 3 No. 4, pp. 441-455.
+Freeman, R.E. (1984), Strategic Management: A Stakeholder Approach, Pitman, Boston.
+Gallardo-Gallardo, E. and Thunnissen, M. (2016), “Standing on the shoulders of giants? A critical
+review of empirical talent management research”, Employee Relations, Vol. 38 No. 1,
+pp. 31-56.
+George, G., Howard-Grenville, J., Joshi, A. and Tihanyi, L. (2016), “Understanding and tackling societal
+grand challenges through management research”, Academy of Management Journal, Vol. 59
+No. 6, pp. 1880-1895.
+Greene, W.H. (2012), Econometric Analysis, Prentice Hall, Upper Saddle River, NJ.
+Guest, D. (2017), “Human resource management and employee well-being: towards a new analytic
+framework”, Human Resource Management Journal, Vol. 27, pp. 22-38.
+Hayes, A.F. (2013), Mediation, Moderation, and Conditional Process Analysis: A Regression- Based
+Approach, Guilford Publications, New York, NY.
+ILO (1999), Decent Work, Report of the Director-General to the ILC, 87th Session, p. 3.
+ILO (2008), Measurement Of Decent Work- Discussion Paper for the Tripartite Meeting of Experts on
+the Measurement of Decent work.Geneva, 8–10 September 2008, ILO, Geneva.
+ILO (2018), Decentwork and the Sustainable Development Goals: A Guidebook on Sdg Labour Market
+Indicators, ILO Department of Statistics (STATISTICS), Geneva.
+Khilji, S.E., Tarique, I. and Schuler, R.S. (2015), “Incorporating the macro view in global talent
+management”, Human Resource Management Review, Vol. 25 No. 3, pp. 236-248.
+Khoreva, V., Vaiman, V. and Zalk, M.V. (2017), “Talent management practice effectiveness:
+investigating employee perspective”, Employee Relations, Vol. 39 No. 1, pp. 19-33.
+Lanvin, B. and Monteiro, F. (2019), The Global Talent Competitiveness Index 2019: Entrepreneurial
+Talent and Global Competitiveness, INSEAD, the Adecco Group, and Tata Communications,
+Fontainebleau.
+Lanvin, B., Monteiro, F. and Bratt, M. and INSEAD (2019), “Entrepreneurial talent for
+competitiveness”, The Global Talent Competitiveness Index 2019. Entrepreneurial Talent and
+Global Competitiveness, INSEAD, The Business School of the World, pp. 3-36.
+Marescaux, E., De Winne and Forrier, S.A. (2019), “Developmental HRM, employee well- being and
+performance: the moderating role of developing leadership”, European Management Review,
+Vol. 16 No. 2, pp. 317-331.
+Mensah, J.K. and Bawole, J.N. (2018), “Testing the mediation effect of person-organisation fit on the
+relationship between talent management and talented employees’ attitudes”, International
+Journal of Manpower, Vol. 39 No. 2, pp. 319-333.
+Meyers, M.C. and van Woerkom, M.V. (2014), “The influence of underlying philosophies on talent
+management: theory, implications for practice, and research agenda”, Journal of World
+Business, Vol. 49, pp. 192-203.
+
+Macro talent
+management,
+work and
+wellbeing
+
+IJM
+
+Ngamaba, K.H., Panagioti, M. and Armitage, C.J. (2017), “How strongly related are health status and
+subjective well-being? Systematic review and meta-analysis”, The European Journal of Public
+Health, Vol. 27 No. 5, pp. 879-885.
+Pastore, F. and Zimmermann, K.F. (2019), “Understanding school-to-work transitions”, International
+Journal of Manpower, Vol. 40 No. 3, pp. 374-378.
+Pavlin, S. (2014), “The role of higher education in supporting graduates’ early labour market careers”,
+International Journal of Manpower, Vol. 35 No. 4, pp. 576-590.
+Pineda, P. (2010), “Evaluation of training in organizations: a proposal for an integrated model”, Journal
+of European Industrial Training, Vol. 34 No. 7, pp. 673-693.
+Pittau, M.G., Zelli, R. and Gelman, A. (2010), “Economic disparities and life satisfaction in European
+regions”, Social Indicators Research, Vol. 96 No. 2, pp. 339-361.
+Puni, A., Anlesinya, A. and Korsorku, P.D.A. (2018), “Entrepreneurial education, self-efficacy and
+intentions in Sub-Saharan Africa”, African Journal of Economic and Management Studies,
+Vol. 9 No. 4, pp. 492-511.
+Qing, T., Liu, S. and Wang, T. (2016), “The relationship between decent work and engagement: role of
+intrinsic motivation and psychological needs”, Journal of Sichuan University (Social Science
+Edition), Vol. 5, pp. 134-143.
+Redman, T. and Snape, E. (2006), “The consequences of perceived age discrimination amongst older
+police officers: is social support a buffer?”, British Journal of Management, Vol. 17 No. 2,
+pp. 167-175.
+Rothwell, A. and Arnold, J. (2007), “Self-perceived employability: development and validation of a
+scale”, Personnel Review, Vol. 36 No. 1, pp. 23-41.
+Sachs, J.D. (2016), “Happiness and sustainable development: concepts and evidence”, in Helliwell, J.,
+Layard, R. and Sachs, J. (Eds), World Happiness Report 2016 Update, Sustainable Development
+Solutions Network, New York, Vol. 1, pp. 56-65.
+Sianesi, B. and Reenen, J.V. (2003), “The returns to education: macroeconomics”, Journal of Economic
+Surveys, Vol. 17 No. 2, pp. 157-200.
+Silla, I., De Cuyper, N., Gracia, F.J., Peiro, J.M. and De Witte, H. (2009), “Job insecurity and well-being:
+moderation by employability”, Journal of Happiness Studies, Vol. 10 No. 6, pp. 739-751.
+Song, M. and Xie, Q. (2019), “How does green talent influence China’s economic growth?”, International
+Journal of Manpower, Ahead-of-print.
+Thunnissen, M., Boselie, P. and Fruytier, B. (2013), “Talent management and the relevance of context:
+towards a pluralistic approach”, Human Resource Management Review, Vol. 23 No. 4,
+pp. 326-336.
+UNDP (2018), Human Development Indices and Indicators 2018: Statistical Update, UNDP,
+New York.
+Vaiman, V., Sparrow, P., Schuler, R. and Collings, D.G. (2019), Macro Talent Management in Emerging
+and Emergent Markets: A Global Perspective, Routledge, New York.
+Warr, P. (2007), Work, Happiness, and Unhappiness, Lawrence Erlbaum Associates, Mahwah, NJ.
+World Bank (2019), “New country classifications by income level: 2019-2020”, World Bank, available
+at: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-countryand-lending-groups.
+Ybema, J.F., van Vuuren, T. and van Dam, K. (2020), “HR practices for enhancing sustainable
+employability: implementation, use, and outcomes”, International Journal of Human Resource
+Management, Vol. 31 No. 7, pp. 886-907.
+Zhang, L. and Adom, P.K. (2018), “Energy efficiency in China: how persistent are the movements to/
+from the frontier”, Energy Journal, Vol. 39 No. 6, pp. 147-169.
+
+Appendix: Sampled countries by regions
+
+Africa: Burkina Faso, Ghana, Algeria, Ethiopia, Nigeria, Botswana, Liberia, Cameroon, Mauritius, Madagascar,
+Egypt, Namibia, Malawi, Kenya, South Africa, Mali, Lesotho, Mozambique, Morocco, Rwanda, Senegal,
+Tanzania, Tunisia, Uganda, Zambia and Zimbabwe
+Asia: Nepal, Bangladesh, Armenia, Tajikistan, Bhutan, Azerbaijan, Yemen, Cambodia, China, India,
+Georgia, Indonesia, Iran, Kyrgyzstan, Jordan, Lao PDR, Kazakhstan, Mongolia, Lebanon, Pakistan, Malaysia,
+the Philippines, Sri Lanka, Vietnam , Thailand and Turkey
+LAC: Bolivia, Brazil, El Salvador, Colombia, Honduras, Costa Rica, Nicaragua, the Dominica Republic,
+Ecuador, Guatemala, Jamaica, Mexico, Paraguay, Peru and Venezuela
+Europe: Moldova, Albania, Bosnia and Herzegovin, Bulgaria, Macedonia, Montenegro, Romania, Russian,
+Serbia and Ukraine
+
+Corresponding author
+Alex Anlesinya can be contacted at: alexanlesinya@gmail.com
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Macro talent
+management,
+work and
+wellbeing
+
+

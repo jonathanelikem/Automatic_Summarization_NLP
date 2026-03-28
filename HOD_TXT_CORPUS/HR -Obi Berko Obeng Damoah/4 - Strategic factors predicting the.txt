@@ -1,0 +1,916 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/2042-5961.htm
+
+Strategic factors predicting the
+likelihood of youth
+entrepreneurship in Ghana:
+a logistic regression analysis
+Obi Berko Obeng Damoah
+Department of Organisation and Human Resource Management,
+University of Ghana Business School, Accra, Ghana
+
+Youth
+entrepreneurship
+in Ghana
+
+Received 1 June 2018
+Revised 9 May 2020
+Accepted 18 May 2020
+
+Abstract
+Purpose – The paper sought to make contribution to youth entrepreneurship research field. This is because
+whilst youth entrepreneurship presents enormous socio-economic benefits, including economic growth,
+diversification, innovation and poverty elimination earlier research have paid more attention to adults’
+entrepreneurship with less attention been paid to youth entrepreneurship resulting in a compelling research gap
+following the present huge youth unemployment across the world. Consequently, the motivation of the paper is to
+guide public policy and practice on the promotion of youth entrepreneurship, especially in developing countries.
+Design/methodology/approach – The study employs the survey research design based on logistic
+regression analysis as the key analytical technique to examine data. The choice of the logistic regression model
+is due to the fact that the main research question that informs the study is a dichotomous one. Hence it was
+found appropriate to select the logit regression model based on similar works in the field.
+Findings – Over all, the results show that lack of financial support from one’s family background, early entry
+into formal employment, as well as being born into entrepreneurial dominated families significantly predict
+the probability of a youth considering entrepreneurship as an attractive life venture.
+Research limitations/implications – The study is based on non-probability sampling method and so
+readers must bear that in mind when they are interpreting the results.
+Practical implications – Following from the findings, one of the practical implications is that youth
+entrepreneurs must align the external influences to the internal capacity of the businesses to initiate and/or
+start sustainable entrepreneurial ventures.
+Originality/value – The study sheds light from an under-explored and new geographical context to advance
+existing knowledge in the field.
+Keywords Ghana, Youth entrepreneurship, Critical incidence
+Paper type Research paper
+
+Introduction
+In recent times, as a result of high enrolment in higher education youth entrepreneurship is
+attracting research attention following large unemployment among the youth. Among the
+recent studies addressing the issue include, but are not limited to Afreh et al. (2019), informal
+entrepreneurship and migrant youth in rural Ghana; Sharma (2018), entrepreneur intentions
+and perceived barriers in Uttarakhand state of India; Ogamba (2019), youth entrepreneurship
+and sustainable development; Pantea (2018), youth organisations becoming entrepreneurial;
+Roman and Paraschiv (2019); international mobility and youth entrepreneurship; Mothibi and
+Malebana (2019), determinants of entrepreneurial intention among secondary school students
+in South Africa; Ezeh et al. (2019), entrepreneurial intention among undergraduate students in
+Northern Nigeria; Nguyen et al. (2019), entrepreneurial intentions among youth in Vietnam and
+Maneaa et al. (2019), examination of entrepreneurial perceptions of students in Romania.
+
+The author wishes to acknowledge the financial support of the Research and Conference Committee of
+the University of Ghana Business School.
+
+World Journal of
+Entrepreneurship, Management
+and Sustainable Development
+© Emerald Publishing Limited
+2042-5961
+DOI 10.1108/WJEMSD-06-2018-0057
+
+WJEMSD
+
+It is argued that youth entrepreneurship presents enormous socio-economic benefits,
+among which include economic growth and diversification, innovation and poverty
+elimination (Ogamba, 2019). Previous studies argued that when youth entrepreneurship is
+promoted and supported, there is a high tendency for majority of the youth to gain
+employment (Chigunta et al., 2005). Youth entrepreneurship also has the potential of
+addressing emotional, social and psychological traumas which are associated with youth
+unemployment (Chigunta et al., 2005). In the same vein, there is evidence to support the
+argument that youth entrepreneurship leads to the provision of valuable goods and services
+mostly empowering local communities (OECD, 2001; Chigunta et al., 2005) and enhancing
+competition for the benefit of the civil society. A further augment is that the promoting and
+supporting youth entrepreneurship serves as a catalyst for innovation and resilience among
+the youth thereby providing solutions to challenging socio-economic situations in
+challenging economies (OECD, 2001; White and Kenyon, 2000).
+However, Africa is not an exception regarding the topic of youth entrepreneurship.
+Youth entrepreneurship is among the strategic issues in Africa because according to the
+2013 World population data sheet, there are nearly 200 million Africans aged between
+15 and 24. This constitutes slightly more than 20% of Africa’s population (UNECA fact
+sheet, 2011). Consequently, it can be argued that the African population is quite a youthful
+one and so the potential contribution of its young people to the continent’s sustained
+economic development appears promising. The recently released GEM Africa’s young
+entrepreneur report states that by 2040, Africa’s young workforce will be the largest in the
+world, surpassing that of both China and India. Yet earlier studies have paid more
+attention to adult entrepreneurship and/or entrepreneurship in general with less attention
+paid to youth entrepreneurship thereby creating a compelling research gap (Hempel and
+Fiala, 2012).
+Within the topic of youth entrepreneurship in Africa, Ghana presents a useful case study
+to shed light on the issue. The reason for this is that likewise in Africa in general, Ghana’s
+statistics depict that the population is heavily dominated by the youth. For instance, out of an
+estimated population of 26,908,262, 18.7% (those aged between the ages of 15–24 years) and
+34.05% (also those falling between the ages of 25 and 54 years) are the dominant (CIA World
+Factbook, 2017). Yet out of this population, more than 1.2 million individuals from 15 years
+and above are identified to be unemployed. Researchers (e.g. Mayhew et al., 2012) have
+attributed the high rate of unemployment in Ghana to low youth entrepreneurial activities.
+Yet public policy in Ghana regarding youth entrepreneurship is currently affected due to
+inadequate systematic research that could inform public policy and practice. Of the few
+Ghanaian studies that exist on the topic (e.g. Afreh et al., 2019; Adams and Quagrainie, 2018),
+the question of “what will predict the probability of a youth in Ghana considering
+entrepreneurship business” is not fully addressed. The present paper therefore contributes to
+youth entrepreneurship literature by addressing the proceeding research question that
+informs the study.
+By answering the foregone research question, the study seeks to make two contributions
+to the field. First, the study seeks to contribute to the empirical front of the field regarding
+the expected findings. Second, the paper sheds light on the topic from a new and unexplored
+geographic context, Ghana. Although, unlike, South Africa, Ghana is not yet one of the
+BRICS group of countries, but Ghana is credited as a beacon of democracy in Africa.
+Consequently, a Ghanaian example on this topic will be a shining light to similar developing
+countries.
+To proceed, the rest of the paper is structured as follows. Section 2 deals with literature
+review and hypotheses development. Section 3 focuses on method, results and analysis.
+Section 4 deals with discussion, whilst Section 5, the last section addressing the conclusions
+and implications.
+
+Literature review
+Youth
+Overview of entrepreneurship in Ghana
+entrepreneurship
+Existing studies identify personality factors including individual motivation, social capital and
+in Ghana
+competency as well as availability of necessary resources as key driving forces for initiating
+entrepreneurial activities in the African context (Manev et al., 2005; Sriram and Mersha, 2010).
+In Ghana, entrepreneurial activities cannot be overlooked when discussing economic
+development of the country; entrepreneurship tends to serve a number socioeconomic
+relevance including serving as a remedy for unemployment, crime and improving low income.
+Entrepreneurs in Ghana are mostly dominated in the informal sector across several business
+venture (e.g. dressmaking, wood, furniture, textile and garment) (Robson et al., 2009). After
+attaining independence, Ghana failed to initiate a comprehensive policy for enhancing
+entrepreneurship activities and towards providing a framework for small- and medium-scale
+enterprises (Robson et al., 2009). Currently, there exists an industrial policy which is
+incorporated in the nation’s strategic goal for 2020 which is intended to set the country on the
+stage of middle income. The existing industrial policy and the nation’s trade policy form the
+basis for the ruling government to create a conducive business atmosphere especially, for
+private businesses to thrive and contribute to the economic development of the country (Sriram
+and Mersha, 2010). To further promote entrepreneurial development in Ghana the present
+administration (i.e. under the New Patriotic Party’s) has created the National Entrepreneurship
+and Innovation Programme (NEIP), an agency of the Ministry of Business Development to
+promote entrepreneurship in Ghana. NEIP in particular is targeted at promoting youth
+entrepreneurial activities in Ghana, but it lacks the supporting research to deliver its mandate.
+Clarification of key concepts
+Who is a youth? Youth is defined severally by different people and entities, yet in accordance
+with the United Nation’s Organisation and the Common Wealth’s definition, in Ghana, a youth
+refers to one aged between 15 and 35 years. Consequently, in Ghana, youth entrepreneurship
+refers to entrepreneurship practiced by people aged between 15 and 35 years.
+What is entrepreneurship? Entrepreneurship is also explained as a conscious, organised
+effort by an individual to start, nurture and grow a new business or venture or an existing
+business (Fatoki, 2014).
+Opportunity vs necessity entrepreneurship
+In line with above, the Global Entrepreneurship Monitor (GEM) also classified entrepreneurship
+as opportunity entrepreneurship and necessity entrepreneurship (Reynolds et al., 2001) which
+are evident in both economically developed countries (Chrysostome, 2010) and developing
+countries (Mersha et al., 2010). Opportunity-oriented entrepreneurs are driven in
+entrepreneurial activities with a high expectation and tend to be driven by the need for
+growth and ambition. On the other hand, necessity-oriented entrepreneurs are heavily driven
+into entrepreneurial activities due to economic hardship reasons. Some scholars suggest that
+male businesses are more growth-oriented than their female counterparts (Boden and Nucci,
+2000; Singh et al., 2010). Extant literatures on this subject matter suggest that opportunity
+entrepreneurs are better educated and have higher skills, have greater access to finances and
+capital injection as well as mostly engage in businesses which have a higher tendency for
+growth, when compared to necessity entrepreneurs. In the same vein, opportunity
+entrepreneurships are noted to be a greater catalyst for job creation and innovation as
+compared to the necessity entrepreneurs.
+Theoretical framework
+The study is anchored on the theory of human capital which is born from the discourse of
+economics. Discourse economics arguments indicate that capital is a vital factor of
+
+WJEMSD
+
+production. However, the existing literature on human capital is left fragmented (Unger et al.,
+2011). Recent conceptualization of human capital suggests that it is related to knowledge and
+skills an individual acquires through the process of learning and socialization as compared to
+reward given to employees, an earlier conceptualization. To other researchers, human capital
+is an interplay between innate ability and skills acquired through learning and socialization
+(Blundel et al., 1999; Fairle and Robb, 2008), while others also conceptualizes the phenomenon
+to be related with the number of years of an individual education (Becker, 2009) including
+experiences gained as a result of a practical and on-the-job training as well as other forms of
+non-traditional technical training intended to enhance the skills of the individual (Davidsson
+and Honig, 2003). Abundance of literature indicates that human capital strongly correlates
+with entrepreneurship successes (Adom and Asare-Yeboa, 2016; Cassar, 2006; Unger et al.,
+2011) and therefore has been one of the central themes in the field of entrepreneurship.
+It can therefore be argued that human capital is born out of innate ability as well as the
+experiences and exposures an individual gathers over a period of time which in turn enhance
+the individual’s effectiveness and successes. Hence, it can be deduced that human capital
+emerges from a number of factors related to an innate ability and/or skill acquired through
+the process of education, learning training and socialization. From the perspective of Pena
+(2002), human capital theory points to the fact that engagement in business and the
+performance of the business is highly influenced by the intellectual capital of the individual.
+This intellectual capital is also influenced by the one’s educational level, previous experience
+in related areas, the area of education, experiences and skills gathered from engaging in
+businesses. These in turn have a direct influence on an individual’s engagement in
+entrepreneurship as well as the success of this entrepreneurial venture. So, from the micro
+viewpoint, this study argues that youth entrepreneurial activity will be influenced in part by
+his or her human capital attributes.
+Empirical literature and development hypotheses
+The antecedents and predictors of entrepreneurship in general and youth entrepreneurship in
+specific have been studied from different context. Among the selected empirical literature
+related to the topic are summarized as follows.
+Roman and Paraschiv (2019) examined the impact of international mobility on youth
+entrepreneurship after the return of the person to their country of origin. Using data from the
+European survey based on six countries (Germany, Norway, Spain, Romania, Hungary and
+Luxembourg) in Europe and used 5,499 respondents. The findings revealed that youth who
+have stayed in an international country (mobile) are more likely to become entrepreneurs
+after returning home. The findings therefore showed that mobility has a positive impact on
+youth entrepreneurship in Europe and also explains why most youth are more mobile across
+the world in recent times. Guerrero et al. (2018) explores individual and university
+determinants of graduates’ start-ups creation from a multi-campus entrepreneurial
+university in Mexico. In this study the results show that specific individual determinants
+(prior experiences, skill/knowledge and aspiration) are the most relevant determinants of
+graduate entrepreneurship. The study further showed that some university mechanisms
+such incubators and research parks have minimal impact on graduate entrepreneurship.
+Using a sample size of 330 in Slovenia based on masters and bachelor students, Pejic Bach
+et al. (2018) found that personal attitudes towards entrepreneurship, subjective norms and
+perceived behavioural control are positively related to entrepreneurial intentions of youth.
+Implicitly, the innovative cognitive style has also been found to be significant in creating one’s
+intention to become an entrepreneur. Mothibi and Malebana (2019) examined the determinants
+of entrepreneurial intention among secondary school students in South Africa and found that
+entrepreneurial intentions of secondary school students were predicted by perceived
+behavioural control, attitude towards entrepreneurship and subjective norms. In this study,
+
+the media and status of entrepreneurship had a significant positive relationship with
+Youth
+entrepreneurial intention and attitude towards entrepreneurship. However, knowledge of entrepreneurship
+entrepreneurial support did not have a significant effect on entrepreneurial intention. Again, by
+in Ghana
+examining the impact of cultural values on entrepreneurial intentions of University students in
+four South African universities, Kalitanyi and Bbenkele (2018) found that language as a
+cultural variable influences entrepreneurial intentions whereas religion was not found to do so.
+In a narrative study conducted using interviews with 69 youth entrepreneurs in Madina,
+a suburb of Accra-Ghana, Adams and Quagrainie (2018) found that most youth entrepreneurs
+are motivated by push factors like the need to earn income, association with a family business
+and motivational speeches on entrepreneurship. Ezeh et al. (2019) examined the factors that
+influence the entrepreneurial intention among undergraduate students in northern Nigeria,
+particularly a Muslim state. Using partial least square structural equation modelling
+technique, the authors found that perceived educational support, behavioural control and
+compatibility were found to be significant determinants of entrepreneurial intention. Maneaa
+et al. (2019) also found that entrepreneurship career intention decisions are positively
+influenced by family, friends and education.
+Nguyen et al. (2019) examined the factors influencing entrepreneurial intentions among
+youths in Vietnam. In this study, authors found that desire for success and challenge, attitude
+toward entrepreneurship, perceived behavioural control, experiences with entrepreneurship
+and creativity were positively correlated with the entrepreneurial intentions among
+Vietnamese youths. Wang et al. (2018) investigated how family and individual affect the
+success of entrepreneurship. The results show that individual competence is the most
+important factor affecting the youth’s willingness to start a business. Other important factors
+identified for the success of youth entrepreneurship are collaboration ability, interpersonal
+social skills and upbringing. Boateng et al. (2014) examined the barriers to youthful
+entrepreneurship in rural areas of Ghana, using a cross section data and employed 240
+respondents. In this study, the authors found that lack of capital and skills, lack of support,
+market opportunities and risk, corruption by local authorities, low demand for products and
+services, poor location, unpredictable economic environment and insufficient and unreliable
+government support as the main factors that impede entrepreneurship intentions among the
+youth in Ghana. In a related study, Denanyoh et al. (2015) also researched on factors that
+impact entrepreneurship intention among tertiary students in Ghana, with a focus on
+polytechnic students. Using descriptive statistics and Pearson Correlation as analytical
+techniques the authors found factors such as family support, educational and structural
+support inform the likelihood of entrepreneurship among the youth in Ghana.
+Amanamah et al. (2018) also conducted an exploratory study on entrepreneurship intention
+among public University students in Ghana, using a sample of 731 undergraduate students
+offering both regular and part time studies. The results show that desire to earn more money, lack
+of job vacancies, more exposure to entrepreneurs and experienced network, previous experience
+or association with same or similar line of business activity, skills and knowledge gained from
+entrepreneurship education were significantly associated with youth entrepreneurship. Usman
+and Kamau (2017) conducted a study on the factors influencing entrepreneurship intention
+among Muslim undergraduate students in Kenya based on a sample of 200 undergraduate
+students. Using multiple regression, the study concluded that family and perceived behavioural
+control and personal attitudes significantly influence entrepreneurship among students.
+Similarly, Sambo (2016) investigated that factors that affect youth entrepreneurship
+development in Kibera, Kenya. In this study, the authors found that provision of
+entrepreneurship education and the present level of education positively influence youth
+entrepreneurship development. Dioneo-Adetayo (2006) in investigating the influencing factors
+of youth attitude towards entrepreneurship found education system, infrastructure, finance, the
+state of information technology, innovativeness, social factors and industriousness as the main
+
+WJEMSD
+
+factors that influence youths’ attitude towards entrepreneurship. Chiloane-Tsoka and Botha
+(2015) also examined the factors that influence urban youth entrepreneurship development in
+Sub-Saharan Africa by adopting a quantitative research method. With a sample of 431
+respondents, the study found intent to create jobs, education, family and friends and the desire to
+be their own bosses as the factors that influence youth entrepreneurship in Sub-Saharan Africa.
+Kuada (2009) in an exploratory research examined gender-based differences in the relation
+to the motives underpinning entrepreneurial activities in Ghana. The study provided
+evidence which indicated that most female entrepreneurs in Ghana are heavily challenged by
+easy access to bank finance. However, these women entrepreneurs tend to fall on building
+social relationships and then make use of this social capital as a leverage for promoting their
+businesses and entrepreneurial activities. It was further identified that entrepreneurial
+women in Ghana rely on their social relationships and social capital for emotional and moral
+support particularly during the early stages of the entrepreneurial development. Adom and
+Asare-Yeboa (2016) examined how the elements of human capital theory including education,
+training, area of education as well as prior job experience tend to influence female
+entrepreneurs in the Sub-Saharan Africa particularly Ghana. The authors found that the level
+of education, knowledge gained in the course of work and business training received were
+identified as critical factors for successful entrepreneurship activities in Ghana.
+Following the conclusions of the empirical literature above, the following hypotheses were
+posed for examinations.
+H1. Type of support a youth receives influences the likelihood of becoming a necessity
+entrepreneur
+H2. Length of employment a youth has had will influence the likelihood of becoming a
+necessity entrepreneur
+H3. Number of business owners in a youth’s family will predict the likelihood of
+becoming a necessity entrepreneur
+H4. Youth with lower education level will be more likely to become necessity
+entrepreneur compared higher level of education
+H5. Youth who are males will be more likely to become necessity entrepreneurs
+compared to females
+H6. Married youth will be more likely to become necessity entrepreneurs compared to the
+non-married
+Methodology
+In terms of the context of the study, the study took place in Ghana. Ghana can be found on the
+Atlantic Ocean and borders with countries such Cote d’lvoire, Togo and Nurkina Faso.
+Ghana is located on the Gulf of Guinea and Atlantic Ocean in the sub-region of West Africa.
+The country’s population is about 29.6 million based on World Bank report of 2018. Ghana is
+based on a multi-party system, coupled with an independent judiciary. Currently Ghana is
+among the top three (3) economies in Africa credited with freedom of speech and press
+independence. This study employs quantitative techniques based on primary data obtained
+by administering a structured questionnaire to 150 purposively sampled youth
+entrepreneurs, out of which 81 usable questionnaires were received. The study was
+conducted within a three-month period (March–May, 2017). Stata 14 is used to run a logistic
+regression to determine the probability factors that predict whether or not youth will consider
+entrepreneurship. The variables used in the econometric model are based on the empirical
+literature reviewed under the literature review sub-section.
+
+Econometric model
+The logistic model is stated as:
+
+Youth
+entrepreneurship
+in Ghana
+PrðY ¼ 1=X Þ ¼ β0 þ β1 Gender þ β2 Age þ β3 Marital Status þ β4 Educational Background
+þ β5 Type of support þ β6 Length of employment
+þ β7 Number of business owners in one’s family þ ei
+
+Where:
+β0 is the likelihood of one being a necessity entrepreneur regardless of the absence of the
+influence of any other factor;
+β1 is the likelihood of one being a necessity entrepreneur given his or her gender;
+β2 is the likelihood of one being a necessity entrepreneur given his or her age;
+β3 is the likelihood of one being a necessity entrepreneur given his or her marital status;
+β4 is the likelihood of one being a necessity entrepreneur given his or her educational
+background;
+β5 is the likelihood of one being a necessity entrepreneur given the type of support received;
+β6 is the likelihood of one being a necessity entrepreneur given the length of previous
+employment;
+β7 is the likelihood of one being a necessity entrepreneur given the number of business
+owners in one’s family;
+and εi is the error term in the model
+Results and analysis
+Descriptive statistics
+Table 1 presents the demographics of the respondents of the study. Table 1 shows that 44.4%
+of the respondents were females, while 55.6% of the respondents were found to be males. On a
+whole, men were found to be engaged in entrepreneurship than females. Age has a minimum
+value of 19 and a maximum value of 35 with the majority (74.1%) of the respondents within
+the age bracket of 21–25 years. This was followed by 14.8%, representing the age group of
+26–30 years. The majority (87.7), approximately 88% of the respondents were found to be
+single with 11.1% and 1.2%, representing the number of respondents who were married and
+divorced respectively. 74.1% of the respondents were also found to have obtained a degree,
+followed by high school certificate (SHS/SSS) representing 14.8%. 9.9% of the respondents
+possess above degree certificates with 1.2% having a diploma.
+Table 2 presents descriptive statistics on the nature of business respondents engage in.
+Table 2 shows that retailing (34.6%) as the nature of business dominates the sample. The
+other four major businesses in the data include fashion (18.5), catering (11.1%), consultancy
+(11.1%) and farming (7.4%). The rest of the business that follow included entertainment
+(6.2%), manufacturing (4.9%), imports and exports (3.7%), health services (1.2%) and
+transport services (1.2%).
+Chi-square test
+In response to finding out whether or not there exist any difference between male and female
+entrepreneurs in terms of the nature of the business they engaged in. A chi-square test was
+
+WJEMSD
+
+Variables
+
+Frequency
+
+Per cent
+
+Cumulative per cent
+
+Gender
+Male
+Female
+Total number of observations
+
+45
+36
+81
+
+55.6
+44.4
+
+55.6
+100.0
+
+Age
+15–20
+21–25
+26–30
+31–35
+Total number of observations
+
+4
+60
+12
+5
+81
+
+4.9
+74.1
+14.8
+6.2
+
+4.9
+79
+83.8
+100.0
+
+Marital status
+Single
+Married
+Divorced
+Total number of observations
+
+71
+9
+1
+81
+
+87.7
+11.1
+1.2
+
+87.7
+98.8
+100.0
+
+Level of education
+Above degree
+Degree
+Diploma
+Table 1.
+Descriptive statistics of SHS/SSS
+Total number of observations
+sample demographic
+
+8
+60
+1
+12
+81
+
+9.9
+74.1
+1.2
+14.8
+
+9.9
+84.0
+85.2
+100.0
+
+Frequency
+
+Per cent
+
+Cumulative per cent
+
+9
+9
+5
+6
+15
+1
+3
+4
+28
+1
+
+11.1
+11.1
+6.2
+7.4
+18.5
+1.2
+3.7
+4.9
+34.6
+1.2
+
+11.1
+22.2
+28.4
+35.8
+54.3
+55.6
+59.3
+64.2
+98.8
+100.0
+
+Variables
+Catering
+Consultancy
+Entertainment
+Farming
+Fashion
+Health services
+Imports and exports
+Manufacturing
+Table 2.
+Nature of businesses of Retailing
+Transportation service
+the sample
+
+run and tabulated below in Table 3. The frequencies of the cross tabulations of entrepreneurs’
+gender and nature of business are also presented in the Table 3.
+The tabulated output in Table 3 reveals that at a 10% significance level, there
+exist differences in the nature of businesses male and female entrepreneurs are engaged in.
+From Table 4, three of the hypotheses are confirmed. The result of the logit depicts that the
+type of support available to a youth significantly determines whether or not the youth will
+become a necessity entrepreneur. At a 10% level of significance, youth with economically less
+support from their family background are about 23.4% more likely to be necessity
+entrepreneurs supporting hypothesis 1. This is explainable by the fact that most great
+entrepreneurs are people from low-income background or were more likely to come from poor
+backgrounds and thus desiring to realize something worthwhile for themselves are more
+likely to become necessity entrepreneurs. Second hypothesis 2 is also confirmed; what this
+
+Gender
+Respondents’ business
+
+Females
+
+Males
+
+Catering
+
+6
+16.75
+1
+2.78
+1
+2.78
+2
+5.56
+1
+2.78
+12
+33.33
+8
+22.22
+5
+13.89
+36
+100.00
+
+5
+11.11
+7
+15.56
+5
+11.11
+4
+8.89
+6
+13.33
+7
+15.56
+8
+17.78
+3
+6.67
+45
+100.00
+
+Consulting
+Entertainment
+Farming
+Import and export
+Manufacturing
+Retailing
+Health product retailing
+Total number of observations
+
+Youth
+entrepreneurship
+Total
+in Ghana
+
+11
+13.58
+8
+9.88
+6
+7.41
+6
+7.41
+7
+8.64
+19
+23.46
+16
+19.75
+8
+9.88
+81
+100.00
+
+Note(s): Pearson χ 2 (7) 5 12.4654, Pr 5 0.086
+Source(s): Authors own computation
+
+Table 3.
+Chi-square test
+
+Necessity entrepreneur
+
+Coefficient
+
+Std. errors
+
+z
+
+P>z
+
+[95% conf. interval]
+
+Gender (male as reference group)
+Age
+Marital status
+(Single)
+Educational level (Master’s and above)
+Type of support (less economic support)
+Length of employment
+No. of bus. owners in one’s family
+_cons
+
+0.0323756
+0.204408
+
+0.7411261
+0.2011299
+
+0.04
+1.02
+
+0.965
+0.309
+
+1.420205 1.484956
+0.1897994 0.598615
+
+0.4629849
+0.2615634
+0.233508*
+0.4919985**
+0.3667276*
+1.589045
+
+1.319157
+0.4760823
+0.1341022
+0.1917024
+0.2058737
+2.039044
+
+0.35
+0.55
+1.74
+2.57
+1.78
+0.78
+
+0.726
+0.583
+0.082
+0.010
+0.075
+0.436
+
+2.122514 3.048484
+0.6715408 1.194668
+0.0293275 0.496343
+0.8677283–0.11627
+0.0367774 0.770233
+5.585498 2.407407
+
+Notes(s): No. of observations 5 81 Pseudo R2 5 0.2480
+LR χ 2 (7) 5 19.25 log likelihood 5 2.188206
+Prob > χ 2 5 0.0074
+** and * represent 5% and 10% significance level
+
+means is that the length of employment was also found to be a significant factor that
+determines whether or not one becomes an entrepreneur. The longer the duration of one’s
+employment as a youth, the less likely he or she becoming a necessity entrepreneur. In other
+words, as the length of employment increases by one year, the likelihood of one becoming a
+necessity entrepreneur decreases by nearly 49.2%. Technically, it is explainable that youths
+who have never been employed are more likely to be entrepreneurs out of necessity rather
+than those entering formal employment early in their years.
+Third, hypothesis 3 is also confirmed because at 10% significance level, the number of
+business owners in one’s family increases the likelihood of one becoming a necessity
+entrepreneur compared to youth with little or no business men or women in their family
+background. This means that for every one increase in the number of entrepreneurs in one’s
+family, the likelihood of one becoming a necessity entrepreneur increases by approximately
+
+Table 4.
+Results of the logistic
+regression model
+
+WJEMSD
+
+36.7%. This implies that, youth in families where entrepreneurs already exist are more likely
+to become entrepreneurs.
+From the results, education, gender and marital status did have any effect on the
+probability of becoming entrepreneurs.
+Discussion
+The literature has recognised the importance youth entrepreneurship because of the enormous
+benefits such as poverty elimination, employment opportunities and declined in social vices
+that it offers to countries (see Ogamba, 2019; Roman and Paraschiv, 2019; Mothibi and
+Malebana, 2019; Ezeh et al., 2019; Nguyen et al., 2019; Maneaa et al., 2019). The research
+question that informs the study argued that in line with existing empirical findings what is the
+likelihood that youth will go into entrepreneurship? Following from the Stata 14’s version of
+the logistic regression output, first it is found that youth from low-income and/or poor
+background are likely to go into entrepreneurship, again supporting hypothesis 1. This result
+shows, going into youth entrepreneurship is not only influenced by the human capital
+characteristics such education level, gender, previous experience gained and so on (Blundel
+et al., 1999; Fairle and Robb, 2008). It further confirms a study by Denanyoh et al. (2015) who
+found that factors such as the nature of family support informs the likelihood of
+entrepreneurship among the youth in Ghana. This result also confirms Amanamah et al.’s
+(2018) study which also found that poor background and/or necessity predicts the likelihood of
+entrepreneurship. Hypothesis 2 was also supported indicating that how long a person stays in
+employment predicts less likelihood of the person becoming a necessity entrepreneur. This
+finding explains well the empirical literature above regarding poor background being able to
+predict youth entrepreneurship. Implicitly, when people foresee opportunity head of them,
+they are less likely to go into necessity entrepreneurship and this is very intuitive and
+empirically grounded. Finally, whether or not family background predicts the likelihood of a
+youth becoming a necessity entrepreneur was confirm and so hypothesis 3 is supported. This
+finding has both empirical and intuitive appeal. This is because the probability of a person who
+is from entrepreneurship dominated family becoming an entrepreneur in the early days of their
+lives which not borne out necessity per se is expected. The result confirms a study by Nguyen
+et al. (2019) in Vietnam. In this study, authors concluded that previous experiences with
+entrepreneurship in terms of background predict the likelihood of a Vietnamese youth
+becoming an entrepreneur. It also confirms Wang et al.’s (2018) study regarding how family
+background affects the success of entrepreneurship. In a nut shell, the length of employment or
+unemployment, support available to a youth and the exposure of one’s family to
+entrepreneurship can be said to be the driving factors of necessity entrepreneurship.
+Conclusion
+This study set out to contribute the youth entrepreneurship research field. It sought to
+explore the main research question “given the current empirical front in the filed “what is the
+likelihood that a youth will consider entrepreneurship?” The context of the study is based on
+Ghana located on the Atlantic Ocean and borders countries such Cote d’lvoire, Togo and
+Burkina Faso. Overall, the results and analysis show that length of stay in employment,
+support from family background, including being from entrepreneurship dominated family
+are key probability factors.
+Contribution of the study
+First the study contributes to extant empirical front of the field (see Blundel et al., 1999; Fairle
+and Robb, 2008; Denanyoh et al., 2015; Ogamba, 2019; Amanamah et al., 2018; Roman and
+
+Paraschiv, 2019; Mothibi and Malebana, 2019; Ezeh et al., 2019; Nguyen et al., 2019; Maneaa
+Youth
+et al., 2019). From the Ghanaian context the results show that the nature of one’s family entrepreneurship
+background (i.e. whether rich or poor background), being from an entrepreneurship
+in Ghana
+dominated family background) and whether or not a youth enters and stays long in formal
+employment significantly predict the likelihood of a youth entering into entrepreneurship
+venture. Second the study sheds light on the topic from under-explored and a new
+geographical context, Ghana. With the present credentials of Ghana (see the introduction and
+the method sub-sections) similar developing country could draw inspiration from the study.
+In terms of public policy, youth entrepreneurship drive must be targeted. This is because
+from the study, youth from low income as well as those from entrepreneurial dominated
+family background are more likely to go into entrepreneurship naturally. For practical
+recommendation, youth entrepreneurs must combine internal external influences to promote
+their businesses as the results confirm both internal and external influences are crucial.
+References
+Adams, S. and Quagrainie, F.A. (2018), “Journey into entrepreneurship: access and challenges of
+Ghanaian youths”, International Journal of Business and Economics, Vol. 17 No. 3, pp. 239-253.
+Adom, K. and Asare-Yeboa, I.T. (2016), “An evaluation of human capital theory and female
+entrepreneurship in sub-Sahara Africa: some evidence from Ghana”, International Journal of
+Gender and Entrepreneurship, Vol. 8 No. 4, pp. 402-423.
+Afreh, B., Rodgers, P., Vershinina, N. and Williams, C.C. (2019), “Varieties of context and informal
+entrepreneurship: entrepreneurial activities of migrant youths in rural Ghana”, International
+Journal of Entrepreneurial Behavior and Research, Vol. 25 No. 5, pp. 996-1013.
+Amanamah, R.B., Owusu, E.K. and Acheampong, A. (2018), “Barriers to entrepreneurial intention
+among university students in Ghana”, European Journal of Research and Reflection in
+Educational Sciences, Vol. 6 No. 1, pp. 29-43.
+Becker, G.S. (2009), Human Capital: A Theoretical and Empirical Analysis, with Special Reference to
+Education, University of Chicago Press, Chicago, Illinois.
+Blundel, R., Dearden, L., Meghir, C. and Sianesi, B. (1999), “Human capital investment: the returns
+from education and training to the individual, the firm and the economy”, Fiscal Studies, Vol. 20
+No. 1, pp. 1-23.
+Boateng, G.O., Boateng, A.A. and Bampoe, H.S. (2014), “Barriers to youthful entrepreneurship in rural
+areas of Ghana”, Global journal of business research, Vol. 8 No. 3, pp. 109-119.
+Boden, R.J., Jr and Nucci, A.R. (2000), “On the survival prospects of men’s and women’s new business
+ventures”, Journal of Business Venturing, Vol. 15 No. 4, pp. 347-362.
+Cassar, G. (2006), “Entrepreneur opportunity costs and intended venture growth”, Journal of Business
+Venturing, Vol. 21 No. 5, pp. 610-632.
+Chigunta, F., Schnurr, J., James-Wilson, D. and Torres (2005), “Being “real” about youth
+entrepreneurship in Eastern and Southern Africa: implications for adults, institutions and
+sector structures”, Series on Youth and Entrepreneurship, Vol. 72, pp. 1-76.
+Chiloane-Tsoka, G.E. and Botha, A. (2015), “Factors influencing urban youth entrepreneurship
+development in sub-Saharan Africa”, Problems and Perspectives in Management, Vol. 13 No. 4
+(contin.), pp. 230-239.
+Chrysostome, E. (2010), “The success factors of necessity immigrant entrepreneurs: in search of a
+model”, Thunderbird International Business Review, Vol. 52 No. 2, pp. 137-152.
+CIA World Factbook (2017), “Ghana age structure”, available at: www.indexmundi.com/ghana/age_
+structure.html (accessed 9 November 2017).
+Davidsson, P. and Honig, B. (2003), “The role of social and human capital among Nascent
+Entrepreneurs”, Journal of Business Venturing, Vol. 18 No. 3, pp. 301-331.
+
+WJEMSD
+
+Denanyoh, R., Adjei, K. and Nyemekye, G.E. (2015), “Factors that impact on entrepreneurial intention
+of tertiary students in Ghana”, International Journal of Business and Social Research, Vol. 5
+No. 3, pp. 19-29.
+Dioneo-Adetayo, E.A. (2006), “Factors influencing attitude of youth towards entrepreneurship”,
+International Journal of Adolescence and Youth, Vol. 13 Nos 1–2, pp. 127-145.
+Ezeh, P.C., Nkamnebe, A.D. and Omodafe, U.P. (2019), “Determinants of entrepreneurial intention
+among undergraduates in a Muslim community”, Management Research Review. doi: 10.1108/
+MRR-09-2018-0348.
+Fairle, W.R. and Robb, A.M. (2008), “Gender differences in business performance: evidence from the
+characteristics of business owners survey”, IZA DP No. 3718.
+Fatoki, O. (2014), “The entrepreneurial intention of undergraduate students in South Africa: the
+influences of entrepreneurship education and previous work experience”, Mediterranean
+Journal of Social Sciences, Vol. 5 No. 7, p. 294.
+Guerrero, M., Urbano, D., Cunningham, J.A. and Gajon, E. (2018), “Determinants of graduates’ startups creation across a Multi-campus entrepreneurial university: the case of Monterrey institute
+of technology and Higher education”, Journal of Small Business Management, Vol. 56 No. 1,
+pp. 150-178.
+Hempel, K. and Fiala, N. (2012), Measuring Success of Youth Livelihood Interventions: A Practical
+Guide to Monitoring and Evaluation, Global Partnership for Youth Employment, World Bank,
+Washington, District Columbia, pp. 1-206, available at: http://www.gpye.org/measuringsuccess-youth-livelihood-interventions.
+Kalitanyi, V. and Bbenkele, E. (2018), “Cultural values as determinants of entrepreneurial intentions
+among university students in Cape Town-South Africa”, Journal of Enterprising Communities:
+People and Places in the Global Economy, Vol. 12 No. 4, pp. 437-453.
+Kuada, J. (2009), “Gender, social networks, and entrepreneurship in Ghana”, Journal of African
+Business, Vol. 10 No. 1, pp. 85-103.
+Maneaa, C.L., Nichitaa, E.M. and Irimescua, A.M. (2019), “Determinants of entrepreneurship: an
+examination of entrepreneurial perception of students”, Accounting and Management
+Information Systems/Contabilitate si Informatica de Gestiune, Vol. 18 No. 4, pp. 588-613.
+Manev, I.M., Gyoshev, B.S. and Manolova, T.S. (2005), “The role of human and social capital and
+entrepreneurial orientation for small business performance in a transitional economy”,
+International Journal of Entrepreneurship and Innovation Management, Vol. 5 Nos 3/
+4, p. 298.
+Mayhew, M.J., Simonoff, J.S., Baumol, W.J., Wiesenfeld, B.M. and Klein, M.W. (2012), “Exploring
+innovative entrepreneurship and its ties to higher education experiences”, Research in Higher
+Education, Vol. 53 No. 8, pp. 831-859.
+Mersha, T., Sriram, V. and Hailu, M. (2010), “Nurturing entrepreneurs in Africa: some lessons from
+Ethiopia”, Journal of Global Report, Vol. 3 No. 2, pp. 155-175.
+Mothibi, N.H. and Malebana, M.J. (2019), “Determinants of entrepreneurial intentions of secondary
+school learners in Mamelodi South Africa”, Academy of Entrepreneurship Journal, Vol. 25
+No. 2, pp. 1-14.
+Nguyen, A.T., Do, T.H.H., Vu, T.B.T., Dang, K.A. and Nguyen, H.L. (2019), “Factors affecting
+entrepreneurial intentions among youths in Vietnam”, Children and Youth Services Review,
+Vol. 99, pp. 186-193.
+OECD (2001), Putting the Young in Business: Policy Challenges for Youth Entrepreneurship, The LEED
+Programme, Paris.
+Ogamba, I. (2019), “Millennials empowerment: youth entrepreneurship for sustainable development”,
+World Journal of Entrepreneurship, Management and Sustainable Development, Vol. 15 No. 3,
+pp. 267-278, doi: 10.1108/WJEMSD-05-2018-0048.
+
+Pantea, M.C. (2018), “‘You can change the world’ young people and youth organizations becoming
+entrepreneurial”, Young, Vol. 26 No. 3, pp. 232-249.
+
+Youth
+entrepreneurship
+Pejic Bach, M., Aleksic, A. and Merkac-Skok, M. (2018), “Examining determinants of entrepreneurial
+in Ghana
+intentions in Slovenia: applying the theory of planned behaviour and an innovative cognitive
+style”, Economic research-Ekonomska istrazivanja, Vol. 31 No. 1, pp. 1453-1471.
+Pena, I. (2002), “Intellectual capital and business start-up success”, Journal of Intellectual Capital, Vol. 3
+No. 2, pp. 180-198.
+Reynolds, P.D., Camp, S.M., Bygrave, W.D., Autio, E. and Hay, M. (2001), “Global entrepreneurship
+monitor—2001 executive report”, Babson College, IBM, Kauffman Center for Entrepreneurial
+Leadership and London Business School, London.
+
+Robson, P.J.A., Haugh, H.M. and Obeng, B.A. (2009), “Entrepreneurship and innovation in Ghana:
+enterprising Africa”, Small Business Economics, Vol. 32 No. 3, pp. 331-350.
+Roman, M. and Paraschiv, D.M. (2019), “Does intra-European mobility impact youth
+entrepreneurship?”, in The Association for Innovation and Quality in Sustainable Business –
+BASIQ, University of Bari Aldo Moro, Bucharest University of Economic Studies, Amfiteatru
+Economic, the BASIQ 2019 Conference, New Trends in Sustainable Business and Consumption,
+Bari, Italy, 30 May – 1 June 2019, ASE, Bucharest.
+Sambo, W. (2016), “Factors affecting youth entrepreneurship development within Kibera, Kenya: the
+perspective of entrepreneurship education”, Problems and Perspectives in Management, Vol. 14
+Nos 2–2, p. 2.
+Sharma, L. (2018), “Entrepreneurial intentions and perceived barriers to entrepreneurship among
+youth in Uttarakhand State of India: a cross-cultural investigation across genders”,
+International Journal of Gender and Entrepreneurship, Vol. 10 No. 3, pp. 243-269.
+Singh, S., Mordi, C., Okafor, C. and Simpson, R. (2010), “Challenges in female entrepreneurial
+development – a case analysis of Nigerian entrepreneurs”, Journal of Enterprising Culture,
+Vol. 18 No. 4, pp. 435-460.
+Sriram, V. and Mersha, T. (2010), “Stimulating entrepreneurship in Africa”, World Journal of
+Entrepreneurship, Management and Sustainable Development, Vol. 6 No. 4, pp. 257-272.
+UNECA (2011), African Youth Report 2011: Addressing the Youth Education and Employment Nexus
+in the New Global Economy, United Nations Economic Commission for Africa, Addis Ababa.
+Unger, J.M., Rauch, A., Frese, M. and Rosenbusch, N. (2011), “Human capital and entrepreneurial
+success: a meta-analytical review”, Journal of Business Venturing, Vol. a26, pp. 341-358.
+Usman, U.S. and Kamau, J.N. (2017), “Factors influencing entrepreneurial intention among Muslim
+undergraduate students in Kenya”, Journal of Business and Management, Vol. 19 No. 10,
+pp. 41-49.
+Wang, X.X., Wang, C.H. and Chang, C.C. (2018), “The impacts on both family and personal factors for
+youth entrepreneurship”, Journal of Discrete Mathematical Sciences and Cryptography, Vol. 21
+No. 6, pp. 1205-1209.
+White, S. and Kenyon, P. (2000), Enterprise-based Youth Employment Policies, Strategies and
+Programmes, ILO, Geneva.
+
+Corresponding author
+Obi Berko Obeng Damoah can be contacted at: obodamoah@ug.edu.gh
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+

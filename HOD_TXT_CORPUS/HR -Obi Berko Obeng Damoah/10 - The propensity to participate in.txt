@@ -1,0 +1,1006 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/2042-5961.htm
+
+WJEMSD
+12,4
+
+344
+
+The propensity to participate in
+formal training programmes
+Evidence from small and medium-sized
+enterprises (SMEs) in Ghana
+Obi Berko O. Damoah
+University of Ghana Business School, University of Ghana, Accra, Ghana
+
+Augutina Ashie
+Department of Human Resource,
+University of Education, Winneba, Ghana, and
+
+Elias Kodjo Kekesi
+University of Ghana Business School, University of Ghana, Accra, Ghana
+Abstract
+Purpose – The purpose of this paper is to identify the factors that are likely to predict the likelihood of
+a small firm choosing to participate in formal training programmes. The objective is to inform public
+policy and practice with regard to what SMEs must do in order to realise the benefits of participating in
+formal training programmes like their counterpart large firms so as to remain competitive.
+Design/methodology/approach – The study uses a logistic regression model to ascertain the
+critical factors that are likely to predict SMEs’ chances to engage in formal training programmes.
+The data that inform the logit model are based on a non-probability sample of 85 SMEs drawn from
+Accra, the capital of Ghana.
+Findings – The major findings are that firm size and having younger owner-managers that are daring
+play a critical role regarding whether or not small firms in Ghana will offer themselves for formal
+training programmes. However, firm size, including having young and daring owner-managers reflect
+the internal resource capacity of a firm. The results imply that the internal resource capacity of a firm
+is critical in predicting whether or not a small firm will offer itself for a formal training programme,
+although the changing trends from the external environment are also crucial.
+Research limitations/implications – As a result of the lack of an available sample frame, the study
+is based on a non-probability sample and so it must be noted that the results must be interpreted in that
+context. Besides, the study sampled SMEs located in Accra, the capital of Ghana, thus future research
+must extend the study to cover the rest of the nine regions in Ghana. A further analysis based on
+probability sampling is needed to strengthen the results.
+Practical implications – Consequently for the growth and the development of SMEs in developing
+countries, the need for owner-managers to first focus on internal resource building is key. What this
+means is that owner-managers cannot ignore the conscious attempt to monitor, develop and grow their
+own internal resource strengths before that can be aligned to any changing trends from the outside
+environment.
+Originality/value – The paper provides evidence as regards why most SMEs worldwide find it
+difficult to participate in formal training programmes. The findings seek to enhance the understanding
+of the barriers to the growth of SMEs’ line of research.
+Keywords Training, SMEs, Ghana
+Paper type Research paper
+World Journal of
+Entrepreneurship, Management
+and Sustainable Development
+Vol. 12 No. 4, 2016
+pp. 344-358
+© Emerald Group Publishing Limited
+2042-5961
+DOI 10.1108/WJEMSD-07-2016-0033
+
+1. Introduction
+The important role of SMEs on the socio-economic development of economies is
+recognised across the world (Abor and Quartey, 2010). This is seen in SMEs’ peculiar
+ability to provide income and employment. Studies confirm that a great percentage of
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+SMEs’ contribution to gross domestic product (GDP) and over 60 per cent of total
+employment in high-income countries (Savlovschi and Robu, 2011; OECD, 2002;
+Demirgüç-Kunt and Klapper, 2012; US International Trade Commission, 2010).
+The contribution of SMEs to emerging and developing economies in Asia and Africa
+are noted to be even greater. Research indicates that the world’s best performing
+economies, such as China, Taiwan and Hong Kong, depend immensely on SMEs (Park
+and Kim, 2011; Wang, 2013; Wang and Tsai, 2010). In Pakistan, Qureshi and Herani
+(2011) maintain SMEs foster an entrepreneurship culture, skills development of human
+resources (HRs) and improve the standard of living and quality of life. In Africa, SMEs
+are noted to represent over 90 per cent of private business and contribute to more than
+50 per cent of employment and of the GDP. For example, in Sub-Saharan Africa, it is
+found that SMEs represent about 95 per cent of businesses (Fjose et al., 2010). Aremu
+and Adeyemi (2011) note that SMEs contribute substantially to GDP, export earnings
+and development opportunities to Nigeria. In Tanzania, it is estimated that more than a
+third of the GDP originates from the SME sector. It is reported that the SME sector
+contributes over 80 per cent of Kenya’s employment and contributes about 20 per cent
+to GDP (Nyagah, 2013). In the Republic of South Africa, SMEs are found to contribute
+60 per cent to employment and generate about 40 per cent of its total output (Abor and
+Quartey, 2010). In Ghana, SMEs provide about 85 per cent of manufacturing
+employment and about 70 per cent to GDP and account for about 92 per cent of
+businesses (Abor and Quartey, 2010; Ackah and Vuvor, 2011).
+Like many small firms in sub-Saharan Africa, SMEs in Ghana are urban or rural
+enterprises. The current study is based on the former, which can also be subdivided
+into organised and unorganised enterprises. According to Ackah and Vuvor (2011),
+whilst the organised firms are often sole proprietorships, they have salaried employees
+and are often located in registered offices, “the unorganised ones are mostly made up of
+artisans who work in open spaces, temporary wooden structures or at home and
+employ little or in some cases no salaried workers” (p. 9). The unorganised firms often
+rely on family members or apprentices. The unorganised sector is characterised by no
+or low levels of education of the owner-managers. Overall, the SMEs in Ghana are a
+heterogeneous group of small workshops making furniture, metal parts and clothing,
+medium-sized manufacturers of machinery, service providers such as restaurants,
+consulting and computer software firms.
+Despite the contribution of SMEs to the socio-economic development of countries, both
+the developed and the developing, it is found that SMEs are faced with many challenges.
+Studies have explored these problems, challenges or barriers and concluded that for most
+SMEs, development and growth are hampered by inadequate finance, lack of managerial
+skills, logistics or equipment and technology problems, regulatory issues and lack of
+access to international markets (Arokiasamy and Ismail, 2009; Panagiotakopoulos, 2011,
+Sherazi et al., 2013; Poblete and Grimsholm, 2010; Green and Martinez-Solano, 2011;
+Dalziel, 2010; Brown and McCracken, 2009; Magableh et al., 2011). In Ghana, about a
+decade of research into the challenges of SMEs confirms what has been reported
+internationally. Amoafo (2012) reports that weak infrastructure, lack of appropriate and
+adequate managerial and entrepreneurial skills, lack of training and leadership acumen
+are among the key constraints. Abor and Quartey (2010) note that these problems inhibit
+SMEs’ ability to contribute sufficiently and effectively to the development of economies.
+Of these challenges, it is contended that lack of requisite skills following inadequate
+formal training constitute one of the significant constraints on SMEs growth and
+development (Kayanula and Quartey, 2000; Puplampu, 2005; Amoafo, 2012).
+
+Evidence
+from SMEs
+in Ghana
+345
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+346
+
+Abor and Quartey (2010) recommend that governments across the world should
+encourage certain training institutions and non-governmental organisations through
+tax incentives to provide training to entrepreneurs on key issues including, record
+keeping and managerial know-how, because it is generally noted that the development
+of workforce training and skills in SMEs are central to their growth and survival
+(Thassanabanjong et al., 2009). Puplampu (2005) found that human skills and
+competencies are required for the effective management of SMEs. Researchers
+(e.g. Ibrahim and Soufani, 2002; Hoque and Bacon, 2006; Amoafo, 2012), coupled with
+the Business Development Service (2010) and Ghana concur that lack of training is a
+major constraint at all levels of growth among SMEs. The high failure rate of SMEs in
+Ghana is largely attributed to the lack of training and skills development. These studies
+identified that, concerning SMEs training, the owner-manager is the key barrier
+because with SMEs every activity and/or decision revolves around the owner. Yet, to
+date in Ghana no systematic research has statistically investigated or assessed the
+variables that determine the owner-manager’s decision whether or not to participate in
+a training programme. Based on this, this study seeks to shed light on the issues from
+the Ghanaian perspective.
+To address the issues, the rest of the paper is subdivided as follows. Section 2
+discusses the conceptual background and hypotheses development. Section 3 deals
+with the data, the econometric method analysis and the results. Section 4 deals with the
+conclusion and discussion. Section 5, the final section focuses on the implications of the
+study and the limitations of the study.
+2. Conceptual background and hypotheses development
+2.1 Owner-gender and the propensity for training
+One major decision of the owner-manager of SMEs is whether to train or not to train its
+HR. Previous studies (e.g. Gamage and Sadoi, 2013; Kitching and Blackburn, 2002;
+Johnson, 2002; Devins and Johnson, 2003) have explored several environmental and
+organisational factors that influence owner-managers’ propensity to train, much to the
+neglect of his/her personal perceptions for or attitudes towards training. Evidence
+regarding gender differences on attitudes to training generally show that women are
+less likely to engage in formal training than their male counterparts. This gender
+difference was found to be as a result of family commitments and other engagements
+women undertake which limit the use of their full human capital potential (Barron et al.,
+1993; Holmes et al., 1997). In support, Stanger (2004) asserts that women’s general
+educational background and traditionally limited and relevant prior work experience is
+likely to limit their opportunities to accrue the necessary experience and skills
+associated with small business success. To the contrary, some studies conclude that the
+gender of the owner-manager does not determine the propensity to train. For instance,
+in a study to find gender differences in company training in Taiwan, Huang (1999)
+showed that there is no difference in training opportunities that can be attributed to
+gender. Similarly, Gilbert et al. (2010) conclude that biological sex does not matter when
+it comes to the selection, placement, training, development and appraisal of team
+members. Yet in Ghana, gender specific roles are still demarcated and so on average,
+men are seen to be ahead in most economic activities. Following from this the following
+hypothesis regarding gender and the propensity to train is posed:
+H1. Compared to the female, the male owner-manager will be more likely to
+participate in training programmes.
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+2.2 Firm size and the propensity to training
+There is overwhelming evidence on the link between firm size and training showing
+that the larger the firm, the more likely it is to engage in training. According to Gamage
+and Sadoi (2013) this outcome is the most consistent in SME research. Using data set
+from manufacturing firms in Japan, Gamage and Sadoi (2013), further indicate that firm
+size has a direct effect on the usage of training practices. This relationship is confirmed
+by several previous studies in Germany (Almeida and Aterido, 2010); Australia
+(Webster et al., 2005); Spain (Castany, 2008) and the UK (Westhead and Storey, 1996;
+Mabey and Thompson, 2001; Storey, 2004; Kotey and Folker, 2007; Kotey and Slade, 2005).
+Most small firm owners are ignorant of the benefit of training as well as training
+providers and programmes available. The quantity of formal training purchase by
+small firms is less compared to large firms. For instance, Webster et al. (2005) found
+that the size of the business is significantly related to three variables, namely, whether
+the business owner undertakes training, whether the staff undertakes training, and
+whether resources are made available for training. According to the results, the larger
+the business the more likely it is that the owner has been involved in previous training
+and the more likely the owner sees the need to be involved in training in the future. It is
+also evident that owners of larger businesses consider training important enough to
+make the resources available (Reid and Harris, 2002).
+In providing supporting evidence from Spain, Castany (2008) shows that small firms
+face greater obstacles in accessing training and that the main reasons for that are
+related to their technological activity and the geographical scope of the market in which
+they operate. In their discussion paper, Almeida and Aterido (2010) also confirm the
+relationship in a sample of Spanish industrial firms. They explain that smaller firms are
+less likely to invest in job training because they lack the needed financial resources to
+invest, in spite of the possibly large expected returns.
+In contrast, Hansson (2007) found that the size of the organisation is not associated
+with either of the training incidence or intensity. In Northern Ireland, Reid and Harris
+(2002) looked at determinants of SMEs’ spending on training by including a range of HR
+management functions as well as workforce characteristics, the external environment, size
+and the ownership status. Their results show that HR functions matter a lot in
+determining training spending while workforce and ownership characteristics, external
+factors and size of the firm were much less important in determining expenditure on
+training in SMEs. Though, the empirical front seems to be divided, it is plausible to argue
+that large firms, because of their level of resources and growth, will be more likely to
+participate in training. Consequently, the following hypothesis is posed:
+
+Evidence
+from SMEs
+in Ghana
+347
+
+H2. Compared to the small firm, the large firm will be more likely to participate in
+training programmes.
+2.3 Firm age and the propensity to training
+The age of the firm could also be an influential factor for training propensity of SMEs.
+Research on the relationship between firm age and training is still evolving as there is no
+conclusive evidence. The empirical front of the age of the firm and the propensity to train
+is divided. While some studies reveal that young firms tend to invest more in training
+than their older counterparts, other studies report otherwise. Kitching and Blackburn
+(2002) in their research reporting on the nature of training and motivation to train in
+small firms conclude that a higher propensity to train is associated with younger firms as
+opposed older firms. Using a random sample of 326 manufacturing SMEs from Japan,
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+348
+
+Gamage and Sadoi (2013) indicate that the age of the firm does not significantly
+determine training expenditure in a business firm. Similarly, Jayawarna et al. (2007)
+found no significant influence of firm age on their training propensity. The evidence
+based on a large data set from Canada’s workplace and employee survey also confirms
+that age does not have any meaningful impact on the decision and participation to train
+(Turcotte et al., 2003). However, because more experience is associated with the age of a
+firm, a hypothesis is posed to support those argue that older firm will be more likely to
+participate in training programmes. Again, it is plausible to argue that older firms will be
+more inclined to the changing trends from the external environment and so will be more
+willing to create and maintain that competitive advantage by participating is a training
+programme. As a result the following hypothesis is hypothesised:
+H3. Firm age will be positively associated with the propensity for training.
+2.4 The age of owner-manager and the propensity to training
+Similarly, as with the age of a firm, it is reasonable to expect that older owner-managers
+will possess higher experience than the younger owner-managers. As a result, age as a
+characteristic of the owner-manager’s personality will influence the propensity to train.
+Research shows that younger people are regarded as more trainable compared to older
+owner-managers. Newton (2006) found that there is a clear association between age and
+the amount of training offered to and received by employees. Employees aged over 55
+were less likely than other workers to participate in training. Older employees were also
+less likely than younger or mid-life workers to take up any opportunities for training
+that were made available. It is therefore relevant to explore age of the owner-manager
+as a determining factor in propensity to train among SMEs in order to fill this lacuna in
+research. Based on the argument, above, the following hypothesis is posed:
+H4. The age of the owner-manager will be positively associated with the propensity
+for training.
+2.5 Business sector and the propensity to training
+The business sector of the SME may also have an influence on the propensity to train.
+Kitching and Blackburn (2002) who found a higher propensity to train in firms in the
+service sector confirmed that firms in the service sector apply more training practices
+than in other sectors. This is consistent with Wong et al. (1997) suggestion that
+different industrial sectors have different training requirements. They affirm that the
+need to maintain quality customer relationships may bolster intensive management
+training in the service sector by SMEs. However, Arvanitis (2008) did not find any
+significant difference between the manufacturing sector and the service sector and
+their propensity to train. This simply means that the sector of a firm with regard to its
+business did not significantly determine the propensity to train.
+Ghana as other developing countries does not have a strong manufacturing base,
+compared to the service sub-sector. Following a strong customer expectation from
+service provision, the following hypothesis is hypothesised:
+H5. Compared to SMEs in the manufacturing sector, SMEs in the service sector will
+more likely participate in training programmes.
+2.6 Owner-manager’s education level and the propensity to training
+The literature on the link between educational level and training has confirmed that
+education has a positive effect on receipt of formal training (Frazis et al., 1998; Arvanitis
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+and Stucki, 2008). For example, the owner-manager’s propensity to train his/her
+workforce will be greatly dependent on the owner-manager educational attainment.
+Most research on continuing on-the-job training suggests the expected outcome of the
+training and the participation is influenced by the educational attainment of the
+beneficiaries. It is implicitly shown that employees with higher educational attainment
+receive more training than those without (O’Connell, 2002, 2004; OECD, 2002). Newton
+(2006) also discovered that people possessing higher levels of qualifications are more
+likely to have undertaken some training than those with low or no qualifications.
+The findings of Almeida and Aterido (2010) further support the idea that, the more
+educated the workforce in the firm is, the higher the return in training investment,
+regardless of firm size. This is fully aligned with the empirical evidence of Johanson
+and Adams (2004), reported in Almeida and Aterido (2010) that more educated workers
+have higher returns on training outcome and are more likely to receive job training
+than less educated workers. By contrast, Huang (1999), however, concluded that
+educational attainment, measured as years of schooling completed, had no effect on the
+amount of training received. Yet, it is plausible to argue that an educated ownermanager, knowing the importance of education and training, will be more willing to
+participate in training programmes compared to his/her counterparts that do not. In the
+light of this, the following hypothesis is posed:
+
+Evidence
+from SMEs
+in Ghana
+349
+
+H6. Highly educated owner-managers will be more willing to engage in training
+programmes than lowly educated owner- managers.
+3. Data and econometric method
+The study is based on a purposive sample of 85 SMEs consisting 19 manufacturing
+firms and 66 service firms, located in the capital of Ghana, Accra. The surveyed
+spanned January-March 2013. Whilst a total of 100 questionnaires were administered,
+85 usable questionnaires were returned, fully filled. Tables I and II below presents the
+composition of the sample.
+Table I shows that the male owner-managers were slightly higher than the females,
+consisting of 51 and 49 per cent, respectively. More service firms were represented than
+manufacturing firms, representing 66 and 49 per cent, respectively. The higher
+representation of the service sub-sector in the sample confirms that the economies of
+sub-Saharan African are more service based compared to the developed economies (e.g. the
+UK and the USA) which are more manufacturing based. The small-sized firms were more
+represented compared to the medium-sized firms comprising of 69 and 16 per cent,
+respectively. Owner-managers with High School Certificate were more accounted for
+followed by diploma and degree holders, involving 28, 22 and 20 per cent, respectively.
+Owner-managers with a professional degree were the least, indicating 2 per cent. Whilst the
+average firm age was six years, that of the owner-manager’s age was 33.
+4. Model specification
+The logistic regression which matches the likelihood of a training decision to a set of
+explanatory variables was used because of the dichotomous nature of the dependent
+variables (train or not to train). Based on this the following econometric model is
+specified. In (Pi/1−Pi) ¼ βo + β1firmge+β2 + X1 + ϵ.
+Pi is the probability of a small firm participating in a training programme and (1−Pi)
+is the probability of a small firm not participating in a formal training programme. The
+ratio Pi/(1−Pi), known as the odds ratio, is simply the odds in favour of a small business
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+350
+
+Table I.
+Composition of the
+sample – categorical
+variables
+
+Table II.
+Composition of the
+sample – continuous
+variables
+
+Variable
+
+Frequency
+
+%
+
+Cumulative
+
+Gender
+Male
+Female
+Total
+
+43
+42
+85
+
+51
+49
+100.00
+
+51
+100.00
+
+Sector
+Manufacturing
+Service
+Total
+
+19
+66
+85
+
+22
+78
+100.00
+
+Firm size
+Small
+Medium
+Total
+
+69
+16
+85
+
+81
+19
+100.00
+
+81
+100.00
+
+Owner’s education
+High school
+Diploma
+Degree
+Professional degree
+Postgraduate
+Short courses
+Total
+
+28
+22
+20
+2
+6
+7
+85
+
+33
+26
+24
+2
+7
+8
+100.00
+
+33
+59
+83
+85
+92
+100.00
+
+Variable
+
+n
+
+Mean
+
+SD
+
+Min.
+
+Max.
+
+Firm age
+Owner’s age
+
+85
+85
+
+6.12
+33
+
+5.428
+9.605
+
+1
+20
+
+32
+59
+
+participating in training. The logit model means that the log of the odd ratio is a linear
+function of the explanatory variables. βo represents the constrained model, firmge
+refers to the age of the owner-manager, X1 is the vector of other explanatory variables
+(i.e. firm size, gender, owner-education, sector, owner-age), whilst ϵi is the error term.
+5. Measurement of dependent and independent variables
+In this study the propensity to train is a dichotomous variable and therefore, whether
+the firm will participate in training, takes the value 1. Whilst where a firm will not
+participate in training it takes the value 0. Following previous studies, the independent
+variables in this study are measured as follows:
+(1) firm size, measured as the total number of full-time employees (Webster et al.,
+2005; Hall and Cook, 2009);
+(2) firm age, measured as the number of years a firm has existed since starting
+operation (De Toni and Nassimbeni, 2001; Arvanitis, 2008);
+(3) owner-education, measured as the education level attained by the owner at the
+time of the interview (Newton, 2006; Almeida and Aterido, 2010);
+(4) sectors, measured as the industry where a firm operates, using dummy
+variables (Arvanitis, 2008);
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+(5) gender, measured as a dummy variable with 1 for male and the 0 for female
+(Gilbert et al., 2010); and
+(6) owner-age, measured as the calendar age in years of the owner-manager (Beaver
+and Hutchings, 2005).
+6. Defining small- and medium-sized enterprises
+SMEs are defined in varied ways, in most cases, within the context of the institution
+providing the official definition. Recognising these varied definitions, it is proper to
+adopt the definition that is within the context of the study. We therefore employ the
+official government of Ghana definition of SMEs as firms employing not more than 100
+employees (Gibson and Van der Vaart, 2008). In furtherance, firms employing less than
+nine workers are small firms while firms employing between 10 and 30 workers are
+medium firms.
+
+Evidence
+from SMEs
+in Ghana
+351
+
+7. Estimation, analysis and regression results
+The statistical package for social science is the main statistical package used to analyse
+the data.
+From the results in Table III, the significance levels are as follows: *(0.05), **(0.01)
+and ***(0.001). From Table III, the direct logistic regression was performed to assess
+the effect of the predictors on the likelihood that respondents will participate in a
+training programme. The model consisted of six independent variables (owner-gender,
+owner-education, firm size, firm age, sector and owner’s age). The full model containing
+all the predictors was statistically significant at X2(6, N ¼ 85) ¼ 18.891. p o 0.05,
+indicating that the model was able to distinguish between respondents who participate
+in training and those that do not, based on the predictors. The model as a whole
+explained 0.270 (Nagelkerke’s R2). As shown from Table III, only two variables made a
+significant contribution to the model (owner-age and firm size). The strongest predictor
+was the firm size indicating an odds ratio of 1.9. This indicates that owner-managers
+with medium-sized firms are 1.9 times more likely to participate in training compared to
+small-sized firms, controlling for all other factors in the model. The owner’s age was
+statistically significant, but was negative (−0.110), implying that unlike the younger
+owner-managers, the older owner-managers will not participate in training, controlling
+all other factors in the model Therefore, firm size and owner age were significant at 0.01
+and 0.05 respectively.
+
+Predictors
+Male
+Owner-education
+Medium-sized firm
+Firm age
+Service sector
+Owner-age
+Constant
+
+B
+
+SE
+
+Wald
+
+df
+
+p
+
+Exp (B)
+
+0.472
+−0.055
+1.900
+0.033
+−0.215
+−0.110
+2.525
+
+0.526
+0.195
+0.741
+0.085
+0.629
+0.050
+1.552
+
+1.991
+0.080
+6.564
+0.154
+0.116
+4.739
+2.647
+
+1
+1
+1
+1
+1
+1
+1
+
+0.158
+0.778
+0.010
+0.695
+0.733
+0.029
+0.104
+
+2.101
+0.778
+6.684
+1.034
+0.807
+0.896
+12.491
+
+95% CI for Exp. (B)
+Lower
+Upper
+0.749
+0.645
+1.563
+0.876
+0.235
+0.812
+
+5.890
+1.388
+28.588
+1.221
+2.770
+0.989
+
+Table III.
+Logistic regression
+predicting the
+likelihood of
+participating in
+training programme
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+352
+
+8. Significant checks
+In order to confirm the results above, the χ2-test of independence and an independence t-test
+were conducted. Concerning gender and the likelihood of participation in training, the
+χ2-test of independence indicated no significant association between male owner-managers
+and female owner-managers, X2(1, n ¼ 85) ¼ 2.166, p ¼ 0.141, confirming the logistic
+regression’s results. The same goes for the owner’s education level and sector, indicating
+X2(1, n ¼ 85) ¼ 6.876, p ¼ 0.230 and X2(1, n ¼ 85) ¼ 0.40, p ¼ 0.841, respectively. However,
+with the firm size, the χ2-test of independence indicates a statistically significant association
+between the medium-sized firm and the small firm, X2(1, n ¼ 85) ¼ 7.423, p ¼ 0.006.
+Similarly, as regards the continuous variables, the independent sample t-test shows a
+statistically significant association in the case of owner’s age and not the firm’s age.
+The results of these two variables consist of: firm age, t ¼ 1.104. p ¼ 0.273 and owner’s age,
+t ¼ 2.660, p ¼ 0.009 (Table IV).
+9. Conclusion and discussion
+In conclusion, the results show that except for firm size and owner-manager’s age, the
+rest of the variables (e.g. owner-manager’s gender, owner’s education, firm age and
+sector of business of the firm) do not predict any better likelihood of participating in
+training programme. The results of the study show that gender has no significant
+influence on owner-manager’s propensity to train. This supports the conclusion made
+by Gilbert et al. (2010) that biological sex does not influence key HR decisions such as
+selection, placement, training, development and appraisal. It is also consistent with the
+results of Huang (1999) who indicates that there is no difference in training
+opportunities that can be attributed to gender. The outcome is, however, inconsistent
+with Holmes et al.’s (1997), findings that females are less likely to engage in formal
+training as against their male counterparts, which they explained may be attributed to
+the additional family commitments of women. Implicitly, the finding could be as a
+result of the fact that in recent times, there is an attempt to provide equal opportunity
+and resources to males and females in various aspects of life (e.g. politics, education,
+workplace, home, etc.) and this could have reduced gender-based differences in the
+propensity to train.
+The finding that firm age has no significant effect on the likelihood to participate in
+formal training supports the finding of Jayawarna et al. (2007) that there is no significant
+influence on the training with regard to firm age. It, however, fails to support the findings
+of Arvanitis (2008) who found a positive effect for firm age on training propensity and
+that of Abdulkadir and Adedoyin (2011) who also found a strong positive relationship
+between firm age and strategic HRM practices like training. This outcome could imply
+that with the advent of the globalisation process, information flows to both younger as
+
+Hypotheses
+
+Table IV.
+Summary
+of findings
+
+H1: gender
+H2: firm size
+H3: firm age
+H4: older owner -managers
+H5: sector
+H6: owner’s education
+
+Initial prediction
++
++
++
++
++
++
+
+Supported
+|
+
+Not supported
+|
+|
+|
+|
+|
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+well as older firms. So both the older firms and younger ones are constantly updating
+their knowledge, skills and abilities through their respective local and the international
+media. This helps both categories of firms to learn and adopt the best practices in their
+fields to achieve growth and development.
+The result that educational level has no influence on the propensity to train also
+supports the findings of Huang (1999) who found that educational attainment had no
+effect on the amount of training received in high-tech firms in Taiwan. It, however, does
+not support the discovery of Newton (2006) that people possessing higher levels of
+qualifications are more likely to undertake some training than those with low or no
+qualifications. Similarly, the non-significant effect of owner’s education on the
+likelihood of training might imply that with the globalisation processes in recent times,
+people are educated through several means (e.g. radio, TV) and so formal education
+may not make that much of a difference anymore.
+The present finding that firm size related positively with the propensity to training
+participation is in support of previous studies (Kotey and Folker, 2007; Almeida and
+Aterido, 2010; Castany, 2008; Waddoups, 2011) which revealed that differences in
+attitude to training can be attributed to firm size and that more formal training
+programmes will be adopted as firm size increases. By contrast, the finding is at
+variance with Reid and Harris (2002) as well as Hansson (2007) who found that the size
+of the organisation is not associated with training incidence. According to Grant (1991),
+size provides a firm with vertical bargaining power where the propensity to train is
+higher in medium or large sized firms than in small-sized firms. Consistent with
+Castany (2008), the study suggests that firm size differences in training propensity are
+as a result of differences in the firms’ need to “update the skills of their employees to
+ensure that they acquire the specific knowledge to use new technologies and to make the
+firms more competitive in international markets” (p. 22). And the literature support
+is in favour of large firms because they have the resources to undertake the required
+activities to keep the firm in business and to remain competitive. Indeed, lack of access to
+training which characterises most Ghanaian small firms, impedes them from becoming
+more competitive.
+In addition, the business sector of firm did not relate significantly with propensity to
+train. This is in support of the findings of Arvanitis (2008) who did not find any
+significant difference between the industrial sector and the service sector on their
+propensity to train. Finally, the study found that owner-manager’s age related
+negatively with propensity to train. This is consistent with the findings by Beaver and
+Hutchings (2005), Newton (2006) and Arvanitis and Stucki (2008). Likewise, the implicit
+assumption here is that with the rapid advancement in information and communication
+technology, people across the world have access to information that offer them instant
+experience to the extent that differences in the calendar age among people may not
+make a significant difference whether or not it is the age of the firm or the age of the
+owner-manager.
+
+Evidence
+from SMEs
+in Ghana
+353
+
+10. Implications of the study
+With regard to the practical implication, whilst the importance of training programmes
+cannot be over-estimated, owner-managers must build the capacity of their firms in
+order to access the training opportunities. The reason for this is because the significant
+prediction of firm size on firm propensity to participate in a training programme partly
+implies that training opportunity for SMEs in Ghana depends to a greater degree on the
+size of the SME firm. Implicitly, the managerial skills of owner-managers need to be
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+354
+
+first enhanced in order to promote the business to the required size so that they can
+access training opportunities from their own resources. The common assumptions
+among most owner-managers in Ghana, that training programmes are meant for the
+large scale multinational firms, must be changed. Owner-managers must be made to
+understand that in today’s competitive market place, participation in training
+programmes is a requirement in order to remain competitive and to expand. It can
+therefore be recommended that owner-managers in Ghana must exercise business
+discipline not to use business revenue for personal interest such as spending on
+funerals, parties, marrying more than one wife and acquiring personal houses.
+However, as the business starts, the business entity concept which separates the
+activities of the business from the owner must be strictly applied, at least to such a
+time that the business breaks even and start growing. Following the advantages of
+large firms (e.g. economic of scale and scope), business growth should be their target so
+that at such growth level, it will be easy to fund for training programme. Concerning
+the policy implications following the advent of globalisation, many strong and giant
+multinational firms are entering many developing countries and compete with the
+indigenous firms which are mainly small businesses. Such public policy initiatives will
+strengthen the indigenous SMEs, to compete side-by-side with the large scale
+multinational firms that enter their markets.
+11. Limitation of the study
+As a result of the lack of an available sample frame, the study is based on nonprobability sampling and so it must be noted that the results must be interpreted
+in that context. Besides, the study sampled SMEs located in Accra, the capital of
+Ghana, and so future research must extend the study to cover the rest of the nine
+regions in Ghana. Further, a more vigorous analysis based on probability sampling is
+needed to strengthen the results. Theoretically, our data set is not able to confirm
+whether training activities by SMEs intensify/amplify as they increase in size. Future
+research should consider types and numbers of training activities of SMEs as
+influenced by size.
+References
+Abdulkadir, D.S. and Adedoyin, S.I. (2011), “Influences of firm size, age and organizational
+climate on the adoption of strategic human resource management practices”, International
+Review of Business and Social Sciences, Vol. 1 No. 7, pp. 22-36.
+Abor, J. and Quartey, P. (2010), “Issues in SME development in Ghana and South Africa”,
+International Research Journal of Finance and Economics, Vol. 39 No. 6, pp. 215-228.
+Ackah, J. and Vuvor, S. (2011), “The challenges faced by small & medium enterprises (SMEs) in
+obtaining credit in Ghana”, Blekinge (unpublished).
+Almeida, R. and Aterido, R. (2010), “Investment in job training: why are SMEs lagging so much
+behind?”, policy research working paper series, World Bank Group, Washington, DC.
+Amoafo, S.O. (2012), “Problems of SMEs in Ghana”, Ghanaian Daily Graphic, 14 July, p. 15.
+Aremu, M.A. and Adeyemi, S.L. (2011), “Small and medium scale enterprises as a survival
+strategy for employment generation in Nigeria”, Journal of Sustainable Development, Vol. 4
+No. 1, p. 200.
+Arokiasamy, L. and Ismail, M. (2009), “The background and challenges faced by the small
+medium enterprises. A human resource development perspective”, International Journal of
+Business and Management, Vol. 4 No. 10, p. 95.
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+Arvanitis, S. (2008), “Are firm innovativeness and firm age relevant for the supply of vocational
+training? − A study based on Swiss micro data”, May.
+Arvanitis, S. and Stucki, T. (2008), “Training propensity of start-ups in Switzerland − A study
+based on data for the start-up cohort 1996-97”, available at: SSRN 1135604
+Barron, J.M., Black, D.A. and Loewenstein, M.A. (1993), “Gender differences in training, capital,
+and wages”, Journal of Human Resources, pp. 343-364.
+Beaver, G. and Hutchings, K. (2005), “Training and developing an age diverse workforce
+in SMEs: the need for a strategic approach”, Education+Training, Vol. 47 Nos 8/9,
+pp. 592-604.
+
+Evidence
+from SMEs
+in Ghana
+355
+
+Brown, T.C. and McCracken, M. (2009), “Building a bridge of understanding: how barriers to
+training participation become barriers to training transfer”, Journal of European Industrial
+Training, Vol. 33 No. 6, pp. 492-512.
+Business Development Service (2010), “Strengthening business development services provision in
+Ghana”, report on BDS in Ghana: background and recommended new services, available at:
+http://secretariat.thecommonwealth.org/files/226860/FileName/Report_on_BDS_in_Ghana.pdf
+(accessed 18 June 2014).
+Castany, L. (2008), “The role of firm size in training provision decisions: evidence from Spain”,
+Documents de Treball No. 8, IREA, Barcelona, p. 1.
+Dalziel, P. (2010), “Leveraging training: skills development in SMEs-an analysis of Canterbury
+Region”, Organisation for Economic Cooperation and Development, Paris, available at:
+www.oecd.org/dataoecd/7/39/45538500.pdf
+De Toni, A. and Nassimbeni, G. (2001), “The export propensity of small firms: a comparison
+of organisational and operational management levers in exporting and non-exporting
+units”, International Journal of Entrepreneurial Behavior & Research, Vol. 7 No. 4,
+pp. 132-147.
+Demirgüç-Kunt, A. and Klapper, L.F. (2012), “Financial inclusion in Africa: an overview”, World
+Bank Policy Research Working Paper No. 6088.
+Devins, D. and Johnson, S. (2003), “Training and development activities in SMEs some findings
+from an evaluation of the ESF objective 4 programme in Britain”, International Small
+Business Journal, Vol. 21 No. 2, pp. 213-228.
+Fjose, S., Grünfeld, L.A. and Green, C. (2010), “SMEs and growth in Sub-Saharan Africa:
+identifying SME roles and obstacles to SME growth”, MENON Business Economics,
+MENON Publication No. 14/2010, Oslo.
+Frazis, H., Gittleman, M. and Joyce, M. (1998), “Determinants of training: an analysis using
+both employer and employee characteristics”, US Department of Commerce,
+Washington, DC.
+Gamage, A. and Sadoi, Y. (2013), “Determinants of training and development practices in SMEs: a
+case of Japanese manufacturing firms”, Sri Lankan Journal of Human Resource
+Management, Vol. 2 No. 1, pp. 46-61.
+Gibson, T. and Van der Vaart, H.J. (2008), “Defining SMEs: a less imperfect way of defining
+small and medium enterprises in developing countries”, Brookings Institution,
+Washington, DC.
+Gilbert, G.R., Burnett, M.F., Phau, I. and Haar, J. (2010), “Does gender matter? A review of workrelated gender commonalities”, Gender in Management: An International Journal, Vol. 25
+No. 8, pp. 676-699.
+Grant, R.M. (1991), “The resource-based theory of competitive advantage: implications for
+strategy formulation”, California Management Review, Vol. 33 No. 3, pp. 114-135.
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+Green, A.E. and Martinez-Solano, L.E. (2011), Leveraging training skills development in SMEs: an
+analysis of the West Midlands”, OECD.
+
+356
+
+Hansson, B. (2007), “Company-based determinants of training and the impact of training on
+company performance: results from an international HRM survey”, Personnel Review,
+Vol. 36 No. 2, pp. 311-331.
+
+Hall, G. and Cook, M. (2009), “The relative importance of human and product resources in
+influencing the export propensity of small UK firms”, International Journal of
+Entrepreneurship and Innovation Management, Vol. 10 No. 1, pp. 71-87.
+
+Holmes, S., Smith, S. and Cane, G. (1997), “Gender issues in home-based business operation
+and training: an Australian overview”, Women in Management Review, Vol. 12 No. 2,
+pp. 68-73.
+Hoque, K. and Bacon, N. (2006), “The antecedents of training activity in British
+small and medium-sized enterprises”, Work, Employment & Society, Vol. 20 No. 3,
+pp. 531-552.
+Huang, T.C. (1999), “Gender differences in company training: the case of Taiwanese high-tech
+firms”, Employee Relations, Vol. 21 No. 5, pp. 500-508.
+Ibrahim, A.B. and Soufani, K. (2002), “Entrepreneurship education and training in Canada: a
+critical assessment”, Education+Training, Vol. 44 Nos 8/9, pp. 421-430.
+Jayawarna, D., Macpherson, A. and Wilson, A. (2007), “Training commitment and performance in
+manufacturing SMEs: incidence, intensity and approaches”, Journal of Small Business and
+Enterprise Development, Vol. 14 No. 2, pp. 321-338.
+Johanson, R.K. and Adams, A.V. (2004), Skills Development in Sub-Saharan Africa, World Bank
+Publications, Washington, DC, available at: www.worldbank.org/kam
+Johnson, S. (2002), “Lifelong learning and SMEs: issues for research and policy”, Journal of Small
+Business and Enterprise Development, Vol. 9 No. 3, pp. 285-295.
+Kayanula, D. and Quartey, P. (2000), “The policy environment for promoting small and mediumsized enterprises in Ghana and Malawi”, Finance and Development Research Programme,
+Working Paper Series Paper No. 15, IDPM, University of Manchester.
+Kitching, J. and Blackburn, R. (2002), “The nature of training and motivation to train in small firms”,
+Small Business Research Centre, Kingston University, London.
+Kotey, B. and Folker, C. (2007), “Employee training in SMEs: effect of size and firm type—
+family and nonfamily”, Journal of Small Business Management, Vol. 45 No. 2,
+pp. 214-238.
+Kotey, B. and Slade, P. (2005), “Formal human resource management practices in small growing
+firms”, Journal of Small Business Management, Vol. 43 No. 1, pp. 16-40.
+Mabey, C. and Thompson, A. (2001), “Achieving management excellence: a survey
+of UK management development at the millennium”, European Business Review, Vol. 13
+No. 1.
+Magableh, I.K., Kharabsheh, R. and Al-Zubi, K.A. (2011), “Determinants and impact of training:
+the case of SMEs in Jordan”, International Journal of Economics and Finance, Vol. 3 No. 5, p. 104.
+Newton, B. (2006), “Training an age-diverse workforce”, Industrial and Commercial Training,
+Vol. 38 No. 2, pp. 93-97.
+Nyagah, C.N. (2013), “Non-financial constraints hindering growth of SME’s in Kenya: the case of
+plastic manufacturing companies in industrial area in Nairobi County”, MBA Project,
+University of Nairobi.
+O’Connell, P. (2004), “Who generally trains? The effects of personal and workplace characteristics
+on training at work”, seminar paper publication, ESRI, Dublin.
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+O’Connell, P.J. (2002), “Does enterprise-sponsored training aggravate or alleviate existing
+inequalities? Evidence from Ireland”, Education Training and Employment Dynamics,
+Edward Elgar, Cheltenham, pp. 285-302.
+OECD (2002), “Management training in SMEs”, OECD, Publications 2, rue André-Pascal,
+available at: www.oecd.org/pdf (accessed 20 October 2013).
+Panagiotakopoulos, A. (2011), “Barriers to employee training and learning in small and
+medium-sized enterprises”, SMEs’ Development and Learning in Organizations, Vol. 25
+No. 3, pp. 15-18.
+
+Evidence
+from SMEs
+in Ghana
+357
+
+Park, S.C. and Kim, S.O. (2011), “South Korean SME’s entrepreneurship in the globalizing
+economic system focused on Yuyang DNU”, ICSB World Conference Proceedings,
+International Council for Small business (ICSB), January, p. 1.
+Poblete, L. and Grimsholm, E. (2010), “Internal and external factors hampering SME growth:
+a qualitative case study of SMEs in Thailand”, a dissertation submitted in fulfillment of the
+requirements for the degree of Master in Business Administration: International
+Management at the Faculty of Social Sciences, Gotland University.
+Puplampu, B. (2005), “Skills, structure and leadership: critical variables for SME
+internationalisation”, Internationalisation and Enterprise Development in Ghana, Adonis
+and Abbey Publishers, London, pp. 129-194.
+Qureshi, J. and Herani, G.H. (2011), “The role of small and medium-size enterprises (SMEs) in the
+socio-economic stability of Karachi”, Indus Journal of Management & Social Sciences, Vol. 4
+No. 2, pp. 30-44.
+Reid, R.S. and Harris, R.I. (2002), “The determinants of training in SMEs in Northern Ireland”,
+Education+Training, Vol. 44 Nos 8/9, pp. 443-450.
+Savlovschi, L.I. and Robu, N.R. (2011), “The role of SMEs in modern economy”, Economia, Seria
+Management, Vol. 14 No. 1, pp. 277-281.
+Sherazi, S.K., Iqbal, M.Z., Asif, M., Rehmanand, K. and Hussain Shah, S.S. (2013), “Obstacles to
+small and medium enterprises in Pakistan: principal component analysis approach”,
+Middle-East Journal of Scientific Research, Vol. 13 No. 10, pp. 1325-1334.
+Stanger, A.M.J. (2004), “Gender-comparative use of small business training and assistance: a
+literature review”, Education+Training, Vol. 46 No. 8, pp. 464-473.
+Storey, D.J. (2004), “Exploring the link, among small firms, between management training
+and firm performance: a comparison between the UK and other OECD countries”,
+The International Journal of Human Resource Management, Vol. 15 No. 1,
+pp. 112-130.
+Thassanabanjong, K., Miller, P. and Marchant, T. (2009), “Training in Thai SMEs”, Journal of
+Small Business and Enterprise Development, Vol. 16 No. 4, pp. 678-693.
+Turcotte, J., Léonard, A. and Montmarquette, C. (2003), New Evidence on the Determinants of Training
+in Canadian Business Locations. The Evolving Workplace Series, Catalogue No. 71-584-MPE
+No. 5, Human Resources and Skills Development Canada. Service Canada, Ottawa.
+US International Trade Commission (2010), “Small and medium-sized enterprises: characteristics
+and performance”, USITC Publication No. 4189, US International Trade Commission,
+Washington, DC.
+Waddoups, C.J. (2011), “Firm size and work-related training: new evidence on incidence, intensity,
+and training type from Australia”, Journal of Labor Research, Vol. 32 No. 4, pp. 390-413.
+Wang, J.H. and Tsai, C.J. (2010), “National model of technological catching up and innovation:
+comparing patents of Taiwan and South Korea”, The Journal of Development Studies,
+Vol. 46 No. 8, pp. 1404-1423.
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+WJEMSD
+12,4
+
+358
+
+Wang, X. (2013), The Impact of Microfinance on the Development of Small and
+Medium Enterprises: The Case of Taizhou, China, The Johns Hopkins University,
+Baltimore, MD.
+Webster, B., Walker, E. and Brown, A. (2005), “Australian small business participation in training
+activities”, Education+Training, Vol. 47 Nos 8/9, pp. 552-561.
+Westhead, P. and Storey, D. (1996), “Management training and small firm performance:
+why is the link so weak?”, International Small Business Journal, Vol. 14 No. 4,
+pp. 13-24.
+Wong, C., Marshall, J.N., Alderman, N. and Thwaites, A. (1997), “Management training in small
+and medium-sized enterprises: methodological and conceptual issues”, The International
+Journal of Human Resource Management, Vol. 8 No. 1, pp. 44-65.
+Corresponding author
+Obi Berko O. Damoah can be contacted at: obiberko@gmail.com
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/wjemsd/article-pdf/12/4/344/2898808/wjemsd-07-2016-0033.pdf by University of Ghana user on 25 Marc
+
+

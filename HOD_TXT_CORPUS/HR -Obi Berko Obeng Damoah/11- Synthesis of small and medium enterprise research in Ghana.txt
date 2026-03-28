@@ -1,0 +1,2408 @@
+Journal of Global Entrepreneurship Research
+https://doi.org/10.1007/s40497-021-00286-x
+
+REVIEW
+
+Synthesis of small and medium enterprise research in Ghana
+Obi Berko Obeng Damoah 1
+
+& Augustine Awuah Peprah
+
+2
+
+Received: 20 December 2019 / Accepted: 28 February 2021
+# The Author(s), under exclusive licence to Faculty of Entrepreneurship, University of Tehran 2021
+
+Abstract
+It is argued that the present pace of small and medium enterprises (SME) research on Africa remains slow, despite being one of
+the growing fields. Consequently, there have been calls to advance the field from the perspective of Africa. This study partly
+responds to the call and aims to systematically review and organize the different SME research contributions from Ghana to help
+us appreciate and understand how research on SMEs in Ghana has advanced over the years. Combining major online databases
+such as Web of Science, Business Source Complete (EBSCO), ABI/INFORM, and Scopus databases, this paper reviews and
+analyzes 231 SME studies between 2000 and 2018. The paper structures SME research on Ghana into salient themes to offer the
+current state of knowledge and, consequently, aids scholars to scope the field and discover value-adding avenues to advance our
+understanding about SME research in the context of Ghana. Based on the findings, implications on theory, policy, and practice
+are discussed.
+Keywords Small and medium-scale enterprises . SMEs . Literature review . Synthesis
+JEL code M1 . M13
+
+1 Introduction
+Over recent decades, research on small and medium enterprises (SMEs) has received and continues to receive increasing attention from academics, practitioners, and policymakers.
+For instance, a study that reviewed 10 years of African entrepreneurship research (see Igwe & Icha-Ituma, 2020) maintained that although the global socio-economic and technological changes are permeating the continent of Africa, entrepreneurship and/or SME development is equally being revived
+alongside. While SMEs research, in general, remains attractive to researchers, a growing amount of researchers (e.g.,
+Ariyo et al., 2015; Jones et al., 2018) have argued for the need
+for future studies that are not based on the conceptualization of
+
+* Augustine Awuah Peprah
+augustine.peprah@upsamail.edu.gh
+Obi Berko Obeng Damoah
+obodamoah@ug.edu.gh
+1
+
+University of Ghana Business School, Legon, Ghana
+
+2
+
+Department of Business Administration, University of Professional
+Studies, Accra, Ghana
+
+western economies to validate existing findings. However, the
+important recognition of SME research is not surprising because SMEs have been recognized as active agents of socioeconomic development of countries (Abor & Quartey, 2010;
+Audretsch et al., 2009; Carrer & Klomp, 1996; Carter &
+Jones-Evans, 2006; Selvanayaki et al., 2016; Muneer et al.,
+2017; Jindrichovska, 2013; Karadag, 2015; Peprah &
+Adekoya, 2020) especially in developing countries
+(Demirgüç-Kunt & Klapper, 2012; Savlovschi & Robu,
+2011). Various scholars have highlighted the contribution of
+SMEs towards economic growth particularly in the area of job
+creation in most developing countries of Africa and Asia
+(Demirgüç-Kunt & Klapper, 2012; Peprah & Adekoya,
+2020; Savlovschi & Robu, 2011). For example, Taiwo et al.
+(2016) reported that SMEs serve as a major source of employment and account for over 90% of all firms that operate in the
+informal sector. Similarly, other scholars have also shown that
+SMEs in Africa and Asia provide between 20 and 45% fulltime job and 30–50% of rural household income (Haggblade
+& Liedholm, 1991; Taiwo et al., 2016). This implies that
+SMEs serve as catalysts in alleviating poverty and hence contribute towards social development and poverty reduction
+(OECD, 2005; World Bank, 2013) in rural areas in developing
+countries.
+
+J Glob Entrepr Res
+
+Although SME research on Africa remains a growing field,
+authors (Igwe et al., 2019; Igwe & Icha-Ituma, 2020; Jones
+et al., 2018; Meagher, 2018) argue that the current pace of
+research in the field remains slow thereby calling for more
+studies to advance SME research in the context of Africa.
+For example, in the context of Ghana, previous studies (e.g.,
+Abor & Quartey, 2010; Aryeetey, 2001) have discussed
+SMEs and their contribution to the economy of Ghana. Yet,
+there exists a lacuna in research that systematically reviews
+and organizes the different SME research contributions to
+Ghana to help us appreciate and understand how research on
+SMEs in Ghana has developed and advanced over the years.
+Precisely, to our knowledge, there are limited studies dedicated to carrying out a systematic literature review of SME research on Ghana. Consequently, this paper reviews the current
+state of SME research on Ghana to consolidate what has been
+done so far, identify gaps, and map-up productive future research directions.
+Specifically, the motivation of this paper is to situate the
+findings in the context prior synthesis of global SME literature
+which contains limited literature on Africa, especially subSaharan Africa. To contribute to this research gap, three basic
+questions inform our study. That is, from the Ghanaian context, what are the key thematic research areas explored in
+SME research? Which methods drive existing SME studies
+on Ghana? Which sectors have received the most of SME
+research attention? A systematic review of SME research
+within the context of Ghana is very important because there
+is enough evidence pointing to the profound contributions of
+SMEs to the Ghanaian economy — SMEs provide about 85%
+of manufacturing jobs in Ghana, contribute about 70% to
+Ghana’s GDP, and account for about 92% of businesses in
+Ghana (Abor & Quartey, 2010; Aryeetey, 2001; Asare, 2014a,
+2014b; International Trade Centre, 2016). Consequently,
+SMEs have become the focus of public policy and, as a result,
+a review summarizing what is known and not known about
+SME research on Ghana becomes an important input in policy
+formulation.
+Our paper makes significant contributions to the SME research field. First, the study develops a comprehensive review
+of the specific body of literature on SMEs in Ghana and situates our analysis within the broader SME and management
+literature which has limited studies on Africa (see Igwe
+et al., 2019; Igwe & Icha-Ituma, 2020; Jones et al., 2018;
+Meagher, 2018) especially sub-Saharan Africa. Second, based
+on this systematic review, the study identifies crucial themes
+and insights about how SME research has advanced in Ghana
+in terms of key thematic research areas, methods, key findings, and sectors which have received research attention to
+offer an avenue for scholars and practitioners to reflect on
+questions which appear critical yet have not received research
+attention to inform public policy, education, and practice.
+Third, in the final section, we organize and consolidate the
+
+main findings, identify lingering gaps, and suggest important
+guidance for future research avenue. To achieve our goal, we
+structure the rest of the paper as follows. In what follows, we
+give a brief overview of SME research on Ghana and section 2
+discusses the method employed for the study, while sections 3
+reports and discusses the findings and finally, section 4 concludes the study.
+
+1.1 Overview of SME research on Ghana
+The catalytic role of SMEs to the socio-economic development of economies is recognized worldwide (Belás et al.,
+2020). The economy of Ghana is not without SME activities;
+in fact, SMEs are known for dominating the Ghanaian economy (Abor & Quartey, 2010). As a result, several dimensions
+of activities of SMEs in Ghana have been studied by various
+researchers. Among the themes which have driven SME research on Ghana are as follows: studies that address SME
+challenges in Ghana include Mabe et al. (2013), constraints
+facing new and existing small and medium-scale enterprises
+(SMEs) in Greater Accra Region of Ghana; Charles et al.
+(2015), a qualitative approach to examining the challenges
+of Ghanaian small and medium-scale enterprises; and
+Prempeh (2015), problems of financing SMEs in Ghana.
+Papers that explore regulatory influences on SMEs in Ghana
+also include Aryeetey and Ahene (2005a, 2005b), the changing regulatory environment for Ghanaian SMEs; Kayanula
+and Quartey (2000), the SME policy environment; and Abor
+and Quartey, SME development in Ghana. Samples of studies
+that address accounting and financial management of SMEs in
+Ghana also include Biekpe (2004), SME finance in subSaharan Africa; Abor and Biekpe (2007), SME finance in
+Ghana; and Musah and Ibrahim (2014), SME recordkeeping and bottom line and Mahmoud (2011) market orientation and business performance among SMEs in Ghana.
+Overall, a critical analysis of the SME research on Ghana
+indicates that the studies have been done in isolation. This
+calls for a methodical review and classification of the diverse
+contributions of SME research on Ghana to help us comprehend how research on SMEs in Ghana has progressed over the
+years.
+
+2 Methodology
+This literature review focuses on examining papers that have
+addressed SME research in Ghana from 2000 to 20181 and
+offers the current state of knowledge on the topic from the
+1
+We did not selectively choose 2000–2018 as the study period but our literature search produced papers published within this period. This could also
+mean that SME research on Ghana gained ground in the beginning of the
+2000s.
+
+J Glob Entrepr Res
+Fig. 1 Number of publications
+per year
+
+frequency
+60
+50
+
+48
+
+40
+33
+26
+
+28
+
+frequency
+22
+
+20
+
+Table 1 Themes used in the
+study
+
+2017
+
+2016
+
+2015
+
+2014
+
+2010
+
+7
+2013
+
+5
+2011
+
+2009
+
+4
+
+2012
+
+11
+
+10 10
+
+2008
+
+6
+2007
+
+4
+2006
+
+1
+
+2005
+
+2002
+
+perspectives of Ghana. All the articles considered for this review were assembled as follows: first, we started our article
+search by combining five major online databases — Web of
+Science, Business Source Complete (EBSCO), ABI/
+INFORM, Scopus, and JSTOR databases. We selected these
+databases for their comprehensive coverage and indexing of
+significant business, management, and economics journals
+covering SME research, and also, these are the most common
+databases employed in extant literature for systematic reviews.
+Second, employing keywords and article titles, we made
+search strings to find articles. We searched and identified relevant articles using key terms such as “small and mediumscaled enterprises in Ghana,” “SMEs in Ghana,” “small enterprise in Ghana” “small and medium-scaled enterprises in developing countries,” “SMEs in developing countries,” “small
+and medium-scaled enterprises in Africa,” “SMEs in Africa.”
+Because searching for articles using index terms or keywords
+
+2
+
+2004
+
+1
+
+3
+2003
+
+2000
+
+0
+
+2
+2001
+
+10
+
+8
+
+2018
+
+30
+
+in electronic databases may overlook important papers, we
+also employed the snowball search strategy (Greenhalgh &
+Peacock, 2005) by referring to the bibliographies or references
+of identified papers for additional work of relevance. Again,
+we searched for works from databases of Ghanaian universities for specific-related papers on the theme.
+In all, the search procedure produced a total of 251 papers,
+but a total of 231 papers published between 2000 and 2018
+(marked with asterisks (*) in the reference list) were considered fit for inclusion in this paper (see Fig. 1 for the distribution of the number of papers published per year). The papers
+included in the review had to meet the following criteria: (a)
+the paper must strictly address SME issue in the context of
+Ghana, (b) it must be published in English, (c) it must be
+published in a peer-reviewed journal, (d) the study must report
+the method used, (e) it must show data analysis and findings,
+and (f) the paper must indicate the sector in which the study
+
+Themes
+
+Frequency
+
+Percentage
+
+Challenges, barriers, problems and constraints SMEs face
+Tax, accounting practices, record keeping, risk management, financing and credit of
+SMEs
+SME promotion, market strategies, their economic implications
+Alternative model for financing SMEs
+Contribution of SMES to economic growth and development; SME performance
+Innovation and information technology
+Entrepreneurship and labor
+Local content of SME activities
+Government regulations, policies and how they affect SME growth
+Health and safety management of SMEs in construction and technical industries
+Others
+Total quality management and service management
+Women and gender related
+Total
+
+25
+43
+
+10.82
+18.61
+
+22
+2
+13
+15
+19
+4
+15
+4
+49
+12
+8
+231
+
+9.52
+0.87
+5.63
+6.49
+8.23
+1.73
+6.49
+1.73
+21.21
+5.19
+3.46
+100
+
+J Glob Entrepr Res
+
+was conducted. Finally, following extant literature, we content
+analyzed each study for their key findings, methods, and sectors. The findings of our analysis were organized with the help
+of tables and charts to establish the scope and the direction of
+SME research work on Ghana within the selected time
+horizon.
+
+received 25 publications, representing 10.82%. Furthermore,
+22 (9.52%) of the publication focused on SME promotion and
+marketing strategies. Innovation and information technology,
+as well as entrepreneurship, received 15 (6.49%) and 19
+(8.22%) publications respectively. Lastly, 12 publications
+were made on issues on total quality management and 8
+(3.5%) related to issues women and gender in SMEs.
+
+3 Results, discussion, and future research
+directions
+
+3.2 Sectors of SME research focus
+
+This section presents and discusses the results of our systematic literature review as they emerged from the analysis. First,
+we present and discuss the main thematic issues addressed in
+SME literature on Ghana. Second, we zoom in to discuss the
+sectors in Ghana in which SME studies have been focused.
+Third, we highlight the methodological approach adopted for
+SME research on Ghana. Fourth, we demonstrate the level of
+authors’ collaboration and their affiliated institutions. Then,
+we focus on examining the level of analysis employed in
+SME research on Ghana. Finally, we suggest important research areas for future research directions.
+
+3.1 Issues and thematic areas explored in SME
+research in Ghana
+Our analysis categorized various issues and thematic areas
+explored in SME research on Ghana into 13 broad themes,
+namely, (1) challenges, barriers, problems, and constraints of
+SMEs; (2) tax, accounting practices, record keeping, risk management, financing, and credit of SMEs; (3) SME promotion,
+market strategies, and their economic implications; (4) alternative model for financing SMEs; (5) contribution of SMEs to
+economic growth, and development and analysis of SME performance; (6) innovation and information technology of
+SMEs; (7) entrepreneurship and labor; (8) local content of
+SME activities; (9) government regulations, policies, and
+how they affect SME growth; (10) health and safety management of SMEs in construction and technology industries; (11)
+total quality management and service management of SMEs;
+(12) women and gender-related issues in SME; and (13)
+others. The results show that a significant number of SME
+research on Ghana have addressed financial management
+challenges (i.e., accounting records and taxation). Ideally,
+there were twelve broad themes and all the articles that could
+not fit into any of the twelve themes were included in a distinctive theme which was named “other.” Table 1 gives a
+detailed presentation of these issues and thematic areas of
+SME research on Ghana. In entirety, out of the 231 publications, 49 of the articles representing 21.21% belonged to the
+theme named “other” and it was the highest; 43 of the articles
+(18.61%) also belonged to tax, accounting principles, and record keeping theme; challenges or constraints of SMEs also
+
+The analysis of the reviewed studies indicates that SME research on Ghana has been conducted in 13 different sectors, of
+which one of the sectors was classified as multisector. Any
+article that does not focus on the specific sector but cuts across
+is referred to as a multisector. Out of the 231 publications on
+the SMEs, 177 (76.66%) of them covered a collection of several sectors; 16 (6.9%) of the articles published within the
+period are within the financial or the banking sector. This is
+not surprising because the financial sector of Ghana has
+witnessed a significant expansion over the period as compared
+to other sectors (Ackah & Asiamah, 2016). Several
+microfinance, micro credits and savings and loans companies
+have sprung up across the length and breadth of the country.
+This has become a talking point among the populace, and
+researchers try to figure out what the major drivers of this
+expansion are. Recently, the financial sector in Ghana has
+been hit by several crises which resulted in the collapse of
+some indigenous banks and this has become a major concern
+to the industry players as well as the Bank of Ghana and other
+stakeholders.2 This probably may be a reason why most of the
+publications in SMEs have focused more on the financial or
+the banking sector. The manufacturing and construction sectors are the two other sectors that have received some considerable number of publications in SME research on Ghana,
+accounting for 8 (3.46%) and 7 (3.0%) of total publications
+in SMEs respectively, over the period. These are two other
+sectors that are rapidly expanding to meet the demands for
+housing and job creation and therefore may spark some interest among researchers. Agriculture and Tourism sectors have
+also received some little attention in terms of publications on
+SMEs with a total of 5 publications each over the period
+accounting for 2.34% of the total publications. Even though
+these are two major traditional sectors in Ghana, they do not
+attract many investors in SMEs as one will expect.
+Surprisingly, the furniture and craft sector did not receive
+any publication on SMEs in Ghana over the period. This
+may be because most of the people involved in such activities
+do not properly register their businesses, and therefore,
+2
+
+https://www.pwc.com/gh/en/assets/pdf/ghana-banking-survey-2019.pdf
+https://www.ghanaweb.com/GhanaHomePage/business/BoG-kills-16banks-to-strengthen-Ghana-s-banking-sector-712875
+https://www.graphic.com.gh/news/general-news/ghana-news-collapse-ofseven-banks-50-directors-owners-face-court.html
+
+J Glob Entrepr Res
+200
+180
+
+Number of papers
+
+177
+
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+7
+
+1
+
+5
+
+0
+
+8
+
+16
+2
+
+5
+
+4
+
+2
+
+1
+
+2
+
+Fig. 2 Sectors for SME research focus
+
+inhibiting proper record keeping. This makes it difficult for
+data to be obtained to undertake any meaningful research.
+Majority of the publications (76.66%) fall under the
+multisector. The multisector is made up of other sectors that
+do not fall into any specific sector based on the classifications
+of the authors. Figure 2 presents the sectors covered by SME
+research on Ghana.
+
+3.3 Methodological approaches
+Our analysis of the methodological approaches used in SME
+studies on Ghana shows that various methods have been
+employed to explore issues of SMEs in Ghana. We grouped
+these papers into four methodological dimensions, namely conceptual, empirical qualitative and quantitative and mixed
+methods. Out of the 231 reviewed publications, 88 of them
+representing 38.10% used empirical quantitative; 80 (34.63%)
+used empirical mixed-method approach in their study; 33
+(14.29%) used empirical qualitative; 30 (12.99%) employed
+conceptual. We observed that quantitative method (mostly
+through survey instrument to collect primary data) was the most
+widely used in SME publications on Ghana. Because most
+SMEs do not keep proper records of daily activities, secondary
+information is unavailable and, hence, scholars employ survey
+method to gather data for their quantitative analysis. The empirical mixed method is the second most widely used method in
+SME publications on Ghana. The mixed-method is mostly seen
+as the best since it involves the combination of both qualitative
+and quantitative approaches. It is mostly used because it helps
+the authors to get a clearer picture of what is happening in
+
+SMEs for a wholistic analysis to be made. The least used methodologies are conceptual. Again, data constraints may account
+for the relatively lower usage of these two methods. Details of
+these methodological dimensions and their proportions are presented in Table 2 and Table 3.
+The study further examined the specific type(s) of methodology that was employed to analyze each paper. Under the
+conceptual approach, three different methodologies were
+employed, namely, context-bound based review, inductive review based on theory, and thematic review. Out of the 30
+publications of the conceptual approach (representing 11%
+of the total number of SMEs research on Ghana), 10
+(3.67%) were a context-bound based review, 16 (5.87%) were
+inductive review based on theory, and 4 (1.48%) were thematic review. Table 3 presents the details of these specific
+methods adopted to analyze SME research on Ghana and their
+respective proportions.
+In the empirical qualitative, 7 (2.56%) studies employed
+exploratory analysis. Several quantitative or econometric
+models were used in the empirical quantitative type of papers.
+Some of these include regressions, discriminant, factorial, and
+principal component analyses, and many more. However, majority of them used the descriptive, correlation, and the ordinary least square approach. The same observation was made
+for that of empirical mixed approach (see Table 3).
+
+3.4 Nature of author collaboration
+The nature of collaboration that exists among the authors of
+the reviewed papers is summarized in Table 4. We found out
+that regarding the nature of collaboration existing between the
+authors in the reviewed papers, publications authored by two
+people formed the majority. Seventy-eight (78) out of the 231
+publications reviewed representing 33.76% were written by
+two individuals. A collaboration between two is most likely
+to be effective because the two can bring diverse opinions that
+will enrich the content of the paper as well as limit delays that
+may result from too many conflicting opinions when the authors are more than two. Additionally, 63 (27.72%) were
+single-authored; 64 (27.71%) was authored by three people,
+while 18 (7.79%) and 6 (2.60%) were authored by four and
+five authors respectively.
+Table 2
+
+Type of paper
+
+Methodological approaches
+
+Frequency
+
+Percentage
+
+Conceptual
+Empirical qualitative
+Empirical quantitative
+Empirical mixed
+Total
+
+30
+33
+88
+80
+231
+
+12.99
+14.29
+38.10
+34.63
+100
+
+J Glob Entrepr Res
+Table 3 Type of Paper and
+Methods used
+
+Type of Paper
+
+Method
+
+Frequency
+
+Percentage
+
+Conceptual
+
+Context-bound based review
+
+10
+
+3.67
+
+Inductive review based on theory
+
+16
+
+5.87
+
+Thematic review
+Exploratory analysis
+ANOVA
+
+4
+7
+4
+
+1.48
+2.56
+1.47
+
+Chi-square
+
+4
+
+1.47
+
+Correlation analysis
+
+25
+
+9.16
+
+Descriptive analysis
+
+46
+
+16.85
+
+Discriminant analysis
+
+1
+
+0.37
+
+Exploratory analysis
+
+2
+
+0.73
+
+Factorial analysis
+
+6
+
+2.20
+
+Logit model
+
+6
+
+2.20
+
+Normality test
+
+1
+
+0.37
+
+One-way ANOVA
+
+1
+
+0.37
+
+Ordered probit
+
+2
+
+0.73
+
+Probit
+
+5
+
+1.83
+
+Random and fixed-effect model
+
+1
+
+0.37
+
+OLS
+
+21
+
+7.69
+
+Reliability
+
+1
+
+0.37
+
+T-test
+
+1
+
+0.37
+
+Two-way MANOVA
+
+1
+
+0.37
+
+Validity test
+
+2
+
+0.73
+
+Meta-analysis
+
+1
+
+0.37
+
+Principal component analysis
+
+1
+
+0.37
+
+ANOVA
+
+3
+
+1.10
+
+Chi-square
+
+3
+
+1.10
+
+Correlation analysis
+
+17
+
+6.23
+
+Descriptive statistics
+
+43
+
+15.75
+
+Factor analysis
+
+6
+
+2.20
+
+Inferential statistics
+
+1
+
+0.37
+
+Fuzzy methods
+
+1
+
+0.37
+
+KMO test
+
+1
+
+0.37
+
+Logit
+
+4
+
+1.47
+
+Ordered probit
+
+1
+
+0.37
+
+Principal component analysis
+
+2
+
+0.73
+
+Probit model
+
+5
+
+1.83
+
+OLS
+
+14
+
+5.13
+
+T-test
+
+2
+
+0.73
+
+Meta-analysis
+
+1
+273
+
+0.37
+100
+
+Empirical qualitative
+Empirical quantitative
+
+Empirical Mixed
+
+Total
+
+3.5 Author(s’) institution of affiliation
+The analysis of the author(s’) institution shows that the 231
+papers reviewed in this study were authored by 525 authors
+from 182 institutions worldwide. In Ghana, University of
+Ghana had the highest number of authors (13.36%), followed
+by Kumasi Technical University (formerly Kumasi
+
+Polytechnic) (4.3%) and University for Development Studies
+(3.34%). The University of Ghana coming out as the leading
+in terms of this research is not surprising because it is the
+premier University with the first and oldest business school.
+This finding is, however, interesting because one will expect
+to see other public universities such as Kwame Nkrumah
+University of Science and Technology, University of Cape
+
+J Glob Entrepr Res
+Table 4
+
+Authors collaboration
+
+Nature of collaboration
+
+Frequency
+
+Percentage
+
+Single authorship
+Two authorship
+Three authorship
+Four authorship
+Five authorship
+Six authorship
+Eight authorship
+Total
+
+63
+78
+64
+18
+6
+1
+1
+231
+
+27.27
+33.76
+27.71
+7.79
+2.60
+0.433
+0.433
+100
+
+Coast, and University of Education-Winneba dominating the
+list of institutions with more publications on SMEs on Ghana,
+but that did not happen. Two views could explain this result;
+first, although these are equally large public Universities in
+Ghana, they started running business schools not too long ago.
+Second, even though they are all public Universities, their
+capacities in terms of research resources (related to business
+research) are not the same. Some of the private universities in
+Ghana (e.g., Ashesi University College, Christ Apostolic
+University College, and All Nations University College) made
+modest contributions to SME research on Ghana. A critical
+look at the findings here suggests a deficiency in research on
+SMEs by private institutions in Ghana as well as some other
+top public universities across the country. This implies that
+universities (specifically Business Schools) should be
+equipped with the resources needed to promote research in
+these research areas. Information on the list of institutions
+and the number of authors that came from the institution are
+presented in Table 5.
+
+3.6 Level of analysis
+Here, we analyze the level of analysis for SME research on
+Ghana. Following prior studies (e.g., Aguinis & Glavas,
+2012), we classified the level of analysis into three (3), namely, institutional, organizational, and individual variables.
+According to Scott (1995) cited in Aguinis and Glavas
+(2012), the institutional level analysis covers themes and constructs external to the organization. The PESTLE (Political,
+Economic, Social-cultural, Technological, Legal and
+Ecological) model which most researchers (e.g., Song et al.,
+2017; Thompson & Martin, 2006) employ fit as a good framework that explains the constructs for institutional level of analysis. Following the PESTLE model, variables such as the
+external regulations and standards, interest rates, including
+topics shaped by civil society and other external stakeholders
+are all categorized as the institutional level of analysis. The
+PESTLE model presents external variables outside the control
+of organizations that influence their activities. The
+
+organizational level analysis includes themes that focus on
+the organization itself. Among the examples are constructs
+such as top management teams, products, processes, services,
+policies, procedures, and board behavior. Individual level of
+analysis looks at topics such as individuals in the organization
+(e.g., a person, staff, manager, worker) and group behavior in
+organizations (Nicholls-Nixon et al., 2011).
+Out of the 231 articles reviewed, 76 (32.92%) were conducted
+at the institutional level; 153 (66.23%) were also conducted at the
+organizational level and only 2 (0.87%) were conducted at the
+individual level. The study further examined the type of variables
+these studies focused on. Out of the number that was conducted
+at the organizational level, 75.16% of them were on predictor
+level and the remaining 24.84% at the outcome level. In the case
+of the institutional level, 75% of them were on predictor level and
+the remaining 25% on the outcome level. Details of this analysis
+are presented in Table 6.
+
+3.7 Future research directions
+Altogether, while we acknowledge that extant SME literature has
+significantly contributed to our understanding of SMEs and their
+development in Ghana, we observed that significant amount of
+research is still warranted to better shape our understanding on
+the topic from the Ghanaian perspective. In light of the analysis
+above, the following are some underexplored SME research
+areas on Ghana. Internationalization of Ghanaian SMEs (antecedents, actors, processes, and practices) needs future attention.
+The next one concerns innovation in SMEs; it is argued that
+because SMEs by their nature are small and revolve around
+flexibility and quick decision making of the owner-managers,
+innovation thrives among SMEs. Also, the issues of innovation
+are linked to intellectual property rights in SMEs. In the recent
+study by Igwe and Icha-Ituma (2020), the authors contended that
+more research on SMEs in Africa is needed especially in areas,
+namely, gender and SMEs, family-oriented SMEs, ethnic SME
+activities, artisans SME activities, entrepreneurship, and SME
+education in Africa. Igwe and Icha-Ituma (2020) stressed the
+importance of these areas following the dominance of youth
+unemployment and the informal aspects of African economies
+to inform policy and practice. The issue of E-business in SMEs,
+social entrepreneurship, and total quality management in SMEs
+are also called for. New emerging areas in the field such as green
+business in SMEs, scenario planning, big data analytics, and
+artificial intelligence are seen as critical.
+Networks — the interconnectedness of firms to create several opportunities for learning, problem-solving, decisionmaking, and personal interaction (Rainie & Wellman, 2012)
+— have been recognized as an important channel to manage
+SMEs in a resource-constrained business environment as in
+the case of Ghana (Acheampong et al., 2017; Acheampong
+et al., 2018; Acheampong & Hinson, 2019). As SMEs encounter myriad of challenges (as shown in this study), they
+
+J Glob Entrepr Res
+Table 5
+
+Author’s affiliation
+
+Name of Institution
+
+Frequency
+
+Percent
+
+University of Ghana
+University of Electronic Science & Technology of China
+Kumasi Polytechnic
+University for Development Studies
+University of Cape Coast
+Kwame Nkrumah University of Science & Technology
+University of Education
+Valley View University
+Cape Coast Polytechnic
+Takoradi Polytechnic
+Koforidua Polytechnic
+Universiti Teknologi
+Accra Polytechnic
+Sunyani Polytechnic
+University of Bedfordshire
+Loughborough University
+University of Manchester
+
+68
+24
+22
+17
+16
+11
+11
+10
+9
+9
+8
+7
+6
+6
+6
+5
+5
+
+13.36
+4.72
+4.32
+3.34
+3.14
+2.16
+2.16
+1.96
+1.77
+1.77
+1.57
+1.38
+1.18
+1.18
+1.18
+0.98
+0.98
+
+Aalborg University
+Central University College
+Universiti Sains Malaysia
+University of South Africa
+University of Stellenbosch
+University of Warwick
+Wageningen University
+The World Bank
+Atlantic International University
+Cape Peninsula University of Technology
+Covenant University
+Ghana Baptist University College
+Ghana Institute of Management and Public Administration
+Jiangsu University
+London Metropolitan Business School
+Luleå University of Technology,
+Methodist University college Ghana
+Open University of Malaysia
+Pentecost University College
+
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+0.79
+0.79
+0.79
+0.79
+0.79
+0.79
+0.79
+0.79
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+
+Science and Technology Policy Research Institute
+Sichuan Agricultural University
+Technical University of Denmark
+Universiti Utara Malaysia
+University of Botswana
+University of Guelph,
+University of Sheffield
+West Chester University
+Accra Institute of Technology
+Argosy University
+Ashesi University
+Avenida Pedralbes
+Bournemouth University
+
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.59
+0.39
+0.39
+0.39
+0.39
+0.39
+
+J Glob Entrepr Res
+Table 5 (continued)
+Name of Institution
+
+Frequency
+
+Percent
+
+Brock University
+Chemin de Bellerive
+Coventry University
+
+2
+2
+2
+
+0.39
+0.39
+0.39
+
+Copenhagen Business School
+Dominion University College
+Durham University
+ECOWAS Bank for Investment and Development
+Ghana Technology University College
+Grand Valley State University
+Ho Polytechnic
+Indiana University
+International Telecommunication Union
+Istanbul University
+Kingston University
+Makerere University
+NUI Galway, Galway, Ireland
+Naval Postgraduate School
+Otto Beisheim School of Management
+Panjab University
+Pennsylvania State University
+Roosevelt University
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+
+Southern Connecticut State University
+St. Xavier University
+Suffolk University
+University Malaya, Malaysia
+University of Bradford
+University of Cambridge
+University of Ioannina
+University of Murcia
+University of North Carolina
+University of Oxford
+University of Professional Studies
+University of Shanghai for Science & Technology
+University of St. Gallen
+University of York
+Webber International University
+Yale University
+A&M University
+Afrique Research Bureau
+Ajou university
+
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.39
+0.20
+0.20
+0.20
+
+All Nations University College,
+American University of Beirut,
+Apostolic University College
+Auburn University
+Bank of Ghana
+Bayero University
+Berminham city university
+Bialystok University of Technology
+Bolgatanga Polytechnic
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+
+J Glob Entrepr Res
+Table 5 (continued)
+Name of Institution
+
+Frequency
+
+Percent
+
+Brandon University
+Brunel University
+Bunso Cocoa College
+
+1
+1
+1
+
+0.20
+0.20
+0.20
+
+Canakkale Onsekiz Mart University,
+Catholic Relief Services–Ghana
+Catholic University College of Ghana
+Centre for Sustainable Development and Food Security
+Charles Sturt University
+Christian Services University College
+Combert Impression
+Delft University of Technology
+Dompoase Senior High School
+Dr. M.G.R. Educational and Research Institute University
+ESIC Business and Marketing School
+Federal Reserve Systems
+Fidelity Capital Partners Limited
+Fordham University
+Gebze Technical University
+George Washington University
+Ghana National Ambulance Service
+Great Zimbabwe University
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+
+Global Independent Research
+Havard College
+Inter-American Development Bank, World Bank Group
+Indian Institute of Technology
+International Initiative for impact evaluation
+Innovations for Poverty Action-US
+Institute of professional Studies
+Jayee University
+Liverpool John Moores University
+Lovely Professional University
+Lupane State University
+Management Development Institute
+Massachusetts Institute of Technology
+McGill University
+Middlesex University
+Ministry of Trade and Industry, Ghana
+Nagoya University
+New York University
+Nottingham University
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+
+NUISTODOK Consultants
+Osaka University
+Overseas Development Institute
+PGHGSFP, SNV Ghana
+Polytechnic University of Valencia
+Prasetiya Mulya Business School
+Princeton University
+Regenesys Business School
+Regional Co-ordinating Council-Koforidua
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+
+J Glob Entrepr Res
+Table 5 (continued)
+Name of Institution
+
+Frequency
+
+Percent
+
+Research Institute of Industrial Economics
+Resilience BV
+Richmond University
+
+1
+1
+1
+
+0.20
+0.20
+0.20
+
+RMIT University
+Soil Science Centre
+Standard Chartered Bank
+Stanford University
+State University of New York
+Stillman College
+Swansea University
+Tamale Polytechnic
+Texas Christian University
+University of Manchester
+Tomas Bata University
+University ‘Aleksander, Albania
+University College Dublin,
+University of Calabar
+University of Canterbury
+University of Chicago
+University of East London
+University of Energy and Natural Resources
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+
+University of Huddersfield,
+University of Illinois
+University of Lagos
+University of London
+University of Manitobah
+University of North Texas
+University of Portsmouth
+University of Puerto Rico
+University of Saskatchewan
+University of the West of Scotland
+University of the Witwatersrand
+University of Western Australia
+Williams College, USA
+Zhejiang Normal University
+Total
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+509
+
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+0.20
+100
+
+Table 6 Level of analysis
+Level of research
+
+Type of variable
+
+Frequency
+
+Percentage
+
+Individual level
+
+Individual level outcome
+Individual level predictor
+Organizational level outcome
+Organizational predictor
+Institutional level outcome
+Institutional level predictor
+
+0
+2
+38
+115
+19
+57
+231
+
+0
+0.865
+16.45
+49.78
+8.25
+24.67
+100
+
+Organizational level
+Institutional level
+Total
+
+J Glob Entrepr Res
+
+form a network or call for collaborations among themselves to
+address these challenges by sharing resource (Acheampong
+et al., 2017; Acheampong et al., 2018; Acheampong &
+Hinson, 2019). By these connections, SMEs can gain greater
+benefits from both internal and external collaborations as
+these networks will help them to compensate for the scarcity
+of internal resources and competences (Colombo et al., 2012).
+This strand of the literature was not fully covered by this
+present study, and therefore, we call on future studies to devote attention to this important research agenda.
+Concerning the sectoral focus, as can be seen from Fig. 2,
+the results show that the sectors media, transportation, food
+and beverage, hospitality, and small-scale miming have received the least attention, but these are critical sub-sectors of
+the Ghanaian economy given its informal dominance and,
+therefore, need research attention. In terms of themes, we consider these as important research avenues and therefore recommend that future research should be directed to such areas.
+In terms of methodological approaches, the major research
+designs (i.e., survey, qualitative, and mixed methods) are present
+in the studies (see Table 2), but given the informal nature of the
+SME subsector of Ghana, a more emphasis on qualitative studies
+depending on constraints available is recommended. Again, as
+can be seen from Table 3, in terms of analytical methods, extant
+studies seem a bit comprehensive in our view. However, in the
+light current trends, popular qualitative methods such as ethnography, phenomenology, and grounded theories are currently underemployed in the extant SME literature on Ghana. Another
+analytical technique that warrants application is structural equation modeling (SEM). SEM is seen as offering robust parameter
+estimates compared to ordinary least squares regression (OLS)
+and, therefore, drives most high impact quantitative journals.
+Regarding the nature of author collaboration, the results appeared
+interesting in our view because it ranges from single to five authors (see Table 4). It is also interesting to see most foreign
+Universities focus their studies on SMEs in Ghana (see
+Table 5). About the level of analysis, we saw that SME studies
+on Ghana are based on multi-level (i.e., institutional, organizational, and individual) (Table 6) but because most SMEs are
+dominated by the behaviors of the owner-managers, a focus on
+individual (owner-manager) level analysis in SME research will
+warrant future research direction. Finally, even though we relied
+on a comprehensive approach to search and locate the relevant
+papers for our review, it is also possible that some important
+studies (with significant contributions) may have been missed.
+Therefore, we encourage future studies to employ other means (in
+addition to our approach) to locate and retrieve all relevant papers.
+
+publications are based on the finance and or banking sector.
+The furniture and craft sector did not receive any publications
+on SMEs in Ghana over the period under study though they
+play an important role within the informal economy of Ghana.
+The qualitative, quantitative, and mixed methods are the most
+commonly used in studies on SMEs in Ghana. The study
+revealed a collaboration among authors in publications relating to SMEs in Ghana. Majority of the publications were
+authored by one, two, or three persons with two-authored
+papers being the most dominant. Looking at publications by
+institutions, the University of Ghana has the highest; Kumasi
+Technical University and University of Development Studies
+followed in that order. Finally, the study releveled that most of
+the publications were at the institutional and organizational
+levels with a small percentage at the individual level.
+Consequently, proposed research directions for the future are
+suggested under the sub-heading “Future research directions.”
+The paper contributes to SME reviewed works in extant
+reviews on Africa. Even though our present review cannot
+be said to be completely inclusive in terms of the databases
+consulted and the timing horizon employed, our understanding is enhanced regarding adding up to existing reviews on
+SME research on Africa. As a result, our review responds to
+calls by researchers (e.g., Jones et al., 2018; Meagher, 2018;
+Igwe et al., 2019; Igwe & Icha-Ituma, 2020) regarding the
+need for more SMEs and entrepreneurship research to be carried out on Africa. Again, given the context of Ghana, we also
+think that this paper is one of the few, if not the only paper,
+that have synthesized SME work on Ghana, especially given
+the fact that SMEs dominate the economy of Ghana and presently drive most socio-economic policies of the government.
+Following the least contributions of the publications by
+both public and private universities, central government policy must aim to resource universities (Business Schools) in
+Ghana to create a level playing field for faculty members in
+these institutions to be research active as well as
+complementing the efforts of those who are making initiatives. Moreover, the central government must make deliberate
+attempt to award part of its research consultancy assignments
+to the least endowed universities (e.g., most of the private
+ones) to enhance the research capacity of the faculty members.
+Finally, research is one of the core duties of every academic
+and, therefore, the management of private universities in
+Ghana, in particular, must find ways to balance teaching and
+faculty research. In this case, within the Ghanaian universities,
+faculty members from different Business Schools (i.e., both
+public and private) must be encouraged to do much local
+research collaborations thereby enhancing research efforts.
+
+4 Conclusion
+The study provided evidence of the fact that literature on
+SMEs in Ghana is vast and much explored. Most of the
+
+Acknowledgements We would like to thank the anonymous reviewers
+for the list of constructive and developmental feedback they gave us to
+improve the paper.
+
+J Glob Entrepr Res
+Availability of data and materials Not applicable.
+Author contribution OBOD designed the study, and collected and analyzed the data for the study and AAP contributed in the writing and the
+final preparation of the manuscript. Also, all authors have read and approved the final manuscript.
+Funding We thank the Research and Conferences Committee of the
+University of Ghana Business School for supporting the study financially.
+
+Declarations
+Competing interests The authors declare no competing interests.
+
+References
+*Ab Rahman, N. A., & Ramli, A. (2014). Entrepreneurship management,
+competitive advantage and firm performances in the craft industry:
+Concepts and framework. Procedia-Social and Behavioral Sciences,
+145, 129–137.
+*Abban, R., Omta, S. W. F., Aheto, J. B., & Scholten, V. E. (2013).
+Connecting the dots: A multiple case study of the network relationships of small and medium-sized enterprises (SMEs) in the nontraditional agricultural export (NTAE) sector of Ghana. African
+Journal of Economic and Management Studies, 4(1), 74–94.
+*Abbrey, J., Bagah, D. A., & Wulifan, J. K. (2015). The relevance of
+business planning document for small and medium scale enterprises
+in Tamale Metropolis, northern Ghana. Journal of Business
+Administration and Education, 7(1).
+*Abdul-Razak, A., & Adafula, C. J. (2013). Evaluating taxpayers’ attitude and its influence on tax compliance decisions in Tamale,
+Ghana. Journal of Accounting and Taxation, 5(3), 48–57.
+Abereijo, I. O., & Fayomi, A. O. (2005). Innovative approach to SME
+financing in Nigeria: A review of small and medium industries equity investment scheme (SMIEIS). Journal of Social Sciences,
+11(3), 219–227.
+*Aboagye-Otchere, F., & Agbeibor, J. (2012). The International
+Financial Reporting Standard for Small and Medium-sized Entities
+(IFRS for SMES) suitability for small businesses in Ghana. Journal
+of Financial Reporting and Accounting, 10(2), 190–214.
+*Abor, J. (2004). Internationalization and financing options of Ghanaian
+SMEs. Professional Accountant, 4(1), 60–72.
+*Abor, J. (2005). The effect of capital structure on profitability: An empirical analysis of listed firms in Ghana. The Journal of Risk
+Finance, 6(5), 438–445.
+*Abor, J. (2007a). Debt policy and performance of SMEs: Evidence from
+Ghanaian and South African firms. The Journal of Risk Finance,
+8(4), 364–379.
+*Abor, J. (2007b). Industry classification and the capital structure of
+Ghanaian SMEs. Studies in Economics and Finance, 24(3), 207–
+219.
+*Abor, J. (2008). Agency theoretic determinants of debt levels: Evidence
+from Ghana. Review of Accounting and Finance, 7(2), 183–192.
+*Abor, J., & Adjasi, C. K. (2007). Corporate governance and the small
+and medium enterprises sector: Theory and implications. Corporate
+Governance: The international journal of business in society, 7(2),
+111–122.
+*Abor, J., & Biekpe, N. (2006a). How are SMEs financed? Evidence
+from the Ghanaian nontraditional export sector. Environment and
+Planning C: Government and Policy, 24(1), 71–81.
+*Abor, J., & Biekpe, N. (2006b). Small business financing initiatives in
+Ghana. Problems and Perspectives in Management, 4(3), 69–77.
+
+*Abor, J., & Biekpe, N. (2007). Small business reliance on bank financing in Ghana. Emerging Markets Finance and Trade, 43(4), 93–102.
+*Abor, J., & Quartey, P. (2010). Issues in SME development in Ghana
+and South Africa. International Research Journal of Finance and
+Economics, 39(6), 215–228.
+*Abor, J. Y., Agbloyor, E. K., & Kuipo, R. (2014). Bank finance and
+export activities of small and medium enterprises. Review of
+Development Finance, 4(2), 97–103.
+Abotsi, A. K., Dake, G., & Agyepong, R. (2014). Factors influencing risk
+management decision of small and medium scale enterprises in
+Ghana. Contemporary economics, 8(4), 397–414.
+*Abrokwah, E., Quaye, I., Omondi, C., Osei, J. Y., & Sarbah, A. (2015).
+The use of information technology (IT) among small and medium
+enterprises (SMEs) in financial reporting: Evidence from Ghana.
+British Journal of Economics, Management & Trade, 8(4), 258–269.
+Acheampong, G., & Hinson, R. E. (2019). Benefitting from alter resources: Network diffusion and SME survival. Journal of Small
+Business and Entrepreneurship, 31(2), 141–158. https://doi.org/
+10.1080/08276331.2018.1462620.
+Acheampong, G., Narteh, B., & Rand, J. (2017). Network ties and survival: A study of small commercial poultry farms in Ghana. The
+International Journal of Entrepreneurship and Innovation, 18(1),
+14–24.
+*Acheampong, G., Odoom, R., Anning-Dorson, T., & Anim, P. A.
+(2018). Resource access mechanisms in networks and SME survival
+in Ghana. Journal of Enterprising Communities: People and Places
+in the Global Economy, 12(5), 611–631.
+*Ackah, I. (2015). Investing in the cheapest form of energy: Efficiency
+practices of SMEs in rural Ghana.
+Ackah, C., & Asiamah, J. P. (2016). Financial regulation in Ghana:
+Balancing inclusive growth with financial stability. In Achieving
+financial stability and growth in Africa (pp. 123-137). Routledge.
+*Ackah, D., Kondegri, M. P., & Agboyi, M. R. (2014). The role and
+impact of rural banking on SME’S (small medium enterprise) in
+Ghana. Global Journal of Management Studies and Researches,
+1(5), 311–323.
+*Acquaah, M., & Agyapong, A. (2015). The relationship between competitive strategy and firm performance in micro and small businesses
+in Ghana: The moderating role of managerial and marketing capabilities. Africa Journal of Management, 1(2), 172–193.
+*Addae, A. A., Nyarko-Baasi, M., & Hughes, D. (2013). The effects of
+capital structure on profitability of listed firms in Ghana. European
+Journal of Business and Management, 5(31), 215–229.
+*Adjimah, P. H., & Perry, A. L. (2013). Effectiveness of entrepreneurship
+development programs in Ghanaian polytechnics. International
+Review of Management and Marketing, 4(1), 78–89.
+*Adom, P. K., Amakye, K., Doh, E., & Anku, R. (2013). SMEs record
+keeping in Ghana: Has VAT made it better? International Journal of
+Economics and Financial Issues, 4(1), 152–169.
+*Adomako, S., Danso, A., & Ampadu, E. (2015). Institutional outlook of
+the entrepreneurial climate in Ghana. International Journal of Social
+Economics, 42(6), 566–582.
+*Adomako, S., Danso, A., & Ofori Damoah, J. (2016). The moderating
+influence of financial literacy on the relationship between access to
+finance and firm growth in Ghana. Venture Capital, 18(1), 43–61.
+*Aduku, J. M. (2013). Factors affecting loan repayment among fisher
+folks in Ghana. International Journal of Academic Research in
+Business and Social Sciences, 4(6), 2222–6917.
+*Afrane, S. (2002). Impact assessment of microfinance interventions in
+Ghana and South Africa: A synthesis of major impacts and lessons.
+Journal of microfinance/ESR Review, 4(1), 4.
+*Afutu-Kotey, R. L., Gough, K. V., & Owusu, G. (2017). Young entrepreneurs in the mobile telephony sector in Ghana: From necessities
+to aspirations. Journal of African Business, 18(4), 476–491.
+Agbe, K. K. (2015). The contribution of enterprise establishment factors
+to the growth of pineapple industry in the Nsawam-Adoagyiri
+
+J Glob Entrepr Res
+District in the eastern region of Ghana (Doctoral dissertation,
+University of Ghana).
+Aguinis, H., & Glavas, A. (2012). What we know and don’t know about
+corporate social responsibility: A review and research agenda.
+Journal of Management, 38(4), 932–968.
+*Agyei-Mensah, B. K. (2011). Corporate financial reporting: Firm characteristics and the use of the internet as a medium of communication
+by listed firms in Ghana.
+*Ahiabor, G. (2013). The impact of microfinance on the development of
+small-scale enterprises in the Ledzorkuku-Krowor Municipality in
+the Greater Accra region of Ghana. European Journal of Business
+and Management, 5(7), 165–172.
+Ahinful, G. (2012). An exploration of the problems facing SMEs in
+securing bank financing in Kumasi, Ghana. International Journal
+of Business and Management Cases, 1(5).
+*Al-hassan, S. (2015). The determinants of firm growth in northern
+Ghana. UDS International Journal of Development, 2(1), 103–115.
+*Alhassan, E. A., Hoedoafia, M. A., & Braimah, I. (2016). The effects of
+microcredit on profitability and the challenges on women owned
+SMEs: Evidence from northern Ghana. Journal of
+Entrepreneurship and Business Innovation, 3(1), 29–47.
+*Ameyaw, B., Korang, J., Twum, E., & Asante, I. (2016). Tax policy,
+SMES compliance, perception and growth relationship in Ghana:
+An empirical analysis. British Journal of Economics, Management
+& Trade, 11(2), 1–11.
+*Amidu, M., Effah, J., & Abor, J. (2011). E-accounting practices among
+small and medium enterprises in Ghana. Journal of Management
+Policy and Practice, 12(4), 146–155.
+*Amoah, S. K., & Amoah, A. K. (2018a). The role of small and medium
+enterprises (SMEs) to employment in Ghana. International Journal
+of Business and Economics Research, 7(5), 151.
+Amoah, S. K., & Amoah, A. K. (2018b). The role of small and medium
+enterprises (SMEs) to employment in Ghana. International Journal
+of Business and Economics Research, 7(5), 151–157. https://doi.
+org/10.11648/j.ijber.20180705.14.
+*Amoah, M., & Fordjour, F. (2012). New product development activities
+among small and medium-scale furniture enterprises in Ghana: A
+discriminant analysis. American International Journal of
+Contemporary Research, 2(12), 41–53.
+*Amoako, G. K. (2013). Accounting practices of SMEs: A case study of
+Kumasi Metropolis in Ghana. International Journal of Business and
+Management, 8(24), 73.
+*Amoako, I. O., & Matlay, H. (2015). Norms and trust-shaping relationships among food-exporting SMEs in Ghana. The International
+Journal of Entrepreneurship and Innovation, 16(2), 123–134.
+*Amoako, K. O., Marfo, E. O., Gyabaah, E. N., & Gyamfi, O. (2014).
+Accounting records keeping practices of SMEs in Ghana: Evidence
+from Sunyani Municipality. British Journal of Economics, Finance
+and Management Sciences, 9(1), 120–132.
+*Anane, G. K., Cobbinah, P. B., & Manu, J. K. (2013). Sustainability of
+small and medium scale enterprises in rural Ghana: The role of
+microfinance institutions. Asian Economic and Financial Review,
+3(8), 1003.
+*Appiah, K., Selassie, H., & Burnley, R. (2015). Determinants of SME
+international competitiveness: A case of Ghanaian horticultural exporters. The Business & Management Review, 6(3), 191.
+Aris, N. M. (2007). SMEs: Building blocks for economic growth.
+Malaysia: Department of National Statistics.
+Ariyo, A., Lee, J., & McCalman, D. (2015). Entrepreneurship in India.
+The challenges ahead. Journal of International Business
+Disciplines, 10(1), 1–17.
+*Arthur, P., & Arthur, E. (2014). Local content and private sector participation in Ghana's oil industry: An economic and strategic imperative. Africa Today, 61(2), 57–77.
+*Arthur, I. K., & Damoah, O. B. O. (2015). Exploring the resource and
+capabilities of food related enterprises in rural Denmark:
+
+Implications for rural enterprises in Ghana. Ghana Journal of
+Geography, 7(2), 58–78.
+Aryeetey, E. (2001). Priority research issues relating to regulation and
+competition in Ghana, Centre on Regulation and Competition
+Working Paper Series, University of Manchester, Manchester. No.
+1649-2016-135966.
+*Aryeetey, E., & Ahene, A. A. (2005a). Changing regulatory environment for small-medium size enterprises and their performance in
+Ghana. Manchester: Centre on Regulation and Competition
+(Working Paper Series) Aimée Hampel-Milagrosa.
+Aryeetey, E., & Ahene, A. A. (2005b). Changing regulatory environment
+for small-medium size enterprises and their performance in Ghana.
+Centre on regulation and competition working paper series, paper
+no.103.
+Asare, A. (2014a). Challenges affecting SME’s growth in Ghana. OIDA
+International Journal of Sustainable Development, 7(06), 23–28.
+*Asare, A. O. (2014b). Innovative ways of gaining access to funds for
+SMEs setups in Ghana. European Journal of Business and
+Management, 6(29), 86–89.
+*Asare, A. O., & Fei, S. Y. (2015). Barriers of ICT innovation towards
+sustainable growth of SMEs: A case study of Ghana. International
+Journal of Innovative Research and Development, 4(11).
+*Asare, S. D., Gopolang, B., & Mogotlhwane, O. (2012). Challenges
+facing SMEs in the adoption of ICT in B2B and B2C E-commerce:
+A comparative case study of Botswana and Ghana. International
+Journal of Commerce and Management, 22(4), 272–285.
+*Asomaning, R., & Abdulai, A. (2015). An empirical evidence of the
+market orientation–market performance relationship in Ghanaian
+small businesses. Educational Research International, 4(2), 69–86.
+*Attom, B. E. (2013). Cash management practices by micro and smallscale enterprises at Kasoa in the central region of Ghana. Asian
+Journal of Business and Management Sciences 3(2), 01–12.
+Audretsch, D. B., Van der Horst, R., Kwaak, T., & Thurik, R. (2009).
+First section of the annual report on EU small and medium-sized
+enterprises. EIM. Project.
+*Ayakwah, A., & Mohammed, J. (2014). Fuel price adjustments and
+growth of SMEs in the New Juaben Municipality, Ghana.
+International Journal of Small Business and Entrepreneurship
+Research, 2(3), 13–23.
+*Ayogyam, A., Ansah, A. W., Asaah, J. A., & Abubakari, Z. (2012).
+Resourcing small and medium enterprises: Owners willingness to
+seek funding from banks in Ghana. European Journal of Business
+and Management, 4(10), 11–19.
+Ayyagari, M., Demirguc-Kunt, A., & Maksimovic, V. (2011). Small vs.
+young firms across the world: contribution to employment, job creation, and growth. The World Bank.
+*Azumah, G., Koh, S. C. L., & Maguire, S. (2005). E-organization and its
+future implication for SMEs. Production planning & control, 16(6),
+555–562.
+*Baidoo, F., & Odum-Awuakye, G. A. (2015). Influence of service quality delivery in the SMEs of the motor vehicle repair service industry
+in Ghana. African Journal of Applied Research (AJAR), 1(1), 440–
+452.
+Bar-Ness, Y., & Acolatse, K. (2012). U.S. Patent and Trademark Office.
+Washington, DC: U.S. Patent No. 8,130,846.
+Beck, T., Demirguc-Kunt, A., & Levine, R. (2005). SMEs, growth, and
+poverty: Cross-country evidence. Journal of Economic Growth,
+10(3), 199–229.
+*Becx, G. A., Mol, G., Eenhoorn, J. W., Van der Kamp, J., & Van Vliet,
+J. (2012). Perceptions on reducing constraints for smallholder entrepreneurship in Africa: The case of soil fertility in northern Ghana.
+Current Opinion in Environmental Sustainability, 4(5), 489–496.
+Belás, J., Khan, K. A., Maroušek, J., & Rozsa, Z. (2020). Perceptions of
+the importance of business ethics in SMEs: A comparative study of
+Czech and Slovak entrepreneurs. Ethics & Bioethics, 10(1–2), 96–
+106.
+
+J Glob Entrepr Res
+Biekpe, N. (2004). Financing small businesses in Sub-Saharan Africa:
+Review of some key credit lending models and impact of venture
+capital provision. Journal of African business, 5(1), 29–44.
+*Blankson, C., Motwani, J. G., & Levenburg, N. M. (2006).
+Understanding the patterns of market orientation among small businesses. Marketing Intelligence & Planning, 24(6), 572–590.
+*Boadu, F., Dwomoh, G., Appiah, S., & Dwomo-Fokuo, E. (2014).
+Venture capital financing: An opportunity for small and medium
+scale enterprises in Ghana. Journal of Entrepreneurship and
+Business Innovation, 1(1), 1–15.
+*Boateng, A., & Abdulrahman, M. D. (2013). Micro small-sized enterprises and bank credit: Evidence from West Africa. Journal of
+emerging market finance, 12(2), 129–150.
+*Boateng, I. A., & Agyei, A. (2013). Microfinance in Ghana:
+Development, success factors and challenges. International Journal
+of Academic Research in Accounting, Finance and Management
+Sciences, 3(4), 153–160.
+*Bondinuba, F. K. (2012). Exploring the challenges and barriers in
+accessing financial facilities by small and medium construction
+firms in Ghana. Civil and Environmental Research, 2(6), 25–35.
+Boohene, R., Sheridan, A., & Kotey, B. (2008). Gender, personal values,
+strategies and small business performance: A Ghanaian case study.
+Equal Opportunities International, 27(3), 237–257.
+*Brafu-Insaidoo, W. G. (2011). Understanding the marketing strategies
+of microfinance institutions within the Accra metropolis of Ghana:
+Case of selected institutions. African Journal of Marketing
+Management, 3(2), 45–55.
+*Bruton, G. D., Ketchen Jr, D. J., & Ireland, R. D. (2013).
+Entrepreneurship as a solution to poverty. Journal of Business
+Venturing, 28(6), 683–689.
+Carrer, M., & Klomp, L. (1996). Small business and job creation: A
+comment. Small Business Economics, 8(4), 17–322.
+*Carsamer, E. (2012). Promoting entrepreneurial development among
+SMEs through financial management in Ghana. International
+Journal of Economic Perspectives, 6(2), 188.
+Carter, S., & Jones-Evans, D. (2006). Enterprise and small business.
+Harlow: FT Prentice-Hall.
+Charles, R. O. K., Amankwaa, T., & Owusu, P. (2015). A qualitative
+approach to examining the challenges of Ghanaian small and medium scale enterprises (SMEs): The case of New Juaben Municipality.
+International Review of Social Sciences and Humanities, 8(2), 9–19.
+*Chea, A. C. (2009). Factors that influence the survival of women-owned
+small business start-ups in the city of Tema, Ghana. International
+Business Research, 1(3), 130.
+*Chu, H. M., Benzing, C., & McGee, C. (2007). Ghanaian and Kenyan
+entrepreneurs: A comparative analysis of their motivations, success
+characteristics and problems. Journal of Developmental
+Entrepreneurship, 12(03), 295–322.
+*Claessens, S., Glaessner, T., & Klingebiel, D. (2002). E-finance in
+emerging markets: Is leapfrogging possible? Financial Markets,
+Institutions & Instruments, 11, 1–125.
+Colombo, M. G., Laursen, K., Magnusson, M., & Rossi‐Lamastra, C.
+(2012). Introduction: Small business and networked innovation:
+Organizational and managerial challenges. Journal of Small
+Business Management, 50(2), 181–190.
+*Cubillo-Pinilla, J.M. (2008). Small business performance in MNC suppliers’ networks. Journal of Small Business and Enterprise
+Development, 15(3), 571–583.
+*Dadzie, J. (2013). Perspectives of consultants on health and safety provisions in the labour act: A study into theory and practical.
+Engineering Management Research, 2(1), 34.
+*Dauda, S., & Nyarko, S. H. (2014). Chasing credit: The bane of small
+and medium scale enterprises in Assin North Municipality, Ghana.
+International Journal of Entrepreneurship and Small Business,
+22(2), 218–230.
+
+*De Berry-Spence, B., & Elliot, E. A. (2012). African micro entrepreneurship: The reality of everyday challenges. Journal of Business
+Research, 65(12), 1665–1673.
+*Debrah, Y. A., & Mmieh, F. (2009). Employment relations in small-and
+medium-sized enterprises: Insights from Ghana. The International
+Journal of Human Resource Management, 20(7), 1554–1575.
+Demirgüç-Kunt, A. and Klapper, L.F. (2012). Financial inclusion in
+Africa: An overview. World Bank Policy Research Working Paper
+No. 6088.
+*Derbile, E. K. (2009). Spatial organization of small-scale industries in
+the Kassena-Nankana District of Ghana. Ghana Journal of
+Development Studies, 6(1).
+*Domeher, D. (2012). Land rights and SME credit: Evidence from
+Ghana. International Journal of Development Issues, 11(2), 129–
+143.
+*Dutz, M. A., & Vagliasindi, M. (2000). Competition policy implementation in transition economies: An empirical assessment. European
+Economic Review, 44(4–6), 762–772.
+*Dzisi, S. (2008). Entrepreneurial activities of indigenous African women: A case of Ghana. Journal of Enterprising Communities: People
+and Places in the Global Economy, 2(3), 254–264.
+*Dzisi, S., & Ofosu, D. (2014). Marketing strategies and the performance
+of SMEs in Ghana. Marketing, 6(5), 102–111.
+*Dzisi, S., John-Engelbert, S., & Ofosu, D. (2014). Globalization and
+SMEs in Ghana: Effects, challenges and the way forward. Journal
+of Business and Enterprise Development, 4(1).
+*Effah, B., Boampong, E., Asibey, O., Pongo, N. A., & Nkrumah, A.
+(2014). Small and medium bamboo and rattan enterprises in economic empowerment in Kumasi: Perspectives of producers. Journal
+of Social Economics, 1(1), 11–21.
+*Elliot, E. A., Cherian, J., & Elaydi, R. (2014). Microcredit and metaphors in subsistence markets. Journal of Micromarketing, 34(2),
+133–144.
+*Essel, S. A. (2015). Maximizing the benefits of technology in emerging
+economies: The prospects and challenges of technology transfer to
+local firms in Ghana. Journal of Advances in Science and
+Technology Research (JASTER), 2(1).
+Feeney, L. S., & Riding, A. L. (1997). Finance and the vicious circle of
+growth and control. Business Owners’ Fundamental Tradeoff:
+Canada Business.
+*Fening, F. A., Pesakovic, G., & Amaria, P. (2008). Relationship between quality management practices and the performance of small
+and medium size enterprises (SMEs) in Ghana. International Journal
+of Quality & Reliability Management.
+*Fening, F. A., Amaria, P., & Frempong, E. O. (2013). Linkages between
+total quality management and organizational survival in manufacturing companies in Ghana. International Journal of Business and
+Social Science, 4(10).
+Fida BA (2008). The role of small and medium enterprises (SMEs) in
+economic development. Enterprise Development, Free Online
+Library, December.
+Forkuoh, S. K., & Li, Y. (2015). Electricity power insecurity and SMEs
+growth: A case study of the cold store operators in the Asafo market
+area of the Kumasi metro in Ghana. Open Journal of Business and
+Management, 3(03), 312.
+*Forkuoh, S. K., Li, Y., Ampadu, M. B., & Osei, M. A. (2016).
+Institutional support in managerial capacity building and SMEs
+growth. Open Journal of Business and Management, 4(02), 188.
+*Gbadago, F. Y., & Awunyo-Vitor, D. (2015). Determinants of gift tax
+compliance among employees of the formal sector in Kumasi
+Metropolis. Ghana. Journal of Accounting and Taxation, 7(2), 29–
+37.
+*Gjini, K. (2014). Small and medium sized enterprises; growth factors.
+European Scientific Journal, ESJ, 10(7).
+
+J Glob Entrepr Res
+*Gollin, D. (2008). Nobody's business but my own: Self-employment
+and small enterprise in economic development. Journal of
+Monetary Economics, 55(2), 219–233.
+*Graham, K. N., Dissou Arthur, Y., & Peprah Mensah, D. (2014).
+Managerial role in ensuring successful total quality management
+programme in Ghanaian printing firms. The TQM Journal, 26(5),
+398–410.
+Greenhalgh, T., & Peacock, R. (2005). Effectiveness and efficiency of
+search methods in systematic reviews of complex evidence: audit of
+primary sources. Bmj, 331(7524), 1064–1065.
+*Gyamfi, G. D. (2012). Assessing the effectiveness of credit risk management techniques of microfinance firms in Accra. Journal of
+Science and Technology (Ghana), 32(1), 96–103.
+*Hagan, L. L., Aryeetey, R., Colecraft, E. K., Marquis, G. S., Nti, A. C.,
+& Danquah, A. O. (2012). Microfinance with education in rural
+Ghana: Men’s perception of household level impact. African
+Journal of Food, Agriculture, Nutrition and Development, 12(1),
+5776–5778.
+Haggblade, S., & Liedholm, C. (1991). Agriculture, rural labor markets,
+and evolution of the rural non-farm economy. Growth and Equity
+through Microenterprise Investments and Institutions (GEMINI)
+project working paper 19.
+*Haselip, J., Desgain, D., & Mackenzie, G. (2014). Financing energy
+SMEs in Ghana and Senegal: Outcomes, barriers and prospects.
+Energy Policy, 65, 369–376.
+Hayton, J. C., George, G., & Zahra, S. A. (2002). National culture and
+entrepreneurship: A review of behavioral research.
+Entrepreneurship Theory and Practice, 26(4), 33–52.
+*Hinson, R. E., & Mahmoud, M. A. (2011). Qualitative insights into
+market orientation in small Ghanaian businesses. International
+Journal of Marketing Studies, 3(1), 35.
+*Huda, A. N. (2012). The development of Islamic financing scheme for
+SMEs in a developing country: The Indonesian case. ProcediaSocial and Behavioral Sciences, 52, 179–186.
+Igwe, P. A., & Icha-Ituma, A. (2020). A review of ten years of African
+entrepreneurship research. In Research Handbook on
+Entrepreneurship in Emerging Economies. Edward Elgar
+Publishing.
+Igwe, P. A., Onjewu, A. E., & Nwibo, S. U. (2018). Entrepreneurship and
+SMEs’ productivity challenges in sub-Saharan Africa. In In African
+Entrepreneurship (pp. 189–221). Palgrave Macmillan.
+Igwe, P. A., Madichie, N. O., & Newbery, R. (2019). Determinants of
+livelihood choices and artisanal entrepreneurship in Nigeria.
+International Journal of Entrepreneurial Behavior & Research,
+25(4), 674–697.
+International Trade Centre. (2016). SME competitiveness in Ghana:
+Alliances for action. ITC.
+*Jabeen, R. Shehu, M. S., Mahmood, R. O. S. L. I., & Kofarmata, B. A.
+(2014). TQM and knowledge management impacts on SME performance. International Postgraduate Journal Business Journal, 6(2),
+23–43.
+Jindrichovska, I. (2013). Financial management in SMEs. European
+Research Studies Journal, 16(4), 79–96.
+Jones, P., Maas, G., Dobson, S., Newbery, R., Agyapong, D., & Matlay,
+H. (2018). Entrepreneurship in Africa, part 1: Entrepreneurial dynamics in Africa. Journal of Small Business and Enterprise
+Development, 25(3), 346–348.
+Karadag, H. (2015). Financial management challenges in small and
+medium-sized enterprises: A strategic management approach.
+Emerging Markets Journal, 5(1), 25–40.
+*Karlan, D., Knight, R., & Udry, C. (2015). Consulting and capital experiments with microenterprise tailors in Ghana. Journal of
+Economic Behavior & Organization, 118, 281–302.
+*Kaur, P., & Sharma, S. K. (2014). Evaluating the relationship and influence of critical success factors of TQM on business performance:
+
+Evidence from SMEs of manufacturing sector. IUP Journal of
+Operations Management, 13(4).
+*Kaya, N. (2015). Corporate entrepreneurship, generic competitive strategies, and firm performance in small and medium-sized enterprises.
+Procedia-Social and Behavioral Sciences, 207, 662–668.
+Kayanula, D., & Quartey, P. (2000). The policy environment for promoting small and medium-sized enterprises in Ghana and Malawi.
+Retrieved from http://www.man.ac.uk/idpm. Accessed Nov 2020.
+*Kelly, T., & Biggs, P. (2007). Mobile phones as the missing link in
+bridging the digital divide in Africa. ATDF Journal, 4(1), 11–13.
+*Kessey, K. D. (2014). Micro credit and promotion of small and medium
+enterprises in informal sector of Ghana: Lessons from experience.
+Asian Economic and Financial Review, 4(6), 768.
+Khalique, M., Isa, A. H. B. M., Shaari, N., Abdul, J., & Ageel, A. (2011).
+Challenges faced by the small and medium enterprises (SMEs) in
+Malaysia: An intellectual capital perspective.
+*Kheni, N. A., Dainty, A. R., & Gibb, A. (2008). Health and safety
+management in developing countries: A study of construction
+SMEs in Ghana. Construction Management and Economics,
+26(11), 1159–1169.
+*Kitching, J., & Blackburn, R. (1998). Intellectual property management
+in the small and medium enterprise (SME). Journal of Small
+Business and Enterprise Development, 5(4), 327–335.
+*Klonowski, D. (2012). Liquidity gaps in financing the SME sector in an
+emerging market: Evidence from Poland. International Journal of
+Emerging Markets, 7(3), 335–355.
+*Kongolo, M. (2010). Job creation versus job shedding and the role of
+SMEs in economic development. African Journal of Business
+Management, 4(11), 2288–2295.
+*Kraus, J. (2002). Capital, power and business associations in the African
+political economy: A tale of two countries, Ghana and Nigeria. The
+Journal of Modern African Studies, 40(3), 395–436.
+*Kuada, J. (2009). Gender, social networks, and entrepreneurship in
+Ghana. Journal of African Business, 10(1), 85–103.
+*Kusi, A., Opata, C. N., & Narh, T. W. J. (2015). Exploring the factors
+that hinder the growth and survival of small businesses in Ghana (a
+case study of small businesses within Kumasi Metropolitan area).
+American Journal of Industrial and Business Management, 5(2),
+705–723.
+*Kwaning, C. O., Nyantakyi, K., & Kyereh, B. (2015). The challenges
+behind SMES’ access to debts financing in the Ghanaian financial
+market. International, Journal of Small Business and
+Entrepreneurship Research, 3(2), 16–30.
+*Kwarteng, F. S., & Li, Y. (2015). Leasing, alternative source of financing for Small & Medium Enterprises (SMES) in Ghana. British
+Journal of Economics, Management & Trade, 9(4), 1–9.
+*Kyereboah-Coleman, A., & Amidu, M. (2008). The link between small
+business governance and performance: The case of the Ghanaian
+SME sector. Journal of African Business, 9(1), 121–143.
+Levitsky, J. (1997). Credit guarantee schemes for SMEs–an international
+review. Small Enterprise Development, 8(2), 4–17.
+*Mabe D. M. K., Mabe F. N., Codjoe F. N. Y. (2013). Constraints facing
+new and existing small and medium-scale enterprises (SMEs) in
+Greater Accra Region of Ghana.
+*Mahmoud, M. A. (2010). Market orientation and business performance
+among SMEs in Ghana. International Business Research, 4(1), 241.
+Mahmoud, M. A. (2011). Market orientation and business performance
+among SMEs in Ghana. International Business Research, 4, 1.
+*Marfo-Yiadom, E., & Agyei, S. K. (2011). Working capital management practices of small-scale enterprises in the central region of
+Ghana. Asian Journal of Business and Management Sciences,
+1(4), 29–47.
+*Masakure, O., Cranfield, J., & Henson, S. (2008). The financial performance of non-farm microenterprises in Ghana. World Development,
+36(12), 2733–2762.
+
+J Glob Entrepr Res
+*Matthews, P. (2007). ICT assimilation and SME expansion. Journal of
+International Development: The Journal of the Development Studies
+Association, 19(6), 817–827.
+*Mayer-Haug, K., Read, S., Brinckmann, J., Dew, N., & Grichnik, D.
+(2013). Entrepreneurial talent and venture performance: A metaanalytic investigation of SMEs. Research Policy, 42(6–7), 1251–
+1273.
+*Mazzarol, T. (2014). Research review: A review of the latest research in
+the field of small business and entrepreneurship: Financial management in SMEs. Small Enterprise Research, 21(1), 2–13.
+*Mbroh, J. K. (2012). Cash management practices of small business
+owners in the Cape Coast Metropolitan Area of Ghana. Asian
+Economic and Financial Review, 2(1), 40.
+Meagher, K. (2018). Cannibalizing the informal economy: Frugal innovation and economic inclusion in Africa. The European Journal of
+Development Research, 30(1), 17–33.
+*Mensah, J. V., Tribe, M., & Weiss, J. (2007). The small-scale
+manufacturing sector in Ghana: A source of dynamism or of subsistence income? Journal of International Development: The Journal of
+the Development Studies Association, 19(2), 253–273.
+Muneer, S., Ahmad, R. A., & Ali, A. (2017). Impact of financial management practices on SMEs profitability with moderating role of
+agency cost. Information Management and Business Review, 9(1),
+23–30.
+Musah, A., & Ibrahim, M. (2014). Record keeping and the bottom line:
+Exploring the relationship between record keeping and business
+performance among small and medium enterprises (SMEs) in the
+Tamale Metropolis of Ghana. Research Journal of Finance and
+Accounting, 5(2), 107–117.
+*Muzenda, A. (2014). A conceptual model of the determinants of performance of tourism sector small and medium enterprises (SMEs).
+International Journal of Business and Management Invention, 3(1),
+30–35.
+*Narteh, B. (2013). SME bank selection and patronage behavior in the
+Ghanaian banking industry. Management Research Review, 36(11),
+1061–1080.
+*Nenzhelele, T. E., & Pellissier, R. (2014). Competitive intelligence implementation challenges of small and medium-sized enterprises.
+Mediterranean Journal of Social Sciences, 5(16), 92.
+Nicholls-Nixon, C. L., Castilla, J. A. D., Garcia, J. S., & Pesquera, M. R.
+(2011). Latin America management research: Review, synthesis,
+and extension. Journal of Management, 37(4), 1178–1227.
+*Nsiah Asare, E., & Prempeh, K. B. (2016). The state of supply chain
+management practices within SMEs in Ghana: A case study of selected agrochemical companies in Kumasi.
+*Ntiamoah, E. B., Opoku, B., Abrokwah, E., Baah-Frimpong, G., &
+Agyei-Sakyi, M. (2014). Assessing the contributions of small and
+medium sized enterprises to Ghana s economic growth.
+International Journal of Economics, Commerce and Management
+UK, 2(11)
+*Ntiamoah, E. B., Li, D., & Kwamega, M. (2016). Impact of government
+and other institutions’ support on performance of small and medium
+enterprises in the agribusiness sector in Ghana. American Journal of
+Industrial and Business Management, 6(05), 558.
+*Ntow-Gyamfi, M., & Boateng, S. (2013). Credit risk and loan default
+among Ghanaian banks: An exploratory study. Management
+Science Letters, 3(3), 753–762.
+*Nyame, G., Boateng, F. O., Gyamfi, N. K., & Asabere, N. Y. (2013).
+ICTs and supply chain: The competitiveness of small and medium
+scale enterprises (SMEs).
+*Obeng, B. A., & Blundel, R. K. (2015). Evaluating enterprise policy
+interventions in Africa: A critical review of Ghanaian small business
+support services. Journal of Small Business Management, 53(2),
+416–435.
+
+*Obeng, B. A., Robson, P., & Haugh, H. (2014). Strategic entrepreneurship and small firm growth in Ghana. International Small Business
+Journal, 32(5), 501–524.
+Ocloo, C. E., Akaba, S., & Worwui-Brown, D. K. (2014). Globalization
+and competitiveness: Challenges of small and medium enterprises
+(SMEs) in Accra, Ghana. International Journal of Business and
+Social Science, 5(4).
+OECD. Publishing, & Organization for Economic Co-operation and
+Development Staff. (2005). OECD SME and entrepreneurship outlook, 2005 Edition. Organization for Economic Co-operation and
+Development.
+*Okello-Obura, C., & Matovu, J. (2011). SMEs and business information
+provision strategies: Analytical perspective.
+Okpara, F. O. (2000). Entrepreneurship (text and cases). Enugu:
+Precision Printers and Publishers.
+Olu, O. J. O. (2009). Impact of microfinance on entrepreneurial development: The case of Nigeria. In the International Conference on
+Economics and Administration, Faculty of Administration and
+business, 536–545.
+*Oppong, M., Owiredu, A., & Churchill, R. Q. (2014). Micro and smallscale enterprises development in Ghana. European Journal of
+Accounting Auditing and Finance Research, 2(6), 84–97.
+*Osei, A., Shao, Y., Forkuoh, K. S., & Osei, M. A. (2016). The impact of
+institutional support in SMEs marketing, and growth—A case study
+of retail SMEs in Ghana. Open Journal of Business and
+Management, 4(03), 408.
+*Osei-Assibey, E., Bokpin, G. A., & Twerefou, D. K. (2012).
+Microenterprise financing preference: Testing POH within the context of Ghana’s rural financial market. Journal of Economic Studies,
+39(1), 84–105.
+*Owusu-Acheampong, E. (2015). Examining the relationship between
+employees/apprentices human capital on their performance in small
+scale businesses in the Sekondi-Takoradi Metropolis. International
+Journal of Small Business and Entrepreneurship Research, 3(1), 1–
+9.
+*Owusu-Dankwa, I., & Adoley, A. N. (2014). The impact of money
+lending institutions on small and medium enterprises: A case study
+of Shalom lending enterprise. Global Journal of Management and
+Business Research.
+*Owusu-Frimpong, N., & Nwankwo, S. (2012). Service quality orientation: An approach to diffusing mindfulness in SMEs. International
+Journal of Quality & Reliability Management, 29(6), 681–698.
+Page, J., & Söderbom, M. (2015). Is small beautiful? Small enterprise, aid
+and employment in Africa. African Development Review, 27(1), 44–
+55.
+Peprah, A. A., & Adekoya, A. F. (2020). Entrepreneurship and economic
+growth in developing Countries: Evidence from Africa. Business
+Strategy & Development. https://doi.org/10.1002/bsd2.104.
+*Peprah, J. A., Mensah, A. O., & Akosah, N. B. (2016). Small and
+medium sized enterprises (SMEs) accessibility to public procurement: SMEs entity perspective in Ghana. European Journal of
+Business and Social Sciences, 4(11), 25–40.
+*Prempeh, K. B. (2015). Problems of financing SMEs in Ghana: A case
+study of the Sunyani municipality. Riset Journal of Business &
+Management, 1(1).
+*Psomas, E. L., & Fotopoulos, C. V. (2010). Total quality management
+practices and results in food companies. International Journal of
+Productivity and Performance Management, 59(7), 668–687.
+*Puplampu, B. B., & Quartey, S. H. (2012). Key issues on occupational
+health and safety practices in Ghana: A review. International Journal
+of Business and Social Science, 3(19).
+Quartey, P. (2003a). Financing small and medium enterprises (SMEs) in
+Ghana. Journal of African Business, 4(1), 37–55.
+*Quartey, P. (2003b). Financing small and medium enterprises (SMEs) in
+Ghana. Journal of African Business, 4(1), 37–55.
+
+J Glob Entrepr Res
+*Quaye, D. M., & Acheampong, G. (2013). Are SME owner-managers
+entrepreneurs? Evidence from Ghana. European Journal of Business
+and Management, 5(23), 37–47.
+*Quaye, I., Abrokwah, E., Sarbah, A., & Osei, J. Y. (2014). Bridging the
+SME financing gap in Ghana: The role of microfinance institutions.
+Open Journal of Business and Management, 2(04), 339.
+Rainie, L., & Wellman, B. (2012). Networked: The new social operating
+system. Cambridge: MIT Press available at: http://groups.chass.
+utoronto.ca/netlab/publications/. Accessed Sept 2019.
+*Robson, P. J., Haugh, H. M., & Obeng, B. A. (2009). Entrepreneurship
+and innovation in Ghana: Enterprising Africa. Small Business
+Economics, 32(3), 331–350.
+*Saffu, K., Obeng Apori, S., Elijah-Mensah, A., & Ahumatah, J. (2008).
+The contribution of human capital and resource-based view to smalland medium-sized tourism venture performance in Ghana.
+International Journal of Emerging Markets, 3(3), 268–284.
+Saleh, A. S., & Ndubisi, N. O. (2006). An evaluation of SME development in Malaysia. International Review of Business Research
+Papers, 2(1), 1–14.
+*Sanda, M. A., Sackey, J., & Fältholm, Y. (2011). Managerial competence and non-performance of small firms in a developing economy.
+International Journal of Contemporary Business Studies, 2(3), 6–24.
+Savlovschi, L. I., & Robu, N. R. (2011). The role of SMEs in modern
+economy. Economia, Seria Management, 14(1), 277–281.
+*Savrul, M., Incekara, A., & Sener, S. (2014). The potential of ecommerce for SMEs in a globalizing business environment.
+Procedia-Social and Behavioral Sciences, 150, 35–45.
+Scott, W. R. (1995). Institutions and Organisations (p. 178). Thousand
+Oaks: Sage Publications.
+*Seddoh, J. E. (2014). The impact of Plan Ghana’s microfinance scheme
+on poverty reduction among women in Lower Manya Krobo.
+Journal of African Studies and Development, 6(8), 132–139.
+*Seidu, A & Bambangi, S. (2006). Microcredit and poverty alleviation:
+An analysis of the performance of women in micro-credit activities
+in Kaseena Nankana. Ghana Journal of Development studies 3(2).
+*Sekyi, S., Nkegbe, P. K., & Kuunibe, N. (2014). Participation in the
+credit market by small scale enterprises in Ghana: Evidence from
+Wa municipality.
+*Selase Asamoah, E. (2014). Customer based brand equity (CBBE) and
+the competitive performance of SMEs in Ghana. Journal of Small
+Business and Enterprise Development, 21(1), 117–131.
+Selvanayaki, S., Sivakumar, S. D., Rohini, A., & Mani, K. (2016).
+Financial management practices and profitability of modern rice
+milling firms in Kangayam Cluster, Tamil Nadu. Agricultural
+Economics Research Review, 29(2), 297–306.
+*Senoo, J. E., & Armah, S. E. (2015). Assessing the effectiveness of
+Ghana’s local content policy in the oil and gas industry. Journal of
+Energy and Economic Development, 1(1), 22.
+*Setsoafia, E. D., Aboah, J., & Gideon, D. A. (2015). Growth and constraint analysis of micro and small-scale Argo enterprises in Accra,
+Ghana. International Journal of Economics, Commerce and
+Management, United Kingdom, 3(3), 9–13.
+Song, J., Sun, Y., & Jin, L. (2017). PESTEL analysis of the development
+of the waste-to-energy incineration industry in China. Renewable
+and Sustainable Energy Reviews, 80, 276–289.
+*Spillan, J. E., Kara, A., King, D. O., & McGinnis, M. A. (2013). Market
+orientation and firm performance: An empirical analysis of
+Ghanaian microenterprises. Journal of Global Marketing, 26(5),
+258–272.
+
+*Tagoe, N., Nyarko, E., & Anuwa-Amarh, E. (2005). Financial challenges facing urban SMEs under financial sector liberalization in
+Ghana. Journal of Small Business Management, 43(3), 331–343.
+Taiwo, J. N., Falohun, T. O., & Agwu, E. (2016). SMEs financing and its
+effects on Nigerian economic growth. European Journal of
+Business, Economics and Accountancy, 4(4).
+*Tetteh, E. K., & Essegbey, G. O. (2014). Firm level innovation: The
+case of Ghanaian firms. European Journal of Business and
+Innovation Research, 2(2), 1–18.
+Thompson, J., & Martin, F. (2006). Strategic management: Awareness
+and change. Thomson Learning.
+*Tornyeva, K., & Wereko, T. (2012). Corporate governance and firm
+performance: Evidence from the insurance sector of Ghana.
+European Journal of Business and Management.
+UNCTAD. (2001). E-commerce and development report 2001 (United
+Nations publication, sales no. E.01.II.D.30).
+Van de Vrande, V., De Jong, J. P., Vanhaverbeke, W., & De Rochemont,
+M. (2009). Open innovation in SMEs: Trends, motives and management challenges. Technovation, 29(6–7), 423–437.
+Van Scheers, M. L. (2011). SMEs’ marketing skills challenges in South
+Africa.
+Vandenberg, P., Chantapacdepong P., & Shino, N. (2016a). Small firms,
+Market Failures and Government Policy, Asian Development Bank
+Institute.
+Vandenberg, P., Yoshino, N., Goto, A., Intarakumnerd, P., &
+Miyamoto60, J. (2016b). Policies to enhance SME internationalization. Integrating SMEs Into Global Value Chains, 117.
+Venkatesh, & Muthiah. (2012). SMEs in India: The importance and contribution. Asian journal of management research, 2(2), 2229–2795.
+World Bank. (2012). World development indicators 2012. World Bank
+(accessed May 2012), http://databank.worldbank.org/data/home.
+aspx.
+World Bank. (2013). Global Financial Development Report 2014:
+Financial Inclusion. Accessed December 20, 2014. http://
+siteresources.worldbank.org/EXTGLOBALFINREPORT/
+Resources/8816096-13618
+*Yanney, J. P. (2014). Business strategy and leadership style: Impact on
+organizational performance in the manufacturing sector in Ghana.
+*Yeboah, M. A. (2014). Analysis of entrepreneurship: How does culture
+influence risk-taking in SMEs in the Sekondi-Takoradi Metropolis,
+Ghana? American International Journal of Contemporary Research,
+4(2), 131–140.
+*Yeboah, M. A. (2015). Determinants of SME growth: An empirical
+perspective of SMEs in the Cape Coast Metropolis, Ghana. The
+journal of business in developing nations, 14.
+*Yeboah-Boateng, E. O. (2013a). Fuzzy similarity measures approach in
+benchmarking taxonomies of threats against SMEs in developing
+economies. Canadian Journal on Computing in Mathematics,
+Natural Sciences, Engineering and Medicine, 4(1), 34–44.
+*Yeboah-Boateng, E. O. (2013b). Of social engineers & corporate espionage agents: How prepared are SMEs in developing economies?
+Journal of Electronics and Communications Engineering Research,
+1(3), 14–22.
+*Yeboah-Boateng, E. O., & Essandoh, K. A. (2014). Factors influencing
+the adoption of cloud computing by small and medium enterprises in
+developing economies. International Journal of Emerging Science
+and Engineering, 2(4), 13–20.
+Zhou, L., Wu, W. P., & Luo, X. (2007). Internationalization and the
+performance of born-global SMEs: The mediating role of social
+networks. Journal of International Business Studies, 38(4), 673–
+690.
+
+

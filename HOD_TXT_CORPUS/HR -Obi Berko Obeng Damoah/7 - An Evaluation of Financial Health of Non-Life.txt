@@ -1,0 +1,1228 @@
+Authors: Simpson, S. N. Y & Damoah, O.B.O.
+University of Ghana Business School, Legon, Accra, Ghana
+E-mails: snysamuel@ug.edu.gh & o.o.damoah@uwic.ac.uk respectively
+
+Title: An Evaluation of Financial Health of Non-Life
+Insurance Companies from Developing Countries:
+The Case of Ghana
+Abstract
+The paper seeks to shed light on the contention regarding ascertaining the financial soundness
+of non-life insurance companies using a developing country as the context. It examines the
+current evaluation tools being used by the Ghanaian regulatory and supervisory body (the
+National Insurance Commission, NIC) on non-life insurance companies in Ghana and
+compares it with the CARAMELS model including other rival theories in determining the
+financial health of insurance companies.
+The motivation of the study is that the unique format of insurance companies’ financials does
+not lend itself to traditional financial accounting analysis. Besides, assessing financial
+soundness in the insurance industry is a complex task since the overall financial position of an
+insurance company depends on many factors, some of which are difficult to quantify. Though,
+recommendations as well as conclusions from past studies concerning the financial health on
+non-life insurance companies are mixed, but results from the study suggest that, the framework
+being used currently by NIC to assess the financial health of non-life insurance companies in
+Ghana is not comprehensive enough to give early warnings to the industry’s stakeholders and
+that the CARAMELS model as proposed by other authors fits the Ghanaian context and helps
+to bring to the fore, the generally accepted insurance core principles in the financial behaviour
+of non-life insurance companies in Ghana.
+Key Words: financial health, non-life insurance and risks
+
+1
+
+Introduction
+
+1
+Electronic
+Electroniccopy
+copyavailable
+availableat:
+at:https://ssrn.com/abstract=1138338
+http://ssrn.com/abstract=1138338
+
+Insurance is an important and growing part of the financial sector in almost all
+developed and some developing economies. The insurance industry primarily provides
+indemnification of risks faced by both individuals and companies, strengthens the
+linkages with other sectors of the economy in promoting growth and stability, and
+creating a sizeable impact on the national income of a country.
+To achieve the above, it is essential to have a resilient and a well-regulated insurance
+industry that provides adequate incentives for efficiency and fairness as well as
+safeguards the interests of the policyholders. Moreover, it is imperative that the
+insurance supervisory systems and practices are continually upgraded to cope with
+developments as well as understand and address financial and systemic stability
+concerns arising from the insurance sector as they emerge. For these reasons the
+National Insurance Commission (NIC), a regulatory and supervisory body was
+established by the Ghanaian government in 1989.
+As an insurance supervisor, NIC’s main aim is to build and maintain public confidence
+in the insurance industry by working to ensure that policyholders are fairly treated in
+accordance with the terms and conditions of an insurance contract as well as guarantee
+that insurance companies operating in the Ghanaian market are financially solvent and
+capable of delivering on their promises to policyholders.
+To reach the above goals, the NIC embarks on a number of supervisory processes
+ranging from quantitative to qualitative assessments of the insurance companies (e.g.
+financial analysis, market analysis report and so on, NIC Supervision Dept., 2007).
+Every time an insurance company is declared insolvent, thousands of policyholders
+suddenly find themselves with some very serious problems. That is why it is so
+important to periodically evaluate and monitor the financial condition of insurance
+companies by regulators, investors, and insurer management.
+Often, the evaluation of insurance companies is mostly based on annual reports
+submitted by insurers and if findings from the financial statements evaluation lead to
+any doubt about the solidity of that company, then the supervisory body can decide to
+request for more information or to visit the company for a more thorough examination
+(on-site inspection).
+An on-site inspection can give a better idea of the solidity of a company than a sole
+analysis of the financial statements (Angerer, 1993). On-site inspections enable the NIC
+to make sure that the documents submitted reflect the actual situation, and to obtain
+additional prospective information about the business practices.
+In this paper, we examine the evaluation framework1 being used by the Ghanaian
+regulatory and supervisory body (NIC) and compare it with the CARAMELS and other
+evaluation frameworks in determining the financial health of non-life insurance
+companies in Ghana.
+
+1
+
+This study focuses on the financial evaluation aspect.
+
+2
+Electronic
+Electroniccopy
+copyavailable
+availableat:
+at:https://ssrn.com/abstract=1138338
+http://ssrn.com/abstract=1138338
+
+This will in no doubt contribute to current literature and enhance the discussion on the
+evaluation (supervisory) processes of insurance companies to ensure the existence of a
+sound insurance market, a necessity for any successful economy.
+The remainder of this paper is organized as follows: the next section discusses the
+conceptual issues on the evaluation processes; section three (3) the data collection and
+analysis; and finally, section four (4) the findings and recommendations.
+2
+Conceptual Background
+Generally, insurance is considered a system under which the insurer (insurance
+company), for a consideration (premium) usually agreed upon in advance, promises to
+reimburse the insured (client) or to render services to the insured (client) in the event
+that certain accidental occurrences result in losses during a given period (Columbia
+Encyclopaedia, 2004,). It provides indemnification against loss or liability from specified
+events and circumstances that may occur or be discovered during a specified period.
+The nature of insurance activity, i.e. covering risks for the economy, financial and
+corporate undertakings and households - has both differences and similarities when
+compared to the other financial sectors. Insurance, unlike most financial products, is
+characterized by the reversal of the production cycle insofar as premiums are collected
+when the contract is entered into and claims and costs arise only if a specified event
+occurs. Insurers intermediate risks directly. They manage these risks through
+diversification and the law of large numbers enhanced by a range of other techniques.
+These and other activities of insurers, i.e. Rate Making, Underwriting, Production, Claim
+Settlement, Reinsurance, and Investments, aided by intermediaries (brokers and agents)
+make the evaluation of an insurance company complex (Rejda, 1992).
+For the above reason, the evaluation of insurers generally involves only statistical
+information or a mixture of quantitative and qualitative information (e.g. Swiss Re,
+Sigma No.4/2003 Das, et al 2003, Chen and Wong, 2004).
+In developed countries, insurance company ratings agencies evaluate the financial
+soundness and creditworthiness of insurers using a variety of both quantitative and
+qualitative information, with different degree of emphasis.
+2.1
+The Evaluation of insurers by Rating Agencies
+Insurance company ratings (evaluation) are vital to many insurance industry
+constituencies because it provides guidance to many of the different constituencies
+including regulators, agents and brokers, investors, insurance consumers, and the
+insurer being rated.
+Generally, insurers receive two principal types of ratings: financial strength ratings
+(FSRs) and Debt ratings. The FSRs measures an insurer’s ability to meet its ongoing
+policyholder obligations punctually, whilst a debt rating assesses the creditworthiness of
+an insurer with respect to a specific debt issue (Swiss Re, Sigma No.4/2003)2.
+2
+
+This study focuses on the financial strength rating (evaluation).
+
+3
+Electronic
+Electroniccopy
+copyavailable
+availableat:
+at:https://ssrn.com/abstract=1138338
+http://ssrn.com/abstract=1138338
+
+Of the estimated 140 rating firms in the world, the basic methodology for the FSRs is
+the use of the both quantitative and qualitative information. However, the
+methodologies accepted globally is that of only five (5) rating agencies due to the fact
+that they have widespread credibility and employ more than 100 analysts: A.M Best,
+Fitch (formerly Duff & Phelps), Standard & Poors (S&P), Moody's investment services
+3
+and Weiss Ratings Inc .
+Over nearly a century of experience, each firm has a well-defined methodology for
+rating life and non-life insurers. They take qualitative and quantitative information into
+account, use proprietary and public information, employ a capital adequacy model,
+assign ratings through a committee process and make comparisons among peer groups
+of insurers.
+Moreover, the areas considered vary, i.e. leverage, management stability, recent
+performance and financial situation. External factors such as competition, diversification
+and market presence are also considered.
+The S&P methodology4
+S&P looks at about seven broad areas when evaluating an insurer: Business review (i.e.
+industry risk and business position); Management and corporate strategy; Operating
+performance; Investment; Capital adequacy; Liquidity; and Financial flexibility.
+a)
+
+Business review involves an examination of the industry risk and business
+position. Whilst industry risk refers to the environment in which an insurer
+operates, the business position relates to an insurer’s revenue-generating capacity
+and competitive strengths. It examines competitive strengths and weaknesses,
+legal and functional structures, business mix and diversification, life and non-life,
+segmentation, premium growth rates, total market share of the company, and the
+quality and spread of distribution channels
+
+b)
+
+Management and corporate strategy is considered critical by S&P despite the fact
+that it is one of the most subjective areas. They include financial strategy and risk
+management, strategic positioning of the insurer, and operational control and
+skills. It is concerned with how effectively an insurer sets and meets goals.
+
+c)
+
+Operating performance relates to how well an insurer translates its fundamental
+advantages into sustainable profit margins. This is examined in two main areas i.e.
+analysis of underwriting performance and overall performance including
+investment, other income and expenses
+
+d)
+
+Investment analysis done by S&P is to determine how the investment strategy fits
+with the company's liability profile and the input of investment return on total
+company earnings. This analysis provides an insight into how successful an
+insurer is at generating investment returns and how sustainable these returns are.
+
+3Sources: www.info.insure.com, Swiss Re, Sigma No.4/2003, www.thebenefitnetwork.com/insurerratings)
+4
+www.standardandpoors.com, Swiss Re, Sigma No.4/2003
+
+4
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+e)
+
+f)
+
+g)
+
+Capital adequacy (capitalization) analysis is categorized into two broad areas: the
+level of capital needed to support the insurance business at a given rating level;
+and the structure and quality of capital.
+Indeed the analysis is performed on a risk-based capital model which analyses
+these features and develops a capital adequacy ratio.
+Liquidity analysis concentrates on three core areas: underwriting cash flows; total
+operating cash flows; and investment portfolio liquidity. For non-life insurers, S&P
+considers: underwriting cash flows relative to cash outflows (paid losses, paid loss
+expenses, and underwriting expenses); cash flows from investments; the level of
+cash and short-term investments; liquidity needs under potential catastrophe
+scenarios; and out-side sources of liquidity such as bank lines of credit and
+established commercial paper programs.
+Financial flexibility reflects a comparison between potential needs and available
+sources of liquidity. The analysis in this area is largely qualitative but S&P consider
+the potential need for liquidity or additional capital in the future, assessing
+whether future funding needs can be met or otherwise.
+5
+
+A. M Best Methodology
+This methodology is very similar between life and non-life business. The evaluations
+are based on a comprehensive qualitative and quantitative analysis of a company’s
+balance sheet strength, operating performance, and business profile.
+a) Balance sheet strength is the most important area to evaluate in determining a
+company’s ability to meet its current and ongoing obligations this includes
+examination of capitalization, leverage (underwriting, financial and asset), and
+liquidity.
+For the capitalization, A.M Best uses the Best’s Capital Adequacy Ratio (BCAR)
+which compares a company’s available capital to the net required capital needed
+to support the financial risks to which it is exposed.
+A.M Best derives the underwriting leverage from four sources: current premiums
+written, annuity deposits, reinsurance, and loss or policy reserves, and the
+financial leverage through debt or debt-like instruments (including financial
+reinsurance) can strain cash flow and, like underwriting leverage, can create
+financial instability. Besides, the asset leverage reflects the exposure of surplus to
+investment, interest rate, and credit risk. The tests applied are different for life and
+non-life insurers but they aim to give an insight into the strength of the balance
+sheet and the risks inherent in the company's capital position. Besides, the
+analysis includes consideration of the reinsurance arrangements including the
+extent to which risk is transferred, the security of the reinsurance and the state of
+the reinsurance market in general.
+Finally, liquidity of the insurer is assessed by reviewing the impact of asset and
+liability cash flows on both normal and stressed scenarios. For life insurers, this
+
+5
+
+www.ambest.com/ratings/guide, Swiss Re, Sigma No.4/2003
+
+5
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+b)
+
+c)
+
+analysis is more detailed than for non-life insurers due to the policyholder options
+sometimes included in life insurance policies.
+Operating performance focuses on the stability and sustainability of earnings
+relative to the liabilities a firm retains. Indeed, this methodology reviews the last
+five years of financial performance to assess profitability. Essentially, the analysis
+is done by looking at key areas like underwriting, investments, capital gains/losses
+and total operating earnings (before and after tax).
+A.M Best Key Profitability tests for Non-life companies are: Loss Ratio; Expense
+Ratio; Combined Ratio after Policyholder Dividends; Operating Ratio; Pretax
+Return on Revenue; Yield on Invested Assets; Change in Policyholders’ Surplus;
+6
+and Return on Policyholders’ Surplus .
+Market (Business) Profile is considered the most important by A M Best for
+insurers writing long-term business. It reflects the riskiness of a company’s mix of
+business, its competitive market position, and the depth and experience of its
+management. These factors drive current and future operating performance and
+can therefore affect long-term financial strength and the ability to meet
+policyholder obligations. The key issues are revenue composition (including
+revenue from premiums and investment income), management experience and
+objectives, competitive position, spread of risk, and event risk.
+
+Moody's Methodology7
+Moody’s insurance financial strength ratings are opinions about the ability of insurers to
+punctually pay senior policyholder claims and obligations and the assessments are
+forward-looking and done on an ongoing basis. This approach emphasizes qualitative
+analysis since current financial performance is not always an accurate indicator of future
+performance and strength. The qualitative factors Moody’s considers relate to the
+industry as a whole and to the individual firm in question.
+See below table showing Moody’s “Top Ten Ratios” for non-life insurance companies
+that is often used in the quantitative analysis8.
+Table 1. Moody’s “Top Ten Ratios” for non-life insurers
+Area of analysis
+Capital adequacy
+
+Non-life insurers
+Gross underwriting leverage
+
+Financial and operational leverage
+
+Profitability
+
+Financial leverage
+Pretax interest coverage, Double
+leverage
+Core insurance return on earned
+premium
+Net income return on policyholder’s
+surplus
+
+6
+
+Sources: A.M. Best, “Explanation of Best’s rating system and procedures”, for property and casualty companies
+www.moodys.com, Swiss Re, Sigma No.4/2003
+8
+Sources: Moody’s. Property and Casualty insurance top ten ratios 2004 update, December 2005
+7
+
+6
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Asset-liability management
+and liquidity
+Business fundamentals
+Reserve adequacy
+
+Operating cash flow as % of NPW
+Diversification score, Market presence
+score
+Loss reserve development
+
+In summary the Moody approach can be categorized into issues of Company franchise
+which looks at the firm’s franchise value (i.e. competitive position, including its market
+presence, brand identity and various aspects of its operations), the strategic focus and
+risk appetite (i.e. review of management's attitude towards future strategies and the
+expectations for growth and profitability), management and corporate governance,
+Institutional support/ownership and organizational structure, and distribution and
+brand.
+The final categorization is financial analysis which includes the analysis of Profitability,
+Investment risk and asset quality (i.e. by considering credit risk, interest rate risk and
+foreign exchange risk relative to the insurer's liabilities, including the concentration of
+risk and the marketability of assets), solvency and capitalization9, financial leverage, and
+reinsurance and liabilities, underwriting and reserves.
+For life insurers, Moody's scrutinize the strength of the actuarial assumptions and the
+liability structure of the insurer including any options and the degree to which they are
+consumer confidence or interest-rate sensitive. This evaluates the premium rate
+monitoring and underwriting process.
+Fitch (formerly Duff & Phelps) Methodology10
+A Fitch Ratings Insurer Financial Strength Rating (IFS Rating) provides an opinion as to
+the financial strength of an insurance organization, and its financial capacity to meet
+obligations to policyholders and contract holders on a timely basis. IFS ratings are used
+primarily by individuals and companies that purchase insurance, as well as their agents
+or brokers, to help judge if the insurance carrier is financially sound. The IFS rating is
+an international-scale rating, and incorporates relevant economic and political risks that
+could impair an insurance organization's capacity to meet its obligations.
+The IFS Rating is based on a comprehensive analysis of relevant factors that in large
+part determine an insurance organization's financial strength, including its regulatory
+solvency characteristics, liquidity, operating performance, financial flexibility, balance
+sheet strength, management quality, competitive positioning and long-term business
+viability.
+Weiss Ratings Inc Methodology11
+9
+
+This is one of the critical parts of the analysis and focuses on the free capital that is available to cover
+the obligations.
+10
+www.fitchrating.com (May 2007)
+11
+www.weissrationg.com (May, 2007),The Weiss Approach to Insurance Company Safety Ratings (2003)
+
+7
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Weiss Ratings are based on their analysts' review of publicly available information
+collected by the National Association of Insurance Commissioners (NAIC), and
+supplemented by data collected directly from the companies themselves. Unlike the
+other major rating agencies, Weiss does not accept compensation from the companies it
+rates, and thus does not allow companies to influence the ratings they receive or to
+suppress the release of their ratings.
+The main components of the rating system are summarized in the following indexes:
+a) Capitalization Index: This index answers the basic questions: What risks are the
+company taking and how much of its own capital resources does it have to
+cover any losses?
+b) Reserve Adequacy Index (P&C only): This index determines the adequacy of a
+company’s reserves and how accurately it anticipates the level of claims it will
+receive each year.
+c)
+Profitability Index includes the gain or loss on operations by line of business;
+consistency of operating results; impact of operating results on surplus;
+adequacy of investment income as compared to the needs of policy reserves;
+and industry average expenses, based on number and type of policies written
+and renewed, to actual company expenses.
+d)
+Liquidity Index evaluates a company’s ability to raise the necessary cash to
+settle claims and honor cash withdrawal obligations. Various cash flow
+scenarios are modeled to determine how the company might fare in the event
+of a spike in claims or a run on policy surrenders.
+e)
+Investment Safety Index (L&H and Health only) gauges each company’s
+exposure to: bond and mortgage defaults; market value declines; and changes
+in interest rates.
+f)
+Stability Index includes factors such as:
+I.
+risk diversification in terms of company size, number of policies in
+force, and other items related to spread of risk,
+II. deterioration of operations as reported in critical asset, liability,
+income or expense items such as surrender rates, premium volume,
+etc.,
+III. former problem areas where there may have been recent
+improvement but where the company is yet to establish a record of
+stable performance in those areas over a suitable period of time,
+generally three to five years,
+IV. factors which identify a substantial shift in the company’s operations,
+V. factors which identify potential instabilities not included in other
+indexes, such as reinsurance quality, asset/liability matching and
+sources of capital,
+VI. relationships to holding companies and affiliates,
+VII. plus other technical factors related to stability and change.
+2.2
+
+Other Evaluation Methodologies and the CARAMEL Framework
+Evaluation of insurers (e.g. the financial condition) is a primary goal of
+regulators, investors, and insurer management. Each group is interested in a
+different aspect: Regulators must ascertain a company’s ability to operate and
+meet its obligations while investors and insurer management are interested in a
+company’s long term growth and profit potential (Grace and Barth, 1993).
+8
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+To date, evaluating insurers has been one of the critical activities of regulators
+globally, so, they have developed and adopted several tools and methods for the
+evaluation. The methods range from quantitative and qualitative tools and
+sometimes depend on rating agencies (, Swiss Re, Sigma No.4/2003).
+To maintain efficient, fair, safe and stable insurance markets for the benefit and
+protection of policyholders, the evaluation methods of regulators has
+emphasized on the financial condition of insurers. According to Grace and Barth
+(1993), the most systematic methods used has been to categorize insurers into
+two groups: (1) those now insolvent or potentially insolvent within a short
+period of time and (2) all others. They are interested in how much capital
+insurers have to buttress the risk inherent in their investments and operations.
+Monitoring the solvency of insurers is one of the prime concerns of insurance
+supervisors. For instance, European regulators initially created solvency
+requirements as quick and easy measures to identify undercapitalized companies
+before they got into trouble. However, these standards were necessarily based
+on industry averages, and some companies ran the risk of wrongly appearing to
+hold inadequate capital because the particular risk characteristics of their
+business meant that the standard factors were inappropriate. In addition, the
+required capital indicated by the calculations was unlikely to be appropriate for
+the risks borne by individual insurance companies, since it was based on
+premium written or claims incurred, not on claim reserves. Currently, regulators
+envisage Solvency II measures which are much more sophisticated, dealing with
+capital requirements for each of the solvency risk sources (see e.g. Collins, et
+al.2007 Grace and Barth, 1993).
+Sterling (2000) in his update of Insurance Regulation and Supervision in OECD
+countries, Asian Economies, Latin-American Countries and CEEC and NIS
+Countries, recommended that supervisors must have a close eye on the capital
+resources (solvency), the formation of technical provisions, and the existence of
+assets (investments) necessary to meet the insured liabilities when evaluating
+insurers.
+In the US, National Association of Insurance Commissioners run the Insurance
+Regulatory Information System (IRIS), a database designed to provide
+information about insurers' financial solvency. IRIS uses the financial statements
+of the insurer to calculate a series of financial ratios, which are then taken as a
+measure of the insurer's overall financial condition. The system acts as an earlywarning protection, which aids state insurance departments to pick out those
+companies that show financial problems.
+It is clear from the above discussions that in many jurisdictions, the regulators
+evaluate the insurers from the financial report usually the annual accounts
+(balance sheet, profit and loss accounts, and additional notes), an annual
+statement of the solvency margin, and statements concerning premium income
+due, losses, reserves, assets etc. submitted periodically.
+
+9
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Generally, the evaluation methods include Ratio Analysis, Historical Trend
+Analysis, and Linear Regression Analysis using software tools, Judgmental
+Forecasting and Cause and Effect Analysis . The most commonly used tool is the
+ratio analysis. It informs the overall assessment of the insurer by the supervisor.
+Essentially, ratios of this type may serve four particular purposes for the
+insurance supervisor (Thorburn, 2004):
+• as part of the analysis of financial returns within the supervisory process
+• as an ‘early warning system’ (i.e. the trends and levels of ratios)
+• as part of “Risk Based Supervision”:
+• to enable the compliance with requirements of the laws and
+regulations to be assessed.
+12
+
+Figure 1: A diagrammatic representation of the role of Ratio analysis in
+Evaluating Insurers
+
+Financial Returns from
+insurers (ICP 12)
+
+Reports on market
+analysis (ICP 11)
+
+Ratio Analysis
+(ICP 12)
+Supervisory
+conclusions (ICP 4)
+
+Source: Thorburn (2004)
+
+Other
+Qualitative
+Aanalysis (ICP
+)
+
+Indeed, all evaluating frameworks use ratios in assessing the financial soundness
+of insurers. The CARAMEL framework proposed by Das et al. (2003) is not an
+exception. They argue the selected indicators within the CARAMELS framework,
+adds the Actuarial and Reinsurance issues to the CAMELS (Capital adequacy,
+Asset quality, Management soundness, Earnings and profitability, Liquidity, and
+Sensitivity to market risk) used by the banks to capture some aspects of the
+systems important for financial stability.
+This framework was developed taking into account the Insurance Core Principles
+(see IAIS, 2000) and: The analytical significance; Achieving substantial
+information content with a limited number of indicators; Availability of data; and
+12
+
+In Ghana the analysis methods are Trend analysis, Ratio analysis and Analytical review (Source: NIC
+Supervision Dept. June 2007)
+
+10
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+The relevance in most circumstances (i.e., not specific for a given country or line
+of business).
+Thorburn (2004) observed from the world bank perspective that, the main areas
+of evaluating insurers are: Business Volumes and Trends; Reinsurance;
+Profitability – Level, Quality And Source; Technical Provisions; Assets; Solvency
+And Capital; The View Of Other stakeholder (i.e. investors).
+
+2.3
+
+What’s more, Chen and Wong (2004) argue the issues to be considered may be
+grouped into firm specific and market/economic factors. They added the firm
+specific factors which is associated with general (non-life) insurers cover mainly:
+firm size; age of the company; premium growth; investment performance;
+underwriting results (operating margin); expense; loss reserves; realized and
+unrealized capital gains; growth rate of surplus; liquidity, and reinsurance
+recoveries. However, they concluded that the main areas of concern are
+liquidity, profitability and capacity.
+Comparison of the Evaluating Methodologies: Common Practices and
+Differences
+On the rating firms, each firm has a well-defined methodology for rating life and
+non-life insurers. These approaches share much in common. This is due in part
+to competitive dynamics, whereby firms can imitate the useful innovations of
+their competitors. It also reflects the cross-fertilization that occurs as people
+move from firm to firm. The way insurers are rated follows a long-standing
+approach that, though still evolving, it is rooted in decades of institutional
+experience. One common feature among the rating firms is that they consider a
+combination of quantitative and qualitative factors. Here are some of other
+common practices:
+Each of the firms uses an elaborate model to assess the capital adequacy of
+insurers. This capital adequacy model is one of several measures that rating firms
+consult when judging capital adequacy. Together with the regulator’s capital
+adequacy model and other financial ratios, it helps flag potential problems
+Furthermore, when possible, the rating firms collect supplementary information
+from management to use in conjunction with publicly available regulatory and
+accounting data. Although it is possible to create a rating based just on public
+information, this supplementary information increases the precision and
+confidence behind a rating.
+Besides, each of the firms assigns a lead analyst responsibility for recommending
+a particular rating. These ratings are reviewed by a committee of seasoned
+colleagues who debate the pros and cons of the viewpoint propounded and
+then vote on a rating.
+On the other frameworks, an examination of the popular areas and ratios of
+concern in the evaluation of insurers discussed above show that, the frameworks
+have common issues although some variables in the indicators are different (e.g.
+
+11
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+using claims incurred or net claims and so on). Some of the areas of similarity
+are profitability, asset quality and capital.
+However, one area significantly missing in the other frameworks apart from
+CARAMEL is the issue of management soundness. Das et al., (2003) argue sound
+management is vital in the assessment of the financial strength of an entity, it is crucial
+for financial stability of insurers, though it is very difficult, to find any direct
+quantitative measure of management soundness. They added, unsound efficiency
+indicators could flag potential problems in key areas, including the management
+of technical and investment risks.
+Actuarial issues is another area missing. The core set suggests the use of the ratio called
+survival ratio (net technical reserves to net claims paid in the last three years) for nonlife insurance. This indicator may be viewed as showing the quality of the company’s
+estimate of the value of the reported and outstanding claim.
+See on the table A in the appendix showing a comparison of ratios from some
+of popular frameworks discussed above.
+
+3
+
+Data Collection
+To appreciate the research issues raised in the study and to place the relevant
+literature in context as well as generalize the study to some extent, a thorough
+review of secondary data was made. Besides, resource persons from the National
+Insurance Commission (NIC) were interviewed to expatiate on the activities and
+the evaluation processes of the non-life insurers in Ghana.
+Out of the eighteen (18) non-life insurers and two (2) reinsurers in Ghana, as at
+31st December, 2006, the annual reports of eight (8) of the insurers and one (1)
+reinsurer were purposively selected for the study (i.e. examine the adequacy of
+information supplied by the reports for purposes of evaluating insurers) and
+interviewed. In addition, the annual reports of the the National Insurance
+Commission (NIC), the supervisory body were examined over a five (5) year (i.e.
+2001 to 2005) period.
+On the evaluation of the insurers, the researchers obtained the secondary data
+on the financial analysis of the NIC, including the supervisory process with
+emphasis on the quantitative analysis.
+
+4
+
+Discussion of Findings
+In Ghana, apart from the internal evaluation by insurers themselves, the
+regulatory and supervisory body known as the National Insurance Commission
+(NIC) has the sole responsibility of evaluating insurers. Established as an
+autonomous body by the Insurance Law, 1989(PNDCL.227), the objective of the
+Commission is to ensure effective administration, supervision, regulation and
+control of the business of insurance in Ghana.
+
+12
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+The NIC seeks to achieve the above objective by embarking on the following:
+• Ensuring strict compliance with the provisions of the Insurance Law and
+Regulations
+and any other enactment relating to insurance.
+• Registering insurers and insurance intermediaries who transact insurance
+business in Ghana.
+• Establishing standards for the conduct of insurance business for compliance
+by insurers and insurance intermediaries.
+• Approving rates of insurance premiums and commissions in respect of all
+classes of insurance.
+• Protecting insurance policyholders, insurance beneficiaries and third parties
+to any insurance contract.
+• Approving standards, conditions and warranties to be applicable to
+insurance.
+• Providing a bureau to which complaints may be submitted by members of
+the public.
+• Settling such insurance claims as may be referred to it by parties to any
+insurance contract.
+• Ensuring adequate insurance protection and security for national strategic
+assets and properties.
+• Formulating proposals for the promotion of sound and efficient insurance
+market in the country.
+• Supervising and controlling transactions between local insurers and their
+reinsurers abroad.
+• Undertaking sustained and methodical public education on the insurance
+business in general.
+• Generally discharging such other functions as are necessary or incidental to
+the above functions.
+To enable NIC carry out the above functions and realize its aims and objectives,
+it collaborates with international organizations such as the International
+Association of Insurance Supervisors (IAIS), the African Insurance Organization
+(AIO), the West African Insurance Companies Association (WAICA), and the
+West African Insurance Institute (WAII).
+As insurance supervisors, NIC’s main aim is to build and maintain public
+confidence in the insurance industry by working to ensure that policyholders are
+fairly treated in accordance with the terms and conditions of insurance contracts
+and that insurers operating in the Ghanaian market are financially solvent and
+capable of delivering on their promises to policyholders.
+The resource person interviewed at NIC observed that it is the responsibility of
+the supervision department of the NIC to evaluate insurers to ensure that they
+are all financially solvent.
+He explained that, the supervisory processes include five (5) main steps;
+13
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+1.
+2.
+3.
+4.
+5.
+
+Financial Returns from the insurers,
+Market Analysis Report,
+Ratio Analysis and Assessment,
+Other Qualitative Analysis and Assessment, and
+Supervisory Conclusions and others steps where necessary.
+
+He intimated that the main tools used by the department in evaluating insurer in
+Ghana are trend analysis, ratio analysis and analytical reviews. Asked of other
+tools like Linear Regression Analysis using software tools, Judgmental
+Forecasting and Cause and Effect Analysis, he claimed the NIC is aware but think
+what they are currently using is simple and understandable.
+On the evaluation of insurers, he observed that, the critical areas of evaluating
+the insurers are: Operational efficiency; Profitability; Solvency; Capital adequacy;
+Liquidity; Quality of assets; and Quality and adequacy of investment. Moreover,
+an examination of NIC’s annual report showed that reinsurance (retention) is
+considered critical though not cited.
+Supporting the above, the researchers were provided with the following list of
+ratios used in evaluating insurers (see table 2):
+
+Table 2. List of insurer evaluating ratios used by NIC
+Claims ratio
+Claims Incurred/ Gross Premiums
+Expense ratio
+Management Expenses/ Gross Premiums
+Combined ratio
+Claims Ratio + Expense Ratio
+Operating ratio
+Claims ratio + Expense ratio – Investment
+ratio
+Outstanding premiums Ratio
+Outstanding P/Gross Premiums
+Return on equity
+Net Profit after tax/Shareholders Funds
+Return on assets
+Net Profit before interest & tax /Total
+Assets
+Retention Ratios
+Net premiums /Gross Premiums
+Return on investments
+Investment income/ total investments
+Investments income to
+Investments income /Gross premiums
+premiums ratio
+Investments to total assets ratio
+Investments / total assets ratio
+Gross premium to equity ratio
+Gross premium / Shareholders’ Funds
+Net premium to equity ratio13
+Net premium / Shareholders’ Funds
+Capital to liabilities ratio
+Shareholders’ Funds/Total Liabilities
+Source: NIC Supervision Dept. (May, 2007)
+13
+
+This ratio was not among the list of ratios provided but was identified in the NIC annual report.
+
+14
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Based on the ratios provided, we inquired if the Commission has heard of the
+CARAMEL framework, the resource person answered in the affirmative.
+However, an examination of the annual reports of the National Insurance
+Commission (NIC) showed that, the management soundness component of
+CARAMEL was absent. Furthermore, nothing was on measuring the actuarial issues,
+and liquidity. For the earning and profitability indicators, the NIC uses gross premiums
+as denominator in computing the loss and expense ratios instead of net premiums
+earned and net premiums income respectively. A follow up interview revealed that
+insurers’ liquidity positions are determined for internal use by the NIC only.
+From the perspective of insurers on the extent to which the CARAMEL is used
+internally by insurers revealed that 37.5% of the respondents rated Capital
+adequacy first the rest except (one no response) rated it 5th and 6th respectively.
+25% rated Asset quality first, 12.5% for Reinsurance and Actuarial issues, Liquidity
+and Earning and profitability. However, none rated Management soundness first.
+The closet is 3rd by 25% of the respondents.
+Considering all the mean scores of responses, Liquidity has the lowest score (i.e.
+ranked favorably) meaning it is the most widely used. Management soundness is
+however the less used in the Ghanaian insurance market. This is shown in table
+3 below
+Table 3. Mean Scores of the Use of CARAMEL by insurers internally
+
+Capital adequacy
+Asset quality
+Re - insurance and
+Actuarial issues
+Management soundness
+Earning and profitability
+Liquidity
+
+Minimum
+1.00
+1.00
+
+Maximum
+6.00
+6.00
+
+Mean
+3.5714
+3.2857
+
+Std. Deviation
+2.4398
+2.1381
+
+1.00
+
+6.00
+
+3.5714
+
+1.7182
+
+3.00
+
+5.00
+
+3.8333
+
+.7528
+
+1.00
+
+6.00
+
+3.1250
+
+1.7269
+
+1.00
+
+5.00
+
+2.5714
+
+1.2724
+
+Source: Research Data
+5
+
+Conclusions and Recommendations
+The evaluation tool in use by NIC in the assessment of insurers in Ghana
+excludes management soundness and actuarial issues proposed under the
+CARAMEL. The closest to management soundness is the ratio of investment
+income to investment which according to (IAIS) is useful for life business
+insurance due to its long-term orientation.
+
+15
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Actuarial issues is another area missing. The core set suggests the use of the ratio
+called survival ratio (net technical reserves to net claims paid in the last three
+years) for non-life insurance. This indicator may be viewed as showing the
+quality of the company’s estimate of the value of the reported and outstanding
+claim.
+Furthermore, the use of gross premiums as denominator for loss and expense
+ratios does not show the true condition since net premium is the amount
+available for use by the insurers. Moreover, it appears insurers in Ghana depend
+too much on reinsurance. The consequences may be ruinous when for instance
+the reinsurer fails. Moreover, they are exposed to underwriting, investment and
+liquidity risks. This is evidenced first by the non- commensurate increase in
+capital and net premium income. Secondly, the low returns on investments
+suggest investment risks. Additionally, the insurers mostly show favorable net
+commission balance indicating that they pay less to their agents and brokers.
+This has a high likelihood of influencing especially brokers to keep premiums
+collected for investments before it is paid to the insurers. This consequently
+affects the liquidity position of the insurers.
+In light of the above, NIC needs to be alert to relevant developments within
+other global fora, particularly risk-based, supervisory developments in other
+financial sectors such as the banks. It must exploit its monitoring, supervisory and
+regulatory potentials to the fullest However, there is a strong need to reflect the
+particular nature of insurance, and the specific risks associated with it.
+It must consider issues developed by IAIS in addressing aspects of insurer
+solvency, based on the Insurance core principles and methodology (October
+2003) and the Principles on capital adequacy and solvency (January 2002).
+Furthermore, it must pay attention to the three groups of supervision issues:
+financial issues (solvency and capital adequacy, valuation and adequacy of
+technical provisions, forms of capital, investments, and financial reporting and
+disclosure), governance issues (the Board, directors, senior management and
+other organisational aspects; fit and proper testing of directors and management;
+administrative, organisational and internal controls, including risk management;
+compliance with legislative requirements; shareholder relationships; and the
+governance risks posed by group structures), and market conduct issues.
+
+16
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Reference:
+Angerer, A. (1993), 'Insurance Supervision in OECD Member Countries,' Policy
+Issues in Insurance , Paris, France, OECD, pp. 13-72.
+A.M. Best, “Explanation of Best’s rating system and procedures”, for property and
+casualty companies, www.ambest.com/ratings/guide
+Chen R. and Wong, K.A., (2004), ‘The Determinants of Financial Health of Asian
+Insurance Companies’, The Journal of Risk And Insurance, Vol. 71
+Collins D. J., Reid J. and Roest M., (2007)’Property/Casualty Insurance; A Better Tool For
+Evaluating Uncertainty’, Emphasis Vol1
+Columbia Encyclopaedia, (2004), Online
+Das, Udaibir S., Davies N., and Podpiera R., (2003), “Insurance and Issues Financial
+Soundness”, Washington: IMF Working Paper,
+Grace Martin F, and Barth Michael M.(1993), ‘The Regulation And Structure Of Nonlife
+Insurance In The United States’ working papers (WPS 1155) Financial Sector
+Development Department, The World Bank
+International Association of Insurance Supervisors (2000) and (2004), Newsletter
+Insurance Company Ratings, Swiss Re, Sigma No.4/2003
+Moodys Investors Services (2005), “Property and Casualty Insurance Top Ten Ratios
+Year-End 2004”, www.moodys.com
+Rejda G.E (1992), Principles of Risk Management and Insurance, 4th Ed., HarperCollins
+publishers Inc., New York
+Sterling Robert (2000), ‘Insurance Regulation And Supervision In OECD Countries, Asian
+Economies, Latin-American Countries And Ceec And Nis Countries’, Organisation
+
+17
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+for Economic Co-operation and Development, www.oecd.org/daf/insurancepensions/
+The
+Weiss
+Approach
+to
+Insurance
+Company
+Safety
+Ratings
+(2003),
+www.weissrationg.com.
+Thorburn Craig (2004), ‘A Primer on Non-life Insurance Ratios for Insurance
+Supervisors’, World Bank
+www.fitchrating.com
+www.info.insure.com,
+www.thebenefitnetwork.com/insurerratings
+www.standardandpoors.com
+
+18
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+1.Net Premium / Capital
+2.Capital / Total Assets
+3.Capital / Technical
+Reserves
+
+1.(Real Estate +
+Unquoted Equities +
+Debtors) / Total Assets
+2.Debtors / (Gross
+Premium + Reinsurance
+Recoveries)
+3.Equities / Total Asset
+
+Asset
+Quality
+
+Indicator
+
+Capital
+Adequacy
+
+Area of
+analysis
+CARAMEL
+
+Losses incurred_± Adj. Exp.
+Premium earned
+Acq. Exp_± Admn. Exp.
+Premium written
+Acq. Exp.± Admn. Exp.
+Premium earned
+Losses incurred + Adj. Exp.
+Prem. Earned
+Prem.Wrtn
+Losses incurred_±Underw.
+Exp.
+Premium earned
+
+Profitability
+1.Loss ratio
+2.Expense ratio
+(trade basis)
+3.Expense ratio
+(financial)
+4.Combined
+ratio (trade
+basis)
+5.Combined
+ratio (financial)
+
+Premium due
+Surplus
+
+Stated liabilities
+Liquid asset
+
+2.Liability to
+liquid asset ratio
+3.Premium due
+to surplus
+
+Liquid asset at mkt. v
+total reserves
+
+Area of
+analysis
+Chen and
+Wong (2004)
+Liquidity
+1.Liquidity ratio
+Indicator
+
+ASSETS
+1.Asset Mix
+2.Investment assets
+and other assets
+3.Inadmissible
+Assets
+4.Liquidity
+
+4.Solvency coverage
+
+2.Technical
+Provisions and
+Capital
+3.Solvency Margin
+
+Solvency And
+Capital
+1.Premiums and
+Capital
+(Gross OR Net)
+
+Area of analysis
+Thorburn (2004)
+
+Inadmissible
+Assets/Capital
+Adjusted
+Liabilities/Defined
+Liquid Assets
+
+Equities/
+Investments
+Total
+Investments/Total
+Assets
+
+19
+
+Available Solvency/
+Required Solvency
+
+Capital/ Techn.
+Provisions
+
+GPW/Capital OR
+NPW/Capital
+
+Indicator
+
+Table A. Comparison of the areas of ratios analysis of the CARAMEL, and other frameworks
+
+Appendix
+
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+1.Gross Premium /
+Number of Employees
+
+Mgt.
+Sound-ness
+
+2.Total Assets / Number
+of Employees
+
+1.Risk Retention Ratio
+(Net Premium / Gross
+Premium)
+2.Net Technical
+Reserves / Average of
+Net Claims Paid in Last
+Three Years
+3.Net Technical
+Reserves / Average of
+Net Premium Received
+in Last Three Years
+
+Reins.
+and
+Actuarial
+Issues
+Starting admitted asset
+Prem. earned
+Prem. Written
+Surplus
+Change in prem. Written
+Prem. (prior year)
+C’ssions on Reinsurance
+Surplus
+
+2. Premium to
+surplus ratio
+3. Change in
+writing ratio
+4. Surplus aid to
+surplus
+
+Investment income
+Prem. earned
+Change in surplus
+Starting surplus
+
+Investment income
+Ave. invested assets
+
+Capacity
+1. Assets to
+premium ratio
+
+8. Change in
+surplus ratio
+
+7. Investment
+income ratio
+
+6.Investment
+yield ratio
+
+3.Maximum event
+retentions (MER)
+
+2.Net retention rates
+
+Reinsurance
+1.Cession rates
+
+R
+GWP
+NWP
+GWP
+MER
+Capital
+
+20
+
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+1.Loss Ratio
+Net Claims / Net Prem.
+2. Expense Ratio
+(Expenses / Net Prem.)
+3.Combined Ratio =
+Loss Ratio + Exp. Ratio
+3.Revisions to Technical
+Reserves / Technical
+Reserves
+4.Investment Income /
+Net Premium
+5.Investment Income /
+Investment Assets
+6.Return on Equity
+(ROE)
+
+1.Liquid Assets /
+Current Liabilities
+
+Earnings
+and ProfitAbility
+
+Liquidity
+
+2.Expense ratio
+
+Technical
+provisions
+1.Unearned
+premiums
+
+7.Investment
+Income Ratio
+
+UPP
+WP
+
+RGL
+Pr emium
+
+U
+NEP
+6.(ii)Underwriting
+Ratios
+Quality of the
+investment result
+
+Pr ofit
+OR
+Pr emium
+
+CR + ER − IR
+
+EI
+Pr emium
+
+6.(i)Profit ratios OR
+
+5.Operating ratio
+
+4.Investment
+income ratio
+
+3.Combined ratio
+
+E
+WP
+CR + ER
+
+IC
+EP
+
+Profitability –
+level, quality and
+source
+1.Claims ratio
+
+21
+
+Electronic copy available at: https://ssrn.com/abstract=1138338
+
+Sensitivity
+to Market
+Risk
+
+1.Net Open Foreign
+Exchange Position /
+Capital
+2.Duration of Assets
+and Liabilities
+
+The View Of Other
+Stakeholders
+Return on Capital
+
+4.Un-expired risk
+
+3.IBNR to reported
+provisions
+
+2.Claims paid to
+claims provisions
+
+Profit/Capital
+
+CP
+C Pr ov
+IBNR
+C Pr OV
+
+22
+
+

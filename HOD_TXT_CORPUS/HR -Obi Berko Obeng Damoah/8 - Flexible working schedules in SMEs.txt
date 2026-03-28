@@ -1,0 +1,1758 @@
+Received: 22 February 2020
+
+Revised: 7 July 2020
+
+Accepted: 8 July 2020
+
+DOI: 10.1002/bsd2.128
+
+RESEARCH ARTICLE
+
+Flexible working schedules in SMEs: Evidence from a
+developing country
+Augustine Awuah Peprah1
+
+|
+
+Collins Badu Agyemang2 |
+
+1
+Department of Business Administration,
+University of Professional Studies, Accra,
+Accra, Ghana
+
+Abstract
+
+Obi Berko Obeng Damoah3
+
+There has been a sustained interest in flexible work schedules (FWSs) because of the
+
+2
+
+Department of Psychology, University of
+Ghana, Accra, Ghana
+3
+University of Ghana Business School,
+University of Ghana, Accra, Ghana
+
+Correspondence
+Augustine Awuah Peprah, Department of
+Business Administration, University of
+Professional Studies, Accra, P.O. Box
+149 Accra, Ghana.
+Email: augustine.peprah@upsamail.edu.gh
+
+opportunities they offer in improving organizational efficiency and providing a more
+work–life balanced role for employees. Yet, less research attention has been focused
+on FWSs in SMEs in developing countries, which leaves much to be concerned about
+FWSs, its application and impacts in SMEs in developing countries especially in the
+context of Africa. Drawing on the theory of work adjustment and job demandresource model and using a survey data on SMEs from Ghana, the study theorizes
+and tests the relationship between FWSs and SMEs perceived profitability,
+employees' career satisfaction and productivity. The results from the analysis indicate
+that FWSs in SMEs in developing countries are positively associated with (perceived)
+profitability, employees' career satisfaction and productivity. The implications of
+these findings are discussed.
+KEYWORDS
+
+career satisfaction, developing countries, flexible work schedule, perceived profitability,
+productivity, SMEs
+
+1
+
+|
+
+I N T RO DU CT I O N
+
+and a myriad of individual and/or organizational performance measures (Dalton & Mesch, 1990; Konrad & Mangel, 2000; Perry-Smith &
+
+Flexible working schedules (FWSs), that is, employees' control over
+
+Blum, 2000; Stavrou, 2005; Valverde, Tregaskis, & Brewster, 2000).
+
+where and when to work (Chung & Van der Lippe, 2018; Glass &
+
+Despite these research efforts, many research lacunae remain
+
+Estes, 1997; Kelly, Moen, & Tranby, 2011), have gained sustained
+
+underexplored in extant literature with further research merited in a
+
+research interest over the past 20 years among scholars and practi-
+
+number of areas. First, the nexus between FWSs and organizational
+
+tioners. This is because the benefits of FWSs, which accommodate
+
+performance is yet to be established in the academic literature
+
+employees' preferences and needs, have been on the agenda of gov-
+
+(De Menezes & Kelliher, 2011) even though, it has been contended
+
+ernments and employment agencies (De Menezes & Kelliher, 2011).
+
+that FWSs, directly and indirectly, shape the performance of individual
+
+In recent times, the outbreak of the novel Coronavirus (COVID 19)
+
+and/or organizational. For example, comprehensive surveys on Work–
+
+and its resultant restrictions on social distance and stay-home policies
+
+Life Balance Study and Workplace Employment Relations Series
+
+by governments across the globe have further intensified the demand
+
+(Hooker, Neathey, Casebourne, & Munro, 2007; Nadeem &
+
+for more FWSs in the workplace (Harper, 2020; Routley, 2020). While
+
+Metcalf, 2007; Kersley et al., 2006), report significant increases in
+
+there is a growing interest in the use of FWSs, reflecting the increas-
+
+FWSs being offered but failed to report on how these FWSs affect
+
+ing use and importance of flexibility in the workplace (Stavrou, Parry, &
+
+performance. Second, various authors have underscored the signifi-
+
+Anderson, 2015; Beltrán-Martín & Roca-Puig, 2013; Stavrou, 2005;
+
+cance of context in examining the use of FWSs, arguing that FWSs
+
+Haar & Spell, 2004; Kalleberg, 2000), research to date has focused on
+
+and its application and effect on individual and/or organizations may
+
+how different FWS arrangements affect various indicators including
+
+be context specific (Stavrou, 2005; Stavrou & Kilaniotis, 2010). How-
+
+job satisfaction, absenteeism, attrition, employee retention, burnout,
+
+ever, how FWSs may be generally applied or remain context specific
+
+Bus Strat Dev. 2020;1–8.
+
+wileyonlinelibrary.com/journal/bsd2
+
+© 2020 ERP Environment and John Wiley & Sons Ltd
+
+1
+
+2
+
+PEPRAH ET AL.
+
+is underexplored in extant literature (Resnick, 1997; Solomon, 1999;
+
+developed by Pierce and Newstrom (1980) is one of the most widely
+
+Stavrou & Kilaniotis, 2010). Consequently, there is a lack of under-
+
+used theoretical frameworks (Deery, Walsh, Zatzick, & Hayes, 2016)
+
+standing about whether or not organizations practising similar or dif-
+
+for providing a theoretical explanation on the effect of flexible sched-
+
+ferent FWSs have the same results or if indeed the elements of FWS
+
+uling on employee attitudes and behaviour (Baltes, Briggs, Huff,
+
+practised universally produce the same or different outputs. Addition-
+
+Wright, & Neuman, 1999). Work adjustment has been defined as the
+
+ally, a study by Stavrou and Kilaniotis (2010) emphasised the signifi-
+
+process by which the individual or employee “interacts with and
+
+cance of contextual factors in examining the link between FWSs and
+
+comes
+
+organizational outcomes. The authors argued that the relationships
+
+Newstrom, 1980:120). The theory highlights the matching of individ-
+
+been examined may be misleading when context-specific factors are
+
+ual job characteristics and needs and the role of the work atmosphere
+
+not taken into account. Related to the gap on context is the fact that
+
+or environment in achieving the requirements of the employee
+
+a critical analysis of prior studies shows that research work on FWSs
+
+(Dawis & Lofquist, 1978). It provides a conceptual connection
+
+has predominantly been focused on developed/advanced economies
+
+between flexible work arrangements and employee behaviour and
+
+leaving more to be understood in the context of emerging and devel-
+
+consequently supports the prediction that a flexible working arrange-
+
+oping countries. Further, a careful examination of existing literature
+
+ment is linked to individual behaviour in the work environment. On
+
+on FWSs reveals that very little is known about FWSs, its application
+
+the other hand, the theoretical argument of the Job demand resource
+
+and effect in Small and Medium Scale Enterprises (SMEs). By explor-
+
+is grounded on the fact that working environment is associated with
+
+ing the formation of FWSs in SMEs, we can build a deeper insight into
+
+both physical and psychological demands which mostly have a nega-
+
+how best to bundle FWSs to ensure maximum returns for SMEs in
+
+tive bearing on employees' health and organizational performance
+
+developing countries.
+
+(Demerouti, Bakker, Nachreiner, & Schaufeli, 2001; Demerouti, Le
+
+to
+
+terms
+
+with
+
+the
+
+work
+
+environment”
+
+(Pierce
+
+&
+
+To contribute to filling these gaps in the extant literature, we
+
+Blanc, Bakker, Schaufeli, & Hox, 2009). Such work demands may
+
+employed a survey data on SMEs from a developing country
+
+include time pressures, emotionally demanding interaction with cus-
+
+(i.e., Ghana, West Africa) to test how FWSs affect the perceived profit-
+
+tomers, unfavourable organizational climate and working environ-
+
+ability of the SMEs, career satisfaction of employees and the productiv-
+
+ment, which mostly depletes employee health. On the other hand, job
+
+ity of the employees. Specifically, the motivation of this paper is to
+
+resources encapsulate all physical, social, psychological and organiza-
+
+situate the findings in the context prior global FWSs literature, which
+
+tional elements of the job, which play key roles in attaining work-
+
+contains limited literature on developing countries particularly in Africa.
+
+related goals, and cushion employees against the negative impact of
+
+This paper makes important contributions to the extant literature
+
+job demands and also creates an atmosphere for personal growth and
+
+on FWSs. First, the study responds to the call for more empirical work
+
+development (Demerouti et al., 2001; Demerouti et al., 2009). Just to
+
+to address the gap in the link between FWSs and some key perfor-
+
+mention a few, job resources include job autonomy and enrichment,
+
+mance indicators. To this end, the study finds that the application of
+
+social and workplace support and performance feedback. Even though
+
+FWSs in SMEs in developing countries is positively associated with
+
+the JD-R model is not directly linked to flexible work schedules and
+
+(perceived) profitability, employees' career satisfaction and productivity.
+
+SMEs development, the model provides a conceptual nexus between
+
+Second, this paper contributes to the importance of context in FWSs
+
+these. In line with JD-R model, work in itself comes along with certain
+
+research by focusing on SMEs in developing African country. Thus, the
+
+pressures and demands, which in turn have a negative bearing on
+
+findings of this paper are unique in context and apply to SMEs in devel-
+
+employees. However, when employees have a sense of control over
+
+oping countries. Finally, our paper makes significant contributions to
+
+their working schedules, they can adjust their working times such that
+
+the extant literature by replying to the call for an increase in research in
+
+the negative impact of work is mostly not felt. As such, their auton-
+
+management scholarship about Africa (George, Schillebeeckx, &
+
+omy over working times cushions them against the negative conse-
+
+Liak, 2015) because “Africa offers great potential as a context for man-
+
+quences of their job demands. The buffering effect of employee sense
+
+agement research, […] more empirical and conceptual work is warranted
+
+of control over the working times gives birth to positive work out-
+
+to explain the richness of the opportunities on the African continent”
+
+comes including improved productivity, employee career satisfaction
+
+(George, Corbishley, Khayesi, Haas, & Tihanyi, 2016:389) as well as to
+
+as well as organizational profitability.
+
+comprehend and appreciate how FWSs support the growth and development of SMEs in Africa. The remaining part of the paper is organized
+as follows: Section 2 discusses the theoretical background and hypotheses, Section 3 considers the methodology; Section 4 focuses on results,
+
+3 | CONCEPTUAL FRAMEWORK AND
+HY P O T H E S E S D EV E L O P M EN T
+
+whereas Section 5 presents the discussion and conclusion of the study.
+
+2
+
+|
+
+THEORETICAL FRAMEWORK
+
+3.1 | Flexible work schedules, perceived
+profitability, career satisfaction and employees'
+productivity
+
+This study is anchored on the theory of Work adjustment and Job
+
+Various scholars have analysed the relationship between flexible work
+
+demand-resource (JD-R) model. The theory of work adjustment
+
+schedule and firm performance in both the practitioner and academic
+
+3
+
+PEPRAH ET AL.
+
+literature with different findings (De Menezes & Kelliher, 2011). While
+
+positive association between flexible working schedule and productiv-
+
+these differences in the findings may, at least in part, be associated
+
+ity was also confirmed by Chow and Keng-Howe (2006) and Shepard
+
+with the miscellany in research approaches, still, the empirical finding
+
+III, Clifton, and Kruse (1996).
+
+has failed to provide established support for this relationship. For
+
+While these findings have contributed significantly to the litera-
+
+example, a series of studies have examined and found support for a
+
+ture on FWSs, a careful analysis of the literature suggests that the
+
+positive relationship between flexible work arrangement and profit-
+
+nexus between FWSs and individual/organizational outcomes is yet
+
+ability of the firm. The main argument here is that flexible work sched-
+
+to be established in the academic literature (De Menezes &
+
+ule, if well-implemented results in increased employee morale,
+
+Kelliher, 2011). Moreover, most of these studies on FWSs have
+
+commitment, and engagement to the firm (Cranfield School of
+
+focused on large firms in developed/advanced countries. This still
+
+Management, 2008; De Menezes & Kelliher, 2011; Dex & Smith, 2002;
+
+leaves more to be understood about FWSs in the context of SMEs in
+
+Grover & Crocker, 1995; Harris & Foster, 2005; Maxwell, Rankine,
+
+developing countries. Against this background and the various argu-
+
+Bell, & MacVicar, 2007; Meyer, Mukerjee, & Sestero, 2001; Thompson,
+
+ments presented in the extant literature, we propose and test the fol-
+
+Beauvais, & Lyness, 1999; Sands & Harper, 2007), reduced absenteeism
+
+lowing hypotheses in the context of SMEs in a developing country,
+
+and tardiness (Krausz & Freibach, 1983) and increases the ability to
+
+Ghana.
+
+hire outstanding employees (Foster Thompson & Aspinwall, 2009;
+Lewis, Smithson, Cooper, & Dyer, 2001; Maxwell et al., 2007) which
+
+Hypothesis 1 Flexible working schedules positively affect perceived
+profitability.
+
+ultimately result in better firm performance (most often captured as
+profitability).
+Focusing on the relationship between flexible work schedules and
+
+Hypothesis 2 Flexible working schedules positively affect career
+satisfaction.
+
+career (job) satisfaction, scholars have theorized and found support
+for a positive relationship. For instance, a study by Almer and
+Kaplan (2002) which compared flexible workers and non-flexible
+
+Hypothesis 3 Flexible working schedules positively affect the productivity of the employee.
+
+workers in accounting firm reported that flexible working arrangements are positively associated with employees' career satisfaction.
+Hooker et al. (2007) in The Third Work–Life Balance Employee Survey
+also concluded that flexible workers were more likely to be very satis-
+
+4
+
+METHODS
+
+|
+
+fied with their jobs than non-flexible workers. A similar survey by
+Cranfield School of Management (2008) reported that employee
+
+4.1
+
+|
+
+Setting and sample characteristics
+
+whose work had flexible work schedules reported higher levels of job
+satisfaction than employees whose work did not involve any of such
+
+The data used for this study were gathered from SMEs in Adenta
+
+flexible arrangement in the organization. Scandura and Lankau (1997)
+
+Municipality of the Greater Accra Region of Ghana. A total of 183
+
+who research focused on flexible work schedule among women
+
+employees, who responded to the survey instruments, were drawn
+
+observed that women who perceived to have been offered flexible
+
+from SMEs from seven different industries, allowing us to test our
+
+work arrangement reported higher levels of job satisfaction,
+
+hypotheses in a wide variety of SMEs. The participating SMEs ranged
+
+irrespective of whether they utilized the arrangement. Allen (2001) in
+
+from agriculture to construction, from manufacturing to services and
+
+his family-supportive work environments study found that the avail-
+
+from real estate to transport and ICT. We employed a structured
+
+ability of FWSs alone had a minimal effect on job attitudes, however,
+
+questionnaire to collect data on employees' experiences towards flexi-
+
+the employees' perception of the firm being family-supportive had a
+
+ble work arrangements. Following extant literature (Giannikis &
+
+positive impact on organizational commitment and job satisfaction.
+
+Mihail, 2011), we designed our survey instrument by combining the
+
+These
+
+Polzer-
+
+Flexible Work Options Questionnaire designed by Albion (2004) and
+
+Debruyne (2007) in their survey of New Zealanian 1,187 employees
+
+that of Charron and Lowe (2005). Each of the items for capturing our
+
+from 23 organizations.
+
+variables was rated on a five-point Likert scale (1 = strongly agree to
+
+findings
+
+were
+
+confirmed
+
+by
+
+Forsyth
+
+and
+
+Regarding the question of whether FWSs predict employee pro-
+
+5 = strongly disagree). Also, information on demographic profiles of
+
+ductivity, several papers have hypothesized and found support for
+
+the respondent (age, gender, educational level, marital status, the
+
+various results. For example, one of the earlier works on flexible work
+
+grade of employment duration of service) was captured by the instru-
+
+schedules concluded that schedule flexibility could aid an organization
+
+ment. A sample of SMEs was conveniently chosen from Adenta
+
+improve its effectiveness and productivity (Ronen and Primps (1980).
+
+Municipality of Greater Accra Region. After securing permission to
+
+A review by Ronen (1986) disclosed that the use of flexible work
+
+carry out the survey, the survey instrument was hand-delivered by
+
+arrangement is positively related to organizational effectiveness and
+
+the researchers to directly gather the data from the participants. In
+
+productivity, as well as impacting positively on employees' attitudes.
+
+the end, a total of 221 questionnaires were received, of which 183
+
+Greene (1984) in comparison of three workplaces could not establish
+
+were valid for analysis (due to missing data). Details of the background
+
+differences in productivity increase between a workplace with flexible
+
+characteristic of the SMEs and employees employed in the study are
+
+work arrangements and another without such an arrangement. This
+
+presented in Tables 1 and 2.
+
+4
+
+PEPRAH ET AL.
+
+TABLE 1
+
+TABLE 2
+
+Demographic characteristics of respondents
+
+SMEs background
+
+N
+
+%
+
+Below 21
+
+22
+
+12.0
+
+Agriculture
+
+3
+
+1.6
+
+21–30
+
+106
+
+57.9
+
+Manufacturing
+
+9
+
+4.9
+
+31–40
+
+33
+
+18.0
+
+Construction
+
+6
+
+3.3
+
+41–50
+
+15
+
+8.2
+
+Real estate
+
+8
+
+4.4
+
+51 and more
+
+7
+
+3.8
+
+Transport and communication
+
+15
+
+8.2
+
+Trade
+
+139
+
+76.0
+
+Male
+
+97
+
+53.0
+
+Government services
+
+3
+
+1.6
+
+Female
+
+86
+
+47.0
+
+Number of employees
+1–50
+
+177
+
+96.7
+
+6
+
+3.3
+
+Demographic characteristics
+Age
+
+Company characteristics
+
+N
+
+%
+
+Industry
+
+Gender
+
+Educational level
+Post-graduate
+
+8
+
+4.4
+
+51–100
+
+Degree
+
+39
+
+21.3
+
+Year of operating
+
+Diploma
+
+39
+
+21.3
+
+1–5
+
+106
+
+57.9
+
+SHS
+
+71
+
+38.8
+
+6–10
+
+37
+
+20.2
+
+JHS
+
+26
+
+14.2
+
+11–15
+
+25
+
+13.7
+
+16–20
+
+6
+
+3.3
+
+Single
+
+133
+
+72.7
+
+21 and more
+
+8
+
+4.4
+
+Married
+
+45
+
+24.6
+
+Error
+
+1
+
+.5
+
+Divorced
+
+2
+
+1.1
+
+Branches
+
+Widowed
+
+3
+
+1.6
+
+1
+
+74
+
+40.4
+
+2–5
+
+89
+
+48.6
+
+Lower
+
+41
+
+22.4
+
+6–9
+
+12
+
+6.6
+
+Middle
+
+97
+
+53.0
+
+10 or more
+
+8
+
+4.4
+
+Executive
+
+45
+
+24.6
+
+0–3
+
+101
+
+55.2
+
+4–6
+
+40
+
+21.9
+
+7–9
+
+18
+
+9.8
+
+10–12
+
+16
+
+8.7
+
+13 and more
+
+8
+
+4.4
+
+Marital status
+
+Grade of employment
+
+Duration of service
+
+proposed relationship between flexible work schedules and perceived
+profitability (Hypothesis 1). Model 1 (i.e., the full sample) in Table 4
+shows the results of hypothesis 1. We find support for a positive significant relationship between flexible work arrangement and perceived profitability of SMEs (β = 0.277, p > .001). In Models 2 and
+3, we sub-divided our sample into SMEs who practiced somewhat
+flexible arrangement and those who do not practice any sort of flexible arrangement. Interestingly, in Model 2 (which represents SMEs
+
+5
+
+|
+
+RESULTS
+
+practising FWSs), we observed that flexible work schedules significantly predict perceived profitability (β = 0.193, p > .05). On the con-
+
+Table 3 provides information on the descriptive statistics, the correla-
+
+trary, no significant relationship was obtained for SMEs with
+
+tion matrix and the Cronbach alpha values for the variables used in
+
+no FWSs.
+
+the analysis. The correlations among explanatory variables are rela-
+
+Table 5 shows the output of the analysis of our second hypothe-
+
+tively low, indicating that the issue of multicollinearity should not
+
+sis. That is, FWSs positively predict career satisfaction of employees
+
+affect the models. This is confirmed by the analysis of variance infla-
+
+of SMEs (Hypothesis 2). Model 4 (in Table 5) that shows our full sam-
+
+tion factor (VIF). The VIF values (largest VIF = 1.09, mean VIF = 1.05)
+
+ple confirms our prediction that employees in SMEs with flexible
+
+fall within the range of acceptable limit of 10 (Neter, Wasserman, &
+
+arrangements at work are satisfied with their career (job) (β = 0.208,
+
+Kutner, 1989), suggesting that multicollinearity is unlikely to have
+
+p > .001). In the sub-samples of SMEs which practice Flexi-work and
+
+affected our results. Also, Cronbach alpha values computed on the
+
+those which did not, employees are satisfied with their careers as
+
+scale of the items used for capturing our variables were found to be
+
+shown in Model 5 (β = 0.104, p > .10) and Model 6 (β = 0.364,
+
+above 0.70 (see Table 3), suggesting that the scale is internally consis-
+
+p > .001), respectively.
+
+tent (Nunnally, 1978).
+
+In Table 6, we report the output of the analysis for our third
+
+We tested our hypotheses with robust OLS regression. Table 4
+
+hypothesis, which predicts that flexible work schedules positively
+
+shows the results of the robust OLS regression models for the
+
+affect the productivity of employees in SMEs (Hypothesis 3). We
+
+5
+
+PEPRAH ET AL.
+
+TABLE 3
+
+Descriptive statistics and correlations
+Mean
+
+Sd
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1. Perceived profitability
+
+2.716
+
+1.265
+
+1.000
+
+2. Career satisfaction
+
+2.505
+
+0.945
+
+0.390***
+
+1.000
+
+3. Employees productivity
+
+2.266
+
+0.952
+
+0.428***
+
+0.435***
+
+1.000
+
+4. Flexiwork
+
+7.989
+
+1.464
+
+0.322***
+
+0.336***
+
+0.347***
+
+5. Size
+
+1.175
+
+0.933
+
+−0.055
+
+0.106
+
+−0.096
+
+0.042
+
+1.000
+
+6. Age
+
+1.809
+
+1.327
+
+−0.075
+
+−0.178*
+
+−0.048
+
+−0.080
+
+0.143+
+
+1.000
+
+7. Branches
+
+1.749
+
+0.765
+
+−0.040
+
+0.095
+
+−0.039
+
+−0.047
+
+0.108
+
+0.256***
+
+7
+
+Cronbach alpha
+0.941
+0.885
+0.827
+
+1.000
+
+0.929
+—
+—
+—
+
+1.000
+
+Note: N = 183.
+Note: +p < .10, *p < .05, **p < .01, ***p < .001.
+
+T A B L E 4 Robust OLS regression:
+Relationship between flexible working
+schedule and perceived profitability
+
+Variables
+Flexiwork
+
+Size
+
+Age
+
+Branches
+
+_cons
+
+Model 1 (Full sample)
+0.277
+
+***
+
+Model 2 (Practiced FWSs)
+*
+
+0.193
+
+Model 3 (No FWSs)
+0.150
+
+(0.060)
+
+(0.075)
+
+(0.220)
+
+−0.085
+
+−0.053
+
+−0.046
+
+(0.068)
+
+(0.125)
+
+(0.084)
+
+−0.036
+
+−0.082
+
+0.018
+
+(0.068)
+
+(0.090)
+
+(0.069)
+
+−0.014
+
+−0.158
+
+0.557**
+
+(0.119)
+
+(0.127)
+
+(0.196)
+
+0.691
+
+1.546*
+
+1.048
+
+(0.536)
+
+(0.604)
+
+(2.105)
+
+No. of observation
+
+183
+
+137
+
+46
+
+R-square
+
+0.110
+
+0.073
+
+0.106
+
+p-value
+
+6.368
+
+4.054
+
+2.981
+
+F-test
+
+0.000
+
+0.004
+
+0.030
+
+Note: Standard errors in parentheses.
+Note: +p < .10, *p < .05, **p < .01, ***p < .001.
+
+T A B L E 5 Robust OLS regression:
+Relationship between flexible working
+schedule and career satisfaction
+
+Variables
+Flexiwork
+
+Model 4 (full sample)
+
+(0.055)
+
+(0.081)
+
+0.119
+
+0.124*
+
+(0.076)
+
+(0.055)
+
+−0.088
+
+−0.197***
+
+(0.038)
+
+(0.059)
+
+(0.038)
+
++
+
+−0.043
+
+0.907***
+
+(0.103)
+
+(0.093)
+
+(0.162)
+
+0.107
+
+*
+
+(0.052)
+Age
+
+Branches
+
+_cons
+
+Model 6 (no FWSs)
+0.364***
+
+(0.048)
+Size
+
+Model 5 (practice FWSs)
++
+
+0.208
+
+***
+
+−0.147
+
+0.187
+
+***
+
+0.104
+
+***
+
+−1.815**
+
+0.658
+
+1.671
+
+(0.406)
+
+(0.421)
+
+(0.649)
+
+No. of observation
+
+183
+
+137
+
+46
+
+R-square
+
+0.170
+
+0.047
+
+0.429
+
+F-test
+
+8.737
+
+1.585
+
+18.126
+
+p-value
+
+.000
+
+.182
+
+.000
+
+Note: Standard errors in parentheses.
+Note: +p < .10, *p < .05, **p < .01, ***p < .001.
+
+6
+
+PEPRAH ET AL.
+
+Model 7 (full sample)
+Flexiwork
+
+Model 8 (practice FWSs)
+
+Model 9 (no FWSs)
+
+0.228***
+
+0.049
+
+0.233
+
+(0.056)
+
+(0.047)
+
+−0.111
+
+Size
+
+Age
+
+Branches
+
+_cons
+
+*
+
+−0.193
+
+T A B L E 6 Robust OLS regression:
+Relationship between flexible working
+schedule and employees' productivity
+
+(0.142)
+**
+
+−0.098
+
+(0.055)
+
+(0.067)
+
+(0.073)
+
+−0.001
+
+0.063
+
+−0.048
+
+(0.039)
+
+(0.048)
+
+−0.012
+
+−0.165
+
+(0.109)
+
+(0.086)
+
+(0.060)
++
+
+***
+
+0.566*
+(0.212)
+
+0.600
+
+2.058
+
+(0.478)
+
+(0.405)
+
+(1.338)
+
+No. of observation
+
+183
+
+137
+
+46
+
+R-square
+
+0.132
+
+0.086
+
+0.142
+
+p-value
+
+5.178
+
+20.079
+
+3.295
+
+F-test
+
+0.001
+
+0.000
+
+0.020
+
+0.028
+
+Note: Standard errors in parentheses.
+Note: +p < .10, *p < .05, **p < .01, ***p < .001.
+
+found support for this hypothesis as indicated in Model 7 (β = 0.228,
+
+is more likely to translate into superior performance. Again, this result
+
+p > .001). This relationship was not significant when we divided the
+
+agrees with prior literature that flexible work schedules affect
+
+data into subsample of those who practice flexi-work and those who
+
+employee career satisfaction. (Almer & Kaplan, 2002; Hooker
+
+did not as shown in Models 8 and 9.
+
+et al., 2007; Scandura & Lankau, 1997).
+Third, we find support to contribute to studies analysing the link
+between flexible work arrangement and employees' productivity. Our
+
+6
+
+|
+
+DISCUSSION AND CONCLUSION
+
+findings show that employees of SMEs with flexible working have
+high productivity, which confirms established findings in the literature.
+
+In this article, the issue of having FWSs in SMEs in a developing econ-
+
+For example, a study by Mahajan and Foggin (2006) reported that the
+
+omy has been examined. Specifically, drawing on the work adjustment
+
+use of FWSs resulted in the rise of productivity up to 20% in British
+
+and job demand-resource models, the study analyses how flexible
+
+Telecom. Also, Stavrou (2005) showed that remote working was
+
+work arrangements in SMEs determines the perceived profitability,
+
+related to perceptions of improved performance.
+
+career satisfaction and productivity of employees in Ghana. While
+
+In summary, the positive association between having FWSs and
+
+various scholars have contributed to the literature on FWSs (See a
+
+perceived profitability, career satisfaction and employees' productivity
+
+review by De Menezes & Kelliher, 2011), a critical analysis of these
+
+are consistent as predicted in our hypothesis and are in line with the
+
+papers indicates that less research attention has been focused on
+
+findings of several previous studies. However, these findings are
+
+SMEs in developing countries leaving much to be understood about
+
+important in the context of SMEs in developing countries since this
+
+the role of flexi-work arrangements in SMEs in developing economies
+
+study is one of the few studies examining flexible work arrangements
+
+especially in the context of Africa. Hence, this study contributes to
+
+in SMEs in developing economies.
+
+this important gap in several ways.
+
+Our findings have important managerial implication. The results
+
+First, the results show that there is a positive significant relationship
+
+suggest that paying attention to a flexible work schedule can provide
+
+between FWSs and perceived profitability in SMEs. This implies that
+
+important organizational benefits (Deery et al., 2016). Flexible work
+
+SMEs with better flexible work arrangements are more likely to have a
+
+schedules that are congruent with the needs and expectations of
+
+high profit. This finding supports extant studies. For instance, Meyer
+
+employees can help relieve the “time bind” which confront employees
+
+et al. (2001) reported that remote working from home positively impact
+
+in combining their personal, family and work activities (Tausig &
+
+on profitability. Sands and Harper (2007) in a similar study also showed
+
+Fenwick, 2001). This sends an important signal to managers con-
+
+that remote working is positively related to return on assets and equities.
+
+cerning an invaluable role that FWSs present in stimulating positive
+
+Second, we contribute to the extant literature on flexible work
+
+organizational outcomes. Allowing employees choice and control over
+
+arrangement and career (job) satisfaction by finding support for our
+
+their working schedules and/or arrangements may have a noticeable
+
+second hypothesis: FWS positively predicts career satisfaction. This
+
+impact on how they consider their employment relationship. Conse-
+
+suggests that employees who have a flexible working schedule (in the
+
+quently, this may translate into greater career/job satisfaction and
+
+form of telework, flexitime, part-time work, telecommute, homework,
+
+commitment, which are ultimately associated with greater productiv-
+
+remote work) have a more positive outlook about their career which
+
+ity and performance gains.
+
+7
+
+PEPRAH ET AL.
+
+This paper has some limitations that could benefit from further
+research. First, all our variables were measured with the same instrument and at the same time. This raises concerns about the possibility
+of the different causal ordering of our relationships. Nevertheless,
+there exists theoretical backing for our expectations that the proposed relationships will be in the directions as hypothesized
+(Jackson & Maslach, 1982; Maslach & Leiter, 2008; Pierce &
+Newstrom, 1980, 1982). Moving forward, we suggest future studies
+to consider longitudinal data, which we believe would, however, provide better clarity and future researchers the opportunity to make
+stronger causal inferences (Finkel, 1995). Second, there is evidence in
+extant literature that women are more involved in home/family
+responsibilities than men (Boyar, Maertz, & Pearson, 2005; Vaananan
+et al., 2005), suggesting that the outcome of our analysis will be stronger in women than in the male. However, this present paper could not
+capture this important issue and therefore, we recommend that further studies could capture how gender moderates the established
+relationships particularly in SMEs in developing countries. Third, our
+performance variable was measured by performance ratings indicated
+by the respondent, which are purely subject to accurate recall and
+reporting. The question is how the result would be if actual performance indicators are used (rather than these subjective indicators)?
+ORCID
+Augustine Awuah Peprah
+
+https://orcid.org/0000-0002-6497-9161
+
+RE FE R ENC E S
+Albion, M. J. (2004). A measure of attitudes towards flexible work options.
+Australian Journal of Management, 29(2), 275–294.
+Allen, T. (2001). Family-supportive work environments: The role of organizational perceptions. Journal of Vocational Behavior, 58, 414–435.
+Almer, E., & Kaplan, S. (2002). The effects of flexible work arrangements
+on stressors, burnout and behavioural job outcomes in public accounting. Behavioral Research in Accounting, 14, 1–34.
+Baltes, B. B., Briggs, T. E., Huff, J. W., Wright, J. A., & Neuman, G. A.
+(1999). Flexible and compressed workweek schedules: A meta-analysis
+and their effects on work-related criteria. Journal of Applied Psychology,
+84, 496–513.
+Beltrán-Martín, I., & Roca-Puig, V. (2013). Promoting employee flexibility
+through HR practices. Human Resource Management, 52, 645–674.
+Boyar, S. L., Maertz, C. P., & Pearson, A. W. (2005). The effects of
+workfamily conflict and family-work conflict on nonattendance behaviors. Journal of Business Research, 58, 919–925.
+Charron, F. K., & Lowe, J. D. (2005). Factors that affect accountant's perceptions of alternative work arrangements. Accounting Forum, 29,
+191–206.
+Chow, I. H., & Keng-Howe, I. C. (2006). The effect of alternative work
+schedules on employee performance. International Journal of Employment Studies, 14, 105–130.
+Chung, H., van der Lippe, T. (2018). Flexible Working, Work–Life Balance,
+and Gender Equality: Introduction. Social Indicators Research, http://
+dx.doi.org/10.1007/s11205-018-2025-x.
+Cranfield School of Management. (2008). Flexible working and performance:
+Summary of research. London, England: Working Families.
+Dalton, D., & Mesch, D. (1990). The impact of flexible scheduling on
+employee attendance and turnover. Administrative Science Quarterly,
+35, 370–387.
+Dawis, R. V., & Lofquist, L. H. (1978). A note on the dynamics of work
+adjustment. Journal of Vocational Behavior, 12, 76–79.
+
+De Menezes, L. M., & Kelliher, C. (2011). Flexible working and performance: A systematic review of the evidence for a business case. International Journal of Management Reviews, 13(4), 452–474.
+Deery, S., Walsh, J., Zatzick, C. D., & Hayes, A. J. (2016). Exploring the relationship between compressed work hours satisfaction and absenteeism in front-line service work. European Journal of Work and
+Organizational Psychology, 26, 42–52. https://doi.org/10.1080/
+1359432X.2016.1197907
+Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The
+job demands-resources model of burnout. Journal of Applied Psychology, 86(3), 499–512.
+Demerouti, E., Le Blanc, P. M., Bakker, A. B., Schaufeli, W. B., & Hox, J.
+(2009). Present but sick: A three-wave study on job demands,
+presenteeism and burnout. Career Development International, 14(1),
+50–68.
+Dex, S., & Smith, C. (2002). The nature and pattern of family-friendly employment policies in Britain. Bristol, England: Policy Press and Joseph
+Rowntree Foundation.
+Finkel, S. E. (1995). Causal analysis with panel data. Newbury Park, CA:
+Sage.
+Forsyth, S., & Polzer-Debruyne, A. (2007). The organisational pay-offs for
+perceived work–life balance support. Asia Pacific Journal of Human
+Resources, 45, 113–123.
+Foster Thompson, L., & Aspinwall, K. R. (2009). The recruitment value of
+work/life benefits. Personnel Review, 38, 195–210.
+George, G., Corbishley, C., Khayesi, G. N. O., Haas, M. R., & Tihanyi, L.
+(2016). Bringing Africa in: Promising directions for management
+research. Academy of Management Journal, 59(2), 377–393.
+George, G., Schillebeeckx, S. J., & Liak, T. L. (2015). The management of
+natural resources: An overview and research agenda. Academy of Management Journal, 58, 1595–1613.
+Giannikis, S. K., & Mihail, D. M. (2011). Flexible work arrangements in
+Greece: A study of employee perceptions. The International Journal of
+Human Resource Management, 22(02), 417–432. https://doi.org/10.
+1080/09585192.2011.540163
+Glass, J. L., & Estes, S. B. (1997). The family responsive workplace. Annual
+Review of Sociology, 23, 289–313.
+Greene, C. N. (1984). Effects of alternative work schedules: A field experiment. Academy of Management Proceedings, 1984, 269–273.
+Grover, S., & Crocker, K. (1995). Who appreciates family responsive
+human resource policies: The impact of family friendly policies on
+organizational attachment of parents and non-parents. Personnel Psychology, 48, 271–288.
+Haar, J. M., & Spell, C. S. (2004). Programme knowledge and value of
+work-family practices and organizational commitment. International
+Journal of Human Resource Management, 15, 1040–1055.
+Harper, J (2020). Coronavirus: Flexible working will be a new normal after
+virus. BBC News. Retrieved from https://www.bbc.com/news/
+business-52765165
+Harris, L. and Foster, C. (2005). Small, Flexible and Family Friendly–Work
+Practices in Service Sector Businesses. London: Department of Trade
+and Industry, Employment Relations Research Series No. 47.
+Hooker, H., Neathey, F., Casebourne, J. and Munro, M. (2007). The Third
+Work–Life Balance Employee Survey: Main Findings. Employment
+Relations Research Series, No. 58. London: Department of Trade and
+Industry.
+Jackson, S. E., & Maslach, C. (1982). After-effects of job-related stress:
+Families as victims. Journal of Occupational Behaviour, 3, 63–77.
+https://doi.org/10.1002/job.4030030106
+Kalleberg, A. L. (2000). Nonstandard employment relations: Part-time,
+temporary and contract work. Annual Review of Sociology, 26,
+341–365.
+Kelly, E. L., Moen, P., & Tranby, E. (2011). Changing workplaces to reduce
+work–family conflict schedule control in a white-collar organization.
+American Sociological Review, 76(2), 265–290.
+
+8
+
+Kersley, B., Alpin, C., Forth, J., Bryson, A., Bewley, H., Dix, G., &
+Oxenbridge, S. (2006). Inside the workplace: Findings from the 2004
+workplace employment relations survey. London, England: Routledge.
+Konrad, A. M., & Mangel, R. (2000). The impact of work-life programs on
+firm productivity. Strategic Management Journal, 21, 1225–1237.
+Krausz, M., & Freibach, N. (1983). Effects of flexible working time for
+employed women upon satisfaction, strains, and absenteeism. Journal
+of Occupational Psychology, 56, 155–159.
+Lewis, S., Smithson, J., Cooper, C. and Dyer, J. (2001). Flexible Futures:
+Flexible Working and Work–Life Integration: Summary of Findings
+from Stage 2. Retrieved from http://www.workliferesearch.org
+Mahajan, R. and Foggin, N. (2006). Flexible Working: Can Your Company
+Compete Without It? Retrieved from http://www.btglobalservices.com
+Maslach, C., & Leiter, M. P. (2008). Early predictors of job burnout and
+engagement. Journal of Applied Psychology, 93, 498–512. https://doi.
+org/10.1037/0021-9010.93.3.498
+Maxwell, G., Rankine, L., Bell, S., & MacVicar, A. (2007). The incidence and
+impact of flexible working arrangements in smaller businesses.
+Employee Relations, 29, 138–152.
+Meyer, C., Mukerjee, S., & Sestero, A. (2001). Work–family benefits:
+Which ones maximise profits. Journal of Managerial Issues, 13, 28–44.
+Nadeem, S., & Metcalf, H. (2007). Work–life policies in Great Britain: What
+works, where and how? London, England: Department for Business,
+Enterprise and Regulatory Reform.
+Neter, J., Wasserman, W., & Kutner, M. H. (1989). Applied regression
+models. Homewood, IL: Irwin.
+Nunnally, J. C. (1978). Psychometric theory (2nd ed.). New York, NY:
+McGraw-Hill.
+Perry-Smith, J. E., & Blum, T. C. (2000). Work-family human resource bundles and perceived organizational performance. Academy of Management Journal, 43, 1107–1117.
+Pierce, J. L., & Newstrom, J. W. (1980). Toward a conceptual clarification
+of employee responses to flexible working hours: A work adjustment
+approach. Journal of Management, 6, 117–134. https://doi.org/10.
+1177/014920638000600202
+Pierce, J. L., & Newstrom, J. W. (1982). Employee responses to flexible
+work schedules: An inter-organization, intersystem comparison.
+Journal of Management, 8, 9–25. https://doi.org/10.1177/
+014920638200800101
+Resnick, J. (1997). What makes flex work. HR Focus, 74:31–32.
+Ronen, S. (1986). Alternative work schedules: Selecting, implementing, and
+evaluating. Homewood, Illinois: Dow Jones-Irwin.
+Ronen, S., & Primps, S. (1980). The impact of flexitime on performance and
+attitudes in 25 public agencies. Public Personnel Management, 9,
+201–207.
+Routley, N. (2020). 6 charts that show what employers and employees
+really think about remote working. World Economic Forum. Retrieved
+
+PEPRAH ET AL.
+
+from https://www.weforum.org/agenda/2020/06/coronavirus-covid19remote-working-office-employees-employers/
+Sands, J., & Harper, T. (2007). Family-friendly benefits and organizational
+performance. Business Renaissance Quarterly, 2, 107–126.
+Scandura, T., & Lankau, M. (1997). Relationships of gender, family responsibility and flexible work hours to organisational commitment and job
+satisfaction. Journal of Organizational Behavior, 18, 377–391.
+Shepard, E., III, Clifton, T., & Kruse, D. (1996). Flexible working hours and
+productivity: Some evidence from the pharmaceutical industry. Industrial Relations, 35, 123–139.
+Solomon, M., (1999). Workers want a life! Do managers care? Workforce,
+78: 54–58.
+Stavrou, E. (2005). Flexible work bundles and organizational competitiveness: a cross-national study of the European work context. Journal of
+Organizational Behavior, 26, (8), 923–947. http://dx.doi.org/10.1002/
+job.356.
+Stavrou, E., & Kilaniotis, C. (2010). Flexible work and turnover: An empirical investigation across cultures. British Journal of Management, 21,
+541–554.
+Stavrou, E., Parry, E., & Anderson, D. (2015). Nonstandard work arrangements and configurations of firm and societal systems. The International Journal of Human Resource Management, 26, 2412–2433.
+Stavrou, E. T. (2005). Flexible work bundles and organizational competitiveness: A cross-national study of the European work context. Journal
+of Organizational Behavior, 26, 923–947.
+Tausig, M., & Fenwick, R. (2001). Unbinding time: Alternate work schedules and work-life balance. Journal of Family and Economic Issues, 22,
+101–119. https://doi.org/10.1023/A:1016626028720
+Thompson, C., Beauvais, L., & Lyness, K. (1999). When work–family benefits are not enough: The influence of work–family culture on benefit
+utilization, family attachment and work–family conflict. Journal of
+Vocational Behavior, 54, 392–415.
+Vaananan, A., Kevin, M. V., Ala-Mursula, L., Pentti, J., Kivimaki, M., &
+Vahtera, J. (2005). The double burden of and negative spillover
+between paid and domestic work: Associations with health among
+men and women. Women & Health, 40, 1–18.
+Valverde, M., Tregaskis, O., & Brewster, C. (2000). Labor flexibility and firm
+performance. International Advances in Economic Research, 6, 649–661.
+
+How to cite this article: Peprah AA, Agyemang CB,
+Damoah OBO. Flexible working schedules in SMEs: Evidence
+from a developing country. Bus Strat Dev. 2020;1–8. https://
+doi.org/10.1002/bsd2.128
+
+

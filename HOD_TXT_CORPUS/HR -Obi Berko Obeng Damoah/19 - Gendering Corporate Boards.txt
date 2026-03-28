@@ -1,0 +1,927 @@
+Original Article
+
+Gendering Corporate Boards
+and Conditional Effectiveness of
+Board Processes: Insights from a
+Sub-Saharan African Country
+
+Global Business Review
+–18
+1716­–2025
+1733
+26(6) 1716­–1733,
+2022 IMI
+© 2021
+Reprints
+permissions:
+Article and
+reuse
+guidelines:
+in.sagepub.com/journals-permissions-india
+https://doi.org/﻿
+DOI:﻿
+DOI: 10.1177/09721509211036271
+journals.sagepub.com/home/gbr
+
+Obi Berko O. Damoah1, Yvonne Ayerki Lamptey1, Alex Anlesinya1
+and Barbara Naa Amanuah Tetteh2
+Abstract
+This study explored how and when female board members make effective contribution to board processes in a sub-Saharan African country (Ghana), a context characterized by low female representation
+on corporate boards, but highly under-researched with respect to the gender and corporate governance literature. The study is based on interview data from 25 female board directors in Ghana. The
+results show that women on corporate boards contribute to effective board processes and outcomes
+when their proposed ideas during board meetings are accepted by other board members, implemented
+by management and impact positively on organizational outcomes such as enhanced financial, product
+and staff outcomes. These effective contributions of female board directors to corporate board processes can further be enhanced by suitable female directors’ personal-level conditions such as their
+human capital (advanced degree and professional qualification, and past board membership experience)
+and family support (supportive husbands, and having grown up children), as well as board-level conditions like occupying chairperson/leadership position on the board or committees, and regular attendance at board meetings. Consequently, this research study contributed to the gender and corporate
+governance literature by providing new evidence from under-researched geographical context on how
+women on corporate boards contribute to effective board processes. It further highlights personal and
+board-level conditions that are necessary for greater contributions of female directors to corporate
+board processes and outcomes in male-dominated societies and boards.
+Keywords
+Gender, women on corporate boards, corporate governance, corporate board effectiveness, corporate
+board process, Ghana, Sub-Saharan Africa
+
+Introduction
+The representation of females on corporate boards continues to receive attention from various stakeholders (Baker et al., 2020; Chizema et al., 2015; Kirsch, 2018; Zalata et al., 2019), especially as it has
+1Department of Organisation and Human Resource Management, University of Ghana Business School, Legon, Accra, Ghana.
+2Department of Business Administration, University of Professional Studies, Accra, Ghana.
+
+Corresponding author:
+Alex Anlesinya, Department of Organization and Human Resource Management, University of Ghana Business School, P. O.
+Box LG 78, GPS GA-490-9425, Legon, Accra, Ghana.
+E-mail: alexanlesinya@gmail.com
+
+Damoah
+et al.
+2
+
+1717
+Global Business Review
+
+become apparent that the lack of gender diversity has contributed immensely to recent global economic
+crises (Nguyen et al., 2020). As a result, several countries globally have formulated legislations to change
+board composition by compelling firms to have a certain quota for women on corporate boards (Baker
+et al., 2020; Yang et al., 2019). In spite of these policy interventions and the recognition of female directors’ roles, most corporate boards are still dominated by men and appear more problematic in African
+countries, as it has been estimated that only one out of every seven board seats is likely to be occupied
+by a female director (Bain & Company, 2017; McKinsey & Company, 2016).
+Empirically, various studies have examined the influence of female directors or gender diversity on
+the effectiveness of board processes and organizational outcomes. While some found positive results
+(e.g., Arioglu, 2020; Li & Li, 2020; Kilic & Kuzey, 2016; Moussa, 2019; Song et al., 2020), others found
+negative outcomes (Comi et al., 2020; Martinez-Jimenez et al., 2020; Yang et al., 2019) or no significant
+impact (e.g., Arora & Singh, 2020; Zajiji et al., 2020). This suggests that there is still a lack of consensus
+in the extant research on the contribution of women on corporate boards to the effectiveness of board
+processes and organizational effectiveness. Accordingly, Yang et al. (2019, p. 10) argued that the ‘business case for a more gender-balanced representation on corporate boards is not as easy to argue for’ and,
+therefore, call for more studies to delve into the mechanisms and conditions that facilitate the contributions of gendered boards to effective board processes and corporate effectiveness (Yang et al., 2019).
+Besides, most of the available studies focused more on organizational outcomes like financial performance relative to how and when women on corporate boards contribute to the effectiveness of board-level
+outcomes and boardroom processes (Benkraiem et al., 2017).
+Furthermore, issues of representation of women on corporate boards and their contributions are context- and country-specific (e.g., Byron & Post, 2016; Kirsch, 2018). However, a recent systematic literature review by Nguyen et al. (2020) showed that prior studies have overwhelmingly focused on different
+developed countries’ setting, while a significant number of developing countries are given less research
+attention. The situation is even more alarming in Africa as their review revealed that out of the 634 articles
+assessed, only 34 were published in 12 different countries in the African context, with only 3 articles
+focusing on Ghana (Nguyen et al., 2020). Unfortunately, the African context is different from the Western
+context, where most of the available studies were conducted. Unlike the Western contexts, formal institutional frameworks necessary to promote gender equality and participation in managerial decision-making
+are weak in most African countries because of political instability and poor political leadership
+(Agyei-Boapeah et al., 2020). Similarly, African countries are patriarchal in nature, with high prevalence
+of shared gender stereotypes, which often limit the participation of women in decision-making at various
+levels of society (Anlesinya et al., 2019). Hence, delving deeper to understand the African experience by
+highlighting how and when women on corporate boards contribute to effective board processes and
+organizational outcomes can provide an important impetus for increasing their representation on corporate boards and their participation in decision-making.
+Consequently, using qualitative empirical evidence from female board members in Ghana as a case
+study, we explored how and when females on corporate boards contribute effectively to board processes
+and outcomes. In so doing, our study makes the following contributions to the gender and corporate
+governance literature: first, because the available literature focused mainly on board gender diversity and
+organizational outcomes, with conflicting findings, while paying less attention to board-level outcomes,
+this study offers new evidence to extend the limited literature on gender and board-level outcomes by
+highlighting key mechanisms or channels through which female board members make effective contributions to board processes and outcomes. Second, and similarly, it reveals key personal-level and
+board-level conditions that can enhance the effective contributions of women on corporate boards to
+board processes and outcomes. Together, it offers useful insights for enhancing the representation and
+
+1718
+Anlesinya
+et al.
+
+Global Business Review 26(6)3
+
+appointment of women to corporate boards to improve board process, good governance and organizational outcomes for the benefits of stakeholders. Third, it uses empirical evidence from under-researched
+geographical context, that is, Sub-Saharan Africa, specifically, Ghana, where women lag behind in managerial decision-making because of its patriarchal nature. It, thus, sheds light on how and when women
+can make an impact on male-dominated boards and in male-dominated societies.
+The rest of the article is organized as follows: review of literature, methodology, analysis, discussion,
+and conclusion and implications.
+
+Review of Literature
+Contributions of Female Directors to Board Processes and Outcomes
+The contributions of female board members to board processes and organizational outcomes are a subjective of extensive debate and research. Empirically, in the USA, Srinidhi et al. (2020) showed that
+independent female directors are more effective in bringing dynamics into the board process, relative to
+their male counterparts, with respect to changing of board norms (board processes), as well as enhancing
+board performance. Likewise, in Instanbul, Arioglu (2020) suggested that women on corporate boards
+improve corporate financial outcomes in men-dominated cultural societies because women ensure better
+monitoring and bring enriched ideas and perspectives, which inject creativity and innovation in board
+process by improving decision-making in the boardroom. On the contrary, Martinez-Jimenez et al.
+(2020) found that women on corporate boards have a negative effect on board effectiveness (strategic
+control, organizational innovation and decision-making), but they have insignificant effect on business
+performance. Besides, some people argue that diversity breeds conflict, which, in turn, can adversely
+affect the speed of decision-making, by complicating and slowing decision-making (Triana et al., 2014).
+Likewise, in Norway, Yang et al. (2019) showed that mandatory representation of women on boards,
+via gender quota legislation, reduces firm performance and risks. They, however, found that more
+gender-balanced boardrooms appear to be doing better than less gender-balanced boardrooms. This may
+suggest that organizations that see representation of women on corporate boards as a mere tokenism may
+not derive any major benefits from their female board members (Childs & Krook, 2008; Yoder & Sinnett,
+1985). Tokenism in this context means that even though women are represented, they are significantly in
+the minority (Childs & Krook, 2008; Kanter, 1977). That said, the discussions here suggest that there is
+lack of consensus in the extant research on how women on corporate boards affect board processes and
+organizational effectiveness, and requires further research. It further raises the need to explore other useful conditions and mechanisms necessary to enhance the effectiveness of female board members (Yang
+et al., 2019). In this regard, the follow section presents conditional effective contributions of female
+directors to board processes.
+
+Conditional Effective Contributions of Female Directors to Board Processes
+The effective contributions of women on board may be dependent on several personal and board-level
+boundary conditions. Specifically, Amorelli and García-Sánchez (2020) found that women on corporate
+boards contribute to board processes and outcomes when they possess high human capital (consisting of
+their background, skills and experience). Similarly, in South Africa, Zajiji et al. (2020) suggested that
+
+Damoah
+et al.
+4
+
+1719
+Global Business Review
+
+self-confidence, competence and experience of female directors can make them overcome the numerous
+barriers they face and contribute effectively to the board process. Earlier in the USA, Westphal and
+Milton (2000) found that the extent of contributions by minority directors to board decision-making is
+dependent on the level of their human capital (i.e., prior board experience).
+Furthermore, family structure and priority of women can affect their performance and career
+(Kirchmeyer, 2006). Specifically, some empirical evidence suggests that marriage and children increase
+obligations of women and, consequently, limit their career advancement and performance (e.g., Evers &
+Sieverding, 2014; Kirchmeyer, 2002; Schneer & Reitman, 2002; Verma, 2020) as it reduces their energy
+and commitment at work and discourages their geographical mobility for better employment opportunities (McBrier, 2003; Shauman & Xie, 1996). Accordingly, it has been suggested that female executives
+who are childless and unmarried are more likely to be successful (Evers & Sieverding, 2014; Lyness &
+Thompson, 1997, Shauman & Xie, 1996).
+However, others suggest that family circumstances like having a husband (Ashraf, 2009) or children
+(Thébaud, 2016) can improve the effective board contributions of female directors. A recent study by
+Anlesinya et al. (2019) found that adequate level of spousal and societal support in the form of physical,
+psycho-social support increases the prospect of women succeeding in difficult and men-dominated business environments. This is because women in managerial positions frequently experience stress and guilt
+since they are undecided between their professional duties and their roles as a wife (Ruderman
+et al., 2002).
+Aside personal conditions, board-level conditions like chair/leadership roles can determine the effectiveness of women on corporate boards. The chairpersons of corporate boards are leaders with responsibility for the success of the board, by performing several crucial responsibilities, and taking correct
+decisions as well as supervising the decision-making processes of the boards or their committees
+(Bezemer et al., 2018). Recently, Li and Li (2020) reported that female chairpersons of audit committees
+significantly helped to reduce financial irregularities as compared to male chairpersons in China. They
+are able to achieve this by creating a transparent and open decision-making environment, which facilitates taking decisions and measures to improve the quality of financial reports, internal control and
+external auditors’ opinions. This seems to support Nielsen and Huse’s (2010) assertion that the impact of
+women on boards is dependent on the kind of work they are assigned to perform.
+In addition, effective contributions of members of a corporate board can be determined by the frequency of board meetings (Lipton & Lorsch, 1992; Ntim & Osei, 2013). Frequent board meetings allow
+board of directors to assess and enhance corporate strategies (Vafeas, 1999). A recent study of listed
+firms in Ghana, by Puni and Anlesinya (2020), found that frequent board meetings can improve a firm’s
+performance as it provides opportunities for members of the board to effectively monitor and mitigate
+agency cost, as well as to have sufficient time to interrogate decisions and actions of management for
+better organizational outcomes achieved.
+
+Objective of the Study
+Based on the proceeding discussions, gaps and, as indicated, in ‘Introduction’ section, this study aims to
+explore: (a) ways by which representation of women on corporate boards contribute effectively to board
+processes; and (b) circumstances (personal and board-level conditions) that influence the effective contribution of women on corporate boards to board process. These objectives are further clarified by framing them with multidisciplinary theoretical perspectives, which are presented next.
+
+1720
+Anlesinya
+et al.
+
+Global Business Review 26(6)5
+
+Theoretical Frameworks
+The study applied multidisciplinary literature and theoretical perspectives, specifically, the social role theory (Eagly & Wood, 2012), the resource dependence theory (Pfeffer & Salancik, 1978), the human capital
+theory (Becker, 1964) and the agency theory (Fama & Jensen, 1983) to examine effective contributions of
+women on corporate boards and conditions that can affect their effective contribution to board’s
+decision-making process. This is important since the literature on women on corporate boards and gender
+diversity relies on multiple theoretical frameworks. The social role theory highlights gendered division of
+roles within a given society or an establishment. It argues that women are expected to play roles like raising
+children and attending to domestic issues, which are different from what men are expected to perform. Men
+are expected to occupy to leadership and managerial positions, where critical or most decisions are made
+(Eagly & Wood, 2012). Relating this to the study, it suggests that a gender stereotype in the management
+circle accounts for the low representation of women on corporate boards, generally, and, specifically, in
+Africa, because of the ‘think manager think male’ perception (Chizema et al., 2015; Chugh & Sahgal, 2007).
+This kind of thinking may deprive organizations of the required resources to sustain their competitiveness as the resource dependence theory argues that the success of organizations depends on their
+ability to obtain the necessary resources within their environment (Pfeffer & Salancik, 1978). The directors of organizations are seen as vital resources because they are a source of wise counsel and advice to
+firms (Hillman & Dalziel, 2003). In particular, this theory suggests that the appointment of more women
+on the board of organizations can be a source of several benefits for the effectiveness of the board processes and the organization as a whole. Women on corporate boards tend to have great connection with
+members of their external environment, which can be leveraged to achieve the goals of the board and the
+organization (Hussain et al., 2018; Liao et al., 2018). They also have the potential to help organizations
+achieve the benefit of legitimacy within their institutional environments, which, in turn, will allow them
+get access to vital resources for their operations (Hillman & Dalziel, 2003). Thus, from the perspectives
+of the resource dependence theory, it is argued that inclusion of women on corporate boards can enhance
+the effectiveness of the board process and the organization by helping to provide a much more varied and
+key resources for making enhanced and well-informed decisions, leading to enhanced corporate performance (Hillman et al., 2000).
+Similarly, the human capital theory suggests a person’s possession of human capital, that is, a combination of skills, knowledge and experience can increase the process of decision-making (Carter et al.,
+2010) and organizational outcomes. Women have a greater tendency to draw on their unique background
+to give creative and innovative inputs during board discussions to ensure that the right decisions are
+made (Kabongo & Okpara, 2019; Srinidhi et al., 2020) to benefit the needs of the organizations’ multiple
+stakeholders. Likewise, the agency theory suggests that diverse boards are more effective in discharging
+their monitoring roles (Husted & de Sousa-Filho, 2019; Upadhyay & Zeng, 2014). Women on corporate
+boards are more diligent and tend to devote adequate efforts and time to effectively monitor the activities
+and behaviours of the executives of the company (Adams & Ferreira, 2009; Arioglu, 2020).
+
+Methodology
+Research Design
+Ghana was the context used for the study, specifically, its capital city, Accra, because it has more
+than 95% of corporate head offices situated in Ghana, and, as such, it is Ghana’s commercial city
+
+Damoah
+et al.
+6
+
+1721
+Global Business Review
+
+(GRA, 2018). The research study was based on the qualitative interpretivist approach and therefore,
+sought to present the subjective interpretations of the interviewees on the topic (Guba & Lincoln, 1994).
+Besides, a systematic literature review by Kirsch (2018) revealed that a significant number of the available studies on the topic employed quantitative methods (269), but only a few (37) adopted the qualitative methods, or mixed methods (3). Recently, Nguyen et al. (2020) systematically analysed 634 articles
+from 1981 to 2019 and found that there is a dearth of qualitative and mixed-methods studies. Thus, this
+approach is helpful in enriching the existing discourse by generating in-depth knowledge to the topic.
+
+Population and Sample
+The population of the study was females on corporate boards in Ghana. Unlike quantitative research
+design, which was mostly based on probability sampling that allowed for generalization from the sample, this study was based on a relatively small in-depth sample size of 25 participants selected purposively. This sample size was adequate, based on the low representation of female board numbers in
+Ghana (Abor, 2017). Mason (2010) argues that a sample ranging from 5 to 50 is suitable for qualitative
+research. Other researchers suggested similar ranges of samples, ranging from 15 to 25 to less than
+50 participants being adequate for qualitative studies (Guetterman, 2015; Ritchie et al., 2003). The
+author augmented the purposive sample technique with the snowball technique (Battaglia, 2008). The
+purposive sampling method captured respondents who had in-depth knowledge on the topic. The snowball technique was used to recruit other research participants to increase the sample pool (Sekaran &
+Bougie, 2010).
+Table 1 presents the respondents’ demographic characteristics. From the results, 32% of sampled
+female board members were consultants, 24% were managers of corporate institutions, 12% were bankers and 32% were other professionals. Most of the female board members worked in the services
+sub-sector (i.e., banking, insurance, etc.). Also, majority of the female board members were 41–50 years
+old, and most of them (76%) were married. Finally, 60% and 20% of the sampled female board members
+had postgraduate and bachelor’s degrees, respectively.
+
+Data Sources
+Semi-structured interviews were used as the data collection method. Each interview engagement lasted
+45 min, on average. The semi-structured interviews consisted of a series of open-ended questions
+based on the research questions. As a result of the different circumstances of the interviewees, both
+face-to-face and telephonic interviews were employed. This was because, in some cases, it was not
+possible to meet some of the respondents face to face. Some of them travelled outside the interview
+location during the day of the interview meetings. Following Connelly (2014), this study followed
+research ethical guidelines, and so ethical principles such as confidentiality, informed consent, trustworthiness, beneficence and appropriate caution were exercised in the conduct of the research study.
+
+Empirical Model
+In line with Snape and Spencer (2003) and Creswell (2014), the study employed the thematic analytical
+techniques to generate findings and results based on themes that emerged from the interview transcripts.
+
+Global Business Review 26(6)7
+
+1722
+Anlesinya
+et al.
+Table 1. Profile of Respondents.
+Variable
+
+Category
+
+Frequency (N = 25)
+
+Percentage
+
+Profession
+
+Consultant
+
+8
+
+32.0
+
+Manager
+
+6
+
+24.0
+
+Banker
+
+3
+
+12.0
+
+Others
+
+8
+
+32.0
+
+Age (years)
+
+Marital status
+
+Educational level
+
+Sector of organization
+
+Ownership form
+
+Nature of organization
+
+30–40
+
+2
+
+8.0
+
+41–50
+
+10
+
+40.0
+
+51–60
+
+8
+
+32.0
+
+61+
+
+5
+
+20.0
+
+Married
+
+19
+
+76.0
+
+Unmarried
+
+3
+
+12.0
+
+Divorced/widowed
+
+3
+
+12.0
+
+Diploma/HND
+
+1
+
+4.0
+
+Bachelor’s degree
+
+5
+
+20.0
+
+Postgraduate degree/
+professional
+
+15
+
+60.0
+
+PhD
+
+4
+
+16.0
+
+Health
+
+2
+
+8.0
+
+Education
+
+8
+
+32.0
+
+Service
+
+10
+
+40.0
+
+Agriculture
+
+1
+
+4.0
+
+Water and sanitation
+
+4
+
+16.0
+
+Wholly Ghanaian
+
+20
+
+80.0
+
+Wholly foreign
+
+2
+
+8.0
+
+Partly foreign and partly
+local
+
+3
+
+12.0
+
+NGO
+
+1
+
+4.0
+
+Private company
+
+16
+
+64.0
+
+Government
+organization
+
+8
+
+32.0
+
+Source: The authors.
+
+Consequently, the results were based on typologies, which emerged from the subjective perceptions of
+the respondents. In line with Langridge (2004), coupled with Snape and Spencer (2003) and Creswell
+(2014), the abstraction procedure, which led to the final themes used for the analysis, started with subdividing the interview transcripts into units of meanings and codes. The codes were eventually sorted to
+eight themes (i.e., three themes for research question one, and five themes for research question two).
+The abstraction process is presented in Figures 1 and 2 presents the data structure and crystallizations of
+themes, comprising the eight codes and the two overarching themes: having familiarized ourselves with
+
+Damoah
+et al.
+8
+
+Figure 1. Data Abstraction Process.
+Source: 1.
+Adapted
+Crewel (2014).
+Figure
+Data from
+Abstraction
+Process.
+Source: Adapted from Crewel (2014).
+
+Figure 2. Data Structure and Crystallizations of Themes.
+Figure 2. Data Structure and Crystallizations of Themes.
+Source: The authors.
+Source: The authors.
+
+1723
+Global Business Review
+
+1724
+Anlesinya
+et al.
+
+Global Business Review 26(6)9
+
+the interview transcripts and a further generation of codes, two key themes were, finally, constructed and
+used for the analysis (see Kamoche & Leigh, 2021; Langridge, 2004). Following Anderson (2010), specific quotes from the interview transcripts, which are representative of the findings (the main themes),
+are used to strengthen the analysis.
+
+Analysis
+How Effective Contributions of Female Board Members to Board Processes and
+Outcomes Happen
+The analyses of the transcribed interviews reveal the following as ways by which female board members
+contribute to effective board processes and outcomes:
+Acceptance of a Female Member’s Idea
+One of the themes, which became a very high representative of the sample, is the phrase acceptance of a
+member’s idea during board discussions. According to the respondents, an idea refers to suggestions,
+views, perspectives and recommendations that members of the board bring to bear on a subject matter
+during board meetings. In their views, when one’s idea is accepted as the light on an issue at a board
+meeting, it is deemed as an effective contribution to the board process. Consistently, the interviewees
+maintained that during board meetings, it was not every perspective, suggestion and recommendation
+that was accepted because of evaluations of its pros versus cons. Yet there were times that the entire discussion of the board would centre on an idea put forth by them, making it one of the greatest feelings of
+effective contribution of being a member of the board. Overall, when a member’s idea became the topic
+of the entire board at a board meeting, it was tantamount to effective contribution. One of the female
+board members had the following to say regarding the acceptance of a female board member’s idea as a
+way by which effective contributions to board processes and outcomes by female directors happen:
+…if you are a female board member and most of your ideas are strongly supported by your colleagues board
+members, regardless of your gender everyone knows that your presence at the board means so much to the group.
+(Interviewee 22)
+
+Implementing a Female Member’s Idea
+Another way by which female board members contribute effectively to board processes and outcomes
+relates to the implementation of their idea(s) by the company. That is, where they saw that their ideas that
+were offered during the board meeting were being used and/or executed in the company. The respondents maintained that most of the boards they served on consisted of both executive and non-executive
+directors. The executive directors led by the CEO implemented the decision of the board. Hence, to the
+female board members when they saw that their ideas proposed and accepted at the board meeting were
+being implemented, it gave them a great sense of effective contribution to the board process. This is
+evident in the following quote:
+At most Annual General Meetings (AGMs) where the CEO and the executive directors present the reports of the
+past operations of the firm, it is always gratifying for us as female board members to see that one’s idea is being
+used in the company. My brother (referring to the interviewer as brother which is common in Ghana) the is really
+an indicator of effective contribution of being a member of the board. (Interviewee 7)
+
+Damoah
+et al.
+10
+
+1725
+Global Business Review
+
+Positive Impacts of a Female Member’ Ideas on the Organizations’ Outcomes
+Moreover, positive changes/impacts on a company’s outcome following brilliant ideas put forth by
+members of the board is considered as another significant way of positively contributing to the board
+process and outcomes. According to the interviewees, positive impact refers to a case where a member’s
+idea, which was accepted in the board meeting and implemented, started to impact positively on the
+company’s outcomes. They also explained organizational outcomes as results such as return on investment, growth in assets, staff and products. One of the female board members said the following regarding the positive impact of a member’s idea on the outcomes of the company:
+My brother you see even from the perspective of the company laws of Ghana, companies succeed and falls by
+the competence of its board members because technically the board is the management of the company and so
+a contribution of board member impacting positively on the outcome of the company is one of the expectations
+of investors from their board members and so just as our board chair will confirm this with you, the issue of a
+positive impact of a board member’s idea on the companies outcome constituting effective contribution on the
+part of a female board member cannot be over-emphasized. (Interviewee 3)
+
+Conditional Effective Contributions of Female Board Members to Board Processes and
+Outcomes
+The second research objective sought to determine factors that can enhance the effective contributions to
+board processes and outcomes by female board member. Analyses of the interview transcript are presented in the following sub-themes.
+The Requisite Advanced Degree and Professional Qualifications
+One of the dominant sub-themes that became representative of the sample on the second major theme
+concerns the requite advanced degree and professional equalizations. From the perspectives of the
+respondents, the requisite advanced degrees refer to postgraduate academic qualifications. In this
+regard, most of the respondents mentioned Master of Business Administration (MBA) and other postgraduate qualifications, depending on the discipline. In addition, the participants referred to the possession of professional qualifications to include professions such as law, human resource, accountancy,
+etc. In their view, the possession of advanced degrees or professional qualifications, or both is a critical success factor that put a board member in the position to understand the various technical issues,
+which are brought to the floor of the board for discussions. For instance, one of the respondents
+opined that:
+…advanced degrees and professional qualifications play important role if a female board member is to be effective on the board process. You see the issues in board room is wholly about analysis of reports to reports and so
+if a member’s academic and/or professional qualification are not advanced it can be very difficult challenge in
+understanding the issues confronting the company. (Interviewee 7)
+
+This was similarly reiterated by another respondent that:
+…advanced degree is very important. For instance, I can say that MBA is a critical success factor because that
+degree cuts across various issues confronting businesses. (Interviewee 3)
+
+1726
+Anlesinya
+et al.
+
+Global Business Review 26(6)
+11
+
+Past Board Membership Experience
+Another representative result was past experience. The female board members maintained that while
+advanced degrees, coupled with professional qualifications, are critical success factors, previous board
+membership experience facilitates effective contribution to a greater extent. For example, one sampled
+female board member said:
+…I must say that I also agree with the advanced degrees and all the professional qualifications, but in my view,
+experience plays a very important role. So in my view a female board member needs the requisite qualifications
+as well as the board experience. (Interviewee 9)
+
+Supportive Family
+Another finding was having a supportive family. The female board members agreed to the point that
+having a supportive family is one of the critical success factors. They referred to supportive family as
+having supportive spouse and having grown up children. The female board members explained that having supportive husbands who encourage, constantly pushing them positively, standing by them in every
+thick and thin in their professional pursuit is a strong conducive condition for their effective contribution
+to board processes. One of the respondent observed that:
+My brother you know as Africa women, our responsibilities do not end with the close of business hours compared to our husbands in similar pursuits. However, as women whether we are executives or otherwise we have
+several responsibilities at home. So I can confirm from experience that our effectiveness starts in part from the
+climate which pertains in our homes (i.e., how far our husbands are willing to stand by us all way through in this
+board membership roles. (Interviewee 5)
+
+Beside the above-mentioned personal conditions regarding factors that moderate effective contributions of women to board process, the results indicated the role of board-level factors, specifically, regular
+attendance to meetings and occupying a role on the board.
+Regular Attendance at Board Meetings
+The female board members maintained that regular attendance at board meetings enabled women on
+corporate boards to engage in the proceedings of the board to the highest degree. They also regarded it
+as a key panacea to success as a board member because it built one’s confidence. The following was
+extracted to buttress this point:
+When I started as a board member in this company, although I had the necessary qualifications, I was inexperienced, but I can confirm that I gained much confidence and effectiveness through my regular attendance to meetings. So I will encourage all my colleague female board members, especially those that are newly appointed to
+take attendance to meetings highly serious to boost their effectiveness. (Interviewee 10)
+
+Board Leadership Roles
+Besides the regular attendance to meetings, the respondents noted that when a member is offered a leadership position on the board (e.g., the board chair, a chair of any committee), it goes a long way to moderate the effective contribution to the board process. They were of the view that when a leadership role is
+offered to a female board member, that responsibility forces them to look for resources everywhere to
+
+Damoah
+et al.
+12
+
+1727
+Global Business Review
+
+build their personal capacities to remain effective in that leadership role. They were, therefore, of the
+view that every female board member should be prepared to offer themselves for leadership roles on
+their respective board as that plays an important role towards effective contribution.
+
+Discussions
+Although research interests in gender and corporate governance is growing, fewer studies have examined how and when women on corporate boards contribute to the effectiveness of board process relative
+to impact of their presence on organizational outcomes like financial performance (Benkraiem et al.,
+2017; Nielsen & Huse, 2010). Consequently, using qualitative evidence from female board members in
+Ghana, we explored how and when women on corporate boards contribute effectively to board processes
+and outcomes.
+The empirical results show that women on corporate boards contribute to effective board processes and
+outcomes when their proposed ideas during board meetings are accepted by other board members, implemented by the management and impact positively on organizations’ outcomes such as enhanced financial,
+product and staff outcomes. This finding seems to give credence to previous results by Srinidhi et al.
+(2020) and Arioglu (2020) but inconsistent with prior studies that found negative outcomes (Comi et al.,
+2020; Martinez-Jimenez et al., 2020), or no significant impact (e.g., Arora & Singh, 2020; Zajiji et al.,
+2020). This result, from the perspectives of the resource dependence and resource-based theories, suggests that female directors of organizations are vital resources because they are sources of wise counsel,
+useful ideas and advice (Hillman & Dalziel, 2003) for making positive organizational changes or impacts.
+Furthermore, the empirical results revealed that female directors’ personal-level conditions such as
+the human capital (i.e., advanced degree and professional qualification, and past board membership
+experience), and family support (supportive husband, and having grown up children), as well as
+board-level conditions (occupying chairperson/leadership position and regular attendance at board meetings) can significantly enhance the ability of female directors to contribute more effectively to board
+processes and organizational outcomes. This result from resource dependence and resource-based theories’ perspectives implies that female board members bring their unique knowledge and diverse perspectives to the decision-making table, thereby enriching board discussions. It further means that issues that
+confront corporate boards are highly technical and may be complex. Hence, having a professional and
+advanced academic qualification makes it easier for female board members to relate to various technical
+issues, which are brought for discussions during board meetings.
+Likewise, supportive family—specifically, having a supportive husband and grown up children—
+facilitates effective contributions of female directors to board processes. This suggests that suitable family circumstances of female directors can provide them with the needed sound mind, confidence and time
+to actively contribute towards enhancing the effectiveness of the board process and outcomes. This finding is similar to a study carried out by Anlesinya et al. (2019) that suggested that adequate level of spousal support in the form of physical and psycho-social support to their wives increases their prospect of
+succeeding in difficult and men-dominated business environments. This is because, as indicated earlier,
+women in managerial positions frequently experience stress and guilt since they are undecided between
+their professional duties and their role as a wife (Ruderman et al., 2002).
+In addition, the extent of effective contributions by female directors can be enhanced by their regular
+attendance at board meetings. This suggests that regular attendance at board meetings provides female
+directors the opportunity to bring their diverse perspectives, unique skills and monitoring capabilities to
+
+1728
+Anlesinya
+et al.
+
+Global Business Review 26(6)
+13
+
+enrich the boardroom discussions and debates, leading to improvement in board processes and outcomes
+(see Adams & Ferreira, 2009; Puni & Anlesinya, 2020). Similarly, the results suggest that female directors are able to contribute more effectively to board process when they occupy chairperson or leadership
+roles on the board. This result gave credence to Li and Li’s (2020) findings in China. This indicates that
+the impact of women on boards is dependent on the kind of work they are assigned to perform (Nielsen
+& Huse, 2010).
+
+Conclusion
+Although the representation of women on corporate boards are increasing, following the recent recognition of the potential contributions of female directors, most corporate boards are still dominated by men,
+and more prevalent in African countries, but research on the topic in the sub-Saharan African and specifically in the Ghana context is limited. Hence, this study explored how and when female board members make effective contributions to the board’s decision-making process in a sub-Saharan African
+country (Ghana), using qualitative data from 25 female board members. The study concludes that female
+board directors contribute to effective board processes and outcomes when their proposed ideas during
+board meetings are accepted by the board, implemented by management and impact positively on the
+outcomes of the organization. These effective contributions can be further enhanced by suitable
+personal-level conditions such as human capital (advanced degree and professional qualification, and
+past board membership experience) of female directors and their supportive family (supportive husbands and having grown up children), as well as board-level conditions like occupying chairperson/leadership position and regular attendance at board meeting. Consequently, our research study has extended
+the gender and corporate governance literature by highlighting how facilitating conditions for female
+directors at both personal and board levels effectively contribute towards corporate board processes and
+outcomes in male-dominated societies and boards. Also, provision of empirical insights from an
+under-researched geographical context, delivered via qualitative method, is a useful addition to existing
+research on the topic.
+
+Implications
+Managerial Implications
+The following are key practical implications of the findings: first, future performance appraisal of female
+directors, and, indeed, all board members, should not be limited to only organizational outcomes like
+return on asset but also consider how they positively impact boardroom debates and decisions during
+board meetings. Second, organizations should provide leadership opportunities for female directors like
+serving as chair of the board or board commitments because it is a critical condition for their effective
+contribution on the board. Third, the management of organizations and policymakers should make conscious efforts to increase the human capital of female directors by exposing them to advanced academic
+and professional training, more board and critical managerial experience to enable them to acquire useful
+experience and expertise to help them contribute more effectively to the board processes. Fourth, the
+findings impose responsibility on females who have the opportunity to serve on boards to regularly
+
+Damoah
+et al.
+14
+
+1729
+Global Business Review
+
+attend board meetings because it will aid them in improving the quality of boardroom decisions as well
+as using it as resources to build up their self-efficacy for success. Finally, provision of support by family
+members can provide the needed physical and psychological space to women to become useful additions
+to corporate boards.
+
+Theoretical Implications
+This study deviates largely from the existing line of research on the effectiveness of the presence of
+female directors in organizations by focusing on what goes on in the boardroom in terms of how
+female board members make their contributions to board process and decision-making outcomes and
+conditions that can further enhance their effectiveness. In particular, in a country like Ghana, where
+board membership is dominated by men, acceptance and implementation of a female board member’
+idea can enrich boardroom processes, discussions and decisions through gender-diverse perspectives,
+and also instil a sense of pride in female board members since it is recognition of their value on the
+board. This implies that to really evaluate the impact of the presence of female board members, it
+would be important to look beyond distal outcomes to include how they affect boardroom processes
+and decisions. Financial outcomes are narrow as it does not provide a comprehensive account of the
+influence of female board members on board process. Some of their contributions may not yet be
+manifested in the traditional indicators of corporate success like profitability and growth as there may
+be gaps between acceptance and implementation of proposed ideas of female board members and present organizational outcomes. This could explain why some researchers like Comi et al. (2020) and
+Martinez-Jimenez et al. (2020) found negative results of the presence of women on corporate boards
+or the insignificant results obtained by others like Zajiji et al. (2020). Thus, since the existing literature
+is overly concerned with assessing their impacts based on organizational outcomes, we contribute to
+knowledge by highlighting the need for the performance of female board directors to be comprehensively evaluated using both proximal and distance indicators of effectiveness.
+Second, Sub-Saharan Africa is least represented in the discourse even though there is low representation of women on corporate boards in the region (Eastman, 2017; Nguyen et al., 2020). It, thus, contributes to the literature based on the context by exploring the issues from an under-explored and a new
+geographical context (Ghana). Ghana is one of the major economies in Sub-Saharan Africa and internationally acclaimed as the beacon of Africa’s democracy. Consequently, research evidence from Ghana
+offers significant implications to similar countries in the sub-Saharan African region and other developing countries by bringing different insights to enhance our understanding of corporate board gendering
+and effectiveness of board processes.
+Third, as quantitative methods have been used extensively by researchers on women on corporate
+board and board outcomes (see Kirsch, 2018; Nguyen et al., 2020), the existing literature may be limited
+in effectively capturing boardroom dynamics and conditions regarding female directors’ impact on effectiveness of board processes and organizational outcomes. Hence, using qualitative methods in this study
+to generate new insights on the topic is an important methodological contribution to the existing literature since it proved to be helpful in uncovering how the representation of women on boards contributes
+to board processes and outcomes, while enhancing the understanding of personal and board-level boundary conditions that can further improve their effectiveness on boards.
+
+1730
+Anlesinya
+et al.
+
+Global Business Review 26(6)
+15
+
+Limitations and Future Research
+This study may be limited to the Ghanaian context. Besides, only female board members were interview
+and may limit the study’s findings. Future studies are, therefore, recommended in other contexts, particularly in various African contexts. Also, it will be useful for future research to collect data from both male
+and female board members on the issue.
+Acknowledgement
+The authors are grateful to the anonymous referees of the journal for their extremely useful suggestions
+to improve the quality of the article. Usual disclaimers apply.
+Declaration of Conflicting Interests
+The authors declared no potential conflicts of interest with respect to the research, authorship and/or
+publication of this article.
+Funding
+The authors received no financial support for the research, authorship or publication of this article.
+References
+Abor, P. A. (2017). Examining gender diversity on hospital boards in Ghana. International Journal of Health
+Governance, 22(4), 269–282.
+Adams, R. B., & Ferreira, D. (2009). Women in the boardroom and their impact on governance and performance.
+Journal of Financial Economics, 94, 291–309.
+Agyei-Boapeah, H., Machokoto, M., Amankwa-Amoah, J., Tunyi, A., & Fosu, S. (2020). IFRS adoption and firm
+value: African evidence. Accounting Forum, 44(3), 238–261.
+Amorelli, M. -F., & García-Sánchez, I.-M. (2020). Critical mass of female directors, human capital, and stakeholder
+engagement by corporate social reporting. Corporate Social Responsibility and Environmental Management,
+27, 204–221.
+Anderson, C. (2010). Presenting and evaluating qualitative research. American Journal of Pharmaceutical
+Education, 74(8). https://doi.org/10.5688/aj7408141
+Anlesinya, A., Adepoju, O. A., & Richter, U. H. (2019). Cultural orientation, perceived support and participation of
+female students in formal entrepreneurship in the Sub-Saharan economy of Ghana. International Journal of
+Gender and Entrepreneurship, 11(3), 299–322.
+Arora, N., & Singh, B. (2020). Do female directors signal Indian SME IPOs quality? Evidence from a quantile
+regression approach. Global Business Review. https://doi.org/10.1177/0972150920911806.
+Arioglu, E. (2020). Female board members: The effect of director affiliation. Gender in Management: An
+International Journal, 35(2), 225–254.
+Ashraf, M. (2009). Characteristics of female managers in the US labour market. Applied Economics Letters, 16(17),
+1683–1686.
+Baker, H. K., Pandey, N., Kumar, S. & Haldar, A. (2020). A bibliometric analysis of board diversity: Current status,
+development, and future research directions. Journal of Business Research, 108, 232–246.
+Bain and Company (2017). Gender (dis)parity in South Africa. Bain and Company.
+Battaglia, M. (2008). Purposive sample. In P. J. Lavrakas (Ed.), Encyclopedia of survey research methods. SAGE
+Publications.
+Becker, G. (1964). Human capital. University of Chicago Press.
+
+Damoah
+et al.
+16
+
+1731
+Global Business Review
+
+Benkraiem, R., Hamrouni, A., Lakhal, F., & Toumi, N. (2017). Board independence, gender diversity and CEO
+compensation. Corporate Governance, 17(5), 845–860.
+Bezemer, P. J., Nicholson, G., & Pugliese, A. (2018). The influence of board chairs on director engagement: A
+case-based exploration of boardroom decision-making. Corporate Governance: An International Review,
+26(3), 219–234.
+Byron, K., & Post, C. (2016). Women on boards of directors and corporate social performance: A meta-analysis.
+Corporate Governance: An International Review, 24(4), 428–442.
+Carter, D. A., D’Souza, F., Simkins, B. J., & Simpson, W. G. (2010). The gender and ethnic diversity of US boards
+and board committees and firm financial performance. Corporate Governance: An International Review, 18,
+396–414.
+Childs, S., & Krook, M. (2008). Critical mass theory and women’s political representation. Political Studies, 56(3),
+725–736.
+Chizema, A., Kamuriwo, D. S., & Shinozawa, Y. (2015). Women on corporate boards around the world: Triggers and
+barriers. The Leadership Quarterly, 26(6), 1051–1065.
+Chugh, S., & Sahgal, P. (2007). Why do few women advance to leadership positions? Global Business Review, 8(2),
+351–365.
+Connelly, L. M. (2014). Ethical considerations in research studies. Medsurg Nursing, 23(1), 54.
+Comi, S., Grasseni, M., Origo, F., & Pagani, L. (2020). Where women make a difference: Gender quotas and firms’
+performance in three European countries. ILR Review, 73(3), 768–793.
+Creswell, J. W. (2014). Research design: Qualitative, quantitative and mixed methods approaches. SAGE
+Publications.
+Eagly, A. H., & Wood, W. (2012). Social role theory. In P. A. M. Van Lange, A.W. Kruglanski, & E. T. Higgins
+(Eds.),
+(Eds), Handbook of theories of social psychology (Vol. 2, pp. 458–476). SAGE Publications.
+Eastman, M. T. (2017). Women on boards: Progress report 2017. MSCI ESG Research LLC.
+Evers, A., & Sieverding, M. (2014). Why do highly qualified women (still) earn less? Gender differences in long-term
+predictors of career success. Psychology of Women Quarterly, 38(1), 93–106.
+Fama, E. F., & Jensen, M. C. (1983). Agency problems and residual claims. The Journal of Law and Economics,
+26(2), 327–349.
+GRA (Ghana Revenue Authority). (2018). List of companies. www.gra.gov.gh/docs/info/Itos_22nd.pdf
+Guetterman, T. (2015). Descriptions of sampling practices within five approaches to qualitative research in education and the health sciences. University of Nebraska.
+Guba, E.G., & Lincoln, Y.S. (1994). Competing paradigms in qualitative research. In N. K. Denzin & Y. S. Lincoln
+(Eds.), Handbook of qualitative research (pp. 105–117). Thousand Oaks, CA: Sage.
+Hillman, A. J., Cannella, A. A., & Paetzold, R. L. (2000). The resource dependence role of corporate directors:
+Strategic adaptation of board composition in response to environmental change. Journal of Management
+Studies, 37(2), 235–256.
+Hillman, A. J., & Dalziel, T. (2003). Boards of directors and firm performance: Integrating agency and resource
+dependence perspectives. Academy of Management Review, 28(3), 383–396.
+Hussain, N., Rigoni, U., & Orij, R. P. (2018). Corporate governance and sustainability performance: Analysis of
+triple bottom line performance. Journal of Business Ethics, 149(2), 411–432.
+Husted, B. W., & de Sousa-Filho, J. M. (2019). Board structure and environmental, social, and governance disclosure in Latin America. Journal of Business Research, 102(1), 220–227.
+Kabongo, J. D., & Okpara, J. O. (2019). Timing and speed of internationalization: Evidence from African banks.
+Journal of Business Research, 102, 12–20.
+Kamoche, K., & Leigh, F., S. M. (2021). Talent management, identity construction and the burden of elitism: The
+case of management trainees in Hong Kong. Human Relations, 1–2. https://doi.org/10.1177/0018726721996778.
+Kanter, R. M. (1977). Men and women of the corporation. Basic Books.
+Kilic, M., & Kuzey, C. (2016). The effect of board gender diversity on firm performance: Evidence from Turkey.
+Gender in Management: An International Journal, 31(7), 434–455.
+
+1732
+Anlesinya
+et al.
+
+Global Business Review 26(6)
+17
+
+Kirsch, A. (2018). The gender composition of corporate boards: A review and research agenda. The Leadership
+Quarterly, 29, 346–364.
+Kirchmeyer, C. (2002). Gender differences in managerial careers: Yesterday, today, and tomorrow. Journal of
+Business Ethics, 37, 5–24.
+Kirchmeyer, C. (2006). The different effects of family on objective career success across gender: A test of alternative
+explanations. Journal of Vocational Behavior, 68(2), 323–346.
+Langridge, D. (2004). Introduction to research methods and data analysis in psychology. Pearson.
+Li, X., & Li, Y. (2020). Female independent directors and financial irregularities in Chinese listed firms: From the
+perspective of audit committee chairpersons. Finance Research Letters, 32, 101320.
+Liao, L., Lin, T., & Zhang, Y. (2018). Corporate board and corporate social responsibility assurance: Evidence from
+China. Journal of Business Ethics, 150(1), 211–225.
+Lipton, M., & Lorsch, J. W. (1992). A modest proposal for improved corporate governance. Business Lawyer,
+48, 59–77.
+Lyness, K. S., & Thompson, D. E. (1997). Above the glass ceiling? A comparison of matched samples of female and
+male executives. Journal of Applied Psychology, 82, 359–375.
+Martinez-Jimenez, R., Hernández-Ortiz, M. J., & Fernández, A. I. C. (2020). Gender diversity influence on board
+effectiveness and business performance. Corporate Governance, 20(2), 307–323.
+Mason, M. (2010, August). Sample size and saturation in PhD studies using qualitative interviews. Forum:
+Qualitative Social Research, 11(3). https://doi.org/10.17169/fqs-11.3.1428
+McBrier, D. B. (2003). Gender and career dynamics within a segmented professional labor market: The case of law
+academia. Social Forces, 81, 1201–1266.
+McKinsey & Company (2016). Women matter Africa. https://www.mckinsey.com/featuredinsights/gender-equality/
+women-matter-africa
+Moussa, F. B. (2019). The influence of internal corporate governance on bank credit risk: An empirical analysis for
+Tunisia. Global Business Review, 20(3), 640–667.
+Nguyen, T. H. H., Ntim, C. G., & Malagila, J. K. (2020). Women on corporate boards and corporate financial and
+non-financial performance: A systematic literature review and future research agenda. International Review of
+Financial Analysis, 71, 101554.
+Nielsen, S., & Huse, M. (2010). The contribution of women on boards of directors: Going beyond the surface.
+Corporate Governance: An International Review, 18(2), 136–148.
+Ntim, C., & Osei, K. (2013). The impact of corporate board meetings on corporate performance in South Africa.
+African Review of Economics and Finance, 2(2), 83–103.
+Pfeffer, J., & Salancik, G. (1978). The external control of organizations: A resource-dependence perspective. Harper
+and Row.
+Puni, A., & Anlesinya, A. (2020). Corporate governance mechanisms and firm performance in a developing country.
+International Journal of Law and Management, 62(2), 147–169.
+Ritchie, J., Lewis, J., & Elam, G. (2003). Designing and selecting samples (pp. 77–108). Sage
+SAGEPublications
+Publications.
+Ruderman, M. N., Ohlott, P. J., Panzer, K., & King, S. N. (2002). Benefits of multiple roles for managerial women.
+Academy of Management Journal, 45(2), 369–386.
+Schneer, J. A., & Reitman, F. (2002). Managerial life without a wife: Family structure and managerial career success. Journal of Business Ethics, 37, 25–38.
+Sekaran, U., & Bougie, R. (2010). Research for business–A skill building approach. John-Wiley and Sons.
+Shauman, K. A., & Xie, Y. (1996). Geographic mobility of scientists: Sex differences and family constraints.
+Demography, 33, 455–468.
+Snape, D., & Spencer, L. (2003). The foundations of qualitative research. In J. Ritchie, & J. Lewis (Eds.),
+(Eds), Qualitative
+research practice: A guide for Social Science students and researchers (pp. 1–23). London: Sage.
+Song, H. J., Yoon, Y. N., & Kang, K. H. (2020). The relationship between board diversity and firm performance in
+the lodging industry: The moderating role of internationalization. International Journal of Hospitality
+Management, 86, 102461.
+
+Damoah
+et al.
+18
+
+1733
+Global Business Review
+
+Srinidhi, B., Sun, Y., Zhang, H., & Chen, S. (2020). How do female directors improve board governance? A mechanism based on norm changes. Journal of Contemporary Accounting and Economics, 16, 100181.
+Thébaud, S. (2016). Passing up the job: The role of gendered organizations and families in the entrepreneurial career
+process. Entrepreneurship Theory and Practice, 40(2), 269–287.
+Triana, M. D. C., Miller, T. L., & Trzebiatowski, T. M. (2014). The double-edged nature of board gender diversity:
+Diversity, firm performance, and the power of women directors as predictors of strategic change. Organization
+Science, 25(2), 609–632.
+Vafeas, N. (1999). The nature of board nominating committees and their role in corporate governance. Journal of
+Business Finance and Accounting, 26(1–2), 199–225.
+Verma, S. (2020). Examining the new dimensions of career advancement of women employees. Global Business
+Review, 21(3), 869–881.
+Upadhyay, A., & Zeng, H. (2014). Gender and ethnic diversity on boards and corporate information environment.
+Journal of Business Research, 67(11), 2456–2463.
+Westphal, J. D. & Milton, L. P. (2000). How experience and network ties affect the influence of demographic minorities on corporate boards. Administrative Science Quarterly, 45, 366–398.
+Yang, P., Riepe, J., Moser, K., Pull, K., & Terjesen, S. (2019). Women directors, firm performance, and firm risk: A
+causal perspective. The Leadership Quarterly, 30(5), 101297.
+Yoder, J. D., & Sinnett, L. M. (1985). Is it all in the numbers? A case study of tokenism. Psychology of Women
+Quarterly, 9(3), 413–418.
+Zajiji, Z., Wilson-Prangley, A., & Ndletyana, D. (2020). Board level (in)visibility and critical mass in South African
+companies. Gender in Management: An International Journal. 36(1), 149–168. https://doi.org/10.1108/
+GM-12–2019-0267
+Zalata, A. M., Ntim, C., Aboud, A., & Gyapong, E. (2019). Female CEOs and core earnings quality: New evidence
+on the ethics versus risk-aversion puzzle. Journal of Business Ethics, 160(2), 515–534.
+
+

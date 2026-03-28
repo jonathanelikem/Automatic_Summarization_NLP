@@ -1,0 +1,1573 @@
+African Journal of Economic and Management Studies
+Strategic factors and firm performance in an emerging economy
+Obi Berko O. Damoah
+
+Article information:
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+To cite this document:
+Obi Berko O. Damoah, (2013),"Strategic factors and firm performance in an emerging economy", African
+Journal of Economic and Management Studies, Vol. 4 Iss 2 pp. 267 - 287
+Permanent link to this document:
+http://dx.doi.org/10.1108/AJEMS-02-2013-0013
+Downloaded on: 02 February 2016, At: 05:34 (PT)
+References: this document contains references to 81 other documents.
+To copy this document: permissions@emeraldinsight.com
+The fulltext of this document has been downloaded 384 times since 2013*
+
+Users who downloaded this article also downloaded:
+Moses Acquaah, David B. Zoogah, Eileen N. Kwesiga, (2013),"Advancing Africa through management
+knowledge and practice: the way forward", African Journal of Economic and Management Studies, Vol. 4
+Iss 2 pp. 164-176 http://dx.doi.org/10.1108/AJEMS-04-2013-0036
+Kaja Tvedten, Michael Wendelboe Hansen, Søren Jeppesen, (2014),"Understanding the rise of
+African business: In search of business perspectives on African enterprise development", African
+Journal of Economic and Management Studies, Vol. 5 Iss 3 pp. 249-268 http://dx.doi.org/10.1108/
+AJEMS-11-2012-0077
+Moses N. Kiggundu, (2013),"Personal reflections on African management: looking in, looking out and
+looking ahead", African Journal of Economic and Management Studies, Vol. 4 Iss 2 pp. 177-200 http://
+dx.doi.org/10.1108/AJEMS-Feb-2012-0008
+
+Access to this document was granted through an Emerald subscription provided by emerald-srm:534301 []
+
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald for
+Authors service information about how to choose which publication to write for and submission guidelines
+are available for all. Please visit www.emeraldinsight.com/authors for more information.
+
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company
+manages a portfolio of more than 290 journals and over 2,350 books and book series volumes, as well as
+providing an extensive range of online products and additional customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the Committee
+on Publication Ethics (COPE) and also works with Portico and the LOCKSS initiative for digital archive
+preservation.
+*Related content and download information correct at time of download.
+
+The current issue and full text archive of this journal is available at
+www.emeraldinsight.com/2040-0705.htm
+
+Strategic factors and firm
+performance in an
+emerging economy
+Obi Berko O. Damoah
+Department of Organisation and Human Resource Management,
+University of Ghana Business School, Accra, Ghana
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+Abstract
+
+Strategic factors
+
+267
+Received 5 October 2011
+Revised 10 July 2012
+20 November 2012
+3 February 2013
+Accepted 6 February 2013
+
+Purpose – As a result of the lack of reliable data, systematic research that informs public policy
+and practice from Ghana seems to be lacking. Although the World Bank’s survey concerning
+Ghana’s manufacturing sub-sector has been available for some time now, yet little is known as regards
+firm level research and so policy formulation has been affected exceedingly. The purpose of this
+paper is to identify the strategic factors which influence firm performance from Ghana (an emerging
+economy).
+Design/methodology/approach – This study employs the World Bank data set relating to a panel
+of firms within the Ghanaian manufacturing sector from 1991-2002.
+Findings – By pooling the data and setting OLS regression, the results of the study indicate that joint
+venture (JVs) ownership predicts significant performance compared with similar counterparts that are
+wholly indigenously owned. Besides, firm size, workforce productivity and the location where a firm
+operates are strategic drivers of firm performance in a significant way.
+Originality/value – The paper shows that alliances with foreign businesses by indigenous firms
+from Ghana boosts the capacity of the local firms with regard to human and financial capital
+resources, as well as linking them to international supply and distribution networks that greatly
+enhance their performance.
+Keywords Ghana, Manufacturing industries, Organizational performance, Emerging economy,
+Small to medium-sized enterprises
+Paper type Research paper
+
+Introduction
+Economies of emerging markets (especially those in sub-Saharan Africa) have lagged
+behind their counterparts in the developed countries (e.g. the USA, the UK, and
+Europe). While, it has recently been argued in the literature that the problem is partly
+caused by low skill levels and lack of technological capabilities among firms from
+emerging economies, it is also contended that firm level research, which would
+facilitate efficient and effective resource mobilisation, allocation and utilisation, as well
+as encourage firm growth and socio-economic transformation, is lacking among these
+economies (Graner and Isaksson, 2007; Sousa et al., 2003).
+Firm level research that links public policy to practice is argued to be one of the
+preconditions for successful socio-economic development of every economy (Grunberg,
+2004; Cocca and Marco, 2010). Yet there is a controversy about access to credible data
+African Journal of Economic and
+Management Studies
+set from sub-Saharan Africa to support public policy and practice (Mtigwe, 2004).
+Vol. 4 No. 2, 2013
+In line with this research gap, the identification of strategic factors from firms from
+pp. 267-287
+Limited
+Ghana (a sub-Saharan Africa’s emerging economy), appears critical. With regard to q Emerald Group Publishing2040-0705
+what refers to strategic factors, Pearce and Robinson (2009) argue that what constitutes DOI 10.1108/AJEMS-02-2013-0013
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+268
+
+strategic factors concerns any issues with regard gaining competitive advantage in the
+market place. Following Pearce and Robinson, strategic factors are usually determined
+and/or identified by the top management because they differ from operational issues
+which are directed by middle level and/or first line managers and because they focus
+on the day-to-day function of a business at shop floor. However, the concept is
+stretched to encompass several themes. For example, Finlay (2000) argues that what
+constitutes strategic factors depends on what is important to top management at a
+given time, based on the kind of the objective a firm aims to achieve. Following Finlay,
+there can be: strategic goal; strategic assets; strategic business unit; and strategic
+thinking. Among these themes, Finlay maintained that strategic factors, be they assets
+and/or resources, possess distinctive characteristics from other assets and so are used
+as the cornerstone for market-place competitive advantage over competitors.
+Systematically identifying the strategic factors that significantly influence firm
+performance from Ghana offers many benefits. The reason for this is because by such
+activity firms are placed in a better position to manage the key strategic factors for their
+survival. By unravelling the strategic factors, firms are in the position to know the kind
+of resources to mobilise for success because not all resources will be considered as
+strategic. Through identifying the strategic performance factors, a firm is in the position
+to know where to channel its skill training activity in order to compete effectively and
+meet customer expectations. The identification of the strategic performance factors
+means these factors can be used as core competencies to exploit a critical success factor
+for industry advantage over rivals. Overall, given the fact that firms from an emerging
+economy such as Ghana are disadvantaged compared with their counterparts from the
+developed countries (e.g. the USA, the UK and Europe), undertaking such exercise will
+strengthen the local firm to compete effective both home and abroad.
+In the light of the argument above, the main objective therefore, of this study is to
+examine the strategic factors that determine the performance of firms from Ghana. The
+reason for this is that while this line of research has served as a good foundation for
+public policy and practice in the developed economies, less is known about the Ghanaian
+context. While it seems therefore, reasonable to commend extant empirical studies in this
+line of research, the question that still requires an answer is: how do the extant findings
+from developed economies compare and/or contrast with evidence from Ghana?
+To address this question and in order to offer a plausible pursuit of the objective of the
+paper, the remainder of the paper is structured as follows. Second section presents
+conceptual background, empirical literature and hypotheses development. Third section
+presents description of the data, estimating procedure and presentation of results.
+Finally, the discussion, conclusion and implications of the study with regard to public
+policy, practice and theory are presented.
+Conceptual background and hypotheses development
+Firm age and firm performance
+It is plausible to argue that older firms will perform better compared with younger
+firms. A number of explanations have been put forward to advance this argument.
+A popular theme is the liability of newness argument originally advanced by
+Stinchcombe (1965). Stinchcombe (1965) argued that new and/or younger firms face
+greater difficulty and risk of failure. Among the reasons Stinchcombe offered to
+support the claim is that creation of new firms accompanies new roles that need to be
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+learnt, but the young firms lack the standard routine to address challenges and also
+lack the reliable network ties. Following, Stinchcombe, all this is because young firms
+are constrained by the disadvantage of being new. For instance, the lack of reliable
+network ties on the part of new firms implies that young firms have difficulties
+accessing business services (e.g. loan finance and supplier credit) because they lack of
+credible track record. Another argument is that, even where some financers will be
+prepared to meet the needs of young firms, their liability of newness will be more likely
+to cause them to encounter the problem of information asymmetry. From a finance
+viewpoint, asymmetric information means that whilst a service for a particular need
+may be available for all (e.g. the provision of a loan finance and supplier credit), a firm’s
+inability to obtain a reliable information about the provider of the service in question
+because it is new may cause small firms to meet disappointment from the borrowing
+and the lending markets (Berger and Udell, 1995).
+Some empirical evidence supports the liability of newness theory; for instance,
+Acquaah and Eshun (2010) failed to support the hypothesis that the positive impact of
+managerial networking relationships with political leaders, bureaucratic officials and
+community leaders on performance will be stronger for younger firms than for older
+firms. Besides, Leonidou (2000) contends that a newly-established firm usually
+experiences much difficulty in dealing with industry barriers, which limits its
+performance in the short-term. Carroll (1983), using 52 different data sets, found that
+organisational death rate declines with increasing age. Moreover, applying data on US
+firms, Nucci (1999) found that firm dissolution declines with increasing age, regardless
+of industry, size grouping or region. It has also been established that long-established
+firms have better access to debt finance and social capital resources, due to their long
+track record, compared to newly-established and young firms without such a lengthy
+track record, regardless of how forward looking they might appear in the eyes of
+stakeholders (Hite and Hesterly, 2001; Bitler et al., 2001; Nguyen and Rose, 2009). As a
+result, it is conceivable to argue that younger firms will incur liabilities of newness,
+consisting of both internal processes of coordination, role definition, developing trust
+and loyalty among employees, as well as external obstacles such as resource
+acquisition and stabilisation of relationships with customers and suppliers. These
+problems will significantly affect new and younger firms’ performance relative to their
+older and long-established counterparts.
+Whilst the liability of newness theory coupled with the empirical evidence appears
+sound, a rival argument has emerged in recent times. According to McDougall et al.
+(1994) and Balabanis and Katsikea (2003), it is argued that because of the influence of
+globalisation phenomenon through improvement in international transportation and
+information technology, the argument behind the liability of newness theory appears
+difficult to constrain the performance of younger firms compared with older firms.
+Some of the reasons to the argument are that with easy access to knowledge, for
+example via the internet, there cannot be much difference between younger and older
+firms with regard to their stock of knowledge. Implicitly, what younger firms should
+take years to learn can be shortened because of advancement in transportation,
+information and communication technology based on the globalisation process. This
+argument supports the line of research which contends that older firms are tempted to
+relax because of inertia, as well the bureaucracies that accompany age. Acquaah and
+Eshun (2010) found that the positive impact of managerial networking relationships
+
+Strategic factors
+
+269
+
+AJEMS
+4,2
+
+270
+
+with top managers at other firms on performance was stronger for younger firms than
+for older firms. However, despite this counter argument and finding, it is plausible to
+argue that the longer a firm remains in a market, the more knowledge it accumulates
+about the ways in which the market works, leading to the adoption of better strategies
+which will, in the end, influence its performance positively. In this study, consistent
+with Kalleberg and Leicht (1991) and Majocchi et al. (2005), a firm’s experience is
+operationalised as its age from the time of its formation in an industry.
+Therefore, based on the assumption of the liability of newness theory, as well as the
+preceding empirical corroboration, the relation between firm age and its performance
+can be hypothesised as follows:
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+H1. Firm age will be positively related to its performance.
+Firm size and firm performance
+Firm size affects firm performance in many ways because large firms are said to have
+different skills and capabilities compared with their counterparts smaller firms. Given
+the composition of large firms, because they consist of different skills and capabilities
+they are better able to utilize economies of scale and scope which offer them
+performance advantages compared to small firms. Unlike smaller firms, large firms are
+more likely to invest in state-of-the technologies and other essential equipment because
+they have the resources to acquire them. Besides, because of their huge resource
+capacity compared with small firms, large firms are able to execute plans in the most
+efficient and effective way, better than smaller firms. It is further argued that large
+firms, because of their high resource capacity, are more likely to be risk tolerant and so
+they are better able to absorb competitive pressure and combat the threat of demise in
+relation to the responses from managers of smaller firms.
+Therefore, lack of adequate and appropriate size will constitute negative
+consequences for a firm because small-sized firms, for example, may have difficulties
+with regard to competing for skilled labour with large organisations that offer better
+wages and more attractive benefits to employees. So because small firms are less likely
+to attract better qualified workforce following their inability to remunerate a qualified
+workforce, their performance levels are likely to be affected relative to their counterparts’
+large firms. Large-sized firms are seen as wielding more power in bargaining with
+suppliers and having the necessary resources to maintain good customer relationships.
+Empirically, Abdurahman et al. (2003) confirmed the claim of a positive association
+between the size of a firm and its performance. Acquaah (2005) also confirmed that the
+number of employees is significant and positively related to the emphasis a firm places
+on efficiency and cost reduction. Overall, large firms will tend to perform better than
+smaller firms.
+However, definition of firm size with regard to academic sources (Calof, 1993; Hall
+and Cook, 2009) and official sources (e.g. the USA – Hatten, 1997; the UK – Bolton,
+1971; Storey, 1994; European Commission – European Commission, 1996) varies. The
+main groupings adopted in such definitions are: number of full-time employees; the
+money value of sales volume; and money value of total assets. Consistent with Obben
+and Magagula (2003) and Hall and Cook (2009), the total number of full-time employees
+is applied in this study because this appears to be common practice among academic
+sources. Following these lines of argument based on the wider array of skills at the
+disposal of a large firm, its performance will be better than that of a smaller concern.
+
+In the light of the foregone arguments, the following hypothesis with regard to the
+effect of firm size on performance can be stated:
+
+Strategic factors
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+H2. There will be a positive association between the size of a firm and its
+performance.
+Productivity and firm performance
+Productivity is one of the crucial variables in the management of firm performance.
+The reason for this is that productivity impacts positively on cost and eventually on a
+firm’s performance. Productivity advantages secure a competitive advantage for a firm
+amongst its competitors. So, the overall efficiency of a firm cannot be improved if
+improvement of workforce productivity is relegated to the background. A useful
+explanation is that a high level of workforce productivity, demonstrated, for example,
+in low unit cost of production, coupled with production of greater quantities of better
+quality products, will lead to higher output and on performance. Consistent with this
+assumption, using a sample of firms from Australia (from 1995 to 2005), Stierwald
+(2009) found a positive association between productivity and the performance of a firm.
+Just as there is considerable variability in definitions of firm size, the definition of
+what constitutes productivity also varies. For instance, Fisher (1990) views
+productivity as the value of total income as a ratio of cost. Along the lines of Fisher
+(1990), a common and, indeed, one of the most widely applied definitions is the ratio of
+output over inputs (Hill, 1993; Bernolak, 1996). As a result, in this study, productivity is
+operationalised as the ratio of output over the total number of employees: that is,
+output per employee. Therefore, in line with the assumption that improvement in
+productivity improves performance, the relationship between workforce productivity
+and firm performance is hypothesised as follows:
+H3. There will be a positive relationship between workforce productivity and firm
+performance.
+Firm ownership structure and firm performance
+One of the strategic variables that drives performance of a firm is its ownership
+structure. A firm’s ownership structure sets the path in terms of its product line, the
+choice of competitive arena, as well as the overall strategy for achieving its mission
+and purpose. In addition, a firm’s ownership structure determines the size of its assets
+(tangible and intangible), as well as its level of efficiency and effectiveness. Besides,
+ownership structure sets the directions and the governance mechanisms within which
+a firm operates. Researchers have explored different dimensions of ownership
+structure and their impact on the behaviour of firms, including family ownership
+versus corporate ownership and their effect on firm performance (Fernández and Nieto,
+2006). Others have examined the effects of independent ownership (e.g. managed by
+the owner(s)), subsidiary ownership (e.g. corporate ownership) (Hall and Tu, 2003) and
+public ownership (public limited liability) versus private ownership (private limited
+liability) on firm performance ( Javalgi et al., 2000).
+In addition, there has been examination of the different institutional investors and
+their influence on a firm’s scope of activities (Fernández and Nieto, 2006). However, in
+recent times, one of the elements of ownership structure that has increasingly attracted
+researchers’ attention is the joint venture (JVs) ownership (i.e. partly foreign and partly
+
+271
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+272
+
+locally owned) versus wholly domestic ownership and the effect that might have on the
+performance of the firm (Cerrato and Piva, 2007). This present study seeks to focus on
+the latter form of ownership structure and its impact on performance.
+The motivation to extend this line of research is because a key feature of the
+economic transformation program by the Government of Ghana is the outward
+orientation development framework that aims to open up the economy of Ghana to the
+rest of world in terms of export promotion and inward foreign direct investment (FDI)
+(Acquaah and Eshun, 2010). For instance, concerning the FDI inflows in Ghana, the
+partial ownership structure or JVs ownership has been the principal form of activity.
+For instance, it is identified that between September 1994 and June 2002, the Ghana
+Investment Promotion Council (GIPC) registered 1,309 FDI projects. According to a
+recent study, the project distribution by sector was as follows: service (388),
+manufacturing (368), tourism (153), building and construction (106), agriculture (105),
+and export trade (91). This study also states that by 30 June 2002, a total of 1,309
+projects comprising 912 joint foreign-Ghanaian and 397 wholly foreign owned projects,
+which has been estimated at an establishment cost of US$1.72 billion.
+Unlike a wholly domestic firm, it is argued that JVs build the capacity of local firms
+in the areas of new technology, physical capital, management expertise, international
+market knowledge and global distribution network opportunities, which exerts
+significant influence on the performance of a firm (Zhang and Felmingham, 2001). For
+instance, drawing from Acquaah and Eshun (2010), it is argued that foreign-domestic
+JVs benefit from access to resources and capabilities owned by their more resource-rich
+foreign partners consisting of advanced managerial skills, technical know-how, and
+marketing capabilities. Again Acquaah and Eshun contend that unlike wholly
+domestic owned firms, foreign-domestic JVs possess established networking
+relationships with other organisations and government politicians and bureaucrats
+which influence their performance in a positive way.
+Using an Italian sample, Cerrato and Piva (2007) found that association of SMEs in
+Italy with foreign partners (JVs) positively impacted on their behaviour and
+performance. Greenaway et al. (2010), using data from China, confirmed the positive
+significant relationship between foreign owned firms ( JVs) compared to the
+performance of the local firms. Chari et al. (2009) conducted a similar study based
+on associations between US firms and emerging market firms. In this study, the
+researchers confirmed the hypothesis that the alliance of the US firms with JVs from
+emerging markets impacted positively on profitability. Furthermore, using an African
+sample, Ramachandran and Shah (1998) also supported the hypothesis under
+discussion. From the foregoing argument, unlike the wholly owned companies,
+foreign-domestic JVs can be argued to hold an advantageous strategic position, given
+the advantages they enjoy. In the light of this the following hypothesis is posed:
+H4. JVs between foreign and locally owned firms will perform better than those
+that are wholly locally-owned.
+Location and firm performance
+Drawing from the agglomeration literature (Appold, 1995), the effect of business
+location will affect the performance of a firm. Among business environment’s factors,
+it is argued that the location of a firm appears crucial, but it has been given less
+research attention (Kala and Guanghua, 2010; Minai and Lucky, 2011). Kala and
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+Guanghua (2010) defined location of a firm as the choice of place where a firm is
+located. According to these authors, firm location could be urban, rural centre,
+metropolis and/or a municipality. This definition concurs with Esteban et al. (2010)
+who also maintained that the location of a firm is either the rural and/or the urban
+area where the firm operates. However, an added dimension to the foregone
+conceptualizations is that the location of a firm could also be either a capital city of a
+country or any of its regional and/or provincial capitals (Ramadan, 2011). Some of the
+theoretical arguments about the influence of firm location on its performance are as
+follows. It is argued that firms derived various opportunities from a location where
+other firms cluster; here regardless of whether or not the location is a large city, the
+cluster will confer positive externalities on other firms.
+The reason for the above is because clustered firms are likely to share high levels of
+mutual proximity, which makes it relatively easy for the firms to acquire, process, and
+exploit information to their advantage, thereby impacting positively on their
+performance. Firm cluster promotes the formation of beneficial business alliances,
+which attracts other subsidiary firms and/or key service providers to the location and
+as a result the productivity and the performance of the clusters will be impacted in a
+positive way. Firm concentration promotes the growth and the development of
+idiosyncratic business cultures, thereby enhancing inter-firm interaction and mutual
+understanding. However, in recent times, a theme within the agglomeration literature
+that is attracting research attention is the effect of metropolitan location and its effects
+on firm performance (Ramadan, 2011). Implicitly, metropolitan areas and/or national
+capitals are crucial to politicians and businesses alike because of the strategic position
+of such locations. Metropolitan areas and/or national capitals are associated with
+transaction cost savings which benefit firms that are located in such area. Samples of
+such transaction cost savings include, but are not limited to: information search cost;
+supply-chain cost; and labour pooling cost savings. Fan and Scott (2003) argue that
+national capitals and/or metropolitans areas represent dense localization firms and
+create large concentration of job seekers and job vacancies. According to the authors,
+metropolitan centres attract key business service providers such as consultancy
+companies, law firms and financial institutions. As a result, firms that find themselves
+in these locations are more likely to be efficient and effective and will tend to perform
+more than their counterparts in the provincial areas. Besides, firms located at national
+capitals are likely to enjoy better infrastructure facilities, better network with policy
+makers coupled with powerful competition among neighbouring industrial actors;
+these firms will constantly undergo renewal and innovation and perform better. They
+are also likely to enjoy large customer bases because most national capitals and
+metropolitan areas are densely populated.
+Empirically, Zahra et al. (1997) found significant positive association between
+location at a metropolitan centre and the performance of a firm. Using an Australian
+sample, Freeman et al. (2010) supported the hypothesis between metropolitan location
+and firm performance. Mariotti and Piscitello (2001) confirmed that metropolitan
+infrastructure and resource availability were strong determinants of firm performance.
+Furthermore, In Ghana, Accra is the capital city of the nation, but because Ghana is a
+relatively small emerging economy, key activities are concentrated in Accra. The major
+activities that cluster in Accra, include, but not limited to, better communication
+network, good infrastructure, intercity transportation system, different cluster of firms
+
+Strategic factors
+
+273
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+274
+
+and financial institutions. Linking Accra to any other metropolitan area across
+emerging economies, it seems plausible to argue that Ghanaian firms located in Accra
+will tend to perform better than their counterparts located in the provincial areas
+(e.g. Kuamasi, Takoradi). Following this argument the following hypothesis is posed:
+H5. Firms operating in the capital of Ghana (Accra) will perform better than their
+counterparts in provincial areas.
+Industry type and firm performance
+Drawing on the industrial economics literature, it can be argued that industry
+membership influence firm performance (Bain, 1956; Porter, 1980). Bain (1956)
+contends that industry’s characteristics such as entry barriers, firm concentration,
+product differentiation, market growth rate and/or customer base drive firm behaviour
+which in turn determine firm performance. Researchers (Sutcliffe and Huber, 1998;
+Slevin and Covin, 1997) share the positive influence from the nature of an industry on
+the performance of a firm. For profit seeking organisations, performance measures
+(e.g. profit before interest and tax, return on capital employed (ROE), return on asset
+(ROA)) are pertinent to each of such firms and so the decision on which competitive
+arena to enter is linked strongly to these performance indicators. As a result, industry
+entry choice remains one of the major strategic decisions for new and potential
+businesses, including firms that are confronted with a need for diversification
+(e.g. diversification into unrelated industries). It was therefore, not surprising that
+Gomes-Casseres (1997) submitted that the success of firms, especially SMEs, depended
+partly on their capacity to choose their competitive arena (industry) “strategically”.
+Entry into a particular industry involves strategic decisions and choices that have far
+reaching implications for the performance, growth and survival of a business. Whilst it
+was argued that despite the importance of industry and firm performance, little
+research evidence is known in the strategic management research field (McGahan and
+Porter, 1997); yet, Short et al. (2007) maintained that in recent times, a key development
+within the strategic management field concerns the inclusion of an open system
+approach that studies strategic processes outside the influence of a single firm’s
+internal capacity allowing for stronger empirical examinations and generations
+(Hoskisson et al., 1999).
+In line with this new development in the strategy field, Short et al. (2007) have
+established a significant relationship between firm industry and firm performance.
+Houthoofd et al. (2010), using a Belgian sample, supported the hypothesis that firm
+performance varies significantly according to the nature of the industry. Further,
+Short et al. (2009), using 7,256 young Swedish firms over a period of five years
+maintained that though the main effect of firm performance relates to firm effect, the
+industry effect cannot be disregarded. Sidhu et al. (2000), analysing the performance of
+56 firms in heterogeneous industries, found that firm performance was industry specific.
+Type of industry in this study concerns whether a firm operates in one industry and
+not the other (e.g. operating either in the wood sub-sector or otherwise) and the
+influence from a specific industry on firms performance. The reason for this is because
+the type of industry determines its characteristic (e.g. entry barriers, competition, and
+innovation). In Ghana, firms are found in different industries and/or sectors
+(e.g. garment and textiles, bakery, metal, machine) therefore drawing from the
+motivation regarding industry effect and firm performance, the study examines the
+
+extent to which industry effect from Ghana compares with extant findings. Based on
+this line of argument, the following hypothesis concerning industry and firm
+performance can be posed:
+
+Strategic factors
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+H6. Firm performance will vary significantly across industries.
+Data, econometric model, estimation and results
+Data
+The present study uses an unbalanced panel data set, designed and collected by the
+World Bank, from Ghanaian SMEs engaged in manufacturing. The World Bank’s
+study on Ghana is part of its programme for the Regional Project on Enterprise
+Development (RPED). The data set was accessed from Oxford University in the UK[1].
+The World Bank’s data set was derived from the Ghanaian manufacturing sector over
+the course of a 12-year period, 1991-2002. Six main rounds were employed to collect the
+data. In Table I, the composition of the sample is presented. The most highly represented
+firms were medium-sized firms (67.2 percent) with workforces numbering between
+30 and 99. Firms with workforces numbering between 6 and 29 (i.e. small-sized firms)
+were the next most highly represented firms, at 24.3 percent. The least represented firms
+were the micro-sized firms with workforce sizes of between one and five; they constituted
+8.5 percent of the sample. With regard to industrial representation, the garment
+sub-sector has the highest representation, making up 22.36 percent of the sample. The
+furniture and metal sub-sectors came next, both representing 21.95 percent of the sample,
+Variable
+Firm size
+Micro (1-5)
+Small (6-29)
+Medium (30-99)
+Total
+Industries
+Garment
+Bakery
+Textiles
+Wood
+Furniture
+Metal
+Machinery
+Chemicals
+Total
+Location
+Accra
+Kumasi
+Takoradi
+Cape Coast
+Total
+Ownership structure
+Wholly local
+Foreign participation
+Total
+
+Frequency
+
+%
+
+Cum.
+
+305
+872
+2,411
+3,588
+
+8.50
+24.30
+67.20
+100
+
+8.50
+32.80
+100
+
+660
+288
+120
+276
+648
+648
+108
+204
+2,952
+
+22.36
+9.76
+4.07
+9.35
+21.95
+21.95
+3.66
+6.91
+100
+
+22.36
+32.11
+36.18
+45.53
+67.48
+89.43
+93.09
+100
+
+2, 052
+1,080
+216
+144
+3,492
+
+58.76
+30.93
+6.19
+4.12
+100
+
+58.76
+89.69
+95.88
+100
+
+2,664
+924
+3,588
+
+74.25
+25.75
+100
+
+74.25
+100
+
+275
+
+Table I.
+Sample composition
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+276
+
+followed by the food processing (bakery) sub-sector, which constituted 9.76 percent. The
+rest of the industries, in order of representation, were as follows: wood sub-sector
+9.35 percent, chemicals sub-sector 6.91 percent, textiles 4.07 percent and lastly the
+machinery sub-sector, representing 3.66 percent of the sample. With regard to location
+representation, the majority of the firms were located in the Accra metropolitan area
+(i.e. the capital city of Ghana). Firms located in Accra consisted of 58.76 percent of the
+sample. The rest of the firms were from the regional centres of Ghana, outside Accra.
+Of these 30.93 percent of the sample were located at Kumasi, 6.19 percent of the sample
+were located at Takoradi, whilst 4.12 percent were located on the Cape Coast.
+Lastly, about 26 percent of the sample involved foreign participation while the
+remaining 74 percent were wholly locally owned.
+Econometric model
+In this study, because of the structure of the data set, the data are pooled and so an
+ordinary least square (OLS) estimator is applied. In line with the pool estimation
+method, the model is specified as follows:
+Fmper f it ¼ a þ b0 X it þ uit
+
+ð1Þ
+
+where:
+fmper f – firm performance, which is operationalised as profit before interest and
+taxes.
+
+a
+
+– the constant.
+
+uit
+
+– error term.
+
+Xit
+
+– vector of explanatory variables, operationalised as follows.
+
+Measurement of variables
+Depended variable – firm performance. The theoretical and empirical position with
+regard to the key determinants of organisational performance is one of the top lines of
+debate in strategic management. In the strategic management field, different researchers
+operationalise firm performance differently. For instance, Chew (1988) views
+performance in terms of units of outputs and the amount of inputs used to produce
+them. McGuire et al. (1988) use stock market price of a firm to define firm performance.
+Notwithstanding, in the strategic management field, accounting measures (e.g. the
+money value of operating profit, ROE, and ROA) are widely used (Qian and Li, 2002;
+Aras et al., 2010). The reason for this is because accounting measures are more sensitive
+to the capital structure of a firm. In most emerging economies (e.g. Ghana) listed firms
+are few and so applying accounting measures to measure performance appears more
+representative than, for example, using stock price as a surrogate. In this study,
+accounting measure (the value of operating profit) acts as the proxy for performance.
+As accounting measures are widely applied in the field, using accounting measure in this
+study will enable the study to be compared to a wide array of extant studies.
+Independent variables
+.
+Firm age – operationalised as the age of the firm since establishment.
+.
+Firm size – operationalised as number of employees, categorized as micro, small
+and medium-sized firms, with the micro firms considered as the reference group.
+
+.
+
+.
+
+.
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+.
+
+JVs (foreign ownership) – operationalised as a dummy variable where foreign
+participation ( JVs) ¼ 1, otherwise wholly local ¼ 0.
+Industry, consisting of eight different sectors (i.e. machinery, furniture, metal,
+chemicals, bakery, wood, garments and textiles) – operationalised as a
+categorical variable, using the garments sub-sector as a reference group.
+Firm location, consisting of Accra (capital of Ghana), Kumasi (regional capital
+of Ghana), Takoradi (regional capital of Ghana) and Cape Coast (regional capital of
+Ghana) – operationalised as a categorical variable, using Accra as a reference group.
+Productivity – log of productivity operationalised as output per employee.
+
+Estimation, analysis and regression results
+Tables II and III present the correlation matrix and regression result, respectively.
+The regression output from Table III indicates that all things being equal, when firm
+size, firm age, sector and/or industry, location, ownership and workforce productivity are
+used to predict performance, apart from firm size, productivity, ownership, location and
+industry, the rest of the variables do not explain the response variable any better. The
+result from the regression outputs is summarised in Table IV.
+Diagnosis checks of the findings
+From the t-test, results indicate the null hypothesis that the means of firm performance
+are the same for firms with partly foreign participation ownership structure and those
+that have a wholly local ownership structure was rejected. The outputs were: foreign
+participation structure (M ¼ 304, SD ¼ 2.200); wholly locally owned structure
+(M ¼ 2,430, SD ¼ 6,170), t (1989) ¼ 2 11.2653, p . 0.000. Overall, the results of the
+two sample t-test support the regression results in Table III.
+Discussion
+As discussed in the empirical literature, one would have expected that firms without
+liability of newness because of their extensive industry experience would perform
+better than those with less experience. The reason for this is that intuitively, experience
+can be best associated with higher firm performance. Based on the regression results in
+Table III, H1, that concerns the effect of firm age on performance, is not supported. The
+relationship was not significant. Although in this study the association is not
+statistically significant, nevertheless, it supports a growing line of research which
+contends that, as with living organisms (e.g. human beings), as firms grow older they
+lose their edge to compete strategically (Agarwal and Gort, 1996, 2002; Chun et al.,
+2008). Some of the arguments presented to support this claim are that older firms tend
+to be more associated with structure inertia and process rigidities than younger firms
+(Hannan and Freeman, 1984; Leonard-Barton, 1992). According to these research
+findings, firms’ rigidities and inertias weaken their capacity to foresee key signals from
+the operating arena and to respond by developing either offensive or defensive
+strategy. The reason is that as firms grow they lose the will to remain flexible or to
+continue to evolve. The unwillingness to change and lessening in flexibility, along with
+a consequent limitation of scope for improvement, may lead to a decrease in productive
+efficiency, decline in market share and in margins among older firms compared to new
+and younger ones, as was found by Agarwal and Gort (2002) and Chun et al. (2008).
+
+Strategic factors
+
+277
+
+Table II.
+Correlation matrix
+of variables
+
+Mean
+
+SD
+
+1
+
+0.24 * *
+0.03
+0.34 * *
+20.17 * *
+0.23
+20.06
+20.10
+0.07
+20.06
+20.00
+20.04
+0.03
+0.12 * *
+20.10 * *
+20.03
+
+0.47
+0.08
+0.39
+0.27
+0.39
+0.39
+0.17
+0.23
+0.06
+0.31
+0.04
+
+1.00
+
+0.26
+12.53
+1.29
+0.43
+
+35,800
+
+1.00
+0.14 * *
+20.15 * *
+0.20 * *
+20.04
+20.05
+0.08
+20.05
+20.08
+0.06
+0.09
+0.00
+20.11 * *
+0.02
+
+0.30 * *
+20.17 * *
+20.21 * *
+0.13
+20.14 * *
+0.07
+0.13 * *
+0.10 * *
+0.02
+20.18 * *
+0.00
+
+3
+
+1.00
+0.15 * *
+0.31 * *
+20.25 * *
+
+2
+
+0.14 * *
+20.39 * *
+0.05
+20.24 * *
+0.13 * *
+0.04
+0.23 * *
+0.01
+20.14 * *
+20.13 * *
+
+0.34 * *
+
+1.00
+20.27 * *
+
+4
+
+0.14 * *
+0.14 * *
+20.14 * *
+0.04
+0.03
+0.05
+20.13 * *
+20.07
+0.07
+20.00
+
+20.81 * *
+
+1.00
+
+5
+
+20.18 * *
+20.26 * *
+0.17 * *
+20.00
+20.03
+20.03
+0.14 * *
+0.06
+20.16 * *
+20.00
+
+1.00
+
+6
+
+Notes: Correlation significant at: *0.05 and * *0.01 (two-tailed); adecimals are converted to two decimal places
+
+1. Firm
+76,400
+performance
+2. JVs
+0.26a
+3. Firm age
+18.76
+4. Productivity
+14.12
+5. Small-sized
+0.24
+firm
+6. Medium –
+0.67
+sized firm
+7. Bakery
+0.08
+8. Garment
+0.19
+9. Wood
+0.08
+10. Furniture
+0.19
+11. Metal
+0.19
+12. Machine
+0.03
+13. Chemicals
+0.06
+14. Takoradi
+0.06
+15. Kuamasi
+0.30
+16. Cape Cost
+0.04
+1.00
+20.16 * *
+20.09
+20.14 * *
+20.14 * *
+20.05
+20.07
+20.08
+0.02
+0.06
+
+7
+
+1.00
+20.15 * *
+20.24 * *
+20.25 * *
+20.10
+20.08
+20.39 * *
+20.01
+0.22 * *
+
+8
+
+1.00
+20.14 * *
+20.14 * *
+20.05
+20.07
+0.29 * *
+0.13 * *
+0.06
+
+9
+
+1.00
+20.23 * *
+20.09
+20.12 * *
+20.09
+0.00
+20.10
+
+10
+
+1.00
+20.09
+20.11 * *
+20.05
+20.11 * *
+20.05
+
+11
+
+1.00
+20.04
+0.04
+0.01
+20.04
+
+12
+
+1.00
+20.06
+20.10 * *
+20.05
+
+13
+
+278
+
+Variables
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+1.00
+20.17
+20.05
+
+14
+
+1.00
+20.14 * *
+
+15
+
+1.00
+
+16
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+Variable
+
+Coefficient
+
+Robust SE
+
+t
+
+Sig.
+
+Constant
+Takoradi
+Kumasi
+Cape Coast
+Bakery
+Garment
+Wood
+Furniture
+Metal
+Machinery
+Chemicals
+Joint venture
+Workforce productivity
+Small firm
+Medium firm
+Firm age
+F-statistic ¼ 9.48
+p . F ¼ 0.0000
+R 2 ¼ 0.1641
+
+2 1037.076
+49.1318
+2 21.0376
+2.6382
+2 73.09141
+41.0663
+9.3195
+13.7189
+2 32.3676
+2 113.409
+2 133.5374
+125.4839
+75.6
+15.9566
+52.7180
+2 0.2030
+
+161.205
+31.9208
+6.5560
+14.5193
+21.1759
+25.7003
+36.8390
+26.7374
+30.1236
+34.0214
+42.3944
+24.1530
+11.4
+6.5515
+10.2366
+0.6510
+
+26.43
+1.54
+23.21
+0.18
+23.45
+1.60
+0.25
+0.51
+21.07
+23.33
+23.15
+5.20
+6.63
+2.44
+5.15
+20.31
+
+0.000
+0.124
+0.001
+0.856
+0.001
+0.110
+0.800
+0.608
+0.283
+0.001
+0.002
+0.000
+0.000
+0.015
+0.000
+0.754
+
+Variable
+
+H1
+H2
+H3
+H4
+H5
+H6
+
+Firm age
+Firm size
+Workforce productivity
+Joint venture ownership
+Capital of Ghana
+Sector
+
+279
+
+Table III.
+Pooled OLS
+regression results
+
+Note: Significant at: *p , 0.1, * *p , 0.05, * * *p , 0.01 and * * * *p , 0.001
+
+Hypothesis
+
+Strategic factors
+
+Expected sign
+
+Support for hypothesis
+
+þ
+þ
+þ
+þ
+þ
+þ
+
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+
+This finding counters the findings of those researchers (Carroll, 1983; Leonidou, 2000)
+who contend that new and younger firms, because of the liabilities inherent their lack
+of experience, will face greater performance challenges than older firms.
+H2 of the study is fully supported, implying that as firms grow in workforce size
+from micro firms into small and medium-sized concerns they perform better. Implicitly,
+compared with the micro firm, the small and the medium-sized firm will perform better.
+The statistically significant relationship between size and performance implies that a
+large firm, because of the diversity of skills sets within its workforce, will perform
+better than a firm with a very small capacity. A related explanation is that larger firms
+will find it easier to raise capital finance, mobilise other resources to perform better
+than smaller companies. It is also suggested that larger firms can compete better for
+skilled workforce, manage risk and maintain competitive bargaining power of
+customers and suppliers better compared to small businesses, and will therefore
+perform better. As indicated in the empirical literature, large firms usually possess
+internal and external economies of scale advantages which will impact positively on
+
+Table IV.
+Summary of results
+for hypotheses
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+280
+
+their performance. This finding supports Abdurahman et al. (2003). Further it concurs
+with Acquaah (2005) who found that firm size defined as the number of employees is
+significant and positively related to the emphasis firm places on efficiency and cost
+reduction.
+In addition, H3 is fully supported. Implicitly, productivity improvement that is linked
+to low operating cost advantages enables firms to outperform their competitors. This
+confirms similar study in Australia (Stierwald, 2009). H4 is also supported. Extant
+literature argues that foreign partners are better endowed with human capital resources,
+capital finance, physical capital and managerial acumen. In addition, foreign partners
+possess better international networking links (e.g. networking with international
+distributors and suppliers). As a result, the association of foreign firms with emerging
+market businesses will augment the capacity of the indigenous firms, and those firms
+will perform better than others that are wholly locally owned. The findings are in line
+with Acquaah and Eshun (2010) who maintained that foreign-domestic JVs posses many
+advantages because of access to resources and capabilities owned by their more
+resource-rich foreign partners consisting of advanced managerial skills, technical
+know-how, and marketing capabilities. This result again supports an Italian study by
+Cerrato and Piva (2007) who found evidence to suggest that association of SMEs in Italy
+with foreign partners (JVs) positively impacts on their behaviour and performance. It also
+confirms a study from China (Greenaway et al., 2010), the US study (Chari et al., 2009)
+as well as Ramachandran and Shah (1998) who used an African sample and supported
+the hypothesis under discussion.
+H5 is also supported. The results indicate that firms located in Accra (the capital of
+Ghana) will perform significantly positive compared to firms located in Kumasi (one of
+the province in Ghana). The finding supports the argument that firms sited in capital
+cities will be advantaged due to their access to benefits such as financers, services of
+government ministries, departments and agencies, and competition that sparks positive
+changes and innovation. Taken in tandem, enterprises operating in capital cities perform
+better than similar firms operating in the rural and regional centres, especially
+manufacturing concerns. Theoretically, the finding supports the agglomeration literature
+(Appold, 1995). It also confirms an Australian study (Freeman et al., 2010). Other studies
+which the finding supports include but are not limited to: Zahra et al. (1997), Mariotti and
+Piscitello (2001).
+In line with the industrial economics literature (Bain, 1956), H6 is supported. Using
+the textile sub-sector as the reference group, the result indicates that firms in the textile
+industry will perform significantly higher than similar manufacturing firms from the
+bakery, metal, machinery and chemical industries. Implicitly, while location of a
+business positively influences its performance (H5), the operating arena a firm chooses
+is also crucial because in this study there is evidence to suggest that operating in the
+textile industry will greatly enhance a firm’s performance. The finding that industry
+differentials determine significant performance variations among firms may be due to
+factors such as: nature of competition in the industry, demand and supply issues with
+regard to the product of the industry, and government assistance to that sub-sector. For
+instance, the textile industry in Ghana is one of the sectors that has benefited
+particularly from government support (Quartey, 2006; Kuffour, 2008). Examples of
+recent government assistance to the industry are: $2 million (USD) for the refurbishment
+and restart of operations of the redundant Juapong Textile Company under the new
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+name – Volta Star Company Limited (ISSER, 2007); and the provision of 3,200 new
+sewing machines to enhance the capacity of the clothing technology centre in Accra
+(ISSER, 2007). In addition, the textile and garment cluster was established by the
+Government of Ghana in collaboration with United Nation Industrial Development
+Organisation (UNIDO), whilst 21 new national vocational training institutes have been
+established to provide basic practical and theoretical training in tailoring and
+dressmaking for SMEs in the sub-sector (Quartey, 2006). The result supports the
+findings of McGahan and Porter (1997) and Sidhu et al. (2000) and a study from Belgium
+(Houthoofd et al., 2010) and Sweden (Short et al., 2009). Others are Short et al. (2007) and
+Sidhu et al. (2000) who also, by examining the performance about 56 firms in different
+sectors, found that performance was industry specific. Therefore, the industry effect
+must be taken into account in any detailed examination of the factors that determine firm
+performance. Consequently, from the findings of this study, both industry and firm
+effect are crucial in understanding firm performance and must be borne in mind by
+researchers inclined to focus on firm effect when analysing performance of firms,
+especially those from emerging markets.
+Conclusion
+Strategic factors that explain firm performance in an emerging economy can consist of
+both firm level and external factors. It is plausible therefore to argue that a misfit between
+the external moderating factors and the firm level factors could affect the degree of firm
+performance. In this study, in addition to the firm level factors (firm size and workforce
+productivity), type of industry and where a firm is located were significant. With regard to
+firm experience, the results imply that new and younger firms, in recognition of the
+challenges posed by their newness, could still position themselves with extra aggression
+from the start of trading, in order to compete side-by-side with their more established
+counterparts. This is accounted for by the fact that in today’s globalised world, because of
+easy access to national and international business information following the
+advancements in communication and transportation technologies, difference in firm age
+cannot disadvantage new and younger firms to a larger extent.
+Implication of the study
+With regard to practice, the results mean that because of influence from the
+globalisation phenomenon based on advancements in information and communication
+technologies, differences in firm age cannot disadvantage new and younger firms
+against their counterparts’ large multinational enterprises to a greater extent.
+Consequently, new and younger firms should not be intimidated by their more
+experienced large-scale competitors, but must take advantage of the globalisation
+processes and compete side-by-side with large enterprises. The importance of large
+firm size cannot be overemphasised with regard to impacting positively on firm
+performance. Implicitly large firm size defined as the total number of full-time
+employees implies a wide array of difference in skill sets at the disposal of a firm.
+Therefore, micro and small businesses from Ghana that desire to improve their
+performance in order to be sustainable must not fritter away their profits on family and
+personal luxuries (e.g. building luxurious house, buying expensive cars, spending on
+funerals and marrying many women), but must ensure that a proportion of the profit is
+ploughed back into attracting, training and retaining an adequate amount of skilled
+
+Strategic factors
+
+281
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+282
+
+workforce with different sets of skills. The reason is because large amount of skill
+workforce impacts significantly on firm performance. The finding also implies that
+up-to-date tools (e.g. office space, office accessories, computers and access to the world
+wide web) which moderate the productivity of workforce, as well as firm performance,
+must constantly be accessible to the workers.
+Another practical implication of the study is that firm performance is significantly
+tied to industry and type of location. This is very crucial to practitioners in Ghana
+because it addresses three key business development challenges. First, the finding
+implies that firms that facing the imminent danger of failure in their existing industries
+have the option to scan alternative industries that possess profit potential and diversify
+to improve their performance. Second, firms that perform well in the current sector, but
+contemplating on where to spread their risk through related and unrelated
+diversification, must take the choice industry and location into consideration. Third,
+prospective and potential business men and women from Ghana who possess the
+wherewithal to go into businesses must know that the choice of operating arena
+possesses far reaching implications on performance, success and survival of a firm and
+must not be taken for granted.
+With regard to the importance based on the alliances of indigenous businesses and
+foreign partners, the current administration in Ghana must liaise with indigenous
+private sector organisations (Association of Ghana Industries (AGA), Ghana Association
+of Women Entrepreneurs (GAWE), etc.), to sponsor and/or host industrial fairs (both at
+home and abroad). Such platforms showcase the potential of Ghanaian businesses to
+foreign businesses and offer the Ghanaian businesses an opportunity to interact with
+foreign businesses and forge diverse forms of JVs alliances.
+Limitations and opportunity for future research
+The data set consists of panel of firms, but the model was based on the pooled OLS
+estimation, therefore, an advanced panel models such as the fixed effect and the
+random effect may be applied to confirm the consistency or otherwise of the results.
+Besides, the data set was unbalanced compared with the balance data set that contains
+more robust properties and so future research may focus on a more balanced data set to
+comment on the findings. The use of a sample from Ghana’s manufacturing sub-sector
+limits the generalizability of the results. Consequently, the generalisation could not be
+extended to cover other sub-sectors in Ghana (e.g. the service and the extractive
+sub-sectors) and so this offers opportunity for future research. Furthermore, a lack of
+insights from the institutional theory and sociology viewpoints on the phenomenon,
+shows some limitations. The reason for this is because the current thinking concerning
+these topics maintains that institutions and social-cultural values (e.g. taboos, customs
+and traditions) of a nation are critical to firm performance and development of a
+country. This appears more crucial to countries from Africa, where weak institutions
+(e.g. laws, regulations, political atmosphere, and property rights) and cultural values
+(taboos) militate against firm performance and the welfare of the people. So it is
+suggested that future study must shed light on the topic, from the institutional and
+sociological perspective, in order yield more robust results and implications.
+Note
+1. The data set was accessed via (www.csae.ox.ac.uk/datasets/main.html).
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+References
+Abdurahman, A., Hanna, A.S., Nordheim, E.V. and Russell, J.S. (2003), “Indicator variables model
+of firm’s size-profitability relationship of electrical contractors using financial and economic
+data”, Journal of Construction Engineering and Management, Vol. 129, pp. 192-197.
+Acquaah, M. (2005), “Enterprise ownership, market competition and manufacturing priorities in
+a sub-Saharan African emerging economy: evidence from Ghana”, Journal of Management
+and Governance, Vol. 9, pp. 205-235.
+Acquaah, M. and Eshun, J.P. (2010), “A longitudinal analysis of the moderated effects of
+networking relationships on organizational performance in a sub-Saharan African
+economy”, Human Relations, Vol. 63 No. 5, pp. 667-700.
+Agarwal, R. and Gort, M. (1996), “The evolution of markets and entry, exit and survival of firms”,
+Review of Economics and Statistics, Vol. 78, pp. 489-498.
+Agarwal, R. and Gort, M. (2002), “Firm product life cycles and firm survival”, American
+Economic Review, Vol. 92, pp. 184-190.
+Appold, S.J. (1995), “Agglomeration, interorganizational networks, and competitive performance
+in the US metalworking sector”, Economic Geography, Vol. 71, pp. 27-54.
+Aras, G., Aybars, A. and Kutlu, O. (2010), “Managing corporate performance: investigating the
+relationship between corporate social responsibility and financial performance in emerging
+markets”, International Journal of Productivity and Performance Management, Vol. 3,
+pp. 229-254.
+Bain, J.S. (1956), Barriers to New Competition, Harvard University Press, Cambridge, MA.
+Balabanis, G.I. and Katsikea, E.S. (2003), “Being an entrepreneurial exporter: does it pay?”,
+International Business Review, Vol. 12, pp. 233-252.
+Berger, A.N. and Udell, G.F. (1995), “Relationship lending and lines of credit in small firm
+finance”, Journal of Business, Vol. 68 No. 3, pp. 351-381.
+Bernolak, C. (1996), “Productivity gain sharing”, Working Paper No. EMD/16/E, International
+Labour Organisation, Geneva, available at: http://oracle02.ilo.org/dyn/empent/docs/
+F111PUB98_01/PUB98_01.htm
+Bitler, M., Robb, A.M. and Wolken, J.D. (2001), “Financial services used by small businesses:
+evidence from the 1998 survey of small business finances”, Federal Reserve Bulletin,
+Vol. 87, pp. 183-204.
+Bolton, J.E. (1971), Small Firms: Report of the Committee of Inquiry on Small Firms, H.M.S.O.,
+London.
+Calof, J. (1993), “The impact of size on internationalization”, Journal of Small Business
+Management, Vol. 31 No. 4, pp. 60-69.
+Carroll, G.R. (1983), “A stochastic model of organizational mortality: review and reanalysis”,
+Social Science Research, Vol. 12, pp. 303-329.
+Cerrato, D. and Piva, M. (2007), “The internationalisation of small and medium-sized enterprises:
+the effect of family management, human capital and foreign ownership”, DICE Center of
+Working Papers Series, Universita Cattolica, Italy.
+Chari, A., Chen, W. and Dominguez, K. (2009), “Foreign ownership and firm performance:
+emerging markets acquisition in United States”, paper presented at Research Seminar in
+International Economics, University of Michigan, Discussion Paper No. 590.
+Chew, W. (1988), “No-nonsense guide to measuring productivity”, Harvard Business Review,
+Vol. 66 No. 1, pp. 110-118.
+
+Strategic factors
+
+283
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+284
+
+Chun, H., Kim, J.-W., Morck, R. and Yeung, B. (2008), “Creative destruction and firm-specific
+performance heterogeneity”, Journal of Financial Economics, Vol. 89, pp. 109-135.
+Cocca, P. and Marco, A. (2010), “A framework to assess performance measurement systems
+in SMEs”, International Journal of Productivity and Performance Management, Vol. 59
+No. 2, pp. 186-200.
+Esteban, L., Yancy, V. and Christian, S. (2010), “Location decisions of knowledge-based
+entrepreneurs: why some Catalan KISAs choose to be rural?”, Technovation, Vol. 30 Nos 11/12.
+European Commission (1996), Commission Recommendation Amending Recommendation
+96/280/EC, European Commission, Brussels.
+Fan, C.C. and Scott, A.J. (2003), “Industrial agglomeration and development: a survey of spatial
+economic issues in East Asia and a statistical analysis of Chinese regions”, Economic
+Geography, Vol. 79 No. 3, pp. 295-319.
+Fernández, Z. and Nieto, M.J. (2006), “Impact of ownership on the international involvement of
+SMEs”, Journal of International Business Studies, Vol. 37, pp. 340-351.
+Finlay, P. (2000), Strategic Management: An Introduction to Business and Corporate Strategy,
+Pearson, London.
+Fisher, T. (1990), “Business productivity measurement using standard cost accounting
+information”, International Journal of Operations &Production Management, Vol. 10 No. 8,
+pp. 61-69.
+Freeman, J., Lawley, M. and Styles, C. (2010), “Does firm location influence the export
+performance of Australian SMEs?”, Proceedings of the Australian and New Zealand
+Marketing Academy ANZMAC Conference 2010 – “Doing More with Less”, Christchurch,
+New Zealand, 1 December.
+Gomes-Casseres, B. (1997), “Alliance strategies of small firms”, Small Business Economics, Vol. 9
+No. 1, pp. 33-44.
+Graner, M. and Isaksson, A. (2007), “Firm efficiency and the destination of exports: evidence from
+Kenyan plant-level data”, mimeo, UNIDO.
+Greenaway, D., Guariglia, A. and Yu, Z. (2010), The More the Better? Corporate Ownership and
+Firm Performance in China, School of Contemporary Chinese Studies, University of
+Nottingham, Nottingham.
+Grunberg, T. (2004), “Performance improvement towards a method for finding and prioritising
+potential performance improvement areas in manufacturing operations”, International
+Journal of Productivity and Performance Management, Vol. 53 No. 1, pp. 52-71.
+Hall, G. and Cook, M. (2009), “The relative importance of human product resources in influencing
+the export propensity of small UK’s firms”, International Journal of Entrepreneurship
+& Innovation Management, Vol. 10 No. 1, pp. 71-87.
+Hall, G. and Tu, C. (2003), “Venture capitalism and the decision to invest abroad”, Venture
+Capital, Vol. 5 No. 2, pp. 181-190.
+Hannan, M.T. and Freeman, J. (1984), “Structural inertia and organizational change”, American
+Sociological Review, Vol. 49, pp. 149-164.
+Hatten, T.S. (1997), Small Business Entrepreneurship and Beyond, Prentice-Hall, Upper Saddle
+River, NJ.
+Hill, T. (1993), Manufacturing Strategy: The Strategic Management of the Manufacturing
+Function, 2nd ed., Open University/Macmillan, London.
+Hite, J.M. and Hesterly, W.S. (2001), “The evolution of firm networks: from emergence to early
+growth of the firm”, Strategic Management Journal, Vol. 22, pp. 275-286.
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+Hoskisson, R.E., Hitt, M.A., Wan, W.P. and Yiu, D. (1999), “Theory and research in strategic
+management: swings of a pendulum”, Journal of Management, Vol. 25, pp. 417-456.
+Houthoofd, N., Desmidt, S. and Fidalgo, E.G. (2010), “Analysing firm performance heterogeneity:
+the relative effect of business definition”, Management Decision, Vol. 48 No. 6, pp. 996-1009.
+ISSER (2007), The State of the Ghanaian Economy, Sundel Services, Accra.
+Javalgi, R.G., White, D.S. and Lee, O. (2000), “Firm characteristics influencing export propensity:
+an empirical investigation by industry”, Journal of Business Research, Vol. 47, pp. 217-228.
+Kala, S.S. and Guanghua, W. (2010), “Firm location choice in cities: evidence from China, India,
+and Brazil”, China Economic Review, Vol. 21, pp. 113-122.
+Kalleberg, A.L. and Leicht, K.T. (1991), “Gender and organisational performance: determinants
+of small business survival and success”, Academy of Management Journal, Vol. 34 No. 1,
+pp. 136-161.
+Kuffour, A.A. (2008), “Employment generation and small medium enterprise (SMEs)
+development – the garment and textile manufacturing industry in Ghana”, International
+Forum on Sustainable Private Sector Development: Growing Inclusive Markets Forum in
+Halifax’s Conference Proceedings, Nova Scotia, Canada, June 19-21.
+Leonard-Barton, D. (1992), “Core capabilities and core rigidities: a paradox in managing new
+product development”, Strategic Management Journal, Vol. 13, pp. 111-125.
+Leonidou, L.C. (2000), “Barriers to export management: an organisational and
+internationalisation analysis”, Journal of International Management, Vol. 6, pp. 121-148.
+McDougall, P.P., Shane, S. and Oviatt, B.M. (1994), “Explaining the formation of international
+new ventures”, Journal of Business Venturing, Vol. 9, pp. 469-487.
+McGahan, A. and Porter, M. (1997), “How much does industry matter, really?”, Strategic
+Management Journal, Vol. 18, Summer Special Issue, pp. 15-30.
+McGuire, J.B., Sundgren, A. and Schneeweis, T. (1988), “Corporate social responsibility and firm
+financial performance”, The Academy of Management Journal, Vol. 31 No. 4, pp. 854-872.
+Majocchi, A., Bacchiocchi, E. and Mayrhofer, U. (2005), “Firm size, business experience and
+export intensity in SMEs: a longitudinal approach to complex relationships”, International
+Business Review, Vol. 14, pp. 719-738.
+Mariotti, S. and Piscitello, L. (2001), “Localized capabilities and the internationalization of
+manufacturing activities by SMEs”, Entrepreneurship & Regional Development, Vol. 13
+No. 1, pp. 65-80.
+Minai, M.S. and Lucky, E.O. (2011), “The conceptual framework of the effect of location on
+performance of small firms”, Asian Social Science, Vol. 7 No. 12, pp. 110-118.
+Mtigwe, B. (2004), “The internationalisation process of small-to-medium-sized enterprises
+(SMEs) in the African context: a comparative study”, doctoral dissertation, Pretoria
+University, Pretoria.
+Nguyen, T.V. and Rose, J. (2009), “Building trust-evidence from Vietnamese entrepreneurs”,
+Journal of Business Venturing, Vol. 24, pp. 165-182.
+Nucci, A.R. (1999), “The demography of business closings”, Small Business Economics, Vol. 12,
+pp. 25-39.
+Obben, J. and Magagula, P. (2003), “Firm and managerial determinants of the export propensity
+of small and medium-sized enterprises in Swaziland”, International Small Business
+Journal, Vol. 21 No. 1, pp. 73-91.
+Pearce, J.A. and Robinson, R.B. (2009), Strategic Management: Formulation, Implementation, and
+Control, 11th ed., McGraw-Hill, New York, NY.
+
+Strategic factors
+
+285
+
+AJEMS
+4,2
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+286
+
+Porter, M.E. (1980), Competitive Strategy, The Free Press, New York, NY.
+Qian, G. and Li, J. (2002), “Multinationality, global market diversification and profitability among
+the largest US firms”, Journal of Business Research, Vol. 55, pp. 325-335.
+Quartey, P. (2006), “The textile and clothing industry in Ghana”, in Jauch, H. and Traub-Merz, R. (Eds),
+The Future of the Textile and the Clothing Industry in Sub-Saharan Africa,
+Friedrich-Ebert-Stiftung, Bonn, pp. 135-146.
+Ramachandran, V. and Shah, M.K. (1998), “Firm performance and foreign ownership in Africa:
+evidence from Zimbabwe, Ghana and Kenya”, RPED Paper No. 81, World Bank,
+Washington, DC.
+Ramadan, W.H. (2011), “Does locating in a metropolitan area improve the business performance
+of manufacturing establishments? The link between business and region”, E-Leader
+Croatia.
+Short, J.C., Ketchen, D.J. Jr, Palmer, T.B. and Hult, G.T.M. (2007), “Firm, strategic group and
+industry influences on performance”, Strategic Management Journal, Vol. 28, pp. 147-167.
+Short, J.C., Mckelvie, A., Ketchen, D.J. and Chandler, G.N. (2009), “Firm and industry effect on
+firm performance: a generalisation and extension for new ventures”, Strategic
+Entrepreneurship Journal, Vol. 3, pp. 47-65.
+Sidhu, J., Nijssen, E.J. and Commandeur, H. (2000), “Business domain definition practice: does it
+affect organisational performance?”, Long Range Planning, Vol. 33 No. 3, pp. 376-401.
+Slevin, D.P. and Covin, J.G. (1997), “Strategy formation patterns, performance, and the
+significance of context”, Journal of Management, Vol. 23, pp. 189-209.
+Sousa, C.M.P., Martı́nez-López, F.J. and Coelho, F. (2003), “Are manufacturing exports the key to
+economic success in Africa”, Journal of African Economies, Vol. 12 No. 1, pp. 1-29.
+Stierwald, A. (2009), “Determinants of firm profitability – the effect of profitability and its
+persistence”, Melbourne Institute of Applied Economic and Social Research, Victoria.
+Stinchcombe, A.L. (1965), “Social structure and organizations”, in March, J.G. (Ed.), The
+Handbook of Organizations, Rand McNally & Co., Chicago, IL.
+Storey, D. (1994), Understanding the Small Business Sector, Routledge, London.
+Sutcliffe, K.M. and Huber, G.P. (1998), “Firm and industry determinants of executive perceptions
+of the environment”, Strategic Management Journal, Vol. 19 No. 8, pp. 793-807.
+Zahra, S., Neubaum, D. and Huse, M. (1997), “The effect of the environment on export
+performance among telecommunications new ventures”, Entrepreneurship Theory
+& Practice, Vol. 22 No. 1, pp. 25-47.
+Zhang, Q. and Felmingham, B. (2001), “The relationship between inward direct foreign investment
+and China’s provincial export trade”, China Economic Review, Vol. 12 No. 1, pp. 82-99.
+Further reading
+Baum, J.A.C., Calabrese, T. and Silverman, B.S. (2000), “Don’t go it alone: alliance network
+composition and start-ups’ performance in Canadian biotechnology”, Strategic
+Management Journal, Vol. 21 No. 3, pp. 267-294.
+Gnyawali, D.R. and Madhavan, R. (2001), “Cooperative networks and competitive dynamics: a
+structural embeddedness perspective”, Academy of Management Review, Vol. 26 No. 3,
+pp. 431-445.
+Henderson, R. and Mitchell, W. (1997), “The interactions of organizational and competitive
+influences on strategy and performance”, Strategic Management Journal, Vol. 18, Special
+Issue Supplement, pp. 5-14.
+
+Downloaded by University of Ghana At 05:34 02 February 2016 (PT)
+
+Perry-Smith, J.E. and Shalley, C.E. (2003), “The social side of creativity: a static and dynamic
+social network perspective”, Academy of Management Review, Vol. 28 No. 1, pp. 89-106.
+Qian, G. and Li, L. (2005), “Dimensions of international diversification: their joint effects on firm
+performance”, Journal of Global Marketing, Vol. 18 No. 3, pp. 7-35.
+Stuart, T. and Sorenson, O. (2003), “The geography of opportunity: spatial heterogeneity in
+founding rates and the performance of biotechnology firms”, Research Policy, Vol. 32,
+pp. 229-253.
+Thornhill, S. and Amit, R. (2003), “Learning about failure: bankruptcy, firm age, and the
+resource-based view”, Organization Science, Vol. 14, pp. 497-509.
+Zander, I. (1994), “The tortoise evolution of the multinational corporation: technological activity
+in Swedish multinational firms 1890-1990”, doctoral dissertation, Institute of International
+Business, Stockholm School of Economics, Stockholm.
+Corresponding author
+Obi Berko O. Damoah can be contacted at: ododmoah@ug.edu.gh
+
+To purchase reprints of this article please e-mail: reprints@emeraldinsight.com
+Or visit our web site for further details: www.emeraldinsight.com/reprints
+
+Strategic factors
+
+287
+
+

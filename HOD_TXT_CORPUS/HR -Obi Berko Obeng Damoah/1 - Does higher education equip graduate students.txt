@@ -1,0 +1,1145 @@
+Journal of Further and Higher Education
+
+ISSN: 0309-877X (Print) 1469-9486 (Online) Journal homepage: www.tandfonline.com/journals/cjfh20
+
+Does higher education equip graduate students
+with the employability skills employers require?
+The perceptions of employers in Ghana
+Obi Berko Obeng Damoah, Augustine Awuah Peprah & Kwabena Osei Brefo
+To cite this article: Obi Berko Obeng Damoah, Augustine Awuah Peprah & Kwabena Osei
+Brefo (2021) Does higher education equip graduate students with the employability skills
+employers require? The perceptions of employers in Ghana, Journal of Further and Higher
+Education, 45:10, 1311-1324, DOI: 10.1080/0309877X.2020.1860204
+To link to this article: https://doi.org/10.1080/0309877X.2020.1860204
+
+Published online: 05 Jan 2021.
+
+Submit your article to this journal
+
+Article views: 4736
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 27 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=cjfh20
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+2021, VOL. 45, NO. 10, 1311–1324
+https://doi.org/10.1080/0309877X.2020.1860204
+
+Does higher education equip graduate students with the
+employability skills employers require? The perceptions of
+employers in Ghana
+Obi Berko Obeng Damoah
+
+a
+
+, Augustine Awuah Peprah
+
+b
+
+and Kwabena Osei Brefoc
+
+a
+University of Ghana Business School, University of Ghana, Legon, Ghana; bDepartment of Business Administration,
+University of Professional Studies, Accra, Ghana; cDepartment of Economics, University of Ghana, Accra, Ghana
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+Recent changes in the labour market and higher education sector have
+placed graduates’ employability on the agenda of researchers, policy­
+makers and employers in both advanced and developing economies.
+Yet, the question of whether higher education equips graduate students
+with the employability skills employers require remains under-studied
+particularly in a developing country like Ghana. Using survey data and
+employing a paired t-test analyses, our findings reveal that whilst the
+employers perceive graduate students to possess various critical skills
+which match industry demands, the graduate students fall short in these
+critical skills. The differences were statistically significant indicating that
+there are still gaps between what higher education is offering its students
+and what industry requires from graduates at the entry-level. Based on the
+findings, implications for theory, policy, and practice are discussed.
+
+Received 13 January 2020
+Accepted 1 December 2020
+KEYWORDS
+
+Employability skills; gap
+analysis; employers
+perception; Ghana
+
+Introduction
+In recent years, the labour market and higher education sector in both advanced and developing
+countries have witnessed considerable changes and this has placed the discourse of employability
+on the agenda of researchers, governments, and employers (Behle 2020; Bridgstock 2009; Moreau
+and Leathwood 2006; O’Leary 2019; Sharma and Jha 2020; Suleman 2018). Universities and other
+higher education institutions are under increasing pressure to produce ‘employable’ graduates, and
+the graduates themselves are encouraged to incessantly develop their personal qualities, skills, and
+experiences to compete in the graduate labour market (Behle 2020; Moreau and Leathwood 2006;
+Suleman 2018). Consequently, there is a growing interest about graduates’ employability (see
+Sumanasiri, Yajid, and Khatibi 2015; Smith, Ferns, and Russell 2014; Finch et al. 2013; Wickramasinghe
+and Perera 2010; Chandrasiri 2008; Pool and Sewell 2007; Knight and Yorke 2003). For instance, studies
+have examined the trends and impact of graduate attributes on employability (Osmani et al. 2015);
+graduate attributes and career management skills (Bridgstock 2009); graduate employability and
+competencies (Cox, Al Daoud, and Rudd 2013; Jackson 2016)
+Although this body of literature is insightful, it overlooks other insightful graduates’ employability
+issues creating a lacuna which still limits our understanding of the employability skills required by
+employers. First, while a considerable amount of the literature addresses employable skills that are
+needed to be embedded in graduates’ education (Osmani et al. 2015), prior literature is still unclear
+about how higher education equips graduate students with employable skills to prepare them for the
+job market. Specifically, the extant literature is inconclusive about the nexus between the acquired
+CONTACT Augustine Awuah Peprah
+© 2021 UCU
+
+augustine.peprah@upsamail.edu.gh
+
+1312
+
+O. B. O. DAMOAH ET AL.
+
+graduate skills from university and the required skills by employers (Davies 2000; Finn 2000; Lindsay
+2002; Osmani et al. 2015; Wickramasinghe and Perera 2010). Second, there is a poor understanding of
+employability within the context of a developing country particularly in the context of Sub-Saharan
+Africa. Our scan of the literature reveals that research on employability skills is heavily skewed towards
+advanced economies like the UK, USA, Australia and Europe (Collet, Hine, and Du Plessis 2015; Cranmer
+2006; Bridgstock 2009). This lacuna exists despite the efforts by management of Universities and other
+higher institutions in Africa to ensure that graduates acquire employable skills that meet industry
+demands. Further, research on employability skills in Ghana is chiefly underexplored. i.e. the question
+about whether higher educations in Ghana can arm graduate students with employable skills is yet to
+be fully explored and answered despite the increase in higher education.
+In this paper, we follow the research approach of Collet, Hine, and Du Plessis (2015) to contribute
+to these gaps by answering the overarching research question: does higher education equip graduate
+students with the employability skills employers expect of them? Using survey data on managers and
+executives of public and private firms in Accra, Ghana and employing principal component analysis
+and paired sample t-test as the main analytical tools, the study attempts to respond to the following
+specific research questions: which skills do employers perceive to be important when employing
+graduates at the entry-level? How evident are these important skills in the graduate students at the
+entry-level? Is there a significant difference in the skills employers perceive to be important and how
+evident are these skills in graduates at the entry-level?
+Our empirical approach is noteworthy and useful because extant works on employability skills are
+largely based on theoretical or conceptual analyses and offer policy recommendations and prescriptive
+advice (e.g. Davies 2000; Raybould and Sheedy 2005; Wickramasinghe and Perera 2010) that, unfortu­
+nately, do not provide a better understanding of the lived experiences of managers concerning employ­
+able skills of graduates students. Our findings reveal that whilst the employers perceive that the graduate
+students should possess various critical skills needed mostly in industry (i.e. knowledge, enterprise
+leadership, team working and technical management), graduate students fall short in these critical skills.
+The differences were statistically significant indicating that there are still gaps between what higher
+education is offering its students and what industry requires from graduates at the entry-level. These
+findings provide new insights into graduate employability skills in developing countries particularly in the
+underexplored context such as Ghana. The remaining part of the paper is structured as follows. In the next
+section, we present the theoretical background and hypotheses of the paper and describe our methodol­
+ogy. Subsequently, we present and discuss the findings to highlight their contribution and practical
+relevance. Finally, we conclude and offer implications of the findings
+
+Literature review and hypotheses
+Employability and employability skills
+The concept of employability has been discussed for several years and there appears to be a heightened
+interest in employability over the last decade. According to a report by Artess, Hooley, and MellorsBourne (2017), published by the Higher Education Academy, defining employability is more difficult than
+might be imagined and there is no uniform definition for employability (Artess, Hooley, and MellorsBourne 2017; Dearing 1997; Yorke 2006). However, the Higher Education Academy and many scholars
+believe and share in the definition of Yorke and Knight (2006). The authors define employability as ‘a set
+of achievements – skills, understandings and personal attributes – that make individuals more likely to
+gain employment and be successful in their chosen occupations, which benefits themselves, the work­
+force, the community and the economy’(Yorke and Knight 2006, 8). For this research, we define employ­
+ability as defined by Yorke and Knight (2006).
+However, not only have employers across the world expressed worry about the poor develop­
+ment of graduate skills relevant for the corporate world, but the importance of employability is
+generally agreed-upon by policymakers and scholars alike (Römgens, Scoupe, and Beausaert 2020;
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+
+1313
+
+Peeters et al. 2019; Australian Chamber of Commerce & Industry 2002). In today’s uncertain
+environment, higher education institutions are required to prepare graduates for jobs that do
+not exist yet, and for handling problems that nobody has yet thought of (Kumar 2007; Römgens,
+Scoupe, and Beausaert 2020). Because graduates are part of the labour market, they need to
+continue working on their employability to prepare them to find and keep jobs (Akkermans et al.
+2013). As a result, political, economic, and social groups are mounting pressure on policymakers
+and higher education professionals to prioritise the discussion on employability in strategic
+agendas.
+On the other hand, employers are generally looking for graduates who possess employability
+skills, such as as communication, interpersonal, problem-solving skills, and the ability to adapt to
+all kinds of situations in the workplace (Kearns 2001; Chang 2004). No matter what kind of job the
+employee has to perform, the following employability skills can be considered as the underpinning
+skills applied across the board. Chang (2004) revealed that employers search for these types of
+employability skills, attitudes, and behaviours in their potential employees.
+
+Knowledge skills
+Several studies have explored the perception of employers regarding the level of proficiency
+employers perceive graduates to possess at the entry-level. Direito, Pereira, and de Oliveira Duarte
+(2012) found that although graduate students possess some level of proficiency in information skills,
+employers significantly rated the importance they attach to this skills significantly above students’
+level of proficiency. In a similar study by Collet, Hine, and Du Plessis (2015), the authors argue that
+graduate students’ proficiency in knowledge skill was significantly below the expectation of their
+employers. But the question is, will these results hold in a developing country context like Ghana? In
+an attempt to answer this question, we hypothesised that:
+Hypothesis 1: There is a significant difference between the importance employers in Ghana attach to
+knowledge skills and the level of proficiency graduates possess in these skills.
+
+Enterprise leadership
+Hodges and Burchell (2003) found that employers significantly rated the importance they attach to
+skills such as leadership, ability to inspire and influence others above the proficiency graduate
+students possess in these skills. Direito, Pereira, and de Oliveira Duarte (2012) found that employers
+significantly rated the importance they attached to leadership skills significantly above the profi­
+ciency graduate students possessed. Similarly, Collet, Hine, and Du Plessis (2015) reported that
+employers were not satisfied with the level of enterprise skills that graduate students possess.
+Agus, Awang, Yussof and Makhbul (2011) found that employers rated the importance attached to
+leadership skill as significantly higher than theproficiency gradutate students possess in Malaysia.
+This implies that employers perceive students not able to meet their expectation regarding enter­
+prise and leadership skills. This led to the hypothesis that:
+Hypothesis 2: There is a significant difference between the importance employers in Ghana attach to
+enterprise leadership skills and the level of proficiency graduates possess in these skills.
+
+Communication skills
+Direito, Pereira, and de Oliveira Duarte (2012) found that the importance employers attach to skills
+such as oral and written communication were significantly higher than how proficient graduate
+students are in the same skill at the graduate level. Similarly, Wickramasinghe and Perera (2010)
+
+1314
+
+O. B. O. DAMOAH ET AL.
+
+found that the importance employers attach to oral and written communication skills were sig­
+nificantly rated above graduates’ level of proficiency in the same skill. Pitan and Adedeji (2012) also
+found that the importance employers attached to communication skill were significantly above
+graduate students’ level of proficiency in the same skill. Based on the above review, the next
+hypotheses is hypothesised as follows:
+Hypothesis 3: There is a significant difference between the importance employers in Ghana attach to
+communication skills and the level of proficiency graduates possesses in these skills.
+
+Teamwork
+Direito, Pereira, and de Oliveira Duarte (2012) found that that graduates’ level of proficiency in
+teamwork skill was significantly below the importance that employers attach to the same skills. That
+is, graduate students do not meet the expectation of employers. Hodges and Burchell (2003) also
+found that the graduate students’ level of proficiency in teamwork skill does not meet the expecta­
+tion of employers in New Zealand. Additionally, Collet, Hine, and Du Plessis (2015) also reported that
+employers were not satisfied with the level of team skill that graduate students possess. Agus et al.
+(2011) also reported that employers rated the importance attached to teamwork skill was signifi­
+cantly higher than the proficiency of graduates studens possess in the same skills.
+Hypothesis 4: There is a significant difference between the importance employers attach to teamwork
+skills and the level of proficiency graduates possess in these skills.
+
+Interpersonal collaboration
+Husain et al. (2010) found that the importance employers in Malaysia attach to interpersonal skills
+was significantly higher than student’s proficiency in the same skills. Pitan and Adedeji (2012) found
+that the importance employers attach to interpersonal skills was significantly above students’ level of
+proficiency in the same skills. Agus et al. (2011) also reported that employers rated the importance
+attached to interpersonal skill significantly higher than their proficiency in the same skills. Lastly,
+Hodges and Burchell (2003) also found that employers rated the importance they attach to inter­
+personal skills significantly above students’ proficiency in the same skill.
+Hypothesis 5: There is a significant difference between the importance employers in Ghana attach to
+interpersonal skills and the level of proficiency graduates possess in these skills.
+
+Improve (learning) skills
+Wickramasinghe and Perera (2010) found that graduate’s level of proficiency in learning skill was
+significantly below the importance that employers attach to the same skills. Pitan and Adedeji (2012)
+found that the proficiency level of graduate students in learning skill was significantly below the
+expectations of employers in Nigeria. That is, the importance employers in Nigeria attached to
+learning skill was significantly higher than graduate students’ proficiency in the same skills. Lastly,
+Direito, Pereira, and de Oliveira Duarte (2012) found a mismatch in the importance employers
+attached to learning skills and how proficient graduate students are in the same skills.
+Hypothesis 6: There is a significant difference between the importance employers in Ghana attach to
+learning skills and the level of proficiency graduates possess in these skills.
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+
+1315
+
+Creativity and innovation skills
+Wickramasinghe and Perera (2010) found that the importance employers attach to creativity and
+innovative skills were significantly above students’ proficiency in the same skills. Similarly, Direito,
+Pereira, and de Oliveira Duarte (2012) found that employers rated graduates’ level of proficiency in
+creativity and innovation skills to be lower than the importance they attach to the same skill. Similarly,
+Collet, Hine, and Du Plessis (2015) also found that the importance employers attached to creative skill
+were significantly higher than graduate students’ level of proficiency in the same skill. That is, graduates
+do not meet the satisfaction of employers in terms of creative and innovative skills. All the above
+empirical review shows that graduate students do not generally meet the satisfaction of their employ­
+ers. Therefore the next hypothesis is presented as follows.
+Hypothesis 7: There is a significant difference between the importance employers in Ghana attach to
+creativity and innovation skills and the level of proficiency graduates possess in these skills.
+
+Numeracy skills
+Wickramasinghe and Perera (2010) found that the importance employers attach to arithmetic was
+significantly above the level of students’ proficiency in the same skill. Pitan and Adedeji (2012) also
+found that the importance employers attach to numeracy skills was significantly above student’s
+proficiency in the same skill. Lastly, Collet, Hine, and Du Plessis (2015) found that students’ profi­
+ciency in numeracy skills (which relates to systems thinking and comprises of a core of business
+knowledge relating to elemental functioning of any business entity such as Knowledge of account­
+ing and financial systems) was significantly below the expectations of employers. Hence, we
+hypothesise that:
+Hypothesis 8: There is a significant difference between the importance employers in Ghana attach to
+numeracy skills and the level of proficiency graduates possess in these skills.
+
+IT literacy skills
+Husain et al. (2010) found that the importance employers attach to systems and technical skill was
+significantly above graduate students’ proficiency in the same skills. Hodges and Burchell (2003)
+also found that the importance employers attach to computer literacy was significantly rated
+above graduate students’ proficiency in the same skills. Similarly, Pitan and Adedeji (2012) also
+found that the importance employers in Nigeria attach to informational technology was signifi­
+cantly above graduate students’ proficiency in the same skill. Lastly, Collet, Hine, and Du Plessis
+(2015) reported that the importance employers attach to IT literacy skill was significantly higher
+than graduate students’ proficiency in the same skill. The above literature depicts that employers
+were not satisfied with the skills graduates possess in this area hence the hypothesis is stated as:
+Hypothesis 9: There is a significant difference between the importance employers in Ghana attach to IT
+literacy skills and the level of proficiency graduates possess in these skills.
+
+Technical management skills
+Pitan and Adedeji (2012) explored the perception of Nigerian employers regarding skills mismatch
+among graduate students and the authors argue that graduates do not possess higher-order
+technical skills for application and leadership in a project which employers perceive to be important.
+Collet, Hine, and Du Plessis (2015) also found that the importance that employers attached to
+technical management was significantly higher than the proficiency of students in the same skills.
+
+1316
+
+O. B. O. DAMOAH ET AL.
+
+Hypothesis 10: There is a significant difference between the importance employers in Ghana attach to
+technical management skills and the level of proficiency graduates possess in these skills.
+
+Method
+Study context
+Ghana is a country located in the West African country sub-Region along the Gulf of Guinea with
+a population of approximately 25 million according to Ghana Statistical Service (2010). It shares borders
+with Burkina Faso (602 km) to the north, Ivory Coast (720 km) to the west, and Togo (1098 km) to the
+east. After over a century under the colonial rule of the British, Ghana finally gained its independence in
+the year 1957 under the leadership of Kwame Nkrumah. The major activities contributing to the
+development of the economy are industry work, agriculture and provision of services. The industry
+sector encompasses mining, energy production, manufacturing and construction. Ghana is
+Africa’s second-largest gold producer after South Africa. The agriculture sector supplies raw materials
+for use in the manufacturing industry and contributes immensely to Ghana’s foreign exchange earn­
+ings. In terms of human development, Ghana’s Human Development Index (HDI) value for 2018 is
+0.596 – which puts the country in the medium human development category – positioning it at 142
+out of 189 countries and territories (UNDP 2019).
+The Policy goal of Tertiary Education in Ghana drives at increasing equitable access to highquality tertiary education whilst ensuring that young adults pursue relevant courses within Colleges
+of Education, Polytechnics and Universities. The National Accreditation Board under the auspices of
+the Ministry of Education is the board that oversees tertiary education in Ghana. Currently in terms of
+accredited tertiary institutions, Ghana boasts of (10) public universities, eighty one (81) private
+tertiary institutions offering degree programmes, eight (8) tutorial colleges, two (2) public poly­
+technics, and one (1) private polytechnic, thirty nine public colleges of education, seven (7)private
+colleges of education, one regionally–owned (West Africa) tertiary institution, five(5) chartered
+private institutions, eight (8) technical universities, five(5) registered foreign institutions and seven
+(7) public universities/professional institutions respectively . There are close to forty-three schools
+offering business programs at the tertiary level.
+Ghana is considered an ideal context for this study because a recent report by the British
+Council on Universities, employability and inclusive development reports that the higher educa­
+tion system in Ghana has gone through various policy reforms over the years and several innova­
+tions have been implemented. Nevertheless, the main policy reforms have focused on structural
+reviews and the issue of employability has been neglected (British Council 2016). The report
+further established that interview with key policymakers confirmed that “there is no specific
+national policy on graduate employability and the country lacks a coherent policy on higher
+education and employability and a competency framework.” This situation suggests Ghana as
+a suitable and distinct context for employability research.
+
+Research design
+The study employed the survey design to survey employers (managers and other executives) across
+various sectors in Ghana. A total of 200 managers in both the private and public sectors in the Greater
+Accra Region of Ghana were selected for the survey. The decision to use the Greater Accra region as the
+case study was because the region is the economic centre of Ghana and most of the university graduates
+are employed in this region. The survey targeted managers and executives who have supervised fresh
+graduates in their organisations. Specifically, the survey instruments were administered to managers at
+the lower, middle and higher levels and have supervised graduate students at the entry-level.
+The instrument used in the study was adopted from Collet, Hine, and Du Plessis (2015). The skills
+items used in the questionnaire cut across disciplines and were based on reports from government,
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+
+1317
+
+industry, academic and policy areas (Collet, Hine, and Du Plessis 2015). The survey was aimed at
+helping us to evaluate the gap between the skills perceived as required by industry (managers and
+other senior executives) and those perceived as evident in graduates entering the industry.
+Consequently, each of the skills item in the survey included two questions: (1) how important
+(IMP) is the skill to your organisation? (2) how evident (EVD) is the skill in the graduates you employ?
+The instrument was also designed to include questions that addressed the demographics of
+respondents’ organisations, and the background information of the respondents. The questionnaire
+design included a Likert five-point scale with no neutral point to avoid courtesy bias on the part of
+respondents and eliminate ambivalence.
+From the perspective of the respondents, the relative importance of any the skill item is evaluated
+in comparison to a suite of other skills. The respondent is explicitly made aware of this during the
+survey and ranks the skills accordingly. In reviewing skills evident in the graduate, nevertheless, the
+respondent is not involved in a comparative ranking; the respondent provides explicitly a value
+judgement about a perceived distance measure (deficiency) that implicitly provides an independent
+measure of the importance of the skill in the respondent’s activities. Therefore, the distance between
+the means of IMP and EVD provides meaningful measures of skills’ importance (i.e. IMPmean−
+EVDmean). In employing the subtractive difference between the measures of perceived importance
+and evidence, we aimed to operationalise issues of concern around the employability skills gap. The
+responses from the survey was analysed using SPSS v21.
+We followed an analytical iterative progression to transform and interpret our data. First, explora­
+tory factor analysis (EFA) was carried out to help explore the factorial structure of the skills items.
+Kaiser-Meyer-Olkin (KMO) tests and Bartlett’s test of sphericity were used to evaluate the linear
+association of items in correlation matrices. Constructs were extracted using principal component
+analysis with Promax rotation, to allow for correlation between variables, and Kaiser normalisation
+(Field 2013). Internal consistency of construct validity was examined using Cronbach’s α coefficient
+(Reinard 2006; Field 2013). Second, paired sample t-test was employed to test the difference
+between the means IMP and EVD. Finally, the effect size was tested using Cohen’s d test.
+
+Results
+Derivation of skills constructs and description
+The output from the exploratory factor analysis (EFA) shows that the KMO statistic (0.899)
+indicates the sample size is sufficient for the number of items in our scale while Bartlett’s test
+(x2 = 4249, df = 903, p < 0.001) indicates the correlation matrix is not an identity matrix (Field
+2013). Altogether, these two tests show that our correlation matrix is ideal for factor analysis. Ten
+constructs, each with eigenvalues of > 1, were extracted for the 42 skills items that together
+explained 63.2% of the variance. The Cronbach alpha for the constructs values exceeds 0.7 for all
+factors except the third factor which shows 0.699 alpha value. This indicates a high level of
+internal reliability in the factor outcomes. Details of this analysis are shown in Table 1 with factor
+loadings of each of the items. The extracted ten factors were labelled as Knowledge, Leadership
+enterprise, numeracy skills, Technical management, Teamwork skills, interpersonal skills, commu­
+nication skills, improve (learning) skills, IT literacy skills and creativity and innovation skills as
+shown in Table 1.
+
+Perceived employability skills needed
+To understand the employability skills employers perceived as important, we employed mean ratings
+to analyse the employability skills. The study made use of scalers, hence, it was expedient to test for
+reliability. The reliability test which measures the internal consistency of our constructs was carried out
+using Cronbach Alpha (Nunnally 1978). Table 1 depicts the Cronbach Alpha values and the descriptive
+
+1318
+
+O. B. O. DAMOAH ET AL.
+
+Table 1. The skills constructs extracted by principal component analysis with Promax rotation and Kaiser normalisation.
+Skill construct
+Knowledge skills
+
+Cronbach
+Alpha
+0.775
+
+Eigen
+value %
+14.249
+
+% of
+Variance
+33.136
+
+Numeracy skills
+
+0.814
+
+2.432
+
+5.657
+
+Enterprise
+leadership
+
+0.699
+
+2.004
+
+4.659
+
+Technical
+management
+
+Teamwork skills
+
+Interpersonal
+skills
+
+Communication
+skills
+
+0.881
+
+0.876
+
+0.703
+
+0.844
+
+1.437
+
+1.404
+
+1.211
+
+1.183
+
+3.342
+
+3.265
+
+2.816
+
+2.750
+
+IT literacy skills
+
+0.865
+
+1.141
+
+2.653
+
+Improve learning
+skills
+
+0.803
+
+1.063
+
+2.473
+
+Creativity and
+innoation
+
+0.866
+
+1.034
+
+2.405
+
+Cumulative % of
+variance
+
+Items
+Ability to communicate effectively with discipline
+specialists
+Ability to accurately report information
+Ability to accurately document information from
+a different source
+Ability to evaluate information and data
+Ability to evaluate information and data
+Ability to retrieve information from different sources
+Ability to understand essential concepts relating to
+specific discipline
+Knowledge of financial systems
+Knowledge of accounting
+Knowledge of general principles of law relating to
+business
+Knowledge of marketing
+Plan business ventures
+
+Factor
+loading
+.966
+.841
+.813
+.740
+.740
+.647
+.633
+.908
+.900
+.680
+.603
+.718
+
+Willingness to take risk
+Ability to lead a new venture
+Ability to identify key people in a venture
+Ability to negotiate
+Ability to inspire others
+Apply discipline knowledge to solution of problems of
+an unfamiliar nature
+Build positive customer relations
+Manage a project
+Reach a timely independent decision
+Apply knowledge in practice
+Interpret team dynamics
+Awareness of roles and responsibilities of team
+members
+Respond positively to feedback
+Reflect on own performance
+Appreciation of culture diversity
+Adapt one’s own skills and knowledge to fit with other
+professionals
+Work in an interdisciplinary team
+Communicate effectively with non-experts
+Appreciation of the client’s perspective
+Work collaboratively with other professions
+Effective written and oral communication skills
+
+.520
+.474
+.452
+.447
+.418
+.562
+
+Strong action orientation
+Drive to succeed
+Knowledge of commercialisation
+Understanding of technology valuation
+Understanding of new product/service development
+processes
+Initiative for continuing professional learning
+
+.486
+.432
+.723
+.535
+.419
+
+Responsibility for continuing professional learning
+Assimilate new external knowledge with existing
+knowledge
+Acquire new external knowledge
+
+.920
+.841
+
+.490
+.461
+.403
+.339
+.895
+.808
+.498
+.340
+.318
+.886
+.820
+.733
+.731
+.598
+.514
+
+.928
+
+.693
+
+63.156
+
+The construct shows high Cronbach’s α (CA) values (column 2) and eigenvalues >1 (column 3) that together explain 63% of the
+cumulative total variance (column 4). The factor loading for each of the items are shown in column 6.
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+
+1319
+
+statistics for perceived importance managers attach to these employability skills and their respective
+Cronbach Alpha. Regarding skills importance, employers demonstrated higher importance to ‘knowl­
+edge’ (M = 21.445; SD = 3.985), ‘enterprise leadership’ (M = 20.616; SD = 3.916), ‘teamwork skills’
+(Mean = 17.905; SD = 4.248), ‘technical management’ (M = 17.660; SD = 3.845), ‘interpersonal skills’
+(M = 17.575; SD = 2.485) and ‘numeracy skills’ (M = 12.803; SD = 2.546). Employers demonstrated lower
+importance to ‘communication skills’ (M = 10.745; S.D = 1.569), ‘creativity and innovation skills’
+(M = 10.21; S.D = 1.732), ‘IT literacy skills’ (M = 10.121, SD = 1.771) and ‘improve learning skills’
+(M = 7.06; S.D = 1.057). The mean importance ratings ranged from 21.445 (Knowledge) to 7.06
+(improve). This output is presented in Table 2.
+
+Employees perception of how evident employability skills are in graduates
+To answer our second research question, we employed mean ratings to analyse the employability skills.
+The output of this analysis is presented in Table 3. Regarding skills proficiency, employers demon­
+strated higher ratings for ‘knowledge’ (M = 18.673; SD = 3.880), ‘enterprise leadership’ (M = 18.035;
+SD = 4.443), ‘technical management’ (M = 15.06; SD = 3.47), ‘teamwork skills’ (M = 15.552, SD = 3.148)
+and ‘interpersonal skills’ (M = 15.61; SD = 3.355) and ‘numeracy skills’ (M = 12.803; SD = 2.546).
+Employers demonstrated lower ratings for ‘communication skills’ (M = 9.63; SD = 2.015), ‘IT literacy
+skills’ (M = 9.09; SD = 2.113), ‘improve learning skills’ (M = 6.46; SD = 1.373) and ‘creativity and
+innovation skills’ (M = 9.19; SD = 2.028).
+
+The employability skills gap analysis
+The main objective of this study was to test the employers’ perceptions of a skills gap between the skills in
+demand (i.e. IMP) and the skills level evident in graduate employees in the context of Ghana. This
+objective was achieved by performing paired sample t-test and computing the effect size using Cohen’s
+d test. The output of this analysis is shown in Table 4. The result of the paired samples t-test indicated that
+there was a statistically significant difference between the ‘mean perceived importance’ and ‘mean
+perceived evident’ of skills of graduate employees for all the skills set variables. Cohen’s d effect sizes of
+medium or larger (>0.5) were obtained for the ten skills constructs with one construct returning cohen’s
+d values of 0.496 indicating a small- to medium-size effect. This suggests a significant and meaningful gap
+is perceived between the skills considered essential for by employers and those evident in recent
+graduates. This result provides support for all our hypothesis.
+
+Discussion
+The first objective of the study was to investigate the employability skills employers perceive to be
+important in the industry in Ghana. Among the skills considered in the study were knowledge,
+Table 2. Descriptive statistics of the perceived importance of employability skills.
+Skillsa
+Knowledge skills
+Enterprise leadership skills
+Teamwork skills
+Technical Management
+Interpersonal skills
+Numeracy skills
+Communication skills
+Creativity and innovation
+IT literacy skills
+Improve learning skills
+a
+
+Rank
+1st
+2nd
+3rd
+4th
+5th
+6th
+7th
+8th
+9th
+10th
+
+Individual items measuring each skill are not shown.
+
+Mean
+21.445
+20.616
+17.905
+17.660
+17.575
+12.803
+10.745
+10.21
+10.121
+7.06
+
+S.D
+3.985
+3.916
+4.248
+3.845
+2.485
+2.546
+1.569
+1.732
+1.771
+1.057
+
+1320
+
+O. B. O. DAMOAH ET AL.
+
+Table 3. Employers perception of employability skills evident in graduates.
+Skillsa
+Knowledge skills
+Enterprise leadership
+Interpersonal skills
+Teamwork skills
+Technical Management
+Numeracy skills
+Communication skills
+Creativity and innovation skills
+IT literacy skills
+Improve learning skills
+
+Mean
+18.673
+18.035
+15.61
+15.552
+15.06
+12.803
+9.63
+9.19
+9.09
+6.46
+
+S. D
+3.880
+4.443
+3.355
+3.148
+3.47
+2.546
+2.015
+2.028
+2.113
+1.373
+
+a
+
+Individual items measuring each skill are not shown.
+
+Table 4. Paired samples test and effect size.
+Paired Differences
+95% Confidence
+Interval of the
+Difference
+
+1
+2
+
+Std.
+Mean Deviation
+2.75879 4.67878
+2.54040 5.07166
+
+Std.
+Error
+Mean
+.33167
+.36043
+
+Lower
+2.10473
+1.82961
+
+3.06223
+4.36987
+
+.21762
+.31055
+
+1.33851
+2.19685 8.123 197
+−3.20334 −1.97847 −8.343 197
+
+.000
+.000
+
+0.641
+0.706
+
+5.08921
+3.42507
+
+.36076
+.24280
+
+1.65540
+1.48603
+
+3.07827
+2.44362
+
+6.561 198
+8.092 198
+
+.000
+.000
+
+0.632
+0.665
+
+2.02206
+
+.14334
+
+.82788
+
+1.39322
+
+7.748 198
+
+.000
+
+0.614
+
+2.05949
+1.35107
+
+.14599
+.09577
+
+.74225
+.41917
+
+1.31805
+.79691
+
+7.056 198
+6.349 198
+
+.000
+.000
+
+0.528
+0.496
+
+1.94900
+
+.13781
+
+.74823
+
+1.29177
+
+7.401 199
+
+.000
+
+0.541
+
+Knowledge skills
+Enterprise
+leadership
+skills
+3 Numeracy skills
+1.76768
+4 Technical
+−2.59091
+management
+skills
+5 Teamwor skills
+2.36683
+6 Interpersonal
+1.96482
+skills
+7 Communication
+1.11055
+skills
+8 IT literacy skills
+1.03015
+9 Improve learning
+.60804
+skills
+10 Creativity and
+1.02000
+innovation
+skills
+
+Upper
+3.41285
+3.25119
+
+Sig.
+Standardised effect
+t
+df (2-tailed)
+size (Cohen’s d)
+8.318 198
+.000
+0.701
+7.048 197
+.000
+0.607
+
+The paired T test shows that there is a statistically significant difference between the ‘mean perceived importance’ and ‘mean
+perceived evident’. The size effect was determined using Cohen’s d test and the constructs showed d values (column 10) > 0.5
+(medium to large), with one construct returning cohen’s d values of 0.496 indicating a small- to medium-size effect.
+
+enterprise leadership, numeracy skills, technical management, teamwork skills, interpersonal skills,
+communication skills, IT literacy skills, improve learning skills and creativity and innovation skills.
+The findings revealed that employers demonstrated higher importance to knowledge, enterprise
+leadership, teamwork skills, technical management, interpersonal skills and numeracy skills.
+Employers demonstrated lower ratings for skills such as technical management, teamwork skills,
+interpersonal skills, communication skills, IT literacy skills, improve learning skills and creativity and
+innovation skills.
+In this current dispensation, information is the engine of business growth. It is not surprising that
+employers rated ‘knowledge’ as the most important skills. Quality information drives the success of
+every business. Ability to accurately evaluate and report information will enable firms to make good
+decisions. For a business to get accurate and reliable information, they look forward to recruiting
+employees who are equipped with these skills. Such skills are needed to ensure the efficiency and
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+
+1321
+
+growth of businesses. This finding is consistent with that of Agus et al. (2011) who reported that
+employers in Malaysia considered ‘knowledge’ as the most important skills needed in the workplace.
+Similarly, Husain et al. (2010) also found that employers in Malaysia rated ‘knowledge’ as one of the
+most important skills needed in the workplace. Whiles employers in Ghana rated ‘knowledge’ as the
+most important skills needed in the workplace, studies by Husain et al. (2010) found that employers
+in Malaysia rated it as the fifth most important skills. The result is also consistent with that of Agus et
+al. (2011) who found that employers in Malaysia rated ‘knowledge’ as the most important skills
+needed in the workplace.
+It is not surprising managers rated leadership skills among the most important skills they expect
+graduates to possess at the entry-level. Businesses are always in need of leaders with track records to
+occupy management positions. However, they also seek to recruit employees who have the poten­
+tials to replace the current managers in future, hence every employer search for employees who
+have such leadership skills. This is consistent with that of Agus et al. (2011) who also found that
+employers in Malaysia considered leadership skills as one of the most important skills needed in the
+workplace. Similarly, Singh, Thambusamy, and Ramly (2014) found that among skills that employers
+perceive to be important, leadership was rated as the fifth most important skills needed.
+A plausible reason for employers rating improves (learning) skills as one of the most important
+skills needed is that the business world is always changing, new technologies are always coming up.
+Firms are constantly coming up with new ideas on best practices, hence firms are always in need of
+employees who can embrace change and learn new skills. This finding is consistent with that of
+Hodges and Burchell (2003) who also found that employers in New Zealand considered willingness
+to learn as one of the most important skills needed in the workplace. With regards to team skills,
+most organisations today expect employees to possess teamwork skills because it is more of
+a collaborative vibe that generates energy throughout the workplace. Additionally, teamwork
+enables employees to share ideas which always help to minimise the rate at which organisations
+make mistake. This finding is consistent with Hodges and Burchell (2003) who rated teamwork as one
+of the most important skills employers in New Zealand perceive to be important in the workplace.
+Similarly, Direito, Pereira, and de Oliveira Duarte (2012) found that employers rated teamwork
+among the most important skills they perceive to be important in industry.
+The second objective of the study was to assess student’s proficiency in the skills that employers
+perceive to be important in the workplace. The findings from the study revealed that employers
+believe that graduate students have some level of proficiency in the skills they perceive to be
+important. Regarding skills proficiency, employers demonstrated higher rating knowledge, enter­
+prise leadership, technical management, teamwork skills and interpersonal skills and numeracy skills.
+With regards to teamwork, it wasn’t surprising students possess some level of proficiency in team­
+work skills. A possible reason for this is that students are usually allowed to do assignments and term
+papers in groups and this mostly improve their teamwork skills. This is consistent with that of Direito,
+Pereira, and de Oliveira Duarte (2012) who also found that graduate students in Portugal were more
+proficient in teamwork. Similarly, Wickramasinghe and Perera (2010) also reported that among the
+15 skills employers perceive to be important, employers rated graduates’ proficiency in teamwork
+skill in the third position. Hodges and Burchell (2003) also found that among 25 skills perceive to be
+important, employers rated student proficiency in the skill in the fourth position.
+The last objective of the study was to examine whether there was a statistically significant difference
+between skills perceived to be important and how proficient graduate students are in the same skills.
+The researcher hypothesised there was a significant difference in skills perceived by employers and
+how evident these same skills are in the graduates. Skills gap were identified for all the ten-skills
+construct considered in the study. A comparison of mean importance and proficiency score for each
+skill gap shows there is statistically significant difference. The study accepted the null hypothesis that
+there is significant difference in mean importance of skills and mean evidence of proficiency. The
+employers perceive the graduate skills to be below their expectation. The gap analysis revealed that
+employers were not satisfied with the employability skills Ghanaian graduates possess since all the
+
+1322
+
+O. B. O. DAMOAH ET AL.
+
+gaps exhibited a positive value. It was difficult for the researcher to make a direct comparison of the
+skills gap with previous literature. However, the observation of similarities with past studies is possible.
+Collet, Hine, and Du Plessis (2015) found that employers in Australia were not satisfied with the
+employability skills graduates possess since the importance attached to these skills were ranked
+above how evident it is in the graduates. Direito, Pereira, and de Oliveira Duarte (2012) also found
+that employers in Portugal rated the importance they attach to the skills significantly above the
+proficiency of graduate students in the same skill. Additionally, studies conducted by Pitan and
+Adedeji (2012) also found that there was a mismatch in skills perceived to be important and how
+evident the same skills in graduate students in Nigeria. Agus et al. (2011) also found that employers in
+Malaysia were not satisfied with the performance of graduate students at the entry-level
+
+Conclusion
+There is the general perception that the students that our universities produce do not possess the
+employability skills that are needed to effectively work in the corporate world. This study employed
+a survey design to investigate the perception of Ghanaian employers regarding the importance they
+attach to some selected employability skills and how evident these same skills are in graduate
+students at the entry-level. Employers were asked to respond to how important the employability
+skills are to their organisation and how evident they perceive the graduates to be performing at the
+skills. The gap between importance and evident skills were further analysed using the paired t-test.
+The paired t-test enables the researcher to determine if there is a gap between ‘mean perceived
+importance’ and ‘mean perceived evident’. The study revealed that among the skills considered in
+the study were knowledge, enterprise leadership, numeracy skills, technical management, teamwork
+skills, interpersonal skills, communication skills, IT literacy skills, improve learning skills and creativity
+and innovation skills. Regarding skills proficiency, employers demonstrated higher rating knowl­
+edge, enterprise leadership, technical management, teamwork skills and interpersonal skills and
+numeracy skills. The gap analysis revealed that employers were not satisfied with the employability
+skills Ghanaian graduates possess since all the gaps exhibited a positive value.
+
+Implications of the study
+The study contributes to empirical literature in the field. For instance, it identified that although
+graduate students possess some degree of skills (e.g. knowledge, enterprise leadership, team work­
+ing and technical management), yet they fall short in all the dimensions from the expectation of
+employers. This study is comprehensive compare to existing studies in that it examines first the
+general existing skills at the graduate entry level in the job market, second, which of these existing
+skills do employers perceive to the be most important to industry, third, how employers perceive the
+present-day graduates possess the skills they deem to be most important in industry and four the
+extent to which whether or not the level of skills graduate students possess either fall short or
+otherwise of what is expected of them from employers (i.e. four in one). Finally, the study has
+examined the issues from an under-studied context, by offering a new insight from a new and fresh
+geographical context. It is important to note that this study did not measure or assessed ‘actual’
+employability skills possessed by graduate students but rather perceptions of employers (managers)
+about employability skills they expect graduate students to have and what the graduate students
+exhibit when they are employed.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+JOURNAL OF FURTHER AND HIGHER EDUCATION
+
+1323
+
+Notes on contributors
+Dr Obi Berko Obeng Damoah is a senior lecturer in the Department of Organisation and Human Resource Management
+at the University of Ghana Business School.
+Dr Augustine Awuah Peprah is a lecturer in the Department of Business Administration at the University of Professional
+Studies, Accra.
+Kwabena Osei Brefo graduated from the Department of Economics, the University of Ghana with Mphil economics
+degree.
+
+ORCID
+Obi Berko Obeng Damoah
+Augustine Awuah Peprah
+
+http://orcid.org/0000-0002-8349-272X
+http://orcid.org/0000-0002-6497-9161
+
+References
+Agus, A., A. H. Awang, I. Yussof, and Z. K. M. Makhbul. 2011. “The Gap Analysis of Graduate Employees’ Work Skills in
+Malaysia.” Proceedings of Business and Information 8: 15.
+Akkermans, J., V. Brenninkmeijer, M. Huibers, and R. W. B. Blonk. 2013. “Competencies for the Contemporary Career:
+Development and Preliminary Validation of the Career Competencies Questionnaire.” Journal of Career Development
+40 (3): 245–267.
+Artess, J., T. Hooley, and R. Mellors-Bourne. 2017. Employability: A Review of the Literature 2012-2016. York: Higher
+Education Academy.
+Australian Chamber of Commerce & Industry. 2002. Employability Skills – An Employer Perspective: Getting What
+Employers Want Out of the Too Hard Basket. Barton, ACT: Australian Chamber of Commerce & Industry.
+Behle, H. 2020. “Students’ and Graduates’ Employability. A Framework to Classify and Measure Employability Gain.”
+Policy Reviews in Higher Education 4 (1): 105–130. doi:10.1080/23322969.2020.1712662.
+Bridgstock, R. 2009. “The Graduate Attributes We’ve Overlooked: Enhancing Graduate Employability through Career
+Management Skills.” Higher Education Research & Development 28 (1): 31–44. doi:10.1080/07294360802444347.
+British Council. 2016. “Universities, Employability and Inclusive Development Project.” http://www.britishcouncil.org.
+gh/sites/default/files/universities_employability_and_inclusive_development.pdf
+Chandrasiri, S. 2008. “The Labour Market Experience of University Graduates in Sri Lanka.” Higher Education Policy 21 (3):
+405–423. doi:10.1057/palgrave.hep.8300164.
+Chang, M. 2004. “Why Some Graduates are More Marketable than Others: Employers’ Perspective.” Paper Presented
+at the Workshop on Enhancing Graduate Employability in a Globalised Economy, Economic Planning Unit,
+Malaysia.
+Collet, C., D. Hine, and K. Du Plessis. 2015. “Employability Skills: Perspectives from a Knowledge-intensive Industry.”
+Education+ Training 57 (5): 532–559.
+Cox, A. M., M. Al Daoud, and S. Rudd. 2013. “Information Management Graduates’ Accounts of Their Employability:
+A Case Study from the University of Sheffield.” Education for Information 30 (1–2): 41–61. doi:10.3233/EFI-130929.
+Cranmer, S. 2006. “Enhancing Graduate Employability: Best Intentions and Mixed Outcomes.” Studies in Higher Education
+31 (2): 169–184. doi:10.1080/03075070600572041.
+Davies, L. 2000. “Why Kick the ‘L’ Out of ‘Learning’? The Development of Students’ Employability Skills through Part Time
+Working.” Education + Training 42 (4): 36–44. doi:10.1108/00400910010379961.
+Dearing, R. 1997. Higher Education in the Learning Society, Report of the National Committee ofInquiry into Higher
+Education. Summary Report NCIHE/97/849. London: HMSO.
+Direito, I., A. Pereira, and A. M. de Oliveira Duarte. 2012. “Engineering Undergraduates’ Perceptions of Soft Skills:
+Relations with Self-efficacy and Learning Styles.” Procedia-Social and Behavioral Sciences 55: 843–851. doi:10.1016/j.
+sbspro.2012.09.571.
+Field, A. 2013. Discovering Statistics Using SPSS, 372–373. 4th ed. London: Sage Publications.
+Finch, D. F., L. K. Hamilton, B. Riley, and M. Zehner. 2013. “An Exploratory Study of Factors Affecting Undergraduate
+Employability.” Education + Tranining 55 (7): 681–70.
+Finn, D. 2000. “From Full Employment to Employability: A New Deal for Britain’s Unemployed?” International Journal of
+Manpower 21 (5): 384–399. doi:10.1108/01437720010377693.
+Ghana Statistical Service. 2010. Population and Housing Census. Accra: Government of Ghana.
+Hodges, D., and N. Burchell. 2003. “Business Graduate Competencies: Employers’ Views on Importance and
+Performance.” Asia-Pacific Journal of Cooperative Education 4 (2): 16–22.
+
+1324
+
+O. B. O. DAMOAH ET AL.
+
+Husain, M. Y., S. B. Mokhtar, A. A. Ahmad, and R. Mustapha. 2010. “Importance of Employability Skills from Employers’
+Perspective.” Procedia-Social and Behavioral Sciences 7: 430–438. doi:10.1016/j.sbspro.2010.10.059.
+Jackson, D. 2016. “Modelling Graduate Skill Transfer from University to the Workplace.” Journal of Education and Work 29
+(2): 199–231.
+Kearns, P. 2001. Generic Skills for the New Economy – Review of Reseacr. Adelaide: NCVER.
+Knight, P. T., and M. Yorke. 2003. “Employability and Good Learning in Higher Education.” Teaching in Higher Education 8
+(1): 3–16. doi:10.1080/1356251032000052294.
+Kumar, A. 2007. Personal, Academic and Career Development in Higher Education. SOARing to Success. London: Routledge.
+Lindsay, C. 2002. “Long-term Unemployment and the Employability Gap: Priorities for Renewing Britain’s New Deal.”
+Journal of European Industrial Training 26 (9): 411–419. doi:10.1108/03090590210451506.
+Moreau, M. P., and C. Leathwood. 2006. “Graduates’ Employment and the Discourse of Employability: A Critical Analysis.”
+Journal of Education and Work 19 (4): 305–324. doi:10.1080/13639080600867083.
+Nunnally, J. C. 1978. Psychometric Theory. 2nd ed. New York: McGraw-Hill.
+O’Leary, S. 2019. “Gender and Management Implications from Clearer Signposting of Employability Attributes
+Developed across Graduate Disciplines.” Studies in Higher Education. doi:10.1080/03075079.2019.1640669.
+Osmani, M., V. Weerakkody, N. M. Hindi, R. Al-Esmail, T. Eldabi, K. Kapoor, and Z. Irani. 2015. “Identifying the Trends and
+Impact of Graduate Attributes on Employability: A Literature Review.” Tertiary Education and Management 21 (4):
+367–379. doi:10.1080/13583883.2015.1114139.
+Peeters, E., J. Nelissen, N. De Cuyper, A. Forrier, M. Verbruggen, and H. De Witte. 2019. “Employability Capital: A
+Conceptual Framework Tested Through Expert Analysis.” Journal of Career Development 46 (2): 79–93.
+Pitan, O. S., and S. O. Adedeji. 2012. “Skills Mismatch among University Graduates in the Nigeria Labor Market.” US-China
+Education Review A 1 (2012): 90–98.
+Pool, L. D., and P. Sewell. 2007. “The Key to Employability: Developing a Practical Model Of.” Education + Training 49 (4):
+277–289. doi:10.1108/00400910710754435.
+Raybould, J., and V. Sheedy. 2005. “Are Graduates Equipped with the Right Skills in the Employability Stakes?” Industrial
+and Commercial Training 37 (5): 259–263. doi:10.1108/00197850510609694.
+Reinard, J. C. 2006. Communication Research Statistics: Exploratory Factor Analysis, Research Methods Online. Thousand
+Oaks, CA: Sage.
+Römgens, I., R. Scoupe, and S. Beausaert. 2020. “Unraveling the Concept of Employability, Bringing Together Research
+on Employability in Higher Education and the Workplace.” Studies in Higher Education: 45 (12): 2588–2603.
+Sharma, E., and M. Jha. 2020. “Perceptual Gap between Different Stakeholders about Management Education:
+A Challenge for the Employability of Graduates.” IUP Journal of Soft Skills 14 (2): 7–34.
+Singh, P., R. X. Thambusamy, and M. A. Ramly. 2014. “Fit or Unfit? Perspectives of Employers and University Instructors of
+Graduates’ Generic Skills.” Procedia-Social and Behavioral Sciences 123: 315–324. doi:10.1016/j.sbspro.2014.01.1429.
+Smith, C., S. Ferns, and L. Russell. 2014. Conceptualising and Measuring ‘Employability’ – Lessons from a National OLT
+Project. Gold Coast: Australian Collaborative Education Network Limited.
+Suleman, F. 2018. “The Employability Skills of Higher Education Graduates: Insights into Conceptual Frameworks and
+Methodological Options.” Higher Education 76 (2): 263–278. doi:10.1007/s10734-017-0207-0.
+Sumanasiri, E. G. T., M. S. A. Yajid, and A. Khatibi. 2015. “Conceptualizing Learning and Employability “Learning and
+Employability Framework.” Journal of Education and Learning 4 (2): 54–63. doi:10.5539/jel.v4n2p53.
+UNDP. 2019. Inequalities in Human Development in the 21st Century. Human Development Report 2019. New York:
+United Nations Development Programme.
+Wickramasinghe, V., and L. Perera. 2010. “Graduates’, University Lecturers’ and Employers’ Perceptions Towards
+Employability Skills.” Education+ Training 52 (3): 226–244. doi:10.1108/00400911011037355.
+Yorke, M., and P. Knight. 2006. Embedding Employability into the Curriculum. Vol. 3. York: Higher Education Academy.
+Yorke, M. 2006. “Employability in Higher Education: What It Is - What It Is Not.” The Higher Education Academy Learning &
+Employability. Series 1.
+
+

@@ -1,0 +1,1478 @@
+Africa Journal of Management
+
+ISSN: 2332-2373 (Print) 2332-2381 (Online) Journal homepage: https://www.tandfonline.com/loi/rajm20
+
+The influence of business schools on the ethical
+behavior of students: A study from Ghana
+Obi Berko Obeng Damoah & Emmanuel Wiredu Appiah
+To cite this article: Obi Berko Obeng Damoah & Emmanuel Wiredu Appiah (2019): The influence
+of business schools on the ethical behavior of students: A study from Ghana, Africa Journal of
+Management, DOI: 10.1080/23322373.2019.1616991
+To link to this article: https://doi.org/10.1080/23322373.2019.1616991
+
+Published online: 08 Jul 2019.
+
+Submit your article to this journal
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rajm20
+
+AFRICA JOURNAL OF MANAGEMENT
+https://doi.org/10.1080/23322373.2019.1616991
+
+The inﬂuence of business schools on the ethical behavior
+of students: A study from Ghana
+Obi Berko Obeng Damoah and Emmanuel Wiredu Appiah
+University of Ghana Business School, P. O. Box LG 78, Legon, Accra, Ghana, West Africa
+ABSTRACT
+
+ARTICLE HISTORY
+
+Business schools are key actors in the education of the future
+managers of corporate bodies. The incessant business scandals
+and negative environmental impact by businesses across the
+world are exposing business school shortcomings. To instill the
+beneﬁts of ethical practices at the individual, corporate, national
+and global level in the next generation of managers, business
+schools are being encouraged to purposefully incorporate
+business ethics education as a key component of responsible
+management education in their practices. This study examines the
+inﬂuence of business schools on students’ ethical behavior.
+The study employs structural equation modeling to validate the
+hypotheses developed from the literature review. Using empirical
+data from Ghana, the results ﬁrstly show that compared to
+business schools with public ownership, those with private
+ownership impact more positively on students’ ethical behavior.
+Secondly, is found that business schools which have an aﬃliation
+status with bigger business schools impact positively on students’
+ethical behavior. Lastly, the ﬁndings show that teaching of
+business ethics in business schools, whether as a core course or
+an elective, has no signiﬁcant eﬀect on the ethical behavior of
+students. Implications of the ﬁndings on responsible management
+education, policy and practice are suggested.
+
+Received 31 August 2018
+Accepted 7 May 2019
+RESPOSIBLE EDITOR
+
+Judy Muthuri
+KEYWORDS
+
+Ethics education; Ghana;
+business schools; ethical
+behavior
+
+Introduction
+Across the world, business schools are being challenged to develop and build the ethical
+understanding and conduct of their students because business ethics education, which is
+the focus of this paper, is one of the associated subjects of Responsible Management
+Education (RME). Established in 2007 and coordinated by the United Nations, interest in
+RME gained popularity after the ﬁnancial crises in 2007 and 2008 (Forray & Leigh, 2012).
+RME is a worldwide initiative and intervention which aims to augment and extend Corporate Social Responsibility (CSR) and sustainability in delivering management education
+(Forray & Leigh, 2012). Diﬀerent authors present RME diﬀerently (Waddock, Rasche,
+Werhane, & Unruh, 2011). For instance, according to Rasche and Gilbert (2015) and Godemann, Herzig, Moon, and Powell (2011), RME is an intervention which seeks to ensure that
+the social impacts of businesses on humanity, the eﬀorts of businesses towards the
+CONTACT Obi Berko Obeng Damoah
+obiberko@google.com
+© 2019 Africa Academy of Management
+Africa Journal of Management is co-published by NISC Pty (Ltd) and Informa Limited (trading as Taylor & Francis Group)
+
+2
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+sustainability of the universe and the reﬂection of ethical behavior in business dealings are
+incorporated in the educational practices of business schools. Implicitly, RME aims to overhaul the management of business schools by positively inﬂuencing their curriculum,
+research practices, teaching and learning, extracurricular and organizational activities
+using its core principles (Rasche & Gilbert, 2015). Following Beddewela, Warin, Hesselden,
+and Coslet (2017, p. 264), RME is deﬁned as “any teaching, research or enterprise activities
+in the areas of ethics, sustainability and responsible corporate practices, which business
+schools engage in to develop a more responsible strategic focus”. This deﬁnition
+conﬁrms that RME is associated with ethics, sustainability and responsible corporate practice. In analyzing its intellectual roots, Forray and Leigh (2012, p. 296) maintained “RME
+would not have been possible were it not for the conceptual roots provided by prior scholarship in business ethics, CSR and sustainability”. Researchers (e.g. Acevedo & Johnson,
+2013; Beddewela et al., 2017; Matten & Moon, 2004; Matten & Moon, 2008) conﬁrm that
+RME is associated with similar themes such as Education for Sustainability Development
+(ESD), Business Ethics Education, Sustainable Development and Corporate Social Responsibility. Following Beddewela et al. (2017), ESD focuses on the need to redirect business
+education in the light of the broader sustainable development challenges confronting
+the global economy. According to UNESCO (2010), ESD is an intervention that seeks to
+incorporate the tenets and ideals of sustainable development practices into all dimensions
+of management education (e.g. teaching, learning and research) in order to tackle environmental, ethical and economic problems of the universe now and beyond.
+The UN developed six (6) principles for RME to guide the management of business
+schools both in their core practices and extracurricular activities. According to Waddock
+et al. (2011) and Godemann et al. (2011), the six (6) principles were disclosed at the UN
+Global Compact Leaders’ Summit in 2007 and consist of: purpose (e.g. turning the
+future managers of business schools into sustainable and ethically minded individuals);
+values (e.g. incorporating sustainability and an ethical mindset into teaching, learning
+and research practice in business schools); method (e.g. linking the intended purpose
+and values to materials and approaches that align the other four principles); research
+(e.g. using the RME to drive research in business schools); partnership (e.g. connecting
+with corporate bodies to advance the tenets of RME and making sure RME is practically
+based); and dialogue (e.g. facilitating discussions and the debates of RME among all stakeholders) (see Forray & Leigh, 2012, p. 297; Godemann et al., 2011, p. 10).
+The role of business schools in the implementation and realization of the tenets of RME
+is seen as critical. This reason is that the creation of RME came about as a result of the
+urgency to reform business education by the leaders of the UN Global Compact (Forray
+& Leigh, 2012). The argument is that business schools whose activities directly drive the
+behaviors of businesses cannot be disassociated from the success of any intervention
+that aims to inﬂuence the practices of businesses towards sustainability and responsible
+business practices. Unethical corporate practices (e.g. weak internal controls and human
+rights abuse) which have rocked the business world for over a decade and a half to
+date, and continue to do so, are being blamed in part on business schools (Maritz,
+2010; Trank & Rynes, 2003). These researchers contend that the corporate leaders who
+are connected with the global corporate scandals are produced by business schools
+and hence business schools are accountable for the on-going global corporate collapses.
+Most importantly, the ﬁnancial crises in 2007 and 2008 caused business schools to be
+
+AFRICA JOURNAL OF MANAGEMENT
+
+3
+
+accused of not inculcating their students, who turn out to be business executives, with
+ethical values (Beddewela et al., 2017). In line with this accusation, researchers (e.g.
+Matten & Moon, 2004; Rasche & Gilbert, 2015) found empirical evidence to suggest that
+most UK business schools are deﬁcient in their emphasis of business ethics, sustainability
+and responsible business.
+For example, in an empirical study, the British Sky Broadcasting Group found that out of
+70% of graduate trainees in UK working in business related disciplines while agreeing that
+sustainability was critical to business practices, only 35% said that they had received adequate training in ethics, sustainability and social responsibility (British Sky Broadcasting
+Group, 2012). A review of the top 50 business schools worldwide found that curricula in
+business schools does not place much emphasis on ethics education (Christensen,
+Peirce, Hartman, Hoﬀman, & Carrier, 2007). There is much emphasis on academic excellence and corporate eﬃciency in business schools and so the degree of moral awareness
+and ethical appreciation of students in these schools is argued to be low (Gioia & Corley,
+2002). Yet it is expected of present-day students from business schools to develop their
+professional skills alongside ethics, social responsibility and sustainability because the
+world of work is fast gravitating towards skills and competencies which relate to the aforementioned theme (Beddewela et al., 2017). Business schools play a crucial role in ethics
+education because they have the power to aﬀect the mind-sets and behavior of some
+leading and most powerful business institutions on earth due to the training they oﬀer
+to the future generation of business leaders in these corporations (Carole, 2017).
+However, one of the debates in ethics education whose empirical front still remains
+divided is whether or not ethical behavior can be taught, learnt and practiced in business
+schools (Ryan & Bisson, 2011). Some researchers (e.g. Lund Dean & Beggs, 2006) have
+argued that the mere teaching of business ethics involving the creation of ethical awareness, including the consequences of unethical behavior, has a minimal eﬀect on students’
+ethical behavior. It is argued that the character of professional adults has always already
+been formed in early childhood stages. Thus, although studying business ethics provides
+intellectual development in terms of knowledge, that cannot change the behavior of
+adults in professional practice when faced with ethical dilemmas (Hooker, 2003;
+Rossouw, 2002). Some scholars in this line of thinking argue that doubts surround the
+eﬀectiveness of business education which aims at improving the ethical awareness of students (Ferguson, Collison, Power, & Stevenson, 2011). In an empirical study by Low, Davey,
+and Hooper (2008), the authors did not ﬁnd evidence to conclude that the perception of
+students in ethics education aﬀected their ethical behavior signiﬁcantly. Dearman and
+Beard (2009) found evidence to suggest that ethics behavior orientation in an experiment
+does not show that the participants will behave similarly if they face real-life ethical dilemmas. Using a meta-analysis based on 25 business ethics instructional programs, Waples,
+Antes, Murphy, Connelly, and Mumford (2009) concluded that business ethics instructional
+principles have a minimal impact on students’ ethical behavior (i.e. the power to make the
+right moral decision in the face of ethical dilemma).
+Conversely, in a study that examined the perception among university lecturers in Pakistan regarding teaching business ethics to graduates, Ali, Grigore, and Ahmad (2012)
+found strong interest among the university lecturers to include business ethics in the curriculum of business-related subjects. Caldwell, (2009) concurred with this latter line of theorizing and argued that ethics education inculcates a certain inner set of values (patience,
+
+4
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+empathy, etc.) in the personality of a person, forming his or her identity in professional life.
+Following Carroll and Buchholtz (2012) and Floyd, Xu, Atkins, and Caldwell (2013), while
+ethical decision-making is seen as a mental process inﬂuenced by a combination of
+factors, equipping business students with the principles, theories and concepts of
+ethical decision-making is nonetheless being embraced as one of the key ingredients in
+educating business students to embrace the moral and ethical duties which businesses
+owe to society. According to Hosmer (1995), learning and understanding key concepts
+in business ethics, including its normative implications, are an essential part in business
+ethics education which makes business students recognize ethical dilemma, and aware
+of appropriate ethical decisions and ethical outcomes. Fulmer (2001) shares this line of
+thinking and maintains that teaching the assumptions of ethical decision-making theories,
+values, principles and concepts contain signiﬁcant practical value for both current and
+future business practitioners and therefore serves as a framework for ethical decisions
+in professional practice (Fulmer, 2001). In the view of Dellaportas, Cooper, and Leung
+(2006) and East and Donnelly (2012), ethical behavior of students has the potential to
+induce eﬀective managerial ethical behavior. According to Edelman (2011), the reason
+is that business ethics provide an essential and dynamic foundation for students developing their business careers. Other researchers have argued that running ethics courses
+either as standalone subjects or the elective modules approaches are key approaches to
+strengthen the implementations of RME in business schools (Matten & Moon, 2004).
+Matten and Moon (2004) further prescribed an interdisciplinary approach which ensures
+that RME is integrated into all traditional business management courses (e.g. ﬁnance,
+accounting, marketing and human resource management). Louw (2015) attests that the
+elective module (e.g. business ethics) and/or the subject approach as a way of emphasizing RME in business schools remain a dominant approach in most business schools across
+the world.
+The current paper builds on the latter line of research and argues that even though
+ethical behavior of students is inﬂuenced by a combination of factors, yet the inﬂuence
+of a business school (e.g. its size, ownership, the teaching of business ethics courses,
+etc.) does impact positively on the ethical behavior of its students in their professional
+lives. In this way, the paper seeks to make a contribution to the extant empirical literature
+in the ﬁeld. In particular, it seeks to add to the extant empirical literature regarding ethics
+education as one of the core components of RME. The paper also seeks to contribute to
+the degree of implementation of RMEs from an ethics education viewpoint using an
+under-studied and a new geographical context, Ghana. The context of Ghana stands to
+oﬀer much to the RME research ﬁeld in African business schools and other developing
+countries. This is because although Ghana is not yet one of the BRICS group of countries,
+like South Africa, yet it is seen as one of the fastest growing economies of Africa and is
+consistently coded as the example of Africa’s democratic and socioeconomic development and so its positive characteristics have a positive spillover eﬀect to similar countries
+in Africa and other developing countries.
+Furthermore, unlike researchers who focused on the inﬂuence of ethics education on the
+behavior of accounting students in business schools (e.g. Nsor-Ambala & Onumah, 2015;
+Simpson, 2016), the current study addresses the broader students of business schools
+who do not only consist of accountancy students, but other programs (e.g. marketing,
+human resource, ﬁnance, insurance and management information studies). In so doing,
+
+AFRICA JOURNAL OF MANAGEMENT
+
+5
+
+the paper seeks to enhance our understanding with regard to ethics education, a key component of RME in business schools as a whole as opposed to selected options (e.g. accountancy or ﬁnance students). This study will also reduce the dearth of knowledge of ethics and
+management education in the African context as has been called for by researchers (e.g.
+Oredein & Durojaye, 2012; Nkomo, 2015; Olibie, Agu, and Uzoechina, 2015).
+To achieve the objective of this paper, the rest of the study is structured as follows. The
+next section provides a literature review on the development of the hypotheses. The
+section thereafter looks at the methodology and results, followed by the discussion and
+conclusions. The ﬁnal section looks at the implications of the study.
+
+Literature Review
+As indicated in the introductory section, the objective of the paper is to examine one of the
+components of RME (i.e. ethics education) to explore the extent to which business schools
+are able to inﬂuence the ethical behavior of their students through ethics education in line
+with RME. The following four concepts, as core to the topic, are deﬁned, clariﬁed, and integrated to inform the study: business ethics, education, ethics education and ethical
+behavior.
+
+Business Ethics
+The foundations of business ethics are inﬂuenced by the argument that business and
+society cannot be separated. This is in terms of the stake that society has in business
+and vice versa (Carroll & Buchholtz, 2008). According to Wood (1991), business and
+society are intertwined rather than diﬀerent entities. Following Christensen et al. (2007,
+p. 348) business ethics is deﬁned as “the business corporation’s ethical role in society
+and its role in minimizing the destruction to, and maximizing the preservation of resources
+for future generations”. This implies that business ethics requires corporate bodies to
+conduct business in a responsible manner because they owe it a duty to society and
+the future generation to preserve natural resources for future consumption. Business
+ethics are the moral principles applicable to all areas of the business environment, both
+at the individual and the organizational level (Ali et al., 2012). Implicitly, business ethics
+is the application of morality in all business situations. Samples of business situations
+where ethics are brought to bear include, but are not limited to, the relationship
+between business entities and their employees, regulators, suppliers, competitors, consumers, communities and civil society. Imbedded in business ethics is its theories (e.g. ethics
+of duty), principles, concepts and values (fairness, virtue, responsibility, conﬂict of interest).
+The basic assumption is that upholding the tenets and practice of business ethics will
+create sustainability in the world.
+
+Education
+Education is broadly acknowledged as one of the means that maximizes human potential.
+According to Gülcan (2015), education can be any activity that aﬀects the mind, character,
+physical disposition and ability of an individual. Its processes involve learning and acquiring information (i.e. teaching and learning). Following from this deﬁnition, by the trade
+
+6
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+and core mandate, business schools as part of institutions of higher education have a stake
+in the mental development of both current and future business executives.
+
+Business Ethics Education
+Researchers (e.g. Carroll and Buchholtz, 2012; 2013 Fulmer 2001; East and Donnelly 2012;
+Edelman 2011; Schimmel et al., 2013) maintain that business ethics education can be
+described as the promotion of the teaching and learning of the principles, theories and concepts of business ethics by business schools across the world to business students who
+become current and future corporate executives. A number of prescriptions have been
+put forward regarding how to teach and educate business students with the values of
+ethics. These prescriptions include, but are not limited to, ethics as a standalone subject
+or as an elective module (Louw, 2015; Matten & Moon, 2004). Others include the interdisciplinary approach which integrates business ethics into all traditional business management
+courses (e.g. ﬁnance, accounting, and marketing) Matten and Moon (2004). Hosmer (1995)
+states that learning and understanding key concepts in business ethics and its normative
+implications is an essential part of business ethics education because it makes business students recognize ethical dilemmas, and aware of strategies of ethical decision-making and
+ethical outcomes. According to Fulmer (2001), teaching the assumptions of ethical
+decision-making theories, values, principles and concepts contain signiﬁcant practical
+value for both current and future business practitioners and serves as a framework for
+ethical business decisions. Ethics education is any teaching and learning which speciﬁcally
+focuses on providing students with awareness of what is right and wrong and the capacity
+to make ethical decisions regarding ethical issues in their professional lives; ethics education
+is the formal study of moral conduct in personal and professional life (Gülcan, 2015).
+
+Ethical Behavior
+Ethical behavior is seen as the ethical actions which individuals, groups and organizations
+initiate upon facing an ethical dilemma. Ethical actions include, but are not limited to,
+honesty, conﬁdentiality, fairness avoidance of conﬂict of interest and responsibility
+(Gülcan 2015). Following Sims (1991), ethical behavior also includes the following: ethics
+capital (namely the enhanced ability to recognize moral issues in world of work), increased
+ability in moral reasoning and enhanced aspirations to moral uprightness in life and the
+world of work. Consequently, ethical behavior can be argued as the outcome of individual,
+group and/or organization’s ethical decisions, based on their moral abilities in the face of
+unethical issues. Therefore, ethical behavior is when people and organizations are able to
+thrive through ethical dilemmas using ethical solutions (e.g. avoidance of conﬂict of interest or honesty) (Hannah, Avolio, & Walumbwa 2011).
+
+Empirical Literature and Hypotheses Development
+Ownership of Business Schools
+The ownership of an organization reﬂects its resource capacity to initiate key actions to
+generate required organizational outcomes. In relating ownership, business schools and
+the ethical behavior of students, ownership reﬂects whether or not a business school is
+
+AFRICA JOURNAL OF MANAGEMENT
+
+7
+
+privately owned or publicly owned. An argument in the literature is that publicly owned
+business schools, because their original “not-for-proﬁt” mandate, are more likely to
+enhance the ethical orientation of their students than privately business schools which
+are primarily established as “for-proﬁt”. In line with this thinking, it was found that
+public sector ownership universities tend to be more ethical than private ownership universities. Conversely, some researchers (e.g. Broni, 2009; Velentzas & Broni, 2010) are of the
+view that privately owned institutions have a reputation to protect and are able to ensure
+that the students they produce are ethically sound. Private institutions thus take the
+responsibility to remain ethical in order to be more competitive. The present study
+extends the latter line of research and poses the following hypothesis.
+H1: Privately owned business schools will have a more signiﬁcant positive eﬀect on students’
+ethical behavior than non-privately owned business schools.
+
+The Teaching of Business Ethics
+Whether teaching business ethics (principles, values, theories and concepts) in business
+schools inﬂuences the ethical behavior of students is one of the debates in the ﬁeld
+whose empirical front is still inconclusive. Rutherford, Parks, Cavazos, and White (2012)
+and Whitla (2011) indicate that teaching business ethics does not oﬀer any impact on
+the ethical behavior of students. According to these researchers, moral decisions are
+based on personality and a person’s upbringing before entering a business school and
+so a mere participating in learning and education in business ethics cannot inﬂuence a student’s ethical behavior in the world of work. Using a survey based on 229 university students, Cox, Parkison, and Roden (2009) investigated whether business students are more
+discriminatory in their ethical decision-making than non-business students. In this study,
+the researchers sought to examine if students with business majors act more ethically
+than non-business majors. They concluded that in some instances the business major students behaved highly ethically compared to the non-business major students and less
+ethically in other instances. In this study, the authors found that the business major students were highly discriminatory as result of the perceived costs and the associated
+beneﬁts of ethical behavior. They concluded that the curricula of business schools that
+address the need to act ethically because it is the best thing to do can be ineﬀective.
+As argued above, despite the argument to the contrary, this study builds on researchers
+(e.g. Edelman, 2011; Fulmer, 2001; Louw, 2015; Matten & Moon, 2004; Schimmel et al.,
+2013) who argue that there is a signiﬁcant positive relationship between teaching business
+ethics and students’ ethical behavior. For example, in O’Leary’s (2009) study aimed at
+assessing the beneﬁt of teaching ethics to ﬁnal year accountancy students in Australia’s
+educational sector, it was found that ethical instruction can positively impact the ethical
+attitude of accountancy students. Sleeper, Schneider, Weber, and Weber (2006) found
+that students are strongly in favor of ethics as part of business school curricula. It has
+also been identiﬁed that business students see ethical responsibility as essential to the
+success of university education. Discussing the relevance of business ethics, Gülcan,
+(2015) found that ethics education helps students to become more civil human beings.
+In another study, Paudel (2010) found that business ethics improves ethical decisionmaking by providing managers with the appropriate knowledge and tools that allow
+them to correctly identify, diagnose, analyze, and provide solutions to ethical problems
+
+8
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+and dilemmas on the job. The outcome of ethics education concerns the consequences of
+ethics education on students in business schools. Dearman and Beard (2009) found that
+ethics education conditions students to behave ethically when they are faced with reallife ethical situations. Waples et al. (2009) found that ethics education raises students’
+awareness of moral issues in business. In line with the extant empirical ﬁndings reviewed
+in this study, the study concurs that teaching business ethics will aﬀect students’ ethical
+behavior in a positive way despite the present divisions in the empirical front. Therefore,
+the following hypothesis is stated for empirical validation.
+H2: Business schools that teach ethics as a core course will more signiﬁcantly aﬀect students’
+ethical behavior positively than those that teach it as an elective.
+
+Religious Status of a Business School
+The positive eﬀect of religion on ethical behavior of individuals, groups and organizations
+has been reported in the literature. It has been argued that a relationship with God based
+on an experience found in religion oﬀers a key opportunity to impact one’s ethical behavior (Kohlberg, 1981). For example, it has been shown that a relationship with God inﬂuences the extent to which students cheat and also impacts other broader ethical issues
+(Allmon, Page, & Rpberts, 2000; Siu, Dickinson, & Lee, 2000). It is also maintained that
+the major religions possess universal ethical and moral laws which include the Ten Commandment as upheld in Christianity, Islam and Judaism, as well as most traditions in the
+Holy Bible that oﬀer directional and instructive moral guidance (Ali, Camp, & Gibbs, 2000).
+Also, as espoused by Conroy and Emerson (2004, p. 384) “believers in God are less willing
+to act unethically because they fear that an omniscient God will catch them in the act or by
+extension know their unethical thoughts or attitudes”. Consequently, individuals and institutions whose status are imbedded in religion will have a high ethical orientation which
+will impact on their stakeholders (e.g. students in the case of universities). Kaminer
+(1997) argued that religion is essential to virtue and contends that it is not surprising to
+ﬁnd that a person or institution’s strong faith in a Supreme Being serves as a solution to
+social vices such as drug abuse, teenage pregnancy and other social ills. It is thus
+argued that there is a relationship between religion and the ethical values of persons. It
+is also argued, however, that the importance of religion does not also mean that non-religious people have no moral values. As pointed out by Hauser (2006), when it comes to
+ethical dilemmas, those with and without religious background show no diﬀerence in
+their ethical behaviors. Yet, drawing from the positive eﬀect of religious aﬃliation from
+the studies above, it is intuitively appealing to argue that faith-based schools will
+impact more positively on the moral behavior of their students than non-faith-based
+schools. Against this background, the following hypothesis is stated:
+H3: Faith-based business schools will have a more signiﬁcant positive eﬀect on ethical behaviors of students than non-faith-based business schools.
+
+Aﬃliation Status of a Business School
+Studies have indicated that aﬃliation status may or may not have any impact on the
+ethical behavior of students. It is suggested that regulation or not being an autonomous
+institution, but an aﬃliate of a bigger parent university is one factor that inﬂuences
+
+AFRICA JOURNAL OF MANAGEMENT
+
+9
+
+universities’ choice to integrate ethics into their programs. The intuitive argument is that
+the aﬃliated institution will always want to behave ethically in order not to tarnish the
+reputation of the parent university. Yet, Rutherford et al. (2012) contend that being
+aﬃliated to a parent institution has no bearing on the ethical behavior of the aﬃliated
+institutions and its stakeholders (including students). Nonetheless, it is plausible to
+argue that universities that are aﬃliated to bigger and parent universities will be more cautious and avoid doing things that tarnish the image of the parent university and so will act
+more ethically which will also impact their students’ ethical behavior. From this argument,
+the following hypothesis is stated:
+H4: Aﬃliated business schools will have a more signiﬁcant positive eﬀect on ethical behaviors
+of students than non-aﬃliated business schools.
+
+The Size of a Business School
+The size of an institution is an important control variable in analyzing its outcomes (e.g. the
+ethical behavior of students in business schools). The reason is that size inﬂuences the
+capacity of an institution to deliver diﬀerent results and outputs. Consequently, smaller
+institutions may face lower capacity to create the requisite outputs to address the concerns of their stakeholders. In addition, larger institutions are subject to more pressure
+to respond to stakeholder demands (Gallo & Christensen, 2011). Some studies measured
+size by the number of employees (Torugsa, O’Donohue, & Hecker, 2012) or total assets (Crisóstomo et al., 2011), but this study uses the number of employee as the measure of institutional size. Therefore, drawing from the theoretical assumptions from size literature, it is
+hypothesized in this study that large business schools, because of their large resource
+capacity, will seem more organized in terms faculty and resources than small large
+business schools, thereby inﬂuencing the ethical behavior of their students positively.
+So, hypothesis 5 is stated as follows.
+H5: Compared to small business schools, large business schools will have a signiﬁcant positive
+eﬀect on the ethical behavior of students.
+
+Faculty Inﬂuence
+It is inferred that the relationship of faculty and students will inﬂuence the ethical behavior
+of students. However, the empirical position of this assertion is also dividend (McDonald &
+Carroll, 2006). Brint, Riddle, Turk-Bicakci and Levy (2005) discovered that faculty does not
+necessarily have any inﬂuence on the ethical behavior of students because the characters
+of students have already formed before they entered the university. As a result, faculty can
+only advise, but the ﬁnal decision lies with students. Conversely, other researchers hold the
+view that faculty plays a signiﬁcant role in developing students’ ethical behavior, through
+even their mere interactions with students (Kuh, Kinzie, Schuh, & Whitt, 2005). It is conceivable to argue that because students directly or indirectly look up to their lecturers, the
+inﬂuence of lecturers can shape the ethical behavior or the otherwise of students.
+Against this background, the following hypothesis is posited:
+H6: Faculty inﬂuence will have a signiﬁcant positive eﬀect on the ethical behavior of students.
+
+10
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Control Variables
+It is argued that the gender of a student (Yu & Zhang, 2006), their age (Loe, Ferrell, &
+Mansﬁeld, 2000), their educational background, and their personality traits will aﬀect
+their ethical behavior and so these variables are controlled for in the study.
+Conceptual Framework
+The conceptual framework that drive the analysis in this study is based on the empirical
+review above. Therefore, the dependent variable, ethical behavior, and the six hypotheses
+discussed above form the basis of the empirical analysis of the study. The conceptual framework for this study is presented in Figure 1.
+
+Methodology
+This paper adopts the survey research method approach in understanding the issues by
+employing structural equation modeling (SEM) to test the hypotheses which inform the
+study. The motivation is that SEM analysis has been found to improve a regression’s parameter estimates compared to ordinary least square (OLS).
+The population of the study consisted of all business schools in Ghana, focusing on
+their ﬁnal year students. The study was limited to ﬁnal year students because it was
+assumed that if a business school has inﬂuenced a student’s ethical behavior, then
+ﬁnal year students would tell a better story than their colleagues in the lower levels.
+In terms of sample size, this study distributed ﬁve hundred (500) questionnaires to the
+ten (10) selected accredited business schools in Ghana as the target population.
+Three-hundred and seventy-nine (379) valid questionnaires were retrieved and used
+for the analysis. This represents a response rate of 75.8%. Purposive and convenience
+sampling was used to select participating schools for inclusion in the study. Purposive
+sampling assisted the researcher to select ten (10) universities based on the following
+
+Figure 1. Proposed conceptual framework.
+
+AFRICA JOURNAL OF MANAGEMENT
+
+11
+
+criteria: (i) the business school was properly accredited; (ii) the business school has ﬁnal
+year students (meaning new business schools in Ghana which had just started and did
+not have ﬁnal year students were excluded from the study); (iii) the business school was
+a wholly Ghanaian owned; and (iv) the school was willingly to participate in the study
+voluntarily.
+A survey questionnaire was used as the data collection method. Table 1 presents the
+operationalization of the variables in terms of the scales and the source of references.
+Table 2 outlines the description of the business schools sampled.
+
+Validity and Reliability of Instruments
+Consistent with scale development and puriﬁcation procedures, the construct validity of
+the measurement items was assured through exploratory factor analysis (EFA) and conﬁrmatory factor analysis (CFA). The EFA was used to retain items that shared signiﬁcant
+variance with their main variables, while CFA was used to conﬁrm their suitability for
+further analysis. Reliability is an assessment of the degree of consistency between multiple measurements of a construct. The reliability scale used in this study is the Cronbach’s alpha. Struwig and Stead (2001) describe Cronbach’s alpha (Cronbach, 1951) as
+a measurement of how well a set of items measure a single one-dimensional latent construct. The measure ranges from 0 to 1. A value of 1 indicates perfect reliability, and the
+value below 0.70 is considered to be the lower level of acceptability (Hair, Anderson,
+Tatham, & William, 1998). Therefore, a Cronbach’s alpha of at least 0.70 was deemed
+acceptable in this study. In furtherance of the above, Hair, Black, Babin, Anderson, and
+Tatham (2006) assert that Cronbach’s alpha may however understate reliability in
+certain cases and, in addition, also increases with an increasing number of items, thus
+making it an imperfect indicator of the reliability of a scale. So, additional measures of
+reliability such as composite reliability generated using conﬁrmatory factor analysis
+can be employed (Hair et al., 2006). This study employed composite reliability in addition
+to the Cronbach’s alpha as indicators of the internal consistency of the measurement
+scales.
+
+Table 1. Operationalization of variables.
+Nos
+
+Variables
+
+Type of variable
+
+Nature of
+variable
+
+Measurements/
+operationalization
+40 item scale averaged as
+a mean
+10 item scale averaged as
+mean
+Categorical
+
+1.
+
+Ethical behavior
+
+Dependent
+
+Continuous
+
+2.
+
+Personality
+
+Continuous
+
+3.
+
+6.
+
+Ownership of
+Business school
+Ethics education of
+Business school
+Aﬃliation status of
+Business school
+Faculty inﬂuence
+
+Control
+(independent)
+Independent
+
+7.
+
+Peer inﬂuence
+
+4.
+5.
+
+Independent
+Independent
+Independent
+
+Dummy/
+discreet
+Dummy/
+discreet
+Dummy/
+discreet
+Continuous
+
+Control
+Continuous
+(independent)
+Source: Designed by the author from the literature.
+
+Source
+Lennick Kiel (2005)
+
+Categorical
+
+Gosling, Rentfrow, and
+Swann (2003).
+Velentzas and Broni
+(2010), Broni (2009)
+Felton and Sims (2005)
+
+Categorical
+
+Hauser (2006)
+
+5-item scale averaged
+
+Teodorescu and Andrei
+(2009)
+Teodorescu and Andrei
+(2009)
+
+4-item scale a dummy/
+discreet raged
+
+12
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Table 2. Description of the sample.
+Business
+Schools
+University of Ghana Business School (UGBS)
+University of Cape Coast (UCC)
+Kwame Nkrumah University of Science and
+Technology (KNUST)
+Wisconsin University
+Methodist University
+Valley View University
+Pentecost University
+Ashesi University
+Central University
+Christian Service University
+Total
+
+Number of
+Students
+(N)
+
+Percentage of
+Students (%)
+
+Required
+sampled size
+(n)
+
+Response
+rate (%)
+
+1 200
+849
+915
+
+17%
+12%
+13%
+
+64
+46
+49
+
+100%
+100%
+100%
+
+654
+780
+678
+542
+108
+714
+614
+7 054
+
+9%
+11%
+10%
+8%
+1%
+10%
+9%
+100
+
+35
+42
+36
+29
+6
+39
+33
+379
+
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+
+Author’s own compilation.
+
+Method of Data Analysis
+The data analysis was conducted using descriptive statistics, factor analysis (FA), correlations, and structural equation modeling (SEM) based on SPSS version 22.0 and IBM
+Amos version 22.0. However, before the SEM was run, the exploratory factor analysis
+and conﬁrmatory factor analysis were employed. The purpose of the exploratory factor
+analysis was to identify the underlying factors and to retain items that have high correlations with the variables for SEM analysis (Hair, Sarstedt, Hopkins, & Kuppelwieser,
+2014; Mooi & Sarstedt, 2011). The purpose of the conﬁrmatory factory analysis was to
+test whether the data ﬁt a hypothesized measurement model and structural model in
+the SEM. The reason why a conﬁrmatory analysis is done after an exploratory analysis is
+because it helps researchers to specify the number of factors required in the data and
+which measured variable is related to which latent variable.
+
+The Results of the Exploratory Factor Analysis
+Using the SEM’s analysis, the results of the exploratory factor analysis are indicated in
+Table 3 which shows that the data or the sample is suﬃcient or adequate for factor analysis. This is because the Kaiser-Meyer-Olkin (KMO) sampling adequacy test, Cumulative variance explained (CVE) and Bartlett’s test of Sphericity (p-value) were used in the
+exploratory analysis. In the view of Hair et al. (2014), the Kaiser-Meyer-Olkin (KMO) test
+is a measure of how suited data is for factor analysis. The test measures sampling adequacy
+for each variable in the model and for the complete model (Mooi & Sarstedt, 2011). The
+statistic is a measure of the proportion of variance among variables that might be
+common variance. According to Henseler, Ringle, and Sinkovics (2009), the CVE must be
+Table 3. Exploratory factor analysis.
+Variable
+
+CVE (%)
+
+KMO
+
+Bartlett’s test (p-value)
+
+Personality
+Ethical behavior
+Faculty inﬂuence
+Peer inﬂuence
+Source: Fieldwork, 2017.
+
+53.060
+61.381
+53.783
+60.783
+
+.749
+.955
+.763
+.754
+
+.000
+.000
+.000
+.000
+
+AFRICA JOURNAL OF MANAGEMENT
+
+13
+
+able to explain more than 50% of the variables. Bartlett’s test of sphericity (p-value) of the
+data was used to ascertain the level of signiﬁcance of the variables under study (Mooi &
+Sarstedt, 2011).
+
+The Results of the Conﬁrmatory Factor Analysis
+After exploratory analysis, there is the need for conﬁrmatory factory analysis. Using the
+SEM, results of the conﬁrmatory factor analysis are indicated in Table 4.
+From Table 4, the study conducted conﬁrmatory analysis with the names of the ﬁt
+indices such as CMIN/DF (χ2/df), GFI, CFI, RMSEA, and SRMR as prescribed by scholars
+(Hu & Bentler, 1999; Schreiber, Nora, Stage, Barlow, & King, 2006). Columns two and
+three respectively show that the threshold and current model must ensure that the
+data is ﬁt for further analysis. The ﬁt indices as provided in the table reveal suﬃcient ﬁt.
+The study model has a ratio of chi-square to degree of freedom CMIN/df (χ2/df) of
+1.377 which is well within the threshold of 3 as recommended by Hu and Bentler
+(1999). Both the incremental ﬁt measures such as GFI (0.910) and CFI (0.969) ﬁt measures,
+show that the model is adequately ﬁt, suggesting that the study’s model has adequately
+represented the data. The root mean square error of approximation (RMSEA) of the study
+model of 0.032 satisﬁed the recommended cutoﬀ point suggested by Hu and Bentler
+(1999) and Hair et al. (1998). It also shows that model quality is acceptable and the
+same applies to standardized root mean square residual (SRMR). Overall, Figure 2 presents
+the results of the SEM.
+As can be seen from Figure 2, the main latent variables in the construct PI, FI and PES
+represented peer inﬂuence, faculty inﬂuence and personality respectively. Also, EB in the
+construct was used to represent ethical behavior. As already explained, items that did not
+load well were deleted leading to the outcome above.
+
+Descriptive Statistics
+After cleaning the data through the expectation maximization (EM) method coupled with
+the EFA and CFA the data became ready for analysis. Table 5 describes the data in terms of
+the categorical and the continuous variables. It presents the proﬁle of the research respondents in respect of their gender, courses pursued, religion, highest level of education and
+marital status (i.e. the categorical variables).
+From Table 5, the data shows that 57.0% were males while the remaining 43.0% were
+females. Accounting students made up 34.6% of the sample with insurance students in the
+minority. With regard to the religion, most students were Christian (94.5%). Most students
+
+Table 4. Conﬁrmatory factor analysis.
+Model ﬁt indices
+CMIN/DF (χ2/df)
+GFI
+CFI
+RMSEA
+SRMR
+Source: Fieldwork, 2017.
+
+Threshold
+
+Current model
+
+≤3, excellent; <5, acceptable
+>.95, excellent; >.90, acceptable
+>.95, excellent; >.90, acceptable
+< .06, excellent; .06–.10, acceptable
+<.08, excellent; .08–.10, acceptable
+
+1.377
+0.910
+0.969
+0.032
+0.043
+
+14
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Figure 2. The ﬁnal CFA model with standardized loadings.
+
+fell in the age range of 23–28 years while the lowest number were above 41 years. Table 6
+shows the description of the interval variables.
+
+Results of Structural Equation Model
+As indicated above, the main model to test the hypothesis was SEM. The SEM process
+centers around two steps. First, it validates the measurement model in terms of assessing
+the relationship between hypothetical latent constructs and clusters of observed variables
+underlying each construct (Bryne, 2010). Validation of the measurement model is often
+conducted by using conﬁrmatory factor analysis (CFA). The second step centers on
+ﬁtting the structural model by measuring the signiﬁcance of the relationship between
+latent variables which is often accomplished through path analysis (Kaplan, 2000). SEM
+therefore, allows the use of conﬁrmatory factor analysis to reduce measurement error
+by testing multiple indicators per latent variable while oﬀering superior model visualization through its graphical modeling interface (Kline, 2005). The outcome is shown in
+Figure 3.
+The structural model revealed suﬃcient ﬁt and adequate quality in all the most used
+ﬁt indices for data ﬁtting a model. The study model has a ratio of chi-square to degree
+of freedom CMIN/df (χ2/df) of 1.927 which is well within the threshold of 3 or less as
+recommended by Hu and Bentler (1999). This further indicates that the study model is
+suﬃciently ﬁt for the data. The incremental ﬁt measures such as GFI (0.983) and CFI
+(0.983) ﬁt measures show that the model is adequately ﬁt, suggesting that the
+study’s model adequately represented the data. The root mean square error of approximation (RMSEA) of the study model of 0.050 satisﬁed the recommended cutoﬀ point
+
+AFRICA JOURNAL OF MANAGEMENT
+
+15
+
+Table 5. Descriptive statistics of the categorical variables.
+Detail
+
+Variable
+
+Frequency
+
+Percentage
+
+Cumulative
+
+Male
+Female
+
+216
+163
+
+57.0
+43.0
+
+57.0
+100
+
+Accounting
+Human resource
+Marketing
+Finance
+Public administration
+MIS
+Operations and risk management
+Actuarial science
+Insurance
+B.COM
+
+131
+118
+14
+66
+12
+4
+3
+17
+1
+13
+
+34.6
+31.1
+3.7
+17.4
+3.2
+1.1
+.8
+4.5
+.3
+3.3
+
+34.6
+65.7
+69.4
+86.8
+90.0
+91.1
+91.9
+96.4
+96.7
+100
+
+Christianity
+Islam
+
+358
+20
+
+94.5
+5.5
+
+94.5
+100
+
+Degree on-going
+Professional course
+Diploma
+
+369
+6
+3
+
+97.4
+1.6
+.8
+
+97.4
+99.0
+100
+
+Single
+Married
+Divorced
+Separated
+
+359
+16
+1
+3
+
+94.7
+4.2
+.3
+.8
+
+94.7
+98.9
+99.2
+100
+
+18–22
+23–28
+29–34
+35–40
+41 years and above
+
+157
+198
+14
+6
+4
+
+41.4
+52.0
+3.7
+1.8
+1.1
+
+41.4
+93.4
+97.1
+98.9
+100
+
+Below 1 year
+1–3 years
+4–6 years
+7 years and above
+
+212
+142
+12
+12
+
+55.9
+37.7
+3.2
+3.2
+
+55.9
+93.4
+96.8
+100
+
+Gender
+Courses
+
+Religion of students
+Highest level of education
+
+Marital Status
+
+Age
+
+Work experience
+
+Source: Fieldwork, 2017.
+
+suggested by Hu and Bentler (1999) and Hair et al. (1998). It also shows that model
+quality is acceptable and same applies to standardized root mean square residual
+(SRMR). The statistical results show that ownership of a business school has a signiﬁcant
+eﬀect on the ethical behavior of students (β = 0.318, p = 0.000). Also, the aﬃliation
+status of school has a signiﬁcant eﬀect on the ethical behavior of students (β =
+0.208, p = 0.000). Additionally, the results indicate that size has a signiﬁcant eﬀect on
+the ethical behavior of students though in the negative sense (β= −.246, p = 0.000).
+This means that as hypothesized, small business schools have a signiﬁcant eﬀect on
+Table 6. Means and standard deviations all the continuous variables.
+Variable
+
+Mean
+
+Standard deviation
+
+Ethical behavior
+Personality
+Faculty inﬂuence
+Peer inﬂuence
+Source: Fieldwork, 2017.
+
+156.015
+3.6539
+1.598
+2.076
+
+24.9107
+.59172
+.7279
+.9203
+
+16
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Figure 3. The ﬁnal structural model with standardized estimates.
+
+student’s ethical behavior than large business schools. However, religious aﬃliation of a
+business school, oﬀering ethics course either as an elective or core, and faculty
+inﬂuence had no signiﬁcant relationship on the ethical behavior of students. On the
+part of the controlled variables, only personality had a signiﬁcant eﬀect on students’
+ethical behavior (β= .125, p = 0.000) but peer inﬂuence and gender still had no signiﬁcant eﬀect on the ethical behavior of students. Table 7, Appendix A presents the output
+of the SEM.
+A summary showing which of the hypotheses were supported is also presented in
+Table 8.
+Table 7. Summary of results of SEM.
+Hypothesized relationship
+
+Standardized estimate
+
+C.R
+
+S.E
+
+OS & EBH
+0.318***
+4.780
+2.139
+EC & EBH
+−.002
+−.054
+2.251
+RS & EBH
+−.006
+−0.118
+1.596
+AS & EBH
+0.208***
+4.139
+1.651
+SZ & EBH
+−.246***
+−4.776
+1.691
+FI & EBH
+.024
+0.552
+0.191
+PI & EBH
+−.014
+−.323
+0.189
+GN & EBH
+−.041
+−1.083
+1.215
+PS & EBH
+.125***
+3.293
+0.273
+R2 (EBH = 0.45), ***signiﬁcant at 1%, **signiﬁcant at 5%.
+C.R – Critical ratio (t-value), S.E – Standard error.
+Note: EBH – Ethical behavior, OS – Ownership status, EC – Ethics education, RS –
+Religious status, AS – Aﬃliation status, SZ – Size, FI – Faculty inﬂuence, PI – Peer
+inﬂuence, GN – Gender, PS – Personality.
+
+AFRICA JOURNAL OF MANAGEMENT
+
+17
+
+Table 8. Summary of results of the hypotheses.
+Hypothesis
+H1: Privately owned business schools will have a more signiﬁcant positive eﬀect on
+students’ ethical behavior than non-privately owned business schools.
+H2: Business schools that teach ethics as a core course will more signiﬁcantly aﬀect
+students’ ethical behavior positively than those that teach it as an elective..
+H3: Faith-based business schools will have a more signiﬁcant positive eﬀect on ethical
+behaviors of students than non-faith-based business schools.
+H4: Aﬃliated business schools will have a more signiﬁcant positive eﬀect on ethical
+behaviors of students than non-aﬃliated business schools.
+H5: Compared to small business schools, large business schools will have a signiﬁcant
+positive eﬀect on the ethical behavior of students.
+H6: Faculty inﬂuence will have a signiﬁcant positive eﬀect on the ethical behavior of
+students.
+
+Statistical
+results
+
+Outcome
+
+Positive eﬀect
+
+Supported
+
+No eﬀect
+
+Not
+supported
+Not
+supported
+Supported
+
+No eﬀect
+Positive eﬀect
+Negative
+eﬀect
+No eﬀect
+
+Supported
+Not
+supported
+
+Discussion
+First, the study hypothesized that with regard to the ownership of a business school, privately owned business schools would have a signiﬁcant positive eﬀect on students’ ethical
+behavior compared to non-privately owned and/or public business schools. The statistical
+results show that private business schools have a signiﬁcant eﬀect on the ethical behavior
+of students thereby supporting hypothesis 1. This result contradicts the initial argument
+that because of the non-for-proﬁt mandate of public business schools they will signiﬁcantly inﬂuence students’ ethical behavior. The result also counters the ﬁnding that
+public sector ownership tends to be more ethical than private ownership universities.
+However, the result conﬁrms researchers (e.g. Broni, 2009; Velentzas & Broni, 2010) who
+found that private business schools, because of their need to improve their competitiveness, impact more highly on students’ ethical behavior than public ones. The need to strategically penetrate the higher education market and to protect their investors’ investment,
+unlike the public universities who are funded by the state, makes the private universities
+sensitive to needs of their stakeholder, including inﬂuencing the ethical behavior of their
+students by way of building the conﬁdence of civil society.
+The second hypothesis concerns the teaching of business ethics as a core course and its
+inﬂuence on students’ ethical behavior. This result shows that oﬀering ethics course either
+as a core or an elective has no signiﬁcant eﬀect on the ethical behavior of students. The
+result supports Low et al. (2008) who did not ﬁnd evidence to conclude that the perception of students in ethics education aﬀected their ethical behavior signiﬁcantly. The
+ﬁnding also supports Dearman and Beard (2009) who found that ethics orientation in
+an experiment do not show that the participants will behave similarly if they faced an
+ethical dilemma in real life. The result too aligns with Waples et al. (2009) who concluded
+that instructional principles of business ethics have a weak eﬀect on students’ ethical
+behavior. However, the result challenges previous inspiring ﬁndings from researchers
+who found a statistically signiﬁcant inﬂuence (e.g. Dearman & Beard, 2009; Gülcan,
+2015; O’Leary, 2009; Paudel, 2010; Waples et al., 2009). This tension means that more
+studies on this factor may be necessary.
+Hypothesis 3 was not supported because the result shows that religious aﬃliation of a
+business school has no signiﬁcant eﬀect on the ethical behavior of students. The result
+conﬁrms Hauser’s (2006) ﬁndings, but contradicts extant assertions on religious
+
+18
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+assumptions (see Ali et al., 2000; Kaminer, 1997). A plausible explanation for this ﬁnding
+may be that because of the changing trends in Ghana’s economic situation, coupled
+with the increased cost of running institutions of higher learning, so-called faith-based
+schools are all running on full cost recovery and thereby failing in their core mandate,
+including instilling ethical behavior among students who are potential future managers
+of corporate institutions.
+Hypothesis 4 was supported because the result shows that the aﬃliation status of a
+school has a signiﬁcant eﬀect on the ethical behavior of students. This is consistent
+with studies in the literature review that suggest that regulation is one factor that inﬂuences institutions’ choice to behave ethically. The ﬁnding conﬁrms earlier studies which
+argued that not being an autonomous business school, but an aﬃliate of a higher institution of learning is one factor that inﬂuences universities’ choice to incorporate ethics
+into their curricula. This may conﬁrm the assertion that the aﬃliated institution will
+always want to live up to ethically high standards so as not to tarnish the name of the
+parent university.
+Hypothesis 5 was also supported. The result indicates that size has a signiﬁcant eﬀect
+on the ethical behavior of students, though in a negative sense, implying that small
+business schools have a more signiﬁcant eﬀect on students’ ethical behavior than large
+business schools. This is strongly supported by some researchers (e.g. Saarenketo, 2009;
+Gallo & Christensen, 2011). These researchers are of the view that small universities are
+more concerned with reputation and are prepared to go to any extent to control the
+behavior of students to win the conﬁdence of the public. Moreover, small schools according to the researchers have the capacity to ensure compliance to ethical behavior due to
+the numerical strength of staﬀ. Hypothesis 6 was not supported because the result shows
+that faculty inﬂuence has no signiﬁcant relationship on the ethical behavior of students.
+This conﬁrms previous studies such as that by Brint, Riddle, Turk-Bicakci, and Levy
+(2005) who concluded that faculty do not necessarily have any inﬂuence on the ethical
+behavior of students because faculty can only advise but ﬁnal decision-making lies with
+students.
+
+Conclusion
+The results show that ownership of a business school, aﬃliation status to a higher parent
+university and the size of business schools have signiﬁcant eﬀect on students’ ethical
+behavior. On the other hand, teaching business ethics in business schools (either as a
+core course or an elective), the religious status of a business school and faculty
+inﬂuence do not have any signiﬁcant eﬀect on students’ ethical behavior. Among the
+key reasons are that with regard to the faith-based business schools in Ghana because
+of the economic situation of Ghana most of them are running on full cost recovery and
+so the room to emphasis on building students’ ethical conducts as one of their primary
+mandates is being sacriﬁced. Consequently, the religious title of the schools just exists
+in name. The non-signiﬁcant impact on students ethical behavior through teaching
+business ethics courses in business schools in Ghana might mean that there is the need
+to research how others universities where signiﬁcant relationships were found do it.
+Here it can be assumed that teaching approach may play important role (e.g. teaching
+with cases, job visit, practitioner forum, role play and watching real videos), but currently,
+
+AFRICA JOURNAL OF MANAGEMENT
+
+19
+
+these may not be available and applicable in Ghana given the universities’ stages of development compared to their counterparts abroad.
+
+Implications of the Paper
+Contribution to Empirical Literature
+The study contributes to one of the heightened debates in the ﬁeld of RME regarding
+whether or not business ethics’ education (being one of the key components of RME) inﬂuences students’ ethical behavior signiﬁcantly. The present results, showing that oﬀering
+ethics course either as an elective or core, does not have any signiﬁcant eﬀect on the
+ethical behavior of students validate a sample of the existing ﬁndings in the RME’s empirical front. This result sheds light on studies (e.g. Dearman & Beard, 2009; Low et al., 2008;
+Waples et al., 2009) who did not ﬁnd evidence to support any statistically signiﬁcant eﬀect
+of teaching business ethics and its eﬀects on students’ ethical behavior. The implications
+of the present ﬁnding imply that further studies need to be undertaken to shed additional
+light on the issue because the empirical front still remains inconclusive. As already argued,
+it is more likely that the teaching methods used in the ethics education need to be considered, although these were not factored in this present study. Unlike other studies (e.g.
+Nsor-Ambala & Onumah, 2015; Simpson, 2016) who limited their study to the inﬂuence of
+business schools on the ethical behavior of accounting students, this study covered every
+student in business schools. Consequently, this study improves on these earlier empirical
+ﬁndings regarding the role of ethics education and its inﬂuence on the ethical behavior of
+students in business schools, by covering all students in all options. Another contribution is
+that the present empirical results add to the dearth of studies on the topic in Africa thereby
+partly addressing the call by earlier researchers (e.g. Oredein & Durojaye, 2012; Nkomo,
+2015; Olibie et al. 2015) to enhance the knowledge of the topic from Africa’s viewpoint.
+Furthermore, the empirical validation of the topic enhances our understanding regarding
+the implementation of RMEs from a new geographical and understudied African context
+(i.e. Ghana). As indicated in the introductory chapter, this contribution stands out because
+apart from South Africa being one of the BRICS group of countries, few papers share light
+on the topic from other countries in Africa. Therefore, sharing these results in the light of
+Ghana’s democratic credentials (i.e. being one of the model democratic countries in Africa)
+makes it a signiﬁcant contribution to the empirical front of RME’s research ﬁeld. Also, by
+employing SEM to test the hypotheses informing this study, the current empirical
+ﬁndings in the ﬁeld of RME is strengthened because it is proven that SEM’s output are
+far reliable than multiple regression.
+Contribution to Practice
+The ﬁndings in this research imply that while RME is important and universally embraced,
+the methodology employed to get the tenets of RME inculcated in students must be critically examined if the purpose of RME is to be achieved. For instance, in the case of teaching business ethics, diﬀerent teaching and learning methods (e.g. cases, studies, problembased learning, work visit, simulations) may be employed both separately and collectively.
+Consequently, strong relationship between parent business schools and their mentee universities (aﬃliates) must be continually be encouraged as was seen as being signiﬁcant in
+the study.
+
+20
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Policy Implications
+Concerning policy, government agencies in Africa, for example the National Accreditation
+Board (NAB) in the case of Ghana should ensure that ethical issues are fully incorporated
+into programs before they are granted accreditation. For instance, in most business
+schools in countries of Africa (e.g. Ghana), the principles of the RME are least seen and
+emphasized. As a result of its connections with social responsibility, ethical behavior
+and global sustainability, the values of the RMEs must be upheld and strongly promoted
+in business schools in Africa. Consequently, unveiling the personal, corporate, national and
+the global beneﬁts of RME to students early on their learning stages, will make them
+responsible future managers which will ultimately translate to world of work and ensure
+global sustainability. Consequently, if business schools are able to achieve this objective,
+the quest for a global world of social, environmental and corporate sustainability will be
+achieved.
+Limitations of the Study of Implications for Future Research
+The above ﬁndings and recommendations should be considered in the light of the following limitations. First, the study focused solely on business schools in Ghana. Therefore,
+generalizing the current ﬁndings to business schools in other developing countries
+should be done with caution. Also, data were not based on a random sampling. As a
+result, readers should interpret data within the conﬁnes of the study. In terms of the
+opportunity for future research, the present study considers only the ethical component
+of RME; therefore, future research should explore the other dimensions of the RME
+namely: purpose, method, research, partnership, and dialogue (Forray & Leigh, 2012; Godemann et al., 2011).
+
+Disclosure Statement
+No potential conﬂict of interest was reported by the authors.
+
+Notes on the Contributors
+Dr Obi Berko Obeng Damoah is a member of faculty at the University of Ghana Business School,
+Legon, Accra. He teaches strategic management at both graduate and undergraduate levels and
+his research focuses on strategy and international business.
+Mr Emmanuel Wiredu Appiah is an M. Phil student at the University of Ghana Business School, Legon,
+Accra, Ghana. Mr Wiredu’s research is in strategy, innovation and higher education management.
+
+References
+Acevedo, B., & Johnson, S. (2013). Sustainability in practice: Action learning and the green impact
+initiative. Enhancing education for sustainable development case study publication. Higher
+Education Academy.
+Ali, A. J., Camp, R. C., & Gibbs, M. (2000). The ten commandments perspective on power and authority
+in organizations. Journal of Business Ethics, 26(4), 351–361.
+Ali, I., Grigore, G. F., & Ahmad, J. (2012). University teachers’ perceptions towards teaching business
+ethics. Procedia - Social and Behavioral Sciences, 46, 3637–3641.
+
+AFRICA JOURNAL OF MANAGEMENT
+
+21
+
+Allmon, D. E., Page, D., & Rpberts, R. (2000). Determinants of perceptions of cheating: Ethical orientation, personality and demographics. Journal of Business Ethics, 23(4), 411–422.
+Beddewela, E., Warin, C., Hesselden, F., & Coslet, A. (2017). Embedding responsible management education – Staﬀ, student and institutional perspectives. The International Journal of Management
+Education, 15(2), 263–279.
+Brint, S., Riddle, M., Turk-Bicakci, L., & Levy, C. S. (2005). From the liberal to the practical arts in
+American colleges and universities: Organizational analysis and curricular change. The Journal
+of Higher Education, 76(2), 151–180
+British Sky Broadcasting Group (2012), The Sky Future Leaders Study: The Sustainable Generation,
+British Sky Broadcasting Group, London, available at: http://www.annualreports.com/
+HostedData/AnnualReportArchive/b/LSE_BSY_2009.pdf (accessed 16 May 2019).
+Broni, J. (2009). Corporate Social Responsibilities. Belmont, Calif.: Wadsworth Pub. Co.
+Bryne, B. M. (2010). Structural equation modelling with AMOS: Basic concepts, applications and programming (2nd ed.). New York, NY: Routledge, Taylor and Francis Group.
+Caldwell, C. (2009). Identity, self-awareness, and self-deception: Ethical implications for leaders and
+organizations. Journal of Business Ethics, 90(3), 393–406.
+Carole, P. (2017). The principles for responsible management education (PRME): The ﬁrst decade–
+What has been achieved? The next decade–Responsible Management Education’s challenge for
+the sustainable development goals (SDGs). The international journal of management education,
+15(2), 61–65.
+Carroll, A. B., & Buchholtz, A. K. (2012). Business and society: Ethics, sustainability, and stakeholder management (8th ed.). Mason, OH: South-Western.
+Carroll, A.B. & Buchholtz, A.K. (2008). Business and Society: Ethics and Stakeholder.Management.
+New York: Cengage Learning.
+Christensen, L. J., Peirce, E., Hartman, L. P., Hoﬀman, W. M., & Carrier, J. (2007). Ethics, CSR, and sustainability education in the Financial Times top 50 global business schools: Baseline data and
+future research directions. Journal of Business Ethics, 73(4), 347–368.
+Conroy, S. J., & Emerson, T. L. (2004). Business ethics and religion: Religiosity as a predictor of ethical
+awareness among students. Journal of business ethics, 50(4), 383–396.
+Cox, S. R., Parkison, K. A. T. H. Y., & Roden, D. M. (2009). A case for teaching business ethics in a costbeneﬁts framework: Are business students more discriminating in their decision making? Mt.
+Plains J. Bus. Econ, 10, 1–15.
+Cronbach, L. J. (1951). Coeﬃcient alpha and the internal structure of tests. Psychometrika, 16(3), 297–
+334.
+Dearman, D. T., and J. E. Beard. (2009). Ethical issues in accounting and economics experimental
+research: Inducing strategic misrepresentation. Ethics & Behavior, 19(1), 51–59
+Dellaportas, S., Cooper, B. J., & Leung, P. (2006). Measuring moral judgement and the implications of
+cooperative education and rule-based learning. Accounting & Finance, 46(1), 53–70.
+East, J., & Donnelly, L. (2012). Taking responsibility for academic integrity: A collaborative teaching
+and learning design. Journal of University Teaching & Learning Practice, 9(3), 2.
+Edelman. (2011). 201 1 Edelman Trust Barometer. Retrieved from http://www.edelman.com/trust/
+2011/
+F. Hair Jr, J., Sarstedt, M., Hopkins, L., & G. Kuppelwieser, V. (2014). Partial least squares structural
+equation modeling (PLS-SEM) An emerging tool in business research. European Business Review,
+26(2), 106–121.
+Felton, E. L., & Sims, R. R. (2005). Teaching business ethics: Targeted outputs. Journal of Business Ethics,
+60(4), 377–391.
+Ferguson, J., Collison, D., Power, D., & Stevenson, L. (2011). Accounting education, socialisation and
+the ethics of business. Business Ethics: A European Review, 20(1), 12–29.
+Floyd, L. A., Xu, F., Atkins, R., & Caldwell, C. (2013). Ethical outcomes and business ethics: Toward
+improving business ethics education. Journal of business ethics, 117(4), 753–776.
+Forray, J. M., & Leigh, J. S. (2012). A primer on the principles of responsible management education:
+Intellectual roots and waves of change. Journal of Management Education, 36(3), 295–309.
+
+22
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Fulmer, R. M. (2001). Johnson & Johnson: Frameworks for leader- ship. Organizational Dynamics, 29
+(3), 211–220.
+Gallo, P. J., & Christensen, L. J. (2011). Firm size matters: An empirical investigation of Gambill, H.,
+(2003). The role of business schools in society. Journal of Management Development, 24, 819–829.
+Gioia, D. A., & Corley, K. G. (2002). Being good versus looking good: Business school rankings and the
+Circean transformation from substance to image. Academy of Management Learning & Education, 1
+(1), 107–120.
+Godemann, J., Herzig, C., Moon, J., & Powell, A. (2011). Integrating sustainability into business schools:
+Analysis of 100 UN PRME sharing information on progress (SIP) reports (ICCSR Research Paper Series
+No. 58-2011). Nottingham, UK: ICCSR.
+Gosling, S. D., Rentfrow, P. J., & Swann Jr, W. B. (2003). A very brief measure of the Big-Five personality
+domains. Journal of Research in personality, 37(6), 504–528.
+Gülcan, N. Y. (2015). Discussing the importance of teaching ethics in education. Procedia – Social and
+Behavioral Sciences, 174, 2622–2625.
+Hair, J. F., Anderson, R. E., Tatham, R. L., & William, C. (1998). Black (1998), Multivariate data analysis.
+Hair, J. F., Black, W. C., Babin, B. J., Anderson, R. E., & Tatham, R. L. (2006). Multivariate data analysis.
+Uppersaddle River.
+Hair Jr, F. J., Sarstedt, M., Hopkins, L., & Kuppelwieser, G. V. (2014). Partial least squares structural
+equation modeling (PLS-SEM) An emerging tool in business research. European Business Review,
+26(2), 106–121.
+Hannah, S. T., Avolio, B. J., & Walumbwa, F. O. (2011). Relationships between authentic leadership,
+moral courage, and ethical and pro-social behaviors. Business Ethics Quarterly, 21(4), 555–578.
+Hauser, M. (2006). Moral minds: How nature designed our universal sense of right and wrong. New York,
+Ecco/HarperCollins Publishers.
+Henseler, J., Ringle, C. M., & Sinkovics, R. R. (2009). The use of partial least squares path modeling in
+international marketing. In New challenges to international marketing (pp. 277–319). Bingley,
+Emerald Group Publishing Limited.
+Hooker, B. (2003). Rule consequentialism.
+Hosmer, L. T. (1995). Trust: The connecting link between organizational theory and philosophical
+ethics. Academy of Management Review, 20(2), 379–403.
+Hu, L.-T., & Bentler, P. M. (1999). Cutoﬀ criteria for ﬁt indexes in covariance structure analysis:
+Conventional criteria versus new alternatives. Structural Equation Modeling: A Multidisciplinary
+Journal, 6, 1–55. review of the inﬂuences and risk situations for health students. Higher
+Education Research and Development, 32(3), 369–380.
+Kaminer, W. (1997). Pro & con: Atheists can be moral too. SpeakOut.com. Retrieved from http://
+speakout.com/activism/opinions/4991-1.html
+Kaplan, D. (2000). Structural equation modeling: Foundations and extensions. Thousand Oaks, CA: Sage.
+Kline, R. B. (2005). Principles and practice of structural equation modeling. New York: Guilford Press.
+Kohlberg, L. (1981). Essays on moral development: The psychology of moral development (Vol. 2).
+San Francisco: harper & row.
+Kuh, G., Kinzie, J., Schuh, J., & Whitt, E. (2005). Student success in college: Creating conditions that
+matter. San Francisco: Jossey-Bass.
+Lennick, D., & Kiel, F. (2005). Linking strong moral principles to business success. Pennsylvania, Wharton
+School of the University of Pennsylvania.
+Loe, T. W., Ferrell, L., & Mansﬁeld, P. (2000). A review of empirical studies assessing ethical decision
+making in business. Journal of business ethics, 25(3), 185–204.
+Louw, J. (2015). “Paradigm change” or no real change at all? A critical reading of the UN principles for
+responsible management education. Journal of Management Education, 39(2), 184–208.
+Low, M., Davey, H., & Hooper, K. (2008). Accounting scandals, ethical dilemmas and educational challenges. Critical Perspectives on Accounting, 19(2), 222–254.
+Lund Dean, K., & Beggs, J. M. (2006). University professors and teaching ethics: Conceptualizations
+and expectations. Journal of Management Education, 30, 15–44.
+Maritz, N. P. (2010). A general theory of marketing ethics. Journal of Macro marketing, 6(1), 5–16.
+
+AFRICA JOURNAL OF MANAGEMENT
+
+23
+
+Matten, D., & Moon, J. (2004). Corporate social responsibility education in Europe. Journal of Business
+Ethics, 54(4), 323–337.
+Matten, D., & Moon, J. (2008). “Implicit” and “Explicit” CSR: A conceptual framework for a comparative
+understanding of corporate social responsibility, Academy of Management.
+McDonald, R., & Carroll, J. (2006). Plagiarism—a complex issue requiring a holistic institutional
+approach. Assessment & Evaluation in Higher Education, 31(2), 233–245.
+Mooi, E., & Sarstedt, M. (2011). Cluster analysis. A concise guide to market research.
+Nkomo, S. M. (2015). Challenges for management and business education in a “developmental” state:
+The case of South Africa. Academy of Management Learning & Education, 14(2), 242–258.
+Nsor-Ambala, R., & Onumah, J. M. (2015). Ethics education in management accounting studies:
+Evidence from business schools in Ghana. Journal of Accounting and Taxation, 7(5), 88–96.
+O’Leary, C. (2009). An empirical analysis of the positive impact of ethics teaching on accounting students. Accounting Education: an international journal, 18(4-5), 505–520.
+Olibie, E. I., Agu, N. N., & Uzoechina, G. O. (2015). Characteristics of post graduate education research
+Mentoring in Universities in Nigeria: Curricular enhancement strategies. Journal of Curriculum and
+Teaching, 4(1), 156–166
+Oredein, A. O., & Durojaye, T. G. (2012). Lecturers’ and students’ perception on educational policy
+implementation factors as predictors for quality rducation in Nigerian universities. African
+Higher Education Review, 6, 52–72.
+Paudel, R. K. (2010). Role of ethics in modern business: an important key aspect of the concern.
+Retrieved from http://www.internationalseminar.org/XIII_AIS/TS%201%20(A)/17.%20Mr.%20Ranj
+it %20Kumar%20Paswan.pdf
+Rasche, A., & Gilbert, D. U. (2015). Decoupling responsible management education: Why business
+schools may not walk their talk. Journal of Management Inquiry, 24(3), 239–252. Review, 33(2),
+404e424. right (5th ed.). Hoboken, NJ: Wiley.
+Rossouw, G. J. (2002). Three approaches to teaching business ethics. Teaching Business Ethics, 6(4),
+411–433.
+Rutherford, M. A., Parks, L., Cavazos, D. E., & White, C. D. (2012). Business ethics as a required course:
+Investigating the factors impacting the decision to require ethics in the undergraduate business
+core curriculum. Academy of Management Learning & Education, 11(2), 174–186.
+Ryan, T. G., & Bisson, J. (2011). Can ethics be taught? International Journal of Business and Social
+Science, 2(12) 44–52.
+Schreiber, J. B., Nora, A., Stage, F. K., Barlow, E. A., & King, J. (2006). Reporting structural equation modeling
+and conﬁrmatory factor analysis results: A review. The Journal of educational research, 99(6), 323–338.
+Simpson, C. (2016). Hope and feminist care ethics: What is the connection? Canadian ournal of
+Nursing Research Archive, 34(2) 81–94.
+Sims, R. R. (1991). The institutionalization of organizational ethics. Journal of business ethics, 10(7),
+493–506.
+Siu, N. Y. M., Dickinson, J. R., & Lee, B. Y. Y. (2000). Ethical evaluations of business activities and personal religiousness. Teaching Business Ethics, 4, 239–256.
+Sleeper, B. J., Schneider, K. C., Weber, P. S., & Weber, J. E. (2006). Scale and study of student attitudes
+toward business education’s role in addressing social issues. Journal of Business Ethics, 68(4), 381–391.
+Struwig, F. W., & Stead, G. B. (2001). Understanding reliability and validity. In Andrea Nattrass.(3 rd ed.
+2004). Planning, designing and reporting research (pp. 130–142). Cape Town: Hanli Venter.
+Teodorescu, D., & Andrei, T. (2009). Faculty and peer inﬂuences on academic integrity: College cheating in Romania. Higher Education, 57(3), 267–282.
+Torugsa, N. A., O’Donohue, W., & Hecker, R. (2012). Capabilities, proactive CSR and ﬁnancial performance in SMEs: Empirical evidence from an Australian manufacturing industry sector. Journal of
+business ethics, 109(4), 483–500.
+UNESCO. (2010). Education for sustainable development. Retrieved from www.unesco.org/new/en/
+education/themes/leading-the-international-agenda/education for development
+Velentzas, J., & Broni, G. (2010). Ethical Dimensions in the conduct of business: Business ethics.
+Corporate Social Responsibility and the Law Available from: http://citeseerx.ist.psu.edu/viewdoc/
+download
+
+24
+
+O. B. O. DAMOAH AND E. W. APPIAH
+
+Waddock, S., Rasche, A., Werhane, P., & Unruh, G. (2011). The principles for responsible management
+education: Implications for implementation and assessment. In D. L. Swanson, & D. G. Fisher (Eds.),
+Ethics in practice: Toward assessing business ethics education (pp. 13–28). Charlotte, NC: Information
+Age.
+Waples, E. P., Antes, A. L., Murphy, S. T., Connelly, S., & Mumford, M. D. (2009). A meta-analytic investigation of business ethics instruction. Journal of Business Ethics, 87(1), 133–151.
+Whitla, P. (2011). Integrating ethics into international business teaching: challenges and methodologies in the Greater China context. Journal of Teaching in International Business, 22(3), 168–184.
+Wood, D. J. (1991). Corporate social performance revisited. Academy of management review, 16(4),
+691–718.
+Yu, F., & Zhang, K. (2006). Factors related to the cognitive moral development of business students
+and business professionals in India and the United States: Nationality, education, sex and gender.
+Journal of Business Ethics, 35(4), 255–268.
+
+
