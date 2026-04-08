@@ -131,14 +131,25 @@ st.markdown("""
 def load_nlp_libs():
     import nltk
     for pkg in ["punkt", "stopwords", "wordnet", "averaged_perceptron_tagger", "punkt_tab"]:
-        nltk.download(pkg, quiet=True)
+        try:
+            nltk.download(pkg, quiet=True)
+        except Exception:
+            pass
     from nltk.corpus   import stopwords as sw
     from nltk.tokenize import word_tokenize, sent_tokenize
     from nltk.stem     import WordNetLemmatizer
     from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
     from sklearn.decomposition           import LatentDirichletAllocation
-    from sentence_transformers           import SentenceTransformer
-    from bertopic                        import BERTopic
+    try:
+        from sentence_transformers import SentenceTransformer
+        embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+    except ImportError:
+        SentenceTransformer = None
+        embedding_model = None
+    try:
+        from bertopic import BERTopic
+    except ImportError:
+        BERTopic = None
 
     STOP_WORDS = set(sw.words("english"))
     STOP_WORDS.update({
@@ -158,8 +169,10 @@ def load_nlp_libs():
         "may","might","could","would","should","shall","must",
         "one","two","three","four","five","first","second","third",
     })
-    lemmatizer      = WordNetLemmatizer()
-    embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+    lemmatizer = WordNetLemmatizer()
+    # embedding_model loaded inside try/except above
+    if 'embedding_model' not in dir():
+        embedding_model = None
     return (STOP_WORDS, lemmatizer, word_tokenize, sent_tokenize,
             CountVectorizer, TfidfVectorizer, LatentDirichletAllocation,
             embedding_model, BERTopic)
@@ -167,13 +180,17 @@ def load_nlp_libs():
 
 @st.cache_resource(show_spinner="Loading BART model (~1.6 GB on first run)…")
 def load_bart():
-    from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-    import torch
-    name = "facebook/bart-large-cnn"
-    tok  = AutoTokenizer.from_pretrained(name)
-    mdl  = AutoModelForSeq2SeqLM.from_pretrained(name)
-    mdl.eval()
-    return tok, mdl
+    try:
+        from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+        import torch
+        name = "facebook/bart-large-cnn"
+        tok  = AutoTokenizer.from_pretrained(name)
+        mdl  = AutoModelForSeq2SeqLM.from_pretrained(name)
+        mdl.eval()
+        return tok, mdl
+    except Exception as e:
+        st.error(f"Could not load BART model: {e}")
+        return None, None
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -315,7 +332,7 @@ def extractive_summary(text, n=5, TfidfVectorizer=None, sent_tokenize=None):
         return " ".join(sentences[:n])
 
 def t5_summarise(text, tok, mdl, max_chars=3000):
-    if not text or not text.strip():
+    if not text or not text.strip() or tok is None or mdl is None:
         return ""
     try:
         import torch
@@ -344,6 +361,8 @@ def run_lda(papers, STOP_WORDS, CountVectorizer, LatentDirichletAllocation,
     return topic_words, dominant
 
 def run_bertopic(papers, STOP_WORDS, embedding_model, BERTopic, CountVectorizer):
+    if embedding_model is None or BERTopic is None:
+        return {}, []
     texts = [p.get("full_text") or p.get("abstract","") for p in papers]
     texts = [t for t in texts if isinstance(t,str) and len(t.split())>50]
     if len(texts) < 2:
