@@ -146,9 +146,11 @@ def load_nlp_libs():
     except ImportError:
         SentenceTransformer = None
         embedding_model = None
+    # BERTopic requires hdbscan/umap which don't install cleanly on all platforms
+    # The app runs fine with LDA only when BERTopic is unavailable
     try:
         from bertopic import BERTopic
-    except ImportError:
+    except (ImportError, Exception):
         BERTopic = None
 
     STOP_WORDS = set(sw.words("english"))
