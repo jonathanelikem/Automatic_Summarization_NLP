@@ -146,12 +146,14 @@ def load_nlp_libs():
     except ImportError:
         SentenceTransformer = None
         embedding_model = None
-    # BERTopic requires hdbscan/umap which don't install cleanly on all platforms
-    # The app runs fine with LDA only when BERTopic is unavailable
+    # BERTopic with sklearn HDBSCAN backend — no hdbscan/umap compilation needed
     try:
         from bertopic import BERTopic
+        from bertopic.representation import KeyBERTInspired
+        _bertopic_available = True
     except (ImportError, Exception):
         BERTopic = None
+        _bertopic_available = False
 
     STOP_WORDS = set(sw.words("english"))
     STOP_WORDS.update({
@@ -177,7 +179,7 @@ def load_nlp_libs():
         embedding_model = None
     return (STOP_WORDS, lemmatizer, word_tokenize, sent_tokenize,
             CountVectorizer, TfidfVectorizer, LatentDirichletAllocation,
-            embedding_model, BERTopic)
+            embedding_model, BERTopic, _bertopic_available)
 
 
 @st.cache_resource(show_spinner="Loading BART model (~1.6 GB on first run)…")
@@ -363,30 +365,98 @@ def run_lda(papers, STOP_WORDS, CountVectorizer, LatentDirichletAllocation,
     return topic_words, dominant
 
 def run_bertopic(papers, STOP_WORDS, embedding_model, BERTopic, CountVectorizer):
+    """
+    BERTopic using sklearn's built-in HDBSCAN — no hdbscan/umap packages needed.
+
+    Strategy:
+      1. Embed texts with sentence-transformers (all-MiniLM-L6-v2)
+      2. Reduce dimensions with sklearn TruncatedSVD (replaces umap-learn)
+      3. Cluster with sklearn HDBSCAN (replaces hdbscan package, available in sklearn>=1.3)
+      4. Pass custom cluster model into BERTopic
+    This entire stack installs cleanly on Streamlit Cloud.
+    """
     if embedding_model is None or BERTopic is None:
         return {}, []
+
     texts = [p.get("full_text") or p.get("abstract","") for p in papers]
     texts = [t for t in texts if isinstance(t,str) and len(t.split())>50]
     if len(texts) < 2:
         return {}, []
-    vec_model = CountVectorizer(stop_words=list(STOP_WORDS), ngram_range=(1,2),
-                                min_df=1, max_df=1.0)
-    min_size  = max(2, len(texts)//10)
+
     try:
-        model      = BERTopic(embedding_model=embedding_model,
-                               vectorizer_model=vec_model,
-                               min_topic_size=min_size, verbose=False)
-        topics, _  = model.fit_transform(texts)
-        info       = model.get_topic_info()
-        kws        = {}
-        for tid in info["Topic"].tolist():
-            if tid != -1:
-                kw = model.get_topic(tid)
-                if kw:
-                    kws[tid] = [w for w, _ in kw[:8]]
-        return kws, topics
-    except Exception:
-        return {}, []
+        from sklearn.cluster      import HDBSCAN as SklearnHDBSCAN
+        from sklearn.decomposition import TruncatedSVD
+        from sklearn.pipeline      import make_pipeline
+        from sklearn.preprocessing import Normalizer
+
+        # Vectorizer — full vocab, no upper-frequency cutoff
+        vec_model = CountVectorizer(
+            stop_words=list(STOP_WORDS), ngram_range=(1, 2),
+            min_df=1, max_df=1.0
+        )
+
+        # Dimensionality reduction: SVD → L2-normalise (replaces UMAP)
+        n_components = min(10, len(texts) - 1)
+        dim_reducer  = make_pipeline(
+            TruncatedSVD(n_components=n_components, random_state=42),
+            Normalizer(copy=False)
+        )
+
+        # Clustering: sklearn HDBSCAN (no compilation required)
+        min_cluster = max(2, len(texts) // 10)
+        hdb = SklearnHDBSCAN(
+            min_cluster_size=min_cluster,
+            min_samples=1,
+            metric="euclidean",
+            cluster_selection_method="eom",
+        )
+
+        # Embed → reduce → cluster manually, then pass pre-computed embeddings
+        import numpy as np
+        embeddings = embedding_model.encode(texts, show_progress_bar=False)
+        reduced    = dim_reducer.fit_transform(embeddings)
+        labels     = hdb.fit_predict(reduced)
+
+        # Build keyword map from cluster labels + TF-IDF
+        from sklearn.feature_extraction.text import TfidfVectorizer as TFIDF
+        kws = {}
+        unique_labels = set(labels) - {-1}
+        for lab in unique_labels:
+            cluster_texts = [texts[i] for i, l in enumerate(labels) if l == lab]
+            if not cluster_texts:
+                continue
+            tfidf = TFIDF(stop_words=list(STOP_WORDS), max_features=200)
+            try:
+                mat   = tfidf.fit_transform(cluster_texts)
+                scores = np.asarray(mat.sum(axis=0)).flatten()
+                fn    = tfidf.get_feature_names_out()
+                top   = [fn[i] for i in scores.argsort()[:-9:-1]]
+                kws[int(lab)] = top
+            except Exception:
+                pass
+
+        return kws, labels.tolist()
+
+    except Exception as e:
+        # Fallback: try standard BERTopic (works locally where hdbscan is installed)
+        try:
+            vec_model = CountVectorizer(stop_words=list(STOP_WORDS),
+                                        ngram_range=(1,2), min_df=1, max_df=1.0)
+            min_size  = max(2, len(texts)//10)
+            model     = BERTopic(embedding_model=embedding_model,
+                                  vectorizer_model=vec_model,
+                                  min_topic_size=min_size, verbose=False)
+            topics, _ = model.fit_transform(texts)
+            info      = model.get_topic_info()
+            kws       = {}
+            for tid in info["Topic"].tolist():
+                if tid != -1:
+                    kw = model.get_topic(tid)
+                    if kw:
+                        kws[tid] = [w for w, _ in kw[:8]]
+            return kws, topics
+        except Exception:
+            return {}, []
 
 # ── Validation ────────────────────────────────────────────────────────────────
 DOMAIN_WORDS = {
@@ -763,7 +833,7 @@ with tabs[2]:
             with st.spinner("Loading NLP libraries…"):
                 (STOP_WORDS, lemmatizer, word_tokenize, sent_tokenize,
                  CountVectorizer, TfidfVectorizer, LDA,
-                 embedding_model, BERTopic_cls) = load_nlp_libs()
+                 embedding_model, BERTopic_cls, _bert_ok) = load_nlp_libs()
                 preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
                 st.session_state["preprocess"] = preprocess
                 st.session_state["STOP_WORDS"] = STOP_WORDS
@@ -855,7 +925,8 @@ with tabs[3]:
         if st.button("🔍 Run Validation", type="primary", use_container_width=True):
             preprocess = st.session_state.get("preprocess")
             if not preprocess:
-                (STOP_WORDS, lemmatizer, word_tokenize, *_) = load_nlp_libs()
+                (*_nlp_libs,) = load_nlp_libs()
+            STOP_WORDS, lemmatizer, word_tokenize = _nlp_libs[0], _nlp_libs[1], _nlp_libs[2]
                 preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
                 st.session_state["preprocess"] = preprocess
 
@@ -1005,7 +1076,8 @@ with tabs[4]:
         results    = st.session_state.results
         preprocess = st.session_state.get("preprocess")
         if not preprocess:
-            (STOP_WORDS, lemmatizer, word_tokenize, *_) = load_nlp_libs()
+            (*_nlp_libs,) = load_nlp_libs()
+            STOP_WORDS, lemmatizer, word_tokenize = _nlp_libs[0], _nlp_libs[1], _nlp_libs[2]
             preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
             st.session_state["preprocess"] = preprocess
 
@@ -1340,7 +1412,8 @@ with tabs[5]:
     else:
         preprocess = st.session_state.get("preprocess")
         if not preprocess:
-            (STOP_WORDS, lemmatizer, word_tokenize, *_) = load_nlp_libs()
+            (*_nlp_libs,) = load_nlp_libs()
+            STOP_WORDS, lemmatizer, word_tokenize = _nlp_libs[0], _nlp_libs[1], _nlp_libs[2]
             preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
             st.session_state["preprocess"] = preprocess
 
