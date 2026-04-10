@@ -831,9 +831,11 @@ with tabs[2]:
         if st.button("▶️ Run Full NLP Pipeline", type="primary", use_container_width=True):
             # Load libraries
             with st.spinner("Loading NLP libraries…"):
-                (STOP_WORDS, lemmatizer, word_tokenize, sent_tokenize,
-                 CountVectorizer, TfidfVectorizer, LDA,
-                 embedding_model, BERTopic_cls, _bert_ok) = load_nlp_libs()
+                libs = load_nlp_libs()
+                STOP_WORDS = libs[0]; lemmatizer = libs[1]
+                word_tokenize = libs[2]; sent_tokenize = libs[3]
+                CountVectorizer = libs[4]; TfidfVectorizer = libs[5]; LDA = libs[6]
+                embedding_model = libs[7]; BERTopic_cls = libs[8]
                 preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
                 st.session_state["preprocess"] = preprocess
                 st.session_state["STOP_WORDS"] = STOP_WORDS
@@ -925,8 +927,8 @@ with tabs[3]:
         if st.button("🔍 Run Validation", type="primary", use_container_width=True):
             preprocess = st.session_state.get("preprocess")
             if not preprocess:
-                (*_nlp_libs,) = load_nlp_libs()
-            STOP_WORDS, lemmatizer, word_tokenize = _nlp_libs[0], _nlp_libs[1], _nlp_libs[2]
+                libs = load_nlp_libs()
+                STOP_WORDS, lemmatizer, word_tokenize = libs[0], libs[1], libs[2]
                 preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
                 st.session_state["preprocess"] = preprocess
 
@@ -1076,8 +1078,8 @@ with tabs[4]:
         results    = st.session_state.results
         preprocess = st.session_state.get("preprocess")
         if not preprocess:
-            (*_nlp_libs,) = load_nlp_libs()
-            STOP_WORDS, lemmatizer, word_tokenize = _nlp_libs[0], _nlp_libs[1], _nlp_libs[2]
+            libs = load_nlp_libs()
+            STOP_WORDS, lemmatizer, word_tokenize = libs[0], libs[1], libs[2]
             preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
             st.session_state["preprocess"] = preprocess
 
@@ -1412,8 +1414,8 @@ with tabs[5]:
     else:
         preprocess = st.session_state.get("preprocess")
         if not preprocess:
-            (*_nlp_libs,) = load_nlp_libs()
-            STOP_WORDS, lemmatizer, word_tokenize = _nlp_libs[0], _nlp_libs[1], _nlp_libs[2]
+            libs = load_nlp_libs()
+            STOP_WORDS, lemmatizer, word_tokenize = libs[0], libs[1], libs[2]
             preprocess = get_preprocess_fn(STOP_WORDS, lemmatizer, word_tokenize)
             st.session_state["preprocess"] = preprocess
 
